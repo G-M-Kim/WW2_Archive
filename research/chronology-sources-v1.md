@@ -47,6 +47,11 @@ as_of: 2026-10-25
 | SRC-027 | *German invasion of Poland, 1939* / 독일 Bundesarchiv / 작성일 미확인 | 2차(국립문서보관기관 해설, 사진 소개) | 사진 예시 BArch Bild 146-1977-035-35 | https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/der-deutsche-ueberfall-auf-polen-1939/ | 사진 저작권 별도 확인, 선전과 실제 작전 구분 |
 | SRC-028 | *World War II: Key Dates* / USHMM / 작성일 미확인 | 2차(전쟁 연표) | 페이지 해당 없음 | https://encyclopedia.ushmm.org/content/en/article/the-holocaust-and-world-war-ii-key-dates | SRC-004와 동일 URL, **등록 중복: SRC-004 사용** |
 
+| SRC-029 | *Auschwitz: Key Dates* / USHMM / 발행·최종편집일 미확인 | 2차(홀로코스트 수용소 연표) | 페이지 해당 없음 | https://encyclopedia.ushmm.org/content/en/article/auschwitz-key-dates | 1944-10-07 존더코만도 봉기와 1944-11-26 파괴명령의 직접 언급; 세부 인원수는 교차검증 필요 |
+| SRC-030 | *1944: Key Dates* / USHMM / 발행·최종편집일 미확인 | 2차(홀로코스트 연표) | 페이지 해당 없음 | https://encyclopedia.ushmm.org/content/en/article/1944-key-dates | 1944-10-15~16 헝가리 화살십자당 정변 직접 언급 |
+| SRC-031 | *The Potsdam Conference, 1945* / 미 국무부 Office of the Historian / 작성일 미확인 | 2차(외교역사 개관) | 문서번호·페이지 미확인 | https://history.state.gov/milestones/1937-1945/potsdam-conf | 전후 회의 개괄이며, 1차 회의록 별도 확인 필요 |
+| SRC-032 | *FRUS 1945, The British Commonwealth, The Far East, Vol. VI: Swiss Chargé to Secretary of State* / 미 국무부 / 문서 1945-08-14 | 1차(일본 항복 관련 외교전문) | FRUS 1945 v06, **Document 440**, 740.00119 PW/8–1445 | https://history.state.gov/historicaldocuments/frus1945v06/d440 | 8월 14일 일본 정부 수락 통보의 1차 근거. 8월 15일 대국민 방송 자체 원문은 별도 확인 필요 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
