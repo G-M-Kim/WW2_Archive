@@ -52,6 +52,10 @@ as_of: 2026-10-25
 | SRC-031 | *The Potsdam Conference, 1945* / 미 국무부 Office of the Historian / 작성일 미확인 | 2차(외교역사 개관) | 문서번호·페이지 미확인 | https://history.state.gov/milestones/1937-1945/potsdam-conf | 전후 회의 개괄이며, 1차 회의록 별도 확인 필요 |
 | SRC-032 | *FRUS 1945, The British Commonwealth, The Far East, Vol. VI: Swiss Chargé to Secretary of State* / 미 국무부 / 문서 1945-08-14 | 1차(일본 항복 관련 외교전문) | FRUS 1945 v06, **Document 440**, 740.00119 PW/8–1445 | https://history.state.gov/historicaldocuments/frus1945v06/d440 | 8월 14일 일본 정부 수락 통보의 1차 근거. 8월 15일 대국민 방송 자체 원문은 별도 확인 필요 |
 
+| SRC-033 | *대한민국 임시정부와 독립운동 특별전 자료* / 국립중앙박물관 / 발행일 미확인 | 2차(국립박물관 역사해설) | 웹 문서, 페이지 미확인 | https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=462360&listType=list&menuId=past | 대한민국 임시정부 1919-04-11 수립 관련 직접 언급; 문서·사진 재사용은 별도 권리확인 |
+| SRC-034 | *한국광복군 총사령부 창립기념식(1940.9.17)* / 대한민국임시정부자료집·국사편찬위원회 / 원문 1940-09-17 | 1차(당대 창립기록의 전자화) | 한국 근대 사료 DB **ij_010_0010_00290** | https://db.history.go.kr/id/ij_010_0010_00290 | 원문은 역사 사료이며 당대 선전적 표현 포함 가능, 전사와 원문 대조 필요 |
+| SRC-035 | *광복과 새로운 국가 수립의 기록들* / 대한민국역사박물관 관련 대한민국 정책브리핑 / 2015 | 2차(기관 역사해설) | 페이지 미확인 | https://www.korea.kr/briefing/policyBriefingView.do?newsId=148797800 | 1945-08-15 광복에 대한 후대 정리, 사회적 수용에는 8월 16일 상황 등 시차 존재 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
