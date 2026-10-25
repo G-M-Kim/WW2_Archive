@@ -42,7 +42,7 @@ as_of: 2026-10-25
 | SRC-022 | *Treaty of Paris 1919: principal treaties* / FRUS 1919 Paris Vol. I / 1919 사료집 | 1차 문서 색인 | FRUS 1919 Paris v01, Treaty List | https://history.state.gov/historicaldocuments/frus1919Parisv01/treaties | 직접 조약문·발효일 상세는 추가 대조 필요 |
 | SRC-023 | *The Invasion of Poland* / National WWII Museum / 2023 | 2차(박물관 연구해설) | 페이지 해당 없음 | https://www.nationalww2museum.org/war/articles/invasion-poland-september-1939 | 폴란드 위장공작의 세부 정황은 PS-2751과 비교 |
 | SRC-024 | *H-057: Japan's Surrender and Aftermath* / NHHC / 2025경 | 2차(해군 역사해설) | 페이지 해당 없음 | https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1945/victory-in-pacific.html | 다운폴 작전의 시행 예정일과 계획 변경 시점 구분 |
-| SRC-025 | *The Massive Deportation of the Chechen People* / Sciences Po Mass Violence and Resistance / 2007-11-05 | 2차(학술적 사건 정리) | 페이지 해당 없음 | https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/massive-deportation-chechen-people-how-and-why-chechens-were-deported.html | 강제이주 인원은 기록 간 수치 차이 존재 |
+| SRC-025 | *The Massive Deportation of the Chechen People* / Aurélie Campana, Sciences Po Mass Violence and Resistance / 2007-11-05 | 2차(학술적 사건 정리) | 페이지 해당 없음 | https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/massive-deportation-chechen-people-how-and-why-chechens-were-deported.html | 강제이주 인원은 기록 간 수치 차이 존재 |
 | SRC-026 | *FRUS Paris Conference: Plenary Session 1919-09-10* / 미 국무부 / 1919 문서 | 1차(당시 회의록) | FRUS 1919 Paris v03 **Document 14** | https://history.state.gov/historicaldocuments/frus1919Parisv03/d14 | 생제르맹 조약 서명 시각 등 직접근거 |
 | SRC-027 | *German invasion of Poland, 1939* / 독일 Bundesarchiv / 작성일 미확인 | 2차(국립문서보관기관 해설, 사진 소개) | 사진 예시 BArch Bild 146-1977-035-35 | https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/der-deutsche-ueberfall-auf-polen-1939/ | 사진 저작권 별도 확인, 선전과 실제 작전 구분 |
 | SRC-028 | *World War II: Key Dates* / USHMM / 작성일 미확인 | 2차(전쟁 연표) | 페이지 해당 없음 | https://encyclopedia.ushmm.org/content/en/article/the-holocaust-and-world-war-ii-key-dates | SRC-004와 동일 URL, **등록 중복: SRC-004 사용** |
@@ -52,9 +52,9 @@ as_of: 2026-10-25
 | SRC-031 | *The Potsdam Conference, 1945* / 미 국무부 Office of the Historian / 작성일 미확인 | 2차(외교역사 개관) | 문서번호·페이지 미확인 | https://history.state.gov/milestones/1937-1945/potsdam-conf | 전후 회의 개괄이며, 1차 회의록 별도 확인 필요 |
 | SRC-032 | *FRUS 1945, The British Commonwealth, The Far East, Vol. VI: Swiss Chargé to Secretary of State* / 미 국무부 / 문서 1945-08-14 | 1차(일본 항복 관련 외교전문) | FRUS 1945 v06, **Document 440**, 740.00119 PW/8–1445 | https://history.state.gov/historicaldocuments/frus1945v06/d440 | 8월 14일 일본 정부 수락 통보의 1차 근거. 8월 15일 대국민 방송 자체 원문은 별도 확인 필요 |
 
-| SRC-033 | *대한민국 임시정부와 독립운동 특별전 자료* / 국립중앙박물관 / 발행일 미확인 | 2차(국립박물관 역사해설) | 웹 문서, 페이지 미확인 | https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=462360&listType=list&menuId=past | 대한민국 임시정부 1919-04-11 수립 관련 직접 언급; 문서·사진 재사용은 별도 권리확인 |
+| SRC-033 | *대한민국 임시정부와 독립운동 특별전 자료* / 국립중앙박물관 / 발행일 미확인 | 2차(국립박물관 역사해설) | 웹 문서, 페이지 미확인 | https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=462360&listType=list&menuId=past | 2026-10-26 직접 URL 접근 불가. 기존 주장 근거로 사용 중단 권고; 대체 SRC-060·SRC-061, 자료·사진 재사용 권한 확인 필요 |
 | SRC-034 | *한국광복군 총사령부 창립기념식(1940.9.17)* / 대한민국임시정부자료집·국사편찬위원회 / 원문 1940-09-17 | 1차(당대 창립기록의 전자화) | 한국 근대 사료 DB **ij_010_0010_00290** | https://db.history.go.kr/id/ij_010_0010_00290 | 원문은 역사 사료이며 당대 선전적 표현 포함 가능, 전사와 원문 대조 필요 |
-| SRC-035 | *광복과 새로운 국가 수립의 기록들* / 대한민국역사박물관 관련 대한민국 정책브리핑 / 2015 | 2차(기관 역사해설) | 페이지 미확인 | https://www.korea.kr/briefing/policyBriefingView.do?newsId=148797800 | 1945-08-15 광복에 대한 후대 정리, 사회적 수용에는 8월 16일 상황 등 시차 존재 |
+| SRC-035 | *광복과 새로운 국가 수립의 기록들* / 대한민국역사박물관 관련 대한민국 정책브리핑 / 2015 | 2차(기관 역사해설) | 페이지 미확인 | https://www.korea.kr/briefing/policyBriefingView.do?newsId=148797800 | 2026-10-26 직접 URL은 사이트 안내 페이지로 리디렉션; 검색 인덱스에서는 원 제목과 내용 확인. 대체 SRC-062, 원문 접근 개선 전 단독 증거로 쓰지 않음 |
 
 ## 검증 감사 1차 추가 출처 (2026-10-26)
 
@@ -83,6 +83,10 @@ as_of: 2026-10-25
 | SRC-057 | *Dachau Concentration Camp 1933–1945*, KZ-Gedenkstätte Dachau (다하우 수용소 기념관) / 개설사 연혁, 편집일 미확인 | 2차(현장기념관 역사기술) | 1933-03-22·1933-04-11 연혁, 세부 페이지 해당 없음 | https://www.kz-gedenkstaette-dachau.de/topogr/ | 3월 22일 최초 수감자 도착, 4월 11일 SS가 바이에른 경찰에서 경비 책임 인수. 사진 저작권 별도 확인; 조회 2026-10-26 |
 | SRC-058 | *Himmler sets up Dachau*: 1933-03-21자 신문 보도 전사, Birkbeck College (학술사료 프로젝트) / 원 보도 1933-03-21 | 1차 문서의 번역·전사 | *Münchner Neueste Nachrichten*, 1933-03-21, 'Ein Konzentrationslager für politische Gegner'; 원 지면·면 미확인 | https://www.camps.bbk.ac.uk/documents/003-himmler-sets-up-dachau.html | 전날 3월 20일 기자회견 발표에 대한 21일 보도. 번역 Lesley Sharpe·Jeremy Noakes; 원문 번역/전재 권리 미확인; 조회 2026-10-26 |
 | SRC-059 | *1938: Die „Volksabstimmung“ über den „Anschluss“*, Haus der Geschichte Österreich / 2018 온라인 전시 | 2차(국가 역사박물관 역사해설) | 1938-04-10 조작된 병합 국민투표; 웹 페이지 | https://2018.hdgoe.at/1938.html | 강압적 상황·투표 제외·선전 등을 설명. 공식 발표된 찬성률을 자유투표로 해석하면 안 됨. 사진 저작권 별도 확인; 조회 2026-10-26 |
+
+| SRC-060 | *대한민국 임시정부 수립 기념일* / 한국학중앙연구원 한국민족문화대백과사전 / 최종 편집연도 미확인 | 2차(역사학 전문 백과) | 웹 항목 E0080590; 1919-04-11 | https://encykorea.aks.ac.kr/Article/E0080590 | 1919-04-11 수립 사실 및 현재 국가 기념일 확인. '4월 13일 설'과 선포·결성 단계를 구분; 2026-10-26 확인, 재사용 권리 별도 확인 |
+| SRC-061 | *대한민국 임시정부 수립 기념일* / 국가기록원 공식 기념일 해설 / 발행일 미확인 | 2차(공식 기록기관 설명 및 기록물 색인) | anniversaryId=9814000000; 관련기록 BA0232469(1986년 성립기념일 고증 회신) | https://theme.archives.go.kr/next/anniversary/anniversary.do?anniversaryId=9814000000 | 본문에 종전 '1919-04-13' 표기와 2018-11 기념일 4월 11일로 변경된 사실 병존. 원문 자체 수정하지 않고 주석으로 역사적 전개 해설. 2026-10-26 확인 |
+| SRC-062 | *광복절* / 국가기록원 공식 국경일 해설 / 발행일 미확인 | 2차(공식 기록기관 설명 및 기록물 색인) | anniversaryId=9803000000; 정부수립 사진 CER0000173 등은 사건 증거로 자동 사용하지 않음 | https://theme.archives.go.kr/next/anniversary/anniversary.do?anniversaryId=9803000000 | 1945-08-15 광복과 1948-08-15 정부수립 구분, 1949년 국경일 명칭 제정. 기념일의 날짜가 각자의 정치·사회적 경험 전체를 대표하지는 않음. 2026-10-26 확인 |
 
 ## 출처의 권위에 대한 주의
 
