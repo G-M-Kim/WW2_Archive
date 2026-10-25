@@ -115,7 +115,7 @@ as_of: 2026-10-25
 | SRC-085 | 重庆大轰炸档案入选中国档案文献遗产名录 / 충칭시 인민정부·충칭시 기록보존기관, 2025-06-10 | 2차 기록기관 소개, 1차 공습 통계 기록 소개 | 重庆防空司令部1938年、1939年辖区空袭损害统计表 (원기록 목록명) | https://cq.gov.cn/zwgk/zfxxgkml/zdlyxxgk/ggwh/wh/zxdt/202506/t20250610_14701318.html | 1938-02-18 최초 충칭 일대 공습 기록, 10-04 최초 시가지 폭격; 1차 기록 원본은 미열람. 확인일: 2026-10-26. 이미지·원문 전문 재사용 권리 별도 확인 |
 | SRC-086 | Daily Diary May 15, 1932 by Ōki Misao / 일본 국립국회도서관 헌정자료실, 1932-05-15 | 1차 개인 일기(전자화와 해설) | 大木操 1932-05-15 entry | https://www.ndl.go.jp/nikki/citeid/ookim_19320515/ | 총리 피격을 동시대 기록, 사후 개인 해석이 포함될 수 있음. 확인일: 2026-10-26. 이미지·원문 전문 재사용 권리 별도 확인 |
 | SRC-087 | 미국 주중 대사 외교전보: 시안 사건 / 미국 국무부, 1936-12-13 | 1차 외교전문 | FRUS 1936 v04, Document 405, Telegram 349 | https://history.state.gov/historicaldocuments/frus1936v04/d405 | 12월 12일 장쉐량의 장제스 억류 보도, 정확한 충돌 시각·동기는 추가. 확인일: 2026-10-26. 이미지·원문 전문 재사용 권리 별도 확인 |
-| SRC-088 | Japan National Diet Library Modern Japan in Archives (1936 February 26 Incident) / 일본 국립국회도서관 | 2차 기관 해설+1차 문서 링크 | 1936-02-26; Minister of the Army bulletin | https://www.ndl.go.jp/modern/e/utility/chronology.html | 군부 반란의 구체 참가 병력·피해는 추후. 확인일: 2026-10-26. 이미지·원문 전문 재사용 권리 별도 확인 |
+| SRC-088 | Japan National Diet Library Modern Japan in Archives (1936 February 26 Incident) / 일본 국립국회도서관 | 2차 기관 해설+1차 문서 링크 | 1936-02-26; Minister of the Army bulletin | https://www.ndl.go.jp/modern/e/cha4/description07.html | 군부 반란의 구체 참가 병력·피해는 추후. 확인일: 2026-10-26. 이미지·원문 전문 재사용 권리 별도 확인 |
 
 ## 출처의 권위에 대한 주의
 
