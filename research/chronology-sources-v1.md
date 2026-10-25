@@ -80,6 +80,10 @@ as_of: 2026-10-25
 | SRC-055 | *Nuremberg Laws*, USHMM / 독일 관보 법률 원문 번역 포함, 편집일 확인 필요 | 1차 번역 수록 2차 해설 | Reichsgesetzblatt I (1935), pp.1146–1147 | https://encyclopedia.ushmm.org/content/en/article/nuremberg-laws | 1935-09-15 법률. 인종차별적 규정은 나치의 주장이지 과학적 사실 아님; 확인일 2026-10-26, 원문·이미지 재배포 권한 별도 확인 |
 | SRC-056 | *Treaty Status of Paris Conference*, FRUS 1919 Paris v13 / 전후 편집, 문서의 당시 서명·발효일 수록 | 1차 문서 기반 공식 조약상태 표 | FRUS 1919 Paris v13, chapter 5 | https://history.state.gov/historicaldocuments/frus1919Parisv13/ch5 | 조약별 서명일과 발효일 별도 표기, 미국 비준 여부와 구별; 확인일 2026-10-26, 원문·이미지 재배포 권한 별도 확인 |
 
+| SRC-057 | *Dachau Concentration Camp 1933–1945*, KZ-Gedenkstätte Dachau (다하우 수용소 기념관) / 개설사 연혁, 편집일 미확인 | 2차(현장기념관 역사기술) | 1933-03-22·1933-04-11 연혁, 세부 페이지 해당 없음 | https://www.kz-gedenkstaette-dachau.de/topogr/ | 3월 22일 최초 수감자 도착, 4월 11일 SS가 바이에른 경찰에서 경비 책임 인수. 사진 저작권 별도 확인; 조회 2026-10-26 |
+| SRC-058 | *Himmler sets up Dachau*: 1933-03-21자 신문 보도 전사, Birkbeck College (학술사료 프로젝트) / 원 보도 1933-03-21 | 1차 문서의 번역·전사 | *Münchner Neueste Nachrichten*, 1933-03-21, 'Ein Konzentrationslager für politische Gegner'; 원 지면·면 미확인 | https://www.camps.bbk.ac.uk/documents/003-himmler-sets-up-dachau.html | 전날 3월 20일 기자회견 발표에 대한 21일 보도. 번역 Lesley Sharpe·Jeremy Noakes; 원문 번역/전재 권리 미확인; 조회 2026-10-26 |
+| SRC-059 | *1938: Die „Volksabstimmung“ über den „Anschluss“*, Haus der Geschichte Österreich / 2018 온라인 전시 | 2차(국가 역사박물관 역사해설) | 1938-04-10 조작된 병합 국민투표; 웹 페이지 | https://2018.hdgoe.at/1938.html | 강압적 상황·투표 제외·선전 등을 설명. 공식 발표된 찬성률을 자유투표로 해석하면 안 됨. 사진 저작권 별도 확인; 조회 2026-10-26 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
