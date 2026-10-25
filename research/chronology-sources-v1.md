@@ -117,6 +117,10 @@ as_of: 2026-10-25
 | SRC-087 | 미국 주중 대사 외교전보: 시안 사건 / 미국 국무부, 1936-12-13 | 1차 외교전문 | FRUS 1936 v04, Document 405, Telegram 349 | https://history.state.gov/historicaldocuments/frus1936v04/d405 | 12월 12일 장쉐량의 장제스 억류 보도, 정확한 충돌 시각·동기는 추가. 확인일: 2026-10-26. 이미지·원문 전문 재사용 권리 별도 확인 |
 | SRC-088 | Japan National Diet Library Modern Japan in Archives (1936 February 26 Incident) / 일본 국립국회도서관 | 2차 기관 해설+1차 문서 링크 | 1936-02-26; Minister of the Army bulletin | https://www.ndl.go.jp/modern/e/cha4/description07.html | 군부 반란의 구체 참가 병력·피해는 추후. 확인일: 2026-10-26. 이미지·원문 전문 재사용 권리 별도 확인 |
 
+| SRC-089 | *Grew to Secretary of State: Japan's Apology for sinking USS Panay* / 미 국무부 당시 외교전문, 1937-12-14 | 1차(일본 정부의 당시 공식 사과문 전사) | FRUS Japan 1931–41 v01, Document 376 | https://history.state.gov/historicaldocuments/frus1931-41v01/d376 | 1937-12-12 폭격·침몰 날짜 확인. 일본측 사과의 사건 원인 설명은 독립 검증 필요; 확인일 2026-10-26, 전재 허가 별도 |
+| SRC-090 | *Nanking atrocities documented in British/U.S. diplomatic reports* / 미 국무부 FRUS, 1938-01-19 외교전문 | 1차(사후 수 주 내 작성된 외교전문 내 증언 중계) | FRUS 1938 v03, Document 44 | https://history.state.gov/historicaldocuments/frus1938v03/d44 | 현지 선교사 목격 사실 전달을 통한 간접 사료. 사망자 수와 범위는 다른 연구와 교차검증; 확인일 2026-10-26, 재사용 조건 별도 |
+| SRC-091 | *World War II in the Pacific* / 미국 홀로코스트기념관 USHMM, 편집일 미확인 | 2차(기관 공식 사건연표) | December 1937: Nanjing massacre begins; December 12 Panay sinking | https://encyclopedia.ushmm.org/content/en/article/world-war-ii-in-the-pacific?parent=en%2F11839 | 난징 대학살의 정확한 개시일과 종료일은 자료에 따라 범위가 다름; 날짜·사망자 수 보수적 기술; 확인일 2026-10-26, 이미지 권리 별도 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
