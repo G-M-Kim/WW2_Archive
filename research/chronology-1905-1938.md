@@ -40,7 +40,7 @@ as_of: 2026-10-25
 | ID | 시작일 | 항목 | 분류 | 상태 | 출처 상태 | 출처 |
 |---|---|---|---|---|---|---|
 | EVT-0006 | 1919-01-18 | 파리 강화회의 본격 개막 | 외교 | 발생 | 링크등록 | [SRC-002](chronology-sources-v1.md) |
-| EVT-0284 | 1919-04-11 | 대한민국 임시정부 수립(중국 상하이) | 정치·독립운동 | 발생 | 링크등록 | [SRC-033](chronology-sources-v1.md) |
+| EVT-0284 | 1919-04-11 | 대한민국 임시정부 수립(중국 상하이) | 정치·독립운동 | 발생 | 문헌대조 | [SRC-033](chronology-sources-v1.md) · [SRC-060](chronology-sources-v1.md) · [SRC-061](chronology-sources-v1.md) |
 | EVT-0007 | 1919-06-28 | 베르사유 조약 서명 | 조약 | 발생 | 문헌대조 | [SRC-002](chronology-sources-v1.md) · [SRC-022](chronology-sources-v1.md) · [SRC-037](chronology-sources-v1.md) · [SRC-056](chronology-sources-v1.md) |
 | EVT-0008 | 1919-09-10 | 생제르맹앙레 조약 서명(오스트리아) | 조약 | 발생 | 문헌대조 | [SRC-003](chronology-sources-v1.md) · [SRC-026](chronology-sources-v1.md) · [SRC-056](chronology-sources-v1.md) |
 | EVT-0009 | 1919-11-27 | 뇌이 조약 서명(불가리아) | 조약 | 발생 | 문헌대조 | [SRC-003](chronology-sources-v1.md) · [SRC-038](chronology-sources-v1.md) · [SRC-056](chronology-sources-v1.md) |
