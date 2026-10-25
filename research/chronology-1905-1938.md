@@ -46,13 +46,13 @@ as_of: 2026-10-25
 | EVT-0009 | 1919-11-27 | 뇌이 조약 서명(불가리아) | 조약 | 발생 | 문헌대조 | [SRC-003](chronology-sources-v1.md) · [SRC-038](chronology-sources-v1.md) · [SRC-056](chronology-sources-v1.md) |
 
 ## 1920년
-| EVT-0290 | 1920-07-03 | 일본 정부의 북사할린 점령 방침 공식 발표(실제 점령 기간과 구분) | 점령·외교 | 발생 | 문헌대조 | [SRC-053](chronology-sources-v1.md) · [SRC-040](chronology-sources-v1.md) |
 
 | ID | 시작일 | 항목 | 분류 | 상태 | 출처 상태 | 출처 |
 |---|---|---|---|---|---|---|
 | EVT-0011 | 1920-01-10 | 국제연맹 발족 및 베르사유 조약 발효 | 외교 | 발생 | 문헌대조 | [SRC-002](chronology-sources-v1.md) · [SRC-056](chronology-sources-v1.md) |
 | EVT-0012 | 1920-06-04 | 트리아농 조약 서명(헝가리) | 조약 | 발생 | 문헌대조 | [SRC-003](chronology-sources-v1.md) · [SRC-056](chronology-sources-v1.md) |
 | EVT-0010 | 1920-07 | 일본의 북사할린 점령(1920~1925; 7월 3일 점령 선언) | 점령 | 발생 | 문헌대조 | [SRC-001](chronology-sources-v1.md) · [SRC-040](chronology-sources-v1.md) · [SRC-053](chronology-sources-v1.md) |
+| EVT-0290 | 1920-07-03 | 일본 정부의 북사할린 점령 방침 공식 발표(실제 점령 기간과 구분) | 점령·외교 | 발생 | 문헌대조 | [SRC-053](chronology-sources-v1.md) · [SRC-040](chronology-sources-v1.md) |
 | EVT-0013 | 1920-08-10 | 세브르 조약 서명(발효되지 않음) | 조약 | 발생 | 문헌대조 | [SRC-003](chronology-sources-v1.md) · [SRC-056](chronology-sources-v1.md) |
 
 ## 1921년
@@ -120,15 +120,15 @@ as_of: 2026-10-25
 | EVT-0027 | 1932-05-15 | 일본 5·15 사건(이누카이 총리 암살) | 정치 | 발생 | 미등록 | — |
 
 ## 1933년
-| EVT-0287 | 1933-03-20 | 힘러, 다하우 강제수용소 설치 계획을 기자회견에서 발표 | 박해·정책 | 발생 | 문헌대조 | [SRC-058](chronology-sources-v1.md) |
-| EVT-0288 | 1933-04-11 | 다하우 수용소 경비·관리권이 바이에른 주경찰에서 SS로 이관 | 박해·조직 | 발생 | 문헌대조 | [SRC-057](chronology-sources-v1.md) |
 
 | ID | 시작일 | 항목 | 분류 | 상태 | 출처 상태 | 출처 |
 |---|---|---|---|---|---|---|
 | EVT-0028 | 1933-01-30 | 히틀러 독일 총리 임명 | 정치 | 발생 | 문헌대조 | [SRC-004](chronology-sources-v1.md) · [SRC-041](chronology-sources-v1.md) |
 | EVT-0029 | 1933-02-27 | 독일 국회의사당 방화 사건 | 정치 | 발생 | 미등록 | — |
+| EVT-0287 | 1933-03-20 | 힘러, 다하우 강제수용소 설치 계획을 기자회견에서 발표 | 박해·정책 | 발생 | 문헌대조 | [SRC-058](chronology-sources-v1.md) |
 | EVT-0030 | 1933-03-22 | 다하우 강제수용소 첫 수감자 도착(3월 20일 발표와 구별) | 박해 | 발생 | 문헌대조 | [SRC-004](chronology-sources-v1.md) · [SRC-041](chronology-sources-v1.md) · [SRC-042](chronology-sources-v1.md) |
 | EVT-0031 | 1933-03-23 | 독일 수권법 통과 | 정치 | 발생 | 문헌대조 | [SRC-041](chronology-sources-v1.md) · [SRC-054](chronology-sources-v1.md) |
+| EVT-0288 | 1933-04-11 | 다하우 수용소 경비·관리권이 바이에른 주경찰에서 SS로 이관 | 박해·조직 | 발생 | 문헌대조 | [SRC-057](chronology-sources-v1.md) |
 | EVT-0032 | 1933-10-14 | 독일의 국제연맹·군축회의 탈퇴 선언 | 외교 | 발생 | 미등록 | — |
 
 ## 1934년
@@ -165,11 +165,11 @@ as_of: 2026-10-25
 | EVT-0045 | 1937-12-13 | 난징 함락과 난징 대학살 전개 | 전쟁범죄 | 발생 | 미등록 | — |
 
 ## 1938년
-| EVT-0289 | 1938-04-10 | 나치 독일의 오스트리아 병합 사후 국민투표(반대자·유대인 등 투표 배제) | 정치·선전 | 발생 | 문헌대조 | [SRC-046](chronology-sources-v1.md) · [SRC-059](chronology-sources-v1.md) |
 
 | ID | 시작일 | 항목 | 분류 | 상태 | 출처 상태 | 출처 |
 |---|---|---|---|---|---|---|
 | EVT-0046 | 1938-03-11 | 안슐루스: 3월 11일 최후통첩, 12일 침공, 13일 병합법 | 정치·점령 | 발생 | 문헌대조 | [SRC-004](chronology-sources-v1.md) · [SRC-046](chronology-sources-v1.md) |
+| EVT-0289 | 1938-04-10 | 나치 독일의 오스트리아 병합 사후 국민투표(반대자·유대인 등 투표 배제) | 정치·선전 | 발생 | 문헌대조 | [SRC-046](chronology-sources-v1.md) · [SRC-059](chronology-sources-v1.md) |
 | EVT-0047 | 1938-09-29 | 뮌헨 협정 체결(29~30일) | 외교 | 발생 | 문헌대조 | [SRC-004](chronology-sources-v1.md) · [SRC-047](chronology-sources-v1.md) |
 | EVT-0048 | 1938-10-01 | 독일군의 주데텐란트 점령 개시(10월 1~10일) | 점령 | 발생 | 문헌대조 | [SRC-047](chronology-sources-v1.md) |
 | EVT-0049 | 1938-11-09 | 수정의 밤 반유대 폭력(9~10일) | 박해 | 발생 | 문헌대조 | [SRC-004](chronology-sources-v1.md) · [SRC-048](chronology-sources-v1.md) |
