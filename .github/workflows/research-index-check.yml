@@ -1,0 +1,24 @@
+name: Validate WW2 research chronology
+
+on:
+  pull_request:
+    paths:
+      - 'research/**'
+      - '.github/workflows/research-index-check.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out PR branch
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check chronology IDs, dates, order and source links
+        run: python research/validate_index.py
