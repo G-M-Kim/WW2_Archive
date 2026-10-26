@@ -1,5 +1,5 @@
 ---
-title: 세계대전 연표 1939–1941 (1939년 5월 1차 검증 추가)
+title: 세계대전 연표 1939–1941 (1939년 6월 1차 검증 추가)
 status: review-draft
 as_of: 2026-10-25
 ---
@@ -59,8 +59,30 @@ as_of: 2026-10-25
 | EVT-0335 | 1939-05-24 | 미 해군 맥캔 구조실로 USS 스퀄러스 생존자 33명 구조 | 구조작전 | 발생 | 문헌대조 | [SRC-121](chronology-sources-v1.md) · [SRC-122](chronology-sources-v1.md) |
 | EVT-0336 | 1939-05-27 | 난민선 세인트루이스호 아바나 도착·쿠바 당국 대부분 승객 상륙 거부 | 난민·박해 | 발생 | 문헌대조 | [SRC-111](chronology-sources-v1.md) · [SRC-112](chronology-sources-v1.md) |
 | EVT-0337 | 1939-05-28 | 유대인 구호기관 대표 로런스 베런슨, 쿠바에서 세인트루이스호 승객 입국 협상 시작 | 난민·구조교섭 | 발생 | 문헌대조 | [SRC-111](chronology-sources-v1.md) |
+| EVT-0362 | 1939-05-28 | 할힌골 국경 충돌 중 일본 아즈마 정찰부대가 소련·몽골군의 공격으로 격멸 | 전투 | 발생 | 문헌대조 | [SRC-109](chronology-sources-v1.md) |
 | EVT-0338 | 1939-05-29 | 독일 외무부 내부 메모: 독소 통상교섭과 정치관계 연계 가능성 검토 | 비밀외교·문서 | 발생 | 문헌대조 | [SRC-126](chronology-sources-v1.md) |
 | EVT-0339 | 1939-05-31 | 몰로토프, 소련 최고회의에서 국제정세·대외정책 연설 | 외교·정치 | 발생 | 문헌대조 | [SRC-125](chronology-sources-v1.md) |
+| EVT-0341 | 1939-06-02 | 몰로토프, 영·프 대사에게 3국 상호원조협정 관련 소련의 반제안을 전달 | 외교 | 발생 | 문헌대조 | [SRC-129](chronology-sources-v1.md) |
+| EVT-0342 | 1939-06-05 | 프랑스 외무장관 보네, 소련의 3국 협정안에 관한 우려를 미국대사 불릿에게 설명 | 외교·정보 | 발생 | 문헌대조 | [SRC-130](chronology-sources-v1.md) |
+| EVT-0343 | 1939-06-06 | 유대인 난민선 세인트루이스호, 대서양에서 유럽으로 회항 | 난민·해운 | 발생 | 문헌대조 | [SRC-132](chronology-sources-v1.md) |
+| EVT-0344 | 1939-06-07 | 독일·에스토니아 불가침조약 서명 | 조약·외교 | 발생 | 문헌대조 | [SRC-131](chronology-sources-v1.md) |
+| EVT-0345 | 1939-06-07 | 독일·라트비아 불가침조약 서명 | 조약·외교 | 발생 | 문헌대조 | [SRC-131](chronology-sources-v1.md) |
+| EVT-0346 | 1939-06-08 | 일본 총영사, 톈진 영국 조계에 대한 일본군의 통행·물자 검색 강화 방침을 미국 측에 통고 | 점령·외교 | 발생 | 문헌대조 | [SRC-134](chronology-sources-v1.md) |
+| EVT-0347 | 1939-06-12 | 톈진 주재 미국총영사, 일본군의 6월14일 영국 조계 통제 실시 방침 재확인 보고 | 외교·긴장 | 발생 | 문헌대조 | [SRC-135](chronology-sources-v1.md) |
+| EVT-0348 | 1939-06-13 | 유대인 구호기관 주선으로 영·프·벨기에·네덜란드가 세인트루이스호 난민 분산수용에 합의 | 난민·외교 | 발생 | 문헌대조 | [SRC-132](chronology-sources-v1.md) |
+| EVT-0349 | 1939-06-14 | 일본군, 톈진 영국 조계의 출입을 제한하고 외교 위기를 확대 | 점령·봉쇄 | 발생 | 문헌대조 | [SRC-135](chronology-sources-v1.md) · [SRC-136](chronology-sources-v1.md) |
+| EVT-0350 | 1939-06-17 | 세인트루이스호 벨기에 안트베르펜 도착, 난민 하선 시작 | 난민·구호 | 발생 | 문헌대조 | [SRC-132](chronology-sources-v1.md) · [SRC-133](chronology-sources-v1.md) |
+| EVT-0351 | 1939-06-18 | 세인트루이스호 네덜란드 배정 난민, 얀 판 아르켈호로 이동·출항 | 난민·수송 | 발생 | 문헌대조 | [SRC-132](chronology-sources-v1.md) |
+| EVT-0352 | 1939-06-20 | 세인트루이스호 출신 프랑스 배정 난민, 불로뉴쉬르메르 도착·하선 | 난민·수용 | 발생 | 문헌대조 | [SRC-132](chronology-sources-v1.md) |
+| EVT-0353 | 1939-06-21 | 세인트루이스호 출신 영국 배정 난민, 사우샘프턴 도착 | 난민·수용 | 발생 | 문헌대조 | [SRC-132](chronology-sources-v1.md) |
+| EVT-0354 | 1939-06-21 | 일본 육·해군, 중국 광둥성 산터우(스와토우) 항구에 상륙·점령작전 개시 | 상륙작전·점령 | 발생 | 문헌대조 | [SRC-137](chronology-sources-v1.md) · [SRC-139](chronology-sources-v1.md) · [SRC-146](chronology-sources-v1.md) |
+| EVT-0355 | 1939-06-22 | 미 해군 수병 8명, 일본군 산터우 공격 뒤 미국계 침례교 선교시설 경계에 배치 | 해군·자국민보호 | 발생 | 문헌대조 | [SRC-138](chronology-sources-v1.md) |
+| EVT-0356 | 1939-06-23 | 프랑스·터키, 하타이(알렉산드레타 산자크)의 터키 편입에 관한 협정 서명 | 조약·영토 | 발생 | 문헌대조 | [SRC-140](chronology-sources-v1.md) · [SRC-141](chronology-sources-v1.md) · [SRC-142](chronology-sources-v1.md) |
+| EVT-0357 | 1939-06-23 | 프랑스·터키, 지중해 안보 관련 공동선언 발표 | 외교·안보 | 발생 | 문헌대조 | [SRC-140](chronology-sources-v1.md) · [SRC-142](chronology-sources-v1.md) |
+| EVT-0358 | 1939-06-25 | 산터우 미국 해군 경계 병력, 선교시설의 상황 완화에 따라 8명에서 5명으로 감축 | 해군·민간인보호 | 발생 | 문헌대조 | [SRC-138](chronology-sources-v1.md) |
+| EVT-0359 | 1939-06-27 | 일본 육군항공대, 할힌골 분쟁 중 몽골 내 소련측 타므사그불라크 일대 비행장 공습 | 항공작전 | 발생 | 문헌대조 | [SRC-144](chronology-sources-v1.md) · [SRC-145](chronology-sources-v1.md) |
+| EVT-0360 | 1939-06-29 | 하타이 의회, 터키와의 합병 결의 및 자체 국가 체제 종료 | 정치·영토 | 발생 | 문헌대조 | [SRC-142](chronology-sources-v1.md) |
+| EVT-0361 | 1939-06-29 | 즈다노프의 프라우다 기고, 영·프의 대소련 동맹 협상 태도 공개 비판 | 선전·외교 | 발생 | 문헌대조 | [SRC-143](chronology-sources-v1.md) |
 | EVT-0058 | 1939-08-23 | 독소 불가침 조약 및 비밀 의정서 체결 | 조약·비밀 | 발생 | 링크등록 | [SRC-004](chronology-sources-v1.md) |
 | EVT-0059 | 1939-08-31 | 글라이비츠 방송국 위장공격(폴란드 침공 구실 조작) | 비밀공작 | 발생 | 링크등록 | [SRC-011](chronology-sources-v1.md) · [SRC-012](chronology-sources-v1.md) · [SRC-023](chronology-sources-v1.md) |
 | EVT-0060 | 1939-09-01 | 독일의 폴란드 침공 / 베스테르플라테 포격 | 전쟁·전투 | 발생 | 링크등록 | [SRC-004](chronology-sources-v1.md) · [SRC-027](chronology-sources-v1.md) |
