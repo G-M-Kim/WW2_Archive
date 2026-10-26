@@ -435,6 +435,8 @@ as_of: 2026-10-25
 | SRC-359 | Tadeusz Swat, Pamiątki Września 1939 r. w Puszczy Kampinoskiej, Niepodległość i Pamięć 6/2(15), 1999, pp.177–206 | 2차 학술지 묘비명·추모시설·후대 지역 증언 분석 | PDF printed p.188, web viewer p.11: Śladów killing reported 1939-09-20, 252 soldiers +106 civilians (source memorial counts) | https://bazhum.muzhp.pl/media/texts/niepodlegosc-i-pamiec/1999-tom-6-numer-2-15/niepodleglosc_i_pamiec-r1999-t6-n2_15-s177-206.pdf | PDF 텍스트 검색으로 확인했으나 웹 PDF 스크린샷은 캐시 실패하여 페이지 영상은 미열람. SRC-358과 날짜·숫자 충돌의 1차 대조 필요; 2026-10-27 사료 검토, 원문 이미지·사진 재게시는 권리 확인 필요 |
 | SRC-360 | uboat.net, U-27 German submarine loss history with Allied escort warship operational log synopsis | 2차 민간 해군 DB(전쟁일지 2차 데이터) | 1939-09-20 U-27 depth-charged HMS Fortune and HMS Forester, 38 survived | https://www.uboat.net/boats/u27.htm | 원양항해기록·영국군 전투일지 원본 미열람, 38명 생존·사망 0 데이터베이스 서술잠정; 2026-10-27 사료 검토, 원문 이미지·사진 재게시는 권리 확인 필요 |
 
+| SRC-361 | Polish Institute of National Remembrance, 20 września 1939 (środa), daily chronology | 2차 국가기억연구소 날짜별 군사사 및 포로 기록 요약 | 1939-09-20 Gen Tadeusz Piskor Tomaszów Lubelski first battle capitulation, Sosnkowski group western Lwów fighting | https://polskiemiesiace.ipn.gov.pl/mie/wszystkie-wydarzenia/wrzesien-1939/kalendarium/poczatek-ii-wojny-swiat/118466%2C20-wrzesnia-1939-sroda.html | IPN 검색 페이지 문면 확인, 웹 직접 열람에 캐시 실패 있음. 포로수·정식 항복 서명시각은 폴란드 군단일지·독 14군 원자료 미대조. 2026-10-27 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
