@@ -253,6 +253,7 @@ as_of: 2026-10-25
 | SRC-203 | Ribbentrop to Schulenburg forwarding Hitler's urgent proposal to Stalin | 1차 독일 외무부 전문에 포함된 히틀러 메시지 | Telegram No.189, Berlin 1939-08-20 16:35; **Avalon 수신일 08-91 명백한 전사 오류** | https://avalon.law.yale.edu/20th_century/ns044.asp | 히틀러가 8/22 또는 늦어도 8/23 모스크바 방문을 제의; 8/20 제안과 8/23 실제 체결 구분; 확인일 2026-10-26, 독일/프랑스/영국 원문 및 번역의 이용권·이미지 재사용 허가 별도 확인 |
 | SRC-204 | Edward J. Drea, Nomonhan: Japanese-Soviet Tactical Combat, 1939, U.S. Army CSI | 2차 미 육군 전문 군사연구(당대 군사자료 분석) | printed pp.9–10; web PDF zero-index pp.21–22; Map 6 caption: Soviet operational plan 1939-08-20 | https://www.armyupress.army.mil/Portals/7/combat-studies-institute/csi-books/Drea-Nomonhan.pdf | 8/20 소련군 공세일 Map6에서 직접 확인. 부대 전력표와 양측 손실에 대한 저자 분석 수치는 시대별 기록과 별도로 교차 필요; 확인일 2026-10-26, 독일/프랑스/영국 원문 및 번역의 이용권·이미지 재사용 허가 별도 확인 |
 
+| SRC-205 | French Ambassador Coulondre to Bonnet, Berlin 1939-08-15, French Yellow Book No.195 | 1차 프랑스 외교전보 번역 | French Yellow Book Doc.195; 1939-08-15 report | https://avalon.law.yale.edu/wwii/ylbk195.asp | 부르크하르트–히틀러 면담 날짜를 **8월12일**로 회고하며 영국 Blue Book No.49의 **8월11일**과 불일치. 보고 당사자가 직접 참여하지 않은 회고 언급이므로 원 국제연맹 기록 대조 전 날짜 논쟁으로 표기; 확인일 2026-10-26, 원문 전재 권한 별도 확인 |
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
