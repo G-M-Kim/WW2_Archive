@@ -1,5 +1,5 @@
 ---
-title: 세계대전 연표 1939–1941 (1939년 1–4월 1차 검증)
+title: 세계대전 연표 1939–1941 (1939년 5월 1차 검증 추가)
 status: review-draft
 as_of: 2026-10-25
 ---
@@ -41,9 +41,26 @@ as_of: 2026-10-25
 | EVT-0321 | 1939-04-16 | 알바니아 대표단, 이탈리아 비토리오 에마누엘레 3세에게 알바니아 왕관 제의 | 점령·정치 | 발생 | 문헌대조 | [SRC-100](chronology-sources-v1.md) |
 | EVT-0322 | 1939-04-23 | 이탈리아의 프란체스코 자코모니, 점령 알바니아 국왕대리로 임명 | 점령·행정 | 발생 | 문헌대조 | [SRC-100](chronology-sources-v1.md) |
 | EVT-0323 | 1939-04-28 | 히틀러, 독·폴 비침략선언과 영·독 해군협정의 구속력 부인 및 폐기 통보 | 외교·정치 | 발생 | 문헌대조 | [SRC-103](chronology-sources-v1.md) · [SRC-104](chronology-sources-v1.md) |
-| EVT-0055 | 1939-05-11 | 소련·일본군 노몬한/할힌골 충돌 확대 | 국경전 | 발생 | 미등록 | — |
-| EVT-0056 | 1939-05-13 | 독일 난민선 세인트루이스호 출항 | 난민·박해 | 발생 | 링크등록 | [SRC-004](chronology-sources-v1.md) |
-| EVT-0057 | 1939-05-22 | 독일·이탈리아 강철조약 | 외교 | 발생 | 미등록 | — |
+| EVT-0340 | 1939-05 | 라벤스브뤼크 여성 강제수용소에 최초 여성 수감자 약 900명 이송(일자 미확인) | 박해·수용소 | 발생 | 문헌대조 | [SRC-123](chronology-sources-v1.md) · [SRC-128](chronology-sources-v1.md) |
+| EVT-0324 | 1939-05-03 | 소련, 리트비노프 외무인민위원 해임·몰로토프 임명 | 외교·정치 | 발생 | 문헌대조 | [SRC-115](chronology-sources-v1.md) · [SRC-116](chronology-sources-v1.md) |
+| EVT-0325 | 1939-05-03 | 일본 해군항공대의 충칭 시가지 대규모 공습(5·3 공습) | 공습·민간인피해 | 발생 | 문헌대조 | [SRC-117](chronology-sources-v1.md) |
+| EVT-0326 | 1939-05-04 | 일본 해군항공대의 충칭 시가지 재공습(5·4 공습) | 공습·민간인피해 | 발생 | 문헌대조 | [SRC-117](chronology-sources-v1.md) |
+| EVT-0327 | 1939-05-08 | 쿠바 아바나 대규모 반유대 난민 반대 시위 | 박해·난민정책 | 발생 | 문헌대조 | [SRC-111](chronology-sources-v1.md) |
+| EVT-0328 | 1939-05-10 | 일본 외상의 독·이와 일반군사동맹에 대한 부정적 견해를 미국 대사 그루가 비공식 보고 | 외교·정보 | 발생 | 문헌대조 | [SRC-124](chronology-sources-v1.md) |
+| EVT-0055 | 1939-05-11 | 할힌골/노몬한 국경 충돌 개시: 일본 지원 만주국 기병과 몽골군의 교전(11일) | 국경전 | 발생 | 문헌대조 | [SRC-109](chronology-sources-v1.md) · [SRC-110](chronology-sources-v1.md) |
+| EVT-0329 | 1939-05-12 | 영국·터키, 지중해 전쟁 시 상호 지원에 관한 잠정 공동선언 | 외교 | 발생 | 문헌대조 | [SRC-118](chronology-sources-v1.md) |
+| EVT-0056 | 1939-05-13 | 난민선 세인트루이스호, 유대인 난민 등 937명을 태우고 함부르크 출항 | 난민·박해 | 발생 | 문헌대조 | [SRC-004](chronology-sources-v1.md) · [SRC-111](chronology-sources-v1.md) · [SRC-112](chronology-sources-v1.md) |
+| EVT-0330 | 1939-05-13 | 할힌골 국경 분쟁에서 몽골 기병부대가 교전지로 복귀 | 국경전 | 발생 | 문헌대조 | [SRC-109](chronology-sources-v1.md) |
+| EVT-0331 | 1939-05-14 | 일본군 아즈마 야오조 중좌의 국경 분쟁지 정찰부대 진출 | 국경전·정찰 | 발생 | 문헌대조 | [SRC-109](chronology-sources-v1.md) |
+| EVT-0332 | 1939-05-17 | 영국 정부, 팔레스타인 정책백서 발표·유대인 이민 제한 계획 제시 | 식민정책·난민 | 발생 | 문헌대조 | [SRC-119](chronology-sources-v1.md) · [SRC-120](chronology-sources-v1.md) |
+| EVT-0333 | 1939-05-18 | 일본 히라누마 총리, 미국 대사에게 일미 평화협력 제안 전달 | 외교 | 발생 | 문헌대조 | [SRC-127](chronology-sources-v1.md) |
+| EVT-0057 | 1939-05-22 | 독일·이탈리아 강철조약(우호·동맹조약) 서명 | 외교 | 발생 | 문헌대조 | [SRC-113](chronology-sources-v1.md) · [SRC-114](chronology-sources-v1.md) |
+| EVT-0334 | 1939-05-23 | 미 잠수함 USS 스퀄러스 시험잠항 중 침몰·26명 사망 | 해난·군사사고 | 발생 | 문헌대조 | [SRC-121](chronology-sources-v1.md) · [SRC-122](chronology-sources-v1.md) |
+| EVT-0335 | 1939-05-24 | 미 해군 맥캔 구조실로 USS 스퀄러스 생존자 33명 구조 | 구조작전 | 발생 | 문헌대조 | [SRC-121](chronology-sources-v1.md) · [SRC-122](chronology-sources-v1.md) |
+| EVT-0336 | 1939-05-27 | 난민선 세인트루이스호 아바나 도착·쿠바 당국 대부분 승객 상륙 거부 | 난민·박해 | 발생 | 문헌대조 | [SRC-111](chronology-sources-v1.md) · [SRC-112](chronology-sources-v1.md) |
+| EVT-0337 | 1939-05-28 | 유대인 구호기관 대표 로런스 베런슨, 쿠바에서 세인트루이스호 승객 입국 협상 시작 | 난민·구조교섭 | 발생 | 문헌대조 | [SRC-111](chronology-sources-v1.md) |
+| EVT-0338 | 1939-05-29 | 독일 외무부 내부 메모: 독소 통상교섭과 정치관계 연계 가능성 검토 | 비밀외교·문서 | 발생 | 문헌대조 | [SRC-126](chronology-sources-v1.md) |
+| EVT-0339 | 1939-05-31 | 몰로토프, 소련 최고회의에서 국제정세·대외정책 연설 | 외교·정치 | 발생 | 문헌대조 | [SRC-125](chronology-sources-v1.md) |
 | EVT-0058 | 1939-08-23 | 독소 불가침 조약 및 비밀 의정서 체결 | 조약·비밀 | 발생 | 링크등록 | [SRC-004](chronology-sources-v1.md) |
 | EVT-0059 | 1939-08-31 | 글라이비츠 방송국 위장공격(폴란드 침공 구실 조작) | 비밀공작 | 발생 | 링크등록 | [SRC-011](chronology-sources-v1.md) · [SRC-012](chronology-sources-v1.md) · [SRC-023](chronology-sources-v1.md) |
 | EVT-0060 | 1939-09-01 | 독일의 폴란드 침공 / 베스테르플라테 포격 | 전쟁·전투 | 발생 | 링크등록 | [SRC-004](chronology-sources-v1.md) · [SRC-027](chronology-sources-v1.md) |
