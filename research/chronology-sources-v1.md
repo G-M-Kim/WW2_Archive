@@ -368,6 +368,14 @@ as_of: 2026-10-25
 
 | SRC-305 | Janów Lubelski municipal chronological archive 1918–2018 / City of Janów Lubelski, 2018 | 2차 시청 역사연표·당시 행정기록 해설 | 1939-09-08 Luftwaffe bombings; 1939-09-08/09 Polish police sabotage response; 1939-09-09 county government relocation to Godziszów | https://www.janowlubelski.pl/archiwum/-100-lecie-niepodleglosci-kalendarium-wydarzen-1918-2018 | 9일 군청 이동 사실은 시청 역사연표, 항공폭격 인명피해 350 사망·1300 부상은 원수사·매장원부 대조 전 후대 추산. 2026-10-27 열람; 사진·문서 전재권 확인 필요 |
 
+## 사용자가 요청한 전쟁 속 이색 사건의 사실검증 (2026-10-27)
+
+| SRC-306 | John L. Frisbee, Valor: When an Enemy Was a Friend, Air & Space Forces Magazine (1997) | 2차 전문 군사항공사 잡지·당사자 후대 인터뷰 | 1943-12-20 Franz Stigler/Charles Brown B-17 incident, reunion 1990 | https://www.airandspaceforces.com/article/valor-when-an-enemy-was-a-friend/ | 1943 교전 보고서·B-17 수리기록과 1990 후대 전승 구분; 기사에도 후대 개정 사실 표시; 확인일 2026-10-27, 이미지 재게시권 미확인 |
+| SRC-307 | British Library European Studies, Wojtek, the soldier bear from the Polish Army (2016) | 2차 국립도서관 큐레이터 글·사진/출판기록 | Polish II Corps 22nd company, Iran 1942, Monte Cassino 1944, Edinburgh 1947 | https://www.bl.uk/stories/blogs/posts/wojtek-the-soldier-bear-from-the-polish-army | 1944 탄약 운반 일화는 회고·사진에 기반, 같은 사건에 대해 Hoover 입증수준의 의문 존재; 확인일 2026-10-27, 이미지 재게시권 미확인 |
+| SRC-308 | Maciej Siekierski, Wojtek the Bear of Monte Cassino, Hoover Institution Archives (2012) | 2차 미국 연구기관 기록관 큐레이터의 1차 회고록 소장 해설 | Wojtek Polish unit WWII; memoir by Kroczak questions carrying-shell legends | https://www.hoover.org/news/wojtek-bear-monte-cassino | 영국 도서관·폴란드 IPN의 직접 탄약운반 설명과 대조; 보이테크 입대 사실과 운반의 자세한 방법을 분리; 확인일 2026-10-27, 이미지 재게시권 미확인 |
+| SRC-309 | Royal Museums Greenwich, Oscar cat portrait object PAJ2744 | 1차 유물(초상화) 소장처 식별·현대 기관 카탈로그 | RMG object PAJ2744 pastel portrait titled Oscar, Bismarck | https://www.rmg.co.uk/collections/object?people%5B0%5D=Unsinkable+Sam | 초상화 보존은 '세 척 모두 동일한 고양이 탑승'의 결정적 증거가 아님. Bismarck/Cossack/Ark Royal 항해일지·당대 사진 연속성 미확인; 확인일 2026-10-27, 이미지 재게시권 미확인 |
+| SRC-310 | National Army Museum, A First World War Christmas / Christmas Truce | 2차 영국 국립군사박물관·당대 병사편지 소개 | 1914-12-24~25 Western Front spontaneous localized truces | https://www.nam.ac.uk/explore/christmas-ww1 | WWI 사건. 특정 전선 일부에서만 발생했고 독·영군 전체 전선이 일괄 휴전한 사실 아님. 축구 경기와 점수의 사료별 차이 검증; 확인일 2026-10-27, 이미지 재게시권 미확인 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
