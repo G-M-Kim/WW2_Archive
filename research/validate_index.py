@@ -117,7 +117,7 @@ def main() -> int:
         backlog_ids = []
         allowed_task_states = {"open", "in_progress", "blocked", "done"}
         for n, line in enumerate(backlog.read_text(encoding="utf-8").splitlines(), 1):
-            if not re.match(r"^\\| RQ-\\d{4} \\|", line):
+            if not re.match(r"^\| RQ-\d{4} \|", line):
                 continue
             cells = parse_row(line)
             if len(cells) != 7:
@@ -125,7 +125,7 @@ def main() -> int:
                 continue
             task_id, priority, state, area, description, linked, finish_rule = cells
             backlog_ids.append(task_id)
-            if not re.fullmatch(r"RQ-\\d{4}", task_id):
+            if not re.fullmatch(r"RQ-\d{4}", task_id):
                 errors.append(f"{backlog.name}:{n}: invalid task ID {task_id}")
             if priority not in {"P0", "P1", "P2"} or state not in allowed_task_states:
                 errors.append(f"{backlog.name}:{n}: invalid priority/status {priority}/{state}")
