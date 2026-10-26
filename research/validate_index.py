@@ -108,8 +108,40 @@ def main() -> int:
     if duplicates:
         errors.append(f"duplicate event IDs: {duplicates}")
 
+    # Persistent research backlog is required for every future chronology change.
+    backlog = ROOT / "research-backlog.md"
+    if not backlog.is_file():
+        errors.append("persistent research-backlog.md is missing")
+        backlog_ids: list[str] = []
+    else:
+        backlog_ids = []
+        allowed_task_states = {"open", "in_progress", "blocked", "done"}
+        for n, line in enumerate(backlog.read_text(encoding="utf-8").splitlines(), 1):
+            if not re.match(r"^\\| RQ-\\d{4} \\|", line):
+                continue
+            cells = parse_row(line)
+            if len(cells) != 7:
+                errors.append(f"{backlog.name}:{n}: expected 7 columns; got {len(cells)}")
+                continue
+            task_id, priority, state, area, description, linked, finish_rule = cells
+            backlog_ids.append(task_id)
+            if not re.fullmatch(r"RQ-\\d{4}", task_id):
+                errors.append(f"{backlog.name}:{n}: invalid task ID {task_id}")
+            if priority not in {"P0", "P1", "P2"} or state not in allowed_task_states:
+                errors.append(f"{backlog.name}:{n}: invalid priority/status {priority}/{state}")
+            if not all((area, description, linked, finish_rule)):
+                errors.append(f"{backlog.name}:{n}: incomplete backlog task")
+            if state == "done" and not any(
+                evidence in line for evidence in (".md", "https://github.com/")
+            ):
+                errors.append(f"{backlog.name}:{n}: completed task needs evidence URL/file")
+        if len(set(backlog_ids)) != len(backlog_ids):
+            errors.append("duplicate research backlog task IDs")
+        if not backlog_ids:
+            errors.append("research backlog contains no tasks")
+
     print(f"Checked {len(event_ids)} event records in {len(event_files)} files")
-    print(f"Statuses: {dict(stats)}, source IDs: {len(source_ids)}")
+    print(f"Statuses: {dict(stats)}, source IDs: {len(source_ids)}, backlog tasks: {len(backlog_ids)}")
     if errors:
         for issue in errors:
             print("ERROR:", issue)
