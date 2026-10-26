@@ -143,7 +143,7 @@ as_of: 2026-10-25
 
 ## 1939년 5월 전용 조사 출처 (2026-10-26)
 
-| SRC-109 | *Edward J. Drea, Nomonhan: Japanese-Soviet Tactical Combat, 1939 / U.S. Army Combat Studies Institute* | 2차 연구(일본군 문서 사용) | 인쇄 p.4, PDF 0-index p.16: 1939-05-11/13/14 | https://www.armyupress.army.mil/Portals/7/combat-studies-institute/csi-books/Drea-Nomonhan.pdf | 11일 만주국 부대 충돌, 13일 몽골군 복귀, 14일 아즈마 부대 진출. 일본군 원문 문서 미열람. 확인일 2026-10-26; 저작권·원문 또는 이미지 재사용 권리 별도 확인 |
+| SRC-109 | *Edward J. Drea, Nomonhan: Japanese-Soviet Tactical Combat, 1939 / U.S. Army Combat Studies Institute* | 2차 연구(일본군 문서 사용) | 인쇄 pp.4–5, PDF 0-index pp.16–17: 1939-05-11/13/14 및 05-28 아즈마 정찰부대 격멸 작전도 | https://www.armyupress.army.mil/Portals/7/combat-studies-institute/csi-books/Drea-Nomonhan.pdf | 11일 만주국 부대 충돌, 13일 몽골군 복귀, 14일 아즈마 부대 진출. 일본군 원문 문서 미열람. 확인일 2026-10-26; 저작권·원문 또는 이미지 재사용 권리 별도 확인 |
 | SRC-110 | *Dooman to U.S. Secretary of State / FRUS 1939 v03, telegram 1939-07-26* | 1차 외교전문(일본계 정보원 진술) | FRUS 1939 v03 Document 40, 1(a) | https://history.state.gov/historicaldocuments/frus1939v03/d40 | 5월 8일 유목민 하천 도하에 관한 일본계 정보원 진술; 5월 11일 군사충돌과 다른 개념, 진술 사실성 미확정. 확인일 2026-10-26; 저작권·원문 또는 이미지 재사용 권리 별도 확인 |
 | SRC-111 | *Voyage of the St. Louis / United States Holocaust Memorial Museum, 작성·편집일 미확인* | 2차 전문박물관 해설 | May 8, 13, 27, 28, 1939; 937명 탑승 | https://encyclopedia.ushmm.org/content/en/article/voyage-of-the-st-louis | 8일 아바나 반유대 시위, 13일 출항, 27일 아바나 도착과 하선 거부, 28일 구호기관 협상 개시. 사후 피해는 당시 피해와 구분. 확인일 2026-10-26; 저작권·원문 또는 이미지 재사용 권리 별도 확인 |
 | SRC-112 | *Refugee ship refused access / Anne Frank House, 작성일 미확인* | 2차 박물관 연표 | 1939-05-27 | https://www.annefrank.org/en/timeline/59/refugee-ship-refused-access/ | 세인트루이스호 하선 거부 독립 기관 확인. 사진 라이선스 미확인. 확인일 2026-10-26; 저작권·원문 또는 이미지 재사용 권리 별도 확인 |
