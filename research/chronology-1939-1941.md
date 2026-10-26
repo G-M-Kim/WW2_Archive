@@ -262,7 +262,7 @@ as_of: 2026-10-25
 | EVT-0534 | 1939-09-09 | 프랑스군, 자르 공세 중 벨페르딩 방면 자르강을 건너 아우어스마허 고지로 진출·교전 | 서부전선·하천도하 | 발생 | 문헌대조 | [SRC-298](chronology-sources-v1.md) |
 | EVT-0535 | 1939-09-09 | 프랑스군 R35 전차부대, 블리스브뤼크 북부 전진 중 독일군 지뢰로 전차 여러 대 손실 | 기갑전·지뢰 | 발생 | 문헌대조 | [SRC-298](chronology-sources-v1.md) |
 | EVT-0536 | 1939-09-09 | 헝가리 외상 차키, 독일 외상 리벤트로프의 폴란드 공격용 헝가리 철도 통과 요구를 거부 | 중립·외교 | 발생 | 문헌대조 | [SRC-303](chronology-sources-v1.md) · [SRC-289](chronology-sources-v1.md) |
-| EVT-0537 | 1939-09-09 | 야누프루벨스키 폴란드 군청 당국, 공습 이후 고지슈프로 관청 기능을 옮김 | 피난·행정이전 | 발생 | 문헌대조 | [SRC-295](chronology-sources-v1.md) |
+| EVT-0537 | 1939-09-09 | 야누프루벨스키 폴란드 군청 당국, 공습 이후 고지슈프로 관청 기능을 옮김 | 피난·행정이전 | 발생 | 문헌대조 | [SRC-305](chronology-sources-v1.md) |
 | EVT-0538 | 1939-09-10 | 폴란드군, 브주라 반격 중 웽치차(Łęczyca)를 독일군으로부터 탈환 | 육상전·도시탈환 | 발생 | 문헌대조 | [SRC-289](chronology-sources-v1.md) · [SRC-292](chronology-sources-v1.md) |
 | EVT-0539 | 1939-09-10 | 폴란드 포모제군 미코와이 보우투치 작전집단, 브주라 작전의 추가 공세에 참여 | 육상작전·전선확대 | 발생 | 문헌대조 | [SRC-289](chronology-sources-v1.md) · [SRC-290](chronology-sources-v1.md) |
 | EVT-0540 | 1939-09-10 | 독일군 공격 끝에 비즈나 요새방어선의 폴란드 방어가 종료 | 요새전·종료 | 발생 | 문헌대조 | [SRC-282](chronology-sources-v1.md) · [SRC-284](chronology-sources-v1.md) · [SRC-289](chronology-sources-v1.md) |
