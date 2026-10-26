@@ -238,7 +238,7 @@ as_of: 2026-10-25
 | EVT-0511 | 1939-09-07 | 독일군 선봉·정찰부대, 나레프강 비즈나 요새방어선에 접근하며 7~10일 방어전 개시 | 지상전·요새방어 | 발생 | 문헌대조 | [SRC-282](chronology-sources-v1.md) · [SRC-284](chronology-sources-v1.md) |
 | EVT-0512 | 1939-09-07 | 크라쿠프 독일 점령지 민정당국, 시민 보유 무기·탄약의 제출을 의무화하는 명령 발령 | 점령·무장해제 | 발생 | 문헌대조 | [SRC-279](chronology-sources-v1.md) |
 | EVT-0513 | 1939-09-07 | 폴란드 대통령·총리·최고사령관 등 주요 중앙정부·군 지휘부의 바르샤바 이탈이 진행 | 정부이전·전쟁행정 | 발생 | 문헌대조 | [SRC-278](chronology-sources-v1.md) |
-| EVT-0062 | 1939-09-08 | 독일 제4기갑사단의 바르샤바 오호타·볼라 첫 직접 공격과 수도 방어전 확대 | 전투 | 발생 | 문헌대조 | [SRC-285](chronology-sources-v1.md) · [SRC-286](chronology-sources-v1.md) · [SRC-287](chronology-sources-v1.md) |
+| EVT-0062 | 1939-09-08 | 바르샤바 수도방어전 본격화 — 방어사령부가 서부·동부 시가지 방어체계를 조직 | 전투 | 발생 | 문헌대조 | [SRC-285](chronology-sources-v1.md) · [SRC-286](chronology-sources-v1.md) · [SRC-287](chronology-sources-v1.md) |
 | EVT-0514 | 1939-09-08 | 독일 제4기갑사단 선봉대, 바르샤바 볼라·오호타 외곽에 도달해 시내 진입 시도했으나 폴란드군에 저지 | 기갑전·도시방어 | 발생 | 문헌대조 | [SRC-285](chronology-sources-v1.md) · [SRC-286](chronology-sources-v1.md) |
 | EVT-0515 | 1939-09-08 | 율리우시 룸멜 장군, 바르샤바에 도착해 신설 '바르샤바군'의 지휘를 맡음 | 군사지휘·조직 | 발생 | 문헌대조 | [SRC-285](chronology-sources-v1.md) · [SRC-287](chronology-sources-v1.md) |
 | EVT-0516 | 1939-09-08 | 바르샤바 시장 스테판 스타진스키, 수도 방어사령부 민간위원으로 임명되어 군민 협력 조정 | 시민방어·행정 | 발생 | 문헌대조 | [SRC-287](chronology-sources-v1.md) |
