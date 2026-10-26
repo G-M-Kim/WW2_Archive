@@ -313,6 +313,9 @@ as_of: 2026-10-25
 | SRC-257 | Stutthof first prisoner convoy Sept 2 1939 / Stutthof Museum Sztutowo | 2차 현지 수용소기념관·피해자증언 | 1939-09-02 ca.150 Polish political detainees etc; civilian internment status | https://stutthof.org/historia-obozu/ | 9/2 첫 수감자, 1942-01-07 공식 KL 승격과 구별. 첫날 전체 11만명 수용 또는 즉시 절멸하지 않음; 2026-10-26 열람, 사진·번역·문서 전문 재게시 권리는 개별 확인 |
 | SRC-258 | Bydgoszcz 3–4 September 1939, Chinciński & Machcewicz ed., IPN | 2차 학술 집단연구 888쪽 및 1차 자료집 | Warsaw 2008 monograph no.45, ISBN on site not provided | https://ipn.gov.pl/pl/wydawnictwo/ksiazki/12509%2CBydgoszcz-34-wrzesnia-1939-Studia-i-dokumenty.html | 폴란드·독일 집단의 총격·보복·사상자에 오랜 역사논쟁 존재. 'Bloody Sunday'는 나치가 선전한 지명이며 가해/유발 판단 단일 서술 금지; 2026-10-26 열람, 사진·번역·문서 전문 재게시 권리는 개별 확인 |
 
+| SRC-259 | Bullitt to State Department 1939-09-02 re Polish envoy demands immediate French aid / FRUS | 1차 미국 주프랑스 대사의 당일 외교전보 | FRUS 1939 v01 Document 416, 1939-09-02 14:00 | https://history.state.gov/historicaldocuments/frus1939v01/d416 | 보네·달라디에 발언은 폴란드 대사와 미국 대사의 전달; 실제 프랑스 정부의 전쟁 개시 시각과 별개; 2026-10-26 확인, 재사용 조건 별도 검토 |
+| SRC-260 | Biddle to State Department 1939-09-02 on Polish reply to German limitation of aerial attack / FRUS | 1차 폴란드 외무장관 벡 면담 당시 외교전보 | FRUS 1939 v01 Document 574, Warsaw 1939-09-02 10:00, received 09-03 | https://history.state.gov/historicaldocuments/frus1939v01/d574 | 독일 공습 제한 제안 및 폴란드의 상응 답변은 외교관 전언. 실제 조종사 작전명령 준수 증거는 아님; 2026-10-26 확인, 재사용 조건 별도 검토 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
