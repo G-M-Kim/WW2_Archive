@@ -366,6 +366,8 @@ as_of: 2026-10-25
 | SRC-303 | The Plight of Satellite Diplomacy, Review of Politics, Cambridge University Press | 2차 학술지 논문 및 당시 헝가리·독 외교문서 인용 | Footnote 29: Csáky rejects Ribbentrop phone demand to use Hungarian rail, **1939-09-09** | https://www.cambridge.org/core/journals/review-of-politics/article/abs/plight-of-satellite-diplomacy/B62ACA399EE88A2826A0377D9BBB1AD7 | 폴란드 IPN 9/10 날짜 기록과 충돌 가능: 헝가리 외상의 9/9 통화 거부와 부다페스트 정부가 10일 재확인한 사건인지 원국무자료 검증 필요; 조사일 2026-10-27, 원문 이미지·전사 저작권은 후속 확인 |
 | SRC-304 | Communications Security Establishment Canada, History Timeline | 2차 캐나다 국립 정보기관 공식 연표 | 1939-09-10 RCN Foreign Intelligence Section established for German U-boats | https://www.cse-cst.gc.ca/en/culture-and-community/history/timeline | 행정조직 창설일·부대 명칭은 해당 기관 공식 연표, 조직 편제·원인명령 원자료 추가 확인; 조사일 2026-10-27, 원문 이미지·전사 저작권은 후속 확인 |
 
+| SRC-305 | Janów Lubelski municipal chronological archive 1918–2018 / City of Janów Lubelski, 2018 | 2차 시청 역사연표·당시 행정기록 해설 | 1939-09-08 Luftwaffe bombings; 1939-09-08/09 Polish police sabotage response; 1939-09-09 county government relocation to Godziszów | https://www.janowlubelski.pl/archiwum/-100-lecie-niepodleglosci-kalendarium-wydarzen-1918-2018 | 9일 군청 이동 사실은 시청 역사연표, 항공폭격 인명피해 350 사망·1300 부상은 원수사·매장원부 대조 전 후대 추산. 2026-10-27 열람; 사진·문서 전재권 확인 필요 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
