@@ -437,6 +437,17 @@ as_of: 2026-10-25
 
 | SRC-361 | Polish Institute of National Remembrance, 20 września 1939 (środa), daily chronology | 2차 국가기억연구소 날짜별 군사사 및 포로 기록 요약 | 1939-09-20 Gen Tadeusz Piskor Tomaszów Lubelski first battle capitulation, Sosnkowski group western Lwów fighting | https://polskiemiesiace.ipn.gov.pl/mie/wszystkie-wydarzenia/wrzesien-1939/kalendarium/poczatek-ii-wojny-swiat/118466%2C20-wrzesnia-1939-sroda.html | IPN 검색 페이지 문면 확인, 웹 직접 열람에 캐시 실패 있음. 포로수·정식 항복 서명시각은 폴란드 군단일지·독 14군 원자료 미대조. 2026-10-27 |
 
+## 1939년 9월 18~19일 해군·외교·동부전선 사료 (2026-10-27)
+
+| SRC-343 | Polish Naval Museum, ORP Orzeł escapes Tallinn 18 Sep 1939 | 2차 해군전문박물관 | 18 Sep 02:00 탈출 신호, 발트해 잠항 | https://muzeummw.pl/orp-orzel-ucieka-z-portu-w-tallinie/ | 기존 SRC-318·340과 동일 URL, 독립자료 아님; 대조일 2026-10-27, 원문·이미지 전재 권한 미확인 |
+| SRC-344 | IPN historian Marek Kozak, Fighting in Grodno region September 1939 | 2차 IPN 역사학자 분석 | 18–19 Sep Wilno 방어, 20–21 Grodno 방어 | https://ipn.gov.pl/pl/historia-z-ipn/190219%2CMarek-Kozak-Boje-rtm-Ryszarda-Wiszowatego-na-Grodzienszczyznie-we-wrzesniu-1939-.html | 전투 개시/종료일 기초 확인, 병력·희생자 원기록 미열람; 대조일 2026-10-27, 원문·이미지 전재 권한 미확인 |
+| SRC-345 | IPN Polskie miesiące, 19 września 1939 | 2차 IPN 일별 전사 | 19 Sep Kępa Oksywska 마지막 저항·Dąbek 사망, Wilno 소련군 점령, Maczek 여단 헝가리 국경통과 | https://polskiemiesiace.ipn.gov.pl/mie/wszystkie-wydarzenia/wrzesien-1939/kalendarium/poczatek-ii-wojny-swiat/118465%2C19-wrzesnia-1939-wtorek.html | 기관 편찬 연표, 전투/이동 원일지와 독립대조 필요; 대조일 2026-10-27, 원문·이미지 전재 권한 미확인 |
+| SRC-346 | US minister Wiley Riga to Secretary, Sep 18, FRUS 1939 v1 d452 | 1차 당대 외교전보 | 18 Sep 17:00, Vilna 16:00까지 독·소 군대 미진입 제보 | https://history.state.gov/historicaldocuments/frus1939v01/d452 | 독소 오인사격·독일군 사전인지 부정은 익명 제보와 외교관 추정, 사실확정 금지; 대조일 2026-10-27, 원문·이미지 전재 권한 미확인 |
+| SRC-347 | US ambassador Kennedy London to Secretary, Sep 18, FRUS 1939 v1 d450 | 1차 미국 외교전보(영국 외교차관 발언) | 18 Sep 14:00 Cadogan, 소련 상대 자동 선전포고 없음·폴란드 항의 요청 | https://history.state.gov/historicaldocuments/frus1939v01/d450 | 영국의 대소 항의 준비와 선전포고 판단 구별; 대조일 2026-10-27, 원문·이미지 전재 권한 미확인 |
+| SRC-348 | US political adviser Dunn memorandum Sep 18, FRUS 1939 v1 d448 | 1차 미국 국무부 회의기록(폴란드 대사 진술) | 18 Sep 폴란드 대사, 영·프 대소 항의 및 미국의 동참 요청 | https://history.state.gov/historicaldocuments/frus1939v01/d448 | 영불 항의의 접수시각은 폴란드 대사의 보고로 간접전언; 대조일 2026-10-27, 원문·이미지 전재 권한 미확인 |
+| SRC-349 | IPN 85th anniversary Soviet aggression statement | 2차 IPN 전문 개관 | 18–19 Sep Wilno, 18→19 Sep Soviet approaches Lwów, 20–21 Sep Grodno | https://ipn.gov.pl/pl/dla-mediow/komunikaty/206367%2CTEKST-AUDIO-85-rocznica-agresji-Zwiazku-Sowieckiego-na-Polske.html | 일별 전투 세부는 원부대 기록으로 보강; 대조일 2026-10-27, 원문·이미지 전재 권한 미확인 |
+| SRC-350 | IPN wartime survivors chronology Ocaleni historia | 2차 기관 편찬 연표 PDF | 18 Sep Polish government crosses into Romania, 18–19 Wilno defense, 20–22 Grodno defense | https://archiwum.ipn.gov.pl/download/1/339696/Ocalenihistoria.pdf | PDF 원문 페이지 직접 시각 검증 미실시; 정부 통과일이 17→18 밤과 양립 가능; 대조일 2026-10-27, 원문·이미지 전재 권한 미확인 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
