@@ -463,6 +463,8 @@ as_of: 2026-10-25
 
 | SRC-383 | Bundesarchiv Bilddatenbank, Bild 101I-121-0011A-23 and related German-Soviet Brest military handover photography | 1차 독일 연방기록관 당대 선전/군사진 메타데이터 | Bild 101I-121-0011A-23, -22, -15 dated 1939-09-22; note earlier German-Soviet initial contact Bild 101I-121-0008-25 dated 1939-09-20 | https://www.bild.bundesarchiv.de/dba/en/search/?page=2&query=brest-litowsk&yearfrom=&yearto= | 9/20 접촉 사진을 9/22 합동행진 사진으로 잘못 쓰지 않음; 원 홍보용 사진 촬영시간·행렬 구성 미확인, 전재권 확인 필요; 대조일 2026-10-27 |
 
+| SRC-384 | Polish Army Museum, Polish flag raised on submarine ORP Żbik, modern institutional ship history | 2차 폴란드 국립육군박물관 함정 전력사 | ORP Żbik interned neutral Sweden on 1939-09-25 after weather damage, 1932 construction and mines | https://muzeumwp.pl/timeline/podniesienie-polskiej-bandery-na-okrecie-podwodnym-orp-quotzbikquot/ | Polish IPN 1939-09-24 기록 SRC-373과 이견, 공식 억류 vs 입항 일자·당시 선장/스웨덴 항만기록 검증 필요; 2026-10-27 확인, 원본 전재권 별도 검토 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
