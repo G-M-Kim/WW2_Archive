@@ -375,7 +375,7 @@ as_of: 2026-10-25
 | EVT-0643 | 1939-09-22 | 소련군·NKVD 및 협력자들이 그로드노에서 항전한 폴란드 군인·학생·민간인에 대한 보복 살해가 22일 이후 본격화(개별 피해 일자 추적 필요) | 전쟁범죄·민간인/포로피해 | 발생 | 문헌대조 | [SRC-354](chronology-sources-v1.md) |
 | EVT-0647 | 1939-09-22 | 르부프(Lwów) 폴란드 수비사령관 브와디스와프 랑네르, 독일군이 아닌 소련군에 도시를 항복 | 도시항복·소련침공 | 발생 | 문헌대조 | [SRC-362](chronology-sources-v1.md) · [SRC-365](chronology-sources-v1.md) |
 | EVT-0648 | 1939-09-22 | 소련군, 르부프 폴란드 장교들의 신변 안전과 출국을 보장하는 항복 조건에 동의했으나 이후 이를 이행하지 않음 | 항복조건·포로보호 | 발생 | 문헌대조 | [SRC-362](chronology-sources-v1.md) |
-| EVT-0649 | 1939-09-22 | 독일군과 소련군, 브제시치나트부기엠의 도시·요새 인계를 실시하고 양국 부대의 합동 의식·행진 개최 | 독소협력·군사인계 | 발생 | 문헌대조 | [SRC-363](chronology-sources-v1.md) · [SRC-364](chronology-sources-v1.md) · [SRC-362](chronology-sources-v1.md) |
+| EVT-0649 | 1939-09-22 | 독일군과 소련군, 브제시치나트부기엠의 도시·요새 인계를 실시하고 양국 부대의 합동 의식·행진 개최 | 독소협력·군사인계 | 발생 | 문헌대조 | [SRC-363](chronology-sources-v1.md) · [SRC-364](chronology-sources-v1.md) · [SRC-362](chronology-sources-v1.md) · [SRC-383](chronology-sources-v1.md) |
 | EVT-0650 | 1939-09-22 | 독일군, 비아위스토크의 점령 통제권을 소련군에 인계 | 점령구역·군정인계 | 발생 | 문헌대조 | [SRC-362](chronology-sources-v1.md) · [SRC-381](chronology-sources-v1.md) · [SRC-365](chronology-sources-v1.md) |
 | EVT-0651 | 1939-09-22 | 소련군, 폴란드 비아위스토크에 진입하고 임시 소련 점령행정 확대 | 소련침공·도시점령 | 발생 | 문헌대조 | [SRC-381](chronology-sources-v1.md) · [SRC-365](chronology-sources-v1.md) |
 | EVT-0652 | 1939-09-22 | 폴란드 제101예비울란연대, 코지오프체(Kodziowce)에서 소련 제2전차여단 예하 전차부대의 공격을 격퇴 | 기병전·대전차전 | 발생 | 문헌대조 | [SRC-367](chronology-sources-v1.md) · [SRC-382](chronology-sources-v1.md) |
@@ -387,11 +387,11 @@ as_of: 2026-10-25
 | EVT-0658 | 1939-09-23 | 바르샤바 시장 슈테판 스타진스키, 포위된 수도의 저항을 독려하는 유명한 라디오 연설 발표(연설일 23·25일 사료 충돌) | 방송·시민방어 | 발생 | 링크등록 | [SRC-370](chronology-sources-v1.md) · [SRC-371](chronology-sources-v1.md) · [SRC-372](chronology-sources-v1.md) |
 | EVT-0659 | 1939-09-23 | 독일군 폭격으로 바르샤바 포비실레 발전소가 타격을 입어 전력 공급이 끊기고 라디오 방송에 중대한 지장 | 공습·도시인프라 | 발생 | 문헌대조 | [SRC-371](chronology-sources-v1.md) |
 | EVT-0660 | 1939-09-23 | 폴란드 그루파 흐루비에슈프, 후신네(Husynne) 부근에서 소련 제81소총병사단·제36전차여단과 교전 개시 | 소련침공·국지전 | 발생 | 문헌대조 | [SRC-377](chronology-sources-v1.md) |
-| EVT-0661 | 1939-09-24 | 폴란드 잠수함 ORP 주비크(Żbik), 스웨덴 스타브네스 항에 도착해 중립국 당국에 의해 억류 | 해군·중립국억류 | 발생 | 문헌대조 | [SRC-373](chronology-sources-v1.md) |
 | EVT-0662 | 1939-09-24 | 바르샤바 정수장 여과시설 가동이 중단되면서 포위된 주민들의 식수 확보가 더욱 어려워짐 | 도시포위·식수위기 | 발생 | 문헌대조 | [SRC-373](chronology-sources-v1.md) |
 | EVT-0663 | 1939-09-24 | 폴란드군 흐루비에슈프 임시부대, 후신네 전투를 계속 벌인 뒤 소련군 압력으로 방어선 해체·철수 | 소련침공·국지전종료 | 발생 | 문헌대조 | [SRC-377](chronology-sources-v1.md) |
 | EVT-0664 | 1939-09-24 | 브와디스와프 시코르스키 장군, 루마니아를 경유해 프랑스 파리에 도착해 폴란드 망명정부 구성 논의에 참여 | 정부망명·정치인사 | 발생 | 문헌대조 | [SRC-379](chronology-sources-v1.md) |
 | EVT-0665 | 1939-09-24 | 미국 주프랑스 대사 불릿, 주폴란드 미국대사 비들의 폴란드군 패배 원인 평가를 미국 국무부에 전달 | 외교보고·전사평가 | 발생 | 문헌대조 | [SRC-380](chronology-sources-v1.md) |
+| EVT-0661 | 1939-09-25 | 폴란드 잠수함 ORP 주비크(Żbik), 스웨덴에 입항·억류(국가기억연구소 24일, 육군박물관 25일 기록 충돌) | 해군·중립국억류 | 발생 | 링크등록 | [SRC-373](chronology-sources-v1.md) · [SRC-384](chronology-sources-v1.md) |
 | EVT-0666 | 1939-09-25 | 독일 공군, 바르샤바에 종일 대규모 폭격을 가하며 다량의 폭발탄·소이탄 투하 | 공습·민간인피해 | 발생 | 문헌대조 | [SRC-375](chronology-sources-v1.md) · [SRC-376](chronology-sources-v1.md) · [SRC-374](chronology-sources-v1.md) |
 | EVT-0667 | 1939-09-25 | 독일 포병, 공습과 병행해 바르샤바 시가지에 집중 포격을 실시 | 포위전·포병사격 | 발생 | 문헌대조 | [SRC-374](chronology-sources-v1.md) · [SRC-376](chronology-sources-v1.md) |
 | EVT-0668 | 1939-09-25 | 바르샤바의 도서관·박물관·역사기록물들이 독일 공습·화재로 파괴되고 문화유산 대규모 손실 | 문화재피해·공습 | 발생 | 문헌대조 | [SRC-375](chronology-sources-v1.md) · [SRC-376](chronology-sources-v1.md) |
