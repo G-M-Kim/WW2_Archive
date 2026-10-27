@@ -461,6 +461,8 @@ as_of: 2026-10-25
 | SRC-381 | Polish Institute of National Remembrance, Soviet aggression 85th anniversary | 2차 국가기억연구소 전문전사 | 22 Sep Białystok Soviet entry, 25 Sep Grajewo Soviet takeover | https://eng.ipn.gov.pl/en/news/10837%2CThe-84th-anniversary-of-the-Soviet-aggression-on-Poland-on-17-September-1939.html | 표제상 84주년 글, 수록 국경점령 연표와 독립 교전원전 구분; 같은 IPN 타 문서와 독립원증언 아님; 열람 확인일 2026-10-27, 원문/사진 재게시권 별도 확인 |
 | SRC-382 | IPN Marek Kozak, Bój o Kodziowce / Przystanek Historia long-form | 2차 IPN 역사학자 상세전투사 | 22 Sep dawn Soviet armored attacks, 101 Uhlans resistance, local losses disputed | https://przystanekhistoria.pl/pa2/tematy/wrzesien-1939/94235%2CKodziowce-miejsce-pamieci-na-Grodzienszczyznie.html | SRC-367과 동일 필자/같은 서술 재출판일 가능성, 독립자료 수 아님; 열람 확인일 2026-10-27, 원문/사진 재게시권 별도 확인 |
 
+| SRC-383 | Bundesarchiv Bilddatenbank, Bild 101I-121-0011A-23 and related German-Soviet Brest military handover photography | 1차 독일 연방기록관 당대 선전/군사진 메타데이터 | Bild 101I-121-0011A-23, -22, -15 dated 1939-09-22; note earlier German-Soviet initial contact Bild 101I-121-0008-25 dated 1939-09-20 | https://www.bild.bundesarchiv.de/dba/en/search/?page=2&query=brest-litowsk&yearfrom=&yearto= | 9/20 접촉 사진을 9/22 합동행진 사진으로 잘못 쓰지 않음; 원 홍보용 사진 촬영시간·행렬 구성 미확인, 전재권 확인 필요; 대조일 2026-10-27 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
