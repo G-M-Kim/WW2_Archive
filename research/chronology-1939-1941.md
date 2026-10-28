@@ -494,11 +494,34 @@ as_of: 2026-10-25
 | EVT-0763 | 1939-10-08 | 제1차 창사전투에서 중국군의 전투 이전 전선 회복을 10월8일자로 후난성 사료편찬기관이 기록 | 중일전쟁·전선회복 | 발생 | 문헌대조 | [SRC-409](chronology-sources-v1.md) |
 | EVT-0764 | 1939-10-09 | 제1차 창사전투 종료를 9일로 기록한 중국 교육사자료가 있으나 8일 전선복구와 정의가 다름 | 중일전쟁·전역종결 | 발생 | 링크등록 | [SRC-466](chronology-sources-v1.md) · [SRC-409](chronology-sources-v1.md) |
 | EVT-0765 | 1939-10-09 | 리투아니아 군 지휘관·부총리가 9일 모스크바에서 카우나스로 출발했다는 미국 대사의 다음날 간접보고 | 발트외교·대표단이동 | 발생 | 링크등록 | [SRC-467](chronology-sources-v1.md) |
+| EVT-0771 | 1939-10-09 | 도브잔스키 소령 '후발'(Hubal) 부대가 항복하지 않고 폴란드 내 잔류저항을 계속하기로 결정 | 잔류정규군·저항 | 발생 | 문헌대조 | [SRC-480](chronology-sources-v1.md) |
 | EVT-0766 | 1939-10-10 | 소련과 리투아니아, 모스크바에서 빌뉴스·인근지역의 리투아니아 이양과 상호원조 조약 서명 | 조약·영토협상 | 발생 | 문헌대조 | [SRC-468](chronology-sources-v1.md) · [SRC-471](chronology-sources-v1.md) |
 | EVT-0767 | 1939-10-10 | 소련·리투아니아 비공개 의정서로 소련군 최대 2만명 주둔에 합의(즉시 배치된 인원이 아님) | 비밀조약·군사주둔 | 발생 | 문헌대조 | [SRC-469](chronology-sources-v1.md) · [SRC-470](chronology-sources-v1.md) |
 | EVT-0768 | 1939-10-10 | 소련·리투아니아 공개 상호원조조약이 소련군 육상 및 공군 기지 설치를 허용 | 조약·군사기지 | 발생 | 문헌대조 | [SRC-468](chronology-sources-v1.md) · [SRC-471](chronology-sources-v1.md) |
 | EVT-0769 | 1939-10-10 | 미국 주소련 대사, 조약 체결 전에 소련의 추가 요구가 리투아니아 협상을 지연시켰다고 추정한 전보 발신 | 외교전보·동시대전망 | 발생 | 문헌대조 | [SRC-467](chronology-sources-v1.md) |
 | EVT-0770 | 1939-10-10 | 독일 해군사 목록은 Binnendijk 침몰을 10일로 기술해 8일 침몰설과 날짜 이견 | 해난·일자이견 | 발생 | 링크등록 | [SRC-460](chronology-sources-v1.md) · [SRC-459](chronology-sources-v1.md) |
+| EVT-0772 | 1939-10-10 | 비드고슈치 외곽 '죽음의 계곡'에서 독일 점령세력에 의한 첫 집단처형이 발생했다고 폴란드 저항박물관이 기록(실명·희생규모 원전 미대조) | 점령범죄·민간인처형 | 발생 | 문헌대조 | [SRC-480](chronology-sources-v1.md) |
+| EVT-0773 | 1939-10-10 | 폴란드 방어자사령부(KOP) 계열 지하언론 'Polska Żyje' 제1호 발행(Polska Żyje 조직 Komenda Obrońców Polski; KOP 국경수비대와 약칭 혼동금지) | 지하언론·저항 | 발생 | 문헌대조 | [SRC-482](chronology-sources-v1.md) |
+| EVT-0774 | 1939-10-11 | 알렉산더 색스, 루스벨트 대통령에게 8월 작성 아인슈타인·실라르드 우라늄 연쇄반응 경고서한을 전달하고 연구 필요성을 설명 | 과학기술·전시정책 | 발생 | 문헌대조 | [SRC-472](chronology-sources-v1.md) · [SRC-473](chronology-sources-v1.md) |
+| EVT-0775 | 1939-10-11 | 독일 점령당국의 선전·검열 통제하 'Nowy Kurier Warszawski' 점령신문 창간호 발행 | 점령선전·언론검열 | 발생 | 문헌대조 | [SRC-481](chronology-sources-v1.md) |
+| EVT-0776 | 1939-10-12 | 알렉산더 색스, 루스벨트 대통령과 2차 조찬 면담을 통해 우라늄 연구 추진 필요성을 설득(우라늄위원회 신설·후일 맨해튼 프로젝트와 별개) | 과학기술·정책결정 | 발생 | 문헌대조 | [SRC-472](chronology-sources-v1.md) |
+| EVT-0777 | 1939-10-12 | 히틀러, 독일 본토에 병합되지 않은 폴란드 점령지 통치용 '총독부' 설치 행정령에 서명(효력은 후일 10월26일) | 점령통치·행정령 | 발생 | 문헌대조 | [SRC-475](chronology-sources-v1.md) · [SRC-476](chronology-sources-v1.md) |
+| EVT-0778 | 1939-10-12 | 점령지 총독부 설치령에서 한스 프랑크를 총독, 아르투어 자이스잉크바르트를 부총독으로 임명(임명일과 공식 통치개시 구별) | 점령통치·행정인사 | 발생 | 문헌대조 | [SRC-475](chronology-sources-v1.md) |
+| EVT-0779 | 1939-10-12 | 영국 총리 체임벌린, 하원에서 히틀러의 10월6일 강화제안을 검토하고 폴란드·체코슬로바키아 침략의 기정사실화를 용납하는 평화를 거부한다고 천명 | 외교연설·전쟁목적 | 발생 | 문헌대조 | [SRC-474](chronology-sources-v1.md) |
+| EVT-0780 | 1939-10-12 | 핀란드의 파시키비 대표단과 소련의 스탈린·몰로토프, 모스크바에서 양국 협상 첫 회담 개최 | 발트외교·전쟁위기 | 발생 | 문헌대조 | [SRC-477](chronology-sources-v1.md) · [SRC-478](chronology-sources-v1.md) · [SRC-479](chronology-sources-v1.md) |
+| EVT-0781 | 1939-10-12 | 스탈린·몰로토프, 핀란드 대표단에 상호원조조약과 항코 군사기지·핀란드만 섬·카렐리야 지협 조정 등을 요구 | 영토요구·군사기지 | 발생 | 문헌대조 | [SRC-477](chronology-sources-v1.md) · [SRC-479](chronology-sources-v1.md) |
+| EVT-0782 | 1939-10-12 | 핀란드 협상대표단, 소련의 상호원조조약 체결 요구에 거부 의사를 전달(세부 모든 영토협상 전부 결렬과 구별) | 외교교섭·거부 | 발생 | 문헌대조 | [SRC-477](chronology-sources-v1.md) · [SRC-479](chronology-sources-v1.md) |
+| EVT-0783 | 1939-10-13 | 미국 주소련대사 스타인하르트, 전날 소련·핀란드 회담의 상세 요구와 4천~5천 명 규모의 항코 주둔안 정보를 워싱턴에 보고 | 외교전보·당대정보 | 발생 | 문헌대조 | [SRC-479](chronology-sources-v1.md) |
+| EVT-0784 | 1939-10-13 | 폴란드 국민당(Stronnictwo Narodowe) 지도부, 바르샤바에서 산하 비밀 군사조직 창설을 결정(당시 Armia Narodowa, NOW 명칭은 후대) | 폴란드저항·군사조직 | 발생 | 문헌대조 | [SRC-483](chronology-sources-v1.md) · [SRC-484](chronology-sources-v1.md) |
+| EVT-0785 | 1939-10-13 | 독일 잠수함 U-40이 도버해협 영국 기뢰에 접촉해 침몰한 것으로 기록됨(45명 사망·3명 생존) | 기뢰전·잠수함손실 | 발생 | 문헌대조 | [SRC-485](chronology-sources-v1.md) · [SRC-486](chronology-sources-v1.md) |
+| EVT-0786 | 1939-10-13 | 영국 구축함 HMS 이모젠과 아일렉스, 아일랜드 남서쪽 대서양에서 독 잠수함 U-42를 폭뢰로 격침 | 대잠전·구축함 | 발생 | 문헌대조 | [SRC-485](chronology-sources-v1.md) · [SRC-486](chronology-sources-v1.md) · [SRC-487](chronology-sources-v1.md) |
+| EVT-0787 | 1939-10-13 | 독 잠수함 U-42 승조원 중 26명 사망·20명 생존한 것으로 후대 승조원 명부 집계 | 해전·포로구조 | 발생 | 문헌대조 | [SRC-486](chronology-sources-v1.md) · [SRC-487](chronology-sources-v1.md) |
+| EVT-0788 | 1939-10-14 | 독 잠수함 U-47, 스코틀랜드 오크니제도 스캐퍼플로 영국 해군기지 방어선을 넘어 잠입 | 잠수함전·기지침투 | 발생 | 문헌대조 | [SRC-488](chronology-sources-v1.md) · [SRC-492](chronology-sources-v1.md) |
+| EVT-0789 | 1939-10-14 | U-47 함장 귄터 프린, 스캐퍼플로 정박 영국 전함 HMS Royal Oak를 어뢰 공격해 침몰 | 전함격침·해전 | 발생 | 문헌대조 | [SRC-488](chronology-sources-v1.md) · [SRC-489](chronology-sources-v1.md) · [SRC-491](chronology-sources-v1.md) |
+| EVT-0790 | 1939-10-14 | HMS Royal Oak 격침으로 사망하거나 이후 상처로 사망한 영국 해군·해병 장병이 최종 집계 835명에 달함(구자료 833·834명과 구별) | 해전·인명피해 | 발생 | 문헌대조 | [SRC-488](chronology-sources-v1.md) · [SRC-489](chronology-sources-v1.md) · [SRC-490](chronology-sources-v1.md) · [SRC-491](chronology-sources-v1.md) |
+| EVT-0791 | 1939-10-14 | 영국 보조어선 HMS Daisy II의 존 갓 등이 Royal Oak 생존자 약 386명 구조에 핵심 역할을 했다고 해전 기록이 전함 | 인명구조·소함정 | 발생 | 링크등록 | [SRC-492](chronology-sources-v1.md) · [SRC-493](chronology-sources-v1.md) |
+| EVT-0792 | 1939-10-14 | 영국 구축함 HMS Inglefield·Ivanhoe·Intrepid·Icarus, 아일랜드 남서쪽에서 독 잠수함 U-45 격침(승조원 38명 전원사망) | 대잠전·구축함 | 발생 | 문헌대조 | [SRC-485](chronology-sources-v1.md) · [SRC-486](chronology-sources-v1.md) |
+| EVT-0793 | 1939-10-14 | Royal Oak 격침 희생자에는 18세 미만 소년병 134명이 포함된 것으로 영국 해군 추모자료가 밝힘 | 전쟁피해·소년수병 | 발생 | 문헌대조 | [SRC-490](chronology-sources-v1.md) |
 | EVT-0066 | 1939-11-08 | 게오르크 엘저의 히틀러 암살 시도 | 저항·암살 | 발생 | 미등록 | — |
 | EVT-0067 | 1939-11-30 | 소련의 핀란드 침공과 겨울전쟁 개시 | 전쟁 | 발생 | 미등록 | — |
 | EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 미등록 | — |
