@@ -526,7 +526,7 @@ as_of: 2026-10-25
 | EVT-0793 | 1939-10-14 | Royal Oak 격침 희생자에는 18세 미만 소년병 134명이 포함된 것으로 영국 해군 추모자료가 밝힘 | 전쟁피해·소년수병 | 발생 | 문헌대조 | [SRC-490](chronology-sources-v1.md) |
 | EVT-0796 | 1939-10-15 | 독일 지역 Selbstschutz 민병조직, 폴란드 브라티안 숲에서 체포된 지역 유지·성직자·교사 등 집단처형 실시 | 점령범죄·집단학살 | 발생 | 문헌대조 | [SRC-495](chronology-sources-v1.md) |
 | EVT-0797 | 1939-10-15 | 브라티안 숲 사건의 전체 희생자 약150명에 10월 말~11월 초 후속처형까지 포함된다고 폴란드 박물관 기록 | 희생자통계·기간구분 | 발생 | 문헌대조 | [SRC-495](chronology-sources-v1.md) |
-| EVT-0798 | 1939-10-15 | 포모르스카 슈비에치에 정신병원 환자에 대한 SS 살해가 약 일주일간 진행된 출발일이 15일이라는 현 병원·최근 IPN 기록(과거 IPN 9월설 충돌) | 장애인학살·날짜충돌 | 발생 | 링크등록 | [SRC-497](chronology-sources-v1.md) · [SRC-498](chronology-sources-v1.md) · [SRC-499](chronology-sources-v1.md) |
+| EVT-0798 | 1939-10-15 | 포모르스카 슈비에치에 정신병원 환자에 대한 SS 살해가 약 일주일간 진행된 출발일이 15일이라는 현 병원·최근 IPN 기록(과거 IPN 9월설 충돌) | 장애인학살·날짜충돌 | 발생 | 링크등록 | [SRC-497](chronology-sources-v1.md) · [SRC-498](chronology-sources-v1.md) · [SRC-499](chronology-sources-v1.md) · [SRC-516](chronology-sources-v1.md) · [SRC-517](chronology-sources-v1.md) |
 | EVT-0799 | 1939-10-15 | 스타라 루다 인근에서 15~16일 밤 폴란드 민간인 최소13명을 지역 Selbstschutz가 살해한 것으로 IPN 수사기록에 남음 | 점령범죄·지역학살 | 발생 | 링크등록 | [SRC-496](chronology-sources-v1.md) |
 | EVT-0800 | 1939-10-15 | 에스토니아·독일 정부 대표, 에스토니아 거주 발트독일인 이주 의정서에 서명(장래 이주와 별개) | 민족이동·외교합의 | 발생 | 문헌대조 | [SRC-511](chronology-sources-v1.md) |
 | EVT-0801 | 1939-10-16 | 빈의 유대인해외이주중앙사무소에서 아이히만·에브너·베커 등이 니스코 이주 작전 준비회의 개최 | 유대인강제이주·행정회의 | 발생 | 문헌대조 | [SRC-501](chronology-sources-v1.md) |

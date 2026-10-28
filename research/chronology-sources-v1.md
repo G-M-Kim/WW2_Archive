@@ -618,6 +618,9 @@ as_of: 2026-10-25
 | SRC-514 | Imperial War Museum U47 Nazi propaganda film catalog | 1차 당시 독일 선전영화의 박물관 메타데이터 | German 1939 propaganda film Prien Ahoi, metadata 14 Oct Kiel reception vs patrol history Wilhelmshaven 17 Oct | https://film.iwmcollections.org.uk/record/18788 | 당시 독군 Propaganda의 Repulse도 침몰 주장 사실과 다름; 필름 화면 자막을 해전기록으로 받아들이지 않음; 검증일 2026-10-29·재게시권 미확인 |
 | SRC-515 | Estonian National Library historian of Soviet Baltic border timeline | 2차 에스토니아 외교·군사사 보조 자료 | Estonia USSR imposed Sep28 treaty bases 25000 troops, Oct18 entry distinct from June1940 military occupation | https://moscow.mfa.ee/eesti-ja-venemaa-diplomaatiliste-suhete-ajajoon/ | 18 October exact 8am arrival from national library source; 검증일 2026-10-29·재게시권 미확인 |
 
+| SRC-516 | Museum of WWII Gdańsk Hekatomba, Mniszek Zbrodnia Pomorska | 2차 박물관 지역사 편집/수사 인용 | Mniszek mass executions Oct 1939–Jan1940, initial psychiatric hospital liquidation late Sep 1939; identifiable death count uncertain, Bednarz death circumstances unknown | https://ph.muzeum1939.pl/mniszek-zbrodnia-pomorska,56,pl | 기관 기존 10/15 확정설보다 유연한 기간; 수많은 다른 희생자(민간인·포로)와 환자 중복 금지; 2026-10-29 |
+| SRC-517 | IPN Gdańsk 2025 monograph description Mateusz Kubicki Zbrodnie w Mniszku-Grupie 1939–1940 | 2차 전문 연구서 출판 소개·폴/독 미공개문서 사용 안내 | Kubicki 2025 monograph estimates Mniszek-Grupa 10,000–20,000 total 1939–40 historical victims but only 292 identified; postwar numbers uncertain | https://www.gdansk.ipn.gov.pl/pl2/publikacje/ksiazki-gdansk/228720,Zbrodnie-w-Mniszku-Grupie-1939-1940.html | 출판사 서평/목차로 원서 본문을 검증했다고 주장 금지; 10–20천은 전체 지역/기간 추산이며 슈비에치에 병원 하루 희생자 아님; 2026-10-29 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
