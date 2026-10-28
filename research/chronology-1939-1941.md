@@ -546,6 +546,35 @@ as_of: 2026-10-25
 | EVT-0815 | 1939-10-18 | 소련 붉은군대, 9월28일 에스토니아-소련 상호원조조약 이후 에스토니아 영토에 진입 시작 | 발트국가·소련군주둔 | 발생 | 문헌대조 | [SRC-511](chronology-sources-v1.md) · [SRC-512](chronology-sources-v1.md) · [SRC-515](chronology-sources-v1.md) |
 | EVT-0816 | 1939-10-18 | 에스토니아 나르바 국경수비대 지휘관 아우구스트 쾨르그마가 오전 8시 소련군 통과용 국경문을 개방 | 국경통과·점령전조 | 발생 | 문헌대조 | [SRC-511](chronology-sources-v1.md) |
 | EVT-0817 | 1939-10-18 | 에스토니아 탈린 항구에서 발트독일인 이주를 위한 첫 이주선이 출항했다는 현지 전사 기록(선명·승객명부 미확인) | 민간인인구이동·해상수송 | 발생 | 링크등록 | [SRC-512](chronology-sources-v1.md) |
+| EVT-0818 | 1939-10-19 | 영국·프랑스·튀르키예, 앙카라에서 15년 상호원조조약 체결 | 동맹외교·국제조약 | 발생 | 문헌대조 | [SRC-518](chronology-sources-v1.md) · [SRC-519](chronology-sources-v1.md) · [SRC-520](chronology-sources-v1.md) |
+| EVT-0819 | 1939-10-19 | 3국 조약 부속의정서 제2호에 소련과의 무력충돌을 초래하는 전쟁행위에 튀르키예 참여 강제 불가 조항 포함 | 외교조약·소련예외 | 발생 | 문헌대조 | [SRC-520](chronology-sources-v1.md) |
+| EVT-0820 | 1939-10-19 | 영 총리 체임벌린, 하원에서 3국 협정의 체결 및 튀르키예·소련 별도협상 중단 배경 발표 | 의회·외교발표 | 발생 | 문헌대조 | [SRC-519](chronology-sources-v1.md) |
+| EVT-0821 | 1939-10-19 | 오스트라바에서 18일 출발한 유대인 강제이주 열차가 니스코에 도착한 것으로 후대 연구에 기술(원도착시각 확인 전) | 추방·수송도착 | 발생 | 링크등록 | [SRC-548](chronology-sources-v1.md) |
+| EVT-0822 | 1939-10-20 | 나치 SS·경찰 Einsatzkommandos, 비엘코폴스카에서 20·21·23일 14개 지역 대규모 공개처형의 첫날 개시(3일 합계 275명) | 점령범죄·작전총괄 | 발생 | 문헌대조 | [SRC-527](chronology-sources-v1.md) · [SRC-528](chronology-sources-v1.md) · [SRC-549](chronology-sources-v1.md) |
+| EVT-0823 | 1939-10-20 | 아인자츠코만도14, 슈렘(Śrem) 광장에서 폴란드 지역 지도층 19명 총살 | 점령범죄·공개처형 | 발생 | 문헌대조 | [SRC-529](chronology-sources-v1.md) |
+| EVT-0824 | 1939-10-20 | 독일 특수부대, 쿠르니크(Kórnik) 시청 앞 폴란드 주민 공개 총살(현지 희생자 비문 16명 vs 전사자료 15명) | 점령범죄·공개처형 | 발생 | 문헌대조 | [SRC-530](chronology-sources-v1.md) |
+| EVT-0825 | 1939-10-20 | 아인자츠코만도15, 스로다 비엘코폴스카 시장에서 폴란드 주민 29명 총살(28명 실명·1명 미상) | 점령범죄·공개처형 | 발생 | 문헌대조 | [SRC-531](chronology-sources-v1.md) |
+| EVT-0826 | 1939-10-20 | 아인자츠코만도15, 코스트신 비엘코폴스키에서 폴란드 주민 28명 공개처형 | 점령범죄·공개처형 | 발생 | 문헌대조 | [SRC-532](chronology-sources-v1.md) |
+| EVT-0827 | 1939-10-20 | 아인자츠코만도14, 크시옹시 비엘코폴스키(Książ)에서 폴란드 주민 17명 총살 | 점령범죄·공개처형 | 발생 | 문헌대조 | [SRC-533](chronology-sources-v1.md) |
+| EVT-0828 | 1939-10-20 | 독일 치안부대, 모시나(Mosina)에서 폴란드 지도층 공개처형(정확 피해명부 미대조) | 점령범죄·지역처형 | 발생 | 문헌대조 | [SRC-534](chronology-sources-v1.md) |
+| EVT-0829 | 1939-10-20 | 독일 치안당국, 카토비체에서 유대인 남성들을 니스코 방면 첫 강제이주 열차에 태워 출발(계획 1029명, 실제 약875명으로 후일 보고) | 홀로코스트·강제추방 | 발생 | 문헌대조 | [SRC-524](chronology-sources-v1.md) · [SRC-525](chronology-sources-v1.md) |
+| EVT-0830 | 1939-10-20 | 독일 나치 당국, 빈 아스팡 역에서 유대인 남성 912명을 니스코행 첫 수송열차로 강제 추방 | 홀로코스트·강제추방 | 발생 | 문헌대조 | [SRC-522](chronology-sources-v1.md) · [SRC-523](chronology-sources-v1.md) · [SRC-524](chronology-sources-v1.md) · [SRC-525](chronology-sources-v1.md) |
+| EVT-0831 | 1939-10-20 | 당대 게슈타포 전문은 빈 니스코행 첫 수송의 출발예정시각을 22:00로 규정(실제 시각 수송일지 검증 전) | 나치문서·수송계획 | 발생 | 문헌대조 | [SRC-522](chronology-sources-v1.md) · [SRC-525](chronology-sources-v1.md) |
+| EVT-0832 | 1939-10-20 | 독 잠수함 U-34, 중립 스웨덴 상선 구스타프 아돌프(Gustaf Adolf)를 정선·포격 침몰 | 해전·중립상선격침 | 발생 | 문헌대조 | [SRC-541](chronology-sources-v1.md) |
+| EVT-0833 | 1939-10-20 | U-34가 격침된 스웨덴 상선의 구명정을 끌어 노르웨이 상선 비스카야(Biscaya)에 인계해 승조원들을 구조하게 함 | 잠수함·인명구조 | 발생 | 문헌대조 | [SRC-541](chronology-sources-v1.md) |
+| EVT-0834 | 1939-10-20 | 독 잠수함 U-34, 영국 상선 Sea Venture의 탈출 및 대응사격 뒤 함포로 격침(선원25명은 셰틀랜드 구조정이 구조) | 해전·상선격침 | 발생 | 문헌대조 | [SRC-542](chronology-sources-v1.md) |
+| EVT-0835 | 1939-10-21 | 독 Einsatzkommando14, 레슈노(Leszno)에서 폴란드 주민 20명 총살 | 점령범죄·공개처형 | 발생 | 문헌대조 | [SRC-535](chronology-sources-v1.md) |
+| EVT-0836 | 1939-10-21 | 독 치안부대, 크로비아(Krobia)에서 폴란드 주민 15명 총살(EK11 개입은 추정) | 점령범죄·지역처형 | 발생 | 문헌대조 | [SRC-536](chronology-sources-v1.md) |
+| EVT-0837 | 1939-10-21 | 독 Einsatzkommando14, 브워샤코비체(Włoszakowice)에서 폴란드 주민 7명 총살 | 점령범죄·공개처형 | 발생 | 문헌대조 | [SRC-537](chronology-sources-v1.md) |
+| EVT-0838 | 1939-10-21 | 독 치안부대, 포니에츠(Poniec)에서 폴란드 주민 3명 총살(EK11 책임부대 미확정) | 점령범죄·지역처형 | 발생 | 문헌대조 | [SRC-538](chronology-sources-v1.md) |
+| EVT-0839 | 1939-10-21 | 독 Einsatzkommando14, 오시에츠나(Osieczna)에서 폴란드 주민 3명 총살 | 점령범죄·지역처형 | 발생 | 문헌대조 | [SRC-539](chronology-sources-v1.md) |
+| EVT-0840 | 1939-10-21 | 독 Einsatzkommando15, 고스틴(Gostyń)에서 폴란드 주민 공개처형(정확 피해자 인명·수 미대조) | 점령범죄·지역처형 | 발생 | 문헌대조 | [SRC-528](chronology-sources-v1.md) · [SRC-540](chronology-sources-v1.md) |
+| EVT-0841 | 1939-10-21 | 영국 상선 Orsa, 독 U-15가 9월5일 부설한 기뢰에 닿아 침몰해 선원 20명 중 16명 사망 | 기뢰전·상선손실 | 발생 | 문헌대조 | [SRC-543](chronology-sources-v1.md) |
+| EVT-0842 | 1939-10-21 | 구축함 HMS Woolston, Orsa 침몰 생존자 4명을 구조 | 해난구조·영국해군 | 발생 | 문헌대조 | [SRC-543](chronology-sources-v1.md) |
+| EVT-0843 | 1939-10-21 | 프랑스 상선 Capitaine Edmond Laborie, 독 U19가 10월16일 부설한 기뢰에 접촉해 침몰 | 기뢰전·프랑스상선 | 발생 | 문헌대조 | [SRC-544](chronology-sources-v1.md) · [SRC-546](chronology-sources-v1.md) |
+| EVT-0844 | 1939-10-21 | 중립 노르웨이 유조선 Deodata가 U19가 16일 부설한 기뢰에 접촉해 침몰 | 기뢰전·중립상선 | 발생 | 문헌대조 | [SRC-545](chronology-sources-v1.md) · [SRC-546](chronology-sources-v1.md) |
+| EVT-0845 | 1939-10-21 | 영국 Gorleston 구조정 Louise Stephens, 침몰한 노르웨이 Deodata 선원 23명 전원 구조 | 해난구조·민간인 | 발생 | 문헌대조 | [SRC-545](chronology-sources-v1.md) |
+| EVT-0846 | 1939-10-22 | 핀란드 외무장관 엘리아스 에르코, 독일의 소규모 대공포 공급 약속을 전해 듣고 모스크바 협상단에 대소 강경지시 전송을 약속했다고 후일 핀란드 외교사에 기록 | 북유럽·외교지시 | 발생 | 링크등록 | [SRC-547](chronology-sources-v1.md) |
 | EVT-0066 | 1939-11-08 | 게오르크 엘저의 히틀러 암살 시도 | 저항·암살 | 발생 | 미등록 | — |
 | EVT-0067 | 1939-11-30 | 소련의 핀란드 침공과 겨울전쟁 개시 | 전쟁 | 발생 | 미등록 | — |
 | EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 미등록 | — |
