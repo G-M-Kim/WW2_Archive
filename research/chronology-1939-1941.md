@@ -504,6 +504,7 @@ as_of: 2026-10-25
 | EVT-0773 | 1939-10-10 | 폴란드 방어자사령부(KOP) 계열 지하언론 'Polska Żyje' 제1호 발행(Polska Żyje 조직 Komenda Obrońców Polski; KOP 국경수비대와 약칭 혼동금지) | 지하언론·저항 | 발생 | 문헌대조 | [SRC-482](chronology-sources-v1.md) |
 | EVT-0774 | 1939-10-11 | 알렉산더 색스, 루스벨트 대통령에게 8월 작성 아인슈타인·실라르드 우라늄 연쇄반응 경고서한을 전달하고 연구 필요성을 설명 | 과학기술·전시정책 | 발생 | 문헌대조 | [SRC-472](chronology-sources-v1.md) · [SRC-473](chronology-sources-v1.md) |
 | EVT-0775 | 1939-10-11 | 독일 점령당국의 선전·검열 통제하 'Nowy Kurier Warszawski' 점령신문 창간호 발행 | 점령선전·언론검열 | 발생 | 문헌대조 | [SRC-481](chronology-sources-v1.md) |
+| EVT-0794 | 1939-10-11 | 오스트라바의 유대인 자치기구, 게슈타포 지시에 따라 14세 이상 유대인의 즉시 등록을 요구하는 공고 발행 | 유대인박해·강제등록 | 발생 | 문헌대조 | [SRC-504](chronology-sources-v1.md) |
 | EVT-0776 | 1939-10-12 | 알렉산더 색스, 루스벨트 대통령과 2차 조찬 면담을 통해 우라늄 연구 추진 필요성을 설득(우라늄위원회 신설·후일 맨해튼 프로젝트와 별개) | 과학기술·정책결정 | 발생 | 문헌대조 | [SRC-472](chronology-sources-v1.md) |
 | EVT-0777 | 1939-10-12 | 히틀러, 독일 본토에 병합되지 않은 폴란드 점령지 통치용 '총독부' 설치 행정령에 서명(효력은 후일 10월26일) | 점령통치·행정령 | 발생 | 문헌대조 | [SRC-475](chronology-sources-v1.md) · [SRC-476](chronology-sources-v1.md) |
 | EVT-0778 | 1939-10-12 | 점령지 총독부 설치령에서 한스 프랑크를 총독, 아르투어 자이스잉크바르트를 부총독으로 임명(임명일과 공식 통치개시 구별) | 점령통치·행정인사 | 발생 | 문헌대조 | [SRC-475](chronology-sources-v1.md) |
@@ -511,6 +512,7 @@ as_of: 2026-10-25
 | EVT-0780 | 1939-10-12 | 핀란드의 파시키비 대표단과 소련의 스탈린·몰로토프, 모스크바에서 양국 협상 첫 회담 개최 | 발트외교·전쟁위기 | 발생 | 문헌대조 | [SRC-477](chronology-sources-v1.md) · [SRC-478](chronology-sources-v1.md) · [SRC-479](chronology-sources-v1.md) |
 | EVT-0781 | 1939-10-12 | 스탈린·몰로토프, 핀란드 대표단에 상호원조조약과 항코 군사기지·핀란드만 섬·카렐리야 지협 조정 등을 요구 | 영토요구·군사기지 | 발생 | 문헌대조 | [SRC-477](chronology-sources-v1.md) · [SRC-479](chronology-sources-v1.md) |
 | EVT-0782 | 1939-10-12 | 핀란드 협상대표단, 소련의 상호원조조약 체결 요구에 거부 의사를 전달(세부 모든 영토협상 전부 결렬과 구별) | 외교교섭·거부 | 발생 | 문헌대조 | [SRC-477](chronology-sources-v1.md) · [SRC-479](chronology-sources-v1.md) |
+| EVT-0795 | 1939-10-12 | 에스토니아 총리 위리 울루오츠(Jüri Uluots)가 이끄는 새 정부 출범 | 정부·국내정치 | 발생 | 문헌대조 | [SRC-511](chronology-sources-v1.md) |
 | EVT-0783 | 1939-10-13 | 미국 주소련대사 스타인하르트, 전날 소련·핀란드 회담의 상세 요구와 4천~5천 명 규모의 항코 주둔안 정보를 워싱턴에 보고 | 외교전보·당대정보 | 발생 | 문헌대조 | [SRC-479](chronology-sources-v1.md) |
 | EVT-0784 | 1939-10-13 | 폴란드 국민당(Stronnictwo Narodowe) 지도부, 바르샤바에서 산하 비밀 군사조직 창설을 결정(당시 Armia Narodowa, NOW 명칭은 후대) | 폴란드저항·군사조직 | 발생 | 문헌대조 | [SRC-483](chronology-sources-v1.md) · [SRC-484](chronology-sources-v1.md) |
 | EVT-0785 | 1939-10-13 | 독일 잠수함 U-40이 도버해협 영국 기뢰에 접촉해 침몰한 것으로 기록됨(45명 사망·3명 생존) | 기뢰전·잠수함손실 | 발생 | 문헌대조 | [SRC-485](chronology-sources-v1.md) · [SRC-486](chronology-sources-v1.md) |
@@ -522,6 +524,28 @@ as_of: 2026-10-25
 | EVT-0791 | 1939-10-14 | 영국 보조어선 HMS Daisy II의 존 갓 등이 Royal Oak 생존자 약 386명 구조에 핵심 역할을 했다고 해전 기록이 전함 | 인명구조·소함정 | 발생 | 링크등록 | [SRC-492](chronology-sources-v1.md) · [SRC-493](chronology-sources-v1.md) |
 | EVT-0792 | 1939-10-14 | 영국 구축함 HMS Inglefield·Ivanhoe·Intrepid·Icarus, 아일랜드 남서쪽에서 독 잠수함 U-45 격침(승조원 38명 전원사망) | 대잠전·구축함 | 발생 | 문헌대조 | [SRC-485](chronology-sources-v1.md) · [SRC-486](chronology-sources-v1.md) |
 | EVT-0793 | 1939-10-14 | Royal Oak 격침 희생자에는 18세 미만 소년병 134명이 포함된 것으로 영국 해군 추모자료가 밝힘 | 전쟁피해·소년수병 | 발생 | 문헌대조 | [SRC-490](chronology-sources-v1.md) |
+| EVT-0796 | 1939-10-15 | 독일 지역 Selbstschutz 민병조직, 폴란드 브라티안 숲에서 체포된 지역 유지·성직자·교사 등 집단처형 실시 | 점령범죄·집단학살 | 발생 | 문헌대조 | [SRC-495](chronology-sources-v1.md) |
+| EVT-0797 | 1939-10-15 | 브라티안 숲 사건의 전체 희생자 약150명에 10월 말~11월 초 후속처형까지 포함된다고 폴란드 박물관 기록 | 희생자통계·기간구분 | 발생 | 문헌대조 | [SRC-495](chronology-sources-v1.md) |
+| EVT-0798 | 1939-10-15 | 포모르스카 슈비에치에 정신병원 환자에 대한 SS 살해가 약 일주일간 진행된 출발일이 15일이라는 현 병원·최근 IPN 기록(과거 IPN 9월설 충돌) | 장애인학살·날짜충돌 | 발생 | 링크등록 | [SRC-497](chronology-sources-v1.md) · [SRC-498](chronology-sources-v1.md) · [SRC-499](chronology-sources-v1.md) |
+| EVT-0799 | 1939-10-15 | 스타라 루다 인근에서 15~16일 밤 폴란드 민간인 최소13명을 지역 Selbstschutz가 살해한 것으로 IPN 수사기록에 남음 | 점령범죄·지역학살 | 발생 | 링크등록 | [SRC-496](chronology-sources-v1.md) |
+| EVT-0800 | 1939-10-15 | 에스토니아·독일 정부 대표, 에스토니아 거주 발트독일인 이주 의정서에 서명(장래 이주와 별개) | 민족이동·외교합의 | 발생 | 문헌대조 | [SRC-511](chronology-sources-v1.md) |
+| EVT-0801 | 1939-10-16 | 빈의 유대인해외이주중앙사무소에서 아이히만·에브너·베커 등이 니스코 이주 작전 준비회의 개최 | 유대인강제이주·행정회의 | 발생 | 문헌대조 | [SRC-501](chronology-sources-v1.md) |
+| EVT-0802 | 1939-10-16 | 나치 니스코 준비회의에서 매주 유대인 약2000명 수송과 로마인 별도차량 연결 구상을 논의(전체 실행되지 않은 계획) | 강제이주계획·박해 | 발생 | 문헌대조 | [SRC-501](chronology-sources-v1.md) |
+| EVT-0803 | 1939-10-16 | 독일 공군 KG30 Ju88 편대가 영국 포스만 로사이스 인근 해군함정들을 공습 | 공중전·영국본토공습 | 발생 | 문헌대조 | [SRC-505](chronology-sources-v1.md) · [SRC-506](chronology-sources-v1.md) · [SRC-507](chronology-sources-v1.md) |
+| EVT-0804 | 1939-10-16 | 독 공습으로 영국 순양함 Southampton·Edinburgh와 구축함 Mohawk에서 손상 및 승조원 피해 발생 | 군함피격·공습피해 | 발생 | 문헌대조 | [SRC-507](chronology-sources-v1.md) |
+| EVT-0805 | 1939-10-16 | 영국 해군의 16일 포스만 공습 사망자 3명 장교·13명 수병 및 민간인 2명 경상 사실이 다음날 의회에서 보고됨 | 군인전사·민간피해 | 발생 | 문헌대조 | [SRC-507](chronology-sources-v1.md) |
+| EVT-0806 | 1939-10-16 | 영국 공군 602·603 편대와 대공포가 독일 Ju88 공습편대를 격퇴, 당시 정부는 4기 격추를 보고(기관별 개별기체 판정 추가검증) | 공중전·격추보고 | 발생 | 링크등록 | [SRC-505](chronology-sources-v1.md) · [SRC-506](chronology-sources-v1.md) · [SRC-507](chronology-sources-v1.md) |
+| EVT-0807 | 1939-10-17 | 오스트라바 승마장 일대에서 나치 당국이 유대인 남성들을 니스코 수송 대상으로 집결·선별하고 역으로 이동시킴 | 강제이주·수송전선별 | 발생 | 문헌대조 | [SRC-503](chronology-sources-v1.md) · [SRC-504](chronology-sources-v1.md) |
+| EVT-0808 | 1939-10-17 | 에스토니아 군총사령관 요한 라이도네르, 국제 전화·무선연락 제한과 우편·전보 검열을 명령 | 전시통제·통신검열 | 발생 | 문헌대조 | [SRC-511](chronology-sources-v1.md) |
+| EVT-0809 | 1939-10-17 | 독일 폭격기들이 스캐퍼플로에서 항내 구형 영국 전함 Iron Duke를 공습(당일 의회보고는 폭탄 2발 근접폭발) | 공중전·항구공습 | 발생 | 문헌대조 | [SRC-508](chronology-sources-v1.md) · [SRC-509](chronology-sources-v1.md) · [SRC-510](chronology-sources-v1.md) |
+| EVT-0810 | 1939-10-17 | Iron Duke가 폭탄 근접폭발에 따른 기관실·탄약고 침수로 의도적으로 좌초했다고 미 해군 1942년 손상기록에 남음 | 군함피해·응급좌초 | 발생 | 문헌대조 | [SRC-509](chronology-sources-v1.md) |
+| EVT-0811 | 1939-10-17 | 독 잠수함 U47, 14일 Royal Oak 격침 뒤 빌헬름스하펜에 복귀(독 선전필름의 14일 킬입항 메타데이터 오류와 구별) | 잠수함·귀환·선전 | 발생 | 문헌대조 | [SRC-513](chronology-sources-v1.md) · [SRC-514](chronology-sources-v1.md) |
+| EVT-0812 | 1939-10-17 | 영국 의회, 16일 포스만 공습·17일 Iron Duke 공습과 Royal Oak 상실에 대한 공식 피해 보고 | 전시의회·전황보고 | 발생 | 문헌대조 | [SRC-507](chronology-sources-v1.md) · [SRC-508](chronology-sources-v1.md) |
+| EVT-0813 | 1939-10-18 | 나치 당국, 오스트라바 프르지보즈 역에서 유대인 남성 901명을 니스코 수송열차로 강제 이송 | 홀로코스트·강제추방 | 발생 | 문헌대조 | [SRC-502](chronology-sources-v1.md) · [SRC-503](chronology-sources-v1.md) · [SRC-504](chronology-sources-v1.md) |
+| EVT-0814 | 1939-10-18 | 빈 유대인해외이주중앙사무소, 16일 니스코 회의 계획을 정리한 18일자 내부 메모 작성(실제 주간 2000명·로마인 수송 시행 증거 아님) | 나치문서·추방계획 | 발생 | 문헌대조 | [SRC-501](chronology-sources-v1.md) |
+| EVT-0815 | 1939-10-18 | 소련 붉은군대, 9월28일 에스토니아-소련 상호원조조약 이후 에스토니아 영토에 진입 시작 | 발트국가·소련군주둔 | 발생 | 문헌대조 | [SRC-511](chronology-sources-v1.md) · [SRC-512](chronology-sources-v1.md) · [SRC-515](chronology-sources-v1.md) |
+| EVT-0816 | 1939-10-18 | 에스토니아 나르바 국경수비대 지휘관 아우구스트 쾨르그마가 오전 8시 소련군 통과용 국경문을 개방 | 국경통과·점령전조 | 발생 | 문헌대조 | [SRC-511](chronology-sources-v1.md) |
+| EVT-0817 | 1939-10-18 | 에스토니아 탈린 항구에서 발트독일인 이주를 위한 첫 이주선이 출항했다는 현지 전사 기록(선명·승객명부 미확인) | 민간인인구이동·해상수송 | 발생 | 링크등록 | [SRC-512](chronology-sources-v1.md) |
 | EVT-0066 | 1939-11-08 | 게오르크 엘저의 히틀러 암살 시도 | 저항·암살 | 발생 | 미등록 | — |
 | EVT-0067 | 1939-11-30 | 소련의 핀란드 침공과 겨울전쟁 개시 | 전쟁 | 발생 | 미등록 | — |
 | EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 미등록 | — |
