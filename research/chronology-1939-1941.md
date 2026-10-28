@@ -437,6 +437,28 @@ as_of: 2026-10-25
 | EVT-0707 | 1939-09-30 | 샤츠크 이후 폴란드 KOP 부대, 부크강 도하하여 서쪽으로 철수·재편(정확 도하일 미확정) | 소련침공·도하 | 발생 | 링크등록 | [SRC-390](chronology-sources-v1.md) · [SRC-412](chronology-sources-v1.md) |
 | EVT-0708 | 1939-09-30 | 주미 폴란드 대사 예지 포토츠키, 9월28일 독소 국경·우호조약의 영토분할을 거부하는 공식 외교각서를 미국 국무부에 제출 | 외교항의·영토주권 | 발생 | 문헌대조 | [SRC-408](chronology-sources-v1.md) |
 | EVT-0065 | 1939-10 | 폴란드 강제수용·게토화 정책 확대 | 박해 | 발생 | 미등록 | — |
+| EVT-0709 | 1939-10-01 | KOP 국경수비대 위티치노에서 소련군과 마지막 대규모 교전 | 지상전·소련침공 | 발생 | 문헌대조 | [SRC-413](chronology-sources-v1.md) · [SRC-414](chronology-sources-v1.md) |
+| EVT-0710 | 1939-10-01 | 오를리크뤼케만 장군 위티치노 교전 후 KOP 임시집단 해산 지시 | 지휘·부대해산 | 발생 | 문헌대조 | [SRC-413](chronology-sources-v1.md) · [SRC-414](chronology-sources-v1.md) |
+| EVT-0711 | 1939-10-01 | 위티치노 전후 폴란드 부상병 방치·포로살해 혐의가 참전자 회고에 남음(1~2일 일자 미정) | 전쟁범죄혐의 | 발생 | 링크등록 | [SRC-415](chronology-sources-v1.md) |
+| EVT-0712 | 1939-10-01 | 독일 소해함 M85 과거 ORP 주비크가 설치한 기뢰에 접촉해 침몰 | 기뢰전·해군손실 | 발생 | 문헌대조 | [SRC-416](chronology-sources-v1.md) |
+| EVT-0713 | 1939-10-01 | 헬 반도 폴란드 지휘부 독일군과 정전·항복협상 진행(서명일 1일 밤/2일 상충) | 연안방어·항복협상 | 발생 | 링크등록 | [SRC-417](chronology-sources-v1.md) · [SRC-418](chronology-sources-v1.md) |
+| EVT-0714 | 1939-10-01 | 폴란드 경비정 바토리 헬 반도 봉쇄 돌파 후 스웨덴 향해 출항 | 해군·해상탈출 | 발생 | 문헌대조 | [SRC-419](chronology-sources-v1.md) |
+| EVT-0715 | 1939-10-01 | 제1차 창사전투 일본 제11군 중국군 반격 속 창사 방면 철수 개시 | 중일전쟁·철수 | 발생 | 문헌대조 | [SRC-409](chronology-sources-v1.md) |
+| EVT-0716 | 1939-10-01 | 독일 잠수함 U35 벨기에 중립 상선 수종(Suzon) 격침, 선원 20명 생존 | 대서양전·상선격침 | 발생 | 문헌대조 | [SRC-420](chronology-sources-v1.md) |
+| EVT-0717 | 1939-10-02 | 헬 반도 수비대 독일군에 공식 항복해 연안방어전 종결 | 해안방어·항복 | 발생 | 문헌대조 | [SRC-417](chronology-sources-v1.md) · [SRC-421](chronology-sources-v1.md) |
+| EVT-0718 | 1939-10-02 | 독일군 항복한 헬 반도에 진입·수비대 무장해제 착수(정확시각 미상) | 점령·무장해제 | 발생 | 링크등록 | [SRC-417](chronology-sources-v1.md) · [SRC-418](chronology-sources-v1.md) |
+| EVT-0719 | 1939-10-02 | 폴란드 경비정 바토리 스웨덴 고틀란드 도착·중립국 억류 | 해군·중립국억류 | 발생 | 문헌대조 | [SRC-419](chronology-sources-v1.md) |
+| EVT-0720 | 1939-10-02 | 클레베르크 휘하 폴란드 SGO 폴레시에와 독일군 간 코츠크 전투 개시 | 지상전·전투개시 | 발생 | 문헌대조 | [SRC-421](chronology-sources-v1.md) · [SRC-423](chronology-sources-v1.md) |
+| EVT-0721 | 1939-10-02 | 세로콤라 폴란드 플리소프스키 기병여단 울란부대 독일 기동부대와 교전 | 기병전·국지전 | 발생 | 문헌대조 | [SRC-422](chronology-sources-v1.md) · [SRC-425](chronology-sources-v1.md) |
+| EVT-0722 | 1939-10-02 | 위티치노 전투 후 소련군 의무차량 도착에도 부상병들이 적시 치료를 받지 못했다는 회고 | 전쟁범죄혐의·의료방치 | 발생 | 링크등록 | [SRC-415](chronology-sources-v1.md) |
+| EVT-0723 | 1939-10-03 | 독 제13차량화보병사단과 폴란드 SGO 폴레시에 간 코츠크 전투 계속 | 지상전·지속교전 | 발생 | 문헌대조 | [SRC-423](chronology-sources-v1.md) · [SRC-424](chronology-sources-v1.md) |
+| EVT-0724 | 1939-10-03 | 세로콤라·탈친(Talczyn) 일대 폴란드군 독군 공격하며 현지 포즈난·하를레유프 방향 교전 | 지상전·지역공세 | 발생 | 문헌대조 | [SRC-425](chronology-sources-v1.md) · [SRC-423](chronology-sources-v1.md) |
+| EVT-0725 | 1939-10-03 | 바르샤바에 최초 비밀 인쇄물이 등장했다는 IPN 연표(당일 실물·신문명 미확인) | 언론·지하저항 | 발생 | 링크등록 | [SRC-424](chronology-sources-v1.md) · [SRC-426](chronology-sources-v1.md) · [SRC-427](chronology-sources-v1.md) |
+| EVT-0726 | 1939-10-03 | 리투아니아 우르브시스 외무장관 대표단 모스크바 협상 위해 카우나스 출발 | 발트국외교 | 발생 | 문헌대조 | [SRC-428](chronology-sources-v1.md) |
+| EVT-0727 | 1939-10-03 | 스탈린·몰로토프 리투아니아 대표단에 독소 영향권 조정 통보·소련 군사기지 수용 압박 | 발트국외교·강압협상 | 발생 | 문헌대조 | [SRC-429](chronology-sources-v1.md) · [SRC-430](chronology-sources-v1.md) |
+| EVT-0728 | 1939-10-03 | 몰로토프 독일대사 슐렌부르크에 빌뉴스·리투아니아 남서부 영향권 구상 전달 | 독소비밀외교 | 발생 | 문헌대조 | [SRC-430](chronology-sources-v1.md) |
+| EVT-0729 | 1939-10-03 | 독일 U35 그리스 중립상선 디아만티스(Diamantis) 어뢰 격침 | 대서양전·상선피격 | 발생 | 문헌대조 | [SRC-431](chronology-sources-v1.md) · [SRC-432](chronology-sources-v1.md) · [SRC-433](chronology-sources-v1.md) |
+| EVT-0730 | 1939-10-03 | 독일 U35 함장 베르너 로트 디아만티스 승조원 28명 전원 잠수함으로 구조(4일 아일랜드 상륙) | 잠수함·인명구조 | 발생 | 문헌대조 | [SRC-431](chronology-sources-v1.md) · [SRC-432](chronology-sources-v1.md) · [SRC-433](chronology-sources-v1.md) |
 | EVT-0066 | 1939-11-08 | 게오르크 엘저의 히틀러 암살 시도 | 저항·암살 | 발생 | 미등록 | — |
 | EVT-0067 | 1939-11-30 | 소련의 핀란드 침공과 겨울전쟁 개시 | 전쟁 | 발생 | 미등록 | — |
 | EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 미등록 | — |
