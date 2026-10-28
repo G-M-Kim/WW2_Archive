@@ -543,6 +543,9 @@ as_of: 2026-10-25
 | SRC-449 | Chinese Changsha battle historical survey Oct4-5 (krzzjn) | 2차 중국 항일전쟁기념 연구자료·후대 전사 해설 | 4 Oct Chinese 27th group/79th corps vs Japanese 33rd and 13th detachments; 5 Oct Japanese all-front retreat order | https://www.krzzjn.com/show-2349-163279.html | 중국전선 사건 세부는 일 일본11군 일지 불명, 후난성 기관 SRC-409는 이미 1 Oct 철수시작으로 기술; 열람 점검 2026-10-28, 이미지/원문 재게시권 별도 |
 | SRC-450 | State Archives Administration of China, 抗战档案 第一次长沙会战 | 2차 중국 국가기록국 주관 사료프로그램 해설 | 1939 first Changsha battle extensive Chinese counterattack and Japanese withdrawal; contrasts 1939 vs 1941 battles | https://www.saac.gov.cn/zt/2014-09/09/content_65795_2.htm | 병력 손실액 당사자 통계 미검증, 정확 4-5일 원전 명령은 SRC-449에 의존; 열람 점검 2026-10-28, 이미지/원문 재게시권 별도 |
 
+| SRC-451 | German History Intersections, Speech by Reich Chancellor Adolf Hitler before Reichstag 6 Oct 1939 | 1차 1939 당대 연설문 발췌를 역사학 편집 프로젝트가 1939 International Conciliation No354 p507-09 520-21에서 전재 | 6 Oct Poland partition and German-Soviet resettlement ethnic reorganization proposals in original speech | https://germanhistory-intersections.org/en/migration/ghis%3Adocument-63 | 1차 문구는 나치 당사국 선전, 1939 영문 번역 및 현대 발췌 편집·실제 실행일 아니므로 원독어 Bundesarchiv ZSG117/894로 추가 확인; 2026-10-28 |
+| SRC-452 | TheSecondWar.pl, Hitler offers peace (6 October 1939) | 2차 현대 개별전쟁사 해설·FRUS 및 영불 반응 정리 | 6 Oct Hitler offered Britain France a western war-ending conference without reversal of Poland partition | https://thesecondwar.pl/en/hitler-offers-peace | 민간 2차 해설로 저자/원서지 근거 제한, 독립 1차 외교문서 원문 추후 대조; 2026-10-28 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
