@@ -676,6 +676,32 @@ as_of: 2026-10-25
 | EVT-0944 | 1939-11-08 | 엘저가 스위스 국경 통과를 시도하다 콘스탄츠 세관 경찰에게 오후8시45분경 폭탄 폭발 전에 체포 | 반나치저항·체포 | 발생 | 문헌대조 | [SRC-636](chronology-sources-v1.md) · [SRC-639](chronology-sources-v1.md) |
 | EVT-0945 | 1939-11-08 | 히틀러가 뮌헨 뷔르거브로이켈러 연설을 예정보다 일찍 끝내고 오후9시7분경 행사장을 떠남 | 나치지도부·암살회피 | 발생 | 문헌대조 | [SRC-637](chronology-sources-v1.md) · [SRC-636](chronology-sources-v1.md) |
 | EVT-0946 | 1939-11-08 | 엘저의 시한폭탄이 오후9시20분경 폭발해 8명 사망·63명 부상(히틀러는 앞서 행사장을 떠나 생존) | 폭발·인명피해 | 발생 | 문헌대조 | [SRC-636](chronology-sources-v1.md) · [SRC-637](chronology-sources-v1.md) |
+| EVT-0947 | 1939-11-09 | 독 정보기관 SD가 반나치 장교접촉으로 위장한 벤로 기만작전으로 영 정보요원 베스트·스티븐스를 국경으로 유인 | 첩보전·기만 | 발생 | 문헌대조 | [SRC-642](chronology-sources-v1.md) |
+| EVT-0948 | 1939-11-09 | 독 SS 급습조가 중립 네덜란드 벤로의 영 정보요원 베스트·스티븐스를 무력납치해 독일로 압송 | 중립국침범·납치 | 발생 | 문헌대조 | [SRC-642](chronology-sources-v1.md) · [SRC-643](chronology-sources-v1.md) |
+| EVT-0949 | 1939-11-09 | 네덜란드 군정보장교 디르크 클로프가 벤로 납치사건 도중 총격당해 사망 | 중립국피해·장교 | 발생 | 문헌대조 | [SRC-643](chronology-sources-v1.md) · [SRC-644](chronology-sources-v1.md) |
+| EVT-0950 | 1939-11-09 | 독 급습조 알프레트 나우요크스의 현장작전과 네덜란드 헌병의 사전 경계협조가 사후 증언에 남음 | 정보공작·국경경계 | 발생 | 문헌대조 | [SRC-644](chronology-sources-v1.md) |
+| EVT-0951 | 1939-11-09 | 영 Carmarthen Coast가 U24의 10월26일 부설기뢰에 11월9일 접촉·침몰해 17명 중2명 사망 | 기뢰전·상선 | 발생 | 문헌대조 | [SRC-645](chronology-sources-v1.md) · [SRC-646](chronology-sources-v1.md) |
+| EVT-0952 | 1939-11-09 | 영 시햄(Seaham) 구명정이 침몰 Carmarthen Coast 승조원15명 구조 | 인명구조·어선 | 발생 | 문헌대조 | [SRC-645](chronology-sources-v1.md) |
+| EVT-0953 | 1939-11-09 | 독 U34가 중립 노르웨이 상선 Snar를 정선시켰으나 악천후로 검색을 10일로 연기 | 중립상선·검색 | 발생 | 문헌대조 | [SRC-647](chronology-sources-v1.md) · [SRC-648](chronology-sources-v1.md) |
+| EVT-0954 | 1939-11-09 | 소핀 협상이 9일 밤 일시중단되었다는 핀란드 12월 제출 당시 외교각서(원회담일지 부재) | 북유럽·협상 | 발생 | 링크등록 | [SRC-662](chronology-sources-v1.md) |
+| EVT-0955 | 1939-11-09 | 독일 점령 우치에서 첫 공개교수형이 9일 있었다는 독 대학연표(당대 10일자 일기와 날짜 이견) | 점령범죄·공개처형 | 발생 | 링크등록 | [SRC-656](chronology-sources-v1.md) · [SRC-657](chronology-sources-v1.md) |
+| EVT-0956 | 1939-11-10 | 독 U34가 전날 정선시킨 노르웨이 중립 Snar를 전리품으로 나포·독항구로 이송(후일 석방) | 중립선나포 | 발생 | 문헌대조 | [SRC-647](chronology-sources-v1.md) · [SRC-648](chronology-sources-v1.md) |
+| EVT-0957 | 1939-11-10 | 독일 점령세력이 10~11일 밤 우치 유대교 회당에 조직적 방화를 시작(건물별 최종파괴일 상충) | 유대인박해·종교시설 | 발생 | 문헌대조 | [SRC-654](chronology-sources-v1.md) · [SRC-653](chronology-sources-v1.md) · [SRC-655](chronology-sources-v1.md) |
+| EVT-0958 | 1939-11-10 | 우치 Alte Szil·Ezras Israel 등 개별 회당의 10일 밤 소실 여부는 방화일·붕괴·철거 시각 충돌 | 종교시설파괴·날짜이견 | 발생 | 링크등록 | [SRC-654](chronology-sources-v1.md) · [SRC-655](chronology-sources-v1.md) |
+| EVT-0959 | 1939-11-10 | 우치의 유대계 십대 다비트 시에라코비아크가 바우티 장터 공개교수형과 보복우려를 당대일기에 기록 | 민간인일기·점령 | 발생 | 문헌대조 | [SRC-657](chronology-sources-v1.md) |
+| EVT-0960 | 1939-11-10 | 핀 외교부의 당대 후속각서에 몰로토프가 9일 중단 뒤 오해해소 서한을 보내고 10일 항코 기지요구를 유지했다고 기록 | 핀소외교·후속서한 | 발생 | 링크등록 | [SRC-662](chronology-sources-v1.md) |
+| EVT-0961 | 1939-11-11 | 폴란드 독립기념일에 독 점령세력이 피아시니차 숲에서 폴란드 주민314명 집단총살 | 점령범죄·학살 | 발생 | 문헌대조 | [SRC-649](chronology-sources-v1.md) · [SRC-650](chronology-sources-v1.md) · [SRC-652](chronology-sources-v1.md) |
+| EVT-0962 | 1939-11-11 | 피아시니차 314명 희생자 가운데 수녀 알리치아 코토프스카가 포함됨 | 민간인피해·수녀 | 발생 | 문헌대조 | [SRC-649](chronology-sources-v1.md) |
+| EVT-0963 | 1939-11-11 | 피아시니차 희생자 중 그디니아 해양기상·항만업무·해양교육 전문가들이 실명으로 보존됨 | 해운경제·지식인피해 | 발생 | 문헌대조 | [SRC-651](chronology-sources-v1.md) |
+| EVT-0964 | 1939-11-11 | 독점령군이 우치 유대인평의회 대부분 위원을 체포(31명 중6명 석방·20명 이상은 후일 살해) | 유대인박해·대량체포 | 발생 | 문헌대조 | [SRC-653](chronology-sources-v1.md) · [SRC-656](chronology-sources-v1.md) |
+| EVT-0965 | 1939-11-11 | 독일 점령당국이 우치의 타데우시 코시치우슈코 기념상을 10~11일 밤 파괴 | 점령상징파괴 | 발생 | 문헌대조 | [SRC-658](chronology-sources-v1.md) |
+| EVT-0966 | 1939-11-11 | 다비트 시에라코비아크의 일기에서 우치의 교사·독립활동가·경찰 검거와 라디오 반납명령을 확인 | 민간인생활·일기 | 발생 | 문헌대조 | [SRC-657](chronology-sources-v1.md) |
+| EVT-0967 | 1939-11-12 | 독 U41이 영 비무장어선 Cresswell을 정선·포격 침몰시켜 승조원13명 중 총6명 사망 | 잠수함전·어선 | 발생 | 문헌대조 | [SRC-659](chronology-sources-v1.md) · [SRC-661](chronology-sources-v1.md) |
+| EVT-0968 | 1939-11-12 | U41이 Cresswell 생존자8명을 처음 구출했으나 1명이 부상후 사망해 최종7명 생존 | 전투피해·부상후사망 | 발생 | 문헌대조 | [SRC-659](chronology-sources-v1.md) |
+| EVT-0969 | 1939-11-12 | 독 U41이 중립 노르웨이 유조선 Arne Kjøde를 어뢰 격침(39명 중 최종5명 사망·34명 생존) | 중립상선·유조선 | 발생 | 문헌대조 | [SRC-660](chronology-sources-v1.md) |
+| EVT-0970 | 1939-11-12 | 잠수함 U41에 구조돼 있던 Cresswell 생존자들이 중립 유조선 Arne Kjøde 격침을 목격 | 해난구조·목격 | 발생 | 문헌대조 | [SRC-659](chronology-sources-v1.md) · [SRC-660](chronology-sources-v1.md) |
+| EVT-0971 | 1939-11-12 | U41이 영 Cresswell 최종생존자7명을 영국 어선 Phyllisia로 인계(14일 육지 도착과 구별) | 해난구조·인계 | 발생 | 문헌대조 | [SRC-659](chronology-sources-v1.md) · [SRC-661](chronology-sources-v1.md) |
+| EVT-0972 | 1939-11-12 | Arne Kjøde 탈출자들이 두 구명정으로 피신했으나 후일 14일 한 구명정이 전복돼 사망자가 발생 | 민간해난·구명정 | 발생 | 문헌대조 | [SRC-660](chronology-sources-v1.md) |
 | EVT-0067 | 1939-11-30 | 소련의 핀란드 침공과 겨울전쟁 개시 | 전쟁 | 발생 | 미등록 | — |
 | EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 미등록 | — |
 

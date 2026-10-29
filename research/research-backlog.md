@@ -325,7 +325,22 @@ updated: 2026-10-26
 | RQ-0277 | P1 | open | 영해군 HMS Seal 11/7 공습 | 7일 Harwich 동쪽 HMS Seal+Boadicea 대잠훈련 중 수상기 투탄 무피해, 당시 공격기 식별·시각 | 1939-11-07,SRC-641 | 영 RN Admiral War Diary 1939 Nov7 및 독 공군 작전일지 |
 | RQ-0278 | P0 | open | 핀란드 11/4 Stalin 유연안 | 11월4 밤 Stalin가 Hanko 대신 부근 섬기지 대안 제시·카렐리야 추가양도 요구, 5일 미 주소련대사 간접전문과 원회담록 | EVT-0923,SRC-640 | Finnish MFA Paasikivi/Tanner diary 11/4, Soviet original record; 대사 정보원 기록표 |
 | RQ-0279 | P0 | open | 중일전쟁 11/5~8 독립자료 | 1939-11-05~08 중국·일본·조선 관련 항공전·지상 소전투 및 민간인학살 당일 원군일지 부족 | 1939-11-05~08,RQ-0265 | 중국 후난·광시 전쟁사 11월 일일보고, 일본 JACAR 11군·21군 전투일지, 전후현지부상자실명 |
-| RQ-0280 | P0 | open | 다음 11/9~12 조사 | 1939-11-09 Venlo 국경 영국 비밀장교 납치, 11/11 피아시니차·포트VII 대규모 처형, 11/11 Owińska 환자 살해, 핀소 교섭 후속 | 1939-11-09~12,RQ-0266 | 밀집도 따라 9~10/11~12 분리, 인질·개인사·동아시아 동시조사 |
+| RQ-0280 | P0 | in_progress | 다음 11/9~12 조사 | 1939-11-09 Venlo 국경 영국 비밀장교 납치, 11/11 피아시니차·포트VII 대규모 처형, 11/11 Owińska 환자 살해, 핀소 교섭 후속 | 1939-11-09~12,RQ-0266 | 밀집도 따라 9~10/11~12 분리, 인질·개인사·동아시아 동시조사 |
+
+| RQ-0281 | P0 | open | Venlo 중립국침범·Dirk Klop | 9일 Best Stevens 납치·Klop 총격사망시각 및 네덜란드 영토침범 법적기록 | SRC-642,SRC-643 | 네덜란드 1939 헌병군정보 원문과 SIS 기록, 피살장소 구별 |
+| RQ-0282 | P1 | open | Venlo 엘저 사건 선전 | 독이 Elser 8일 테러와 Venlo 9일 영 정보요원납치를 연결한 선전, 실제 관련성 부정 | EVT-0066,SRC-642 | 독 Propaganda Ministry 1939 방송·나치심문 원보전 |
+| RQ-0283 | P1 | open | Carmarthen Coast 기뢰 | 10/26 U24 기뢰9발→11/9 침몰2사망15생존, 6명 부상과 죽은 2명 구분 | SRC-645,SRC-646 | Seaham RNLI 로그·U24 KTB·원 사망신고 |
+| RQ-0284 | P1 | open | Snar 나포·석방 | 9일 정선/10일 prize captured와 최종석방시점·노르웨이 영해법/항해지 | SRC-647,SRC-648 | Norwegian MFA 항의·U34 원일지·Snar 선장 |
+| RQ-0285 | P0 | open | Łódź 시나고그 각 건물 | 10~11밤4회당 방화설 vs 10~14 YIVO, 10~15 Łódź 공식관계·Wilker 1940 생존 | SRC-653,SRC-654,SRC-655 | 독 소방원일지·유대인 공동체 원피해일기·거리별 건물 원도 |
+| RQ-0286 | P1 | open | 우치 Judenrat 위원 살해 | 11일31인중 대부분 체포·6석방·20명 이상 후일살해, 피해자 사망일 | SRC-653,SRC-656 | Yad Vashem·폴란드 희생자명부·게슈타포 경찰 실명 기록 |
+| RQ-0287 | P1 | open | 우치 공개처형 9 vs10 | 기센대 연표9일 vs Dawid Sierakowiak 일기10일 장터 3명 공개교수형 | SRC-656,SRC-657 | Sierakowiak 원폴란드어 당일일기·독 검찰사건 경고·경찰원보 |
+| RQ-0288 | P0 | open | Piaśnica 314 명부 | 11/3 82명 별도 vs 11/11 314명, 314중 Alicja Kotowska·해양교사 기술자 실명 | SRC-649,SRC-650,SRC-651 | IPN Piaśnica 원수사사진 및 Gdynia Maritime Uni 개인사망기록 |
+| RQ-0289 | P0 | open | Owińska 날짜·규모 이견 | 1939 10월중~11월말 약1000명 vs 추모기관1100+, 22명 실명, FortVII CO gas와 Roznowo 숲 피해집단 | SRC-663,SRC-664,SRC-665 | IPN S83/13/Zn original witness and 22 identified, no false exact 11/11 |
+| RQ-0290 | P1 | open | Cresswell 생존 변화 | 11/12 어선13명/사망6, 초기8명구조·1명부상사망, 최종7명 Phyllisia 인계 | SRC-659,SRC-661 | 영 어선·독 U41전쟁일지·Phyllisia 11/14 입항기록 |
+| RQ-0291 | P1 | open | Arne Kjøde 사망일 | 12일 U41 어뢰격침39명 중 총5명 사망 vs 14일 구명정전복 4명익사·제5피해원인 | SRC-660 | 노르웨이 선원사망자명부, 영 Night Hawk·HMS Isis 구조일지 |
+| RQ-0292 | P1 | open | 소핀 협상 9/10 | 핀12월 제출 외교문서에 9일 중단 밤 몰로토프 서한 10일 항코요구, 정확 당시회의일지 부재 | SRC-662 | Paasikivi 원일기/소련 Molotov 서한 및 철도 통신 |
+| RQ-0293 | P0 | open | 11/9~12 동아시아전선 누락 | 중국 남광시 관련 일본군 11/15 상륙 전 준비행동·중국 각지 9~12일 국지교전 원일지 | RQ-0279 | JACAR 21군 명령·중국 광시 전쟁일지, 11/15 상륙 소급기록금지 |
+| RQ-0294 | P0 | open | 다음 11/13~16 | 핀란드 대표단 귀국, 노르웨이 유조선 구조 14일, 15일 남중국 광시전선 상륙·영해군 | RQ-0280 | 13~14일과 15~16일 밀도별 구간조절, 중립국 승조원명부 |
 
 ## 조사기록·원전으로의 역참조
 
@@ -357,6 +372,7 @@ updated: 2026-10-26
 - [1939년 10월 27~31일·18·25일 누락 보강 감사](source-audit-1939-oct27-31-batch1.md)
 - [1939년 11월 1~4일 독소 병합·핀소 외교·미국 중립법·피아시니차 감사](source-audit-1939-nov01-04-batch1.md)
 - [1939년 11월 5~8일 지하언론·교수체포·Elser·지역학살 감사](source-audit-1939-nov05-08-batch1.md)
+- [1939년 11월 9~12일 Venlo·Piaśnica·Łódź·중립상선·오빈스카 감사](source-audit-1939-nov09-12-batch1.md)
 
 ## 중요 통제
 
