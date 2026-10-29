@@ -583,7 +583,7 @@ as_of: 2026-10-25
 | EVT-0852 | 1939-10-23 | 소련 측 항코(Hanko) 군사기지·레닌그라드 북쪽 카렐리야 지협 조정 요구를 핀란드 측이 수용하지 않아 회담 난항 | 군사기지요구·외교교섭 | 발생 | 문헌대조 | [SRC-554](chronology-sources-v1.md) |
 | EVT-0853 | 1939-10-24 | 미국 주소련대사 스타인하르트가 전날 소련·핀란드 두 차례 회담의 교착 상태를 극비 전보로 워싱턴에 보고 | 외교전보·당대정보 | 발생 | 문헌대조 | [SRC-554](chronology-sources-v1.md) |
 | EVT-0854 | 1939-10-24 | 독 잠수함 U-37, 지브롤터 서방에서 영국 상선 Menin Ridge를 어뢰격침해 승조원 25명 중 20명 사망 | 해상전·상선피해 | 발생 | 문헌대조 | [SRC-567](chronology-sources-v1.md) |
-| EVT-0855 | 1939-10-24 | Menin Ridge 생존 5명 가운데 당시 16세 갑판소년 벤저민 올라프 블롬그렌은 사망자 명부에 포함되므로 생존자로 잘못 기록하지 않음 | 해난·소년선원피해 | 발생 | 문헌대조 | [SRC-567](chronology-sources-v1.md) · [SRC-572](chronology-sources-v1.md) |
+| EVT-0855 | 1939-10-24 | Menin Ridge 승조원 중 16세 갑판소년 벤저민 올라프 블롬그렌이 사망자 명부에 포함됨(생존자 5명과 별개) | 해난·소년선원피해 | 발생 | 문헌대조 | [SRC-567](chronology-sources-v1.md) · [SRC-572](chronology-sources-v1.md) |
 | EVT-0856 | 1939-10-24 | 영국 상선 Ledbury가 Menin Ridge 침몰 생존자 5명을 구하려고 정선·구명정을 내려 구조작업 전개 | 인명구조·상선 | 발생 | 문헌대조 | [SRC-568](chronology-sources-v1.md) · [SRC-567](chronology-sources-v1.md) |
 | EVT-0857 | 1939-10-24 | 독 잠수함 U-37, 구조작업 중이던 영국 상선 Ledbury를 함포로 격침; Ledbury 승조원 31명 전원 생존 | 해상전·구조선피격 | 발생 | 문헌대조 | [SRC-568](chronology-sources-v1.md) |
 | EVT-0858 | 1939-10-24 | 미국 상선 Crown City가 U-37에 공격받은 Menin Ridge·Ledbury 생존자들을 구조해 지브롤터로 수송 | 중립국·해난구조 | 발생 | 문헌대조 | [SRC-568](chronology-sources-v1.md) |
