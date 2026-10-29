@@ -789,6 +789,35 @@ as_of: 2026-10-25
 | SRC-665 | Żabikowo memorial Owińska psychiatry victims | 전문 박물관 2차 기관사 | approx1100 psychiatric victims estimate and Herbert Lange command | https://zabikowo.eu/22-owinska-szpital-psychiatryczny/ | IPN ~1000 vs museum 1100+ count difference; 2026-10-29 감사 |
 | SRC-666 | uboat.net November1939 ships losses index | 2차 해전월간 피해색인 | Nov9 U24 mine Carmarthen and Snar captured, Nov12 U41 Cresswell and Arne Kjøde | https://uboat.net/allies/merchants/losses_year.html?qdate=1939-11 | captured ship included in gross tonnage lost but not sunk; 2026-10-29 감사 |
 
+## 1939년 11월 13~16일 외교·광시·대서양 해군작전 사료
+
+| SRC-667 | US State Dept FRUS Steinhardt Moscow 13 November 1939 d1099 | 1차 미국 대사 13일 오후5시 당대 외교전보 | 13일 핀 정부 귀국결정, 대표단 저녁 21:50 모스크바 출발 예정 | https://history.state.gov/historicaldocuments/frus1939v01/d1099 | 예정시각과 실제 열차 운행기록 구별; 2026-10-29 검증 |
+| SRC-668 | US Dept State FRUS Finnish Legation 11 December d1141 | 1차 핀 외무부 1939 당사자 외교경위 서술 | 13일 핀 대표단 귀국 결정과 Hanko 기지·Koivisto 영토협상 교착 | https://history.state.gov/historicaldocuments/frus1939v01/d1141 | 작성 12/11, 사건일 11/13 분리; 2026-10-29 검증 |
+| SRC-669 | Finnish Foreign Ministry 1940 White Book, Nov13 letter22 | 1차 핀외교서한 정부공식문서집 전재 | 11/13 Paasikivi Tanner가 몰로토프에 무합의와 그날 저녁 출발 알리는 서한 전달 | https://histdoc.net/pdf/Documents%20concerning%20Finnish-Soviet%20relations%20during%20the%20autumn%201939.pdf | PDF 검색문구만 확인·원페이지 screenshot 미확보; 2026-10-29 검증 |
+| SRC-670 | Yle Finland 1939 Soviets negotiations and Winter War | 2차 핀란드 공영방송 연구 | 11/13 대표단 출발을 외교교섭 일시중단으로 당시 파악 | https://yle.fi/aihe/a/20-67234 | 11/30 실제 소련침공과 13일 외교귀환 별개; 2026-10-29 검증 |
+| SRC-671 | HistoryRussia BSSR Presidium November14 decree | 1차 BSSR 당대 영토편입령 서지 | 1939년 11월14일 서벨라루스 BSSR 편입 후속법령·11월16일 신문발표 | https://docs.historyrussia.org/ru/nodes/270038 | 11/2 USSR 편입결의와 11/14 BSSR 관할 법령 구분; 2026-10-29 검증 |
+| SRC-672 | uboat.net Arne Kjøde neutral tanker 12–15 November | 2차 해난사·상선상세 | 11/14 Night Hawk 22명·HMS Isis 12명 구조, 선장등 4명 구명정전복 익사; 15일 선미 처분 | https://www.uboat.net/allies/merchants/94.html | 최종5명 사망 중 5번째 사망일/원인 미상; 2026-10-29 검증 |
+| SRC-673 | Norwegian War Sailor Register Arne Kjøde | 노르웨이 해난명부 2차 | 11/14 Night Hawk 구조 23명으로 기술; 영 선박역사 22명과 충돌 | https://www.krigsseilerregisteret.no/en/skip/315926 | 다른 자료 22명/노르웨이 23명 추후 원선장기록; 2026-10-29 검증 |
+| SRC-674 | uboat.net French Loire November13 1939 | 2차 프 상선해난피해 | 11/13 U26 지중해 어뢰로 34선원+5해군포수 총39명 전원 사망 | https://uboat.net/allies/merchants/ships/93.html | 첫 불발어뢰 후 03:40 유효명중, 생존자 없음; 2026-10-29 검증 |
+| SRC-675 | uboat.net French Loire 39 individual crew records | 2차 해난 인명명부 | 14세 급사 Olivier Cavellec를 포함한 39명 사망 실명 | https://uboat.net/allies/merchants/crews/ship93.html | 프 국가원사망증명서 추가검증; 2026-10-29 검증 |
+| SRC-676 | uboat.net U26 Mediterranean first patrol | 2차 독 잠수함 원항해일지 연구 | 11/13 Loire, 1939 대전 중 독 U보트 첫 지중해 작전 | https://uboat.net/boats/patrols/u26/1939-11-13.html | 지브롤터 기뢰부설 시도 및 지중해 활동 구분; 2026-10-29 검증 |
+| SRC-677 | Naval-History Don Kindell November 1939 Royal Navy chronology | 2차 Admiralty 영해군 원일지 재구성 | 13일 독구축함 기뢰 4척, Adventure·Blanche·Ponzano·Matra, 15일 Woodtown; Matra16 사망 Woodtown8 | https://naval-history.net/xDKWW2-3911-08NOV01.htm | Blanche 최종2 vs 당시 1사망1실종, Adventure 초기피해수 변동; 2026-10-29 검증 |
+| SRC-678 | uboat.net HMS Blanche H47 warship diary | 2차 영 해군 단함전사 | 13일 08:25 독기뢰 피격·예인중 침몰, 최종 사망2명, 첫 소개의 12일 표기 내부오류 | https://www.uboat.net/allies/warships/ship/4352.html | 페이지 loss=13·narrative=13 vs intro=12 오류, 당대일지 기준13; 2026-10-29 검증 |
+| SRC-679 | uboat.net HMS Adventure minelayer diary | 2차 영해군 단함 전사 | 13일 05시께 기뢰 충돌·호위 Basilisk로 부상자 옮김, 군함은 살아남음 | https://www.uboat.net/allies/warships/1267.html | HMS Blanche와 동일 기뢰지대 다른 선박; 2026-10-29 검증 |
+| SRC-680 | Royal Navy Admiralty War Diary November 1939 | 1차 당대영해군 작전일지 PDF 색인·문구 | 13일 Adventure 05:17, Blanche 08:25 기뢰 접촉 후 침몰 | https://cd.royalnavy.mod.uk/-/media/rnweb/locations-and-operations/navy-historical-branch/pdfs/1939/1939/admiralty-war-diary-november-1939.pdf?rev=0a327c1771ea469d82a3475227c4c86f | 원 PDF 열람 502 오류, 검색발췌만 검증; 2026-10-29 검증 |
+| SRC-681 | Taiwan Ministry National Defense Battle of Southern Kuangsi | 중화민국 육군 지휘기관 2차 전사 | 15일 새벽 안도 리키치 일본군 친저우만 서안 상륙, 난닝 24일 함락 | https://www.mnd.gov.tw/en/informationservices/publication/69589 | 중국 정부입장, 일본군자료 비교; 2026-10-29 검증 |
+| SRC-682 | Tokyo Gazette January 1940 Imperial Japanese HQ Nov15 announcement | 1차 일본제국 대본영 선전문 공식 발표 전재 | 15일 새벽 파코이 부근 기습상륙, 당일 정오 상륙 발표, 16일 후속 작전발표 | https://froginawell.net/reference/japan-docs/doc/tg-3-7-1940-1-102-situation-the-situation-in-china.html | 전과·중국인 저항 저평가는 일본 전시선전; 2026-10-29 검증 |
+| SRC-683 | Chinese Military Academy Nov15 South Guangxi campaign | 2차 중국 군사교육기관 전사 | 15일 제5사단 대만혼성여단 치사·유먼 상륙, 16일 팡청 점령설, 17일 친현 점령 | https://www.jscfa.edu.cn/xgc/2019/1115/c1070a15211/page.htm | 다른 자료 팡청 17일설과 충돌; 2026-10-29 검증 |
+| SRC-684 | Chinese resistance history Guangxi landing 15/16 | 2차 항일전 전문전사·국군방어부대 설명 | 15일 치사 제9여단, 16일 제21여단과 하타부대 후속 상륙 | https://www.krzzjn.com/show-346-146043.html | 상륙 05·07·08:10 최초시각 충돌; 2026-10-29 검증 |
+| SRC-685 | Combined Fleet naval operations Pakhoi November 1939 | 2차 일본해군 작전전문연구 | 13일 하이난 싼야 수송선단 출항, 15일 07시 칭저우만 해군엄호 상륙 | https://www.combinedfleet.com/Pakhoi_t.htm | 개별부대와 전과 독일/일본 일지 필요; 2026-10-29 검증 |
+| SRC-686 | JACAR National Defense Studies Japanese 9th Brigade record | 1차 일본군 실제 전사보고 국방연구소 카탈로그 | 15 Nov–1 Dec 9th Brigade Nanning operation archival item C13031774700 | https://www.jacar.archives.go.jp/das/meta-en/CA0207010500 | 원 15쪽 일본어 기록 영상 미검토, 서지만 활용; 2026-10-29 검증 |
+| SRC-687 | Portugal1939–45 Africa Shell November15 Mozambique | 2차 포르투갈·모잠비크 전사·영문서 원본정보 | 15일 Graf Spee가 Africa Shell 나포폭파, 선장 Patrick Dove 영해침범 항의, 선원 해안도착 | https://www.portugal1939-1945.org/en/africa-shell-castaways-arrive-in-mozambique/ | 선원 28/29 상륙수치, 법률상 영해범위 미확정; 2026-10-29 검증 |
+| SRC-688 | SunkenShips Africa Shell 1939 coordinates study | 2차 독함장 전쟁일지·영선장 회고 해석 비교 | Dove와 Langsdorff 침몰좌표 차이 약15-18km, 모잠비크 영해 침범 확정불가 | https://ww2sunkenships.ca/2023/03/27/locating-the-africa-shell/ | 미확인 침몰잔해로 좌표 원확증 없음; 2026-10-29 검증 |
+| SRC-689 | MaritimeQuest Africa Shell 15 Nov photos | 1차 독 Graf Spee 승조원 촬영 현장사진 재게시 | Africa Shell 승조원하선·나포·폭약침몰, captain detained | https://maritimequest.com/freighters/02_pages/a/africa_shell_1938_data.htm | 이미지 재배포 이용권 미확인; 2026-10-29 검증 |
+| SRC-690 | uboat.net Arlington Court 16 Nov 1939 | 2차 영 상선 침몰·생존집계 | 16일 U43 어뢰로 35명 중6직접사망+기관장 저체온사망=7, 생존28 | https://uboat.net/allies/merchants/ship/95.html | Algenib 22 구조, Spinanger 6명 6일후 구조; 2026-10-29 검증 |
+| SRC-691 | uboat.net Arlington Court crew 16 Nov | 2차 희생자 직급·나이 명부 | 기관장 John Henry Pearson 65세 저체온후 사망, 젊은 선원 인명도 기록 | https://uboat.net/allies/merchants/crews/ship95.html | 개별 사망원신고서 미확인; 2026-10-29 검증 |
+| SRC-692 | uboat.net U43 16 Nov depthcharge attack | 2차 독 잠수함 초계·후속호위폭뢰 | Arlington Court 격침 뒤 영 호송구축함 약20시간 폭뢰공격, U43 피해 | https://uboat.net/boats/patrols/patrol_284.html | 폭뢰가 U43 침몰시켰다는 주장 아님; 2026-10-29 검증 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.

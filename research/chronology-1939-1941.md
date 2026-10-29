@@ -702,6 +702,37 @@ as_of: 2026-10-25
 | EVT-0970 | 1939-11-12 | 잠수함 U41에 구조돼 있던 Cresswell 생존자들이 중립 유조선 Arne Kjøde 격침을 목격 | 해난구조·목격 | 발생 | 문헌대조 | [SRC-659](chronology-sources-v1.md) · [SRC-660](chronology-sources-v1.md) |
 | EVT-0971 | 1939-11-12 | U41이 영 Cresswell 최종생존자7명을 영국 어선 Phyllisia로 인계(14일 육지 도착과 구별) | 해난구조·인계 | 발생 | 문헌대조 | [SRC-659](chronology-sources-v1.md) · [SRC-661](chronology-sources-v1.md) |
 | EVT-0972 | 1939-11-12 | Arne Kjøde 탈출자들이 두 구명정으로 피신했으나 후일 14일 한 구명정이 전복돼 사망자가 발생 | 민간해난·구명정 | 발생 | 문헌대조 | [SRC-660](chronology-sources-v1.md) |
+| EVT-0973 | 1939-11-13 | 핀 정부가 소련 협상단의 13일 귀국을 결정했다고 미주소련대사가 당일17시 전보로 보고 | 핀소외교·협상중단 | 발생 | 문헌대조 | [SRC-667](chronology-sources-v1.md) · [SRC-668](chronology-sources-v1.md) |
+| EVT-0974 | 1939-11-13 | 파시키비·태너가 몰로토프에게 합의 기초를 찾지 못하고 그날 저녁 출발한다는 정식서한 전달 | 핀소외교·마지막서한 | 발생 | 문헌대조 | [SRC-669](chronology-sources-v1.md) · [SRC-668](chronology-sources-v1.md) |
+| EVT-0975 | 1939-11-13 | 핀 대표단 밤21시50분 모스크바 열차 출발 예정이 당일 전보에 기록됨(실제 출발시각 원철도일지 미확정) | 북유럽외교·열차출발 | 발생 | 문헌대조 | [SRC-667](chronology-sources-v1.md) · [SRC-670](chronology-sources-v1.md) |
+| EVT-0976 | 1939-11-13 | 일 일본군 제21군 상륙수송선단이 하이난 싼야에서 광시로 출항 | 중일전쟁·상륙수송 | 발생 | 문헌대조 | [SRC-685](chronology-sources-v1.md) |
+| EVT-0977 | 1939-11-13 | 독 구축함 Z18·Z19·Z20·Z21이 12~13일 밤 템스강 하구에 기뢰를 부설 | 해전·독수상함작전 | 발생 | 문헌대조 | [SRC-677](chronology-sources-v1.md) · [SRC-678](chronology-sources-v1.md) |
+| EVT-0978 | 1939-11-13 | 영 기뢰부설함 HMS Adventure가 새벽5시께 독수상함 기뢰에 충돌·대파되었으나 침몰하지 않음 | 영해군·기뢰피해 | 발생 | 문헌대조 | [SRC-677](chronology-sources-v1.md) · [SRC-679](chronology-sources-v1.md) · [SRC-680](chronology-sources-v1.md) |
+| EVT-0979 | 1939-11-13 | 피격된 HMS Adventure의 부상자들을 호위함 HMS Basilisk로 옮겨 구호 | 영해군·부상자구호 | 발생 | 문헌대조 | [SRC-677](chronology-sources-v1.md) · [SRC-679](chronology-sources-v1.md) |
+| EVT-0980 | 1939-11-13 | 영 구축함 HMS Blanche가 08시25분께 같은 기뢰지대에 피격돼 예인 중 침몰(최종 사망2명, 원보고1사망1실종) | 영해군·구축함침몰 | 발생 | 문헌대조 | [SRC-677](chronology-sources-v1.md) · [SRC-678](chronology-sources-v1.md) |
+| EVT-0981 | 1939-11-13 | 상선 Ponzano가 템스하구 기뢰에 침몰하고 노르웨이 어선2척이 승조원을 구조 | 해난구조·상선 | 발생 | 문헌대조 | [SRC-677](chronology-sources-v1.md) |
+| EVT-0982 | 1939-11-13 | 상선 Matra가 같은 기뢰지대에서 손상·좌초하고 인명16명이 사망했다는 영 전사기록 | 기뢰전·해운피해 | 발생 | 문헌대조 | [SRC-677](chronology-sources-v1.md) |
+| EVT-0983 | 1939-11-13 | 독 U26이 지중해에서 프 상선 Loire를 어뢰격침해 상선선원34명·해군포수5명 전원 사망 | 지중해해전·전원사망 | 발생 | 문헌대조 | [SRC-674](chronology-sources-v1.md) · [SRC-676](chronology-sources-v1.md) |
+| EVT-0984 | 1939-11-13 | Loire의 해난명부에 14세 급사 Olivier Cavellec가 사망자 중 한 사람으로 기록 | 아동선원·민간인희생 | 발생 | 문헌대조 | [SRC-675](chronology-sources-v1.md) |
+| EVT-0985 | 1939-11-14 | BSSR 최고회의 상임위원회가 서벨라루스를 벨라루스 SSR 행정에 편입하는 후속 법령 발표 | 소련영토편입·점령행정 | 발생 | 문헌대조 | [SRC-671](chronology-sources-v1.md) |
+| EVT-0986 | 1939-11-14 | 영 어선 Night Hawk가 노르웨이 유조선 Arne Kjøde의 구명정 선원22명가량 구조(노르웨이 선원등록부23명설) | 중립해난·인명구조 | 발생 | 문헌대조 | [SRC-672](chronology-sources-v1.md) · [SRC-673](chronology-sources-v1.md) |
+| EVT-0987 | 1939-11-14 | Arne Kjøde의 다른 구명정이 악천후로 전복돼 선장 Bernt Ingebrektsen과 선원3명이 익사 | 구명정전복·해난 | 발생 | 문헌대조 | [SRC-672](chronology-sources-v1.md) |
+| EVT-0988 | 1939-11-14 | 영 구축함 HMS Isis가 뒤집힌 Arne Kjøde 구명정에서 생존12명 구조 | 영해군·중립인명구호 | 발생 | 문헌대조 | [SRC-672](chronology-sources-v1.md) |
+| EVT-0989 | 1939-11-15 | 영 상선 Woodtown이 템스하구의 독일수상함 부설기뢰에 닿아 침몰해 선원8명 사망 | 기뢰전·상선침몰 | 발생 | 문헌대조 | [SRC-677](chronology-sources-v1.md) |
+| EVT-0990 | 1939-11-15 | 일본 육군 제21군이 중국 친저우만 서해안에 상륙해 남광시 회전 개시 | 중일전쟁·광시상륙 | 발생 | 문헌대조 | [SRC-681](chronology-sources-v1.md) · [SRC-683](chronology-sources-v1.md) · [SRC-682](chronology-sources-v1.md) |
+| EVT-0991 | 1939-11-15 | 일본 제5사단·대만혼성여단이 친저우만 치사·유먼 주변에 상륙 | 일본육군·상륙부대 | 발생 | 문헌대조 | [SRC-683](chronology-sources-v1.md) · [SRC-684](chronology-sources-v1.md) · [SRC-685](chronology-sources-v1.md) |
+| EVT-0992 | 1939-11-15 | 일군 상륙은 해군함포·항공지원과 안개·악천후 아래 진행돼 중국 제46군 신편19사단 수비대가 방어·후퇴 | 군종협동·중국군방어 | 발생 | 문헌대조 | [SRC-681](chronology-sources-v1.md) · [SRC-683](chronology-sources-v1.md) · [SRC-684](chronology-sources-v1.md) |
+| EVT-0993 | 1939-11-15 | 일본 대본영이 15일 정오 광시 기습상륙 성과를 발표(전과와 적군저항 묘사는 당대 일본 선전) | 전시정보·대본영발표 | 발생 | 문헌대조 | [SRC-682](chronology-sources-v1.md) |
+| EVT-0994 | 1939-11-15 | 독 장갑함 Admiral Graf Spee가 인도양 모잠비크 해안 영 유조선 Africa Shell을 나포·폭약으로 침몰 | 인도양·통상파괴 | 발생 | 문헌대조 | [SRC-687](chronology-sources-v1.md) · [SRC-689](chronology-sources-v1.md) |
+| EVT-0995 | 1939-11-15 | Africa Shell 선장 Patrick Dove가 포르투갈령 모잠비크 영해에서 나포됐다고 항의했으나 정확 좌표·영해침범 여부 논쟁 남음 | 해상중립법·영해논쟁 | 발생 | 문헌대조 | [SRC-687](chronology-sources-v1.md) · [SRC-688](chronology-sources-v1.md) |
+| EVT-0996 | 1939-11-15 | Africa Shell 선장은 독군함에 억류됐고 다른 승조원들은 구명정으로 모잠비크 해안에 도착(상륙자28vs29명) | 인도양·선원생존 | 발생 | 문헌대조 | [SRC-687](chronology-sources-v1.md) · [SRC-689](chronology-sources-v1.md) |
+| EVT-0997 | 1939-11-15 | 영 구축함·부설함이 12일 피격된 Arne Kjøde의 부유선체 선미를 폭약·함포로 처분 | 해난·손상선체처리 | 발생 | 문헌대조 | [SRC-672](chronology-sources-v1.md) |
+| EVT-0998 | 1939-11-16 | 일본 제21여단과 하타 지대의 친저우만 후속 상륙으로 중국 광시 내륙 진격 확대 | 중일전쟁·후속상륙 | 발생 | 문헌대조 | [SRC-684](chronology-sources-v1.md) |
+| EVT-0999 | 1939-11-16 | 일본군이 팡청 현청을 점령했다는 중국 군사학교 기록(일부 지역사 17일로 이견) | 중일전쟁·지방점령 | 발생 | 링크등록 | [SRC-683](chronology-sources-v1.md) · [SRC-684](chronology-sources-v1.md) |
+| EVT-1000 | 1939-11-16 | 독 U43이 호송대 SL-7A 뒤처진 영 상선 Arlington Court 어뢰격침, 총원35명 중7명사망28생존 | 대서양호송전·민간선원 | 발생 | 문헌대조 | [SRC-690](chronology-sources-v1.md) |
+| EVT-1001 | 1939-11-16 | Arlington Court 침몰당시6명이 사망하고 65세 기관장 John Henry Pearson이 구명정 표류 중 추위로 뒤늦게 사망 | 전시해난·후일사망 | 발생 | 문헌대조 | [SRC-690](chronology-sources-v1.md) · [SRC-691](chronology-sources-v1.md) |
+| EVT-1002 | 1939-11-16 | Arlington Court 생존28명 중22명은 네덜란드선 Algenib, 6명은 엿새 후 Spinanger에 구조(당일 모두 구조된 것 아님) | 중립선·구조선 | 발생 | 문헌대조 | [SRC-690](chronology-sources-v1.md) |
+| EVT-1003 | 1939-11-16 | 독 U43이 Arlington Court 격침 직후 영 호위함들의 약20시간 폭뢰공격을 받아 손상 | 대잠전·호송엄호 | 발생 | 문헌대조 | [SRC-692](chronology-sources-v1.md) |
 | EVT-0067 | 1939-11-30 | 소련의 핀란드 침공과 겨울전쟁 개시 | 전쟁 | 발생 | 미등록 | — |
 | EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 미등록 | — |
 
