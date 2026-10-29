@@ -716,7 +716,7 @@ as_of: 2026-10-25
 
 ## 1939년 11월 1~4일 주요 1차·전문기록과 10월 후속 대조 (2026-10-29)
 
-| SRC-602 | Nuremberg 3560-PS English translation 8 Oct 1939 Annexed Eastern Territories Decree | 1차 독 법령(1939 RGBl I 2042) 전후 재판 번역전재 | Article 13(1) sets default Nov 1 1939 effect; Art13(2) interior minister may advance select regions | https://www.historiography-project.com/nca/nca-v06/3560-PS.php | 비판적 역사맥락은 Harvard SRC-455 및 USHMM SRC-559; 출처 호스팅 저자 신뢰성과 역사원문을 분리; 자료대조 2026-10-29·재게시권 별도 |
+| SRC-602 | US Library of Congress, Nuremberg Nazi Conspiracy and Aggression Vol VI document 3560-PS | 1차 독 Reichsgesetzblatt I 2042 법령의 미국 정부전범재판 번역 공식판 | §13 원칙 1939-11-01 시행예정·내무장관 지역별 조기시행권, 실제 조기시행은 SRC-621 확인 | https://tile.loc.gov/storage-services/service/ll/llmlp/2011525363_NT_Nazi_Vol-VI/2011525363_NT_Nazi_Vol-VI.pdf | 미 국회도서관 보존 원문(대용량 PDF 브라우저 미개봉, 검색색인 원조문 및 Harvard SRC-455와 대조); 2026-10-29 |
 | SRC-603 | Russian Presidential Library 2 Nov 1939 Soviet annexation Western Belarus | 1차 당시 최고회의 법령의 정부기록관 서지·전문 요약 | Nov1 Western Ukraine Soviet annexation decree, Nov2 Western Belorussia decree, Belarus SSR acceptance Nov14 | https://www.prlib.ru/history/619685 | 소련이 '자발적 재통일' 주장하는 부분은 점령체제 정당화 선전; 자료대조 2026-10-29·재게시권 별도 |
 | SRC-604 | US FRUS Steinhardt Moscow 2 Nov 1939 telegram 850 | 1차 미국당시대사 외교전보 | Nov1 USSR parliament adopts Western Ukraine annexation and Nov2 agenda West Belorussia | https://history.state.gov/historicaldocuments/frus1933-39/d601 | 11/2 당일은 예고시제, 실제 통과는 SRC603과 추가교차; 자료대조 2026-10-29·재게시권 별도 |
 | SRC-605 | US FRUS Soviet takeover of Eastern Poland 1941 editorial footnote | 1차 미국 외교원문에 학술편집자가 붙인 당대 법률연혁 각주 | 10/22 controlled voting, Oct28 local assembly petition, 1/2 Nov USSR inclusion laws, Nov29 citizenship rule | https://history.state.gov/historicaldocuments/frus1941v01/d221 | 투표의 자유에 대한 소련선전 서술을 반영하지 않는 편집사료; 자료대조 2026-10-29·재게시권 별도 |
@@ -735,6 +735,8 @@ as_of: 2026-10-25
 | SRC-618 | US State Department Neutrality Acts 1939 overview | 2차 미국 국무부 외교사 공식연구 | 1939 cash-and-carry expanded to arms, favors Britain France who have capital and ships, US not belligerent | https://history.state.gov/milestones/1921-1936/neutrality-acts | 영불 혜택은 잠재구조로 실제 계약물량은 11월4일 확정 아님; 자료대조 2026-10-29·재게시권 별도 |
 | SRC-619 | USHMM Jewish Badge Nazi Era chronology | 2차 미국 홀로코스트 전문박물관 | USHMM first Wloclawek Jewish badge order Oct29 1939; Generalgouvernement Nov23 general armband | https://encyclopedia.ushmm.org/content/en/article/jewish-badge-during-the-nazi-era | Jewish Virtual Library sources local command issued Oct24 published Oct25; same order dating conflict RQ; 자료대조 2026-10-29·재게시권 별도 |
 | SRC-620 | Encyclopaedia Judaica Jewish Badge, local Włocławek order | 2차 유대사 백과사전 원문전재 | Wloclawek commander Cramer decree Oct24 published Leslauer Bote Oct25, conflicting USHMM Oct29 | https://jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0003_0_01851.html | 지역시행일/명령일/공표일 구별 전 10/29 사건 추가확정 금지; 자료대조 2026-10-29·재게시권 별도 |
+
+| SRC-621 | Karol Marian Pospieszalski, Nazi Occupation Law in Poland Part II, Institute for Western Affairs, Documenta Occupationis VI | 2차 폴란드 서부연구소(Instytut Zachodni) 법제사 전문연구·독 원관보 각주14 | 1939-10-08 병합령은 11-01 원칙 시행예정, 별도 1939-10-20 조기효력령 RGBl I 2057에 따라 실제 1939-10-26 발효; 10-12자 총독부령 실제 서명은 10-17 이후 10-19경으로 추정 | https://www.iz.poznan.pl/archiwum/wp-content/uploads/2019/12/DOCUMENTA-OCCUPATIONIS-VI_ENG.pdf | 원 1959년 전문연구 영문 재판 p23-24(웹 PDF zero-index 39~40쪽 화면 확인); 독병합령과 총독부령 서로 다름, 현지 독 원공포문은 추가확인; 2026-10-29 |
 
 ## 출처의 권위에 대한 주의
 
