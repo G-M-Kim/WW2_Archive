@@ -575,6 +575,33 @@ as_of: 2026-10-25
 | EVT-0844 | 1939-10-21 | 중립 노르웨이 유조선 Deodata가 U19가 16일 부설한 기뢰에 접촉해 침몰 | 기뢰전·중립상선 | 발생 | 문헌대조 | [SRC-545](chronology-sources-v1.md) · [SRC-546](chronology-sources-v1.md) |
 | EVT-0845 | 1939-10-21 | 영국 Gorleston 구조정 Louise Stephens, 침몰한 노르웨이 Deodata 선원 23명 전원 구조 | 해난구조·민간인 | 발생 | 문헌대조 | [SRC-545](chronology-sources-v1.md) |
 | EVT-0846 | 1939-10-22 | 핀란드 외무장관 엘리아스 에르코, 독일의 소규모 대공포 공급 약속을 전해 듣고 모스크바 협상단에 대소 강경지시 전송을 약속했다고 후일 핀란드 외교사에 기록 | 북유럽·외교지시 | 발생 | 링크등록 | [SRC-547](chronology-sources-v1.md) |
+| EVT-0847 | 1939-10-23 | 독일 아인자츠코만도14, 폴란드 코시치안(Kościan) 시장에서 지역 엘리트와 주민 18명을 공개총살 | 점령범죄·공개처형 | 발생 | 문헌대조 | [SRC-550](chronology-sources-v1.md) · [SRC-527](chronology-sources-v1.md) |
+| EVT-0848 | 1939-10-23 | 독일 아인자츠코만도14, 시미기엘(Śmigiel)에서 34명 인질을 심문·학대한 뒤 15명을 총살 | 점령범죄·지역학살 | 발생 | 문헌대조 | [SRC-551](chronology-sources-v1.md) |
+| EVT-0849 | 1939-10-23 | 시미기엘 총살 대상 중 약사 치에시엘스키, 우체국장 와브니차크, 시장 피오흐 등 폴란드 지역사회 지도자 15명 실명 확인 | 민간인피해·인물기록 | 발생 | 문헌대조 | [SRC-551](chronology-sources-v1.md) |
+| EVT-0850 | 1939-10-23 | 폴란드 비엘코폴스카 20·21·23일 '공포의 3일' 공개처형이 마지막 날에도 이어져, 전체 14개 지역 합계 약275명 살해 | 점령범죄·집계종합 | 발생 | 문헌대조 | [SRC-527](chronology-sources-v1.md) · [SRC-550](chronology-sources-v1.md) · [SRC-551](chronology-sources-v1.md) |
+| EVT-0851 | 1939-10-23 | 모스크바에서 스탈린·몰로토프와 핀란드 파시키비·태너 대표단이 2차 협상 중 두 차례 회담을 열었음(24일 미국대사 보고) | 외교회담·전쟁위기 | 발생 | 문헌대조 | [SRC-554](chronology-sources-v1.md) · [SRC-555](chronology-sources-v1.md) |
+| EVT-0852 | 1939-10-23 | 소련 측 항코(Hanko) 군사기지·레닌그라드 북쪽 카렐리야 지협 조정 요구를 핀란드 측이 수용하지 않아 회담 난항 | 군사기지요구·외교교섭 | 발생 | 문헌대조 | [SRC-554](chronology-sources-v1.md) |
+| EVT-0853 | 1939-10-24 | 미국 주소련대사 스타인하르트가 전날 소련·핀란드 두 차례 회담의 교착 상태를 극비 전보로 워싱턴에 보고 | 외교전보·당대정보 | 발생 | 문헌대조 | [SRC-554](chronology-sources-v1.md) |
+| EVT-0854 | 1939-10-24 | 독 잠수함 U-37, 지브롤터 서방에서 영국 상선 Menin Ridge를 어뢰격침해 승조원 25명 중 20명 사망 | 해상전·상선피해 | 발생 | 문헌대조 | [SRC-567](chronology-sources-v1.md) |
+| EVT-0855 | 1939-10-24 | Menin Ridge 생존 5명 가운데 당시 16세 갑판소년 벤저민 올라프 블롬그렌은 사망자 명부에 포함되므로 생존자로 잘못 기록하지 않음 | 해난·소년선원피해 | 발생 | 문헌대조 | [SRC-567](chronology-sources-v1.md) · [SRC-572](chronology-sources-v1.md) |
+| EVT-0856 | 1939-10-24 | 영국 상선 Ledbury가 Menin Ridge 침몰 생존자 5명을 구하려고 정선·구명정을 내려 구조작업 전개 | 인명구조·상선 | 발생 | 문헌대조 | [SRC-568](chronology-sources-v1.md) · [SRC-567](chronology-sources-v1.md) |
+| EVT-0857 | 1939-10-24 | 독 잠수함 U-37, 구조작업 중이던 영국 상선 Ledbury를 함포로 격침; Ledbury 승조원 31명 전원 생존 | 해상전·구조선피격 | 발생 | 문헌대조 | [SRC-568](chronology-sources-v1.md) |
+| EVT-0858 | 1939-10-24 | 미국 상선 Crown City가 U-37에 공격받은 Menin Ridge·Ledbury 생존자들을 구조해 지브롤터로 수송 | 중립국·해난구조 | 발생 | 문헌대조 | [SRC-568](chronology-sources-v1.md) |
+| EVT-0859 | 1939-10-24 | 독 U-37, 영국 상선 Tafna를 격침해 34명 중 2명이 사망하고 32명이 생존 | 해상전·상선손실 | 발생 | 문헌대조 | [SRC-569](chronology-sources-v1.md) |
+| EVT-0860 | 1939-10-24 | 중립 그리스 상선 Konstantinos Hadjipateras가 16일 U-19가 설치한 기뢰에 접촉하여 침몰, 31명 중 4명 사망 | 기뢰전·중립국 | 발생 | 문헌대조 | [SRC-570](chronology-sources-v1.md) |
+| EVT-0861 | 1939-10-24 | 영국 구명정 Louise Stephens가 그리스 중립상선 Konstantinos Hadjipateras 생존자 27명을 구조 | 민간해난구조 | 발생 | 문헌대조 | [SRC-570](chronology-sources-v1.md) |
+| EVT-0862 | 1939-10-24 | 영국 해군 Puffin·Cayton Wyke, U-16 추정 접촉 지점에 폭뢰 공격을 가했으나 격침의 실제 원인·시점은 기뢰설 우세 | 대잠전·전과논쟁 | 발생 | 링크등록 | [SRC-564](chronology-sources-v1.md) · [SRC-565](chronology-sources-v1.md) |
+| EVT-0863 | 1939-10-25 | 폴란드 포즈난의 전직 시장 미코와이 키에다치(Mikołaj Kiedacz), 독일 점령당국에 의해 포트 VII에서 처형 | 점령범죄·지도층살해 | 발생 | 문헌대조 | [SRC-552](chronology-sources-v1.md) |
+| EVT-0864 | 1939-10-25 | 독 잠수함 U-16이 기뢰피격 후 04시15분 최종무전을 보내고 굿윈 사주 근처에서 좌초·자침, 승조원 28명 전원 사망(미 해군 24일 표기 이견) | 기뢰전·잠수함손실 | 발생 | 문헌대조 | [SRC-564](chronology-sources-v1.md) · [SRC-565](chronology-sources-v1.md) · [SRC-566](chronology-sources-v1.md) |
+| EVT-0865 | 1939-10-26 | 독일 점령하 폴란드의 비병합지역에 한스 프랑크 총독의 민간통치 총독부(Generalgouvernement)가 발효·출범 | 점령통치·정책시행 | 발생 | 문헌대조 | [SRC-558](chronology-sources-v1.md) · [SRC-559](chronology-sources-v1.md) · [SRC-560](chronology-sources-v1.md) |
+| EVT-0866 | 1939-10-26 | 독일 총독부 관할 4개 지구 크라쿠프·바르샤바·라돔·루블린을 기반으로 점령 민간행정 개시(기구 변천은 후일과 구분) | 행정구역·점령령 | 발생 | 문헌대조 | [SRC-559](chronology-sources-v1.md) |
+| EVT-0867 | 1939-10-26 | 나치 총독 한스 프랑크, 폴란드 점령지 주민에게 책임전가·복종을 강요하는 당일 총독부 출범 선전포고문 발표 | 점령선전·행정포고 | 발생 | 문헌대조 | [SRC-560](chronology-sources-v1.md) |
+| EVT-0868 | 1939-10-26 | 독일에 직접 편입한 서부·북부 폴란드 지역도 총독부와 구별되는 점령행정 체제로 이행했으나 10월8일 병합령의 11월1일 효력 조문과 대조 필요 | 행정법·영토병합 | 발생 | 링크등록 | [SRC-558](chronology-sources-v1.md) · [SRC-559](chronology-sources-v1.md) · [SRC-455](chronology-sources-v1.md) |
+| EVT-0869 | 1939-10-26 | 한스 프랑크 명의 총독부 유대인 강제노동령 공포, 유대인 강제노동집단 편성 조항 포함 | 유대인박해·강제노동 | 발생 | 문헌대조 | [SRC-561](chronology-sources-v1.md) |
+| EVT-0870 | 1939-10-26 | 한스 프랑크 총독의 일반주민 강제노동령이 공포되어 성인 민간인의 노동의무를 규정(유대인 대상 별도 규정과 구별) | 강제노동·점령행정 | 발생 | 문헌대조 | [SRC-562](chronology-sources-v1.md) |
+| EVT-0871 | 1939-10-26 | 나치 당국, 빈에서 유대인 남성 672명을 니스코행 두 번째 열차로 강제추방(첫 수송 20일 912명과 별도) | 홀로코스트·강제추방 | 발생 | 문헌대조 | [SRC-556](chronology-sources-v1.md) |
+| EVT-0872 | 1939-10-26 | 나치 당국, 오스트라바에서 약400명 유대인 남성을 니스코행 두 번째 열차로 강제추방(첫 수송 18일 약900명과 별도) | 홀로코스트·강제추방 | 발생 | 문헌대조 | [SRC-557](chronology-sources-v1.md) |
+| EVT-0873 | 1939-10-26 | 포즈난 포트 VII에서 독일 점령당국이 에드문트 바르체프스키(24세)·슐렘 질버베르크(33세) 등 26명 처형한 사실을 지역 희생자명부가 기록 | 점령범죄·수감자처형 | 발생 | 문헌대조 | [SRC-553](chronology-sources-v1.md) |
 | EVT-0066 | 1939-11-08 | 게오르크 엘저의 히틀러 암살 시도 | 저항·암살 | 발생 | 미등록 | — |
 | EVT-0067 | 1939-11-30 | 소련의 핀란드 침공과 겨울전쟁 개시 | 전쟁 | 발생 | 미등록 | — |
 | EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 미등록 | — |
