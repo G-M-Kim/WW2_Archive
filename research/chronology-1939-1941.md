@@ -705,7 +705,7 @@ as_of: 2026-10-25
 | EVT-0973 | 1939-11-13 | 핀 정부가 소련 협상단의 13일 귀국을 결정했다고 미주소련대사가 당일17시 전보로 보고 | 핀소외교·협상중단 | 발생 | 문헌대조 | [SRC-667](chronology-sources-v1.md) · [SRC-668](chronology-sources-v1.md) |
 | EVT-0974 | 1939-11-13 | 파시키비·태너가 몰로토프에게 합의 기초를 찾지 못하고 그날 저녁 출발한다는 정식서한 전달 | 핀소외교·마지막서한 | 발생 | 문헌대조 | [SRC-669](chronology-sources-v1.md) · [SRC-668](chronology-sources-v1.md) |
 | EVT-0975 | 1939-11-13 | 핀 대표단 밤21시50분 모스크바 열차 출발 예정이 당일 전보에 기록됨(실제 출발시각 원철도일지 미확정) | 북유럽외교·열차출발 | 발생 | 문헌대조 | [SRC-667](chronology-sources-v1.md) · [SRC-670](chronology-sources-v1.md) |
-| EVT-0976 | 1939-11-13 | 일 일본군 제21군 상륙수송선단이 하이난 싼야에서 광시로 출항 | 중일전쟁·상륙수송 | 발생 | 문헌대조 | [SRC-685](chronology-sources-v1.md) |
+| EVT-0976 | 1939-11-13 | 일본군 제21군 상륙수송선단이 하이난 싼야에서 광시로 출항 | 중일전쟁·상륙수송 | 발생 | 문헌대조 | [SRC-685](chronology-sources-v1.md) |
 | EVT-0977 | 1939-11-13 | 독 구축함 Z18·Z19·Z20·Z21이 12~13일 밤 템스강 하구에 기뢰를 부설 | 해전·독수상함작전 | 발생 | 문헌대조 | [SRC-677](chronology-sources-v1.md) · [SRC-678](chronology-sources-v1.md) |
 | EVT-0978 | 1939-11-13 | 영 기뢰부설함 HMS Adventure가 새벽5시께 독수상함 기뢰에 충돌·대파되었으나 침몰하지 않음 | 영해군·기뢰피해 | 발생 | 문헌대조 | [SRC-677](chronology-sources-v1.md) · [SRC-679](chronology-sources-v1.md) · [SRC-680](chronology-sources-v1.md) |
 | EVT-0979 | 1939-11-13 | 피격된 HMS Adventure의 부상자들을 호위함 HMS Basilisk로 옮겨 구호 | 영해군·부상자구호 | 발생 | 문헌대조 | [SRC-677](chronology-sources-v1.md) · [SRC-679](chronology-sources-v1.md) |
@@ -726,7 +726,7 @@ as_of: 2026-10-25
 | EVT-0994 | 1939-11-15 | 독 장갑함 Admiral Graf Spee가 인도양 모잠비크 해안 영 유조선 Africa Shell을 나포·폭약으로 침몰 | 인도양·통상파괴 | 발생 | 문헌대조 | [SRC-687](chronology-sources-v1.md) · [SRC-689](chronology-sources-v1.md) |
 | EVT-0995 | 1939-11-15 | Africa Shell 선장 Patrick Dove가 포르투갈령 모잠비크 영해에서 나포됐다고 항의했으나 정확 좌표·영해침범 여부 논쟁 남음 | 해상중립법·영해논쟁 | 발생 | 문헌대조 | [SRC-687](chronology-sources-v1.md) · [SRC-688](chronology-sources-v1.md) |
 | EVT-0996 | 1939-11-15 | Africa Shell 선장은 독군함에 억류됐고 다른 승조원들은 구명정으로 모잠비크 해안에 도착(상륙자28vs29명) | 인도양·선원생존 | 발생 | 문헌대조 | [SRC-687](chronology-sources-v1.md) · [SRC-689](chronology-sources-v1.md) |
-| EVT-0997 | 1939-11-15 | 영 구축함·부설함이 12일 피격된 Arne Kjøde의 부유선체 선미를 폭약·함포로 처분 | 해난·손상선체처리 | 발생 | 문헌대조 | [SRC-672](chronology-sources-v1.md) |
+| EVT-0997 | 1939-11-15 | 영 구축함 HMS Isis와 지원 함정이 12일 피격된 Arne Kjøde의 부유 선미를 예인 시도한 뒤 기상악화로 함포 처분 | 해난·손상선체처리 | 발생 | 문헌대조 | [SRC-672](chronology-sources-v1.md) |
 | EVT-0998 | 1939-11-16 | 일본 제21여단과 하타 지대의 친저우만 후속 상륙으로 중국 광시 내륙 진격 확대 | 중일전쟁·후속상륙 | 발생 | 문헌대조 | [SRC-684](chronology-sources-v1.md) |
 | EVT-0999 | 1939-11-16 | 일본군이 팡청 현청을 점령했다는 중국 군사학교 기록(일부 지역사 17일로 이견) | 중일전쟁·지방점령 | 발생 | 링크등록 | [SRC-683](chronology-sources-v1.md) · [SRC-684](chronology-sources-v1.md) |
 | EVT-1000 | 1939-11-16 | 독 U43이 호송대 SL-7A 뒤처진 영 상선 Arlington Court 어뢰격침, 총원35명 중7명사망28생존 | 대서양호송전·민간선원 | 발생 | 문헌대조 | [SRC-690](chronology-sources-v1.md) |
