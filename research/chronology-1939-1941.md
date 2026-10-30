@@ -848,6 +848,40 @@ as_of: 2026-10-25
 | EVT-1115 | 1939-12-01 | Mercator 생존35명 중 23명은 어선 Bread Winner에 구조, 12명은 Boddam에 자력도착 | 해난구조·중립선 | 발생 | 문헌대조 | [SRC-788](chronology-sources-v1.md) |
 | EVT-1116 | 1939-12-01 | 독 U31이 09:30 노르웨이 중립상선 Arcturus를 어뢰격침, 17명중9사망8생존 | 잠수함전·노르웨이중립선 | 발생 | 문헌대조 | [SRC-789](chronology-sources-v1.md) · [SRC-790](chronology-sources-v1.md) |
 | EVT-1117 | 1939-12-01 | Arcturus 생존8명이 표류하다 다음날 12월2일 덴마크 상선 Ivar에 구조(1일 구조 아님) | 중립선원·표류구조 | 발생 | 문헌대조 | [SRC-789](chronology-sources-v1.md) · [SRC-790](chronology-sources-v1.md) |
+| EVT-1118 | 1939-12-02 | 소련 최고회의 간부회가 쿠시넨의 테리요키 핀란드 민주공화국 정부를 공식 승인·외교관계 수립 | 국제외교·친소정권 | 발생 | 문헌대조 | [SRC-792](chronology-sources-v1.md) |
+| EVT-1119 | 1939-12-02 | 소련 언론이 쿠시넨 정부 각료 명단과 이른바 첫 핀란드 인민군단 편성 방침을 발표 | 전시선전·친소군 | 발생 | 문헌대조 | [SRC-792](chronology-sources-v1.md) |
+| EVT-1120 | 1939-12-02 | 소련 몰로토프와 쿠시넨이 모스크바에서 상호원조·우호조약에 서명(대외방송은3일 새벽) | 외교조약·테리요키 | 발생 | 문헌대조 | [SRC-793](chronology-sources-v1.md) |
+| EVT-1121 | 1939-12-02 | 소련-테리요키 조약이 카렐리야7만㎢·카렐리야지협3970㎢ 영토교환과 한코 해군기지30년 임대를 규정(헬싱키정부 동의없음) | 영토정책·해군기지 | 발생 | 문헌대조 | [SRC-793](chronology-sources-v1.md) |
+| EVT-1122 | 1939-12-02 | 핀정부가 루스벨트의 민간 거주지 공습자제 호소에 상호준수를 전제로 수락하는 2일자 회신작성 | 인도주의외교·공습금지 | 발생 | 문헌대조 | [SRC-794](chronology-sources-v1.md) |
+| EVT-1123 | 1939-12-02 | 루스벨트가 민간인폭격국에 항공기·부품수출을 자발적으로 자제해 달라는 도덕적 금수 성명을 발표 | 미경제제재·비법정금수 | 발생 | 문헌대조 | [SRC-795](chronology-sources-v1.md) |
+| EVT-1124 | 1939-12-02 | 미국이 핀의 모스크바 외교이익 대표 요청에 직접 미국대사관보다 이탈리아 대사 경유를 권고 | 제3국외교·외교이익대행 | 발생 | 문헌대조 | [SRC-813](chronology-sources-v1.md) |
+| EVT-1125 | 1939-12-02 | 쿠흐모 핀 독립대대14가 Saunajärvi·Alasenjärvi 방어진지에서 소련군에 맞서 2~5일 지연방어 착수 | 겨울전쟁·쿠흐모지연전 | 발생 | 문헌대조 | [SRC-801](chronology-sources-v1.md) |
+| EVT-1126 | 1939-12-02 | 핀 쿠흐모 지휘가 북부핀란드집단으로 이관되고 Ilomäki 임시전투집단이 편성 | 겨울전쟁·지휘편제 | 발생 | 문헌대조 | [SRC-801](chronology-sources-v1.md) |
+| EVT-1127 | 1939-12-02 | 핀 Kaasila 중대가 Kiekinkoski 방어진지에 증원병·기관총을 배치하고 소련 공격대와 접촉 | 겨울전쟁·Kiekinkoski | 발생 | 문헌대조 | [SRC-802](chronology-sources-v1.md) |
+| EVT-1128 | 1939-12-02 | 소련군이 수오야르비의 수빌라흐티 마을을 점령 | 겨울전쟁·수오야르비 | 발생 | 문헌대조 | [SRC-814](chronology-sources-v1.md) |
+| EVT-1129 | 1939-12-02 | 핀란드가 스웨덴 정부에 소련과 평화회담 재개의사를 전달해 달라고 요청 | 소핀외교·스웨덴중재 | 발생 | 문헌대조 | [SRC-796](chronology-sources-v1.md) |
+| EVT-1130 | 1939-12-02 | 독 U56이 23:25 영 상선 Eskdene에 어뢰명중, 선원29명 구조·배는 침몰하지 않고 후일 복구 | 잠수함전·선박손상 | 발생 | 문헌대조 | [SRC-804](chronology-sources-v1.md) |
+| EVT-1131 | 1939-12-03 | 소련 라디오가 2일 체결된 쿠시넨 정부와의 상호원조·우호조약 체결사실과 조항을 방송 | 소련외교선전·조약공표 | 발생 | 문헌대조 | [SRC-793](chronology-sources-v1.md) |
+| EVT-1132 | 1939-12-03 | 핀란드가 소련의 군사침공을 국제연맹 규약 제11·15조에 의거해 국제연맹에 제소 | 국제연맹·침략제소 | 발생 | 문헌대조 | [SRC-796](chronology-sources-v1.md) · [SRC-797](chronology-sources-v1.md) |
+| EVT-1133 | 1939-12-03 | 국제연맹 아브놀 사무총장이 핀 제소를 접수하고 9일 이사회·11일 총회를 소집할 계획을 공표 | 국제연맹·집단안보 | 발생 | 문헌대조 | [SRC-797](chronology-sources-v1.md) |
+| EVT-1134 | 1939-12-03 | 핀 주모스크바 공사가 스웨덴의 핀란드 이익대표 협의로 미국의 정식대행 요청을 철회했다고 미대사에 설명 | 중립외교·외교대표 | 발생 | 문헌대조 | [SRC-798](chronology-sources-v1.md) |
+| EVT-1135 | 1939-12-03 | 수오무살미 Kaapinsalmi 방어선에 핀란드군 첫 증원이 도착 | 겨울전쟁·국경증원 | 발생 | 문헌대조 | [SRC-803](chronology-sources-v1.md) |
+| EVT-1136 | 1939-12-03 | 수오무살미 Salovaara·Keträ·Linnansalmi·Kiannanniemi 일대에서 핀군의 소련군 지연전이 이어짐 | 겨울전쟁·수오무살미 | 발생 | 문헌대조 | [SRC-803](chronology-sources-v1.md) |
+| EVT-1137 | 1939-12-03 | 독 U56이 00:13 중립 스웨덴 Rudolf를 격침, 23명중9명 사망14명 생존 | 잠수함전·스웨덴중립선 | 발생 | 문헌대조 | [SRC-806](chronology-sources-v1.md) |
+| EVT-1138 | 1939-12-03 | Rudolf의 선원6명이 영 어선 Cardew에 구조됨(나머지8명 구조는4일) | 해상구조·중립선원 | 발생 | 문헌대조 | [SRC-806](chronology-sources-v1.md) |
+| EVT-1139 | 1939-12-03 | 독 U31이 13:20 중립 덴마크 Ove Toft를 어뢰격침, 21명 중6명 사망15명 생존 | 잠수함전·덴마크중립선 | 발생 | 문헌대조 | [SRC-805](chronology-sources-v1.md) |
+| EVT-1140 | 1939-12-04 | 소련군이 Kiekinkoski 측후방을 우회하자 핀 Kaasila 중대가 Polvela로 철수 | 겨울전쟁·Kiekinkoski후퇴 | 발생 | 문헌대조 | [SRC-802](chronology-sources-v1.md) · [SRC-801](chronology-sources-v1.md) |
+| EVT-1141 | 1939-12-04 | 소련군이 수오무살미-쿠사모 도로 Palovaara 지점에 진출 | 겨울전쟁·북부진격 | 발생 | 문헌대조 | [SRC-803](chronology-sources-v1.md) |
+| EVT-1142 | 1939-12-04 | 몰로토프가 스웨덴 공사를 통해 전달된 헬싱키정부의 평화회담 재개 및 스웨덴의 핀 이익대표 제안을 거절 | 소핀외교·협상거부 | 발생 | 문헌대조 | [SRC-799](chronology-sources-v1.md) · [SRC-800](chronology-sources-v1.md) |
+| EVT-1143 | 1939-12-04 | 소련 라디오가 17:30 헬싱키 정부를 인정하지 않는다며 쿠시넨 정부와의 조약을 이유로 협상거부 입장을 발표 | 소련선전·헬싱키정부불인정 | 발생 | 문헌대조 | [SRC-799](chronology-sources-v1.md) |
+| EVT-1144 | 1939-12-04 | 미 국무부가 2일 발표된 항공기 수출자제 도덕적 금수 정책을 4일 외교전문으로 주모스크바대사관에 전달 | 미경제정책·외교통보 | 발생 | 문헌대조 | [SRC-795](chronology-sources-v1.md) |
+| EVT-1145 | 1939-12-04 | 영 전함 HMS Nelson이 07:52~54 Loch Ewe 입구에서 U31이 10월27일 설치한 기뢰에 피격대파(침몰하지 않음) | 기뢰전·영전함 | 발생 | 문헌대조 | [SRC-809](chronology-sources-v1.md) · [SRC-810](chronology-sources-v1.md) · [SRC-811](chronology-sources-v1.md) |
+| EVT-1146 | 1939-12-04 | HMS Nelson 기뢰피해로 승조원73명 부상·사망0명, 함은 항내 수리를 대기 | 영군함·사상자 | 발생 | 문헌대조 | [SRC-809](chronology-sources-v1.md) |
+| EVT-1147 | 1939-12-04 | 독 U31이 01:23 중립 노르웨이 Gimle를 격침, 선원19중3명 사망16명 생존(실제구조7일) | 잠수함전·노르웨이중립선 | 발생 | 문헌대조 | [SRC-807](chronology-sources-v1.md) |
+| EVT-1148 | 1939-12-04 | 독 U31이 15:42 중립 노르웨이 Primula를 격침, 15명중8명 사망7명 생존(3명 부상) | 잠수함전·노르웨이중립선 | 발생 | 문헌대조 | [SRC-808](chronology-sources-v1.md) |
+| EVT-1149 | 1939-12-04 | Primula 생존선원7명이 부서진 구명정 대신 뗏목에서 생존해 덴마크 Wm.Th. Malling에 구조 | 해상구조·상선희생 | 발생 | 문헌대조 | [SRC-808](chronology-sources-v1.md) |
+| EVT-1150 | 1939-12-04 | 전날 스웨덴 Rudolf 침몰시 구명정에 탄 나머지 선원8명이 스웨덴 Gunlög에 구조 | 해상구조·스웨덴선원 | 발생 | 문헌대조 | [SRC-806](chronology-sources-v1.md) |
+| EVT-1151 | 1939-12-04 | 영 정찰기가 2일 어뢰피해 후 표류하는 Eskdene의 선체를 발견(7일 재발견·8일 예인) | 해상수색·피해선 | 발생 | 문헌대조 | [SRC-804](chronology-sources-v1.md) |
 | EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 미등록 | — |
 
 ## 1940년

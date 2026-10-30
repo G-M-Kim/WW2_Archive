@@ -916,6 +916,29 @@ as_of: 2026-10-25
 | SRC-789 | uboat.net Arcturus | 해난 전문연구 2차 | 12/1 09:30 U31 노르웨이 중립상선 격침 9사망8생존·12/2 덴마크 Ivar 구조 | https://www.uboat.net/allies/merchants/ship/121.html | 과거 U21 귀속 오류 정정·구조일은 다음날; 확인 2026-10-30 |
 | SRC-790 | Norwegian War Sailors Registry Arcturus | 노르웨이 전시선원 등록부 | 12/1 Arcturus 9명 사망8명 생존·피해자 실명 | https://krigsseilerregisteret.no/en/skip/1587 | 전체 개인명부·원해난서류 추가 대조; 확인 2026-10-30 |
 | SRC-791 | Kuhmo Museum Loso battle site | 핀 지역 박물관 군사사 | 12/1 핀 독립대대14 소대가 Loso 공격했다가 소련부대에 저지 | https://talvisotakuhmossa.fi/en/military-history-sites/battle-sites/loso-battle-site/ | 정확 교전지점/손실 원군일지 필요; 확인 2026-10-30 |
+| SRC-792 | FRUS d1125 12/2 테리요키 인정 | 미국 당대외교전문 1차 | 12/2 소련의 쿠시넨 정부 외교승인·내각명단·인민군단 선언 | https://history.state.gov/historicaldocuments/frus1939v01/d1125 | 친소정권 승인과 실제 헬싱키 정부 구분; 2026-10-30 검증 |
+| SRC-793 | FRUS d1129 12/2 소련-테리요키 조약 | 미국 12/3 전문·소련방송 1차 | 조약 실제서명12/2, 방송12/3, 카렐리야7만㎢·핀지협3970㎢·한코30년임대 | https://history.state.gov/historicaldocuments/frus1939v01/d1129 | 일방적 조약으로 실제 핀 영토 양도 아님; 2026-10-30 검증 |
+| SRC-794 | FRUS d1130 핀 12/2 공습자제답신 | 핀 외교각서 미국전재 1차 | 핀 12/2 루스벨트 민간공습자제 호소 상호조건 수락·12/3 미공사 수령 | https://history.state.gov/historicaldocuments/frus1939v01/d1130 | 각서날짜·실제전달날짜 분리; 2026-10-30 검증 |
+| SRC-795 | FRUS USSR d612 12/2 도덕적금수 | 미 대통령 공식성명·12/4 외교훈령 1차 | 루스벨트 항공기 및 부품 수출자제 12/2 비구속적 호소·12/4 국무부 전달 | https://history.state.gov/historicaldocuments/frus1933-39/d612 | 실제 법정 수출금지가 아닌 자발적 산업협조; 2026-10-30 검증 |
+| SRC-796 | FRUS d1132 핀 국제연맹 제소 | 미헬싱키 12/3 전문 1차 | 12/3 핀 국제연맹 제소·12/2 스웨덴에 평화교섭 의사 전달 부탁 | https://history.state.gov/historicaldocuments/frus1939v01/d1132 | 회의예고와 후속 국제연맹 제명날 구분; 2026-10-30 검증 |
+| SRC-797 | FRUS USSR d611 국제연맹 아브놀 12/3 | 미제네바 총영사 전문 1차 | 12/3 국제연맹 사무총장 핀 제소접수·12/9 이사회·12/11 총회 소집계획 | https://history.state.gov/historicaldocuments/frus1933-39/d611 | 예정된 회의 일자, 실제 회의운영은 별개; 2026-10-30 검증 |
+| SRC-798 | FRUS d1133 핀 이익대행과 스웨덴 | 미모스크바 12/3 전문 1차 | 스웨덴이 핀이익대표 요청으로 미국 정식대행 구상 철회·비공식 지원검토 | https://history.state.gov/historicaldocuments/frus1939v01/d1133 | 소련의 스웨덴대행 거부는 12/4 회담; 2026-10-30 검증 |
+| SRC-799 | FRUS d1134 소련 12/4 교섭거부 | 미 12/5 작성·소련 12/4 17:30 방송전재 1차 | 12/4 소련이 스웨덴경유 핀 평화제안 거부·헬싱키정부 도피 주장 | https://history.state.gov/historicaldocuments/frus1939v01/d1134 | 12/5 보고서 작성일과12/4 방송일 분리; 2026-10-30 검증 |
+| SRC-800 | FRUS d1136 소련·스웨덴 12/4 면담 | 미대사·스웨덴외교관 12/5 전문 1차 | 12/4 몰로토프가 핀정부와 교섭 및 스웨덴의 핀이익대행 요청 거부 | https://history.state.gov/historicaldocuments/frus1939v01/d1136 | 방문일4일·주미전문 작성5일; 2026-10-30 검증 |
+| SRC-801 | Kuhmo 박물관 겨울전쟁 전개 | 핀 지역군사박물관 2차 | 12/2~5 Saunajärvi 방어전·2일 Kuhmo 북부핀란드집단/Ilomäki 편성 | https://talvisotakuhmossa.fi/en/winter-war-in-kuhmo/ | 소련54산악사단 원전·전사자명부 교차 대기; 2026-10-30 검증 |
+| SRC-802 | Kuhmo 박물관 Kiekinkoski 3~4일 | 핀지역군사박물관 2차 | 12/2 핀 접촉·증원, 3~4일 전투·4일 소련 우회기동으로 Polvela 철수 | https://talvisotakuhmossa.fi/en/military-history-sites/battle-sites/kiekinkoski-battles/ | 정확 개별사상자·소련부대 원전미검증; 2026-10-30 검증 |
+| SRC-803 | Suomussalmi 지자체 지역전사 | 핀 지자체 역사안내 2차 | 12/1~3 북부 지연전·3일 Kaapinsalmi 증원·4일 Palovaara 소련진출 | https://visitsuomussalmi.fi/suomussalmen-sotahistoria/ | 부대별 날짜·사상인원 당대 군일지 미대조; 2026-10-30 검증 |
+| SRC-804 | uboat.net Eskdene | 잠수함 전문해난연구 2차 | 12/2 23:25 U56 어뢰피격 29생존·배는 침몰 않고 1940수리복귀 | https://uboat.net/allies/merchants/ship/868.html | 표제 1941격침은 1939피해와 구분; 2026-10-30 검증 |
+| SRC-805 | uboat.net Ove Toft | 잠수함 전문해난연구 2차 | 12/3 13:20 U31 덴마크선 격침21중6사망15생존 | https://uboat.net/allies/merchants/ship/125.html | 정확 구조시각은 자료미기재; 2026-10-30 검증 |
+| SRC-806 | uboat.net Rudolf | 잠수함 전문해난연구 2차 | 12/3 00:13 U56 스웨덴선 격침23중9사망14생존, 3일6명·4일8명 구조 | https://uboat.net/allies/merchants/ship/123.html | Cardew·Gunlög 구조일 분리; 2026-10-30 검증 |
+| SRC-807 | uboat.net Gimle | 잠수함 전문해난연구 2차 | 12/4 01:23 U31 노르웨이선 격침19중3사망16생존, 실제구조12/7 | https://www.uboat.net/allies/merchants/ship/127.html | 4일 즉시구조 아님·폭풍표류; 2026-10-30 검증 |
+| SRC-808 | uboat.net Primula | 잠수함 전문해난연구 2차 | 12/4 15:42 U31 노르웨이선 격침15중8사망7생존·덴마크 WmThMalling 구조 | https://uboat.net/allies/merchants/ships/126.html | 생존7명중3부상, 구명정 파괴; 2026-10-30 검증 |
+| SRC-809 | uboat.net HMS Nelson 기뢰피해 | 군함손상 전문연구 2차 | 12/4 07:52 U31 10/27 기뢰로 Nelson 대파·73부상0사망·수리1940/6 | https://www.uboat.net/allies/merchants/ship/128.html | 함대기함 침몰하지 않음·함일지07:54와 시간2분차; 2026-10-30 검증 |
+| SRC-810 | uboat.net HMS Nelson 군함일지 | 군함 일지재구성 2차 | 12/4 07:54 Nelson Loch Ewe 입구 기뢰피해 | https://www.uboat.net/allies/warships/ship/4068.html | 다른 상선DB07:52·당대원기록 대조 필요; 2026-10-30 검증 |
+| SRC-811 | uboat.net U31 기뢰작전 | 잠수함 기뢰작전 전문 2차 | 1939/10/27 U31 Loch Ewe 기뢰부설·12/4 Nelson 피해 | https://uboat.net/ops/minelaying.html | 부설일과 피격일 구분; 2026-10-30 검증 |
+| SRC-812 | FRUS d1126 소련공습부인 보도12/2 | 미대사 전문·소련타스 전재 1차 | 12/2 10:00 TASS 몰로토프의 소련 비무장도시 공습 부인 발표 | https://history.state.gov/historicaldocuments/frus1939v01/d1126 | 소련주장으로 실제 헬싱키 민간사망과 충돌; 2026-10-30 검증 |
+| SRC-813 | FRUS d1127 미 핀이익대표 권고12/2 | 미국무부 당대 외교전문 1차 | 미국이 핀 소련내 이익대표를 이탈리아대사 경유하도록 권고 | https://history.state.gov/historicaldocuments/frus1939v01/d1127 | 미국의 실제 대행수임 아님; 2026-10-30 검증 |
+| SRC-814 | 핀 군사역사학회 Suvilahti Suojärvi | 핀 군사역사단체 유적해설 2차 | 수오야르비 수빌라흐티는 1939/12/2 소련에 함락 | https://www.sotahistoriallisetkohteet.fi/app/sights/view/-/id/1094 | 원점령시각·주민사상자 미검증; 2026-10-30 검증 |
 
 ## 출처의 권위에 대한 주의
 
