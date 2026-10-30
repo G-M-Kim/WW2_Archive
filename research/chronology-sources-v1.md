@@ -890,6 +890,32 @@ as_of: 2026-10-25
 | SRC-763 | FRUS1939-I d1087 Finnish pact 1932 and 1934 | 미 외교전문 핀정부성명 전재 1차 | 1932 핀소 불가침협정 체결·1934년 1945말까지 효력 연장 | https://history.state.gov/historicaldocuments/frus1939v01/d1087 | 원조약·의무면제 법적 효력 판정 아닌 당대 서술; 2026-10-30 확인 |
 | SRC-764 | QDL British Library IOR 28 Nov press memo | 영 국립도서관 원서고 메타·당대전단 | 27 영추밀원령과 28 경제전쟁부 보도문 수록 | https://qdl.qa/en/archive/81055/vdc_100025289613.0x000028 | 보도문 원전 전문 판독 추가 필요; 2026-10-30 확인 |
 | SRC-765 | Finnish Military Historical Society Mainila location | 핀 군사사 단체 2차해설·당대 지형도 수록 | Mainila 경계위치·핀 관측초소와 당시 지형도 | https://www.sotahistoriallisetkohteet.fi/app/sights/view/-/id/1533 | 좌표 원군 일지 미대조·사진저작권 별도; 2026-10-30 확인 |
+| SRC-766 | FRUS 1939 I d1108 미 평화주선 제안 | 1차 미국무부 전문 | 11/29 미국이 핀소 평화주선 제공·11/30 소련이 불필요하다고 응답 | https://history.state.gov/historicaldocuments/frus1939v01/d1108 | 제안과 실제 양측 수용 구분; 확인 2026-10-30 |
+| SRC-767 | FRUS 1939 I d1110 핀 29일 답신 | 1차 핀정부 당대각서 미국전재 | 11/29 공동국경조사·1932 불가침조약 조정위원회·중립중재 재제안 | https://history.state.gov/historicaldocuments/frus1939v01/d1110 | 작성일과 실제 전달일 구분; 확인 2026-10-30 |
+| SRC-768 | FRUS 1939 I d1111 소련 단교통보 | 1차 미 주모스크바 29일 전문 | 11/29 22:30 포템킨이 핀공사에 소련 대핀 외교단절 통보 | https://history.state.gov/historicaldocuments/frus1939v01/d1111 | 소련 핀란드 공격 주장은 당사자 선전; 확인 2026-10-30 |
+| SRC-769 | FRUS 1939 I d1109 소련군 국경집결 | 1차 미무관 당대 보고전문 | 11/29 레닌그라드 방면 소련군 및 포병 이동 판단 | https://history.state.gov/historicaldocuments/frus1939v01/d1109 | 미 무관의 관측·분석, 공식 원작전명령 아님; 확인 2026-10-30 |
+| SRC-770 | uboat.net Ionian | 해군 전문전사 2차 | 11/29 U20의 11/21 부설기뢰 피격·선원37 전원생존 HMS Hastings 구조 | https://uboat.net/allies/merchants/ships/120.html | 기뢰부설일과 접촉일 구분; 확인 2026-10-30 |
+| SRC-771 | uboat.net U-35 | 독잠수함 연구 2차 | 11/29 Icarus Kingston Kashmir 폭뢰·자침·승조원43 전원생존 | https://www.uboat.net/boats/u35.html | 독선원 자침과 영구축함 구조 분리; 확인 2026-10-30 |
+| SRC-772 | uboat.net HMS Kashmir | 영 구축함 작전전사 2차 | 29일 Icarus 최초접촉 Kingston 폭뢰·Kingston Kashmir U35 구조 | https://www.uboat.net/allies/warships/ship/4457.html | 구축함별 구조인원 미대조; 확인 2026-10-30 |
+| SRC-773 | FRUS 1939 I d1113 30일 핀 전선보고 | 1차 미국공사 당대전문 | 30일 07시 카렐리야 포격·Petsamo·09:20 Malmi 폭탄5발·핀 중재수용 | https://history.state.gov/historicaldocuments/frus1939v01/d1113 | 핀측 당일 군사보고와 독립미관측 혼합; 확인 2026-10-30 |
+| SRC-774 | FRUS 1939 I d1112 30일 공습관측 | 1차 미 공사 당시전문 | 09:20 소련기1대 헬싱키 상공·10:20 폭격기9대 요새공습 | https://history.state.gov/historicaldocuments/frus1939v01/d1112 | 첫 비행과 요새공습 구분; 확인 2026-10-30 |
+| SRC-775 | FRUS 1939 I d1115 핀 구내각 사임 | 1차 미헬싱키 전문 | 11/30 밤 핀정부가 새로운 평화교섭 내각구성 위해 사임발표, 12/1 01시 보고 | https://history.state.gov/historicaldocuments/frus1939v01/d1115 | 보고일 12/1과 사임발표일11/30 분리; 확인 2026-10-30 |
+| SRC-776 | FRUS 1939 I d1116 미국 사임소식 중계 | 1차 미 국무부훈령 | 11/30 22:18 미정부가 소련에 핀 구내각 사임사실 전달 훈령 | https://history.state.gov/historicaldocuments/frus1939v01/d1116 | 미국이 신정부를 지명했다는 의미 아님; 확인 2026-10-30 |
+| SRC-777 | FRUS 1939 I d1117 소련 타스 개전방송 | 1차 소련 당대방송의 미국전문 전재 | 12/1 00:45 방송은 11/30 핀군의 선제공격설 및 소련진격을 주장 | https://history.state.gov/historicaldocuments/frus1939v01/d1117 | 침공정당화 선전의 내용과 역사적 사실 구별; 확인 2026-10-30 |
+| SRC-778 | Helsinki City History 겨울전쟁 첫날 | 핀 시정부 현대사료해설 2차 | 11/30 오후 도심 공습·91명 사망·캄피와 시내 건물 피해 | https://historia.hel.fi/fi/ilmiot/vallankayttoa-ja-hallintoa/helsingin-kaupunginvaltuusto-ja-talvisota | 첫날 헬싱키에 한정, 장기전 전체 피해 아님; 확인 2026-10-30 |
+| SRC-779 | Yle Talvisodan pommituksia | 핀 공영방송 기록자료 2차 | 11/30 헬싱키 사망91·부상236명 및 전국16곳 공습 | https://yle.fi/a/20-102530 | 도시 부상과 전국 공습 수치 혼동 금지; 확인 2026-10-30 |
+| SRC-780 | Kuhmo Winter War Museum 초기전투 | 핀 지역 군사박물관 2차 | 11/30 Laamasenvaara Kilpelänkangas 첫전투·12/1 Loso 공격저지 | https://talvisotakuhmossa.fi/en/winter-war-in-kuhmo/ | 소련 54사단 원전 대조 대기; 확인 2026-10-30 |
+| SRC-781 | FRUS 1939 I d1123 뤼티내각 | 1차 미 12/1 21시 외교전문 | 뤼티 총리·태너 외무장관 새내각 12/1 17시 취임·평화노력 | https://history.state.gov/historicaldocuments/frus1939v01/d1123 | 개별 각료명단 불완전; 확인 2026-10-30 |
+| SRC-782 | FRUS 1939 I d1125 테리요키 정부 | 1차 12/2 미전문과 12/1 방송각주 | 12/1 18시 소련라디오 쿠시넨 정권 선포·12/2 소련 인정 | https://history.state.gov/historicaldocuments/frus1939v01/d1125 | 정부설립 방송과 국가승인 날짜 분리; 확인 2026-10-30 |
+| SRC-783 | FRUS 1939 I d1124 몰로토프 면담 | 1차 미국대사 12/1 자정 전문 | 몰로토프 민간폭격 부인·뤼티내각 교섭거부·쿠시넨 정권 선호 | https://history.state.gov/historicaldocuments/frus1939v01/d1124 | 소련측 일방진술과 실제 공습물증 구별; 확인 2026-10-30 |
+| SRC-784 | FRUS 1939 I d1122 핀이익대표 | 1차 미 모스크바 외교전문 | 12/1 핀공사가 미국에 소련내 핀 이익대표 대행 문의 | https://history.state.gov/historicaldocuments/frus1939v01/d1122 | 요청 단계로 미국의 수임이 확정된 것 아님; 확인 2026-10-30 |
+| SRC-785 | FRUS 1939 I d1121 핀 외교관 비자 | 1차 미 모스크바 외교전문 | 12/1 소련이 핀공관직원 출국 비자를 소련공관 안전확인과 연계 | https://history.state.gov/historicaldocuments/frus1939v01/d1121 | 비자 제한과 외교관 체포는 다름; 확인 2026-10-30 |
+| SRC-786 | FRUS 1933–39 d609 루스벨트 호소 | 미 대통령 11/30 당대전문 1차 | 소핀 양측에 민간 거주도시 폭격중단 호소 | https://history.state.gov/historicaldocuments/frus1933-39/d609 | 호소가 실제 수락됐다는 증거 아님; 확인 2026-10-30 |
+| SRC-787 | FRUS 1933–39 d610 미국 대통령 성명 | 미 대통령 12/1 기자회견 1차 | 루스벨트 소련의 핀 침공·폭격을 공개비판 | https://history.state.gov/historicaldocuments/frus1933-39/d610 | 미국이 공식 참전 또는 대소단교한 것 아님; 확인 2026-10-30 |
+| SRC-788 | uboat.net Mercator | 해난 전문연구 2차 | 12/1 04:53 U21 핀 중립상선 격침 1사망35생존, 어선23명구조 나머지12명 자력상륙 | https://www.uboat.net/allies/merchants/122.html | 과거 U31 귀속 오류 정정·생존자명부 원전 대조 대기; 확인 2026-10-30 |
+| SRC-789 | uboat.net Arcturus | 해난 전문연구 2차 | 12/1 09:30 U31 노르웨이 중립상선 격침 9사망8생존·12/2 덴마크 Ivar 구조 | https://www.uboat.net/allies/merchants/ship/121.html | 과거 U21 귀속 오류 정정·구조일은 다음날; 확인 2026-10-30 |
+| SRC-790 | Norwegian War Sailors Registry Arcturus | 노르웨이 전시선원 등록부 | 12/1 Arcturus 9명 사망8명 생존·피해자 실명 | https://krigsseilerregisteret.no/en/skip/1587 | 전체 개인명부·원해난서류 추가 대조; 확인 2026-10-30 |
+| SRC-791 | Kuhmo Museum Loso battle site | 핀 지역 박물관 군사사 | 12/1 핀 독립대대14 소대가 Loso 공격했다가 소련부대에 저지 | https://talvisotakuhmossa.fi/en/military-history-sites/battle-sites/loso-battle-site/ | 정확 교전지점/손실 원군일지 필요; 확인 2026-10-30 |
 
 ## 출처의 권위에 대한 주의
 
