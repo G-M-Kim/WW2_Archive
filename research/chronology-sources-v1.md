@@ -851,26 +851,45 @@ as_of: 2026-10-25
 | SRC-724 | Lowestoft Our Fallen Mastiff George Horne | 영 지역 전몰자 기록·전기 | 11/20 기뢰회수중 폭발 당일5명후일1명 사망 | https://www.ourfallen.lowestoftoldandnow.org/field-lane/1939-11-20/george-william-horne | 당시 Admiralty 5명사망4명부상과 분리; 2026-10-30 대조 |
 | SRC-725 | U57 4차초계 KTB 전재 | 독해군 당대일지 영문전사 | 11/17 Kaunas·11/19 Stanbrook | https://m.uboatarchive.net/U-57/KTB57-4.htm | 독측 위치와 타 사료위치 차이; 2026-10-30 대조 |
 | SRC-726 | 네덜란드 문화유산청 MaSS Simon Bolivar | 네덜란드 정부 수중유산 연구 | 여객선 선명·해난문헌 참고목록 | https://mass.cultureelerfgoed.nl/simon-bolivar | 인원 통계는 Marhisdata 대조 필요; 2026-10-30 대조 |
-| SRC-727 | HMS Belfast U21 magnetic mine 21 Nov | 영군함 2차 전사 | 11/21 10:59 피격, Rosyth 예인, 수년수리 | https://www.uboat.net/allies/warships/1236.html | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-728 | HMS Gipsy 21 Nov | 영구축함 2차 전사 | 21일 Harwich 기뢰침몰 | https://uboat.net/allies/warships/4393.html | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-729 | Terukuni Maru Harwich local history | 영 지역사 2차 | 일본여객선21일 침몰, 206명 구조, 시각이견 | https://harwichanddovercourt.co.uk/the-war-years/world-war-disasters/ | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-730 | Sulby uboat.net | 해난사 2차 | U33 21일,5실종7생존·23일 구조 | https://www.uboat.net/allies/merchants/ships/110.html | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-731 | William Humphries uboat.net | 해난사 2차 | U33 21일 승조원13명 실종사망 | https://www.uboat.net/allies/merchants/109.html | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-732 | Ste Claire uboat.net | 프 소해어선 해난사 2차 | 11/21 U16 과거기뢰, 11명 사망 | https://www.uboat.net/allies/merchants/ship/105.html | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-733 | Les Barges II uboat.net | 프 어선 해난사 2차 | 21일 U41 함포, 15명 생존 | https://www.uboat.net/allies/merchants/ship/111.html | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-734 | Aragonite warship loss list | 영 해군 피해 목록 | 22일 영 소해어선 침몰 | https://uboat.net/allies/warships/war_losses.html | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-735 | Arijon uboat.net | 프 상선 해난사 2차 | 22일 U43 16명 사망25생존 | https://uboat.net/allies/merchants/ship/113.html | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-736 | Yves Cabioch uboat.net crew list | 프 선원명부 2차 | Arijon 15세 선원 22일 사망 | https://www.uboat.net/allies/merchants/crews/person/65251.html | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-737 | Elena R uboat.net | 그리스 상선 해난사 2차 | 22일 U26 9/10 부설기뢰에 피격 24명 생존 | https://uboat.net/allies/merchants/ship/114.html | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-738 | HMS Neptune Adolph Woermann | 영 해군일지 기반 2차 | 22일 남대서양 독선 자침·162명 구조 | https://www.uboat.net/allies/warships/4004.html | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-739 | Nora Acheson Geraldus incident | 인명구조 연구 PDF 검색발췌 | Geraldus 21일 사고설; 영일별전사22일 | https://lsars.org.uk/publications/For-Service-in-the-Cause-of-Humanity-preview.pdf | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-740 | Royal Navy Rawalpindi Captain Kennedy | 영 국방부 공식 역사해설 | 23일 Rawalpindi 침몰, 263명 사망설 | https://www.royalnavy.mod.uk/news/2022/july/05/20220705-high-wycombe-road-rededicated-to-ww2-royal-navy-hero | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-741 | Rawalpindi uboat.net | 군함전사 2차 | 23일 격침·275명 사망설 | https://uboat.net/allies/warships/ship/3329.html | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-742 | Borkum uboat.net | 나포상선 전사 2차 | 23일 U33 공격 독선원4명사망,25일 좌초 | https://www.uboat.net/allies/merchants/ship/115.html | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-743 | HMS Vernon Shoeburyness magnetic mine | 기뢰처리기관 역사 | 23일 자기기뢰 처리 주장의 근거 | https://www.vernonlink.uk/hms-vernon | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-744 | AWM Shoeburyness mine photo | 호주 정부 박물관 사진해설 | 23일 투하24일 해체 주장 | https://www.awm.gov.au/collection/C1168743 | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-745 | RN casualty list 1939 November | 영 해군 전몰자 2차 명부 | 24일 Vassalo,27일 Crossley 부상후 사망 | https://www.naval-history.net/xDKCas1939-11NOV.htm | undefined; 2026-10-30 원자료/색인 구분 |
-| SRC-746 | Mangalore Brocklebank ship history | 영 상선사 연구 | 24일 Humber 기뢰침몰·승조원 구조 | https://www.benjidog.co.uk/allen/Brocklebank3.php | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-727 | HMS Belfast U21 magnetic mine 21 Nov | 영군함 2차 전사 | 11/21 10:59 피격, Rosyth 예인, 수년수리 | https://www.uboat.net/allies/warships/1236.html | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-728 | HMS Gipsy 21 Nov | 영구축함 2차 전사 | 21일 Harwich 기뢰침몰 | https://uboat.net/allies/warships/4393.html | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-729 | Terukuni Maru Harwich local history | 영 지역사 2차 | 일본여객선21일 침몰, 206명 구조, 시각이견 | https://harwichanddovercourt.co.uk/the-war-years/world-war-disasters/ | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-730 | Sulby uboat.net | 해난사 2차 | U33 21일,5실종7생존·23일 구조 | https://www.uboat.net/allies/merchants/ships/110.html | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-731 | William Humphries uboat.net | 해난사 2차 | U33 21일 승조원13명 실종사망 | https://www.uboat.net/allies/merchants/109.html | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-732 | Ste Claire uboat.net | 프 소해어선 해난사 2차 | 11/21 U16 과거기뢰, 11명 사망 | https://www.uboat.net/allies/merchants/ship/105.html | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-733 | Les Barges II uboat.net | 프 어선 해난사 2차 | 21일 U41 함포, 15명 생존 | https://www.uboat.net/allies/merchants/ship/111.html | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-734 | Aragonite warship loss list | 영 해군 피해 목록 | 22일 영 소해어선 침몰 | https://uboat.net/allies/warships/war_losses.html | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-735 | Arijon uboat.net | 프 상선 해난사 2차 | 22일 U43 16명 사망25생존 | https://uboat.net/allies/merchants/ship/113.html | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-736 | Yves Cabioch uboat.net crew list | 프 선원명부 2차 | Arijon 15세 선원 22일 사망 | https://www.uboat.net/allies/merchants/crews/person/65251.html | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-737 | Elena R uboat.net | 그리스 상선 해난사 2차 | 22일 U26 9/10 부설기뢰에 피격 24명 생존 | https://uboat.net/allies/merchants/ship/114.html | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-738 | HMS Neptune Adolph Woermann | 영 해군일지 기반 2차 | 22일 남대서양 독선 자침·162명 구조 | https://www.uboat.net/allies/warships/4004.html | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-739 | Nora Acheson Geraldus incident | 인명구조 연구 PDF 검색발췌 | Geraldus 21일 사고설; 영일별전사22일 | https://lsars.org.uk/publications/For-Service-in-the-Cause-of-Humanity-preview.pdf | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-740 | Royal Navy Rawalpindi Captain Kennedy | 영 국방부 공식 역사해설 | 23일 Rawalpindi 침몰, 263명 사망설 | https://www.royalnavy.mod.uk/news/2022/july/05/20220705-high-wycombe-road-rededicated-to-ww2-royal-navy-hero | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-741 | Rawalpindi uboat.net | 군함전사 2차 | 23일 격침·275명 사망설 | https://uboat.net/allies/warships/ship/3329.html | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-742 | Borkum uboat.net | 나포상선 전사 2차 | 23일 U33 공격 독선원4명사망,25일 좌초 | https://www.uboat.net/allies/merchants/ship/115.html | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-743 | HMS Vernon Shoeburyness magnetic mine | 기뢰처리기관 역사 | 23일 자기기뢰 처리 주장의 근거 | https://www.vernonlink.uk/hms-vernon | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-744 | AWM Shoeburyness mine photo | 호주 정부 박물관 사진해설 | 23일 투하24일 해체 주장 | https://www.awm.gov.au/collection/C1168743 | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-745 | RN casualty list 1939 November | 영 해군 전몰자 2차 명부 | 24일 Vassalo,27일 Crossley 부상후 사망 | https://www.naval-history.net/xDKCas1939-11NOV.htm | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-746 | Mangalore Brocklebank ship history | 영 상선사 연구 | 24일 Humber 기뢰침몰·승조원 구조 | https://www.benjidog.co.uk/allen/Brocklebank3.php | 이전 입력에서 한계 메모 누락 — 원문 세부 주장과 선원 명부 추가 검증 필요; 2026-10-30 원자료/색인 구분 |
+| SRC-747 | FRUS1939-I d1104 Soviet Mainila note 26 Nov | 1차 미외교전문 소련각서 전재 | 26일15:45 발포 소련주장 4사망9부상·몰로토프26일 항의·핀철수20~25km | https://history.state.gov/historicaldocuments/frus1939v01/d1104 | 당사자 주장이고 피해의 독립 증명 아님; 미대사관 기록27일; 2026-10-30 확인 |
+| SRC-748 | FRUS1939-I d1105 Finland reply | 1차 미외교전문 핀답신 요약 | 27일자 핀반박 28일 자정후 전달·상호후퇴·1928 국경위원 공동조사 | https://history.state.gov/historicaldocuments/frus1939v01/d1105 | 핀 주장을 미국 외교관이 요약·문서날짜 전달날짜 구분; 2026-10-30 확인 |
+| SRC-749 | FRUS1939-I d1106 USSR counter reply 28 Nov | 1차 당대외교전문 소련반박서 전재 | 28일 핀 반박거부·상호철군 배척·1932 불가침조약 의무 종료 선언 | https://history.state.gov/historicaldocuments/frus1939v01/d1106 | 소련 당사자 선전·11/29 미보고전문과 발생일 구분; 2026-10-30 확인 |
+| SRC-750 | Yle Mainilan laukaukset history | 핀공영방송 2차 역사해설 | 26일 마이닐라 사건 현대연구는 소련 자작극으로 평가 | https://yle.fi/a/20-102528 | 희생 실명·당대 전장증거 원사료 아님; 2026-10-30 확인 |
+| SRC-751 | Yle Finnish winter war timeline | 핀공영방송 2차 역사연표 | 26 마이닐라·28 조약파기·29 외교단절·30 침공 | https://yle.fi/aihe/a/20-67234 | 핀 관점 현대해설, 별개 원문교차; 2026-10-30 확인 |
+| SRC-752 | MS Pilsudski specialist voyage and log | 폴란드 선박사 연구·2등항해사 보고전재 | 25일23:00 출항·26일05:36 폭발 두번·10:30 침몰·승조원2명 사망 | https://mspilsudski.pl/en/story?ch=6&sld=0&ssld=1 | 원해난 조사·독 기뢰원위치 독립검증 대기; 2026-10-30 확인 |
+| SRC-753 | Polskie Radio Pilsudski historical report | 폴란드 공영방송 2차 | 26일 침몰·Mamert Stankiewicz 구조후 저체온 사망·Tadeusz Piotrowski 희생 | https://reportaz.polskieradio.pl/artykul/2410603%2CTransatlantyk-Pilsudski-duma-zeglugi-II-Rzeczpospolitej | 원사망증명서 미대조; 2026-10-30 확인 |
+| SRC-754 | Pilsudski Institute sinking exhibit | 폴란드 기념재단 전시 2차 | 침몰 11/25로 표기·선장 기관사 2명 희생 | https://wystawy.pilsudski.org/exhibits/show/introduction/m-s--pi--sudski/sinking-of-m-s--pi--sudski | 11/25 침몰은 상세 항해일지 11/26과 충돌; 날짜오류로 취급; 2026-10-30 확인 |
+| SRC-755 | uboat.net Royston Grange | 독잠수함상선 피해 전문2차 | 25일13:19 U28 Royston Grange 침몰·Romilly 선원구조 사망0 | https://www.uboat.net/allies/merchants/ship/118.html | 승조원 총수 미상; 2026-10-30 확인 |
+| SRC-756 | uboat.net Uskmouth | 독잠수함 상선피해 전문2차 | 25일 U43 어뢰실패·22:56 함포공격 26일00:12까지·2사망23생존 | https://uboat.net/allies/merchants/ships/117.html | 표제 Uskmouth vs 본문 Uskbridge 이름오류·정확침몰시각 유보; 2026-10-30 확인 |
+| SRC-757 | uboat.net Gustaf E Reuter | 독잠수함 중립선 전사 전문2차 | 26일23:32 첫 어뢰실패·27일00:30 명중 1사망33생존·28일 선미처분설 | https://uboat.net/allies/merchants/119.html | 영함 추정처분·중복구조기록 분리; 2026-10-30 확인 |
+| SRC-758 | uboat.net Gustaf Reuter crew list | 해사 선원개인명부 2차 | 스웨덴 희생선원 Hilding Johansson 27세·선장 O Larsson | https://www.uboat.net/allies/merchants/crews/ship119.html | 인명명부 2명만 표기·전체 34명 명부 아님; 2026-10-30 확인 |
+| SRC-759 | Qatar Digital Library British Council 1939 No1709 | 영 국왕추밀원 1939-11-27 1차원전 재현 | 11/27 독수출품 억류명령, 독기뢰와 잠수함 불법공격을 보복명분으로 명시 | https://qdl.qa/en/archive/81055/vdc_100025289613.0x000022 | British Library 자동전사 오류가능·12/4 실제 적용과 구별; 2026-10-30 확인 |
+| SRC-760 | FRUS1939-I d841 British reprisal trade note | 1차 미외교전문 영공문 전재 | 11/28 영외무부 공문·12/4 출항 독상품 규제·중립선 부담 | https://history.state.gov/historicaldocuments/frus1939v01/d841 | 미 보고일11/29, 영공문11/28, 원령11/27; 2026-10-30 확인 |
+| SRC-761 | FRUS1939-I d840 French exports seizure decree | 1차 미외교전문 프법령통지 | 11/27 프 독수출품 압류명령 11/28 관보공표·12/4 출항부터 | https://history.state.gov/historicaldocuments/frus1939v01/d840 | 프 독일산 화물과 중립선 적용세칙은 영령과 구분; 2026-10-30 확인 |
+| SRC-762 | NZ Papers Past Hawkes Bay Herald Tribune 28 Nov | 1차 1939-11-28 신문 전신보도 | 27일 핀 외무부 항의부인과 소련방송 노동자 항의시위소집 보도 | https://paperspast.natlib.govt.nz/newspapers/HBHETR19391128.2.61 | 실제 집회 개최 증거 아닌 소집보도; 2026-10-30 확인 |
+| SRC-763 | FRUS1939-I d1087 Finnish pact 1932 and 1934 | 미 외교전문 핀정부성명 전재 1차 | 1932 핀소 불가침협정 체결·1934년 1945말까지 효력 연장 | https://history.state.gov/historicaldocuments/frus1939v01/d1087 | 원조약·의무면제 법적 효력 판정 아닌 당대 서술; 2026-10-30 확인 |
+| SRC-764 | QDL British Library IOR 28 Nov press memo | 영 국립도서관 원서고 메타·당대전단 | 27 영추밀원령과 28 경제전쟁부 보도문 수록 | https://qdl.qa/en/archive/81055/vdc_100025289613.0x000028 | 보도문 원전 전문 판독 추가 필요; 2026-10-30 확인 |
+| SRC-765 | Finnish Military Historical Society Mainila location | 핀 군사사 단체 2차해설·당대 지형도 수록 | Mainila 경계위치·핀 관측초소와 당시 지형도 | https://www.sotahistoriallisetkohteet.fi/app/sights/view/-/id/1533 | 좌표 원군 일지 미대조·사진저작권 별도; 2026-10-30 확인 |
 
 ## 출처의 권위에 대한 주의
 

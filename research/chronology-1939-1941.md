@@ -786,6 +786,32 @@ as_of: 2026-10-25
 | EVT-1054 | 1939-11-24 | 영 상선 Mangalore가 Humber 기뢰에 침몰하고 승조원 구조·일부 부상 | 기뢰전·상선피해 | 발생 | 문헌대조 | [SRC-746](chronology-sources-v1.md) · [SRC-709](chronology-sources-v1.md) |
 | EVT-1055 | 1939-11-24 | Rawalpindi 생존자가 영 무장상선 HMS Chitral에 구조(원일지상 구조시각 및 숫자확인 필요) | 해상구조·해군 | 발생 | 링크등록 | [SRC-709](chronology-sources-v1.md) · [SRC-741](chronology-sources-v1.md) |
 | EVT-1056 | 1939-11-24 | HMS Gipsy 승조원 Giuseppe Vassalo가 21일 기뢰피격 부상 후 사망 | 해군인명·후일사망 | 발생 | 문헌대조 | [SRC-745](chronology-sources-v1.md) |
+| EVT-1057 | 1939-11-25 | 폴란드 여객선 MS Piłsudski가 23시 영국에서 첫 전시 병력수송 임무를 위해 출항 | 폴란드선박·병력수송 | 발생 | 문헌대조 | [SRC-752](chronology-sources-v1.md) |
+| EVT-1058 | 1939-11-25 | 독 U28이 SL-8B 호송대의 영 Royston Grange를 격침·승조원 영 어선 Romilly에 구조(사망0) | 호송전·상선구조 | 발생 | 문헌대조 | [SRC-755](chronology-sources-v1.md) |
+| EVT-1059 | 1939-11-25 | 독 U43이 영 Uskmouth를 어뢰공격 실패 후 함포격침·선원2명사망23명생존(본문 Uskbridge 선명오류) | 잠수함전·해상사상 | 발생 | 링크등록 | [SRC-756](chronology-sources-v1.md) |
+| EVT-1060 | 1939-11-25 | 23일 U33에 피격된 영 나포 독상선 Borkum이 Papa Sound에서 좌초해 전손 판정 | 나포선·후속좌초 | 발생 | 문헌대조 | [SRC-742](chronology-sources-v1.md) |
+| EVT-1061 | 1939-11-26 | 폴란드 MS Piłsudski가 05:36 두 차례 폭발 뒤 10:30 북해에서 침몰 | 해상전·폴란드수송선 | 발생 | 문헌대조 | [SRC-752](chronology-sources-v1.md) · [SRC-753](chronology-sources-v1.md) |
+| EVT-1062 | 1939-11-26 | Piłsudski 선장 Mamert Stankiewicz가 선원탈출 후 구조되었으나 저체온증으로 사망 | 해상구조·후일사망 | 발생 | 문헌대조 | [SRC-752](chronology-sources-v1.md) · [SRC-753](chronology-sources-v1.md) |
+| EVT-1063 | 1939-11-26 | Piłsudski 4등기관사 Tadeusz Piotrowski가 침몰로 사망·선장까지 최종2명희생 | 전시선원·개인사 | 발생 | 문헌대조 | [SRC-752](chronology-sources-v1.md) · [SRC-753](chronology-sources-v1.md) |
+| EVT-1064 | 1939-11-26 | 마이닐라 소련 쪽 국경지역에서 7회 포격 폭발 관측·소련은 핀란드 공격으로 주장 | 소핀국경·위장도발 | 발생 | 문헌대조 | [SRC-747](chronology-sources-v1.md) · [SRC-750](chronology-sources-v1.md) |
+| EVT-1065 | 1939-11-26 | 몰로토프가 모스크바의 핀 공사 Yrjö-Koskinen에게 마이닐라를 문제삼은 공식 항의각서 전달 | 소핀외교·항의 | 발생 | 문헌대조 | [SRC-747](chronology-sources-v1.md) |
+| EVT-1066 | 1939-11-26 | 소련 정부가 마이닐라에서 소련병사4명 사망·9명 부상이라고 주장(인명피해 독립입증 아님) | 소련정부선전·피해주장 | 발생 | 문헌대조 | [SRC-747](chronology-sources-v1.md) · [SRC-750](chronology-sources-v1.md) |
+| EVT-1067 | 1939-11-26 | 소련이 핀란드에 카렐리야 지협 국경에서 핀 병력 20~25km 단독철수를 요구 | 소핀외교·군사압박 | 발생 | 문헌대조 | [SRC-747](chronology-sources-v1.md) |
+| EVT-1068 | 1939-11-26 | 독 U48이 중립 스웨덴 Gustaf E Reuter를 23:32 첫 어뢰공격했지만 빗나감 | 잠수함전·중립선 | 발생 | 문헌대조 | [SRC-757](chronology-sources-v1.md) |
+| EVT-1069 | 1939-11-27 | 소련 Pravda가 전날 몰로토프가 전달한 마이닐라 항의각서 전문을 게재 | 전시선전·정부언론 | 발생 | 문헌대조 | [SRC-747](chronology-sources-v1.md) |
+| EVT-1070 | 1939-11-27 | 핀란드 정부가 마이닐라 포격은 핀란드군 소행이 아니라고 부인한 27일자 답신을 작성 | 소핀외교·반박 | 발생 | 문헌대조 | [SRC-748](chronology-sources-v1.md) |
+| EVT-1071 | 1939-11-27 | 핀란드 정부가 양국 군대의 상호 국경후퇴에 관한 협의 의사를 표명·단독철수 동의는 아님 | 소핀외교·협상제안 | 발생 | 문헌대조 | [SRC-748](chronology-sources-v1.md) |
+| EVT-1072 | 1939-11-27 | 핀란드가 1928년 국경위원 협약을 근거로 마이닐라 사건 공동조사를 제안하는 각서를 작성 | 소핀외교·사실조사 | 발생 | 문헌대조 | [SRC-748](chronology-sources-v1.md) |
+| EVT-1073 | 1939-11-27 | 독 U48이 00:30 중립 스웨덴 유조선 Gustaf E Reuter를 어뢰피격해 34명중 1사망33생존 | 해상전·중립스웨덴 | 발생 | 문헌대조 | [SRC-757](chronology-sources-v1.md) · [SRC-758](chronology-sources-v1.md) |
+| EVT-1074 | 1939-11-27 | Gustaf E Reuter 생존자들이 영 보조함 Kingston Beryl·예인선 St Mellons·Lerwick 구명정에 구조됨(개별구조시간 미확정) | 중립선원·해상구조 | 발생 | 링크등록 | [SRC-757](chronology-sources-v1.md) |
+| EVT-1075 | 1939-11-27 | 영 국왕추밀원이 독일산 수출품과 독일발 항해선 화물압류 법령 No1709 제정·12월4일 이후 출항선 대상 | 경제전·해상봉쇄 | 발생 | 문헌대조 | [SRC-759](chronology-sources-v1.md) · [SRC-760](chronology-sources-v1.md) |
+| EVT-1076 | 1939-11-27 | 21일 기뢰에 피격된 HMS Gipsy의 함장 Nigel Crossley가 부상 후 사망 | 영군함·후일사망 | 발생 | 문헌대조 | [SRC-745](chronology-sources-v1.md) |
+| EVT-1077 | 1939-11-28 | 핀란드의 27일자 항의반박·공동조사 제안이 자정 직후 몰로토프에게 전달 | 소핀외교·문서전달 | 발생 | 문헌대조 | [SRC-748](chronology-sources-v1.md) |
+| EVT-1078 | 1939-11-28 | 소련이 핀란드 반박서를 적대적이라고 규정하고 상호철군 제안을 거부하는 반박각서 전달 | 소핀외교·대립격화 | 발생 | 문헌대조 | [SRC-749](chronology-sources-v1.md) |
+| EVT-1079 | 1939-11-28 | 소련이 1932년 핀소 불가침조약상의 자국 의무에서 벗어난다고 일방선언 | 조약·외교관계 | 발생 | 문헌대조 | [SRC-749](chronology-sources-v1.md) · [SRC-751](chronology-sources-v1.md) · [SRC-763](chronology-sources-v1.md) |
+| EVT-1080 | 1939-11-28 | 프랑스가 27일자 독일수출 화물압류 법령을 Journal Officiel에 공표(12월4일 이후 출항선 적용) | 경제전·프랑스해상봉쇄 | 발생 | 문헌대조 | [SRC-761](chronology-sources-v1.md) |
+| EVT-1081 | 1939-11-28 | 영 외무부가 중립국에 독일산 수출화물 규제 확대를 공문 통지(추밀원령은 27일자) | 경제전·중립국대응 | 발생 | 문헌대조 | [SRC-760](chronology-sources-v1.md) · [SRC-764](chronology-sources-v1.md) |
+| EVT-1082 | 1939-11-28 | Gustaf E Reuter가 악천후로 예인선 끊기고 선수 파손, 남은 선미를 영 함정이 침몰처분한 것으로 추정 | 해난·손상선처분 | 발생 | 링크등록 | [SRC-757](chronology-sources-v1.md) |
 | EVT-0067 | 1939-11-30 | 소련의 핀란드 침공과 겨울전쟁 개시 | 전쟁 | 발생 | 미등록 | — |
 | EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 미등록 | — |
 
