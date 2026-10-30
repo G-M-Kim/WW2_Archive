@@ -817,6 +817,40 @@ as_of: 2026-10-25
 | SRC-690 | uboat.net Arlington Court 16 Nov 1939 | 2차 영 상선 침몰·생존집계 | 16일 U43 어뢰로 35명 중6직접사망+기관장 저체온사망=7, 생존28 | https://uboat.net/allies/merchants/ship/95.html | Algenib 22 구조, Spinanger 6명 6일후 구조; 2026-10-29 검증 |
 | SRC-691 | uboat.net Arlington Court crew 16 Nov | 2차 희생자 직급·나이 명부 | 기관장 John Henry Pearson 65세 저체온후 사망, 젊은 선원 인명도 기록 | https://uboat.net/allies/merchants/crews/ship95.html | 개별 사망원신고서 미확인; 2026-10-29 검증 |
 | SRC-692 | uboat.net U43 16 Nov depthcharge attack | 2차 독 잠수함 초계·후속호위폭뢰 | Arlington Court 격침 뒤 영 호송구축함 약20시간 폭뢰공격, U43 피해 | https://uboat.net/boats/patrols/patrol_284.html | 폭뢰가 U43 침몰시켰다는 주장 아님; 2026-10-29 검증 |
+| SRC-693 | 체코 국방부 1939년11월17일 학생탄압 공식 설명 | 체코 정부 2차 해설 | 11/17 기숙사 급습·9명 처형·대학 폐쇄 | https://www.mo.gov.cz/scripts/detail.php?id=10252 | 1200+ 체포는 개괄값, 이송1140명과 분리; 2026-10-30 대조 |
+| SRC-694 | 작센하우젠 기념관 체코 학생수용 연구 | 강제수용소 기념관 2차 | 11/20 밤 1140명 이송·수용중21명 사망 | https://www.sachsenhausen-sbg.de/en/collection-and-research/objects-in-focus/czech-students-in-sachsenhausen-concentration-camp/ | 17일 9명 즉결처형과 수용후 21명 사망 구별; 2026-10-30 대조 |
+| SRC-695 | 선전시 염전구 공식 남광시전쟁 연표 | 중국 지방정부 2차 전사 | 11/16 팡청·11/17 친현 점령 기록 | https://www.yantian.gov.cn/ytdayszxxw/lsjt/content/post_11734530.html | 팡청 날짜 다른 자료와 충돌; 2026-10-30 대조 |
+| SRC-696 | 광시 친현 11/17 시가전 전사 | 중국 항일전 전문 2차 | 17일 친현 시가전·신편19사단 철수 | https://www.krzzjn.com/show-2324-109790.html | 전사 해석은 중국군 측 관점; 2026-10-30 대조 |
+| SRC-697 | uboat.net Sliedrecht | 잠수함전 2차 연구 | 11/16 정선·11/17 00:20 U28 침몰·26실종5생존 | https://uboat.net/allies/merchants/ship/97.html | 후일 구조일과 구명정 동선 확인 필요; 2026-10-30 대조 |
+| SRC-698 | uboat.net Kaunas | 잠수함전 2차 연구 | 11/17 U57 어뢰 1사망15생존 | https://uboat.net/allies/merchants/96.html | 독 국적식별 실패 주장과 중립국 국적 구분; 2026-10-30 대조 |
+| SRC-699 | Marhisdata Simon Bolivar 선박카드 | 네덜란드 전문 해사DB | 11/17 출항·11/18 기뢰2회 접촉 | https://www.marhisdata.nl/schip?id=5891 | 총원 397~400 이견; 2026-10-30 대조 |
+| SRC-700 | Marhisdata Simon Bolivar 선장 생애 | 네덜란드 해사인물 연구 | 승객59명+선원21명=80명 사망 | https://www.marhisdata.nl/gezagvoerder%26id%3D15601 | 일반전사86명과 충돌; 2026-10-30 대조 |
+| SRC-701 | onwar Simon Bolivar | 일반 2차 전쟁연표 | 11/18 자기기뢰 침몰·86명 사망설 | https://onwar.com/wwii/chronology/193911.html | 80명설과 충돌·개인명부 미대조; 2026-10-30 대조 |
+| SRC-702 | uboat.net U19 1939-11 순찰 | 독잠수함전 2차 연구 | 18일 01:50~02:41 기뢰9기·Carica Milica 피해 | https://www.uboat.net/boats/patrols/patrol_97.html | 원전영상 미열람; 2026-10-30 대조 |
+| SRC-703 | uboat.net Carica Milica | 잠수함전 2차 연구 | 18일 중립 유고 상선 기뢰침몰·사망0명 | https://uboat.net/allies/merchants/ship/100.html | 승조원 수 미상; 2026-10-30 대조 |
+| SRC-704 | uboat.net Parkhill | 잠수함전 2차 연구 | 11/18 U18 격침9명 전원사망 | https://uboat.net/allies/merchants/ship/99.html | 선원 개별명부 대조 필요; 2026-10-30 대조 |
+| SRC-705 | uboat.net Wigmore | 잠수함전 2차 연구 | 11/18 U22 격침16명 사망 | https://uboat.net/allies/merchants/ship/98.html | 호송IFC 대상 어뢰전; 2026-10-30 대조 |
+| SRC-706 | Naval-History November 1939 Northern Patrol | 영 해군 원일지 2차 재구성 | 11/18 독 상선 Borkum을 California가 나포 | https://www.naval-history.net/xDKWW2-3911-08NOV02.htm | 후속 11/23 U33 피격은 별건; 2026-10-30 대조 |
+| SRC-707 | 광시 小董 공격 지역전사 | 중국 항일전쟁 2차 전사 | 11/18 샤오둥 공격 및 19일까지 진격 | https://m.krzzjn.com/show-921-58202.html | 소도시별 점령정확일 미확인; 2026-10-30 대조 |
+| SRC-708 | uboat.net Stanbrook | 잠수함전 2차 연구 | 11/19 U57 격침 20명 전원사망 | https://uboat.net/allies/merchants/ship/103.html | 스페인공화파 피난민 구조 관련 별도 검증; 2026-10-30 대조 |
+| SRC-709 | uboat.net Darino | 잠수함전 2차 연구 | 11/19 U41 격침16명 사망11명 생존 | https://uboat.net/allies/merchants/ships/102.html | 18일 실패한 어뢰와 19일 성공 구별; 2026-10-30 대조 |
+| SRC-710 | uboat.net U41 1939-11-19 순찰 | 잠수함전 2차 연구 | U41 생존11명 구조 후 이탈리아선 인계 | https://www.uboat.net/boats/patrols/u41/1939-11-19.html | 제3국 상선 원항해일지는 미대조; 2026-10-30 대조 |
+| SRC-711 | uboat.net Bowling | 잠수함전 2차 연구 | 11/19 U13 선원13명 사망 | https://uboat.net/allies/merchants/ship/101.html | 독측 목표함종 오판 유의; 2026-10-30 대조 |
+| SRC-712 | uboat.net Pensilva | 잠수함전 2차 연구 | 11/19 U49 격침 및 Echo/Wanderer 선원 구조 | https://www.uboat.net/allies/merchants/104.html | 생존자 총원 미상; 2026-10-30 대조 |
+| SRC-713 | Historisches Marinearchiv U49 Pensilva | 독 해전사 연구DB | 11/19 U49 귀속 확인 U43 오인 정정 | https://www.historisches-marinearchiv.de/projekte/ass/ausgabe.php?lang=2&where_value=118 | OG7 호송대 귀속 오기 유의; 2026-10-30 대조 |
+| SRC-714 | 광시 지역별 점령전사 | 중국 항일전 전문 2차 | 19일까지 다쓰·샤오둥·다탕·바이지 일본군 진격 | https://www.krzzjn.com/show-346-146043.html | 각 지역 점령 정확일 미확인; 2026-10-30 대조 |
+| SRC-715 | 체코 국방부 브르노 학생탄압 조사 | 체코 정부 2차·전몰자기록 | 16~17일 밤 체포·브르노173명 | https://valecnehroby.mo.gov.cz/aktuality/85-vyroci-umrti-bedricha-brabce-zdenka-svobody-v-kontextu-nacisticke-perzekuce-ceskeho | 브르노 부분 이송시각과 20일 전체이송 구별; 2026-10-30 대조 |
+| SRC-716 | Harvard Nuremberg 지령 제8호 번역 | 당대 독명령의 전범재판 증거 전재 | 1939-11-20 지령8호 서부공세 준비 | https://nuremberg.law.harvard.edu/documents/493-orders-to-military-commanders?mode=text | 원어 코드명 전재와 불일치 가능; 2026-10-30 대조 |
+| SRC-717 | 폴란드 총독부 유대인 금융자산 규제 법률 연구 | 폴란드 법률사 2차 논문 | 11/20 외환부령 제4호·예금동결·250즈워티 인출 | https://www.archaegraph.pl/lib/l231bv/Prawo_ebook-kw7t3ghx.pdf | PDF 검색색인만 확인, 원영상판독 미완료; 2026-10-30 대조 |
+| SRC-718 | Yad Vashem 유대인 경제상태 1940년7월 진술서 | 1차 당시 진술 현대 전재 | 주당250즈워티·현금2000즈워티 영향 | https://wwv.yadvashem.org/odot_pdf/Microsoft%20Word%20-%204876.pdf | 이 문서 자체의 작성일은 1940년7월, 지령 제정일 독립입증 아님; 2026-10-30 대조 |
+| SRC-719 | uboat.net Thomas Hankins | 잠수함전 2차 연구 | 11/20 U33 함포격침 선원12 생존 | https://www.uboat.net/allies/merchants/ship/107.html | 기록당시 구조시간차 있음; 2026-10-30 대조 |
+| SRC-720 | uboat.net Delphine | 잠수함전 2차 연구 | 11/20 U33 함포격침 선원13 생존 | https://uboat.net/allies/merchants/ships/106.html | 영 지방기록관 11/24와 충돌; 2026-10-30 대조 |
+| SRC-721 | uboat.net Sea Sweeper | 잠수함전 2차 연구 | 11/20 U33 함포격침 선원12 생존 | https://www.uboat.net/allies/merchants/ships/108.html | 구조어선 Lois; 2026-10-30 대조 |
+| SRC-722 | 영 Admiralty War Diary 1939년11월 | 영 해군 당대 전쟁일지 검색색인 | 11/20 Mastiff 5명사망4부상·Delphine 16시 기록 | https://cd.royalnavy.mod.uk/-/media/rnweb/locations-and-operations/navy-historical-branch/pdfs/1939/1939/admiralty-war-diary-november-1939.pdf?rev=0a327c1771ea469d82a3475227c4c86f | 원 PDF 접근오류로 검색발췌만 확인; 2026-10-30 대조 |
+| SRC-723 | Lancashire Red Rose Collections Delphine 선박카드 | 영 지방 기록관 2차 자료 | Delphine 침몰날짜 11/24 표기 | https://redrosecollections.lancashire.gov.uk/view-item?i=260463 | U33·영해군 20일 자료와 4일 차이; 2026-10-30 대조 |
+| SRC-724 | Lowestoft Our Fallen Mastiff George Horne | 영 지역 전몰자 기록·전기 | 11/20 기뢰회수중 폭발 당일5명후일1명 사망 | https://www.ourfallen.lowestoftoldandnow.org/field-lane/1939-11-20/george-william-horne | 당시 Admiralty 5명사망4명부상과 분리; 2026-10-30 대조 |
+| SRC-725 | U57 4차초계 KTB 전재 | 독해군 당대일지 영문전사 | 11/17 Kaunas·11/19 Stanbrook | https://m.uboatarchive.net/U-57/KTB57-4.htm | 독측 위치와 타 사료위치 차이; 2026-10-30 대조 |
+| SRC-726 | 네덜란드 문화유산청 MaSS Simon Bolivar | 네덜란드 정부 수중유산 연구 | 여객선 선명·해난문헌 참고목록 | https://mass.cultureelerfgoed.nl/simon-bolivar | 인원 통계는 Marhisdata 대조 필요; 2026-10-30 대조 |
 
 ## 출처의 권위에 대한 주의
 

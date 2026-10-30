@@ -733,6 +733,33 @@ as_of: 2026-10-25
 | EVT-1001 | 1939-11-16 | Arlington Court 침몰당시6명이 사망하고 65세 기관장 John Henry Pearson이 구명정 표류 중 추위로 뒤늦게 사망 | 전시해난·후일사망 | 발생 | 문헌대조 | [SRC-690](chronology-sources-v1.md) · [SRC-691](chronology-sources-v1.md) |
 | EVT-1002 | 1939-11-16 | Arlington Court 생존28명 중22명은 네덜란드선 Algenib, 6명은 엿새 후 Spinanger에 구조(당일 모두 구조된 것 아님) | 중립선·구조선 | 발생 | 문헌대조 | [SRC-690](chronology-sources-v1.md) |
 | EVT-1003 | 1939-11-16 | 독 U43이 Arlington Court 격침 직후 영 호위함들의 약20시간 폭뢰공격을 받아 손상 | 대잠전·호송엄호 | 발생 | 문헌대조 | [SRC-692](chronology-sources-v1.md) |
+| EVT-1004 | 1939-11-17 | 체코 프라하·브르노 등 대학생 기숙사를 독 게슈타포·SS가 16~17일 밤 급습해 1200명 이상 체포 | 점령·학생탄압 | 발생 | 문헌대조 | [SRC-693](chronology-sources-v1.md) · [SRC-715](chronology-sources-v1.md) |
+| EVT-1005 | 1939-11-17 | 독 점령군이 체코 학생대표와 학생운동 지도자 9명을 루지네에서 재판 없이 처형 | 점령범죄·처형 | 발생 | 문헌대조 | [SRC-693](chronology-sources-v1.md) · [SRC-694](chronology-sources-v1.md) |
+| EVT-1006 | 1939-11-17 | 독 점령당국이 체코 고등교육기관 폐쇄 조치 실행 | 점령교육정책 | 발생 | 문헌대조 | [SRC-693](chronology-sources-v1.md) · [SRC-694](chronology-sources-v1.md) |
+| EVT-1007 | 1939-11-17 | 일본군이 광시 친현(친저우)을 공격·점령해 중국 신편19사단이 철수 | 중일전쟁·시가전 | 발생 | 문헌대조 | [SRC-695](chronology-sources-v1.md) · [SRC-696](chronology-sources-v1.md) |
+| EVT-1008 | 1939-11-17 | 독 U28이 중립 네덜란드 유조선 Sliedrecht를 00:20 어뢰격침, 승조원31명 중 26명 실종·5명 후일 구조 | 잠수함전·중립선원 | 발생 | 문헌대조 | [SRC-697](chronology-sources-v1.md) |
+| EVT-1009 | 1939-11-17 | 독 U57이 중립 리투아니아 상선 Kaunas를 20:15 어뢰격침, 16명 중 1명 사망·15명 생존 | 잠수함전·중립상선 | 발생 | 문헌대조 | [SRC-698](chronology-sources-v1.md) · [SRC-725](chronology-sources-v1.md) |
+| EVT-1010 | 1939-11-18 | 네덜란드 여객선 Simon Bolivar가 영국 동부 자기기뢰 2발에 접촉해 침몰(사망자 80명·86명설 대조중) | 기뢰전·민간여객선 | 발생 | 문헌대조 | [SRC-699](chronology-sources-v1.md) · [SRC-700](chronology-sources-v1.md) · [SRC-701](chronology-sources-v1.md) · [SRC-726](chronology-sources-v1.md) |
+| EVT-1011 | 1939-11-18 | 독 U19가 오퍼드니스 Shipwash 부근에 01:50~02:41 자기기뢰 9기를 부설 | 해군·기뢰부설 | 발생 | 문헌대조 | [SRC-702](chronology-sources-v1.md) |
+| EVT-1012 | 1939-11-18 | 중립 유고슬라비아 상선 Carica Milica가 같은 날 U19 부설기뢰에 걸려 침몰(사망0명, 승조원총수 미확정) | 기뢰전·중립상선 | 발생 | 문헌대조 | [SRC-702](chronology-sources-v1.md) · [SRC-703](chronology-sources-v1.md) |
+| EVT-1013 | 1939-11-18 | 독 U18이 영 석탄선 Parkhill을 격침, 선원 9명 전원 사망 | 잠수함전·상선 | 발생 | 문헌대조 | [SRC-704](chronology-sources-v1.md) |
+| EVT-1014 | 1939-11-18 | 독 U22가 영 저인망어선 Wigmore를 어뢰격침, 승조원 16명 전원 사망 | 잠수함전·어선 | 발생 | 문헌대조 | [SRC-705](chronology-sources-v1.md) |
+| EVT-1015 | 1939-11-18 | 영 무장상선 California가 덴마크해협의 독 상선 Borkum을 나포(23일 후속 어뢰피격과 별개) | 해상봉쇄·나포 | 발생 | 문헌대조 | [SRC-706](chronology-sources-v1.md) |
+| EVT-1016 | 1939-11-18 | 일본군이 광시 샤오둥(小董) 방면 중국군 수비선을 공격했다는 중국 지역전사 | 중일전쟁·지방교전 | 발생 | 문헌대조 | [SRC-707](chronology-sources-v1.md) |
+| EVT-1017 | 1939-11-19 | 독 U57이 영 상선 Stanbrook을 격침해 선장 Archibald Dickson 등 20명 전원 사망 | 잠수함전·상선 | 발생 | 문헌대조 | [SRC-708](chronology-sources-v1.md) · [SRC-725](chronology-sources-v1.md) |
+| EVT-1018 | 1939-11-19 | 독 U41이 영 상선 Darino를 격침, 27명 중 16명 사망·11명 생존 | 잠수함전·상선 | 발생 | 문헌대조 | [SRC-709](chronology-sources-v1.md) |
+| EVT-1019 | 1939-11-19 | 독 U41이 Darino 생존선원 11명을 직접 구조하고 이탈리아 상선 Caterina Gerolimich에 인계 | 전시해난·구조 | 발생 | 문헌대조 | [SRC-709](chronology-sources-v1.md) · [SRC-710](chronology-sources-v1.md) |
+| EVT-1020 | 1939-11-19 | 독 U13이 영 상선 Bowling을 격침, 승조원 13명 전원 사망 | 잠수함전·상선 | 발생 | 문헌대조 | [SRC-711](chronology-sources-v1.md) |
+| EVT-1021 | 1939-11-19 | 독 U49가 영 상선 Pensilva를 12:19 어뢰격침, 승조원은 생존 | 잠수함전·상선 | 발생 | 문헌대조 | [SRC-712](chronology-sources-v1.md) · [SRC-713](chronology-sources-v1.md) |
+| EVT-1022 | 1939-11-19 | 영 구축함 HMS Echo가 Pensilva 선원들을 구조해 HMS Wanderer에 인계, 이들이 플리머스로 귀환 | 해상구조·영해군 | 발생 | 문헌대조 | [SRC-712](chronology-sources-v1.md) |
+| EVT-1023 | 1939-11-19 | 일본군이 19일까지 광시 다쓰·샤오둥·다탕·바이지 방면 거점을 점령했다는 중국 전사(개별 점령일 미확정) | 중일전쟁·지역점령 | 발생 | 링크등록 | [SRC-714](chronology-sources-v1.md) · [SRC-707](chronology-sources-v1.md) |
+| EVT-1024 | 1939-11-20 | 독 게슈타포가 체포된 체코 학생 1140명을 작센하우젠 강제수용소로 이송(17일 체포와 분리) | 수용소·강제이송 | 발생 | 문헌대조 | [SRC-694](chronology-sources-v1.md) |
+| EVT-1025 | 1939-11-20 | 히틀러의 전쟁수행 지령 제8호가 서부공세 대기·준비 명령을 발령(침공 실행일이 아님) | 독군정책·작전지령 | 발생 | 문헌대조 | [SRC-716](chronology-sources-v1.md) |
+| EVT-1026 | 1939-11-20 | 폴란드 총독부 외환담당부서가 유대인 계좌·예금을 동결하고 주당 250즈워티 인출한도 등 명령 | 반유대금융정책 | 발생 | 문헌대조 | [SRC-717](chronology-sources-v1.md) · [SRC-718](chronology-sources-v1.md) |
+| EVT-1027 | 1939-11-20 | 독 U33이 영 어선 Thomas Hankins를 함포격침, 선원 12명 전원 생존 | 잠수함전·어선 | 발생 | 문헌대조 | [SRC-719](chronology-sources-v1.md) |
+| EVT-1028 | 1939-11-20 | 독 U33이 영 어선 Delphine을 함포격침, 선원 13명 생존(영 해군20일 vs 영 지역기록24일 이견) | 잠수함전·어선 | 발생 | 링크등록 | [SRC-720](chronology-sources-v1.md) · [SRC-722](chronology-sources-v1.md) · [SRC-723](chronology-sources-v1.md) |
+| EVT-1029 | 1939-11-20 | 독 U33이 영 어선 Sea Sweeper를 함포격침, 선원 12명 전원 Lois에 구조 | 잠수함전·어선구조 | 발생 | 문헌대조 | [SRC-721](chronology-sources-v1.md) · [SRC-722](chronology-sources-v1.md) |
+| EVT-1030 | 1939-11-20 | 영 무장저인망어선 HMS Mastiff가 기뢰회수 중 폭발·침몰, 당일5명·후일 추가1명 사망설 | 기뢰전·영해군 | 발생 | 문헌대조 | [SRC-722](chronology-sources-v1.md) · [SRC-724](chronology-sources-v1.md) |
 | EVT-0067 | 1939-11-30 | 소련의 핀란드 침공과 겨울전쟁 개시 | 전쟁 | 발생 | 미등록 | — |
 | EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 미등록 | — |
 
