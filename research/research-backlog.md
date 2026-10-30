@@ -356,13 +356,20 @@ updated: 2026-10-26
 | RQ-0306 | P0 | in_progress | 다음 11/17~20 | 일군 광시 친저우점령일·중립네덜란드 상선 Sliedrecht·핀란드와 해전 | 1939-11-17~20 | 중국·일본 전사원문·선원개인명부 |
 | RQ-0307 | P0 | open | 체코 학생17일 체포·20일 이송 | 체포1200명 이상 vs 이송1140명, 브르노 일부 수송18~19일 기록 | EVT-1004~1006,1024 / SRC-693,694,715 | 강제수용소 원수용대장과 체코 대학별 체포명부 교차 |
 | RQ-0308 | P0 | open | Sliedrecht 26명 실종·구조일 | 11/16 정선,17 격침, 구명정26명 실종·5명 22vs23일 구조 이견 | EVT-1008 / SRC-697 | 네덜란드 선원 인명·Meresia 구조기록 원전 |
-| RQ-0309 | P0 | open | Simon Bolivar 사망자80vs86 | 네덜란드 DB 80(59+21) vs 일반전사86, 승조원132vs135 | EVT-1010 / SRC-699~701 | KNSM 승객·선원·사망명부 원본 확인 |
+| RQ-0309 | P0 | open | Simon Bolivar 사망자80vs86 | 네덜란드 DB 80(59+21) vs 영해군전사84·일반전사86, 승조원132vs135 | EVT-1010 / SRC-699~701 | KNSM 승객·선원·사망명부 원본 확인 |
 | RQ-0310 | P0 | open | 광시 지방도시 점령일 | 친현17일과 팡청16vs17일, 샤오둥18일 공격 및 다쓰·다탕 등19일까지 진격 | EVT-1007,1016,1023 / SRC-695,696,707,714 | 중국 신19사단·일본제5사단 원일지로 지명별 점령일 확정 |
 | RQ-0311 | P1 | open | Stanbrook 피난민 구조 이력 | 1939년3월 알리칸테 탈출피난민 구조수치와 11월 전원사망 선원 개별사 | EVT-1017 / SRC-708 | 스페인 항만문서·영상선원명부 확보 |
 | RQ-0312 | P1 | open | Darino 승조원구조 | U41이 생존자11명 구조·이탈리아 상선 인계한 구조·상륙정확시각 | EVT-1018~1019 / SRC-709,710 | 독 U41 KTB 및 이탈리아선 로그 |
 | RQ-0313 | P0 | open | Delphine 침몰20vs24일 | 영해군·U33 11/20 vs Lancashire 11/24, 선박번호 A126/A216 차이 | EVT-1028 / SRC-720,722,723 | 영 Admiralty 11/20 원전·영국 지방선박카드 상호 대조 |
 | RQ-0314 | P1 | open | HMS Mastiff 사망5vs6명 | 해군 당일5사망4부상 vs 지역명부 최종6사망, 후일사망 시점 | EVT-1030 / SRC-722,724 | CWGC 승조원 개인 명부·사망일 |
-| RQ-0315 | P0 | open | 다음 1939-11-21~24 조사 | 북해 자기기뢰·HMS Belfast·Terukuni Maru·Rawalpindi·남광시 난닝24일·핀소외교 | 1939-11-21~24 | 당대 해군일지·중국 및 핀란드 자료 다전역 검사 |
+| RQ-0315 | P0 | in_progress | 다음 1939-11-21~24 조사 | 북해 자기기뢰·HMS Belfast·Terukuni Maru·Rawalpindi·남광시 난닝24일·핀소외교 | 1939-11-21~24 | 당대 해군일지·중국 및 핀란드 자료 다전역 검사 |
+| RQ-0316 | P0 | open | Rawalpindi 전사자수 | 영 국방부263 vs uboat275 vs 일반서238, 독함 구조인원22vs27 | EVT-1048~1049, SRC-740~741 | 영 전몰원부·POW 명부 대조 |
+| RQ-0317 | P0 | open | Shoeburyness 23vs24 해체일 | HMS Vernon 23일 vs AWM 23일 투하24일 해체 | EVT-1052, SRC-743~744 | Ouvry 공식보고·Admiralty 22~25 일지 |
+| RQ-0318 | P0 | open | Lowland 인원집계 | 영해군 원일지 승조원14·선장1사망11실종3구조 vs 전사9사망3구조 | EVT-1043, SRC-709,722 | 해사원부·Myrtle 구조원전 |
+| RQ-0319 | P0 | open | Arlington Court Spinanger 6vs7 | 기존 EVT-1002 6명 vs Naval-History 7명, 22명 Algenib 구조 | EVT-1002, SRC-690,709 | Spinanger·Algenib 인명장부 |
+| RQ-0320 | P1 | open | Terukuni Maru 시각 | 21일 00:35 vs12:53 기뢰접촉시간차 | EVT-1034, SRC-729 | NYK·Harwich 원항해일지 |
+| RQ-0321 | P0 | open | HMS Gipsy 최종사망 | 21일 즉사 vs 24일 Vassalo와 27일 Crossley 사후사망 합계 | EVT-1033,1056 SRC-745 | CWGC 개별명부 |
+| RQ-0322 | P0 | open | 다음 11/25~28 조사 | 26일 Mainila 사건·27~28일 핀소외교, Pilsudski 격침·중국전선 | 1939-11-25~28 | 원FRUS·해군 원일지 |
 
 ## 조사기록·원전으로의 역참조
 

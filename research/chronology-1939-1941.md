@@ -731,7 +731,7 @@ as_of: 2026-10-25
 | EVT-0999 | 1939-11-16 | 일본군이 팡청 현청을 점령했다는 중국 군사학교 기록(일부 지역사 17일로 이견) | 중일전쟁·지방점령 | 발생 | 링크등록 | [SRC-683](chronology-sources-v1.md) · [SRC-684](chronology-sources-v1.md) |
 | EVT-1000 | 1939-11-16 | 독 U43이 호송대 SL-7A 뒤처진 영 상선 Arlington Court 어뢰격침, 총원35명 중7명사망28생존 | 대서양호송전·민간선원 | 발생 | 문헌대조 | [SRC-690](chronology-sources-v1.md) |
 | EVT-1001 | 1939-11-16 | Arlington Court 침몰당시6명이 사망하고 65세 기관장 John Henry Pearson이 구명정 표류 중 추위로 뒤늦게 사망 | 전시해난·후일사망 | 발생 | 문헌대조 | [SRC-690](chronology-sources-v1.md) · [SRC-691](chronology-sources-v1.md) |
-| EVT-1002 | 1939-11-16 | Arlington Court 생존28명 중22명은 네덜란드선 Algenib, 6명은 엿새 후 Spinanger에 구조(당일 모두 구조된 것 아님) | 중립선·구조선 | 발생 | 문헌대조 | [SRC-690](chronology-sources-v1.md) |
+| EVT-1002 | 1939-11-16 | Arlington Court Algenib 22명 구조·Spinanger 6명(uboat) vs7명(영해군전사) 구조집계 충돌 | 중립선·구조선 | 발생 | 링크등록 | [SRC-690](chronology-sources-v1.md) · [SRC-709](chronology-sources-v1.md) |
 | EVT-1003 | 1939-11-16 | 독 U43이 Arlington Court 격침 직후 영 호위함들의 약20시간 폭뢰공격을 받아 손상 | 대잠전·호송엄호 | 발생 | 문헌대조 | [SRC-692](chronology-sources-v1.md) |
 | EVT-1004 | 1939-11-17 | 체코 프라하·브르노 등 대학생 기숙사를 독 게슈타포·SS가 16~17일 밤 급습해 1200명 이상 체포 | 점령·학생탄압 | 발생 | 문헌대조 | [SRC-693](chronology-sources-v1.md) · [SRC-715](chronology-sources-v1.md) |
 | EVT-1005 | 1939-11-17 | 독 점령군이 체코 학생대표와 학생운동 지도자 9명을 루지네에서 재판 없이 처형 | 점령범죄·처형 | 발생 | 문헌대조 | [SRC-693](chronology-sources-v1.md) · [SRC-694](chronology-sources-v1.md) |
@@ -760,6 +760,32 @@ as_of: 2026-10-25
 | EVT-1028 | 1939-11-20 | 독 U33이 영 어선 Delphine을 함포격침, 선원 13명 생존(영 해군20일 vs 영 지역기록24일 이견) | 잠수함전·어선 | 발생 | 링크등록 | [SRC-720](chronology-sources-v1.md) · [SRC-722](chronology-sources-v1.md) · [SRC-723](chronology-sources-v1.md) |
 | EVT-1029 | 1939-11-20 | 독 U33이 영 어선 Sea Sweeper를 함포격침, 선원 12명 전원 Lois에 구조 | 잠수함전·어선구조 | 발생 | 문헌대조 | [SRC-721](chronology-sources-v1.md) · [SRC-722](chronology-sources-v1.md) |
 | EVT-1030 | 1939-11-20 | 영 무장저인망어선 HMS Mastiff가 기뢰회수 중 폭발·침몰, 당일5명·후일 추가1명 사망설 | 기뢰전·영해군 | 발생 | 문헌대조 | [SRC-722](chronology-sources-v1.md) · [SRC-724](chronology-sources-v1.md) |
+| EVT-1031 | 1939-11-21 | 독 Scharnhorst·Gneisenau가 영 Northern Patrol 공격을 위해 출항 | 해군작전·출격 | 발생 | 문헌대조 | [SRC-709](chronology-sources-v1.md) |
+| EVT-1032 | 1939-11-21 | 영 순양함 HMS Belfast가 U21이 11월4일 부설한 자기기뢰에 대파, 침몰하지 않음 | 기뢰전·군함피해 | 발생 | 문헌대조 | [SRC-727](chronology-sources-v1.md) |
+| EVT-1033 | 1939-11-21 | 영 구축함 HMS Gipsy가 Harwich 입구 기뢰에 침몰, 후일 사망자는 별도 | 기뢰전·구축함 | 발생 | 문헌대조 | [SRC-728](chronology-sources-v1.md) · [SRC-745](chronology-sources-v1.md) |
+| EVT-1034 | 1939-11-21 | 중립 일본여객선 Terukuni Maru가 기뢰에 침몰, 도선사 포함 206명 전원구조 | 기뢰전·중립여객선 | 발생 | 문헌대조 | [SRC-729](chronology-sources-v1.md) · [SRC-709](chronology-sources-v1.md) |
+| EVT-1035 | 1939-11-21 | U33이 영 어선 Sulby를 격침, 12명 중 구명정5명 실종7명 생존 | 잠수함전·어선 | 발생 | 문헌대조 | [SRC-730](chronology-sources-v1.md) |
+| EVT-1036 | 1939-11-21 | U33이 영 어선 William Humphries를 격침, 13명 구명정 이탈 후 전원실종·사망 | 잠수함전·어선 | 발생 | 문헌대조 | [SRC-731](chronology-sources-v1.md) |
+| EVT-1037 | 1939-11-21 | 프 징발 소해어선 Ste Claire가 U16 과거부설 기뢰에 침몰해 11명 전원사망 | 기뢰전·프해군 | 발생 | 문헌대조 | [SRC-732](chronology-sources-v1.md) |
+| EVT-1038 | 1939-11-21 | U41이 프 어선 Les Barges II를 함포격침, 15명 전원 스페인 어선에 구조 | 잠수함전·인명구조 | 발생 | 문헌대조 | [SRC-733](chronology-sources-v1.md) |
+| EVT-1039 | 1939-11-22 | HMS Aragonite가 Deal 근해 기뢰에 침몰, 영해군 당대 보고에 부상4명 | 기뢰전·소해어선 | 발생 | 문헌대조 | [SRC-734](chronology-sources-v1.md) · [SRC-722](chronology-sources-v1.md) |
+| EVT-1040 | 1939-11-22 | U43이 프 상선 Arijon을 격침, 선원14명·해군포수2명 사망25명 생존 | 잠수함전·상선 | 발생 | 문헌대조 | [SRC-735](chronology-sources-v1.md) |
+| EVT-1041 | 1939-11-22 | Arijon의 승조원 Yves Cabioch는 침몰 당시 15세였으며 사망자명부에 기록 | 전시선원·미성년자 | 발생 | 문헌대조 | [SRC-736](chronology-sources-v1.md) |
+| EVT-1042 | 1939-11-22 | 그리스 상선 Elena R가 U26의 9월10일 부설기뢰에 침몰했으나 24명 전원생존 | 기뢰전·중립상선 | 발생 | 문헌대조 | [SRC-737](chronology-sources-v1.md) |
+| EVT-1043 | 1939-11-22 | 영 상선 Lowland가 기뢰에 침몰, 영해군 기록과 해난전사의 사망자 집계 상충 | 기뢰전·피해집계 | 발생 | 링크등록 | [SRC-709](chronology-sources-v1.md) · [SRC-722](chronology-sources-v1.md) |
+| EVT-1044 | 1939-11-22 | 영 상선 Geraldus가 기뢰에 침몰하고 Wivern이 구조, 21일 vs22일 피격일 충돌 | 기뢰전·해상구조 | 발생 | 링크등록 | [SRC-709](chronology-sources-v1.md) · [SRC-739](chronology-sources-v1.md) |
+| EVT-1045 | 1939-11-22 | 독 상선 Adolph Woermann이 HMS Neptune 접근시 남대서양에서 자침, 영군함이 독 승조원 구조 | 해상봉쇄·독상선자침 | 발생 | 문헌대조 | [SRC-738](chronology-sources-v1.md) |
+| EVT-1046 | 1939-11-22 | 영 HMS Laurentic가 독상선 Antiochia를 정선, 자침일22 vs23일 이견 | 해상봉쇄·나포 | 발생 | 링크등록 | [SRC-709](chronology-sources-v1.md) · [SRC-722](chronology-sources-v1.md) |
+| EVT-1047 | 1939-11-23 | 영 무장상선 Rawalpindi가 Scharnhorst를 발견하고 무선신고 중 Deutschland로 오인 | 해전·정보전 | 발생 | 문헌대조 | [SRC-709](chronology-sources-v1.md) |
+| EVT-1048 | 1939-11-23 | HMS Rawalpindi가 독 Scharnhorst·Gneisenau와 교전하다 침몰·함장 Kennedy 전사 | 북대서양·수상함전 | 발생 | 문헌대조 | [SRC-740](chronology-sources-v1.md) · [SRC-741](chronology-sources-v1.md) |
+| EVT-1049 | 1939-11-23 | Rawalpindi의 6인치 함포탄이 Scharnhorst 후미갑판을 명중시킨 것으로 영 전사 기록 | 해전·군함포격 | 발생 | 문헌대조 | [SRC-709](chronology-sources-v1.md) |
+| EVT-1050 | 1939-11-23 | U33이 영 해군이 18일 나포한 독상선 Borkum을 공격해 독원선원4명사망(25일 좌초) | 오인공격·독상선 | 발생 | 문헌대조 | [SRC-742](chronology-sources-v1.md) |
+| EVT-1051 | 1939-11-23 | 21일 격침된 Sulby의 생존선원7명이 Tobermory 구조정에 구조됨 | 전시해난·구조 | 발생 | 문헌대조 | [SRC-730](chronology-sources-v1.md) |
+| EVT-1052 | 1939-11-23 | Shoeburyness 독 자기기뢰를 Ouvry팀이 처리·회수했다는 기록(23일 vs24일 안전화 이견) | 기뢰해체·군사기술 | 발생 | 링크등록 | [SRC-743](chronology-sources-v1.md) · [SRC-744](chronology-sources-v1.md) |
+| EVT-1053 | 1939-11-24 | 일본군이 중국 광시 난닝을 점령해 중국 서남부 보급로를 위협 | 중일전쟁·광시 | 발생 | 문헌대조 | [SRC-695](chronology-sources-v1.md) · [SRC-686](chronology-sources-v1.md) |
+| EVT-1054 | 1939-11-24 | 영 상선 Mangalore가 Humber 기뢰에 침몰하고 승조원 구조·일부 부상 | 기뢰전·상선피해 | 발생 | 문헌대조 | [SRC-746](chronology-sources-v1.md) · [SRC-709](chronology-sources-v1.md) |
+| EVT-1055 | 1939-11-24 | Rawalpindi 생존자가 영 무장상선 HMS Chitral에 구조(원일지상 구조시각 및 숫자확인 필요) | 해상구조·해군 | 발생 | 링크등록 | [SRC-709](chronology-sources-v1.md) · [SRC-741](chronology-sources-v1.md) |
+| EVT-1056 | 1939-11-24 | HMS Gipsy 승조원 Giuseppe Vassalo가 21일 기뢰피격 부상 후 사망 | 해군인명·후일사망 | 발생 | 문헌대조 | [SRC-745](chronology-sources-v1.md) |
 | EVT-0067 | 1939-11-30 | 소련의 핀란드 침공과 겨울전쟁 개시 | 전쟁 | 발생 | 미등록 | — |
 | EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 미등록 | — |
 

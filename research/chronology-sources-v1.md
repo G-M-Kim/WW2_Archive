@@ -851,6 +851,26 @@ as_of: 2026-10-25
 | SRC-724 | Lowestoft Our Fallen Mastiff George Horne | 영 지역 전몰자 기록·전기 | 11/20 기뢰회수중 폭발 당일5명후일1명 사망 | https://www.ourfallen.lowestoftoldandnow.org/field-lane/1939-11-20/george-william-horne | 당시 Admiralty 5명사망4명부상과 분리; 2026-10-30 대조 |
 | SRC-725 | U57 4차초계 KTB 전재 | 독해군 당대일지 영문전사 | 11/17 Kaunas·11/19 Stanbrook | https://m.uboatarchive.net/U-57/KTB57-4.htm | 독측 위치와 타 사료위치 차이; 2026-10-30 대조 |
 | SRC-726 | 네덜란드 문화유산청 MaSS Simon Bolivar | 네덜란드 정부 수중유산 연구 | 여객선 선명·해난문헌 참고목록 | https://mass.cultureelerfgoed.nl/simon-bolivar | 인원 통계는 Marhisdata 대조 필요; 2026-10-30 대조 |
+| SRC-727 | HMS Belfast U21 magnetic mine 21 Nov | 영군함 2차 전사 | 11/21 10:59 피격, Rosyth 예인, 수년수리 | https://www.uboat.net/allies/warships/1236.html | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-728 | HMS Gipsy 21 Nov | 영구축함 2차 전사 | 21일 Harwich 기뢰침몰 | https://uboat.net/allies/warships/4393.html | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-729 | Terukuni Maru Harwich local history | 영 지역사 2차 | 일본여객선21일 침몰, 206명 구조, 시각이견 | https://harwichanddovercourt.co.uk/the-war-years/world-war-disasters/ | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-730 | Sulby uboat.net | 해난사 2차 | U33 21일,5실종7생존·23일 구조 | https://www.uboat.net/allies/merchants/ships/110.html | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-731 | William Humphries uboat.net | 해난사 2차 | U33 21일 승조원13명 실종사망 | https://www.uboat.net/allies/merchants/109.html | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-732 | Ste Claire uboat.net | 프 소해어선 해난사 2차 | 11/21 U16 과거기뢰, 11명 사망 | https://www.uboat.net/allies/merchants/ship/105.html | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-733 | Les Barges II uboat.net | 프 어선 해난사 2차 | 21일 U41 함포, 15명 생존 | https://www.uboat.net/allies/merchants/ship/111.html | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-734 | Aragonite warship loss list | 영 해군 피해 목록 | 22일 영 소해어선 침몰 | https://uboat.net/allies/warships/war_losses.html | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-735 | Arijon uboat.net | 프 상선 해난사 2차 | 22일 U43 16명 사망25생존 | https://uboat.net/allies/merchants/ship/113.html | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-736 | Yves Cabioch uboat.net crew list | 프 선원명부 2차 | Arijon 15세 선원 22일 사망 | https://www.uboat.net/allies/merchants/crews/person/65251.html | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-737 | Elena R uboat.net | 그리스 상선 해난사 2차 | 22일 U26 9/10 부설기뢰에 피격 24명 생존 | https://uboat.net/allies/merchants/ship/114.html | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-738 | HMS Neptune Adolph Woermann | 영 해군일지 기반 2차 | 22일 남대서양 독선 자침·162명 구조 | https://www.uboat.net/allies/warships/4004.html | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-739 | Nora Acheson Geraldus incident | 인명구조 연구 PDF 검색발췌 | Geraldus 21일 사고설; 영일별전사22일 | https://lsars.org.uk/publications/For-Service-in-the-Cause-of-Humanity-preview.pdf | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-740 | Royal Navy Rawalpindi Captain Kennedy | 영 국방부 공식 역사해설 | 23일 Rawalpindi 침몰, 263명 사망설 | https://www.royalnavy.mod.uk/news/2022/july/05/20220705-high-wycombe-road-rededicated-to-ww2-royal-navy-hero | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-741 | Rawalpindi uboat.net | 군함전사 2차 | 23일 격침·275명 사망설 | https://uboat.net/allies/warships/ship/3329.html | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-742 | Borkum uboat.net | 나포상선 전사 2차 | 23일 U33 공격 독선원4명사망,25일 좌초 | https://www.uboat.net/allies/merchants/ship/115.html | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-743 | HMS Vernon Shoeburyness magnetic mine | 기뢰처리기관 역사 | 23일 자기기뢰 처리 주장의 근거 | https://www.vernonlink.uk/hms-vernon | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-744 | AWM Shoeburyness mine photo | 호주 정부 박물관 사진해설 | 23일 투하24일 해체 주장 | https://www.awm.gov.au/collection/C1168743 | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-745 | RN casualty list 1939 November | 영 해군 전몰자 2차 명부 | 24일 Vassalo,27일 Crossley 부상후 사망 | https://www.naval-history.net/xDKCas1939-11NOV.htm | undefined; 2026-10-30 원자료/색인 구분 |
+| SRC-746 | Mangalore Brocklebank ship history | 영 상선사 연구 | 24일 Humber 기뢰침몰·승조원 구조 | https://www.benjidog.co.uk/allen/Brocklebank3.php | undefined; 2026-10-30 원자료/색인 구분 |
 
 ## 출처의 권위에 대한 주의
 
