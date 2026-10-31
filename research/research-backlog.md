@@ -578,7 +578,23 @@ updated: 2026-10-26
 | RQ-0521 | P0 | open | 13일 Aura II 26전몰 원명부·ShCh324 공격 및 자국 폭뢰 폭발정확기전 | Yle 5폭뢰 투하 뒤 다음 폭뢰 갑판폭발·5분침몰26명사망, ShCh324 어뢰 자체피격아님 | 1940-01-13/SRC-1051 | 핀 해군 Aura II 해난조사·국가전몰자명부·소련 ShCh324 원항해일지 |
 | RQ-0522 | P0 | open | 13일 Hämeenlinna 공습 사망12 부상21 vs23·헬싱키 사망6부상21 원부 | Yle 당일기사21 부상·핀 지방기록관 원전시 회고자료23 부상, 본 사건 원경찰 및 병원동원자 명부 미확인 | 1940-01-13/SRC-1051,1066 | 핀 Hämeenlinna 당대 보건소/지방기록관 공습원보고·Helsinki Hietalahti 소방원일지 |
 | RQ-0523 | P1 | open | 13일 Kuusamo Hossa112명+말20 및 Junttila50 소개·Bazhanov 13일 Mannerheim 접견 | 현지 Korpisota 주민 이동개시수와 Valpo후대 보도 Mannerheim 면담일; 실제 도착·공문원전 부족 | 1940-01-13/SRC-1069,1070 | 핀 마을 피난/임시집결명부·핀 Mikkeli 최고사령부 1/13 접견일지 |
-| RQ-0524 | P0 | open | 다음 1940/1/14~16 다전역 조사 | 1/14 소핀 Stockholm 비공식첫면담일, 15 U44 Arendskerk/Fagerheim,16 Gracia Inverdargle Panachrandos Cairnross 및 중국·점령지 | 1940-01-14~16/SRC-1063 | 핀·소 외교원전·uboat.net 및 독KTB·중국 국가당안관·영 Admiralty |
+| RQ-0524 | P0 | done | 다음 1940/1/14~16 다전역 조사 | 1/14 소핀 Stockholm 비공식첫면담일, 15 U44 Arendskerk/Fagerheim,16 Gracia Inverdargle Panachrandos Cairnross 및 중국·점령지 | 1940-01-14~16/SRC-1063 | 핀·소 외교원전·uboat.net 및 독KTB·중국 국가당안관·영 Admiralty  · [1/14~16 사료감사](source-audit-1940-jan14-16-batch1.md) |
+
+| RQ-0525 | P0 | open | Fagerheim 1/14 23:40 vs1/15 00:13 침몰일·선측시각·승무원수 | 노 법정 해난조사19명·14사망5생존 vs UboatDB20명·15사망5생존, 법정증언 14일23:40 vs 함보고15일00:13 | 1940-01-14~15/SRC-1074~1077 | 노 RA Justisdepartementet Politikontoret P O/Ob/L0296 journal1476-6457/1940 pp4–8,242–249 원스캔·U44 KTB 원시각/선위·Iris 구조일지 |
+| RQ-0526 | P1 | open | Fagerheim 그리스 Iris 1/15 15:15 구조된 생존5명 전원실명 | 생존항해사 Harald Berg 전재기록, 구조까지 저체온사망 일부 있었음·노해원법정기록 사망14 | 1940-01-14~15/SRC-1074~1076 | Iris 그리스선박 항해원일지·노 생존자 출입국증명·선원19명 전몰명부 |
+| RQ-0527 | P0 | open | Wuolijoki Kollontai 실제 최초 대면 1/14 설과 1/10 Stockholm출발 혼동 | 핀 후대 Meriluoto 14일 첫 면담, Clements 학술전기 10일 출발후 접촉만 확인 | 1940-01-10~14/SRC-1088,1089 | 핀 외무 Tanner 접견/전화일지·스웨덴 Kollontai 부임지 접견기록·NKVD 회담 전문 |
+| RQ-0528 | P1 | open | 1940/1/14 Vaasa 공습 여성·아동 포함10명 민간희생 실명 | Yle 14일 Vaasa 폭격사망10, 12/31 Vaasa4명과 별도인명·각시기 누적 혼동 | 1940-01-14/SRC-1071 | 핀 Vaasa 지역기록관 민간방공명부·묘지원장·공습관련 병원진료대장 |
+| RQ-0529 | P1 | open | 1/14 스웨덴 Haparanda 소련폭격 착탄지·영해/영공 사건 | Yle 핀 1/14 소련기 스웨덴 해안공격 및 공습경보1.5h 보도, 실제 탄착/사망 미확인 | 1940-01-14/SRC-1071 | 스웨덴 경찰·국경수비대 사건원부·스웨덴 대소 외교항의 |
+| RQ-0530 | P1 | open | 1/14 Iku-Turso 순찰실패 기계고장·핀 해군 겨울전쟁 잠수함 작전중단 | Yle 14일 Iku-Turso 접속기 고장·겨울결빙에 제약, 4척 함정별 최종순찰일 원기록 미확인 | 1940-01-14/SRC-1071 | 핀 해군 잠수함 Iku-Turso/Vetehinen/Vesihiisi/Vesikko 당대 항해기록 |
+| RQ-0531 | P1 | open | Salla 소련122사단 철수·88사단 원증원동원·핀 ErP25 15일 진격연동 | Yle14일 철수/증원보고, ErP25 원일지15일12시 추격행군·16일 Salmivaara 적없음 | 1940-01-14~16/SRC-1071,1087 | 소련122·88사단 작전원장/배속·핀 JR40 Roininen 작전명령 |
+| RQ-0532 | P1 | open | 1/15 Viipuri 12:23 공습사망3명·부상수십명 실명 | Yle 갑자기 공습 사이렌과 첫 폭탄 동시, Punaisenlähteentori 주변 민간피해 | 1940-01-15/SRC-1072 | Viipuri 민방공·군방공신고·병원 사상자명부·출격 소련 항공연대 원일지 |
+| RQ-0533 | P1 | open | Siltavuori 프로펠러로 소련 DB폭격기 꼬리 공격 전과 원항공기 사고 | 핀 Yle 1/15 이례전과, Fokker 기관총 결빙→프로펠러 물리공격 주장·소련 기체원손실기록 미대조 | 1940-01-15/SRC-1072 | 핀 Lentolaivue 해당 시험조종사 보고·Fokker 정비장부·소련 폭격대 손실명부 |
+| RQ-0534 | P1 | open | 1/15 Selma Lagerlöf 노벨·스웨덴아카데미 메달 기증 실제 인계/매각 | Yle 기부 의사 발표, 어느기관에 어느 날 전달/구호액 기록 없는 상태 | 1940-01-15/SRC-1072 | 스웨덴 Nobel Foundation·Selma Lagerlöf 공문집·핀 기부금 회계 |
+| RQ-0535 | P1 | open | Arendskerk U44 15일 중립선 정선 서류검사 국제법 적법성 | uboat.net/당시 Arendskerk 선장 신문증언 정선·검사·65생존·Fedora 구조, contraband 판정 독군 주장 | 1940-01-15/SRC-1078,1079 | 독 U44 KTB·네덜란드 해난심판·중립국 해운전시해사법 분석 |
+| RQ-0536 | P1 | open | 1/16 그리스 Panachrandos 전원사망31명 중 27명 개인명부만 확인 | uboat.net 31명 중27명 개인신원 보유, 잔여4명 사망원명부 미확인 | 1940-01-16/SRC-1080 | 그리스 해원선적원장·선원 인원등록·U44 KTB |
+| RQ-0537 | P1 | open | 1/16 Inverdargle 기뢰 전몰49명·1939/11/9 U33 부설지점 및 Gracia 생존47명 | 두 해난 모두 과거 부설기뢰, 선박명부 및 Gracia 1941년 재침몰 사건과 분리필요 | 1939-11-09~1940-01-16/SRC-1081,1082 | 영 Admiralty 기뢰해도·U33/U30 KTB·Inverdargle Crew 49명 이름·Gracia 인양원부 |
+| RQ-0538 | P1 | open | Łódź 1/16 유대인 공장기업 재산몰수 예비논의 RG-63.02.56 원문·소유주 | LA Holocaust Museum finding aid는 1/16 몰수계획 예비논의문서 식별, 구체공장·계획 시행내용 원전미열람 | 1940-01-16/SRC-1084,1085 | LA Museum RG-63.02.56 실제스캔·폴 IPN 우치 기업 국유화재산명세·역사관 |
+| RQ-0539 | P0 | open | 다음 1940/1/17~19 중립선 대량피해·Salla·점령지 | 17일 Cairnross 기뢰, Enid·Polzella, 18일 Flandria·Foxen·Pajala 등, 19일 Kaija·Patria·다른점령지역, 16일 Josephine Charlotte 미기록 조사 | 1940-01-17~19/SRC-1083 | uboat.net 선박DB·영 ADM 당대해난기록·핀 ErP17/25·노국립원명부·영 1940 해군참모일지 |
 
 ## 조사기록·원전으로의 역참조
 
