@@ -1139,6 +1139,8 @@ as_of: 2026-10-25
 | SRC-1008 | Yle original ErP25 Rovaniemi battalion diary Jan2-4 | 핀 Yle 전재 핀 ErP25 당대 군일지·1차내용 수록2차 | 1/2 Outojärvi 전진 및 휴식,1/3 10:00 Huhtavaara→Valtonen 공세·14시 소련 진지 접촉·전차로 도로도하 실패,1/4 10:30 재공세·Valtanen에서 적전차1격파1손상 보고 | https://yle.fi/a/3-5525175 | ErP17 1/4 전술상황과 비교, '격파1손상1' 전차번호·소련기록 후속검증 |
 | SRC-1009 | Finna Finnish Defence Forces newsreel 1 catalog Raate and Suomussalmi | 핀 국립영상보관기관 공식 영상 필름 메타DB·당시 전시국방뉴스 원기록목록 | 1940/1/30 개봉 Puolustusvoimain uutiskatsaus1, 관련장면에 1/3 Suomussalmi 전리품 영상·날짜 표기·무너진 마을, 포획기체 등 | https://www.finna.fi/Record/kavi.elonet_elokuva_604724 | 영상편집·개봉·실제촬영일이 일치한다는 보장 없고 1/3 사진을 1/5 이후 Raate 전리품으로 소급 주장 금지 |
 
+| SRC-1010 | Ahti Lappi Swedish AA guns 1939-1940, Ilmatorjunta 1/2011 p29 | 핀 방공군 장교 전문연구/2011 학회지·스웨덴 원문서 Boden Tygstation no319/1940 인용2차 | 문서 대조표에 1940/1/4 40mm lvakan 대공포16문·25mm lvakan 1문 핀란드로 인도 명시 | https://asiakas.kotisivukone.com/files/ilmatorjunta.com.kotisivukone.com/Lehdet/it0111.pdf | 웹 PDF 본문텍스트만 확인·화면스크린샷 접근차단. '발송' vs '현지수령' 물류 정의 원전필요 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
