@@ -1024,7 +1024,7 @@ as_of: 2026-10-25
 | EVT-1290 | 1939-12-17 | 영 Achilles가 RFA Olynthus에 급유하는 동안 Ajax·Cumberland가 경계항해 | 영해군·해상급유 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) |
 | EVT-1291 | 1939-12-17 | Graf Spee 승조원을 독 상선 Tacoma로 이송, 영 하우드 15:40 300~400명 보고·17:20 누적700명 이상 보고 | 독해군·승무원이송 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) |
 | EVT-1292 | 1939-12-17 | Graf Spee가18:15 몬테비데오 항구를 떠나 얕은 River Plate 바다로 이동·Tacoma 후속출항 | 독장갑함·항외출항 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) |
-| EVT-1293 | 1939-12-17 | Graf Spee가19:54~55 몬테비데오 인근 해상에서 자체 폭약으로 자침·영 하우드20:54(Zone+2) 항공기보고 | 라플라타강·독함자침 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) · [SRC-892](chronology-sources-v1.md) · [SRC-896](chronology-sources-v1.md) |
+| EVT-1293 | 1939-12-17 | Graf Spee가19:54~55 우루과이 현지시(22:54 GMT 독해군 전보) 몬테비데오 인근 해상에서 자체 폭약으로 자침·영 하우드20:54(Zone+2) 항공기보고 | 라플라타강·독함자침 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) · [SRC-892](chronology-sources-v1.md) · [SRC-896](chronology-sources-v1.md) · [SRC-912](chronology-sources-v1.md) |
 | EVT-1294 | 1939-12-17 | 17일 Graf Spee 자침으로 승조원 사망없었던 것으로 미 외교관은18일 사후보고·13일 교전36사망과 구분 | 해상전·선원생존 | 발생 | 문헌대조 | [SRC-907](chronology-sources-v1.md) |
 | EVT-1295 | 1939-12-17 | 미주외교관이 17일 Graf Spee 사건 대응 공동성명 초안의 중립항 교전국함정 입항제한 문제 협의 | 미주외교·중립수역 | 발생 | 문헌대조 | [SRC-908](chronology-sources-v1.md) |
 | EVT-1296 | 1939-12-17 | 핀 쿠흐모 Tyrävaara에서 Kekkonen 분견대가 소련118산악연대 선봉 진출을 저지하는 방어전 시작 | 겨울전쟁·쿠흐모 | 발생 | 문헌대조 | [SRC-903](chronology-sources-v1.md) · [SRC-904](chronology-sources-v1.md) |
@@ -1032,6 +1032,46 @@ as_of: 2026-10-25
 | EVT-1298 | 1939-12-17 | Bogø 생존선원3명은 영 저인망어선 River Earn에 구조, 해당어선은19일 독항공기에 별도 피격 | 구명활동·덴마크선원 | 발생 | 문헌대조 | [SRC-901](chronology-sources-v1.md) |
 | EVT-1299 | 1939-12-17 | 독 U59가05:36 신원불명 선박 격침한 것을 실종 덴마크 Jaegersborg와 추정연결·18명 전원실종(동일성 미증명) | 해상전·중립선식별미확정 | 발생 | 링크등록 | [SRC-902](chronology-sources-v1.md) |
 | EVT-1300 | 1939-12-17 | HMS Exeter Richard Powton이 13일 라플라타강 교전부상으로 17일 사망 | 해군희생·부상후사망 | 발생 | 문헌대조 | [SRC-905](chronology-sources-v1.md) |
+| EVT-1301 | 1939-12-18 | 독 Graf Spee 함장 Langsdorff가 17일 자침22:54 GMT·어뢰탄두6발로 전함파괴·사망0명이라고 본부에18일 전문 | 독해군·원전보 | 발생 | 문헌대조 | [SRC-912](chronology-sources-v1.md) |
+| EVT-1302 | 1939-12-18 | Graf Spee 승조원 약1040명이 아르헨 예인선 등으로 옮겨18일 Buenos Aires 도착(독함장 보고 14:10GMT) | 독해군·선원도착 | 발생 | 문헌대조 | [SRC-909](chronology-sources-v1.md) · [SRC-910](chronology-sources-v1.md) · [SRC-912](chronology-sources-v1.md) |
+| EVT-1303 | 1939-12-18 | Graf Spee 최후 철거조4명이 Tacoma에 구조된 뒤 우루과이 몬테비데오로 되돌아와 당국에 억류 | 독해군·우루과이중립 | 발생 | 문헌대조 | [SRC-909](chronology-sources-v1.md) |
+| EVT-1304 | 1939-12-18 | 독 공사가 우루과이의 Graf Spee 체류제한은 국제법위반이라는 항의문 제출 | 독우루과이외교·수리시간 | 발생 | 문헌대조 | [SRC-909](chronology-sources-v1.md) |
+| EVT-1305 | 1939-12-18 | 독해군전쟁일지는 히틀러가03시 Graf Spee 자침 공식발표 문구를 함장선택에서 총통명령으로 수정요구했다고 기록 | 독해군·나치보도검열 | 발생 | 문헌대조 | [SRC-912](chronology-sources-v1.md) |
+| EVT-1306 | 1939-12-18 | 영 RAF Wellington 24대가 Wilhelmshaven 주변 함선공습을 위해 출격해22대가 독 목표해역에 접근 | 헬골란트만·주간공습 | 발생 | 문헌대조 | [SRC-918](chronology-sources-v1.md) · [SRC-919](chronology-sources-v1.md) |
+| EVT-1307 | 1939-12-18 | 헬골란트만 전투에서 독 전투기 요격으로 영 Wellington12대 격추·영공군57명 사망 | 영독공중전·영폭격기손실 | 발생 | 문헌대조 | [SRC-918](chronology-sources-v1.md) · [SRC-919](chronology-sources-v1.md) |
+| EVT-1308 | 1939-12-18 | 헬골란트만 대손실이 영 공군 중폭격기 주간밀집편대의 방어한계를 드러내 야간폭격 선호에 영향 | RAF전술교리·교훈 | 발생 | 문헌대조 | [SRC-918](chronology-sources-v1.md) · [SRC-919](chronology-sources-v1.md) |
+| EVT-1309 | 1939-12-18 | 중국 제5군이 두위밍 지휘로 쿤룬관(昆仑关) 일본군 점령지를 향해 기계화반격 개시 | 중일전쟁·쿤룬관전투 | 발생 | 문헌대조 | [SRC-920](chronology-sources-v1.md) · [SRC-921](chronology-sources-v1.md) |
+| EVT-1310 | 1939-12-18 | 중국 동서양익군이 5군의 쿤룬관 북쪽 공격과 협동해 일본군 보급로와 퇴로차단을 시도(탈환은31일) | 중일전쟁·일본보급차단 | 발생 | 문헌대조 | [SRC-920](chronology-sources-v1.md) |
+| EVT-1311 | 1939-12-18 | 핀 JR40이 Pelkosenniemi 전투에서 소련273보병연대를 역습·퇴각시켜 북부전선 안정 | 겨울전쟁·북극권전투 | 발생 | 문헌대조 | [SRC-922](chronology-sources-v1.md) |
+| EVT-1312 | 1939-12-18 | 핀 Saarenpää 연안포대가 소련 전함 Oktjabrskaja Revolutsija와 포격교전 | 겨울전쟁·발트해해군 | 발생 | 문헌대조 | [SRC-923](chronology-sources-v1.md) |
+| EVT-1313 | 1939-12-18 | 핀 북부집단 군일지 10시 Kiekinkoski Vääräjoki 교량 재폭파 보고·소련 후방보급지연 정황 | 겨울전쟁·교량파괴 | 발생 | 문헌대조 | [SRC-924](chronology-sources-v1.md) |
+| EVT-1314 | 1939-12-18 | 핀 Suomussalmi 교회마을 반격 11~18일 첫 국면이 지속됐으나 소련군 최종격파는 아직 미완 | 겨울전쟁·교회마을포위전 | 발생 | 문헌대조 | [SRC-925](chronology-sources-v1.md) |
+| EVT-1315 | 1939-12-19 | 아르헨 정부가 Graf Spee 장교·승조원 군사억류를 결정하고 미국대사가19일10시 본국에 보고 | 남미중립국법·독군억류 | 발생 | 문헌대조 | [SRC-910](chronology-sources-v1.md) · [SRC-911](chronology-sources-v1.md) |
+| EVT-1316 | 1939-12-19 | 아르헨 대통령령에 Graf Spee 장교 Buenos Aires 경찰감독·선원 내륙억류·독정부 비용부담 규정 | 아르헨대통령령·독군장교 | 발생 | 문헌대조 | [SRC-911](chronology-sources-v1.md) |
+| EVT-1317 | 1939-12-19 | 브라질 외무장관이 아르헨티나에 Graf Spee 자침 후 우루과이 입장을 지지하는 미주공동성명 조항 추가 제안 | 미주외교·공동항의 | 발생 | 문헌대조 | [SRC-910](chronology-sources-v1.md) |
+| EVT-1318 | 1939-12-19 | 랑스도르프가 독해군에 Graf Spee의 무기·장비를 노획당하지 않도록 내부장비를24시간 파괴준비했다고 추가보고 | 독해군·함정자침경위 | 발생 | 문헌대조 | [SRC-912](chronology-sources-v1.md) |
+| EVT-1319 | 1939-12-19 | 독 여객선 Columbus가 영 구축함 Hyperion 경고사격 이후 약15:30 미 동부 앞 해상에서 자침 | 대서양·독여객선자침 | 발생 | 문헌대조 | [SRC-915](chronology-sources-v1.md) · [SRC-916](chronology-sources-v1.md) |
+| EVT-1320 | 1939-12-19 | 미 중순양함 USS Tuscaloosa가 Columbus에서 이선한 승조원 구조·영 Hyperion은 수용공간 부족으로 미국에 협조요청 | 미해군·중립선구조 | 발생 | 문헌대조 | [SRC-915](chronology-sources-v1.md) · [SRC-916](chronology-sources-v1.md) · [SRC-934](chronology-sources-v1.md) |
+| EVT-1321 | 1939-12-19 | Columbus 구조자 총수 미해군함정사577명과 당대 미 국무부 전문579명 상충으로 완전명부대조 보류 | 해난인명·집계불일치 | 발생 | 링크등록 | [SRC-915](chronology-sources-v1.md) · [SRC-917](chronology-sources-v1.md) |
+| EVT-1322 | 1939-12-19 | 영불 최고전쟁회의 제4회가 파리에서 열려 핀란드 군수·금융지원과 스칸디나비아 통과문제 논의 | 연합군전략·최고전쟁회의 | 발생 | 문헌대조 | [SRC-931](chronology-sources-v1.md) |
+| EVT-1323 | 1939-12-19 | 달라디에 적극적 대핀 지원안과 체임벌린의 소련 직접전쟁 우려가 충돌·19일 회담은 핀원정군 출병결정 아님 | 연합국외교·핀란드지원 | 발생 | 문헌대조 | [SRC-931](chronology-sources-v1.md) |
+| EVT-1324 | 1939-12-19 | 핀 Saarenpää 포대와 소련 전함 Marat 함포전(18일 전함 Oktjabrskaja Revolutsija와 구별) | 발트해·겨울전쟁해군 | 발생 | 문헌대조 | [SRC-923](chronology-sources-v1.md) · [SRC-912](chronology-sources-v1.md) |
+| EVT-1325 | 1939-12-19 | 소련군이 핀 Summa 만네르하임 방어선에 기갑대규모 공세, 전차손실수와 정확돌파범위 원사료미확인 | 겨울전쟁·기갑돌파 | 발생 | 링크등록 | [SRC-933](chronology-sources-v1.md) |
+| EVT-1326 | 1939-12-19 | 영 City of Kobe가03:35 독 U60이15일 부설한 기뢰에 피격침몰, 승조원31명중1사망30생존 | 기뢰전·영수송선 | 발생 | 문헌대조 | [SRC-926](chronology-sources-v1.md) |
+| EVT-1327 | 1939-12-19 | City of Kobe 생존30명은 HMS Tumby 및 영 Corinia·Faxfleet에 구조 | 영구조함·해난구조 | 발생 | 문헌대조 | [SRC-926](chronology-sources-v1.md) |
+| EVT-1328 | 1939-12-19 | 핀 북부집단 전쟁일지가08:45 Kiekinkoski 소련 보급정체·18:15 Kajaani 대전차소대3개 도착 기록 | 겨울전쟁·북부전선증원 | 발생 | 문헌대조 | [SRC-924](chronology-sources-v1.md) |
+| EVT-1329 | 1939-12-20 | Graf Spee 함장 Hans Langsdorff 사망일을 미해군과 아르헨 경찰은20일, 독전쟁일지는19일밤으로 기록·자결확인 | 독군함장·사망일논쟁 | 발생 | 문헌대조 | [SRC-912](chronology-sources-v1.md) · [SRC-913](chronology-sources-v1.md) · [SRC-914](chronology-sources-v1.md) |
+| EVT-1330 | 1939-12-20 | 랑스도르프가 독대사 von Thermann에게 Graf Spee 선원안전과 자침결정에 관한 마지막 서한을 남겼다는 독 전쟁일지 기록 | 전시인물·유서 | 발생 | 문헌대조 | [SRC-912](chronology-sources-v1.md) |
+| EVT-1331 | 1939-12-20 | 아르헨 정부가 Graf Spee 독승조원은 예인선이 구조목적으로 사전파견돼 해난구조자면책에 해당없다며 독 측 억류반대 항의거절 | 아르헨중립법·독항의 | 발생 | 문헌대조 | [SRC-912](chronology-sources-v1.md) · [SRC-911](chronology-sources-v1.md) |
+| EVT-1332 | 1939-12-20 | USS Tuscaloosa가 Columbus 생존자들을 Ellis Island로 이동시켜 미국 입국 심사·당대 국무부 원전은579명 집계 | 미구조작전·이민행정 | 발생 | 문헌대조 | [SRC-915](chronology-sources-v1.md) · [SRC-917](chronology-sources-v1.md) |
+| EVT-1333 | 1939-12-20 | U22가02:07~02:50 영 Blyth St Mary's 등대 부근에 TMB기뢰9발 부설 | 북해기뢰전·잠수함 | 발생 | 문헌대조 | [SRC-928](chronology-sources-v1.md) |
+| EVT-1334 | 1939-12-20 | 중립 스웨덴 Mars(1877톤)가14:30 독 U22의 당일 부설기뢰에 접촉·승무원22중7명 사망15명생존 | 해상전·스웨덴중립선 | 발생 | 문헌대조 | [SRC-927](chronology-sources-v1.md) · [SRC-928](chronology-sources-v1.md) |
+| EVT-1335 | 1939-12-20 | Mars(1877톤) 생존15명 중 부상4명 포함9명이 당일 North Shields 상륙·21일 격침된 Mars(1475톤)와 동명이선 | 해난구조·동명이선구분 | 발생 | 문헌대조 | [SRC-927](chronology-sources-v1.md) |
+| EVT-1336 | 1939-12-20 | 핀 ErP17이 Mäntyvaara 소련596연대 측후방공격을 저지, 지자체 자료 전투전체 핀17전사 소련300이상 추정 | 겨울전쟁·맨튀바라전투 | 발생 | 문헌대조 | [SRC-929](chronology-sources-v1.md) · [SRC-930](chronology-sources-v1.md) |
+| EVT-1337 | 1939-12-20 | 핀 ErP17 제1중대 당대전사 14:05 접전·14:25 반격·저녁 고지확보, 해당중대3전사6부상(전체전투 17명과 구분) | 겨울전쟁·원전사상일지 | 발생 | 문헌대조 | [SRC-929](chronology-sources-v1.md) |
+| EVT-1338 | 1939-12-20 | 소련의 Summa 지구 공세가 일단 중단돼 핀 방어선 주요진지 유지, 기갑 총전과는 원작전일지 미확인 | 겨울전쟁·소련공세둔화 | 발생 | 링크등록 | [SRC-932](chronology-sources-v1.md) · [SRC-933](chronology-sources-v1.md) |
+| EVT-1339 | 1939-12-20 | 프랑스가19일 전쟁회의 후 핀 대외원조·스칸디나비아 안전보장에 관한 수정제안안을 영 런던에 전달 | 영불외교·대핀원조 | 발생 | 문헌대조 | [SRC-931](chronology-sources-v1.md) |
+| EVT-1340 | 1939-12-20 | 핀 북부집단 일지가 Kuhmo Vepsä 방면 소련 우회군 약190명 후퇴·영하24도·핀1전사2부상 보고 | 겨울전쟁·혹한전선 | 발생 | 문헌대조 | [SRC-924](chronology-sources-v1.md) |
 
 ## 1940년
 
