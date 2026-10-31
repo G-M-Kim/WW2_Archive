@@ -979,7 +979,7 @@ as_of: 2026-10-25
 | EVT-1245 | 1939-12-13 | Ajax 정찰기와 Exeter 어뢰발사 등이 독함의 연막·회피기동에 영향을 줌 | 라플라타강해전·정찰및어뢰 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) |
 | EVT-1246 | 1939-12-13 | Ajax·Achilles가 07:40 주간전투 이탈 뒤 서쪽 이동하는 Graf Spee 추적·관측을 유지 | 라플라타강해전·추격 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) |
 | EVT-1247 | 1939-12-13 | Graf Spee가 기관계 연료정제장치 손상을 입어 함장 Hans Langsdorff가 우루과이 몬테비데오 중립항으로 향함 | 독장갑함·연료설비피해 | 발생 | 문헌대조 | [SRC-865](chronology-sources-v1.md) · [SRC-868](chronology-sources-v1.md) |
-| EVT-1248 | 1939-12-13 | 라플라타강 해전 영측 Exeter61 Ajax7 Achilles4 총72명 사망(뉴질랜드인2명), Graf Spee 독36명 사망 | 해전·양측전몰 | 발생 | 문헌대조 | [SRC-864](chronology-sources-v1.md) · [SRC-865](chronology-sources-v1.md) · [SRC-866](chronology-sources-v1.md) |
+| EVT-1248 | 1939-12-13 | 라플라타강 해전 영측 Exeter61 Ajax7 Achilles4 총72명 사망(교전일 이후 부상사망자 포함·뉴질랜드인2명), Graf Spee 독36명 사망 | 해전·양측전몰 | 발생 | 문헌대조 | [SRC-864](chronology-sources-v1.md) · [SRC-865](chronology-sources-v1.md) · [SRC-866](chronology-sources-v1.md) · [SRC-905](chronology-sources-v1.md) |
 | EVT-1249 | 1939-12-13 | 우루과이 해군 순양함 Uruguay가 자국해역 중립성 수호를 위해 13일 해전소식 접수후 교전해역으로 접근 | 우루과이중립해군·해상전 | 발생 | 문헌대조 | [SRC-867](chronology-sources-v1.md) |
 | EVT-1250 | 1939-12-13 | 영 Ajax·Achilles는 13일밤 독 Graf Spee를 몬테비데오 외항까지 추적, 정확 정박은14일00:50으로 분리 | 해전·중립항입항전 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) · [SRC-867](chronology-sources-v1.md) |
 | EVT-1251 | 1939-12-13 | 영 잠수함 HMS Salmon이 북해에서 독 경순양함 Leipzig·Nürnberg를 각각 어뢰피격·두 함 모두 손상(격침아님) | 북해해전·독순양함 | 발생 | 문헌대조 | [SRC-869](chronology-sources-v1.md) · [SRC-870](chronology-sources-v1.md) · [SRC-885](chronology-sources-v1.md) |
@@ -991,6 +991,47 @@ as_of: 2026-10-25
 | EVT-1257 | 1939-12-13 | 국제연맹 특별위원회가 13일 소련침공 규탄과 핀국 지원을 권고하는 초안을 마련, 채택·제명은 다음날14일 | 국제연맹·결의초안 | 발생 | 문헌대조 | [SRC-879](chronology-sources-v1.md) |
 | EVT-1258 | 1939-12-13 | 소련 신문이 12일 몰로토프가 국제연맹 중재를 거절한 원답신 내용을 13일 보도 | 국제연맹·소련선전 | 발생 | 문헌대조 | [SRC-878](chronology-sources-v1.md) |
 | EVT-1259 | 1939-12-13 | 핀 태너 외무장관이 미공사에 영·프·북유럽의 물자지원 기대와 압도적 소련 군세에 장기항전 어려움 우려 전달 | 핀란드외교·전시외교 | 발생 | 문헌대조 | [SRC-880](chronology-sources-v1.md) |
+| EVT-1260 | 1939-12-14 | 독 Graf Spee가 13일 전투뒤14일00:50 하우드 영원보고 시각으로 몬테비데오 중립항에 정박 | 남대서양·독장갑함입항 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) · [SRC-892](chronology-sources-v1.md) |
+| EVT-1261 | 1939-12-14 | 우루과이 당국이 Graf Spee에 우선48시간 항내수리 체류허가를 주었다는 미공사14일 보고 | 우루과이외교·중립항 | 발생 | 문헌대조 | [SRC-893](chronology-sources-v1.md) |
+| EVT-1262 | 1939-12-14 | 영 하우드가 몬테비데오 공사에 적국상선 출항후24시간 규칙으로 Graf Spee 출항지연을 도와달라고 요청 | 전시외교·중립항법 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) · [SRC-889](chronology-sources-v1.md) |
+| EVT-1263 | 1939-12-14 | 영 중순양함 Cumberland가 포클랜드에서34시간 항해후22시 River Plate 영 순양함대에 합류 | 남대서양·영증원 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) · [SRC-891](chronology-sources-v1.md) |
+| EVT-1264 | 1939-12-14 | 국제연맹 총회가 소련 핀침공을 규탄하며 핀 지원 결의 채택 | 국제연맹·침략규탄 | 발생 | 문헌대조 | [SRC-887](chronology-sources-v1.md) · [SRC-888](chronology-sources-v1.md) |
+| EVT-1265 | 1939-12-14 | 국제연맹 중국·스위스·불가리아·발트3국이 총회기권, 북유럽3국은 제재집행 일부에 유보 | 국제연맹·기권국기록 | 발생 | 문헌대조 | [SRC-887](chronology-sources-v1.md) · [SRC-888](chronology-sources-v1.md) |
+| EVT-1266 | 1939-12-14 | 국제연맹 이사회가 규약16조4항으로 소련의 회원자격 소멸결정(그리스·유고·핀·중국 기권) | 국제연맹·소련제명 | 발생 | 문헌대조 | [SRC-887](chronology-sources-v1.md) |
+| EVT-1267 | 1939-12-14 | HMS Exeter 수병 Leonard Hill과 Alfred Phillips가 13일 라플라타강 전투부상으로 14일 사망 | 해군희생·부상후사망 | 발생 | 문헌대조 | [SRC-905](chronology-sources-v1.md) |
+| EVT-1268 | 1939-12-14 | 미공사가 Graf Spee 전사36·부상자48명 이상을14일 관측·전언으로 본국 보고 | 외교전문·독함희생 | 발생 | 문헌대조 | [SRC-893](chronology-sources-v1.md) |
+| EVT-1269 | 1939-12-15 | 하우드가11:35 영 Ajax·Achilles·Cumberland의 합동요격·Graf Spee 해상추적 명령 발령 | 남대서양·영전술 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) |
+| EVT-1270 | 1939-12-15 | RFA Olynthus가 영 Ajax에 연료200톤 공급·풍랑으로 견인줄손상 | 해군보급·해상급유 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) |
+| EVT-1271 | 1939-12-15 | 영 상선 Ashworth가 몬테비데오에서19시 출항하여 헤이그 XIII 24시간 출항간격 규정 이용 | 남미중립항·영외교 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) · [SRC-889](chronology-sources-v1.md) |
+| EVT-1272 | 1939-12-15 | 우루과이가 Graf Spee 수리·출항 허용시간을72시간 정도로 제한하고 최종 기한 17일20시 통지 | 우루과이·중립항출항기한 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) · [SRC-892](chronology-sources-v1.md) |
+| EVT-1273 | 1939-12-15 | 독 Graf Spee가 해전전몰 수병의 장례인력을 몬테비데오 육지로 보냄 | 해군군장례·전사자 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) |
+| EVT-1274 | 1939-12-15 | 미 국무부가 남미 여러 공화국에 13일 해전 중립권 문제의 공동 항의 성명을 제안하는 외교공문 발송 | 미주외교·중립권 | 발생 | 문헌대조 | [SRC-894](chronology-sources-v1.md) |
+| EVT-1275 | 1939-12-15 | 독 U48이16:11 중립 그리스 Germaine을 정선시켜 선원퇴선 명령하고17:40 어뢰격침·사망0 | 잠수함전·그리스중립선 | 발생 | 문헌대조 | [SRC-898](chronology-sources-v1.md) |
+| EVT-1276 | 1939-12-15 | Germaine 승조원은 노르웨이 상선 Vinland가 구조하였으며 총원수는 전문전사에 기재되지 않음 | 해상구조·그리스선원 | 발생 | 문헌대조 | [SRC-898](chronology-sources-v1.md) |
+| EVT-1277 | 1939-12-15 | 13일 라플라타강 전투부상자 HMS Exeter Evan George가 15일 부상후 사망 | 해군희생·부상후사망 | 발생 | 문헌대조 | [SRC-905](chronology-sources-v1.md) |
+| EVT-1278 | 1939-12-16 | 영 Ajax·Cumberland·Achilles가00:30 몬테비데오 앞 산안토니오에서 집결·Ajax 정찰기 시계불량 정찰 | 영함대·남대서양경계 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) |
+| EVT-1279 | 1939-12-16 | Ajax 정찰기 피격 보고를 Graf Spee 탈출징후로 오인했으나 영 공사는 독함 발포가 아니었다고 답신 | 해군정보·오인보고 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) |
+| EVT-1280 | 1939-12-16 | 우루과이 외무장관 Guani가 독 공사에17일20시 출항 아니면 억류법규 수용 확약요구했으나 독공사 거부 | 우루과이외교·독함법적지위 | 발생 | 문헌대조 | [SRC-895](chronology-sources-v1.md) |
+| EVT-1281 | 1939-12-16 | 독해군총사령관 Raeder가 13시 히틀러에게 Graf Spee 완전수리 최소2주와 우루과이 체류제한72시간을 보고 | 독해군·지도부판단 | 발생 | 문헌대조 | [SRC-897](chronology-sources-v1.md) |
+| EVT-1282 | 1939-12-16 | Raeder가 히틀러 승인 후17:07 독 Graf Spee에 우루과이 억류금지·돌파/불가시자침 지시무선전문 발신 | 독해군·우회지휘 | 발생 | 문헌대조 | [SRC-897](chronology-sources-v1.md) |
+| EVT-1283 | 1939-12-16 | 영 상선 Dunster Grange가 몬테비데오에서17시 출항하자 영측이24시간 간격규칙 적용을 다시 요청 | 중립항법·선박출항 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) · [SRC-889](chronology-sources-v1.md) |
+| EVT-1284 | 1939-12-16 | 독 U59가00:28 중립 스웨덴 Lister를 격침했으나 승조원19명 전원생존(6명은 21일 HMS Eclipse 구조) | 잠수함전·중립스웨덴 | 발생 | 문헌대조 | [SRC-900](chronology-sources-v1.md) |
+| EVT-1285 | 1939-12-16 | 독 U59가12:49 중립 노르웨이 Glitrefjell을 격침·승선18명중5명 사망13명 생존 | 잠수함전·노르웨이중립선 | 발생 | 문헌대조 | [SRC-899](chronology-sources-v1.md) |
+| EVT-1286 | 1939-12-16 | Glitrefjell 생존자13명이 노르웨이 상선 Icarion에 구조돼 Leith로 이송 | 해난구조·노르웨이 | 발생 | 문헌대조 | [SRC-899](chronology-sources-v1.md) |
+| EVT-1287 | 1939-12-16 | HMS Exeter Frank Legg가 13일 라플라타강 교전부상으로 16일 사망 | 해군희생·부상후사망 | 발생 | 문헌대조 | [SRC-905](chronology-sources-v1.md) |
+| EVT-1288 | 1939-12-17 | 독 해군수뇌부가 Graf Spee에 우루과이 억류금지와 유사시 자침 명령 재확인 전문을00:40 발신 | 독해군·자침확인명령 | 발생 | 문헌대조 | [SRC-897](chronology-sources-v1.md) |
+| EVT-1289 | 1939-12-17 | Graf Spee가04:50부터 전투용 핵심설비/사격통제장비 제거 및 자침폭약 설치 준비 | 독함·자침준비 | 발생 | 문헌대조 | [SRC-892](chronology-sources-v1.md) |
+| EVT-1290 | 1939-12-17 | 영 Achilles가 RFA Olynthus에 급유하는 동안 Ajax·Cumberland가 경계항해 | 영해군·해상급유 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) |
+| EVT-1291 | 1939-12-17 | Graf Spee 승조원을 독 상선 Tacoma로 이송, 영 하우드 15:40 300~400명 보고·17:20 누적700명 이상 보고 | 독해군·승무원이송 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) |
+| EVT-1292 | 1939-12-17 | Graf Spee가18:15 몬테비데오 항구를 떠나 얕은 River Plate 바다로 이동·Tacoma 후속출항 | 독장갑함·항외출항 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) |
+| EVT-1293 | 1939-12-17 | Graf Spee가19:54~55 몬테비데오 인근 해상에서 자체 폭약으로 자침·영 하우드20:54(Zone+2) 항공기보고 | 라플라타강·독함자침 | 발생 | 문헌대조 | [SRC-890](chronology-sources-v1.md) · [SRC-892](chronology-sources-v1.md) · [SRC-896](chronology-sources-v1.md) |
+| EVT-1294 | 1939-12-17 | 17일 Graf Spee 자침으로 승조원 사망없었던 것으로 미 외교관은18일 사후보고·13일 교전36사망과 구분 | 해상전·선원생존 | 발생 | 문헌대조 | [SRC-907](chronology-sources-v1.md) |
+| EVT-1295 | 1939-12-17 | 미주외교관이 17일 Graf Spee 사건 대응 공동성명 초안의 중립항 교전국함정 입항제한 문제 협의 | 미주외교·중립수역 | 발생 | 문헌대조 | [SRC-908](chronology-sources-v1.md) |
+| EVT-1296 | 1939-12-17 | 핀 쿠흐모 Tyrävaara에서 Kekkonen 분견대가 소련118산악연대 선봉 진출을 저지하는 방어전 시작 | 겨울전쟁·쿠흐모 | 발생 | 문헌대조 | [SRC-903](chronology-sources-v1.md) · [SRC-904](chronology-sources-v1.md) |
+| EVT-1297 | 1939-12-17 | 독 U59가02:34 중립 덴마크 Bogø 격침·승무원20명중17명 사망3명 생존 | 잠수함전·덴마크중립선 | 발생 | 문헌대조 | [SRC-901](chronology-sources-v1.md) |
+| EVT-1298 | 1939-12-17 | Bogø 생존선원3명은 영 저인망어선 River Earn에 구조, 해당어선은19일 독항공기에 별도 피격 | 구명활동·덴마크선원 | 발생 | 문헌대조 | [SRC-901](chronology-sources-v1.md) |
+| EVT-1299 | 1939-12-17 | 독 U59가05:36 신원불명 선박 격침한 것을 실종 덴마크 Jaegersborg와 추정연결·18명 전원실종(동일성 미증명) | 해상전·중립선식별미확정 | 발생 | 링크등록 | [SRC-902](chronology-sources-v1.md) |
+| EVT-1300 | 1939-12-17 | HMS Exeter Richard Powton이 13일 라플라타강 교전부상으로 17일 사망 | 해군희생·부상후사망 | 발생 | 문헌대조 | [SRC-905](chronology-sources-v1.md) |
 
 ## 1940년
 
