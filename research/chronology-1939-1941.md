@@ -1441,7 +1441,7 @@ as_of: 2026-10-25
 | EVT-1699 | 1940-01-17 | 영 Polzella(4751GRT)가 U25 어뢰에 명중돼 약12초만에 침몰하고 선장 포함 37명 전원 사망 | 대서양전·영해원대량사망 | 발생 | 문헌대조 | [SRC-1099](chronology-sources-v1.md) |
 | EVT-1700 | 1940-01-17 | 노르웨이 중립선 Enid(1140GRT)가 Polzella 구호 시도 중 U25 함포공격과 마무리 어뢰로 침몰, 승무16명 전원생존 | 대서양전·노르웨이중립선침몰 | 발생 | 문헌대조 | [SRC-1097](chronology-sources-v1.md) · [SRC-1098](chronology-sources-v1.md) |
 | EVT-1701 | 1940-01-17 | Enid 생존 승무원8명이 구명정으로 셰틀랜드 Unst 육지에 도착하고 다른8명은 덴마크 상선 Kina에 구조됨 | 해상구조·국제민간선박 | 발생 | 문헌대조 | [SRC-1098](chronology-sources-v1.md) |
-| EVT-1702 | 1940-01-17 | 영 구축함 HMS Firedrake가 U25 공격으로 남아 떠있던 Enid의 불타는 후미 선체를 후속 포격처분 | 북해해전·침몰선처분 | 발생 | 문헌대조 | [SRC-1098](chronology-sources-v1.md) |
+| EVT-1702 | 1940-01-17 | 17일 U25 공격 후 Enid의 후미 선체가 계속 떠있어 영 구축함 HMS Firedrake가 이후 포격처분(정확 후미처분일 별도 확인) | 북해해전·침몰선처분 | 발생 | 문헌대조 | [SRC-1098](chronology-sources-v1.md) |
 | EVT-1703 | 1940-01-17 | 영 Cairnross(5494GRT)가 OB74 호송 중 U30의 1월6일 부설기뢰에 피격침몰·48명 전원생존 | 북해기뢰전·호송상선 | 발생 | 문헌대조 | [SRC-1100](chronology-sources-v1.md) |
 | EVT-1704 | 1940-01-17 | 영 구축함 HMS Mackay가 Cairnross 선장 Laurence Halcrow를 포함한 승무원48명을 구조해 Liverpool에 상륙시킴 | 영해군·상선생존자구조 | 발생 | 문헌대조 | [SRC-1100](chronology-sources-v1.md) |
 | EVT-1705 | 1940-01-18 | 소련 공군 폭격기가 Kotka항에서 수리중인 핀 쇄빙선 Tarmo 선수에 폭탄2발을 명중시켜 승무원39명 사망 | 겨울전쟁·Tarmo쇄빙선공습 | 발생 | 문헌대조 | [SRC-1091](chronology-sources-v1.md) · [SRC-1093](chronology-sources-v1.md) · [SRC-1094](chronology-sources-v1.md) |
