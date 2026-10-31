@@ -1286,6 +1286,8 @@ as_of: 2026-10-25
 | SRC-1146 | OnWar general 1940 Jan 22 UK newsreel preliminary censorship chronicle | 영 전시연표 후대편집2차·공식당대 Ministry of Information 시행문서 미확인 | 1940/1/22부터 영 뉴스영화 information ministry 선공개심사· liaison officer 배치 기록 | https://www.onwar.com/wwii/chronology/194001.html | 단일 2차 연표만 확인. 법령·부처 회람 입수 전 링크등록 |
 | SRC-1147 | Yle SA-kuva 20-22 Jan photo metadata at Kollaa and Lemet | 핀 국방군 SA-kuva 사진기록 메타를 Yle가 2014 전재2차/1차사진 | 1/20 Kollaanjoki 소련포병 포격 촬영, 1/21 Ruhtinaanmäki 굶어죽은 군마, 1/22 Lemetti 북방 4km 소련군 파괴수송대 메타확인 | https://yle.fi/aihe/a/20-69537 | 사진메타 날짜와 촬영원필름 원자료 확인 전 피해량/군명은 단정할수 없음·사진저작권 별도 |
 
+| SRC-1148 | Yale Avalon Nuremberg document 1665-PS: treatment of former Polish-state nationals property | 미 Yale Law School Avalon 니른베르크 국제군사재판 증거원문 1차독관보영어번역 | 괴링의 전 폴란드국민 재산몰수 포괄규정 법령 원문 발령일 1940/9/17 Reichsgesetzblatt Part I p1270, 1940/1/22이라는 후대연표 주장은 이 법령과 맞지 않음 | https://avalon.law.yale.edu/imt/1665-ps.asp | 영어 번역문, 독어 관보 직접대조 미완·9/17 관련별도항목 작성전 원전서지대조 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
