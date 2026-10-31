@@ -1161,6 +1161,8 @@ as_of: 2026-10-25
 | SRC-1028 | Yle White Russian émigrés POW army correspondence | 핀 공영방송 2020 연구인터뷰·전시보안기관 원서한 소개2차 | 1940/1/6 ROVS 지도자 Aleksei Arkhangelsky가 핀 Schulgin에게 소련 전쟁포로 반공부대 모집 지시서한 보낸 것으로 가족이 Valpo 비밀문서 열람 주장 | https://yle.fi/a/3-11254603 | 후대 구술·원문서 미게시, 명령서 날짜6일과 실제군 부대 조직실행 분리; 링크등록 수준 |
 | SRC-1029 | uboat.net January 1940 Uboat merchant incidents list | 해상전 전문 월별 색인2차 | 1/6 U13 City of Marseilles 손상 유일 독 Uboat 관련상선 사건; 1/5 Fenris 소련잠수함이므로 미포함 | https://uboat.net/allies/merchants/losses_year.html?qdate=1940-01 | 독 Uboat만을 포괄, 모든해난의 완결표 아님 |
 
+| SRC-1030 | WinterWar Karelia military biography of 44th Division commander Vinogradov | 러시아 겨울전쟁군사사 연구·러 국방부중앙기록보존소 ЦАМО РФ 개인인사카드 인용2차 | 제44사단장 Alexei Vinogradov가 탈출 후 1940/1/11 제9군 군사재판결과 총살, 1990/11/17 복권 결정 | https://winterwar.karelia.ru/site/commander/division/article/39 | 사형은 1/11이므로 1/7 전투종결과 같은날 사건으로 기록금지. 원재판명령 수색 후속 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
