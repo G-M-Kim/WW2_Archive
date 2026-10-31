@@ -614,7 +614,26 @@ updated: 2026-10-26
 | RQ-0555 | P0 | open | 영 HMS Grenville 19일 기뢰부설 원출격·77/118 인명조사 | 영 구축함 H03 12:50 Thames Estuary 독 구축함3척 부설기뢰 77전몰118구조, 초기출처 승무기준의견차 가능 | 1940-01-19/SRC-1110,1111 | 영 ADM Grenville 군법회의·독 Erich Steinbrinck/Friedrich Ihn/Friedrich Eckoldt KTB·CWGC77명 |
 | RQ-0556 | P1 | open | 19일 프랑스 Quiberon 생존0이나 승무원 총수·사망자수 미기재 | U59 21:09 Great Yarmouth동쪽 침몰, 전문해난DB crew count '?' | 1940-01-19/SRC-1109 | 프랑스 해운사 Union Industrielle et Maritime 1940crewlist·전몰원명부·U59 KTB |
 | RQ-0557 | P0 | open | 19일 Kaija 침몰 소련 항공기종 Pe-2 주장 시대착오·17일 영 Enigma 첫해독설 | 개인해난DB Kaija 398GRT 19일 Koivisto 공습·Pe-2로 표기하나 실전배치일 검증 필요; Korpisota 17일 최초 Enigma설 vs GCHQ/IEEE 20일/봄 후속해독 | 1940-01-17~19/SRC-1112,1114,1115,1116 | 핀 Kaija 선적/전손원부·소련 공군연대 출격원본·영 GC&CS Bletchley Park Key Green 원진행장부 |
-| RQ-0558 | P0 | open | 다음 1940/1/20~22 유럽·북부전선·해상전 추가 | 20일 U34 Caroni River 기뢰·21일 영 구축함 Exmouth 전원실종/U22, 21일 Oulu 대규모폭격 및 소련항공, 22일 중립선 및 Salla 원일지 | 1940-01-20~22/SRC-1092,1110 | 영해군 작전일지·핀 Yle 군전사·노 Minnehallen·uboat.net·FRUS·중국 당대전보 |
+| RQ-0558 | P0 | done | 다음 1940/1/20~22 유럽·북부전선·해상전 추가 | 20일 U34 Caroni River 기뢰·21일 영 구축함 Exmouth 전원실종/U22, 21일 Oulu 대규모폭격 및 소련항공, 22일 중립선 및 Salla 원일지 | 1940-01-20~22/SRC-1092,1110 | 영해군 작전일지·핀 Yle 군전사·노 Minnehallen·uboat.net·FRUS·중국 당대전보  · [1/20~22 사료감사](source-audit-1940-jan20-22-batch1.md) |
+
+| RQ-0559 | P0 | open | HMS Exmouth 21일 승조원190(RN공식) vs189(Scotland heritage), 시각04:44vs05:35 | RN2025/Exmouth Crew List/UboatDB 190명 전몰 vs HES 난파유산 189, Cyprian Prince 견시 04:44 vs 독 U22 05:35 | 1940-01-21/SRC-1126~1129 | CWGC 해군원명부190명 개별식별·Exmouth 갑판당번자료·독 U22 KTB·Cyprian Prince 선장선언·영 GMT/CET 기준 |
+| RQ-0560 | P0 | open | Oulu 1월21일 폭발폭탄150/소이탄400 vs 폭발100+/소이500 및 실제공습목적 | Yle 인용 방공원일지150+400 vs Kaleva 민간전사100+500, 스탈린 F19보복설은 후대해석 | 1940-01-21/SRC-1119,1120 | Oulu Viestikeskus sotapäiväkirja 9.10.39-19.4.40 국립기록원·소련 항공군목표원부·Stavka 명령서·지역당일사진 |
+| RQ-0561 | P1 | open | Oulu 덴 지원병 Mathias Madsén 1/21부상 후 2일뒤 사망 정확달력일·기념명부 | 핀 Yle·Kaleva는 병원 며칠후 사망이라1/21은 부상발생, 실제 사망23일 유추지만 병원사망원표 미확인 | 1940-01-21~23/SRC-1119,1120 | 핀 Oulu 지방병원 진료대장/시립묘비·덴 외무전몰자 명부·국립기록원 Oulu 공습피해자 |
+| RQ-0562 | P1 | open | Oulu F19 1/21 방공기2대 Kemi정비이탈과 소련군 공습 의도 | Yle Oulu전투기 2대 임시정비이탈·Stalin 보복설 Geust 인터뷰, 소련군철도교량 목표설도 있음 | 1940-01-21/SRC-1119,1120 | 스웨덴 F19 원정비기록·소련 항공대 Kaunonen 포착포로 심문원전·당대 지도상 방공호 |
+| RQ-0563 | P1 | open | Taipale Kirvesmäki 1/20 돌파구250x50m·소련군전몰200 주장 | 핀 Yle 국방군 일전사 독립수치 확인, 소련군 부대전몰원부 미확보 | 1940-01-20/SRC-1117 | 핀 Taipale 19~21일 방어원일지·소련 제7군/제19소총군단 화력집계 |
+| RQ-0564 | P1 | open | 1/20 Lahti 방송송신소 파괴·소련주파수점거 정확전파·사망5부상19 인명명부 | Yle 소련기약37 5사망19부상, 동일 주파수 소련선전 송출당시 신호기록 미확인 | 1940-01-20/SRC-1117 | Yleisradio 라흐티 송신탑원운영일지·핀 도시공습 명부·소련 선전방송원녹음 |
+| RQ-0565 | P1 | open | Winston Churchill 1/20 방송의 전시 원녹음·핀/중립국 발언 판본차 | Yle의 parliament 발언 서술은 실은 BBC 라디오 방송 A House of Many Mansions (당시 제1해군경) | 1940-01-20/SRC-1117,1123 | BBC 방송예고/원음·America's National Churchill Museum 연설원문·House of Commons 1월일지 |
+| RQ-0566 | P1 | open | 1/20 노 Miranda14전사3생존·그리스 Ekatontarchos Dracoulis6전사 전원명부 | 두 독 U57/U44어뢰 피해, 그리스선 승무원총수 DB ? 및 사망6명·생존인원미확정 | 1940-01-20/SRC-1134,1135 | 노 Krigsseilerregisteret Miranda 선원명부·그리스해원연맹 Ekatontarchos Dracoulis 등록부·U44 KTB |
+| RQ-0567 | P1 | open | 1/20 Caroni River 영해군12+민간43 총55 구조 인명 및 U34 선행기뢰 | U34 1/19 부설기뢰가 1/20 Falmouth 군사실험/구조중 폭발·Falmouth 구명정 구조 | 1940-01-19~20/SRC-1133 | Falmouth RNLI 당시 구호일지·영 Caroni River 선원해원원부·독 U34 기뢰부설기록 |
+| RQ-0568 | P1 | open | 1/21 소련8군 Kollaa 전차약20대 공격·소련사망450/전차6 핀전과수 검증 | 핀 Yle 국방군일별전사 소련8군 대공세와 핀 해당 소모수치, 소련155사단 Aittojoki/Ilomantsi 목표 | 1940-01-21/SRC-1118 | 소련 제8군 전투일지·제155소총사단 사상원표·핀 Talvela집단 해당날 군일지 |
+| RQ-0569 | P1 | open | 21일 Wuolijoki Jartsev Grauer 접촉·Tanner 비공식회담각서 원본 | Yle 21일 소련 NKVD/Jartsev Grauer 면담·Tanner 임시각서, 1/14 Kollontai 첫접견설과 인물차 | 1940-01-14~22/SRC-1118 | 핀 외무부 Tanner/Paasikivi 서한·소련 Grauer와 Jartsev 정무연락원전 |
+| RQ-0570 | P0 | open | Orazio 1/21 기관실화재104 vs106 vs108 사망·당일 발화 vs22일 최종침몰 | 이탈리아 MareNostrum 108·타해전연표 104/106, Conte Biancamano316 Colombo163 Ville d'Ajaccio46 구조분 기록 | 1940-01-21~22/SRC-1142,1143 | 이탈리아 선주 인명항해원부·프랑스 Toulon 해상법원 조사·구명정별 구조원장·소방조사 |
+| RQ-0571 | P0 | open | 스웨덴 Andalusia21일·노 Segovia22일 실종·U55 귀속 증거와 날짜 | Andalusia 21실종/전몰21, Segovia20일 LandsEnd 이후 연락두절·전몰23, U55 공격원 KTB 미회수 | 1940-01-20~22/SRC-1136,1137,1144 | 스웨덴·노르웨이 선박출입항 무선기록·U55 최후생존자심문서·영 항공초계원부 |
+| RQ-0572 | P1 | open | 영 U22 1/21 Tekla 사망9과 Ferryhill 기뢰사망11·Protesilaus 생존 구분 | Tekla U22 직접어뢰18명중9사망, Ferryhill U22 12/20 기뢰13명중11사망, Protesilaus U28 12/5 기뢰피격 1/21 사망0 | 1940-01-21/SRC-1130~1132 | 독 U22·U28 KTB·영 HMS Sikh/Young Jacob/Paramount 구조원명부·덴 선원명단 |
+| RQ-0573 | P1 | open | 22일 노 Songa 구명정 럼주제공 U25 선원 직접증언과 후속 생존확인 | U25 정선/마무리어뢰 후 구명정 2척 럼주지급·24명 전원 26~28일 구조, 공격당일 구조로 오인 | 1940-01-22~28/SRC-1139 | 노 Songa 1940 해난 법정진술·영 trawler Lodden 구호일지·Cork 생존자원장 |
+| RQ-0574 | P1 | open | 1/22 왕징웨이-일본 홍콩 합의서 유출원문 vs 23일 왕측 반박 | FRUS d320 1/24 Peck 원외교전보 22일 홍콩공개, d321 1/24 Gauss 전보 23일 왕비서 '일본중간제안서' 반박 | 1940-01-22~24/SRC-1124,1125 | 홍콩중앙통신 원1/22 기재본·Gao Zongwu/Tao Xisheng 원문서·일 외무성교섭전문 |
+| RQ-0575 | P1 | open | 22일 영 뉴스영화 Ministry of Information 사전검열 도입 원공문 | OnWar 후대단일연표만 확인, 개별실행일과 뉴스영화 원예외조항 현장적용 미확인 | 1940-01-22/SRC-1146 | 영 National Archives Ministry of Information INF1·Hansard 1/22·전시뉴스영화 제작조합 회람 |
+| RQ-0576 | P0 | open | 다음 1940/1/23~25 후속 만주·북부전선·영해군 | 23일 소련 Taipale 교전후속·Oulu Madsén 병원사망 검증, 中王精衛 1/23 반박, 독 U18 Bisp·U19 Pluto/Baltanglia·24일 Frank 영토자산수용 법령·24일 U23 Varild | 1940-01-23~25/SRC-1124,1139,1144 | 핀 Yle 매일전사·FRUS 1940vIV·영 군함전사·독보관 폴란드법령 24/1 관보 |
 
 ## 조사기록·원전으로의 역참조
 
