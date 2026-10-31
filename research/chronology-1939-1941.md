@@ -1422,6 +1422,70 @@ as_of: 2026-10-25
 | EVT-1680 | 1940-01-16 | 영 유조선 Inverdargle(9456GRT)가16:19 U33이1939/11/9 부설한 기뢰에 피격침몰·승조원49명 전원사망 | 북해기뢰전·영유조선희생 | 발생 | 문헌대조 | [SRC-1081](chronology-sources-v1.md) |
 | EVT-1681 | 1940-01-16 | 영 상선 Gracia(5642GRT)가 U30이1월6일 부설한 기뢰에 손상돼 좌초·승무원47명 전원생존, 후일 수리재취역 | 북해기뢰전·영민간상선피해 | 발생 | 문헌대조 | [SRC-1082](chronology-sources-v1.md) |
 | EVT-1682 | 1940-01-16 | 독 점령 Łódź의 유대인 공장·기업 몰수와 게토 계획을 위한 예비협의 관련 1월16일 원문서가 LA홀로코스트박물관 RG-63.02.56으로 등록(게토 시행일 아님) | 점령폴란드·유대인재산수탈행정 | 발생 | 문헌대조 | [SRC-1084](chronology-sources-v1.md) · [SRC-1085](chronology-sources-v1.md) |
+| EVT-1683 | 1940-01-17 | 핀 제4군단이 Pitkäranta 방면에서 국경까지 이어질 총공세를 중단하고 소련군 대규모 포위집단을 각각 분쇄하는 모티전 전환을 준비 | 겨울전쟁·Ladoga군단작전전환 | 발생 | 문헌대조 | [SRC-1090](chronology-sources-v1.md) |
+| EVT-1684 | 1940-01-17 | 핀란드 제4군단은 모티 내 소련군이 항공 및 라도가호 빙상교통으로 보급을 이어가고 핀 포병·박격포가 부족해 신속격멸이 어렵다고 판단 | 겨울전쟁·포위전군수한계 | 발생 | 문헌대조 | [SRC-1090](chronology-sources-v1.md) |
+| EVT-1685 | 1940-01-17 | 핀 제12사단이 라도가 카렐리야 Uomaa 방면 공격을 시작 | 겨울전쟁·Uomaa공세 | 발생 | 문헌대조 | [SRC-1090](chronology-sources-v1.md) |
+| EVT-1686 | 1940-01-17 | 핀 LeLv24 Fokker 전투기대가 카렐리야지협 소련 SB폭격기 8기를 격추했다고 Yle 국방군당대 전과 기록 | 겨울전쟁·공중전당사자전과 | 발생 | 문헌대조 | [SRC-1090](chronology-sources-v1.md) |
+| EVT-1687 | 1940-01-17 | 소련군 중포격으로 Lähde도로 방어선의 Poppius 콘크리트 벙커가 심각하게 파손·당시 수용규모 26명으로 전사 기록 | 겨울전쟁·Mannerheim방어선파괴 | 발생 | 문헌대조 | [SRC-1090](chronology-sources-v1.md) |
+| EVT-1688 | 1940-01-17 | 핀 Summa 전선에서 최저 영하42도 기온이 기록되어 방어군 숙영과 전투에 극한한파 발생 | 겨울전쟁·군사기상 | 발생 | 문헌대조 | [SRC-1090](chronology-sources-v1.md) |
+| EVT-1689 | 1940-01-17 | 소련 공군이 Turku·Hanko·Lappeenranta·Koivisto·Viipuri 남항 등을 공습했다고 핀 국방군일별기록 | 겨울전쟁·다도시공습 | 발생 | 문헌대조 | [SRC-1090](chronology-sources-v1.md) |
+| EVT-1690 | 1940-01-17 | 핀 민방공당국이 국민에게 전시 신분증을 항상 휴대할 것을 공개 지시 | 겨울전쟁·전시민간행정 | 발생 | 문헌대조 | [SRC-1090](chronology-sources-v1.md) |
+| EVT-1691 | 1940-01-17 | 핀 내무부 산하 피란민지원 중앙기관 Siirtoväen Huollon Keskus가 설치됨(수장 Kekkonen 임명은 다음날) | 겨울전쟁·피란민관리제도 | 발생 | 문헌대조 | [SRC-1090](chronology-sources-v1.md) · [SRC-1091](chronology-sources-v1.md) |
+| EVT-1692 | 1940-01-17 | 노르웨이 과일상인들이 핀란드 지원에 사과 약50000kg·철도화차6량을 기증했다고 Yle 기록(실제도착 시점 별도) | 겨울전쟁·국제식량구호 | 발생 | 문헌대조 | [SRC-1090](chronology-sources-v1.md) |
+| EVT-1693 | 1940-01-17 | 핀 ErP25가05:45 차량이동을 준비하고07:45 Paikanselkä의 Roininen 부대 진지에 도착해 전방으로 진출 | 겨울전쟁·Salla대대진격 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
+| EVT-1694 | 1940-01-17 | 핀 ErP25가 Paikanselkä 진격후 약2시간만에 소련군과 접촉·소련군을 약4km 밀어냈다고 당대 핀 대대일지 보고 | 겨울전쟁·Salla전선교전 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
+| EVT-1695 | 1940-01-17 | 소련 항공기가10시 ErP25를 공격해 수레운전병 Hietala가 중상을 입고 핀군 전투기가 등장하자 소련기가 이탈했다고 핀일지 기록 | 겨울전쟁·Salla전선항공공격 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
+| EVT-1696 | 1940-01-17 | 핀 ErP17 제2중대의 1·3소대가 Märkäjärvi에서 Hautakylä 방향 약6km 지점에 전투경계초소를 설치 | 겨울전쟁·ErP17전초 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1697 | 1940-01-17 | 핀 ErP17 Vuorela 분견대가06시 도로정찰에서 차량교통을 보지 못하고 복귀 | 겨울전쟁·ErP17정찰원일지 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1698 | 1940-01-17 | 독 U25가 셰틀랜드 Muckle Flugga 앞에서 노르웨이 Enid에 첫 어뢰를 발사했으나 빗나감·뒤이어 영 Polzella를 공격 | 대서양전·U25연속상선공격 | 발생 | 문헌대조 | [SRC-1098](chronology-sources-v1.md) · [SRC-1099](chronology-sources-v1.md) |
+| EVT-1699 | 1940-01-17 | 영 Polzella(4751GRT)가 U25 어뢰에 명중돼 약12초만에 침몰하고 선장 포함 37명 전원 사망 | 대서양전·영해원대량사망 | 발생 | 문헌대조 | [SRC-1099](chronology-sources-v1.md) |
+| EVT-1700 | 1940-01-17 | 노르웨이 중립선 Enid(1140GRT)가 Polzella 구호 시도 중 U25 함포공격과 마무리 어뢰로 침몰, 승무16명 전원생존 | 대서양전·노르웨이중립선침몰 | 발생 | 문헌대조 | [SRC-1097](chronology-sources-v1.md) · [SRC-1098](chronology-sources-v1.md) |
+| EVT-1701 | 1940-01-17 | Enid 생존 승무원8명이 구명정으로 셰틀랜드 Unst 육지에 도착하고 다른8명은 덴마크 상선 Kina에 구조됨 | 해상구조·국제민간선박 | 발생 | 문헌대조 | [SRC-1098](chronology-sources-v1.md) |
+| EVT-1702 | 1940-01-17 | 영 구축함 HMS Firedrake가 U25 공격으로 남아 떠있던 Enid의 불타는 후미 선체를 후속 포격처분 | 북해해전·침몰선처분 | 발생 | 문헌대조 | [SRC-1098](chronology-sources-v1.md) |
+| EVT-1703 | 1940-01-17 | 영 Cairnross(5494GRT)가 OB74 호송 중 U30의 1월6일 부설기뢰에 피격침몰·48명 전원생존 | 북해기뢰전·호송상선 | 발생 | 문헌대조 | [SRC-1100](chronology-sources-v1.md) |
+| EVT-1704 | 1940-01-17 | 영 구축함 HMS Mackay가 Cairnross 선장 Laurence Halcrow를 포함한 승무원48명을 구조해 Liverpool에 상륙시킴 | 영해군·상선생존자구조 | 발생 | 문헌대조 | [SRC-1100](chronology-sources-v1.md) |
+| EVT-1705 | 1940-01-18 | 소련 공군 폭격기가 Kotka항에서 수리중인 핀 쇄빙선 Tarmo 선수에 폭탄2발을 명중시켜 승무원39명 사망 | 겨울전쟁·Tarmo쇄빙선공습 | 발생 | 문헌대조 | [SRC-1091](chronology-sources-v1.md) · [SRC-1093](chronology-sources-v1.md) · [SRC-1094](chronology-sources-v1.md) |
+| EVT-1706 | 1940-01-18 | Tarmo 공습 부상자 집계는 핀 Yle 일별자료11명과 핀 국립박물관·해양박물관13명으로 충돌(전사39명 공통) | 겨울전쟁·전몰구호통계충돌 | 발생 | 링크등록 | [SRC-1091](chronology-sources-v1.md) · [SRC-1093](chronology-sources-v1.md) · [SRC-1094](chronology-sources-v1.md) |
+| EVT-1707 | 1940-01-18 | Tarmo는 선수부 내부 대규모 화재·파괴를 겪었으나 그 자리에서 전선 침몰하지 않고 후일 수리되어 재운항 | 겨울전쟁·군수함선피해복구 | 발생 | 문헌대조 | [SRC-1093](chronology-sources-v1.md) · [SRC-1094](chronology-sources-v1.md) |
+| EVT-1708 | 1940-01-18 | 핀군이 Pitkäranta 병영지대 주변 지역을 확보해 라도가호 얼음쪽 한 면이 개방된 소련군 포위집단을 형성 | 겨울전쟁·Ladoga모티형성 | 발생 | 문헌대조 | [SRC-1091](chronology-sources-v1.md) |
+| EVT-1709 | 1940-01-18 | 핀군이 Salla Märkäjärvi 소련 제122사단 진지에 4개 대대를 투입했으나 소련군 방어를 뚫지 못함 | 겨울전쟁·Märkäjärvi공세실패 | 발생 | 문헌대조 | [SRC-1091](chronology-sources-v1.md) |
+| EVT-1710 | 1940-01-18 | 핀 ErP17의 Pentikäinen 분견대 중 1명이 소련 포탄 파편에 중상을 입어 치료소 이송 중 사망 | 겨울전쟁·ErP17소부대전몰 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1711 | 1940-01-18 | ErP25 Ahonius 대대가08시 Märkävaara 북부로 공격해11시 도착했지만 소련군 엄폐기관총진지에 막힘 | 겨울전쟁·ErP25공세진행 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) · [SRC-1008](chronology-sources-v1.md) |
+| EVT-1712 | 1940-01-18 | 핀 ErP25가 Märkävaara 소련군 방어진지 공격중13시 철수명령 없이 일시 후퇴해 Nenäselkä 연결지대에서 재방어 | 겨울전쟁·ErP25진격실패 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1713 | 1940-01-18 | 핀 ErP25가10:30 노출된 진지에서 철수하라는 연대 명령에 따라 Laijoselkä로 물러났다고 대대일지 기록(ErP17와 보고단위/시각 다름) | 겨울전쟁·ErP25철수원일지 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
+| EVT-1714 | 1940-01-18 | 소련군 전투기 7기가 핀 ErP25 진지 위로 공격했으나 대대일지에 인명피해는 보고되지 않음 | 겨울전쟁·Salla항공공격 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
+| EVT-1715 | 1940-01-18 | 핀 해군이 Someri 부근 얼음에 갇힌 소련 해군부대에 대한 공격을 시작했다고 일간전사 기록 | 겨울전쟁·결빙소련해군공격 | 발생 | 문헌대조 | [SRC-1091](chronology-sources-v1.md) |
+| EVT-1716 | 1940-01-18 | 스웨덴 의회가 핀란드의 겨울전쟁 지원과 중립정책에 대해 토론했고 시민구호구호 Finlands sak är vår가 대중표현으로 확산 | 겨울전쟁·스웨덴정치민간원조 | 발생 | 문헌대조 | [SRC-1091](chronology-sources-v1.md) |
+| EVT-1717 | 1940-01-18 | 핀 피란민구호 중앙기관 Siirtoväen Huollon Keskus 책임자로 법학박사 Urho Kekkonen이 임명 | 겨울전쟁·피란민정책지휘 | 발생 | 문헌대조 | [SRC-1091](chronology-sources-v1.md) |
+| EVT-1718 | 1940-01-18 | Kuusamo Pennikiluoma 경계초소가15:30 소련 약1개 소대 정찰대와 교전하고17:15 추격을 진행·소련장교1명 전사 핀측 주장 | 겨울전쟁·국경정찰교전 | 발생 | 문헌대조 | [SRC-1112](chronology-sources-v1.md) |
+| EVT-1719 | 1940-01-18 | 중립 덴마크 Canadian Reefer(1831GRT)가 Cape Finisterre 앞 U44 정선·불발어뢰 뒤11:26 추가어뢰로 침몰, 승선26명 전원생존 | 대서양전·덴마크중립선 | 발생 | 문헌대조 | [SRC-1104](chronology-sources-v1.md) |
+| EVT-1720 | 1940-01-18 | 스페인 저인망어선 Jose Ignacio de C가16시 덴마크 Canadian Reefer 생존26명을 구조해 Coruña로 이송 | 대서양전·어선구조 | 발생 | 문헌대조 | [SRC-1104](chronology-sources-v1.md) |
+| EVT-1721 | 1940-01-18 | 스웨덴 중립선 Pajala(6873GRT)가 U25의16:25 어뢰와17:03 추가어뢰에 침몰, 승무원35명 전원생존 | 대서양전·스웨덴중립선 | 발생 | 문헌대조 | [SRC-1103](chronology-sources-v1.md) |
+| EVT-1722 | 1940-01-18 | 영 무장검문선 HMS Northern Duke가 Pajala 생존자35명을 구조하고 U25에 함포·폭뢰공격했으나 독 잠수함은 손상 없이 도주 | 영해군·상선호송및대잠전 | 발생 | 문헌대조 | [SRC-1103](chronology-sources-v1.md) |
+| EVT-1723 | 1940-01-18 | 스웨덴 상선 Foxen(1304GRT)이 폭발후90초만에 침몰·19명중17사망2명생존, U55 공격귀속은 직접보고 없는 정황추정 | 대서양전·Foxen공격원인미확정 | 발생 | 링크등록 | [SRC-1095](chronology-sources-v1.md) · [SRC-1102](chronology-sources-v1.md) |
+| EVT-1724 | 1940-01-18 | 스웨덴 상선 Flandria(1179GRT)가23:53 네덜란드해안 북쪽에서 침몰·21명중17사망4생존, U9 어뢰설과 스웨덴 동시대 연감 기뢰설 충돌 | 대서양전·Flandria공격원인상충 | 발생 | 링크등록 | [SRC-1095](chronology-sources-v1.md) · [SRC-1101](chronology-sources-v1.md) |
+| EVT-1725 | 1940-01-19 | 핀 Fokker전투기 2대가 카렐리야지협 상공에서 소련 폭격기3대와 교전해1대를 격추했다고 당대핀군전사 기록 | 겨울전쟁·지협공중전 | 발생 | 문헌대조 | [SRC-1092](chronology-sources-v1.md) |
+| EVT-1726 | 1940-01-19 | 핀란드군이 지협의 별도 공중전에서 소련 항공기3대를 추가로 격추했다고 Yle 당시전과자료 기록(소련원부미확인) | 겨울전쟁·핀공군전과보고 | 발생 | 문헌대조 | [SRC-1092](chronology-sources-v1.md) |
+| EVT-1727 | 1940-01-19 | 핀 폭격기가 소련 Rieskjärvi·Uudenkirkko Kirkkojärvi·Suur-Särkijärvi 비행장을 공격 | 겨울전쟁·소련비행장폭격 | 발생 | 문헌대조 | [SRC-1092](chronology-sources-v1.md) |
+| EVT-1728 | 1940-01-19 | 핀 최고사령부가 Suomussalmi·Raate 승리한 제9사단을 Kuhmo 전선으로 이동하라고 명령 | 겨울전쟁·전승부대재배치 | 발생 | 문헌대조 | [SRC-1092](chronology-sources-v1.md) |
+| EVT-1729 | 1940-01-19 | 소련 잠수함대가 보트니아만에서 철수하고 그 해역의 겨울전쟁 소련 해상봉쇄가 중단됨 | 겨울전쟁·보트니아만해상봉쇄해제 | 발생 | 문헌대조 | [SRC-1092](chronology-sources-v1.md) |
+| EVT-1730 | 1940-01-19 | 핀 헬싱키에서 혹한에 얼어붙은 수도관을 토치램프로 녹이는 과정에서 다수의 건물화재가 발생했다고 Yle 보도 | 겨울전쟁·전시도시민간사고 | 발생 | 문헌대조 | [SRC-1092](chronology-sources-v1.md) |
+| EVT-1731 | 1940-01-19 | 스웨덴이 핀란드에 F.K.52 정찰용 항공기2대를 기증했다고 Yle 일별군사자료 기록 | 겨울전쟁·스웨덴군수지원 | 발생 | 문헌대조 | [SRC-1092](chronology-sources-v1.md) |
+| EVT-1732 | 1940-01-19 | 스웨덴 기업·민간경제계가 핀란드 구호를 위해 이날까지 6200만 스웨덴크로나를 모았다고 Yle 누계기록 | 겨울전쟁·국제모금누계 | 발생 | 문헌대조 | [SRC-1092](chronology-sources-v1.md) |
+| EVT-1733 | 1940-01-19 | 스웨덴 탐험가 Sven Hedin이 1939·1940 노벨평화상에 배정할 자금을 핀란드 적십자에 돌리자고 제안 | 겨울전쟁·노벨자금구호제안 | 발생 | 문헌대조 | [SRC-1092](chronology-sources-v1.md) |
+| EVT-1734 | 1940-01-19 | 스웨덴 의용군이 자체 주간지 Den frivillige를 출범하고 Olof Lagercrantz를 편집책임자로 내세운 것으로 핀Yle보도·핀 국립도서관 소장목록 교차 | 겨울전쟁·스웨덴의용군언론 | 발생 | 문헌대조 | [SRC-1092](chronology-sources-v1.md) · [SRC-1096](chronology-sources-v1.md) |
+| EVT-1735 | 1940-01-19 | 핀 ErP17 제2중대가 Märkäjärvi 전방의 기존초소를 증강하고 3중대는 Hautajärvi 도로 구역에서 휴식·Kuusamo에서 군수보급 | 겨울전쟁·Salla부대경계및군수 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1736 | 1940-01-19 | 핀 ErP17 제3중대 일지가 1/14~19 치료소·병원 이송 인원10명(대부분 동상·1명 아군총기사고)을 기간집계, 본기간 적군교전 전사·부상0 주장 | 겨울전쟁·동상및아군사고기간통계 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1737 | 1940-01-19 | 핀 ErP25가 Laijoselkä 서쪽 숙영지에서 저녁에 Hatajavaara 서편으로 이동하고 제3중대는 연대 전방 경계를 담당 | 겨울전쟁·ErP25숙영재배치 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
+| EVT-1738 | 1940-01-19 | 영 구축함 HMS Grenville(H03)이12:50 템스하구 독구축함부설기뢰에 피격전복·77명 전사118명구조로 영함사전사 기록 | 북해기뢰전·영구축함침몰 | 발생 | 문헌대조 | [SRC-1110](chronology-sources-v1.md) |
+| EVT-1739 | 1940-01-19 | HMS Grenville가 밟은 기뢰밭은 독 구축함 Erich Steinbrinck·Friedrich Ihn·Friedrich Eckoldt가 설치한 것으로 군함전사 기록 | 북해해전·독기뢰부설작전 | 발생 | 문헌대조 | [SRC-1110](chronology-sources-v1.md) |
+| EVT-1740 | 1940-01-19 | HMS Grenville 전몰자 중 영 선임수병 Stanley Peters(군번 P/J113281·30세)의 군복무와 1/19사망을 지방전몰연구가 CWGC자료로 추적 | 해군전몰자·개인인명사료 | 발생 | 문헌대조 | [SRC-1111](chronology-sources-v1.md) |
+| EVT-1741 | 1940-01-19 | 스웨덴 Patria(1188GRT)가01:45 독 U9 어뢰에 격침·23명중19명사망4명생존(전날밤 Flandria와 동일 U9의 별건) | 북해해전·스웨덴중립선 | 발생 | 문헌대조 | [SRC-1105](chronology-sources-v1.md) |
+| EVT-1742 | 1940-01-19 | 스웨덴 상선 Frigg가 독 U9에 침몰한 Patria의 생존자4명을 구조 | 북해해전·스웨덴구조선 | 발생 | 문헌대조 | [SRC-1105](chronology-sources-v1.md) |
+| EVT-1743 | 1940-01-19 | 노르웨이 Telnes(1694GRT)가 북대서양 항로에서 실종돼 승무원18명이 모두 사망·U55 어뢰귀속은 후대 추정 | 북해해전·노르웨이해원전몰원인미확정 | 발생 | 링크등록 | [SRC-1106](chronology-sources-v1.md) · [SRC-1107](chronology-sources-v1.md) · [SRC-1108](chronology-sources-v1.md) |
+| EVT-1744 | 1940-01-19 | 노르웨이 Telnes 승무원 중 19세 선원 Martin Olsen의 사망을 노전쟁해원등록부와 전몰자명부에서 확인 | 해원전몰자·개인사 | 발생 | 문헌대조 | [SRC-1108](chronology-sources-v1.md) |
+| EVT-1745 | 1940-01-19 | 프랑스 상선 Quiberon(1296GRT)이21:09 영 Great Yarmouth 동쪽에서 U59의 어뢰로4분내 침몰·생존자없으나 승무원총수/사망인원 미확인 | 북해해전·프랑스상선원명부미확인 | 발생 | 링크등록 | [SRC-1109](chronology-sources-v1.md) |
+| EVT-1746 | 1940-01-19 | 핀 화물선 Kaija(398GRT)가 Koivisto 앞 소련항공기 폭격에 침몰한 것으로 해전자료 보도(항공기종 Pe-2 기재는 연대상 의심) | 겨울전쟁·핀민간상선공습잠정 | 발생 | 링크등록 | [SRC-1116](chronology-sources-v1.md) |
 | EVT-0070 | 1940-02-16 | 알트마르크 사건(노르웨이 해역 영국군 승선) | 해군·중립 | 발생 | 미등록 | — |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
