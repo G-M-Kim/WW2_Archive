@@ -12,8 +12,8 @@ ROOT = Path(__file__).resolve().parent
 SOURCES = ROOT / "chronology-sources-v1.md"
 DATE_RE = re.compile(r"^\d{4}(?:-\d{2}(?:-\d{2})?)?$")
 EVENT_RE = re.compile(r"^EVT-\d{4}$")
-SOURCE_RE = re.compile(r"^SRC-\d{3}$")
-LINK_RE = re.compile(r"\[(SRC-\d{3})\]\(chronology-sources-v1\.md\)")
+SOURCE_RE = re.compile(r"^SRC-\d{3,}$")
+LINK_RE = re.compile(r"\[(SRC-\d{3,})\]\(chronology-sources-v1\.md\)")
 STATUSES = {"문헌대조", "링크등록", "미등록"}
 
 
@@ -35,7 +35,7 @@ def main() -> int:
         return 1
 
     for n, line in enumerate(SOURCES.read_text(encoding="utf-8").splitlines(), 1):
-        if re.match(r"^\| SRC-\d{3} \|", line):
+        if re.match(r"^\| SRC-\d{3,} \|", line):
             cells = parse_row(line)
             if len(cells) != 6 or not SOURCE_RE.fullmatch(cells[0]):
                 errors.append(f"{SOURCES.name}:{n}: bad source table row")
