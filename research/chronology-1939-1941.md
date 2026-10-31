@@ -921,8 +921,36 @@ as_of: 2026-10-25
 | EVT-1188 | 1939-12-07 | 독 상선 Sebu가 Thomas Walton의 선장과 선원30명을 구조·노르웨이 Bodø에 상륙시킴 | 해상구조·독상선 | 발생 | 문헌대조 | [SRC-835](chronology-sources-v1.md) |
 | EVT-1189 | 1939-12-07 | U38이 Thomas Walton 생존자를 구조하던 상선을 19:10 다시 공격했으나 어뢰가 돌아 해안에서 폭발·상선은 독일 Sebu로 뒤늦게 판명 | 잠수함전·오인공격미수 | 발생 | 문헌대조 | [SRC-835](chronology-sources-v1.md) |
 | EVT-1190 | 1939-12-07 | 독 U47이 중립 네덜란드 상선 Tajandoen을 05:24 어뢰격침, 선원·여객68명 중6사망62생존 | 잠수함전·네덜란드중립선 | 발생 | 문헌대조 | [SRC-836](chronology-sources-v1.md) |
-| EVT-1191 | 1939-12-07 | 벨기에 상선 Louis Scheid가 Tajandoen 승객·선원62명을 구조했으나 다음날 8일 좌초될 예정이어서 선박과 구조시차 구분 | 해상구조·벨기에상선 | 발생 | 문헌대조 | [SRC-836](chronology-sources-v1.md) |
+| EVT-1191 | 1939-12-07 | 벨기에 상선 Louis Scheid가 Tajandoen 승객·선원62명을 구조했으나 같은날 7일 저녁 Bigbury Bay에 좌초했으며 RNLI가 7~8일 구조한 것으로 확인되어 선박과 구조시차 구분 | 해상구조·벨기에상선 | 발생 | 문헌대조 | [SRC-836](chronology-sources-v1.md) · [SRC-842](chronology-sources-v1.md) |
 | EVT-1192 | 1939-12-07 | 4일 U31에 격침된 노르웨이 Gimle의 생존자16명이 3일간 폭풍·추위에 표류한 뒤 노르웨이 선박 Rudolf에 구조 | 해상구조·동사위험 | 발생 | 문헌대조 | [SRC-840](chronology-sources-v1.md) |
+| EVT-1193 | 1939-12-07 | 벨기에 Louis Sheid가 네덜란드 Tajandoen 생존자62명을 구조한 뒤 같은날 저녁 Bigbury Bay에서 좌초 | 중립선·연쇄해난 | 발생 | 문헌대조 | [SRC-842](chronology-sources-v1.md) · [SRC-844](chronology-sources-v1.md) |
+| EVT-1194 | 1939-12-07 | Salcombe RNLI가 19:35 사고신고 후19:45 구명정 Samuel and Marie Parkhouse 출동·Louis Sheid 구조 착수 | 구명정·해상구조 | 발생 | 문헌대조 | [SRC-842](chronology-sources-v1.md) |
+| EVT-1195 | 1939-12-08 | Salcombe 구명정이 7일밤~8일 새벽 Tajandoen 생존자62명을 Louis Sheid에서 구조하고 8일 11시 기지 복귀 | 구명정·밤샘구조 | 발생 | 문헌대조 | [SRC-842](chronology-sources-v1.md) · [SRC-843](chronology-sources-v1.md) |
+| EVT-1196 | 1939-12-08 | Louis Sheid 벨기에 원선원도 8일 새벽 해안구조장치 도움으로 퇴선, Tajandoen 생존자62명과 별도 집계 | 중립선원·구조활동 | 발생 | 문헌대조 | [SRC-842](chronology-sources-v1.md) · [SRC-844](chronology-sources-v1.md) |
+| EVT-1197 | 1939-12-08 | Suomussalmi 핀군 전체가 Kiantajärvi 남쪽 Haukiperä 방어선에 재배치돼 진지 보강 | 겨울전쟁·수오무살미방어 | 발생 | 문헌대조 | [SRC-848](chronology-sources-v1.md) |
+| EVT-1198 | 1939-12-08 | 핀 Vuokko 여단 I·II·III/JR25가 쿠흐모 Rasti·Sivakka 및 Klemetti 방향 소련군 진격로를 동시 반격 | 겨울전쟁·쿠흐모역공 | 발생 | 문헌대조 | [SRC-845](chronology-sources-v1.md) · [SRC-847](chronology-sources-v1.md) |
+| EVT-1199 | 1939-12-08 | 핀 III/JR25의 9중대가 Klemetti 서쪽 도로를 일시 차단하고 지역을 차지했으나 소련 전차지원 반격에 밀림 | 겨울전쟁·도로차단 | 발생 | 문헌대조 | [SRC-846](chronology-sources-v1.md) |
+| EVT-1200 | 1939-12-08 | 핀 Vuokko 여단의 Sivakka 지역 도로차단은 일부 성공했으나 전체 반격은 목표달성 못하고 철수 | 겨울전쟁·반격결과 | 발생 | 문헌대조 | [SRC-845](chronology-sources-v1.md) · [SRC-847](chronology-sources-v1.md) |
+| EVT-1201 | 1939-12-08 | 핀 II/JR25 지휘관 Olavi Taube 대위가 Mämmelä·Rasti 반격 중 전사 | 겨울전쟁·지휘관전사 | 발생 | 문헌대조 | [SRC-847](chronology-sources-v1.md) |
+| EVT-1202 | 1939-12-08 | 독 U23이 00:04 중립 덴마크 Scotia를 격침해 선원21명 중19명 사망2명 생존 | 잠수함전·덴마크중립선 | 발생 | 문헌대조 | [SRC-849](chronology-sources-v1.md) |
+| EVT-1203 | 1939-12-08 | Scotia의 생존선원2명은 현장을 목격한 덴마크 상선 Hafnia에 구조 | 해상구조·덴마크선원 | 발생 | 문헌대조 | [SRC-849](chronology-sources-v1.md) |
+| EVT-1204 | 1939-12-08 | Scotia 개인명부에 17세 덴마크 견습선원 Villy Niels Kristian Christensen의 사망 기재 | 해상민간인·미성년희생 | 발생 | 문헌대조 | [SRC-850](chronology-sources-v1.md) |
+| EVT-1205 | 1939-12-08 | U48이 OB48 호송대 낙오 영 Brandon을 11:55 격침, 선원9명사망·벨기에 어선2척 생존자구조(생존수 불명) | 대서양호송전·상선피해 | 발생 | 문헌대조 | [SRC-851](chronology-sources-v1.md) |
+| EVT-1206 | 1939-12-08 | U48이 Brandon을 5일 이미 U47에 격침된 Navasota로 오인했다는 전문전사·중복격침 방지 | 해전정보·오인식별 | 발생 | 문헌대조 | [SRC-851](chronology-sources-v1.md) |
+| EVT-1207 | 1939-12-08 | 소련 포템킨이 미대사에 소련의 쿠시넨정부 승인 때문에 헬싱키정부 이익대행·공관재산 반환을 허가하지 않겠다고 통고 | 소핀외교·공관거부 | 발생 | 문헌대조 | [SRC-852](chronology-sources-v1.md) |
+| EVT-1208 | 1939-12-08 | 핀 모스크바 공사관 직원이 7일밤 떠난 뒤 소련 당국이 8일 공관 정문을 봉쇄·경비 배치 | 외교관·공관봉쇄 | 발생 | 문헌대조 | [SRC-852](chronology-sources-v1.md) |
+| EVT-1209 | 1939-12-09 | Suomussalmi Haukiperä 남안에서 소련군이 포병·박격포 지원으로 핀 방어선에 새벽 교두보 형성 | 겨울전쟁·호수돌파 | 발생 | 문헌대조 | [SRC-848](chronology-sources-v1.md) |
+| EVT-1210 | 1939-12-09 | 핀 방어군 반격으로 소련 교두보를 격퇴·호수 얼음이 소련전차·중장비 진입을 버티지 못함 | 겨울전쟁·수오무살미역공 | 발생 | 문헌대조 | [SRC-848](chronology-sources-v1.md) |
+| EVT-1211 | 1939-12-09 | Hjalmar Siilasvuo 대령이 9일 저녁 Suomussalmi에 증원군과 도착·핀군 5개대대 등으로 전력 증강 | 겨울전쟁·핀증원 | 발생 | 문헌대조 | [SRC-848](chronology-sources-v1.md) |
+| EVT-1212 | 1939-12-09 | 독 U20이 19:21 중립 덴마크 Magnus 격침, 선원19명 중18명 사망·1명 생존(실제구조 13일) | 잠수함전·덴마크중립선 | 발생 | 문헌대조 | [SRC-853](chronology-sources-v1.md) |
+| EVT-1213 | 1939-12-09 | 독 U48이 OB48 영 San Alberto를 07:10 격침·유조선 37명 중1명 사망36명 생존 | 대서양호송전·영유조선 | 발생 | 문헌대조 | [SRC-854](chronology-sources-v1.md) |
+| EVT-1214 | 1939-12-09 | San Alberto 생존자36명이 벨기에 Alexandre André 구조를 받고 선미는 11일 HMS Mackay가 침몰처분 | 해상구조·유조선잔해 | 발생 | 문헌대조 | [SRC-854](chronology-sources-v1.md) |
+| EVT-1215 | 1939-12-10 | 독 U20이 06:55 북해 정체불명 상선 어뢰격침·노르웨이 Føina 추정이나 동일성 미입증(18명 전원실종) | 잠수함전·노르웨이선원 | 발생 | 링크등록 | [SRC-855](chronology-sources-v1.md) |
+| EVT-1216 | 1939-12-10 | U20이 11월21일 부설한 기뢰에 영 Willowpool이 16시 침몰, 승조원36명 전원 Gorleston 구명정구조 | 기뢰전·영해운구조 | 발생 | 문헌대조 | [SRC-856](chronology-sources-v1.md) |
+| EVT-1217 | 1939-12-10 | 미 Reconstruction Finance Corporation과 Export-Import Bank가 핀 정부보증 1000만달러 미국산 민수품 구매 대출계획 공동발표 | 미핀외교·금융지원 | 발생 | 문헌대조 | [SRC-857](chronology-sources-v1.md) |
+| EVT-1218 | 1939-12-10 | 대핀 1000만달러 대출 발표는 미국 농산물·민간물자만 대상이고 항공기·군수품 구매 승인과는 구별 | 미핀외교·민수품 | 발생 | 문헌대조 | [SRC-857](chronology-sources-v1.md) |
+| EVT-1219 | 1939-12-10 | 독일 점령하 우치 Łódź의 Friedrich Übelhör가 북부에 유대인 강제집단거주 게토를 조성하도록 극비 회람 | 나치박해·게토계획 | 발생 | 문헌대조 | [SRC-858](chronology-sources-v1.md) · [SRC-860](chronology-sources-v1.md) · [SRC-861](chronology-sources-v1.md) |
+| EVT-1220 | 1939-12-10 | 12월10일 우치 게토 준비령은 추방계획 불가능을 이유로 한 강제격리 '임시조치'이며 실제 경찰령은 1940년2월·봉쇄4월 | 반유대정책·게토단계 | 발생 | 문헌대조 | [SRC-859](chronology-sources-v1.md) · [SRC-860](chronology-sources-v1.md) |
 | EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 미등록 | — |
 
 ## 1940년

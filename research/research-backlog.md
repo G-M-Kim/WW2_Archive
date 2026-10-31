@@ -409,9 +409,22 @@ updated: 2026-10-26
 | RQ-0359 | P0 | open | U47 Britta 중립유조선 국적인지 공격 | 독 U47 노르웨이 표시 확인했으나 11월23일 유조선 무경고공격 지시에 따라 Britta 6명사망 | EVT-1176~1177 SRC-833 | U47 KTB 원본·1939-11-23 독해군 교전명령·국제법 평가 |
 | RQ-0360 | P1 | open | HMS Washington 7사망·1생존 | U59 12/5 부설기뢰에12/6 피격, 징발후 소해정 개조 항해 중 | EVT-1178 SRC-834 | 영 Admiralty 징발/선원 인명장부 |
 | RQ-0361 | P0 | open | 7일 Thomas Walton 노영해 침몰·독 Sebu | U38 노르웨이 영해 공격·독 Sebu가31명 구조·U38이 구조선 오인공격 미수 | EVT-1187~1189 SRC-835 | U38 전쟁일지·독 Sebu 로그·노르웨이 영해 중립법 |
-| RQ-0362 | P0 | open | Tajandoen 구조와 Louis Scheid 8일 좌초 | 중립 네덜란드선 12/7 격침6사망62생존, 벨기에선 구조·12/8 좌초·Salcombe 구조는 다음날 | EVT-1190~1191 SRC-836 | 벨기에 화물선 원명부·Salcombe RNLI 원출동 기록 |
+| RQ-0362 | P0 | in_progress | Tajandoen 구조와 Louis Sheid 7일 좌초·8일 귀환 정정 | 중립 네덜란드선 12/7 격침6사망62생존, 벨기에선 구조·12/7 저녁 좌초·Salcombe 7일19:45 출동·7~8 밤샘구조·8일11시 기지귀환 | EVT-1190~1191 SRC-836,842 | 벨기에 화물선 원명부·Salcombe RNLI 원출동 기록 |
 | RQ-0363 | P1 | open | 12/5 핀 미원조 요청 차입희망과 실제집행 | 핀 공사 6천만달러 차입요청 2천5백만 긴급액·12/5 Roosevelt 핀 부채와 다름 | EVT-1165~1166 SRC-823~824 | 미 RFC·핀정부 외화담보/수출입은행 12/10 대출원전 |
-| RQ-0364 | P0 | open | 다음 1939-12-08~10 다전역 조사 | 12월8 Louis Scheid Salcombe 구조·수오무살미 호수방어·12월9 외교·독 U보트 Scotia/Brandon, 10일 미국 핀융자 | 1939-12-08~10 | 영 RNLI·FRUS 핀·독 U전사·중일전 원부대기록 |
+| RQ-0364 | P0 | in_progress | 다음 1939-12-08~10 다전역 조사 | 12월8 Louis Scheid Salcombe 구조·수오무살미 호수방어·12월9 외교·독 U보트 Scotia/Brandon, 10일 미국 핀융자 | 1939-12-08~10 | 영 RNLI·FRUS 핀·독 U전사·중일전 원부대기록 |
+| RQ-0365 | P0 | open | Louis Sheid 좌초 7일·RNLI 귀환8일 정정 | 기존 EVT-1191 8일좌초라는 미래시각 기술 오류, RNLI 7일19:45 출항·8일 11:00 귀환·62명 밤샘구조 | EVT-1191,1193~1196 / RNLI 1939 원보도 | RNLI 원기록과 해안경비대/벨기에 원사고보고 |
+| RQ-0366 | P0 | open | Louis Sheid 자체 선원45대46명 | RNLI 한 사건 원보도 선원 46/45 혼재, Tajandoen 구조62와 구분해야 함 | Louis Sheid / RNLI src842 | 벨기에 화물선 선원원장 |
+| RQ-0367 | P0 | open | Brandon 승조원 전원수 미기재 | U48 Brandon 9명사망 생존모수 불명, 생존자 벨기에 어선 Marie Jose Rosette·Tritten 구조; U48은 Navasota 오인 | Brandon / ship DB source851 | 영 원승선자명부·U48 전투일지 |
+| RQ-0368 | P0 | open | Scotia 17세 선원 및 인명원장 | U23 덴마크 Scotia 19사망2생존·17세 Villy Niels Kristian Christensen 확인, DB 전원 인명명단 아님 | Scotia / source849-850 | 덴마크 원민간선원명부 |
+| RQ-0369 | P1 | open | Vuokko여단 8일 Klemetti 도로전 | JR25 III/9중대 도로차단 소련기갑 반격, Rasti Taube 사망·작전철수 | Kuhmo / source845-847 | 핀 JR25 원일지와 소련54사단명령 |
+| RQ-0370 | P0 | open | 9일 Siilasvuo 도착·호수교두보 | 소련군 얼음 호수 도하/핀반격, 핀5대대 수 등 정확 증원시각 | Suomussalmi / source848 | 핀 군지휘 9일작전일지 |
+| RQ-0371 | P0 | open | Magnus 9일 격침·13일 생존자 구조 | 19명 중18사망1생존, 생존1은 13일 Philippe 구조·12/9 구조 오기금지 | Magnus / source853 | 덴마크 해난원명부·구조선로그 |
+| RQ-0372 | P0 | open | San Alberto 선수9일·선미11일 | 37중1사망36생존, Alexandre Andre 구조후 선미는 11일 HMS Mackay 처분 | San Alberto / source854 | 영 군함 로그·벨기에 탱커 명부 |
+| RQ-0373 | P0 | open | Føina 정체미확인 U20 선박식별 | U20 10일06:55 식별불명 목표와 노르웨이 Føina 실종 18명 동선 probably 연계 | Føina / source855 | 노 해난원조사·U20 KTB |
+| RQ-0374 | P1 | open | Willowpool 기뢰부설·격침 구분 | U20 11/21 기뢰부설·12/10 접촉 36명 전원생존 Gorleston 구조 | Willowpool / source856 | RNLI 당시 서비스 명부 |
+| RQ-0375 | P1 | open | 핀 1000만달러 대출 발표·실집행 | 핀 12/5 6000만달러 희망·12/10 RFC/ExIm 민간물자 1000만달러 계획·실집행 불명 | FRUS d1140 / source857 | RFC·ExIm 당시 계약지급원장 |
+| RQ-0376 | P0 | open | Łódź 게토 1939/12/10 계획과 1940 설립 | Übelhör 극비회람·1940/2/8 경찰령·2/9 공고·4/30 봉쇄를 구분 | USHMM Lodz original order sources858-861 | 박물관 RG-63.02.54 원문과 피해자명부 |
+| RQ-0377 | P0 | open | 다음 1939/12/11~13 전선·해상전 | 12/11 Siilasvuo 반격·12/13 라플라타강 해전 EVT-0068, Lodz 강제이주 시작과 U38 상선 공격 | 1939-12-11~13 | 핀 군원일지·남미해군사료·나치 원행정명령 |
 
 ## 조사기록·원전으로의 역참조
 
