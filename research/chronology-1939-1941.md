@@ -1142,6 +1142,50 @@ as_of: 2026-10-25
 | EVT-1408 | 1939-12-26 | 핀 제25연대8중대가16시 Rasti 방면 초계, 참호·통신선·철조망 정비; 해당 중대 일지는 직접 교전 없다고 기록 | 겨울전쟁·Kuhmo군일지 | 발생 | 문헌대조 | [SRC-959](chronology-sources-v1.md) |
 | EVT-1409 | 1939-12-26 | 핀 육군병사 Vasili Vasiljevitsh Sinkevitsch가 23일 Hatjalahti 전투에서 입은 부상으로 군병원에서 사망 | 겨울전쟁·개인전몰 | 발생 | 문헌대조 | [SRC-961](chronology-sources-v1.md) |
 
+| EVT-1410 | 1939-12-27 | 핀란드군이 Suvanto호 Kelja의 소련군 교두보를 정오경 격퇴, 25일 도하·26일 공방과 날짜 분리 | 겨울전쟁·Kelja교두보 | 발생 | 문헌대조 | [SRC-965](chronology-sources-v1.md) |
+| EVT-1411 | 1939-12-27 | 핀란드 제9사단이 Hulkonniemi 일대 소련 제163사단을 상대로 결정적 공세를 시작 | 겨울전쟁·Suomussalmi공세 | 발생 | 문헌대조 | [SRC-965](chronology-sources-v1.md) · [SRC-966](chronology-sources-v1.md) |
+| EVT-1412 | 1939-12-27 | 핀란드군 유격대가 Raate도로 소련 제44사단의 서진을 방해, 1940년1월 본대격멸 이전 국면 | 겨울전쟁·Raate방해전 | 발생 | 문헌대조 | [SRC-965](chronology-sources-v1.md) · [SRC-966](chronology-sources-v1.md) |
+| EVT-1413 | 1939-12-27 | 핀란드 Hägglund 제4군단이 라도가 카렐리야에서 넓은 역공을 개시, 후일 1940년1월 포위전 기반 형성 | 겨울전쟁·IV군단역공 | 발생 | 문헌대조 | [SRC-965](chronology-sources-v1.md) |
+| EVT-1414 | 1939-12-27 | 핀란드 Lieksa Kivivaara 방면 병력이 소련군을 밀어내고 국경선에 도착해 방어태세로 전환 | 겨울전쟁·Lieksa | 발생 | 문헌대조 | [SRC-965](chronology-sources-v1.md) |
+| EVT-1415 | 1939-12-27 | 핀란드 ErP16이 Palovaara 도로교차점에서 Hyövynvaara를 향해 공격, 고지 확보는 다음28일 JR65 | 겨울전쟁·Palovaara | 발생 | 문헌대조 | [SRC-968](chronology-sources-v1.md) |
+| EVT-1416 | 1939-12-27 | 핀란드 Kuusamo Seppälä 분견대 정찰중 Kiimasvaara 남쪽에서 소련 초계와 교전, 핀측 전사1·부상4 보고 | 겨울전쟁·Kuusamo정찰 | 발생 | 문헌대조 | [SRC-968](chronology-sources-v1.md) |
+| EVT-1417 | 1939-12-27 | 핀란드 ErP25 부대 교대초계에서 암호 구호 미청취로 오인사격 발생·아군 1명 사망1명 복부중상(22시보고) | 겨울전쟁·오인사격 | 발생 | 문헌대조 | [SRC-950](chronology-sources-v1.md) |
+| EVT-1418 | 1939-12-27 | 핀란드 ErP25가21시 Hannuniemi 맞은편 소련 진지에 포병사격, 소련 병력·차량이 물러났다고 기록 | 겨울전쟁·ErP25원일지 | 발생 | 문헌대조 | [SRC-950](chronology-sources-v1.md) |
+| EVT-1419 | 1939-12-27 | 핀란드 ErP17 3중대에24~25일 적보급대 습격 정찰대가 귀환해 포획물과 통신선 절단 사실 보고 | 겨울전쟁·ErP17정찰보고 | 발생 | 문헌대조 | [SRC-949](chronology-sources-v1.md) |
+| EVT-1420 | 1939-12-27 | 핀란드 ErP17 진지에11시 소련 항공기 기총사격, 소속중대 일지는 직접피해 없었다고 기록 | 겨울전쟁·항공기총 | 발생 | 문헌대조 | [SRC-949](chronology-sources-v1.md) |
+| EVT-1421 | 1939-12-27 | 핀 민방위당국이 민간인·차량에 흰색 위장복 및 차량도색 등 방공위장 강화를 촉구 | 겨울전쟁·민방위 | 발생 | 문헌대조 | [SRC-965](chronology-sources-v1.md) |
+| EVT-1422 | 1939-12-27 | 소련 스탈린이 핀란드 테리요키정부의 오토 쿠시넨에게 축하답례 및 승리 축원을 보냈다고 Yle 27일연표 기록 | 겨울전쟁·선전외교 | 발생 | 문헌대조 | [SRC-965](chronology-sources-v1.md) |
+| EVT-1423 | 1939-12-27 | 핀란드 시인 V.A. Koskenniemi가 라디오에서 핀란드 항전을 고대 그리스의 열세 항전과 비교 | 겨울전쟁·방송선전 | 발생 | 문헌대조 | [SRC-965](chronology-sources-v1.md) |
+| EVT-1424 | 1939-12-27 | 핀 Kev.Os9 자전거중대가07:15 Jokivaara 남쪽에 2+4명 정찰대 파견·14:45 복귀 | 겨울전쟁·Kuhmo원군일지 | 발생 | 문헌대조 | [SRC-978](chronology-sources-v1.md) |
+| EVT-1425 | 1939-12-27 | 핀 후방 군수중대가 영하35도 안팎의 날씨 속 숙영 정비·창고경계(1+6명)를 배치 | 겨울전쟁·보급일지 | 발생 | 문헌대조 | [SRC-979](chronology-sources-v1.md) |
+| EVT-1426 | 1939-12-28 | Suomussalmi·Hulkonniemi 소련163사단 병력이 아침 Kiantajärvi 호수빙판으로 대열철수 시작 | 겨울전쟁·소련철수 | 발생 | 문헌대조 | [SRC-966](chronology-sources-v1.md) · [SRC-967](chronology-sources-v1.md) |
+| EVT-1427 | 1939-12-28 | 핀 Siilasvuo 9사단이 정오 무렵 Suomussalmi 교회마을 재점령, 마지막 잔여거점은 다음29일 | 겨울전쟁·마을탈환 | 발생 | 문헌대조 | [SRC-966](chronology-sources-v1.md) · [SRC-967](chronology-sources-v1.md) |
+| EVT-1428 | 1939-12-28 | 핀 ErP16이 Hyövynvaara에서 Jäniskanta 경유 Linnansalmi 방면 공격을 계속 | 겨울전쟁·ErP16작전 | 발생 | 문헌대조 | [SRC-968](chronology-sources-v1.md) |
+| EVT-1429 | 1939-12-28 | 핀 JR65가 전날 ErP16이 공격한 Hyövynvaara 고지를 확보 | 겨울전쟁·JR65고지확보 | 발생 | 문헌대조 | [SRC-968](chronology-sources-v1.md) |
+| EVT-1430 | 1939-12-28 | 핀 SissiP1이 Kuivasjärvi 남쪽으로 접근한 소련 제44사단 약1개대대 공격을 격퇴 | 겨울전쟁·Raate전초전 | 발생 | 문헌대조 | [SRC-969](chronology-sources-v1.md) |
+| EVT-1431 | 1939-12-28 | 독 U30이04:00께 영 구잠어선 HMS Barbara Robertson(325t)를 함포격침,17명중1사망16생존 | 대서양전·영보조함 | 발생 | 문헌대조 | [SRC-971](chronology-sources-v1.md) |
+| EVT-1432 | 1939-12-28 | 영 구축함 HMS Isis가 Gladiator 항공기 안내를 받아 Barbara Robertson 생존16명 구조(피격약14시간뒤) | 해상구조·영해군 | 발생 | 문헌대조 | [SRC-971](chronology-sources-v1.md) · [SRC-974](chronology-sources-v1.md) |
+| EVT-1433 | 1939-12-28 | 독 U30이14:41 GMT 영 전함 HMS Barham 좌현 A포탑 인근을 어뢰 1발 명중·4명 사망, 격침 아님 | 대서양전·전함손상 | 발생 | 문헌대조 | [SRC-970](chronology-sources-v1.md) |
+| EVT-1434 | 1939-12-28 | 덴마크 중립선 Hanne(1080t)가09:32 Blyth 동쪽 U22 12/20 부설기뢰에 침몰·17명중15사망2생존 | 기뢰전·중립상선 | 발생 | 문헌대조 | [SRC-972](chronology-sources-v1.md) |
+| EVT-1435 | 1939-12-28 | 영 어선 Resercho(258t)가 Flamborough Head 앞 U15 기뢰에 침몰·선원10명 전원생존 | 기뢰전·영민간어선 | 발생 | 문헌대조 | [SRC-973](chronology-sources-v1.md) · [SRC-974](chronology-sources-v1.md) |
+| EVT-1436 | 1939-12-28 | 소련 잠수함 ShCh311이 Vaasa 인근 핀란드 유조선 Sigrid/Sigrfid를 포격공격·손상되었으나 선박 탈출 | 겨울전쟁·발트해상선 | 발생 | 문헌대조 | [SRC-975](chronology-sources-v1.md) · [SRC-977](chronology-sources-v1.md) |
+| EVT-1437 | 1939-12-28 | 중국 제5군 등 중국군 주력이 쿤룬관 일본군 진지에 18일 첫공세 후 28일 집중공격 국면 개시, 최종탈환 31일 | 중일전쟁·쿤룬관공세 | 발생 | 문헌대조 | [SRC-980](chronology-sources-v1.md) |
+| EVT-1438 | 1939-12-28 | 국제연맹 사무총장 Avenol이 14일 핀란드지원 결의에 따라 비회원 미국에 지원 의향 공식질의서 발송 | 겨울전쟁·국제연맹외교 | 발생 | 문헌대조 | [SRC-981](chronology-sources-v1.md) |
+| EVT-1439 | 1939-12-28 | 핀 ErP25 Laakso 1+8명 정찰대가 Vittikkovaara 방면 이동했으나 소련 경계망 통과 실패·11:40 소련기3대 공습기록 | 겨울전쟁·ErP25원일지 | 발생 | 문헌대조 | [SRC-950](chronology-sources-v1.md) |
+| EVT-1440 | 1939-12-28 | 핀 ErP17 3중대가 Joutsijärvi–Tasasenvaaran 새 진지를 지켰고 정찰대 잔여18명이08시 무접촉 귀환 | 겨울전쟁·ErP17원일지 | 발생 | 문헌대조 | [SRC-949](chronology-sources-v1.md) |
+| EVT-1441 | 1939-12-28 | 핀 Kev.Os9 자전거중대가 기관총진지·참호·철조망에07:30~15:30 방어진지 구축, 공병2개조 지원 | 겨울전쟁·Kuhmo진지공사 | 발생 | 문헌대조 | [SRC-978](chronology-sources-v1.md) |
+| EVT-1442 | 1939-12-28 | 핀 후방 군수중대가 현지 우유·감자 조달에 어려움, 폭설 중 차량 측구추락·고장 경험·영하30도 기록 | 겨울전쟁·후방보급 | 발생 | 문헌대조 | [SRC-979](chronology-sources-v1.md) |
+| EVT-1443 | 1939-12-29 | 핀란드군이 Suomussalmi 일대 남은 소련군 저항거점을 정리, 163사단 잔여병력 Juntusranta 방향 철수 | 겨울전쟁·잔여진지소탕 | 발생 | 문헌대조 | [SRC-966](chronology-sources-v1.md) |
+| EVT-1444 | 1939-12-29 | 핀 ErP16이 저녁 Mastajoensuu에 진지를 재편하고 Kiannanniemi 방면 소련군 반격에 대비 | 겨울전쟁·ErP16방어 | 발생 | 문헌대조 | [SRC-968](chronology-sources-v1.md) |
+| EVT-1445 | 1939-12-29 | 영 전함 HMS Barham이 전날 U30 어뢰손상 후 자력항해로 Liverpool 항에 늦은 저녁 입항 | 대서양전·전함귀항 | 발생 | 문헌대조 | [SRC-970](chronology-sources-v1.md) |
+| EVT-1446 | 1939-12-29 | 핀 상선 Wilpas(775brt)가 Vaasa 앞에서 소련 잠수함에 쫓기다 좌초·침몰(핀란드 공식1939 통계; 포격격침설 충돌) | 겨울전쟁·핀민간상선 | 발생 | 문헌대조 | [SRC-976](chronology-sources-v1.md) · [SRC-975](chronology-sources-v1.md) · [SRC-977](chronology-sources-v1.md) |
+| EVT-1447 | 1939-12-29 | 스위스 주재 미국공사 Harrison이 전날 국제연맹 지원질의서 내용을 워싱턴 국무부에 전보 송신 | 겨울전쟁·미국외교 | 발생 | 문헌대조 | [SRC-981](chronology-sources-v1.md) |
+| EVT-1448 | 1939-12-29 | 핀 Taivalkoski 지방의회가 전몰자 묘역을 교회 인근에 두고 지자체가 관리하기로 결정(완공·매장일과 구분) | 겨울전쟁·지역장례행정 | 발생 | 문헌대조 | [SRC-982](chronology-sources-v1.md) |
+| EVT-1449 | 1939-12-29 | 핀 제9사단이 53.Pst.J 대전차포대(대전차포병)를 Raate 방면 Mäkinen 분견대 지휘하에 배속 | 겨울전쟁·Raate편제 | 발생 | 문헌대조 | [SRC-969](chronology-sources-v1.md) |
+| EVT-1450 | 1939-12-29 | 핀 Kev.Os9 자전거중대 진지 앞을07:15쯤 약60마리 말로 이뤄진 보급행렬이 통과 | 겨울전쟁·Kuhmo보급호송 | 발생 | 문헌대조 | [SRC-978](chronology-sources-v1.md) |
+| EVT-1451 | 1939-12-29 | 핀 군수중대가 공습 우려로 낮 수송을 제한하고 밤에 물자운반·현지 피란민 때문에 식량조달 난항 | 겨울전쟁·전시물자유통 | 발생 | 문헌대조 | [SRC-979](chronology-sources-v1.md) |
+| EVT-1452 | 1939-12-29 | 핀 ErP17 3중대가 도로북쪽 진지와 Kummunjärvi 초계를 유지, Isokylä로 후방열차와 숙영지를 이동 | 겨울전쟁·ErP17원일지 | 발생 | 문헌대조 | [SRC-949](chronology-sources-v1.md) |
+
 ## 1940년
 
 | ID | 시작일 | 항목 | 유형 | 상태 | 출처 상태 | 출처 |
