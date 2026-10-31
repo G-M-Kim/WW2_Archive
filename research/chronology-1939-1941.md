@@ -1186,11 +1186,45 @@ as_of: 2026-10-25
 | EVT-1451 | 1939-12-29 | 핀 군수중대가 공습 우려로 낮 수송을 제한하고 밤에 물자운반·현지 피란민 때문에 식량조달 난항 | 겨울전쟁·전시물자유통 | 발생 | 문헌대조 | [SRC-979](chronology-sources-v1.md) |
 | EVT-1452 | 1939-12-29 | 핀 ErP17 3중대가 도로북쪽 진지와 Kummunjärvi 초계를 유지, Isokylä에 보급행렬이 도착하고 중대 숙영지를 이동 | 겨울전쟁·ErP17원일지 | 발생 | 문헌대조 | [SRC-949](chronology-sources-v1.md) |
 
+| EVT-1453 | 1939-12-30 | 핀란드군이 수오무살미 Kiantajärvi 호수 방면에서 철수 중인 소련 제163사단 잔여병력 추격을 계속 | 겨울전쟁·Suomussalmi | 발생 | 문헌대조 | [SRC-983](chronology-sources-v1.md) |
+| EVT-1454 | 1939-12-30 | 핀 Siilasvuo 지휘부가 수오무살미 이후 라테 도로 소련 제44사단 격파 지시를 받음·실제 주력공세는 1940년1월 | 겨울전쟁·Raate작전명령 | 발생 | 문헌대조 | [SRC-983](chronology-sources-v1.md) · [SRC-992](chronology-sources-v1.md) |
+| EVT-1455 | 1939-12-30 | 핀란드군이 새로 얼어붙은 라도가호(라토카호) 얼음 위 소련군 탐색공격을 격퇴했다고 Yle 군전사 기록 | 겨울전쟁·Laatokka국지전 | 발생 | 문헌대조 | [SRC-983](chronology-sources-v1.md) |
+| EVT-1456 | 1939-12-30 | 핀 ErP25가04:00 Lindberg 대대와 최전선 경계책임 교대를 완료 | 겨울전쟁·원군일지 | 발생 | 문헌대조 | [SRC-990](chronology-sources-v1.md) |
+| EVT-1457 | 1939-12-30 | 핀 ErP25 각 중대가 전선에서 이탈해 Kulveikko로 행군·휴식 및 후속임무 전환 | 겨울전쟁·부대이동 | 발생 | 문헌대조 | [SRC-990](chronology-sources-v1.md) |
+| EVT-1458 | 1939-12-30 | 핀 ErP17 3중대 Misikangas 정찰대가 Kummunjärvi에서 귀환해 자군 전몰자 인식표를 회수했다고 기록 | 겨울전쟁·전몰자확인 | 발생 | 문헌대조 | [SRC-991](chronology-sources-v1.md) |
+| EVT-1459 | 1939-12-30 | 핀 ErP17 3중대가07~17시 개인화기 청소와 장비정비·초계보고를 실시 | 겨울전쟁·군생활 | 발생 | 문헌대조 | [SRC-991](chronology-sources-v1.md) |
+| EVT-1460 | 1939-12-31 | 소련군 항공기가 핀 Jyväskylä를 폭격해 민간인21명 사망(Yle 당시국방군 기반 집계) | 겨울전쟁·민간인공습 | 발생 | 문헌대조 | [SRC-984](chronology-sources-v1.md) |
+| EVT-1461 | 1939-12-31 | 소련군 항공기가 핀 Vaasa를 폭격해 민간인4명 사망, 철도역 주변 피해기록 | 겨울전쟁·도시공습 | 발생 | 문헌대조 | [SRC-984](chronology-sources-v1.md) |
+| EVT-1462 | 1939-12-31 | 핀란드군이 Raate 도로 소련 제44사단의 동쪽 보급·퇴로 차단과 종대 분할을 위한 공세계획 수립 | 겨울전쟁·Raate공세준비 | 발생 | 문헌대조 | [SRC-984](chronology-sources-v1.md) · [SRC-992](chronology-sources-v1.md) |
+| EVT-1463 | 1939-12-31 | 핀 군전사에서 Kuhmo 일부 축선의 소련부대가 국경선 밖으로 밀려났다고 보고·Kuhmo 전체전선 종결 아님 | 겨울전쟁·Kuhmo국지전 | 발생 | 문헌대조 | [SRC-984](chronology-sources-v1.md) |
+| EVT-1464 | 1939-12-31 | 핀란드 대통령 Kyösti Kallio가 총리 Risto Ryti 등 주요 인사를 참석시킨 연말연시 접견 개최 | 겨울전쟁·국가정치 | 발생 | 문헌대조 | [SRC-984](chronology-sources-v1.md) |
+| EVT-1465 | 1939-12-31 | 핀 외무장관 Väinö Tanner가 스웨덴 TT 통신 인터뷰에서 스웨덴 자원병의 핀란드 지원을 환영 | 겨울전쟁·외교 | 발생 | 문헌대조 | [SRC-984](chronology-sources-v1.md) |
+| EVT-1466 | 1939-12-31 | 핀 노동조합중앙기구 SAK가 신년사에서 국가독립·민주주의 수호 의지를 발표 | 겨울전쟁·노동운동 | 발생 | 문헌대조 | [SRC-984](chronology-sources-v1.md) |
+| EVT-1467 | 1939-12-31 | 암스테르담에서 신원미상의 사람들이 소련 상선 Josef Stalin 돛대에 핀란드 국기를 게양했다고 Yle 기록 | 겨울전쟁·해외상징시위 | 발생 | 문헌대조 | [SRC-984](chronology-sources-v1.md) |
+| EVT-1468 | 1939-12-31 | 중국군 제5군을 중심으로 남광서 쿤룬관의 일본군 진지를 탈환, 18일 최초반격과31일 최종확보 구분 | 중일전쟁·쿤룬관전투 | 발생 | 문헌대조 | [SRC-986](chronology-sources-v1.md) |
+| EVT-1469 | 1939-12-31 | 중국 제5군장 두위밍이 쿤룬관 완전점령 상황을 장제스에 전보로 보고(중국 제2역사당안관 원문서목록) | 중일전쟁·당대작전보고 | 발생 | 문헌대조 | [SRC-986](chronology-sources-v1.md) |
+| EVT-1470 | 1939-12-31 | 독 잠수함 U32가19:47 중립 노르웨이 상선 Luna(959t)를 어뢰격침·사망0, 승선총원 미확인 | 대서양전·중립상선 | 발생 | 문헌대조 | [SRC-987](chronology-sources-v1.md) |
+| EVT-1471 | 1939-12-31 | 노르웨이 상선 Colombia가 U32에 격침된 Luna의 승무원들을 구조해 Kopervik로 이송 | 해상구조·중립선 | 발생 | 문헌대조 | [SRC-987](chronology-sources-v1.md) |
+| EVT-1472 | 1939-12-31 | 핀 ErP25 대대가 전선교대 후 휴식, 대대 절반이 Kemijärvi에서 사우나를 이용했다고 기록 | 겨울전쟁·원군일지 | 발생 | 문헌대조 | [SRC-990](chronology-sources-v1.md) |
+| EVT-1473 | 1939-12-31 | 핀 ErP17 3중대가17:50 병사들의 예정 휴가를 취소, 해당 중대일지는 당일 전투·공습경보 없음으로 기록 | 겨울전쟁·군생활 | 발생 | 문헌대조 | [SRC-991](chronology-sources-v1.md) |
+
 ## 1940년
 
 | ID | 시작일 | 항목 | 유형 | 상태 | 출처 상태 | 출처 |
 |---|---|---|---|---|---|---|
 | EVT-0069 | 1940-01 | 나치 장애인 학살 T4 프로그램 본격화(시점 검증) | 국가폭력 | 발생 | 미등록 | — |
+| EVT-1474 | 1940-01-01 | 핀 카렐리야 지협의 일부 사단·연대 숫자와 부대명칭을 소련군 기만 목적으로 변경 | 겨울전쟁·군사기만 | 발생 | 문헌대조 | [SRC-985](chronology-sources-v1.md) · [SRC-993](chronology-sources-v1.md) |
+| EVT-1475 | 1940-01-01 | 핀 카렐리야 지협 제5사단 전방부대와 예비 제6사단 병력의 교대가 시작됐다고 Yle 기록 | 겨울전쟁·전선교대 | 발생 | 문헌대조 | [SRC-985](chronology-sources-v1.md) |
+| EVT-1476 | 1940-01-01 | 핀·소련군이 카렐리야 지협 주방어선에서 정찰성 국지공격과 포격을 상호 지속 | 겨울전쟁·지협국지전 | 발생 | 문헌대조 | [SRC-985](chronology-sources-v1.md) |
+| EVT-1477 | 1940-01-01 | 핀 Siilasvuo가 라테 도로 소련 제44사단의 주력부대 격파를 결심·1월3~7일 실제공격과 구분 | 겨울전쟁·Raate작전결심 | 발생 | 문헌대조 | [SRC-985](chronology-sources-v1.md) · [SRC-992](chronology-sources-v1.md) |
+| EVT-1478 | 1940-01-01 | 핀 제13사단 2개 대대가 라도가 카렐리야 Ruhtinaanmäki 북쪽 소련진지 공격을 개시 | 겨울전쟁·IV군단공세 | 발생 | 문헌대조 | [SRC-985](chronology-sources-v1.md) · [SRC-993](chronology-sources-v1.md) |
+| EVT-1479 | 1940-01-01 | 소련군이 Aittojoki 전선의 Viitavaara 고지를 처음 점령했다고 Yle 기록 | 겨울전쟁·Aittojoki | 발생 | 문헌대조 | [SRC-985](chronology-sources-v1.md) |
+| EVT-1480 | 1940-01-01 | 소련 공군의 핀 Oulu 폭격으로 4명 사망·건물16채 파괴(Yle 집계) | 겨울전쟁·도시공습 | 발생 | 문헌대조 | [SRC-985](chronology-sources-v1.md) |
+| EVT-1481 | 1940-01-01 | 소련군 항공기 약30대가 핀 Turku 시내를 공격했다고 핀 군전사 기록 | 겨울전쟁·항공전 | 발생 | 문헌대조 | [SRC-985](chronology-sources-v1.md) |
+| EVT-1482 | 1940-01-01 | 독 잠수함 U58이10:58 중립 스웨덴 상선 Lars Magnus Trozelli(1951t)에 G7e 어뢰명중·22명중7사망15생존 | 대서양전·중립상선 | 발생 | 문헌대조 | [SRC-988](chronology-sources-v1.md) · [SRC-989](chronology-sources-v1.md) |
+| EVT-1483 | 1940-01-01 | 노르웨이 상선 Ask가 U58에 격침된 스웨덴 Lars Magnus Trozelli 생존자15명을 당일 구조 | 해상구조·중립선 | 발생 | 문헌대조 | [SRC-988](chronology-sources-v1.md) · [SRC-989](chronology-sources-v1.md) |
+| EVT-1484 | 1940-01-01 | 핀 ErP25가 신년 첫날 전선교대 뒤 대대 휴식에 들어갔다고 당대 일지 기록 | 겨울전쟁·원군일지 | 발생 | 문헌대조 | [SRC-990](chronology-sources-v1.md) |
+| EVT-1485 | 1940-01-01 | 핀 ErP17 제3중대에 신년 보충병이 배속됐으나 원일지에는 27명·28명으로 인원 상충 | 겨울전쟁·병력보충 | 발생 | 문헌대조 | [SRC-991](chronology-sources-v1.md) |
 | EVT-0070 | 1940-02-16 | 알트마르크 사건(노르웨이 해역 영국군 승선) | 해군·중립 | 발생 | 미등록 | — |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
