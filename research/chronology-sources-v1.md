@@ -1283,6 +1283,9 @@ as_of: 2026-10-25
 | SRC-1144 | US Holocaust diplomatic archival 22 Jan false property confiscation note | 예일대 Avalon/뉘른베르크 검찰 원독관보 번역1차 | 헤르만 괴링의 폴란드 전 국가재산 몰수에 관한 포괄적 법령은 1940/9/17 Reichsgesetzblatt I p1270·1/22 법령 아닌 후대연표 오독 | https://avalon.law.yale.edu/imt/1665-ps.asp | 점령지 재산약탈 자체 사실과 '1월22일 괴링 법령'이라는 날짜 주장을 분리 |
 | SRC-1145 | Oulu 21 January damage primary diary photographic register | 핀 Yle 2018 원당대 Oulu 민방공 1939/10-1940/6 일지소장 기관지시 및 국립기록사진2차 | 1/21 시립박물관·Ainola도서관/유치원 전소·Kirkko/Tori/Isokatu 주거타격, 당대 북부영토 의료간호병원 Mathias Madsen 후일사망 | https://yle.fi/a/3-10023400 | 이 SRC는 앞서 Yle Oulu 연구와 같은 원URL이므로 독립SRC갯수 아닌 중복URL 주의 |
 
+| SRC-1146 | OnWar general 1940 Jan 22 UK newsreel preliminary censorship chronicle | 영 전시연표 후대편집2차·공식당대 Ministry of Information 시행문서 미확인 | 1940/1/22부터 영 뉴스영화 information ministry 선공개심사· liaison officer 배치 기록 | https://www.onwar.com/wwii/chronology/194001.html | 단일 2차 연표만 확인. 법령·부처 회람 입수 전 링크등록 |
+| SRC-1147 | Yle SA-kuva 20-22 Jan photo metadata at Kollaa and Lemet | 핀 국방군 SA-kuva 사진기록 메타를 Yle가 2014 전재2차/1차사진 | 1/20 Kollaanjoki 소련포병 포격 촬영, 1/21 Ruhtinaanmäki 굶어죽은 군마, 1/22 Lemetti 북방 4km 소련군 파괴수송대 메타확인 | https://yle.fi/aihe/a/20-69537 | 사진메타 날짜와 촬영원필름 원자료 확인 전 피해량/군명은 단정할수 없음·사진저작권 별도 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
