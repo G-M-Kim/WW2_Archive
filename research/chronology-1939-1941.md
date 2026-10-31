@@ -1304,6 +1304,41 @@ as_of: 2026-10-25
 | EVT-1562 | 1940-01-07 | 핀 ErP17 1중대 정찰대가10:50 Jörkönlampi 일대 소련 보급차량 습격으로 차량1대·병력5명 무력화했다고 자군일지에 보고 | 겨울전쟁·Salla정찰원전사 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
 | EVT-1563 | 1940-01-07 | 핀 ErP17 1중대 Remes 소대가 고지북면 방어에 배치되고 15:00 대대장교가 교대준비를 위한 진지실사 실시 | 겨울전쟁·Salla부대교대 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
 | EVT-1564 | 1940-01-07 | 핀 ErP25 대대지휘관들이 Päävaara·Huhtavaara의 ErP17 수비진지를 차기 교대준비를 위해 실사 | 겨울전쟁·Salla예비대교대 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
+| EVT-1565 | 1940-01-08 | Kojonen 핀 독립유격중대가 1/8까지 교량13·차량61 파괴와 소련군 약120명 피해를 보고(12월부터의 누적 자체전과) | 겨울전쟁·라플란드유격전 | 발생 | 문헌대조 | [SRC-1031](chronology-sources-v1.md) |
+| EVT-1566 | 1940-01-08 | 핀 Lapua에 북유럽 외 지역 출신 외국인 자원병부대 Osasto Sisu 창설, 최초8명·종전시153명·전쟁 중 전투참여 없음 | 겨울전쟁·외국인지원 | 발생 | 문헌대조 | [SRC-1031](chronology-sources-v1.md) |
+| EVT-1567 | 1940-01-08 | 모스크바 라디오가07시 핀란드어 방송에서 Kuusinen 정권 지지자 대량살해 등의 소련 대핀선전 진행 | 겨울전쟁·전시선전 | 발생 | 문헌대조 | [SRC-1031](chronology-sources-v1.md) |
+| EVT-1568 | 1940-01-08 | 핀 총리 Risto Ryti가 국제기자들에게 핀란드 전시경제상황 브리핑 | 겨울전쟁·경제외교 | 발생 | 문헌대조 | [SRC-1031](chronology-sources-v1.md) |
+| EVT-1569 | 1940-01-08 | 핀 외무장관 Väinö Tanner가 Hella Wuolijoki에게 스웨덴 주재 소련대사 Alexandra Kollontai를 통한 비공식 평화 가능성 타진 의뢰 | 겨울전쟁·비밀평화접촉 | 발생 | 문헌대조 | [SRC-1031](chronology-sources-v1.md) · [SRC-1034](chronology-sources-v1.md) |
+| EVT-1570 | 1940-01-08 | 미국 공사 Schoenfeld가 Tanner와 면담한 후19시 대소전쟁 종결방법을 모색하겠다는 핀 외무장관 견해를 국무부에 전문 | 겨울전쟁·미국외교원전 | 발생 | 문헌대조 | [SRC-1033](chronology-sources-v1.md) |
+| EVT-1571 | 1940-01-08 | Tanner가 독일 Ribbentrop측과 Göring측의 대핀견해가 다르다는 평가와 독상선의 핀 항만운항 재허가 정보를 미 Schoenfeld에 전언 | 겨울전쟁·독일상선외교 | 발생 | 문헌대조 | [SRC-1033](chronology-sources-v1.md) |
+| EVT-1572 | 1940-01-08 | 핀 ErP17 소속 2개 정찰대가05:45와05:50 Nälkämäjoensuu·Jörkönlampi 방면 통로에 소련군을 발견하지 못했다고 복귀 보고 | 겨울전쟁·Salla군일지 | 발생 | 문헌대조 | [SRC-1044](chronology-sources-v1.md) |
+| EVT-1573 | 1940-01-08 | 핀 ErP17 전 부대가09:10 Isokylä 이동명령 후 중대별로 철수·대대전체 20시경 숙영지 도착 | 겨울전쟁·Salla이동 | 발생 | 문헌대조 | [SRC-1044](chronology-sources-v1.md) |
+| EVT-1574 | 1940-01-08 | 핀 ErP25가 ErP17 방어진지 Päävaara·Huhtavaara 구역을 인계받아 전방경계 지속 | 겨울전쟁·Salla진지교대 | 발생 | 문헌대조 | [SRC-1044](chronology-sources-v1.md) · [SRC-1045](chronology-sources-v1.md) |
+| EVT-1575 | 1940-01-08 | 핀 SA-kuva 전쟁사진목록에 스웨덴인 Tornio 입국 사진이 1/8 촬영메타로 등록(인원·정식소속 미확인) | 겨울전쟁·스웨덴지원사진 | 발생 | 문헌대조 | [SRC-1046](chronology-sources-v1.md) |
+| EVT-1576 | 1940-01-09 | 대통령 Kyösti Kallio가 외신 회견에서 첫 전쟁 한달간 소련 폭격지역약100곳·투하폭탄약4000발·민간사망239명이라고 회고적 누계발표 | 겨울전쟁·민간공습통계 | 발생 | 문헌대조 | [SRC-1032](chronology-sources-v1.md) |
+| EVT-1577 | 1940-01-09 | 소련군이 라도가 카렐리야 Ruhtinaanmäki 북쪽 핀 방어선을 공격했지만 격퇴 | 겨울전쟁·Ladoga공방 | 발생 | 문헌대조 | [SRC-1032](chronology-sources-v1.md) |
+| EVT-1578 | 1940-01-09 | 캐나다 적십자가 핀란드 지원금 5만달러를 보냈다고 핀 Yle 전사에서 보도 | 겨울전쟁·적십자국제구호 | 발생 | 문헌대조 | [SRC-1032](chronology-sources-v1.md) |
+| EVT-1579 | 1940-01-09 | 전 미국 대통령 Herbert Hoover가 핀란드 구호사업에 다섯번째 10만달러 수표 송부(지급원장 미확인) | 겨울전쟁·미국민간구호 | 발생 | 문헌대조 | [SRC-1032](chronology-sources-v1.md) |
+| EVT-1580 | 1940-01-09 | 니카라과가 핀란드 지원 전국 모금운동을 개시했다고 Yle 기록 | 겨울전쟁·니카라과민간모금 | 발생 | 문헌대조 | [SRC-1032](chronology-sources-v1.md) |
+| EVT-1581 | 1940-01-09 | 아르헨티나 정부가 국제연맹 요청에 따른 핀란드 곡물5만톤 지원의향과 유연한 지불조건 발표(실제 선적 아님) | 겨울전쟁·아르헨티나원조 | 발생 | 문헌대조 | [SRC-1032](chronology-sources-v1.md) |
+| EVT-1582 | 1940-01-09 | 소련이 1/5 스웨덴 상선 Fenris 침몰 사건에 대한 스웨덴의 항의에 재차 외교적 항의 | 겨울전쟁·소련스웨덴외교 | 발생 | 문헌대조 | [SRC-1032](chronology-sources-v1.md) |
+| EVT-1583 | 1940-01-09 | 독 기뢰소해정 M7이 Heligoland 앞 영 잠수함 HMS Starfish(19S)를 폭뢰공격·심각한 손상 끝에 침몰시킴 | 북해해전·영잠수함손실 | 발생 | 문헌대조 | [SRC-1036](chronology-sources-v1.md) · [SRC-1038](chronology-sources-v1.md) · [SRC-1039](chronology-sources-v1.md) |
+| EVT-1584 | 1940-01-09 | HMS Starfish가10:40경 독 M7에 시도한 어뢰공격은 발사절차 오류로 어뢰가 발사되지 않았다고 영함장 사후보고 | 북해해전·어뢰발사실패 | 발생 | 문헌대조 | [SRC-1038](chronology-sources-v1.md) |
+| EVT-1585 | 1940-01-09 | 독 기뢰소해정 승무원이 Starfish의 생존승무원들을 구조하고 포로로 수용(전원사망 Seahorse와 구분) | 북해해전·해군포로 | 발생 | 문헌대조 | [SRC-1036](chronology-sources-v1.md) · [SRC-1037](chronology-sources-v1.md) · [SRC-1039](chronology-sources-v1.md) |
+| EVT-1586 | 1940-01-09 | 독 해군참모가 Starfish 격침에 사용된 기뢰소해정의 대잠탐지 능력을 영국에 숨기도록 대외 비밀유지 명령을 기록 | 북해해전·군사기밀 | 발생 | 문헌대조 | [SRC-1039](chronology-sources-v1.md) |
+| EVT-1587 | 1940-01-09 | 노르웨이 중립상선 Manx(1343GRT)가02:21경 독 U19의 어뢰에 침몰·승무원19명 중13명 사망6명 생존 | 북해해전·중립선희생 | 발생 | 문헌대조 | [SRC-1040](chronology-sources-v1.md) · [SRC-1041](chronology-sources-v1.md) · [SRC-1042](chronology-sources-v1.md) |
+| EVT-1588 | 1940-01-09 | Manx 승무원 중4명은 뒤집힌 구명정 위에서 약8시간 버틴 뒤 노 선박에 구조·2명은 뗏목에서 구조, 다른4명 저체온사망 | 해상구조·극한겨울 | 발생 | 문헌대조 | [SRC-1041](chronology-sources-v1.md) |
+| EVT-1589 | 1940-01-09 | 영 상선 Dunbar Castle이 N Foreland 근해에서 자기기뢰에 피격돼 약30분 후 침몰·영 Kent 유산청 원기록 승조원9명 사망·승객사망0 | 북해기뢰전·영상선피해 | 발생 | 문헌대조 | [SRC-1043](chronology-sources-v1.md) |
+| EVT-1590 | 1940-01-09 | 영 해군 기뢰소해정 HMS Calvi가 침몰 Dunbar Castle의 구명정2척에 탑승한 생존자73명을 구조, 이후 연안운송선으로 Ramsgate 인도 | 북해구조·영해군 | 발생 | 문헌대조 | [SRC-1043](chronology-sources-v1.md) |
+| EVT-1591 | 1940-01-09 | 핀 ErP17 대대장이11시 중대장들에게 군수보급과 부대운영상황 브리핑 | 겨울전쟁·Salla군수일지 | 발생 | 문헌대조 | [SRC-1044](chronology-sources-v1.md) |
+| EVT-1592 | 1940-01-09 | 핀 ErP25 진지에02시 Valtonen 방면 소련 포격, 말2마리 파편 부상으로 당대 군일지 기록 | 겨울전쟁·Salla포격 | 발생 | 문헌대조 | [SRC-1045](chronology-sources-v1.md) |
+| EVT-1593 | 1940-01-09 | 핀 SA-kuva 전시사진메타에 Läskelä Jänisjoki 강가 대전차도로장애물 촬영사실 기록 | 겨울전쟁·대전차방어시설 | 발생 | 문헌대조 | [SRC-1046](chronology-sources-v1.md) |
+| EVT-1594 | 1940-01-10 | 핀 극작가 Hella Wuolijoki가 Kollontai와의 비공식 대소평화 접촉 임무를 위해 스웨덴으로 출발(첫 면담날은 10일 vs14일 자료이견) | 겨울전쟁·평화탐색 | 발생 | 문헌대조 | [SRC-1034](chronology-sources-v1.md) · [SRC-1035](chronology-sources-v1.md) |
+| EVT-1595 | 1940-01-10 | 핀 연구자 회고에서 Raate도로 소련44사단 잔여 포위집단 수색·소탕을1월10일까지 계속했다고 설명(본대패배는 7일) | 겨울전쟁·라테후속소탕 | 발생 | 링크등록 | [SRC-1048](chronology-sources-v1.md) |
+| EVT-1596 | 1940-01-10 | 핀 ErP17 대대가20시 부사관4명·병사11명 보충병을 수령, 부대 병참정리 진행 | 겨울전쟁·병력보충 | 발생 | 문헌대조 | [SRC-1044](chronology-sources-v1.md) |
+| EVT-1597 | 1940-01-10 | 핀 ErP17 병력1+1+20명에게 Tirkkonen 하사 지도하 대전차장비 교육 실시, 1중대 스키 정비 | 겨울전쟁·대전차훈련 | 발생 | 문헌대조 | [SRC-1044](chronology-sources-v1.md) |
+| EVT-1598 | 1940-01-10 | 핀 ErP25 정찰대가14:30 Jörkönlampi 동쪽 소련진지를 습격·기관총5정 박격포3문 있는 진지에서 적군을 몰아냈다고 원일지 보고 | 겨울전쟁·Salla소대습격 | 발생 | 문헌대조 | [SRC-1045](chronology-sources-v1.md) |
+| EVT-1599 | 1940-01-10 | 핀 SA-kuva 사진메타에 Syskyjärvi의 제12사단 주요 의무소로 사용된 간이 골판지천막 관련 촬영자료 등록 | 겨울전쟁·야전의료 | 발생 | 문헌대조 | [SRC-1046](chronology-sources-v1.md) |
 | EVT-0070 | 1940-02-16 | 알트마르크 사건(노르웨이 해역 영국군 승선) | 해군·중립 | 발생 | 미등록 | — |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
