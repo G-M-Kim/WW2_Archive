@@ -1608,6 +1608,41 @@ as_of: 2026-10-25
 | EVT-1866 | 1940-01-28 | 영 Eston 1487GRT가 독 U22의 1939/12/20 설치기뢰에 침몰, 18명 전몰·당일 직접어뢰사격 아님 | 대서양전·사전기뢰 | 발생 | 문헌대조 | [SRC-1181](chronology-sources-v1.md) |
 | EVT-1867 | 1940-01-28 | 그리스 Eleni Stathatou 5625GRT가 독 U34 02:52·04:21 두차례 어뢰피격 후 침몰, 12사망·승선총원 미확인 | 대서양전·그리스상선 | 발생 | 문헌대조 | [SRC-1182](chronology-sources-v1.md) |
 | EVT-1868 | 1940-01-28 | 그리스 Flora 2980GRT 선원25전원실종·독 U44 무명그리스선 격침과 동일하다는 후대추정(미확정) | 대서양전·실종선 | 발생 | 링크등록 | [SRC-1183](chronology-sources-v1.md) |
+| EVT-1869 | 1940-01-29 | Siilasvuo가 지휘한 핀란드 제9사단이 05시에 Kuhmo 소련 제54사단 상대 본격 반격을 개시 | 겨울전쟁·Kuhmo공세 | 발생 | 문헌대조 | [SRC-1189](chronology-sources-v1.md) · [SRC-1191](chronology-sources-v1.md) |
+| EVT-1870 | 1940-01-29 | JR27 제3대대가 09:45 Reuhkavaara 부근 소련군 점유 도로를 차단·동진했다고 당시 군일지 기록 | 겨울전쟁·수송로차단 | 발생 | 문헌대조 | [SRC-1192](chronology-sources-v1.md) |
+| EVT-1871 | 1940-01-29 | 소련 제54사단의 수송로 차단과 다수 모티 형성 과정이 전개·일부 포위부대는 3월까지 저항 | 겨울전쟁·Kuhmo모티 | 발생 | 문헌대조 | [SRC-1191](chronology-sources-v1.md) |
+| EVT-1872 | 1940-01-29 | 소련군이 Summa Hanhiojansuu에서 정찰공세를 가했으나 핀군이 저지했다는 자국 전사 | 겨울전쟁·지협전투 | 발생 | 문헌대조 | [SRC-1189](chronology-sources-v1.md) |
+| EVT-1873 | 1940-01-29 | 소련군이 Taipale Terenttilä 일부 핀 방어선을 돌파하고 현지 교전이 지속됐다는 Yle 전사 | 겨울전쟁·Taipale | 발생 | 문헌대조 | [SRC-1189](chronology-sources-v1.md) |
+| EVT-1874 | 1940-01-29 | 핀 제10비행전대 BL 폭격기 6기가 Taipale 강어귀 소련 수송대를 폭격하고 1기를 상실했다는 핀 전사 | 겨울전쟁·항공공세 | 발생 | 문헌대조 | [SRC-1189](chronology-sources-v1.md) |
+| EVT-1875 | 1940-01-29 | 연료가 부족한 소련 DB3 폭격기가 Hauho Roine 호수 얼음에 불시착하고 핀군이 온전한 기체를 노획했다는 기록 | 겨울전쟁·기체노획 | 발생 | 문헌대조 | [SRC-1189](chronology-sources-v1.md) |
+| EVT-1876 | 1940-01-29 | 소련 항공기의 Turku 기습공습에 주민 36명 사망·우체국 주변 29명 사망 | 겨울전쟁·Turku민간공습 | 발생 | 문헌대조 | [SRC-1195](chronology-sources-v1.md) · [SRC-1196](chronology-sources-v1.md) |
+| EVT-1877 | 1940-01-29 | Turku 우체국 옆 방공호 문이 잠겨 주민들이 우회하는 사이 인명피해가 확대됐다는 지역 연구 | 겨울전쟁·민간방공호사고 | 발생 | 문헌대조 | [SRC-1195](chronology-sources-v1.md) · [SRC-1196](chronology-sources-v1.md) |
+| EVT-1878 | 1940-01-29 | 소련 Molotov이 스웨덴 외교경로로 핀란드와 평화교섭할 원칙적 의사를 전했다고 Yle 기록 | 겨울전쟁·강화교섭 | 발생 | 문헌대조 | [SRC-1189](chronology-sources-v1.md) |
+| EVT-1879 | 1940-01-29 | 노르웨이 중립선 Eika 1503GRT가 15:30 독 U51 어뢰에 침몰·18명중16사망2생존 | 대서양전·중립선손실 | 발생 | 문헌대조 | [SRC-1197](chronology-sources-v1.md) |
+| EVT-1880 | 1940-01-29 | Eika의 두 생존자 Harald Stole와 Alfred Johansen이 U51에 구조되어 독일로 이송된 특별구조 | 대서양전·인명구조 | 발생 | 문헌대조 | [SRC-1197](chronology-sources-v1.md) |
+| EVT-1881 | 1940-01-29 | 핀 ErP25 Arimo 정찰대 1+5+32명이 11:50 Märkäjärvi 향해 출발하고 19:40 복귀해 적 포대 위치를 파악 | 겨울전쟁·부대정찰 | 발생 | 문헌대조 | [SRC-1194](chronology-sources-v1.md) |
+| EVT-1882 | 1940-01-29 | 핀 ErP17 제3중대가 구 지휘소에서 피운 기만모닥불에 소련 항공기가 사격했다고 군일지 기록 | 겨울전쟁·기만진지 | 발생 | 문헌대조 | [SRC-1193](chronology-sources-v1.md) |
+| EVT-1883 | 1940-01-29 | SA-kuva에 Hämeenkoski 스웨덴 적십자 구급소 1월29일 사진촬영 메타 등록 | 겨울전쟁·구호사진 | 발생 | 문헌대조 | [SRC-1203](chronology-sources-v1.md) |
+| EVT-1884 | 1940-01-30 | 소련 제88사단이 Saija Tenniö강 남쪽 핀 방어부대를 공격하기 시작했다고 핀 Yle 기술 | 겨울전쟁·북부전선공격 | 발생 | 문헌대조 | [SRC-1190](chronology-sources-v1.md) |
+| EVT-1885 | 1940-01-30 | Taipale Terenttilä 소련군 진지진입과 핀군 야간반격·다음날 아침까지 참호수복이 진행됐다는 핀군 기록 | 겨울전쟁·Taipale방어 | 발생 | 문헌대조 | [SRC-1190](chronology-sources-v1.md) |
+| EVT-1886 | 1940-01-30 | 핀군이 소련 제9군 Chuikov 지휘관의 소련54사단 포위여부 문의 전보를 감청했다고 Yle 후대전사 | 겨울전쟁·무선감청 | 발생 | 문헌대조 | [SRC-1190](chronology-sources-v1.md) |
+| EVT-1887 | 1940-01-30 | 핀 Eljas Erkko가 Stockholm에서 전한 소련 강화조건에 핀란드는 해군기지 요구를 거부하면서 지협 양보확대는 검토 | 겨울전쟁·외교조건 | 발생 | 문헌대조 | [SRC-1190](chronology-sources-v1.md) |
+| EVT-1888 | 1940-01-30 | 핀 사회장관 Fagerholm이 노르웨이에서 핀으로의 민간기술노동자 지원을 요청 | 겨울전쟁·노동원조 | 발생 | 문헌대조 | [SRC-1190](chronology-sources-v1.md) |
+| EVT-1889 | 1940-01-30 | U55가 호송선단 OA80G의 영 Vaclite 5026GRT를 07:00 어뢰격침했으나 35명 전원생존 이탈리아 Pollenzo 구조 | 대서양전·호송선피격 | 발생 | 문헌대조 | [SRC-1199](chronology-sources-v1.md) |
+| EVT-1890 | 1940-01-30 | U55가 호송선단 OA80G 그리스 Keramiai 5085GRT를 11:05 격침해 선장1명사망·28명생존 | 대서양전·그리스선피격 | 발생 | 문헌대조 | [SRC-1200](chronology-sources-v1.md) |
+| EVT-1891 | 1940-01-30 | 독 U55가 HMS Whitshed·HMS Fowey·RAF228 Sunderland 합동폭뢰공격으로 침몰해 41명생존1명사망 | 대서양전·U55격침 | 발생 | 문헌대조 | [SRC-1198](chronology-sources-v1.md) |
+| EVT-1892 | 1940-01-30 | 핀 ErP17의 Veikko Jaakkola가 아군의 우발적인 총격에 부상했다는 원군일지 | 겨울전쟁·아군오발 | 발생 | 문헌대조 | [SRC-1193](chronology-sources-v1.md) |
+| EVT-1893 | 1940-01-30 | 핀 ErP25가 14시 적전투기 기관총사격을 받았지만 피해가 없었다는 원군일지 | 겨울전쟁·적전투기공습 | 발생 | 문헌대조 | [SRC-1194](chronology-sources-v1.md) |
+| EVT-1894 | 1940-01-30 | JR27가 소련54사단에 항공기로 중요한 지시가 전달됐다는 사단본부보고를 08:30 접수 | 겨울전쟁·항공명령전달보고 | 발생 | 문헌대조 | [SRC-1192](chronology-sources-v1.md) |
+| EVT-1895 | 1940-01-31 | 핀 ErP17 제3중대가 02시에 12명·13명·22명·14명 등 4개 스키정찰대를 서로 다른 임무에 파견 | 겨울전쟁·정찰부대 | 발생 | 문헌대조 | [SRC-1193](chronology-sources-v1.md) |
+| EVT-1896 | 1940-01-31 | ErP17 제3중대 숙영지에 소련 폭탄7개가 떨어져 최단35m였으나 인명물자피해 없다고 원일지 기록 | 겨울전쟁·숙영지공습 | 발생 | 문헌대조 | [SRC-1193](chronology-sources-v1.md) |
+| EVT-1897 | 1940-01-31 | 핀 ErP25는 Hatajavaara 기만모닥불을 소련 폭격편대가 다시 공격하고 선전전단을 살포했다고 기록 | 겨울전쟁·기만공습 | 발생 | 문헌대조 | [SRC-1194](chronology-sources-v1.md) |
+| EVT-1898 | 1940-01-31 | ErP25 정찰대가 Käsmäjoki 근처 소련병6명 전사시켰다고 보고했으나 독립 적측 전몰자 확인없음 | 겨울전쟁·핀전과보고 | 발생 | 문헌대조 | [SRC-1194](chronology-sources-v1.md) |
+| EVT-1899 | 1940-01-31 | 소련군이 Rovaniemi를 공습했으며 핀 후대편찬은 사망16·부상56 보고, 소련기 수26대 대34대 기록충돌 | 겨울전쟁·Rovaniemi민간피해 | 발생 | 링크등록 | [SRC-1204](chronology-sources-v1.md) · [SRC-1205](chronology-sources-v1.md) |
+| EVT-1900 | 1940-01-31 | 노르웨이 Start 1168GRT 승조원16명이 실종되고 독 U13의 이름모를 상선피격에 귀속하는 후대 추정 | 대서양전·실종선추정 | 발생 | 링크등록 | [SRC-1201](chronology-sources-v1.md) |
+| EVT-1901 | 1940-01-31 | 덴 중립선 Vidar 1353GRT가 19:54 U21 어뢰에 피격돼 34중16명사망18생존·선체침몰은 2월1일 | 대서양전·Vidar어뢰 | 발생 | 문헌대조 | [SRC-1202](chronology-sources-v1.md) |
+| EVT-1902 | 1940-01-31 | U21이 Vidar 생존자를 구조하던 덴 Disko에 20:11 어뢰를 발사했으나 어뢰오작동으로 손상없음 | 대서양전·구조선공격미수 | 발생 | 문헌대조 | [SRC-1202](chronology-sources-v1.md) |
+| EVT-1903 | 1940-01-31 | JR27 원군일지에 Löytövaara 공격을 위한 새벽 공병·대전차포 투입과 계속되는 소련군 저항 | 겨울전쟁·Kuhmo전선저항 | 발생 | 문헌대조 | [SRC-1192](chronology-sources-v1.md) |
 | EVT-0070 | 1940-02-16 | 알트마르크 사건(노르웨이 해역 영국군 승선) | 해군·중립 | 발생 | 미등록 | — |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
