@@ -1380,6 +1380,48 @@ as_of: 2026-10-25
 | EVT-1638 | 1940-01-13 | 스웨덴 중립상선 Sylvia(1524GRT)가04:30 Aberdeen 북동쪽 해역에서 독 U20 어뢰에 피격돼 약1분만에 침몰·승무원20명 전원사망 | 북해해전·스웨덴중립선희생 | 발생 | 문헌대조 | [SRC-1063](chronology-sources-v1.md) |
 | EVT-1639 | 1940-01-13 | 핀·러 군사사에 따르면 13일 Kuusamo Hossa를 떠난 피난민112명·말20두 및 Junttila 거주자50명의 별도 후방소개작업 기록 | 겨울전쟁·북부민간인소개 | 발생 | 문헌대조 | [SRC-1069](chronology-sources-v1.md) |
 | EVT-1640 | 1940-01-13 | 백계 러시아망명자 Boris Bazhanov가 핀 Mikkeli 최고사령부에서 Mannerheim을 만났다고 후일 Valpo 자료 조사기반 Yle 연구기사가 기술 | 겨울전쟁·소련포로반공조직계획 | 발생 | 문헌대조 | [SRC-1070](chronology-sources-v1.md) |
+| EVT-1641 | 1940-01-14 | 핀 잠수함 Iku-Turso가 성과없는 순찰 뒤 고장으로 귀항·기계 결함 및 발트해 결빙으로 겨울전쟁 핀 잠수함 전투순찰 사실상 중단 | 겨울전쟁·핀잠수함해군 | 발생 | 문헌대조 | [SRC-1071](chronology-sources-v1.md) |
+| EVT-1642 | 1940-01-14 | 소련 제122소총사단이 Salla Vuosamonselkä 진지에서 철수해 Märkäjärvi로 후퇴, 핀 Roininen 분견대·JR40에 추격 준비명령 | 겨울전쟁·Salla소련철수 | 발생 | 문헌대조 | [SRC-1071](chronology-sources-v1.md) · [SRC-1087](chronology-sources-v1.md) |
+| EVT-1643 | 1940-01-14 | 핀란드군이 Salla 전선에 소련 제88소총사단 병력 집중 정황을 처음 입수했다고 당일 전사기록 | 겨울전쟁·소련군증원첩보 | 발생 | 문헌대조 | [SRC-1071](chronology-sources-v1.md) |
+| EVT-1644 | 1940-01-14 | 핀 제12사단이 라도가 카렐리야 Uomaa 마을 점령·Uomaa와 Lavajärvi 사이 소련군 철수 강요 명령을 받음(목표달성 미확정) | 겨울전쟁·Ladoga작전명령 | 발생 | 문헌대조 | [SRC-1071](chronology-sources-v1.md) |
+| EVT-1645 | 1940-01-14 | 소련군의 Vaasa 공습으로 여성과 어린이를 포함해 민간인 10명 사망(Yle 기록) | 겨울전쟁·Vaasa민간공습 | 발생 | 문헌대조 | [SRC-1071](chronology-sources-v1.md) |
+| EVT-1646 | 1940-01-14 | 소련군 항공기가 Rauma·Pori·Uusikaupunki·Sottunga·Hanko·Karjaa·Salo·Tammisaari·Viipuri·Helsinki·Kauniainen 등을 공격했다고 핀 일별전사 기록 | 겨울전쟁·다중도시항공폭격 | 발생 | 문헌대조 | [SRC-1071](chronology-sources-v1.md) |
+| EVT-1647 | 1940-01-14 | 소련군 항공기가 보트니아만 스웨덴 해안까지 폭격해 Haparanda에서 약1시간30분 공습경보 발령 | 겨울전쟁·중립스웨덴공습경보 | 발생 | 문헌대조 | [SRC-1071](chronology-sources-v1.md) |
+| EVT-1648 | 1940-01-14 | 프랑스 적십자가 핀란드에 기부한 구급차가 스톡홀름에서 헬싱키로 도착, 간호사4명 동행 | 겨울전쟁·프랑스의료원조 | 발생 | 문헌대조 | [SRC-1071](chronology-sources-v1.md) |
+| EVT-1649 | 1940-01-14 | 노르웨이 중립선 Fagerheim의 생존자 항해사 진술에 14일23:40 선체폭발·45초내 침몰 기록·독 U44 15일00:13 대조로 날짜·인원 미확정 | 대서양전·중립상선사료충돌 | 발생 | 링크등록 | [SRC-1074](chronology-sources-v1.md) · [SRC-1075](chronology-sources-v1.md) · [SRC-1076](chronology-sources-v1.md) · [SRC-1077](chronology-sources-v1.md) |
+| EVT-1650 | 1940-01-14 | 노르웨이 법정조사 Fagerheim 승무원19명·사망14명·생존5명과 Uboat 전문DB 20명·사망15명·생존5명 수치 대립 | 해난·중립선인명원장충돌 | 발생 | 링크등록 | [SRC-1074](chronology-sources-v1.md) · [SRC-1076](chronology-sources-v1.md) · [SRC-1077](chronology-sources-v1.md) |
+| EVT-1651 | 1940-01-14 | 핀 정부 승인 비공식 특사 Hella Wuolijoki와 소련 주스웨덴 대사 Kollontai의 스톡홀름 최초 직접면담일을 1월14일로 보는 연구 존재(접견원본 미확인) | 겨울전쟁·소핀비공식평화접촉 | 발생 | 링크등록 | [SRC-1088](chronology-sources-v1.md) · [SRC-1089](chronology-sources-v1.md) |
+| EVT-1652 | 1940-01-14 | 핀 ErP25가 전방교대 후 대대 휴식 유지·뒤이은 소련군 Salla 철수 감지 이전 국지부대 상황 | 겨울전쟁·Salla부대일지 | 발생 | 문헌대조 | [SRC-1087](chronology-sources-v1.md) |
+| EVT-1653 | 1940-01-15 | 핀 Viipuri 시에12:23 소련 폭탄과 공습경보가 거의 동시에 발생해 시민 피난이 지체·시민3명 사망 수십명 부상 | 겨울전쟁·Viipuri도시공습 | 발생 | 문헌대조 | [SRC-1072](chronology-sources-v1.md) |
+| EVT-1654 | 1940-01-15 | Viipuri Punaisenlähteentori 주변 소련공습으로 상점·사무소와 거리시설에 심각한 파괴 발생 | 겨울전쟁·Viipuri도시피해 | 발생 | 문헌대조 | [SRC-1072](chronology-sources-v1.md) |
+| EVT-1655 | 1940-01-15 | 핀 시험조종사 Siltavuori 상사가 Fokker 기총결빙 후 프로펠러로 소련 DB폭격기 꼬리 손상시켜 추락시켰다는 핀 Yle 전사 보도(소련 원손실명부 미확인) | 겨울전쟁·항공기충돌전과주장 | 발생 | 문헌대조 | [SRC-1072](chronology-sources-v1.md) |
+| EVT-1656 | 1940-01-15 | 핀 ErP25가 소련122사단의 Vuosamonselkä 철수를 확인하고 Palovarvikko·Valtanen 방향으로 추격행군, 자정 Repoharju 숙영 | 겨울전쟁·SallaErP25원일지 | 발생 | 문헌대조 | [SRC-1087](chronology-sources-v1.md) |
+| EVT-1657 | 1940-01-15 | 핀군이 Salla Joutsijärvi에서 Märkäjärvi로 소련군 후퇴를 추격하기 시작 | 겨울전쟁·Salla추격작전 | 발생 | 문헌대조 | [SRC-1072](chronology-sources-v1.md) · [SRC-1087](chronology-sources-v1.md) |
+| EVT-1658 | 1940-01-15 | 소련군의 Taipale 소부대 공격이 핀 방어진지에 의해 격퇴 | 겨울전쟁·Taipale국지전 | 발생 | 문헌대조 | [SRC-1072](chronology-sources-v1.md) |
+| EVT-1659 | 1940-01-15 | 핀란드군이 Tolvajärvi 인근 Viitavaara 진지에서 소련 포격 지속에 따라 철수를 결정·소련군에게 확정 양도 | 겨울전쟁·Tolvajärvi거점철수 | 발생 | 문헌대조 | [SRC-1072](chronology-sources-v1.md) |
+| EVT-1660 | 1940-01-15 | 스웨덴 정부가 중립성을 버리고 반소적 신문보도를 허용한다는 소련 외교항의에 반박·언론자유 원칙 주장 | 겨울전쟁·스웨덴소련외교 | 발생 | 문헌대조 | [SRC-1072](chronology-sources-v1.md) |
+| EVT-1661 | 1940-01-15 | 독일 외무부가 핀란드·소련 전쟁에서 독일 중재를 추진한다는 외신소문을 부인·주모스크바 독외교행보를 경제문제로 설명 | 겨울전쟁·독일중재설부인 | 발생 | 문헌대조 | [SRC-1072](chronology-sources-v1.md) |
+| EVT-1662 | 1940-01-15 | 스웨덴 작가 Selma Lagerlöf가 핀란드 구호모금에 자신의 노벨 문학상 금메달과 스웨덴아카데미 금메달을 기증한다고 발표 | 겨울전쟁·문인구호기부 | 발생 | 문헌대조 | [SRC-1072](chronology-sources-v1.md) |
+| EVT-1663 | 1940-01-15 | 네덜란드 중립상선 Arendskerk(7906GRT)를 독 U44가07:05 정선시키고 서류검색 후10:10 어뢰·함포로 격침, 65명 전원생존 | 대서양전·중립네덜란드상선 | 발생 | 문헌대조 | [SRC-1078](chronology-sources-v1.md) · [SRC-1079](chronology-sources-v1.md) |
+| EVT-1664 | 1940-01-15 | 이탈리아 상선 Fedora가 침몰 Arendskerk 선원65명을 구조한 뒤 네덜란드 상선 Poelau Bras로 이송·리우데자네이루 아닌 리스본 상륙 | 해상구조·중립상선 | 발생 | 문헌대조 | [SRC-1078](chronology-sources-v1.md) · [SRC-1079](chronology-sources-v1.md) |
+| EVT-1665 | 1940-01-15 | 노르웨이 Fagerheim 생존자5명이 그리스 상선 Iris에15:15경 구조돼 스페인 Vigo로 이송(전날밤 폭발일은 사료상 상충) | 해상구조·노르웨이해원 | 발생 | 문헌대조 | [SRC-1075](chronology-sources-v1.md) · [SRC-1076](chronology-sources-v1.md) · [SRC-1077](chronology-sources-v1.md) |
+| EVT-1666 | 1940-01-15 | 핀 ErP17 1중대가02시 소련군 배후교란 정찰대 발송,14:40 Kallunki 방향 초계,20:45 Matovaara 숙영지 소련군에 약10분 기총사격 후 복귀 | 겨울전쟁·ErP17초계작전 | 발생 | 문헌대조 | [SRC-1086](chronology-sources-v1.md) |
+| EVT-1667 | 1940-01-16 | 소련군 중포병이 Summa 방어선 Sk.5 측면사격용 콘크리트 기관총진지에 직사포격·장갑관측돔과 벽 손상으로 완전 전투력 복구불가 | 겨울전쟁·Mannerheim방어시설파손 | 발생 | 문헌대조 | [SRC-1073](chronology-sources-v1.md) |
+| EVT-1668 | 1940-01-16 | 핀란드군 소부대가 영하41도 한파 속 Kitilä Mursula 마을 주변 공격으로 소련 전진을 저지했다고 Yle 기록 | 겨울전쟁·극한한파지상전 | 발생 | 문헌대조 | [SRC-1073](chronology-sources-v1.md) |
+| EVT-1669 | 1940-01-16 | 핀 Suomen Huolto가 서핀 도시 소련공습피해 민간인 구호를 위해80만 핀란드마르카 교부 결정 | 겨울전쟁·피폭민간복구 | 발생 | 문헌대조 | [SRC-1073](chronology-sources-v1.md) |
+| EVT-1670 | 1940-01-16 | 노르웨이 Holmenkollen 스키대회에 핀란드 후원 특별날을 지정해 수익 기부하도록 계획 | 겨울전쟁·국제스포츠원조 | 발생 | 문헌대조 | [SRC-1073](chronology-sources-v1.md) |
+| EVT-1671 | 1940-01-16 | 덴마크 제조업자 협회가 핀란드에 철도차량1량 분량 통조림식품을 보내는 구호사업 진행 | 겨울전쟁·덴마크민간구호 | 발생 | 문헌대조 | [SRC-1073](chronology-sources-v1.md) |
+| EVT-1672 | 1940-01-16 | 미국 대통령 Franklin D. Roosevelt가 군사용이 아닌 민간용 핀란드 차관은 미국 중립법과 양립 가능하다고 견해 표명 | 겨울전쟁·미국중립금융외교 | 발생 | 문헌대조 | [SRC-1073](chronology-sources-v1.md) |
+| EVT-1673 | 1940-01-16 | 스위스 의사회가 핀란드에 의료자원봉사단을 파견하겠다고 발표(실제 파견날·인원 미확인) | 겨울전쟁·스위스의료구호 | 발생 | 문헌대조 | [SRC-1073](chronology-sources-v1.md) |
+| EVT-1674 | 1940-01-16 | 핀 ErP25 정찰대가13시 Salla Salmivaara 마을에 적병력이 없다고 확인·전일 후퇴한 소련군 추격행군의 연속 | 겨울전쟁·ErP25정찰 | 발생 | 문헌대조 | [SRC-1087](chronology-sources-v1.md) |
+| EVT-1675 | 1940-01-16 | 핀 ErP17 제2중대가09:40 Märkäjärvi로 진격해 약8km 이동 후 소련군과 교전·소련5전사 주장, 핀 하사 Saari 부상, 후속 압력으로 Sotka 집 인근 철수 | 겨울전쟁·ErP17전선교전 | 발생 | 문헌대조 | [SRC-1086](chronology-sources-v1.md) |
+| EVT-1676 | 1940-01-16 | 핀 ErP17 제3중대 Seitamo 소대가 지형오인으로04시 임무완료 못한 채 복귀·Remes 초계도 소련군 야영지에 발포후 후퇴 | 겨울전쟁·야간정찰실패 | 발생 | 문헌대조 | [SRC-1086](chronology-sources-v1.md) |
+| EVT-1677 | 1940-01-16 | 핀 ErP17 Vuorela 부대가12시 Kallislampi에서 1월12일 스웨덴 F19 항공기 사고 후 탈출 중인 Matti Sundsten 조종사를 발견·17시 식사와 동상손가락 치료 제공 | 겨울전쟁·스웨덴의용비행사구조 | 발생 | 문헌대조 | [SRC-1086](chronology-sources-v1.md) |
+| EVT-1678 | 1940-01-16 | 핀 Pentikäinen 중위가19시 동원 가능한 보병 94명과 함께 Märkäjärvi 방향 소련군 측면공세에 진출·22:30 ErP25 Ahonius대대와 합동공격대기 명령 | 겨울전쟁·Salla야간공세준비 | 발생 | 문헌대조 | [SRC-1086](chronology-sources-v1.md) |
+| EVT-1679 | 1940-01-16 | 독 U44가06:11 중립 그리스 상선 Panachrandos(4661GRT)에 어뢰1발 명중·3분내침몰·승무원31명 전원사망 | 대서양전·그리스중립상선희생 | 발생 | 문헌대조 | [SRC-1080](chronology-sources-v1.md) |
+| EVT-1680 | 1940-01-16 | 영 유조선 Inverdargle(9456GRT)가16:19 U33이1939/11/9 부설한 기뢰에 피격침몰·승조원49명 전원사망 | 북해기뢰전·영유조선희생 | 발생 | 문헌대조 | [SRC-1081](chronology-sources-v1.md) |
+| EVT-1681 | 1940-01-16 | 영 상선 Gracia(5642GRT)가 U30이1월6일 부설한 기뢰에 손상돼 좌초·승무원47명 전원생존, 후일 수리재취역 | 북해기뢰전·영민간상선피해 | 발생 | 문헌대조 | [SRC-1082](chronology-sources-v1.md) |
+| EVT-1682 | 1940-01-16 | 독 점령 Łódź의 유대인 공장·기업 몰수와 게토 계획을 위한 예비협의 관련 1월16일 원문서가 LA홀로코스트박물관 RG-63.02.56으로 등록(게토 시행일 아님) | 점령폴란드·유대인재산수탈행정 | 발생 | 문헌대조 | [SRC-1084](chronology-sources-v1.md) · [SRC-1085](chronology-sources-v1.md) |
 | EVT-0070 | 1940-02-16 | 알트마르크 사건(노르웨이 해역 영국군 승선) | 해군·중립 | 발생 | 미등록 | — |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
