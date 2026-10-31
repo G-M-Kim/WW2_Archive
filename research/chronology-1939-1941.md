@@ -882,6 +882,47 @@ as_of: 2026-10-25
 | EVT-1149 | 1939-12-04 | Primula 생존선원7명이 부서진 구명정 대신 뗏목에서 생존해 덴마크 Wm.Th. Malling에 구조 | 해상구조·상선희생 | 발생 | 문헌대조 | [SRC-808](chronology-sources-v1.md) |
 | EVT-1150 | 1939-12-04 | 전날 스웨덴 Rudolf 침몰시 구명정에 탄 나머지 선원8명이 스웨덴 Gunlög에 구조 | 해상구조·스웨덴선원 | 발생 | 문헌대조 | [SRC-806](chronology-sources-v1.md) |
 | EVT-1151 | 1939-12-04 | 영 정찰기가 2일 어뢰피해 후 표류하는 Eskdene의 선체를 발견(7일 재발견·8일 예인) | 해상수색·피해선 | 발생 | 문헌대조 | [SRC-804](chronology-sources-v1.md) |
+| EVT-1152 | 1939-12-04 | 중국 국가당안국 기록에 따르면 일본군 제5사단 등이 난닝 북동쪽 전략고지 쿤룬관(昆仑关)을 12월4일 점령·중국군 주요반격은18일 개시 | 중일전쟁·쿤룬관 | 발생 | 문헌대조 | [SRC-815](chronology-sources-v1.md) |
+| EVT-1153 | 1939-12-04 | 영 잠수함 HMS Salmon이 13:59 북해에서 독 U36을 어뢰격침, 독 승조원40명 전원사망·생존자없음 | 대잠전·독잠수함전몰 | 발생 | 문헌대조 | [SRC-816](chronology-sources-v1.md) · [SRC-817](chronology-sources-v1.md) · [SRC-818](chronology-sources-v1.md) |
+| EVT-1154 | 1939-12-05 | 소련 제337산악보병연대가 쿠흐모 Alasenjärvi 북쪽 측면기동으로 Saunajärvi 핀 방어진지를 돌파 | 겨울전쟁·쿠흐모돌파 | 발생 | 문헌대조 | [SRC-819](chronology-sources-v1.md) |
+| EVT-1155 | 1939-12-05 | 쿠흐모 핀 독립대대14가 Saunajärvi 전선에서 서쪽으로 철수하고 다음날 Rasti에서 재편할 것을 준비 | 겨울전쟁·핀군후퇴 | 발생 | 문헌대조 | [SRC-819](chronology-sources-v1.md) |
+| EVT-1156 | 1939-12-05 | 핀 Kaasila 중대가 Kiekinkoski 이후 Polvela 방어선을 포기하고 Vääräjoki로 후퇴 | 겨울전쟁·북부방어선 | 발생 | 문헌대조 | [SRC-820](chronology-sources-v1.md) |
+| EVT-1157 | 1939-12-05 | 핀 Jussi Kekkonen 중위가 제14독립대대 제2중대 등을 묶어 Vääräjoki 방어용 Detachment Kekkonen을 편성 | 겨울전쟁·지휘부대 | 발생 | 문헌대조 | [SRC-820](chronology-sources-v1.md) · [SRC-819](chronology-sources-v1.md) |
+| EVT-1158 | 1939-12-05 | Kekkonen 분견대가 5일 밤 Vääräjoki의 위험에 처한 핀 방어진지를 탈환·확보 | 겨울전쟁·야간전투 | 발생 | 문헌대조 | [SRC-820](chronology-sources-v1.md) |
+| EVT-1159 | 1939-12-05 | 소련 제163보병사단의 JR662가 Palovaara에서 북쪽, JR81이 남쪽 수오무살미 방향으로 진격을 분기 | 겨울전쟁·북부전선 | 발생 | 문헌대조 | [SRC-821](chronology-sources-v1.md) |
+| EVT-1160 | 1939-12-05 | 소련 선봉이 Käpylä에서 Kuurtola까지 약15km 진격해 Suomussalmi 마을을 위협 | 겨울전쟁·전선진격 | 발생 | 문헌대조 | [SRC-821](chronology-sources-v1.md) |
+| EVT-1161 | 1939-12-05 | 독 U47이 호송대 OB46의 영 Navasota를 14:40 어뢰격침, 선원82명 중37명 사망45명생존 | 대서양·상선인명 | 발생 | 문헌대조 | [SRC-823](chronology-sources-v1.md) |
+| EVT-1162 | 1939-12-05 | Navasota 생존45명 중 37명은 HMS Escapade, 8명은 영 Clan Farquhar에 구조돼 살아남음 | 전시해난구조·호송전 | 발생 | 문헌대조 | [SRC-823](chronology-sources-v1.md) |
+| EVT-1163 | 1939-12-05 | 핀 주미공사 Procopé가 핀의 자금·전투기 조달요청을 미 국무부에 전달, 6천만달러 차입 희망·2천5백만 긴급 필요 주장 | 미핀외교·군수원조 | 발생 | 문헌대조 | [SRC-824](chronology-sources-v1.md) |
+| EVT-1164 | 1939-12-05 | 루스벨트가 핀의 12월15일 대미채무 234693달러 상환예정과 수령시 별도 계정 처리·의회 협의 의도를 기자회견에서 설명 | 미핀금융·전시채무 | 발생 | 문헌대조 | [SRC-825](chronology-sources-v1.md) |
+| EVT-1165 | 1939-12-05 | 소련이 국제연맹의 핀 침공 심의 소집에 반발하며 쿠시넨 정부와 평화상태이므로 핀란드와 전쟁하지 않는다고 주장 | 국제연맹·소련선전 | 발생 | 문헌대조 | [SRC-826](chronology-sources-v1.md) |
+| EVT-1166 | 1939-12-06 | 쿠흐모 핀 독립대대14가 전날 후퇴한 병력을 Rasti 부근에 재집결하여 새 방어선을 마련 | 겨울전쟁·부대재편 | 발생 | 문헌대조 | [SRC-819](chronology-sources-v1.md) |
+| EVT-1167 | 1939-12-06 | 수오무살미 Myllypuro·Kovajärvi 지협에서 소련군의 포격·보병·전차 공격과 핀군 방어전이 격화 | 겨울전쟁·수오무살미전투 | 발생 | 문헌대조 | [SRC-821](chronology-sources-v1.md) |
+| EVT-1168 | 1939-12-06 | 소련군이 6일 저녁 Myllypuro와 Kovajärvi 핀 방어선을 돌파해 핀군이 Kylänmäki 방향으로 철수 | 겨울전쟁·핀군방어선붕괴 | 발생 | 문헌대조 | [SRC-821](chronology-sources-v1.md) |
+| EVT-1169 | 1939-12-06 | 핀 지휘부가 Suomussalmi 중심마을 철수와 마을 소각을 결정하고 3일부터 시작된 주민 대피를 전면화 | 민간피난·초토화결정 | 발생 | 문헌대조 | [SRC-822](chronology-sources-v1.md) |
+| EVT-1170 | 1939-12-06 | 핀란드 독립선언 22주년을 맞아 Kallio 대통령과 뤼티 내각이 헬싱키에서 외교단을 접견해 소련의 정부도피 주장을 공개반박 | 국제외교·전시국경절 | 발생 | 문헌대조 | [SRC-829](chronology-sources-v1.md) |
+| EVT-1171 | 1939-12-06 | 미 루스벨트 대통령이 핀 Kallio 대통령에게 독립기념일 축하와 핀란드 국가자결 존중을 표명하는 전보 발송 | 미핀외교·국경절메시지 | 발생 | 문헌대조 | [SRC-828](chronology-sources-v1.md) |
+| EVT-1172 | 1939-12-06 | 스웨덴 외무당국이 핀에 대한 국가차원의 정식 군사원조는 하지 않지만 민간군수품판매·자원병 입국은 허용하는 입장을 미공사에 전달 | 북유럽외교·무장중립 | 발생 | 문헌대조 | [SRC-827](chronology-sources-v1.md) |
+| EVT-1173 | 1939-12-06 | 미 국무부 Welles가 핀 공사의 재정·군사 지원요청을 기존법 범위에서 검토 중이며 대통령 직접면담은 현재 불필요하다고 통지 | 미핀외교·원조협의 | 발생 | 문헌대조 | [SRC-830](chronology-sources-v1.md) |
+| EVT-1174 | 1939-12-06 | 독 U31의 07:54 북해 어뢰공격 선박은 실종된 중립 에스토니아 Agu로 추정되며 선원18명 전원 실종(선박동일성 확정불가) | 잠수함전·에스토니아중립선 | 발생 | 링크등록 | [SRC-831](chronology-sources-v1.md) |
+| EVT-1175 | 1939-12-06 | 독 U31이 23:49 중립 스웨덴 Vinga를 어뢰격침, 선원22명 전원생존·덴마크 Transporter에 구조 | 잠수함전·스웨덴중립선 | 발생 | 문헌대조 | [SRC-832](chronology-sources-v1.md) |
+| EVT-1176 | 1939-12-06 | 독 U47이 20:29 중립 노르웨이 유조선 Britta를 격침, 선원31명중6명 사망25명생존 | 잠수함전·노르웨이유조선 | 발생 | 문헌대조 | [SRC-833](chronology-sources-v1.md) |
+| EVT-1177 | 1939-12-06 | 독 U47은 Britta의 노르웨이 국적 표지를 인지했지만 11월23일 유조선 무경고공격 지시를 근거로 발사했다고 전문전사가 기록 | 잠수함전·중립국권리 | 발생 | 문헌대조 | [SRC-833](chronology-sources-v1.md) |
+| EVT-1178 | 1939-12-06 | 영 해군 징발어선 HMS Washington이 U59가 5일 설치한 기뢰에 10:32 피격·침몰, 8명중7명 사망1명생존 | 기뢰전·영해군소해어선 | 발생 | 문헌대조 | [SRC-834](chronology-sources-v1.md) |
+| EVT-1179 | 1939-12-07 | 소련군이 북쪽 수오무살미 교전에서 핀군의 추가 방어선을 압박하고 마을 접근로를 확보 | 겨울전쟁·수오무살미진격 | 발생 | 문헌대조 | [SRC-821](chronology-sources-v1.md) |
+| EVT-1180 | 1939-12-07 | 핀군이 Suomussalmi 중심마을과 Mattila 부근을 포기하고 Kiantajärvi 호수 남서·남쪽 방어선으로 철수 | 겨울전쟁·철수작전 | 발생 | 문헌대조 | [SRC-821](chronology-sources-v1.md) |
+| EVT-1181 | 1939-12-07 | 핀 전쟁경찰이 18:30~19시 무렵 Suomussalmi 중심마을 건물에 방화해 초토화(6일 소각설은 지자체 상세일지와 날짜이견) | 전시민간주거·초토화 | 발생 | 링크등록 | [SRC-822](chronology-sources-v1.md) · [SRC-841](chronology-sources-v1.md) |
+| EVT-1182 | 1939-12-07 | 핀 수오무살미 병력이 Kiantajärvi 호수의 남·서안 방어선을 구축하고 Haukiperä에 저지선을 형성 | 겨울전쟁·방어진지 | 발생 | 문헌대조 | [SRC-821](chronology-sources-v1.md) |
+| EVT-1183 | 1939-12-07 | 핀 주모스크바 공사관 직원들이 소련 출발·독일 방면 철수를 준비하거나 출발했다고 핀 외무부가 주미공관에 통보 | 외교관보호·소련출국 | 발생 | 링크등록 | [SRC-837](chronology-sources-v1.md) |
+| EVT-1184 | 1939-12-07 | 미 국무부가 소련의 허가 여부를 비공식 조사한 뒤 핀 외교이익·공관건물 대행 가능성을 결정하라고 미대사에 훈령 | 미핀외교·제3국대행 | 발생 | 문헌대조 | [SRC-838](chronology-sources-v1.md) |
+| EVT-1185 | 1939-12-07 | 미 국무부가 영국의 독일산 수출품 봉쇄 조치가 미국 중립선박·통상권 침해를 야기할 수 있다는 외교 항의문 전달을 지시 | 미영경제외교·중립무역 | 발생 | 문헌대조 | [SRC-839](chronology-sources-v1.md) |
+| EVT-1186 | 1939-12-07 | 핀 Kallio 대통령이 루스벨트의 6일 독립기념일 메시지에 감사전보를 보낸 것으로 미 외교전문 각주에 기록 | 미핀외교·답전 | 발생 | 문헌대조 | [SRC-829](chronology-sources-v1.md) · [SRC-828](chronology-sources-v1.md) |
+| EVT-1187 | 1939-12-07 | 독 U38이 노르웨이 영해에서 영 Thomas Walton을 17:09 어뢰격침, 선원44명중13명 사망31명생존 | 잠수함전·노르웨이영해 | 발생 | 문헌대조 | [SRC-835](chronology-sources-v1.md) |
+| EVT-1188 | 1939-12-07 | 독 상선 Sebu가 Thomas Walton의 선장과 선원30명을 구조·노르웨이 Bodø에 상륙시킴 | 해상구조·독상선 | 발생 | 문헌대조 | [SRC-835](chronology-sources-v1.md) |
+| EVT-1189 | 1939-12-07 | U38이 Thomas Walton 생존자를 구조하던 상선을 19:10 다시 공격했으나 어뢰가 돌아 해안에서 폭발·상선은 독일 Sebu로 뒤늦게 판명 | 잠수함전·오인공격미수 | 발생 | 문헌대조 | [SRC-835](chronology-sources-v1.md) |
+| EVT-1190 | 1939-12-07 | 독 U47이 중립 네덜란드 상선 Tajandoen을 05:24 어뢰격침, 선원·여객68명 중6사망62생존 | 잠수함전·네덜란드중립선 | 발생 | 문헌대조 | [SRC-836](chronology-sources-v1.md) |
+| EVT-1191 | 1939-12-07 | 벨기에 상선 Louis Scheid가 Tajandoen 승객·선원62명을 구조했으나 다음날 8일 좌초될 예정이어서 선박과 구조시차 구분 | 해상구조·벨기에상선 | 발생 | 문헌대조 | [SRC-836](chronology-sources-v1.md) |
+| EVT-1192 | 1939-12-07 | 4일 U31에 격침된 노르웨이 Gimle의 생존자16명이 3일간 폭풍·추위에 표류한 뒤 노르웨이 선박 Rudolf에 구조 | 해상구조·동사위험 | 발생 | 문헌대조 | [SRC-840](chronology-sources-v1.md) |
 | EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 미등록 | — |
 
 ## 1940년
