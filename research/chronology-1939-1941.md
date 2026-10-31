@@ -951,7 +951,46 @@ as_of: 2026-10-25
 | EVT-1218 | 1939-12-10 | 대핀 1000만달러 대출 발표는 미국 농산물·민간물자만 대상이고 항공기·군수품 구매 승인과는 구별 | 미핀외교·민수품 | 발생 | 문헌대조 | [SRC-857](chronology-sources-v1.md) |
 | EVT-1219 | 1939-12-10 | 독일 점령하 우치 Łódź의 Friedrich Übelhör가 북부에 유대인 강제집단거주 게토를 조성하도록 극비 회람 | 나치박해·게토계획 | 발생 | 문헌대조 | [SRC-858](chronology-sources-v1.md) · [SRC-860](chronology-sources-v1.md) · [SRC-861](chronology-sources-v1.md) |
 | EVT-1220 | 1939-12-10 | 12월10일 우치 게토 준비령은 추방계획 불가능을 이유로 한 강제격리 '임시조치'이며 실제 경찰령은 1940년2월·봉쇄4월 | 반유대정책·게토단계 | 발생 | 문헌대조 | [SRC-859](chronology-sources-v1.md) · [SRC-860](chronology-sources-v1.md) |
-| EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 미등록 | — |
+| EVT-1221 | 1939-12-11 | 핀 Siilasvuo 부대가 Suomussalmi 교회마을의 소련군을 상대로 반격 개시, JR27이 남쪽 우회 | 겨울전쟁·수오무살미역공 | 발생 | 문헌대조 | [SRC-875](chronology-sources-v1.md) |
+| EVT-1222 | 1939-12-11 | 핀 JR27 Mäkiniemi 부대가 정오경 Palovaara 지점 Kuhmo–Suomussalmi 도로를 차단해 소련163사단 보급을 위협 | 겨울전쟁·소련보급로차단 | 발생 | 문헌대조 | [SRC-875](chronology-sources-v1.md) |
+| EVT-1223 | 1939-12-11 | Hulkonniemi 핀-소 교전이 본격화·소련 후퇴 및 마을재점령은12월28일로 개시일과 구분 | 겨울전쟁·호숫가국지전 | 발생 | 문헌대조 | [SRC-875](chronology-sources-v1.md) |
+| EVT-1224 | 1939-12-11 | 국제연맹 총회가 핀란드 소련침공 제소 문제를 13개국 특별위원회에 회부 | 국제연맹·국제분쟁 | 발생 | 문헌대조 | [SRC-877](chronology-sources-v1.md) |
+| EVT-1225 | 1939-12-11 | 국제연맹 특별위원회가 소핀양국에 즉각 휴전과 국제연맹 중재협상 개시를 제안하는 전문 발송 | 국제연맹·휴전제안 | 발생 | 문헌대조 | [SRC-877](chronology-sources-v1.md) |
+| EVT-1226 | 1939-12-11 | 핀 정부가 미국무부에 1939년 소련과의 영토·기지협상 경위를 정리한 11일자 설명각서 제출 | 소핀외교·당사자각서 | 발생 | 문헌대조 | [SRC-881](chronology-sources-v1.md) |
+| EVT-1227 | 1939-12-11 | 나치 바르테란트 지방 Arthur Greiser가 우치 유대인에게 황색별 표식을 앞뒤에 달도록 명령·기존 완장제 대체 | 나치박해·차별표식 | 발생 | 문헌대조 | [SRC-882](chronology-sources-v1.md) |
+| EVT-1228 | 1939-12-11 | 나치 독일점령 우치 일대에서 유대인·폴란드인 강제이송이 11일부터 진행됐다는 2차 전사(11일 당일이송수 미확인) | 나치박해·강제이주 | 발생 | 링크등록 | [SRC-884](chronology-sources-v1.md) |
+| EVT-1229 | 1939-12-11 | 독 U38이 노르웨이 영해에서 08:19 중립 그리스선 Garoufalia를 어뢰격침, 29명중4사망25생존 | 잠수함전·그리스중립상선 | 발생 | 문헌대조 | [SRC-871](chronology-sources-v1.md) |
+| EVT-1230 | 1939-12-11 | 노르웨이 상선 Tellus가 Garoufalia 생존25명을 구조, 이 중 노르웨이 도선사2명 포함 | 중립선원·구조활동 | 발생 | 문헌대조 | [SRC-871](chronology-sources-v1.md) |
+| EVT-1231 | 1939-12-11 | Garoufalia의 노르웨이 영해 내 공격이 현지 도선사 목격으로 확인되며 중립영해 침범 문제가 대두 | 중립국영해·국제법 | 발생 | 문헌대조 | [SRC-871](chronology-sources-v1.md) |
+| EVT-1232 | 1939-12-12 | 영 순양함 Ajax·Achilles·Exeter가 River Plate 예상통로 근해에 07시까지 집결, Cumberland는 포클랜드 대기 | 해전준비·영순양함 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) |
+| EVT-1233 | 1939-12-12 | 하우드 제독이 12시 Ajax·Achilles 한 편대와 Exeter 별동대가 독 장갑함 양측을 동시 공격하라는 계획 발신 | 해전준비·하우드전술 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) |
+| EVT-1234 | 1939-12-12 | 영 잠수함 HMS Salmon이 09:40 독 여객선 Bremen에 정선신호하다 독 Do18 수상기 접근으로 잠항·Bremen 무피격 | 북해·독대형여객선 | 발생 | 문헌대조 | [SRC-869](chronology-sources-v1.md) · [SRC-870](chronology-sources-v1.md) |
+| EVT-1235 | 1939-12-12 | 영 상선 Marwick Head가 08:15 U59의12월5일 부설기뢰에 침몰해10명중5사망5생존 | 기뢰전·상선인명 | 발생 | 문헌대조 | [SRC-872](chronology-sources-v1.md) |
+| EVT-1236 | 1939-12-12 | Marwick Head 생존5명이 뗏목에서 탈출 후 영 순찰어선에 구조되어 Great Yarmouth 상륙 | 해상구조·영상선 | 발생 | 문헌대조 | [SRC-872](chronology-sources-v1.md) |
+| EVT-1237 | 1939-12-12 | 소련이 국제연맹의 11일 휴전·협상 제안을 12일 접수후 몰로토프 명의 답신으로 거부 | 국제연맹·소련외교거부 | 발생 | 문헌대조 | [SRC-878](chronology-sources-v1.md) |
+| EVT-1238 | 1939-12-12 | 핀 Jyrkänkoski 지연전 부대가 11~12일 쿠흐모 Rasti 방면 후퇴하면서 Hotakanvaara 주변 교전 | 겨울전쟁·핀철수 | 발생 | 문헌대조 | [SRC-876](chronology-sources-v1.md) |
+| EVT-0068 | 1939-12-13 | 라플라타강 해전 | 해전 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) · [SRC-864](chronology-sources-v1.md) |
+| EVT-1239 | 1939-12-13 | 하우드 제독 함대가 River Plate 해역에서06:14 연기발견,06:16 Exeter가 독 Graf Spee 장갑함임을 무전보고 | 라플라타강해전·적함식별 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) |
+| EVT-1240 | 1939-12-13 | 06:18 Graf Spee 주포 사격개시, 영 Exeter06:20·Achilles06:21·Ajax06:23 반격으로 교전 시작 | 라플라타강해전·전투개시 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) |
+| EVT-1241 | 1939-12-13 | 하우드 전술계획대로 Exeter가 별개접근, Ajax·Achilles가 1개 편대로 Graf Spee 양측 교차사격 | 라플라타강해전·전술분리 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) |
+| EVT-1242 | 1939-12-13 | Graf Spee 280mm 주포탄으로 Exeter 전방주포탑과 통신·침수피해 심각,07:40경 전투이탈 | 라플라타강해전·Exeter피해 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) · [SRC-865](chronology-sources-v1.md) |
+| EVT-1243 | 1939-12-13 | Graf Spee 포탄이 Achilles 가까운 해수면에서 폭발·파편에 포술통제실 수병4명 사망·부상7명 | 라플라타강해전·뉴질랜드수병 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) · [SRC-866](chronology-sources-v1.md) |
+| EVT-1244 | 1939-12-13 | Graf Spee 07:25 함포격으로 Ajax X·Y 후방포탑 기능 상실·선체통신피해 | 라플라타강해전·Ajax포탑손실 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) |
+| EVT-1245 | 1939-12-13 | Ajax 정찰기와 Exeter 어뢰발사 등이 독함의 연막·회피기동에 영향을 줌 | 라플라타강해전·정찰및어뢰 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) |
+| EVT-1246 | 1939-12-13 | Ajax·Achilles가 07:40 주간전투 이탈 뒤 서쪽 이동하는 Graf Spee 추적·관측을 유지 | 라플라타강해전·추격 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) |
+| EVT-1247 | 1939-12-13 | Graf Spee가 기관계 연료정제장치 손상을 입어 함장 Hans Langsdorff가 우루과이 몬테비데오 중립항으로 향함 | 독장갑함·연료설비피해 | 발생 | 문헌대조 | [SRC-865](chronology-sources-v1.md) · [SRC-868](chronology-sources-v1.md) |
+| EVT-1248 | 1939-12-13 | 라플라타강 해전 영측 Exeter61 Ajax7 Achilles4 총72명 사망(뉴질랜드인2명), Graf Spee 독36명 사망 | 해전·양측전몰 | 발생 | 문헌대조 | [SRC-864](chronology-sources-v1.md) · [SRC-865](chronology-sources-v1.md) · [SRC-866](chronology-sources-v1.md) |
+| EVT-1249 | 1939-12-13 | 우루과이 해군 순양함 Uruguay가 자국해역 중립성 수호를 위해 13일 해전소식 접수후 교전해역으로 접근 | 우루과이중립해군·해상전 | 발생 | 문헌대조 | [SRC-867](chronology-sources-v1.md) |
+| EVT-1250 | 1939-12-13 | 영 Ajax·Achilles는 13일밤 독 Graf Spee를 몬테비데오 외항까지 추적, 정확 정박은14일00:50으로 분리 | 해전·중립항입항전 | 발생 | 문헌대조 | [SRC-863](chronology-sources-v1.md) · [SRC-867](chronology-sources-v1.md) |
+| EVT-1251 | 1939-12-13 | 영 잠수함 HMS Salmon이 북해에서 독 경순양함 Leipzig·Nürnberg를 각각 어뢰피격·두 함 모두 손상(격침아님) | 북해해전·독순양함 | 발생 | 문헌대조 | [SRC-869](chronology-sources-v1.md) · [SRC-870](chronology-sources-v1.md) · [SRC-885](chronology-sources-v1.md) |
+| EVT-1252 | 1939-12-13 | 독 구축함대가 Newcastle 해역에 기뢰부설하는 중 Leipzig·Nürnberg가 엄호하다 영 Salmon에 피격 | 북해·독기뢰부설엄호 | 발생 | 문헌대조 | [SRC-869](chronology-sources-v1.md) |
+| EVT-1253 | 1939-12-13 | 독 U38이 15:28 노르웨이 연안 가까이 영 Deptford를 격침,39명중34사망(노르웨이 도선사2 포함)5생존 | 잠수함전·영상선 | 발생 | 문헌대조 | [SRC-873](chronology-sources-v1.md) |
+| EVT-1254 | 1939-12-13 | 노르웨이 어선 Firda와 상선 Nordnorge가 Deptford 생존5명 구조·시신2구 수습해 육지로 이송 | 해상구조·노르웨이선원 | 발생 | 문헌대조 | [SRC-873](chronology-sources-v1.md) |
+| EVT-1255 | 1939-12-13 | 독 U57이 19:15 영 Lowestoft 앞 중립 에스토니아선 Mina 격침·선원17명 전원사망 | 잠수함전·에스토니아중립선 | 발생 | 문헌대조 | [SRC-874](chronology-sources-v1.md) |
+| EVT-1256 | 1939-12-13 | 우치 유대인 소년 Dawid Sierakowiak가 12월13일 일기에 유대인 강제퇴거 소문·시장회관 집결 공포 기록(전언 불확증) | 홀로코스트·청소년일기 | 발생 | 문헌대조 | [SRC-883](chronology-sources-v1.md) |
+| EVT-1257 | 1939-12-13 | 국제연맹 특별위원회가 13일 소련침공 규탄과 핀국 지원을 권고하는 초안을 마련, 채택·제명은 다음날14일 | 국제연맹·결의초안 | 발생 | 문헌대조 | [SRC-879](chronology-sources-v1.md) |
+| EVT-1258 | 1939-12-13 | 소련 신문이 12일 몰로토프가 국제연맹 중재를 거절한 원답신 내용을 13일 보도 | 국제연맹·소련선전 | 발생 | 문헌대조 | [SRC-878](chronology-sources-v1.md) |
+| EVT-1259 | 1939-12-13 | 핀 태너 외무장관이 미공사에 영·프·북유럽의 물자지원 기대와 압도적 소련 군세에 장기항전 어려움 우려 전달 | 핀란드외교·전시외교 | 발생 | 문헌대조 | [SRC-880](chronology-sources-v1.md) |
 
 ## 1940년
 
