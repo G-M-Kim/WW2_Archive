@@ -1072,6 +1072,41 @@ as_of: 2026-10-25
 | EVT-1338 | 1939-12-20 | 소련의 Summa 지구 공세가 일단 중단돼 핀 방어선 주요진지 유지, 기갑 총전과는 원작전일지 미확인 | 겨울전쟁·소련공세둔화 | 발생 | 링크등록 | [SRC-932](chronology-sources-v1.md) · [SRC-933](chronology-sources-v1.md) |
 | EVT-1339 | 1939-12-20 | 프랑스가19일 전쟁회의 후 핀 대외원조·스칸디나비아 안전보장에 관한 수정제안안을 영 런던에 전달 | 영불외교·대핀원조 | 발생 | 문헌대조 | [SRC-931](chronology-sources-v1.md) |
 | EVT-1340 | 1939-12-20 | 핀 북부집단 일지가 Kuhmo Vepsä 방면 소련 우회군 약190명 후퇴·영하24도·핀1전사2부상 보고 | 겨울전쟁·혹한전선 | 발생 | 문헌대조 | [SRC-924](chronology-sources-v1.md) |
+| EVT-1341 | 1939-12-21 | 러 대통령도서관 RGASPI 독일어 전보원본 보관확인: 히틀러가 스탈린60세생일을 12월21일 축하전보로 축하 | 독소외교·독재자축전 | 발생 | 문헌대조 | [SRC-935](chronology-sources-v1.md) · [SRC-936](chronology-sources-v1.md) |
+| EVT-1342 | 1939-12-21 | 독 외무장관 리벤트로프도 스탈린60세 축하전보를 발송했으며 뉴질랜드 23일신문이 히틀러 축전과 함께 보도 | 독소외교·외교축전 | 발생 | 문헌대조 | [SRC-936](chronology-sources-v1.md) · [SRC-937](chronology-sources-v1.md) |
+| EVT-1343 | 1939-12-21 | 소련 스탈린 60세 생일을 소련 정권이 국가선전행사로 기념, 전시 독소외교 관계의 우호정치선전 강화 | 소련정치·독소관계 | 발생 | 문헌대조 | [SRC-935](chronology-sources-v1.md) · [SRC-936](chronology-sources-v1.md) |
+| EVT-1344 | 1939-12-21 | 독 U46이04:40 노르웨이 중립상선 Rudolf(924톤)를 어뢰격침,15명 전원생존·약10분 전 최초어뢰불발 | 잠수함전·노르웨이중립선 | 발생 | 문헌대조 | [SRC-940](chronology-sources-v1.md) |
+| EVT-1345 | 1939-12-21 | U46에 격침된 Rudolf는12월7일 노르웨이 Gimle의 생존16명을 구조했던 동일 구조선·3일 스웨덴 동명Rudolf와 별개 | 해난연결·구조선후일피격 | 발생 | 문헌대조 | [SRC-940](chronology-sources-v1.md) |
+| EVT-1346 | 1939-12-21 | 노르웨이 Rudolf 생존자15명은 두 구명정에 나뉘어 타 6명 Biarritz·9명 노 Bjerka에 구조 | 해상구조·노르웨이선원 | 발생 | 문헌대조 | [SRC-940](chronology-sources-v1.md) |
+| EVT-1347 | 1939-12-21 | 독 U21이07:25 중립 스웨덴 Mars(1475톤)에 어뢰 명중해90초내 침몰, 승무원19명중18명 사망 | 잠수함전·스웨덴중립선 | 발생 | 문헌대조 | [SRC-938](chronology-sources-v1.md) |
+| EVT-1348 | 1939-12-21 | 당일 격침 Mars(1475톤)는 전날 U22가 기뢰격침한 Mars(1877톤)와 소유자·총톤수·공격방식이 다른 동명이선 | 해상자료·동명이선구별 | 발생 | 문헌대조 | [SRC-938](chronology-sources-v1.md) · [SRC-941](chronology-sources-v1.md) |
+| EVT-1349 | 1939-12-21 | 독 U21이07:42 중립 스웨덴 Carl Henckel을 어뢰피격·10:16 추가어뢰격침, 17명중10명 사망7명생존 | 잠수함전·스웨덴중립선 | 발생 | 문헌대조 | [SRC-939](chronology-sources-v1.md) |
+| EVT-1350 | 1939-12-21 | 스웨덴 Mars와 Carl Henckel 두 선박은 같은 잠수함U21에 같은날17분 간격 최초어뢰명중, 사망합계28·생존8 | 잠수함전·동일공격작전 | 발생 | 문헌대조 | [SRC-938](chronology-sources-v1.md) · [SRC-939](chronology-sources-v1.md) |
+| EVT-1351 | 1939-12-21 | 핀 ErP25 원전전쟁일지에11시 Sainvaara 정찰대 발진·21시 Joutsijärvi 북안 Alakulpin 초계 보고 | 겨울전쟁·Salla정찰 | 발생 | 문헌대조 | [SRC-950](chronology-sources-v1.md) |
+| EVT-1352 | 1939-12-21 | 핀 ErP17 3중대 원전은20일 Mäntyvaara 전투 뒤 부상지휘관의 업무대행·진지 수색/방어 재편을21일 기록 | 겨울전쟁·부대재편 | 발생 | 문헌대조 | [SRC-949](chronology-sources-v1.md) |
+| EVT-1353 | 1939-12-22 | 노르웨이 Hop가 전날 U21 격침된 스웨덴 Mars 생존자1명과 Carl Henckel 생존자7명 등8명을 구조해 Kristiansand 이송 | 해상구조·중립선원 | 발생 | 문헌대조 | [SRC-938](chronology-sources-v1.md) · [SRC-939](chronology-sources-v1.md) · [SRC-953](chronology-sources-v1.md) |
+| EVT-1354 | 1939-12-22 | 핀 Talvela 부대가15:30 Ägläjärvi 마을을 탈환해 소련139보병사단을 동쪽으로 밀어냄 | 겨울전쟁·Ägläjärvi탈환 | 발생 | 문헌대조 | [SRC-946](chronology-sources-v1.md) · [SRC-947](chronology-sources-v1.md) |
+| EVT-1355 | 1939-12-22 | 핀 병력2개대대가 Ägläjärvi에서 Aittojoki 방향 철수하는 소련군139사단을 추격·동부전선 방어진지 정비 | 겨울전쟁·Aittojoki전선 | 발생 | 문헌대조 | [SRC-946](chronology-sources-v1.md) · [SRC-947](chronology-sources-v1.md) |
+| EVT-1356 | 1939-12-22 | 핀 최고사령부가 Öhquist 제2군단의 다음날06:30 카렐리야지협 역공계획 승인 | 겨울전쟁·반격작전명령 | 발생 | 문헌대조 | [SRC-946](chronology-sources-v1.md) |
+| EVT-1357 | 1939-12-22 | 핀 외무부가 영 런던·프 파리 공사에게 핀란드가 긴급 군사적 지원을 필요로 한다는 외교전문 발신 | 핀국제외교·전시원조요청 | 발생 | 문헌대조 | [SRC-946](chronology-sources-v1.md) |
+| EVT-1358 | 1939-12-22 | 스웨덴 적십자사의150병상 규모 의료단/야전병원이 Nyström 교수 지휘·외과의5 전문의2 간호사10과 함께 핀란드 도착 | 의료인도지원·스웨덴 | 발생 | 문헌대조 | [SRC-946](chronology-sources-v1.md) |
+| EVT-1359 | 1939-12-22 | 영 Gryfevale가13:40 U61의12월1일 부설기뢰에 손상·선원35명 전원생존, 자력Tyne항 복귀(침몰 아님) | 기뢰전·영상선손상 | 발생 | 문헌대조 | [SRC-942](chronology-sources-v1.md) |
+| EVT-1360 | 1939-12-22 | Gryfevale가 손상 후 Tyne에 자력귀항하고 1940년6월까지 수리·이후 증류수보급함 등으로 사용 | 전시해운·피해함복구 | 발생 | 문헌대조 | [SRC-942](chronology-sources-v1.md) |
+| EVT-1361 | 1939-12-22 | 핀 ErP17 3중대가12:10 Untamonselkä 정찰대 파견·17:20 Pentikäinen 중대장 임명, 대규모 교전은 기록없음 | 겨울전쟁·Salla부대일지 | 발생 | 문헌대조 | [SRC-949](chronology-sources-v1.md) |
+| EVT-1362 | 1939-12-23 | 핀 제2군단 Öhquist가06:30 카렐리야지협 대규모 공세개시·참여 사단수5~6개는 출처별 편제수차 별도대조 | 겨울전쟁·Hölmön tölväys | 발생 | 문헌대조 | [SRC-948](chronology-sources-v1.md) · [SRC-951](chronology-sources-v1.md) |
+| EVT-1363 | 1939-12-23 | 핀 제2군단 역공은 소련 진지정찰 부족·통신혼란·시간지연·포병지원 불충분으로 독립부대 동시공세에 실패 | 겨울전쟁·작전실패요인 | 발생 | 문헌대조 | [SRC-948](chronology-sources-v1.md) |
+| EVT-1364 | 1939-12-23 | 핀 지휘관 Öhquist가14:30 카렐리야지협 역공 중단명령·전투부대 출발진지로 후퇴 | 겨울전쟁·반격중지 | 발생 | 문헌대조 | [SRC-948](chronology-sources-v1.md) |
+| EVT-1365 | 1939-12-23 | 핀 공영방송 인용 국방군전사에 따르면 II군단 23일 실패한 역공 피해 전사361 부상777 실종190 합계1328명 | 겨울전쟁·핀부대사상자 | 발생 | 문헌대조 | [SRC-948](chronology-sources-v1.md) |
+| EVT-1366 | 1939-12-23 | 핀군 내부에서 실패한 12월23일 대규모 역공에 Hölmön tölväys(바보의 실수·무모한 밀어붙이기)라는 별명 사용 | 겨울전쟁·병사구술사 | 발생 | 문헌대조 | [SRC-948](chronology-sources-v1.md) |
+| EVT-1367 | 1939-12-23 | 소련 제44보병사단 선두가 Raate 도로에서 핀 진지와 접촉·1940년1월 본대전멸과 날짜별 분리 | 겨울전쟁·Raate도로초기접촉 | 발생 | 문헌대조 | [SRC-948](chronology-sources-v1.md) |
+| EVT-1368 | 1939-12-23 | 핀 Kollaa 강 방어군이 역공시도하였으나 같은날 저녁 공세중단 | 겨울전쟁·Kollaa국지전 | 발생 | 문헌대조 | [SRC-952](chronology-sources-v1.md) |
+| EVT-1369 | 1939-12-23 | 핀 Pennanen 분견대가 Tolvajärvi Aittojoki 전방진지를 확보, 앞선22일 Ägläjärvi 탈환후 소련 추격국면 마무리 | 겨울전쟁·Aittojoki방어선 | 발생 | 문헌대조 | [SRC-948](chronology-sources-v1.md) · [SRC-947](chronology-sources-v1.md) |
+| EVT-1370 | 1939-12-23 | 핀 전함 Ilmarinen·Väinämöinen이 소련 항공위협에 대비해 중요한 해상수송항로를 보호할 목적으로 Kihdin selkä로 재배치 | 겨울전쟁·핀해군호위 | 발생 | 문헌대조 | [SRC-952](chronology-sources-v1.md) |
+| EVT-1371 | 1939-12-23 | 비이푸리 Viipuri에 소련군 장거리포 '유령포' 사격이 가해져 도심 다수 건물에 피해 | 겨울전쟁·도시포격 | 발생 | 문헌대조 | [SRC-952](chronology-sources-v1.md) |
+| EVT-1372 | 1939-12-23 | 영 해군 소형 수리·보급선 HMS Dolphin이 U22가20일 설치한 기뢰에 접촉침몰·선원7명 전원생존 | 기뢰전·영보조함 | 발생 | 문헌대조 | [SRC-943](chronology-sources-v1.md) |
+| EVT-1373 | 1939-12-23 | 영 징발 소해어선 HMS Glen Albyn이 Loch Ewe 해구에서 U31 10월27일 기뢰에 침몰, 승조원수·전몰자수 미확인 | 기뢰전·영소해어선 | 발생 | 문헌대조 | [SRC-944](chronology-sources-v1.md) |
+| EVT-1374 | 1939-12-23 | 영 징발 소해어선 HMS Promotive가 같은 U31 10월27일 Loch Ewe 기뢰에 침몰·해난 인원확인 미완 | 기뢰전·영소해어선 | 발생 | 문헌대조 | [SRC-945](chronology-sources-v1.md) |
+| EVT-1375 | 1939-12-23 | U31 10월27일 설치한 기뢰는12월4일 HMS Nelson을 손상시키고 23일 Glen Albyn과 Promotive까지 침몰시켜 지속적인 기뢰전 피해를 유발 | 기뢰전·연쇄피해 | 발생 | 문헌대조 | [SRC-944](chronology-sources-v1.md) · [SRC-945](chronology-sources-v1.md) |
 
 ## 1940년
 
