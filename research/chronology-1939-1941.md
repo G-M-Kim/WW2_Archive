@@ -1181,10 +1181,10 @@ as_of: 2026-10-25
 | EVT-1446 | 1939-12-29 | 핀 상선 Wilpas(775brt)가 Vaasa 앞에서 소련 잠수함에 쫓기다 좌초·침몰(핀란드 공식1939 통계; 포격격침설 충돌) | 겨울전쟁·핀민간상선 | 발생 | 문헌대조 | [SRC-976](chronology-sources-v1.md) · [SRC-975](chronology-sources-v1.md) · [SRC-977](chronology-sources-v1.md) |
 | EVT-1447 | 1939-12-29 | 스위스 주재 미국공사 Harrison이 전날 국제연맹 지원질의서 내용을 워싱턴 국무부에 전보 송신 | 겨울전쟁·미국외교 | 발생 | 문헌대조 | [SRC-981](chronology-sources-v1.md) |
 | EVT-1448 | 1939-12-29 | 핀 Taivalkoski 지방의회가 전몰자 묘역을 교회 인근에 두고 지자체가 관리하기로 결정(완공·매장일과 구분) | 겨울전쟁·지역장례행정 | 발생 | 문헌대조 | [SRC-982](chronology-sources-v1.md) |
-| EVT-1449 | 1939-12-29 | 핀 제9사단이 53.Pst.J 대전차포대(대전차포병)를 Raate 방면 Mäkinen 분견대 지휘하에 배속 | 겨울전쟁·Raate편제 | 발생 | 문헌대조 | [SRC-969](chronology-sources-v1.md) |
+| EVT-1449 | 1939-12-29 | 핀 제9사단이 제53대전차소대(53.Pst.J)를 Raate 방면 Mäkinen 분견대 지휘하에 배속 | 겨울전쟁·Raate편제 | 발생 | 문헌대조 | [SRC-969](chronology-sources-v1.md) |
 | EVT-1450 | 1939-12-29 | 핀 Kev.Os9 자전거중대 진지 앞을07:15쯤 약60마리 말로 이뤄진 보급행렬이 통과 | 겨울전쟁·Kuhmo보급호송 | 발생 | 문헌대조 | [SRC-978](chronology-sources-v1.md) |
 | EVT-1451 | 1939-12-29 | 핀 군수중대가 공습 우려로 낮 수송을 제한하고 밤에 물자운반·현지 피란민 때문에 식량조달 난항 | 겨울전쟁·전시물자유통 | 발생 | 문헌대조 | [SRC-979](chronology-sources-v1.md) |
-| EVT-1452 | 1939-12-29 | 핀 ErP17 3중대가 도로북쪽 진지와 Kummunjärvi 초계를 유지, Isokylä로 후방열차와 숙영지를 이동 | 겨울전쟁·ErP17원일지 | 발생 | 문헌대조 | [SRC-949](chronology-sources-v1.md) |
+| EVT-1452 | 1939-12-29 | 핀 ErP17 3중대가 도로북쪽 진지와 Kummunjärvi 초계를 유지, Isokylä에 보급행렬이 도착하고 중대 숙영지를 이동 | 겨울전쟁·ErP17원일지 | 발생 | 문헌대조 | [SRC-949](chronology-sources-v1.md) |
 
 ## 1940년
 
