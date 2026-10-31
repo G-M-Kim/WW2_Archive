@@ -594,7 +594,27 @@ updated: 2026-10-26
 | RQ-0536 | P1 | open | 1/16 그리스 Panachrandos 전원사망31명 중 27명 개인명부만 확인 | uboat.net 31명 중27명 개인신원 보유, 잔여4명 사망원명부 미확인 | 1940-01-16/SRC-1080 | 그리스 해원선적원장·선원 인원등록·U44 KTB |
 | RQ-0537 | P1 | open | 1/16 Inverdargle 기뢰 전몰49명·1939/11/9 U33 부설지점 및 Gracia 생존47명 | 두 해난 모두 과거 부설기뢰, 선박명부 및 Gracia 1941년 재침몰 사건과 분리필요 | 1939-11-09~1940-01-16/SRC-1081,1082 | 영 Admiralty 기뢰해도·U33/U30 KTB·Inverdargle Crew 49명 이름·Gracia 인양원부 |
 | RQ-0538 | P1 | open | Łódź 1/16 유대인 공장기업 재산몰수 예비논의 RG-63.02.56 원문·소유주 | LA Holocaust Museum finding aid는 1/16 몰수계획 예비논의문서 식별, 구체공장·계획 시행내용 원전미열람 | 1940-01-16/SRC-1084,1085 | LA Museum RG-63.02.56 실제스캔·폴 IPN 우치 기업 국유화재산명세·역사관 |
-| RQ-0539 | P0 | open | 다음 1940/1/17~19 중립선 대량피해·Salla·점령지 | 17일 Cairnross 기뢰, Enid·Polzella, 18일 Flandria·Foxen·Pajala 등, 19일 Kaija·Patria·다른점령지역, 16일 Josephine Charlotte 미기록 조사 | 1940-01-17~19/SRC-1083 | uboat.net 선박DB·영 ADM 당대해난기록·핀 ErP17/25·노국립원명부·영 1940 해군참모일지 |
+| RQ-0539 | P0 | done | 다음 1940/1/17~19 중립선 대량피해·Salla·점령지 | 17일 Cairnross 기뢰, Enid·Polzella, 18일 Flandria·Foxen·Pajala 등, 19일 Kaija·Patria·다른점령지역, 16일 Josephine Charlotte 미기록 조사 | 1940-01-17~19/SRC-1083 | uboat.net 선박DB·영 ADM 당대해난기록·핀 ErP17/25·노국립원명부·영 1940 해군참모일지  · [1/17~19 사료감사](source-audit-1940-jan17-19-batch1.md) |
+
+| RQ-0540 | P0 | open | Tarmo 18일 Kotka 항 폭격 사망39 부상11 vs13 원명부 | 핀Yle 국방군일별11 부상 대 핀 국립해양박물관13, 같은 사건의 범위/사후이송차 가능 | 1940-01-18/SRC-1091,1093,1094 | Tarmo 함내 전몰자·전상자 장부, Kotka 항무국/군의무병원 18일사고원문 |
+| RQ-0541 | P0 | open | Flandria 18일 독 U9 어뢰 vs 스웨덴 1940당대 연감 기뢰 | UboatDB 23:53 U9 어뢰 대 Svenska Dagbladets Årsbok p73 'minsprängd' | 1940-01-18/SRC-1095,1101 | 독 U9 원 KTB·스웨덴 Flandria 생존자4명 해난조사원부·영 왕립해군 일일상선보고 |
+| RQ-0542 | P0 | open | Foxen 18일 독 U55 추정귀속 vs 스웨덴연감 기뢰설 | Foxen 19중17전몰2생존, U55 공격 자체실종으로 원KTB 없음·스웨덴연감 기뢰기록 | 1940-01-18/SRC-1095,1102 | Foxen 생존자2명 증언·U55 독군최후출격 경로·영 해군영해기뢰해도 |
+| RQ-0543 | P0 | open | Enid 17일 노 해난조사 원 crew list18 vs 선원 생존16 | 노 당대해난조사 원문서서지 pp71-99 Crew list18 names, 전문사고전사 16승선전원생존 | 1940-01-17/SRC-1097,1098 | 노 RA Justisdepartementet Politikontoret P O/Ob/L0296 journal1476-6457/1940 pp71–99 원스캔·실탑승자명부 |
+| RQ-0544 | P1 | open | Polzella 17일 영 전몰37명 전체명부와 Enid 구조시도 선위 | uboatDB 12초침몰37명전몰, U25의 Enid 첫어뢰 실패후두번째공격 시간분리 | 1940-01-17/SRC-1098,1099 | 영 CWGC 상선사원전사·Polzella 선원37 신원/국적·U25 KTB |
+| RQ-0545 | P1 | open | 17일 Ladoga IV군단 모티 분할격멸전 전환 개시지점·소련 항공/빙상보급 | Yle Pitkäranta 중단→motti계획, 소련 부대 보급은 라도가빙상/수송기·핀포병부족 | 1940-01-17/SRC-1090 | 핀 IV군단 17일 명령전문·소련168/18사단 당대일지·군수항공기 원부 |
+| RQ-0546 | P1 | open | 17일 핀 LeLv24 소련 SB 8기 격추 핀 전과 vs 소련 손실 | Yle 핀당시 8 SB격추 주장, 소련연대/임무편대 정보없음 | 1940-01-17/SRC-1090 | 핀 LeLv24 기지기록·소련 SB출격/손실 일일전투기록 |
+| RQ-0547 | P1 | open | 17일 Poppius 포격피해와 16일 Sk5 벙커 위치·건설/포격 무기 | Lähde Poppius 26명 수용 진지 손상 vs 전날 Sk5, 두 진지 혼동위험 | 1940-01-16~17/SRC-1073,1090 | 핀 Summa Lähde 벙커 상세도·공병 제식계측·소련 포대사격원일지 |
+| RQ-0548 | P1 | open | 17일 핀 피란민 중앙기관 설치 vs18일 Kekkonen 임명 원법령 | Yle 일별기관개설 17·Urho Kekkonen 책임자임명18, 조직의 원관보 번호 미확인 | 1940-01-17~18/SRC-1090,1091 | 핀 내무부 Siirtoväen Huollon Keskus 설립관보·Kekkonen 임명원통보 |
+| RQ-0549 | P1 | open | Canadian Reefer 18일 덴승무26 vs 영당대기록25 및 11:20 불발어뢰 | 전문DB 26전원구조·스페인 Jose Ignacio 16시 구조, 영 해군 원보고25 | 1940-01-18/SRC-1104 | 덴 출항선원원장·스페인 Jose Ignacio 도착항 보고·독 U44 KTB |
+| RQ-0550 | P1 | open | Pajala 18일 U25 피해 35전원구조와 HMS Northern Duke 격침과장 | 영 Northern Duke 대잠공격 뒤 독잠수함 격침주장이나 U25 무피해, 구조자35원명부 미확인 | 1940-01-18/SRC-1103 | 영 무장검문선 항해원전사·독 U25 전투일지·스웨덴 선원명부 |
+| RQ-0551 | P1 | open | 18일 Kuusamo Pennikiluoma 소련장교전사·정찰소대 규모 | 핀 지역군사사 소련 한개소대 정찰15:30 교전·소련장교1전몰 주장 | 1940-01-18/SRC-1112 | 핀 국경경비 Osasto Kääriäinen 원일지·소련초계병명부·경계기록 |
+| RQ-0552 | P1 | open | 1/17~19 Salla ErP25 후퇴 명령10:30 vs ErP17 본부대 13시 명령없는 후퇴 | Yle 원일지 두 기록 대대별·지휘편제·시각 다른지 확인, ErP17 부하1명전사 | 1940-01-17~19/SRC-1007,1008 | 핀 ErP25·ErP17 당대 원영상·Salla JR40 지휘원일지·중상전사자명단 |
+| RQ-0553 | P1 | open | 19일 14~19 기간 ErP17 제3중대 동상 환자10 명부·아군총기사고 | 기간 전체 10명 치료소/입원·대부분 발동상·1명 아군총기사고, 전사0 주장 | 1940-01-14~19/SRC-1007 | 핀 ErP17 군의관 병상원부·전사자명부·중대인원일일점호 |
+| RQ-0554 | P0 | open | Telnes 1/19 추정침몰일·독 U55 귀속과 Minnehallen 메타 1/9 오기 | 노 원해원국가기념 본문19일 18명전원사망, 헤더 Forlist 09.01은 NY출항일; U55도 실종 공격보고 없음 | 1940-01-09~19/SRC-1106,1107,1108 | 노 전쟁해원선박/18전사 원기록·U55 출항항로 추정·노 연안무전기록 |
+| RQ-0555 | P0 | open | 영 HMS Grenville 19일 기뢰부설 원출격·77/118 인명조사 | 영 구축함 H03 12:50 Thames Estuary 독 구축함3척 부설기뢰 77전몰118구조, 초기출처 승무기준의견차 가능 | 1940-01-19/SRC-1110,1111 | 영 ADM Grenville 군법회의·독 Erich Steinbrinck/Friedrich Ihn/Friedrich Eckoldt KTB·CWGC77명 |
+| RQ-0556 | P1 | open | 19일 프랑스 Quiberon 생존0이나 승무원 총수·사망자수 미기재 | U59 21:09 Great Yarmouth동쪽 침몰, 전문해난DB crew count '?' | 1940-01-19/SRC-1109 | 프랑스 해운사 Union Industrielle et Maritime 1940crewlist·전몰원명부·U59 KTB |
+| RQ-0557 | P0 | open | 19일 Kaija 침몰 소련 항공기종 Pe-2 주장 시대착오·17일 영 Enigma 첫해독설 | 개인해난DB Kaija 398GRT 19일 Koivisto 공습·Pe-2로 표기하나 실전배치일 검증 필요; Korpisota 17일 최초 Enigma설 vs GCHQ/IEEE 20일/봄 후속해독 | 1940-01-17~19/SRC-1112,1114,1115,1116 | 핀 Kaija 선적/전손원부·소련 공군연대 출격원본·영 GC&CS Bletchley Park Key Green 원진행장부 |
+| RQ-0558 | P0 | open | 다음 1940/1/20~22 유럽·북부전선·해상전 추가 | 20일 U34 Caroni River 기뢰·21일 영 구축함 Exmouth 전원실종/U22, 21일 Oulu 대규모폭격 및 소련항공, 22일 중립선 및 Salla 원일지 | 1940-01-20~22/SRC-1092,1110 | 영해군 작전일지·핀 Yle 군전사·노 Minnehallen·uboat.net·FRUS·중국 당대전보 |
 
 ## 조사기록·원전으로의 역참조
 
