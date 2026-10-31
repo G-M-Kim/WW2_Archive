@@ -1107,6 +1107,40 @@ as_of: 2026-10-25
 | EVT-1373 | 1939-12-23 | 영 징발 소해어선 HMS Glen Albyn이 Loch Ewe 해구에서 U31 10월27일 기뢰에 침몰, 승조원수·전몰자수 미확인 | 기뢰전·영소해어선 | 발생 | 문헌대조 | [SRC-944](chronology-sources-v1.md) |
 | EVT-1374 | 1939-12-23 | 영 징발 소해어선 HMS Promotive가 같은 U31 10월27일 Loch Ewe 기뢰에 침몰·해난 인원확인 미완 | 기뢰전·영소해어선 | 발생 | 문헌대조 | [SRC-945](chronology-sources-v1.md) |
 | EVT-1375 | 1939-12-23 | U31 10월27일 설치한 기뢰는12월4일 HMS Nelson을 손상시키고 23일 Glen Albyn과 Promotive까지 침몰시켜 지속적인 기뢰전 피해를 유발 | 기뢰전·연쇄피해 | 발생 | 문헌대조 | [SRC-944](chronology-sources-v1.md) · [SRC-945](chronology-sources-v1.md) |
+| EVT-1376 | 1939-12-24 | 핀 Lotta Svärd·Marttaliitto가 연고 없는 병사까지 포함해 전선 성탄선물 수만 꾸러미 지원 | 겨울전쟁·민간후방지원 | 발생 | 문헌대조 | [SRC-954](chronology-sources-v1.md) |
+| EVT-1377 | 1939-12-24 | 핀 Tolvajärvi–Ägläjärvi 전선에서 소련군을 Aittojoki 건너로 밀어내고 방어선 안정화 | 겨울전쟁·Aittojoki방어 | 발생 | 문헌대조 | [SRC-954](chronology-sources-v1.md) |
+| EVT-1378 | 1939-12-24 | 핀 Ilomäki 그룹이 쿠흐모 Jyrkänkoski→Rasti 도로분기점 공격 후 원위치 철수(전사16·부상37) | 겨울전쟁·Kuhmo국지전 | 발생 | 문헌대조 | [SRC-954](chronology-sources-v1.md) |
+| EVT-1379 | 1939-12-24 | 소련군이 Suomussalmi 마을과 Hulkonniemi 방면 핀 방어선을 강하게 역공, 핀군 고전하며 진지 유지 | 겨울전쟁·Suomussalmi | 발생 | 문헌대조 | [SRC-954](chronology-sources-v1.md) · [SRC-963](chronology-sources-v1.md) |
+| EVT-1380 | 1939-12-24 | 소련군이 Raate 도로 방향에서도 핀 방어진지에 반격·1940년 1월 제44사단 최종패배와 분리 | 겨울전쟁·Raate전초전 | 발생 | 문헌대조 | [SRC-954](chronology-sources-v1.md) · [SRC-963](chronology-sources-v1.md) |
+| EVT-1381 | 1939-12-24 | 핀 Siilasvuo가 새 2개 연대 증원 확보했으나 장비·무장 부족, 27~29일 결전전 전력 재정비 | 겨울전쟁·증원 | 발생 | 문헌대조 | [SRC-954](chronology-sources-v1.md) · [SRC-963](chronology-sources-v1.md) |
+| EVT-1382 | 1939-12-24 | 핀란드가 소련군 이용 발트해 기지 Paldiski·Liepāja·Tallinn 부근 기뢰부설을 결정(실제부설 날짜 아님) | 겨울전쟁·해군계획 | 발생 | 문헌대조 | [SRC-954](chronology-sources-v1.md) |
+| EVT-1383 | 1939-12-24 | 핀란드 대통령 Kyösti Kallio가 군 병원에서 부상 군인 위문 | 겨울전쟁·국가원수 | 발생 | 문헌대조 | [SRC-954](chronology-sources-v1.md) |
+| EVT-1384 | 1939-12-24 | 미국 거주 핀란드계 첫 자원병 집단이 핀란드 Tornio에 도착(인원수는 미확증) | 겨울전쟁·국제지원 | 발생 | 문헌대조 | [SRC-954](chronology-sources-v1.md) |
+| EVT-1385 | 1939-12-24 | 핀 ErP17 Kasurinen 초계가23:10 귀환, 소련군의 Joutsijärvi 남쪽·Kursu 집결 및 보급대 보고 | 겨울전쟁·원군일지 | 발생 | 문헌대조 | [SRC-949](chronology-sources-v1.md) |
+| EVT-1386 | 1939-12-24 | 핀 ErP25 14:20 Hannuniemi 맞은편 소련군 포병관측대 발견과 적 포격 기록·해당부대 직격피해 없음 | 겨울전쟁·원군일지 | 발생 | 문헌대조 | [SRC-950](chronology-sources-v1.md) |
+| EVT-1387 | 1939-12-24 | 핀 제25연대8중대가 Hotakka 주변 방어진지 인계·보급품 최초 말수송 도착·Kankivaara 적군 철수 확인 | 겨울전쟁·Kuhmo군일지 | 발생 | 문헌대조 | [SRC-959](chronology-sources-v1.md) |
+| EVT-1388 | 1939-12-24 | 핀 국방군 사진자료에 목사 Antti J. Rantamaa의 'Saharan kauhun' 중대 성탄 전야예배 기록 | 겨울전쟁·전선종교생활 | 발생 | 문헌대조 | [SRC-962](chronology-sources-v1.md) |
+| EVT-1389 | 1939-12-25 | 소련군이 눈보라 속 Suvanto 호수 얼음을 건너 Patoniemi 방면 상륙 교두보 확보 시도 | 겨울전쟁·Suvanto도하 | 발생 | 문헌대조 | [SRC-955](chronology-sources-v1.md) · [SRC-960](chronology-sources-v1.md) |
+| EVT-1390 | 1939-12-25 | 소련군이 같은날 Suvanto의 Volossula 방면에서도 도하·핀 방어진지 공격 | 겨울전쟁·Suvanto도하 | 발생 | 문헌대조 | [SRC-955](chronology-sources-v1.md) · [SRC-960](chronology-sources-v1.md) |
+| EVT-1391 | 1939-12-25 | 소련군이 Suvanto의 Kelja 방면에서 도하해 지속 교두보 형성, 27일 본격 격퇴와 날짜구분 | 겨울전쟁·Kelja개전 | 발생 | 문헌대조 | [SRC-955](chronology-sources-v1.md) · [SRC-960](chronology-sources-v1.md) |
+| EVT-1392 | 1939-12-25 | 핀란드군이 약08시 Patoniemi·Volossula 교두보 역공, 밤까지 두 지역 소련군을 몰아냄 | 겨울전쟁·역공 | 발생 | 문헌대조 | [SRC-955](chronology-sources-v1.md) · [SRC-960](chronology-sources-v1.md) |
+| EVT-1393 | 1939-12-25 | 핀란드군이 Kelja 교두보의 연대급 소련군을25일 중에는 밀어내지 못함·26~27일로 전투계속 | 겨울전쟁·Kelja교두보 | 발생 | 문헌대조 | [SRC-955](chronology-sources-v1.md) · [SRC-960](chronology-sources-v1.md) |
+| EVT-1394 | 1939-12-25 | 소련 공군이 핀 11개 도시·지역을 공습하고 당일 민간인 3명 사망(Yle 집계) | 겨울전쟁·민간인공습 | 발생 | 문헌대조 | [SRC-955](chronology-sources-v1.md) |
+| EVT-1395 | 1939-12-25 | 소련군 항공기 약50대가 Käkisalmi 지역 집중 공격(핀 Yle 국방군 기반 연표) | 겨울전쟁·항공전 | 발생 | 문헌대조 | [SRC-955](chronology-sources-v1.md) |
+| EVT-1396 | 1939-12-25 | 영 석탄수송선 Stanholme(2473t)가08:45 Bristol Channel에서 U33 11/9 부설기뢰에 침몰·25명중13명 사망 | 기뢰전·영상선 | 발생 | 문헌대조 | [SRC-956](chronology-sources-v1.md) |
+| EVT-1397 | 1939-12-25 | 중립 노르웨이 상선 Liv가 Stanholme 함장 David L. Hook 포함12명 구조해 Cardiff 상륙 | 해난·중립선구조 | 발생 | 문헌대조 | [SRC-956](chronology-sources-v1.md) |
+| EVT-1398 | 1939-12-25 | 영 해군 징발 구잠어선 HMS Loch Doon(FY127,534t)이 Blyth 앞 U22 12/20 부설기뢰에 침몰·16명 사망 | 기뢰전·영보조함 | 발생 | 문헌대조 | [SRC-957](chronology-sources-v1.md) |
+| EVT-1399 | 1939-12-25 | 소련 당기관지 Pravda 25일자에 스탈린이 히틀러·리벤트로프에게 보낸 축전 답신 2건 게재(발신일 별도) | 독소외교·신문게재 | 발생 | 문헌대조 | [SRC-958](chronology-sources-v1.md) |
+| EVT-1400 | 1939-12-25 | 핀 ErP17 3중대가04:00 병사들에게 성탄선물 배포·전일과 다른 개별 전선 일지 기록 | 겨울전쟁·군생활 | 발생 | 문헌대조 | [SRC-949](chronology-sources-v1.md) |
+| EVT-1401 | 1939-12-25 | 핀 ErP25가02:40 소련 포격과 Isoaava 방면 초계 활동을 기록, 초계대는14:25 무접촉 귀환 | 겨울전쟁·원군일지 | 발생 | 문헌대조 | [SRC-950](chronology-sources-v1.md) |
+| EVT-1402 | 1939-12-25 | 핀 제25연대8중대가 Leppiniemi 갈림길 초계·성탄절 음식 지급, 부대 앞 포탄 일부 통과 | 겨울전쟁·Kuhmo군일지 | 발생 | 문헌대조 | [SRC-959](chronology-sources-v1.md) |
+| EVT-1403 | 1939-12-26 | Kelja 교두보에 소련군 증원 도하가 계속되었으나 핀 포병사격으로 다수가 얼음 위에서 저지 | 겨울전쟁·Kelja포병전 | 발생 | 문헌대조 | [SRC-960](chronology-sources-v1.md) |
+| EVT-1404 | 1939-12-26 | 핀란드군이 Kelja 소련 교두보에 연속 반격했으나 포병·박격포지원 부족과 적 사격으로 격퇴 실패 | 겨울전쟁·Kelja역공 | 발생 | 문헌대조 | [SRC-960](chronology-sources-v1.md) |
+| EVT-1405 | 1939-12-26 | 핀 ErP17 3중대 지역에10:50 소련 항공기2대 폭격·기관총 사격, 부대일지는 피해없음으로 기록 | 겨울전쟁·공습군일지 | 발생 | 문헌대조 | [SRC-949](chronology-sources-v1.md) |
+| EVT-1406 | 1939-12-26 | 핀 ErP25가11시경 소련군 항공기2대의 반복적인 사격·포격을 기록 | 겨울전쟁·공습군일지 | 발생 | 문헌대조 | [SRC-950](chronology-sources-v1.md) |
+| EVT-1407 | 1939-12-26 | 핀 ErP25 초계가 Kuusamo 도로를 건너는 스키병 약50명 관측, 아군일 가능성 남겨두고15명 정찰대 파견 | 겨울전쟁·식별미상정찰 | 발생 | 문헌대조 | [SRC-950](chronology-sources-v1.md) |
+| EVT-1408 | 1939-12-26 | 핀 제25연대8중대가16시 Rasti 방면 초계, 참호·통신선·철조망 정비; 해당 중대 일지는 직접 교전 없다고 기록 | 겨울전쟁·Kuhmo군일지 | 발생 | 문헌대조 | [SRC-959](chronology-sources-v1.md) |
+| EVT-1409 | 1939-12-26 | 핀 육군병사 Vasili Vasiljevitsh Sinkevitsch가 23일 Hatjalahti 전투에서 입은 부상으로 군병원에서 사망 | 겨울전쟁·개인전몰 | 발생 | 문헌대조 | [SRC-961](chronology-sources-v1.md) |
 
 ## 1940년
 
