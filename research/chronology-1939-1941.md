@@ -1225,6 +1225,44 @@ as_of: 2026-10-25
 | EVT-1483 | 1940-01-01 | 노르웨이 상선 Ask가 U58에 격침된 스웨덴 Lars Magnus Trozelli 생존자15명을 당일 구조 | 해상구조·중립선 | 발생 | 문헌대조 | [SRC-988](chronology-sources-v1.md) · [SRC-989](chronology-sources-v1.md) |
 | EVT-1484 | 1940-01-01 | 핀 ErP25가 신년 첫날 전선교대 뒤 대대 휴식에 들어갔다고 당대 일지 기록 | 겨울전쟁·원군일지 | 발생 | 문헌대조 | [SRC-990](chronology-sources-v1.md) |
 | EVT-1485 | 1940-01-01 | 핀 ErP17 제3중대에 신년 보충병이 배속됐으나 원일지에는 27명·28명으로 인원 상충 | 겨울전쟁·병력보충 | 발생 | 문헌대조 | [SRC-991](chronology-sources-v1.md) |
+| EVT-1486 | 1940-01-01 | 나치 독일 점령 폴란드 총독부에서 유대인의 지방 경계 밖 무단 거주지 변경·이동을 금지한 1939/12/11 시행명령이 1/1 발효 | 점령지·유대인 이동제한 | 발생 | 문헌대조 | [SRC-1005](chronology-sources-v1.md) |
+| EVT-1487 | 1940-01-02 | 핀 제9사단이 Raate도로 소련 제44사단 진지에 제한적인 공격을 가하며 본공세 준비를 계속 | 겨울전쟁·Raate선행공세 | 발생 | 문헌대조 | [SRC-996](chronology-sources-v1.md) |
+| EVT-1488 | 1940-01-02 | 핀 제9사단 주력 부대가 Raate도로 양쪽 숲으로 이동하며 공격진형에 배치되기 시작 | 겨울전쟁·Raate공세준비 | 발생 | 문헌대조 | [SRC-996](chronology-sources-v1.md) |
+| EVT-1489 | 1940-01-02 | 소련군이 Taipale Kirvesmäki 핀진지에 약5시간30분 포격준비 후 보병공격했으나 핀란드군이 격퇴 | 겨울전쟁·Taipale | 발생 | 문헌대조 | [SRC-996](chronology-sources-v1.md) |
+| EVT-1490 | 1940-01-02 | 핀 스피드스케이팅 1939세계선수권 우승·1936올림픽 은2동1 Birger Wasenius가 Ladoga의 Lunkulansaari 전투에서 전사 | 겨울전쟁·개인전몰자 | 발생 | 문헌대조 | [SRC-996](chronology-sources-v1.md) · [SRC-1004](chronology-sources-v1.md) |
+| EVT-1491 | 1940-01-02 | 전시에도 핀란드 예비장교학교 44기 교육과정이 대규모로 개강했다고 Yle 전사기록 | 겨울전쟁·군사교육 | 발생 | 문헌대조 | [SRC-996](chronology-sources-v1.md) |
+| EVT-1492 | 1940-01-02 | 핀란드 피란 아동·어머니 수용 희망 의사를 등록한 스웨덴 가구가 1만가구를 넘었다고 Yle 집계 | 겨울전쟁·민간대피·국제원조 | 발생 | 문헌대조 | [SRC-996](chronology-sources-v1.md) |
+| EVT-1493 | 1940-01-02 | 핀란드 피란민 아동400명·어머니50명이 1/2 시점까지 스웨덴으로 이동했다고 Yle 집계(누적수치) | 겨울전쟁·아동피란 | 발생 | 문헌대조 | [SRC-996](chronology-sources-v1.md) |
+| EVT-1494 | 1940-01-02 | 핀 ErP25가 이동이 어려운 도로를 따라 Outojärvi로 행군, 일지상 당일 휴식 | 겨울전쟁·ErP25원일지 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
+| EVT-1495 | 1940-01-02 | 핀 ErP17 제3중대가01시 Isokylä 출발·03시 차량으로 Joutsijärvi 이동 후 Outojärvi 및 Kummunjärvi 동편으로 재집결 | 겨울전쟁·ErP17부대이동 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1496 | 1940-01-02 | 중국 군사령부 白崇禧가 쿤룬관 전황과 일본 연대장 三木吉之助 전사 소식을 장제스에게 전보로 보고(실제 전사일 미확인) | 중일전쟁·중국당대군사전문 | 발생 | 문헌대조 | [SRC-1006](chronology-sources-v1.md) |
+| EVT-1497 | 1940-01-03 | 소련 잠수함 S-2가 Märket 해협 기뢰에서 폭발해 승조원 약50명 전원 사망(침몰일 1/2 대1/3·기뢰부설국 미확정) | 겨울전쟁·잠수함침몰 | 발생 | 링크등록 | [SRC-997](chronology-sources-v1.md) · [SRC-1002](chronology-sources-v1.md) · [SRC-1003](chronology-sources-v1.md) |
+| EVT-1498 | 1940-01-03 | 핀 제13사단이 Ruhtinaanmäki 공격을 중지하고 방어진지로 전환, 소련 보급로 완전차단에 병력 부족 | 겨울전쟁·Ladoga-Karjala | 발생 | 문헌대조 | [SRC-997](chronology-sources-v1.md) |
+| EVT-1499 | 1940-01-03 | 소련군이 Kuhmo 방면에서 포병 및 전차 지원을 받아 핀란드군 진지를 공격 | 겨울전쟁·Kuhmo | 발생 | 문헌대조 | [SRC-997](chronology-sources-v1.md) |
+| EVT-1500 | 1940-01-03 | 핀 4개 대대 병력이 약영하40도 추위 속 Salla Joutsijärvi의 소련진지에 반격을 시작 | 겨울전쟁·Joutsijärvi | 발생 | 문헌대조 | [SRC-997](chronology-sources-v1.md) |
+| EVT-1501 | 1940-01-03 | 핀 ErP25가10시 Outojärvi에서 Huhtavaara→Valtonen 방향 선도대대로 공격개시 | 겨울전쟁·ErP25공세 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
+| EVT-1502 | 1940-01-03 | 핀 ErP25가14시 소련방어진지와 접촉·소련점령 언덕 확보했지만 전차의 방해로 주요도로 횡단에 실패하고 일몰때 정지 | 겨울전쟁·Valtonen교전 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
+| EVT-1503 | 1940-01-03 | 핀 ErP17가 Hänninen의 ErP26·Ahonius ErP25와 함께 Valtonen을 향한 연합공세 및 예비투입에 참가 | 겨울전쟁·ErP17지원 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1504 | 1940-01-03 | 핀 국민보급부 노동국이 농촌 최우선 작업으로 난방·연료용 장작 확보를 발표 | 겨울전쟁·민간연료공급 | 발생 | 문헌대조 | [SRC-997](chronology-sources-v1.md) |
+| EVT-1505 | 1940-01-03 | 노르웨이의 핀란드 지원 배낭 기부운동이 의복·식품 든 배낭 약2만5000개를 모았다고 Yle 누적현황 기록 | 겨울전쟁·국제민간원조 | 발생 | 문헌대조 | [SRC-997](chronology-sources-v1.md) |
+| EVT-1506 | 1940-01-03 | 독 잠수함 U58이09:11 Kinnaird Head 앞에서 HN6 대열이탈 스웨덴 철광석상선 Svartön(2475GRT)을 어뢰격침·31명중20명 사망 | 대서양전·중립상선 | 발생 | 문헌대조 | [SRC-1000](chronology-sources-v1.md) · [SRC-1001](chronology-sources-v1.md) |
+| EVT-1507 | 1940-01-03 | 영 해군 HMS Oak(T54)이 U58에 격침된 스웨덴 Svartön 생존자 11명을 구조 | 해상구조·영보조함 | 발생 | 문헌대조 | [SRC-1000](chronology-sources-v1.md) |
+| EVT-1508 | 1940-01-03 | 독 상선조사에서 Svartön 전 함장 이름 Bror Emil Larsson 대 G Swerin이라는 서로 다른 2차기록 존재·선원원장 확보 필요 | 해상전·상선원기록불일치 | 발생 | 문헌대조 | [SRC-1000](chronology-sources-v1.md) · [SRC-1001](chronology-sources-v1.md) |
+| EVT-1509 | 1940-01-04 | 핀 Siilasvuo가 제9사단에 Raate도로 소련 제44사단 상대 최종공격명령 발령, 계획 H시각 1/5 07시 | 겨울전쟁·Raate작전명령 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) · [SRC-999](chronology-sources-v1.md) |
+| EVT-1510 | 1940-01-04 | 핀 Raate 공격부대가 도로 양측의 배치 및 공세준비를 마쳤다고 Yle 군전사 기록(본격 주력공격 1/5) | 겨울전쟁·Raate공세준비 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) · [SRC-999](chronology-sources-v1.md) |
+| EVT-1511 | 1940-01-04 | 핀 Salla Joutsijärvi에서 Roininen 분견대의 반격작전이 중단되었다고 Yle 보고 | 겨울전쟁·Joutsijärvi작전 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) |
+| EVT-1512 | 1940-01-04 | 핀 Taipale Kirvesmäki에서 새 소련군 공격을 격퇴했다고 Yle 당일 군전사 기록 | 겨울전쟁·Taipale국지전 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) |
+| EVT-1513 | 1940-01-04 | 핀 ErP25가10:30 Valtanen 방향 재공격을 개시해 3중대가 도로 횡단·남북 양측을 따라 진출 | 겨울전쟁·ErP25재공격 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
+| EVT-1514 | 1940-01-04 | 핀 ErP25가 Valtanen 일대 소련기관총·전차2대의 저항으로 공격에 제동, 일지에 3중대 대전차조가 전차1대 파괴·1대 손상 주장 | 겨울전쟁·전차교전 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
+| EVT-1515 | 1940-01-04 | 핀 ErP17 1중대가12:15 Päävaara로 이동하여13시 소련군 공격을 저지·기관총·자동화기·소총 노획을 보고 | 겨울전쟁·ErP17Päävaara | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1516 | 1940-01-04 | 핀 ErP17 3중대가09:05 Valtonen 공세를 시작했으나 연합부대 전열혼란으로 일시 중지·09:30 재개해 도로횡단 | 겨울전쟁·ErP17합동공격 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1517 | 1940-01-04 | 핀 ErP17 3중대가14시 Vesterinen 언덕 방면 재공격 중 소련 전차·기관총·박격포에 막혀 전사5·부상7명 보고 | 겨울전쟁·ErP17소부대인명피해 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1518 | 1940-01-04 | 핀 ErP17 3중대가20시 Vuosamonselkä 목표에서 저항을 확인하고 부상자 수송에 어려움을 겪으며 후퇴 | 겨울전쟁·ErP17철수 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1519 | 1940-01-04 | 핀 교육부가 교회·행정당국에 전사자 고향안장을 위한 영웅묘역을 신속 확보하도록 촉구 | 겨울전쟁·민간장례정책 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) |
+| EVT-1520 | 1940-01-04 | 핀란드 당국이 민간인의 소련군 공습피해 장면 및 국방·방공시설 촬영을 금지 | 겨울전쟁·전시보안·사진통제 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) |
+| EVT-1521 | 1940-01-04 | 스웨덴 정부가 연합국의 핀란드 지원 제안 가운데 무기·병력 지원방안을 거절했다고 Yle 연표 기록 | 겨울전쟁·국제외교 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) |
+| EVT-1522 | 1940-01-04 | 익명의 덴마크 기업인이 핀란드에 트럭 50대 기증 의사를 표명(실제 기증·인도 기록 미확인) | 겨울전쟁·민간원조의향 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) |
+| EVT-1523 | 1940-01-04 | 핀란드 전선 순회 위문단 Maan Turva의 Ikäväntorjuntapatteri 공연에 배우 Aku Korhonen·지휘자 George de Godzinsky 등이 참여한다고 Yle 소개(개별공연일 미확인) | 겨울전쟁·예술가위문활동 | 발생 | 링크등록 | [SRC-998](chronology-sources-v1.md) |
 | EVT-0070 | 1940-02-16 | 알트마르크 사건(노르웨이 해역 영국군 승선) | 해군·중립 | 발생 | 미등록 | — |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
