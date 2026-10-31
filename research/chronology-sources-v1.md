@@ -1288,6 +1288,27 @@ as_of: 2026-10-25
 
 | SRC-1148 | Yale Avalon Nuremberg document 1665-PS: treatment of former Polish-state nationals property | 미 Yale Law School Avalon 니른베르크 국제군사재판 증거원문 1차독관보영어번역 | 괴링의 전 폴란드국민 재산몰수 포괄규정 법령 원문 발령일 1940/9/17 Reichsgesetzblatt Part I p1270, 1940/1/22이라는 후대연표 주장은 이 법령과 맞지 않음 | https://avalon.law.yale.edu/imt/1665-ps.asp | 영어 번역문, 독어 관보 직접대조 미완·9/17 관련별도항목 작성전 원전서지대조 |
 
+| SRC-1149 | Yle 1940/1/23 Pajarin vastahyökkäys epäonnistuu Aittojoella | Yle/Puolustusvoimat 2010 재구성 2차 | Aittojoki 반격실패·Kuhmo 지휘관 이동·Nurmes 21사망39부상·F19·SAK·Sillanpää | https://yle.fi/a/3-5495994 | 핀군 측 후대 역사기록·소련원전 및 피해인명부 미대조 |
+| SRC-1150 | Pohjois-Suomen ryhmän esikunnan sotapäiväkirja P1815 | 핀 북부집단 원군일지 1940 1차, Matti Halonen 2014 전사 | 인쇄 p29/52 1/23 Kuhmo 사령부와 JR27 00:15 도착·JR65 배속명령·Kuhmo 공습·24~25 초계 | https://www.talvisotakuhmossa.fi/wp-content/uploads/sites/4/2025/12/1.-Pohjois-Suomen-ryhman-esikunnan-sotapaivakirja.pdf | 원필사 스캔 아닌 전사본·전시 핀 지휘부의 피해보고 |
+| SRC-1151 | IPAK74 Kajaani 방공센터 원전쟁일지 P1898 | 핀 방공통제본부 1940 원일지1차, Matti Halonen 2015 전사 | 인쇄 p11~12/24 1/23 Hyrynsalmi 병원·Kontiomäki 철도역 공습 및 1/24 Vuokatti 공습 | https://www.talvisotakuhmossa.fi/wp-content/uploads/sites/4/2025/12/2.-Kajaanin-ilmapuolustusaluekeskuksen-IPAK-74-sotapaivakirja.pdf | 후대 전사본·원손실원부 미대조 |
+| SRC-1152 | III/KTR9 야포대대 원전쟁일지 P3549 | 핀 야포대대 1940 원일지1차, Matti Halonen 2015 전사 | 인쇄 p14/48 1/23 Kuhmo 공습 2사망2부상 보고 | https://www.talvisotakuhmossa.fi/wp-content/uploads/sites/4/2025/12/3.-Kenttatykistorykmentti-9-kolmannen-patteriston-sotapaivakirja.pdf | 북부집단 전령·운전병2명과 중복 가능·다른 지역 공습과 합산 금지 |
+| SRC-1153 | Korpisota Kuusamo 겨울전쟁 1940/1/23~25 | Tapio Heiskanen 2002~2024 전사, ErP16 보충부대 원일지532 인용 1차수록2차 | 1/23 Kuusamo 9기폭격1부상·1/24 Mattila 핀2전사·1/25 전장소련병시신 확인 | https://www.korpisota.fi/talvisota/talvisota.html | 원인용 군일지 개별스캔 미확보·전체 웹연표 일부 타주제 날짜오류 |
+| SRC-1154 | uboat.net Pluto 23 Jan | Guðmundur Helgason 잠수함 피해 전문DB 2차 | 1/23 U19 노 Pluto 1598GRT 22전원생존 | https://uboat.net/allies/merchants/ship/204.html | 독원KTB·노법정해난원장 대조필요 |
+| SRC-1155 | uboat.net Baltanglia 23 Jan | Guðmundur Helgason 피해DB 2차 | 1/23 U19 영 Baltanglia 1523GRT 27전원생존, Pluto 구조시도 | https://uboat.net/allies/merchants/ship/203.html | 독KTB·영 원피해기록 미대조 |
+| SRC-1156 | uboat.net Bisp 23 Jan | Guðmundur Helgason 피해DB 2차 | 노 Bisp 1000GRT 14실종·U18 very likely | https://uboat.net/allies/merchants/ship/205.html | U18 귀속 및 정확한 사고일 추정·링크등록 |
+| SRC-1157 | uboat.net Onto 23 Jan | Guðmundur Helgason 피해DB 2차 | 핀 Onto 1333GRT U56가 1월8일 부설한 기뢰에 23일 침몰 20전원생존 | https://uboat.net/allies/merchants/ship/202.html | 23일 직접어뢰발사가 아님 |
+| SRC-1158 | uboat.net Varild 24 Jan | Guðmundur Helgason 피해DB 2차 | 노 Varild 1085GRT 15실종·U23 very likely | https://uboat.net/allies/merchants/ship/197.html | 후대 추정귀속·침몰원일시 미확정 |
+| SRC-1159 | uboat.net Alsacien 24 Jan | Guðmundur Helgason 피해DB 2차 | 프 Alsacien 3819GRT U44 어뢰 4사망 | https://uboat.net/allies/merchants/ship/206.html | 전체 승선수 미확인 |
+| SRC-1160 | uboat.net Biarritz 25 Jan | Guðmundur Helgason 피해DB 2차 | 노 Biarritz 1752GRT U14 어뢰 58중37전몰21생존, 사망객11명 | https://uboat.net/allies/merchants/ship/208.html | 노 원승객명부 추가대조필요 |
+| SRC-1161 | Krigsseilerregisteret Biarritz 1940 maritime inquiry metadata | 노 국가선원등록부 당대 RA Justisdepartementet Politikontoret P O/Ob/L0296 journal1476-6457/1940 pp293–306 1차사료 서지 | 1/25 노 Biarritz 법정해난조사 번호·웹상 개별선원35명 목록 확인 | https://krigsseilerregisteret.no/forlis/748908 | 원법정심문 전문미열람; 웹35는 승무원명부이며 총승선58과 차이 |
+| SRC-1162 | uboat.net Everene 25 Jan | Guðmundur Helgason 피해DB 2차 | 라트비아 Everene 4434GRT U19 31명중1사망30생존 | https://uboat.net/allies/merchants/ship/210.html | 라트비아 해난 원기록 미대조 |
+| SRC-1163 | uboat.net Gudveig 25 Jan | Guðmundur Helgason 피해DB 2차 | 노 Gudveig 1300GRT U19 18명중10사망8생존 | https://uboat.net/allies/merchants/ship/207.html | 노 웹승무원명부16과 사고총원18 차이 |
+| SRC-1164 | Krigsseilerregisteret Gudveig maritime inquiry metadata | 노 국가선원등록부 당대 RA Justisdepartementet Politikontoret P O/Ob/L0296 journal1476-6457/1940 pp281–292 1차자료 서지 | 1/25 Gudveig 사고·당대 해난조사 위치와 웹 선원16명 | https://krigsseilerregisteret.no/forlis/748902 | 원법정 조사 전문 미열람·승선수 분모 검증필요 |
+| SRC-1165 | uboat.net Tourny 25 Jan | Guðmundur Helgason 피해DB 2차 | 프 Tourny 2769GRT U44 어뢰 17명중8사망9생존 | https://uboat.net/allies/merchants/ship/209.html | 독원KTB·스페인구조원명부 미대조 |
+| SRC-1166 | Nuremberg PS-1375 Hans Frank 25 Jan economic directive | Hans Frank 1940-01-25 원지시 1차, 미 검찰 1946 영문번역, Harvard HLSL 452272 | PS-1375 번역인쇄 pp925–928·IMT p2313, 총독부 자원군수동원·독일로 최소100만 노동력 공급 지시 | https://nuremberg.law.harvard.edu/documents/661-instructions-to-major-general?mode=text | 영문판의 농업노동 7500 000(sic) 수치오탈자, 독어원본 추가확인 필요 |
+| SRC-1167 | Canada House of Commons Debates 25 Jan 1940 dissolution | 캐나다 하원 1940 당대 의사록 1차, LiPaD 재현 | 1월25일 의회해산 당대 하원회의기록 | https://www.lipad.ca/full/permalink/1204272/ | 총선 투표일과 해산일 구별 |
+| SRC-1168 | Yle Russian-speaking Finnish troops 25 Jan 1940 | Yle Heli Jormanainen 2020-03-13 역사인터뷰 2차 | ErP4 러시아어사용 핀병사 19명 1/25 Muolaanjärvi 전투 보고 | https://yle.fi/a/3-11253797 | 소련측 소모 1개중대설은 핀 전과주장·원부대일지 미대조 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.

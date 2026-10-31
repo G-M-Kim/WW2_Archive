@@ -1539,6 +1539,41 @@ as_of: 2026-10-25
 | EVT-1797 | 1940-01-22 | 노르웨이 중립선 Sydfold(2434GRT)가21:27 독 U61 어뢰에 피격·24명중5사망19생존, 노 상선 Rona가 생존자를 구조 | 대서양전·노르웨이중립선전몰 | 발생 | 문헌대조 | [SRC-1140](chronology-sources-v1.md) |
 | EVT-1798 | 1940-01-22 | 영국 정부가 22일 이후 극장상영 뉴스영화에 정보부 사전열람을 도입했다는 후대연표 기록(공식 시행공문 미확보) | 영국·전시뉴스영화검열 | 발생 | 링크등록 | [SRC-1146](chronology-sources-v1.md) |
 | EVT-1799 | 1940-01-22 | 핀 국방군 SA-kuva 사진목록에 라도가호 Lemetti 북쪽 약4km에서 파괴된 소련군 차량종대가 1월22일 촬영으로 등록(피해병력 총수 미확인) | 겨울전쟁·모티전파괴종대사진원전 | 발생 | 문헌대조 | [SRC-1147](chronology-sources-v1.md) |
+| EVT-1800 | 1940-01-23 | Pajari 휘하 핀군이 Aittojoki 도로의 소련군을 역습했으나 대대장 전사 뒤 공세 중단·도로 소련 점유 유지 | 겨울전쟁·Aittojoki국지전 | 발생 | 문헌대조 | [SRC-1149](chronology-sources-v1.md) |
+| EVT-1801 | 1940-01-23 | Summa·Lähde 소련 포격 강화, Muolaanjärvi Suursaari·Rumakoira 소련 중대급 공격을 핀군이 격퇴했다는 핀 전사 | 겨울전쟁·카렐리야지협 | 발생 | 문헌대조 | [SRC-1149](chronology-sources-v1.md) |
+| EVT-1802 | 1940-01-23 | 핀 9사단 사령부와 JR27이 00:15 Kuhmo에 도착, 북부집단 지휘부가 9사단 지휘소 설치를 원일지에 기록 | 겨울전쟁·사단지휘소이동 | 발생 | 문헌대조 | [SRC-1150](chronology-sources-v1.md) |
+| EVT-1803 | 1940-01-23 | 핀 Ilomäki 분견대가 Siilasvuo 9사단에 배속되며 Kuhmo 공격준비 지휘체계 조정 | 겨울전쟁·작전지휘권 | 발생 | 문헌대조 | [SRC-1149](chronology-sources-v1.md) · [SRC-1150](chronology-sources-v1.md) |
+| EVT-1804 | 1940-01-23 | 북부집단이 JR65 제1대대를 제외한 병력의 9사단 배속을 지시하고 25일 오후 공격계획 제출을 요구 | 겨울전쟁·공격준비명령 | 발생 | 문헌대조 | [SRC-1150](chronology-sources-v1.md) |
+| EVT-1805 | 1940-01-23 | 소련군이 Kuhmo 중심지를 공습·북부집단 원일지 약120발의 중폭탄·Ilomäki 전령과 운전병 2사망 보고 | 겨울전쟁·Kuhmo민간군사공습 | 발생 | 문헌대조 | [SRC-1150](chronology-sources-v1.md) · [SRC-1152](chronology-sources-v1.md) |
+| EVT-1806 | 1940-01-23 | 소련 폭격기11대가 Nurmes를 공습해 사망21·부상39라는 핀 Yle 전사기록 | 겨울전쟁·Nurmes공습민간피해 | 발생 | 문헌대조 | [SRC-1149](chronology-sources-v1.md) |
+| EVT-1807 | 1940-01-23 | 소련 폭격기9대가 Hyrynsalmi를 공격해 병원 부속시설·급수장 손상, 방공센터 기록 1사망1부상 | 겨울전쟁·Hyrynsalmi병원공습 | 발생 | 문헌대조 | [SRC-1151](chronology-sources-v1.md) |
+| EVT-1808 | 1940-01-23 | Kontiomäki 철도역에 소련기8대가 폭탄40~50발 투하, 선로·창고 손상에 인명피해 0이라는 방공센터 일지 | 겨울전쟁·철도역공습 | 발생 | 문헌대조 | [SRC-1151](chronology-sources-v1.md) |
+| EVT-1809 | 1940-01-23 | 소련 항공기9대의 Kuusamo 공습으로 1명 부상·Sänkelä와 연결된 유선통신선 단절을 지역전사에 기록 | 겨울전쟁·Kuusamo공습 | 발생 | 문헌대조 | [SRC-1153](chronology-sources-v1.md) |
+| EVT-1810 | 1940-01-23 | 스웨덴 의용항공대 F19 조종사 Johan Sjökvist가 Märkäjärvi 서방에서 Gladiator 추락으로 전사했다는 Yle 기록 | 겨울전쟁·스웨덴의용항공대전몰 | 발생 | 문헌대조 | [SRC-1149](chronology-sources-v1.md) |
+| EVT-1811 | 1940-01-23 | 핀 ErP25 군일지가 자체진지 정비도중 불타는 아군 항공기 추락 목격을 기재·F19 조종사기 동일여부 유보 | 겨울전쟁·원군일지항공전관측 | 발생 | 문헌대조 | [SRC-1122](chronology-sources-v1.md) |
+| EVT-1812 | 1940-01-23 | 핀란드 고용주들이 SAK의 노조운동을 인정했다고 Yle 전사기록·당시 회원수 약8만 | 핀란드·전시노동정치 | 발생 | 문헌대조 | [SRC-1149](chronology-sources-v1.md) |
+| EVT-1813 | 1940-01-23 | 핀란드 작가 Frans Emil Sillanpää가 노벨문학상 금메달을 국방기금에 기증했다는 당일 Yle 연표 | 겨울전쟁·민간모금 | 발생 | 문헌대조 | [SRC-1149](chronology-sources-v1.md) |
+| EVT-1814 | 1940-01-23 | 왕징웨이측 비서가 일본과의 1939년12월30일 체결 완료 문서라는 22일 홍콩 보도를 23일 부인하고 중간제안서라고 주장 | 중일전쟁·왕징웨이문서폭로후속 | 발생 | 문헌대조 | [SRC-1125](chronology-sources-v1.md) |
+| EVT-1815 | 1940-01-23 | 노 중립상선 Pluto 1598GRT가 08:43 독 U19 어뢰에 침몰했지만 22명 전원생존·핀 상선구조 | 대서양전·중립상선피격구조 | 발생 | 문헌대조 | [SRC-1154](chronology-sources-v1.md) |
+| EVT-1816 | 1940-01-23 | 영 Baltanglia 1523GRT가 Pluto 구조를 돕던 중 08:55 독 U19 어뢰에 침몰·승무원27명 전원생존 | 대서양전·상선피격구조 | 발생 | 문헌대조 | [SRC-1155](chronology-sources-v1.md) |
+| EVT-1817 | 1940-01-23 | 노 Bisp 1000GRT 승무원14명 전원실종·독 U18 귀속은 very likely 후대추정으로 직접교전 확정 불가 | 대서양전·중립선실종 | 발생 | 링크등록 | [SRC-1156](chronology-sources-v1.md) |
+| EVT-1818 | 1940-01-23 | 핀 중립선 Onto 1333GRT가 22:13 U56의 1월8일 사전부설 기뢰에 침몰·20명 전원구조(그리스선14·HMS Auckland6) | 대서양전·기뢰침몰구조 | 발생 | 문헌대조 | [SRC-1157](chronology-sources-v1.md) |
+| EVT-1819 | 1940-01-24 | Kuusamo Mattila에서 핀 Pohjola 정찰대(1+9)와 소련 초계가 10:20 교전해 핀 Kyllönen·Viinikka 전사2·소련1사망은 핀측 주장 | 겨울전쟁·Mattila국경교전 | 발생 | 문헌대조 | [SRC-1153](chronology-sources-v1.md) |
+| EVT-1820 | 1940-01-24 | 핀 ErP25가 04:00 Hangasvaara 서쪽 약900m 새 숙영지로 이동해 진지정비 시작 | 겨울전쟁·ErP25부대이동 | 발생 | 문헌대조 | [SRC-1122](chronology-sources-v1.md) |
+| EVT-1821 | 1940-01-24 | 소련 항공기1대가 Vuokatti에 폭탄9발 투하했으나 피해가 없었다는 Kajaani방공센터 일지 | 겨울전쟁·Vuokatti공습 | 발생 | 문헌대조 | [SRC-1151](chronology-sources-v1.md) |
+| EVT-1822 | 1940-01-24 | 노 중립선 Varild 1085GRT 15명 전원실종·U23 귀속은 very likely 후대추정 | 대서양전·노르웨이실종선 | 발생 | 링크등록 | [SRC-1158](chronology-sources-v1.md) |
+| EVT-1823 | 1940-01-24 | 프 상선 Alsacien 3819GRT가 11:40 독 U44 어뢰에 격침·4사망, 총탑승자수 미확정 | 대서양전·프랑스상선격침 | 발생 | 문헌대조 | [SRC-1159](chronology-sources-v1.md) |
+| EVT-1824 | 1940-01-25 | Kuusamo Ruokonen 부대가 전날 Mattila 교전지를 05:00 조사해 소련병 시신1구 발견한 지역전사 | 겨울전쟁·교전사후조사 | 발생 | 문헌대조 | [SRC-1153](chronology-sources-v1.md) |
+| EVT-1825 | 1940-01-25 | 핀 ErP25가 야전 숙영지 오두막2채를 사우나로 개조한 군일지 기록 | 겨울전쟁·야전군생활 | 발생 | 문헌대조 | [SRC-1122](chronology-sources-v1.md) |
+| EVT-1826 | 1940-01-25 | 핀 ErP25 Alakulppi 정찰대가 4일간 Kelloselkä 정찰 후16:00 귀환해 소련 트럭3대 파괴 보고(실제격파날짜 미확정) | 겨울전쟁·핀정찰대전과주장 | 발생 | 문헌대조 | [SRC-1122](chronology-sources-v1.md) |
+| EVT-1827 | 1940-01-25 | 노 중립상선 Biarritz 1752GRT가 02:30 U14 어뢰에 침몰·승무원과 승객58명중37사망21생존 | 대서양전·중립여객선대량전몰 | 발생 | 문헌대조 | [SRC-1160](chronology-sources-v1.md) · [SRC-1161](chronology-sources-v1.md) |
+| EVT-1828 | 1940-01-25 | 프 상선 Tourny 2769GRT가 04:11 U44 어뢰에 침몰·17명중8사망9생존, 스페인선 구조 | 대서양전·프랑스상선인명피해 | 발생 | 문헌대조 | [SRC-1165](chronology-sources-v1.md) |
+| EVT-1829 | 1940-01-25 | 라트비아 중립선 Everene 4434GRT가 21:12 U19 어뢰에 침몰·31명중1사망30생존 | 대서양전·라트비아중립상선피해 | 발생 | 문헌대조 | [SRC-1162](chronology-sources-v1.md) |
+| EVT-1830 | 1940-01-25 | 노 중립상선 Gudveig 1300GRT가 21:30 U19 어뢰에 침몰·18중10사망8생존(노 선원등록16명과 집계차) | 대서양전·노르웨이중립선전몰 | 발생 | 문헌대조 | [SRC-1163](chronology-sources-v1.md) · [SRC-1164](chronology-sources-v1.md) |
+| EVT-1831 | 1940-01-25 | 총독 한스 프랑크가 PS-1375 비밀 지시로 폴란드 총독부 농업·삼림·산업 자원을 독일 군수경제에 동원하라고 명령 | 나치점령폴란드·경제수탈정책 | 발생 | 문헌대조 | [SRC-1166](chronology-sources-v1.md) |
+| EVT-1832 | 1940-01-25 | 프랑크의 문서 PS-1375가 독일로 최소100만 농공업 노동자 공급·수송을 지시(당일100만 수송완료는 아님) | 나치점령폴란드·강제노동동원계획 | 발생 | 문헌대조 | [SRC-1166](chronology-sources-v1.md) |
+| EVT-1833 | 1940-01-25 | 캐나다 하원 당대 의사록에 1월25일 의회해산 기록·당일 총선 실시와는 구별 | 캐나다·전시의회정치 | 발생 | 문헌대조 | [SRC-1167](chronology-sources-v1.md) |
+| EVT-1834 | 1940-01-25 | 핀 ErP4 러시아어 사용 병사19명의 Muolaanjärvi 얼음위 초계작전과 소련군 전과를 후대 Yle 인터뷰가 소개(실제적손실 미대조) | 겨울전쟁·핀러시아어부대 | 발생 | 링크등록 | [SRC-1168](chronology-sources-v1.md) |
 | EVT-0070 | 1940-02-16 | 알트마르크 사건(노르웨이 해역 영국군 승선) | 해군·중립 | 발생 | 미등록 | — |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
