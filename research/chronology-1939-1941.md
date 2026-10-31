@@ -1263,6 +1263,47 @@ as_of: 2026-10-25
 | EVT-1521 | 1940-01-04 | 스웨덴 정부가 연합국의 핀란드 지원 제안 가운데 무기·병력 지원방안을 거절했다고 Yle 연표 기록 | 겨울전쟁·국제외교 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) |
 | EVT-1522 | 1940-01-04 | 익명의 덴마크 기업인이 핀란드에 트럭 50대 기증 의사를 표명(실제 기증·인도 기록 미확인) | 겨울전쟁·민간원조의향 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) |
 | EVT-1523 | 1940-01-04 | 스웨덴이 핀란드에 40mm 자동대공포16문과25mm 자동대공포1문을 인도한 것으로 핀 방공 전문지에 인용된 Boden Tygstation 기록표에 기재 | 겨울전쟁·중립국무기지원 | 발생 | 문헌대조 | [SRC-1010](chronology-sources-v1.md) |
+| EVT-1524 | 1940-01-05 | 핀 제9사단이08:30 라테도로 소련 제44사단에 대한 주력공격 개시·종대의 저항은 여전히 지속 | 겨울전쟁·Raate주력공세 | 발생 | 문헌대조 | [SRC-1011](chronology-sources-v1.md) |
+| EVT-1525 | 1940-01-05 | 핀란드군이 Raate도로의 Haukila 방면을 끊어 소련 제44사단 보급·퇴로를 차단 | 겨울전쟁·Haukila차단전 | 발생 | 문헌대조 | [SRC-1011](chronology-sources-v1.md) |
+| EVT-1526 | 1940-01-05 | 핀란드군이 Likoharju에서도 소련군 도로를 절단해 제44사단 종대를 작은 포위집단으로 분할 | 겨울전쟁·Likoharju차단전 | 발생 | 문헌대조 | [SRC-1011](chronology-sources-v1.md) |
+| EVT-1527 | 1940-01-05 | Raate 도로의 야간기온이 영하40도까지 떨어져 노숙하는 핀군·소련군 전투수행·보급에 극심한 제약 발생 | 겨울전쟁·극한기상군수 | 발생 | 문헌대조 | [SRC-1011](chronology-sources-v1.md) |
+| EVT-1528 | 1940-01-05 | 소련 공군기 약40대가 핀 최고사령부 소재 Mikkeli 시를 폭격·29명사망36명부상(Yle 군전사 집계) | 겨울전쟁·Mikkeli민간공습 | 발생 | 문헌대조 | [SRC-1011](chronology-sources-v1.md) |
+| EVT-1529 | 1940-01-05 | 핀 Mikkeli 공습 당시 한파로 전화선이 단절되고 대공화기가 결빙해 방공대응에 지장 | 겨울전쟁·도시방공기반시설 | 발생 | 문헌대조 | [SRC-1011](chronology-sources-v1.md) |
+| EVT-1530 | 1940-01-05 | 핀 카렐리야지협 Summa 방어선에서 5사단·6사단 부대교대 종료(1/1 교대개시와 구분) | 겨울전쟁·방어선교대 | 발생 | 문헌대조 | [SRC-1011](chronology-sources-v1.md) |
+| EVT-1531 | 1940-01-05 | 핀 방어군이 Summa Suokanta Työppölänjoki Hatjalahti 방면 소련 보병공격을 격퇴했다고 Yle 기록 | 겨울전쟁·지협다발교전 | 발생 | 문헌대조 | [SRC-1011](chronology-sources-v1.md) |
+| EVT-1532 | 1940-01-05 | 핀 대통령 Kyösti Kallio가 전사자·부상장병 유족 중 빈곤가족 지원재단 기본금으로 10만핀마르카 기부 | 겨울전쟁·전몰가족복지 | 발생 | 문헌대조 | [SRC-1011](chronology-sources-v1.md) |
+| EVT-1533 | 1940-01-05 | 소련 스톡홀름 대사 Alexandra Kollontai가 스웨덴 당국에 핀란드 지원자원병 모집·신문보도·지원활동을 항의 | 겨울전쟁·소련스웨덴외교 | 발생 | 문헌대조 | [SRC-1011](chronology-sources-v1.md) |
+| EVT-1534 | 1940-01-05 | 소련 정부가 노르웨이에 핀란드 지원행위를 문제삼는 유사한 항의 외교문서 전달 | 겨울전쟁·소련노르웨이외교 | 발생 | 문헌대조 | [SRC-1011](chronology-sources-v1.md) |
+| EVT-1535 | 1940-01-05 | 소련잠수함의 공격으로 중립 스웨덴 상선 Fenris(484GRT)가 Umeå 앞에서 함포피격 후 화재·좌초·침몰 | 겨울전쟁·발트해중립상선 | 발생 | 문헌대조 | [SRC-1015](chronology-sources-v1.md) · [SRC-1016](chronology-sources-v1.md) · [SRC-1017](chronology-sources-v1.md) |
+| EVT-1536 | 1940-01-05 | 스웨덴 Fenris 승선자 남성12명·여성2명이 구명정으로 탈출하고 등선·국가쇄빙선 Atle의 도움으로 구조 | 겨울전쟁·민간인해상구조 | 발생 | 문헌대조 | [SRC-1015](chronology-sources-v1.md) |
+| EVT-1537 | 1940-01-05 | 영 해군 구잠어선 HMS Kingston Cornelian(FY121)이 지브롤터 해협에서 프랑스 상선 Chella와 충돌·침몰 | 해상사고·연합국상선충돌 | 발생 | 문헌대조 | [SRC-1018](chronology-sources-v1.md) |
+| EVT-1538 | 1940-01-05 | 영 HMT Kingston Cornelian 승선 인원17명 사망(Arthur George Dennant 18세 포함)으로 영 지방전몰자료 기록 | 해상사고·원명부피해 | 발생 | 문헌대조 | [SRC-1018](chronology-sources-v1.md) · [SRC-1019](chronology-sources-v1.md) |
+| EVT-1539 | 1940-01-05 | 핀 ErP25 Ahonius 대대가06:30 휴식·후퇴명령을 받아08:30 전선에서 이탈, 1/3~5 전투피해 전사14·부상30 보고 | 겨울전쟁·Salla대대교대 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
+| EVT-1540 | 1940-01-05 | 핀 ErP17 1중대 소속 Hartikainen·Säynäjäkangas가 Valtonen 동쪽에서 부상하고 Kettunen은 아군 총기사고로 손 부상 | 겨울전쟁·ErP17실명사상 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1541 | 1940-01-05 | 핀 ErP17 3중대가 포격위험·협소한 Joutsijärvi 숙영지에서 Mäntyvaara 경유 Outojärvi 동쪽으로 스키행군해23시 도착 | 겨울전쟁·Salla후방이동 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1542 | 1940-01-06 | 핀 조종사 Jorma Sarvanto가 Fokker 전투기로 소련 DB-3 폭격기 6대를 4~5분만에 격추한 것으로 핀 군사기록에 보고 | 겨울전쟁·공중전개인전과 | 발생 | 문헌대조 | [SRC-1012](chronology-sources-v1.md) · [SRC-1025](chronology-sources-v1.md) · [SRC-1026](chronology-sources-v1.md) |
+| EVT-1543 | 1940-01-06 | 사르반토의 요격중 기총탄 약2000발 소진·본인 Fokker 피탄구멍23개라는 핀 Yle당시기록 소개 | 겨울전쟁·전투기피격기록 | 발생 | 문헌대조 | [SRC-1012](chronology-sources-v1.md) |
+| EVT-1544 | 1940-01-06 | 핀 공군 다른 조종사 Per-Erik Sovelius가 사르반토와 같은 소련 폭격기 편대의 나머지 기체를 격추했다고 전사기록 | 겨울전쟁·공중전부대 | 발생 | 문헌대조 | [SRC-1025](chronology-sources-v1.md) · [SRC-1026](chronology-sources-v1.md) |
+| EVT-1545 | 1940-01-06 | 핀 제4군단 Woldemar Hägglund가 라도가호 북쪽에서 소련군 보급로 차단을 목표로 공세를 개시 | 겨울전쟁·Ladoga대규모공세 | 발생 | 문헌대조 | [SRC-1012](chronology-sources-v1.md) |
+| EVT-1546 | 1940-01-06 | 핀 최고사령부가 Hägglund군단 작전을 감시하기 위해 참모 Valo Nihtilä 중령을 전선으로 파견 | 겨울전쟁·지휘감독 | 발생 | 문헌대조 | [SRC-1012](chronology-sources-v1.md) |
+| EVT-1547 | 1940-01-06 | 라테도로 소련 제44사단 지휘부가 장비를 갖고 동쪽으로 포위돌파를 시도했으나 밤사이 최후시도가 좌절 | 겨울전쟁·소련44사단탈출시도 | 발생 | 문헌대조 | [SRC-1012](chronology-sources-v1.md) · [SRC-1027](chronology-sources-v1.md) |
+| EVT-1548 | 1940-01-06 | 소련 제44사단 지휘부가 야간 동쪽 철수를 결정, 일부 장비를 버리고 탈출을 시작한 것으로 Yle와 전사들 기록 | 겨울전쟁·Raate후퇴결정 | 발생 | 문헌대조 | [SRC-1012](chronology-sources-v1.md) · [SRC-1027](chronology-sources-v1.md) |
+| EVT-1549 | 1940-01-06 | 영 상선 City of Marseilles(8317t)가 Tay강 앞 U13의 1939/12/12 부설기뢰에 손상·승무164명 중 1사망 | 북해기뢰전·영민간상선 | 발생 | 문헌대조 | [SRC-1020](chronology-sources-v1.md) |
+| EVT-1550 | 1940-01-06 | 영 상선 City of Marseilles 피해에서 163명이 생존했으며 선박은 침몰되지 않고 이후 운항을 계속 | 북해기뢰전·해상생존 | 발생 | 문헌대조 | [SRC-1020](chronology-sources-v1.md) |
+| EVT-1551 | 1940-01-06 | 핀 ErP17 1중대가10:00 Outolampi 일대로 숙영지를 이동·3~5일 전투직후 병력정비 | 겨울전쟁·Salla부대원일지 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1552 | 1940-01-06 | 핀 ErP25가 전날 공격 종료 이후 휴식·순찰만 수행했다고 당대 대대일지 기록 | 겨울전쟁·ErP25원일지 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
+| EVT-1553 | 1940-01-06 | 벨기에에서 러시아 백계망명군 ROVS 수장 Aleksei Arkhangelsky가 핀란드 Schulgin에게 소련포로 반공군부대 모집을 지시한 날짜로 후손이 핀 Valpo 비밀원서한 발견 주장 | 겨울전쟁·포로동원계획 | 발생 | 링크등록 | [SRC-1028](chronology-sources-v1.md) |
+| EVT-1554 | 1940-01-07 | 핀 라테도로의 주요 전투가 오전 중 수그러들었지만 굶주리고 얼어붙은 소련군 잔여인원의 탈출·투항은 며칠 계속 | 겨울전쟁·Raate종결단계 | 발생 | 문헌대조 | [SRC-1013](chronology-sources-v1.md) |
+| EVT-1555 | 1940-01-07 | 핀 제9사단이 Raate도로에 버려진 소련군 전차·포·트럭·말 등 대규모 노획장비를 수집시작(누계 전차43 포100 말1100 Yle평가) | 겨울전쟁·전투전리품집계 | 발생 | 문헌대조 | [SRC-1013](chronology-sources-v1.md) |
+| EVT-1556 | 1940-01-07 | 라테도로 소련군 사망을 핀 추산 7000~9000명과 소련 Stavka의 제44사단 전사1001명·실종2243명으로 구분한 사료비교(7일 당일 집계아님) | 겨울전쟁·피해통계상충 | 발생 | 문헌대조 | [SRC-1013](chronology-sources-v1.md) · [SRC-1014](chronology-sources-v1.md) |
+| EVT-1557 | 1940-01-07 | 소련 Semyon Timoshenko가 핀란드 상대 북서전선 사령관으로 임명됐다고 Yle 1/7 군전사 기록 | 겨울전쟁·소련군지휘재편 | 발생 | 문헌대조 | [SRC-1013](chronology-sources-v1.md) |
+| EVT-1558 | 1940-01-07 | 소련군이 핀 전선의 직접 정면돌파방식 대신 대규모 포격준비·증원배치·재훈련을 강화할 방침 수립 | 겨울전쟁·소련작전변화 | 발생 | 문헌대조 | [SRC-1013](chronology-sources-v1.md) |
+| EVT-1559 | 1940-01-07 | 영 잠수함 HMS Undine(N48)이 Heligoland 서남쪽에서 독 M1201·M1204·M1207 폭뢰공격으로 조종면 손상·승무원 탈출 후 자침 | 북해해전·영잠수함침몰 | 발생 | 문헌대조 | [SRC-1021](chronology-sources-v1.md) · [SRC-1022](chronology-sources-v1.md) |
+| EVT-1560 | 1940-01-07 | 영 HMS Undine 승무원들이 독 해군 기뢰제거정에 구조된 뒤 포로가 됨(같은날 Seahorse의 전원실종과 구분) | 북해해전·해군포로 | 발생 | 문헌대조 | [SRC-1021](chronology-sources-v1.md) · [SRC-1022](chronology-sources-v1.md) |
+| EVT-1561 | 1940-01-07 | 영 잠수함 HMS Seahorse(98S)가 1월7일 실종·승무원39명 전원 사망으로 기념명부 기록(정확 침몰일·원인 미확정) | 북해해전·실종잠수함 | 발생 | 링크등록 | [SRC-1023](chronology-sources-v1.md) · [SRC-1024](chronology-sources-v1.md) |
+| EVT-1562 | 1940-01-07 | 핀 ErP17 1중대 정찰대가10:50 Jörkönlampi 일대 소련 보급차량 습격으로 차량1대·병력5명 무력화했다고 자군일지에 보고 | 겨울전쟁·Salla정찰원전사 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1563 | 1940-01-07 | 핀 ErP17 1중대 Remes 소대가 고지북면 방어에 배치되고 15:00 대대장교가 교대준비를 위한 진지실사 실시 | 겨울전쟁·Salla부대교대 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
+| EVT-1564 | 1940-01-07 | 핀 ErP25 대대지휘관들이 Päävaara·Huhtavaara의 ErP17 수비진지를 차기 교대준비를 위해 실사 | 겨울전쟁·Salla예비대교대 | 발생 | 문헌대조 | [SRC-1008](chronology-sources-v1.md) |
 | EVT-0070 | 1940-02-16 | 알트마르크 사건(노르웨이 해역 영국군 승선) | 해군·중립 | 발생 | 미등록 | — |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
