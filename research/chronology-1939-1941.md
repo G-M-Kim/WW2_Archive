@@ -1247,7 +1247,7 @@ as_of: 2026-10-25
 | EVT-1505 | 1940-01-03 | 노르웨이의 핀란드 지원 배낭 기부운동이 의복·식품 든 배낭 약2만5000개를 모았다고 Yle 누적현황 기록 | 겨울전쟁·국제민간원조 | 발생 | 문헌대조 | [SRC-997](chronology-sources-v1.md) |
 | EVT-1506 | 1940-01-03 | 독 잠수함 U58이09:11 Kinnaird Head 앞에서 HN6 대열이탈 스웨덴 철광석상선 Svartön(2475GRT)을 어뢰격침·31명중20명 사망 | 대서양전·중립상선 | 발생 | 문헌대조 | [SRC-1000](chronology-sources-v1.md) · [SRC-1001](chronology-sources-v1.md) |
 | EVT-1507 | 1940-01-03 | 영 해군 HMS Oak(T54)이 U58에 격침된 스웨덴 Svartön 생존자 11명을 구조 | 해상구조·영보조함 | 발생 | 문헌대조 | [SRC-1000](chronology-sources-v1.md) |
-| EVT-1508 | 1940-01-03 | 독 상선조사에서 Svartön 전 함장 이름 Bror Emil Larsson 대 G Swerin이라는 서로 다른 2차기록 존재·선원원장 확보 필요 | 해상전·상선원기록불일치 | 발생 | 문헌대조 | [SRC-1000](chronology-sources-v1.md) · [SRC-1001](chronology-sources-v1.md) |
+| EVT-1508 | 1940-01-03 | 핀 ErP17 1중대가08시 Outojärvi에 도착하고12:30 Outovaara 공격을 위한 진형을 갖춰 대대 지휘소 경계를 지원 | 겨울전쟁·ErP17 1중대 원일지 | 발생 | 문헌대조 | [SRC-1007](chronology-sources-v1.md) |
 | EVT-1509 | 1940-01-04 | 핀 Siilasvuo가 제9사단에 Raate도로 소련 제44사단 상대 최종공격명령 발령, 계획 H시각 1/5 07시 | 겨울전쟁·Raate작전명령 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) · [SRC-999](chronology-sources-v1.md) |
 | EVT-1510 | 1940-01-04 | 핀 Raate 공격부대가 도로 양측의 배치 및 공세준비를 마쳤다고 Yle 군전사 기록(본격 주력공격 1/5) | 겨울전쟁·Raate공세준비 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) · [SRC-999](chronology-sources-v1.md) |
 | EVT-1511 | 1940-01-04 | 핀 Salla Joutsijärvi에서 Roininen 분견대의 반격작전이 중단되었다고 Yle 보고 | 겨울전쟁·Joutsijärvi작전 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) |
@@ -1262,7 +1262,7 @@ as_of: 2026-10-25
 | EVT-1520 | 1940-01-04 | 핀란드 당국이 민간인의 소련군 공습피해 장면 및 국방·방공시설 촬영을 금지 | 겨울전쟁·전시보안·사진통제 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) |
 | EVT-1521 | 1940-01-04 | 스웨덴 정부가 연합국의 핀란드 지원 제안 가운데 무기·병력 지원방안을 거절했다고 Yle 연표 기록 | 겨울전쟁·국제외교 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) |
 | EVT-1522 | 1940-01-04 | 익명의 덴마크 기업인이 핀란드에 트럭 50대 기증 의사를 표명(실제 기증·인도 기록 미확인) | 겨울전쟁·민간원조의향 | 발생 | 문헌대조 | [SRC-998](chronology-sources-v1.md) |
-| EVT-1523 | 1940-01-04 | 핀란드 전선 순회 위문단 Maan Turva의 Ikäväntorjuntapatteri 공연에 배우 Aku Korhonen·지휘자 George de Godzinsky 등이 참여한다고 Yle 소개(개별공연일 미확인) | 겨울전쟁·예술가위문활동 | 발생 | 링크등록 | [SRC-998](chronology-sources-v1.md) |
+| EVT-1523 | 1940-01-04 | 스웨덴이 핀란드에 40mm 자동대공포16문과25mm 자동대공포1문을 인도한 것으로 핀 방공 전문지에 인용된 Boden Tygstation 기록표에 기재 | 겨울전쟁·중립국무기지원 | 발생 | 문헌대조 | [SRC-1010](chronology-sources-v1.md) |
 | EVT-0070 | 1940-02-16 | 알트마르크 사건(노르웨이 해역 영국군 승선) | 해군·중립 | 발생 | 미등록 | — |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
