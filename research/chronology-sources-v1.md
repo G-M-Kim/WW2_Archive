@@ -1079,6 +1079,18 @@ as_of: 2026-10-25
 | SRC-952 | Yle 23Dec Finnish auxiliary events | 핀 공영방송 23일 군관련 공보2차 | Kollaa 반격 당일중단·핀 해군 Ilmarinen/Väinämöinen Kihdin selkä 수송항로 보호·Viipuri 장거리포 피해 | https://yle.fi/a/3-6046715 | 각 작전 정확부대원일지는 추가 대조; 2026-10-31 1차사실대조 |
 | SRC-953 | Swedish Mars Carl Henckel rescue Norwegian Hop | 북해 상선인명통계 전문2차 | 21일 U21 2척 희생, Mars 생존1+CarlHenckel 생존7 22일 Hop 구조해 Kristiansand 이송 | https://uboat.net/allies/merchants/156.html | 실제구조22일·21일 즉시구조 오기금지; 2026-10-31 1차사실대조 |
 
+| SRC-954 | Yle 1939/12/24 Christmas at Winter War fronts | 핀 공영방송 2009 연표2차 | 24일 Aittojoki·Kuhmo Ilomäki·Suomussalmi 반격·핀 발트해 기뢰결정·미국핀계 지원자 Tornio·부상자 병원방문 | https://yle.fi/a/3-6050871 | 당대 군기록에 기초한 2009년 재구성; 24일 핀 기뢰는 *결정*이지 해당날짜 실제부설 증거 아님; 2026-10-31 확인 |
+| SRC-955 | Yle 1939/12/25 Soviet Suvanto attacks and air raids | 핀 공영방송 2009 국방군 기반 연표2차 | 25일 Patoniemi·Volossula·Kelja 도하·08시 핀 역공·11지역 공습 민간인3명·Käkisalmi 50기 공격 | https://yle.fi/a/3-6050930 | Kelja 교두보 25일 제거 안됨; 27일 후속 결말과 구별; 공습전몰자 원명부 미확인 |
+| SRC-956 | uboat.net Stanholme 25 Dec 1939 merchant record | 상선해난 전문전사2차 | 12/25 08:45 U33 11/9 부설기뢰·2473t 영 Stanholme 13사망12생존·노 상선 Liv 구조 | https://www.uboat.net/allies/merchants/ship/161.html | 항해시각 CET 기준 가능·승무원 원명부와 노 구조선 일지 후속대조 |
+| SRC-957 | uboat.net HMS Loch Doon FY127 warship record | 전시 영해군 함정 전사2차 | 12/25 Blyth 동쪽 독 U22 12/20 기뢰접촉침몰, 구잠어선 FY127 534톤 16명 사망 | https://uboat.net/allies/warships/6403.html | 영 Admiralty 1939 징발원부·전사자 CWGC 추가 검증; 소해·구잠 분류 구분 |
+| SRC-958 | Russian historical document library Pravda 25 Dec telegram replies | 당대 Pravda 원신문의 사료서지·2011문서집 수록 | 1939/12/25자 프라우다 스탈린→히틀러 및 리벤트로프 답신 게재 확인 | https://docs.historyrussia.org/ru/nodes/149373-otvetnye-telegrammy-stalina-gitleru-i-ribbentropu-25-dekabrya-1939-g | 게재일 25일은 확정, 개별답전 작성·발신일은 원전문 원발신표시로 별도검증; 2026-10-31 확인 |
+| SRC-959 | 8./JR25 Kuhmo company war diary transcription by Matti Halonen 2014 | 당대 원전사일지 기반 후대전사1차수록2차 | 12/24 Kankivaara·Hotakka·보급,25일 Leppiniemi 초계·성탄식,26일16시 Rasti 초계·참호·철조망·통신선 보강 | https://www.talvisotakuhmossa.fi/wp-content/uploads/sites/4/2025/12/Jalkavakirykmentti-25-kahdeksannen-komppanian-sotapaivakirja-Kuhmon-rintamalta-13.pdf | PDF 본문 인쇄4~5/13(화면상 5~6쪽); 원일지 후대편집·오탈자·단위일지라는 범위 주의; 2026-10-31 검색본문+페이지화면 확인 |
+| SRC-960 | Codenames.info Battle of Kelja operational account | 후대 전투개관2차 | 25일 3지역 소련 도하,26일 Kelja 교두보 보급시도 및 핀 반격 실패,27일 주된 반격으로 소련군 퇴각 | https://codenames.info/operation/battle-of-kelja/ | 2차 종합으로 전과·피해수치 원명부 미확정; 26일 공방 상세는 독립 군전쟁일지 재대조 필요 |
+| SRC-961 | Yle 2020 Finnish Russian-speaking soldiers and Sinkevitsch | 핀 공영방송 2020 인터뷰·국립전몰자자료 인용2차 | Vasili Vasiljevitsh Sinkevitsch 1916헬싱키생·12/23 Hatjalahti 부상·12/26 군병원 사망 | https://yle.fi/a/3-11253797 | Yle는 Kansallisarkisto Sotasurmat 정보 인용; 직접 원전신원명부 재검증 대상 |
+| SRC-962 | Yle SA-kuva archive Winter War day-by-day | 핀 공영방송 2014 국방군 사진 아카이브 메타2차 | SA-kuva 'Saharan kauhun' 중대 목사 Antti J. Rantamaa 12/24 현장 종교예배 캡션 | https://yle.fi/aihe/a/20-69537 | 사진은 날짜·현장활동 증거이며 병력피해·전장상황 증거가 아님; 이미지는 아카이브에 복제하지 않음 |
+| SRC-963 | Via Karelia Battles in Suomussalmi 1939–40 | 핀 지역군사사교육기관 작전전사2차 | 12/11 Siilasvuo 반격·12/24 소련포위지속, 12/28 마을재점령 및 1/4~7 Raate 작전일자 구분 | https://viakarelia.fi/en/themes/military-history/winter-war-30-november-1939-13-march-1940/battles-in-suomussalmi-30-november-1939-7-january-1940/ | 주요 승리와 Raate 제44사단 파괴는 24일 아님; 28일/1940년1월 사건으로 보존 |
+| SRC-964 | uboat.net December 1939 losses by date | 잠수함전 선박피격 연대기DB2차 | 12/24·26 목록상 독잠수함 기뢰·어뢰 상선피격 신규 없음, 12/25 Loch Doon·Stanholme만 기록 | https://uboat.net/allies/merchants/losses_year.html?qdate=1939-12 | 이 DB에 없다는 것이 모든 항만해난·공습·기뢰사고 부재의 증거는 아님; 인명수는 선박 개별기록 대조 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
