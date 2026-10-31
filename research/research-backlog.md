@@ -547,7 +547,21 @@ updated: 2026-10-26
 | RQ-0492 | P0 | open | HMS Seahorse 실제 침몰일·원인(독 폭뢰설 vs 기뢰) | 영 해군 추모기록1/7 사망39, 최근 독군 기뢰소해전대 일지조사 종래 폭뢰설 부정, 1939/12/29~30일 가능성 | 1939-12-29~1940-01-07/SRC-1023,1024 | 영 잠수함 순찰명령·독 M5 폭뢰공격 일지·해상 기뢰해도·난파선 발견기록 |
 | RQ-0493 | P1 | open | HMS Undine 1/7 승조원 구조·포로명부 및 독 M1201 사고 | 영 RN 전사 1/7 자침·독소해정 구조후 포로, 실제 승선 수 30 vs31 기재혼재 | 1940-01-07/SRC-1021,1022 | 독 M1201/M1204/M1207 KTB·영 해군 포로인적기록·Red Cross POW |
 | RQ-0494 | P1 | open | ErP25 3~5 Jan Salla 14전사30부상과 ErP17 1/5 아군실수 Kettunen 기록 대조 | 핀 Yle ErP25 3일기간 전사14부상30, ErP17 1/5 개인3부상 중 자기무기 오발1, 원명부·후유증 확인 | 1940-01-03~05/SRC-1007,1008 | 핀 ErP25 병력명부·ErP17 Kettunen 병상기록·Sotasurmat |
-| RQ-0495 | P0 | open | 다음 1940/1/8~10 후속 Raate 정리·외교·영잠수함과 1/11 전후 | 1/8 Tanner 비공식 평화탐색·Raate 잔당/포로·1/9 HMS Starfish·독Uboat 상선피해·1/11 Vinogradov 사형원문 | 1940-01-08~11/SRC-1013,1023,1030 | FRUS·핀 외무부원전·유럽 해군 ADM53·소련44사단 군법회의 원기록 |
+| RQ-0495 | P0 | done | 다음 1940/1/8~10 후속 Raate 정리·외교·영잠수함과 1/11 전후 | 1/8 Tanner 비공식 평화탐색·Raate 잔당/포로·1/9 HMS Starfish·독Uboat 상선피해·1/11 Vinogradov 사형원문 | 1940-01-08~11/SRC-1013,1023,1030 | FRUS·핀 외무부원전·유럽 해군 ADM53·소련44사단 군법회의 원기록  · [1/8~10 사료감사](source-audit-1940-jan08-10-batch1.md) |
+
+| RQ-0496 | P0 | open | Wuolijoki 1/10 Stockholm 출발·소련 Kollontai 첫 대면 1/10 vs1/14 | Paasikivi전기 1/8 의뢰·1/10 출발 명시, 학술전기 도착후 만남, 핀 후대연구 14일 첫정식회담 | 1940-01-08~14/SRC-1034,1035 | 핀 Tanner 외무일지·Wuolijoki 편지·스웨덴 Kollontai/Erik Boheman 기록·소련접견일지 |
+| RQ-0497 | P1 | open | FRUS 1/8 Tanner 독 Ribbentrop/Göring 정책견해와 독상선 핀 운항재개 실체 | 미 Schoenfeld 1/8 전보는 Tanner 전언·외무장관 추정, 실제 독 정부 내부 정식명령 여부 미확인 | 1940-01-08/SRC-1033 | 독 Auswärtiges Amt·독상선 입항원부·Schoenfeld 다음 전문 |
+| RQ-0498 | P1 | open | Kojonen 1/8까지 교량13·차량61·소련군120사망 누계 교차 | Yle 핀 전사 자체전과와 소련 복구·인명명부 비교 필요, 1/8 하루 손실 아님 | 1939-12-30~1940-01-08/SRC-1031 | 핀 Er.K Kojonen 원전사·소련 도로/철도수리기록·소련 부대병력원장 |
+| RQ-0499 | P1 | open | Osasto Sisu 1/8 창설8명·종전153명 국적과 파견경로 | Yle 외인자원병 가운데 비북유럽인 편제·실전참전없음, 소속국·입소전원명부 미확인 | 1940-01-08~03-13/SRC-1031 | 핀 군국외 자원대 등록원부·Lapua 창설지휘기록 |
+| RQ-0500 | P1 | open | 1/9 Kallio 첫한달 공습 약100지역·4000발·239명 민간사망 원명부 | 대통령 외신회견은 1월9일 발표지만 참조기간은 개전 첫 한달, 12/31·1/1 개별도시와 계산차 | 1939-11-30~1940-01-09/SRC-1032 | 핀 방공당국 민간인희생자 대장·대통령실 기자회견 원문·Red Cross |
+| RQ-0501 | P1 | open | 1/9 캐나다5만달러·Hoover 다섯째10만달러·아르헨티나 곡물5만톤 실제 지급 | Yle는 기부·원조발표만 소개, 미달러/CAD·발송대 수취·실제 물류시점 불명 | 1940-01-09/SRC-1032 | 캐나다RC 연차재정원부·Hoover Finnish Relief Fund·아르헨티나 외교무역장부·국제연맹 |
+| RQ-0502 | P0 | open | Manx Minnehallen 본문1/9 vs 메타 Forlist19.01와 기뢰/어뢰 혼합 | 노 전몰기념관 본문1/9 U19 어뢰·메타19 Jan 오기, Krigsseilerregisteret 재인용 일부 기뢰폭침 언급; 독 U19 KTB 02:21 | 1940-01-09/SRC-1040~1042 | 노 Manx 해난원선원진술 PDF 직접시각확인·KTB Torpedo salvo 원문·해원기념관 교정문의 |
+| RQ-0503 | P1 | open | Manx 선원13명 사망의 직접폭발·저체온4명 분류 및 6생존 구조선 | 노 19명중13사망6생존, 역전된 구명정 위 8명 중4 저체온사망, 생존4+뗏목2명 구조 | 1940-01-09/SRC-1040,1041 | 노 해난조사원문·노 구조선항해일지·13명 인명/묘지기록 |
+| RQ-0504 | P0 | open | Dunbar Castle 승조원150 승객48 사망9 Calvi 73명 구조명부 불일치 | Kent HER에 승무150 승객48 CrewLost9 PassengerLost0과 HMS Calvi 구명정 두척 구조73명 혼재, 전체 생존자 아님 | 1940-01-09/SRC-1043 | 영 Admiralty Calvi 로그·Dunbar Castle 선원/승객 리스트·타구조선 인원 |
+| RQ-0505 | P1 | open | HMS Starfish 1/9 전체 승무원·어뢰발사실패 원인과 M7 폭뢰수/포로명부 | 영 Chatham RN협회·함장사후보고 M7 공격과 구조, 독 Kriegsmarine 최초탐지·비밀전술유지 | 1940-01-09/SRC-1036~1039 | 영 Turner 전후진술 원본·독 M7 KTB·적십자 POW 등록 |
+| RQ-0506 | P1 | open | 1940/1/9 독 해군항공 X Fliegerkorps Cowrie/Gowrie Ivan Kondrup Feddy 해난 | 독해군참모당대일지 주장 독항공기가 1/9 상선10척+ 공격·Cowrie/Gowrie 등3척 격침; 영·덴마크 원해난일지 미대조 | 1940-01-09~10/SRC-1039 | 영 Admiralty Naval-History East Coast 수난일지·Lloyd Register·덴마크 해사원명부 |
+| RQ-0507 | P1 | open | Raate 1/7 정규종결 vs 1/10 잔여포위집단 마무리 날짜 | 핀 Yle 1/7 조직전투 잦아듦·현지연구자 1/10 motti종결, 전투와 소탕을 분리해 입증 | 1940-01-07~10/SRC-1013,1048 | 핀 JR64/9사단 8~10일 전사일지·소련 제44사단 잔여부대 귀환원장 |
+| RQ-0508 | P0 | open | 다음 1940/1/11~13 사단장 처형과 중립선 해난·국제외교 | 1/11 소련44사단 Vinogradov 군재판/총살 날짜, 노 Fredville·영 El Oso 기뢰·덴 Danmark 어뢰·스웨덴 Sylvia | 1940-01-11~13/SRC-1030 | 러 군사재판 원문/소련부대기록·uboat.net·영 ADM·FRUS 및 전시중국기록 |
 
 ## 조사기록·원전으로의 역참조
 
