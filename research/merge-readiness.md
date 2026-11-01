@@ -320,3 +320,8 @@ pr: 1
 - 사건밀도 유지로 4일 배치: 신규 66 EVT·10 SRC·18 RQ, 누적 2351 EVT·1349 SRC·746 RQ. 문헌대조 2026·링크등록 189·미등록 136, 기본미대조 325.
 - [2/20~23 감사](source-audit-1940-feb20-23-batch1.md): Näykkijärvi 74명 사상 및 포병3~4발 부족, 21일 Pajala 소련기 폭격(사망0·폭탄수차), 22일 Koivisto 섬철수, 23일 소련평화조건·스웨덴통과거부·TASS Pajala부인. Tara·Loch Maddy 2일 연속 손상/전손·British Endeavour, Steinstad 생존자 20일 상륙. ErP17/25 부대일지 세부 대조.
 - Draft 유지·병합 비추천. main/docs/Pages 승인전 불변. 다음 1940-02-24~27.
+
+## 2026-11-01 v6.5 / 1940-02-24~27
+- 신규 64 EVT / 15 SRC / 18 RQ, 누적 2415 EVT /1364 SRC /764 RQ. 문헌대조 2087·링크등록 192·미등록 136, 기본미대조 328.
+- [2/24~27 사료감사](source-audit-1940-feb24-27-batch1.md): 24일 Salla 군수기습·북유럽 3국 외교·Royal Archer 기뢰·Santos 31명 희생, 25일 Reuhkavaara 소련전사174/약200 상충과 영해군 U63 격침·Santos 12명구조, 26일 Honkaniemi 전차13대중6대 출격·5대격파 및 핀 자군포격 피해·Kouvola 공습, 27일 Heinrichs 지협후방선 19시철수·Tanner 외교·스웨덴 의용군 지휘권27대28일 이견. ErP17/25 당대 일지 대조.
+- 병합 비추천·Draft 유지·main/docs/Pages 승인전 불변. 다음 1940년 2월28~29일 고밀도구간.
