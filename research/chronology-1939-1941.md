@@ -2026,6 +2026,72 @@ as_of: 2026-10-25
 | EVT-2283 | 1940-02-19 | 영 Tiberton 5225GRT 독 U23에 04:05 격침·승조원34명 전원사망 | 대서양전·영국상선전몰 | 발생 | 문헌대조 | [SRC-1334](chronology-sources-v1.md) |
 | EVT-2284 | 1940-02-19 | 영 Pyrrhus 17일 U37 피격 뒤 약이틀 표류하여 19일경 최종침몰 추정 | 대서양전·상선후속손실 | 발생 | 링크등록 | [SRC-1319](chronology-sources-v1.md) |
 | EVT-2285 | 1940-02-19 | 러 해군항공사 Lappeenranta·Turku·Taipale 공습·기뢰부설 기록 | 겨울전쟁·해군항공작전 | 발생 | 문헌대조 | [SRC-1337](chronology-sources-v1.md) |
+| EVT-2286 | 1940-02-20 | Näykkijärvi 동쪽 Mustalampi 핀군 중간방어선에 소련군 기갑진입·오후까지 약1km 돌파 | 겨울전쟁·전선돌파 | 발생 | 문헌대조 | [SRC-1340](chronology-sources-v1.md) · [SRC-1341](chronology-sources-v1.md) |
+| EVT-2287 | 1940-02-20 | 소련 전차가 병력운반썰매를 견인하며 Mustalampi 방어선을 통과했다는 핀군 전사 | 겨울전쟁·기갑전술 | 발생 | 문헌대조 | [SRC-1340](chronology-sources-v1.md) |
+| EVT-2288 | 1940-02-20 | 핀군 Näykkijärvi 역공 실패·전투서술에 반격대대 사상 74명 보고 | 겨울전쟁·전투피해 | 발생 | 문헌대조 | [SRC-1340](chronology-sources-v1.md) |
+| EVT-2289 | 1940-02-20 | Näykkijärvi 반격 때 포병 사전사격 3~4발이었다는 핀 대대전투서술·탄약부족 | 겨울전쟁·포병보급 | 발생 | 문헌대조 | [SRC-1340](chronology-sources-v1.md) |
+| EVT-2290 | 1940-02-20 | Taipale Terenttilä 소련군 방어선 약1.5km 침투후 핀란드군 일부 진지 재탈환 | 겨울전쟁·지역공세 | 발생 | 문헌대조 | [SRC-1340](chronology-sources-v1.md) · [SRC-1341](chronology-sources-v1.md) |
+| EVT-2291 | 1940-02-20 | Viipuri만 방어지휘권을 핀 해군에서 지협군으로 이관 | 겨울전쟁·지휘체계 | 발생 | 문헌대조 | [SRC-1340](chronology-sources-v1.md) · [SRC-1341](chronology-sources-v1.md) |
+| EVT-2292 | 1940-02-20 | 서방 연합국 대표가 만네르헤임과 핀란드 군사원조 가능성 협의 | 겨울전쟁·외교협의 | 발생 | 문헌대조 | [SRC-1340](chronology-sources-v1.md) |
+| EVT-2293 | 1940-02-20 | 스웨덴 의용군 Svenska Frivilligkåren 핀 야전군 배속·북부전선 인수 준비 | 겨울전쟁·외국의용부대 | 발생 | 문헌대조 | [SRC-1340](chronology-sources-v1.md) |
+| EVT-2294 | 1940-02-20 | 스웨덴 적십자 의료차량 북부 핀란드 전선 인근에서 활동 | 겨울전쟁·국제의료지원 | 발생 | 문헌대조 | [SRC-1340](chronology-sources-v1.md) |
+| EVT-2295 | 1940-02-20 | 아일랜드 Arranmore섬에 노르웨이 Steinstad 구명정 생존자11명 상륙·침몰은 15일 | 대서양전·해상생존자 | 발생 | 문헌대조 | [SRC-1348](chronology-sources-v1.md) |
+| EVT-2296 | 1940-02-20 | 핀 ErP17 09:15 Kallunki 소련전투기 3대 약40분 폭격이라는 자군기록 | 겨울전쟁·국지공습 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2297 | 1940-02-20 | 핀 ErP17 14시 Märkäjärvi 남쪽 정찰교전·15시 폭설로 시야 악화 | 겨울전쟁·초계교전 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2298 | 1940-02-20 | 핀 ErP17 20시 정찰대 매복 시도·핀군2명 부상과 재파견 | 겨울전쟁·야간매복 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2299 | 1940-02-20 | 핀 ErP17 20:10 Lampela 방면 소련 전사30 부상30~40명이라는 자군 전과보고 | 겨울전쟁·전과추정 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2300 | 1940-02-20 | 핀 ErP25 비교적 평온한 전선·18시 중대별 근무교대 | 겨울전쟁·일선부대일지 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2301 | 1940-02-21 | 소련기7대가 스웨덴 중립국 Pajala 마을 폭격·사망자 없음 | 중립국영공침범·민간폭격 | 발생 | 문헌대조 | [SRC-1342](chronology-sources-v1.md) · [SRC-1343](chronology-sources-v1.md) |
+| EVT-2302 | 1940-02-21 | Pajala에 폭발폭탄34발 소이탄100발 투하라는 핀 전사·스웨덴 자료 약150발과 비교 | 중립국공습·폭탄수통계 | 발생 | 문헌대조 | [SRC-1342](chronology-sources-v1.md) · [SRC-1343](chronology-sources-v1.md) |
+| EVT-2303 | 1940-02-21 | Pajala 폭격으로 다수 건물 화재·스웨덴 정부 소련에 외교항의 | 중립국공습·외교항의 | 발생 | 문헌대조 | [SRC-1342](chronology-sources-v1.md) |
+| EVT-2304 | 1940-02-21 | Viipuri 철도역 연속공습·파손철로로 화차1000량이상·기관차10여대 정체라는 핀군전사 | 겨울전쟁·군수철도·공습 | 발생 | 문헌대조 | [SRC-1342](chronology-sources-v1.md) |
+| EVT-2305 | 1940-02-21 | Taipale Patoniemi 포진지 직격탄2발·포2문 심각손상 및 탄약700발이상 폭발 | 겨울전쟁·야전포격·군수손실 | 발생 | 문헌대조 | [SRC-1342](chronology-sources-v1.md) |
+| EVT-2306 | 1940-02-21 | Patoniemi 포진지 피폭으로 핀군 전사1명·부상6명(핀 후대전사) | 겨울전쟁·군인사상 | 발생 | 문헌대조 | [SRC-1342](chronology-sources-v1.md) |
+| EVT-2307 | 1940-02-21 | 핀군 Mustalampi 증강여단 반격으로 소련군의 방어선 돌파거점 일부 회복 | 겨울전쟁·반격 | 발생 | 문헌대조 | [SRC-1341](chronology-sources-v1.md) · [SRC-1342](chronology-sources-v1.md) |
+| EVT-2308 | 1940-02-21 | Taipale Terenttilä 핀군 거점 1곳 재탈환 실패·20일 일부회복과 구별 | 겨울전쟁·전술거점상실 | 발생 | 문헌대조 | [SRC-1342](chronology-sources-v1.md) |
+| EVT-2309 | 1940-02-21 | 라도가 연대급 모티 잔여 최후 저항거점 소탕 완료·18일 모티 주력 붕괴와 별개 | 겨울전쟁·잔적소탕 | 발생 | 문헌대조 | [SRC-1341](chronology-sources-v1.md) · [SRC-1342](chronology-sources-v1.md) |
+| EVT-2310 | 1940-02-21 | 핀 1사단장 Taavetti Laatikainen 군단장 이임·A.E.Martola 사단장 취임 | 겨울전쟁·지휘관교체 | 발생 | 문헌대조 | [SRC-1342](chronology-sources-v1.md) |
+| EVT-2311 | 1940-02-21 | 핀 외무장관 Tanner 의회 외교위원회 평화접촉 설명·다수 의원은 큰 희생에도 평화 수용의견 | 겨울전쟁·평화외교 | 발생 | 문헌대조 | [SRC-1342](chronology-sources-v1.md) |
+| EVT-2312 | 1940-02-21 | 핀 Vaasa 법원 전시 약탈행위로 청년5명 실형 선고했다는 후대전사 | 겨울전쟁·전시사법 | 발생 | 문헌대조 | [SRC-1342](chronology-sources-v1.md) |
+| EVT-2313 | 1940-02-21 | 핀 Helsinki 법원 야간등화규정 위반자에게 벌금 선고했다는 후대전사 | 겨울전쟁·민간방공법규 | 발생 | 문헌대조 | [SRC-1342](chronology-sources-v1.md) |
+| EVT-2314 | 1940-02-21 | 네덜란드 중립 Tara 4760GRT U50 02:54 최초명중·03:12 재공격으로 침몰 | 대서양전·중립상선격침 | 발생 | 문헌대조 | [SRC-1344](chronology-sources-v1.md) |
+| EVT-2315 | 1940-02-21 | Tara 승무원 두 구명정 탈출·1척 스페인 해안 도착·1척 스페인 어선 Milin 구조·전원생존 보도 | 대서양전·해상인명구조 | 발생 | 문헌대조 | [SRC-1344](chronology-sources-v1.md) |
+| EVT-2316 | 1940-02-21 | 영 Loch Maddy 4996GRT가 U57 18:09 어뢰에 피격·전원탈출 39명중4사망35생존 | 대서양전·영화물선피격 | 발생 | 문헌대조 | [SRC-1345](chronology-sources-v1.md) |
+| EVT-2317 | 1940-02-21 | HMS Diana가 Loch Maddy 생존35명 구조해 Scapa Flow에 이송 | 대서양전·영해군인명구조 | 발생 | 문헌대조 | [SRC-1345](chronology-sources-v1.md) |
+| EVT-2318 | 1940-02-21 | 핀 ErP17 Remes 연락정찰 00:50 귀환·02:30 교전대 복귀 및 Juho Kela·Tauno Maijanen 부상후송 | 겨울전쟁·부상병후송 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2319 | 1940-02-21 | 핀 ErP17 12:25 Onkamo 도로 소련군 약20명 전진·13:10 교전·19시 후퇴보고 | 겨울전쟁·소규모전투 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2320 | 1940-02-21 | 핀 ErP17 16:10 소련군 재공격·아군 지뢰2개 폭발 및 예비소대 투입 | 겨울전쟁·지뢰·전초전 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2321 | 1940-02-21 | 핀 ErP25 08시 Kumpu2에 소련 약30~40명 공격·Artimo 2개 분대 지원으로 격퇴 | 겨울전쟁·진지방어전 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2322 | 1940-02-21 | 핀 ErP25 15:20 Kumpu2 두번째 공격에 예비병력 투입·하천선까지 추격 | 겨울전쟁·반격 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2323 | 1940-02-21 | 핀 ErP25 20시 Kumpu2 세번째 공격·북쪽 우회조 투입·포병지원요청 불발 | 겨울전쟁·진지공방 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2324 | 1940-02-22 | 소련 제43소총사단 결빙 핀란드만 건너 Koivisto 섬 공격 개시 | 겨울전쟁·도서상륙공세 | 발생 | 문헌대조 | [SRC-1346](chronology-sources-v1.md) |
+| EVT-2325 | 1940-02-22 | 핀 Koivisto 제도 포대·요새시설 파괴 후 Säkkijärvi 방향 철수·섬 상실 | 겨울전쟁·도서방어선철수 | 발생 | 문헌대조 | [SRC-1341](chronology-sources-v1.md) · [SRC-1346](chronology-sources-v1.md) |
+| EVT-2326 | 1940-02-22 | 소련군 Viipuri만 Lasisaari섬 점령·23일 핀군 일시 재탈환과 분리 | 겨울전쟁·섬탈취 | 발생 | 문헌대조 | [SRC-1346](chronology-sources-v1.md) |
+| EVT-2327 | 1940-02-22 | 핀 중간방어선 소련 공세 대부분 격퇴·핀 II군단 37mm 대전차탄 고갈 보고·야간 보급 | 겨울전쟁·대전차탄약부족 | 발생 | 문헌대조 | [SRC-1346](chronology-sources-v1.md) |
+| EVT-2328 | 1940-02-22 | 핀 23사단 Kämärä 방면 전선방어책임 인수 | 겨울전쟁·사단전선교대 | 발생 | 문헌대조 | [SRC-1341](chronology-sources-v1.md) |
+| EVT-2329 | 1940-02-22 | 핀 Kuhmo 중포 직접사격으로 소련 야전벙커 공격·전과는 핀당사자서술 | 겨울전쟁·공성포격 | 발생 | 문헌대조 | [SRC-1346](chronology-sources-v1.md) |
+| EVT-2330 | 1940-02-22 | 핀군 라도가호 북안에 소련 제204공수여단 전선배치 확인했다는 핀군정보 | 겨울전쟁·적편제정보 | 발생 | 문헌대조 | [SRC-1346](chronology-sources-v1.md) |
+| EVT-2331 | 1940-02-22 | 스웨덴 의회 제1원 핀란드 지원 관련 정부노선 승인·직접군사개입은 회피 | 겨울전쟁·스웨덴중립정책 | 발생 | 문헌대조 | [SRC-1346](chronology-sources-v1.md) |
+| EVT-2332 | 1940-02-22 | 핀 정부 항공경보로 중단된 근로시간을 일일최대2시간 연장 허가 결정 | 겨울전쟁·전시노동정책 | 발생 | 문헌대조 | [SRC-1346](chronology-sources-v1.md) |
+| EVT-2333 | 1940-02-22 | 핀 정부 전시재정 위해 1939 국채 인수 국민에게 호소 | 겨울전쟁·전시재정 | 발생 | 문헌대조 | [SRC-1346](chronology-sources-v1.md) |
+| EVT-2334 | 1940-02-22 | 독 U50가 영 유조선 British Endeavour 4580GRT 00:20 격침·38중5사망33생존 | 대서양전·상선격침 | 발생 | 문헌대조 | [SRC-1347](chronology-sources-v1.md) |
+| EVT-2335 | 1940-02-22 | 영 Bodnant가 British Endeavour 생존33명 구조·Madeira 상륙은 26일 후속 | 대서양전·상선인명구조 | 발생 | 문헌대조 | [SRC-1347](chronology-sources-v1.md) |
+| EVT-2336 | 1940-02-22 | U23이 전날 U57 피격후 표류한 Loch Maddy를 01:07 재어뢰공격·전손 처리 | 대서양전·선박최종손실 | 발생 | 문헌대조 | [SRC-1345](chronology-sources-v1.md) |
+| EVT-2337 | 1940-02-22 | Loch Maddy 선수침몰·목재화물에 뜬 선미를 HMS St Mellons가 견인·Inganess Bay 좌초 | 대서양전·해상인양 | 발생 | 문헌대조 | [SRC-1345](chronology-sources-v1.md) |
+| EVT-2338 | 1940-02-22 | 핀 ErP17 Ristelivaara 초계 19:25 교전·적군5명 전사라는 핀 당사자 주장 | 겨울전쟁·초계피해보고 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2339 | 1940-02-22 | 핀 ErP25 04:30 Laijeselkä–Märkävaara 정찰·09:30 적없음 보고 및 진지배치 변경 | 겨울전쟁·부대정찰 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2340 | 1940-02-22 | 핀 ErP25 사우나 지붕을 폭탄파편방호용으로 보강·사우나 탈의실에 대대 전화교환소 운영 | 겨울전쟁·야전시설방공 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2341 | 1940-02-23 | 핀 외무장관 Tanner가 스톡홀름을 통해 구체적인 소련 평화조건 수령 | 겨울전쟁·휴전교섭 | 발생 | 문헌대조 | [SRC-1349](chronology-sources-v1.md) |
+| EVT-2342 | 1940-02-23 | 스웨덴 정부 서방 연합군 원정군의 영토통과 허용요청 거절 | 겨울전쟁·북유럽중립외교 | 발생 | 문헌대조 | [SRC-1349](chronology-sources-v1.md) |
+| EVT-2343 | 1940-02-23 | 핀 지협군 지휘관이 부대장들에게 후방방어선 철수 준비 지시 | 겨울전쟁·작전철수준비 | 발생 | 문헌대조 | [SRC-1349](chronology-sources-v1.md) |
+| EVT-2344 | 1940-02-23 | 핀군 Viipuri만 Lasisaari 재점령했으나 전황 때문에 야간 재철수 | 겨울전쟁·도서전투 | 발생 | 문헌대조 | [SRC-1349](chronology-sources-v1.md) |
+| EVT-2345 | 1940-02-23 | 소련군 Ladoga Petäjäsaari 남단 1일 점령·핀군 방어전 | 겨울전쟁·호수섬전투 | 발생 | 문헌대조 | [SRC-1349](chronology-sources-v1.md) |
+| EVT-2346 | 1940-02-23 | 소련군 Pitkäranta 방면 전선전폭 공세·핀측 격퇴 기록 | 겨울전쟁·지상공세 | 발생 | 문헌대조 | [SRC-1349](chronology-sources-v1.md) |
+| EVT-2347 | 1940-02-23 | 소련 TASS가 스웨덴 Pajala 폭격 관여를 부인한다는 공식 발표 | 중립국공습·정부선전 | 발생 | 문헌대조 | [SRC-1349](chronology-sources-v1.md) |
+| EVT-2348 | 1940-02-23 | 소련 22주년 적군기념일 모스크바 광장 대규모 열병식 생략·Izvestija 승전 선전 | 소련·군정·선전 | 발생 | 문헌대조 | [SRC-1349](chronology-sources-v1.md) |
+| EVT-2349 | 1940-02-23 | 핀 ErP17 09:00~09:50 Hautakylä 지휘시설 항공폭격 및 Märkäjärvi 도로 소련 약60~70명 교전 | 겨울전쟁·부대지휘시설공습 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2350 | 1940-02-23 | 핀 ErP17 19시 Lapland 국경경비대의 예하부대 교대지시 접수 | 겨울전쟁·편제교대지시 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2351 | 1940-02-23 | 핀 ErP25 19:25 전원 경계상태·Ristelivaara 소련군 출현 및 27일 철수 예정통보 | 겨울전쟁·부대경계 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
 | EVT-0072 | 1940-04-09 | 베저위붕 작전: 독일의 덴마크·노르웨이 침공 | 작전 | 발생 | 미등록 | — |

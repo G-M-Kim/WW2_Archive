@@ -1490,6 +1490,17 @@ as_of: 2026-10-25
 | SRC-1338 | MaSS Ameland maritime history / 네덜란드 해양유산 DB 발행일미확인 | 2차 유산DB | Ameland 전원생존과 구조 | https://mass.ylog.nl/ameland | 원구조일지 미확인; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
 | SRC-1339 | Erik Heinrichs biography / Mannerheim.fi 작성일미확인 | 2차 전기 | 19일 지협군 취임 | https://www.mannerheim.fi/10_ylip/s_heinri.htm | 원인사발령 미열람; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
 
+| SRC-1340 | 20.2.1940 Väliasema murtuu Näykkijärvellä / 핀 국영 Yle·핀 국방군 제공 2010-02-20 | 2차 국방전사 | 20일 Näykkijärvi·Terenttilä·전선명령·스웨덴의용 | https://yle.fi/a/3-5513685 | 핀군측 사상74·포병지원3~4발 원대대보고서 직접열람 미완; 검토일 2026-11-01; 한국어 자체 요약/번역; 원본 파일·이미지 재배포 허가 미확인 |
+| SRC-1341 | Sodan päivämäärät 1940 / Joukkosi eessä 핀 군사연표 편찬자 발행일 미확인 | 2차 연표 | 20일·21일 모티잔거점·22일 Koivisto·23사단 | https://joukkosieessa.fi/index.php/sodan-paivamaarat/sodan-paivamaarat-1940/ | 당일 원부대일지 아닌 후대편찬·일일 사건압축; 검토일 2026-11-01; 한국어 자체 요약/번역; 원본 파일·이미지 재배포 허가 미확인 |
+| SRC-1342 | 21.2.1940 Neuvostokoneet pommittavat Ruotsin Pajalaa / 핀 국영 Yle·핀 국방군 제공 2010-02-21 | 2차 국방전사 | Pajala·Viipuri 철도·Patoniemi·Martola·Tanner | https://yle.fi/a/3-5513884 | 폭탄량·철도차량수·법원재판 각 원장 미대조; 검토일 2026-11-01; 한국어 자체 요약/번역; 원본 파일·이미지 재배포 허가 미확인 |
+| SRC-1343 | 21 februari föll bomber över Pajala / 스웨덴 Sveriges Radio P4 Norrbotten 2016-02-21·Lars Gyllenhaal 인터뷰 | 2차 지역역사보도 | Pajala 7기·약150발·사망0·후일 소련 배상 | https://www.sverigesradio.se/artikel/6373343 | 폭격원인 실수설은 후대 전문가 판단·기록원본 아님; 검토일 2026-11-01; 한국어 자체 요약/번역; 원본 파일·이미지 재배포 허가 미확인 |
+| SRC-1344 | Tara Dutch Steam merchant / Guðmundur Helgason uboat.net 전문해난DB 발행일 미확인 | 2차 선박피해DB | 21일02:54 U50·03:12 재명중·Milin 구조·사망0 | https://uboat.net/allies/merchants/ship/272.html | 승선총수 미확인·0사망은 DB표기 원선원명부 미검증; 검토일 2026-11-01; 한국어 자체 요약/번역; 원본 파일·이미지 재배포 허가 미확인 |
+| SRC-1345 | Loch Maddy British Steam merchant / Guðmundur Helgason uboat.net 전문해난DB 갱신2025-02-01 | 2차 선박피해DB | 21일18:09 U57 손상·22일01:07 U23 전손·4사망35구조 | https://uboat.net/allies/merchants/ship/275.html | 동일선박2회 피격의 사망4명은 21일 손실·22일에 재계상 금지; 검토일 2026-11-01; 한국어 자체 요약/번역; 원본 파일·이미지 재배포 허가 미확인 |
+| SRC-1346 | 22.2.1940 Jäätynyt Suomenlahti auttaa venäläisiä / 핀 국영 Yle·핀 국방군 제공 2010-02-22 | 2차 국방전사 | Koivisto·Lasisaari·전시노동·국채·37mm탄 부족 | https://yle.fi/a/3-5514219 | 철수분 단위시각·최종포대파괴 점검표 미확인; 검토일 2026-11-01; 한국어 자체 요약/번역; 원본 파일·이미지 재배포 허가 미확인 |
+| SRC-1347 | British Endeavour British Steam tanker / Guðmundur Helgason uboat.net 전문해난DB 발행일 미확인 | 2차 선박피해DB | 22일00:20 U50 5전몰33생존·Bodnant 구조 | https://uboat.net/allies/merchants/ship/274.html | 원영 해난명부와 호송원보고 미확인; 검토일 2026-11-01; 한국어 자체 요약/번역; 원본 파일·이미지 재배포 허가 미확인 |
+| SRC-1348 | Steinstad Norwegian Steam merchant / Guðmundur Helgason uboat.net 전문해난DB 발행일 미확인 | 2차 선박피해DB | 15일 U26격침·20일 Arranmore 생존11명 상륙 | https://uboat.net/allies/merchants/ship/255.html | 20일은 구조후 상륙일·15일 원격침과 중복금지; 검토일 2026-11-01; 한국어 자체 요약/번역; 원본 파일·이미지 재배포 허가 미확인 |
+| SRC-1349 | 23.2.1940 Ruotsi ei anna avustusjoukoille kauttakulkuoikeutta / 핀 국영 Yle·핀 국방군 제공 2010-02-23 | 2차 국방전사 | 평화조건·스웨덴통행거절·Lasisaari·TASS부인 | https://yle.fi/a/3-5514924 | 소련 평화조건 원외교전문·TASS 발표원신문 미대조; 검토일 2026-11-01; 한국어 자체 요약/번역; 원본 파일·이미지 재배포 허가 미확인 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.

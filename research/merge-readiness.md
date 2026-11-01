@@ -315,3 +315,8 @@ pr: 1
 - 신규 45 EVT·18 SRC·15 RQ, 누적 2285 EVT·1339 SRC·728 RQ, 문헌대조 1960·링크등록 189·미등록 136, 미대조 325.
 - [2/18~19 사료감사](source-audit-1940-feb18-19-batch1.md): 라도가·Viipuri·HMS Daring 사망자수충돌·El Sonador 추정·Mäntyluoto·Heinrichs·Weserübung·Tiberton.
 - Draft 유지·병합 비추천, main/docs/Pages 변경 안함. 다음 1940-02-20~21.
+
+## 2026-11-01 v6.4 / 1940-02-20~23
+- 사건밀도 유지로 4일 배치: 신규 66 EVT·10 SRC·18 RQ, 누적 2351 EVT·1349 SRC·746 RQ. 문헌대조 2026·링크등록 189·미등록 136, 기본미대조 325.
+- [2/20~23 감사](source-audit-1940-feb20-23-batch1.md): Näykkijärvi 74명 사상 및 포병3~4발 부족, 21일 Pajala 소련기 폭격(사망0·폭탄수차), 22일 Koivisto 섬철수, 23일 소련평화조건·스웨덴통과거부·TASS Pajala부인. Tara·Loch Maddy 2일 연속 손상/전손·British Endeavour, Steinstad 생존자 20일 상륙. ErP17/25 부대일지 세부 대조.
+- Draft 유지·병합 비추천. main/docs/Pages 승인전 불변. 다음 1940-02-24~27.
