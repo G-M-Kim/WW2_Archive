@@ -1767,6 +1767,52 @@ as_of: 2026-10-25
 | EVT-2025 | 1940-02-09 | 애버딘 인근에서 독일 He111 폭격기2대가 영 해군 소해정 HMS Robert Bowen을 격침·탑승자 전원전몰 | 대서양전·소해정항공기격침 | 발생 | 문헌대조 | [SRC-1239](chronology-sources-v1.md) · [SRC-1249](chronology-sources-v1.md) |
 | EVT-2026 | 1940-02-09 | 독일 He111 항공기가 영 해군 소해정 HMS Fort Royal을 공격해 격침·초기영해군보고 실종10명과 후대명부 인원불일치 | 대서양전·소해정항공기격침 | 발생 | 링크등록 | [SRC-1239](chronology-sources-v1.md) · [SRC-1249](chronology-sources-v1.md) |
 | EVT-2027 | 1940-02-09 | 독일기2대가 Dundee 일대 영 해군 준설선/바지선을 공격해 2명 익사했다고 당시 해군일지 보고 | 대서양전·비전투지원선공격 | 발생 | 문헌대조 | [SRC-1239](chronology-sources-v1.md) |
+| EVT-2028 | 1940-02-10 | 소련 NKVD가 9일밤~10일 새벽 점령폴란드 동부 주민의 제1차 대규모 강제추방을 시작 | 점령폴란드·강제추방 | 발생 | 문헌대조 | [SRC-1251](chronology-sources-v1.md) · [SRC-1252](chronology-sources-v1.md) |
+| EVT-2029 | 1940-02-10 | 제1차 NKVD 추방 대상 139299명(원문집) 대 139600명(후대연구) 수치차·작전 수일 지속 | 점령폴란드·탄압인구통계 | 발생 | 문헌대조 | [SRC-1251](chronology-sources-v1.md) · [SRC-1253](chronology-sources-v1.md) |
+| EVT-2030 | 1940-02-10 | 강제추방 대상에는 군사정착민·산림관리인과 그 가족들이 포함되어 소련 내지로 철도 이송 | 점령폴란드·강제이주수송 | 발생 | 문헌대조 | [SRC-1252](chronology-sources-v1.md) |
+| EVT-2031 | 1940-02-10 | 소련 정치국이 1939년12월4일 결의한 정착민·산림관리인 추방계획이 2월10일 실행 | 점령폴란드·비밀정책실행 | 발생 | 문헌대조 | [SRC-1253](chronology-sources-v1.md) |
+| EVT-2032 | 1940-02-10 | 핀 Hyvärinen 지휘관이 Kuhmo II/JR65 전선을 Arponen·Flink 두 임시집단으로 개편 | 겨울전쟁·전투단재편 | 발생 | 문헌대조 | [SRC-1254](chronology-sources-v1.md) |
+| EVT-2033 | 1940-02-10 | 핀 II/JR65와 북부집단사령부가 Kuusijoki 전선 방어진지와 포격계획을 정비 | 겨울전쟁·방어시설정비 | 발생 | 문헌대조 | [SRC-1254](chronology-sources-v1.md) · [SRC-1256](chronology-sources-v1.md) |
+| EVT-2034 | 1940-02-10 | 핀 II/JR65가 19:20 Kuusijoki 다리를 폭파해 소련 수송을 차단 | 겨울전쟁·교량폭파 | 발생 | 문헌대조 | [SRC-1254](chronology-sources-v1.md) |
+| EVT-2035 | 1940-02-10 | Hyvärinen이 19:30 Arponen에 공병·대전차포·박격포 지원과 11일04:30 참호공격 지시 | 겨울전쟁·전술공격명령 | 발생 | 문헌대조 | [SRC-1254](chronology-sources-v1.md) |
+| EVT-2036 | 1940-02-10 | 핀 4/JR65 장교1 병사18이 21시에 Arponen에 임시배속됐다고 일지 기록 | 겨울전쟁·임시부대배속 | 발생 | 문헌대조 | [SRC-1255](chronology-sources-v1.md) |
+| EVT-2037 | 1940-02-10 | 핀 ErP17 Rantakokko 정찰대가 소련기습으로 Matti Räsänen·Jarl Björnström 2명 전사 | 겨울전쟁·정찰대전사 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2038 | 1940-02-10 | 핀 ErP17 정찰지휘관 Rantakokko가 부상한 채 소련군에 포로로 붙잡힘 | 겨울전쟁·부상포로 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2039 | 1940-02-10 | 핀 ErP17 Remes 지휘 수색대36명이 소련군6명 전몰을 주장했으나 상대측 명부 미확인 | 겨울전쟁·전과주장 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2040 | 1940-02-10 | 핀 ErP17 초계가 소련군 포로2명을 생포해 부상자에게 응급처치 제공 | 겨울전쟁·포로치료 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2041 | 1940-02-10 | ErP25 3중대 18시 방어선교대·소련기2대 14시 습지폭격 보고 | 겨울전쟁·Salla부대일지 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2042 | 1940-02-10 | Hyrynsalmi 묘지에 소련폭탄 약35발 투하되어 묘비 손상·방공일지 인명손실없음 | 겨울전쟁·민간시설공습 | 발생 | 문헌대조 | [SRC-1257](chronology-sources-v1.md) |
+| EVT-2043 | 1940-02-10 | Hyrynsalmi·Kontiomäki·Sotkamo를 소련폭격기가 3·4·20발 공격·해당보고 사상자 없음 | 겨울전쟁·북핀란드국지공습 | 발생 | 문헌대조 | [SRC-1257](chronology-sources-v1.md) |
+| EVT-2044 | 1940-02-10 | 노 중립상선 Silja1259GRT 승무원15명 전원실종·U37 무명선공격과 동일선이라는 추정 | 대서양전·실종선귀속논란 | 발생 | 링크등록 | [SRC-1264](chronology-sources-v1.md) |
+| EVT-2045 | 1940-02-10 | 네덜란드 Burgerdijk6853GRT가 U48에 17:03 정선·18:45 어뢰침몰·사망0 | 대서양전·중립선강제정선격침 | 발생 | 문헌대조 | [SRC-1265](chronology-sources-v1.md) |
+| EVT-2046 | 1940-02-10 | 침몰한 Burgerdijk 탑승자들은 네덜란드 상선 Edam에 구조 | 대서양전·인명구조 | 발생 | 문헌대조 | [SRC-1265](chronology-sources-v1.md) |
+| EVT-2047 | 1940-02-10 | Burgerdijk 격침에서 독 전리품법23조 주장과 네덜란드 선장의 중립권 항의가 충돌 | 대서양전·국제해상법논쟁 | 발생 | 문헌대조 | [SRC-1266](chronology-sources-v1.md) · [SRC-1265](chronology-sources-v1.md) |
+| EVT-2048 | 1940-02-10 | SA-kuva에 Petsamo에서 피난온 수도자들의 Kainuu 체류를 10일 촬영한 사진메타 기록 | 겨울전쟁·민간피란사진 | 발생 | 문헌대조 | [SRC-1272](chronology-sources-v1.md) |
+| EVT-2049 | 1940-02-11 | 소련군이 카렐리야지협에 대규모 포격준비 후 11일 오전 보병·기갑 주공세 시작 | 겨울전쟁·지협대공세 | 발생 | 문헌대조 | [SRC-1260](chronology-sources-v1.md) · [SRC-1261](chronology-sources-v1.md) |
+| EVT-2050 | 1940-02-11 | 소련 제123소총사단·제35경전차여단이 Lähde도로 방면 핀 주진지 공격 | 겨울전쟁·Lähde돌파작전 | 발생 | 문헌대조 | [SRC-1261](chronology-sources-v1.md) · [SRC-1262](chronology-sources-v1.md) |
+| EVT-2051 | 1940-02-11 | 소련군이 Lähde의 Poppius 콘크리트 보루를 정오무렵 점령해 돌파구 확보 | 겨울전쟁·Poppius점령 | 발생 | 문헌대조 | [SRC-1262](chronology-sources-v1.md) · [SRC-1260](chronology-sources-v1.md) |
+| EVT-2052 | 1940-02-11 | 핀 Million 보루가 11일 밤까지 저항했으며 최종 폭파는 12일이라고 전술사 연구 | 겨울전쟁·Million보루저항 | 발생 | 문헌대조 | [SRC-1262](chronology-sources-v1.md) |
+| EVT-2053 | 1940-02-11 | Lähde 핀 주방어선 일부가 돌파됐으나 만네르헤임선 전선전체의 동시붕괴는 아님 | 겨울전쟁·주방어선부분돌파 | 발생 | 문헌대조 | [SRC-1260](chronology-sources-v1.md) |
+| EVT-2054 | 1940-02-11 | 소련군이 집중중포병·전차·보병·공병 협동으로 Poppius/ Million 공세를 수행 | 겨울전쟁·전차보병공병협동 | 발생 | 문헌대조 | [SRC-1261](chronology-sources-v1.md) |
+| EVT-2055 | 1940-02-11 | 핀 지휘부가 주진지 고수와 예비진지 후퇴 중 어느 쪽인지 의견이 갈렸다는 전사해설 | 겨울전쟁·지휘판단 | 발생 | 문헌대조 | [SRC-1260](chronology-sources-v1.md) |
+| EVT-2056 | 1940-02-11 | 1936년 베를린 올림픽 남자5000m 금메달 Gunnar Höckert가 핀군 예비소위로 지협에서 전사 | 겨울전쟁·유명체육인전사 | 발생 | 문헌대조 | [SRC-1263](chronology-sources-v1.md) |
+| EVT-2057 | 1940-02-11 | 핀 II/JR65가 Löytövaara 참호공세에 돌입해 현지 소련군의 반격에 대응 | 겨울전쟁·Kuhmo공방전 | 발생 | 문헌대조 | [SRC-1254](chronology-sources-v1.md) · [SRC-1256](chronology-sources-v1.md) |
+| EVT-2058 | 1940-02-11 | 핀 4/JR65가 03:15 Arponen 작전에 출동·소련 초계12명 격파는 핀 자군 주장 | 겨울전쟁·Kuhmo초계전 | 발생 | 문헌대조 | [SRC-1255](chronology-sources-v1.md) |
+| EVT-2059 | 1940-02-11 | 4/JR65 근접전에서 E Lehtinen 전사·E Kostiainen 등4명 부상 | 겨울전쟁·Kuhmo군사사상 | 발생 | 문헌대조 | [SRC-1255](chronology-sources-v1.md) |
+| EVT-2060 | 1940-02-11 | 핀 4/JR65가 23:40 Kylmäjärvi 초계 중 소련 기관총사격을 받고 철수 | 겨울전쟁·초계철수 | 발생 | 문헌대조 | [SRC-1255](chronology-sources-v1.md) |
+| EVT-2061 | 1940-02-11 | 핀 북부HQ가 19:45 Luvelahti 참호다수 점령과 소련반격 격퇴를 보고 | 겨울전쟁·Luvelahti참호점령 | 발생 | 문헌대조 | [SRC-1256](chronology-sources-v1.md) |
+| EVT-2062 | 1940-02-11 | 핀 북부HQ가 Riihivaara 소련병300·Luvelahti참호400 살상 주장, 원손실명부 없음 | 겨울전쟁·핀군적손실추정 | 발생 | 문헌대조 | [SRC-1256](chronology-sources-v1.md) |
+| EVT-2063 | 1940-02-11 | ErP17 정찰대가 소련군 발자국으로 오인한 아군 스키자국을 확인 | 겨울전쟁·아군오인정찰 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2064 | 1940-02-11 | 소련 항공기6대가 14시 ErP17을 공격해 Leevi Kostamo 어깨부상 | 겨울전쟁·Salla군인공습 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2065 | 1940-02-11 | 핀 ErP17이 Onkamojärvi 남단으로 천막야영지를 이전 | 겨울전쟁·진지위치재배치 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2066 | 1940-02-11 | ErP25 Alakulppi 초계대 08시 출발·Ahonius 대대장 10:30~13:30 진지시찰 | 겨울전쟁·지휘관현장시찰 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2067 | 1940-02-11 | Kajaani 방공센터가 관내 적 항공기 없음·제7경포대 이동을 보고 | 겨울전쟁·방공부대이동 | 발생 | 문헌대조 | [SRC-1257](chronology-sources-v1.md) |
+| EVT-2068 | 1940-02-11 | SA-kuva 메타에 Kemijärvi 스웨덴 야전병원 11일 촬영사진 기록 | 겨울전쟁·스웨덴의료지원 | 발생 | 문헌대조 | [SRC-1272](chronology-sources-v1.md) |
+| EVT-2069 | 1940-02-11 | 영 어선 Togimo290GRT가 U37 함포26발 공격으로 침몰해1명사망·스페인 Monte Navajo 구조 | 대서양전·영어선함포피격 | 발생 | 문헌대조 | [SRC-1267](chronology-sources-v1.md) |
+| EVT-2070 | 1940-02-11 | 스웨덴 Orania1854GRT가 U50 23:54 어뢰침몰·24중14실종10생존, 후자12일 구조 | 대서양전·중립상선어뢰전몰 | 발생 | 문헌대조 | [SRC-1268](chronology-sources-v1.md) |
+| EVT-2071 | 1940-02-11 | 노 Snestad4114GRT가 U53 공격에 침몰해36명 탈출·2명은 13일 구조선 재공격중 사망 | 대서양전·중립상선후일사망 | 발생 | 문헌대조 | [SRC-1269](chronology-sources-v1.md) |
+| EVT-2072 | 1940-02-11 | 영 Imperial Transport8022GRT가 U53 어뢰에 선수절단·2명 익사하나 선미 복구되어 1941년 복귀 | 대서양전·절단유조선구조 | 발생 | 문헌대조 | [SRC-1270](chronology-sources-v1.md) |
+| EVT-2073 | 1940-02-11 | 에스토니아 Linda1213GRT가 U9 18:20 어뢰침몰해1명사망·승선총원 미확인 | 대서양전·중립상선침몰 | 발생 | 문헌대조 | [SRC-1271](chronology-sources-v1.md) |
 | EVT-0070 | 1940-02-16 | 알트마르크 사건(노르웨이 해역 영국군 승선) | 해군·중립 | 발생 | 미등록 | — |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
