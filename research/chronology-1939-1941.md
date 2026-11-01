@@ -1981,6 +1981,51 @@ as_of: 2026-10-25
 | EVT-2238 | 1940-02-17 | 핀 중립 Wilja3396GRT가 20:36 U48 어뢰에 격침·선원27명 전원생환 | 대서양전·핀중립상선침몰 | 발생 | 문헌대조 | [SRC-1320](chronology-sources-v1.md) |
 | EVT-2239 | 1940-02-17 | 네덜란드 Maasdam이 Wilja 선원27명을 구조해 후일 Havana 상륙 | 대서양전·네덜란드상선핀선원구호 | 발생 | 문헌대조 | [SRC-1320](chronology-sources-v1.md) |
 | EVT-2240 | 1940-02-17 | 독 U53이 20:51 프랑스 호송선단 65-KS를 포착·공격은 18일 별도사건 | 대서양전·독잠수함호송선단추적 | 발생 | 문헌대조 | [SRC-1321](chronology-sources-v1.md) |
+| EVT-2241 | 1940-02-18 | 라도가카렐리야 소련 연대급 모티 분쇄·2월9일 형성과 구분 | 겨울전쟁·모티전 | 발생 | 문헌대조 | [SRC-1322](chronology-sources-v1.md) |
+| EVT-2242 | 1940-02-18 | 라도가 모티 핀군 전사166 소련군 전사1000~1200·포로250 주장은 전투누계 | 겨울전쟁·피해수추계 | 발생 | 문헌대조 | [SRC-1322](chronology-sources-v1.md) |
+| EVT-2243 | 1940-02-18 | 라도가 모티 핀군 전차20·포35문·차량 등 장비노획 보고 | 겨울전쟁·전리품 | 발생 | 문헌대조 | [SRC-1322](chronology-sources-v1.md) |
+| EVT-2244 | 1940-02-18 | 소련기 Viipuri 08:45부터 공습·핀군 항공기200대 이상 관측 | 겨울전쟁·공습 | 발생 | 문헌대조 | [SRC-1322](chronology-sources-v1.md) |
+| EVT-2245 | 1940-02-18 | Viipuri 옛 대성당과 주둔군교회 피해·상수도·전력시설 마비 | 겨울전쟁·문화유산피해 | 발생 | 문헌대조 | [SRC-1322](chronology-sources-v1.md) |
+| EVT-2246 | 1940-02-18 | Viipuri 잔류주민 대피·지역신문 발행 중단 | 겨울전쟁·피난·언론 | 발생 | 문헌대조 | [SRC-1322](chronology-sources-v1.md) |
+| EVT-2247 | 1940-02-18 | Viipuri만 동부 핀군 섬쪽 철수·Johannes 마을 일부 가옥 방화 | 겨울전쟁·퇴각 | 발생 | 문헌대조 | [SRC-1322](chronology-sources-v1.md) |
+| EVT-2248 | 1940-02-18 | Taipale Kirvesmäki 핀 제21사단 전초선 상실후 재탈환 | 겨울전쟁·전초교전 | 발생 | 문헌대조 | [SRC-1322](chronology-sources-v1.md) |
+| EVT-2249 | 1940-02-18 | 카렐리야 지협 중간방어선 두 곳 소련군 기갑돌파라는 핀 보고 | 겨울전쟁·기갑전투 | 발생 | 문헌대조 | [SRC-1322](chronology-sources-v1.md) |
+| EVT-2250 | 1940-02-18 | Kuhmo Kuusijoki 소련군 약1000명이 포병·전차 지원 공격이라는 핀 보고 | 겨울전쟁·지역공세 | 발생 | 문헌대조 | [SRC-1322](chronology-sources-v1.md) |
+| EVT-2251 | 1940-02-18 | 덴마크 금속노동자 약300명 핀란드 노동지원행 보도 | 겨울전쟁·국제민간지원 | 발생 | 문헌대조 | [SRC-1322](chronology-sources-v1.md) |
+| EVT-2252 | 1940-02-18 | 프랑스 Garibaldi 관련 Marabini 핀란드 의용병 모집 추진 | 겨울전쟁·국제의용병 | 발생 | 문헌대조 | [SRC-1322](chronology-sources-v1.md) |
+| EVT-2253 | 1940-02-18 | 핀 ErP17 Kiiveri 중위 복귀·기온 영하30도 원부대일지 | 겨울전쟁·지휘교대 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2254 | 1940-02-18 | 핀 ErP17 Remes 정찰조 10:30 복귀 | 겨울전쟁·정찰 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2255 | 1940-02-18 | 핀 ErP17 소련 전투기3대가 Niemelä 미끼마을에 폭탄12발 투하 보고 | 겨울전쟁·공습·기만 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2256 | 1940-02-18 | 핀 ErP17 Ruuhijoki 소련 스키부대 20:40 포착·대응초계 | 겨울전쟁·정찰 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2257 | 1940-02-18 | 핀 ErP17 Pyhäjärvi 남쪽 23:45 총격접촉 보고 | 겨울전쟁·야간교전 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2258 | 1940-02-18 | 핀 ErP25 15:30 Perksalo 분견대 배속·진지인수 명령 | 겨울전쟁·편제이동 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2259 | 1940-02-18 | 핀 ErP25 17시 진지정찰·18~20시 초소인계 | 겨울전쟁·전선교대 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2260 | 1940-02-18 | 소련 항공대 Mäntyluoto 공격·핀 상선 Rigel 침몰 | 겨울전쟁·상선공습 | 발생 | 문헌대조 | [SRC-1336](chronology-sources-v1.md) · [SRC-1337](chronology-sources-v1.md) |
+| EVT-2261 | 1940-02-18 | 독 해전연표상 Mäntyluoto의 핀 Bore III·Bore IV도 공습침몰 주장 | 겨울전쟁·해운피해 | 발생 | 링크등록 | [SRC-1336](chronology-sources-v1.md) |
+| EVT-2262 | 1940-02-18 | 독 U61 불명선박 격침을 실종 파나마 El Sonador로 추정 | 대서양전·실종선 | 발생 | 링크등록 | [SRC-1327](chronology-sources-v1.md) |
+| EVT-2263 | 1940-02-18 | 그리스 중립선 Ellin 4917GRT U37 00:45·01:09 공격으로 격침 | 대서양전·중립상선격침 | 발생 | 문헌대조 | [SRC-1328](chronology-sources-v1.md) |
+| EVT-2264 | 1940-02-18 | 스페인 어선 Manin이 Ellin 생존 선원구조·승선총원 불명 | 대서양전·구조 | 발생 | 문헌대조 | [SRC-1328](chronology-sources-v1.md) |
+| EVT-2265 | 1940-02-18 | 영 HMS Daring U23 Otto Kretschmer의 어뢰로 03:54 독일시각 침몰 | 대서양전·군함격침 | 발생 | 문헌대조 | [SRC-1325](chronology-sources-v1.md) · [SRC-1326](chronology-sources-v1.md) |
+| EVT-2266 | 1940-02-18 | HMS Daring 5명생존·전사 156 또는157명 출처상충 | 대서양전·해군인명손실 | 발생 | 링크등록 | [SRC-1325](chronology-sources-v1.md) · [SRC-1326](chronology-sources-v1.md) |
+| EVT-2267 | 1940-02-18 | 스페인 Banderas 2140GRT U53 04:20 어뢰격침·29중22사망7생존 | 대서양전·중립상선격침 | 발생 | 문헌대조 | [SRC-1329](chronology-sources-v1.md) |
+| EVT-2268 | 1940-02-18 | 스페인 어선 Tritonia가 Banderas 생존7명 구조 | 대서양전·해상구조 | 발생 | 문헌대조 | [SRC-1329](chronology-sources-v1.md) |
+| EVT-2269 | 1940-02-18 | 노르웨이 중립 Sangstad 4297GRT U61 06:09 격침·선장1사망28생존 | 대서양전·중립상선격침 | 발생 | 문헌대조 | [SRC-1330](chronology-sources-v1.md) · [SRC-1331](chronology-sources-v1.md) |
+| EVT-2270 | 1940-02-18 | 영 구축함 HMS Diana 6명·HMS Brazen 22명 Sangstad 선원 구조 | 대서양전·해군구조 | 발생 | 문헌대조 | [SRC-1330](chronology-sources-v1.md) |
+| EVT-2271 | 1940-02-18 | 프랑스 상선 P.L.M.15 3754GRT U37 08:23 격침·42명전몰 | 대서양전·상선전몰 | 발생 | 문헌대조 | [SRC-1332](chronology-sources-v1.md) · [SRC-1321](chronology-sources-v1.md) |
+| EVT-2272 | 1940-02-18 | 네덜란드 중립 Ameland 4537GRT U10 09:26 격침·48명생존 | 대서양전·중립상선격침 | 발생 | 문헌대조 | [SRC-1333](chronology-sources-v1.md) · [SRC-1338](chronology-sources-v1.md) |
+| EVT-2273 | 1940-02-18 | Montferland·예인선 Zwarte Zee가 Ameland 선원 구조 | 대서양전·상선구조 | 발생 | 문헌대조 | [SRC-1333](chronology-sources-v1.md) |
+| EVT-2274 | 1940-02-18 | U53 벨기에 Garonne 10:24 어뢰발사 후 조기폭발·격침실패 | 대서양전·공격실패 | 발생 | 문헌대조 | [SRC-1321](chronology-sources-v1.md) |
+| EVT-2275 | 1940-02-19 | 핀 지협군 Hugo Österman 퇴임·Erik Heinrichs 취임 | 겨울전쟁·지휘관교체 | 발생 | 문헌대조 | [SRC-1323](chronology-sources-v1.md) · [SRC-1339](chronology-sources-v1.md) |
+| EVT-2276 | 1940-02-19 | Heinrichs 새로 지휘하는 핀 지협군 약13만3000명이라는 후대 편제추정 | 겨울전쟁·군편제 | 발생 | 문헌대조 | [SRC-1323](chronology-sources-v1.md) |
+| EVT-2277 | 1940-02-19 | 히틀러 Weserübung 침공기획 가속·Falkenhorst 제21군단에 위임 | 작전계획·노르웨이침공준비 | 발생 | 문헌대조 | [SRC-1324](chronology-sources-v1.md) |
+| EVT-2278 | 1940-02-19 | 핀 ErP17 00:30 Niemelä 공습·00:40 Pikku-Pyhätunturi 소대교전 | 겨울전쟁·국지교전 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2279 | 1940-02-19 | 핀 ErP17 02:25 Hangasjärvi 소련 중대규모 접촉·철수보고 | 겨울전쟁·정찰교전 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2280 | 1940-02-19 | 핀 ErP17 13:30 Onkamo 소련 공세 대응 역습·자정경 종료 | 겨울전쟁·지역전투 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2281 | 1940-02-19 | Onkamo 핀 전사1·부상2·소련군 전몰30은 핀 단일군일지 주장 | 겨울전쟁·피해수추계 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2282 | 1940-02-19 | 핀 ErP25 02~05시 방어선 인수 완료 | 겨울전쟁·군일지 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2283 | 1940-02-19 | 영 Tiberton 5225GRT 독 U23에 04:05 격침·승조원34명 전원사망 | 대서양전·영국상선전몰 | 발생 | 문헌대조 | [SRC-1334](chronology-sources-v1.md) |
+| EVT-2284 | 1940-02-19 | 영 Pyrrhus 17일 U37 피격 뒤 약이틀 표류하여 19일경 최종침몰 추정 | 대서양전·상선후속손실 | 발생 | 링크등록 | [SRC-1319](chronology-sources-v1.md) |
+| EVT-2285 | 1940-02-19 | 러 해군항공사 Lappeenranta·Turku·Taipale 공습·기뢰부설 기록 | 겨울전쟁·해군항공작전 | 발생 | 문헌대조 | [SRC-1337](chronology-sources-v1.md) |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
 | EVT-0072 | 1940-04-09 | 베저위붕 작전: 독일의 덴마크·노르웨이 침공 | 작전 | 발생 | 미등록 | — |

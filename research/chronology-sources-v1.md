@@ -1471,6 +1471,25 @@ as_of: 2026-10-25
 | SRC-1320 | uboat.net Wilja | Guðmundur Helgason 선박손실 전문DB 2차 | 17일20:36 핀중립 Wilja3396GRT U48 격침27전원생존, Maasdam 구조 | https://uboat.net/allies/merchants/ship/262.html | 네덜란드 Maasdam 구조 뒤 쿠바 하바나 상륙 일자 미확인 |
 | SRC-1321 | uboat.net convoy 65-KS patrol | Rainer Kolbicz uboat.net specialist naval history secondary | 17일20:51 U53 프랑스 호송선단 65-KS 발견·실제 18일 공격 사건 | https://uboat.net/ops/convoys/convoys.php?convoy=65-KS | 실제 18일 침몰과 17일 탐지 구분 |
 
+| SRC-1322 | Suuri motti kukistuu Laatokan Karjalassa / 핀 Yle·국방군 2010-02-18 | 2차 기관전사 | 2/18 모티·Viipuri·국제지원 | https://yle.fi/a/3-5511797 | 핀측 전과·항공기수 원소련장부 미대조; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1323 | Valtionhotelli oli talvisodassa komentopaikka / Ulla Ylönen 핀 Yle 2015-12-06 | 2차 역사보도 | 2/19 Heinrichs 취임·133000명 | https://yle.fi/a/3-8496860 | 133000은 편제 규모·실가용수 미확인; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1324 | Weserübung Angrebet den 9. april 1940 på Danmark / Peter Hertel Rasmussen·Kjeld Hillingsø 덴 Lex 발행일불명 | 2차 연구 | 2/19 기획가속·Falkenhorst | https://lex.dk/Weser%C3%BCbung | 2/19 독 원명령 미검; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1325 | HMS Daring Royal Navy official history / 영 Royal Navy 발행일불명 | 2차 기관사 | 승선162 중 생존5 | https://www.royalnavy.mod.uk/organisation/units-and-squadrons/destroyers/hms-daring | 전몰157은 계산치·원명부 미검; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1326 | HMS Daring uboat.net / Guðmundur Helgason 발행일불명 | 2차 전문DB | U23 2/18 03:54 전몰156 생존5 | https://uboat.net/allies/warships/4367.html | 영 공식승선총원과 1명 불일치; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1327 | El Sonador uboat.net / Guðmundur Helgason 발행일불명 | 2차 전문DB | U61 불명선 추정 귀속 | https://uboat.net/allies/merchants/ship/265.html | must have been라는 연구자 추정; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1328 | Ellin uboat.net / Guðmundur Helgason 발행일불명 | 2차 전문DB | U37·Manin 구조 | https://uboat.net/allies/merchants/ships/270.html | 전체승선인원 미확인; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1329 | Banderas uboat.net / Guðmundur Helgason 발행일불명 | 2차 전문DB | U53 격침 22전몰7생존 | https://uboat.net/allies/merchants/ship/266.html | 독 함장 KTB 미대조; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1330 | Sangstad uboat.net / Guðmundur Helgason 발행일불명 | 2차 전문DB | U61 격침 1사망28생존 | https://uboat.net/allies/merchants/268.html | 원 노르웨이 법정해난조사 미검; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1331 | Krigsseilerregisteret Sangstad / 노르웨이 전쟁해원등록부 작성일미확인 | 2차 기념DB | 2/18 선장 Leif Andreas Bryn 전몰 | https://krigsseilerregisteret.no/skip/25168 | 원기록 현대편찬·원선원철 미검; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1332 | P.L.M.15 uboat.net / Guðmundur Helgason 발행일불명 | 2차 전문DB | U37 격침 42전몰 | https://www.uboat.net/allies/merchants/ship/267.html | 프랑스 원해원명부 미확인; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1333 | Ameland uboat.net / Guðmundur Helgason 발행일불명 | 2차 전문DB | U10 침몰48생존 | https://uboat.net/allies/merchants/269.html | 네덜란드 해난철 미대조; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1334 | Tiberton uboat.net / Guðmundur Helgason 발행일불명 | 2차 전문DB | U23 19일 34전사 | https://uboat.net/allies/merchants/271.html | 영 원명부 미검; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1335 | February1940 ship losses uboat.net / Guðmundur Helgason 발행일불명 | 2차 전문DB | 1940 2월 격침선 색인 | https://uboat.net/allies/merchants/losses_year.html?qdate=1940-02 | 색인만으로 출격시각 확인불가; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1336 | Rohwer Seekrieg February1940 / Jürgen Rohwer·Historisches Marinearchiv 2023-05 갱신 | 2차 해전연표 | 18일 Rigel Bore III Bore IV 손실 | https://www.historisches-marinearchiv.de/projekte/rohwer_chronik/40-02.htm | 핀 선박원부 미대조; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1337 | Зимняя война Балтика 1939-1940 / П.В.Петров 2008 온라인재전재 | 2차 러 해군항공전사 | 18일 Rigel·19일 소련항공대 | https://djvu.online/file/JN8RRm7QMtQbG | 원도서 인쇄 페이지 직접 미확인; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1338 | MaSS Ameland maritime history / 네덜란드 해양유산 DB 발행일미확인 | 2차 유산DB | Ameland 전원생존과 구조 | https://mass.ylog.nl/ameland | 원구조일지 미확인; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+| SRC-1339 | Erik Heinrichs biography / Mannerheim.fi 작성일미확인 | 2차 전기 | 19일 지협군 취임 | https://www.mannerheim.fi/10_ylip/s_heinri.htm | 원인사발령 미열람; 확인일 2026-11-01; 한국어 요약 번역·저작권과 재이용허가 미확인 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.

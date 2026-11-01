@@ -310,3 +310,8 @@ pr: 1
 - 사건밀도 높아 2일 배치, 신규 63 EVT·16 SRC·21 RQ; 누적 2240 EVT·1321 SRC·713 RQ. 문헌대조 1919·링크등록 185·미등록 136·미대조 321.
 - [2월16~17일 사료감사](source-audit-1940-feb16-17-batch1.md): Altmark 299영포로 구출과 노영독 법적이견·당일6 후일1 독군전몰, Iisalmi 41/42 사망 및 대피소29/31 이견, 16일 핀 JR62 Kämärä 와해·Dolin 전과 주장, U14 덴Sleipner 및 스웨덴2척 연쇄격침, Liana 생존자24일 재사망.
 - Draft 유지·병합비추천, 사용자 승인전 main/docs/Pages 불변. 다음 1940-02-18~19.
+
+## 2026-11-01 v6.3 / 1940-02-18~19
+- 신규 45 EVT·18 SRC·15 RQ, 누적 2285 EVT·1339 SRC·728 RQ, 문헌대조 1960·링크등록 189·미등록 136, 미대조 325.
+- [2/18~19 사료감사](source-audit-1940-feb18-19-batch1.md): 라도가·Viipuri·HMS Daring 사망자수충돌·El Sonador 추정·Mäntyluoto·Heinrichs·Weserübung·Tiberton.
+- Draft 유지·병합 비추천, main/docs/Pages 변경 안함. 다음 1940-02-20~21.

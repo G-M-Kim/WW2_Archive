@@ -770,7 +770,23 @@ updated: 2026-10-26
 | RQ-0710 | P0 | open | 17일 ErP17 소련기 낙하포장물 공수침투설 | 핀부대는 소련기3대 중2대 낙하물 관측했지만 실제 낙하산부대 미확정 | 1940-02-17 | 소련 북부항공대 수송일지·핀 군경 포로체포보고 |
 | RQ-0711 | P0 | open | 17일 Pyrrhus 중국인선원8 전사와 구조자78 | 중국선원 각 명부·부선장 해군5명 등86 총원의 원자료 대조 | 1940-02-17 | UK Merchant Shipping casualty roll Pyrrhus voyage survivor manifest |
 | RQ-0712 | P0 | open | 17일 핀 Wilja 27 전원생존 후 네덜란드선에 의해 쿠바 상륙 | 기초해난DB 신뢰가능하지만 하바나 상륙날짜와 위기시각 원선원일지 확인 | 1940-02-17~ | Finnish shipping disaster inquiry and Maasdam log |
-| RQ-0713 | P0 | open | 다음 1940-02-18~19 해상전·중립권·겨울전쟁 | Altmark 17일 독 선전 뒤19일 Weserubung 계획가속 결정, 18일 HMS Daring 격침 | 1940-02-18~19 | German Naval Staff KTB·US Army CMH Command Decisions · RN War Diary |
+| RQ-0713 | P0 | in_progress | 다음 1940-02-18~19 해상전·중립권·겨울전쟁 | Altmark 17일 독 선전 뒤19일 Weserubung 계획가속 결정, 18일 HMS Daring 격침 | 1940-02-18~19 | German Naval Staff KTB·US Army CMH Command Decisions · RN War Diary |
+
+| RQ-0714 | P0 | open | Daring 전몰자수 | RN162 중5생존 vs uboat 156전몰5생존 숫자차 | 1940-02-18 | RN 함정원부·CWGC |
+| RQ-0715 | P0 | open | El Sonador 동일성 | U61 불명선 격침과 파나마 실종선 동일 추정 | 1940-02-18 | U61 KTB·선박출항원부 |
+| RQ-0716 | P0 | open | Mäntyluoto 선박원부 | Rigel Bore III Bore IV 3척 피해와 러 항공전사 Rigel만 확인 | 1940-02-18 | 핀 항만·해난손실원기록 |
+| RQ-0717 | P0 | open | 라도가 모티 사상자 | 166 핀전사 및 소련1000~1200 추계 전투누계 대조 | 1940-02-18 | 소련 부대피해원부·핀 IV군단일지 |
+| RQ-0718 | P0 | open | Viipuri 공습 규모 | 핀보고 200기 이상의 기체대 출격수 여부 불명 | 1940-02-18 | 소련 편대원출격장부 |
+| RQ-0719 | P0 | open | Kirvesmäki 국지전 | 21사단 전초선 상실·회복과 세부피해 미확인 | 1940-02-18 | 핀21사단 원군일지 |
+| RQ-0720 | P0 | open | Kuhmo 1000명 | 소련군 약1000명은 핀측 추계 | 1940-02-18 | 소련 사단상황일지 |
+| RQ-0721 | P0 | open | Garibaldi 의용병 | 모병 추진과 실제 참전·수송 구별 | 1940-02-18 | 프랑스 연맹 기록·핀 병적 |
+| RQ-0722 | P0 | open | 덴마크 노동자 300 | 핀행 이동보도·현지 입국과 근무 미확인 | 1940-02-18 | 덴노조 신문·핀입국기록 |
+| RQ-0723 | P0 | open | Weserübung 원명령 | 2/19 계획가속 지시 독원서 확인 필요 | 1940-02-19 | OKW·Jodl KTB |
+| RQ-0724 | P0 | open | Heinrichs 인수시각 | 사령관 교체 당일 인수시간·133000명 정원기준 미확인 | 1940-02-19 | 핀 총사령부 인사·전투력 일보 |
+| RQ-0725 | P0 | open | Pyrrhus 최종침몰 | 2/17 피격뒤 약2일후 침몰의 정확한 시각 미확인 | 1940-02-19 | 영 해난조사 |
+| RQ-0726 | P0 | open | Onkamo 소련피해 | ErP17 소련군전사30은 핀측 주장 | 1940-02-19 | 소련 전사자명부 |
+| RQ-0727 | P0 | open | Sangstad 구조시각 | 18일 구조와 21일 입항시점을 구분 | 1940-02-18 | 영 Diana Brazen 갑판일지 |
+| RQ-0728 | P0 | open | U53 Garonne 실패 | 2/18 10:24 조기폭발과 프랑스 호위정 추격 당대기록 미검 | 1940-02-18 | 독 U53 KTB·프랑스 호송일지 |
 
 ## 조사기록·원전으로의 역참조
 
