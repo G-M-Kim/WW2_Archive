@@ -1851,6 +1851,72 @@ as_of: 2026-10-25
 | EVT-2109 | 1940-02-13 | 스웨덴 Norna1022GRT 실종18명전원사망으로 후대 U53 귀속·공격시각미확정 | 대서양전·스웨덴중립선실종 | 발생 | 링크등록 | [SRC-1288](chronology-sources-v1.md) |
 | EVT-2110 | 1940-02-13 | U50가 01:55·02:05·02:16 구조선 Albert L Ellsworth 어뢰공격 실패 | 대서양전·구조선공격미수 | 발생 | 문헌대조 | [SRC-1289](chronology-sources-v1.md) · [SRC-1290](chronology-sources-v1.md) |
 | EVT-2111 | 1940-02-13 | Albert L Ellsworth 탈출소동 중 Snestad 생존선원2명 익사·11일 직접사망이 아님 | 대서양전·구조중후일사망 | 발생 | 문헌대조 | [SRC-1289](chronology-sources-v1.md) · [SRC-1290](chronology-sources-v1.md) |
+| EVT-2112 | 1940-02-14 | 소련군이 Taipale Terenttilä·Kirvesmäki에서 2시간 포격 뒤 항공·전차 동원 공격 | 겨울전쟁·Taipale공세 | 발생 | 문헌대조 | [SRC-1292](chronology-sources-v1.md) |
+| EVT-2113 | 1940-02-14 | 핀란드군이 밤중 재탈환한 Kirvesmäki 초소를 소련군 공격으로 다시 상실 | 겨울전쟁·진지상실 | 발생 | 문헌대조 | [SRC-1292](chronology-sources-v1.md) |
+| EVT-2114 | 1940-02-14 | Kirvesmäki 핀 수비중대 중대장이 전사·부상으로 수시간 안에 세번 교체 | 겨울전쟁·현장지휘관피해 | 발생 | 문헌대조 | [SRC-1292](chronology-sources-v1.md) |
+| EVT-2115 | 1940-02-14 | Taipale 공격의 주요 교전이 17시35분에 중지됐다는 핀 전사 | 겨울전쟁·전투시간기록 | 발생 | 문헌대조 | [SRC-1292](chronology-sources-v1.md) |
+| EVT-2116 | 1940-02-14 | Lähde 지역 핀 부대가 현지명령에 따라 15일 포괄철수보다 앞서 일부 진지에서 이탈 | 겨울전쟁·선행국지철수 | 발생 | 문헌대조 | [SRC-1292](chronology-sources-v1.md) · [SRC-1295](chronology-sources-v1.md) |
+| EVT-2117 | 1940-02-14 | 핀 5사단 지휘부가 07시 방어진지 유지불능시 약1km 후방임시진지로 철수허용 | 겨울전쟁·국지적후퇴허가 | 발생 | 문헌대조 | [SRC-1295](chronology-sources-v1.md) |
+| EVT-2118 | 1940-02-14 | Summa 수비부대 일부가 14일밤부터 15일 새벽 사이 포위회피를 위한 진지이탈 시작 | 겨울전쟁·Summa철수시작 | 발생 | 문헌대조 | [SRC-1295](chronology-sources-v1.md) |
+| EVT-2119 | 1940-02-14 | 핀군은 Summa 후방으로 이탈하며 소련군의 즉각적 추격이 없던 틈에 부대재편 | 겨울전쟁·철수후재편 | 발생 | 문헌대조 | [SRC-1292](chronology-sources-v1.md) |
+| EVT-2120 | 1940-02-14 | Mannerheim·Österman·Öhquist 등 지휘부가 Saarela에서 지협 전선위기와 후퇴방안 논의 | 겨울전쟁·지휘관회의 | 발생 | 문헌대조 | [SRC-1292](chronology-sources-v1.md) · [SRC-1295](chronology-sources-v1.md) |
+| EVT-2121 | 1940-02-14 | 핀 Yle가 Summa 소련군 사상3만~4만명으로 설명하지만 적군 원명부 미확인 | 겨울전쟁·당사자피해추산 | 발생 | 링크등록 | [SRC-1292](chronology-sources-v1.md) |
+| EVT-2122 | 1940-02-14 | 핀 전사에 소련군 포위중 기갑여단 22주년 포상300루블 배정 보도·소련원공문 미확인 | 겨울전쟁·소련포상명령주장 | 발생 | 링크등록 | [SRC-1292](chronology-sources-v1.md) |
+| EVT-2123 | 1940-02-14 | 소련군 공습으로 Viipuri 성 및 성다리 등 시설 피해 | 겨울전쟁·Viipuri공습문화재피해 | 발생 | 문헌대조 | [SRC-1292](chronology-sources-v1.md) |
+| EVT-2124 | 1940-02-14 | 소련항공기가 핀란드 Hamina 도심 공습 | 겨울전쟁·Hamina민간지역공습 | 발생 | 문헌대조 | [SRC-1292](chronology-sources-v1.md) |
+| EVT-2125 | 1940-02-14 | 핀란드 정부가 소련의 민간도시·병원·철도 폭격 등 전쟁법 위반을 주장하는 국제항의각서 발표 | 외교·전쟁법위반항의 | 발생 | 문헌대조 | [SRC-1292](chronology-sources-v1.md) |
+| EVT-2126 | 1940-02-14 | 영 수상 Chamberlain이 핀 외교관 Gripenberg에게 84mm 야포30문과 포탄3만발 제공의사 전달 | 외교·영국대핀군사원조약속 | 발생 | 문헌대조 | [SRC-1292](chronology-sources-v1.md) |
+| EVT-2127 | 1940-02-14 | 독 Altmark 함이 영 상선선원포로299명을 싣고 Fosen 근처 노르웨이 영해 진입 | 대서양전·독포로수송선영해진입 | 발생 | 문헌대조 | [SRC-1294](chronology-sources-v1.md) |
+| EVT-2128 | 1940-02-14 | 노 해군이 Altmark의 노 영해통과를 허용하고 어뢰정 호위 | 외교·노르웨이중립운항허가 | 발생 | 문헌대조 | [SRC-1294](chronology-sources-v1.md) |
+| EVT-2129 | 1940-02-14 | 영 Langleeford4622GRT가 HX18 낙오중 U26 08시 어뢰격침·34중4사망30생존 | 대서양전·영국곡물수송선격침 | 발생 | 문헌대조 | [SRC-1297](chronology-sources-v1.md) |
+| EVT-2130 | 1940-02-14 | 독 U26 승조원이 Langleeford 구명정에 빵·담배·럼·붕대를 제공하고 최근접 육지방향 안내 | 대서양전·독잠수함생존자구호 | 발생 | 문헌대조 | [SRC-1297](chronology-sources-v1.md) |
+| EVT-2131 | 1940-02-14 | 영 Sultan Star12306GRT U48에 16시55분 어뢰침몰·73중1사망72생존 | 대서양전·영냉동식량수송선격침 | 발생 | 문헌대조 | [SRC-1298](chronology-sources-v1.md) |
+| EVT-2132 | 1940-02-14 | Sultan Star의 무전수가 마지막까지 구조무전을 송신한 뒤 탈출·후일 해상용기훈장 수훈 | 대서양전·상선무전수구호 | 발생 | 문헌대조 | [SRC-1298](chronology-sources-v1.md) |
+| EVT-2133 | 1940-02-14 | HMS Whitshed·Vesper·Acasta가 U48을 격침했다고 오인보고했지만 U48은 폭뢰22발을 피해 탈출 | 대서양전·오인격침보고 | 발생 | 문헌대조 | [SRC-1298](chronology-sources-v1.md) |
+| EVT-2134 | 1940-02-14 | 덴 중립 Martin Goldschmidt2095GRT U53 05시 어뢰침몰·20중15사망5생존 | 대서양전·덴마크중립선전몰 | 발생 | 문헌대조 | [SRC-1299](chronology-sources-v1.md) |
+| EVT-2135 | 1940-02-14 | 노르웨이 상선 Berto가 Martin Goldschmidt 생존자5명 구조 | 대서양전·노르웨이상선구조 | 발생 | 문헌대조 | [SRC-1299](chronology-sources-v1.md) |
+| EVT-2136 | 1940-02-14 | 영 유조선 Gretafield10191GRT U57에 두차례 피격화재·41중11사망30구조 | 대서양전·유조선어뢰화재 | 발생 | 문헌대조 | [SRC-1300](chronology-sources-v1.md) |
+| EVT-2137 | 1940-02-14 | Gretafield는 피격뒤 해안으로 표류했으며 최종 선체파괴는 3월19일·14일 즉시전손 아님 | 대서양전·유조선후일전손 | 발생 | 문헌대조 | [SRC-1300](chronology-sources-v1.md) |
+| EVT-2138 | 1940-02-14 | ErP17 Rantanen과 Toppola가 각각 1+4명을 이끌고 Selkälä·Aatsinginhauta 정찰후 무접촉복귀 | 겨울전쟁·Salla정찰 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2139 | 1940-02-14 | ErP17에 Tirkkonen 지휘 공병분견대 1+11명이 22시 도착 | 겨울전쟁·Salla공병지원도착 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2140 | 1940-02-14 | ErP25 Uuravaara 전초소가 08시30분 소련군 스키부대 공격으로 일시밀림 | 겨울전쟁·Uuravaara전초소급습 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2141 | 1940-02-14 | ErP25 경보병분견대가 소련군 측면포위에 전사2명·중상1명을 남기고 후퇴 | 겨울전쟁·소부대포위피해 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2142 | 1940-02-14 | ErP25 Heikinheimo 부대가 11시05분 역습해 전사자2명과 중상자1명을 아군쪽으로 수습 | 겨울전쟁·전상자수습작전 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2143 | 1940-02-14 | ErP25 14시30분 Uuravaara 소련군 공격격퇴후 소련군 포로1명과 부상부사관1명 확보 | 겨울전쟁·Salla역습및포로 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2144 | 1940-02-14 | ErP25가 적 약150명·스키정찰대대 소속이라는 포로설명을 기록·상대편제 미독립확인 | 겨울전쟁·포로심문및적군편제 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2145 | 1940-02-14 | 핀 ErP25 18시 전방경계 1·3중대 교대실시 | 겨울전쟁·초소임무교대 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2146 | 1940-02-14 | SA-kuva 14일 Märkäjärvi 스키초계 사진촬영 메타수록 | 겨울전쟁·전시기록사진 | 발생 | 문헌대조 | [SRC-1272](chronology-sources-v1.md) |
+| EVT-2147 | 1940-02-15 | 핀 전사에 소련 123소총사단의 Lähde 돌파구가 폭2~3km 깊이6km로 확대됐다고 기록 | 겨울전쟁·소련돌파구규모 | 발생 | 문헌대조 | [SRC-1293](chronology-sources-v1.md) |
+| EVT-2148 | 1940-02-15 | Mannerheim이 핀 제2군단에 20시 중간방어선 Väliasema 철수명령을 하달 | 겨울전쟁·전면철수명령 | 발생 | 문헌대조 | [SRC-1293](chronology-sources-v1.md) · [SRC-1296](chronology-sources-v1.md) |
+| EVT-2149 | 1940-02-15 | 핀 II군단 중간방어선 철수목표 Samolanlahti–Näykkijärvi–Muolaanjärvi–Äyräpäänjärvi 설정 | 겨울전쟁·중간방어선배치 | 발생 | 문헌대조 | [SRC-1293](chronology-sources-v1.md) · [SRC-1296](chronology-sources-v1.md) |
+| EVT-2150 | 1940-02-15 | 소련군이 핀군이 버린 Summa 마을과 요새진지에 진주 | 겨울전쟁·Summa점령 | 발생 | 문헌대조 | [SRC-1293](chronology-sources-v1.md) · [SRC-1295](chronology-sources-v1.md) |
+| EVT-2151 | 1940-02-15 | 핀 주력부대의 포괄철수는 15일밤~16일 진행되어 14일 국지철수와 구별 | 겨울전쟁·방어선후퇴수행 | 발생 | 문헌대조 | [SRC-1293](chronology-sources-v1.md) · [SRC-1295](chronology-sources-v1.md) |
+| EVT-2152 | 1940-02-15 | 핀측 전사에 Kuhmo 소련 Dolin 스키여단 잔병 약800명이 제9사단 포위안에 있다고 기술 | 겨울전쟁·Dolin부대포위 | 발생 | 문헌대조 | [SRC-1293](chronology-sources-v1.md) |
+| EVT-2153 | 1940-02-15 | 소련군이 라도가 Petäjäsaari 섬에 공격해 거의 하루동안 거점확보 | 겨울전쟁·Petäjäsaari도서기습 | 발생 | 문헌대조 | [SRC-1293](chronology-sources-v1.md) |
+| EVT-2154 | 1940-02-15 | 핀군이 라도가 카렐리야 Lavajärvi 소련군 모티를 무너뜨리고 마을에 진입 | 겨울전쟁·Lavajärvi모티해체 | 발생 | 문헌대조 | [SRC-1293](chronology-sources-v1.md) |
+| EVT-2155 | 1940-02-15 | Lavajärvi 모티 소련군이 함락전까지 항공수송으로 물자보급을 유지했다는 핀측 보고 | 겨울전쟁·소련항공보급 | 발생 | 문헌대조 | [SRC-1293](chronology-sources-v1.md) |
+| EVT-2156 | 1940-02-15 | Lavajärvi 모티에서 핀군이 장갑차3대 트럭8대 취사차4대 등 장비노획보고 | 겨울전쟁·모티전리품 | 발생 | 문헌대조 | [SRC-1293](chronology-sources-v1.md) |
+| EVT-2157 | 1940-02-15 | Lappeenranta 소련항공대 공습으로 사망17명·부상53명이라는 핀일별전사 | 겨울전쟁·민간도시공습인명피해 | 발생 | 문헌대조 | [SRC-1293](chronology-sources-v1.md) |
+| EVT-2158 | 1940-02-15 | 핀 사회민주당과 Suojeluskunta가 내전후 갈등을 타협해 사회민주계 노동자에게 조직가입을 허용 | 핀란드·정치사회화해 | 발생 | 문헌대조 | [SRC-1293](chronology-sources-v1.md) |
+| EVT-2159 | 1940-02-15 | 핀 국민공급부가 땔감 최고가격 발표·Tampere 자작나무103마르카/㎥·Viipuri93마르카/㎥ | 핀란드·전시물가통제 | 발생 | 문헌대조 | [SRC-1293](chronology-sources-v1.md) |
+| EVT-2160 | 1940-02-15 | 1932 올림픽 금메달 Lauri Lehtinen이 전몰 1936 우승자 Gunnar Höckert를 기려 메달기증의사 발표 | 겨울전쟁·올림픽메달기증계획 | 발생 | 문헌대조 | [SRC-1293](chronology-sources-v1.md) |
+| EVT-2161 | 1940-02-15 | 노 해군이 Altmark 선상 검문을 진행했으나 영군포로 숨겨둔 사실을 밝혀내지 못함 | 외교·Altmark검문 | 발생 | 문헌대조 | [SRC-1294](chronology-sources-v1.md) |
+| EVT-2162 | 1940-02-15 | 노 제독 Carsten Tank-Nielsen의 Altmark Bergen 군항통과 저지명령을 상급 Henry Diesen이 취소 | 외교·노중립군항지휘권충돌 | 발생 | 문헌대조 | [SRC-1294](chronology-sources-v1.md) |
+| EVT-2163 | 1940-02-15 | Altmark의 Bergen 군항통과 허가는 노르웨이 중립규정 위반이었다는 노 역사학계법률해설 | 외교·중립법평가 | 발생 | 문헌대조 | [SRC-1294](chronology-sources-v1.md) |
+| EVT-2164 | 1940-02-15 | 덴 Maryland4895GRT가 U50 02시07분 어뢰에 침몰·선원34명 전원사망 | 대서양전·덴중립선전원사망 | 발생 | 문헌대조 | [SRC-1304](chronology-sources-v1.md) |
+| EVT-2165 | 1940-02-15 | U50의 Maryland 공격 첫 어뢰 01시54분 조기폭발·02시07분 두번째 어뢰 명중 | 대서양전·어뢰조기폭발 | 발생 | 문헌대조 | [SRC-1304](chronology-sources-v1.md) |
+| EVT-2166 | 1940-02-15 | 노 Steinstad2477GRT가 U26 08시37분 어뢰침몰·24명중13실종11생존 | 대서양전·노중립선침몰 | 발생 | 문헌대조 | [SRC-1301](chronology-sources-v1.md) |
+| EVT-2167 | 1940-02-15 | Steinstad 11명 생존자는 구명정으로 20일 Arranmore 도착·선장등13명탑승 다른 구명정 실종 | 대서양전·구명정장거리생환 | 발생 | 문헌대조 | [SRC-1301](chronology-sources-v1.md) |
+| EVT-2168 | 1940-02-15 | 덴 Aase1206GRT가 U37 05시45분 어뢰침몰·16중15사망1생존 | 대서양전·덴중립상선피해 | 발생 | 문헌대조 | [SRC-1302](chronology-sources-v1.md) |
+| EVT-2169 | 1940-02-15 | Aase 유일 생존자를 HMS Verity가 17일 구조·격침 당일구조가 아님 | 대서양전·선원후일구조 | 발생 | 문헌대조 | [SRC-1302](chronology-sources-v1.md) |
+| EVT-2170 | 1940-02-15 | 네덜란드 Den Haag8971GRT U48 14시 어뢰격침·39중26사망13생존 | 대서양전·네덜란드유조선격침 | 발생 | 문헌대조 | [SRC-1303](chronology-sources-v1.md) |
+| EVT-2171 | 1940-02-15 | 영 상선 Glen Orchy가 Den Haag 생존자13명 구명정 구조 | 대서양전·영상선의적국피해자구호 | 발생 | 문헌대조 | [SRC-1303](chronology-sources-v1.md) |
+| EVT-2172 | 1940-02-15 | ErP17 Norvasuo 08시30분~17시 Aatsinginhauta 정찰 무접촉복귀 | 겨울전쟁·스키초계 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2173 | 1940-02-15 | ErP17 Takalo 1+3명 Selkälä 09~16시 정찰 무교전복귀 | 겨울전쟁·스키정찰무접촉 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2174 | 1940-02-15 | 핀 ErP17 Tirkkonen 1+9명 Onkamojärvi 북부 기뢰설치·Vatjus 1+9명 호위·17시복귀 | 겨울전쟁·공병지뢰부설 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2175 | 1940-02-15 | 핀 ErP17 Akseli Kumpula 부사관이 의무소로 이송 | 겨울전쟁·군인의무후송 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2176 | 1940-02-15 | 핀 ErP25 전선 큰 전투 없이 18~20시 중대 초소경계교대 | 겨울전쟁·초소교대 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2177 | 1940-02-15 | SA-kuva가 Lohja 철도역에서 핀 보충병 전선이동 촬영날짜15일 기록 | 겨울전쟁·전시철도사진 | 발생 | 문헌대조 | [SRC-1272](chronology-sources-v1.md) |
 | EVT-0070 | 1940-02-16 | 알트마르크 사건(노르웨이 해역 영국군 승선) | 해군·중립 | 발생 | 미등록 | — |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
