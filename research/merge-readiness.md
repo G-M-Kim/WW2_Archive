@@ -325,3 +325,8 @@ pr: 1
 - 신규 64 EVT / 15 SRC / 18 RQ, 누적 2415 EVT /1364 SRC /764 RQ. 문헌대조 2087·링크등록 192·미등록 136, 기본미대조 328.
 - [2/24~27 사료감사](source-audit-1940-feb24-27-batch1.md): 24일 Salla 군수기습·북유럽 3국 외교·Royal Archer 기뢰·Santos 31명 희생, 25일 Reuhkavaara 소련전사174/약200 상충과 영해군 U63 격침·Santos 12명구조, 26일 Honkaniemi 전차13대중6대 출격·5대격파 및 핀 자군포격 피해·Kouvola 공습, 27일 Heinrichs 지협후방선 19시철수·Tanner 외교·스웨덴 의용군 지휘권27대28일 이견. ErP17/25 당대 일지 대조.
 - 병합 비추천·Draft 유지·main/docs/Pages 승인전 불변. 다음 1940년 2월28~29일 고밀도구간.
+
+## 2026-11-02 v6.6 / 1940-02-28~29
+- 신규 58 EVT·14 SRC·18 RQ. 누적 2473 EVT / 1378 SRC / 782 RQ. 문헌대조 2137·링크등록 200·미등록 136; 기본 미대조 336.
+- [2/28~29 사료감사](source-audit-1940-feb28-29-batch1.md): 28일 핀 서북지협 Pulliniemi·Lihaniemi 철수·SFK Salla 전선인수·Tanner 종전 권고·금반지 모금·미대부 법안·야간 Lemetti 탈출. 29일 동레메티 전차71 차268 노획·Kondratyev 대 Kondrashev 구분·소련사망3000 대 일부400 보고 한계, Ruokolahti 핀7기 상실 및 덴마크 의용군, Nyrki Tapiovaara 전사, Kuhmo·Kouvola 공습·국제연맹 항의, U20 중립 이탈리아 Maria Rosa 11명당일+1명익일 사망.
+- PR Draft 유지; 병합 비추천·main/docs/Pages 변경 없음. 다음 1940-03-01~03.

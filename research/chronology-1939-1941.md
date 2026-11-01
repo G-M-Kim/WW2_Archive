@@ -2156,6 +2156,64 @@ as_of: 2026-10-25
 | EVT-2413 | 1940-02-27 | 핀 ErP25 15시 수송작업 지시·18시 Salmivaara에서 차량으로 Kemijärvi–Pelkosenniemi–Savukoski–Saija 방향 출발 | 겨울전쟁·부대차량수송 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
 | EVT-2414 | 1940-02-27 | ErP25 27일 수송서류에 8대+140명과 기관총중대13대+80명 등 차량·인원편제 기재 | 겨울전쟁·보급차량편제 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
 | EVT-2415 | 1940-02-27 | Saija로 이동한 핀 ErP25가 Roininen 소령 지휘통제 하에 재배속·28일 도착과 구분 | 겨울전쟁·부대지휘배속 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2416 | 1940-02-28 | 핀 Viipuri만 Pulliniemi·Lihaniemi 전초방어지 철수·결빙 만 횡단 소련군 공세 위험증가 | 겨울전쟁·해안방어선후퇴 | 발생 | 문헌대조 | [SRC-1365](chronology-sources-v1.md) |
+| EVT-2417 | 1940-02-28 | 핀 Taipale 전선에서 소련군 진지공격 3차례 격퇴했다는 핀 국방군 회고전사 | 겨울전쟁·국지진지전 | 발생 | 문헌대조 | [SRC-1365](chronology-sources-v1.md) |
+| EVT-2418 | 1940-02-28 | 스웨덴 의용군 Svenska Frivilligkåren이 새벽까지 Salla Märkäjärvi 전선방어 임무 인수 | 겨울전쟁·외국의용부대전선교대 | 발생 | 문헌대조 | [SRC-1365](chronology-sources-v1.md) · [SRC-1361](chronology-sources-v1.md) |
+| EVT-2419 | 1940-02-28 | Linder 총지휘 취임 27일과 Märkäjärvi 전방진지의 28일 교대 완료를 별개로 기록 | 겨울전쟁·의용군지휘권·검증 | 발생 | 문헌대조 | [SRC-1361](chronology-sources-v1.md) · [SRC-1365](chronology-sources-v1.md) |
+| EVT-2420 | 1940-02-28 | 핀 공군지원용 금반지·귀금속 수집을 Suomen Ilmapuolustusliitto·Lotta Svärd·사회민주 여성조직 공동 결정 | 겨울전쟁·여성단체·전시기부 | 발생 | 문헌대조 | [SRC-1365](chronology-sources-v1.md) |
+| EVT-2421 | 1940-02-28 | 핀 외무장관 Väinö Tanner 스톡홀름 귀국 후 소련 평화조건 수용 권고 | 겨울전쟁·외교·평화조건 | 발생 | 문헌대조 | [SRC-1365](chronology-sources-v1.md) |
+| EVT-2422 | 1940-02-28 | 핀 정부 다수가 종전협상 쪽으로 기울었으나 만네르헤임 총사령관 의견 듣기로 보류 | 겨울전쟁·전시내각협의 | 발생 | 문헌대조 | [SRC-1365](chronology-sources-v1.md) |
+| EVT-2423 | 1940-02-28 | 영불 연합국이 4월 중 핀란드 파병 1만명 제안·실제 파병 아닌 외교계획 | 겨울전쟁·연합국군사지원계획 | 발생 | 문헌대조 | [SRC-1365](chronology-sources-v1.md) |
+| EVT-2424 | 1940-02-28 | 프랑스 헬싱키 대사 Magny 핀 정부에 정식 원조요청 즉각 제출 촉구 | 겨울전쟁·프랑스외교 | 발생 | 문헌대조 | [SRC-1365](chronology-sources-v1.md) |
+| EVT-2425 | 1940-02-28 | 미 하원이 핀란드에 최대 2천만달러 대부 가능 법안 가결·최종법제화와 구분 | 겨울전쟁·미국의회대외원조 | 발생 | 문헌대조 | [SRC-1365](chronology-sources-v1.md) |
+| EVT-2426 | 1940-02-28 | 핀 제국영화작가 F. E. Sillanpää가 방위기금 기증한 노벨상 메달을 Fazer사가 10만핀마르카에 구매·작가에게 반환 | 겨울전쟁·문학·민간기부 | 발생 | 문헌대조 | [SRC-1365](chronology-sources-v1.md) |
+| EVT-2427 | 1940-02-28 | 동레메티 모티 포위 소련군 잔여병력의 야간 돌파를 앞두고 핀군 22시 총공격 계획 수립 | 겨울전쟁·모티총공세계획 | 발생 | 문헌대조 | [SRC-1367](chronology-sources-v1.md) |
+| EVT-2428 | 1940-02-28 | 동레메티 주둔 소련 제18소총사단·제34경전차여단 부대가 28일 저녁 두 갈래로 포위망 탈출 개시 | 겨울전쟁·모티탈출전 | 발생 | 문헌대조 | [SRC-1367](chronology-sources-v1.md) · [SRC-1368](chronology-sources-v1.md) · [SRC-1371](chronology-sources-v1.md) |
+| EVT-2429 | 1940-02-28 | 소련군 탈출 남쪽 부대가 Mustasuo 방면에서 스키구원부대와 접촉해 자기 진영으로 이동 | 겨울전쟁·모티돌파·구원 | 발생 | 문헌대조 | [SRC-1371](chronology-sources-v1.md) · [SRC-1368](chronology-sources-v1.md) |
+| EVT-2430 | 1940-02-28 | 동레메티 소련 탈출 다른 부대는 Vuortanajärvi 방면에 집결·야간 핀군 봉쇄선과 교전 | 겨울전쟁·포위돌파전 | 발생 | 문헌대조 | [SRC-1368](chronology-sources-v1.md) · [SRC-1371](chronology-sources-v1.md) |
+| EVT-2431 | 1940-02-28 | 핀 ErP17 07시 폭설·영하10도 보고·스웨덴 의용병이 Onkamo 갈림길 부근까지 도로 제설 | 겨울전쟁·스웨덴의용군군수작업 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2432 | 1940-02-28 | 핀 ErP17 Pieni Pyhätunturi 감시소가 19시~익일04시 Salla–Märkäjärvi 방면 군용트럭10대 통과 관측 | 겨울전쟁·야간도로정찰 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2433 | 1940-02-28 | 핀 ErP17 23:35 암호명령으로 남부경계 Paanajärvi–Ylikitkajärvi로 지정·Willamo 예하 잔류 | 겨울전쟁·전시군경계명령 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2434 | 1940-02-28 | 핀 ErP25 수송대 오전 Saija 도착·Tenniöjoki 남안 도선장 인근 참호숙영 | 겨울전쟁·부대이동완료 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2435 | 1940-02-28 | 핀 ErP25 1·3중대가 Teira 부대에서 K.V. Hattu와 K.V. Suomi 거점 경계임무 인수 | 겨울전쟁·전선거점교대 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2436 | 1940-02-28 | 핀 SA-kuva 사진메타에 Suomi 주물공장에서 노획 소련군 항공기 잔해를 용해처리 위해 절단한 현장 기록 | 겨울전쟁·군수재활용·전시사진 | 발생 | 문헌대조 | [SRC-1363](chronology-sources-v1.md) |
+| EVT-2437 | 1940-02-29 | 핀 정부가 소련과 평화협상 개시 결정·조건의 정식 수락은 3월5일로 구분 | 겨울전쟁·전시내각평화결정 | 발생 | 문헌대조 | [SRC-1372](chronology-sources-v1.md) · [SRC-1377](chronology-sources-v1.md) |
+| EVT-2438 | 1940-02-29 | 동레메티 동쪽 포위거점 이른 새벽 함락·핀 제4군단의 대규모 장비노획 | 겨울전쟁·모티전종결 | 발생 | 문헌대조 | [SRC-1366](chronology-sources-v1.md) · [SRC-1367](chronology-sources-v1.md) |
+| EVT-2439 | 1940-02-29 | 동레메티 노획전차 71대·차량268대와 무기·탄약다수라는 핀측 수량보고 | 겨울전쟁·노획장비기록 | 발생 | 문헌대조 | [SRC-1366](chronology-sources-v1.md) · [SRC-1369](chronology-sources-v1.md) |
+| EVT-2440 | 1940-02-29 | 동레메티 소련군 약3000명 전사라는 Yle 회고전사와 이르힌체프 책의 현장확인 약400명은 집계범위 달라 직접비교 주의 | 겨울전쟁·전투피해자료상충 | 발생 | 링크등록 | [SRC-1366](chronology-sources-v1.md) · [SRC-1369](chronology-sources-v1.md) |
+| EVT-2441 | 1940-02-29 | 소련 제34경전차여단장 세묜 콘드라티예프가 탈출중 전사·자살설 기록 차이 | 겨울전쟁·소련지휘관전사 | 발생 | 링크등록 | [SRC-1366](chronology-sources-v1.md) · [SRC-1368](chronology-sources-v1.md) |
+| EVT-2442 | 1940-02-29 | 소련 제18소총사단장 게오르기 콘드라셰프는 28~29일 포위망을 탈출·3월 군재판 처형사건과 구별 | 겨울전쟁·소련지휘관탈출 | 발생 | 문헌대조 | [SRC-1370](chronology-sources-v1.md) · [SRC-1368](chronology-sources-v1.md) |
+| EVT-2443 | 1940-02-29 | 소련 참모장 알렉세예프 지휘 모티 탈출 병력 중 1240명 생존·부상병환자900명이라는 핀 교육사이트 보고 | 겨울전쟁·소련부상병구출 | 발생 | 링크등록 | [SRC-1371](chronology-sources-v1.md) |
+| EVT-2444 | 1940-02-29 | 소련 지휘관 일행이 핀 JP4 부대 지휘소 부근에 진입해 새벽 약3시간 교전 | 겨울전쟁·예하지휘소방어 | 발생 | 문헌대조 | [SRC-1371](chronology-sources-v1.md) |
+| EVT-2445 | 1940-02-29 | 핀 JP4 지휘소 방어병력 약60명·소련 사망장교310명 발견이라는 후대 핀부대사 기록 | 겨울전쟁·원명부미대조전과 | 발생 | 링크등록 | [SRC-1371](chronology-sources-v1.md) |
+| EVT-2446 | 1940-02-29 | 모티탈출 지원 소련 스키부대가 JP4 진영 북동 Sydänkukkula 고지에 늦게 도착·2월29일~3월2일 잔여교전 시작 | 겨울전쟁·후속구원전 | 발생 | 문헌대조 | [SRC-1371](chronology-sources-v1.md) |
+| EVT-2447 | 1940-02-29 | 핀 소련전선 Vuoksi·Suur-Pero 방면 중간방어선 지연철수 도중 소련 전차군 돌입·핀 일부부대 혼란 | 겨울전쟁·방어진지후퇴 | 발생 | 문헌대조 | [SRC-1366](chronology-sources-v1.md) |
+| EVT-2448 | 1940-02-29 | 소련군 Viipuri만 결빙수면을 건너 Häränpäänniemi·Vilajoki 방면 공격 확대 | 겨울전쟁·해빙전선상륙공세 | 발생 | 문헌대조 | [SRC-1366](chronology-sources-v1.md) |
+| EVT-2449 | 1940-02-29 | 핀군 소련군 초도 상륙대 일부 격퇴했으나 Viipuri만 Tuppura·Teikari 섬을 야간 상실 | 겨울전쟁·도서거점상실 | 발생 | 문헌대조 | [SRC-1366](chronology-sources-v1.md) |
+| EVT-2450 | 1940-02-29 | 핀 Taipale 7사단은 2월 일평균 전사·부상 약100명이라는 후대전사·29일 하루 실수치와 구분 | 겨울전쟁·사단월별피해통계 | 발생 | 문헌대조 | [SRC-1366](chronology-sources-v1.md) |
+| EVT-2451 | 1940-02-29 | 핀 Ruokolahti 상공 핀 전투기 약15대·소련 전투기 약36대의 대규모 공중전 | 겨울전쟁·항공전 | 발생 | 문헌대조 | [SRC-1366](chronology-sources-v1.md) · [SRC-1373](chronology-sources-v1.md) |
+| EVT-2452 | 1940-02-29 | Ruokolahti 공중전에서 핀 전투기7대 손실·다수손상 및 조종사 사상보고 | 겨울전쟁·핀항공기손실 | 발생 | 문헌대조 | [SRC-1366](chronology-sources-v1.md) · [SRC-1373](chronology-sources-v1.md) |
+| EVT-2453 | 1940-02-29 | 핀 Huhanantti 대위/중위·Halme 중위가 Ruokolahti 공중전에서 전사 | 겨울전쟁·핀조종사전사 | 발생 | 문헌대조 | [SRC-1366](chronology-sources-v1.md) · [SRC-1374](chronology-sources-v1.md) |
+| EVT-2454 | 1940-02-29 | 덴마크 출신 의용 전투기 조종사 Carl Mogens Heiner Kristensen가 Ruokolahti에서 전사 | 겨울전쟁·덴마크의용군전사 | 발생 | 문헌대조 | [SRC-1366](chronology-sources-v1.md) · [SRC-1374](chronology-sources-v1.md) |
+| EVT-2455 | 1940-02-29 | 덴마크 의용 조종사 Povl Christensen는 같은 공중전에서 탈출했으나 화상부상·Kristensen 전사자와 구분 | 겨울전쟁·의용군부상·이름혼동 | 발생 | 문헌대조 | [SRC-1375](chronology-sources-v1.md) |
+| EVT-2456 | 1940-02-29 | 핀 예비하사 Kosola가 Ruokolahti 항공전 이전 당일 아침 다른 비행사고·전투에서 전사(세부원인 미확인) | 겨울전쟁·핀비행사전사 | 발생 | 링크등록 | [SRC-1366](chronology-sources-v1.md) |
+| EVT-2457 | 1940-02-29 | 핀 공중전의 소련 항공기 약4대 손실은 후대 미 공군지 주장·소련 부대원자료 미확인 | 겨울전쟁·항공전성과추산 | 발생 | 링크등록 | [SRC-1373](chronology-sources-v1.md) |
+| EVT-2458 | 1940-02-29 | 핀 영화감독이자 예비소위 Nyrki Tapiovaara가 Kollaa 방면 정찰대 지휘중 전사·시신 미수습 | 겨울전쟁·문화인전사 | 발생 | 문헌대조 | [SRC-1366](chronology-sources-v1.md) · [SRC-1376](chronology-sources-v1.md) |
+| EVT-2459 | 1940-02-29 | Nyrki Tapiovaara가 각색·연출중이던 F. E. Sillanpää 원작 영화 Miehen tie 제작 중단·다른 감독이 사후완성 | 겨울전쟁·전시영화제작중단 | 발생 | 문헌대조 | [SRC-1376](chronology-sources-v1.md) |
+| EVT-2460 | 1940-02-29 | 소련군이 Kuhmo Kilpelänkangas에서 포위된 제54소총사단 구원 위한 제3차 공세 착수 | 겨울전쟁·모티구원공세 | 발생 | 문헌대조 | [SRC-1366](chronology-sources-v1.md) |
+| EVT-2461 | 1940-02-29 | Kilpelänkangas 핀 전선에 오전에만 포탄 약3000발 낙하했다는 핀 전사보고 | 겨울전쟁·소련포병공세 | 발생 | 링크등록 | [SRC-1366](chronology-sources-v1.md) |
+| EVT-2462 | 1940-02-29 | 소련군이 Turku·Haapamäki·Savonlinna·Kouvola 등 핀 민간도시·철도망 공습 | 겨울전쟁·민간공습 | 발생 | 문헌대조 | [SRC-1366](chronology-sources-v1.md) |
+| EVT-2463 | 1940-02-29 | Kouvola 상공 소련 폭격기 132대 출현했다는 핀군 관측치·실제출격대수 미확인 | 겨울전쟁·공습규모추정 | 발생 | 링크등록 | [SRC-1366](chronology-sources-v1.md) |
+| EVT-2464 | 1940-02-29 | 핀 정부가 소련군의 자국 민간인 상대 전쟁수행과 관련 국제연맹에 항의각서 제출 | 겨울전쟁·국제법·민간인보호 | 발생 | 문헌대조 | [SRC-1366](chronology-sources-v1.md) |
+| EVT-2465 | 1940-02-29 | 핀 ErP17 01시 Märkäjärvi Ruuhijoki교 초계대 소련군 접촉후 0.5km 후퇴·07:30 복귀보고 | 겨울전쟁·초계전 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2466 | 1940-02-29 | 핀 ErP17 08:30 소련군 1개중대 규모가 Ruuhijoki 강변에 참호설치후 철수했다는 정찰대관측 | 겨울전쟁·현장정찰·적병력추정 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2467 | 1940-02-29 | 핀 ErP17 14:25 항공기3대 Hautakylä 전단투하·핀군 기관총대공사격, 명중은 추정일뿐 확인 안 됨 | 겨울전쟁·전단전·대공사격 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2468 | 1940-02-29 | 핀 ErP17 16시 Näätätunturi 귀환정찰대 특이사항없음 보고 및 Rissanen 중위 화학방호과정 복귀 | 겨울전쟁·정찰·방호훈련 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2469 | 1940-02-29 | 핀 ErP25 Saija K.V. Hattu에 2중대 1.5소대·K.V. Suomi에 3중대 1.5소대·양쪽 기관총 반소대 배치 | 겨울전쟁·지상방어진지편제 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2470 | 1940-02-29 | 핀 ErP25 1중대 1소대 후방 경계 배치·28일 거점인수 후 방어배치 완료 | 겨울전쟁·방어완료 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2471 | 1940-02-29 | 중립 이탈리아 상선 Maria Rosa 4211GRT가 U20 21:45 1차어뢰회피·22:32 2차 어뢰피격침몰 | 대서양전·중립국상선격침 | 발생 | 문헌대조 | [SRC-1378](chronology-sources-v1.md) |
+| EVT-2472 | 1940-02-29 | Maria Rosa 승선30명(선원29+영 도선사1) 중 침몰당시11명사망·익일 구조후1명 사망하여 최종12명사망18명생존 | 대서양전·해난사망시점 | 발생 | 문헌대조 | [SRC-1378](chronology-sources-v1.md) |
+| EVT-2473 | 1940-02-29 | Maria Rosa 구명정2척은 3월1일 Thorpeness–Aldeburgh 영해안 도착·29일 격침과 후일구조 분리 | 대서양전·구명정생존후속 | 발생 | 문헌대조 | [SRC-1378](chronology-sources-v1.md) |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
 | EVT-0072 | 1940-04-09 | 베저위붕 작전: 독일의 덴마크·노르웨이 침공 | 작전 | 발생 | 미등록 | — |
