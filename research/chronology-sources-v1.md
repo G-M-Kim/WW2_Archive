@@ -1348,6 +1348,23 @@ as_of: 2026-10-25
 | SRC-1204 | Propatria Finnish Winter War fallen officers Jan | Finnish officer commemoration secondary, undated | 31 Jan Rovaniemi raid officer Juho Aleksanteri Lehti killed; 16 total casualty figure and 34 aircraft | https://propatria.fi/talvisodan-upseerit/tammikuu-1940 | aircraft count conflicts with local history 26, civilian death roll pending |
 | SRC-1205 | Kalevi Mikkonen Rovaniemi Winter War air raids | Finnish local war-history compilation 2026 secondary, contemporary press and reminiscences referenced | 31 Jan Rovaniemi air raid 16 dead56 wounded 26 aircraft | https://kalevimikkonen27.blogspot.com/2026/03/rovaniemen-kauppala-talvisodan-aikana.html?m=0 | aircraft count inconsistent with other source; original air-defence log not read |
 
+| SRC-1206 | Yle 1.2.1940 Taistelut kiihtyvät Kannaksella | Yle/Puolustusvoimat 2010-02-01 2차 | Summa 10:50 포격 및 정오후 공세·Taipale 폭격·핀 전시의회·스웨덴 적십자·TASS 선전 | https://yle.fi/a/3-5500918 | 핀군 관점·폭격기 숫자 및 적 포대수 당사자 추산 |
+| SRC-1207 | Yle 3.2.1940 Hiihtopataljoona tuhotaan Kuhmossa | Yle/Puolustusvoimat 2010-02-03 2차 | Kuhmo Mankonen 소련 스키대대 격파·Kuopio 34당일사망·Viipuri Kotka 피해·7/13군 임무 | https://yle.fi/a/3-5502390 | 소련약400전몰은 핀군 전과추산·ILO소련제명설 원서류 미확인 |
+| SRC-1208 | Sallan pataljoonan ErP17 sotapäiväkirja 1-3 Feb | 핀 ErP17 당대 부대일지 1차, Yle 2009 전사 | 1일 Talvensaari 귀환, 2일 Seitamaa·Remes 장거리 순찰, 3일 보충병과 6기 항공공습 | https://yle.fi/a/3-5525170 | 원일지 후대 전사본·전과 원 소련명부 미대조 |
+| SRC-1209 | Rovaniemen ErP25 sotapäiväkirja 1-3 Feb | 핀 ErP25 당대 부대일지 1차, Yle 2009 전사 | 1일 11:40 항공공격 2일 초계무손실 3일 21:50 국지교전 | https://yle.fi/a/3-5525175 | 자군관측 적 사상자 미대조 |
+| SRC-1210 | Rauma municipal Bad Friday | Rauma시 문화역사 홍보 2021-06-24 2차 | 2월2일 Rauma 5공습경보·건물18동 피해·학교 도서관 영화관 항만창고 폭약시설 파괴 | https://www.visitrauma.fi/en/see-and-experience/unesco-world-heritage-sites/old-rauma/unesco-world-heritage-site/30-years-of-old-rauma-as-a-world-heritage-site/mp30-winter-war-bombing-and-raumas-bad-friday/ | 겨울전쟁 전체 사망4와 당일 1 추정 구분 |
+| SRC-1211 | Yle Rauma firehouse 1940 diary report | Yle Päivi Meritähti 2015-02-02 2차·Rauma 당대소방일지 1차인용 | 2월2일 09:30 최초경보·Pori Rosenlew 대피호 십여명 전사라는 후대소방관 발언 | https://yle.fi/a/3-7775747 | 원 일지 전문미열람·Pori 피해 수는 구술 근사값 |
+| SRC-1212 | Yle Kuopio Teppo Vihola bombing history | Yle Savo 2009-11-30 2차·지역연구자 인터뷰 | 3일 Kuopio 34당일즉사 및 후일3명 추가사망 | https://yle.fi/a/3-5978763 | 피해자 원명부 미대조 |
+| SRC-1213 | Savon historia Kuopio winter bombing | Savon Historia 지역학술편찬 2차·1940/02/04 Gustaf Ignatius 주지사 일기 1차인용 | 3일 Kuopio 37최종전몰·민간대피호 직격·원일기 다음날 기록 | https://savonhistoria.fi/1919-1944/talvisota/ | 당시 주지사의 초기추정과 현대 사후사망 합계 구별 |
+| SRC-1214 | Pohjois Savon Muisti Kuopio air raids | 사보북부 지방사 문화기록기관 2차 | 3일 Kuopio 34즉사, 전쟁 전체 사망41 또는43 통계 | https://pohjois-savonmuisti.fi/historia/sota-aika/talvisodan-pommitukset-kuopiossa/ | 전체전쟁 피해와 단일공습 피해 혼동금지 |
+| SRC-1215 | National WWII Museum White Death Winter War | 미국 National WWII Museum 2018 학술 해설 2차 | 2월1일 소련지협공세 개시와 2월11일 만네르헤임선 돌파 구분 | https://www.nationalww2museum.org/war/articles/white-death | 전역요약·특정날 각 부대 피해원전 아님 |
+| SRC-1216 | uboat.net Fram Feb1 | Guðmundur Helgason 잠수함 피해DB 2차 | 1일 01:43 U13 스웨덴 Fram2491GRT 23명중9사망14생존 | https://uboat.net/allies/merchants/ship/225.html | 스웨덴 해난법정·독U13 원KTB 미대조 |
+| SRC-1217 | uboat.net Ellen M Feb1 | Guðmundur Helgason 잠수함 피해DB 2차 | 1일 20:44 U59 영 Ellen M498GRT 9전원전몰 | https://uboat.net/allies/merchants/ship/224.html | 영 해난원명부 미대조 |
+| SRC-1218 | uboat.net Creofield Feb2 | Guðmundur Helgason 잠수함 피해DB 2차 | 2일 06:24 U59 영 Creofield838GRT 17전원전몰 | https://uboat.net/allies/merchants/ship/226.html | 해군원수사 미대조 |
+| SRC-1219 | uboat.net Portelet Feb2 | Guðmundur Helgason 잠수함 피해DB 2차 | 2일 20:40 U59 영 Portelet1064GRT 11중2전몰9생존, 핀 Oscar Midling 구조 2월4일상륙 | https://uboat.net/allies/merchants/ship/227.html | 2일 공격과 4일 생존자 상륙 구별 |
+| SRC-1220 | uboat.net Armanistan Feb3 | Guðmundur Helgason 잠수함 피해DB 2차 | 3일 14:32 U25 OG16 영 Armanistan6805GRT 54전원생존 스페인 Monte Abril 구조 | https://uboat.net/allies/merchants/ship/230.html | OG16 선단기록 원면 미대조 |
+| SRC-1221 | uboat.net Reet Feb3 | Guðmundur Helgason 잠수함 피해DB 2차 | 3일 09:36 U58 에스토니아 Reet815GRT 18전원전몰, 02:15/04:52 2차어뢰실패 | https://uboat.net/allies/merchants/ship/229.html | 에스토니아 선원 인명원부 U58 KTB 미대조 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.

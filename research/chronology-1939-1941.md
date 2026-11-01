@@ -1643,6 +1643,46 @@ as_of: 2026-10-25
 | EVT-1901 | 1940-01-31 | 덴 중립선 Vidar 1353GRT가 19:54 U21 어뢰에 피격돼 34중16명사망18생존·선체침몰은 2월1일 | 대서양전·Vidar어뢰 | 발생 | 문헌대조 | [SRC-1202](chronology-sources-v1.md) |
 | EVT-1902 | 1940-01-31 | U21이 Vidar 생존자를 구조하던 덴 Disko에 20:11 어뢰를 발사했으나 어뢰오작동으로 손상없음 | 대서양전·구조선공격미수 | 발생 | 문헌대조 | [SRC-1202](chronology-sources-v1.md) |
 | EVT-1903 | 1940-01-31 | JR27 원군일지에 Löytövaara 공격을 위한 새벽 공병·대전차포 투입과 계속되는 소련군 저항 | 겨울전쟁·Kuhmo전선저항 | 발생 | 문헌대조 | [SRC-1192](chronology-sources-v1.md) |
+| EVT-1904 | 1940-02-01 | 소련 티모셴코 지휘 카렐리야 지협 대공세가 시작됨·2월11일 결정적 방어선 돌파와 별개 | 겨울전쟁·지협공세 | 발생 | 문헌대조 | [SRC-1215](chronology-sources-v1.md) · [SRC-1206](chronology-sources-v1.md) |
+| EVT-1905 | 1940-02-01 | 소련군이 10:50 Summa 핀 3사단 주방어선·후방진지에 대규모 포격을 시작 | 겨울전쟁·Summa포격 | 발생 | 문헌대조 | [SRC-1206](chronology-sources-v1.md) |
+| EVT-1906 | 1940-02-01 | 소련군 전차·보병·항공 합동 공격이 오후 Summa에서 소규모 돌입했으나 핀군이 당일 격퇴 | 겨울전쟁·국지돌파 | 발생 | 문헌대조 | [SRC-1206](chronology-sources-v1.md) |
+| EVT-1907 | 1940-02-01 | 핀 정찰비행대12가 Summa 등 지협전선 소련군 포대 약100개를 확인했다고 자군보고 | 겨울전쟁·포대정찰 | 발생 | 문헌대조 | [SRC-1206](chronology-sources-v1.md) |
+| EVT-1908 | 1940-02-01 | Taipale에 소련폭격기 50기와 80기 편대가 잇달아 공습한 것으로 핀측 기록·고유 기체130대 확정 아님 | 겨울전쟁·Taipale공습 | 발생 | 문헌대조 | [SRC-1206](chronology-sources-v1.md) |
+| EVT-1909 | 1940-02-01 | 소련 폭격기30대가 Haparaisten 마을을 공격했다고 핀 당대전사 재구성 | 겨울전쟁·민간인공습 | 발생 | 문헌대조 | [SRC-1206](chronology-sources-v1.md) |
+| EVT-1910 | 1940-02-01 | Hamina·Loviisa·Porvoo·Hanko·Karjaa·Tammisaari가 소련군 항공공격을 받았다는 핀 전사 | 겨울전쟁·핀남부동시공습 | 발생 | 문헌대조 | [SRC-1206](chronology-sources-v1.md) |
+| EVT-1911 | 1940-02-01 | 핀란드 1940년 정기의회가 전시 피난지 Kauhajoki에서 개회 | 핀란드·전시의회 | 발생 | 문헌대조 | [SRC-1206](chronology-sources-v1.md) |
+| EVT-1912 | 1940-02-01 | 스웨덴 적십자 중앙위원회가 ICRC에 핀 민간인공습 조사 요청과 대책을 촉구 | 겨울전쟁·국제인도주의외교 | 발생 | 문헌대조 | [SRC-1206](chronology-sources-v1.md) |
+| EVT-1913 | 1940-02-01 | 소련 TASS가 스웨덴 죄수 석방 후 핀 의용군 파견을 주장했다는 핀 보도·주장 사실여부 불명 | 겨울전쟁·선전정보전 | 발생 | 문헌대조 | [SRC-1206](chronology-sources-v1.md) |
+| EVT-1914 | 1940-02-01 | 핀 ErP17 Talvensaari 순찰대가 04:00 적총격·신호탄 관측 후 복귀 | 겨울전쟁·스키정찰 | 발생 | 문헌대조 | [SRC-1208](chronology-sources-v1.md) |
+| EVT-1915 | 1940-02-01 | 핀 ErP25 보급도로·야전취사 부근을 11:40~12시 소련 항공기가 공격했다고 부대일지 기록 | 겨울전쟁·Salla부대공습 | 발생 | 문헌대조 | [SRC-1209](chronology-sources-v1.md) |
+| EVT-1916 | 1940-02-01 | 중립 스웨덴 Fram2491GRT가 U13 어뢰에 01:43 침몰·승무23중9전몰14생존·영해군함 구조 | 대서양전·중립선피격 | 발생 | 문헌대조 | [SRC-1216](chronology-sources-v1.md) |
+| EVT-1917 | 1940-02-01 | 영 Ellen M498GRT가 20:44 U59 전기어뢰에 침몰·9명 전원전몰 | 대서양전·상선피격 | 발생 | 문헌대조 | [SRC-1217](chronology-sources-v1.md) |
+| EVT-1918 | 1940-02-01 | 덴 Vidar가 전일 U21 어뢰를 맞은 뒤 2월1일 선체 최종침몰(1월31일 피격과 구분) | 대서양전·해난후속 | 발생 | 문헌대조 | [SRC-1202](chronology-sources-v1.md) |
+| EVT-1919 | 1940-02-02 | Rauma가 소련폭격기로 5차례 방공경보·지역에서 나쁜 금요일로 불리는 공격 발생 | 겨울전쟁·Rauma대공습 | 발생 | 문헌대조 | [SRC-1210](chronology-sources-v1.md) · [SRC-1211](chronology-sources-v1.md) |
+| EVT-1920 | 1940-02-02 | Rauma 시가지 공습으로 18채 건물 파괴, 학교·도서관·영화관·주택 등 피해 | 겨울전쟁·민간시설피해 | 발생 | 문헌대조 | [SRC-1210](chronology-sources-v1.md) |
+| EVT-1921 | 1940-02-02 | Rauma 항만 야적장·창고와 폭약 저장시설이 불타고 인접 건물3채도 파괴 | 겨울전쟁·항구·군수시설파괴 | 발생 | 문헌대조 | [SRC-1210](chronology-sources-v1.md) |
+| EVT-1922 | 1940-02-02 | Rauma 소방서 당대 기록에 09:30 첫공습경보·정오 이후 재난대응 활동 기록 | 겨울전쟁·당대소방일지 | 발생 | 문헌대조 | [SRC-1211](chronology-sources-v1.md) |
+| EVT-1923 | 1940-02-02 | Pori Rosenlew 공습대피호 직격으로 십여명 전사했다는 후대소방관 인터뷰·정확원명부 미확인 | 겨울전쟁·Pori대피호피폭 | 발생 | 링크등록 | [SRC-1211](chronology-sources-v1.md) |
+| EVT-1924 | 1940-02-02 | ErP17 Talvensaari 1+10명 순찰이 09:00 Selkälä로 출발·Hanhilampi 인근 적 정찰명령 | 겨울전쟁·원군일지정찰 | 발생 | 문헌대조 | [SRC-1208](chronology-sources-v1.md) |
+| EVT-1925 | 1940-02-02 | ErP17 Seitamaa 정찰대가 16시에 약3일 수색에서 복귀·적20~25명 휴식처를 추적했으나 매복위험으로 철수 | 겨울전쟁·적후방정찰 | 발생 | 문헌대조 | [SRC-1208](chronology-sources-v1.md) |
+| EVT-1926 | 1940-02-02 | ErP17 Remes 초계가 80km 수색 뒤 19시에 복귀하고 전날 소련군 차량공격을 보고 | 겨울전쟁·장거리초계보고 | 발생 | 문헌대조 | [SRC-1208](chronology-sources-v1.md) |
+| EVT-1927 | 1940-02-02 | ErP25는 포격·주간 항공공격과 Hangasvaara·Siskelinvaara 초계를 기록했으나 당일 사상자0 | 겨울전쟁·Salla야전일지 | 발생 | 문헌대조 | [SRC-1209](chronology-sources-v1.md) |
+| EVT-1928 | 1940-02-02 | 영 Creofield838GRT가 U59 06:24 어뢰피격 폭발침몰·선원등17명 전원전몰 | 대서양전·유조선전몰 | 발생 | 문헌대조 | [SRC-1218](chronology-sources-v1.md) |
+| EVT-1929 | 1940-02-02 | 영 Portelet1064GRT가 U59 20:40 어뢰에 침몰해 11명중2사망9생존 | 대서양전·영상선피격 | 발생 | 문헌대조 | [SRC-1219](chronology-sources-v1.md) |
+| EVT-1930 | 1940-02-02 | 중립 핀 상선 Oscar Midling이 Portelet의 생존자9명을 구조, 실제 Immingham 상륙은 2월4일 | 대서양전·민간선인명구조 | 발생 | 문헌대조 | [SRC-1219](chronology-sources-v1.md) |
+| EVT-1931 | 1940-02-03 | 핀 Mankonen 대대가 Kuhmo Löytöjärvi 일대의 소련 스키대대를 격파 완료했다고 핀 Yle 기록 | 겨울전쟁·Kuhmo교전 | 발생 | 문헌대조 | [SRC-1207](chronology-sources-v1.md) |
+| EVT-1932 | 1940-02-03 | 핀군은 3일간 소련 스키대대 약400명 전몰이라 보고했으나 소련측 명부로 독립입증 미완 | 겨울전쟁·당사자전과추산 | 발생 | 문헌대조 | [SRC-1207](chronology-sources-v1.md) |
+| EVT-1933 | 1940-02-03 | 소련군 Summa·Suokanta·Oinaala 공격을 핀 방어군이 저지했다고 전사기록 | 겨울전쟁·전선방어 | 발생 | 문헌대조 | [SRC-1207](chronology-sources-v1.md) |
+| EVT-1934 | 1940-02-03 | 소련 7군·13군이 핀 지협방어선 돌파 관련 임무를 받았다는 핀 전사·원작전명령 미대조 | 겨울전쟁·작전기획명령 | 발생 | 문헌대조 | [SRC-1207](chronology-sources-v1.md) |
+| EVT-1935 | 1940-02-03 | Kuopio 공습으로 34명 당일사망·38명 부상 기록, 후일3명 추가사망 합계37명 지역연구 | 겨울전쟁·Kuopio민간인대량피해 | 발생 | 문헌대조 | [SRC-1207](chronology-sources-v1.md) · [SRC-1212](chronology-sources-v1.md) · [SRC-1213](chronology-sources-v1.md) |
+| EVT-1936 | 1940-02-03 | Kuopio 민간인 방공호·방공참호에 폭탄이 직격해 피난민 다수전몰 | 겨울전쟁·민간대피시설피격 | 발생 | 문헌대조 | [SRC-1207](chronology-sources-v1.md) · [SRC-1213](chronology-sources-v1.md) |
+| EVT-1937 | 1940-02-03 | Viipuri 시가지 소련폭격으로 시장·구시가지·Havi 피해, 대성당 일부파괴 | 겨울전쟁·도심공습 | 발생 | 문헌대조 | [SRC-1207](chronology-sources-v1.md) |
+| EVT-1938 | 1940-02-03 | Kotka Enso Gutzeit 제재소 목재야적장에 소련폭탄으로 화재가 발생해 거의 전소 | 겨울전쟁·원료산업시설피해 | 발생 | 문헌대조 | [SRC-1207](chronology-sources-v1.md) |
+| EVT-1939 | 1940-02-03 | ErP17 제3중대에 Arvo Kylmäniemi·Lauri Pikanen·Ilmari Kulmunki 보충병3명 배속 | 겨울전쟁·부대인원보충 | 발생 | 문헌대조 | [SRC-1208](chronology-sources-v1.md) |
+| EVT-1940 | 1940-02-03 | ErP17 Hamara 정찰대가 정오 적후방교란 출발·소련 폭격기6대가 제1중대 숙영지를 공격 | 겨울전쟁·Salla정찰공습 | 발생 | 문헌대조 | [SRC-1208](chronology-sources-v1.md) |
+| EVT-1941 | 1940-02-03 | ErP25 당대일지에 소련기20mm 사격 손실0·21:50경 한시간 국지야간교전 기록 | 겨울전쟁·Salla야간교전 | 발생 | 문헌대조 | [SRC-1209](chronology-sources-v1.md) |
+| EVT-1942 | 1940-02-03 | 영 Armanistan6805GRT OG16 호송선단이 U25 14:32 어뢰에 침몰, 54명 전원생존·스페인선 구조 | 대서양전·호송선구명 | 발생 | 문헌대조 | [SRC-1220](chronology-sources-v1.md) |
+| EVT-1943 | 1940-02-03 | 에스토니아 Reet815GRT가 U58 09:36 어뢰에 침몰, 18명 전몰·선행어뢰 두 발 실패 | 대서양전·중립선전몰 | 발생 | 문헌대조 | [SRC-1221](chronology-sources-v1.md) |
 | EVT-0070 | 1940-02-16 | 알트마르크 사건(노르웨이 해역 영국군 승선) | 해군·중립 | 발생 | 미등록 | — |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
