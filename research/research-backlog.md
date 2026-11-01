@@ -750,6 +750,27 @@ updated: 2026-10-26
 | RQ-0690 | P0 | open | Aase 생존자 17일 HMS Verity 구조 | 15일 피격과 17일 후속인명구조 분리 | 1940-02-15~17 | HMS Verity 구조원일지 |
 | RQ-0691 | P0 | open | Sleipner 월별목록15일 대 개별00시16일 | 16일 Rhone·Sleipner 연쇄어뢰 사건으로 정리 필요 | 1940-02-15~16 | 독 U14 KTB·덴해난원장 |
 | RQ-0692 | P0 | open | 다음 1940년2월16~17일 Altmark 사건과 해상전 | 16일22시20분 HMS Cossack 진입·노 중립권 항의, 겨울전쟁 후퇴전 | 1940-02-16~17 | SNL·노 해군원일지·핀 Yle 일별전사 |
+| RQ-0693 | P0 | open | Altmark Jøssingfjord 독사망 당일6 후일1과 다른자료8 | 노SNL의 6+후일1·다른전사 집계8 및 독 당대6(초기)을 원명부검증 | 1940-02-16~17 | German 1940 Altmark original crew casualty roll·Norwegian police inquest |
+| RQ-0694 | P0 | open | Altmark 승선명령 17:25와 실제22:20 및 현장노경비정 | 처칠 회고신호와 영 RN 신호원본·노 Fjord 일지 교차 | 1940-02-16 | UK TNA ADM1/11524 ADM199/280-281 ADM223/27 |
+| RQ-0695 | P0 | open | Altmark 중립법 영노독 해석 | 노 항행·군항중립위반과 영국 공격 적법성 상충, 후대국제법 논쟁 | 1940-02-16~ | British Academy Simpson 2003·노1930 중립령·영 외교각서 |
+| RQ-0696 | P0 | open | Altmark 포로 299명의 신원과 각 선박 국적·독일 억류 | 영군 당대 인명명부·전 포로 운송일지 필요 | 1940-02-16~17 | HMS Cossack war report·UK British Merchant Navy prisoner manifests |
+| RQ-0697 | P0 | open | 독해군 War Diary 16~17일 번역본 원면·원 독일어 자료 | 미 해군 영어번역원전 OCR 활용·11MB웹스크린샷 거부·독 정치선전 내용 원문확인 | 1940-02-16~17 | German Bundesarchiv RM7 Naval Staff KTB + US ONI printed pp94~102 |
+| RQ-0698 | P0 | open | 16일 핀 JR62 대대 Kämärä 진지 와해·소련전차행렬 | Yle 핀 전사 작전시간, 실제 대대번호·전차 숫자 및 보급원명령 부족 | 1940-02-16 | Finnish JR62 16Feb KTB and Soviet 123D KTB |
+| RQ-0699 | P0 | open | Dolin 스키여단 9·13·34대대 북부HQ 전멸주장 | 핀 P1815은 1500사망·Yle는 1700사망, 소련측 명부 없는 과장/분모 차이 | 1940-02-15~16 | Soviet Dolin 9/13/34 ski battalion returns and Finnish POW rolls |
+| RQ-0700 | P0 | open | 16일 스웨덴 Hansson 대핀 군사개입 거절과 Tanner 스톡홀름행 | 당대 스웨덴 각료회의·핀 외무부 외교원전 필요 | 1940-02-16 | Swedish Riksarkivet 1940 War Cabinet · Tanner diary |
+| RQ-0701 | P0 | open | 16일 핀 여성 국회의원16명 국제호소 전문 | 여성 의원 모두 공동서명 여부와 외국 지원 호소의 수신기관 | 1940-02-16 | Finnish Eduskunta official proceedings and original appeal |
+| RQ-0702 | P0 | open | 16일 Sleipner 선박DB15일 대 정확00시16일 | Rhone 어뢰일 15일23:55·Sleipner16일00시·동일 U14 공격 | 1940-02-15~16 | U14 KTB Danish maritime investigative loss reports |
+| RQ-0703 | P0 | open | 16일 Liana 첫 사망10·2월24일 Santos 후일사망6 | 같은 선원에 대한 두 별도 격침 총사망수 중복집계방지 | 1940-02-16~24 | Liana original Swedish crew registry and Santos survivor manifests |
+| RQ-0704 | P0 | open | 17일 Iisalmi 41 또는42 사망 분모 | 경찰 개별전기 41명·영문전쟁전체 42·지역사 해당일42 확인 | 1940-02-17 | Finnish Iisalmi municipal memorial and hospital original death roll |
+| RQ-0705 | P0 | open | 17일 Iisalmi 소련기33 vs35 | 경찰박물관 영문공식 33대·개인전기 35대 상충 | 1940-02-17 | 소련 공군 원출격일지·핀 감시탑 원장 |
+| RQ-0706 | P0 | open | 17일 Iisalmi 방공호29명 vs31명 사망 | Savon Historia29 대 Iisalmi camera archive caption31, 피난자전체·후일사망 구별 | 1940-02-17 | Päiviönkatu shelter forensic victims and building rescue records |
+| RQ-0707 | P0 | open | 17일 Iisalmi 경찰관5인 전몰 개별신원·연령 | 경찰박물관 이름 다섯명 확인, 현장시신분류 원명부 | 1940-02-17 | Poliisimies 9/1940·Finnish Police Museum archival register |
+| RQ-0708 | P0 | open | 17일 Tampere Hämeenkatu 화재 사망자 | 사진·Yle 기사 17일 화재 확정·이날 전사수 미확정, 전체 겨울전쟁14 vs17 | 1940-02-17 | Tampere 1940 fire brigade raid log and casualty rolls |
+| RQ-0709 | P0 | open | 17일 북부집단 격추 쌍발폭격기1 전투기1 | 핀 당일군일지에 21시 보고 있으나 소련측 원기체손실미확인 | 1940-02-17 | Soviet Air unit departure/loss record |
+| RQ-0710 | P0 | open | 17일 ErP17 소련기 낙하포장물 공수침투설 | 핀부대는 소련기3대 중2대 낙하물 관측했지만 실제 낙하산부대 미확정 | 1940-02-17 | 소련 북부항공대 수송일지·핀 군경 포로체포보고 |
+| RQ-0711 | P0 | open | 17일 Pyrrhus 중국인선원8 전사와 구조자78 | 중국선원 각 명부·부선장 해군5명 등86 총원의 원자료 대조 | 1940-02-17 | UK Merchant Shipping casualty roll Pyrrhus voyage survivor manifest |
+| RQ-0712 | P0 | open | 17일 핀 Wilja 27 전원생존 후 네덜란드선에 의해 쿠바 상륙 | 기초해난DB 신뢰가능하지만 하바나 상륙날짜와 위기시각 원선원일지 확인 | 1940-02-17~ | Finnish shipping disaster inquiry and Maasdam log |
+| RQ-0713 | P0 | open | 다음 1940-02-18~19 해상전·중립권·겨울전쟁 | Altmark 17일 독 선전 뒤19일 Weserubung 계획가속 결정, 18일 HMS Daring 격침 | 1940-02-18~19 | German Naval Staff KTB·US Army CMH Command Decisions · RN War Diary |
 
 ## 조사기록·원전으로의 역참조
 
