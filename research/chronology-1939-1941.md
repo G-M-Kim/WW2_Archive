@@ -1813,6 +1813,44 @@ as_of: 2026-10-25
 | EVT-2071 | 1940-02-11 | 노 Snestad4114GRT가 U53 공격에 침몰해36명 탈출·2명은 13일 구조선 재공격중 사망 | 대서양전·중립상선후일사망 | 발생 | 문헌대조 | [SRC-1269](chronology-sources-v1.md) |
 | EVT-2072 | 1940-02-11 | 영 Imperial Transport8022GRT가 U53 어뢰에 선수절단·2명 익사하나 선미 복구되어 1941년 복귀 | 대서양전·절단유조선구조 | 발생 | 문헌대조 | [SRC-1270](chronology-sources-v1.md) |
 | EVT-2073 | 1940-02-11 | 에스토니아 Linda1213GRT가 U9 18:20 어뢰침몰해1명사망·승선총원 미확인 | 대서양전·중립상선침몰 | 발생 | 문헌대조 | [SRC-1271](chronology-sources-v1.md) |
+| EVT-2074 | 1940-02-12 | Lähde 소련군이 전날 돌파구의 측면·후방으로 공격확대 | 겨울전쟁·지협돌파확대 | 발생 | 문헌대조 | [SRC-1274](chronology-sources-v1.md) · [SRC-1275](chronology-sources-v1.md) |
+| EVT-2075 | 1940-02-12 | Million 보루 최종상실 12일과13일설 상충·정확날짜 미확인 | 겨울전쟁·요새함락일논쟁 | 발생 | 링크등록 | [SRC-1275](chronology-sources-v1.md) |
+| EVT-2076 | 1940-02-12 | 핀란드가 소련강화조건 통지를 12일 받았다는 Osprey 연표·원외교전문 미확인 | 겨울전쟁·강화외교 | 발생 | 링크등록 | [SRC-1273](chronology-sources-v1.md) |
+| EVT-2077 | 1940-02-12 | 소련 제15군에 Impilahti–Sortavala 방면 작전명령 12일 부여 | 겨울전쟁·소련군공세명령 | 발생 | 문헌대조 | [SRC-1274](chronology-sources-v1.md) · [SRC-1273](chronology-sources-v1.md) |
+| EVT-2078 | 1940-02-12 | Kuhmo 핀 북부HQ 08:20 Luvelahti·Kannas 소련모티공세 지속 | 겨울전쟁·모티공세 | 발생 | 문헌대조 | [SRC-1277](chronology-sources-v1.md) |
+| EVT-2079 | 1940-02-12 | 핀 북부HQ Kuusijoki 방어선 유지·Luvelahti Kannas 보루 여러곳 점령보고 | 겨울전쟁·모티진지점령 | 발생 | 문헌대조 | [SRC-1277](chronology-sources-v1.md) |
+| EVT-2080 | 1940-02-12 | 북부HQ Sumsan 소련군 소대급 공격격퇴 및 Kiekinkoski·Pirttijärvi 진출저지 기록 | 겨울전쟁·국지방어전 | 발생 | 문헌대조 | [SRC-1277](chronology-sources-v1.md) |
+| EVT-2081 | 1940-02-12 | 핀 JR25 박격포중대 2소대 박격포탄34발 발사 | 겨울전쟁·포병일지 | 발생 | 문헌대조 | [SRC-1279](chronology-sources-v1.md) |
+| EVT-2082 | 1940-02-12 | 핀 ErP17 Vatjus 초계 병사동상으로 조기 복귀 | 겨울전쟁·동상정찰철수 | 발생 | 문헌대조 | [SRC-1280](chronology-sources-v1.md) |
+| EVT-2083 | 1940-02-12 | ErP17 15:20 소련기 기총사격·폭격으로 핀 병사 Ollila 부상 | 겨울전쟁·전방공습 | 발생 | 문헌대조 | [SRC-1280](chronology-sources-v1.md) |
+| EVT-2084 | 1940-02-12 | 핀 ErP25 영하40도 이하 박격포 사격탄 절반이상 불발 | 겨울전쟁·혹한탄약고장 | 발생 | 문헌대조 | [SRC-1281](chronology-sources-v1.md) |
+| EVT-2085 | 1940-02-12 | 핀 ErP25 초계1+6명이 Petäjävaara 소련군 모닥불 사격·적10전몰은 핀군추정 | 겨울전쟁·스키정찰전 | 발생 | 문헌대조 | [SRC-1281](chronology-sources-v1.md) |
+| EVT-2086 | 1940-02-12 | 영 HMS Gleaner가 독 U33 잠수함 격침·승조25전사17생존 | 대서양전·잠수함격침 | 발생 | 문헌대조 | [SRC-1282](chronology-sources-v1.md) · [SRC-1283](chronology-sources-v1.md) |
+| EVT-2087 | 1940-02-12 | 노 Nidarholm3482GRT U26 어뢰침몰·승선25명 전원생존 | 대서양전·노중립선격침 | 발생 | 문헌대조 | [SRC-1285](chronology-sources-v1.md) |
+| EVT-2088 | 1940-02-12 | 노 Berto가 Nidarholm 생존자25명 약10시간 뒤 구조 | 대서양전·상선구명 | 발생 | 문헌대조 | [SRC-1285](chronology-sources-v1.md) |
+| EVT-2089 | 1940-02-12 | 스웨덴 Dalarö3927GRT U53 09:35 어뢰격침·선장1전몰29생존 | 대서양전·스웨덴중립선전몰 | 발생 | 문헌대조 | [SRC-1286](chronology-sources-v1.md) |
+| EVT-2090 | 1940-02-12 | 벨기에 어선 Jan de Waele가 Dalarö 생존자29명 구조 | 대서양전·어선구명 | 발생 | 문헌대조 | [SRC-1286](chronology-sources-v1.md) |
+| EVT-2091 | 1940-02-12 | U25가 덴 Chastine Mærsk에 12일 저녁 어뢰2발 공격실패·실제 함포격침은13일 | 대서양전·어뢰공격실패 | 발생 | 문헌대조 | [SRC-1287](chronology-sources-v1.md) |
+| EVT-2092 | 1940-02-12 | 노 Albert L Ellsworth가 Snestad 생존자 구조 | 대서양전·중립선구호 | 발생 | 문헌대조 | [SRC-1289](chronology-sources-v1.md) · [SRC-1290](chronology-sources-v1.md) |
+| EVT-2093 | 1940-02-13 | 소련 제123사단이 Lähde 대전차장애물 돌파·도로교차로까지 약4km 전진 | 겨울전쟁·제2방어선돌파 | 발생 | 문헌대조 | [SRC-1274](chronology-sources-v1.md) · [SRC-1275](chronology-sources-v1.md) |
+| EVT-2094 | 1940-02-13 | 핀 2개 연대 Lähde 돌파구 반격 실패·인접 Merkki Summankylä 진지 항전지속 | 겨울전쟁·핀반격실패 | 발생 | 문헌대조 | [SRC-1273](chronology-sources-v1.md) |
+| EVT-2095 | 1940-02-13 | 미국 공사 Schoenfeld와 Ryti 총리가 소핀평화·독일중재·포병탄약부족 면담 | 외교·미국핀란드전시접촉 | 발생 | 문헌대조 | [SRC-1276](chronology-sources-v1.md) |
+| EVT-2096 | 1940-02-13 | Ryti 총리가 소련과 대등한 평화교섭만 수락하고 독일중재에 반대한다고 미측에 설명 | 외교·핀란드강화정책 | 발생 | 문헌대조 | [SRC-1276](chronology-sources-v1.md) |
+| EVT-2097 | 1940-02-13 | Ryti 총리의 소련지협돌파 핀반격복구 설명은 당시 총리의 인식이며 독립전선사실 아님 | 겨울전쟁·총리전황평가 | 발생 | 문헌대조 | [SRC-1276](chronology-sources-v1.md) |
+| EVT-2098 | 1940-02-13 | 핀 공병9대대 제2중대 보급천막이 소련초계 기습당해 차량문서천막 파괴 | 겨울전쟁·공병보급대기습 | 발생 | 문헌대조 | [SRC-1278](chronology-sources-v1.md) |
+| EVT-2099 | 1940-02-13 | 핀 공병보급부대 기습으로 전사7 부상2 군마10마리 폐사·Kälkänen 후퇴 | 겨울전쟁·공병대참사 | 발생 | 문헌대조 | [SRC-1278](chronology-sources-v1.md) |
+| EVT-2100 | 1940-02-13 | 핀 북부HQ 소련54사단 예하부대 식량부족·항공보급실패·포위탈출불가 감청전문 수록 | 겨울전쟁·포위군통신감청 | 발생 | 문헌대조 | [SRC-1277](chronology-sources-v1.md) |
+| EVT-2101 | 1940-02-13 | 핀 북부HQ Jumissa 스키초계30명 전몰 자군주장·Kiekinkoski 소련군2개중대 이동관측 | 겨울전쟁·북부전선관측 | 발생 | 문헌대조 | [SRC-1277](chronology-sources-v1.md) |
+| EVT-2102 | 1940-02-13 | Sissipataljoona5가 12~13일 Kuhmo 도착해 Kessel 교전참가 | 겨울전쟁·스키대대투입 | 발생 | 문헌대조 | [SRC-1277](chronology-sources-v1.md) |
+| EVT-2103 | 1940-02-13 | 핀 북부HQ Pirttijärvi 얼음에 소련기4대착륙 중1기격파3기이륙 주장 | 겨울전쟁·항공보급대응 | 발생 | 문헌대조 | [SRC-1277](chronology-sources-v1.md) |
+| EVT-2104 | 1940-02-13 | 핀 JR25 진지에 새 야포대·대전차포1문 배속 | 겨울전쟁·대전차포증원 | 발생 | 문헌대조 | [SRC-1279](chronology-sources-v1.md) |
+| EVT-2105 | 1940-02-13 | ErP17 Hellberg·Hamara 정찰대 귀환 후 Aatsingintiehaara 야영지 이동 | 겨울전쟁·정찰숙영 | 발생 | 문헌대조 | [SRC-1280](chronology-sources-v1.md) |
+| EVT-2106 | 1940-02-13 | ErP25 10~20시 전방초소 교대·당일 평온이라는 부대일지 | 겨울전쟁·진지교대 | 발생 | 문헌대조 | [SRC-1281](chronology-sources-v1.md) |
+| EVT-2107 | 1940-02-13 | 독 U54 북해 영기뢰지대 실종41전원사망 추정·손실일13일경 대14일 자료이견 | 대서양전·U54실종 | 발생 | 링크등록 | [SRC-1284](chronology-sources-v1.md) · [SRC-1283](chronology-sources-v1.md) |
+| EVT-2108 | 1940-02-13 | 덴 Chastine Mærsk5177GRT U25 08:36~08:45 함포격침·선원30전원생존 노 Hilda 구조 | 대서양전·덴중립선격침 | 발생 | 문헌대조 | [SRC-1287](chronology-sources-v1.md) |
+| EVT-2109 | 1940-02-13 | 스웨덴 Norna1022GRT 실종18명전원사망으로 후대 U53 귀속·공격시각미확정 | 대서양전·스웨덴중립선실종 | 발생 | 링크등록 | [SRC-1288](chronology-sources-v1.md) |
+| EVT-2110 | 1940-02-13 | U50가 01:55·02:05·02:16 구조선 Albert L Ellsworth 어뢰공격 실패 | 대서양전·구조선공격미수 | 발생 | 문헌대조 | [SRC-1289](chronology-sources-v1.md) · [SRC-1290](chronology-sources-v1.md) |
+| EVT-2111 | 1940-02-13 | Albert L Ellsworth 탈출소동 중 Snestad 생존선원2명 익사·11일 직접사망이 아님 | 대서양전·구조중후일사망 | 발생 | 문헌대조 | [SRC-1289](chronology-sources-v1.md) · [SRC-1290](chronology-sources-v1.md) |
 | EVT-0070 | 1940-02-16 | 알트마르크 사건(노르웨이 해역 영국군 승선) | 해군·중립 | 발생 | 미등록 | — |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |

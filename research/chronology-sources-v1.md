@@ -1419,6 +1419,26 @@ as_of: 2026-10-25
 | SRC-1271 | uboat.net Linda Feb11 | Gudmundur Helgason specialist secondary; Estonian U9 at18:20 one dead, complement unknown | Gudmundur Helgason specialist secondary; Estonian U9 at18:20 one dead, complement unknown | https://uboat.net/allies/merchants/ship/241.html | 원문 전체·인명 원명부 및 번역 한계 추가확인 |
 | SRC-1272 | Yle SA-kuva Feb10-11 | Finnish army original SA-kuva photo metadata reissued Yle 2014; rights belong archive | Finnish army original SA-kuva photo metadata reissued Yle 2014; rights belong archive | https://yle.fi/aihe/a/20-69537 | 원문 전체·인명 원명부 및 번역 한계 추가확인 |
 
+| SRC-1273 | Finland at War Winter War 1939-40 | Vesa Nenye Peter Munter Toni Wirtanen Chris Birks Osprey 2015 2차 printed p18 | 12일 핀 소련 강화조건 전달·15군 재편·13일 Lähde 핀2개연대 반격실패 | https://api.pageplace.de/preview/DT0400.9781472813589_A26654249/preview-9781472813589_A26654249.pdf | 저작권 소장 출판사·미리보기만 직접검토 |
+| SRC-1274 | The Soviet Plans for the North Western Theatre | Ohto Manninen Finnish National Defence College 2004 학술2차 인쇄45·51 | 12일 소련15군 Impilahti Sortavala 명령·13일 Lähde 소련 123사단 4km 전진 | https://www.doria.fi/bitstream/handle/10024/119977/FDS%2016%20OCR.pdf?isAllowed=y&sequence=2 | 원소련 작전명령 원문미열람 |
+| SRC-1275 | Breaking the Mannerheim Line | War on the Rocks 2023 군사전술역사2차 | Million 보루 12일 또는13일 최종함락 시점 자료충돌 | https://warontherocks.com/breaking-the-mannerheim-line-soviet-strategic-and-tactical-adaptation-in-the-finnish-soviet-winter-war/ | 핀소 원전사 확인필요 |
+| SRC-1276 | FRUS 1940 General vI d259 telegram 760D.61/1097 | US Minister H F A Schoenfeld 1940-02-13 18시 미국외교전문 1차 인쇄289~290 | Ryti 총리 소련강화·독중재 거부·포병탄약 부족 및 자신의 전황인식 설명 | https://history.state.gov/historicaldocuments/frus1940v01/d259 | 총리 주장과 독립 군사전선사실 구분 |
+| SRC-1277 | Northern Finland HQ war diary P1815 | 핀 북부집단 당대원일지1차 Matti Halonen2014 전사 인쇄38~39/52 | 12일 Luvelahti Kannas 거점공세·13일09:45 소련54사단 감청내용 및 Pirttijärvi 항공기 | https://www.talvisotakuhmossa.fi/wp-content/uploads/sites/4/2025/12/1.-Pohjois-Suomen-ryhman-esikunnan-sotapaivakirja.pdf | 소련원무전 미확인·핀 적손실 추산 |
+| SRC-1278 | Pioneeripataljoona9 war diary P3537 | 핀 공병9대대 당대원일지1차 Matti Halonen2015 전사 인쇄6/12 | 13일12시 보급부대 기습 핀7전사2부상 군마10폐사 문서차량파괴 | https://www.talvisotakuhmossa.fi/wp-content/uploads/sites/4/2025/12/Pioneeripataljoona-9-sotapaivakirja-Suomussalmen-ja-Kuhmon-rintamalta-12.pdf | 원필사본미검·현재 전사본만 확인 |
+| SRC-1279 | JR25 mortar company diary P3573 | 핀 JR25 박격포 당대일지1차 Matti Halonen2014 전사 인쇄9/15 | 12일 박격포34발·13일 보강포대 및 대전차포1문 도착 | https://www.talvisotakuhmossa.fi/wp-content/uploads/sites/4/2025/12/Jalkavakirykmentti-25-kranaatinheitinkomppanian-sotapaivakirja-Kuhmon-rintamalta.-15.pdf | 소대단위 자군보고 |
+| SRC-1280 | ErP17 Salla war diary | 핀 ErP17 제3중대 1940 당대일지 1차 Yle2009 전사 | 12일 동상정찰철수·15:20 Ollila 부상·13일 정찰 및 숙영지이동 | https://yle.fi/a/3-5525170 | 핀 군인당사자 전사본 |
+| SRC-1281 | ErP25 Rovaniemi war diary | 핀 ErP25 당대일지1차 Yle2009 전사 | 12일 영하40도 박격포탄 과반 불발·정찰적10전몰 핀측주장·13일 초소교대 | https://yle.fi/a/3-5525175 | 상대전몰 독립원명부 없음 |
+| SRC-1282 | uboat.net German U33 loss | Guðmundur Helgason 전문잠수함 DB 2차 | 12일 HMS Gleaner U33 격침25전사17생존 | https://uboat.net/boats/u33.htm | RN 원해전일지 미열람 |
+| SRC-1283 | US Navy German Uboat casualties WWII | US Naval History and Heritage Command 참고편찬2차 | U33 12일 Gleaner 격침·U54 손실일14일 표기 | https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/united-states-submarine-losses/german-u-boat-casualties-in-world-war-two.html | U54 후대날짜추정 이견 |
+| SRC-1284 | uboat.net U54 sinking | Guðmundur Helgason 독잠수함전사 DB 2차 | 13일 전후 북해 영기뢰로 U54 41전원실종·14일 실종보고 | https://uboat.net/boats/u54.htm | 기뢰4대6 및 정확침몰일 불확정 |
+| SRC-1285 | uboat.net Nidarholm | Guðmundur Helgason 해난 DB 2차 | 12일 U26 격침 노상선3482GRT 25전원생존 Berto 구조 | https://uboat.net/allies/merchants/ship/245.html | 노 원해난보고 미확인 |
+| SRC-1286 | uboat.net Dalaro | Guðmundur Helgason 해난 DB 2차 | 12일 U53 스웨덴상선3927GRT 선장1전사29생존 벨기에 Jan de Waele 구조 | https://uboat.net/allies/merchants/ship/246.html | 스웨덴 선원명부 미확인 |
+| SRC-1287 | uboat.net Chastine Maersk | Guðmundur Helgason 해난DB 2차 | 12일 U25 어뢰2발실패·13일 함포격침 덴상선 30생존 Hilda 구조 | https://uboat.net/allies/merchants/ship/248.html | 덴 원해난법정 미확인 |
+| SRC-1288 | uboat.net Norna | Guðmundur Helgason 해난DB 2차 | 13일 스웨덴 Norna1022GRT 18전원실종 U53 격침귀속 | https://uboat.net/allies/merchants/ship/247.html | 정확침몰시각과 귀속 원문미확인 |
+| SRC-1289 | uboat.net Snestad | Guðmundur Helgason 해난DB 2차 | 13일 U50가 구조선 공격시 Snestad 생존자2 익사·11일 원침몰과 구별 | https://uboat.net/allies/merchants/ship/243.html | 후일사망임 |
+| SRC-1290 | uboat.net Albert L Ellsworth | Guðmundur Helgason 해난DB 2차 | 12일 Snestad 승조원 구출·13일 어뢰피격미수 생환·1943년 실제 침몰별개 | https://uboat.net/allies/merchants/ship/2578.html | 선박대표 격침일1943년과 혼동 금지 |
+| SRC-1291 | Yle SA-kuva Winter War photos | 핀 국방군 원사진 메타 Yle2014 재게시 1차사진수록 | 12일 Rovaniemi 관측초소·13일 Kajaani 공습흔적 사진메타 | https://yle.fi/aihe/a/20-69537 | 원필름·저작권 조건 확인필요 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
