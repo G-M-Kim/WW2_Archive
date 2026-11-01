@@ -1721,6 +1721,52 @@ as_of: 2026-10-25
 | EVT-1979 | 1940-02-06 | 핀 ErP25 3중대가 06시 1중대 대신 전방방어임무를 인수하고 참호와 지하호 건설 | 겨울전쟁·전선부대교대 | 발생 | 문헌대조 | [SRC-1226](chronology-sources-v1.md) |
 | EVT-1980 | 1940-02-06 | 핀 ErP25에 10시 스웨덴군 장교25명이 방문한 사실이 전시 부대일지에 기록 | 겨울전쟁·스웨덴군사방문 | 발생 | 문헌대조 | [SRC-1226](chronology-sources-v1.md) |
 | EVT-1981 | 1940-02-06 | 에스토니아 중립상선 Anu1421GRT가 1939년12월12일 U13이 설치한 기뢰에 2월6일 침몰·6즉사와 요리사 후일사망 합계7명 | 대서양전·사전부설기뢰민간인피해 | 발생 | 문헌대조 | [SRC-1232](chronology-sources-v1.md) |
+| EVT-1982 | 1940-02-07 | 소련군이 Summa에서 핀 JR9 진지 방공호 한 곳을 중포로 직격해 핀군 18명 전사·11명 부상 | 겨울전쟁·지협방공호포격 | 발생 | 문헌대조 | [SRC-1236](chronology-sources-v1.md) |
+| EVT-1983 | 1940-02-07 | 핀군이 소련군의 Summa 보병·전차 두 차례 돌격을 격퇴했다고 핀 당일전사 기록 | 겨울전쟁·Summa진지방어 | 발생 | 문헌대조 | [SRC-1236](chronology-sources-v1.md) |
+| EVT-1984 | 1940-02-07 | 핀 Pajari 분견대가 Aittojoki·Kuukkausjoki 서쪽으로 반격했으나 강한 소련군 화력에 저녁 중지 | 겨울전쟁·국지반격실패 | 발생 | 문헌대조 | [SRC-1236](chronology-sources-v1.md) |
+| EVT-1985 | 1940-02-07 | Suomussalmi Raatteentie 남쪽 국경으로 건너온 소련정찰대를 핀 초계가 저지했다고 핀군 기록 | 겨울전쟁·국경초계전 | 발생 | 문헌대조 | [SRC-1236](chronology-sources-v1.md) |
+| EVT-1986 | 1940-02-07 | 소련군이 Kajaani 시를 공습해 민간인·군인 포함 4명 사망, Kajaani 공식박물관은 항공기45대·약2000발을 추산 | 겨울전쟁·Kajaani민간공습 | 발생 | 문헌대조 | [SRC-1236](chronology-sources-v1.md) · [SRC-1238](chronology-sources-v1.md) · [SRC-1151](chronology-sources-v1.md) |
+| EVT-1987 | 1940-02-07 | Kajaani 방공일지에는 Ipat 상점 붕괴로 의무장교 Lille·장교 Lehto 사망, 공습대피소 여성과 어린이 사망 기록 | 겨울전쟁·Kajaani개별희생자 | 발생 | 문헌대조 | [SRC-1151](chronology-sources-v1.md) |
+| EVT-1988 | 1940-02-07 | Kajaani 공습 건물손실은 방공일지 약40동 대 시박물관60~70동으로 자료마다 상이 | 겨울전쟁·도시피해통계이견 | 발생 | 링크등록 | [SRC-1151](chronology-sources-v1.md) · [SRC-1238](chronology-sources-v1.md) |
+| EVT-1989 | 1940-02-07 | Kajaani 방공일지에 Vuokatti 항공폭격으로 산림손실이 있으나 인명피해 없음이라고 기록 | 겨울전쟁·Vuokatti공습 | 발생 | 문헌대조 | [SRC-1151](chronology-sources-v1.md) |
+| EVT-1990 | 1940-02-07 | 헬싱키 당국이 야간등화·차광규정 위반 12명을 벌금처분했다는 핀 전사 | 겨울전쟁·전시민방공법집행 | 발생 | 문헌대조 | [SRC-1236](chronology-sources-v1.md) |
+| EVT-1991 | 1940-02-07 | 덴마크 코펜하겐 핀란드 의용지원 모집소 개설 이틀간 약1250명이 지원했다고 핀Yle 기록(실제출정과 별개) | 겨울전쟁·외국인의용병지원 | 발생 | 문헌대조 | [SRC-1236](chronology-sources-v1.md) |
+| EVT-1992 | 1940-02-07 | 미하원에서 John McCormack이 주모스크바 미국대사 관련 예산삭제 수정안을 냈으나 찬성105 반대108로 부결 | 미국·대소련정치의회 | 발생 | 문헌대조 | [SRC-1240](chronology-sources-v1.md) |
+| EVT-1993 | 1940-02-07 | 핀 ErP25 소련군의 새벽01:20 Uurasvaara와 Hatajavaara 사이 침투·핀 3중대 일부 후퇴 뒤 반격해 진지회복·핀 1명전사 | 겨울전쟁·Salla전방급습 | 발생 | 문헌대조 | [SRC-1209](chronology-sources-v1.md) |
+| EVT-1994 | 1940-02-07 | 핀 ErP25 08시 스웨덴 자원군3명이 포함된 Bäver 정찰대가 적진지 확인을 위해 출발, 16:40 귀환 | 겨울전쟁·스웨덴의용병정찰 | 발생 | 문헌대조 | [SRC-1209](chronology-sources-v1.md) |
+| EVT-1995 | 1940-02-07 | ErP17 Vatjus 1장교2병사가 07~17시 Aatsinginhauta 적군경계정찰 후 유의미한 적접촉 없이 복귀 | 겨울전쟁·Salla소규모초계 | 발생 | 문헌대조 | [SRC-1208](chronology-sources-v1.md) |
+| EVT-1996 | 1940-02-07 | 핀 JR65 제4중대가 06:30 Löytövaara 방면 새 숙영지에 전개했다는 원군일지 | 겨울전쟁·Kuhmo부대이동 | 발생 | 문헌대조 | [SRC-1243](chronology-sources-v1.md) |
+| EVT-1997 | 1940-02-07 | 핀 JR65 박격포중대 1소대가 아군방어선 지원으로 소련지역에 박격포 약100발을 발사했다고 원일지 기록 | 겨울전쟁·Kuhmo박격포지원 | 발생 | 문헌대조 | [SRC-1244](chronology-sources-v1.md) |
+| EVT-1998 | 1940-02-07 | 핀 JR25 박격포중대가 대포사거리 조정을 위한 박격포7발·10발 시험사격 실시 | 겨울전쟁·야전포조정 | 발생 | 문헌대조 | [SRC-1245](chronology-sources-v1.md) |
+| EVT-1999 | 1940-02-07 | Kuusamo Kostonjärvi 부근에서 소련낙하산병으로 여겨진 2명이 핀 신분증 위조문서와 통화를 소지한채 체포됐다는 지역전사 | 겨울전쟁·위장침투포로체포 | 발생 | 링크등록 | [SRC-1246](chronology-sources-v1.md) |
+| EVT-2000 | 1940-02-07 | 소련 점령지 Suojärvi에서 Lyyli Halonen의 가족 등 민간인들의 Kaimaoja 수용지 이송이 시작됐다는 후대 개인회고연표 | 겨울전쟁·점령민간인강제이주 | 발생 | 링크등록 | [SRC-1247](chronology-sources-v1.md) |
+| EVT-2001 | 1940-02-07 | 영 여객선 Munster 4305GRT가 U30이 1월6일 설치한 기뢰에 06시 침몰했으나 승무45명과 승객190명 총235명 생존 | 대서양전·여객선기뢰전원생존 | 발생 | 문헌대조 | [SRC-1241](chronology-sources-v1.md) · [SRC-1239](chronology-sources-v1.md) |
+| EVT-2002 | 1940-02-07 | 스웨덴에서 핀 공군용 Fiat G50 FA8이 사고로 손상되고 조종사 Asser Wallenius가 부상했다는 항공전사 | 겨울전쟁·전투기인수중사고 | 발생 | 링크등록 | [SRC-1248](chronology-sources-v1.md) |
+| EVT-2003 | 1940-02-08 | 소련군 2개 사단이 오전10시 이후 Taipale 전선에 보병·포병·항공 연합공격 개시 | 겨울전쟁·Taipale2개사단대공세 | 발생 | 문헌대조 | [SRC-1237](chronology-sources-v1.md) |
+| EVT-2004 | 1940-02-08 | 소련군이 Taipale Terenttilä의 핀 전방초소 두 곳을 점령, Kirvesmäki 방향 공격은 핀군이 격퇴했다고 기록 | 겨울전쟁·진지상실방어 | 발생 | 문헌대조 | [SRC-1237](chronology-sources-v1.md) |
+| EVT-2005 | 1940-02-08 | 2월8일 Taipale 핀군 사상자가 총219명이고 그중 전사32명이라는 핀군 후대전사(219명 전사 아님) | 겨울전쟁·Taipale핀군피해 | 발생 | 문헌대조 | [SRC-1237](chronology-sources-v1.md) |
+| EVT-2006 | 1940-02-08 | Summa에서 소련군이 철갑 방패달린 썰매형 엄폐구를 앞세워 진입했으나 핀군이 저지·엄폐구 약150개 노획 핀측보고 | 겨울전쟁·기갑엄폐전술 | 발생 | 문헌대조 | [SRC-1237](chronology-sources-v1.md) |
+| EVT-2007 | 1940-02-08 | 소련이 핀측에 기지용으로 내줄 수 있는 핀란드만 섬의 구체명을 재문의했다고 핀 후대전사 | 겨울전쟁·소핀기지외교 | 발생 | 문헌대조 | [SRC-1237](chronology-sources-v1.md) |
+| EVT-2008 | 1940-02-08 | 핀 Ryti·Walden·Tanner가 영불 파병지원 가능성을 소련과 스웨덴에 대한 협상지렛대로 논의 | 겨울전쟁·서방지원계획외교 | 발생 | 문헌대조 | [SRC-1237](chronology-sources-v1.md) |
+| EVT-2009 | 1940-02-08 | 헝가리 출신 의용조종사 Wilhelm Bekassy가 스웨덴에서 핀란드로 Fiat G50 FA7 기체를 공수 중 실종 | 겨울전쟁·항공기전환비행실종 | 발생 | 문헌대조 | [SRC-1237](chronology-sources-v1.md) · [SRC-1248](chronology-sources-v1.md) |
+| EVT-2010 | 1940-02-08 | 스웨덴의 핀란드지원 국민성금 누적액이 약1500만 스웨덴크로나에 달했다는 핀 Yle 보고 | 겨울전쟁·민간후원 | 발생 | 문헌대조 | [SRC-1237](chronology-sources-v1.md) |
+| EVT-2011 | 1940-02-08 | 핀 ErP25 Koivuranta 전초소가 17시 소련군 기관총공격을 받고 반격해 격퇴했다고 원전시일지 기록 | 겨울전쟁·Salla진지초소교전 | 발생 | 문헌대조 | [SRC-1209](chronology-sources-v1.md) |
+| EVT-2012 | 1940-02-08 | 핀 JR65 제4중대가 05:05 Riihivaara 방향 공격을 개시하고 소련군과 교전 뒤 18시 복귀 | 겨울전쟁·Kuhmo소규모공격 | 발생 | 문헌대조 | [SRC-1243](chronology-sources-v1.md) |
+| EVT-2013 | 1940-02-08 | JR65 박격포중대와 동행한 핀군의 적지 벙커 공격이 실패했다고 원일지 기록·원인명손실 미확인 | 겨울전쟁·Kuhmo공격실패 | 발생 | 문헌대조 | [SRC-1244](chronology-sources-v1.md) |
+| EVT-2014 | 1940-02-09 | 소련군 작전지휘부가 Kuusamo 점령과 Kuusamo–Märkäjärvi 도로 장악을 위한 계획을 하달했다는 지역사연구(실행되지 않음) | 겨울전쟁·실행되지않은작전 | 발생 | 링크등록 | [SRC-1246](chronology-sources-v1.md) |
+| EVT-2015 | 1940-02-09 | 핀 ErP17 Hyttinen 1장교3병사 정찰대가 04시 출발해08시 적발견 없이 귀환 | 겨울전쟁·정찰실패 | 발생 | 문헌대조 | [SRC-1208](chronology-sources-v1.md) |
+| EVT-2016 | 1940-02-09 | 핀 ErP17 Hamara 1장교10병사 정찰대가 06시 Saukkotunturi·Lampela 관측출발 18:30 복귀 | 겨울전쟁·스키초계 | 발생 | 문헌대조 | [SRC-1208](chronology-sources-v1.md) |
+| EVT-2017 | 1940-02-09 | ErP17의 15:30 총성확인에 23명을 출동시켰으나 근원지는 적보병이 아닌 아군의 소련항공기 사격으로 드러남 | 겨울전쟁·오인출동 | 발생 | 문헌대조 | [SRC-1208](chronology-sources-v1.md) |
+| EVT-2018 | 1940-02-09 | ErP25는 07시 Alakulppi 매복정찰대가 전날21시부터 기다렸으나 적병력이 없어 무교전 복귀 | 겨울전쟁·매복수색 | 발생 | 문헌대조 | [SRC-1209](chronology-sources-v1.md) |
+| EVT-2019 | 1940-02-09 | 핀 ErP25의 옛 Hatajavaara 기만진지에 18~20시 소련전차3대 포격·사망자 없다고 원군일지 기록 | 겨울전쟁·허위진지기갑포격 | 발생 | 문헌대조 | [SRC-1209](chronology-sources-v1.md) |
+| EVT-2020 | 1940-02-09 | 핀 JR65 제4중대가 05:05 Riihivaara 재공격 중 강한 저항에 실패·U.Nurminen 전사 및4명 부상 기록 | 겨울전쟁·Kuhmo소부대공격실패 | 발생 | 문헌대조 | [SRC-1243](chronology-sources-v1.md) |
+| EVT-2021 | 1940-02-09 | 핀 JR65 박격포중대가 제1소대 85발·제3소대 40발 사격을 원일지에 보고 | 겨울전쟁·Kuhmo박격포탄발사 | 발생 | 문헌대조 | [SRC-1244](chronology-sources-v1.md) |
+| EVT-2022 | 1940-02-09 | 핀 SA-kuva 전쟁사진 목록에 Hyrynsalmi에서 소련군 포로의 스키장비를 확인하는 군장교 사진이 9일 촬영으로 등록 | 겨울전쟁·포로장비사진 | 발생 | 문헌대조 | [SRC-1190](chronology-sources-v1.md) |
+| EVT-2023 | 1940-02-09 | Kajaani 방공센터 일지는 Sukeva의 소련군 폭격으로 1명 사망했다고 13:44 무선연락에 기재 | 겨울전쟁·Sukeva지역공습 | 발생 | 문헌대조 | [SRC-1151](chronology-sources-v1.md) |
+| EVT-2024 | 1940-02-09 | 영 Chagres 5406GRT가 U30이 1월6일 부설한 기뢰에 01:05 침몰, 승무64명중2사망62명 구조 | 대서양전·사전부설기뢰피해 | 발생 | 문헌대조 | [SRC-1242](chronology-sources-v1.md) |
+| EVT-2025 | 1940-02-09 | 애버딘 인근에서 독일 He111 폭격기2대가 영 해군 소해정 HMS Robert Bowen을 격침·탑승자 전원전몰 | 대서양전·소해정항공기격침 | 발생 | 문헌대조 | [SRC-1239](chronology-sources-v1.md) · [SRC-1249](chronology-sources-v1.md) |
+| EVT-2026 | 1940-02-09 | 독일 He111 항공기가 영 해군 소해정 HMS Fort Royal을 공격해 격침·초기영해군보고 실종10명과 후대명부 인원불일치 | 대서양전·소해정항공기격침 | 발생 | 링크등록 | [SRC-1239](chronology-sources-v1.md) · [SRC-1249](chronology-sources-v1.md) |
+| EVT-2027 | 1940-02-09 | 독일기2대가 Dundee 일대 영 해군 준설선/바지선을 공격해 2명 익사했다고 당시 해군일지 보고 | 대서양전·비전투지원선공격 | 발생 | 문헌대조 | [SRC-1239](chronology-sources-v1.md) |
 | EVT-0070 | 1940-02-16 | 알트마르크 사건(노르웨이 해역 영국군 승선) | 해군·중립 | 발생 | 미등록 | — |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
