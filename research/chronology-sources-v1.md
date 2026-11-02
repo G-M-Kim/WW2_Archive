@@ -1596,72 +1596,43 @@ as_of: 2026-10-25
 | SRC-1437 | FRUS 1940 Vol I doc282 Telegram160 / US Secretary of State Cordell Hull 1940-03-11 자정 | 1차 미 외교지령 760D.61/1288 | 스빈후부드 방독견해 공식확증 없어 핀협상단 전달부적절 판단 | https://history.state.gov/historicaldocuments/frus1940v01/d282 | 수신시간·지시이행 여부 미확인; 접근확인일 2026-11-02·핀란드어/영어 한국어요약·저작권 원문복제 없음 |
 | SRC-1438 | Kuortanelaiset talvisodassa / Sotiemme Perinne 지역참전자전사 발행연도 미확인 | 2차 지역전사 원부대기록 재인용 | 9일 Vasikkasaari 08:50 공세·13시 이후 소련후퇴·원부대 JR24 대 JR23 혼동 | https://sotiemmeperinne.fi/alueellinen-perinnetyo/kuortanelaiset-talvisodassa/ | 지역전사 회고·핀군 전과 편향·원부대일지 미열람; 접근확인일 2026-11-02·핀란드어/영어 한국어요약·저작권 원문복제 없음 |
 
+## 1940년 3월 12~31일 추가 출처
+
+| 출처 ID | 자료명·작성자·발행 | 자료 유형 | 근거 위치·대응 내용 | 원문 URL | 한계·번역·이용 조건 |
+|---|---|---|---|---|---|
 | SRC-1439 | FRUS 1940 General I, doc287 / Lawrence Steinhardt → 국무장관, 1940-03-13 정오; 미 국무부 | 1차 외교전보(조약 공개문 요약) | 760D.6111/41; 전문283; pp315–317·편집주1; 조약 제I–IX조·정전의정서 | https://history.state.gov/historicaldocuments/frus1940v01/d287 | 서명일12일과 정전13일 구별; 전문281의 비준기한3일을10일로 정정. 서명원본·지도 미열람; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1440 | 13.3.1940: Rauha alkaa kello 11 / Yle, 2010-03-13·2012-06-03 갱신; 개별저자 미확인 | 2차 공영방송 전사 연표 | 정전11시·일부 지역 지연; 서명시각13일01시 Suomen aikaa | https://yle.fi/a/3-5526476 | 조약 표기12일과 실제서명13일새벽 시각 설명이 불일치할 수 있음; 조약 표기일과 구별. 전쟁총손실수는 이번 인용 제외; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1441 | Väinö Tannerin radiopuhe talvisodan rauhan ehdoista / Reijo Perälä, Yle Elävä arkisto, 2006-09-08·2024-03-04 갱신 | 1차 방송음원 소장목록 + 2차 해설 | 1940-03-13 12시 외무장관 방송; 원음원 식별 연결 제공 | https://yle.fi/a/20-79188 | 음원 전체 청취·축어대조 미실시; 확인범위는 방송일시·내용해설. 연설의 자국정책 정당화 편향; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1442 | Sir Michael O'Dwyer (Assassination) / 영국 하원, Chamberlain 답변 1940-03-14 | 1차 의회회의록 | HC Deb vol358 cc1372–1373; 전날13일 런던 Caxton Hall 총격 | https://api.parliament.uk/historic-hansard/commons/1940/mar/14/sir-michael-odwyer-assassination | 당시 Udham Singh은 살인혐의 기소단계; 후일 판결과 구분. O'Dwyer와 Reginald Dyer를 혼동하지 않음; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1443 | Scapa Flow Museum Favourite Object: A sign with a sad story / Nick Hewitt, Orkney Islands Council; 게시일 미확인 | 2차 박물관 유물해설 | 1940-03-16 Brig o' Waithe 폭격 파편피해 표지판과 James Isbister | https://www.orkney.gov.uk/latest-news/scapa-flow-museum-favourite-object-blog-a-sign-with-a-sad-story-nick-hewitt/ | 최초라는 범위는 영국 내 적 항공폭격 민간인 희생; 해난·해외 사망까지 포함한 최초 아님; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1444 | UFA NR 448 / 독일 UFA 당시 뉴스영화; Imperial War Museums 소장목록 | 1차 선전영상 + 2차 소장내용 기술 | IWM Film record19343; XI항 Hörnum 1940-03-19 공습후 외신기자 안내 | https://film.iwmcollections.org.uk/record/19343 | 영화 전체 미시청; 목록을 열람. 독일 측 무피해 선전은 피해확정 아님; 영국의 대파발표와 독립검증 필요; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1445 | Chronik des Seekrieges 1939–1945: März 1940 / Jürgen Rohwer·Gerhard Hümmelchen 계열 연표, Historisches Marinearchiv; 갱신2019-10-30 | 2차 전문해전 연표 | 13·21·23·24·28·31 März 항목; 일별 HTML·쪽수없음 | https://www.historisches-marinearchiv.de/projekte/rohwer_chronik/40-03.htm | 해군원일지 미대조. 다른 단락의 겨울전쟁 사상자·U22 손실원인 등은 이번 검증근거로 채택하지 않음; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1446 | U-19 8th War Patrol / Joachim Schepke 전쟁일지; Jerry Mason·Andi Forster 영문번역, U-boat Archive; 번역게시일 미확인 | 1차 군일지 번역·원독일어 스캔연결 | KTB 1940-03-19~20, 인쇄 pp4–6; 요약표와 본문 시각차 | https://www.uboatarchive.net/U-19/KTB19-8.htm | 공격측은 선명·국적을 당시 미확인; 후대 선박동정과 구분. 본문·요약표·전문DB 시간차를 RQ로 남김; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1447 | Slava / Guðmundur Helgason, uboat.net; 개별수정일 미확인 | 2차 선박피해DB | ship3580: 1940-03-16, U29 3/2 부설기뢰, 승선34·사망1·생존33 | https://uboat.net/allies/merchants/ship/3580.html | 유고슬라비아 중립선; 기뢰부설일과 피해일 구분; 원선원명부 미대조; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1448 | Argentina / Guðmundur Helgason, uboat.net; 개별수정일 미확인 | 2차 선박피해DB | ship294: 1940-03-17, 5375GRT·33명실종; U38 피격선으로 후대추정 | https://uboat.net/allies/merchants/ship/294.html | 본문 must have been이라는 동정추론; 선명확증 아님. 승선인원 전체 원명부 미대조; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1449 | Charkow / Guðmundur Helgason, uboat.net; 개별수정일 미확인 | 2차 선박피해DB | ship295: 1940-03-19 U19·1026GRT·20명전몰 | https://uboat.net/allies/merchants/ship/295.html | 3/26 표류시신 발견과19일 공격일 구분; KTB 원본문과 교차하되 신원은 후대연구; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1450 | Minsk / Guðmundur Helgason, uboat.net; 개별수정일 미확인 | 2차 선박피해DB | ship296: 1940-03-19 U19·1229GRT·11명사망9명생존 | https://uboat.net/allies/merchants/ship/296.html | HMS Esk 구조; 당일상륙표기와야간공격시간 양립 여부 원함일지 미대조; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1451 | Viking / Guðmundur Helgason, uboat.net; 개별수정일 미확인 | 2차 선박피해DB | ship297: 1940-03-20 U19·1153GRT·15사망2생존 | https://uboat.net/allies/merchants/ship/297.html | 공격날짜·손실수 확인; 구조자 개별원명부 미대조; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1452 | Bothal / Guðmundur Helgason, uboat.net; 개별수정일 미확인 | 2차 선박피해DB | ship298: 1940-03-20 U19·2109GRT·15사망5생존 | https://uboat.net/allies/merchants/ship/298.html | DB05:15 대 KTB본문05:18; 분단위시각은 확정하지 않음; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1453 | Algier / Guðmundur Helgason, uboat.net; 개별수정일 미확인 | 2차 선박피해DB | ship300: 1940-03-21 U38·1654GRT·5사망18생존 | https://uboat.net/allies/merchants/ship/300.html | 사망자는 승무원4와 승객1; 20일 첫빗나감과21일 격침을 한사건으로 정리; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1454 | Christiansborg / Guðmundur Helgason, uboat.net; 개별수정일 미확인 | 2차 선박피해DB | ship301: 1940-03-21 U38·3270GRT·1사망24생존 | https://uboat.net/allies/merchants/ship/301.html | HMS Discovery II 구조·선미폐기와 U38 피격을 합쳐 1사건; 독립전과 이중집계 금지; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1455 | Britta / Guðmundur Helgason, uboat.net; 개별수정일 미확인 | 2차 선박피해DB | ship302: 1940-03-25 U47·1146GRT·13사망5생존 | https://uboat.net/allies/merchants/ship/302.html | 덴마크 Nancy 구조; 생존자 원진술·시각 미대조; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1456 | Daghestan / Guðmundur Helgason, uboat.net; 개별수정일 미확인 | 2차 선박피해DB | ship303: 3/20 항공손상; 3/25 U57 격침·4사망25생존 | https://uboat.net/allies/merchants/ship/303.html | 2/20 U19 명중주장 빗나감과 구분; 3/20 호송 HN20 표기와 다른연표 ON21 연결은 미확정; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1457 | Cometa / Guðmundur Helgason, uboat.net; 개별수정일 미확인 | 2차 선박피해DB | ship304: 1940-03-26 U38·3794GRT·승선42전원생존 | https://uboat.net/allies/merchants/ship/304.html | 42명은 노르웨이 선원31·스웨덴승객6·영국군5; 영국검문조 승선과 중립선 공격규칙은 별도 검증; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1458 | Paul Reynaud / 프랑스 Assemblée nationale, Sycomore 의원사전(Jean Jolly 계열); 게시일 미확인 | 2차 의회 공식인물사전 | fiche6710 Gouvernement·Biographies; 1940-03-21 총리·외무장관 취임 | https://www2.assemblee-nationale.fr/sycomore/fiche/6710 | 정부구성일21일 확인; Daladier 사임제출일·의회 신임투표일은 별개; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1459 | The Easter Pogrom, 1940 / Katarzyna Person, Jewish Historical Institute; 게시일 미확인 | 2차 전문연구·동시대기록 간접인용 | 본문·주7: 개시22일 주장이나23·24일설; 주1·3 Czerniaków 일기1983 pp97–98; ARG I460(I/176) | https://www.jhi.pl/en/articles/the-easter-pogrom-1940,354 | 본문22일을확정하지않음. 독일조정의 구체지휘·피해자수 미확정; 원일기·ARG 원본 미열람; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1460 | Comment Lahore Resolution and Pakistan / Sharif al Mujahid, Pakistan Perspectives 10(2), 2005; 온라인2020-02-18 | 2차 학술논문 초록 | 초록 23–24 March 1940; article354; 쪽수 미확인 | https://www.journal.psc.edu.pk/index.php/pp/article/view/354 | 초록·서지 열람, PDF본문 미확인. 제출·채택일 및 결의문 원문 대조 전에는23일단독채택 확정금지; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1461 | 大事记 1940 / 中国大百科全书 军事卷 온라인연표; 개별저자·게시일 미확인 | 2차 군사백과 연표 | 3/20 五原 개시·22일 점령·26일재함락·4/1재점령; 3/21半塔集~29일 | https://js.bkzx.cn/events?year=1940 | 중국측편찬의 당파적용어·전과숫자는 확정인용제외; 정확 일자·일본/국민당 기록 교차필요; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1462 | 五原战役：歼灭水川伊夫中将 / 人民网党史频道, 2015-06-25; 개별저자 미확인 | 2차 전투회고·당사국기념서술 | 五原 회복공세의 준비·공격 전개; 20~22일 날짜대조용 | https://dangshi.people.com.cn/n/2015/0625/c85037-27208504.html | 일본장교계급·전과·사망자 숫자는 원명부 미검으로 채택하지 않음; 군사백과와 독립원전 여부 미확인; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1463 | The War: Neutrals and the Blockade / Earl Stanhope, 영국 상원, 1940-04-02 | 1차 의회회의록·선언문 재록 | 3/28 최고전쟁회의와 영불공동선언; 현대 Hansard debate170d020c-dc7d-481e-b60d-c14d98b59bef; 권·열번호 미확인 | https://hansard.parliament.uk/Lords/1940-04-02/debates/170d020c-dc7d-481e-b60d-c14d98b59bef/TheWarNeutralsAndTheBlockade | 발표일3/28과 의회보고4/2 구분; 비공개회의의 모든 결정내용을 입증하지 않음; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1464 | FRUS 1940 General I doc290 / Steinhardt, 1940-03-20 정오; 미 국무부 | 1차 외교전보·TASS 발표재록 | 758.60D11/8; 전문315; p319 표기 | https://history.state.gov/historicaldocuments/frus1940v01/d290 | 3/18 스웨덴대사면담·3/20공개반대 구별; 소련입장 및 미대사해석 구분; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1465 | FRUS 1940 General I doc292 / Steinhardt, 1940-03-26 19시; 미 국무부 | 1차 외교전보+후대편집주 | 758.60D11/12; 전문330; pp321–322; 주1 Rolf Witting 3/27 취임 | https://history.state.gov/historicaldocuments/frus1940v01/d292 | 3/25 Molotov와 스웨덴대표 면담 전언; 핀27일개각은 당시본문예측이아닌 편집주로확인; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1466 | FRUS 1940 General I doc294 / Frederick Sterling, 1940-03-28 15시; 미 국무부 | 1차 외교전보(Erkko 전언) | 758.60D11/13; 전문152; 인쇄쪽수 미확인 | https://history.state.gov/historicaldocuments/frus1940v01/d294 | 소련통보는 yesterday=3/27; 28일 새통보로 중복기록금지. 소련원통고 미열람; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1467 | FRUS 1940 General I doc293 / H F Arthur Schoenfeld, 1940-03-28 13시; 미 국무부 | 1차 외교전보·Ryti 면담보고 | 860D.00/878; 전문165; p323 표기; 재건·복지·동원해제 | https://history.state.gov/historicaldocuments/frus1940v01/d293 | Ryti의 약18000전사 등 당시잠정수는 최종전쟁손실 아님; 외교적 자기평가와 사실을 구분; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1468 | FRUS 1940 Far East IV doc349 / Edwin F Stanton, 1940-03-30 14시 南京; 미 국무부 | 1차 외교전보·출범식 보고 | 893.01/704; 전문28; 인쇄쪽수 미확인 | https://history.state.gov/historicaldocuments/frus1940v04/d349 | 왕정권의유일합법정부주장은 당사자선언으로만취급; 출범과 일본의후일정식승인 구분; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1469 | FRUS 1940 Far East IV doc350 / Nelson T Johnson, 1940-03-31 정오 重慶; 미 국무부 | 1차 외교전보·중국외교공한 전언 | 893.01/703; 전문159; 王寵惠 3/30자 공한; 인쇄쪽수 미확인 | https://history.state.gov/historicaldocuments/frus1940v04/d350 | 공한날짜30·전문보고31 구분; 원첨부공한은 편집주 Not printed, 미직접열람; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1470 | 카렐리야 ASSR의 카렐로핀 SSR 전환법 / 소련정부, 1940-03-31; ЭБИД 소장 | 1차 법률 인쇄본 스캔·목록 | node500830; Известия №80(7152), 1940-04-06; Внешняя политика СССР IV, Москва1946 재록; 쪽수미확인 | https://docs.historyrussia.org/ru/nodes/500830 | 목록과연결스캔에서 법률명·31일자 확인; 법률전문 축어번역·공화국영토 경계조항 검증은 후속; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1471 | Funeral procession for Prime Minister Savage / 뉴질랜드 문화유산부 Manatū Taonga, NZHistory; 갱신2026-07-17 | 2차 정부역사해설 + 1차 사진목록 | 3/27 재임중사망·3/30 장례행렬; 사진 Alexander Turnbull Library 1/1-021744-G | https://nzhistory.govt.nz/the-funeral-of-michael-joseph-savage | 이번색인은 사망일만사용; 후임Fraser 정식취임일과혼동금지. 텍스트CC BY-NC3.0 NZ·사진별조건; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
-
 | SRC-1472 | FRUS 1940 General I doc28 / Sumner Welles 유럽특사 보고, 1940년2~3월; 미 국무부 | 1차 외교보고(복수날짜 기록) | 121.840 Welles, Sumner/132½; 3/18 회담예고·3/19 Ciano사후전언 pp111–112 | https://history.state.gov/historicaldocuments/frus1940v01/d28 | 회담직접참석자기록 아님; 예고·사후전언과 실제 회담내용 분리. 전체문서가2/26 작성된것 아님; 확인2026-11-02; 원언어→한국어 자체요약; 원문·사진 재게시 없음·이용조건 개별확인 |
 
 ## 출처의 권위에 대한 주의
