@@ -1,5 +1,5 @@
 ---
-title: 세계대전 연표 1939–1941 (1940년 6월 30일까지 1차 범위 검토)
+title: 세계대전 연표 1939–1941 (1940년 7월 31일까지 1차 범위 검토)
 status: review-draft
 as_of: 2026-11-02
 ---
@@ -2764,9 +2764,51 @@ as_of: 2026-11-02
 | EVT-3007 | 1940-06-28 | 독일군이 Jersey·Guernsey를 공습해 민간인 피해;Jersey사망10/11명자료상충 | 공습·민간인피해 | 발생 | 문헌대조 | [SRC-1616](chronology-sources-v1.md) · [SRC-1617](chronology-sources-v1.md) · [SRC-1618](chronology-sources-v1.md) |
 | EVT-3008 | 1940-06-28 | 중국 Guocun(郭村)에서 리밍양·리창장계 병력과 신사군 정진종대의 전투 개시라는 중국측 기록 | 중국전선·국공충돌 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
 | EVT-3009 | 1940-06-30 | 독일군이 Guernsey에 상륙·점령;Jersey점령은7월1일 | 채널제도·점령 | 발생 | 문헌대조 | [SRC-1618](chronology-sources-v1.md) |
-| EVT-0084 | 1940-07-03 | 메르스엘케비르 해전/영국의 프랑스 함대 공격 | 해전 | 발생 | 미등록 | — |
-| EVT-0085 | 1940-07-10 | 영국 본토 항공전 개시(통상 연표 기준) | 항공전 | 발생 | 링크등록 | [SRC-004](chronology-sources-v1.md) |
-| EVT-0086 | 1940-07-16 | 바다사자 작전 관련 히틀러 지령 16호(영국 침공 계획) | 계획 | 미실행 | 미등록 | — |
+| EVT-3011 | 1940-07 | 영국이 파괴공작·저항운동 지원을 위한 SOE를 창설하는 조직개편 추진(7월);정확일자는원각의문후속 | 정보·저항조직 | 발생 | 문헌대조 | [SRC-1642](chronology-sources-v1.md) |
+| EVT-3012 | 1940-07 | 스기하라가 Kaunas에서 일본 통과비자를 발급해 유대인 난민 등의 피난을 지원(7~8월) | 난민·외교구조 | 발생 | 문헌대조 | [SRC-1643](chronology-sources-v1.md) · [SRC-1644](chronology-sources-v1.md) |
+| EVT-3013 | 1940-07 | 일본군이 진시베이(晉西北) 근거지를 공격하고 팔로군 등이 대응했다는 중국측의7월중순기록 | 중일전쟁·점령지작전 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3014 | 1940-07-01 | 독일군이 Jersey를 점령·Guernsey6/30점령과구분 | 채널제도·점령 | 발생 | 문헌대조 | [SRC-1618](chronology-sources-v1.md) |
+| EVT-3015 | 1940-07-01 | Moyale의 영국측 수비대가 이탈리아군의 초기 공격을 격퇴 | 동아프리카·국경전 | 발생 | 문헌대조 | [SRC-1624](chronology-sources-v1.md) |
+| EVT-3016 | 1940-07-01 | 자유프랑스 해군(FNFL) 창설이라는 해방훈장박물관 연표기록 | 항전세력·해군조직 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) |
+| EVT-3017 | 1940-07-02 | 독일군이 Alderney에 상륙·점령 | 채널제도·점령 | 발생 | 문헌대조 | [SRC-1618](chronology-sources-v1.md) |
+| EVT-3018 | 1940-07-02 | 캐나다로 이송되던 수용자 등이 탄 Arandora Star가 아일랜드 근해에서 독일 잠수함 어뢰로 침몰 | 억류·해상인명피해 | 발생 | 문헌대조 | [SRC-1631](chronology-sources-v1.md) |
+| EVT-0084 | 1940-07-03 | 영국 함대가 Mers-el-Kébir의 프랑스 함정을 포격·Bretagne침몰과다수함손상;Strasbourg탈출 | 해전·프랑스함대공격 | 발생 | 문헌대조 | [SRC-1622](chronology-sources-v1.md) |
+| EVT-3019 | 1940-07-04 | 독일군이 Sark를 점령 | 채널제도·점령 | 발생 | 문헌대조 | [SRC-1618](chronology-sources-v1.md) |
+| EVT-3020 | 1940-07-04 | 이탈리아군이 Kassala·Gallabat 등을 공격·점령 | 동아프리카·국경공세 | 발생 | 문헌대조 | [SRC-1624](chronology-sources-v1.md) |
+| EVT-3021 | 1940-07-04 | 독일 공군 급강하폭격기들이 영국 해협의 보급선단을 공격 | 영국항공전·해상교통공격 | 발생 | 문헌대조 | [SRC-1626](chronology-sources-v1.md) |
+| EVT-3022 | 1940-07-05 | 중공중앙이 항전3주년 시국선언을 발표하고 항전 지속을 호소 | 중국전선·정치선언 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3023 | 1940-07-05 | Alexandria에서 Godfroy가 프랑스 함정의 연료하역·전투불능화를 수락해 영불무력충돌 위기 완화 | 해군·무장해제협상 | 발생 | 문헌대조 | [SRC-1622](chronology-sources-v1.md) |
+| EVT-3024 | 1940-07-06 | 영국 항모 Ark Royal 항공대가 Dunkerque를 재공격해 추가 손상 | 프랑스함대·항공공격 | 발생 | 문헌대조 | [SRC-1622](chronology-sources-v1.md) |
+| EVT-3025 | 1940-07-06 | Tadeusz Wiejowski가 민간노동자 도움으로 Auschwitz에서 탈출·수감자들에6~7일징벌점호와후속보복 | 수용소·탈출·집단처벌 | 발생 | 문헌대조 | [SRC-1632](chronology-sources-v1.md) |
+| EVT-3026 | 1940-07-07 | 이탈리아군이 Kurmuk의 수단 경찰수비대를 공격·격파 | 동아프리카·국경공세 | 발생 | 문헌대조 | [SRC-1624](chronology-sources-v1.md) |
+| EVT-3027 | 1940-07-08 | 쑤위 지휘 신사군 강남지휘부 주력이 양쯔강을 북상도하해 다른부대와 합류 | 중국전선·병력이동 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3028 | 1940-07-08 | 영국이 Dakar의 프랑스 전함 Richelieu를 소형정·항모 Hermes 항공대로 공격 | 프랑스함대·항공해상공격 | 발생 | 문헌대조 | [SRC-1622](chronology-sources-v1.md) |
+| EVT-3029 | 1940-07-08 | 자유프랑스 공군(FAFL) 창설이라는 해방훈장박물관 연표기록 | 항전세력·공군조직 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) |
+| EVT-3030 | 1940-07-09 | Calabria(Punta Stilo) 앞바다에서 영국·이탈리아 주력함대 교전 | 지중해·함대전 | 발생 | 문헌대조 | [SRC-1623](chronology-sources-v1.md) |
+| EVT-0085 | 1940-07-10 | 영국 본토 항공전의 영국측 공식집계 개시일;그이전공습·해협교전존재 | 항공전 | 발생 | 문헌대조 | [SRC-004](chronology-sources-v1.md) · [SRC-1625](chronology-sources-v1.md) · [SRC-1626](chronology-sources-v1.md) |
+| EVT-3031 | 1940-07-10 | 프랑스 양원이 국민의회로 모여 페탱정부에 새헌법 제정권한을 위임하는 법률 채택 | 정치·헌정변경 | 발생 | 문헌대조 | [SRC-1628](chronology-sources-v1.md) · [SRC-1629](chronology-sources-v1.md) |
+| EVT-3032 | 1940-07-10 | 영국 전투기사령부 최초의 체코 비행대가 Duxford에서 편성 | 연합공군·부대창설 | 발생 | 문헌대조 | [SRC-1626](chronology-sources-v1.md) |
+| EVT-3033 | 1940-07-10 | 이탈리아군이 Moyale에 강화공격 개시·수일교전뒤영국측철수 | 동아프리카·국경전 | 발생 | 문헌대조 | [SRC-1624](chronology-sources-v1.md) |
+| EVT-3034 | 1940-07-11 | 페탱이 헌정행위들로 국가원수 권한을 장악하고 의회를 휴회 상태로 둠 | 정치·권위주의체제 | 발생 | 문헌대조 | [SRC-1628](chronology-sources-v1.md) |
+| EVT-3035 | 1940-07-13 | 영국 전투기사령부 최초의 폴란드 비행대가 Leconfield에서 편성 | 연합공군·부대창설 | 발생 | 문헌대조 | [SRC-1626](chronology-sources-v1.md) |
+| EVT-3036 | 1940-07-14 | 소련 점령하 라트비아에서 단일 후보명부의 의회선거 실시(14~15일) | 점령통치·통제선거 | 발생 | 문헌대조 | [SRC-1604](chronology-sources-v1.md) |
+| EVT-0086 | 1940-07-16 | 바다사자작전 준비 지령16호 발령·상륙선행조건과준비기한설정;침공계획은미실행 | 계획·준비명령 | 미실행 | 문헌대조 | [SRC-1627](chronology-sources-v1.md) |
+| EVT-3037 | 1940-07-16 | 중국 외교부가 버마 도로 수송제한 문제에 관한 성명을 발표했다는 중국 군사백과 기록 | 중국전선·외교항의 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3038 | 1940-07-17 | 영국과 일본이 버마 경유 대중국 군수물자 수송을3개월 제한하는 합의;당일공식인지·예외조건구별 | 동아시아·보급로제한 | 발생 | 문헌대조 | [SRC-1636](chronology-sources-v1.md) · [SRC-1637](chronology-sources-v1.md) · [SRC-1638](chronology-sources-v1.md) |
+| EVT-3039 | 1940-07-19 | Hitler가 Reichstag 연설에서 영국에 협상·평화 호소를 제시 | 외교·정치연설 | 발생 | 문헌대조 | [SRC-1645](chronology-sources-v1.md) |
+| EVT-3040 | 1940-07-19 | Cape Spada 해전에서 영국·호주 함정들이 이탈리아 순양함 Bartolomeo Colleoni를 격침 | 지중해·해전 | 발생 | 문헌대조 | [SRC-1623](chronology-sources-v1.md) |
+| EVT-3041 | 1940-07-21 | 소련 점령하 라트비아 의회가 소비에트공화국을 선포하고 소련편입을 요청 | 점령통치·편입절차 | 발생 | 문헌대조 | [SRC-1604](chronology-sources-v1.md) |
+| EVT-3042 | 1940-07-22 | 에스토니아 의회가 소련편입 결의 채택·실제소련의편입승인은8월 | 점령통치·편입절차 | 발생 | 문헌대조 | [SRC-1640](chronology-sources-v1.md) |
+| EVT-3043 | 1940-07-22 | 일본 제2차 고노에 후미마로 내각 성립 | 일본·정부개편 | 발생 | 문헌대조 | [SRC-1633](chronology-sources-v1.md) |
+| EVT-3044 | 1940-07-22 | 비시정부가1927년이후 귀화 재심사를 규정한 법률 제정·후속국적박탈로연결 | 박해·국적정책 | 발생 | 문헌대조 | [SRC-1630](chronology-sources-v1.md) |
+| EVT-3045 | 1940-07-22 | 영국 Local Defence Volunteers의 명칭을 Home Guard로 변경 | 영국방위·군조직 | 발생 | 문헌대조 | [SRC-1626](chronology-sources-v1.md) |
+| EVT-3046 | 1940-07-22 | 프랑스·영국 공동통치 New Hebrides가 자유프랑스 합류를 선언했다는 연구기록 | 태평양·항전세력합류 | 발생 | 문헌대조 | [SRC-1619](chronology-sources-v1.md) |
+| EVT-3052 | 1940-07-22 | 팔로군 총부가 정타이(正太)철도 파괴공세 준비명령을 하달·실제백단대전 개시는8월 | 중국전선·작전준비명령 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3047 | 1940-07-23 | 미국 Welles성명이 발트3국의 주권·영토에 대한 강압을 비판하고 비승인정책 표명 | 외교·비승인정책 | 발생 | 문헌대조 | [SRC-1639](chronology-sources-v1.md) |
+| EVT-3048 | 1940-07-26 | 일본 내각이 기본국책요강을 결정·신문발표는8월1일 | 일본·전쟁정책 | 발생 | 문헌대조 | [SRC-1634](chronology-sources-v1.md) |
+| EVT-3049 | 1940-07-26 | 영국이 Dover해협의 주간 선단운항을 금지 | 영국항공전·해상교통통제 | 발생 | 문헌대조 | [SRC-1626](chronology-sources-v1.md) |
+| EVT-3050 | 1940-07-27 | 일본 대본영정부연락회의가 중국전쟁 처리와 남방방침을 담은 시국처리요강 결정 | 일본·전쟁정책 | 발생 | 문헌대조 | [SRC-1635](chronology-sources-v1.md) |
+| EVT-3051 | 1940-07-31 | 미국이 항공휘발유 수출을 서반구 중심으로 제한한다고 발표·미국기업 해외운용예외존재 | 경제전·수출통제 | 발생 | 문헌대조 | [SRC-1641](chronology-sources-v1.md) |
 | EVT-0087 | 1940-08-30 | 제2차 빈 중재(루마니아·헝가리 영토 분쟁) | 외교 | 발생 | 미등록 | — |
 | EVT-0088 | 1940-09-07 | 런던 대공습(블리츠) 집중 국면 시작 | 공습 | 발생 | 미등록 | — |
 | EVT-0089 | 1940-09-13 | 이탈리아의 이집트 진격 | 작전 | 발생 | 미등록 | — |
