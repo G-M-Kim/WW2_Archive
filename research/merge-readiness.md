@@ -335,3 +335,8 @@ pr: 1
 - 신규 76 EVT /16 SRC /21 RQ; 누적 2549 EVT /1394 SRC /803 RQ. **EVT-2449 기존 사건 날짜 1940-02-29→03-02 수정·링크등록 강등**: 문헌대조 2209·링크등록 204·미등록 136; 기본미대조 340.
 - [3/1~3 사료감사](source-audit-1940-mar01-03-batch1.md): 3/1 독 Hitler Weserübung C-174 하버드 법정원문 대조·핀 Viipuri 지협철수·SFK Dyrssen 전사·Salla 1차전사·이탈리아 Mirella 2회피격. 3/2 Kollaa 3만 대 1000발미만 핀전사·Teikarsaari Tuppura 2월29일과 날짜충돌 교정·Tampere 9명사망/22화재·헝가리 의용병 본대 Lapua 도착 미참전·Rijnstroom Lagaholm 중립선. 3/3 Uuras 상실·Wallenius/Oesch 지휘교체·Tanner/Günther 협의·영 Cato 3/2 기뢰설치후 3/3 침몰. 핀 ErP17/25 당대 군일지 교차.
 - PR Draft 유지·병합 비추천·main/docs/Pages 승인 전 불변. 다음 3/4~5.
+
+## 2026-11-02 v6.8 / 1940-03-04~05
+- 신규 60 EVT·18 SRC·16 RQ; 누적 2609 EVT /1412 SRC /819 RQ. 문헌대조 2262·링크등록 211·미등록 136; 기본 미대조 347.
+- [3/4~5 사료감사](source-audit-1940-mar04-05-batch1.md): 3/4 Iittala 피란열차총31사망, 아이11 vs15 및 사고시각00:17 vs00:45 충돌, 사망원전자료우선; Äyräpää 언덕과 Viipuri만 소련상륙, 소련 민간폭격부인, ErP25 전선통신오경보 정정·ErP17 야전경비, U29 Thurston/S.N.A.1 연속해난 대량피해·Pacific Reliance 구조. 3/5 Äyräpää Nurmo 반격 전사40이상 대44 상충, 소련 평화조건 수락 결정(조약12일), Mikkeli 병원·대피소 공습전몰 33/34부상 49/57 차, 핀타타르 병사 Hasan Abdrahim 전사, Grutto 중립선원18 전몰 및 함장명출처오류.
+- PR draft 유지·병합 비추천·main/docs/Pages 불변. 다음 1940-03-06~08.
