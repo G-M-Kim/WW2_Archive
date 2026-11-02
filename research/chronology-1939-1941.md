@@ -1,7 +1,7 @@
 ---
-title: 세계대전 연표 1939–1941 (1939년 9월 22~25일 검증 대조 추가)
+title: 세계대전 연표 1939–1941 (1940년 3월 31일까지 1차 범위 검토)
 status: review-draft
-as_of: 2026-10-25
+as_of: 2026-11-02
 ---
 
 # 백과사전 사건 연표 — 1939~1941
@@ -2469,7 +2469,48 @@ as_of: 2026-10-25
 | EVT-2726 | 1940-03-11 | 핀 ErP25 22:10 야간정찰 명령·22:25 취소, 실제출동과 구분 | 겨울전쟁·작전명령취소 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
 | EVT-2727 | 1940-03-11 | 중립 네덜란드 유조선 Eulota 6236GRT가 U28 03:17 어뢰피격·승선42명 전원생존 | 대서양전·중립유조선피격 | 발생 | 문헌대조 | [SRC-1435](chronology-sources-v1.md) |
 | EVT-2728 | 1940-03-11 | Eulota 선원42명 HMS Wild Swan 구조·HMS Broke가 부서진 선체를 함포폐기·12일 Plymouth 상륙 | 대서양전·구조·선체폐기 | 발생 | 문헌대조 | [SRC-1435](chronology-sources-v1.md) |
-| EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
+| EVT-0071 | 1940-03-12 | 소련·핀란드 모스크바 평화조약 서명(조약 표기일12일; 전투중지는13일)·영토양도와Hanko30년임대 | 조약·강화 | 발생 | 문헌대조 | [SRC-1439](chronology-sources-v1.md) · [SRC-1440](chronology-sources-v1.md) |
+| EVT-2729 | 1940-03-12 | 핀 Turenki 군수송열차와 화물열차 충돌·39명 사망69명 부상(71수송중대 병사 등) | 군사수송·철도사고 | 발생 | 문헌대조 | [SRC-1396](chronology-sources-v1.md) |
+| EVT-2730 | 1940-03-13 | 겨울전쟁 정전: 핀란드11시·레닌그라드12시 기준 전투중지, 일부지역 전달지연 교전 지속 | 종전·정전 | 발생 | 문헌대조 | [SRC-1439](chronology-sources-v1.md) · [SRC-1440](chronology-sources-v1.md) · [SRC-1258](chronology-sources-v1.md) |
+| EVT-2731 | 1940-03-13 | 핀 외무장관 Väinö Tanner가 정오 라디오로 강화조건과 종전경위를 국민에게 설명 | 정치·방송 | 발생 | 문헌대조 | [SRC-1441](chronology-sources-v1.md) |
+| EVT-2732 | 1940-03-13 | 독 봉쇄돌파선 La Coruña가 영 보조순양함 Maloja 접근에 자침 | 해상봉쇄·자침 | 발생 | 문헌대조 | [SRC-1445](chronology-sources-v1.md) |
+| EVT-2733 | 1940-03-13 | 런던 Caxton Hall 총격으로 Michael O'Dwyer 사망·Zetland 등 부상, Udham Singh 현장체포 | 식민지정치·암살 | 발생 | 문헌대조 | [SRC-1442](chronology-sources-v1.md) |
+| EVT-2734 | 1940-03-16 | 유고슬라비아 중립선 Slava가 U29의3월2일 부설기뢰에 침몰·1명사망33명생존 | 기뢰전·중립선피해 | 발생 | 문헌대조 | [SRC-1447](chronology-sources-v1.md) |
+| EVT-2735 | 1940-03-16 | 독 항공대 Scapa Flow 기지공습과 Brig o' Waithe 폭격·민간인 James Isbister 사망 | 공습·민간인피해 | 발생 | 문헌대조 | [SRC-1443](chronology-sources-v1.md) · [SRC-1234](chronology-sources-v1.md) |
+| EVT-2736 | 1940-03-17 | 덴마크 중립선 Argentina 실종·33명희생, U38의당일 미확인선격침과 동일사건으로 후대추정 | 해상실종·귀속추정 | 발생 | 링크등록 | [SRC-1448](chronology-sources-v1.md) |
+| EVT-2737 | 1940-03-18 | 핀 Putikko역에서 화물열차와 피란민열차 충돌·14명사망23명부상 | 피난·철도사고 | 발생 | 문헌대조 | [SRC-1396](chronology-sources-v1.md) |
+| EVT-2738 | 1940-03-18 | 히틀러·무솔리니 브레너 회담 개최; 구체적 합의와 참전약속 범위는 별도검증 | 외교·정상회담 | 발생 | 문헌대조 | [SRC-1472](chronology-sources-v1.md) · [SRC-1234](chronology-sources-v1.md) |
+| EVT-2739 | 1940-03-19 | 영 RAF가 Sylt섬 Hörnum 수상기기지 공습; 영국대파발표와 독일무피해선전 대립 | 항공작전·선전전 | 발생 | 문헌대조 | [SRC-1234](chronology-sources-v1.md) · [SRC-1444](chronology-sources-v1.md) |
+| EVT-2740 | 1940-03-19 | 독 U19가 덴마크 Minsk 격침·11명사망9명생존, HMS Esk 구조 | 잠수함전·중립선피해 | 발생 | 문헌대조 | [SRC-1450](chronology-sources-v1.md) · [SRC-1446](chronology-sources-v1.md) |
+| EVT-2741 | 1940-03-19 | 독 U19가 덴마크 Charkow 격침·20명전원사망 | 잠수함전·중립선피해 | 발생 | 문헌대조 | [SRC-1449](chronology-sources-v1.md) · [SRC-1446](chronology-sources-v1.md) |
+| EVT-2742 | 1940-03-20 | 독 U19가 덴마크 Bothal 격침·15명사망5명생존 | 잠수함전·중립선피해 | 발생 | 문헌대조 | [SRC-1452](chronology-sources-v1.md) · [SRC-1446](chronology-sources-v1.md) |
+| EVT-2743 | 1940-03-20 | 독 U19가 덴마크 Viking 격침·15명사망2명생존 | 잠수함전·중립선피해 | 발생 | 문헌대조 | [SRC-1451](chronology-sources-v1.md) · [SRC-1446](chronology-sources-v1.md) |
+| EVT-2744 | 1940-03-20 | TASS가 핀란드·스웨덴·노르웨이 방위동맹 구상을 소핀평화조약 위반이라고 공개반대 | 외교·북유럽안보 | 발생 | 문헌대조 | [SRC-1464](chronology-sources-v1.md) |
+| EVT-2745 | 1940-03-20 | 푸쭤이 지휘 중국군의 우위안(五原) 회복공세 개시; 시가지확보21~22일 및후속재점령 일자대조필요 | 중일전쟁·반격작전 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) · [SRC-1462](chronology-sources-v1.md) |
+| EVT-2757 | 1940-03-20 | 영 유조선 Daghestan이 Noss Head근해에서 독일항공기 공격으로 경미손상(25일격침과별개) | 항공공격·상선손상 | 발생 | 문헌대조 | [SRC-1456](chronology-sources-v1.md) |
+| EVT-2746 | 1940-03-21 | 프랑스 Paul Reynaud 총리·외무장관 취임, Daladier 내각 뒤를 이음 | 정치·전시정부 | 발생 | 문헌대조 | [SRC-1458](chronology-sources-v1.md) |
+| EVT-2747 | 1940-03-21 | 독 U38가 덴마크 Algier 격침·승무원4명과승객1명 사망·18명생존 | 잠수함전·중립선피해 | 발생 | 문헌대조 | [SRC-1453](chronology-sources-v1.md) |
+| EVT-2748 | 1940-03-21 | 독 U38가 덴마크 Christiansborg 격침·1명사망24명생존, HMS Discovery II 구조·잔해폐기 | 잠수함전·중립선피해 | 발생 | 문헌대조 | [SRC-1454](chronology-sources-v1.md) |
+| EVT-2749 | 1940-03-21 | 영 잠수함 HMS Ursula가 독 상선 Heddernheim을 덴마크근해에서 격침 | 해상봉쇄·잠수함전 | 발생 | 문헌대조 | [SRC-1445](chronology-sources-v1.md) |
+| EVT-2750 | 1940-03-21 | 중국 한더친계 부대와 신사군의 반타지(半塔集) 전투 개시·29일까지 교전 | 중국전선·국공충돌 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-2751 | 1940-03-22 | 바르샤바 부활절 반유대폭력 확산(~30일); 개시22·23·24일설 공존·독일조정의 구체경로 미확정 | 박해·반유대폭력 | 발생 | 링크등록 | [SRC-1459](chronology-sources-v1.md) |
+| EVT-2752 | 1940-03-23 | 전인도무슬림연맹 라호르결의 논의·채택 과정(23~24일); 제출일과최종채택일 원회의록대조대기 | 식민지정치·민족운동 | 발생 | 링크등록 | [SRC-1460](chronology-sources-v1.md) |
+| EVT-2753 | 1940-03-23 | 영 잠수함 HMS Truant가 독 상선 Edmund Hugo Stinnes 4를 유틀란트근해에서 격침 | 해상봉쇄·잠수함전 | 발생 | 문헌대조 | [SRC-1445](chronology-sources-v1.md) |
+| EVT-2754 | 1940-03-24 | 프 구축함 La Railleuse가 Casablanca항에서 자함어뢰 폭발로 상실 | 해군·항만사고 | 발생 | 문헌대조 | [SRC-1445](chronology-sources-v1.md) |
+| EVT-2755 | 1940-03-25 | 독 U47가 덴마크 Britta 격침·13명사망5명생존, 덴 Nancy 구조 | 잠수함전·중립선피해 | 발생 | 문헌대조 | [SRC-1455](chronology-sources-v1.md) |
+| EVT-2756 | 1940-03-25 | 독 U57가 영 유조선 Daghestan 격침·4명사망25명생존 | 잠수함전·유조선피해 | 발생 | 문헌대조 | [SRC-1456](chronology-sources-v1.md) |
+| EVT-2758 | 1940-03-26 | 독 U38가 노르웨이 중립선 Cometa 격침·선원31·스웨덴승객6·영검문조5명 전원구조 | 잠수함전·중립선피해 | 발생 | 문헌대조 | [SRC-1457](chronology-sources-v1.md) |
+| EVT-2759 | 1940-03-26 | 일본군 우위안 재점령으로 중국군 회복작전 계속; 최종재점령은4월1일이라는 군사백과서술 | 중일전쟁·도시쟁탈 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-2760 | 1940-03-27 | 핀 Ryti 내각이 재건중심 연립정부로 개편·Rolf Witting 외무장관 취임 | 정치·전후재건 | 발생 | 문헌대조 | [SRC-1465](chronology-sources-v1.md) |
+| EVT-2761 | 1940-03-27 | 소련이 핀·스웨덴·노르웨이에 북유럽방위동맹 구상 반대통보(28일미전문이 전날통보로보고) | 외교·안보압박 | 발생 | 문헌대조 | [SRC-1466](chronology-sources-v1.md) |
+| EVT-2762 | 1940-03-27 | 뉴질랜드 전시총리 Michael Joseph Savage 재임중 사망 | 정치·전시지도부 | 발생 | 문헌대조 | [SRC-1471](chronology-sources-v1.md) |
+| EVT-2763 | 1940-03-28 | 영·프 최고전쟁회의와 공동선언: 상호동의 없는 단독휴전·강화교섭 금지 및 전후협력 약속 | 외교·연합전략 | 발생 | 문헌대조 | [SRC-1463](chronology-sources-v1.md) |
+| EVT-2764 | 1940-03-28 | 핀 Ryti가 미국공사에게 전후재건·부양가족구호·경제수요에 따른 점진동원해제 구상 설명 | 전후재건·동원정책 | 발생 | 문헌대조 | [SRC-1467](chronology-sources-v1.md) |
+| EVT-2765 | 1940-03-28 | 독 봉쇄돌파선 Mimi Horn이 영 보조순양함 Transylvania 접근에 덴마크해협에서 자침 | 해상봉쇄·자침 | 발생 | 문헌대조 | [SRC-1445](chronology-sources-v1.md) |
+| EVT-2766 | 1940-03-30 | 일본점령하 난징에서 왕징웨이계 국민정부 출범식 개최·왕과각료 취임 | 점령·협력정권 | 발생 | 문헌대조 | [SRC-1468](chronology-sources-v1.md) |
+| EVT-2767 | 1940-03-30 | 충칭 국민정부가 왕징웨이정권의 행위불인정과 대일항전지속을 외교공한으로 통보(미보고31일) | 외교·정부정통성 | 발생 | 문헌대조 | [SRC-1469](chronology-sources-v1.md) |
+| EVT-2768 | 1940-03-31 | 소련이 카렐리야 자치공화국을 카렐로핀 연방구성공화국으로 전환하는 법률 채택 | 정치·영토행정 | 발생 | 문헌대조 | [SRC-1470](chronology-sources-v1.md) |
+| EVT-2769 | 1940-03-31 | 독 보조순양함 Atlantis 출항명령 하달·남대서양 목표(실제외해진출일과구분) | 통상파괴·작전명령 | 발생 | 문헌대조 | [SRC-1445](chronology-sources-v1.md) |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
 | EVT-0072 | 1940-04-09 | 베저위붕 작전: 독일의 덴마크·노르웨이 침공 | 작전 | 발생 | 미등록 | — |
 | EVT-0073 | 1940-04-10 | 나르비크 일대 해전 시작 | 해전 | 발생 | 미등록 | — |
@@ -2533,4 +2574,3 @@ as_of: 2026-10-25
 | EVT-0126 | 1941-12-11 | 독일·이탈리아의 미국에 대한 선전포고 | 외교·전쟁 | 발생 | 링크등록 | [SRC-004](chronology-sources-v1.md) |
 | EVT-0127 | 1941-12-23 | 웨이크섬 미 해병대 수비대 항복 | 전투 | 발생 | 미등록 | — |
 | EVT-0128 | 1941-12-25 | 홍콩 영국 수비대 항복 | 전투 | 발생 | 미등록 | — |
-
