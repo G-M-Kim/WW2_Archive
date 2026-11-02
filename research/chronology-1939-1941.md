@@ -1,5 +1,5 @@
 ---
-title: 세계대전 연표 1939–1941 (1940년 5월 15일까지 1차 범위 검토)
+title: 세계대전 연표 1939–1941 (1940년 5월 31일까지 1차 범위 검토)
 status: review-draft
 as_of: 2026-11-02
 ---
@@ -2594,6 +2594,7 @@ as_of: 2026-11-02
 | EVT-2847 | 1940-04-30 | 주더·펑더화이·예팅·샹잉 등이 왕징웨이 정권 규탄과 구국을 호소하는 연명전보 발표 | 중국전선·정치선언 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
 | EVT-2848 | 1940-05-01 | 중국 짜오이(棗宜) 회전 개시:일본 제11군이 중국 제5전구를 향해 다방향 공세 | 중일전쟁·전역개시 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
 | EVT-2849 | 1940-05-01 | 노르웨이 철수열차가 Lesjaskog 부근 폭탄구덩이에서 탈선·영 공식전사 기준8명 사망30명 중상 | 수송사고·철수 | 발생 | 문헌대조 | [SRC-1506](chronology-sources-v1.md) |
+| EVT-2890 | 1940-05 | 나치 SS·경찰이 독일 서부·북서부 로마인 약2500명을 점령 폴란드 Lublin구로 강제이송(월 단위) | 인종박해·강제이송 | 발생 | 문헌대조 | [SRC-1560](chronology-sources-v1.md) |
 | EVT-2850 | 1940-05-02 | Åndalsnes에서 영 원정군 마지막 후위부대 승선 완료(1~2일 밤) | 해상철수·중부노르웨이 | 발생 | 문헌대조 | [SRC-1506](chronology-sources-v1.md) |
 | EVT-2851 | 1940-05-03 | Namsos 원정군의 마지막 병력이 승선해 철수(2~3일 밤), 북부 Narvik 전역은 계속 | 해상철수·중부노르웨이 | 발생 | 문헌대조 | [SRC-1506](chronology-sources-v1.md) |
 | EVT-2852 | 1940-05-03 | 독일 공습으로 프 구축함 Bison 화재·중파 후 연합군이 생존자 구조와 선체 처분 | 항공해전·군함상실 | 발생 | 문헌대조 | [SRC-1506](chronology-sources-v1.md) |
@@ -2637,8 +2638,44 @@ as_of: 2026-11-02
 | EVT-2887 | 1940-05-15 | La Horgne에서 프 제3스파히여단이 하마전투로 독일 제1기갑사단 진격을 지연 | 지연전·식민지병력 | 발생 | 문헌대조 | [SRC-1533](chronology-sources-v1.md) |
 | EVT-2888 | 1940-05-15 | Dyle강 Wavre·Louvain권에서 영군이 독일군 공격·일부 침투에 맞서 방어·반격 | 지상전·벨기에 | 발생 | 문헌대조 | [SRC-1517](chronology-sources-v1.md) |
 | EVT-2889 | 1940-05-15 | RAF가 Ruhr 산업·철도 목표 공습을 개시(15~16일 밤) | 전략폭격·산업목표 | 발생 | 문헌대조 | [SRC-1517](chronology-sources-v1.md) |
-| EVT-0078 | 1940-05-26 | 다이너모 작전: 됭케르크 철수 시작 | 작전 | 발생 | 미등록 | — |
-| EVT-0079 | 1940-05-28 | 벨기에군 항복 | 전쟁 | 발생 | 미등록 | — |
+| EVT-2891 | 1940-05-16 | 영불벨군이 Dyle 진지를 이탈해 Senne·Dendre를 거쳐 Escaut선으로 단계 후퇴 개시(16~19일) | 전선후퇴·연합군 | 발생 | 문헌대조 | [SRC-1541](chronology-sources-v1.md) |
+| EVT-2892 | 1940-05-16 | Roosevelt가 의회에 국방예산 증액과 군용기5만대 확보·연산능력 확대 목표 제시 | 전시경제·군비계획 | 발생 | 문헌대조 | [SRC-1555](chronology-sources-v1.md) |
+| EVT-2893 | 1940-05-16 | 중국 제33집단군 지휘관 장쯔중(張自忠)이 이청 난과뎬 일대 대일교전 중 전사 | 중일전쟁·지휘관전사 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-2894 | 1940-05-17 | 드골의 제4기갑사단이 Montcornet 방향 공격·16일 작전명령과17일 실행 구분 | 기갑전·반격 | 발생 | 문헌대조 | [SRC-1554](chronology-sources-v1.md) |
+| EVT-2895 | 1940-05-17 | Middelburg 역사도심이 전쟁행위에 따른 대화재로 파괴·정확 발화원인과 기여도는 이견 | 민간피해·도시화재 | 발생 | 문헌대조 | [SRC-1561](chronology-sources-v1.md) |
+| EVT-2896 | 1940-05-17 | 영 순양함 Effingham이 Bodø 인근 암초에 좌초·병력은 구조됐으나 중장비·보급품 상실 | 해난·군수수송 | 발생 | 문헌대조 | [SRC-1518](chronology-sources-v1.md) |
+| EVT-2897 | 1940-05-17 | Stien에서 Scots Guards 등이 독일군 진격을 지연하다 Mo 방면 후퇴(17~18일) | 지상전·북부노르웨이 | 발생 | 문헌대조 | [SRC-1518](chronology-sources-v1.md) |
+| EVT-2898 | 1940-05-19 | 드골 부대가 Crécy-sur-Serre·Laon 북쪽에서 추가 공격(19~20일) | 기갑전·반격 | 발생 | 문헌대조 | [SRC-1565](chronology-sources-v1.md) |
+| EVT-2899 | 1940-05-20 | 독일 기갑군이 Abbeville과 Somme 하구 해안에 도달해 북부 연합군의 남쪽 육상연락로 차단 | 기동전·포위 | 발생 | 문헌대조 | [SRC-1542](chronology-sources-v1.md) |
+| EVT-2900 | 1940-05-20 | Maxime Weygand가 프랑스군 총지휘 업무를 인수·19일 임명결정과20일 업무 개시 구별 | 군사지휘·교체 | 발생 | 문헌대조 | [SRC-1544](chronology-sources-v1.md) |
+| EVT-2901 | 1940-05-20 | Sachsenhausen의 독일인 수감자30명이 아우슈비츠로 이송돼 수감자 관리역을 맡도록 배치 | 수용소·강제이송 | 발생 | 문헌대조 | [SRC-1559](chronology-sources-v1.md) |
+| EVT-2902 | 1940-05-21 | Arras에서 Frankforce가 프랑스 기계화기병의 협조 아래 독일군에 반격·국지적 진격 저지 | 기갑전·연합반격 | 발생 | 문헌대조 | [SRC-1543](chronology-sources-v1.md) |
+| EVT-2903 | 1940-05-21 | Ypres에서 Weygand·벨기에 국왕·Billotte가 반격·후퇴 방안을 협의, Gort는Weygand 출발 후 참석 | 연합군·지휘회의 | 발생 | 문헌대조 | [SRC-1544](chronology-sources-v1.md) |
+| EVT-2904 | 1940-05-21 | 일본군이 중국 짜오양을 다시 점령하고 중국 제5전구가 탕허 서쪽으로 후퇴했다는 중국측 기록 | 중일전쟁·도시점령 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-2905 | 1940-05-21 | 드골이 Savigny-sur-Ardres에서 기계화전과 항전 전망을 말하는 라디오 발언·6월18일 호소와 별개 | 선전·방송 | 발생 | 문헌대조 | [SRC-1565](chronology-sources-v1.md) |
+| EVT-2906 | 1940-05-22 | 영국 Emergency Powers(Defence) Act1940 재가·인력·역무·재산 동원 관련 규칙제정권 확대 | 법률·전시동원 | 발생 | 문헌대조 | [SRC-1556](chronology-sources-v1.md) |
+| EVT-2907 | 1940-05-22 | 영 제20근위여단이 Boulogne 방어를 위해 투입·독일군과 항구 방어전 전개(22~25일) | 항구방어·지상전 | 발생 | 문헌대조 | [SRC-1546](chronology-sources-v1.md) |
+| EVT-2908 | 1940-05-22 | 노르웨이 제6여단의 Kuberg 고지권 공격이 성공해 Narvik 북방 독일 진지 압박 | 산악전·북부노르웨이 | 발생 | 문헌대조 | [SRC-1519](chronology-sources-v1.md) |
+| EVT-2909 | 1940-05-23 | Boulogne에서 영국군 해상철수 실시(23~24일), 프랑스군의 잔여 방어와 구분 | 해상철수·항구방어 | 발생 | 문헌대조 | [SRC-1546](chronology-sources-v1.md) · [SRC-1552](chronology-sources-v1.md) |
+| EVT-2910 | 1940-05-23 | Calais의 영불 수비군이 독일군에 맞서 방어전 전개·전투인원 철수 불허 방침 아래26일까지 저항 | 항구방어·포위전 | 발생 | 문헌대조 | [SRC-1546](chronology-sources-v1.md) |
+| EVT-2911 | 1940-05-24 | 독일 A집단군의23일 기갑정지 지시를 Hitler가 승인·운하선 너머 기갑 진격 제한 | 작전명령·기갑정지 | 발생 | 문헌대조 | [SRC-1545](chronology-sources-v1.md) |
+| EVT-2912 | 1940-05-24 | 독일군이 Courtrai권 Lys강을 건너 벨기에 방어선을 압박·후속 수일간 전투 | 도하전·벨기에 | 발생 | 문헌대조 | [SRC-1545](chronology-sources-v1.md) · [SRC-1553](chronology-sources-v1.md) |
+| EVT-2913 | 1940-05-25 | 드골의 임시 준장 임명결정·실제 계급효력은6월1일부터 | 군인사·임명결정 | 발생 | 문헌대조 | [SRC-1565](chronology-sources-v1.md) |
+| EVT-0078 | 1940-05-26 | 다이너모 작전 공식 개시:됭케르크·인접해변 연합군 철수(~6월4일), 선행 수송·준비와 구분 | 작전·해상철수 | 발생 | 문헌대조 | [SRC-1552](chronology-sources-v1.md) · [SRC-1547](chronology-sources-v1.md) |
+| EVT-2914 | 1940-05-26 | Calais 성채 함락·수비군 상당수 포로화;27일 영 공중보급은 함락 사실을 모른 채 실행 | 포위전·항복 | 발생 | 문헌대조 | [SRC-1546](chronology-sources-v1.md) |
+| EVT-2915 | 1940-05-26 | 영군이 Ypres–Comines권 간극을 방어하는 후위전 전개(26~28일), 됭케르크 접근로 유지 | 지연전·철수엄호 | 발생 | 문헌대조 | [SRC-1547](chronology-sources-v1.md) · [SRC-1548](chronology-sources-v1.md) · [SRC-1549](chronology-sources-v1.md) |
+| EVT-2916 | 1940-05-27 | Le Paradis에서 항복한 영국군 포로들이 Waffen-SS에 집단살해·97명 희생 추모기록 | 전쟁범죄·포로학살 | 발생 | 문헌대조 | [SRC-1557](chronology-sources-v1.md) |
+| EVT-2917 | 1940-05-27 | 독일의 Bodø 폭격과 대화재·지자체 문서 일부는 이재 후 후일 별도 화재에 소실 | 공습·민간피해·기록유산 | 발생 | 문헌대조 | [SRC-1562](chronology-sources-v1.md) |
+| EVT-0079 | 1940-05-28 | 레오폴3세 지휘하 벨기에군이 무조건항복·영불군에 대한 독일군 작전은 계속 | 군사항복 | 발생 | 문헌대조 | [SRC-1553](chronology-sources-v1.md) · [SRC-1549](chronology-sources-v1.md) |
+| EVT-2918 | 1940-05-28 | 프랑스·노르웨이군 등이 해군 지원 아래 Narvik 재탈환·27일밤 포격과28일 점령 구분 | 연합공세·도시탈환 | 발생 | 문헌대조 | [SRC-1519](chronology-sources-v1.md) |
+| EVT-2919 | 1940-05-28 | Wormhoudt 부근에서 영국군 포로 집단살해·1988년 영 정부는 사건을 확인하되 정확 희생수 미확정 | 전쟁범죄·포로학살 | 발생 | 문헌대조 | [SRC-1558](chronology-sources-v1.md) |
+| EVT-2920 | 1940-05-28 | 영 전시내각이 프랑스의 이탈리아 중재접근안에 당장 동참하지 않을 방침 정리·원각의록 대조 대기 | 정치·항전방침 | 발생 | 링크등록 | [SRC-1563](chronology-sources-v1.md) |
+| EVT-2922 | 1940-05-29 | Cassel 수비대가 야간 돌파·후퇴를 시도했으나 상당수 병력이 독일군에 포로가 됨(29~30일) | 포위전·철수 | 발생 | 문헌대조 | [SRC-1550](chronology-sources-v1.md) |
+| EVT-2923 | 1940-05-29 | 됭케르크 철수로에서 Wakeful·Grafton이 어뢰피해를 입고 Grenade도 공습으로 상실 | 해상철수·군함피해 | 발생 | 문헌대조 | [SRC-1552](chronology-sources-v1.md) |
+| EVT-2924 | 1940-05-29 | Weygand가 프랑스 제1군의 가능한 병력 해상철수를 승인·이미 진행 중이던 승선과 구분 | 철수명령·연합군 | 발생 | 문헌대조 | [SRC-1550](chronology-sources-v1.md) |
+| EVT-2921 | 1940-05-31 | 영군이 Nieuport·Furnes권 교두보를 방어하고 야간 해변 철수, RAF·함재항공대가 후위전 지원 | 교두보방어·항공지원 | 발생 | 문헌대조 | [SRC-1551](chronology-sources-v1.md) |
+| EVT-2925 | 1940-05-31 | Lille-Sud 잔여 수비군이 탄약·전력 소진 후 항복했다는 시립 기념사업 기록·군례는6월1일 | 포위전·항복 | 발생 | 링크등록 | [SRC-1564](chronology-sources-v1.md) |
+| EVT-2926 | 1940-05-31 | Gort가 Alexander에게 됭케르크 최종방어·철수 지휘를 넘기는 명령 발령 | 군사지휘·철수 | 발생 | 문헌대조 | [SRC-1551](chronology-sources-v1.md) |
 | EVT-0080 | 1940-06-04 | 됭케르크 철수 종료 | 작전 | 발생 | 미등록 | — |
 | EVT-0081 | 1940-06-10 | 이탈리아의 영국·프랑스 상대 참전 | 외교·전쟁 | 발생 | 미등록 | — |
 | EVT-0082 | 1940-06-14 | 독일군 파리 입성 | 점령 | 발생 | 미등록 | — |
