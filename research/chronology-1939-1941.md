@@ -1,5 +1,5 @@
 ---
-title: 세계대전 연표 1939–1941 (1940년 3월 31일까지 1차 범위 검토)
+title: 세계대전 연표 1939–1941 (1940년 4월 15일까지 1차 범위 검토)
 status: review-draft
 as_of: 2026-11-02
 ---
@@ -2350,6 +2350,7 @@ as_of: 2026-11-02
 | EVT-2607 | 1940-03-05 | 중립 네덜란드 Grutto 920GRT가 독 U17의 20:40발사 어뢰 실패후 약20:58 두번째 어뢰에 피격침몰 | 대서양전·중립상선격침 | 발생 | 문헌대조 | [SRC-1406](chronology-sources-v1.md) · [SRC-1407](chronology-sources-v1.md) |
 | EVT-2608 | 1940-03-05 | Grutto 승선18명 전원 사망·3월6일 잔해발견 및 29일 시신2구 발견은 후속사건과 구별 | 대서양전·민간선원전원전몰 | 발생 | 문헌대조 | [SRC-1406](chronology-sources-v1.md) · [SRC-1407](chronology-sources-v1.md) |
 | EVT-2609 | 1940-03-05 | 네덜란드 해양유적 MaSS는 Grutto 선체가 해저 약32m 수심에 두 부분으로 분리되어 있음을 기록 | 대서양전·침몰선박고고학 | 발생 | 문헌대조 | [SRC-1407](chronology-sources-v1.md) |
+| EVT-2770 | 1940-03-05 | 소련 공산당 정치국이 폴란드 포로·수감자 대량처형을 승인(카틴 학살의 결정단계·실행과구분) | 국가폭력·비밀결정 | 발생 | 문헌대조 | [SRC-1473](chronology-sources-v1.md) · [SRC-1474](chronology-sources-v1.md) |
 | EVT-2610 | 1940-03-06 | 소련 제8군·제37소총사단이 라도가호 Pitkäranta 서쪽 Petäjäsaari 등 섬 공격개시 | 겨울전쟁·라도가도서공세 | 발생 | 문헌대조 | [SRC-1413](chronology-sources-v1.md) · [SRC-1417](chronology-sources-v1.md) |
 | EVT-2611 | 1940-03-06 | Petäjäsaari·Paimionsaari·Maksimansaari에 소련 포병과 항공기 집중타격·07시경 포격개시 지역전사 | 겨울전쟁·도서포격항공협동 | 발생 | 문헌대조 | [SRC-1414](chronology-sources-v1.md) · [SRC-1417](chronology-sources-v1.md) |
 | EVT-2612 | 1940-03-06 | 소련군이 Kitilä–Koirinoja 포위된 소련 제168소총사단과 결빙호수 보급로 재연결 | 겨울전쟁·모티보급로돌파 | 발생 | 문헌대조 | [SRC-1413](chronology-sources-v1.md) · [SRC-1417](chronology-sources-v1.md) |
@@ -2511,9 +2512,53 @@ as_of: 2026-11-02
 | EVT-2767 | 1940-03-30 | 충칭 국민정부가 왕징웨이정권의 행위불인정과 대일항전지속을 외교공한으로 통보(미보고31일) | 외교·정부정통성 | 발생 | 문헌대조 | [SRC-1469](chronology-sources-v1.md) |
 | EVT-2768 | 1940-03-31 | 소련이 카렐리야 자치공화국을 카렐로핀 연방구성공화국으로 전환하는 법률 채택 | 정치·영토행정 | 발생 | 문헌대조 | [SRC-1470](chronology-sources-v1.md) |
 | EVT-2769 | 1940-03-31 | 독 보조순양함 Atlantis 출항명령 하달·남대서양 목표(실제외해진출일과구분) | 통상파괴·작전명령 | 발생 | 문헌대조 | [SRC-1445](chronology-sources-v1.md) |
-| EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
-| EVT-0072 | 1940-04-09 | 베저위붕 작전: 독일의 덴마크·노르웨이 침공 | 작전 | 발생 | 미등록 | — |
-| EVT-0073 | 1940-04-10 | 나르비크 일대 해전 시작 | 해전 | 발생 | 미등록 | — |
+| EVT-0074 | 1940-04 | 카틴 학살:소련 NKVD의 폴란드포로·수감자 집단살해(4~5월·복수처형지) | 국가폭력 | 발생 | 문헌대조 | [SRC-1473](chronology-sources-v1.md) · [SRC-1474](chronology-sources-v1.md) |
+| EVT-2771 | 1940-04-01 | 중국 푸쭤이군 우위안(五原) 재확보·3월공세 종결이라는 군사백과기록 | 중일전쟁·반격 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-2772 | 1940-04-01 | 중공중앙·군사위가 화북·화중 방침 지시:팔로군의국민당군과마찰완화·신사군자위전·남하지원 | 중국전선·정치군사지침 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-2773 | 1940-04-02 | 히틀러가 베저위붕 침공일을4월9일로 지정(3월1일기본지령과구분) | 작전계획·시행결정 | 발생 | 문헌대조 | [SRC-1324](chronology-sources-v1.md) |
+| EVT-2774 | 1940-04-02 | 핀란드 중립선 Signe가 U38 공격으로 침몰한 것으로동정·승선19명전원전몰 | 잠수함전·중립선피해 | 발생 | 문헌대조 | [SRC-1492](chronology-sources-v1.md) |
+| EVT-2775 | 1940-04-03 | Kozelsk 포로 첫수송이 Katyn 처형지방면으로 출발·수용소해체형식의집단살해 실행개시 | 국가폭력·포로이송 | 발생 | 문헌대조 | [SRC-1473](chronology-sources-v1.md) · [SRC-1474](chronology-sources-v1.md) |
+| EVT-2776 | 1940-04-03 | 중국 팔로군이 루시(魯西) 군구 재건·샤오화 지휘체계 편성 | 중국전선·군조직 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-2777 | 1940-04-04 | Ostashkov 포로의 Kalinin NKVD시설 이송·처형 개시(기관자료4일설·5일설 공존) | 국가폭력·포로살해 | 발생 | 링크등록 | [SRC-1473](chronology-sources-v1.md) · [SRC-1474](chronology-sources-v1.md) |
+| EVT-2778 | 1940-04-05 | Starobelsk 포로를 Kharkiv NKVD 감옥으로 이송해 살해하는 절차 개시 | 국가폭력·포로살해 | 발생 | 문헌대조 | [SRC-1474](chronology-sources-v1.md) |
+| EVT-2779 | 1940-04-06 | 노르웨이 중립선 Navarra가 U59에 격침·12명사망14명생존, 핀 Atlas구조 | 잠수함전·중립선피해 | 발생 | 문헌대조 | [SRC-1493](chronology-sources-v1.md) |
+| EVT-2780 | 1940-04-06 | 중공중앙이 적군공작 강화를 지시·여단이상부대 전담조직 정비 요구 | 중국전선·심리전조직 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-2781 | 1940-04-07 | 독일 베저위붕 주요해군공격군이 노르웨이행 출항 | 작전·해군이동 | 발생 | 문헌대조 | [SRC-1483](chronology-sources-v1.md) |
+| EVT-2782 | 1940-04-08 | 영국 Wilfred 작전으로 노르웨이 영해에 기뢰부설·영불공동선언 발표 | 기뢰전·중립침해 | 발생 | 문헌대조 | [SRC-1480](chronology-sources-v1.md) · [SRC-1487](chronology-sources-v1.md) · [SRC-1498](chronology-sources-v1.md) |
+| EVT-2783 | 1940-04-08 | 영 구축함 Glowworm이 독 Admiral Hipper와 교전·충돌 후침몰, 독군이 생존자구조 | 해전·인명구조 | 발생 | 문헌대조 | [SRC-1481](chronology-sources-v1.md) |
+| EVT-2784 | 1940-04-08 | 폴란드 잠수함 Orzeł이 노르웨이행 독 수송선 Rio de Janeiro 격침 | 잠수함전·침공수송차단 | 발생 | 문헌대조 | [SRC-1482](chronology-sources-v1.md) |
+| EVT-2785 | 1940-04-09 | 독일군 덴마크 침공·수시간교전 후덴마크정부 저항중지, 군주·정부가존속하는점령체제 형성 | 침공·점령정치 | 발생 | 문헌대조 | [SRC-1476](chronology-sources-v1.md) · [SRC-1499](chronology-sources-v1.md) |
+| EVT-2786 | 1940-04-09 | Oscarsborg 요새가 Blücher를 함포·어뢰로 격침해 독일군의 Oslo접근 지연 | 해안방어·해전 | 발생 | 문헌대조 | [SRC-1477](chronology-sources-v1.md) |
+| EVT-2787 | 1940-04-09 | 노르웨이 국왕·정부·의회의원들이 Oslo탈출·Elverum에서 항전정부 권한유지 조치 | 정치·정부피난 | 발생 | 문헌대조 | [SRC-1477](chronology-sources-v1.md) |
+| EVT-2788 | 1940-04-09 | 독일군 Narvik진입 과정에서 노르웨이 해방전함 Eidsvold·Norge 격침 | 해전·항구점령 | 발생 | 문헌대조 | [SRC-1483](chronology-sources-v1.md) |
+| EVT-2789 | 1940-04-09 | 영 순양전함 Renown이 독 Scharnhorst·Gneisenau와 Lofoten근해 교전 | 해전 | 발생 | 문헌대조 | [SRC-1483](chronology-sources-v1.md) |
+| EVT-2790 | 1940-04-09 | 독 순양함 Karlsruhe가 영 잠수함 Truant 공격으로손상된 뒤 독어뢰정 Greif에의해처분 | 해전·군함상실 | 발생 | 문헌대조 | [SRC-1483](chronology-sources-v1.md) |
+| EVT-2791 | 1940-04-09 | Vidkun Quisling이 Oslo에서 자칭정부 선언(~14일독일당국해임); 합법Nygaardsvold정부와대립 | 쿠데타·협력정치 | 발생 | 문헌대조 | [SRC-1478](chronology-sources-v1.md) |
+| EVT-2792 | 1940-04-09 | 스웨덴이 독일의 중립유지요구에 직면·추가연령층징집방침을 미국공사가 보고 | 외교·동원 | 발생 | 문헌대조 | [SRC-1500](chronology-sources-v1.md) |
+| EVT-0072 | 1940-04-09 | 베저위붕 작전:독일의 덴마크·노르웨이 동시침공 개시(노르웨이전역은6월까지) | 작전·침공 | 발생 | 문헌대조 | [SRC-1324](chronology-sources-v1.md) · [SRC-1476](chronology-sources-v1.md) · [SRC-1477](chronology-sources-v1.md) |
+| EVT-2793 | 1940-04-10 | 영 Skua 급강하폭격기들이 Bergen정박 독 Königsberg 격침(전날해안포손상과구분) | 항공작전·해전 | 발생 | 문헌대조 | [SRC-1491](chronology-sources-v1.md) |
+| EVT-2794 | 1940-04-10 | Haakon7세와 노르웨이정부가 독일의 Quisling정부 수립요구를 거부 | 외교·항전결정 | 발생 | 문헌대조 | [SRC-1477](chronology-sources-v1.md) |
+| EVT-2795 | 1940-04-10 | 독 U37가 스웨덴 중립유조선 Sveaborg 격침·5명사망29명생존 | 잠수함전·중립선피해 | 발생 | 문헌대조 | [SRC-1494](chronology-sources-v1.md) |
+| EVT-2796 | 1940-04-10 | Sveaborg 구조에 나선 노르웨이 Tosca도 U37에격침·2명사망32명생존 | 잠수함전·구조중피격 | 발생 | 문헌대조 | [SRC-1495](chronology-sources-v1.md) |
+| EVT-2797 | 1940-04-10 | 독 U4가 영 잠수함 Thistle 격침·승조원53명전원전몰 | 잠수함전 | 발생 | 문헌대조 | [SRC-1496](chronology-sources-v1.md) |
+| EVT-2798 | 1940-04-10 | 아이슬란드 의회가 덴마크국왕에게속한 헌법상권한을 아이슬란드정부가행사하도록 결의 | 정치·헌정조치 | 발생 | 문헌대조 | [SRC-1489](chronology-sources-v1.md) |
+| EVT-2799 | 1940-04-10 | 미국 EO8389에따라 노르웨이·덴마크 관련미국내재산거래를 허가제로동결·몰수와구분 | 금융·재산보호통제 | 발생 | 문헌대조 | [SRC-1490](chronology-sources-v1.md) |
+| EVT-2800 | 1940-04-10 | 일본군 등이 중국 지중(冀中)항일근거지에서 포위소탕작전 개시(~5월말) | 중일전쟁·점령지작전 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-0073 | 1940-04-10 | 제1차 Narvik해전:영구축함대 기습과양측군함상실·Warburton-Lee전사(13일제2차해전과구분) | 해전 | 발생 | 문헌대조 | [SRC-1480](chronology-sources-v1.md) |
+| EVT-2801 | 1940-04-11 | 독일항공대가 Nybergsund 공습·노르웨이국왕과정부가 피난지에서 추가이동 | 공습·정부피난 | 발생 | 문헌대조 | [SRC-1502](chronology-sources-v1.md) |
+| EVT-2802 | 1940-04-11 | 영 잠수함 Spearfish가 독 중순양함 Lützow를 어뢰공격해 대파 | 잠수함전·군함손상 | 발생 | 문헌대조 | [SRC-1483](chronology-sources-v1.md) |
+| EVT-2803 | 1940-04-12 | 영국의 Faroe제도 점령개시(11일의회발표·12일진입·부대별상륙일 구분필요) | 점령·해상거점 | 발생 | 링크등록 | [SRC-1486](chronology-sources-v1.md) · [SRC-1487](chronology-sources-v1.md) |
+| EVT-2804 | 1940-04-12 | 독 U37가 영 철광석운반선 Stancliffe 격침·22명사망16명생존 | 잠수함전·상선피해 | 발생 | 문헌대조 | [SRC-1497](chronology-sources-v1.md) |
+| EVT-2805 | 1940-04-12 | 프랑스 대잠정 Ch107이 Loire하구근해에서 유조선 Shelspra와충돌해침몰 | 해군·항해사고 | 발생 | 문헌대조 | [SRC-1483](chronology-sources-v1.md) |
+| EVT-2806 | 1940-04-13 | 제2차 Narvik해전:Warspite와영구축함들이 독잔존구축함8척을 격침·자침으로상실시킴 | 해전 | 발생 | 문헌대조 | [SRC-1480](chronology-sources-v1.md) · [SRC-1483](chronology-sources-v1.md) |
+| EVT-2807 | 1940-04-13 | Warspite탑재 Swordfish 수상기가 Narvik전역에서 독 U64격침 | 항공대잠전 | 발생 | 문헌대조 | [SRC-1483](chronology-sources-v1.md) |
+| EVT-2808 | 1940-04-13 | 소련의 폴란드인강제추방:Zygmunt Bajorek과부모가 13일Kazakhstan으로추방됐다는증언 | 국가폭력·강제이주 | 발생 | 문헌대조 | [SRC-1475](chronology-sources-v1.md) |
+| EVT-2809 | 1940-04-14 | 독일공수부대가 Dombås 철도·도로요충 차단을위해강하·노르웨이군과교전(~19일) | 공수작전·교통차단 | 발생 | 문헌대조 | [SRC-1501](chronology-sources-v1.md) |
+| EVT-2810 | 1940-04-14 | 영 해군·해병 선발대 약350명이 Namsos·Bangsund일대 상륙(Henry), 육군본대와구분 | 상륙작전 | 발생 | 문헌대조 | [SRC-1485](chronology-sources-v1.md) · [SRC-1503](chronology-sources-v1.md) |
+| EVT-2811 | 1940-04-14 | 일본군 등이 중국 루난(魯南)바오두구산 근거지 소탕작전 개시(~5월초) | 중일전쟁·점령지작전 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-2812 | 1940-04-15 | 영 Narvik원정군이 노르웨이북부 도착·상륙(14~15일야간·선발대와본대 구별) | 연합군·상륙작전 | 발생 | 링크등록 | [SRC-1503](chronology-sources-v1.md) |
+| EVT-2813 | 1940-04-15 | 노르웨이 대법원이 독일점령당국양해하 Oslo권 민간행정위원회 설치 | 점령·행정 | 발생 | 문헌대조 | [SRC-1479](chronology-sources-v1.md) |
+| EVT-2814 | 1940-04-15 | 일본 외상 아리타 하치로가 유럽전쟁의 네덜란드령동인도 현상변경파급에대한 우려발표 | 외교·남방정책 | 발생 | 문헌대조 | [SRC-1488](chronology-sources-v1.md) |
 | EVT-0075 | 1940-05-10 | 황색작전: 독일의 저지대 국가·프랑스 공격 개시 | 작전 | 발생 | 링크등록 | [SRC-004](chronology-sources-v1.md) |
 | EVT-0076 | 1940-05-10 | 영국 체임벌린 사임·처칠 총리 취임 | 정치 | 발생 | 미등록 | — |
 | EVT-0077 | 1940-05-13 | 낫질작전(Sichelschnitt)의 핵심: 독일 기갑부대 뫼즈강 도하·스당 돌파 | 작전·전투 | 발생 | 미등록 | — |
