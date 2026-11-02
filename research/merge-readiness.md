@@ -330,3 +330,8 @@ pr: 1
 - 신규 58 EVT·14 SRC·18 RQ. 누적 2473 EVT / 1378 SRC / 782 RQ. 문헌대조 2137·링크등록 200·미등록 136; 기본 미대조 336.
 - [2/28~29 사료감사](source-audit-1940-feb28-29-batch1.md): 28일 핀 서북지협 Pulliniemi·Lihaniemi 철수·SFK Salla 전선인수·Tanner 종전 권고·금반지 모금·미대부 법안·야간 Lemetti 탈출. 29일 동레메티 전차71 차268 노획·Kondratyev 대 Kondrashev 구분·소련사망3000 대 일부400 보고 한계, Ruokolahti 핀7기 상실 및 덴마크 의용군, Nyrki Tapiovaara 전사, Kuhmo·Kouvola 공습·국제연맹 항의, U20 중립 이탈리아 Maria Rosa 11명당일+1명익일 사망.
 - PR Draft 유지; 병합 비추천·main/docs/Pages 변경 없음. 다음 1940-03-01~03.
+
+## 2026-11-02 v6.7 / 1940-03-01~03
+- 신규 76 EVT /16 SRC /21 RQ; 누적 2549 EVT /1394 SRC /803 RQ. **EVT-2449 기존 사건 날짜 1940-02-29→03-02 수정·링크등록 강등**: 문헌대조 2209·링크등록 204·미등록 136; 기본미대조 340.
+- [3/1~3 사료감사](source-audit-1940-mar01-03-batch1.md): 3/1 독 Hitler Weserübung C-174 하버드 법정원문 대조·핀 Viipuri 지협철수·SFK Dyrssen 전사·Salla 1차전사·이탈리아 Mirella 2회피격. 3/2 Kollaa 3만 대 1000발미만 핀전사·Teikarsaari Tuppura 2월29일과 날짜충돌 교정·Tampere 9명사망/22화재·헝가리 의용병 본대 Lapua 도착 미참전·Rijnstroom Lagaholm 중립선. 3/3 Uuras 상실·Wallenius/Oesch 지휘교체·Tanner/Günther 협의·영 Cato 3/2 기뢰설치후 3/3 침몰. 핀 ErP17/25 당대 군일지 교차.
+- PR Draft 유지·병합 비추천·main/docs/Pages 승인 전 불변. 다음 3/4~5.
