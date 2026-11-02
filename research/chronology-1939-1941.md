@@ -1,5 +1,5 @@
 ---
-title: 세계대전 연표 1939–1941 (1940년 4월 15일까지 1차 범위 검토)
+title: 세계대전 연표 1939–1941 (1940년 4월 30일까지 1차 범위 검토)
 status: review-draft
 as_of: 2026-11-02
 ---
@@ -2553,12 +2553,45 @@ as_of: 2026-11-02
 | EVT-2806 | 1940-04-13 | 제2차 Narvik해전:Warspite와영구축함들이 독잔존구축함8척을 격침·자침으로상실시킴 | 해전 | 발생 | 문헌대조 | [SRC-1480](chronology-sources-v1.md) · [SRC-1483](chronology-sources-v1.md) |
 | EVT-2807 | 1940-04-13 | Warspite탑재 Swordfish 수상기가 Narvik전역에서 독 U64격침 | 항공대잠전 | 발생 | 문헌대조 | [SRC-1483](chronology-sources-v1.md) |
 | EVT-2808 | 1940-04-13 | 소련의 폴란드인강제추방:Zygmunt Bajorek과부모가 13일Kazakhstan으로추방됐다는증언 | 국가폭력·강제이주 | 발생 | 문헌대조 | [SRC-1475](chronology-sources-v1.md) |
-| EVT-2809 | 1940-04-14 | 독일공수부대가 Dombås 철도·도로요충 차단을위해강하·노르웨이군과교전(~19일) | 공수작전·교통차단 | 발생 | 문헌대조 | [SRC-1501](chronology-sources-v1.md) |
+| EVT-2809 | 1940-04-14 | 독일공수부대가 Dombås 교통로 차단을 위해 강하·노르웨이군과 교전 후19일 잔존부대 항복 | 공수작전·교통차단 | 발생 | 문헌대조 | [SRC-1501](chronology-sources-v1.md) · [SRC-1504](chronology-sources-v1.md) |
 | EVT-2810 | 1940-04-14 | 영 해군·해병 선발대 약350명이 Namsos·Bangsund일대 상륙(Henry), 육군본대와구분 | 상륙작전 | 발생 | 문헌대조 | [SRC-1485](chronology-sources-v1.md) · [SRC-1503](chronology-sources-v1.md) |
 | EVT-2811 | 1940-04-14 | 일본군 등이 중국 루난(魯南)바오두구산 근거지 소탕작전 개시(~5월초) | 중일전쟁·점령지작전 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
 | EVT-2812 | 1940-04-15 | 영 Narvik원정군이 노르웨이북부 도착·상륙(14~15일야간·선발대와본대 구별) | 연합군·상륙작전 | 발생 | 링크등록 | [SRC-1503](chronology-sources-v1.md) |
 | EVT-2813 | 1940-04-15 | 노르웨이 대법원이 독일점령당국양해하 Oslo권 민간행정위원회 설치 | 점령·행정 | 발생 | 문헌대조 | [SRC-1479](chronology-sources-v1.md) |
 | EVT-2814 | 1940-04-15 | 일본 외상 아리타 하치로가 유럽전쟁의 네덜란드령동인도 현상변경파급에대한 우려발표 | 외교·남방정책 | 발생 | 문헌대조 | [SRC-1488](chronology-sources-v1.md) |
+| EVT-2815 | 1940-04-16 | 팔로군 제344여단 등 황커청 부대가 지루위 변경으로 진출해 제2종대를 재편한다는 중국 군사백과 기록 | 중국전선·군조직 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-2816 | 1940-04-16 | 영 제146여단의 Namsos·Bangsund 상륙 개시(16~17일); 14일 해군 선발대와 구분 | 연합군·상륙 | 발생 | 문헌대조 | [SRC-1485](chronology-sources-v1.md) · [SRC-1503](chronology-sources-v1.md) |
+| EVT-2817 | 1940-04-17 | 영 해병·해군 병력이 Åndalsnes에 상륙해 항구 경비와 후속 상륙 기반 확보 | 연합군·상륙 | 발생 | 문헌대조 | [SRC-1504](chronology-sources-v1.md) |
+| EVT-2818 | 1940-04-17 | 미 국무부가 네덜란드령 동인도의 비평화적 현상변경에 반대하는 공개성명 발표 | 외교·남방정책 | 발생 | 문헌대조 | [SRC-1510](chronology-sources-v1.md) |
+| EVT-2819 | 1940-04-18 | 영 제148보병여단 선발 병력이 Åndalsnes·Molde에 상륙(18~19일 밤) | 연합군·상륙 | 발생 | 문헌대조 | [SRC-1504](chronology-sources-v1.md) |
+| EVT-2820 | 1940-04-18 | 아우슈비츠 설립 준비 현장조사에 Höss·Seidler·Schlachter 참가(18~19일), 최초설계의 기초 마련 | 수용소·설립준비 | 발생 | 문헌대조 | [SRC-1512](chronology-sources-v1.md) |
+| EVT-2821 | 1940-04-19 | 프랑스 산악부대가 Namsos에 상륙(19~20일 밤), 중부 노르웨이 원정군 증원 | 연합군·상륙 | 발생 | 문헌대조 | [SRC-1485](chronology-sources-v1.md) |
+| EVT-2822 | 1940-04-20 | 독일 공습이 Namsos의 주택·철도·부두·상하수도 및 전력시설을 파괴 | 공습·민간기반시설 | 발생 | 문헌대조 | [SRC-1485](chronology-sources-v1.md) |
+| EVT-2823 | 1940-04-21 | 독일군이 Vist·Verdal권 영노르웨이군을 공격, 22일까지 교전 후 연합군 후퇴 | 지상전·중부노르웨이 | 발생 | 문헌대조 | [SRC-1485](chronology-sources-v1.md) · [SRC-1506](chronology-sources-v1.md) |
+| EVT-2824 | 1940-04-21 | 독일 공습으로 Steinkjer 시가지 화재·교량 파괴와 급수·철도 기능 마비 | 공습·민간기반시설 | 발생 | 문헌대조 | [SRC-1485](chronology-sources-v1.md) |
+| EVT-2825 | 1940-04-21 | U26이 보급선 Cedarbank 격침·15명 사망30명 생존, 영 제148여단 장비·보급품 상실 | 잠수함전·군수수송 | 발생 | 문헌대조 | [SRC-1508](chronology-sources-v1.md) · [SRC-1509](chronology-sources-v1.md) · [SRC-1504](chronology-sources-v1.md) |
+| EVT-2826 | 1940-04-22 | 노르웨이 정부가 Stuguflåten 각의에서 해외 상선대 징발을 위한 잠정명령 채택(NORTRASHIP 관련) | 해운·전시경제 | 발생 | 문헌대조 | [SRC-1502](chronology-sources-v1.md) |
+| EVT-2827 | 1940-04-22 | 일본 제13군이 중국 완난 지역 소탕작전을 개시하고 신사군 제3지대가 대응했다는 중국측 기록 | 중일전쟁·점령지작전 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-2828 | 1940-04-23 | Tretten에서 독일군 공격으로 영 제148여단 방어가 붕괴·병력 상당수 포로화 | 지상전·중부노르웨이 | 발생 | 문헌대조 | [SRC-1504](chronology-sources-v1.md) |
+| EVT-2829 | 1940-04-23 | 영 제15보병여단 첫 제대가 Molde·Åndalsnes에 상륙(23일 밤); Paget 본부의25일 도착과 구분 | 연합군·증원 | 발생 | 문헌대조 | [SRC-1505](chronology-sources-v1.md) |
+| EVT-2830 | 1940-04-23 | HMS Galatea가 노르웨이 금준비 일부를 Åndalsnes에서 스코틀랜드로 반출 | 금융·금수송 | 발생 | 문헌대조 | [SRC-1514](chronology-sources-v1.md) |
+| EVT-2831 | 1940-04-24 | 히틀러의 명령으로 Josef Terboven이 노르웨이 점령지역 국가판무관에 임명 | 점령통치·인사 | 발생 | 문헌대조 | [SRC-1479](chronology-sources-v1.md) · [SRC-1515](chronology-sources-v1.md) |
+| EVT-2832 | 1940-04-24 | RAF 제263비행대 Gladiator들이 Glorious에서 출격해 Lesjaskog 호수 빙상기지 도착 | 항공작전·전방기지 | 발생 | 문헌대조 | [SRC-1505](chronology-sources-v1.md) |
+| EVT-2833 | 1940-04-24 | Warspite 등 영 함대가 Narvik 군사목표를 포격하지만 독일군 항복·도시탈환에 이르지 못함 | 함포지원·북부노르웨이 | 발생 | 문헌대조 | [SRC-1507](chronology-sources-v1.md) |
+| EVT-2834 | 1940-04-24 | 노르웨이군이 Lapphaugen·Gratangen 방향 공격, 25일 독일군 반격으로 큰 손실 | 지상전·북부노르웨이 | 발생 | 문헌대조 | [SRC-1507](chronology-sources-v1.md) |
+| EVT-2835 | 1940-04-25 | Kvam에서 영 제15여단과 독일군 교전 개시, 26일까지 방어 후 철수 | 지상전·중부노르웨이 | 발생 | 문헌대조 | [SRC-1505](chronology-sources-v1.md) |
+| EVT-2836 | 1940-04-25 | 독일 공습과 보급·정비 곤란으로 Lesjaskog의 RAF 전투기 기지가 기능 상실(25~26일) | 항공전·기지상실 | 발생 | 문헌대조 | [SRC-1505](chronology-sources-v1.md) |
+| EVT-2837 | 1940-04-26 | 독일 공습으로 Åndalsnes 부두·탄약·시가지가 대규모 화재에 휩싸여 원정군 항만 기능 악화 | 공습·군수기반시설 | 발생 | 문헌대조 | [SRC-1506](chronology-sources-v1.md) |
+| EVT-2838 | 1940-04-27 | 영 군사조정위원회가 Namsos·Åndalsnes 원정군 철수 지시 승인·발령; 실제 승선은 후속 | 전략결정·철수명령 | 발생 | 문헌대조 | [SRC-1506](chronology-sources-v1.md) |
+| EVT-2839 | 1940-04-27 | Kjørem에서 영 York and Lancaster 부대가 독일군과 교전 후 야간 후퇴 | 지상전·중부노르웨이 | 발생 | 문헌대조 | [SRC-1505](chronology-sources-v1.md) |
+| EVT-2840 | 1940-04-27 | 아우슈비츠 설립명령의 전통적4월27일 표기: 선행 인계·예산·설계와 구분해 일자 재검증 | 수용소·설립결정 | 발생 | 링크등록 | [SRC-1511](chronology-sources-v1.md) · [SRC-1512](chronology-sources-v1.md) · [SRC-1516](chronology-sources-v1.md) |
+| EVT-2841 | 1940-04-28 | Otta에서 영군이 독일군 공격을 저지한 뒤 명령에 따라 밤에 Dombås 방향 철수 | 지상전·지연전 | 발생 | 문헌대조 | [SRC-1505](chronology-sources-v1.md) |
+| EVT-2842 | 1940-04-28 | 프랑스 산악부대가 Sjøvegan 부근에 상륙해 노르웨이군과 Bjerkvik 방향 협공 준비 | 연합군·북부상륙 | 발생 | 문헌대조 | [SRC-1507](chronology-sources-v1.md) |
+| EVT-2843 | 1940-04-29 | 노르웨이 국왕·정부가 Molde에서 HMS Glasgow로 북상(29~30일 밤), 금준비 일부도 분할 반출 | 정부피난·금수송 | 발생 | 문헌대조 | [SRC-1502](chronology-sources-v1.md) · [SRC-1514](chronology-sources-v1.md) · [SRC-1506](chronology-sources-v1.md) |
+| EVT-2844 | 1940-04-30 | Åndalsnes에서 Fleetwood의 일부 병력 선행철수와 순양함대의 대규모 승선 실시(30일~5월1일 밤) | 해상철수·중부노르웨이 | 발생 | 문헌대조 | [SRC-1506](chronology-sources-v1.md) |
+| EVT-2845 | 1940-04-30 | RAF가 철수 지원을 위해 Stavanger·Fornebu 비행장 야간공습(30일~5월1일), 지상 철수완료와 구분 | 항공작전·철수지원 | 발생 | 문헌대조 | [SRC-1506](chronology-sources-v1.md) |
+| EVT-2846 | 1940-04-30 | 독일 점령당국이 우치(Łódź) 게토를 외부와 봉쇄·2월 게토 조성과 구분 | 홀로코스트·강제격리 | 발생 | 문헌대조 | [SRC-1513](chronology-sources-v1.md) |
+| EVT-2847 | 1940-04-30 | 주더·펑더화이·예팅·샹잉 등이 왕징웨이 정권 규탄과 구국을 호소하는 연명전보 발표 | 중국전선·정치선언 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
 | EVT-0075 | 1940-05-10 | 황색작전: 독일의 저지대 국가·프랑스 공격 개시 | 작전 | 발생 | 링크등록 | [SRC-004](chronology-sources-v1.md) |
 | EVT-0076 | 1940-05-10 | 영국 체임벌린 사임·처칠 총리 취임 | 정치 | 발생 | 미등록 | — |
 | EVT-0077 | 1940-05-13 | 낫질작전(Sichelschnitt)의 핵심: 독일 기갑부대 뫼즈강 도하·스당 돌파 | 작전·전투 | 발생 | 미등록 | — |
