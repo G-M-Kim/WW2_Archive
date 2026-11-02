@@ -2307,7 +2307,7 @@ as_of: 2026-10-25
 | EVT-2564 | 1940-03-04 | Iittala 피란열차69호가 Leteensuo에서 자정 운행허가 뒤 Iittala 남방 약6km 이동 | 겨울전쟁·철도관제·사고원인 | 발생 | 문헌대조 | [SRC-1396](chronology-sources-v1.md) |
 | EVT-2565 | 1940-03-04 | Iittala 열차 정면충돌로 기관차와 앞 객차가 파손·아동열차 일부 차량 화재 | 겨울전쟁·철도차량화재 | 발생 | 문헌대조 | [SRC-1396](chronology-sources-v1.md) |
 | EVT-2566 | 1940-03-04 | Iittala 사고는 전시검열 때문에 당시 언론보도가 억제됨 | 겨울전쟁·전시검열·사고은폐 | 발생 | 문헌대조 | [SRC-1396](chronology-sources-v1.md) |
-| EVT-2567 | 1940-03-04 | Iittala 급행 기관사의 과실치사 유죄 1심 판결은 후일 고등법원에서 무죄 확정·1940년3월4일 재판 아님 | 겨울전쟁·후속철도사법 | 발생 | 문헌대조 | [SRC-1396](chronology-sources-v1.md) |
+| EVT-2567 | 1940-03-04 | Iittala 특별열차 기관사 Jalo Leppänen(32)이 충돌로 운전실에서 전사·신원 확인자료가 후일 확보됨 | 겨울전쟁·철도노동자전몰 | 발생 | 문헌대조 | [SRC-1396](chronology-sources-v1.md) |
 | EVT-2568 | 1940-03-04 | 노르웨이 Holmenkollen 경기장에서 핀란드 지원의 날 행사·스케이터 Clas Thunberg 연설 | 겨울전쟁·국제민간연대 | 발생 | 문헌대조 | [SRC-1395](chronology-sources-v1.md) |
 | EVT-2569 | 1940-03-04 | 핀 ErP25 정찰대 Alakulppi가 Korkeaselkä 북부에서 소련군 약20명을 관측 후 교전 | 겨울전쟁·소부대정찰전 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
 | EVT-2570 | 1940-03-04 | 핀 ErP25 15:40 K.V.Suomi 공격 및 전화선단절 경보로 16시 제3중대 동원·경보는 곧 취소 | 겨울전쟁·오경보·통신 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
