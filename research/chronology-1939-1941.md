@@ -1,5 +1,5 @@
 ---
-title: 세계대전 연표 1939–1941 (1940년 6월 15일까지 1차 범위 검토)
+title: 세계대전 연표 1939–1941 (1940년 6월 30일까지 1차 범위 검토)
 status: review-draft
 as_of: 2026-11-02
 ---
@@ -2723,7 +2723,47 @@ as_of: 2026-11-02
 | EVT-2968 | 1940-06-14 | 독일당국이 Tarnów감옥의 폴란드인728명을 Auschwitz로 이송;폴란드인 첫대규모수송 | 수용소·강제이송 | 발생 | 문헌대조 | [SRC-1587](chronology-sources-v1.md) |
 | EVT-2969 | 1940-06-15 | 소련군이 리투아니아 국경을 넘어 진입해 점령 확대 | 발트지역·점령 | 발생 | 문헌대조 | [SRC-1584](chronology-sources-v1.md) |
 | EVT-2970 | 1940-06-15 | 영국군이 Cherbourg 철수를 엄호하도록 제52사단에 후퇴·방어선 편성 명령 | 서부전선·철수명령 | 발생 | 문헌대조 | [SRC-1569](chronology-sources-v1.md) |
-| EVT-0083 | 1940-06-22 | 프랑스·독일 휴전협정 체결 | 외교 | 발생 | 미등록 | — |
+| EVT-2971 | 1940-06-16 | 영국 전시내각이 영불연합안을 수정·제안했으나 실제 국가통합으로 이어지지 않음 | 외교·통합제안 | 발생 | 문헌대조 | [SRC-1591](chronology-sources-v1.md) |
+| EVT-2972 | 1940-06-16 | 레노가 사임하고 페탱이 프랑스 총리로 취임 | 정치·정부교체 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) |
+| EVT-2973 | 1940-06-16 | 소련이 에스토니아에 추가병력 진입 등을 요구하는 최후통첩 제시 | 발트지역·강압외교 | 발생 | 문헌대조 | [SRC-1605](chronology-sources-v1.md) · [SRC-1606](chronology-sources-v1.md) |
+| EVT-2974 | 1940-06-16 | 소련이 라트비아에 정부사임과 무제한 병력진입을 요구·라트비아정부 수락 | 발트지역·강압외교 | 발생 | 문헌대조 | [SRC-1604](chronology-sources-v1.md) |
+| EVT-2975 | 1940-06-17 | 소련군이 에스토니아 국경을 넘어 진입·해상으로도 병력을 투입 | 발트지역·점령 | 발생 | 문헌대조 | [SRC-1606](chronology-sources-v1.md) |
+| EVT-2976 | 1940-06-17 | 소련군이 라트비아를 점령 | 발트지역·점령 | 발생 | 문헌대조 | [SRC-1604](chronology-sources-v1.md) |
+| EVT-2977 | 1940-06-17 | 중국군이 이창(宜昌)을 재탈환했다는 중국 군사백과 기록;뒤이은 일본군 재점령의정확일자는유보 | 중일전쟁·도시쟁탈 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-2978 | 1940-06-17 | 페탱이 라디오로 휴전 요청 방침을 발표;협정 체결·정전 발효와구분 | 정치·휴전요청 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) |
+| EVT-2979 | 1940-06-17 | 드골이 런던에 도착해 BBC발언 기회를 요청 | 정치·항전거점이동 | 발생 | 문헌대조 | [SRC-1593](chronology-sources-v1.md) |
+| EVT-2980 | 1940-06-17 | 철수군과 민간인이 탄 Lancastria가 Saint-Nazaire 앞바다에서 독일 공습으로 침몰 | 해상철수·대량인명피해 | 발생 | 문헌대조 | [SRC-1595](chronology-sources-v1.md) · [SRC-1596](chronology-sources-v1.md) |
+| EVT-2981 | 1940-06-18 | 드골이 BBC를 통해 항전 지속을 호소;당일 방송의 원녹음은미보존 | 저항·라디오호소 | 발생 | 문헌대조 | [SRC-1593](chronology-sources-v1.md) |
+| EVT-2982 | 1940-06-18 | 처칠이 영국 하원에서 항전 지속을 강조하는 finest hour 연설 | 정치·의회연설 | 발생 | 문헌대조 | [SRC-1594](chronology-sources-v1.md) |
+| EVT-2983 | 1940-06-18 | Saint-Nazaire의 주력 해상철수 수송선들이 출항;잔여폴란드군 등을 위한 추가회수는계속 | 작전·해상철수 | 발생 | 문헌대조 | [SRC-1569](chronology-sources-v1.md) |
+| EVT-2984 | 1940-06-19 | Saumur에서 프랑스 사관후보생 등이 Loire교량을 방어하는 주요 전투 전개(19~20일) | 서부전선·교량방어 | 발생 | 문헌대조 | [SRC-1599](chronology-sources-v1.md) |
+| EVT-2985 | 1940-06-19 | Montluzin·Chasselay 일대에서 프랑스 제25세네갈보병연대와 독일군 교전·20일Chasselay에서흑인포로학살 | 전투·포로학살 | 발생 | 문헌대조 | [SRC-1600](chronology-sources-v1.md) |
+| EVT-2986 | 1940-06-19 | 영국 트롤러 Moonstone이 교전 끝에 이탈리아 잠수함 Galileo Galilei를 나포 | 아덴만·해전 | 발생 | 문헌대조 | [SRC-1577](chronology-sources-v1.md) |
+| EVT-2987 | 1940-06-19 | 영국 정부가 채널 제도의 비무장화를 결정·방위병력 철수 | 정치·방위철회 | 발생 | 문헌대조 | [SRC-1616](chronology-sources-v1.md) |
+| EVT-2988 | 1940-06-20 | 프랑스령 인도차이나 당국이 일본 압력 아래 대중국 화물수송 금지·국경폐쇄를 결정했다는 미외교기록 | 중국전선·보급로차단 | 발생 | 문헌대조 | [SRC-1610](chronology-sources-v1.md) · [SRC-1611](chronology-sources-v1.md) |
+| EVT-2989 | 1940-06-20 | Palmiry에서 독일당국이 Pawiak 등 수감자를 집단처형(20~21일);희생자수358/368/378상충 | 점령지·민간인학살 | 발생 | 문헌대조 | [SRC-1602](chronology-sources-v1.md) · [SRC-1603](chronology-sources-v1.md) |
+| EVT-2990 | 1940-06-20 | 소련 점령하 라트비아에서 Augusts Kirchenšteins가 이끄는 친소정부 수립 | 정치·점령통치 | 발생 | 문헌대조 | [SRC-1604](chronology-sources-v1.md) |
+| EVT-2991 | 1940-06-20 | Chandernagor 행정관 Baron이 드골의 항전호소에 호응했다는 연구기록;프랑스령인도전체합류와구분 | 정치·항전세력합류 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) · [SRC-1619](chronology-sources-v1.md) |
+| EVT-2992 | 1940-06-21 | 이탈리아군이 프랑스 알프스 전선에서 전면 공세 개시 | 알프스전선·공세 | 발생 | 문헌대조 | [SRC-1598](chronology-sources-v1.md) |
+| EVT-0083 | 1940-06-22 | 프랑스·독일 휴전협정 서명;발효는이탈리아협정과통보에연동해25일 | 외교·휴전협정 | 발생 | 문헌대조 | [SRC-1597](chronology-sources-v1.md) · [SRC-1598](chronology-sources-v1.md) |
+| EVT-2993 | 1940-06-22 | 드골이 BBC에서 다시 항전과 합류를 호소하는 연설 | 저항·라디오호소 | 발생 | 문헌대조 | [SRC-1593](chronology-sources-v1.md) |
+| EVT-2994 | 1940-06-23 | 이탈리아군이 Menton 시내 일부를 점령 | 알프스전선·도시부분점령 | 발생 | 문헌대조 | [SRC-1598](chronology-sources-v1.md) |
+| EVT-2995 | 1940-06-23 | Grenoble 접근로 Voreppe에서 프랑스군이 독일군의 진격을 저지 | 알프스전선·후방방어 | 발생 | 문헌대조 | [SRC-1598](chronology-sources-v1.md) |
+| EVT-2996 | 1940-06-24 | 프랑스와 이탈리아가 휴전협정 체결;정전 발효는25일 | 외교·휴전협정 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) · [SRC-1598](chronology-sources-v1.md) |
+| EVT-2997 | 1940-06-24 | 프랑스대사관과 일본정부가 Haiphong에 일본 감시관을 운송·대중국 화물감시를 추진하는 합의에 도달했다는 미외교보고 | 동아시아·강압협상 | 발생 | 문헌대조 | [SRC-1612](chronology-sources-v1.md) |
+| EVT-3010 | 1940-06-24 | Chandernagor에서 Calcutta거주 프랑스인들이 Baron 주재로 모여 추축국과의 항전지속 결의 채택 | 정치·항전결의 | 발생 | 문헌대조 | [SRC-1620](chronology-sources-v1.md) |
+| EVT-2998 | 1940-06-25 | 프랑스와 독일·이탈리아 사이 휴전협정에 따른 정전 발효;일부요새와해외항전은별도 | 외교·정전발효 | 발생 | 문헌대조 | [SRC-1597](chronology-sources-v1.md) · [SRC-1598](chronology-sources-v1.md) |
+| EVT-2999 | 1940-06-25 | 프랑스 남서부에서 공식 최종 병력수송선 출항·휴전조건에 따른 철수중단;다른항구의후속탈출은계속 | 작전·해상철수종료 | 발생 | 문헌대조 | [SRC-1569](chronology-sources-v1.md) |
+| EVT-3000 | 1940-06-26 | 소련이 루마니아에 베사라비아와 북부부코비나의 양도를 요구하는 최후통첩 제시 | 외교·영토강압 | 발생 | 문헌대조 | [SRC-1608](chronology-sources-v1.md) |
+| EVT-3001 | 1940-06-27 | 소련이 루마니아에 추가 최후통첩·철수와 소련군 진입 일정 요구 | 외교·추가강압 | 발생 | 문헌대조 | [SRC-1609](chronology-sources-v1.md) |
+| EVT-3002 | 1940-06-28 | 루마니아가 소련 요구를 수락하고 소련군이 국경을 넘어 진입했다는 당일 미외교보고 | 동유럽·영토점령 | 발생 | 문헌대조 | [SRC-1609](chronology-sources-v1.md) |
+| EVT-3003 | 1940-06-28 | 영국 정부가 드골을 자유프랑스인의 지도자로 인정 | 외교·항전세력승인 | 발생 | 문헌대조 | [SRC-1593](chronology-sources-v1.md) |
+| EVT-3004 | 1940-06-28 | 영국 순양함대가 이탈리아 구축함들을 공격·HMAS Sydney가 Espero를 격침하고 생존자 구조 | 지중해·해전 | 발생 | 문헌대조 | [SRC-1613](chronology-sources-v1.md) |
+| EVT-3005 | 1940-06-28 | 리비아 총독·군사령관 Italo Balbo가 Tobruk 상공에서 자국 대공사격으로 격추돼 사망 | 북아프리카·아군오사 | 발생 | 문헌대조 | [SRC-1614](chronology-sources-v1.md) · [SRC-1577](chronology-sources-v1.md) |
+| EVT-3006 | 1940-06-28 | 미국 Alien Registration Act(Smith Act) 제정·외국인 등록과 지문채취 제도 등 규정 | 전시통제·법률제정 | 발생 | 문헌대조 | [SRC-1615](chronology-sources-v1.md) |
+| EVT-3007 | 1940-06-28 | 독일군이 Jersey·Guernsey를 공습해 민간인 피해;Jersey사망10/11명자료상충 | 공습·민간인피해 | 발생 | 문헌대조 | [SRC-1616](chronology-sources-v1.md) · [SRC-1617](chronology-sources-v1.md) · [SRC-1618](chronology-sources-v1.md) |
+| EVT-3008 | 1940-06-28 | 중국 Guocun(郭村)에서 리밍양·리창장계 병력과 신사군 정진종대의 전투 개시라는 중국측 기록 | 중국전선·국공충돌 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3009 | 1940-06-30 | 독일군이 Guernsey에 상륙·점령;Jersey점령은7월1일 | 채널제도·점령 | 발생 | 문헌대조 | [SRC-1618](chronology-sources-v1.md) |
 | EVT-0084 | 1940-07-03 | 메르스엘케비르 해전/영국의 프랑스 함대 공격 | 해전 | 발생 | 미등록 | — |
 | EVT-0085 | 1940-07-10 | 영국 본토 항공전 개시(통상 연표 기준) | 항공전 | 발생 | 링크등록 | [SRC-004](chronology-sources-v1.md) |
 | EVT-0086 | 1940-07-16 | 바다사자 작전 관련 히틀러 지령 16호(영국 침공 계획) | 계획 | 미실행 | 미등록 | — |
