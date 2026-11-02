@@ -340,3 +340,8 @@ pr: 1
 - 신규 60 EVT·18 SRC·16 RQ; 누적 2609 EVT /1412 SRC /819 RQ. 문헌대조 2262·링크등록 211·미등록 136; 기본 미대조 347.
 - [3/4~5 사료감사](source-audit-1940-mar04-05-batch1.md): 3/4 Iittala 피란열차총31사망, 아이11 vs15 및 사고시각00:17 vs00:45 충돌, 사망원전자료우선; Äyräpää 언덕과 Viipuri만 소련상륙, 소련 민간폭격부인, ErP25 전선통신오경보 정정·ErP17 야전경비, U29 Thurston/S.N.A.1 연속해난 대량피해·Pacific Reliance 구조. 3/5 Äyräpää Nurmo 반격 전사40이상 대44 상충, 소련 평화조건 수락 결정(조약12일), Mikkeli 병원·대피소 공습전몰 33/34부상 49/57 차, 핀타타르 병사 Hasan Abdrahim 전사, Grutto 중립선원18 전몰 및 함장명출처오류.
 - PR draft 유지·병합 비추천·main/docs/Pages 불변. 다음 1940-03-06~08.
+
+## 2026-11-02 v6.9 / 1940-03-06~08
+- 신규 70 EVT·13 SRC·17 RQ; 누적 2679 EVT·1425 SRC·836 RQ. 문헌대조 2323·링크등록 220·미등록 136; 기본미대조 356.
+- [3/6~8 사료감사](source-audit-1940-mar06-08-batch1.md): 6일 라도가 Petäjäsaari 최후방어·Rantasalmi 46대50 손실이견, 소련 168사단 고립보급로 해제, Simo Häyhä 중상, 핀 대표단 모스크바 출발; 7일 Tali 돌파·Hamina 그룹 창설·FRUS 원외교전문 760D.61/1217 p298 스웨덴 정보·핀 대표 도착·네 Vecht 22명전몰; 8일 19시 핀소 협상 Molotov/Zhdanov/Vasilevsky(스탈린 불참)·Viipuri 물막이 작전·Mantsi 철수명령미완료·Luelahden 1주일 손실·Hägglund 3/8 가족서한 본문1940 사진설명1949 충돌·영 Counsellor 8일기뢰피격9일침몰 78전원생존. ErP17/25 원군일지 대조.
+- Draft PR 및 비공개 연구브랜치 유지, main/docs/Pages 불변. 원사료 미대조로 병합비추천. 다음 3월9~11일.
