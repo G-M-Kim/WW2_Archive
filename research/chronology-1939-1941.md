@@ -2340,7 +2340,7 @@ as_of: 2026-10-25
 | EVT-2597 | 1940-03-05 | Mikkeli 도립병원 수술실·병동 일부 폭격·방공대피실에서 22명 사망·환자와 의료인 피해 | 겨울전쟁·병원폭격·민간희생 | 발생 | 문헌대조 | [SRC-1402](chronology-sources-v1.md) |
 | EVT-2598 | 1940-03-05 | Mikkeli Tammisto 건물 지하 대피실에도 폭탄직격·피난민6명 사망 | 겨울전쟁·대피소폭격 | 발생 | 문헌대조 | [SRC-1402](chronology-sources-v1.md) |
 | EVT-2599 | 1940-03-05 | Mikkeli Lyseo 학교건물 공습으로 파괴·화재 및 일부 도서 소실 | 겨울전쟁·교육문화시설피해 | 발생 | 문헌대조 | [SRC-1402](chronology-sources-v1.md) |
-| EVT-2600 | 1940-03-05 | 핀란드 타타르계 하사 Hasan Abdrahim이 Viipuri만 지협 전투중 전사·자치 종교공동체의 전몰자기록 | 겨울전쟁·소수민족병사전사 | 발생 | 문헌대조 | [SRC-1408](chronology-sources-v1.md) |
+| EVT-2600 | 1940-03-05 | 핀란드 타타르계 상병급(Korpraali) Hasan Abdrahim이 Viipuri만 지협 전투중 전사·자치 종교공동체의 전몰자기록 | 겨울전쟁·소수민족병사전사 | 발생 | 문헌대조 | [SRC-1408](chronology-sources-v1.md) |
 | EVT-2601 | 1940-03-05 | Hasan Abdrahim의 전사 소식은 부대장 서신으로 약혼자에게 전달됨·핀 타타르 공동체 후대기록 | 겨울전쟁·군전사통지·전시서신 | 발생 | 문헌대조 | [SRC-1408](chronology-sources-v1.md) |
 | EVT-2602 | 1940-03-05 | 핀 ErP25 10:20 Alakulppi 정찰대 1+5명 Kivihaara 북방 약0.5km 진출·눈보라로 적스키흔적 발견실패 | 겨울전쟁·소규모초계 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
 | EVT-2603 | 1940-03-05 | 핀 ErP25 11시 KV Suomi 거점 전방 지뢰매설로 방어진지 보강 | 겨울전쟁·전방지뢰지대부설 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
