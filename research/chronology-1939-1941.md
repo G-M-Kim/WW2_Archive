@@ -2246,7 +2246,7 @@ as_of: 2026-10-25
 | EVT-2504 | 1940-03-02 | 소련군 Kollaa 측면 삼림우회기동 시도·핀군이 방어전선을 확장해 저항 | 겨울전쟁·우회기동·방어 | 발생 | 문헌대조 | [SRC-1380](chronology-sources-v1.md) |
 | EVT-2505 | 1940-03-02 | 핀 Viipuri 남부 Käremäenlahti·동부 Lyykylä에서 소련군 공격으로 전초진지 상실 | 겨울전쟁·지협방어진지 | 발생 | 문헌대조 | [SRC-1380](chronology-sources-v1.md) |
 | EVT-2506 | 1940-03-02 | Viipuri만 소련군이 Tuppuransaari·Teikarsaari 방면에 집중포격과 공격 개시 | 겨울전쟁·결빙도서전투 | 발생 | 문헌대조 | [SRC-1380](chronology-sources-v1.md) · [SRC-1384](chronology-sources-v1.md) |
-| EVT-2507 | 1940-03-02 | 핀 Tuppura·Teikarsaari 상실일 교정·기존 EVT-2449 날짜 2월29일 주장을 3월2일로 수정하며 2~3일 철수단계 이견 병기 | 겨울전쟁·사료불일치정정 | 발생 | 링크등록 | [SRC-1380](chronology-sources-v1.md) · [SRC-1384](chronology-sources-v1.md) · [SRC-1385](chronology-sources-v1.md) |
+| EVT-2507 | 1940-03-02 | 핀 Tuppuransaari 섬에서 정오무렵 역공 실패·방어병력 탄약고갈 보고·Teikarsaari 철수는 2~3일 밤에 이어짐 | 겨울전쟁·도서역공실패·탄약고갈 | 발생 | 링크등록 | [SRC-1380](chronology-sources-v1.md) · [SRC-1384](chronology-sources-v1.md) · [SRC-1385](chronology-sources-v1.md) |
 | EVT-2508 | 1940-03-02 | 소련군이 결빙 Viipuri만 서안에 최초 교두보 확보했다는 핀 군사박물관 연표 | 겨울전쟁·빙상도하·교두보 | 발생 | 문헌대조 | [SRC-1384](chronology-sources-v1.md) · [SRC-1380](chronology-sources-v1.md) |
 | EVT-2509 | 1940-03-02 | 소련군이 핀 Kuhmo Kuusijoki 방어선을 압박·핀 Löytövaara 교전 시작 | 겨울전쟁·쿠흐모지역전 | 발생 | 문헌대조 | [SRC-1380](chronology-sources-v1.md) |
 | EVT-2510 | 1940-03-02 | 핀군 Ladoga Mustalampi–Lavajärvi 사이 소련 스키대대 격파 보고·실병력·전사자 미확인 | 겨울전쟁·스키부대격파보고 | 발생 | 문헌대조 | [SRC-1380](chronology-sources-v1.md) |
