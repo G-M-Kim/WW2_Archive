@@ -345,3 +345,8 @@ pr: 1
 - 신규 70 EVT·13 SRC·17 RQ; 누적 2679 EVT·1425 SRC·836 RQ. 문헌대조 2323·링크등록 220·미등록 136; 기본미대조 356.
 - [3/6~8 사료감사](source-audit-1940-mar06-08-batch1.md): 6일 라도가 Petäjäsaari 최후방어·Rantasalmi 46대50 손실이견, 소련 168사단 고립보급로 해제, Simo Häyhä 중상, 핀 대표단 모스크바 출발; 7일 Tali 돌파·Hamina 그룹 창설·FRUS 원외교전문 760D.61/1217 p298 스웨덴 정보·핀 대표 도착·네 Vecht 22명전몰; 8일 19시 핀소 협상 Molotov/Zhdanov/Vasilevsky(스탈린 불참)·Viipuri 물막이 작전·Mantsi 철수명령미완료·Luelahden 1주일 손실·Hägglund 3/8 가족서한 본문1940 사진설명1949 충돌·영 Counsellor 8일기뢰피격9일침몰 78전원생존. ErP17/25 원군일지 대조.
 - Draft PR 및 비공개 연구브랜치 유지, main/docs/Pages 불변. 원사료 미대조로 병합비추천. 다음 3월9~11일.
+
+## 2026-11-02 v7.0 / 1940-03-09~11
+- 신규 49 EVT·13 SRC·16 RQ, 누적 2728 EVT /1438 SRC /852 RQ. 문헌대조 2368, 링크등록 224, 미등록 136; 기본미대조 360.
+- [3/9~11 감사](source-audit-1940-mar09-11-batch1.md): 9일 Steinhardt 전문264/266 영불원조·8일 모스크바 Hanko Viipuri Rybachy Kandalaksha 조건; 아일랜드 어선 Leukos 11명사망, Akeld 13명 Abbotsford 19명, 그리스 P Margaronis 30명실종·원선박식별추정. 10일 Nisalahti 3km Tali 4km 소련 돌파·10일14시 협상과 스톡홀름 12시간전보, 11일 Steinhardt 268은 9~10일 회담의 사후보고·횡단철도요구·Svinhufvud 독일접촉 간접전언 및 Hull 검증제동·Eulota 42명 전원생존. ErP17·ErP25 원일지로 초계·연합군 통신·정찰명령확인.
+- Draft PR 및 main/docs/Pages 보호, 병합보류, 다음 3월12~13일 종전조약.

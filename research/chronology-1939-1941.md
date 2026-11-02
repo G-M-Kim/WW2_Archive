@@ -2420,6 +2420,55 @@ as_of: 2026-10-25
 | EVT-2677 | 1940-03-08 | 핀 ErP17 18:30 Onkamo 교전종료·20시 스웨덴군과 공동초계구역 조정 | 겨울전쟁·일선연합작전협의 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
 | EVT-2678 | 1940-03-08 | 핀 ErP25 Näsänen 정찰대 05시 출발해 Raatikka 방면 소련차량9·병력약40·말23 관측보고 | 겨울전쟁·적차량수색·정보 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
 | EVT-2679 | 1940-03-08 | 핀 ErP25 Hänninen 정찰대 06시 Löytöjängä 수색·10:15 복귀 무접촉 | 겨울전쟁·정찰미접적 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2680 | 1940-03-09 | 미 주소대사 Steinhardt가 프 대리공사 Payart로부터 영불이 핀 전쟁지속 시 육군·항공기·물자 지원 제안 전언 청취 | 외교·영불원조제안 | 발생 | 문헌대조 | [SRC-1426](chronology-sources-v1.md) |
+| EVT-2681 | 1940-03-09 | 프 대리공사가 모스크바 체류중 핀 수상 Ryti 면담접근 어려움 보고 | 외교·접견연락문제 | 발생 | 문헌대조 | [SRC-1426](chronology-sources-v1.md) |
+| EVT-2682 | 1940-03-09 | 미대사 Steinhardt가 핀 협상단 직접 면담해 전날 8일19:30~22:30 소련 협상조건 확인 | 외교·모스크바강화교섭 | 발생 | 문헌대조 | [SRC-1427](chronology-sources-v1.md) |
+| EVT-2683 | 1940-03-09 | 핀 협상단이 소련의 Hanko반도·인근도서 장기 임차 요구를 미국에 통보 | 외교·영토요구 | 발생 | 문헌대조 | [SRC-1427](chronology-sources-v1.md) |
+| EVT-2684 | 1940-03-09 | 핀 협상단이 Viipuri만·Sortavala·Jänisjärvi로 이어지는 소련측 새 국경선 제안을 미국에 설명 | 외교·신국경선제안 | 발생 | 문헌대조 | [SRC-1427](chronology-sources-v1.md) |
+| EVT-2685 | 1940-03-09 | 핀 협상단이 Rybachy반도 서부 및 Kandalaksha 서쪽 약75km 폭20~25km 지역 요구를 미국에 설명 | 외교·북극영토요구 | 발생 | 문헌대조 | [SRC-1427](chronology-sources-v1.md) |
+| EVT-2686 | 1940-03-09 | 미국 전문266호는 8일 소련이 핀 내각교체·Kuusinen 정권·상호군사원조를 요구하지 않았다고 기록 | 외교·강화조건범위 | 발생 | 문헌대조 | [SRC-1427](chronology-sources-v1.md) |
+| EVT-2687 | 1940-03-09 | Ryti가 영토할양에 완전한 협상전권이 없다고 밝혀 헬싱키에 추가훈령 요청 | 외교·교섭권한 | 발생 | 문헌대조 | [SRC-1427](chronology-sources-v1.md) |
+| EVT-2688 | 1940-03-09 | 핀 국방부가 정부에 장기방어 불가능·추가소모와 영토상실 우려를 보고했다고 후대 전쟁종결학자 분석 | 겨울전쟁·전략상황평가 | 발생 | 링크등록 | [SRC-1377](chronology-sources-v1.md) |
+| EVT-2689 | 1940-03-09 | Kuortane 참전자 지역전사에 Vuoksi Vasikkasaari 연안 08:50 소련공격·13시 이후 일부후퇴 기록 | 겨울전쟁·하천방어전 | 발생 | 문헌대조 | [SRC-1438](chronology-sources-v1.md) |
+| EVT-2690 | 1940-03-09 | 핀 ErP17 11:15 소련 전투기2대가 Kallunki 마을 기총소사 | 겨울전쟁·민간마을공습 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2691 | 1940-03-09 | 핀 ErP17 14:20 SFK Ehrensvärd 중령 방문·부대배치와 통신 연락방법 조정 | 겨울전쟁·스웨덴의용군연락 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2692 | 1940-03-09 | 핀 ErP17 전날 교전 소련군 전사30명과 스키20쌍·수류탄40개·실탄1200발 노획을 17시 보고·핀측 주장 | 겨울전쟁·전과사후보고 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2693 | 1940-03-09 | 핀 ErP25 Näsänen 지휘 11명 06시 Peruraselkä–Maaselkä 출발·19:50 무접적 귀환 | 겨울전쟁·장거리정찰 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2694 | 1940-03-09 | 독 U14가 영 Borthwick 1097GRT 05:42 어뢰격침·21명 전원구조 | 대서양전·상선격침·전원구조 | 발생 | 문헌대조 | [SRC-1430](chronology-sources-v1.md) |
+| EVT-2695 | 1940-03-09 | Borthwick 전원은 네덜란드 도선정 Loodsboot9에 구조돼 10일 Flushing 상륙 | 대서양전·해난구조일구분 | 발생 | 문헌대조 | [SRC-1430](chronology-sources-v1.md) |
+| EVT-2696 | 1940-03-09 | 중립 아일랜드 어선 Leukos 216GRT가 U38 함포에 21:13 격침·11명 전원전사 | 대서양전·중립어선격침 | 발생 | 문헌대조 | [SRC-1431](chronology-sources-v1.md) |
+| EVT-2697 | 1940-03-09 | Leukos 격침 전 독 U38 함장이 등화중인 어선6척을 해군초계로 착각했다고 전문DB 기술 | 대서양전·표적식별오인 | 발생 | 문헌대조 | [SRC-1431](chronology-sources-v1.md) |
+| EVT-2698 | 1940-03-09 | 영 Abbotsford 1585GRT가 U14 23:30 어뢰피격·23:55 재격침·19명 전원사망 | 대서양전·반복어뢰격침 | 발생 | 문헌대조 | [SRC-1432](chronology-sources-v1.md) |
+| EVT-2699 | 1940-03-09 | 영 Akeld 643GRT가 Abbotsford를 돕기 위해 회항한 것으로 추정되다가 U14 23:45 공격에 침몰·13명 전원사망 | 대서양전·구조시도중침몰 | 발생 | 문헌대조 | [SRC-1433](chronology-sources-v1.md) |
+| EVT-2700 | 1940-03-09 | 중립 그리스 P Margaronis 4979GRT U28 23:17 격침으로 추정·30명 전원실종, 선박식별미확정 | 대서양전·상선실종·격침추정 | 발생 | 링크등록 | [SRC-1434](chronology-sources-v1.md) |
+| EVT-2701 | 1940-03-10 | 소련군이 Viipuri만 서안 Nisalahti 서부 방어선 돌파·핀군 약3km 북방후퇴 | 겨울전쟁·해안선붕괴 | 발생 | 문헌대조 | [SRC-1429](chronology-sources-v1.md) |
+| EVT-2702 | 1940-03-10 | 핀 수비대 미구축진지로 재배치·라도가 카렐리야 기병여단 Viipuri만 전선 증원 | 겨울전쟁·방어재편 | 발생 | 문헌대조 | [SRC-1429](chronology-sources-v1.md) |
+| EVT-2703 | 1940-03-10 | 핀 Lentorykmentti1 항공정찰이 Pullinniemi에 소련 전차200대라고 추정 보고 | 겨울전쟁·적기갑추정 | 발생 | 링크등록 | [SRC-1429](chronology-sources-v1.md) |
+| EVT-2704 | 1940-03-10 | 소련군이 Tali Leitimo 저택 일대 점령·핀 방어선 깊이 약4km 침투 | 겨울전쟁·지협돌파 | 발생 | 문헌대조 | [SRC-1429](chronology-sources-v1.md) |
+| EVT-2705 | 1940-03-10 | 소련군 Vuoksi Lietteen 방면 공격·라도가 Lapoinniemi Kuivaniemi 남단 진입으로 핀군 야간철수 | 겨울전쟁·전면공세 | 발생 | 문헌대조 | [SRC-1429](chronology-sources-v1.md) |
+| EVT-2706 | 1940-03-10 | 핀소 양측 대표 14~16시 모스크바 두번째 공식회담 개최·소련 양보거절 | 외교·강화협상 | 발생 | 문헌대조 | [SRC-1429](chronology-sources-v1.md) |
+| EVT-2707 | 1940-03-10 | 모스크바 핀 대표단과 헬싱키 정부 간 스톡홀름 경유전신이 때로 약12시간 지연 | 외교·전시통신 | 발생 | 문헌대조 | [SRC-1429](chronology-sources-v1.md) |
+| EVT-2708 | 1940-03-10 | 핀 전 대통령 Svinhufvud 베를린 방문 중 히틀러 직접면담 실패 | 외교·독일비공식접촉 | 발생 | 문헌대조 | [SRC-1429](chronology-sources-v1.md) · [SRC-1436](chronology-sources-v1.md) |
+| EVT-2709 | 1940-03-10 | 핀 ErP17 11~13:25 소련기9대 Hautakylä 부근 기총사격 관측 | 겨울전쟁·항공공습 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2710 | 1940-03-10 | 핀 ErP17 16시 소련군 약2개소대 Porttoaapa에서 Pyhäjärvi 동쪽 삼림이동 발견 | 겨울전쟁·정찰관측 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2711 | 1940-03-10 | 핀 ErP17 22:30 Aatsinki 조명탄 신고 후 Remes 정찰조·예비소대 출동·다음날 유성으로 수정 | 겨울전쟁·오인경보 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2712 | 1940-03-10 | 핀 ErP25 연결초계 소련군 조우후 상대철수·17:10 적60~70명 추정 보고 | 겨울전쟁·초계전 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2713 | 1940-03-10 | 핀 ErP25 20시 전선 장병 시국교육 강연·22:40 10명 규모 Maanselkä 정찰명령 | 겨울전쟁·전선생활·정찰 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2714 | 1940-03-11 | 미 주소대사 Steinhardt 전문268호는 9일밤·10일 회담에서 소련군 요구 수정 거절을 보고 | 외교·1차외교전문 | 발생 | 문헌대조 | [SRC-1428](chronology-sources-v1.md) |
+| EVT-2715 | 1940-03-11 | 11일 전문268호가 소련의 핀란드 횡단 철도·보트니아만 연결 요구 추가를 전언 | 외교·철도부설요구 | 발생 | 문헌대조 | [SRC-1428](chronology-sources-v1.md) |
+| EVT-2716 | 1940-03-11 | Steinhardt 전문은 9~10일 회담에 Stalin은 미참석했다는 스웨덴 대사 전언 기록 | 외교·회담참석확인 | 발생 | 문헌대조 | [SRC-1428](chronology-sources-v1.md) |
+| EVT-2717 | 1940-03-11 | 스웨덴측은 12일 영불 지원 최종시한·소련측이 개입 전망을 허풍으로 간주한다고 미국에 전언 | 외교·서방지원압박 | 발생 | 문헌대조 | [SRC-1428](chronology-sources-v1.md) |
+| EVT-2718 | 1940-03-11 | Svinhufvud가 8일경 독일 방문·11일 로마행 앞두고 독일 고위관료 만남을 미 주독대사대리에 전언 | 외교·비공식방독 | 발생 | 문헌대조 | [SRC-1436](chronology-sources-v1.md) |
+| EVT-2719 | 1940-03-11 | Svinhufvud는 독일이 영불군 노르웨이 항만상륙에 반대하고 스웨덴군 자원병 통과에는 관대할 수 있다고 추정 | 외교·독일정책간접전언 | 발생 | 문헌대조 | [SRC-1436](chronology-sources-v1.md) |
+| EVT-2720 | 1940-03-11 | 미 국무장관 Hull이 Svinhufvud 전언의 공식근거 부족으로 핀 대표 전달 자제 지시 | 외교·정보출처검증 | 발생 | 문헌대조 | [SRC-1437](chronology-sources-v1.md) |
+| EVT-2721 | 1940-03-11 | 핀 ErP17 07:30 전날 조명탄은 유성일 가능성 높다고 정정보고 | 겨울전쟁·전장오인정정 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2722 | 1940-03-11 | 핀 ErP17 Ristelivaara 미식별병력 발견·스웨덴군이 해당 적관측소 공격준비 통보 | 겨울전쟁·피아식별·공격계획 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2723 | 1940-03-11 | 핀 ErP17 19시 3중대 Kolmiloukos 전방이동·1중대 일부 휴식 및 예비대 재편 | 겨울전쟁·군부대재배치 | 발생 | 문헌대조 | [SRC-1258](chronology-sources-v1.md) |
+| EVT-2724 | 1940-03-11 | 핀 ErP25 09:55 Jouttenoja–Aatsinginjoki 소련군 150~200명 흔적 발견·간접병력추정 | 겨울전쟁·정찰추산 | 발생 | 링크등록 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2725 | 1940-03-11 | 핀 ErP25 10:20 4개 소대 출동지시·14:14 소련군 이미 철수한 사실 확인 | 겨울전쟁·군명령·소탕미수 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2726 | 1940-03-11 | 핀 ErP25 22:10 야간정찰 명령·22:25 취소, 실제출동과 구분 | 겨울전쟁·작전명령취소 | 발생 | 문헌대조 | [SRC-1259](chronology-sources-v1.md) |
+| EVT-2727 | 1940-03-11 | 중립 네덜란드 유조선 Eulota 6236GRT가 U28 03:17 어뢰피격·승선42명 전원생존 | 대서양전·중립유조선피격 | 발생 | 문헌대조 | [SRC-1435](chronology-sources-v1.md) |
+| EVT-2728 | 1940-03-11 | Eulota 선원42명 HMS Wild Swan 구조·HMS Broke가 부서진 선체를 함포폐기·12일 Plymouth 상륙 | 대서양전·구조·선체폐기 | 발생 | 문헌대조 | [SRC-1435](chronology-sources-v1.md) |
 | EVT-0071 | 1940-03-12 | 모스크바 평화조약 체결과 겨울전쟁 종결 | 조약 | 발생 | 미등록 | — |
 | EVT-0074 | 1940-04 | 카틴 학살(소련 NKVD의 폴란드인 대량 처형) | 국가폭력 | 발생 | 미등록 | — |
 | EVT-0072 | 1940-04-09 | 베저위붕 작전: 독일의 덴마크·노르웨이 침공 | 작전 | 발생 | 미등록 | — |
