@@ -1,24 +1,24 @@
 ---
 title: 제2차 세계대전 사건 색인 — 1차 검토안
 status: review-draft
-as_of: 2026-11-02
+as_of: 2026-11-03
 ---
 
-# WW2 Archive — 사건 색인 초안 v7.8 (1940년 7월 월간 1차 범위 검토)
+# WW2 Archive — 사건 색인 초안 v7.9 (1940년 8월 월간 1차 범위 검토)
 
-**현재 범위: 1905–1947년, 3052개 후보 항목.** 현재 목록이 전체 사건을 망라한다는 뜻은 아니다. 전체 군사작전·교전·정치사건·피해자 사건까지 수록하려면 연표를 계속 확장해야 한다.
+**현재 범위: 1905–1947년, 3091개 후보 항목.** 현재 목록이 전체 사건을 망라한다는 뜻은 아니다. 전체 군사작전·교전·정치사건·피해자 사건까지 수록하려면 연표를 계속 확장해야 한다.
 
-[현재 상태·재개 기준](WORK_STATE.md) · [최신 7월 월간 감사](source-audit-1940-july-batch1.md)
+[현재 상태·재개 기준](WORK_STATE.md) · [최신 8월 월간 감사](source-audit-1940-august-batch1.md)
 
-이번 묶음: 신규42 EVT·24 SRC·12 RQ, 기존3건 문헌대조. [7월 월간 사료 감사](source-audit-1940-july-batch1.md). 1940-07-31까지1차범위검토. 다음은8월전체개관뒤밀도에따라월간/전후반기묶음.
+이번 묶음: 신규39 EVT·15 SRC·12 RQ, 기존 EVT-0087 문헌대조. [8월 월간 사료 감사](source-audit-1940-august-batch1.md). 1940-08-31까지 1차 범위 검토. 누적3091 EVT /1660 SRC /959 RQ; 문헌대조2734·링크등록236·미등록121. 다음은9월 전체 개관 후 밀도에 따라 묶음 선택.
 
 ## 1. 날짜별 연표
 
 - [1905–1938: 전후 조약, 군축, 대공황, 팽창과 위기 (65개)](chronology-1905-1938.md)
-- [1939–1941: 개전, 초기 점령, 유럽·아시아·태평양 (2831개)](chronology-1939-1941.md)
+- [1939–1941: 개전, 초기 점령, 유럽·아시아·태평양 (2870개)](chronology-1939-1941.md)
 - [1942–1943: 전선 확대, 전환점, 비밀공작, 학살과 저항 (71개)](chronology-1942-1943.md)
 - [1944–1947: 최후 공세, 종전, 전범재판, 후속 국제질서 (85개)](chronology-1944-1947.md)
-- [출처 등록부 — 1645개 등록 (SRC-028·SRC-056 기존 중복 URL 별도 표시)](chronology-sources-v1.md)
+- [출처 등록부 — 1660개 등록 (SRC-028·SRC-056 기존 중복 URL 별도 표시)](chronology-sources-v1.md)
 - [사료 감사 보고서 1차 (기존 28 + 신규 4 사건)](source-audit-1905-1938-batch1.md)
 - [기존 출처 URL 표본 감사 8건 및 한국사 사료 확인](source-url-audit-batch1.md)
 - [전사 연표 남은 22개·신규 10개 항목 감사 보고서](source-audit-1905-1938-batch2.md)
@@ -80,12 +80,12 @@ as_of: 2026-11-02
 - [1940년 2월10~11일 신규 46 EVT·22 SRC·15 RQ, NKVD 폴란드 강제추방·Lähde 돌파·Kuhmo·상선 감사](source-audit-1940-feb10-11-batch1.md)
 - [1940년 2월12~13일 신규38 EVT·19 SRC·13 RQ, Lähde지원선·공병9대대 기습·U33·U54·FRUS·중립선 감사](source-audit-1940-feb12-13-batch1.md)
 - [1940년 2월14~15일 신규 66 EVT·14 SRC·19 RQ, 국지후퇴와 20시 철수명령·Altmark·중립상선·공습](source-audit-1940-feb14-15-batch1.md)
-- [1940년 2월16~17일 63 EVT·16 SRC·21 RQ, Altmark 299인 구출·Iisalmi 41/42 희생·Kämärä·북해중립상선](source-audit-1940-feb16-17-batch1.md)
+- [1940년 2월16~17일 63 EVT·15 SRC·21 RQ, Altmark 299인 구출·Iisalmi 41/42 희생·Kämärä·북해중립상선](source-audit-1940-feb16-17-batch1.md)
 - [1940년 2월18~19일 45 EVT·18 SRC·15 RQ: 라도가·Daring·Weserübung](source-audit-1940-feb18-19-batch1.md)
 - [1940년 2월20~23일 66 EVT·10 SRC·18 RQ: Näykkijärvi·Pajala·Koivisto·평화조건](source-audit-1940-feb20-23-batch1.md)
 - [1940년 2월24~27일 64 EVT·15 SRC·18 RQ: Honkaniemi·Reuhkavaara·스웨덴의용군·중립선](source-audit-1940-feb24-27-batch1.md)
 - [1940년 2월28~29일 58 EVT·14 SRC·18 RQ: 동레메티·Ruokolahti·SFK·평화교섭](source-audit-1940-feb28-29-batch1.md)
-- [1940년 3월1~3일 76 EVT·16 SRC·21 RQ: Weserübung 원명령·Kollaa·Tampere·Viipuri만](source-audit-1940-mar01-03-batch1.md)
+- [1940년 3월1~3일 76 EVT·15 SRC·21 RQ: Weserübung 원명령·Kollaa·Tampere·Viipuri만](source-audit-1940-mar01-03-batch1.md)
 - [1940년 3월4~5일 60 EVT·18 SRC·16 RQ: Iittala·Äyräpää·Mikkeli·중립선](source-audit-1940-mar04-05-batch1.md)
 - [1940년 3월6~8일 70 EVT·13 SRC·17 RQ: Petäjäsaari·모스크바협상·Häyhä·Vecht](source-audit-1940-mar06-08-batch1.md)
 - [1940년 3월9~11일 49 EVT·13 SRC·16 RQ: 미·핀·소 외교전문·중립해운·비푸리만](source-audit-1940-mar09-11-batch1.md)

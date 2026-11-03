@@ -1,7 +1,7 @@
 ---
-title: 세계대전 연표 1939–1941 (1940년 7월 31일까지 1차 범위 검토)
+title: 세계대전 연표 1939–1941 (1940년 8월 31일까지 1차 범위 검토)
 status: review-draft
-as_of: 2026-11-02
+as_of: 2026-11-03
 ---
 
 # 백과사전 사건 연표 — 1939~1941
@@ -2809,7 +2809,46 @@ as_of: 2026-11-02
 | EVT-3049 | 1940-07-26 | 영국이 Dover해협의 주간 선단운항을 금지 | 영국항공전·해상교통통제 | 발생 | 문헌대조 | [SRC-1626](chronology-sources-v1.md) |
 | EVT-3050 | 1940-07-27 | 일본 대본영정부연락회의가 중국전쟁 처리와 남방방침을 담은 시국처리요강 결정 | 일본·전쟁정책 | 발생 | 문헌대조 | [SRC-1635](chronology-sources-v1.md) |
 | EVT-3051 | 1940-07-31 | 미국이 항공휘발유 수출을 서반구 중심으로 제한한다고 발표·미국기업 해외운용예외존재 | 경제전·수출통제 | 발생 | 문헌대조 | [SRC-1641](chronology-sources-v1.md) |
-| EVT-0087 | 1940-08-30 | 제2차 빈 중재(루마니아·헝가리 영토 분쟁) | 외교 | 발생 | 미등록 | — |
+| EVT-3053 | 1940-08 | 이탈리아군 영령 소말릴란드 침공 개시 — 3일/4~5일 기록의 범위 차이는 후속 대조 | 침공 | 발생 | 문헌대조 | [SRC-1649](chronology-sources-v1.md) · [SRC-1648](chronology-sources-v1.md) |
+| EVT-3054 | 1940-08 | 우방기샤리의 자유프랑스 합류 — 기관별 27일/29일 상충으로 월정밀도 유지 | 정치 | 발생 | 링크등록 | [SRC-1592](chronology-sources-v1.md) · [SRC-1619](chronology-sources-v1.md) |
+| EVT-3055 | 1940-08-01 | 히틀러 지령 제17호: 영국 공군·관련 기반시설 공격 강화 명령 | 계획·명령 | 발생 | 문헌대조 | [SRC-1646](chronology-sources-v1.md) |
+| EVT-3056 | 1940-08-01 | 일본 정부 기본정책 성명 공개 — 7월26일 각의결정과 구분 | 정책·발표 | 발생 | 문헌대조 | [SRC-1654](chronology-sources-v1.md) · [SRC-1634](chronology-sources-v1.md) |
+| EVT-3057 | 1940-08-02 | Operation Hurry: 항공모함 Argus에서 출발한 허리케인 전투기 몰타 도착 | 항공·증원 | 발생 | 문헌대조 | [SRC-1646](chronology-sources-v1.md) |
+| EVT-3058 | 1940-08-02 | 비시 군사재판, 드골에게 궐석 사형 선고 | 사법·탄압 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) |
+| EVT-3059 | 1940-08-02 | Schirmeck-Vorbruck 시설이 보안·재교육 수용소로 개편 | 박해·수용소 | 발생 | 문헌대조 | [SRC-1658](chronology-sources-v1.md) |
+| EVT-3060 | 1940-08-03 | 소련 최고소비에트의 리투아니아 편입법 채택 | 점령·병합 | 발생 | 문헌대조 | [SRC-1650](chronology-sources-v1.md) |
+| EVT-3061 | 1940-08-05 | 라트비아 소련 편입 — 박물관 5일과 FRUS 편집각주 6일의 날짜 이견 | 점령·병합 | 발생 | 링크등록 | [SRC-1604](chronology-sources-v1.md) · [SRC-1650](chronology-sources-v1.md) |
+| EVT-3062 | 1940-08-05 | 이탈리아군 Zeila 점령·Hargeisa 방면 영국군 후퇴 — Wavell 보고상 단계 | 지상전 | 발생 | 문헌대조 | [SRC-1648](chronology-sources-v1.md) |
+| EVT-3063 | 1940-08-06 | 에스토니아 소련 편입 — 외교부 6일과 FRUS 편집각주 7일의 날짜 이견 | 점령·병합 | 발생 | 링크등록 | [SRC-515](chronology-sources-v1.md) · [SRC-1650](chronology-sources-v1.md) |
+| EVT-3064 | 1940-08-07 | 영국·자유프랑스 합의: 프랑스 지원병 부대의 독자적 성격과 지원 규정 | 외교·군사 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) · [SRC-1660](chronology-sources-v1.md) |
+| EVT-3065 | 1940-08-11 | 투그 아르간 방어선에 이탈리아군 본격 공격·Godwin-Austen 지휘 인수 | 지상전 | 발생 | 문헌대조 | [SRC-1648](chronology-sources-v1.md) |
+| EVT-3066 | 1940-08-11 | 소련, 발트 주재 미국 공관에 25일까지 업무 청산 요구 | 외교·점령 | 발생 | 문헌대조 | [SRC-1651](chronology-sources-v1.md) |
+| EVT-3067 | 1940-08-12 | 독일 공군, 영국 남부 비행장·해안 레이더 시설 공격 | 항공전 | 발생 | 문헌대조 | [SRC-1646](chronology-sources-v1.md) · [SRC-1625](chronology-sources-v1.md) |
+| EVT-3068 | 1940-08-12 | 무솔리니와 알바니아 주재 지휘부, 그리스 공격 구상 논의 | 침공계획 | 발생 | 문헌대조 | [SRC-1656](chronology-sources-v1.md) |
+| EVT-3069 | 1940-08-13 | 독일 공군 Adlertag 대공세 — 영국 항공전 공습 확대 | 항공전 | 발생 | 문헌대조 | [SRC-1646](chronology-sources-v1.md) · [SRC-1625](chronology-sources-v1.md) |
+| EVT-3070 | 1940-08-13 | 비시 정권 비밀결사 금지·재산 압류 및 청산 법률 | 법률·탄압 | 발생 | 문헌대조 | [SRC-1657](chronology-sources-v1.md) |
+| EVT-3071 | 1940-08-14 | 투그 아르간 Observation Hill에서 이탈리아군 공격 격퇴 — 영국측 보고 | 지상전 | 발생 | 문헌대조 | [SRC-1648](chronology-sources-v1.md) |
+| EVT-3072 | 1940-08-15 | 독일 3개 항공함대 협동 공습·북부 잉글랜드 공격 | 항공전 | 발생 | 문헌대조 | [SRC-1646](chronology-sources-v1.md) · [SRC-1625](chronology-sources-v1.md) |
+| EVT-3073 | 1940-08-15 | 그리스 순양함 Elli, 중립국 정박지 티노스에서 이탈리아 잠수함 공격으로 침몰 | 해상·중립침해 | 발생 | 문헌대조 | [SRC-1655](chronology-sources-v1.md) · [SRC-1656](chronology-sources-v1.md) |
+| EVT-3074 | 1940-08-15 | Observation Hill 함락 후 투그 아르간 영국군 15~16일 밤 철수 | 지상전·철수 | 발생 | 문헌대조 | [SRC-1648](chronology-sources-v1.md) |
+| EVT-3075 | 1940-08-18 | 영국 항공전 ‘가장 힘든 날’: 비행장·레이더 공격과 격렬한 공중전 | 항공전 | 발생 | 문헌대조 | [SRC-1647](chronology-sources-v1.md) · [SRC-1625](chronology-sources-v1.md) |
+| EVT-3076 | 1940-08-19 | HMAS Hobart 최종 출항 — 베르베라 철수 작전 마무리 | 철수·해상 | 발생 | 문헌대조 | [SRC-1648](chronology-sources-v1.md) · [SRC-1649](chronology-sources-v1.md) |
+| EVT-3077 | 1940-08-20 | 중국 팔로군 백단대전 개시 — 7월 준비명령·8월 준비기한과 구분 | 지상전·철도공격 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3078 | 1940-08-20 | 처칠 하원 전황 연설: 공군 항전에 대한 치하 | 정치·연설 | 발생 | 문헌대조 | [SRC-1659](chronology-sources-v1.md) |
+| EVT-3079 | 1940-08-22 | 그리스 Metaxas, 이탈리아 공격 시 영국 지원 범위 문의 | 외교·전쟁준비 | 발생 | 문헌대조 | [SRC-1656](chronology-sources-v1.md) |
+| EVT-3080 | 1940-08-24 | 중국 Han Deqin 휘하 부대의 Jiangyan·Qutang·Hai’an 방면 신사군 공격 | 국공충돌 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3081 | 1940-08-24 | 24~25일 밤 독일 폭격기의 런던 폭격 — 항법 오류 설명은 후대 해석 | 항공전·민간피해 | 발생 | 문헌대조 | [SRC-1646](chronology-sources-v1.md) |
+| EVT-3082 | 1940-08-25 | 25~26일 밤 RAF의 베를린 공습 — 프랑스군 6월 선행 공습과 구분 | 항공전 | 발생 | 문헌대조 | [SRC-1646](chronology-sources-v1.md) |
+| EVT-3083 | 1940-08-25 | 일본군, 백단대전에 대응해 정타이 철도 방면으로 병력 증원 | 지상전·증원 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3084 | 1940-08-26 | 차드, 자유프랑스 합류 선언 | 정치·항전 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) · [SRC-1619](chronology-sources-v1.md) |
+| EVT-3085 | 1940-08-27 | 카메룬의 자유프랑스 합류 | 정치·항전 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) |
+| EVT-3086 | 1940-08-27 | 비시 정권, 인종·종교 혐오 선동을 제재하던 Marchandeau 법령 폐지 | 법률·박해 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) |
+| EVT-3087 | 1940-08-28 | 프랑스령 콩고, 자유프랑스 합류 | 정치·항전 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) · [SRC-1619](chronology-sources-v1.md) |
+| EVT-0087 | 1940-08-30 | 제2차 빈 중재: 독일·이탈리아의 루마니아·헝가리 영토 중재문 발표 — 철수·인도 이행은 후속 | 외교·영토 | 발생 | 문헌대조 | [SRC-1652](chronology-sources-v1.md) |
+| EVT-3088 | 1940-08-30 | 독일 공군의 영국 전투기 지휘·비행장 체계 집중 공습 | 항공전 | 발생 | 문헌대조 | [SRC-1625](chronology-sources-v1.md) |
+| EVT-3089 | 1940-08-30 | 일본·프랑스의 도쿄 합의 — 인도차이나 군사 편의 관련, Grew의 9월 대화기록으로 확인 | 외교·침략준비 | 발생 | 문헌대조 | [SRC-1653](chronology-sources-v1.md) |
+| EVT-3090 | 1940-08-31 | 독일 공군의 영국 남동부 비행장 공습 지속·RAF 손실 집중 | 항공전 | 발생 | 문헌대조 | [SRC-1625](chronology-sources-v1.md) |
+| EVT-3091 | 1940-08-31 | Menace 원정대 리버풀 출항 — 9월 다카르 작전의 준비 단계 | 원정·계획 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) |
 | EVT-0088 | 1940-09-07 | 런던 대공습(블리츠) 집중 국면 시작 | 공습 | 발생 | 미등록 | — |
 | EVT-0089 | 1940-09-13 | 이탈리아의 이집트 진격 | 작전 | 발생 | 미등록 | — |
 | EVT-0285 | 1940-09-17 | 대한민국 임시정부 한국광복군 창설(중국 충칭) | 독립운동·군사조직 | 발생 | 문헌대조 | [SRC-034](chronology-sources-v1.md) |
