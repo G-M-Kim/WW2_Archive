@@ -1,5 +1,5 @@
 ---
-title: 세계대전 연표 1939–1941 (1940년 8월 31일까지 1차 범위 검토)
+title: 세계대전 연표 1939–1941 (1940년 9월 30일까지 1차 범위 검토)
 status: review-draft
 as_of: 2026-11-03
 ---
@@ -2849,11 +2849,43 @@ as_of: 2026-11-03
 | EVT-3089 | 1940-08-30 | 일본·프랑스의 도쿄 합의 — 인도차이나 군사 편의 관련, Grew의 9월 대화기록으로 확인 | 외교·침략준비 | 발생 | 문헌대조 | [SRC-1653](chronology-sources-v1.md) |
 | EVT-3090 | 1940-08-31 | 독일 공군의 영국 남동부 비행장 공습 지속·RAF 손실 집중 | 항공전 | 발생 | 문헌대조 | [SRC-1625](chronology-sources-v1.md) |
 | EVT-3091 | 1940-08-31 | Menace 원정대 리버풀 출항 — 9월 다카르 작전의 준비 단계 | 원정·계획 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) |
-| EVT-0088 | 1940-09-07 | 런던 대공습(블리츠) 집중 국면 시작 | 공습 | 발생 | 미등록 | — |
-| EVT-0089 | 1940-09-13 | 이탈리아의 이집트 진격 | 작전 | 발생 | 미등록 | — |
+| EVT-3092 | 1940-09 | City of Benares 피격·침몰과 아동 피란 희생 — 17/18일 일계 및 인원 이견 유보 | 해난·민간피해 | 발생 | 링크등록 | [SRC-1672](chronology-sources-v1.md) · [SRC-1673](chronology-sources-v1.md) |
+| EVT-3093 | 1940-09 | 백단대전 제2단계 개시 — 20일/22일 서술의 기준 차이는 후속 대조 | 지상전 | 발생 | 링크등록 | [SRC-1678](chronology-sources-v1.md) · [SRC-1461](chronology-sources-v1.md) |
+| EVT-3094 | 1940-09-01 | 중국 국민정부, Zhang Zhizhong(張治中)을 군사위원회 정치부장에 임명 | 인사·군정 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3095 | 1940-09-02 | 미·영 구축함-기지 합의: 미국 구축함 50척 양도 약속 — 개별 인도와 구별 | 외교·군사지원 | 발생 | 문헌대조 | [SRC-1663](chronology-sources-v1.md) |
+| EVT-3096 | 1940-09-02 | 프랑스령 오세아니아의 자유프랑스 합류 — 타히티 현지 변화와 공식 단계 구별 | 정치·항전 | 발생 | 문헌대조 | [SRC-1679](chronology-sources-v1.md) · [SRC-1592](chronology-sources-v1.md) |
+| EVT-3097 | 1940-09-03 | Sealion 상륙 목표일을 21일로 설정 — 전후 영국 설명에 따른 준비 단계 | 침공계획 | 발생 | 문헌대조 | [SRC-1662](chronology-sources-v1.md) |
+| EVT-3098 | 1940-09-05 | 일본군·협력부대의 완둥 지역 소탕 개시와 신사군 대응 | 지상전 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3099 | 1940-09-06 | 팔로군 제129사단, Yushe 북서 Shuangfeng 방면에서 일본군과 전투 | 지상전 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3100 | 1940-09-06 | 루마니아 Carol II 퇴위·Michael 왕위 승계와 Antonescu 권력 강화 | 정변·정치 | 발생 | 문헌대조 | [SRC-1671](chronology-sources-v1.md) |
+| EVT-0088 | 1940-09-07 | 런던 항만 대규모 공습·지속적 Blitz 국면 개시 — 이전의 런던 공습과 구분 | 공습 | 발생 | 문헌대조 | [SRC-1661](chronology-sources-v1.md) |
+| EVT-3101 | 1940-09-07 | 비시 정권, Weygand를 프랑스령 아프리카 정부대표로 임명 | 식민통치·군정 | 발생 | 문헌대조 | [SRC-1679](chronology-sources-v1.md) |
+| EVT-3102 | 1940-09-09 | 프랑스령 인도 거점들의 자유프랑스 합류 — 6월 개인·지역 항전 호응과 구분 | 정치·항전 | 발생 | 문헌대조 | [SRC-1679](chronology-sources-v1.md) · [SRC-1592](chronology-sources-v1.md) |
+| EVT-3103 | 1940-09-09 | 이집트 침공 전 리비아·국경 공중활동 확대와 RAF의 비행장·보급 표적 공격 | 항공전·전쟁준비 | 발생 | 문헌대조 | [SRC-1664](chronology-sources-v1.md) |
+| EVT-3104 | 1940-09-10 | 팔로군 사령부, 백단대전 제1단계 종료·휴식 및 재전 준비 명령 | 작전명령 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-0089 | 1940-09-13 | 이탈리아군 이집트 침공: Musaid·Sollum 방면 진격 — 9일 항공 준비와 구분 | 침공 | 발생 | 문헌대조 | [SRC-1664](chronology-sources-v1.md) |
+| EVT-3105 | 1940-09-13 | 버킹엄궁 폭격 — 당일 왕비 Elizabeth의 편지 소장기록으로 확인 | 공습·민간피해 | 발생 | 문헌대조 | [SRC-1675](chronology-sources-v1.md) |
+| EVT-3106 | 1940-09-15 | 독일 공군의 런던 대규모 주간 공습과 RAF 요격 — 후대 Battle of Britain Day | 항공전 | 발생 | 문헌대조 | [SRC-1681](chronology-sources-v1.md) · [SRC-1647](chronology-sources-v1.md) |
+| EVT-3107 | 1940-09-16 | 이탈리아군 Sidi Barrani 점령·영국군 동쪽으로 후퇴 | 지상전 | 발생 | 문헌대조 | [SRC-1664](chronology-sources-v1.md) |
+| EVT-3108 | 1940-09-16 | 미국 평시 선별병역제 도입 — Roosevelt의 당일 성명 | 동원·법률 | 발생 | 문헌대조 | [SRC-1670](chronology-sources-v1.md) |
 | EVT-0285 | 1940-09-17 | 대한민국 임시정부 한국광복군 창설(중국 충칭) | 독립운동·군사조직 | 발생 | 문헌대조 | [SRC-034](chronology-sources-v1.md) |
-| EVT-0090 | 1940-09-22 | 일본군의 프랑스령 인도차이나 북부 진주 | 점령 | 발생 | 미등록 | — |
-| EVT-0091 | 1940-09-27 | 독일·이탈리아·일본 삼국동맹 체결 | 조약 | 발생 | 미등록 | — |
+| EVT-3109 | 1940-09-17 | Sealion 추가 연기 — 영국 상륙이 실행된 것은 아님 | 침공계획·연기 | 발생 | 문헌대조 | [SRC-1662](chronology-sources-v1.md) · [SRC-1681](chronology-sources-v1.md) |
+| EVT-3110 | 1940-09-17 | Illustrious 함재기, Benghazi 항만 기뢰 부설·어뢰 공격 | 해상·항공전 | 발생 | 문헌대조 | [SRC-1664](chronology-sources-v1.md) |
+| EVT-3111 | 1940-09-19 | 독일의 영국 침공용 선박 집중 중단·분산 명령 — 전후 영국 설명 | 침공준비·명령 | 발생 | 문헌대조 | [SRC-1662](chronology-sources-v1.md) |
+| EVT-3112 | 1940-09-19 | HMAS Australia, Dakar 방면에서 비시 순양함 Gloire 접촉·추적 | 해상·차단 | 발생 | 문헌대조 | [SRC-1665](chronology-sources-v1.md) |
+| EVT-3113 | 1940-09-19 | 뉴칼레도니아의 자유프랑스 합류 | 정치·항전 | 발생 | 문헌대조 | [SRC-1679](chronology-sources-v1.md) · [SRC-1592](chronology-sources-v1.md) |
+| EVT-3114 | 1940-09-19 | Witold Pilecki, Auschwitz 잠입 임무를 위해 Warsaw 검거에 자발적으로 노출 | 저항·정보 | 발생 | 문헌대조 | [SRC-1674](chronology-sources-v1.md) |
+| EVT-0090 | 1940-09-22 | 일·불 Hanoi 군사합의와 22~23일 밤 Dong Dang 방면 일본군 국경 진입·교전 | 협정·침공 | 발생 | 문헌대조 | [SRC-1667](chronology-sources-v1.md) · [SRC-1668](chronology-sources-v1.md) |
+| EVT-3115 | 1940-09-22 | Pilecki가 제2차 Warsaw 수송으로 Auschwitz 입소 — 21~22일 밤 | 박해·저항 | 발생 | 문헌대조 | [SRC-1674](chronology-sources-v1.md) |
+| EVT-3116 | 1940-09-23 | 일본·프랑스, 22일 Hanoi 군사합의에 관한 공보 발표 — 국경 충돌과 별개 | 외교·발표 | 발생 | 문헌대조 | [SRC-1668](chronology-sources-v1.md) · [SRC-1667](chronology-sources-v1.md) |
+| EVT-3117 | 1940-09-23 | 팔로군 제129사단, Yushe–Liaoxian 작전 개시 | 지상전 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3118 | 1940-09-23 | Menace 작전 개시: 영·자유프랑스군과 비시군의 Dakar 교전 | 상륙·해전 | 발생 | 문헌대조 | [SRC-1665](chronology-sources-v1.md) · [SRC-1592](chronology-sources-v1.md) |
+| EVT-3119 | 1940-09-25 | Dakar 저항 지속에 Menace 중단·영국측 철수 명령 — 26일 전보 보고와 구분 | 작전실패·철수 | 발생 | 문헌대조 | [SRC-1666](chronology-sources-v1.md) · [SRC-1665](chronology-sources-v1.md) |
+| EVT-3120 | 1940-09-26 | 미국, 철·강철 스크랩 수출허가 확대 제한 발표 — 10월 시행 예고 | 경제전·수출통제 | 발생 | 문헌대조 | [SRC-1676](chronology-sources-v1.md) |
+| EVT-3121 | 1940-09-26 | Southampton의 Spitfire 생산시설 공습 | 공습·군수산업 | 발생 | 문헌대조 | [SRC-1681](chronology-sources-v1.md) |
+| EVT-0091 | 1940-09-27 | 독일·이탈리아·일본 삼국동맹 체결 — 조건부 상호원조 규정 | 조약 | 발생 | 문헌대조 | [SRC-1669](chronology-sources-v1.md) |
+| EVT-3122 | 1940-09-27 | 독일 프랑스 점령당국의 유대인 등록·영업장 표지 명령 — 10월 기한은 별도 | 박해·점령법령 | 발생 | 문헌대조 | [SRC-1677](chronology-sources-v1.md) |
+| EVT-3123 | 1940-09-30 | 팔로군의 Yushe 점령 — 중국 군사백과 일자 기준·전과 정수 유보 | 지상전 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
 | EVT-0092 | 1940-10-28 | 이탈리아의 그리스 침공 | 전쟁 | 발생 | 미등록 | — |
 | EVT-0093 | 1940-11-11 | 타란토 공습(영국 해군 항공대) | 해군·공습 | 발생 | 미등록 | — |
 | EVT-0094 | 1940-11-14 | 코번트리 대공습 | 공습 | 발생 | 미등록 | — |
