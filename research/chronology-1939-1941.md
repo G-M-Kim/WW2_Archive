@@ -1,5 +1,5 @@
 ---
-title: 세계대전 연표 1939–1941 (1940년 9월 30일까지 1차 범위 검토)
+title: 세계대전 연표 1939–1941 (1940년 10월 31일까지 1차 범위 검토)
 status: review-draft
 as_of: 2026-11-03
 ---
@@ -2886,7 +2886,46 @@ as_of: 2026-11-03
 | EVT-0091 | 1940-09-27 | 독일·이탈리아·일본 삼국동맹 체결 — 조건부 상호원조 규정 | 조약 | 발생 | 문헌대조 | [SRC-1669](chronology-sources-v1.md) |
 | EVT-3122 | 1940-09-27 | 독일 프랑스 점령당국의 유대인 등록·영업장 표지 명령 — 10월 기한은 별도 | 박해·점령법령 | 발생 | 문헌대조 | [SRC-1677](chronology-sources-v1.md) |
 | EVT-3123 | 1940-09-30 | 팔로군의 Yushe 점령 — 중국 군사백과 일자 기준·전과 정수 유보 | 지상전 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
-| EVT-0092 | 1940-10-28 | 이탈리아의 그리스 침공 | 전쟁 | 발생 | 미등록 | — |
+| EVT-3124 | 1940-10 | 황차오 전역·결전 — 군사백과 1일 개시와 지역 당사 3일 접근 기록의 범위 후속 대조 | 국공충돌 | 발생 | 링크등록 | [SRC-1461](chronology-sources-v1.md) · [SRC-1699](chronology-sources-v1.md) |
+| EVT-3125 | 1940-10 | 제3전구 Gu Zhutong의 신사군 포위 준비 — 군사백과의 ‘같은 달’ 기록 | 군사계획·국공갈등 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3126 | 1940-10-03 | 비시 정권의 제1차 유대인 지위법 — 법문 날짜, 관보 게재는 18일 | 박해·법률 | 발생 | 문헌대조 | [SRC-1682](chronology-sources-v1.md) · [SRC-1685](chronology-sources-v1.md) |
+| EVT-3127 | 1940-10-04 | 비시 정권, 외국인 유대인의 수용·강제거주를 허용하는 법률 | 박해·법률 | 발생 | 문헌대조 | [SRC-1683](chronology-sources-v1.md) · [SRC-1685](chronology-sources-v1.md) |
+| EVT-3128 | 1940-10-04 | 처칠, 버마 도로 폐쇄 협정을 갱신하지 않기로 결정했다고 Roosevelt에게 통보 | 외교·정책 | 발생 | 문헌대조 | [SRC-1690](chronology-sources-v1.md) |
+| EVT-3129 | 1940-10-04 | 일본군의 완난 Yunling 신사군 본부 방면 공격 개시 | 지상전 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3130 | 1940-10-06 | 일본군의 진둥난·진차지·진시베이 소탕 확대 — 백단대전 제3단계 구분 | 지상전 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3131 | 1940-10-07 | 비시 정권의 Crémieux 법령 폐지 — 알제리 유대인 시민권 박탈 | 박해·식민통치 | 발생 | 문헌대조 | [SRC-1684](chronology-sources-v1.md) |
+| EVT-3132 | 1940-10-07 | 독일 프랑스 점령당국, 유대인 신분증에 ‘Juif/Juive’ 표시 요구 | 박해·점령정책 | 발생 | 문헌대조 | [SRC-1684](chronology-sources-v1.md) |
+| EVT-3133 | 1940-10-08 | 처칠 하원 연설: 버마 도로 폐쇄 협정의 17일 만료 후 불갱신 방침 발표 | 외교·발표 | 발생 | 문헌대조 | [SRC-1691](chronology-sources-v1.md) |
+| EVT-3134 | 1940-10-08 | 영국 지중해함대 MB6 출동·MF3 몰타 보급선단 엄호 | 해상·보급 | 발생 | 문헌대조 | [SRC-1664](chronology-sources-v1.md) |
+| EVT-3135 | 1940-10-10 | 팔로군 제5종대와 신사군 쑤베이 부대, Baiju에서 합류 | 군사조직·이동 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3136 | 1940-10-12 | 파세로곶 부근 해전: HMS Ajax와 이탈리아 함정 교전 | 해전 | 발생 | 문헌대조 | [SRC-1664](chronology-sources-v1.md) |
+| EVT-3137 | 1940-10-12 | Sealion을 이듬해 봄까지 연기 — 기만 조치는 계속, 침공 미실행 | 침공계획·연기 | 발생 | 문헌대조 | [SRC-1662](chronology-sources-v1.md) |
+| EVT-3138 | 1940-10-12 | 독일 당국의 Warsaw 게토 설정 — 11월 봉쇄와 구별 | 박해·게토 | 발생 | 문헌대조 | [SRC-1686](chronology-sources-v1.md) |
+| EVT-3139 | 1940-10-13 | 일본군의 핑시 항일 근거지 소탕 개시 | 지상전 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3140 | 1940-10-13 | Illustrious 함재기 등의 Leros 야간 공격 | 해상·항공전 | 발생 | 문헌대조 | [SRC-1664](chronology-sources-v1.md) |
+| EVT-3141 | 1940-10-14 | HMS Liverpool, 이탈리아 뇌격으로 선수부 중손상 | 해상·항공전 | 발생 | 문헌대조 | [SRC-1664](chronology-sources-v1.md) |
+| EVT-3142 | 1940-10-15 | 무솔리니의 군·정 수뇌회의, 그리스 침공안 승인·당초 26일 공격 구상 | 침공계획 | 발생 | 문헌대조 | [SRC-1656](chronology-sources-v1.md) |
+| EVT-3143 | 1940-10-18 | 버마 도로 통행 재개 — 당대 18일 기록과 미육군 전사 10일 기재의 이견 유보 | 수송·경제전 | 발생 | 링크등록 | [SRC-1692](chronology-sources-v1.md) · [SRC-1691](chronology-sources-v1.md) · [SRC-1700](chronology-sources-v1.md) |
+| EVT-3144 | 1940-10-18 | 독일 프랑스 점령당국의 유대인 기업 등록·임시관리인 지정 명령 | 박해·경제 | 발생 | 문헌대조 | [SRC-1684](chronology-sources-v1.md) |
+| EVT-3145 | 1940-10-18 | 중국공산당, 반공 진영 포로의 처우에 관한 지침 발령 | 군사정책·포로 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3146 | 1940-10-18 | 18~19일 밤 SC7 선단 집중 공격과 Leith 등 호위함의 수색·구조 | 해전·선단 | 발생 | 문헌대조 | [SRC-1696](chronology-sources-v1.md) |
+| EVT-3147 | 1940-10-18 | 장제스, 미국 대사에게 경제·항공 지원과 미국인 지원 인력 필요 제기 — 미 전사 기록 | 외교·군사지원 | 발생 | 문헌대조 | [SRC-1700](chronology-sources-v1.md) |
+| EVT-3148 | 1940-10-19 | He Yingqin·Bai Chongxi의 ‘皓電’: 팔로군·신사군의 황허 이북 이동 요구 | 국공갈등·명령 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3149 | 1940-10-19 | 19~20일 밤 HX79 선단에 대한 독일 잠수함 공격 | 해전·선단 | 발생 | 문헌대조 | [SRC-1697](chronology-sources-v1.md) |
+| EVT-3150 | 1940-10-22 | Baden·Saar·Pfalz 유대인의 남프랑스 Gurs 방면 강제이송 개시 | 박해·강제이송 | 발생 | 문헌대조 | [SRC-1687](chronology-sources-v1.md) |
+| EVT-3151 | 1940-10-22 | Laval–Hitler Montoire 회담 — 24일 Pétain 회담의 선행 교섭 | 외교·협력 | 발생 | 문헌대조 | [SRC-1693](chronology-sources-v1.md) |
+| EVT-3152 | 1940-10-22 | 자유프랑스 동방여단(Brigade française libre d’Orient) 편성 | 군사조직 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) |
+| EVT-3153 | 1940-10-23 | Hitler–Franco Hendaye 회담 — 참전 조건 교섭, 스페인의 당일 참전은 아님 | 외교 | 발생 | 문헌대조 | [SRC-1694](chronology-sources-v1.md) |
+| EVT-3154 | 1940-10-23 | 미국, 장제스에게 이해관계의 병행과 기존 법률 범위의 지원 검토를 회답 | 외교·군사지원 | 발생 | 문헌대조 | [SRC-1700](chronology-sources-v1.md) |
+| EVT-3155 | 1940-10-24 | Pétain–Hitler Montoire 회담과 협력 노선 논의 | 외교·협력 | 발생 | 문헌대조 | [SRC-1693](chronology-sources-v1.md) · [SRC-1592](chronology-sources-v1.md) |
+| EVT-3156 | 1940-10-26 | Empress of Britain, 독일 항공기 공격으로 화재·퇴선 | 해난·항공공격 | 발생 | 문헌대조 | [SRC-1698](chronology-sources-v1.md) |
+| EVT-3157 | 1940-10-27 | 드골의 Brazzaville 선언과 제국방위평의회 설치 | 정치·항전 | 발생 | 문헌대조 | [SRC-1695](chronology-sources-v1.md) · [SRC-1592](chronology-sources-v1.md) |
+| EVT-0092 | 1940-10-28 | 이탈리아의 그리스 침공 — 최후통첩·국경전과 공습, 당일 초기 보고의 정보 차이는 후속 대조 | 침공·전쟁 | 발생 | 문헌대조 | [SRC-1656](chronology-sources-v1.md) · [SRC-1688](chronology-sources-v1.md) · [SRC-1689](chronology-sources-v1.md) |
+| EVT-3158 | 1940-10-28 | Hitler–Mussolini Florence 회담 — 그리스 침공이 시작된 당일 | 외교·전쟁 | 발생 | 문헌대조 | [SRC-1656](chronology-sources-v1.md) |
+| EVT-3159 | 1940-10-28 | Empress of Britain, 예인 중 U32의 공격으로 침몰 — 26일 항공피격과 구분 | 해난·잠수함전 | 발생 | 문헌대조 | [SRC-1698](chronology-sources-v1.md) |
+| EVT-3160 | 1940-10-29 | 영국 합동 정찰대 Crete 도착·Suda Bay 지원 선단 Alexandria 출항 | 군사지원·수송 | 발생 | 문헌대조 | [SRC-1656](chronology-sources-v1.md) |
+| EVT-3161 | 1940-10-30 | Pétain 라디오 연설로 대독 협력 노선 공표 — 24일 회담과 구별 | 정치·선전 | 발생 | 문헌대조 | [SRC-1693](chronology-sources-v1.md) |
+| EVT-3162 | 1940-10-31 | 영국 항공전의 후대 영국 공식 집계 종료일 — 공습·Blitz는 계속 | 항공전·시기구분 | 발생 | 문헌대조 | [SRC-1625](chronology-sources-v1.md) |
 | EVT-0093 | 1940-11-11 | 타란토 공습(영국 해군 항공대) | 해군·공습 | 발생 | 미등록 | — |
 | EVT-0094 | 1940-11-14 | 코번트리 대공습 | 공습 | 발생 | 미등록 | — |
 | EVT-0095 | 1940-11-15 | 바르샤바 게토 봉쇄 | 박해 | 발생 | 링크등록 | [SRC-004](chronology-sources-v1.md) |
