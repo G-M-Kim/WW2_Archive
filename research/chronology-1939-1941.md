@@ -1,5 +1,5 @@
 ---
-title: 세계대전 연표 1939–1941 (1940년 10월 31일까지 1차 범위 검토)
+title: 세계대전 연표 1939–1941 (1940년 11월 30일까지 1차 범위 검토)
 status: review-draft
 as_of: 2026-11-03
 ---
@@ -2920,15 +2920,46 @@ as_of: 2026-11-03
 | EVT-3155 | 1940-10-24 | Pétain–Hitler Montoire 회담과 협력 노선 논의 | 외교·협력 | 발생 | 문헌대조 | [SRC-1693](chronology-sources-v1.md) · [SRC-1592](chronology-sources-v1.md) |
 | EVT-3156 | 1940-10-26 | Empress of Britain, 독일 항공기 공격으로 화재·퇴선 | 해난·항공공격 | 발생 | 문헌대조 | [SRC-1698](chronology-sources-v1.md) |
 | EVT-3157 | 1940-10-27 | 드골의 Brazzaville 선언과 제국방위평의회 설치 | 정치·항전 | 발생 | 문헌대조 | [SRC-1695](chronology-sources-v1.md) · [SRC-1592](chronology-sources-v1.md) |
+| EVT-3163 | 1940-10-27 | 자유프랑스의 가봉 점령 작전 개시 — 11월 전역의 선행 단계 보강 | 지상전·항전 | 발생 | 문헌대조 | [SRC-1679](chronology-sources-v1.md) |
 | EVT-0092 | 1940-10-28 | 이탈리아의 그리스 침공 — 최후통첩·국경전과 공습, 당일 초기 보고의 정보 차이는 후속 대조 | 침공·전쟁 | 발생 | 문헌대조 | [SRC-1656](chronology-sources-v1.md) · [SRC-1688](chronology-sources-v1.md) · [SRC-1689](chronology-sources-v1.md) |
 | EVT-3158 | 1940-10-28 | Hitler–Mussolini Florence 회담 — 그리스 침공이 시작된 당일 | 외교·전쟁 | 발생 | 문헌대조 | [SRC-1656](chronology-sources-v1.md) |
 | EVT-3159 | 1940-10-28 | Empress of Britain, 예인 중 U32의 공격으로 침몰 — 26일 항공피격과 구분 | 해난·잠수함전 | 발생 | 문헌대조 | [SRC-1698](chronology-sources-v1.md) |
 | EVT-3160 | 1940-10-29 | 영국 합동 정찰대 Crete 도착·Suda Bay 지원 선단 Alexandria 출항 | 군사지원·수송 | 발생 | 문헌대조 | [SRC-1656](chronology-sources-v1.md) |
 | EVT-3161 | 1940-10-30 | Pétain 라디오 연설로 대독 협력 노선 공표 — 24일 회담과 구별 | 정치·선전 | 발생 | 문헌대조 | [SRC-1693](chronology-sources-v1.md) |
 | EVT-3162 | 1940-10-31 | 영국 항공전의 후대 영국 공식 집계 종료일 — 공습·Blitz는 계속 | 항공전·시기구분 | 발생 | 문헌대조 | [SRC-1625](chronology-sources-v1.md) |
-| EVT-0093 | 1940-11-11 | 타란토 공습(영국 해군 항공대) | 해군·공습 | 발생 | 미등록 | — |
-| EVT-0094 | 1940-11-14 | 코번트리 대공습 | 공습 | 발생 | 미등록 | — |
-| EVT-0095 | 1940-11-15 | 바르샤바 게토 봉쇄 | 박해 | 발생 | 링크등록 | [SRC-004](chronology-sources-v1.md) |
+| EVT-3164 | 1940-11 | San Demetrio 생존 선원들의 재승선·화재 진압과 귀항 — 정확 재승선일 후속 | 해난·구조 | 발생 | 문헌대조 | [SRC-1710](chronology-sources-v1.md) |
+| EVT-3165 | 1940-11 | 소련, 4국 협정안에 조건부 수정 요구 — 26일 발신 독일 전보로 확인·실제 면담일 후속 | 외교·미체결협정 | 발생 | 문헌대조 | [SRC-1705](chronology-sources-v1.md) |
+| EVT-3166 | 1940-11-01 | 영국 지원 선단과 Ajax 수송 병력 Suda Bay 도착·Crete 방어 구축 | 군사지원 | 발생 | 문헌대조 | [SRC-1656](chronology-sources-v1.md) |
+| EVT-3167 | 1940-11-04 | MB8 수송 작전 개시: 그리스·Crete 및 몰타행 선단 출항 | 수송·해상작전 | 발생 | 문헌대조 | [SRC-1708](chronology-sources-v1.md) |
+| EVT-3168 | 1940-11-05 | Admiral Scheer의 HX84 선단 공격과 Jervis Bay 침몰·선단 분산 | 해전·선단 | 발생 | 문헌대조 | [SRC-1710](chronology-sources-v1.md) |
+| EVT-3169 | 1940-11-05 | 자유프랑스군의 Lambaréné 점령 — 가봉 전역 | 지상전 | 발생 | 문헌대조 | [SRC-1707](chronology-sources-v1.md) · [SRC-1679](chronology-sources-v1.md) |
+| EVT-3170 | 1940-11-07 | 팔로군 진시베이 군구 성립·He Long 지휘 | 군사조직 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3171 | 1940-11-08 | 8~9일 밤 자유프랑스군의 Libreville 인근 상륙 | 상륙·지상전 | 발생 | 문헌대조 | [SRC-1707](chronology-sources-v1.md) · [SRC-1679](chronology-sources-v1.md) |
+| EVT-3172 | 1940-11-09 | Libreville 공항 교전·장악과 비시군 항복 — 수도 점령 완료 단계는 후속 | 지상·항공전 | 발생 | 문헌대조 | [SRC-1707](chronology-sources-v1.md) |
+| EVT-3173 | 1940-11-09 | Zhu De·Peng Dehuai·Ye Ting·Xiang Ying의 ‘佳電’: 皓電 이동 요구에 회신 | 국공갈등·명령 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-0093 | 1940-11-11 | 11~12일 밤 타란토 공습: Illustrious의 Swordfish가 이탈리아 정박 함대 공격 | 해군·공습 | 발생 | 문헌대조 | [SRC-1656](chronology-sources-v1.md) · [SRC-1701](chronology-sources-v1.md) |
+| EVT-3174 | 1940-11-11 | 파리 개선문·Champs-Élysées 학생들의 휴전기념일 시위와 독일군 탄압 | 저항·탄압 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) |
+| EVT-3175 | 1940-11-12 | Molotov의 Berlin 회담 개시 — 12~13일 Hitler·Ribbentrop과 교섭 | 외교 | 발생 | 문헌대조 | [SRC-1705](chronology-sources-v1.md) · [SRC-1706](chronology-sources-v1.md) |
+| EVT-3176 | 1940-11-12 | Port-Gentil 비시군 항복 — 가봉의 자유프랑스 편입 마무리 단계 | 지상전·정치 | 발생 | 문헌대조 | [SRC-1707](chronology-sources-v1.md) · [SRC-1592](chronology-sources-v1.md) |
+| EVT-3177 | 1940-11-12 | 11~12일 밤 Otranto 해협에서 영국 순양함 부대의 이탈리아 선단 공격 | 해전·선단 | 발생 | 문헌대조 | [SRC-1656](chronology-sources-v1.md) |
+| EVT-0094 | 1940-11-14 | 14~15일 밤 코번트리 대공습 — 산업시설·도심·대성당 피해 | 공습·민간피해 | 발생 | 문헌대조 | [SRC-1702](chronology-sources-v1.md) |
+| EVT-3178 | 1940-11-14 | 그리스군의 전선 전반 반격 개시 — 알바니아 방면 진격 | 지상전 | 발생 | 문헌대조 | [SRC-1656](chronology-sources-v1.md) |
+| EVT-0095 | 1940-11-15 | 바르샤바 게토 봉쇄 — USHMM 15일 명령 표기·IPN 15~16일 밤 시행 기록 | 박해·게토 | 발생 | 문헌대조 | [SRC-004](chronology-sources-v1.md) · [SRC-1703](chronology-sources-v1.md) · [SRC-1704](chronology-sources-v1.md) |
+| EVT-3179 | 1940-11-15 | 팔로군 지중 군구의 Dezhou–Shijiazhuang 철도 중심 동계 공세 개시 | 지상전·철도공격 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3180 | 1940-11-16 | 드골의 Déclaration organique: 자유프랑스 권력 행사의 법적 논거 선언 | 정치·법제 | 발생 | 문헌대조 | [SRC-1713](chronology-sources-v1.md) |
+| EVT-3181 | 1940-11-16 | Brazzaville 명령 제7호로 Ordre de la Libération 창설 | 정치·포상제도 | 발생 | 문헌대조 | [SRC-1714](chronology-sources-v1.md) · [SRC-1592](chronology-sources-v1.md) |
+| EVT-3182 | 1940-11-17 | Argus의 몰타 전투기 증원 비행 실패(Operation White) — 일부만 도착 | 항공·증원실패 | 발생 | 문헌대조 | [SRC-1708](chronology-sources-v1.md) · [SRC-1646](chronology-sources-v1.md) |
+| EVT-3183 | 1940-11-17 | 중국 화중 신사군·팔로군 총지휘부, Hai’an에서 성립 | 군사조직 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3184 | 1940-11-20 | 헝가리의 삼국동맹 가입 | 외교·조약 | 발생 | 문헌대조 | [SRC-1712](chronology-sources-v1.md) |
+| EVT-3185 | 1940-11-22 | 22일까지 그리스군 Koritsa·Leskovik 점령과 알바니아 내 교두보 확보 — 영국 전사 기준 | 지상전 | 발생 | 문헌대조 | [SRC-1656](chronology-sources-v1.md) |
+| EVT-3186 | 1940-11-23 | 루마니아의 삼국동맹 가입 | 외교·조약 | 발생 | 문헌대조 | [SRC-1712](chronology-sources-v1.md) |
+| EVT-3187 | 1940-11-24 | 슬로바키아의 삼국동맹 가입 | 외교·조약 | 발생 | 문헌대조 | [SRC-1712](chronology-sources-v1.md) |
+| EVT-3188 | 1940-11-25 | 독일 통상파괴함의 Holmwood 나포·격침 — Chatham 제도 부근 | 해상·민간피해 | 발생 | 문헌대조 | [SRC-1711](chronology-sources-v1.md) |
+| EVT-3189 | 1940-11-26 | 26~27일 밤 Jilava 감옥의 철위대 수감자 집단살해 | 학살·정치폭력 | 발생 | 문헌대조 | [SRC-1715](chronology-sources-v1.md) |
+| EVT-3190 | 1940-11-27 | 철위대의 Nicolae Iorga 납치·살해 — 시신 발견 시각은 별도 | 정치폭력 | 발생 | 문헌대조 | [SRC-1716](chronology-sources-v1.md) |
+| EVT-3191 | 1940-11-27 | 스파르티벤토곶 해전 — COLLAR 호송 작전 중 영·이탈리아 함대 교전 | 해전 | 발생 | 문헌대조 | [SRC-1709](chronology-sources-v1.md) |
+| EVT-3192 | 1940-11-27 | 독일 Orion·Komet의 Rangitane 공격·격침과 승선자 억류 | 해상·민간피해 | 발생 | 문헌대조 | [SRC-1711](chronology-sources-v1.md) |
+| EVT-3193 | 1940-11-30 | 일본–왕징웨이 정권 기본관계조약 및 일본·만주국·왕정권 공동선언 서명 | 외교·점령협력 | 발생 | 문헌대조 | [SRC-1717](chronology-sources-v1.md) · [SRC-1718](chronology-sources-v1.md) |
 | EVT-0096 | 1940-12-09 | 컴퍼스 작전: 영연방군 북아프리카 반격 시작 | 작전 | 발생 | 미등록 | — |
 
 ## 1941년
