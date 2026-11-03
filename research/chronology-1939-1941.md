@@ -1,5 +1,5 @@
 ---
-title: 세계대전 연표 1939–1941 (1941년 1월 31일까지 1차 범위 검토)
+title: 세계대전 연표 1939–1941 (1941년 2월 15일까지 선별 1차 범위 검토)
 status: review-draft
 as_of: 2026-11-03
 ---
@@ -3044,7 +3044,34 @@ as_of: 2026-11-03
 | EVT-3267 | 1941-01-30 | 히틀러의 베를린 슈포르트팔라스트 연설: 유럽 유대인에 대한 절멸 위협 재언급 | 선전·유대인박해 | 발생 | 문헌대조 | [SRC-1773](chronology-sources-v1.md) |
 | EVT-3268 | 1941-01-31 | 아고르다트 방어선 돌파와 이탈리아군 철수(도시 점령은 2월 1일 기록) | 전투·동아프리카 | 발생 | 문헌대조 | [SRC-1755](chronology-sources-v1.md) |
 | EVT-3269 | 1941-01-31 | 사이공에서 태국–프랑스령 인도차이나 휴전 협정 서명(18시; 미국 전문 편집각주) | 휴전·외교 | 발생 | 문헌대조 | [SRC-1764](chronology-sources-v1.md) |
-| EVT-0098 | 1941-02-11 | 롬멜 북아프리카 도착과 아프리카 군단 증원 | 지휘·전선 | 발생 | 미등록 | — |
+| EVT-3270 | 1941-02-01 | 아고르다트: 제5인도여단의 무저항 도시 점령(1월31일 방어선 돌파와 구분) | 점령·동아프리카 | 발생 | 문헌대조 | [SRC-1755](chronology-sources-v1.md) · [SRC-1776](chronology-sources-v1.md) |
+| EVT-3271 | 1941-02-02 | 바렌투: 이탈리아군 야간 철수 뒤 제10·29인도여단의 도시 점령 | 점령·동아프리카 | 발생 | 문헌대조 | [SRC-1755](chronology-sources-v1.md) · [SRC-1757](chronology-sources-v1.md) |
+| EVT-3272 | 1941-02-03 | 케렌 초기전: 제2 Cameron Highlanders 대대의 Cameron Ridge 공격·교두보 확보 | 전투·동아프리카 | 발생 | 문헌대조 | [SRC-1776](chronology-sources-v1.md) · [SRC-1757](chronology-sources-v1.md) |
+| EVT-3273 | 1941-02-04 | 베다폼 포위 기동: 제7기갑사단의 메킬리–무수스 사막 횡단 개시 | 작전·컴퍼스 | 발생 | 문헌대조 | [SRC-1719](chronology-sources-v1.md) · [SRC-1774](chronology-sources-v1.md) |
+| EVT-3274 | 1941-02-04 | 일본군 제18사단 일부의 광둥 다야만 상륙·홍콩–사오관 보급로 차단 공세(중국 연표 기록) | 작전·중일전쟁 | 발생 | 문헌대조 | [SRC-1741](chronology-sources-v1.md) |
+| EVT-3275 | 1941-02-04 | 위난 공세: 일본군의 난양 점령(중국 군사연표 기록) | 전투·중일전쟁 | 발생 | 문헌대조 | [SRC-1741](chronology-sources-v1.md) |
+| EVT-3276 | 1941-02-05 | 위난 공세: 일본군의 탕허 점령(중국 군사연표 기록) | 전투·중일전쟁 | 발생 | 문헌대조 | [SRC-1741](chronology-sources-v1.md) |
+| EVT-3277 | 1941-02-05 | 베다폼: Combe 기동부대의 시디살레흐 부근 도로 차단과 이탈리아 퇴각대 교전 개시 | 전투·컴퍼스 | 발생 | 문헌대조 | [SRC-1719](chronology-sources-v1.md) · [SRC-1774](chronology-sources-v1.md) · [SRC-1775](chronology-sources-v1.md) |
+| EVT-3278 | 1941-02-06 | 위난 공세: 일본군의 신양 방면 철수 개시와 중국 제5전구의 추격(중국 연표 기록) | 작전·중일전쟁 | 발생 | 문헌대조 | [SRC-1741](chronology-sources-v1.md) |
+| EVT-3279 | 1941-02-06 | 벵가지: 호주 선발대의 당국 접촉·7일 주력의 정식 입성(단계 구분) | 점령·컴퍼스 | 발생 | 문헌대조 | [SRC-1775](chronology-sources-v1.md) · [SRC-1719](chronology-sources-v1.md) |
+| EVT-3280 | 1941-02-07 | 베다폼: 이탈리아군 최종 돌파 시도 실패와 제10군 잔여 주력 항복 | 전투·항복 | 발생 | 문헌대조 | [SRC-1719](chronology-sources-v1.md) · [SRC-1774](chronology-sources-v1.md) · [SRC-1775](chronology-sources-v1.md) |
+| EVT-3281 | 1941-02-07 | 중공 중앙군사위원회, 군·사단·여단 등 군정위원회 조례 공포(중국 연표 기록) | 군사조직·중국 | 발생 | 문헌대조 | [SRC-1741](chronology-sources-v1.md) |
+| EVT-3296 | 1941-02-07 | 케렌: 제5인도여단의 Acqua Gap 첫 공격 실패(7~8일 야간) | 전투·동아프리카 | 발생 | 문헌대조 | [SRC-1776](chronology-sources-v1.md) |
+| EVT-3282 | 1941-02-08 | 영연방군의 엘아게일라 확보와 컴퍼스 종결 뒤 전선 정리 | 점령·컴퍼스 | 발생 | 문헌대조 | [SRC-1774](chronology-sources-v1.md) |
+| EVT-3283 | 1941-02-09 | 그로그 작전: 영국 Force H의 제노바 포격과 이탈리아 항만·시설 공격 | 해군·포격 | 발생 | 문헌대조 | [SRC-1782](chronology-sources-v1.md) |
+| EVT-3284 | 1941-02-09 | 암스테르담: NSB 돌격대 WA의 Café Alcazar 습격 | 반유대폭력·점령 | 발생 | 문헌대조 | [SRC-1785](chronology-sources-v1.md) |
+| EVT-3285 | 1941-02-10 | 콜로서스 작전: 영국 공수부대의 남부 이탈리아 트라지노 수도교 파괴 습격(10~11일) | 공수·특수작전 | 발생 | 문헌대조 | [SRC-1781](chronology-sources-v1.md) |
+| EVT-3286 | 1941-02-10 | 케렌: 제3/1 Punjab 대대의 Brig’s Peak 재공격·11~12일 이탈리아군 반격 | 전투·동아프리카 | 발생 | 문헌대조 | [SRC-1776](chronology-sources-v1.md) |
+| EVT-3287 | 1941-02-11 | 암스테르담 유대인 지구 충돌로 WA 대원 Koot 부상(사망은14일; 학술 편집주) | 점령·충돌 | 발생 | 문헌대조 | [SRC-1783](chronology-sources-v1.md) · [SRC-1784](chronology-sources-v1.md) |
+| EVT-0098 | 1941-02-12 | 롬멜의 트리폴리 도착(11일 로마 접견·14일 첫 전투부대 상륙과 구분) | 지휘·전선 | 발생 | 문헌대조 | [SRC-1778](chronology-sources-v1.md) · [SRC-1779](chronology-sources-v1.md) · [SRC-1780](chronology-sources-v1.md) |
+| EVT-3288 | 1941-02-12 | 케렌: Acqua Gap 재공격 실패·13~14일 공격부대 철수(도시 함락 아님) | 전투·동아프리카 | 발생 | 문헌대조 | [SRC-1776](chronology-sources-v1.md) · [SRC-1757](chronology-sources-v1.md) |
+| EVT-3289 | 1941-02-12 | 위난(허난 남부) 전투 종결(중국 군사연표 기록; 손실 미확정) | 전투·중일전쟁 | 발생 | 문헌대조 | [SRC-1741](chronology-sources-v1.md) |
+| EVT-3290 | 1941-02-12 | 암스테르담 Gerzon 의류기업의 나치 강제접수·유대인 경영진 축출 | 재산박탈·박해 | 발생 | 문헌대조 | [SRC-1785](chronology-sources-v1.md) |
+| EVT-3291 | 1941-02-12 | 독일 점령당국의 암스테르담 유대인 대표기구 구성 요구(13일 설립 서술과 구분) | 박해·강제조직 | 발생 | 문헌대조 | [SRC-1784](chronology-sources-v1.md) · [SRC-1785](chronology-sources-v1.md) |
+| EVT-3292 | 1941-02-12 | 암스테르담 유대인 지구 봉쇄 집행(11일 명령·13일 통행 허용과 구분) | 박해·이동통제 | 발생 | 문헌대조 | [SRC-1783](chronology-sources-v1.md) |
+| EVT-3293 | 1941-02-13 | 리창장 부대의 일본군 투항·협력군 지휘관 취임(중국 군사연표 기록) | 협력·국공갈등 | 발생 | 문헌대조 | [SRC-1741](chronology-sources-v1.md) |
+| EVT-3294 | 1941-02-14 | 독일군 북아프리카 증원: 제5경사단의 첫 전투부대 상륙(12일 롬멜 도착과 구분) | 전개·북아프리카 | 발생 | 문헌대조 | [SRC-1779](chronology-sources-v1.md) |
+| EVT-3295 | 1941-02-14 | 키스마유(Chisimaio): 이탈리아군 철수 뒤 제22동아프리카여단 부대의 항구 점령 | 점령·동아프리카 | 발생 | 문헌대조 | [SRC-1757](chronology-sources-v1.md) · [SRC-1777](chronology-sources-v1.md) |
 | EVT-0099 | 1941-03-11 | 미국 무기대여법(랜드리스법) 서명 | 정치·보급 | 발생 | 미등록 | — |
 | EVT-0100 | 1941-03-27 | 유고슬라비아 친추축 정부에 대한 쿠데타 | 정치 | 발생 | 미등록 | — |
 | EVT-0101 | 1941-04-06 | 독일의 유고슬라비아·그리스 침공(마리타 작전 등) | 작전 | 발생 | 링크등록 | [SRC-004](chronology-sources-v1.md) |
