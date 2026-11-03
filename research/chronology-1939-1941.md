@@ -1,5 +1,5 @@
 ---
-title: 세계대전 연표 1939–1941 (1940년 11월 30일까지 1차 범위 검토)
+title: 세계대전 연표 1939–1941 (1940년 12월 18일까지 1차 범위 검토)
 status: review-draft
 as_of: 2026-11-03
 ---
@@ -2960,7 +2960,24 @@ as_of: 2026-11-03
 | EVT-3191 | 1940-11-27 | 스파르티벤토곶 해전 — COLLAR 호송 작전 중 영·이탈리아 함대 교전 | 해전 | 발생 | 문헌대조 | [SRC-1709](chronology-sources-v1.md) |
 | EVT-3192 | 1940-11-27 | 독일 Orion·Komet의 Rangitane 공격·격침과 승선자 억류 | 해상·민간피해 | 발생 | 문헌대조 | [SRC-1711](chronology-sources-v1.md) |
 | EVT-3193 | 1940-11-30 | 일본–왕징웨이 정권 기본관계조약 및 일본·만주국·왕정권 공동선언 서명 | 외교·점령협력 | 발생 | 문헌대조 | [SRC-1717](chronology-sources-v1.md) · [SRC-1718](chronology-sources-v1.md) |
-| EVT-0096 | 1940-12-09 | 컴퍼스 작전: 영연방군 북아프리카 반격 시작 | 작전 | 발생 | 미등록 | — |
+| EVT-3194 | 1940-12-01 | 프랑스 북부 저항신문 Libération 창간(1973년 동명 신문과 구분) | 저항·언론 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) |
+| EVT-3195 | 1940-12-03 | 독일군 대소전 참모연습 제2단계 실시(7일 후속 단계) | 군사계획 | 발생 | 문헌대조 | [SRC-1726](chronology-sources-v1.md) |
+| EVT-3196 | 1940-12-03 | 중국 스유싼(石友三), 가오수쉰 세력에 의해 살해됨(동기·명령계통 후속 검증) | 군내폭력 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3197 | 1940-12-05 | 브라우히치·할더, 히틀러에게 대소전 계획 보고: 보병 105·기갑 및 차량화보병 32개 사단 구상 | 군사계획 | 발생 | 문헌대조 | [SRC-1726](chronology-sources-v1.md) |
+| EVT-3198 | 1940-12-07 | 장제스, 황허 이남 공산당군에 대한 군사계획 승인(중국 연표의 서술·원명령 후속) | 군사계획·국공갈등 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-3199 | 1940-12-07 | 컴퍼스 준비: 사막 접근행군과 추축 항공기지 공격 개시(9일 지상 주공과 구분) | 작전·공습 | 발생 | 문헌대조 | [SRC-1719](chronology-sources-v1.md) · [SRC-1720](chronology-sources-v1.md) |
+| EVT-3200 | 1940-12-08 | 허잉친·바이충시, 공산당군의 창장 이북 이동을 12월 말까지 요구 | 군사명령·국공갈등 | 발생 | 문헌대조 | [SRC-1461](chronology-sources-v1.md) |
+| EVT-0096 | 1940-12-09 | 컴퍼스 작전: 영연방군 북아프리카 반격 주공 개시(7일 접근·공습과 구분) | 작전 | 발생 | 문헌대조 | [SRC-1719](chronology-sources-v1.md) · [SRC-1720](chronology-sources-v1.md) |
+| EVT-3201 | 1940-12-09 | 컴퍼스: 니베이와 진지 및 툼마르 진지 공격 | 전투 | 발생 | 문헌대조 | [SRC-1719](chronology-sources-v1.md) · [SRC-1720](chronology-sources-v1.md) |
+| EVT-3202 | 1940-12-10 | 컴퍼스: 시디바라니 함락 | 전투 | 발생 | 문헌대조 | [SRC-1719](chronology-sources-v1.md) · [SRC-1720](chronology-sources-v1.md) |
+| EVT-3203 | 1940-12-11 | 컴퍼스: 부크부크 일대 이탈리아군 포로화·서부 추격 전환 | 전투·포로 | 발생 | 문헌대조 | [SRC-1719](chronology-sources-v1.md) · [SRC-1720](chronology-sources-v1.md) |
+| EVT-3204 | 1940-12-11 | 독일, 지브롤터 공격 Felix의 당시 실행계획 중단(후속 재검토와 구분) | 군사계획 | 발생 | 문헌대조 | [SRC-1727](chronology-sources-v1.md) |
+| EVT-3205 | 1940-12-13 | 히틀러, 지령 제20호로 그리스 침공 Marita 준비 지시(실제 공격은 1941년) | 군사계획 | 발생 | 문헌대조 | [SRC-1727](chronology-sources-v1.md) |
+| EVT-3206 | 1940-12-13 | 브라자빌 라디오 방송 개시 | 방송·자유프랑스 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) |
+| EVT-3207 | 1940-12-13 | 독일 대소전 준비: 육군집단·군 참모장 회의(13~14일) | 군사계획 | 발생 | 문헌대조 | [SRC-1726](chronology-sources-v1.md) |
+| EVT-3208 | 1940-12-15 | 컴퍼스: 영연방군이 이집트 밖으로 진출하여 바르디아 방면 도로 차단(도시 점령은 이듬해) | 작전 | 발생 | 문헌대조 | [SRC-1719](chronology-sources-v1.md) |
+| EVT-3209 | 1940-12-15 | Musée de l’Homme 저항망의 Résistance 창간 | 저항·언론 | 발생 | 문헌대조 | [SRC-1592](chronology-sources-v1.md) |
+| EVT-3210 | 1940-12-18 | 히틀러, 바르바로사 지령 제21호 발령: 대소 침공 준비(1941년 5월 15일은 준비 기한) | 군사계획 | 발생 | 문헌대조 | [SRC-1724](chronology-sources-v1.md) · [SRC-1725](chronology-sources-v1.md) |
 
 ## 1941년
 
