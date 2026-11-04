@@ -2105,6 +2105,11 @@ as_of: 2026-11-04
 | SRC-1873 | Italian Ministry of Defence, L'Esercito alla macchia, appendix 2 L'occupazione italiana della Grecia (1941-1943), p531 web rendering | 2차 이탈리아 국방부 역사연구 | 4월23일 제11군 사령부 Dervisciani에서 휴전/항복 서명, 실제 이탈리아 점령은 5월11일부터 | https://musei.difesa.it/allegati/L%20Esercito%20alla%20macchia%20-%20Controguerriglia%20Italiana%201860-1943%20TOGLIERE%20PDF/files/basic-html/page531.html | 이탈리아측 전후 해석·원서명 의정서 미열람; 항복과 실제 점령일 구분; 확인2026-11-05; 자체 요약 |
 | SRC-1874 | RAI Cultura, La Grecia si arrende agli italiani, 23 Aprile 1941 | 2차 이탈리아 공영방송 역사해설 | 4월23일 Ugo Cavallero가 이탈리아 제11군 사령부에서 그리스군 항복 접수 | https://www.raicultura.it/storia/accadde-oggi/La-Grecia-si-arrende-agli-italiani-9b7be409-7faa-445f-ab4d-5022aa898bd4.html | 짧은 역사해설이며 항복문서 원본/서명 시각·그리스 서명자 명단 미확인; 확인2026-11-05; 자체 요약 |
 
+| SRC-1875 | Australian War Memorial, Greek campaign, updated 2021-05-06 | 2차 호주 전쟁기념관 개요 | 24일 철수 개시, 5회 연속 야간 후송 총 5만명 이상 | https://www.awm.gov.au/articles/encyclopedia/greek_campaign | 전역 총원을 하루 인원으로 오인 금지; 2026-11-05 웹본문 확인; 자체 요약 |
+| SRC-1876 | Australian Government DVA, Anzac Portal, Greece and Crete | 2차 정부 전사해설 | 24일 후위전, 24~25일 밤 12000명 이상 포르토라프티·나프플리온 승선, 24~29일 총 50732명 추산 | https://anzacportal.dva.gov.au/resources/greece-and-crete | 기간별 후송 분모 분리; 2026-11-05 웹본문 확인; 자체 요약 |
+| SRC-1877 | Australian War Memorial London, Brallos Pass: Withdrawal from Greece | 2차 기념관 전투해설 | 24일 호주 19여단·뉴질랜드 6여단 후위전, 전차 15대 격파 주장 | https://www.awmlondon.gov.au/battles/brallos-pass | 독일 원 손실명부 미대조; 사단·여단 실인원 미확인; 2026-11-05 웹본문 확인; 자체 요약 |
+| SRC-1878 | W.G. McClymont, To Greece, New Zealand official history, 1959, 22 Battalion PDF | 2차 공식전사 PDF 목차 | 17장 p384~398 24일 후위전, 18장 p400~408 철수, 25일 계획재수정 p405 | https://www.22battalion.org.nz/publications/histories/greece.pdf | 검색 노출 목차만 확인, 본문 열람 주장 금지; 2026-11-05; 자체 요약 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
