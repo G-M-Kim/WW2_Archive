@@ -4,15 +4,15 @@ status: review-draft
 as_of: 2026-11-04
 ---
 
-# WW2 Archive — 사건 색인 초안 v9.3 (1941년 4월 15~17일·그리스·타리고·유고)
+# WW2 Archive — 사건 색인 초안 v9.4 (1941년 4월 18~20일·피니오스·그리스 항복교섭)
 
-**현재 범위: 1905–1947년, 3427개 후보 항목.** 현재 목록이 전체 사건을 망라한다는 뜻은 아니다. 전체 군사작전·교전·정치사건·피해자 사건까지 수록하려면 연표를 계속 확장해야 한다.
+**현재 범위: 1905–1947년, 3432개 후보 항목.** 현재 목록이 전체 사건을 망라한다는 뜻은 아니다. 전체 군사작전·교전·정치사건·피해자 사건까지 수록하려면 연표를 계속 확장해야 한다.
 
-[현재 상태·재개 기준](WORK_STATE.md) · [최신 사료감사](source-audit-1941-apr15-17-batch1.md)
+[현재 상태·재개 기준](WORK_STATE.md) · [최신 사료감사](source-audit-1941-apr18-20-batch1.md)
 
-이번 묶음: 신규4 EVT·3 SRC·4 RQ, **1941-04-17까지 선별1차조사**. 누적3427 EVT /1865 SRC /1086 RQ; 문헌대조3082·링크등록238·미등록107. 다음1941/4/18~20.
+이번 묶음: 신규5 EVT·4 SRC·3 RQ, **1941-04-20까지 선별1차조사**. 누적3432 EVT /1869 SRC /1089 RQ; 문헌대조3087·링크등록238·미등록107. 다음1941/4/21~23.
 
-[그리스·타리고·유고](greece-tarigo-yugoslavia-1941-apr15-17-draft.md) · [발칸4월](balkans-1941-apr01-10-draft.md) · [키레나이카4월](cyrenaica-1941-apr01-10-draft.md) · [동아프리카4월](east-africa-1941-apr01-10-draft.md) · [이라크·외교4월](diplomacy-iraq-1941-apr01-10-draft.md)
+[피니오스·그리스 항복교섭](greece-pinios-capitulation-1941-apr18-20-draft.md) · [그리스·타리고·유고](greece-tarigo-yugoslavia-1941-apr15-17-draft.md) · [발칸4월](balkans-1941-apr01-10-draft.md) · [키레나이카4월](cyrenaica-1941-apr01-10-draft.md) · [동아프리카4월](east-africa-1941-apr01-10-draft.md) · [이라크·외교4월](diplomacy-iraq-1941-apr01-10-draft.md)
 
 [케렌후반](battle-keren-1941-march-late-draft.md) · [마타판](battle-matapan-1941-draft.md) · [자라부브](battle-giarabub-1941-draft.md) · [Appearance](operation-appearance-1941-draft.md) · [메르사브레가](battle-mersa-brega-1941-march-draft.md) · [유고](yugoslavia-1941-march-draft.md) · [상가오](battle-shanggao-1941-march-draft.md)
 
@@ -31,10 +31,10 @@ as_of: 2026-11-04
 ## 1. 날짜별 연표
 
 - [1905–1938: 전후 조약, 군축, 대공황, 팽창과 위기 (65개)](chronology-1905-1938.md)
-- [1939–1941: 개전, 초기 점령, 유럽·아시아·태평양 (3206개)](chronology-1939-1941.md)
+- [1939–1941: 개전, 초기 점령, 유럽·아시아·태평양 (3211개)](chronology-1939-1941.md)
 - [1942–1943: 전선 확대, 전환점, 비밀공작, 학살과 저항 (71개)](chronology-1942-1943.md)
 - [1944–1947: 최후 공세, 종전, 전범재판, 후속 국제질서 (85개)](chronology-1944-1947.md)
-- [출처 등록부 — 1865개 등록 (SRC-028·SRC-056 기존 중복 URL 별도 표시)](chronology-sources-v1.md)
+- [출처 등록부 — 1869개 등록 (SRC-028·SRC-056 기존 중복 URL 별도 표시)](chronology-sources-v1.md)
 - [사료 감사 보고서 1차 (기존 28 + 신규 4 사건)](source-audit-1905-1938-batch1.md)
 - [기존 출처 URL 표본 감사 8건 및 한국사 사료 확인](source-url-audit-batch1.md)
 - [전사 연표 남은 22개·신규 10개 항목 감사 보고서](source-audit-1905-1938-batch2.md)
@@ -107,11 +107,11 @@ as_of: 2026-11-04
 - [1940년 3월9~11일 49 EVT·13 SRC·16 RQ: 미·핀·소 외교전문·중립해운·비푸리만](source-audit-1940-mar09-11-batch1.md)
 - [2026-10-28 사후 무결성 감사: 9월 18~25일 데이터 보존·과거 CI 실패 원인·사료충돌](integrity-audit-1939-sep18-25-2026-10-28.md)
 - [사용자 요청 전쟁 속 이색 사건 4건: 슈티글러·보이테크·오스카·1914년 크리스마스 휴전](source-audit-war-anecdotes-batch1.md)
-- [1941년 4월 11~14일 29건 사건·22건 출처·12건 연구과제 사료감사](source-audit-1941-apr15-17-batch1.md)
+- [1941년 4월 11~14일 29건 사건·22건 출처·12건 연구과제 사료감사](source-audit-1941-apr18-20-batch1.md)
 - **[PR #1 병합 준비상태 / 검증 게이트 (현재: 보류)](merge-readiness.md)**
-- **[연구 백로그 — RQ ID 1086개 누적(완료·진행중 포함)](research-backlog.md)**
+- **[연구 백로그 — RQ ID 1089개 누적(완료·진행중 포함)](research-backlog.md)**
 
-**현재 항목별 감사 상태(2026-11-04, v9.2):** 문헌대조 3078건·링크등록 238건·미등록 107건(총 3414건). 문헌대조는 해당 사건의 기본 날짜/존재 대조이며 모든 실인원·사상자·증언 독립확증이 아니다. [최신 감사](source-audit-1941-apr15-17-batch1.md).
+**현재 항목별 감사 상태(2026-11-04, v9.2):** 문헌대조 3078건·링크등록 238건·미등록 107건(총 3414건). 문헌대조는 해당 사건의 기본 날짜/존재 대조이며 모든 실인원·사상자·증언 독립확증이 아니다. [최신 감사](source-audit-1941-apr18-20-batch1.md).
 
 ## 2. 사건 편찬 원칙
 

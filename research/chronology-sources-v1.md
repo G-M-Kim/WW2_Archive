@@ -2095,6 +2095,11 @@ as_of: 2026-11-04
 | SRC-1864 | Battle of the Tarigo Convoy / TheSecondWar.pl | 2차 민간 해전 기사 | 15일 밤~16일 새벽 Tarigo convoy, Mohawk 침몰 | https://thesecondwar.pl/en/battle-of-the-tarigo-convoy | 원 영·이탈리아 해군일지 미열람, 전사자 41/42/43명 이견; 확인2026-11-04 |
 | SRC-1865 | Battle of the Tarigo Convoy / Operations & Codenames of WWII | 3차 작전 개요 | 16Apr Tarigo 선단 전투·Mohawk 피격 | https://codenames.info/operation/battle-of-the-tarigo-convoy/ | 원문 독립확증 아님; 확인2026-11-04 |
 
+| SRC-1866 | Australian War Memorial, Tempe (Pinios) Gorge, collection E84364 | 2차 국가전쟁기념관 전투해설 | 18Apr1941: 호주16여단(2/1 제외), NZ21대대, 독 2기갑사단·6산악사단의 양면공격 | https://www.awm.gov.au/collection/E84364 | 병력 실현원·전차 가동·사상자 숫자 없음. 18일 전투와 19일 새벽 후퇴 분리; 확인2026-11-05; 자체 한국어 요약 |
+| SRC-1867 | Australian Army Research Centre, The Battle of Pinios Gorge: A Study of a Broken Anzac Brigade, Australian Army Journal 8(3) | 2차 군 전문연구 | 18Apr: Allen 지휘 16호주여단, 2/2·2/3호주대대와 NZ21대대, 독2기갑·6산악 선봉 | https://researchcentre.army.gov.au/library/australian-army-journal-aaj/volume-8-number-3-summer/battle-pinios-gorge-study-broken-anzac-brigade | 연구본문 일부 직접 웹 열람·원전쟁일지 미열람, 수치 별도 검증 필요; 확인2026-11-05 |
+| SRC-1868 | Deutsches Historisches Museum LeMO, Besetzung von Griechenland 1941 | 2차 독일 역사박물관 전역해설 | 20Apr 독군 라미아 도달, 21Apr 그리스 16개 사단 항복, 23일 후속 절차와 구분 | https://www.dhm.de/lemo/kapitel/der-zweite-weltkrieg/kriegsverlauf/besetzung-von-griechenland-1941 | 박물관 전역개요·독일군측 편향 가능, 사단16은 편제수이지 실제현원 아님; 확인2026-11-05 |
+| SRC-1869 | GRiSSH Parnassos Vol.51 No.1 (2009) pp289-314, V. L. Konstantinopoulos, The Capitulation of the Greek Army and the Formation of the Tsolakoglou Government in the Light of German Archives | 2차 학술논문 서지·초록 | 20Apr 그리스 장군의 독단적 항복과 후일 협력정부 형성 동기 독일 문서 연구 | https://www.grissh.gr/article/54e45336d36a368c5b00008b | 논문 전문·인용 독일 문서 미열람, 서지와 초록만 직접 확인; 1941년 정부 성립을 20일로 오기 금지; 확인2026-11-05 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
