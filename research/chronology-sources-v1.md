@@ -2129,6 +2129,8 @@ as_of: 2026-11-04
 | SRC-1891 | U.S. Minister Resident Paul Knabenshue to Secretary of State, Baghdad, 1941-05-04, telegram 113, *Foreign Relations of the United States*, 1941, vol. III (GPO, 1959), doc. 524, p.505 | 1차 당대 외교전문(1959년 편집 출판) | 공관 암호전문/무선기 통제, 피난민 160명, 이라크 외무부가 전한 라시드 기지 병원 1명 사망·2명 부상 주장 | https://history.state.gov/historicaldocuments/frus1941v03/d524 | 2026-11-05 웹 원문 직접 확인; 병원 피해는 외무부 전언, 공사의 직접 목격 아님. 원전문 원고·이라크 병원명부 미대조; 미국 정부 공개문서, 자체 요약 |
 | SRC-1892 | U.S. Minister Resident Paul Knabenshue to Secretary of State, Baghdad, 1941-05-04, telegram 115 (received May 5), *FRUS* 1941, vol. III (GPO, 1959), doc. 525, pp.505–506 | 1차 당대 외교전문(1959년 편집 출판) | 이라크 외무부가 보고한 하바니야 철수 최후통첩 및 보복 위협; 5/3 팔루자 모스크 공격 주장·영국인 피난민 인도 요구 | https://history.state.gov/historicaldocuments/frus1941v03/d525 | 2026-11-05 웹 원문 직접 확인; 외무부가 미국 외교관에게 전달한 주장이지 실제 영국 최후통첩 원문·폭격 증명 아님; 시간표현 원문 상충(11시 통보와 정오 만료/4시간 기한), 추가 검증 필요; 미국 정부 공개문서, 자체 요약 |
 
+| SRC-1893 | Paul Knabenshue, Baghdad telegram no.116, 1941-05-05 19:00, received 1941-05-06 15:27, *Foreign Relations of the United States*, 1941, vol.III (US GPO, 1959), doc.526, pp.506–507 | 1차 미국 외교전문(후대 편집본) | 미국인 교직원·선교사 및 피난민 보호, 모술 소재 Willoughby 가족 소재 문의; 전문 114호 취소·115호 최종 발송 언급 | https://history.state.gov/historicaldocuments/frus1941v03/d526 | 2026-11-05 웹 전사 원문 직접 확인; 외무부의 안부 전달은 독립 안전 확인이 아니며 모술 가족 소재 미확인; 원수기록·학교명부 미대조; 미국 정부 공개 전사, 자체 요약 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
