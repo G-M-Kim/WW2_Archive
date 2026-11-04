@@ -2120,6 +2120,10 @@ as_of: 2026-11-04
 | SRC-1885 | FRUS 1941 III d523 Knabenshue Baghdad 30 Apr 17:00 | 1차 미국 외교전문 | 740.0011 European War1939/10502; 29일 밤 이라크 기동부대 이동·30일 새벽 하바니야 고지 배치 | https://history.state.gov/historicaldocuments/frus1941v03/d523 | 29일 자정 표현 날짜 경계·이라크측 주권 주장·영미 시각 구분; 2026-11-05 |
 | SRC-1886 | Australian War Memorial, Sea-front at Kalamata, Dargie 1945 ART24036 | 2차 박물관 작품 캡션 | 26~27Apr 약9000명 승선, 호주 16·17여단 포함 | https://www.awm.gov.au/collection/C169496 | 선행 철수 수치, 28~29일 330명과 분모 구분; 2026-11-05 |
 
+| SRC-1887 | Royal Air Force Museum, British Military Aviation in 1941, RAF 역사 연표, 작성연도 미표시 | 2차 공립 군사박물관 연표 | 1May Greece last evacuation; 2May Habbaniya 04:45 No.70 Sqn 10 Wellington, 193 sorties, losses 2 air/1 ground | https://www.rafmuseum.org.uk/research/research-enquiries/history-of-aviation-timeline/british-military-aviation/1941-2/ | 2026-11-05 본문 확인. 전역/출격 총수는 박물관 후대 집계, 당일 원비행일지 미대조. 1일 철수 '마지막'은 개별 포로·잔류자 소멸 의미 아님; 자체요약 |
+| SRC-1888 | RAF Historical Society, Journal 48: Seminar on the Middle East, Mesopotamia, Iraq and NW Frontier, 세미나 논문, 발행연도 본문 미확인 | 2차 RAF 군사사 연구(PDF 검색 본문) | 2May 12:00~12:30 Rolls-Royce 장갑차 6대와 이라크 장갑차 교전·웰링턴 구조시도 | https://www.rafmuseum.org.uk/documents/Research/RAF-Historical-Society-Journals/Journal_48_Seminar_the_ME_Mespot_Iraq_NW_Frontier_4_FTS.pdf | 2026-11-05 검색 발췌만 확인, PDF 전체/각주 직접 검토 아님; 세미나 회고의 2차 해석·피해 명부 미대조; 자체요약 |
+| SRC-1889 | Ashley Jackson, Axis Broadcasts relating to Australia, India, Iran and Iraq, Imperial War Museums 연구 PDF(2018년 공개 파일) | 2차 연구: 당대 방송 감청 인용 | 3May Baghdad 영어 방송의 영군 하바니야 공습 관련 주장을 후대 연구자가 인용 | https://www.iwm.org.uk/sites/default/files/files/2018-11/Axis%20Broadcasts%20relating%20to%20Australia%2C%20India%2C%20Iran%20and%20Iraq%20-%20Ashley%20Jackson%20.pdf | 2026-11-05 검색 본문 일부 확인, 원 감청록 미열람; 방송 발언은 이라크 측 선전 주장이지 실제 폭격/피해 독립확증 아님; 자체요약 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
