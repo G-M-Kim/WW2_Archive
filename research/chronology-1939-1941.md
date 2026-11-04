@@ -3194,7 +3194,16 @@ as_of: 2026-11-04
 | EVT-0102 | 1941-04-10 | 토브루크 외곽 독일군 첫 교전·육로 차단 시작(포위망은 11일 완성) | 전투 | 발생 | 문헌대조 | [SRC-1834](chronology-sources-v1.md) · [SRC-1839](chronology-sources-v1.md) |
 | EVT-3413 | 1941-04-10 | 독일 기동부대의 플로리나 점령·베비 고개 방면 접근 | 전투·그리스 | 발생 | 문헌대조 | [SRC-1840](chronology-sources-v1.md) |
 | EVT-3414 | 1941-04-10 | 크바테르니크가 독립 크로아티아국(NDH) 성립 선포·우스타샤 집권 | 정권수립·점령 | 발생 | 문헌대조 | [SRC-1847](chronology-sources-v1.md) |
-| EVT-0103 | 1941-04-13 | 일소 중립조약 체결 | 조약 | 발생 | 미등록 | — |
+| EVT-3415 | 1941-04-11 | 토브루크: 추축군이 육상 포위망 완성, 영연방 수비대의 항구 방어 본격화 | 전투·북아프리카 | 발생 | 문헌대조 | [SRC-1854](chronology-sources-v1.md) · [SRC-1856](chronology-sources-v1.md) |
+| EVT-3416 | 1941-04-11 | 베비·클리디 고개: 독일군 정찰·전초접촉과 뉴질랜드 제27기관총대대 일부 포로 | 전투·그리스 | 발생 | 문헌대조 | [SRC-1857](chronology-sources-v1.md) · [SRC-1858](chronology-sources-v1.md) |
+| EVT-3417 | 1941-04-12 | 베비 고개: 독일군 08:30 공세에 호주 2/8대대 방어·맥케이 혼성부대 철수 | 전투·그리스 | 발생 | 문헌대조 | [SRC-1857](chronology-sources-v1.md) |
+| EVT-3418 | 1941-04-12 | 그리스의 호주·뉴질랜드 사단이 블레이미 지휘 ANZAC Corps로 통합(18:00 효력) | 지휘편제·그리스 | 발생 | 문헌대조 | [SRC-1857](chronology-sources-v1.md) |
+| EVT-3419 | 1941-04-12 | 독일 돌파에 따라 영연방·그리스군이 올림포스–알리아크몬 방어선에서 철수 결정·실행 | 후퇴·그리스 | 발생 | 문헌대조 | [SRC-1857](chronology-sources-v1.md) · [SRC-1858](chronology-sources-v1.md) |
+| EVT-3420 | 1941-04-13 | 일본·소련 중립조약과 몽골인민공화국·만주국 관련 공동선언 서명(원 EVT-0103 보강) | 외교·조약 | 발생 | 문헌대조 | [SRC-1859](chronology-sources-v1.md) · [SRC-1860](chronology-sources-v1.md) · [SRC-1861](chronology-sources-v1.md) |
+| EVT-3421 | 1941-04-13 | 토브루크 남쪽 R33 방면 독일군 침투·야간 공격 시작(14일 새벽 본공세와 구분) | 전투·북아프리카 | 발생 | 문헌대조 | [SRC-1854](chronology-sources-v1.md) · [SRC-1855](chronology-sources-v1.md) |
+| EVT-0103 | 1941-04-13 | 일소 중립조약 체결(몽골·만주국 관련 공동선언 별첨; 비준·발효와 서명일 분리) | 조약 | 발생 | 문헌대조 | [SRC-1859](chronology-sources-v1.md) · [SRC-1860](chronology-sources-v1.md) · [SRC-1861](chronology-sources-v1.md) |
+| EVT-3422 | 1941-04-14 | 토브루크 남부 R33~R35: 독일 전차·보병 돌파 시도와 호주군 역습·격퇴 | 전투·북아프리카 | 발생 | 문헌대조 | [SRC-1854](chronology-sources-v1.md) · [SRC-1855](chronology-sources-v1.md) |
+| EVT-3423 | 1941-04-14 | 토브루크 제2/17호주대대 잭 에드먼드슨 상병 야간 교전 부상 후 사망 | 개인사·전투 | 발생 | 문헌대조 | [SRC-1855](chronology-sources-v1.md) |
 | EVT-0104 | 1941-05-02 | 영국·이라크 전쟁 발발 | 전쟁 | 발생 | 미등록 | — |
 | EVT-0105 | 1941-05-20 | 메르쿠어 작전: 독일의 크레타 공수침공 | 작전 | 발생 | 미등록 | — |
 | EVT-0106 | 1941-05-24 | 비스마르크 추격전: 후드 격침 | 해전 | 발생 | 미등록 | — |
