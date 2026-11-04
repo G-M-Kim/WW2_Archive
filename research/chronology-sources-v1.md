@@ -2110,6 +2110,10 @@ as_of: 2026-11-04
 | SRC-1877 | Australian War Memorial London, Brallos Pass: Withdrawal from Greece | 2차 기념관 전투해설 | 24일 호주 19여단·뉴질랜드 6여단 후위전, 전차 15대 격파 주장 | https://www.awmlondon.gov.au/battles/brallos-pass | 독일 원 손실명부 미대조; 사단·여단 실인원 미확인; 2026-11-05 웹본문 확인; 자체 요약 |
 | SRC-1878 | W.G. McClymont, To Greece, New Zealand official history, 1959, 22 Battalion PDF | 2차 공식전사 PDF 목차 | 17장 p384~398 24일 후위전, 18장 p400~408 철수, 25일 계획재수정 p405 | https://www.22battalion.org.nz/publications/histories/greece.pdf | 검색 노출 목차만 확인, 본문 열람 주장 금지; 2026-11-05; 자체 요약 |
 
+| SRC-1879 | Australian War Memorial, Corinth Canal, Greece, 1941-04, photograph accession 069875 (undated catalogue) | 1차 사진 소장기술·2차 캡션 | 26Apr 독일 공수부대의 교량 확보와 호주 공병의 폭파 기록; 사진 자체는 사건 전체의 시간순 증거 아님 | https://www.awm.gov.au/collection/C63712 | 2026-11-05 웹 캡션 확인. 캡션은 후대 해설, 폭파 원인·시각·독일 측 병력 명부 미확인; 이미지 별도 권리 확인 |
+| SRC-1880 | Australian Government Department of Veterans Affairs, Greece and Crete, Withdrawal from Greece April 1941 (undated webpage) | 2차 정부 역사해설 | 24~29Apr 영연방 해상 철수, 코린트 후위전, 27~28Apr 독일군 아테네 진입 서술 | https://www.dva.gov.au/recognition-and-commemoration/memorials/memorials-europe/greece-and-crete | 2026-11-05 본문 확인. 27~28일 범위 표기를 27일 특정시각으로 단정 금지; 승선인원은 전역 총합 |
+| SRC-1881 | Australian War Memorial, Greek campaign, 1941, historical encyclopedia article, updated 2021-05-06 | 2차 국가전쟁기념관 해설 | 24Apr부터 5개 야간에 50000명 이상 철수·후위전과 그리스 현지 잔류자 | https://www.awm.gov.au/articles/encyclopedia/greek_campaign | 2026-11-05 웹본문 확인. 철수 총인원은 26일 하루 숫자가 아님; 선박·승선지별 원항해일지 미대조 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
