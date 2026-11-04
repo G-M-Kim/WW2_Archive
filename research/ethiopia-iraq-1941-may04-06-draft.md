@@ -13,3 +13,8 @@ Smithsonian Institution, National Museum of American History Archives Center의 
 
 ## 조사 한계
 이 묶음에서 직접 확인한 것은 Smithsonian 소장목록이며, 영국 전시 포스터 원이미지·에티오피아 연설문·RAF 및 이라크군 원작전일지는 직접 열람하지 않았다. 동아시아·해난·유고·민간인 피해 조사도 남아 있다. [사료감사](source-audit-1941-may04-06-batch1.md).
+
+## 5월 4일 미국 외교전문 직접 대조 (v9.11)
+[FRUS 1941 III doc.524](https://history.state.gov/historicaldocuments/frus1941v03/d524) (SRC-1891, p.505)는 미 공사 크나벤슈가 공관 암호전문 제한·무선송신기 정부 접수, 4월30일 이후 160명 피난, 라시드 기지 병원 피해에 관한 이라크 외무부 통보를 5월4일 보고했음을 기록한다. 병원 사망 1·부상 2는 독립 확인된 피해통계가 아니다.
+
+[FRUS doc.525](https://history.state.gov/historicaldocuments/frus1941v03/d525) (SRC-1892, pp.505–506)는 5월4일 이라크 외무부가 영국군의 하바니야 고지 철수 요구 및 이라크 측 보복 위협을 미국 공사에게 전달한 사실을 기록한다. 5월3일 팔루자 모스크 공격 시도 역시 이라크 측 주장. 영국 원최후통첩, RAF 비행일지, 이라크 민간피해 명부는 미열람. 전보 본문 내 '11시 통보 / 정오 만료 / 4시간 기한'은 서로 맞지 않아 시간 확정 금지. 관련 RQ-1111~1112. 5월5~6일 및 다른 지역은 여전히 미완료.

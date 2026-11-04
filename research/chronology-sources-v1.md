@@ -2126,6 +2126,9 @@ as_of: 2026-11-04
 
 | SRC-1890 | Smithsonian Institution, National Museum of American History, Archives Center, Princeton University Poster Collection, *Britain's Land Offensive / the Emperor Haile Selassie Enters Liberated Addis-Ababa*, 영국 전시 선전 포스터, 1941-05-05(소장 목록의 사건/제작 날짜 표기) | 1차 전시 선전물·현대 소장목록 | NMAH.AC.0433 / ref11474; Princeton Poster #8143; Box 40/4; 포스터 21.5×34 cm | https://sova.si.edu/record/nmah.ac.0433/ref11474 | 2026-11-05 목록 확인. 선전 포스터의 표제와 날짜는 귀환의 당대 인식을 보여주나 독립 입성명부·시각·동행 부대의 증거는 아님. 원 포스터 이미지 재사용 권리 별도 확인, 목록 기술 CC0 조건과 이미지 권리 구분 |
 
+| SRC-1891 | U.S. Minister Resident Paul Knabenshue to Secretary of State, Baghdad, 1941-05-04, telegram 113, *Foreign Relations of the United States*, 1941, vol. III (GPO, 1959), doc. 524, p.505 | 1차 당대 외교전문(1959년 편집 출판) | 공관 암호전문/무선기 통제, 피난민 160명, 이라크 외무부가 전한 라시드 기지 병원 1명 사망·2명 부상 주장 | https://history.state.gov/historicaldocuments/frus1941v03/d524 | 2026-11-05 웹 원문 직접 확인; 병원 피해는 외무부 전언, 공사의 직접 목격 아님. 원전문 원고·이라크 병원명부 미대조; 미국 정부 공개문서, 자체 요약 |
+| SRC-1892 | U.S. Minister Resident Paul Knabenshue to Secretary of State, Baghdad, 1941-05-04, telegram 115 (received May 5), *FRUS* 1941, vol. III (GPO, 1959), doc. 525, pp.505–506 | 1차 당대 외교전문(1959년 편집 출판) | 이라크 외무부가 보고한 하바니야 철수 최후통첩 및 보복 위협; 5/3 팔루자 모스크 공격 주장·영국인 피난민 인도 요구 | https://history.state.gov/historicaldocuments/frus1941v03/d525 | 2026-11-05 웹 원문 직접 확인; 외무부가 미국 외교관에게 전달한 주장이지 실제 영국 최후통첩 원문·폭격 증명 아님; 시간표현 원문 상충(11시 통보와 정오 만료/4시간 기한), 추가 검증 필요; 미국 정부 공개문서, 자체 요약 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
