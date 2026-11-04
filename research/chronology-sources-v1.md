@@ -2124,6 +2124,8 @@ as_of: 2026-11-04
 | SRC-1888 | RAF Historical Society, Journal 48: Seminar on the Middle East, Mesopotamia, Iraq and NW Frontier, 세미나 논문, 발행연도 본문 미확인 | 2차 RAF 군사사 연구(PDF 검색 본문) | 2May 12:00~12:30 Rolls-Royce 장갑차 6대와 이라크 장갑차 교전·웰링턴 구조시도 | https://www.rafmuseum.org.uk/documents/Research/RAF-Historical-Society-Journals/Journal_48_Seminar_the_ME_Mespot_Iraq_NW_Frontier_4_FTS.pdf | 2026-11-05 검색 발췌만 확인, PDF 전체/각주 직접 검토 아님; 세미나 회고의 2차 해석·피해 명부 미대조; 자체요약 |
 | SRC-1889 | Ashley Jackson, Axis Broadcasts relating to Australia, India, Iran and Iraq, Imperial War Museums 연구 PDF(2018년 공개 파일) | 2차 연구: 당대 방송 감청 인용 | 3May Baghdad 영어 방송의 영군 하바니야 공습 관련 주장을 후대 연구자가 인용 | https://www.iwm.org.uk/sites/default/files/files/2018-11/Axis%20Broadcasts%20relating%20to%20Australia%2C%20India%2C%20Iran%20and%20Iraq%20-%20Ashley%20Jackson%20.pdf | 2026-11-05 검색 본문 일부 확인, 원 감청록 미열람; 방송 발언은 이라크 측 선전 주장이지 실제 폭격/피해 독립확증 아님; 자체요약 |
 
+| SRC-1890 | Smithsonian Institution, National Museum of American History, Archives Center, Princeton University Poster Collection, *Britain's Land Offensive / the Emperor Haile Selassie Enters Liberated Addis-Ababa*, 영국 전시 선전 포스터, 1941-05-05(소장 목록의 사건/제작 날짜 표기) | 1차 전시 선전물·현대 소장목록 | NMAH.AC.0433 / ref11474; Princeton Poster #8143; Box 40/4; 포스터 21.5×34 cm | https://sova.si.edu/record/nmah.ac.0433/ref11474 | 2026-11-05 목록 확인. 선전 포스터의 표제와 날짜는 귀환의 당대 인식을 보여주나 독립 입성명부·시각·동행 부대의 증거는 아님. 원 포스터 이미지 재사용 권리 별도 확인, 목록 기술 CC0 조건과 이미지 권리 구분 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
