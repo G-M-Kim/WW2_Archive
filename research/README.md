@@ -4,13 +4,15 @@ status: review-draft
 as_of: 2026-11-04
 ---
 
-# WW2 Archive — 사건 색인 초안 v8.9 (1941년 3월 1~15일·클레이모어·케렌·랜드리스)
+# WW2 Archive — 사건 색인 초안 v9.0 (1941년 3월 16~31일·케렌·마타판·북아프리카)
 
-**현재 범위: 1905–1947년, 3350개 후보 항목.** 현재 목록이 전체 사건을 망라한다는 뜻은 아니다. 전체 군사작전·교전·정치사건·피해자 사건까지 수록하려면 연표를 계속 확장해야 한다.
+**현재 범위: 1905–1947년, 3385개 후보 항목.** 현재 목록이 전체 사건을 망라한다는 뜻은 아니다. 전체 군사작전·교전·정치사건·피해자 사건까지 수록하려면 연표를 계속 확장해야 한다.
 
-[현재 상태·재개 기준](WORK_STATE.md) · [최신 사료감사](source-audit-1941-mar01-15-batch1.md)
+[현재 상태·재개 기준](WORK_STATE.md) · [최신 사료감사](source-audit-1941-mar16-31-batch1.md)
 
-이번 묶음: 신규20 EVT·12 SRC·8 RQ,기존EVT-0099보강. **1941-03-15까지 선별1차범위검토**. 누적3350 EVT /1813 SRC /1053 RQ; 문헌대조3001·링크등록239·미등록110. 다음1941/3/16~31 개관.
+이번 묶음: 신규35 EVT·18 SRC·10 RQ,기존EVT-0100보강. **1941-03-31까지 선별1차범위검토**. 누적3385 EVT /1831 SRC /1063 RQ; 문헌대조3037·링크등록239·미등록109. 다음1941/4/1~10 개관.
+
+[케렌후반](battle-keren-1941-march-late-draft.md) · [마타판](battle-matapan-1941-draft.md) · [자라부브](battle-giarabub-1941-draft.md) · [Appearance](operation-appearance-1941-draft.md) · [메르사브레가](battle-mersa-brega-1941-march-draft.md) · [유고](yugoslavia-1941-march-draft.md) · [상가오](battle-shanggao-1941-march-draft.md)
 
 [클레이모어](operation-claymore-1941-draft.md) · [케렌3월전반](battle-keren-1941-march15-draft.md) · [랜드리스입법](lend-lease-1941-march-draft.md) · [그리스전선](greece-1941-march-early-draft.md)
 
@@ -27,10 +29,10 @@ as_of: 2026-11-04
 ## 1. 날짜별 연표
 
 - [1905–1938: 전후 조약, 군축, 대공황, 팽창과 위기 (65개)](chronology-1905-1938.md)
-- [1939–1941: 개전, 초기 점령, 유럽·아시아·태평양 (3129개)](chronology-1939-1941.md)
+- [1939–1941: 개전, 초기 점령, 유럽·아시아·태평양 (3164개)](chronology-1939-1941.md)
 - [1942–1943: 전선 확대, 전환점, 비밀공작, 학살과 저항 (71개)](chronology-1942-1943.md)
 - [1944–1947: 최후 공세, 종전, 전범재판, 후속 국제질서 (85개)](chronology-1944-1947.md)
-- [출처 등록부 — 1813개 등록 (SRC-028·SRC-056 기존 중복 URL 별도 표시)](chronology-sources-v1.md)
+- [출처 등록부 — 1831개 등록 (SRC-028·SRC-056 기존 중복 URL 별도 표시)](chronology-sources-v1.md)
 - [사료 감사 보고서 1차 (기존 28 + 신규 4 사건)](source-audit-1905-1938-batch1.md)
 - [기존 출처 URL 표본 감사 8건 및 한국사 사료 확인](source-url-audit-batch1.md)
 - [전사 연표 남은 22개·신규 10개 항목 감사 보고서](source-audit-1905-1938-batch2.md)
