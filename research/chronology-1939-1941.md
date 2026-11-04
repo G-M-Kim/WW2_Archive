@@ -3204,6 +3204,10 @@ as_of: 2026-11-04
 | EVT-0103 | 1941-04-13 | 일소 중립조약 체결(몽골·만주국 관련 공동선언 별첨; 비준·발효와 서명일 분리) | 조약 | 발생 | 문헌대조 | [SRC-1859](chronology-sources-v1.md) · [SRC-1860](chronology-sources-v1.md) · [SRC-1861](chronology-sources-v1.md) |
 | EVT-3422 | 1941-04-14 | 토브루크 남부 R33~R35: 독일 전차·보병 돌파 시도와 호주군 역습·격퇴 | 전투·북아프리카 | 발생 | 문헌대조 | [SRC-1854](chronology-sources-v1.md) · [SRC-1855](chronology-sources-v1.md) |
 | EVT-3423 | 1941-04-14 | 토브루크 제2/17호주대대 잭 에드먼드슨 상병 야간 교전 부상 후 사망 | 개인사·전투 | 발생 | 문헌대조 | [SRC-1855](chronology-sources-v1.md) |
+| EVT-3424 | 1941-04-16 | 플라타몬 능선: 뉴질랜드 제21대대가 독일군 공격으로 철수하고 피니오스 협곡 방어로 전환 | 전투·그리스 | 발생 | 문헌대조 | [SRC-1840](chronology-sources-v1.md) · [SRC-1857](chronology-sources-v1.md) |
+| EVT-3425 | 1941-04-16 | 케르케나 해역 타리고 호송선단 전투: 영 제14구축함전대가 추축 수송선단 공격 | 해전·병참 | 발생 | 문헌대조 | [SRC-1864](chronology-sources-v1.md) · [SRC-1865](chronology-sources-v1.md) |
+| EVT-3426 | 1941-04-16 | 타리고 호송선단 교전에서 HMS Mohawk가 이탈리아 구축함 Luca Tarigo의 어뢰에 피격·침몰 | 함정손실·해난 | 발생 | 문헌대조 | [SRC-1864](chronology-sources-v1.md) · [SRC-1865](chronology-sources-v1.md) |
+| EVT-3427 | 1941-04-17 | 유고슬라비아 왕국군 대표단이 추축국과 항복문서 체결(18일 효력시각 별도 검증) | 항복·발칸 | 발생 | 문헌대조 | [SRC-1863](chronology-sources-v1.md) |
 | EVT-0104 | 1941-05-02 | 영국·이라크 전쟁 발발 | 전쟁 | 발생 | 미등록 | — |
 | EVT-0105 | 1941-05-20 | 메르쿠어 작전: 독일의 크레타 공수침공 | 작전 | 발생 | 미등록 | — |
 | EVT-0106 | 1941-05-24 | 비스마르크 추격전: 후드 격침 | 해전 | 발생 | 미등록 | — |

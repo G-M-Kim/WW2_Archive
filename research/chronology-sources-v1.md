@@ -2091,6 +2091,10 @@ as_of: 2026-11-04
 | SRC-1861 | Soviet-Japanese Neutrality Pact / Yale Law School Avalon Project | 1차 조약문 웹전사 | 13Apr1941 Art1–4 neutrality, ratification requirement, Molotov/Matsuoka/Tatekawa | https://avalon.law.yale.edu/wwii/s1.asp | 원본 사본의 독립 교감본 아님, 비준완료/발효일은 서명일과 분리; 확인2026-11-04 |
 | SRC-1862 | Concerning the Pact of Neutrality / Japan Board of Information, Tokyo Gazette May1941 pp483–484 | 1차 당대 일본 정부 공보의 현대 AI 전사 | 4/13 발표 14:00 모스크바 서명 시각(다른 Gazette 15:00과 상충) | https://froginawell.net/reference/japan-docs/doc/tg-4-11-1941-5-01-announcement-neutrality-pact-japan-soviet-1941-04-13.html | 전사 사이트가 AI 미교정이라고 경고. 원 지면 사진 미대조, 시각 미확정·RQ 유지; 확인2026-11-04 |
 
+| SRC-1863 | Besetzung von Jugoslawien 1941 / Deutsches Historisches Museum LeMO | 2차 독일 역사박물관 해설 | 17Apr Sarajevo 일대 유고군 항복, 약344000 포로(전역 집계) | https://www.dhm.de/lemo/kapitel/der-zweite-weltkrieg/kriegsverlauf/besetzung-von-jugoslawien-1941 | 17일 서명·18일 효력 분리, 독일측 포로수 분모 미확인; 확인2026-11-04 |
+| SRC-1864 | Battle of the Tarigo Convoy / TheSecondWar.pl | 2차 민간 해전 기사 | 15일 밤~16일 새벽 Tarigo convoy, Mohawk 침몰 | https://thesecondwar.pl/en/battle-of-the-tarigo-convoy | 원 영·이탈리아 해군일지 미열람, 전사자 41/42/43명 이견; 확인2026-11-04 |
+| SRC-1865 | Battle of the Tarigo Convoy / Operations & Codenames of WWII | 3차 작전 개요 | 16Apr Tarigo 선단 전투·Mohawk 피격 | https://codenames.info/operation/battle-of-the-tarigo-convoy/ | 원문 독립확증 아님; 확인2026-11-04 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
