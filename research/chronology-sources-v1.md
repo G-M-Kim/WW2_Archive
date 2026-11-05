@@ -2141,6 +2141,8 @@ as_of: 2026-11-04
 
 | SRC-1898 | Haile Selassie I to Franklin D. Roosevelt, undated telegram, *FRUS* 1941 vol. III, eds. Sappington/Prescott/Carroll (US GPO, 1959), doc.313, p.348 | 1차 황제 명의 메시지(후대 미국 정부 편집본) | archival 884.001 Selassie I/371; 1941-05-09 영국 대사관 동봉 서한 경유 수령; 황제 원발신일 미상 | https://history.state.gov/historicaldocuments/frus1941v03/d313 | 2026-11-05 웹 전사 직접 확인; 5/9는 동봉 서한 날짜이지 황제 메시지 작성·발표일 아님. 원전보·영국 대사관 첨부 미열람, 입성식 연설로 단정 금지; 자체 요약·이미지 권리 별도 검토 |
 
+| SRC-1899 | Bundesarchiv, *Die Zerschlagung Jugoslawiens im Zweiten Weltkrieg in den Quellen des Heeres und der Waffen-SS*, 온라인 연구 안내, 발행연도 미표기 | 2차 기록관 자료안내(원작전일지 아님) | 유고슬라비아 점령 독일 육군·무장SS 기록의 접근 경로; 1941-05-06~08 산스키모스트 봉기를 직접 입증하지 않음 | https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/die-zerschlagung-jugoslawiens-im-zweiten-weltkrieg/ | 2026-11-05 웹 페이지 직접 확인. 원문 군일지·관련 현지 피해기록 미열람. 사진 BArch Bild 101I-185-0137-32는 해당 사건 사진으로 확인되지 않음; 이미지 재사용권 별도 확인; 연구 자체 요약 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
