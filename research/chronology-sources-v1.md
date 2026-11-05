@@ -2133,6 +2133,8 @@ as_of: 2026-11-04
 
 | SRC-1894 | Paul Knabenshue, Baghdad telegram no.117, 1941-05-07 13:00, received 1941-05-09 18:08, *Foreign Relations of the United States*, 1941, vol.III (US GPO, 1959), doc.527 | 1차 미국 외교전문(후대 편집본) | FRUS 1941 III, doc.527; 인쇄 쪽수 웹 화면에서 미확인 | https://history.state.gov/historicaldocuments/frus1941v03/d527 | 2026-11-05 웹 전사 원문 직접 확인. 외무부의 허용 통보는 공사의 보고이며 이라크 정부 원명령 미확인. 공사는 5/4 암호 및 기밀문서를 파기했다고 회고; 실제 통신 재개 여부와 각국 공관 적용은 미검증. 미국 정부 공개 전사 자체요약; 원문·이미지 별도 복제권 확인 필요 |
 
+| SRC-1895 | Archibald P. Wavell, 1942-10-18 제출 *Despatch on Operations in Iraq, East Syria and Iran*, *Supplement to The London Gazette* no.37685 (1946-08-14), pp.4093–4102 | 1차 영국군 지휘관 사후 공표 작전보고 | p.4094 §§9,12: 5/7 Quinan 바스라 도착·지휘 인수 및 제21인도여단 HQ 상륙, 5/6 Roberts 하바니야 지휘 인수 | https://www.thegazette.co.uk/London/issue/37685/data.pdf | 2026-11-05 PDF 공개본문 확인; 영국군 자체보고, 이라크측 원일지 미대조. HQ 상륙과 전 여단 투입·실병력 혼동 금지. 원고·사진 재배포 권리 별도 검토, 자체 요약 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
