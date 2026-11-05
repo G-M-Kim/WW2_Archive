@@ -2139,6 +2139,8 @@ as_of: 2026-11-04
 
 | SRC-1897 | U.S. Consul at Aden (Timberlake) to Secretary of State, Aden via Nairobi, 1941-05-08 (received May 9), *FRUS* 1941 vol. III (US GPO 편집본), doc.312 | 1차 당대 미국 영사 외교전문(후대 편집본) | 365D.1115/13, doc.312; 인쇄 페이지 웹 전사에서 미확인 | https://history.state.gov/historicaldocuments/frus1941v03/d312 | 2026-11-05 원문 전사 직접 확인. 5/5 황제 입성 기념식 초대 보고, 영국측 이탈리아 민간인 약 40,000명 **대피 지원 요청**(실제 이송 숫자 아님), 선교사 안전 전언. 현장 출석·대피 집행·실제 수송 명부 미확인. 미국 정부 공개 웹 전사, 재배포권 별도 확인; 자체 요약 |
 
+| SRC-1898 | Haile Selassie I to Franklin D. Roosevelt, undated telegram, *FRUS* 1941 vol. III, eds. Sappington/Prescott/Carroll (US GPO, 1959), doc.313, p.348 | 1차 황제 명의 메시지(후대 미국 정부 편집본) | archival 884.001 Selassie I/371; 1941-05-09 영국 대사관 동봉 서한 경유 수령; 황제 원발신일 미상 | https://history.state.gov/historicaldocuments/frus1941v03/d313 | 2026-11-05 웹 전사 직접 확인; 5/9는 동봉 서한 날짜이지 황제 메시지 작성·발표일 아님. 원전보·영국 대사관 첨부 미열람, 입성식 연설로 단정 금지; 자체 요약·이미지 권리 별도 검토 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
