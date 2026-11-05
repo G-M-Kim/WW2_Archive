@@ -208,3 +208,6 @@ updated_at: "YYYY-MM-DD"
 2026-11-05: [1941년 5월 9일 비시 시리아 항공기 지시 외교전문 감사](source-audit-1941-may09-syria-aircraft-batch1.md). 신규 EVT 1 / SRC 1 / RQ 1; 누적 3468/1903/1127. 실제 비행·발포는 미검증.
 
 2026-11-05: [1941년 5월 6일 지부티 봉쇄·항만/철도 이용 대안 검토 감사](source-audit-1941-may06-djibouti-options-batch1.md). 신규 1 EVT / 1 SRC / 1 RQ, 누적 3469/1904/1128. 미국 외교관의 간접 보고를 실제 봉쇄 명령·집행으로 확대하지 않음.
+
+
+2026-11-05 [지부티 5/2~11 후속 사료감사](source-audit-1941-may02-11-djibouti-followup-batch1.md): 신규 0 EVT / 2 SRC / 0 RQ, 누적 **3469 EVT / 1906 SRC / 1128 RQ**. 기존 상단 통계는 역사적 스냅샷으로 보존하며 최신 누적은 WORK_STATE 마지막 항목 우선. 5/4~9 세계 전역 미완료.
