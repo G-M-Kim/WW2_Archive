@@ -223,3 +223,5 @@ updated_at: "YYYY-MM-DD"
 2026-11-06 [5월 6일 버마 도로 물자수송 조정 미국 지시 감사](source-audit-1941-may06-burma-road-hull-batch1.md): 신규 **1 EVT (3471) / 1 SRC (1910) / 1 RQ (1132)**; 누적 **3471 EVT / 1910 SRC / 1132 RQ**. 실제 물자 수송·중국측 집행 미확인. 5/4~9 세계 전역 미완료.
 
 [2026-11-06 커리–래티모어 인사제안 사료감사](source-audit-1941-may06-currie-lattimore-batch1.md): FRUS V doc.675 직접 확인, EVT-3472/SRC-1911/RQ-1133 추가. 누적 **3472 EVT / 1911 SRC / 1133 RQ**. 본문 상단의 이전 수치는 과거 스냅샷이며 최신 집계는 WORK_STATE.md 하단 기록 참조. 5/4~9 부분 조사.
+
+[2026-11-06 5월 5일 헐–궈타이치 미중 경제·무역 성명 요청 감사](source-audit-1941-may05-hull-quo-economic-statement-batch1.md) : 신규 EVT-3473 / SRC-1912 / RQ-1134, 누적 **3473 EVT / 1912 SRC / 1134 RQ**. 중국측 요청과 미국측 실제 성명 공표 구분. 5/4~9 전세계 부분 조사.
