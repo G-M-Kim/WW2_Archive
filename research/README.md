@@ -204,3 +204,5 @@ updated_at: "YYYY-MM-DD"
 
 
 2026-11-05: [1941년 5월 5~7일 터키 중립외교·쿤밍 공습 항의 원문 감사](source-audit-1941-may05-07-turkey-kunming-batch1.md). 신규 EVT 2 / SRC 2 / RQ 2, 누적 3467/1902/1126. 전 세계 5/4~9 조사 미완료.
+
+2026-11-05: [1941년 5월 9일 비시 시리아 항공기 지시 외교전문 감사](source-audit-1941-may09-syria-aircraft-batch1.md). 신규 EVT 1 / SRC 1 / RQ 1; 누적 3468/1903/1127. 실제 비행·발포는 미검증.
