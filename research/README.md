@@ -211,3 +211,6 @@ updated_at: "YYYY-MM-DD"
 
 
 2026-11-05 [지부티 5/2~11 후속 사료감사](source-audit-1941-may02-11-djibouti-followup-batch1.md): 신규 0 EVT / 2 SRC / 0 RQ, 누적 **3469 EVT / 1906 SRC / 1128 RQ**. 기존 상단 통계는 역사적 스냅샷으로 보존하며 최신 누적은 WORK_STATE 마지막 항목 우선. 5/4~9 세계 전역 미완료.
+
+
+[1941-05-07 미영 인도정책 회담 사료감사](source-audit-1941-may07-india-halifax-batch1.md) · 신규 0 EVT / 1 SRC / 1 RQ; 최신 누적 **3469 EVT / 1907 SRC / 1129 RQ** (2026-11-05). 기존 상단 집계는 과거 스냅샷이며 최신 수치는 WORK_STATE 참조. 5/4~9 전 세계 미완료.
