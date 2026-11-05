@@ -201,3 +201,6 @@ updated_at: "YYYY-MM-DD"
 2026-11-05 추가: [5월 5~8일 에티오피아 민간인·입성 외교전문 감사](source-audit-1941-may05-08-ethiopia-civilians-batch1.md). 신규 0 EVT / 1 SRC / 1 RQ; 누적 3465/1897/1120. 수송 계획·실행 혼동 금지.
 
 - [1941년 5월 2~6일 이라크 영국군 증원 지시·민간인 공수피난·석유시설 사료감사](source-audit-1941-may02-06-iraq-directive-civilians-batch1.md): 0 EVT / 0 SRC / 1 RQ, 기존 SRC-1895 재사용; 계획 병력과 실투입 분리.
+
+
+2026-11-05: [1941년 5월 5~7일 터키 중립외교·쿤밍 공습 항의 원문 감사](source-audit-1941-may05-07-turkey-kunming-batch1.md). 신규 EVT 2 / SRC 2 / RQ 2, 누적 3467/1902/1126. 전 세계 5/4~9 조사 미완료.
