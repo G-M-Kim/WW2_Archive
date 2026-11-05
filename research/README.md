@@ -8,7 +8,7 @@ as_of: 2026-11-04
 
 **현재 범위: 1905–1947년, 3465개 후보 항목.** 현재 목록이 전체 사건을 망라한다는 뜻은 아니다. 전체 군사작전·교전·정치사건·피해자 사건까지 수록하려면 연표를 계속 확장해야 한다.
 
-[5월 8일경 이라크-터키 외교감사](source-audit-1941-may08-turkey-mediation-batch1.md) · [5월 8~9일 사료감사](source-audit-1941-may08-09-command-air-batch1.md) · [현재 상태·재개 기준](WORK_STATE.md) · [최신 사료감사](source-audit-1941-may04-06-batch1.md)
+[5월 5~8일 에티오피아·민간인 사료감사](source-audit-1941-may05-08-ethiopia-civilians-batch1.md) · [5월 8일경 이라크-터키 외교감사](source-audit-1941-may08-turkey-mediation-batch1.md) · [5월 8~9일 사료감사](source-audit-1941-may08-09-command-air-batch1.md) · [현재 상태·재개 기준](WORK_STATE.md) · [최신 사료감사](source-audit-1941-may04-06-batch1.md)
 
 이번 묶음: 신규1 EVT·1 SRC·2 RQ. **1941-05-04~06 부분 조사**(5/5 에티오피아 귀환만 검증, 이라크/기타 전역 미완료). 누적3455 EVT /1890 SRC /1110 RQ; 문헌대조3111·링크등록238·미등록106. 다음1941/5/4~6 누락 및 5/7~9.
 
@@ -36,7 +36,7 @@ as_of: 2026-11-04
 - [1939–1941: 개전, 초기 점령, 유럽·아시아·태평양 (3224개)](chronology-1939-1941.md)
 - [1942–1943: 전선 확대, 전환점, 비밀공작, 학살과 저항 (71개)](chronology-1942-1943.md)
 - [1944–1947: 최후 공세, 종전, 전범재판, 후속 국제질서 (85개)](chronology-1944-1947.md)
-- [출처 등록부 — 1896개 등록 (SRC-028·SRC-056 기존 중복 URL 별도 표시)](chronology-sources-v1.md)
+- [출처 등록부 — 1897개 등록 (SRC-028·SRC-056 기존 중복 URL 별도 표시)](chronology-sources-v1.md)
 - [사료 감사 보고서 1차 (기존 28 + 신규 4 사건)](source-audit-1905-1938-batch1.md)
 - [기존 출처 URL 표본 감사 8건 및 한국사 사료 확인](source-url-audit-batch1.md)
 - [전사 연표 남은 22개·신규 10개 항목 감사 보고서](source-audit-1905-1938-batch2.md)
@@ -193,3 +193,5 @@ updated_at: "YYYY-MM-DD"
 [1941년 5월 6~7일 하바니야 고지·아샤르 부분감사](source-audit-1941-may06-07-ground-batch2.md)
 
 2026-11-05 추가: [이라크-터키 중재 타진, 날짜 미확정 감사](source-audit-1941-may08-turkey-mediation-batch1.md). 신규 0 EVT / 1 SRC / 1 RQ, 누적 3465/1896/1119. 날짜 추정만으로 EVT 미등록.
+
+2026-11-05 추가: [5월 5~8일 에티오피아 민간인·입성 외교전문 감사](source-audit-1941-may05-08-ethiopia-civilians-batch1.md). 신규 0 EVT / 1 SRC / 1 RQ; 누적 3465/1897/1120. 수송 계획·실행 혼동 금지.

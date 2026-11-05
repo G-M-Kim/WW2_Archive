@@ -2137,6 +2137,8 @@ as_of: 2026-11-04
 
 | SRC-1896 | U.S. Ambassador J. V. A. MacMurray, Ankara telegram no.143, 1941-05-13 noon, *FRUS* 1941 vol.III (US GPO 편집본), doc.528, 740.0011 European War 1939/10893, p.508 | 1차 미국 외교전문(터키·영국 외교관 전언) | 이라크 전쟁장관 Naji Shawket의 약 5일 전 앙카라 도착 및 영국과의 중재 타진을 보고; 5/8경은 5/13 발신일로부터 환산한 추정 | https://history.state.gov/historicaldocuments/frus1941v03/d528 | 2026-11-05 웹 원문 직접 확인; 정확 입국일·터키·이라크 원외교문서 미확인; 미국 외교관의 간접정보이며 외교 성과 독립확증 아님; 정부 공개 전사 자체 요약, 편집본 재배포권 별도 확인 |
 
+| SRC-1897 | U.S. Consul at Aden (Timberlake) to Secretary of State, Aden via Nairobi, 1941-05-08 (received May 9), *FRUS* 1941 vol. III (US GPO 편집본), doc.312 | 1차 당대 미국 영사 외교전문(후대 편집본) | 365D.1115/13, doc.312; 인쇄 페이지 웹 전사에서 미확인 | https://history.state.gov/historicaldocuments/frus1941v03/d312 | 2026-11-05 원문 전사 직접 확인. 5/5 황제 입성 기념식 초대 보고, 영국측 이탈리아 민간인 약 40,000명 **대피 지원 요청**(실제 이송 숫자 아님), 선교사 안전 전언. 현장 출석·대피 집행·실제 수송 명부 미확인. 미국 정부 공개 웹 전사, 재배포권 별도 확인; 자체 요약 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
