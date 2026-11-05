@@ -2131,6 +2131,8 @@ as_of: 2026-11-04
 
 | SRC-1893 | Paul Knabenshue, Baghdad telegram no.116, 1941-05-05 19:00, received 1941-05-06 15:27, *Foreign Relations of the United States*, 1941, vol.III (US GPO, 1959), doc.526, pp.506–507 | 1차 미국 외교전문(후대 편집본) | 미국인 교직원·선교사 및 피난민 보호, 모술 소재 Willoughby 가족 소재 문의; 전문 114호 취소·115호 최종 발송 언급 | https://history.state.gov/historicaldocuments/frus1941v03/d526 | 2026-11-05 웹 전사 원문 직접 확인; 외무부의 안부 전달은 독립 안전 확인이 아니며 모술 가족 소재 미확인; 원수기록·학교명부 미대조; 미국 정부 공개 전사, 자체 요약 |
 
+| SRC-1894 | Paul Knabenshue, Baghdad telegram no.117, 1941-05-07 13:00, received 1941-05-09 18:08, *Foreign Relations of the United States*, 1941, vol.III (US GPO, 1959), doc.527 | 1차 미국 외교전문(후대 편집본) | FRUS 1941 III, doc.527; 인쇄 쪽수 웹 화면에서 미확인 | https://history.state.gov/historicaldocuments/frus1941v03/d527 | 2026-11-05 웹 전사 원문 직접 확인. 외무부의 허용 통보는 공사의 보고이며 이라크 정부 원명령 미확인. 공사는 5/4 암호 및 기밀문서를 파기했다고 회고; 실제 통신 재개 여부와 각국 공관 적용은 미검증. 미국 정부 공개 전사 자체요약; 원문·이미지 별도 복제권 확인 필요 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
