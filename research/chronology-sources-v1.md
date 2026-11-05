@@ -2135,6 +2135,8 @@ as_of: 2026-11-04
 
 | SRC-1895 | Archibald P. Wavell, 1942-10-18 제출 *Despatch on Operations in Iraq, East Syria and Iran*, *Supplement to The London Gazette* no.37685 (1946-08-14), pp.4093–4102 | 1차 영국군 지휘관 사후 공표 작전보고 | p.4094 §§9,12: 5/7 Quinan 바스라 도착·지휘 인수 및 제21인도여단 HQ 상륙, 5/6 Roberts 하바니야 지휘 인수 | https://www.thegazette.co.uk/London/issue/37685/data.pdf | 2026-11-05 PDF 공개본문 확인; 영국군 자체보고, 이라크측 원일지 미대조. HQ 상륙과 전 여단 투입·실병력 혼동 금지. 원고·사진 재배포 권리 별도 검토, 자체 요약 |
 
+| SRC-1896 | U.S. Ambassador J. V. A. MacMurray, Ankara telegram no.143, 1941-05-13 noon, *FRUS* 1941 vol.III (US GPO 편집본), doc.528, 740.0011 European War 1939/10893, p.508 | 1차 미국 외교전문(터키·영국 외교관 전언) | 이라크 전쟁장관 Naji Shawket의 약 5일 전 앙카라 도착 및 영국과의 중재 타진을 보고; 5/8경은 5/13 발신일로부터 환산한 추정 | https://history.state.gov/historicaldocuments/frus1941v03/d528 | 2026-11-05 웹 원문 직접 확인; 정확 입국일·터키·이라크 원외교문서 미확인; 미국 외교관의 간접정보이며 외교 성과 독립확증 아님; 정부 공개 전사 자체 요약, 편집본 재배포권 별도 확인 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
