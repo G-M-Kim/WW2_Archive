@@ -2143,6 +2143,8 @@ as_of: 2026-11-04
 
 | SRC-1899 | Bundesarchiv, *Die Zerschlagung Jugoslawiens im Zweiten Weltkrieg in den Quellen des Heeres und der Waffen-SS*, 온라인 연구 안내, 발행연도 미표기 | 2차 기록관 자료안내(원작전일지 아님) | 유고슬라비아 점령 독일 육군·무장SS 기록의 접근 경로; 1941-05-06~08 산스키모스트 봉기를 직접 입증하지 않음 | https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/die-zerschlagung-jugoslawiens-im-zweiten-weltkrieg/ | 2026-11-05 웹 페이지 직접 확인. 원문 군일지·관련 현지 피해기록 미열람. 사진 BArch Bild 101I-185-0137-32는 해당 사건 사진으로 확인되지 않음; 이미지 재사용권 별도 확인; 연구 자체 요약 |
 
+| SRC-1900 | uboat.net, *Ships hit by U-boats: Queen Maud*, 개별 저자·게시일 미확인, 온라인 선박피해 데이터베이스 | 2차 편찬자료(원 KTB·Admiralty 원기록 아님) | 1941-05-05 영국 상선 Queen Maud(4,976 GRT) U-38 격침, OB-309 이탈, 1명 사망·43명 생존·Mirandella 구조라는 편찬 주장; 인쇄 페이지 없음 | https://uboat.net/allies/merchants/900.html | 2026-11-05 페이지 직접 확인; 원독일 잠수함일지·영국 손실카드·구조선 기록 미열람. 공격시각·좌표·피해 인원 독립확증 전 EVT 보류. 사진/전문 재배포 권리 미확인, 자체 요약 |
+
 ## 출처의 권위에 대한 주의
 
 - 정부 문서에는 당사자 편향이 있고, 재판 증언에는 사후 기억의 한계가 있다.
