@@ -189,3 +189,5 @@ updated_at: "YYYY-MM-DD"
 본 문서는 `draft/chronology-index-v1` 브랜치에서만 작성했다. GitHub Pages는 `main` 배포 흐름을 사용하므로, **Pull Request 승인·병합 전에는 공개 백과사전에 게시하지 않는다.**
 
 [1941년 5월 6~7일 지휘권 사료감사](source-audit-1941-may06-07-command-batch1.md)
+
+[1941년 5월 6~7일 하바니야 고지·아샤르 부분감사](source-audit-1941-may06-07-ground-batch2.md)
