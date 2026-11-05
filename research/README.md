@@ -214,3 +214,6 @@ updated_at: "YYYY-MM-DD"
 
 
 [1941-05-07 미영 인도정책 회담 사료감사](source-audit-1941-may07-india-halifax-batch1.md) · 신규 0 EVT / 1 SRC / 1 RQ; 최신 누적 **3469 EVT / 1907 SRC / 1129 RQ** (2026-11-05). 기존 상단 집계는 과거 스냅샷이며 최신 수치는 WORK_STATE 참조. 5/4~9 전 세계 미완료.
+
+
+2026-11-06 [팔레스타인 5/6~8 와이즈 방위부대 요청 외교서한 감사](source-audit-1941-may06-08-palestine-wise-batch1.md): 신규 0 EVT / 1 SRC / 1 RQ, 최신 누적 **3469 EVT / 1908 SRC / 1130 RQ**. 5/6 요청·5/8 전달과 실제 부대 창설을 구분. 전 세계 5/4~9 미완료.
