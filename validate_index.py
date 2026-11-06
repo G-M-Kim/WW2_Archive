@@ -140,13 +140,28 @@ def main() -> int:
         if not backlog_ids:
             errors.append("research backlog contains no tasks")
 
+    # Root tables are canonical; research/ copies must not diverge silently.
+    # The 2026-11-07 audit found different recent IDs in each location.
+    mirror_files = (
+        "chronology-1939-1941.md",
+        "chronology-sources-v1.md",
+        "research-backlog.md",
+    )
+    for name in mirror_files:
+        canonical = ROOT / name
+        mirror = ROOT / "research" / name
+        if not mirror.is_file():
+            errors.append(f"missing research mirror: research/{name}")
+        elif canonical.read_bytes() != mirror.read_bytes():
+            errors.append(f"research/{name} differs from canonical root file")
+
     print(f"Checked {len(event_ids)} event records in {len(event_files)} files")
     print(f"Statuses: {dict(stats)}, source IDs: {len(source_ids)}, backlog tasks: {len(backlog_ids)}")
     if errors:
         for issue in errors:
             print("ERROR:", issue)
         return 1
-    print("PASS: structure, references, dates and IDs (NOT independent historical verification)")
+    print("PASS: structure, references, dates, IDs and research mirrors (NOT independent historical verification)")
     return 0
 
 

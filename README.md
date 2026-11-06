@@ -221,3 +221,7 @@ updated_at: "YYYY-MM-DD"
 [5월 7~8일 커리–우만스키 미소 대중국원조 회담 감사](source-audit-1941-may07-08-currie-umansky-batch1.md) · 2026-11-06 추가 **1 EVT (3470) / 1 SRC (1909) / 1 RQ (1131)**; 누적 **3470 EVT / 1909 SRC / 1131 RQ**. 5/4~9 전 세계 조사 미완료, 앞선 본문 수치는 과거 스냅샷.
 
 2026-11-06 [5월 6일 버마 도로 물자수송 조정 미국 지시 감사](source-audit-1941-may06-burma-road-hull-batch1.md): 신규 **1 EVT (3471) / 1 SRC (1910) / 1 RQ (1132)**; 누적 **3471 EVT / 1910 SRC / 1132 RQ**. 실제 물자 수송·중국측 집행 미확인. 5/4~9 세계 전역 미완료.
+
+## 조사 초안 작업
+
+[현재 진도](WORK_STATE.md) · [연구 색인 안내](research/README.md) · [5월14~20일 사료감사](source-audit-1941-may14-20-batch1.md)

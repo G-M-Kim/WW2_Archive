@@ -1,3 +1,15 @@
+# 최신 연구 안내 — 2026-11-07
+
+**5월14~20일 선별 색인, 다음5월21일. 3514 EVT /1947 SRC /1164 RQ.**
+
+- [작업 상태 정본](../WORK_STATE.md) · [이번 사료감사](../source-audit-1941-may14-20-batch1.md)
+- [사건 연표 정본](../chronology-1939-1941.md) · [출처 정본](../chronology-sources-v1.md) · [백로그 정본](../research-backlog.md)
+- [브레비티 상세](../operation-brevity-1941-may-draft.md) · [크레타 첫날 상세](../operation-merkur-1941-may20-draft.md)
+
+기본 조사기간은1주, 저밀도는2~4주 이상이다. 중요 전역은 일별 기록을 배치 안에서 병행한다. 아래는 과거 스냅샷이며 누적 수·다음 날짜·상대링크는 현재 운영 정본보다 우선하지 않는다.
+
+---
+
 ---
 title: 제2차 세계대전 사건 색인 — 1차 검토안
 status: review-draft
