@@ -78,3 +78,5 @@
 - 2026-11-06: [5/5 아이티–미국 농업·고무 개발 원칙합의 공표 원문 감사](source-audit-1941-may05-haiti-rubber-cooperation-batch1.md). FRUS VII doc.302 archival 838.51 Cooperation Program/3, p.367 표식 직접 확인. 5/5 원칙합의 발표와 계약·집행·생산 실적 구분; 아이티측 원문·후속 doc.303 미대조로 신규 **0 EVT / 0 SRC / 0 RQ**, 누적 **3474/1913/1135 유지**. 5/4~9 전세계 미완료. 다음 5/4~6 유고·중국·대서양 원전 및 아이티 후속 자료, 이후 5/7~9.
 
 - 2026-11-06: [아이티 5/5 고무개발 원칙합의와 8/15 계약·9/6 회신 후속감사](source-audit-1941-may05-haiti-rubber-followup-doc303-batch1.md). FRUS VII doc.303 직접 확인: 8/15 계약은 9/6 외교서한에서 언급, 8/26 아이티측 원서한 미수록. 신규 **0 EVT / 0 SRC / 0 RQ**, 누적 **3474/1913/1135 유지**. 5/4~9 세계 전역 미완료. 다음 5/4~6 유고·중국·대서양 원전, 이후 5/7~9.
+
+- 2026-11-06: [5/6~9 산스키모스트 봉기 후대 웹자료 독립성 감사](source-audit-1941-may06-09-sanski-most-derivative-crosscheck-batch1.md). Wikipedia·BunkerAtlas 서술 유사로 독립 교차검증 불인정; Bokan/Đurđev/Dodik 원문 미열람, RQ-1123 open. 신규 **0 EVT / 0 SRC / 0 RQ**, 누적 **3474/1913/1135 유지**. 5/4~9 전세계 미완료; 다음 5/4~6 중국·대서양 원전 및 유고 현지 원자료, 5/7~9 잔여.
