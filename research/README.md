@@ -227,3 +227,5 @@ updated_at: "YYYY-MM-DD"
 [2026-11-06 5월 5일 헐–궈타이치 미중 경제·무역 성명 요청 감사](source-audit-1941-may05-hull-quo-economic-statement-batch1.md) : 신규 EVT-3473 / SRC-1912 / RQ-1134, 누적 **3473 EVT / 1912 SRC / 1134 RQ**. 중국측 요청과 미국측 실제 성명 공표 구분. 5/4~9 전세계 부분 조사.
 
 - 2026-11-06: [5/3 커리–혼벡 충칭 암호통신·5/5 회부일 구분 원문 감사](source-audit-1941-may03-currie-chungking-communications-batch1.md). FRUS V doc.673 [p.643] 웹 전사 확인. 작성일·회부일·실제 발신/수신을 분리; 원첨부·중국측 원전 및 연표 전체 중복검사 전 신규 EVT/SRC/RQ **0/0/0**. 누적 **3473/1912/1134 유지**. 다음: 5/4~6 중국·유고·대서양, 5/7~9 잔여.
+
+[2026-11-06 버마 로드 폐쇄설(4/30 장제스 면담·5/9 영국 대사 발언) 교차 감사](source-audit-1941-apr30-may09-burma-road-rumor-crosscheck-batch1.md) — 신규 EVT/SRC/RQ 0/0/0, 누적 3473/1912/1134, 세계 전역 5/4~9 미완료.
