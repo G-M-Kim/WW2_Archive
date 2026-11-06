@@ -72,3 +72,5 @@
 - 2026-11-06: [5/5 중국 경제·무역 성명 요청의 5/13 Young 전시경제 진단 후속감사](source-audit-1941-may05-china-finance-young-may13-followup-batch1.md). FRUS V doc.679 원문 전사 직접 확인. 5/5 요청과 5/13 경제정책 메모 분리, Young 추산 통계 독립검증 전 확정 금지. 신규 EVT/SRC/RQ **0/0/0**, 누적 **3474/1913/1135 유지**. RQ-1134 open. 5/4~9 전세계 미완료; 다음 5/4~6 중국·유고·대서양 누락 및 5/7~9 잔여.
 
 - 2026-11-06: [쿤밍 5/2 지시·5/6 각서·5/7 구두항의 교차감사](source-audit-1941-may02-07-kunming-frus-crosscheck-batch1.md). FRUS V docs.949–950 원문 전사 직접 확인, 기존 EVT-3467/SRC-1902와 대조. 신규 **0 EVT / 0 SRC / 0 RQ**, 누적 **3474/1913/1135 유지**; RQ-1126 open. 5/4~9 전세계 미완료. 다음 5/4~6 유고·대서양·중국 원자료, 이후 5/7~9.
+
+- 2026-11-06: [5/5 Queen Maud 격침·5/7 Mirandella 접촉·5/8 상륙의 후대자료 교차감사](../source-audit-1941-may05-queen-maud-batch1.md). Carlos Guerreiro(2019)와 uboat.net을 대조: Mirandella 실제 승선 구조 여부, 피격시각 08:03/11:05, 프리타운 거리 불일치 확인. 1차 KTB·Mirandella/Dragon 항해일지 미열람으로 확정 보류. **0 EVT / 0 SRC / 0 RQ**, 누적 **3474/1913/1135 유지**, RQ-1124 open. 5/4~9 세계 전역 미완료; 다음 5/4~6 유고·중국·대서양 원자료, 5/7~9 잔여.
