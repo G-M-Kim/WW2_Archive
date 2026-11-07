@@ -2234,3 +2234,7 @@ as_of: 2026-11-04
 | SRC-1969 | Hull → Umansky, 1941-06-10, FRUS 1941 I doc.616 | 1차 외교문서 후대 편집 전사 | doc.616 | https://history.state.gov/historicaldocuments/frus1941v01/d616 | 2026-11-07 선행 batch3 감사 확인. 철수 요구와 실제 출국·혐의 확증 구분 |
 | SRC-1970 | Hull → Portugal, 1941-06-10, FRUS 1941 II doc.840 | 1차 외교문서 후대 편집 전사 | doc.840 | https://history.state.gov/historicaldocuments/frus1941v02/d840 | 2026-11-07 선행 batch3 감사 확인. 미국 회신과 도서 점령 실행 구분 |
 | SRC-1971 | Mallon, Léopoldville 1941-06-10, FRUS 1941 II doc.508 | 1차 외교문서 후대 편집 전사 | doc.508 | https://history.state.gov/historicaldocuments/frus1941v02/d508 | 2026-11-07 선행 batch3 감사 확인. with [without?] 원문 교감 불확실; 요청과 실제 지원 구분 |
+
+| SRC-1972 | Knabenshue → Hull, Baghdad 1941-06-04, FRUS 1941 III doc.534 | 1차 미국 외교전보 후대 편집 전사 | doc.534, 390G.1115/36 | https://history.state.gov/historicaldocuments/frus1941v03/d534 | 2026-11-07 본문 직접 확인; 미국 공사의 영국측 보고·자체 관찰 혼재. 유대인 피해 수치·명부 미확인; 6/4 전보 날짜와 폭력 발생일 구분 |
+| SRC-1973 | Leahy → Hull, Vichy 1941-06-04, FRUS 1941 II doc.143 | 1차 미국 외교전보 발췌 편집 전사 | doc.143, 711.51/157 | https://history.state.gov/historicaldocuments/frus1941v02/d143 | 2026-11-07 본문 직접 확인; [Extract] 생략 있음, 페탱·다를랑 발언은 레이히의 기록이며 비시 원의사록 미대조; 6/5 수신일 구별 |
+| SRC-1974 | Kirk → Hull, Cairo 1941-06-08, FRUS 1941 III doc.769 | 1차 미국 외교전보에 수록된 예정 선언문 전사 | doc.769, 740.0011 European War 1939/11765 | https://history.state.gov/historicaldocuments/frus1941v03/d769 | 2026-11-07 본문 직접 확인; 6/9 미국 수신. 전보의 'to be made' 예정안이지 현장 낭독·주권 성립 증빙 아님. 영국 Cmd.6600 원문 미대조 |
