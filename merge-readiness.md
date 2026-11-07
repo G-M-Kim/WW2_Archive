@@ -1,3 +1,9 @@
+# 2026-11-07 6월10일 외교문서 batch4 병합 판단
+
+4 EVT / 4 SRC / 2 RQ 신규, 누적 3546 / 1971 / 1180. [감사](source-audit-1941-jun10-batch4.md). 원문 교차검증·세계사 누락 미완료. **Draft PR #1 병합 보류**. main/docs/Pages 변경 없음. 신규 HEAD CI 결과 확인 필요.
+
+---
+
 # 2026-11-07 레반트 6/7~9 batch2 병합 판단
 
 신규 2 EVT / 2 SRC / 1 RQ, 누적 **3542 EVT / 1967 SRC / 1178 RQ**. 기존 EVT-0108 보강. [감사](source-audit-1941-jun07-09-batch2.md). 원여단일지·비시 원문 및 세계 지역 누락 미완료. **Draft PR #1 병합 비추천**, main/docs/Pages 변경 없음. 구조 CI는 해당 HEAD 결과 확인 전 성공으로 간주하지 않는다.

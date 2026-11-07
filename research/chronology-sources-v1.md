@@ -2229,3 +2229,8 @@ as_of: 2026-11-04
 | SRC-1965 | 독일 OKW 정치위원 처리 지침(1941-06-06), GHDI 전사 | 1차 군령 후대 전사 | OKW No.44822/41; NARA RG238m Entry175 Box27 NOKW-1076 | https://germanhistorydocs.org/en/nazi-germany-1933-1945/ghdi:document-1548 | 2026-11-07 독·영 전사 확인; 원면·현장 집행 미대조 |
 | SRC-1966 | David Sutton, *Operation Exporter*, Australian War Memorial, 2021-07-12 | 2차(전쟁기념관 역사연구) | 1941-06-07~08 개시; 호주 제21·25여단 및 영·인도·자유프랑스 3축 | https://www.awm.gov.au/wartime/95/article-one | 2026-11-07 본문 확인. 공식전사 인용 기반 후대 해설이며 작전명령·여단 전투일지 원면 미확인. 총인원·피해 숫자 독립 검증 전 채택 안함 |
 | SRC-1967 | Australian War Memorial, *80th anniversary of the start of the Syrian Campaign*, 기관 전역연표 | 2차(전쟁기념관 사건연표) | 1941-06-07~08 침공 및 티레 진입, 06-09 리타니강 전투; 전역 연표 | https://www.awm.gov.au/syrian-campaign | 2026-11-07 직접 확인. 공식 해설이나 1차 부대일지 아님; 야간 사건의 7일/8일 표기 차이 보존 |
+
+| SRC-1968 | Hull → Leahy, 1941-06-10 22:00, FRUS 1941 III doc.775 | 1차 외교문서 후대 편집 전사 | doc.775 | https://history.state.gov/historicaldocuments/frus1941v03/d775 | 2026-11-07 선행 batch3 감사 확인. 지시와 접견 완료 구분; 비시 원문 미대조 |
+| SRC-1969 | Hull → Umansky, 1941-06-10, FRUS 1941 I doc.616 | 1차 외교문서 후대 편집 전사 | doc.616 | https://history.state.gov/historicaldocuments/frus1941v01/d616 | 2026-11-07 선행 batch3 감사 확인. 철수 요구와 실제 출국·혐의 확증 구분 |
+| SRC-1970 | Hull → Portugal, 1941-06-10, FRUS 1941 II doc.840 | 1차 외교문서 후대 편집 전사 | doc.840 | https://history.state.gov/historicaldocuments/frus1941v02/d840 | 2026-11-07 선행 batch3 감사 확인. 미국 회신과 도서 점령 실행 구분 |
+| SRC-1971 | Mallon, Léopoldville 1941-06-10, FRUS 1941 II doc.508 | 1차 외교문서 후대 편집 전사 | doc.508 | https://history.state.gov/historicaldocuments/frus1941v02/d508 | 2026-11-07 선행 batch3 감사 확인. with [without?] 원문 교감 불확실; 요청과 실제 지원 구분 |

@@ -1,3 +1,3 @@
-# 작업상태
+# 연구 진행상태 안내
 
-최신 정본은 [루트 WORK_STATE.md](../WORK_STATE.md) 참조.
+최신 정본은 루트 [WORK_STATE.md](../WORK_STATE.md)를 참조. 연구 연표·출처·백로그 3개 미러는 루트 정본과 바이트 일치.
