@@ -1,3 +1,9 @@
+# 2026-11-07 레반트 6/7~9 batch2 병합 판단
+
+신규 2 EVT / 2 SRC / 1 RQ, 누적 **3542 EVT / 1967 SRC / 1178 RQ**. 기존 EVT-0108 보강. [감사](source-audit-1941-jun07-09-batch2.md). 원여단일지·비시 원문 및 세계 지역 누락 미완료. **Draft PR #1 병합 비추천**, main/docs/Pages 변경 없음. 구조 CI는 해당 HEAD 결과 확인 전 성공으로 간주하지 않는다.
+
+---
+
 # 2026-11-07 크레타 5/28~6/3 1차 배치 이후 병합 판단
 
 신규 6 EVT / 3 SRC / 2 RQ, 누적 **3538 EVT / 1962 SRC / 1175 RQ**. [감사](source-audit-1941-may28-jun03-batch1.md). 6/2~3 및 크레타 외 전세계 조사 미완료. **Draft PR #1 병합 보류**. 구조 CI 및 사료 독립검증은 별도; main/docs/Pages 변경 금지.
