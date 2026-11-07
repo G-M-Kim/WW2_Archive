@@ -155,6 +155,83 @@ def main() -> int:
         elif canonical.read_bytes() != mirror.read_bytes():
             errors.append(f"research/{name} differs from canonical root file")
 
+    # Continuous-research guard: a selective period is completed on first pass,
+    # while missing events and source verification stay in BACKFILL_QUEUE/RQ.
+    # This checks workflow integrity, NOT historical correctness.
+    ledger = ROOT / "research" / "PROGRESS_LEDGER.md"
+    work_state = ROOT / "WORK_STATE.md"
+    if not ledger.is_file():
+        errors.append("missing research/PROGRESS_LEDGER.md")
+    elif not work_state.is_file():
+        errors.append("missing authoritative WORK_STATE.md")
+    else:
+        text = ledger.read_text(encoding="utf-8")
+        rows = []
+        for n, line in enumerate(text.splitlines(), 1):
+            if not re.match(r"^\| \d{4}-\d{2}-\d{2} \|", line):
+                continue
+            c = parse_row(line)
+            if len(c) != 9:
+                errors.append(f"PROGRESS_LEDGER.md:{n}: expected 9 cells")
+                continue
+            recorded, mode, period, before, after, delta, totals, audit, note = c
+            rows.append((n, recorded, mode, period, before, after, delta, totals, audit, note))
+        if not rows:
+            errors.append("no progress-ledger entries")
+        else:
+            previous = None
+            for n, recorded, mode, period, before, after, delta, totals, audit, note in rows:
+                for name, value in (("recorded", recorded), ("before", before), ("after", after)):
+                    try:
+                        date.fromisoformat(value)
+                    except ValueError:
+                        errors.append(f"PROGRESS_LEDGER.md:{n}: bad {name} date {value}")
+                if mode not in {"forward", "backfill", "recovery"}:
+                    errors.append(f"PROGRESS_LEDGER.md:{n}: bad mode {mode}")
+                match = re.fullmatch(r"(\d{4}-\d{2}-\d{2})\.\.(\d{4}-\d{2}-\d{2})", period)
+                if not match:
+                    errors.append(f"PROGRESS_LEDGER.md:{n}: bad date range {period}")
+                elif match.group(1) > match.group(2):
+                    errors.append(f"PROGRESS_LEDGER.md:{n}: reversed date range")
+                if previous and before != previous:
+                    errors.append(f"PROGRESS_LEDGER.md:{n}: cursor before {before} != prior after {previous}")
+                if mode in {"forward", "recovery"}:
+                    if not before < after:
+                        errors.append(f"PROGRESS_LEDGER.md:{n}: forward cursor did not advance")
+                    if match and match.group(1) != before:
+                        errors.append(f"PROGRESS_LEDGER.md:{n}: forward period must start at cursor")
+                    if match:
+                        try:
+                            from datetime import timedelta
+                            next_date = (date.fromisoformat(match.group(2)) + timedelta(days=1)).isoformat()
+                            if after != next_date:
+                                errors.append(f"PROGRESS_LEDGER.md:{n}: after cursor must equal period end + 1")
+                        except ValueError:
+                            pass
+                elif mode == "backfill" and before != after:
+                    errors.append(f"PROGRESS_LEDGER.md:{n}: backfill must not move forward cursor")
+                if not re.fullmatch(r"\d+/\d+/\d+", delta):
+                    errors.append(f"PROGRESS_LEDGER.md:{n}: bad new-EVT/SRC/RQ triple")
+                if not re.fullmatch(r"\d+/\d+/\d+", totals):
+                    errors.append(f"PROGRESS_LEDGER.md:{n}: bad total triple")
+                if not audit.endswith(".md") or not (ROOT / audit).is_file():
+                    errors.append(f"PROGRESS_LEDGER.md:{n}: audit file not found {audit}")
+                previous = after
+
+            state_text = work_state.read_text(encoding="utf-8")
+            cursor_match = re.search(r"(?m)^FORWARD_CURSOR:\s*(\d{4}-\d{2}-\d{2})\s*$", state_text)
+            if not cursor_match:
+                errors.append("WORK_STATE.md: missing single authoritative FORWARD_CURSOR line")
+            elif cursor_match.group(1) != rows[-1][5]:
+                errors.append(f"WORK_STATE.md: cursor differs from ledger latest {rows[-1][5]}")
+            if len(re.findall(r"(?m)^FORWARD_CURSOR:", state_text)) != 1:
+                errors.append("WORK_STATE.md: duplicate active FORWARD_CURSOR lines")
+            ledger_total = rows[-1][7]
+            if ledger_total != f"{len(event_ids)}/{len(source_ids)}/{len(backlog_ids)}":
+                errors.append(f"PROGRESS_LEDGER.md: totals mismatch: {ledger_total} vs actual {len(event_ids)}/{len(source_ids)}/{len(backlog_ids)}")
+            if any(rows[i][2] == "backfill" and rows[i-1][2] == "backfill" for i in range(1, len(rows))):
+                errors.append("PROGRESS_LEDGER.md: consecutive backfill runs prohibited; return to forward research first")
+
     print(f"Checked {len(event_ids)} event records in {len(event_files)} files")
     print(f"Statuses: {dict(stats)}, source IDs: {len(source_ids)}, backlog tasks: {len(backlog_ids)}")
     if errors:
