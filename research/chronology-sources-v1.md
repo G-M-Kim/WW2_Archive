@@ -2281,3 +2281,8 @@ as_of: 2026-11-04
 
 | SRC-2013 | US Department of State, FRUS 1941 I doc.736, Welles memorandum, 1941-07-03 | 1차 미국 외교면담기록 후대 편집 전사 | FRUS 1941 I doc.736 | https://history.state.gov/historicaldocuments/frus1941v01/d736 | 2026-11-08 본문 직접 확인. 소련 대사의 만족 표현·9개 요청 중 비군사 항목 호의적 전망만 기록; 실제 승인·선적 증거 아님. 원 9항목 각서는 편집주석상 국무부 파일에서 미발견 |
 | SRC-2014 | US Department of State, FRUS 1941 I doc.737, Welles memorandum, 1941-07-03 | 1차 미국 외교면담기록 후대 편집 전사 | FRUS 1941 I doc.737 | https://history.state.gov/historicaldocuments/frus1941v01/d737 | 2026-11-08 본문 직접 확인. 일본의 중립조약 파기·대소 개전 가능성은 미국 측 미확증 정보보고로, 일본 내각의 실제 결정이나 전쟁 개시를 증명하지 않음 |
+| SRC-2015 | FRUS 1941 I doc.738, Welles, 1941-07-07 | 1차 외교문서 후대 편집 전사 | 861.24/514½ | https://history.state.gov/historicaldocuments/frus1941v01/d738 | 2026-11-08 직접 확인; 긴급 9개 항목 세부목록·비긴급 목록 접수; 계약·선적 미확인 |
+| SRC-2016 | FRUS 1941 IV doc.200, Welles to Winant, 1941-07-07 | 1차 외교문서 후대 편집 전사 | 740.0011 European War 1939/12771 | https://history.state.gov/historicaldocuments/frus1941v04/d200 | 2026-11-08 직접 확인; 일본 북진·남진·미결정의 상충 정보 보고 |
+| SRC-2017 | FRUS 1941 IV doc.199, Hamilton, 1941-07-07 | 1차 외교문서 후대 편집 전사 | 711.94/2178 5/18 | https://history.state.gov/historicaldocuments/frus1941v04/d199 | 2026-11-08 직접 확인; 6월30일 전화·보도 대응의 7월7일 기록; 발표 아님 |
+| SRC-2018 | FRUS 1941 IV doc.202, Ballantine, 1941-07-08 | 1차 외교문서 후대 편집 전사 | 711.94/2178 7/18 | https://history.state.gov/historicaldocuments/frus1941v04/d202 | 2026-11-08 직접 확인; 일본 단체 결성 신문보도 분석; 실제 정책 미확인 |
+| SRC-2019 | FRUS 1941 IV doc.203, Grew, 1941-07-08 | 1차 외교문서 후대 편집 전사 | 894.20211 Tachibana Itaru/23 | https://history.state.gov/historicaldocuments/frus1941v04/d203 | 2026-11-08 직접 확인; 조선 미국인 선교사 서약서 문제 면담; 총독부 실제 조치 미확인 |
