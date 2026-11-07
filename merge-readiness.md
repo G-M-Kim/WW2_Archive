@@ -1,3 +1,9 @@
+# 2026-11-07 미국 법령 batch6 병합 판단
+
+신규 2 EVT / 2 SRC / 1 RQ, 누적 3551 / 1976 / 1183. [감사](source-audit-1941-jun06-10-batch6.md). 원면·집행기록 및 지역 누락 미검증. Draft PR 병합 보류. main/docs/Pages 불변. 새 HEAD CI 확인 필요.
+
+---
+
 # 2026-11-07 6월10일 외교문서 batch4 병합 판단
 
 4 EVT / 4 SRC / 2 RQ 신규, 누적 3546 / 1971 / 1180. [감사](source-audit-1941-jun10-batch4.md). 원문 교차검증·세계사 누락 미완료. **Draft PR #1 병합 보류**. main/docs/Pages 변경 없음. 신규 HEAD CI 결과 확인 필요.
