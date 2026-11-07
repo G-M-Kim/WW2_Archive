@@ -2278,3 +2278,6 @@ as_of: 2026-11-04
 | SRC-2010 | US Department of State, FRUS 1941 I doc.732, Curtis, June 30 | 1차 미국 정책각서 후대 편집 전사 | FRUS I doc.732 | https://history.state.gov/historicaldocuments/frus1941v01/d732 | 2026-11-08 본문 확인; 위원회 제안·웰스 승인 표시, 실제 수출 미확인 |
 | SRC-2011 | US Department of State, FRUS 1941 I doc.734, Welles, June 30 | 1차 미국 면담기록 후대 편집 전사 | FRUS I doc.734 | https://history.state.gov/historicaldocuments/frus1941v01/d734 | 2026-11-08 본문 확인; 9항목 요청 원문 미발견·5년 신용 문의는 승인 아님 |
 | SRC-2012 | US Department of State, FRUS 1941 I doc.735, Henderson, July 2 | 1차 미국 면담기록 후대 발췌 편집 전사 | FRUS I doc.735 | https://history.state.gov/historicaldocuments/frus1941v01/d735 | 2026-11-08 본문 확인; 7월1일 면담·7월2일 문서, 실행 미확인 |
+
+| SRC-2013 | US Department of State, FRUS 1941 I doc.736, Welles memorandum, 1941-07-03 | 1차 미국 외교면담기록 후대 편집 전사 | FRUS 1941 I doc.736 | https://history.state.gov/historicaldocuments/frus1941v01/d736 | 2026-11-08 본문 직접 확인. 소련 대사의 만족 표현·9개 요청 중 비군사 항목 호의적 전망만 기록; 실제 승인·선적 증거 아님. 원 9항목 각서는 편집주석상 국무부 파일에서 미발견 |
+| SRC-2014 | US Department of State, FRUS 1941 I doc.737, Welles memorandum, 1941-07-03 | 1차 미국 외교면담기록 후대 편집 전사 | FRUS 1941 I doc.737 | https://history.state.gov/historicaldocuments/frus1941v01/d737 | 2026-11-08 본문 직접 확인. 일본의 중립조약 파기·대소 개전 가능성은 미국 측 미확증 정보보고로, 일본 내각의 실제 결정이나 전쟁 개시를 증명하지 않음 |
