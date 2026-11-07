@@ -2241,3 +2241,9 @@ as_of: 2026-11-04
 
 | SRC-1975 | Roosevelt, Executive Order 8771, 1941-06-06 | 1차 행정명령 후대 전사 | EO 8771, Federal Register 6/7 p.2759 | https://www.presidency.ucsb.edu/documents/executive-order-8771-authorizing-the-united-states-maritime-commission-take-over-certain | 2026-11-07 확인; 실제 선박 인수·운항 미검증 |
 | SRC-1976 | Roosevelt, Proclamation 2492, 1941-06-10 | 1차 대통령 포고 후대 전사 | Proclamation 2492 | https://www.presidency.ucsb.edu/documents/proclamation-2492-control-the-export-certain-articles-and-materials | 2026-11-07 확인; 7/2 시행과 실제 통관·허가 구분 |
+
+| SRC-1977 | Australian War Memorial, Syrian Campaign 80th anniversary timeline | 호주 전쟁기념관 후대 공식 전역 개요 | 6/11,14,15 시리아·레바논 전역 날짜 | https://www.awm.gov.au/syrian-campaign | 2026-11-07 기관 공식 연표 확인; 현장 전쟁일지/비시측 원자료 미대조, 날짜·세부 부대 교차 필요 |
+| SRC-1978 | Roosevelt, Executive Order 8785, 1941-06-14 | 1차 미국 대통령 행정명령 후대 전사 | EO 8785, §1·§3 | https://www.presidency.ucsb.edu/documents/executive-order-8785-regulating-transactions-foreign-exchange-and-foreign-owned-property | 2026-11-07 조문 직접 확인; 대상국별 시행일과 재무부 일반/특별허가 예외 구분; 개별 자산압류 집행 미확인 |
+| SRC-1979 | Hull to Steinhardt, 1941-06-15, FRUS 1941 I doc.720 | 1차 미국 외교전보 후대 편집 전사 | FRUS 1941 I doc.720, 840.51 Frozen Credits/1958b | https://history.state.gov/historicaldocuments/frus1941v01/d720 | 2026-11-07 전보 직접 확인; 6/19 일반허가 예고와 실제 발급 구분, 소련 외교부 회신 미확인 |
+| SRC-1980 | Welles for Hull to German Chargé Thomsen, 1941-06-16, FRUS 1941 II doc.588 | 1차 미국 외교공한 후대 편집 전사 | FRUS 1941 II doc.588, 702.6211/1525½a | https://history.state.gov/historicaldocuments/frus1941v02/d588 | 2026-11-07 본문 직접 확인; 폐쇄 요청 기한 7/10, 독일 대사관 포함 아님, 실제 폐쇄·귀국 미확인 |
+| SRC-1981 | Welles memorandum of conversation with Tannenberg, 1941-06-16, FRUS 1941 II doc.587 | 1차 미국 면담 메모 후대 편집 전사 | FRUS 1941 II doc.587, 702.6211/1544 | https://history.state.gov/historicaldocuments/frus1941v02/d587 | 2026-11-07 면담 메모 직접 확인; 문서 전달 사실과 영국 측 안전통행 확보 여부 구분 |
