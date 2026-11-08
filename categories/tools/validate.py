@@ -37,7 +37,7 @@ def main():
     require(len(queue) == state['total_steps'] == 133, 'Expected 133 jobs')
     require(state['categories_per_country'] == 19, 'Expected 19 categories')
     require(state['country_order'] == [c for c, _ in COUNTRIES], 'Country order mismatch')
-    require(auto['count'] == 132 and auto['manually_completed_count'] == 1 and auto['total_steps'] == 133 and auto['interval_hours'] == 5, 'Wrong schedule')
+    require(auto['count'] == 132 and auto['manually_completed_count'] == 1 and auto['total_steps'] == 133 and auto['interval_hours'] == 2, 'Wrong schedule')
     require(auto['timezone'] == 'Asia/Seoul', 'Wrong timezone')
     if auto['status'] == 'enabled':
         require(bool(auto['automation_id']), 'Enabled automation has no ID')

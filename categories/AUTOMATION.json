@@ -2,20 +2,20 @@
   "status": "enabled",
   "automation_id": "Automation_3eee281072dc819194ac5604d3c3b374",
   "timezone": "Asia/Seoul",
-  "interval_hours": 5,
+  "interval_hours": 2,
   "count": 132,
   "planning_anchor": "2026-11-08T12:30:00+09:00",
-  "first_planned_at": "2026-11-08T22:30:00+09:00",
-  "last_planned_at": "2026-12-06T05:30:00+09:00",
-  "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T223000\nRRULE:FREQ=HOURLY;INTERVAL=5;COUNT=132\nEND:VEVENT",
+  "first_planned_at": "2026-11-08T19:30:00+09:00",
+  "last_planned_at": "2026-11-19T17:30:00+09:00",
+  "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T193000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT",
   "timing_mode": "exact_schedule",
   "draft_pr_number": 2,
-  "note": "예약 갱신 도구에서 활성 상태와 5시간 간격·남은 COUNT=132 확인. 독일 01 수동 연구 커밋은 완료. 내부 예약 실패 원인은 미공개이며 다음 자동 실행 성공을 뜻하지 않는다.",
-  "returned_schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T223000\nRRULE:FREQ=HOURLY;INTERVAL=5;COUNT=132\nEND:VEVENT",
+  "note": "사용자 요청으로 2시간 간격·남은 COUNT=132로 단축했고 도구에서 활성 상태와 일정을 확인했다. 기존 조사 진도 1/133과 항목별 연구 기준은 유지한다. 다음 자동 실행 성공 여부와는 별개다.",
+  "returned_schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T193000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT",
   "default_timezone": "Asia/Seoul",
   "is_enabled": true,
   "draft_pr_url": "https://github.com/G-M-Kim/WW2_Archive/pull/2",
-  "confirmed_at": "2026-11-08T09:54:34.728607+00:00",
+  "confirmed_at": "2026-11-08T09:57:45.046632+00:00",
   "previous_schedule": {
     "count": 105,
     "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T173000\nRRULE:FREQ=HOURLY;INTERVAL=5;COUNT=105\nEND:VEVENT",
@@ -27,5 +27,17 @@
   "manually_completed_count": 1,
   "diagnostic_path": "categories/maintenance/2026-11-08-schedule-diagnostic.json",
   "recovery_research_commit": "e1acfdf7c9111d664784a33039b2c34b421ac759",
-  "updated_prompt_path": "categories/AUTOMATION_PROMPT.md"
+  "updated_prompt_path": "categories/AUTOMATION_PROMPT.md",
+  "schedule_history": [
+    {
+      "interval_hours": 5,
+      "count": 132,
+      "first_planned_at": "2026-11-08T22:30:00+09:00",
+      "last_planned_at": "2026-12-06T05:30:00+09:00",
+      "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T223000\nRRULE:FREQ=HOURLY;INTERVAL=5;COUNT=132\nEND:VEVENT",
+      "confirmed_at": "2026-11-08T09:54:34.728607+00:00",
+      "superseded_at": "2026-11-08T09:57:45.046632+00:00",
+      "reason": "사용자 요청: 2시간 간격으로 단축"
+    }
+  ]
 }
