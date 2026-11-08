@@ -1,7 +1,7 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-08-11
-FORWARD_INSPECTED_THROUGH: 1941-08-10
-CURRENT_FORWARD_BATCH: 1941-08-11..1941-08-13
+FORWARD_CURSOR: 1941-08-14
+FORWARD_INSPECTED_THROUGH: 1941-08-13
+CURRENT_FORWARD_BATCH: 1941-08-14..1941-08-16
 TOTAL_EVT_SRC_RQ: 3612/2033/1226
 AS_OF: 2026-11-08
 
@@ -17,6 +17,9 @@ AS_OF: 2026-11-08
 - **운영 절차:** [research/RESEARCH_PROTOCOL.md](research/RESEARCH_PROTOCOL.md). 과거 상태 로그는 [보존본](research/WORK_STATE_HISTORY_2026-11-07.md)에만 있다. 과거의 FORWARD_CURSOR·다음 날짜는 사용하지 않는다.
 
 ## BACKFILL_QUEUE (진행을 차단하지 않음)
+
+- 1941-08-11~13: 미일 민간인 귀환·태국 교역·폴란드군 편성 구상·소련 폴란드인 사면령 등 FRUS 선별 감사. 실제 승선/물자 인도/부대 편성/석방 및 다른 전역 미확인. [감사](source-audit-1941-aug11-13-batch1.md). 신규 ID 미배정.
+
 
 - 1941-08-08~10: FRUS 7건 선별 감사, 미일 인도차이나 제안·네덜란드 방위·미영 협의·소련 전쟁법 통보·무기대여 협정. 8/10 독립 원자료와 중국·동부전선·아프리카·점령지 민간인 및 실제 집행 미검증. [사료감사](source-audit-1941-aug08-10-batch1.md). 신규 ID 미배정.
 
@@ -85,6 +88,8 @@ AS_OF: 2026-11-08
 
 
 ## 최신 조사 (2026-11-08)
+- **1941-08-11~13 forward 선별 감사**, 신규 0/0/0, 누적 3612/2033/1226; [감사](source-audit-1941-aug11-13-batch1.md). 다음 커서 **1941-08-14**.
+
 - **1941-08-08~10 forward 선별 감사**, 신규 0/0/0, 누적 3612/2033/1226; [감사](source-audit-1941-aug08-10-batch1.md). 다음 커서 **1941-08-11**.
 
 - **1941-08-05~07 forward 선별 사료감사**, 신규 0/0/0; [감사](source-audit-1941-aug05-07-batch1.md), 다음 커서 **1941-08-08**. 8/5 비시 해명·영사 보고, 8/6 일본 제안, 8/7 태국 관련 미 국무부 기록. 정본 미색인 후보는 backfill.
