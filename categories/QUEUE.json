@@ -35,8 +35,8 @@
     "category": "함선 및 함정, 무장, 성능",
     "article_path": "categories/germany/03-naval-vessels.md",
     "planned_at": "2026-11-09T01:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-DE-03.json"
   },
   {
     "step": 4,

@@ -233,5 +233,75 @@
     ],
     "sha256": "7b5936bcb7167512554ac08f44a0d471ab85b03edc3cde82dc570b16402e9007",
     "independence_group": "US-Ordnance-enemy-catalog; TM-E와 공통 정보 가능"
+  },
+  {
+    "id": "CAT-DE-SRC-0010",
+    "title": "Bismarck (Battleship, 1940-1941) — Construction",
+    "institution_or_author": "U.S. Naval Historical Center; HyperWar 보존본",
+    "publication_date": "2000-12-16",
+    "source_type": "secondary: 해군 역사기관 해설의 보존본",
+    "locator": "본문 제1~5문단; 사진 NH 75644·NH 83983 등 목록 설명 (이미지 자체 미판독)",
+    "url": "https://www.ibiblio.org/hyperwar/OnlineLibrary/photos/sh-fornv/germany/gersh-b/bismk-v.htm",
+    "accessed_at": "2026-11-09T05:23:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "38cm 8문·15cm 12문·10.5cm 16문 배치",
+      "함급 30knot 초과·약150,000hp 설명; 배수량 기준/만재 구분",
+      "1940년8월 취역·이후 시험"
+    ],
+    "limitations": [
+      "함급 요약 수치를 개별함의 특정 시험조건으로 확정하지 않음",
+      "tons 종류·배수량 적재조건 미확인",
+      "미 해군 원사이트 대신 기관명·게시일이 보존된 미러 열람; 독립 원전 계보 미확인"
+    ],
+    "rights": "자체 요약·링크만 저장. 원 사진별 출처/권리는 별도이며 이미지 복제 없음.",
+    "independence_group": "NHC historical explanation; underlying sources unestablished"
+  },
+  {
+    "id": "CAT-DE-SRC-0011",
+    "title": "German Battleship Bismarck: Interrogation of Survivors, C.B.4051(24)",
+    "institution_or_author": "Admiralty, Naval Intelligence Division; U-boat Archive 전사",
+    "publication_date": "1941-08 (전사된 표제 기준)",
+    "source_type": "primary-transcription: 동시대 포로심문 보고의 후대 HTML 전사",
+    "locator": "C.B.4051(24); 서두 진술검증 경고; p.5 표제; p.29 Details (3)(A); p.32 (5) Armament. 표제 N.I.D.08409/43; 기록관 소장번호 미확인",
+    "url": "https://uboatarchive.net/Int/BismarckINT.htm",
+    "accessed_at": "2026-11-09T05:23:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "38cm8문·15cm12문·10.5cm16문 배치 전사",
+      "32.5knot 시험속력 진술·축당35000~45000shp/총135000shp 가능치와 보고서의 유보",
+      "표제상 1941-05-27 침몰 및 자료 자체의 신뢰성 경고"
+    ],
+    "limitations": [
+      "원 스캔 미판독; 전사 오류 가능",
+      "포로 진술·기관 추정·확정값을 구분; 독일 원 시험기록 아님",
+      "NHC와 숫자 차이는 disputed 쟁점으로 보존; 독립 확증 없음"
+    ],
+    "rights": "원 영국 정부 보고와 후대 사이트 전사·편집 권리 구분. 자체 요약·링크만 저장.",
+    "independence_group": "Admiralty survivor interrogation; NHC와 계보 관계 미확인"
+  },
+  {
+    "id": "CAT-DE-SRC-0012",
+    "title": "Wolf Beneath the Waves: U-505 Joins the Battle of the Atlantic",
+    "institution_or_author": "Jason Dawsey, PhD / The National WWII Museum",
+    "publication_date": "2022-02-11",
+    "source_type": "secondary: 박물관 연구자 해설",
+    "locator": "초기 노획 소개; Type IXC·취역 문단; 추진기관/속력·무장 문단; 훈련 및 첫/두 번째 임무 문단. HTML 페이지 쪽번호 없음",
+    "url": "https://www.nationalww2museum.org/war/articles/u505-german-submarine-battle-of-atlantic",
+    "accessed_at": "2026-11-09T05:23:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "U-505 Type IXC·Deutsche Werft·1941년8월말 취역·훈련 및1942년 초기 임무",
+      "21inch발사관6(함수4/함미2)·어뢰22·초기 갑판포4.1inch·20/37mm각1",
+      "수상18knot/수중8knot; 1944-06-04 노획"
+    ],
+    "limitations": [
+      "독일 원 교범·시험자료·출항별 적재표 미열람",
+      "초기 무장을 노획 당시 개장 상태로 일반화하지 않음",
+      "거의17000miles 항속의 속력조건·마일 종류 미제시로 확정표 제외",
+      "원문 자동 인용창의 열람일은 사용하지 않고 실제 이번 열람일 별도 기록"
+    ],
+    "rights": "박물관 콘텐츠 저작권 적용. 자체 요약·원문 링크만 사용; 사진 재업로드 없음.",
+    "independence_group": "National WWII Museum; 하위 제원 원전 미제시"
   }
 ]
