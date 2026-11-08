@@ -2292,3 +2292,5 @@ as_of: 2026-11-04
 
 | SRC-2022 | 영국·소련, Agreement for Joint Action and Mutual Assistance, 1941-07-12; US Department of State Bulletin 1941-09-27 전사 | 1차 조약문 후대 전사 | 1941-07-12 모스크바 영소 협정 전문 | https://avalon.law.yale.edu/wwii/brsov41.asp | 2026-11-08 본문 직접 확인; 2개 조항·서명자 크립스/몰로토프·양국어 동등효력. 원서명 원면은 미확인 |
 | SRC-2023 | US Department of State, FRUS 1941 I doc.197, Steinhardt telegram, 1941-07-12 | 1차 미국 외교전보 후대 편집 전사 | FRUS 1941 I doc.197 | https://history.state.gov/historicaldocuments/frus1941v01/d197 | 2026-11-08 본문 직접 확인; 영국 대사가 7/12 17시 크렘린 서명·스탈린 참석을 미국 대사에게 보고한 간접 목격 진술 |
+
+| SRC-2024 | 독일역사박물관(DHM), *Schlacht bei Smolensk 1941*, Arnulf Scriba, 2015-05-19 | 2차(박물관 역사해설) | 해당 없음 | https://www.dhm.de/lemo/kapitel/der-zweite-weltkrieg/kriegsverlauf/schlacht-bei-smolensk-1941 | 2026-11-08 열람; 7/16 시가지 점령과 포위전 장기화를 구분. 독일 시각 2차 해설로 작전일지 원본 미대조; CC BY-NC-SA 표기, 인용 외 복제 없음 |

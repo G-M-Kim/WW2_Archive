@@ -1,8 +1,8 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-07-15
-FORWARD_INSPECTED_THROUGH: 1941-07-14
-CURRENT_FORWARD_BATCH: 1941-07-15..1941-07-17
-TOTAL_EVT_SRC_RQ: 3603/2023/1215
+FORWARD_CURSOR: 1941-07-18
+FORWARD_INSPECTED_THROUGH: 1941-07-17
+CURRENT_FORWARD_BATCH: 1941-07-18..1941-07-20
+TOTAL_EVT_SRC_RQ: 3604/2024/1217
 AS_OF: 2026-11-08
 
 ## 절대 우선 규칙
@@ -17,6 +17,9 @@ AS_OF: 2026-11-08
 - **운영 절차:** [research/RESEARCH_PROTOCOL.md](research/RESEARCH_PROTOCOL.md). 과거 상태 로그는 [보존본](research/WORK_STATE_HISTORY_2026-11-07.md)에만 있다. 과거의 FORWARD_CURSOR·다음 날짜는 사용하지 않는다.
 
 ## BACKFILL_QUEUE (진행을 차단하지 않음)
+
+- 1941-07-15~17: 스몰렌스크 7/15 진입·7/16 점령·포위망 형성의 원작전일지 미대조; 레반트·아프리카·중국·태평양·점령민간인 미조사. RQ-1216~1217.
+
 
 - 1941-07-12~14: 영소 협정 서명 원면 및 실제 지원 이행, 7/13~14 각 전역·민간인·중국·태평양 원자료 미대조. RQ-1214~1215.
 
@@ -49,7 +52,7 @@ AS_OF: 2026-11-08
 
 - 정본: 루트 `chronology-*.md`, `chronology-sources-v1.md`, `research-backlog.md`, 이 파일. `research/` 동명 세 개의 미러는 정본과 바이트 일치. 기존 ID 변경·재사용·삭제 금지.
 - 마지막 실제 연구 기록: [6/6~10 해운·수출통제 감사](source-audit-1941-jun06-10-batch6.md), [6/5 충칭 피해검증](source-audit-1941-jun05-chongqing-batch7.md). 최신 커서·연표 정렬 및 CI 복구 내용은 [진행수정 기록](research/progress-repair-2026-11-07.md).
-- 최근 실제 연구 누적 **3603 EVT / 2023 SRC / 1215 RQ**. 최신 전진 연구: [6/24~26 batch1](source-audit-1941-jun24-26-batch1.md), 신규 **10 EVT / 10 SRC / 4 RQ**.
+- 최근 실제 연구 누적 **3604 EVT / 2024 SRC / 1217 RQ**. 최신 전진 연구: [6/24~26 batch1](source-audit-1941-jun24-26-batch1.md), 신규 **10 EVT / 10 SRC / 4 RQ**.
 - 날짜 정렬·ID·참조·미러·진행 원장은 `validate_index.py` 및 CI 검증. 역사적 사실의 독립적 사료 교차검증은 별도.
 - 작업 브랜치 `draft/chronology-index-v1`, **Draft PR #1**. 사용자의 명시 승인 전 main 병합, docs/ Pages 출판 금지. 채팅 보고는 3~5줄만.
 
