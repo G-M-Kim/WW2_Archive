@@ -2289,3 +2289,6 @@ as_of: 2026-11-04
 
 | SRC-2020 | US Department of State, FRUS 1941 IV doc.204, Grew telegram, 1941-07-09 | 1차 미국 외교전보 후대 편집 전사 | FRUS 1941 IV doc.204 | https://history.state.gov/historicaldocuments/frus1941v04/d204 | 2026-11-08 원문 확인; 독일 압박·일본 차단 가능성은 그루의 분석이며 일본 실제 정책 아님 |
 | SRC-2021 | US Department of State, FRUS 1941 I doc.739, Welles memorandum, 1941-07-10 | 1차 미국 면담기록 후대 편집 전사 | FRUS 1941 I doc.739 | https://history.state.gov/historicaldocuments/frus1941v01/d739 | 2026-11-08 원문 확인; 10월1일 이전 도착은 목표, 대통령-우만스키 면담 원기록은 편집주석상 미발견 |
+
+| SRC-2022 | 영국·소련, Agreement for Joint Action and Mutual Assistance, 1941-07-12; US Department of State Bulletin 1941-09-27 전사 | 1차 조약문 후대 전사 | 1941-07-12 모스크바 영소 협정 전문 | https://avalon.law.yale.edu/wwii/brsov41.asp | 2026-11-08 본문 직접 확인; 2개 조항·서명자 크립스/몰로토프·양국어 동등효력. 원서명 원면은 미확인 |
+| SRC-2023 | US Department of State, FRUS 1941 I doc.197, Steinhardt telegram, 1941-07-12 | 1차 미국 외교전보 후대 편집 전사 | FRUS 1941 I doc.197 | https://history.state.gov/historicaldocuments/frus1941v01/d197 | 2026-11-08 본문 직접 확인; 영국 대사가 7/12 17시 크렘린 서명·스탈린 참석을 미국 대사에게 보고한 간접 목격 진술 |
