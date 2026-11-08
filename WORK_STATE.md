@@ -1,8 +1,8 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-08-23
-FORWARD_INSPECTED_THROUGH: 1941-08-22
-CURRENT_FORWARD_BATCH: 1941-08-23..1941-08-25
-TOTAL_EVT_SRC_RQ: 3612/2033/1226
+FORWARD_CURSOR: 1941-08-26
+FORWARD_INSPECTED_THROUGH: 1941-08-25
+CURRENT_FORWARD_BATCH: 1941-08-26..1941-08-28
+TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-09
 
 ## 절대 우선 규칙
@@ -17,6 +17,9 @@ AS_OF: 2026-11-09
 - **운영 절차:** [research/RESEARCH_PROTOCOL.md](research/RESEARCH_PROTOCOL.md). 과거 상태 로그는 [보존본](research/WORK_STATE_HISTORY_2026-11-07.md)에만 있다. 과거의 FORWARD_CURSOR·다음 날짜는 사용하지 않는다.
 
 ## BACKFILL_QUEUE (진행을 차단하지 않음)
+
+- 1941-08-23~25: 이란 영·소 침공 관련 미국 외교전보 3건 대조; 군사작전 원일지·이란 민간 피해·독일인 추방 실행·타전역은 RQ-1227 및 [감사](source-audit-1941-aug23-25-batch1.md)로 보류.
+
 
 - 1941-08-20~22: FRUS IV d274의 8/21 네덜란드 문의 확인. 8/20·22와 타전역, 미국의 후속 결정·싱가포르 회의록·이란 외교 전달일 미검증. [감사](source-audit-1941-aug20-22-batch1.md). 신규 ID 없음.
 
@@ -97,6 +100,8 @@ AS_OF: 2026-11-09
 
 
 ## 최신 조사 (2026-11-09)
+- **1941-08-23~25 forward 선별 감사**, 신규 0/2/1, 누적 3612/2035/1227; [감사](source-audit-1941-aug23-25-batch1.md). 다음 커서 **1941-08-26**.
+
 - **1941-08-20~22 forward 선별 감사**, 신규 0/0/0, 누적 3612/2033/1226; [감사](source-audit-1941-aug20-22-batch1.md). 다음 커서 **1941-08-23**.
 
 - **1941-08-17~19 forward 선별 감사**, 신규 0/0/0, 누적 3612/2033/1226; [감사](source-audit-1941-aug17-19-batch1.md). 다음 커서 **1941-08-20**.

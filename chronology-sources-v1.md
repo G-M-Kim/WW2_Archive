@@ -2306,3 +2306,6 @@ as_of: 2026-11-04
 | SRC-2031 | 미 국무부 Edminster→Burns 서한, 1941-07-29, FRUS 1941 V doc.247 | 1차(동시대 정부 서한) | FRUS V doc.247 | https://history.state.gov/historicaldocuments/frus1941v05/d247 | 2026-11-08 본문 확인; 조사단 파견 반대 의견이며 실제 원조 집행 자료 아님 |
 | SRC-2032 | 미 대사 Leahy→국무부, 비시 1941-07-29 전보, FRUS 1941 V doc.248 | 1차(외교전보) | FRUS V doc.248 | https://history.state.gov/historicaldocuments/frus1941v05/d248 | 2026-11-08 본문 확인; 프랑스 관리의 상충 발언·예상치 전달, 주둔 실수 확인 아님 |
 | SRC-2033 | 미 국무부 대리장관 Sumner Welles, 1941-08-02 인도차이나 공동방위협정 비판 공식 성명; FRUS Japan 1931–1941 vol. II doc.235 | 1차(동시대 정부 발표문, 후대 편집 전사) | FRUS doc.235, Department of State Bulletin 1941-08-02 p.87 | https://history.state.gov/historicaldocuments/frus1931-41v02/d235 | 2026-11-08 본문 직접 확인; 미국 정부의 비시·일본 협정 평가와 향후 관계 방침, 일본군 실제 배치·협정 이행의 독립 증거 아님 |
+
+| SRC-2034 | 미국 국무장관 헐→주터키 대사, 1941-08-23 전보, FRUS 1941 III doc.389 | 1차(동시대 외교전보) | FRUS III doc.389 | https://history.state.gov/historicaldocuments/frus1941v03/d389 | 2026-11-09 원문 확인; 영·소 이란 독일인 추방 요구와 미국 입장, 승인 보도 부인. 군사행동 승인 증거 아님 |
+| SRC-2035 | 미국 대사 Steinhardt→국무부, 모스크바 1941-08-24 전보, FRUS 1941 III doc.393 | 1차(동시대 외교전보, 이란 대사 진술의 간접 전달) | FRUS III doc.393 | https://history.state.gov/historicaldocuments/frus1941v03/d393 | 2026-11-09 원문 확인; 8/23 이란 대사의 영·소 요구 거부 및 독일인 추방 추진 주장. 실행 여부 미확인 |
