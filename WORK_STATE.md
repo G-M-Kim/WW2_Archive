@@ -1,7 +1,7 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-08-29
-FORWARD_INSPECTED_THROUGH: 1941-08-28
-CURRENT_FORWARD_BATCH: 1941-08-29..1941-08-31
+FORWARD_CURSOR: 1941-09-01
+FORWARD_INSPECTED_THROUGH: 1941-08-31
+CURRENT_FORWARD_BATCH: 1941-09-01..1941-09-03
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-09
 
@@ -103,6 +103,8 @@ AS_OF: 2026-11-09
 
 
 ## 최신 조사 (2026-11-09)
+- **1941-08-29~31 forward 선별 감사**, 신규 0/0/0, 누적 3612/2035/1227; [감사](source-audit-1941-aug29-31-batch1.md). 다음 커서 **1941-09-01**. 영국 경고문은 초안이며 전달 미확인; 이란·중국·일본과 타전역 backfill.
+
 - **1941-08-26~28 forward 선별 감사**, 신규 0/0/0, 누적 3612/2035/1227; [감사](source-audit-1941-aug26-28-batch1.md). 다음 커서 **1941-08-29**.
 
 - **1941-08-23~25 forward 선별 감사**, 신규 0/2/1, 누적 3612/2035/1227; [감사](source-audit-1941-aug23-25-batch1.md). 다음 커서 **1941-08-26**.
