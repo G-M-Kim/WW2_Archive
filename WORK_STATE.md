@@ -1,7 +1,7 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-08-20
-FORWARD_INSPECTED_THROUGH: 1941-08-19
-CURRENT_FORWARD_BATCH: 1941-08-20..1941-08-22
+FORWARD_CURSOR: 1941-08-23
+FORWARD_INSPECTED_THROUGH: 1941-08-22
+CURRENT_FORWARD_BATCH: 1941-08-23..1941-08-25
 TOTAL_EVT_SRC_RQ: 3612/2033/1226
 AS_OF: 2026-11-09
 
@@ -17,6 +17,9 @@ AS_OF: 2026-11-09
 - **운영 절차:** [research/RESEARCH_PROTOCOL.md](research/RESEARCH_PROTOCOL.md). 과거 상태 로그는 [보존본](research/WORK_STATE_HISTORY_2026-11-07.md)에만 있다. 과거의 FORWARD_CURSOR·다음 날짜는 사용하지 않는다.
 
 ## BACKFILL_QUEUE (진행을 차단하지 않음)
+
+- 1941-08-20~22: FRUS IV d274의 8/21 네덜란드 문의 확인. 8/20·22와 타전역, 미국의 후속 결정·싱가포르 회의록·이란 외교 전달일 미검증. [감사](source-audit-1941-aug20-22-batch1.md). 신규 ID 없음.
+
 
 - 1941-08-17~19: FRUS 8/17 소련 신문 반응 확인; 8/18~19 전역별 독립 사건 및 이란 영소 외교각서 실제 전달·접수일, 중국·아프리카·점령지 민간인 원자료 미검증. [감사](source-audit-1941-aug17-19-batch1.md). 신규 ID 없음.
 
@@ -94,6 +97,8 @@ AS_OF: 2026-11-09
 
 
 ## 최신 조사 (2026-11-09)
+- **1941-08-20~22 forward 선별 감사**, 신규 0/0/0, 누적 3612/2033/1226; [감사](source-audit-1941-aug20-22-batch1.md). 다음 커서 **1941-08-23**.
+
 - **1941-08-17~19 forward 선별 감사**, 신규 0/0/0, 누적 3612/2033/1226; [감사](source-audit-1941-aug17-19-batch1.md). 다음 커서 **1941-08-20**.
 
 - **1941-08-14~16 forward 선별 감사**, 신규 0/0/0, 누적 3612/2033/1226; [감사](source-audit-1941-aug14-16-batch1.md). 다음 커서 **1941-08-17**.
