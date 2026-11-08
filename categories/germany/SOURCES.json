@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "id": "CAT-DE-SRC-0001",
+    "title": "Handbook on German Military Forces, TM-E 30-451",
+    "institution_or_author": "United States War Department; U.S. Government Printing Office",
+    "publication_date": "1945-03-15（발행문; 해당 본문 머리말 1945-03-01）",
+    "source_type": "primary: 동시대 적군 정보 교범 원문 스캔",
+    "locator": "TM-E 30-451; 제목지 PDF 2, 서문 PDF 3; Chapter VII §VI.3~4, VII-79~85 (PDF 389~395); 시각 판독 PDF 390, 392, 393, 395",
+    "url": "https://www.ibiblio.org/hyperwar/USA/ref/TM/pdfs/TME30-451.PDF",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Model G Panzer IV, Panther, Model E Tiger 및 Model B Tiger의 표상 무장·승무원·기동 수치",
+      "Tiger Model E road speed 원문 15 mph와 후대 전사본 5 mph의 불일치",
+      "발행일·정보 집계일 및 본문 머리말 날짜 구분"
+    ],
+    "limitations": [
+      "독일 제조사 시험 원기록이 아닌 미군 정보자료; 실전 가동 성능으로 일반화 불가",
+      "형식별 장갑·엔진·생산대장·시험 조건의 독립 검증은 미완",
+      "전체 PDF의 모든 페이지를 검수하지 않음; PDF 교차참조 복구 경고 후 해당 페이지를 실제 렌더링·판독"
+    ],
+    "rights": "미 연방정부 당대 간행물. 원문/사진 재업로드 없이 자체 한국어 요약과 링크 사용.",
+    "access_attempts": [
+      {
+        "method": "web open",
+        "result": "파일 크기 86,572,532 bytes로 열람 실패"
+      },
+      {
+        "method": "직접 HTTPS 다운로드, pdftotext 및 pdftoppm",
+        "result": "HTTP 200; 86,572,532 bytes; 해당 페이지 이미지 판독 성공"
+      }
+    ],
+    "sha256": "dfa9fd6f83d12beadcd3c10c7460ad46c189b665181809b0b77c66e532f25b36",
+    "independence_group": "TM-E-30-451",
+    "accessed_at": "2026-11-08T18:53:10+09:00"
+  },
+  {
+    "id": "CAT-DE-SRC-0002",
+    "title": "Panzer IV",
+    "institution_or_author": "The Tank Museum, Bovington",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 실물 이력·형식 설명",
+    "locator": "The Tank Museum’s Panzer IV; Tank facts (Main Weapon, Secondary Weapon, Crew); 공개 소장번호 미제시",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/panzer-iv?country=all&era=all",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Ausf D 전시품의 1943년 KwK 40 L/43 개장 및 운전교육 용도",
+      "현재 무장·기관총 수·승무원 수 대조"
+    ],
+    "limitations": [
+      "전시품 이력을 계열 전체 출고 사양으로 일반화하지 않음",
+      "제원란 전체 수치의 형식/집계 범위 미확인; 원 설계도·생산대장 미열람"
+    ],
+    "rights": "기관 웹 콘텐츠 저작권 적용. 자체 요약·원문 링크만 사용; 사진 재업로드 안 함.",
+    "independence_group": "Tank-Museum; 하위 원기록 계보 미확인",
+    "accessed_at": "2026-11-08T18:53:10+09:00"
+  },
+  {
+    "id": "CAT-DE-SRC-0003",
+    "title": "Panther",
+    "institution_or_author": "The Tank Museum, Bovington",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 실물 이력·형식 설명",
+    "locator": "본문 첫 실전 설명; The Tank Museum’s Panther; Tank facts; 공개 소장번호 미제시",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/panther",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시품의 연합군 점령 후 영국군 감독 조립 이력",
+      "KwK 42 L/70·기관총 2정·승무원 5명 대조",
+      "1943년 Kursk 첫 실전이라는 기관 설명의 존재"
+    ],
+    "limitations": [
+      "전시품의 독일군 실전 참가를 입증하지 않음",
+      "생산량 표기의 형식 범위·원전 미확인; 총생산량으로 채택하지 않음"
+    ],
+    "rights": "기관 웹 콘텐츠 저작권 적용. 자체 요약·링크만 사용.",
+    "independence_group": "Tank-Museum; 하위 원기록 계보 미확인",
+    "accessed_at": "2026-11-08T18:53:10+09:00"
+  },
+  {
+    "id": "CAT-DE-SRC-0004",
+    "title": "Tiger I / Tiger 131",
+    "institution_or_author": "The Tank Museum, Bovington",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 실물 이력·제원 안내",
+    "locator": "Tiger 131 문단; Tank facts; 식별명 Tiger 131, Sd Kfz 181 Panzerkampfwagen VI Ausf E; 공개 소장번호 미제시",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/tiger-i/?country=all&era=all&tname=&tpage=1",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943-04-24 튀니지 노획이라는 기관 설명",
+      "88 mm·7.92 mm 기관총 2정·승무원 5명 대조"
+    ],
+    "limitations": [
+      "관통 수치의 탄종·각도·판정기준 미제시로 성능 확정값에 미채택",
+      "해당 차량의 원래 엔진과 후기 Model E의 일반 제원을 결합하지 않음"
+    ],
+    "rights": "기관 웹 콘텐츠 저작권 적용. 자체 요약·링크만 사용.",
+    "independence_group": "Tank-Museum; 하위 원기록 계보 미확인",
+    "accessed_at": "2026-11-08T18:53:10+09:00"
+  },
+  {
+    "id": "CAT-DE-SRC-0005",
+    "title": "Tiger II",
+    "institution_or_author": "The Tank Museum, Bovington",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 실물 이력·제원 안내",
+    "locator": "본문 생산량 설명; The Tank Museum’s Tiger II (Production); Tank facts; 차대번호 280093",
+    "url": "https://tankmuseum.org/tank_collection/tiger-ii",
+    "access_status": "disputed",
+    "claims_checked": [
+      "1944년 7월 제작·차대번호 280093 기록",
+      "KwK43 L/71·MG34 2정·승무원 5명 대조",
+      "동일 페이지 본문의 489대와 요약의 492대 충돌"
+    ],
+    "limitations": [
+      "생산량 집계 범위·시제품 포함 여부 근거 미제시. 차이를 추정으로 해소하지 않음",
+      "disputed는 생산량에 해당하며 모든 소장품 이력이 반증됐다는 뜻이 아님"
+    ],
+    "rights": "기관 웹 콘텐츠 저작권 적용. 자체 요약·링크만 사용.",
+    "independence_group": "Tank-Museum; 하위 원기록 계보 미확인",
+    "accessed_at": "2026-11-08T18:53:10+09:00"
+  },
+  {
+    "id": "CAT-DE-SRC-0006",
+    "title": "TM-E 30-451, Chapter VII §VI.4 Heavy Tanks — HTML transcription",
+    "institution_or_author": "U.S. War Department 원저; Lone Sentry 전사",
+    "publication_date": "원저 1945-03-15; 전사 웹 게시일 미상",
+    "source_type": "primary-transcription: 동시대 교범의 후대 전사본",
+    "locator": "§VI.4.b(2) Performance, Road speed; Source Details; 상위 원저 CAT-DE-SRC-0001",
+    "url": "https://collection.lonesentry.com/manuals/tme30/ch7sec6sub4.html",
+    "access_status": "disputed",
+    "claims_checked": [
+      "Tiger Model E road speed를 5 mph로 옮긴 전사값 확인; 원문 스캔 15 mph와 불일치"
+    ],
+    "limitations": [
+      "교범의 독립 확증이 아닌 같은 자료의 전사. 본문 숫자에 전사 오류가 확인되어 원문 대조 필요",
+      "자료 소개가 불완전·부정확 가능성을 명시함"
+    ],
+    "rights": "미 정부 원저와 후대 사이트의 편집·전사 권리를 구분. 자체 요약·링크만 사용.",
+    "independence_group": "TM-E-30-451",
+    "accessed_at": "2026-11-08T18:53:10+09:00"
+  }
+]

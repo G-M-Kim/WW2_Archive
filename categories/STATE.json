@@ -1,12 +1,12 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "project_id": "ww2-seven-powers-categories-v1",
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
-  "CAT_PHASE": "scheduled",
-  "CAT_NEXT_STEP": 1,
-  "CAT_VISITED_COUNT": 0,
-  "CAT_LAST_JOB_ID": null,
+  "CAT_PHASE": "running",
+  "CAT_NEXT_STEP": 2,
+  "CAT_VISITED_COUNT": 1,
+  "CAT_LAST_JOB_ID": "CAT-DE-01",
   "country_order": [
     "DE",
     "FR",
@@ -16,8 +16,8 @@
     "IT",
     "SU"
   ],
-  "categories_per_country": 15,
-  "total_steps": 105,
-  "updated_at": "2026-11-08T12:30:00+09:00",
-  "note": "준비 완료. 역사 자료 조사 미착수. 예정시간은 계획이며 실제 방문 상태가 재개 기준이다."
+  "categories_per_country": 19,
+  "total_steps": 133,
+  "updated_at": "2026-11-08T18:53:10+09:00",
+  "note": "첫 예약 실패는 미방문으로 유지했고 사용자 후속 요청에서 독일 전차 01을 수동 조사·저장. 19항목/133개 확장. 첫 검사 partial이며 다음은 독일 02."
 }

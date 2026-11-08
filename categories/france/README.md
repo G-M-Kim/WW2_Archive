@@ -1,6 +1,6 @@
 # 프랑스 — WW2 카테고리 조사
 
-국가 코드 `FR`. 이 국가의 15개 항목을 순서대로 첫 조사한다. 아래 원고 파일은 해당 실행에서 실제 자료와 함께 생성한다. 현재 모두 미착수다.
+국가 코드 `FR`. 이 국가의 19개 항목을 순서대로 첫 조사한다. 아래 원고 파일은 해당 실행에서 실제 자료와 함께 생성한다. 현재 모두 미착수다.
 
 [전체 계획](../PLAN.md) · [출처 장부](SOURCES.json) · [미확인 과제](QUESTIONS.json)
 
@@ -21,5 +21,11 @@
 | 13 | 당시 기준 지명 | pending | `13-historical-place-names.md` |
 | 14 | 당시 영토 | pending | `14-territory.md` |
 | 15 | 영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐 | pending | `15-resources.md` |
+| 16 | 개전 시점 주요 공업단지와 규모(1~20) | pending | `16-industrial-centers-start.md` |
+| 17 | 종전 시점 주요 공업단지와 규모(1~20) | pending | `17-industrial-centers-end.md` |
+| 18 | 개전 시점 주요 공군기지와 규모(1~10) | pending | `18-air-bases-start.md` |
+| 19 | 개전 시점 주요 해군기지와 규모(1~10) | pending | `19-naval-bases-start.md` |
 
 출처 ID `CAT-FR-SRC-xxxx`, 미확인 과제 `CAT-FR-RQ-xxxx`. 날짜·변형·국적/소속·영토 지위·집계 범위를 구분하고 해당국의 역사적 모든 항목을 전수 검증한 것으로 표시하지 않는다.
+
+16~19번의 기준일·원자료·규모 환산은 [시설 평가 기준](../INFRASTRUCTURE_RATING.md)을 따른다. 점수는 사료 자체가 아닌 출처 기반 분석치다.
