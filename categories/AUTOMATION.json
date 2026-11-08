@@ -1,21 +1,21 @@
 {
   "status": "enabled",
-  "automation_id": "Automation_13524a92af348191b3972ebef1287d3f",
+  "automation_id": "Automation_9bb089dec0e48191951cce4aa5140a7b",
   "timezone": "Asia/Seoul",
   "interval_hours": 2,
-  "count": 132,
-  "planning_anchor": "2026-11-08T12:30:00+09:00",
-  "first_planned_at": "2026-11-08T23:30:00+09:00",
-  "last_planned_at": "2026-11-19T21:30:00+09:00",
-  "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T233000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT",
-  "timing_mode": "exact_schedule",
+  "count": 131,
+  "planning_anchor": null,
+  "first_planned_at": null,
+  "last_planned_at": null,
+  "schedule": "BEGIN:VEVENT\nDTSTART:20261108T155226Z\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=131\nEND:VEVENT",
+  "timing_mode": "flexible_schedule",
   "draft_pr_number": 2,
-  "note": "현재 대화에서 조회 가능한 예약에 기존 카테고리 예약이 없고 원래 ID 직접 조회도 접근 불가였다. 삭제/중지 여부는 불명이다. 현재 대화에 2시간 간격 COUNT=132로 새 예약을 등록했다. 연구 진도는 1/133 그대로이며 첫 실행 성공은 아직 미검증이다. PROTOCOL의 이전 예약 식별/주기/동시 저장 규칙으로 중복을 줄인다.",
-  "returned_schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T233000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT",
+  "note": "사용자 요청으로 약 2시간 간격 flexible_schedule로 교체. 이전 고정 시각 예약의 중지를 재조회 확인했고 새 예약 활성/모드를 재조회 확인했다. 재등록 총 예산132회 중 확인된 실패1회를 차감해 남은 COUNT131. 수동 연구 진도2/133은 변경하지 않는다. 플랫폼이 반환한 DTSTART는 내부 기준점이며 사용자가 지정한 정확한 실행시각이 아니다. 미래 실행 성공은 아직 미검증이며 실패 원인은 제공되지 않았다.",
+  "returned_schedule": "BEGIN:VEVENT\nDTSTART:20261108T155226Z\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=131\nEND:VEVENT",
   "default_timezone": "Asia/Seoul",
   "is_enabled": true,
   "draft_pr_url": "https://github.com/G-M-Kim/WW2_Archive/pull/2",
-  "confirmed_at": "2026-11-08T14:00:54.681220+00:00",
+  "confirmed_at": "2026-11-08T15:52:26.975964+00:00",
   "previous_schedule": {
     "count": 105,
     "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T173000\nRRULE:FREQ=HOURLY;INTERVAL=5;COUNT=105\nEND:VEVENT",
@@ -24,7 +24,7 @@
     "confirmed_at": "2026-11-08T03:31:22.801600+00:00"
   },
   "total_steps": 133,
-  "manually_completed_count": 1,
+  "manually_completed_count": 2,
   "diagnostic_path": "categories/maintenance/2026-11-08-schedule-diagnostic.json",
   "recovery_research_commit": "e1acfdf7c9111d664784a33039b2c34b421ac759",
   "updated_prompt_path": "categories/AUTOMATION_PROMPT.md",
@@ -46,14 +46,37 @@
       "last_planned_at": "2026-11-19T17:30:00+09:00",
       "recorded_at": "2026-11-08T14:00:54.681220+00:00",
       "reason": "현재 도구에서 기존 예약에 접근 불가. 이전 예약 중지는 확인되지 않음. 현재 대화로 재등록."
+    },
+    {
+      "automation_id": "Automation_13524a92af348191b3972ebef1287d3f",
+      "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T233000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT",
+      "timing_mode": "exact_schedule",
+      "count": 132,
+      "recorded_failed_occurrences": 1,
+      "disabled_confirmed": true,
+      "superseded_at": "2026-11-08T15:52:26.975964+00:00",
+      "reason": "사용자 요청: 정확한 시·분을 고정하지 않는 약 2시간 간격의 flexible_schedule로 교체. 기존 예약의 timing_mode를 직접 수정하는 인자가 없어 중지 후 교체."
     }
   ],
   "previous_automation": {
-    "automation_id": "Automation_3eee281072dc819194ac5604d3c3b374",
-    "status": "not_accessible_in_current_context",
-    "disabled_confirmed": false,
-    "checked_at": "2026-11-08T14:00:54.681220+00:00",
-    "previous_schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T193000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT"
+    "automation_id": "Automation_13524a92af348191b3972ebef1287d3f",
+    "status": "disabled",
+    "disabled_confirmed": true,
+    "checked_at": "2026-11-08T15:52:26.975964+00:00",
+    "previous_schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T233000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT"
   },
-  "registration_diagnostic_path": "categories/maintenance/2026-11-08-reregistration.json"
+  "registration_diagnostic_path": "categories/maintenance/2026-11-09-flexible-schedule.json",
+  "inaccessible_predecessors": [
+    {
+      "automation_id": "Automation_3eee281072dc819194ac5604d3c3b374",
+      "status": "not_accessible_in_current_context",
+      "disabled_confirmed": false,
+      "checked_at": "2026-11-08T14:00:54.681220+00:00",
+      "previous_schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T193000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT"
+    }
+  ],
+  "reregistered_execution_budget": 132,
+  "consumed_before_current_schedule": 1,
+  "next_run_time": null,
+  "queue_planned_at_semantics": "QUEUE.planned_at는 종전 exact_schedule의 이력. 현 유연 예약에서 실행할 작업이나 정확한 실행시각의 기준으로 삼지 않는다."
 }

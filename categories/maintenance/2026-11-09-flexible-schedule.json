@@ -1,0 +1,30 @@
+{
+  "type": "schedule_maintenance",
+  "research_visit": false,
+  "user_request": "정확한 시간 분까지 지정하지 말고 적당히 2시간마다로 변경",
+  "confirmed_at": "2026-11-08T15:52:26.975964+00:00",
+  "previous_id": "Automation_13524a92af348191b3972ebef1287d3f",
+  "previous_disabled_confirmed": true,
+  "new_id": "Automation_9bb089dec0e48191951cce4aa5140a7b",
+  "new_enabled_confirmed": true,
+  "timing_mode": "flexible_schedule",
+  "returned_schedule": "BEGIN:VEVENT\nDTSTART:20261108T155226Z\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=131\nEND:VEVENT",
+  "next_run_time": null,
+  "reregistered_execution_budget": 132,
+  "recorded_consumed_occurrences": 1,
+  "remaining_occurrences": 131,
+  "research_visited_count": 2,
+  "next_job_id": "CAT-DE-03",
+  "method": "기존 update 도구에 timing_mode 인자가 없어 pause 확인 후 create flexible_schedule, 이후 두 ID 재조회",
+  "limitations": [
+    "미래 실행 성공은 아직 검증하지 않음",
+    "기존 실패 내부 원인 정보 미제공; 시간 모드 변경이 원인 해결이라는 주장 아님",
+    "더 오래된 접근 불가 예약의 중지는 미확인"
+  ],
+  "unchanged_progress_paths": [
+    "STATE.json",
+    "QUEUE.json",
+    "RUN_LOG.md",
+    "runs/"
+  ]
+}
