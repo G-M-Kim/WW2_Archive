@@ -1,6 +1,6 @@
 # 독일 — WW2 카테고리 조사
 
-국가 코드 `DE`. 이 국가의 19개 항목을 순서대로 첫 조사한다. 아래 원고 파일은 해당 실행에서 실제 자료와 함께 생성한다. 01번은 대표 네 전차 계열, 02번은 돌격포·화염방사 반궤도차·8륜 장갑차의 세 대표 사례를 부분 조사했다. 03번은 Bismarck·U-505 두 개별함의 무장·자료상 성능을 부분 조사했다. 총 3/19 방문이며 04번 이후는 미착수다.
+국가 코드 `DE`. 이 국가의 19개 항목을 순서대로 첫 조사한다. 아래 원고 파일은 해당 실행에서 실제 자료와 함께 생성한다. 01번은 대표 네 전차 계열, 02번은 돌격포·화염방사 반궤도차·8륜 장갑차의 세 대표 사례를 부분 조사했다. 03번은 Bismarck·U-505 두 개별함의 무장·자료상 성능을 부분 조사했다. 04번은 Me 262 조종 지침·소장품과 Ju 52 수송 역할을 부분 조사했다. 총 4/19 방문이며 05번 이후는 미착수다.
 
 [전체 계획](../PLAN.md) · [출처 장부](SOURCES.json) · [미확인 과제](QUESTIONS.json)
 
@@ -9,7 +9,7 @@
 | 1 | 전차장비, 무장, 성능 | partial | [01-tanks.md](01-tanks.md) |
 | 2 | 전차 제외 기갑장비, 무장, 성능 | partial | [02-other-armored-vehicles.md](02-other-armored-vehicles.md) |
 | 3 | 함선 및 함정, 무장, 성능 | partial | [03-naval-vessels.md](03-naval-vessels.md) |
-| 4 | 항공기, 무장, 성능 | pending | `04-aircraft.md` |
+| 4 | 항공기, 무장, 성능 | partial | [04-aircraft.md](04-aircraft.md) |
 | 5 | 보병 무기 및 장비 | pending | `05-infantry-equipment.md` |
 | 6 | WW2에서 빼놓을 수 없는 장비 | pending | `06-essential-technology.md` |
 | 7 | 유명한 전투 참여 인물 | pending | `07-combat-personnel.md` |

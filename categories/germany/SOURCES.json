@@ -303,5 +303,94 @@
     ],
     "rights": "박물관 콘텐츠 저작권 적용. 자체 요약·원문 링크만 사용; 사진 재업로드 없음.",
     "independence_group": "National WWII Museum; 하위 제원 원전 미제시"
+  },
+  {
+    "id": "CAT-DE-SRC-0013",
+    "title": "Handling the Me 262 / Pilots Notes on Me 262 by Flug Kapitan Wendel",
+    "institution_or_author": "Flugkapitän Fritz Wendel 원 메모; 영국 A.I.2.(g), H.G. Morison 서명 번역; Zeno's Warbird Video Drive-In 후대 재조판",
+    "publication_date": "번역 말미 1945-05-25; 독일어 원 작성일·웹 재조판일 미상",
+    "source_type": "primary-derived: 동시대 조종 지침의 영국 번역을 후대 재조판한 PDF",
+    "locator": "A.I.2.(g) Report No.2357; PDF p.2 §§1–2, p.3 §2, p.5 날짜·서명; 기록관 소장번호 미확인",
+    "url": "https://zenoswarbirdvideos.com/Images/Me262/ME262WendeL.pdf",
+    "claims_checked": [
+      "전투기6700kg/190–200km/h·폭격기7100kg/200–220km/h 이륙 계기속도 권고",
+      "급격한 가속 경고·특히7500rpm까지 천천히 올리는 지침",
+      "번역 경위 머리말 및1945-05-25 말미"
+    ],
+    "limitations": [
+      "원 독일어 및 영국 원 스캔 미대조; 재조판/OCR 오류 가능",
+      "세부형·엔진 하위형·시험일 미확인; 권고를 실측 최고속도로 해석하지 않음"
+    ],
+    "rights": "동시대 문서와 후대 재조판 권리를 구분. 자체 요약·원문 링크만 저장.",
+    "independence_group": "Wendel/AI2g2357; 원본 계보 미대조",
+    "accessed_at": "2026-11-09T06:58:04+09:00",
+    "access_status": "source_checked"
+  },
+  {
+    "id": "CAT-DE-SRC-0014",
+    "title": "Messerschmitt Me 262-A2 Fighter Aircraft : KG51 Luftwaffe",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 실물 기술·이력; 소장품 자체와 웹 해설 구분",
+    "locator": "REL/08385.001; Werknummer500200; Description 제1~3문단; History/Summary; HTML 무쪽번호",
+    "url": "https://www.awm.gov.au/collection/C111055",
+    "claims_checked": [
+      "500200/A-2·아마1945년2월 제작·KG51 복무라는 기관 설명",
+      "현재 MK108 30mm4문 장착·폭탄걸이2개 제거 상태",
+      "Fassberg 위치를 Netherlands로 쓴 본문과 하단 Germany 사진 설명의 불일치"
+    ],
+    "limitations": [
+      "현재 상태와 전쟁기 인도 사양의 동일성 미확인; 원 개조기록 미열람",
+      "지리 불일치는 질문으로 보존; 항복 경로를 확정 서술하지 않음",
+      "동일기관 전시 페이지와 독립 자료 아님"
+    ],
+    "rights": "기관 콘텐츠 권리 적용. 자체 요약과 링크만 저장; 이미지 복제 없음.",
+    "independence_group": "AWM-500200",
+    "accessed_at": "2026-11-09T06:58:04+09:00",
+    "access_status": "source_checked"
+  },
+  {
+    "id": "CAT-DE-SRC-0015",
+    "title": "Striking by Night — Messerschmitt Me 262",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "페이지 최종갱신 2020-02-05",
+    "source_type": "secondary: 박물관 전시 설명·제원표",
+    "locator": "Manufacturer/Type/Powerplant/Armament/Crew 표; AIR MIN81/Black X 설명; Accession link136091",
+    "url": "https://www.awm.gov.au/visit/exhibitions/striking/planes/german/me262",
+    "claims_checked": [
+      "Jumo109-004B2기·승무원1·폭장500kg1발 또는250kg2발 안내",
+      "4문30mm 표기와 소장목록 설명의 기관 내 대조"
+    ],
+    "limitations": [
+      "실제 특정 출격/하중/속력 시험기록 아님",
+      "같은 AWM 소장품에 대한 자료로 독립 확증 불가; A-2 무장 일반화 불가"
+    ],
+    "rights": "기관 콘텐츠 저작권 적용. 자체 요약·링크만 사용.",
+    "independence_group": "AWM-500200",
+    "accessed_at": "2026-11-09T06:58:04+09:00",
+    "access_status": "source_checked"
+  },
+  {
+    "id": "CAT-DE-SRC-0016",
+    "title": "German Air Force Airlift Operations (USAF Historical Studies No.167)",
+    "institution_or_author": "Generalmajor a.D. Fritz Morzik; USAF Historical Division, Research Studies Institute, Air University",
+    "publication_date": "1961-06",
+    "source_type": "retrospective participant study: 전후 참여자 연구/공식 간행물, 전시 교범 아님",
+    "locator": "Study167; 표제·Part1 §IV.A.1 인쇄p.40; 공식 스캔 AFD-090519-043; 2005 scanning 표기",
+    "url": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/151-200/AFD-090519-043.pdf",
+    "claims_checked": [
+      "Ju52의 전시 표준수송기 역할",
+      "화물 경사로·보급용기 투하·공수병 출입문·글라이더 견인 설명",
+      "표제의 저자·1961년6월·발행기관"
+    ],
+    "limitations": [
+      "전후 참여자의 서술·회고 편향 가능; 원 작전일지·세부형 교범 미대조",
+      "p40의 생산/잔존 수량은 확정 수량표에 미채택",
+      "전체 책 검수 아님; 본문 추출 열람으로 원 화상·필적 검증 주장 안 함"
+    ],
+    "rights": "미 정부 간행물 내 원 자료별 권리 별도. 자체 요약·원문 링크만 저장.",
+    "independence_group": "Morzik-USAF167",
+    "accessed_at": "2026-11-09T06:58:04+09:00",
+    "access_status": "source_checked"
   }
 ]

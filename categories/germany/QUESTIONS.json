@@ -144,5 +144,50 @@
     ],
     "evidence": "CAT-DE-03은 두 개별함의 부분 조사이며 함정 전수목록 아님.",
     "completion_condition": "함급/개별함 ID와 건조·시제/미완성·배치·실전·개장 연도 및 원자료를 연결. 정규 첫 순회는 DE04로 전진."
+  },
+  {
+    "id": "CAT-DE-RQ-0013",
+    "status": "open",
+    "question": "Wendel 원 독일어 지침·영국 번역 원본과 재조판의 일치 및 세부형/엔진 조건은 무엇인가?",
+    "related_ids": [
+      "CAT-DE-EQP-0010",
+      "CAT-DE-SRC-0013"
+    ],
+    "evidence": "후대 재조판 Report2357만 열람. 이륙 권고속도는 최고속도 시험값 아님.",
+    "completion_condition": "기록관 소장번호와 원 스캔·원 독일어·번역문을 문단별 대조하고 형식/엔진/계기속도 보정 조건 확정"
+  },
+  {
+    "id": "CAT-DE-RQ-0014",
+    "status": "open",
+    "question": "Me262 500200의 전쟁기 인도/개조 무장과 현재4문 상태 및 항복 장소 설명의 불일치는 어떻게 해소하는가?",
+    "related_ids": [
+      "CAT-DE-EQP-0010",
+      "CAT-DE-SRC-0014",
+      "CAT-DE-SRC-0015"
+    ],
+    "evidence": "AWM은 A-2 Jabo·현재MK1084문·폭탄걸이 제거를 기록. 본문 Fassberg Netherlands와 하단 사진 Germany 설명 충돌.",
+    "completion_condition": "원 인수·개조·1945년 조사기록/사진으로 시점별 무장·위치를 확인; 전시표를 모든 A-2 사양으로 일반화하지 않기"
+  },
+  {
+    "id": "CAT-DE-RQ-0015",
+    "status": "open",
+    "question": "Ju52의 세부형별 엔진·속력·항속·적재·방어무장과 작전 배치를 원자료로 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-DE-EQP-0011",
+      "CAT-DE-SRC-0016"
+    ],
+    "evidence": "USAF167 p40 전후 참여자 연구로 역할만 확인. NMUSAF 본문403. 형식별 성능값은 미확인.",
+    "completion_condition": "세부형 교범·시험·출격 적재표·부대일지의 번호/쪽 확보, 전시품/CASA후대 면허생산·전시 독일형 구분"
+  },
+  {
+    "id": "CAT-DE-RQ-0016",
+    "status": "open",
+    "question": "미조사 항공 범주를 어떻게 보완하고 기존 계열ID와 중복을 방지하는가?",
+    "related_ids": [
+      "CAT-DE-EQP-0010",
+      "CAT-DE-EQP-0011"
+    ],
+    "evidence": "이번은 Me262와 Ju52만 부분 확인. 피스톤전투·폭격·공격·정찰·훈련·연락·수상기·글라이더 등 미조사.",
+    "completion_condition": "역할별 후보의 형식/엔진/무장/개발·시제·생산·배치·실전 상태를 실제 사료에 연결; 정규 큐는 DE05로 전진"
   }
 ]
