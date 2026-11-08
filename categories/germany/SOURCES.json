@@ -5,18 +5,20 @@
     "institution_or_author": "United States War Department; U.S. Government Printing Office",
     "publication_date": "1945-03-15（발행문; 해당 본문 머리말 1945-03-01）",
     "source_type": "primary: 동시대 적군 정보 교범 원문 스캔",
-    "locator": "TM-E 30-451; 제목지 PDF 2, 서문 PDF 3; Chapter VII §VI.3~4, VII-79~85 (PDF 389~395); 시각 판독 PDF 390, 392, 393, 395",
+    "locator": "TM-E 30-451; 제목지 PDF 2, 서문 PDF 3; Chapter VII §VI.3~4, VII-79~85 (PDF 389~395); 시각 판독 PDF 390, 392, 393, 395; CAT-DE-02 추가: VII §V.1.c VII-57(PDF 367) 텍스트; §V.2.a VII-58(PDF 368), §VI.6 VII-88(PDF 398) 시각 판독",
     "url": "https://www.ibiblio.org/hyperwar/USA/ref/TM/pdfs/TME30-451.PDF",
     "access_status": "source_checked",
     "claims_checked": [
       "Model G Panzer IV, Panther, Model E Tiger 및 Model B Tiger의 표상 무장·승무원·기동 수치",
       "Tiger Model E road speed 원문 15 mph와 후대 전사본 5 mph의 불일치",
-      "발행일·정보 집계일 및 본문 머리말 날짜 구분"
+      "발행일·정보 집계일 및 본문 머리말 날짜 구분",
+      "CAT-DE-02: 자주포 분류의 역할 중첩, StuG III L/48의 무장·승무원·최대속력·선회/고저각, Sd.Kfz.251 및 251/16의 장갑수송 계열 분류"
     ],
     "limitations": [
       "독일 제조사 시험 원기록이 아닌 미군 정보자료; 실전 가동 성능으로 일반화 불가",
       "형식별 장갑·엔진·생산대장·시험 조건의 독립 검증은 미완",
-      "전체 PDF의 모든 페이지를 검수하지 않음; PDF 교차참조 복구 경고 후 해당 페이지를 실제 렌더링·판독"
+      "전체 PDF의 모든 페이지를 검수하지 않음; PDF 교차참조 복구 경고 후 해당 페이지를 실제 렌더링·판독",
+      "CAT-DE-02: StuG III 20 mph와 박물관 Ausf G 25 mph 불일치 미해결; 교범 표에 Ausf G 명시 없음"
     ],
     "rights": "미 연방정부 당대 간행물. 원문/사진 재업로드 없이 자체 한국어 요약과 링크 사용.",
     "access_attempts": [
@@ -31,7 +33,17 @@
     ],
     "sha256": "dfa9fd6f83d12beadcd3c10c7460ad46c189b665181809b0b77c66e532f25b36",
     "independence_group": "TM-E-30-451",
-    "accessed_at": "2026-11-08T18:53:10+09:00"
+    "accessed_at": "2026-11-09T00:46:17+09:00",
+    "access_history": [
+      {
+        "accessed_at": "2026-11-08T18:53:10+09:00",
+        "scope": "CAT-DE-01 열람; 기존 장부에 기록한 범위 유지"
+      },
+      {
+        "accessed_at": "2026-11-09T00:46:17+09:00",
+        "scope": "동일 해시 파일 재다운로드 및 PDF 368·398 이미지 판독, 367 텍스트 확인; xref 복구 경고"
+      }
+    ]
   },
   {
     "id": "CAT-DE-SRC-0002",
@@ -138,5 +150,88 @@
     "rights": "미 정부 원저와 후대 사이트의 편집·전사 권리를 구분. 자체 요약·링크만 사용.",
     "independence_group": "TM-E-30-451",
     "accessed_at": "2026-11-08T18:53:10+09:00"
+  },
+  {
+    "id": "CAT-DE-SRC-0007",
+    "title": "StuG III",
+    "institution_or_author": "The Tank Museum, Bovington",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 실물 이력·제원 안내",
+    "locator": "The Tank Museum’s StuG III 첫 소장품 문단; Tank facts(Full Name·Main Weapon·Crew·Speed·Armour); 공개 소장번호 미제시",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/stug-iii",
+    "accessed_at": "2026-11-09T00:46:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장 Ausf G 한 대의 1943-08~1944-09 제작 범위",
+      "75 mm StuK40 1문·승무원 4명·안내 속력 40 km/h/25 mph; 교범 최대 20 mph와 불일치"
+    ],
+    "limitations": [
+      "시험조건·원전 계보 미제시; 자료간 속력 차이의 원인 미확정",
+      "생산량·최상급 전과 표현을 검증된 사실로 채택하지 않음",
+      "Tank facts의 단일 Armour를 전 방향 두께로 일반화하지 않음"
+    ],
+    "rights": "기관 웹 콘텐츠 저작권 적용. 자체 한국어 요약·원문 링크만 사용; 사진·전문 재업로드 안 함.",
+    "independence_group": "Tank-Museum; 하위 원기록 계보 미확인"
+  },
+  {
+    "id": "CAT-DE-SRC-0008",
+    "title": "Sd Kfz 234/3",
+    "institution_or_author": "The Tank Museum, Bovington",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 계열 구분·소장품 설명",
+    "locator": "본문 첫 계열별 무장 문단 및 디젤 설명; Tank facts는 /3 대상으로 식별. 공개 소장번호 미제시",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/sd-kfz-234-3/",
+    "accessed_at": "2026-11-09T00:46:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "234/1 20 mm·/2 50 mm·/3 단포신75 mm·/4 장포신75 mm의 계열 구분",
+      "234계열 디젤 사용 설명과 미군 목록 /2 공랭 디젤의 제한적 대조"
+    ],
+    "limitations": [
+      "/3의 제원·생산량·전시품 이력을 /2로 전용하지 않음",
+      "/2의 속력·장갑·생산량·실전 배치를 독립 확증하지 않음",
+      "원 독일 교범·공장기록 미열람"
+    ],
+    "rights": "기관 웹 콘텐츠 저작권 적용. 자체 요약과 링크만 사용; 이미지 재업로드 안 함.",
+    "independence_group": "Tank-Museum; 하위 원기록 계보 미확인"
+  },
+  {
+    "id": "CAT-DE-SRC-0009",
+    "title": "Catalog of Enemy Ordnance Materiel — German section: s. Pz. Sp. Wg. (5 cm) Sd. Kfz.234/2; m. Flammpanzerwagen (Sd. Kfz.251/16)",
+    "institution_or_author": "U.S. War Department, Office of the Chief of Ordnance; Internet Archive 재현 스캔",
+    "publication_date": "해당 두 낱장 1945-04-01; 전체 편집본의 모든 쪽에 같은 날짜를 적용하지 않음",
+    "source_type": "primary: 동시대 적군 병기정보 목록 원문 스캔",
+    "locator": "German section pp.42.1(PDF 27)·46.1(PDF 29); 각 낱장 머리말·본문·SPECIFICATIONS·하단 발행기관/날짜. 스캔 식별자 CatalogOfEnemyOrdnanceMateriel",
+    "url": "https://archive.org/download/CatalogOfEnemyOrdnanceMateriel/CatalogOfEnemyOrdnanceMateriel.pdf",
+    "accessed_at": "2026-11-09T00:46:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "234/2의 5 cm Kw.K.39/1·동축 기관총 존재·승무원4·최대50 mph·공랭12기통디젤·포탑 전면30mm/수직기준20°",
+      "251/16의 대형화염방사기2·휴대형1·MG34 2정·승무원4·속력30mph·전면15mm/측면8.5mm/라디에이터덮개7.5mm",
+      "두 페이지의 인쇄일 1 April 1945와 쪽번호 직접 시각 판독"
+    ],
+    "limitations": [
+      "독일 설계/생산 원기록이 아닌 적군 정보자료; TM-E30-451과 독립된 정보계보인지 미확인",
+      "251/16의 Ausf·생산시점·실전부대·개조 상태 미기재",
+      "속력 시험일·하중·노면 조건 미기재; 관통수치는 추정 및 조건부",
+      "PDF 전체를 검수하지 않음; 제목지 OCR 불량으로 전체 발행일을 추정하지 않음"
+    ],
+    "rights": "미 연방정부 당대 간행물. 스캔은 열람·판독에만 사용; 저장소에는 자체 요약과 링크만 저장.",
+    "access_attempts": [
+      {
+        "method": "web open: curioandrelic part1 mirror",
+        "result": "Content length too large: 18058888"
+      },
+      {
+        "method": "직접 HTTPS: curioandrelic mirror",
+        "result": "HTTP 406 Not Acceptable"
+      },
+      {
+        "method": "직접 HTTPS: Internet Archive 원문 스캔, pdftotext/pdftoppm",
+        "result": "HTTP 200; 50,627,397 bytes; PDF 27·29 이미지 판독 성공"
+      }
+    ],
+    "sha256": "7b5936bcb7167512554ac08f44a0d471ab85b03edc3cde82dc570b16402e9007",
+    "independence_group": "US-Ordnance-enemy-catalog; TM-E와 공통 정보 가능"
   }
 ]

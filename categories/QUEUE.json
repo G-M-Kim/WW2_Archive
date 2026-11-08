@@ -22,8 +22,8 @@
     "category": "전차 제외 기갑장비, 무장, 성능",
     "article_path": "categories/germany/02-other-armored-vehicles.md",
     "planned_at": "2026-11-08T23:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-DE-02.json"
   },
   {
     "step": 3,

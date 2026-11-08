@@ -47,5 +47,56 @@
     ],
     "evidence": "이번 첫 검사는 네 계열의 대표 형식뿐이다. Panzer I·II·III, 35(t)·38(t), 지휘·화염방사·시제형 등은 후속 후보이며 상세 검증하지 않았다.",
     "completion_condition": "범주별 목록과 형식·개발/양산/배치/실전 상태·독립 근거를 확보하고 기존 개체와 중복을 방지. 현재 정규 큐는 02번으로 전진"
+  },
+  {
+    "id": "CAT-DE-RQ-0005",
+    "status": "open",
+    "question": "StuG III 교범의 최대 20 mph와 박물관 Ausf G 25 mph는 형식·설정·시험조건의 어떤 차이인가?",
+    "related_ids": [
+      "CAT-DE-EQP-0005",
+      "CAT-DE-SRC-0001",
+      "CAT-DE-SRC-0007"
+    ],
+    "evidence": "TM-E VII-58과 박물관 Tank facts의 속력 불일치. 동일 시험·형식이라는 근거 없음.",
+    "completion_condition": "독일 해당 형식 교범/시험보고의 문서번호·쪽과 노면·하중·회전수 조건을 확보; 설명이 없으면 disputed 유지"
+  },
+  {
+    "id": "CAT-DE-RQ-0006",
+    "status": "open",
+    "question": "대표 세 사례의 형식별 양산·인도·배치·실전 이력을 독일 기록으로 어디까지 확증할 수 있는가?",
+    "related_ids": [
+      "CAT-DE-EQP-0005",
+      "CAT-DE-EQP-0006",
+      "CAT-DE-EQP-0007",
+      "CAT-DE-SRC-0009"
+    ],
+    "evidence": "당대 정보자료에 실렸다는 사실은 형식 전체의 동일 사양·실전 투입량을 입증하지 않는다. 251/16 낱장은 Ausf를 제시하지 않는다.",
+    "completion_condition": "형식·차대·월별 생산/인수·부대 전투기록을 문서번호·쪽으로 연결하고 시제/양산/수리/개조를 분리"
+  },
+  {
+    "id": "CAT-DE-RQ-0007",
+    "status": "open",
+    "question": "미조사 장갑수송형·구축전차·자주포·대공/공병/구난·노획개조 차량은 어떻게 보완할 것인가?",
+    "related_ids": [
+      "CAT-DE-SRC-0001",
+      "CAT-DE-EQP-0005",
+      "CAT-DE-EQP-0006",
+      "CAT-DE-EQP-0007"
+    ],
+    "evidence": "이번은 세 대표 사례이며 기본 250/251 수송형, 다른 장갑차, Jagdpanzer·Jagdpanther·Wespe·Hummel 등은 상세 형식/제원/실전 검증하지 않았다.",
+    "completion_condition": "후속 보완에서 범주별 후보를 실제 사료로 판정하고 01 전차 및 기존 EQP ID와 중복 방지. 정규 첫 순회는 03으로 진행"
+  },
+  {
+    "id": "CAT-DE-RQ-0008",
+    "status": "open",
+    "question": "무장·승무원·기동 성능의 독립된 독일 원기록 및 자료 계보를 확보할 수 있는가?",
+    "related_ids": [
+      "CAT-DE-SRC-0001",
+      "CAT-DE-SRC-0007",
+      "CAT-DE-SRC-0008",
+      "CAT-DE-SRC-0009"
+    ],
+    "evidence": "미군 두 간행물은 공통 정보 가능성이 있고 박물관 안내도 하위 원전을 밝히지 않는다. 일부 일치를 독립 확증으로 세지 않았다.",
+    "completion_condition": "독일 원 교범/설계·시험 자료의 소장번호·문서/쪽을 실제 열람하고 각 주장별 교차검증 및 자료계보를 기록"
   }
 ]
