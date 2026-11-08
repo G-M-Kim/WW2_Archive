@@ -1,5 +1,5 @@
 {
-  "status": "update_pending",
+  "status": "enabled",
   "automation_id": "Automation_3eee281072dc819194ac5604d3c3b374",
   "timezone": "Asia/Seoul",
   "interval_hours": 5,
@@ -10,12 +10,12 @@
   "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T223000\nRRULE:FREQ=HOURLY;INTERVAL=5;COUNT=132\nEND:VEVENT",
   "timing_mode": "exact_schedule",
   "draft_pr_number": 2,
-  "note": "19항목 확장 및 첫 항목 수동 복구에 맞춘 남은 132회 예약 변경 대기. 연구 저장 성공 뒤 도구로 실제 갱신 결과를 기록한다.",
-  "returned_schedule": null,
+  "note": "예약 갱신 도구에서 활성 상태와 5시간 간격·남은 COUNT=132 확인. 독일 01 수동 연구 커밋은 완료. 내부 예약 실패 원인은 미공개이며 다음 자동 실행 성공을 뜻하지 않는다.",
+  "returned_schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T223000\nRRULE:FREQ=HOURLY;INTERVAL=5;COUNT=132\nEND:VEVENT",
   "default_timezone": "Asia/Seoul",
-  "is_enabled": null,
+  "is_enabled": true,
   "draft_pr_url": "https://github.com/G-M-Kim/WW2_Archive/pull/2",
-  "confirmed_at": null,
+  "confirmed_at": "2026-11-08T09:54:34.728607+00:00",
   "previous_schedule": {
     "count": 105,
     "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T173000\nRRULE:FREQ=HOURLY;INTERVAL=5;COUNT=105\nEND:VEVENT",
@@ -25,5 +25,7 @@
   },
   "total_steps": 133,
   "manually_completed_count": 1,
-  "diagnostic_path": "categories/maintenance/2026-11-08-schedule-diagnostic.json"
+  "diagnostic_path": "categories/maintenance/2026-11-08-schedule-diagnostic.json",
+  "recovery_research_commit": "e1acfdf7c9111d664784a33039b2c34b421ac759",
+  "updated_prompt_path": "categories/AUTOMATION_PROMPT.md"
 }
