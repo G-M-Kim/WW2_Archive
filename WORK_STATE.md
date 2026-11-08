@@ -1,11 +1,13 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-09-10
-FORWARD_INSPECTED_THROUGH: 1941-09-09
-CURRENT_FORWARD_BATCH: 1941-09-10..1941-09-12
+FORWARD_CURSOR: 1941-09-13
+FORWARD_INSPECTED_THROUGH: 1941-09-12
+CURRENT_FORWARD_BATCH: 1941-09-13..1941-09-15
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-09
 
 ## 최신 실행 — 2026-11-09
+- 1941-09-10..12 forward 선별 감사: FRUS I d777, IV d318 원문 및 III d292 공식 서지 확인. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-sep10-12-batch1.md). 미확인 전역·실제 이행은 BACKFILL_QUEUE/RQ-0007, 다음 1941-09-13.
+
 - 1941-09-07..09 forward 선별 사료감사: FRUS III d446/d447, IV d315 원문 확인. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-sep07-09-batch1.md). 실제 이란 점령·추방 집행 및 타전역은 backfill/RQ-1227, 다음 1941-09-10.
 
 - 1941-09-04..06 forward 선별 사료감사. FRUS III d438/d442 및 IV d304 원문 대조; 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-sep04-06-batch1.md). 추방 실제 집행·중국·동부전선·아프리카·민간인 미확인은 RQ-1227 및 BACKFILL_QUEUE. 다음 FORWARD_CURSOR 1941-09-07.
