@@ -1,7 +1,7 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-07-30
-FORWARD_INSPECTED_THROUGH: 1941-07-29
-CURRENT_FORWARD_BATCH: 1941-07-30..1941-08-01
+FORWARD_CURSOR: 1941-08-02
+FORWARD_INSPECTED_THROUGH: 1941-08-01
+CURRENT_FORWARD_BATCH: 1941-08-02..1941-08-04
 TOTAL_EVT_SRC_RQ: 3611/2032/1225
 AS_OF: 2026-11-08
 
@@ -17,6 +17,9 @@ AS_OF: 2026-11-08
 - **운영 절차:** [research/RESEARCH_PROTOCOL.md](research/RESEARCH_PROTOCOL.md). 과거 상태 로그는 [보존본](research/WORK_STATE_HISTORY_2026-11-07.md)에만 있다. 과거의 FORWARD_CURSOR·다음 날짜는 사용하지 않는다.
 
 ## BACKFILL_QUEUE (진행을 차단하지 않음)
+
+- 1941-07-30~08-01: 7/30 독립 사건 및 동부전선·중국·아프리카·점령민간인 원자료 미대조; FRUS V doc.254/256/258은 감사 후보로 확보, 정본 EVT/SRC 미색인. [사료감사](source-audit-1941-jul30-aug01-batch1.md). 기존 RQ-1223~1225 연계.
+
 
 - 1941-07-27~29: 인도차이나 협정 발효·진주 실수, 동인도 군수지원 실행, 7/27 및 타전역 민간인 미조사. RQ-1223~1225.
 
