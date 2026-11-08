@@ -1,6 +1,6 @@
 {
-  "status": "not_yet_created",
-  "automation_id": null,
+  "status": "enabled",
+  "automation_id": "Automation_3eee281072dc819194ac5604d3c3b374",
   "timezone": "Asia/Seoul",
   "interval_hours": 5,
   "count": 105,
@@ -9,6 +9,11 @@
   "last_planned_at": "2026-11-30T09:30:00+09:00",
   "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T173000\nRRULE:FREQ=HOURLY;INTERVAL=5;COUNT=105\nEND:VEVENT",
   "timing_mode": "exact_schedule",
-  "draft_pr_number": null,
-  "note": "예약 생성 도구의 성공 확인 후 실제 ID와 반환 일정을 기록한다."
+  "draft_pr_number": 2,
+  "note": "예약 생성 도구에서 활성 상태와 일정을 확인함. 실제 실행 성공과 역사적 사실 검증 완료를 뜻하지 않는다.",
+  "returned_schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T173000\nRRULE:FREQ=HOURLY;INTERVAL=5;COUNT=105\nEND:VEVENT",
+  "default_timezone": "Asia/Seoul",
+  "is_enabled": true,
+  "draft_pr_url": "https://github.com/G-M-Kim/WW2_Archive/pull/2",
+  "confirmed_at": "2026-11-08T03:31:22.801600+00:00"
 }
