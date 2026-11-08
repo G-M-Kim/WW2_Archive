@@ -467,3 +467,6 @@ pr: 1
 
 ## 2026-11-08 / 1941-07-06~08 forward
 - 신규 5 EVT / 5 SRC / 4 RQ, 누적 3600 / 2019 / 1211. [감사](source-audit-1941-jul06-08-batch1.md); FRUS 5건 직접 확인. FORWARD_CURSOR 1941-07-09. 미검증 지역은 RQ/BACKFILL_QUEUE 유지. Draft 유지·병합 보류.
+
+## 2026-11-08 / 1941-07-09~11 forward
+- 신규 2 EVT / 2 SRC / 2 RQ, 누적 3602 / 2021 / 1213. [감사](source-audit-1941-jul09-11-batch1.md); FRUS 2건 원문 확인, 다른 3건은 감사 보존·색인 미반영. FORWARD_CURSOR 1941-07-12. Draft 유지·병합 보류.

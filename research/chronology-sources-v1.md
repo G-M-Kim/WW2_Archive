@@ -2286,3 +2286,6 @@ as_of: 2026-11-04
 | SRC-2017 | FRUS 1941 IV doc.199, Hamilton, 1941-07-07 | 1차 외교문서 후대 편집 전사 | 711.94/2178 5/18 | https://history.state.gov/historicaldocuments/frus1941v04/d199 | 2026-11-08 직접 확인; 6월30일 전화·보도 대응의 7월7일 기록; 발표 아님 |
 | SRC-2018 | FRUS 1941 IV doc.202, Ballantine, 1941-07-08 | 1차 외교문서 후대 편집 전사 | 711.94/2178 7/18 | https://history.state.gov/historicaldocuments/frus1941v04/d202 | 2026-11-08 직접 확인; 일본 단체 결성 신문보도 분석; 실제 정책 미확인 |
 | SRC-2019 | FRUS 1941 IV doc.203, Grew, 1941-07-08 | 1차 외교문서 후대 편집 전사 | 894.20211 Tachibana Itaru/23 | https://history.state.gov/historicaldocuments/frus1941v04/d203 | 2026-11-08 직접 확인; 조선 미국인 선교사 서약서 문제 면담; 총독부 실제 조치 미확인 |
+
+| SRC-2020 | US Department of State, FRUS 1941 IV doc.204, Grew telegram, 1941-07-09 | 1차 미국 외교전보 후대 편집 전사 | FRUS 1941 IV doc.204 | https://history.state.gov/historicaldocuments/frus1941v04/d204 | 2026-11-08 원문 확인; 독일 압박·일본 차단 가능성은 그루의 분석이며 일본 실제 정책 아님 |
+| SRC-2021 | US Department of State, FRUS 1941 I doc.739, Welles memorandum, 1941-07-10 | 1차 미국 면담기록 후대 편집 전사 | FRUS 1941 I doc.739 | https://history.state.gov/historicaldocuments/frus1941v01/d739 | 2026-11-08 원문 확인; 10월1일 이전 도착은 목표, 대통령-우만스키 면담 원기록은 편집주석상 미발견 |
