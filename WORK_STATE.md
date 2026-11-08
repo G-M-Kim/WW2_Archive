@@ -1,7 +1,7 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-08-14
-FORWARD_INSPECTED_THROUGH: 1941-08-13
-CURRENT_FORWARD_BATCH: 1941-08-14..1941-08-16
+FORWARD_CURSOR: 1941-08-17
+FORWARD_INSPECTED_THROUGH: 1941-08-16
+CURRENT_FORWARD_BATCH: 1941-08-17..1941-08-19
 TOTAL_EVT_SRC_RQ: 3612/2033/1226
 AS_OF: 2026-11-08
 
@@ -17,6 +17,9 @@ AS_OF: 2026-11-08
 - **운영 절차:** [research/RESEARCH_PROTOCOL.md](research/RESEARCH_PROTOCOL.md). 과거 상태 로그는 [보존본](research/WORK_STATE_HISTORY_2026-11-07.md)에만 있다. 과거의 FORWARD_CURSOR·다음 날짜는 사용하지 않는다.
 
 ## BACKFILL_QUEUE (진행을 차단하지 않음)
+
+- 1941-08-14~16: 대서양 헌장 공동성명 발표 원문 확인. 8/15~16 전역별 사건, 중국·아프리카·점령지 민간인, 일본 JACAR 원문 이미지, 식민지 반응·실제 이행 미검증. [감사](source-audit-1941-aug14-16-batch1.md). 신규 ID 미배정.
+
 
 - 1941-08-11~13: 미일 민간인 귀환·태국 교역·폴란드군 편성 구상·소련 폴란드인 사면령 등 FRUS 선별 감사. 실제 승선/물자 인도/부대 편성/석방 및 다른 전역 미확인. [감사](source-audit-1941-aug11-13-batch1.md). 신규 ID 미배정.
 
@@ -88,6 +91,8 @@ AS_OF: 2026-11-08
 
 
 ## 최신 조사 (2026-11-08)
+- **1941-08-14~16 forward 선별 감사**, 신규 0/0/0, 누적 3612/2033/1226; [감사](source-audit-1941-aug14-16-batch1.md). 다음 커서 **1941-08-17**.
+
 - **1941-08-11~13 forward 선별 감사**, 신규 0/0/0, 누적 3612/2033/1226; [감사](source-audit-1941-aug11-13-batch1.md). 다음 커서 **1941-08-14**.
 
 - **1941-08-08~10 forward 선별 감사**, 신규 0/0/0, 누적 3612/2033/1226; [감사](source-audit-1941-aug08-10-batch1.md). 다음 커서 **1941-08-11**.
