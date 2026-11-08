@@ -1,7 +1,7 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-09-01
-FORWARD_INSPECTED_THROUGH: 1941-08-31
-CURRENT_FORWARD_BATCH: 1941-09-01..1941-09-03
+FORWARD_CURSOR: 1941-09-04
+FORWARD_INSPECTED_THROUGH: 1941-09-03
+CURRENT_FORWARD_BATCH: 1941-09-04..1941-09-06
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-09
 
@@ -17,6 +17,9 @@ AS_OF: 2026-11-09
 - **운영 절차:** [research/RESEARCH_PROTOCOL.md](research/RESEARCH_PROTOCOL.md). 과거 상태 로그는 [보존본](research/WORK_STATE_HISTORY_2026-11-07.md)에만 있다. 과거의 FORWARD_CURSOR·다음 날짜는 사용하지 않는다.
 
 ## BACKFILL_QUEUE (진행을 차단하지 않음)
+
+- 1941-09-01~03: FRUS III d427(8/30 발신·9/1 접수), d434(9/2 대통령 답신), d439(9/4 재인용) 대조. 영·소 요구조건 실제 시행·이란 측 수신·9/1·3 타전역 및 민간인 자료 미확인. RQ-1227 연계. [감사](source-audit-1941-sep01-03-batch1.md); 신규 ID 없음.
+
 
 - 1941-08-26~28: 미국의 이란 중재 검토·이란 대소 항의·소련 설명문 영문 보도 구분. 이란 각서 원문/본국 승인·군사일지·민간인 및 타전역 미확인. [감사](source-audit-1941-aug26-28-batch1.md); 기존 RQ-1227 연계, 신규 ID 없음.
 
