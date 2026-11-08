@@ -1,21 +1,21 @@
 {
   "status": "enabled",
-  "automation_id": "Automation_3eee281072dc819194ac5604d3c3b374",
+  "automation_id": "Automation_13524a92af348191b3972ebef1287d3f",
   "timezone": "Asia/Seoul",
   "interval_hours": 2,
   "count": 132,
   "planning_anchor": "2026-11-08T12:30:00+09:00",
-  "first_planned_at": "2026-11-08T19:30:00+09:00",
-  "last_planned_at": "2026-11-19T17:30:00+09:00",
-  "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T193000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT",
+  "first_planned_at": "2026-11-08T23:30:00+09:00",
+  "last_planned_at": "2026-11-19T21:30:00+09:00",
+  "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T233000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT",
   "timing_mode": "exact_schedule",
   "draft_pr_number": 2,
-  "note": "사용자 요청으로 2시간 간격·남은 COUNT=132로 단축했고 도구에서 활성 상태와 일정을 확인했다. 기존 조사 진도 1/133과 항목별 연구 기준은 유지한다. 다음 자동 실행 성공 여부와는 별개다.",
-  "returned_schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T193000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT",
+  "note": "현재 대화에서 조회 가능한 예약에 기존 카테고리 예약이 없고 원래 ID 직접 조회도 접근 불가였다. 삭제/중지 여부는 불명이다. 현재 대화에 2시간 간격 COUNT=132로 새 예약을 등록했다. 연구 진도는 1/133 그대로이며 첫 실행 성공은 아직 미검증이다. PROTOCOL의 이전 예약 식별/주기/동시 저장 규칙으로 중복을 줄인다.",
+  "returned_schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T233000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT",
   "default_timezone": "Asia/Seoul",
   "is_enabled": true,
   "draft_pr_url": "https://github.com/G-M-Kim/WW2_Archive/pull/2",
-  "confirmed_at": "2026-11-08T09:57:45.046632+00:00",
+  "confirmed_at": "2026-11-08T14:00:54.681220+00:00",
   "previous_schedule": {
     "count": 105,
     "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T173000\nRRULE:FREQ=HOURLY;INTERVAL=5;COUNT=105\nEND:VEVENT",
@@ -38,6 +38,22 @@
       "confirmed_at": "2026-11-08T09:54:34.728607+00:00",
       "superseded_at": "2026-11-08T09:57:45.046632+00:00",
       "reason": "사용자 요청: 2시간 간격으로 단축"
+    },
+    {
+      "automation_id": "Automation_3eee281072dc819194ac5604d3c3b374",
+      "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T193000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT",
+      "first_planned_at": "2026-11-08T19:30:00+09:00",
+      "last_planned_at": "2026-11-19T17:30:00+09:00",
+      "recorded_at": "2026-11-08T14:00:54.681220+00:00",
+      "reason": "현재 도구에서 기존 예약에 접근 불가. 이전 예약 중지는 확인되지 않음. 현재 대화로 재등록."
     }
-  ]
+  ],
+  "previous_automation": {
+    "automation_id": "Automation_3eee281072dc819194ac5604d3c3b374",
+    "status": "not_accessible_in_current_context",
+    "disabled_confirmed": false,
+    "checked_at": "2026-11-08T14:00:54.681220+00:00",
+    "previous_schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T193000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT"
+  },
+  "registration_diagnostic_path": "categories/maintenance/2026-11-08-reregistration.json"
 }

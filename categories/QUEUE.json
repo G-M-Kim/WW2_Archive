@@ -21,7 +21,7 @@
     "category_number": 2,
     "category": "전차 제외 기갑장비, 무장, 성능",
     "article_path": "categories/germany/02-other-armored-vehicles.md",
-    "planned_at": "2026-11-08T19:30:00+09:00",
+    "planned_at": "2026-11-08T23:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -34,7 +34,7 @@
     "category_number": 3,
     "category": "함선 및 함정, 무장, 성능",
     "article_path": "categories/germany/03-naval-vessels.md",
-    "planned_at": "2026-11-08T21:30:00+09:00",
+    "planned_at": "2026-11-09T01:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -47,7 +47,7 @@
     "category_number": 4,
     "category": "항공기, 무장, 성능",
     "article_path": "categories/germany/04-aircraft.md",
-    "planned_at": "2026-11-08T23:30:00+09:00",
+    "planned_at": "2026-11-09T03:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -60,7 +60,7 @@
     "category_number": 5,
     "category": "보병 무기 및 장비",
     "article_path": "categories/germany/05-infantry-equipment.md",
-    "planned_at": "2026-11-09T01:30:00+09:00",
+    "planned_at": "2026-11-09T05:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -73,7 +73,7 @@
     "category_number": 6,
     "category": "WW2에서 빼놓을 수 없는 장비",
     "article_path": "categories/germany/06-essential-technology.md",
-    "planned_at": "2026-11-09T03:30:00+09:00",
+    "planned_at": "2026-11-09T07:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -86,7 +86,7 @@
     "category_number": 7,
     "category": "유명한 전투 참여 인물",
     "article_path": "categories/germany/07-combat-personnel.md",
-    "planned_at": "2026-11-09T05:30:00+09:00",
+    "planned_at": "2026-11-09T09:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -99,7 +99,7 @@
     "category_number": 8,
     "category": "유명한 정치 인물",
     "article_path": "categories/germany/08-political-personnel.md",
-    "planned_at": "2026-11-09T07:30:00+09:00",
+    "planned_at": "2026-11-09T11:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -112,7 +112,7 @@
     "category_number": 9,
     "category": "유명한 학자·연구자",
     "article_path": "categories/germany/09-scientific-personnel.md",
-    "planned_at": "2026-11-09T09:30:00+09:00",
+    "planned_at": "2026-11-09T13:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -125,7 +125,7 @@
     "category_number": 10,
     "category": "유명 연설의 영상자료",
     "article_path": "categories/germany/10-speech-videos.md",
-    "planned_at": "2026-11-09T11:30:00+09:00",
+    "planned_at": "2026-11-09T15:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -138,7 +138,7 @@
     "category_number": 11,
     "category": "유명 군수기업",
     "article_path": "categories/germany/11-military-industry.md",
-    "planned_at": "2026-11-09T13:30:00+09:00",
+    "planned_at": "2026-11-09T17:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -151,7 +151,7 @@
     "category_number": 12,
     "category": "당시 인구",
     "article_path": "categories/germany/12-population.md",
-    "planned_at": "2026-11-09T15:30:00+09:00",
+    "planned_at": "2026-11-09T19:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -164,7 +164,7 @@
     "category_number": 13,
     "category": "당시 기준 지명",
     "article_path": "categories/germany/13-historical-place-names.md",
-    "planned_at": "2026-11-09T17:30:00+09:00",
+    "planned_at": "2026-11-09T21:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -177,7 +177,7 @@
     "category_number": 14,
     "category": "당시 영토",
     "article_path": "categories/germany/14-territory.md",
-    "planned_at": "2026-11-09T19:30:00+09:00",
+    "planned_at": "2026-11-09T23:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -190,7 +190,7 @@
     "category_number": 15,
     "category": "영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐",
     "article_path": "categories/germany/15-resources.md",
-    "planned_at": "2026-11-09T21:30:00+09:00",
+    "planned_at": "2026-11-10T01:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -205,7 +205,7 @@
     "status": "pending",
     "run_record": null,
     "step": 16,
-    "planned_at": "2026-11-09T23:30:00+09:00"
+    "planned_at": "2026-11-10T03:30:00+09:00"
   },
   {
     "job_id": "CAT-DE-17",
@@ -218,7 +218,7 @@
     "status": "pending",
     "run_record": null,
     "step": 17,
-    "planned_at": "2026-11-10T01:30:00+09:00"
+    "planned_at": "2026-11-10T05:30:00+09:00"
   },
   {
     "job_id": "CAT-DE-18",
@@ -231,7 +231,7 @@
     "status": "pending",
     "run_record": null,
     "step": 18,
-    "planned_at": "2026-11-10T03:30:00+09:00"
+    "planned_at": "2026-11-10T07:30:00+09:00"
   },
   {
     "job_id": "CAT-DE-19",
@@ -244,7 +244,7 @@
     "status": "pending",
     "run_record": null,
     "step": 19,
-    "planned_at": "2026-11-10T05:30:00+09:00"
+    "planned_at": "2026-11-10T09:30:00+09:00"
   },
   {
     "step": 20,
@@ -255,7 +255,7 @@
     "category_number": 1,
     "category": "전차장비, 무장, 성능",
     "article_path": "categories/france/01-tanks.md",
-    "planned_at": "2026-11-10T07:30:00+09:00",
+    "planned_at": "2026-11-10T11:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -268,7 +268,7 @@
     "category_number": 2,
     "category": "전차 제외 기갑장비, 무장, 성능",
     "article_path": "categories/france/02-other-armored-vehicles.md",
-    "planned_at": "2026-11-10T09:30:00+09:00",
+    "planned_at": "2026-11-10T13:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -281,7 +281,7 @@
     "category_number": 3,
     "category": "함선 및 함정, 무장, 성능",
     "article_path": "categories/france/03-naval-vessels.md",
-    "planned_at": "2026-11-10T11:30:00+09:00",
+    "planned_at": "2026-11-10T15:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -294,7 +294,7 @@
     "category_number": 4,
     "category": "항공기, 무장, 성능",
     "article_path": "categories/france/04-aircraft.md",
-    "planned_at": "2026-11-10T13:30:00+09:00",
+    "planned_at": "2026-11-10T17:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -307,7 +307,7 @@
     "category_number": 5,
     "category": "보병 무기 및 장비",
     "article_path": "categories/france/05-infantry-equipment.md",
-    "planned_at": "2026-11-10T15:30:00+09:00",
+    "planned_at": "2026-11-10T19:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -320,7 +320,7 @@
     "category_number": 6,
     "category": "WW2에서 빼놓을 수 없는 장비",
     "article_path": "categories/france/06-essential-technology.md",
-    "planned_at": "2026-11-10T17:30:00+09:00",
+    "planned_at": "2026-11-10T21:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -333,7 +333,7 @@
     "category_number": 7,
     "category": "유명한 전투 참여 인물",
     "article_path": "categories/france/07-combat-personnel.md",
-    "planned_at": "2026-11-10T19:30:00+09:00",
+    "planned_at": "2026-11-10T23:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -346,7 +346,7 @@
     "category_number": 8,
     "category": "유명한 정치 인물",
     "article_path": "categories/france/08-political-personnel.md",
-    "planned_at": "2026-11-10T21:30:00+09:00",
+    "planned_at": "2026-11-11T01:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -359,7 +359,7 @@
     "category_number": 9,
     "category": "유명한 학자·연구자",
     "article_path": "categories/france/09-scientific-personnel.md",
-    "planned_at": "2026-11-10T23:30:00+09:00",
+    "planned_at": "2026-11-11T03:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -372,7 +372,7 @@
     "category_number": 10,
     "category": "유명 연설의 영상자료",
     "article_path": "categories/france/10-speech-videos.md",
-    "planned_at": "2026-11-11T01:30:00+09:00",
+    "planned_at": "2026-11-11T05:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -385,7 +385,7 @@
     "category_number": 11,
     "category": "유명 군수기업",
     "article_path": "categories/france/11-military-industry.md",
-    "planned_at": "2026-11-11T03:30:00+09:00",
+    "planned_at": "2026-11-11T07:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -398,7 +398,7 @@
     "category_number": 12,
     "category": "당시 인구",
     "article_path": "categories/france/12-population.md",
-    "planned_at": "2026-11-11T05:30:00+09:00",
+    "planned_at": "2026-11-11T09:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -411,7 +411,7 @@
     "category_number": 13,
     "category": "당시 기준 지명",
     "article_path": "categories/france/13-historical-place-names.md",
-    "planned_at": "2026-11-11T07:30:00+09:00",
+    "planned_at": "2026-11-11T11:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -424,7 +424,7 @@
     "category_number": 14,
     "category": "당시 영토",
     "article_path": "categories/france/14-territory.md",
-    "planned_at": "2026-11-11T09:30:00+09:00",
+    "planned_at": "2026-11-11T13:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -437,7 +437,7 @@
     "category_number": 15,
     "category": "영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐",
     "article_path": "categories/france/15-resources.md",
-    "planned_at": "2026-11-11T11:30:00+09:00",
+    "planned_at": "2026-11-11T15:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -452,7 +452,7 @@
     "status": "pending",
     "run_record": null,
     "step": 35,
-    "planned_at": "2026-11-11T13:30:00+09:00"
+    "planned_at": "2026-11-11T17:30:00+09:00"
   },
   {
     "job_id": "CAT-FR-17",
@@ -465,7 +465,7 @@
     "status": "pending",
     "run_record": null,
     "step": 36,
-    "planned_at": "2026-11-11T15:30:00+09:00"
+    "planned_at": "2026-11-11T19:30:00+09:00"
   },
   {
     "job_id": "CAT-FR-18",
@@ -478,7 +478,7 @@
     "status": "pending",
     "run_record": null,
     "step": 37,
-    "planned_at": "2026-11-11T17:30:00+09:00"
+    "planned_at": "2026-11-11T21:30:00+09:00"
   },
   {
     "job_id": "CAT-FR-19",
@@ -491,7 +491,7 @@
     "status": "pending",
     "run_record": null,
     "step": 38,
-    "planned_at": "2026-11-11T19:30:00+09:00"
+    "planned_at": "2026-11-11T23:30:00+09:00"
   },
   {
     "step": 39,
@@ -502,7 +502,7 @@
     "category_number": 1,
     "category": "전차장비, 무장, 성능",
     "article_path": "categories/united-kingdom/01-tanks.md",
-    "planned_at": "2026-11-11T21:30:00+09:00",
+    "planned_at": "2026-11-12T01:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -515,7 +515,7 @@
     "category_number": 2,
     "category": "전차 제외 기갑장비, 무장, 성능",
     "article_path": "categories/united-kingdom/02-other-armored-vehicles.md",
-    "planned_at": "2026-11-11T23:30:00+09:00",
+    "planned_at": "2026-11-12T03:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -528,7 +528,7 @@
     "category_number": 3,
     "category": "함선 및 함정, 무장, 성능",
     "article_path": "categories/united-kingdom/03-naval-vessels.md",
-    "planned_at": "2026-11-12T01:30:00+09:00",
+    "planned_at": "2026-11-12T05:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -541,7 +541,7 @@
     "category_number": 4,
     "category": "항공기, 무장, 성능",
     "article_path": "categories/united-kingdom/04-aircraft.md",
-    "planned_at": "2026-11-12T03:30:00+09:00",
+    "planned_at": "2026-11-12T07:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -554,7 +554,7 @@
     "category_number": 5,
     "category": "보병 무기 및 장비",
     "article_path": "categories/united-kingdom/05-infantry-equipment.md",
-    "planned_at": "2026-11-12T05:30:00+09:00",
+    "planned_at": "2026-11-12T09:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -567,7 +567,7 @@
     "category_number": 6,
     "category": "WW2에서 빼놓을 수 없는 장비",
     "article_path": "categories/united-kingdom/06-essential-technology.md",
-    "planned_at": "2026-11-12T07:30:00+09:00",
+    "planned_at": "2026-11-12T11:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -580,7 +580,7 @@
     "category_number": 7,
     "category": "유명한 전투 참여 인물",
     "article_path": "categories/united-kingdom/07-combat-personnel.md",
-    "planned_at": "2026-11-12T09:30:00+09:00",
+    "planned_at": "2026-11-12T13:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -593,7 +593,7 @@
     "category_number": 8,
     "category": "유명한 정치 인물",
     "article_path": "categories/united-kingdom/08-political-personnel.md",
-    "planned_at": "2026-11-12T11:30:00+09:00",
+    "planned_at": "2026-11-12T15:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -606,7 +606,7 @@
     "category_number": 9,
     "category": "유명한 학자·연구자",
     "article_path": "categories/united-kingdom/09-scientific-personnel.md",
-    "planned_at": "2026-11-12T13:30:00+09:00",
+    "planned_at": "2026-11-12T17:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -619,7 +619,7 @@
     "category_number": 10,
     "category": "유명 연설의 영상자료",
     "article_path": "categories/united-kingdom/10-speech-videos.md",
-    "planned_at": "2026-11-12T15:30:00+09:00",
+    "planned_at": "2026-11-12T19:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -632,7 +632,7 @@
     "category_number": 11,
     "category": "유명 군수기업",
     "article_path": "categories/united-kingdom/11-military-industry.md",
-    "planned_at": "2026-11-12T17:30:00+09:00",
+    "planned_at": "2026-11-12T21:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -645,7 +645,7 @@
     "category_number": 12,
     "category": "당시 인구",
     "article_path": "categories/united-kingdom/12-population.md",
-    "planned_at": "2026-11-12T19:30:00+09:00",
+    "planned_at": "2026-11-12T23:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -658,7 +658,7 @@
     "category_number": 13,
     "category": "당시 기준 지명",
     "article_path": "categories/united-kingdom/13-historical-place-names.md",
-    "planned_at": "2026-11-12T21:30:00+09:00",
+    "planned_at": "2026-11-13T01:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -671,7 +671,7 @@
     "category_number": 14,
     "category": "당시 영토",
     "article_path": "categories/united-kingdom/14-territory.md",
-    "planned_at": "2026-11-12T23:30:00+09:00",
+    "planned_at": "2026-11-13T03:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -684,7 +684,7 @@
     "category_number": 15,
     "category": "영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐",
     "article_path": "categories/united-kingdom/15-resources.md",
-    "planned_at": "2026-11-13T01:30:00+09:00",
+    "planned_at": "2026-11-13T05:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -699,7 +699,7 @@
     "status": "pending",
     "run_record": null,
     "step": 54,
-    "planned_at": "2026-11-13T03:30:00+09:00"
+    "planned_at": "2026-11-13T07:30:00+09:00"
   },
   {
     "job_id": "CAT-GB-17",
@@ -712,7 +712,7 @@
     "status": "pending",
     "run_record": null,
     "step": 55,
-    "planned_at": "2026-11-13T05:30:00+09:00"
+    "planned_at": "2026-11-13T09:30:00+09:00"
   },
   {
     "job_id": "CAT-GB-18",
@@ -725,7 +725,7 @@
     "status": "pending",
     "run_record": null,
     "step": 56,
-    "planned_at": "2026-11-13T07:30:00+09:00"
+    "planned_at": "2026-11-13T11:30:00+09:00"
   },
   {
     "job_id": "CAT-GB-19",
@@ -738,7 +738,7 @@
     "status": "pending",
     "run_record": null,
     "step": 57,
-    "planned_at": "2026-11-13T09:30:00+09:00"
+    "planned_at": "2026-11-13T13:30:00+09:00"
   },
   {
     "step": 58,
@@ -749,7 +749,7 @@
     "category_number": 1,
     "category": "전차장비, 무장, 성능",
     "article_path": "categories/united-states/01-tanks.md",
-    "planned_at": "2026-11-13T11:30:00+09:00",
+    "planned_at": "2026-11-13T15:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -762,7 +762,7 @@
     "category_number": 2,
     "category": "전차 제외 기갑장비, 무장, 성능",
     "article_path": "categories/united-states/02-other-armored-vehicles.md",
-    "planned_at": "2026-11-13T13:30:00+09:00",
+    "planned_at": "2026-11-13T17:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -775,7 +775,7 @@
     "category_number": 3,
     "category": "함선 및 함정, 무장, 성능",
     "article_path": "categories/united-states/03-naval-vessels.md",
-    "planned_at": "2026-11-13T15:30:00+09:00",
+    "planned_at": "2026-11-13T19:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -788,7 +788,7 @@
     "category_number": 4,
     "category": "항공기, 무장, 성능",
     "article_path": "categories/united-states/04-aircraft.md",
-    "planned_at": "2026-11-13T17:30:00+09:00",
+    "planned_at": "2026-11-13T21:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -801,7 +801,7 @@
     "category_number": 5,
     "category": "보병 무기 및 장비",
     "article_path": "categories/united-states/05-infantry-equipment.md",
-    "planned_at": "2026-11-13T19:30:00+09:00",
+    "planned_at": "2026-11-13T23:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -814,7 +814,7 @@
     "category_number": 6,
     "category": "WW2에서 빼놓을 수 없는 장비",
     "article_path": "categories/united-states/06-essential-technology.md",
-    "planned_at": "2026-11-13T21:30:00+09:00",
+    "planned_at": "2026-11-14T01:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -827,7 +827,7 @@
     "category_number": 7,
     "category": "유명한 전투 참여 인물",
     "article_path": "categories/united-states/07-combat-personnel.md",
-    "planned_at": "2026-11-13T23:30:00+09:00",
+    "planned_at": "2026-11-14T03:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -840,7 +840,7 @@
     "category_number": 8,
     "category": "유명한 정치 인물",
     "article_path": "categories/united-states/08-political-personnel.md",
-    "planned_at": "2026-11-14T01:30:00+09:00",
+    "planned_at": "2026-11-14T05:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -853,7 +853,7 @@
     "category_number": 9,
     "category": "유명한 학자·연구자",
     "article_path": "categories/united-states/09-scientific-personnel.md",
-    "planned_at": "2026-11-14T03:30:00+09:00",
+    "planned_at": "2026-11-14T07:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -866,7 +866,7 @@
     "category_number": 10,
     "category": "유명 연설의 영상자료",
     "article_path": "categories/united-states/10-speech-videos.md",
-    "planned_at": "2026-11-14T05:30:00+09:00",
+    "planned_at": "2026-11-14T09:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -879,7 +879,7 @@
     "category_number": 11,
     "category": "유명 군수기업",
     "article_path": "categories/united-states/11-military-industry.md",
-    "planned_at": "2026-11-14T07:30:00+09:00",
+    "planned_at": "2026-11-14T11:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -892,7 +892,7 @@
     "category_number": 12,
     "category": "당시 인구",
     "article_path": "categories/united-states/12-population.md",
-    "planned_at": "2026-11-14T09:30:00+09:00",
+    "planned_at": "2026-11-14T13:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -905,7 +905,7 @@
     "category_number": 13,
     "category": "당시 기준 지명",
     "article_path": "categories/united-states/13-historical-place-names.md",
-    "planned_at": "2026-11-14T11:30:00+09:00",
+    "planned_at": "2026-11-14T15:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -918,7 +918,7 @@
     "category_number": 14,
     "category": "당시 영토",
     "article_path": "categories/united-states/14-territory.md",
-    "planned_at": "2026-11-14T13:30:00+09:00",
+    "planned_at": "2026-11-14T17:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -931,7 +931,7 @@
     "category_number": 15,
     "category": "영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐",
     "article_path": "categories/united-states/15-resources.md",
-    "planned_at": "2026-11-14T15:30:00+09:00",
+    "planned_at": "2026-11-14T19:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -946,7 +946,7 @@
     "status": "pending",
     "run_record": null,
     "step": 73,
-    "planned_at": "2026-11-14T17:30:00+09:00"
+    "planned_at": "2026-11-14T21:30:00+09:00"
   },
   {
     "job_id": "CAT-US-17",
@@ -959,7 +959,7 @@
     "status": "pending",
     "run_record": null,
     "step": 74,
-    "planned_at": "2026-11-14T19:30:00+09:00"
+    "planned_at": "2026-11-14T23:30:00+09:00"
   },
   {
     "job_id": "CAT-US-18",
@@ -972,7 +972,7 @@
     "status": "pending",
     "run_record": null,
     "step": 75,
-    "planned_at": "2026-11-14T21:30:00+09:00"
+    "planned_at": "2026-11-15T01:30:00+09:00"
   },
   {
     "job_id": "CAT-US-19",
@@ -985,7 +985,7 @@
     "status": "pending",
     "run_record": null,
     "step": 76,
-    "planned_at": "2026-11-14T23:30:00+09:00"
+    "planned_at": "2026-11-15T03:30:00+09:00"
   },
   {
     "step": 77,
@@ -996,7 +996,7 @@
     "category_number": 1,
     "category": "전차장비, 무장, 성능",
     "article_path": "categories/japan/01-tanks.md",
-    "planned_at": "2026-11-15T01:30:00+09:00",
+    "planned_at": "2026-11-15T05:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1009,7 +1009,7 @@
     "category_number": 2,
     "category": "전차 제외 기갑장비, 무장, 성능",
     "article_path": "categories/japan/02-other-armored-vehicles.md",
-    "planned_at": "2026-11-15T03:30:00+09:00",
+    "planned_at": "2026-11-15T07:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1022,7 +1022,7 @@
     "category_number": 3,
     "category": "함선 및 함정, 무장, 성능",
     "article_path": "categories/japan/03-naval-vessels.md",
-    "planned_at": "2026-11-15T05:30:00+09:00",
+    "planned_at": "2026-11-15T09:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1035,7 +1035,7 @@
     "category_number": 4,
     "category": "항공기, 무장, 성능",
     "article_path": "categories/japan/04-aircraft.md",
-    "planned_at": "2026-11-15T07:30:00+09:00",
+    "planned_at": "2026-11-15T11:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1048,7 +1048,7 @@
     "category_number": 5,
     "category": "보병 무기 및 장비",
     "article_path": "categories/japan/05-infantry-equipment.md",
-    "planned_at": "2026-11-15T09:30:00+09:00",
+    "planned_at": "2026-11-15T13:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1061,7 +1061,7 @@
     "category_number": 6,
     "category": "WW2에서 빼놓을 수 없는 장비",
     "article_path": "categories/japan/06-essential-technology.md",
-    "planned_at": "2026-11-15T11:30:00+09:00",
+    "planned_at": "2026-11-15T15:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1074,7 +1074,7 @@
     "category_number": 7,
     "category": "유명한 전투 참여 인물",
     "article_path": "categories/japan/07-combat-personnel.md",
-    "planned_at": "2026-11-15T13:30:00+09:00",
+    "planned_at": "2026-11-15T17:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1087,7 +1087,7 @@
     "category_number": 8,
     "category": "유명한 정치 인물",
     "article_path": "categories/japan/08-political-personnel.md",
-    "planned_at": "2026-11-15T15:30:00+09:00",
+    "planned_at": "2026-11-15T19:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1100,7 +1100,7 @@
     "category_number": 9,
     "category": "유명한 학자·연구자",
     "article_path": "categories/japan/09-scientific-personnel.md",
-    "planned_at": "2026-11-15T17:30:00+09:00",
+    "planned_at": "2026-11-15T21:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1113,7 +1113,7 @@
     "category_number": 10,
     "category": "유명 연설의 영상자료",
     "article_path": "categories/japan/10-speech-videos.md",
-    "planned_at": "2026-11-15T19:30:00+09:00",
+    "planned_at": "2026-11-15T23:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1126,7 +1126,7 @@
     "category_number": 11,
     "category": "유명 군수기업",
     "article_path": "categories/japan/11-military-industry.md",
-    "planned_at": "2026-11-15T21:30:00+09:00",
+    "planned_at": "2026-11-16T01:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1139,7 +1139,7 @@
     "category_number": 12,
     "category": "당시 인구",
     "article_path": "categories/japan/12-population.md",
-    "planned_at": "2026-11-15T23:30:00+09:00",
+    "planned_at": "2026-11-16T03:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1152,7 +1152,7 @@
     "category_number": 13,
     "category": "당시 기준 지명",
     "article_path": "categories/japan/13-historical-place-names.md",
-    "planned_at": "2026-11-16T01:30:00+09:00",
+    "planned_at": "2026-11-16T05:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1165,7 +1165,7 @@
     "category_number": 14,
     "category": "당시 영토",
     "article_path": "categories/japan/14-territory.md",
-    "planned_at": "2026-11-16T03:30:00+09:00",
+    "planned_at": "2026-11-16T07:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1178,7 +1178,7 @@
     "category_number": 15,
     "category": "영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐",
     "article_path": "categories/japan/15-resources.md",
-    "planned_at": "2026-11-16T05:30:00+09:00",
+    "planned_at": "2026-11-16T09:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1193,7 +1193,7 @@
     "status": "pending",
     "run_record": null,
     "step": 92,
-    "planned_at": "2026-11-16T07:30:00+09:00"
+    "planned_at": "2026-11-16T11:30:00+09:00"
   },
   {
     "job_id": "CAT-JP-17",
@@ -1206,7 +1206,7 @@
     "status": "pending",
     "run_record": null,
     "step": 93,
-    "planned_at": "2026-11-16T09:30:00+09:00"
+    "planned_at": "2026-11-16T13:30:00+09:00"
   },
   {
     "job_id": "CAT-JP-18",
@@ -1219,7 +1219,7 @@
     "status": "pending",
     "run_record": null,
     "step": 94,
-    "planned_at": "2026-11-16T11:30:00+09:00"
+    "planned_at": "2026-11-16T15:30:00+09:00"
   },
   {
     "job_id": "CAT-JP-19",
@@ -1232,7 +1232,7 @@
     "status": "pending",
     "run_record": null,
     "step": 95,
-    "planned_at": "2026-11-16T13:30:00+09:00"
+    "planned_at": "2026-11-16T17:30:00+09:00"
   },
   {
     "step": 96,
@@ -1243,7 +1243,7 @@
     "category_number": 1,
     "category": "전차장비, 무장, 성능",
     "article_path": "categories/italy/01-tanks.md",
-    "planned_at": "2026-11-16T15:30:00+09:00",
+    "planned_at": "2026-11-16T19:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1256,7 +1256,7 @@
     "category_number": 2,
     "category": "전차 제외 기갑장비, 무장, 성능",
     "article_path": "categories/italy/02-other-armored-vehicles.md",
-    "planned_at": "2026-11-16T17:30:00+09:00",
+    "planned_at": "2026-11-16T21:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1269,7 +1269,7 @@
     "category_number": 3,
     "category": "함선 및 함정, 무장, 성능",
     "article_path": "categories/italy/03-naval-vessels.md",
-    "planned_at": "2026-11-16T19:30:00+09:00",
+    "planned_at": "2026-11-16T23:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1282,7 +1282,7 @@
     "category_number": 4,
     "category": "항공기, 무장, 성능",
     "article_path": "categories/italy/04-aircraft.md",
-    "planned_at": "2026-11-16T21:30:00+09:00",
+    "planned_at": "2026-11-17T01:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1295,7 +1295,7 @@
     "category_number": 5,
     "category": "보병 무기 및 장비",
     "article_path": "categories/italy/05-infantry-equipment.md",
-    "planned_at": "2026-11-16T23:30:00+09:00",
+    "planned_at": "2026-11-17T03:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1308,7 +1308,7 @@
     "category_number": 6,
     "category": "WW2에서 빼놓을 수 없는 장비",
     "article_path": "categories/italy/06-essential-technology.md",
-    "planned_at": "2026-11-17T01:30:00+09:00",
+    "planned_at": "2026-11-17T05:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1321,7 +1321,7 @@
     "category_number": 7,
     "category": "유명한 전투 참여 인물",
     "article_path": "categories/italy/07-combat-personnel.md",
-    "planned_at": "2026-11-17T03:30:00+09:00",
+    "planned_at": "2026-11-17T07:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1334,7 +1334,7 @@
     "category_number": 8,
     "category": "유명한 정치 인물",
     "article_path": "categories/italy/08-political-personnel.md",
-    "planned_at": "2026-11-17T05:30:00+09:00",
+    "planned_at": "2026-11-17T09:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1347,7 +1347,7 @@
     "category_number": 9,
     "category": "유명한 학자·연구자",
     "article_path": "categories/italy/09-scientific-personnel.md",
-    "planned_at": "2026-11-17T07:30:00+09:00",
+    "planned_at": "2026-11-17T11:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1360,7 +1360,7 @@
     "category_number": 10,
     "category": "유명 연설의 영상자료",
     "article_path": "categories/italy/10-speech-videos.md",
-    "planned_at": "2026-11-17T09:30:00+09:00",
+    "planned_at": "2026-11-17T13:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1373,7 +1373,7 @@
     "category_number": 11,
     "category": "유명 군수기업",
     "article_path": "categories/italy/11-military-industry.md",
-    "planned_at": "2026-11-17T11:30:00+09:00",
+    "planned_at": "2026-11-17T15:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1386,7 +1386,7 @@
     "category_number": 12,
     "category": "당시 인구",
     "article_path": "categories/italy/12-population.md",
-    "planned_at": "2026-11-17T13:30:00+09:00",
+    "planned_at": "2026-11-17T17:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1399,7 +1399,7 @@
     "category_number": 13,
     "category": "당시 기준 지명",
     "article_path": "categories/italy/13-historical-place-names.md",
-    "planned_at": "2026-11-17T15:30:00+09:00",
+    "planned_at": "2026-11-17T19:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1412,7 +1412,7 @@
     "category_number": 14,
     "category": "당시 영토",
     "article_path": "categories/italy/14-territory.md",
-    "planned_at": "2026-11-17T17:30:00+09:00",
+    "planned_at": "2026-11-17T21:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1425,7 +1425,7 @@
     "category_number": 15,
     "category": "영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐",
     "article_path": "categories/italy/15-resources.md",
-    "planned_at": "2026-11-17T19:30:00+09:00",
+    "planned_at": "2026-11-17T23:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1440,7 +1440,7 @@
     "status": "pending",
     "run_record": null,
     "step": 111,
-    "planned_at": "2026-11-17T21:30:00+09:00"
+    "planned_at": "2026-11-18T01:30:00+09:00"
   },
   {
     "job_id": "CAT-IT-17",
@@ -1453,7 +1453,7 @@
     "status": "pending",
     "run_record": null,
     "step": 112,
-    "planned_at": "2026-11-17T23:30:00+09:00"
+    "planned_at": "2026-11-18T03:30:00+09:00"
   },
   {
     "job_id": "CAT-IT-18",
@@ -1466,7 +1466,7 @@
     "status": "pending",
     "run_record": null,
     "step": 113,
-    "planned_at": "2026-11-18T01:30:00+09:00"
+    "planned_at": "2026-11-18T05:30:00+09:00"
   },
   {
     "job_id": "CAT-IT-19",
@@ -1479,7 +1479,7 @@
     "status": "pending",
     "run_record": null,
     "step": 114,
-    "planned_at": "2026-11-18T03:30:00+09:00"
+    "planned_at": "2026-11-18T07:30:00+09:00"
   },
   {
     "step": 115,
@@ -1490,7 +1490,7 @@
     "category_number": 1,
     "category": "전차장비, 무장, 성능",
     "article_path": "categories/soviet-union/01-tanks.md",
-    "planned_at": "2026-11-18T05:30:00+09:00",
+    "planned_at": "2026-11-18T09:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1503,7 +1503,7 @@
     "category_number": 2,
     "category": "전차 제외 기갑장비, 무장, 성능",
     "article_path": "categories/soviet-union/02-other-armored-vehicles.md",
-    "planned_at": "2026-11-18T07:30:00+09:00",
+    "planned_at": "2026-11-18T11:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1516,7 +1516,7 @@
     "category_number": 3,
     "category": "함선 및 함정, 무장, 성능",
     "article_path": "categories/soviet-union/03-naval-vessels.md",
-    "planned_at": "2026-11-18T09:30:00+09:00",
+    "planned_at": "2026-11-18T13:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1529,7 +1529,7 @@
     "category_number": 4,
     "category": "항공기, 무장, 성능",
     "article_path": "categories/soviet-union/04-aircraft.md",
-    "planned_at": "2026-11-18T11:30:00+09:00",
+    "planned_at": "2026-11-18T15:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1542,7 +1542,7 @@
     "category_number": 5,
     "category": "보병 무기 및 장비",
     "article_path": "categories/soviet-union/05-infantry-equipment.md",
-    "planned_at": "2026-11-18T13:30:00+09:00",
+    "planned_at": "2026-11-18T17:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1555,7 +1555,7 @@
     "category_number": 6,
     "category": "WW2에서 빼놓을 수 없는 장비",
     "article_path": "categories/soviet-union/06-essential-technology.md",
-    "planned_at": "2026-11-18T15:30:00+09:00",
+    "planned_at": "2026-11-18T19:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1568,7 +1568,7 @@
     "category_number": 7,
     "category": "유명한 전투 참여 인물",
     "article_path": "categories/soviet-union/07-combat-personnel.md",
-    "planned_at": "2026-11-18T17:30:00+09:00",
+    "planned_at": "2026-11-18T21:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1581,7 +1581,7 @@
     "category_number": 8,
     "category": "유명한 정치 인물",
     "article_path": "categories/soviet-union/08-political-personnel.md",
-    "planned_at": "2026-11-18T19:30:00+09:00",
+    "planned_at": "2026-11-18T23:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1594,7 +1594,7 @@
     "category_number": 9,
     "category": "유명한 학자·연구자",
     "article_path": "categories/soviet-union/09-scientific-personnel.md",
-    "planned_at": "2026-11-18T21:30:00+09:00",
+    "planned_at": "2026-11-19T01:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1607,7 +1607,7 @@
     "category_number": 10,
     "category": "유명 연설의 영상자료",
     "article_path": "categories/soviet-union/10-speech-videos.md",
-    "planned_at": "2026-11-18T23:30:00+09:00",
+    "planned_at": "2026-11-19T03:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1620,7 +1620,7 @@
     "category_number": 11,
     "category": "유명 군수기업",
     "article_path": "categories/soviet-union/11-military-industry.md",
-    "planned_at": "2026-11-19T01:30:00+09:00",
+    "planned_at": "2026-11-19T05:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1633,7 +1633,7 @@
     "category_number": 12,
     "category": "당시 인구",
     "article_path": "categories/soviet-union/12-population.md",
-    "planned_at": "2026-11-19T03:30:00+09:00",
+    "planned_at": "2026-11-19T07:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1646,7 +1646,7 @@
     "category_number": 13,
     "category": "당시 기준 지명",
     "article_path": "categories/soviet-union/13-historical-place-names.md",
-    "planned_at": "2026-11-19T05:30:00+09:00",
+    "planned_at": "2026-11-19T09:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1659,7 +1659,7 @@
     "category_number": 14,
     "category": "당시 영토",
     "article_path": "categories/soviet-union/14-territory.md",
-    "planned_at": "2026-11-19T07:30:00+09:00",
+    "planned_at": "2026-11-19T11:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1672,7 +1672,7 @@
     "category_number": 15,
     "category": "영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐",
     "article_path": "categories/soviet-union/15-resources.md",
-    "planned_at": "2026-11-19T09:30:00+09:00",
+    "planned_at": "2026-11-19T13:30:00+09:00",
     "status": "pending",
     "run_record": null
   },
@@ -1687,7 +1687,7 @@
     "status": "pending",
     "run_record": null,
     "step": 130,
-    "planned_at": "2026-11-19T11:30:00+09:00"
+    "planned_at": "2026-11-19T15:30:00+09:00"
   },
   {
     "job_id": "CAT-SU-17",
@@ -1700,7 +1700,7 @@
     "status": "pending",
     "run_record": null,
     "step": 131,
-    "planned_at": "2026-11-19T13:30:00+09:00"
+    "planned_at": "2026-11-19T17:30:00+09:00"
   },
   {
     "job_id": "CAT-SU-18",
@@ -1713,7 +1713,7 @@
     "status": "pending",
     "run_record": null,
     "step": 132,
-    "planned_at": "2026-11-19T15:30:00+09:00"
+    "planned_at": "2026-11-19T19:30:00+09:00"
   },
   {
     "job_id": "CAT-SU-19",
@@ -1726,6 +1726,6 @@
     "status": "pending",
     "run_record": null,
     "step": 133,
-    "planned_at": "2026-11-19T17:30:00+09:00"
+    "planned_at": "2026-11-19T21:30:00+09:00"
   }
 ]
