@@ -1,11 +1,13 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-09-16
-FORWARD_INSPECTED_THROUGH: 1941-09-15
-CURRENT_FORWARD_BATCH: 1941-09-16..1941-09-18
+FORWARD_CURSOR: 1941-09-19
+FORWARD_INSPECTED_THROUGH: 1941-09-18
+CURRENT_FORWARD_BATCH: 1941-09-19..1941-09-21
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-09
 
 ## 최신 실행 — 2026-11-09
+- 1941-09-16..18 forward: FRUS I d425, Japan II d346, IV d333/d345 1차 문서 선별 검토. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-sep16-18-batch1.md). 타전역·이란 당대 자료·실제 이행은 BACKFILL_QUEUE/RQ-0007/RQ-1227. 다음 1941-09-19.
+
 - 1941-09-13..15 forward: FRUS IV d695, Japan 1931–41 I d671, FRUS I d394, III d100, IV d329 1차 문서 확인. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-sep13-15-batch1.md). 타전역·실제 이행은 RQ-0007 및 BACKFILL_QUEUE. 다음 1941-09-16.
 
 - 1941-09-10..12 forward 선별 감사: FRUS I d777, IV d318 원문 및 III d292 공식 서지 확인. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-sep10-12-batch1.md). 미확인 전역·실제 이행은 BACKFILL_QUEUE/RQ-0007, 다음 1941-09-13.
@@ -26,6 +28,9 @@ AS_OF: 2026-11-09
 - **운영 절차:** [research/RESEARCH_PROTOCOL.md](research/RESEARCH_PROTOCOL.md). 과거 상태 로그는 [보존본](research/WORK_STATE_HISTORY_2026-11-07.md)에만 있다. 과거의 FORWARD_CURSOR·다음 날짜는 사용하지 않는다.
 
 ## BACKFILL_QUEUE (진행을 차단하지 않음)
+
+- 1941-09-16~18: FRUS 미소 이동통신·미일 면담 확인. 이란 9/16 왕위교체 당대 공보, 군사·민간·중국·아프리카·동부전선 원자료 및 실제 시행 미확인. [감사](source-audit-1941-sep16-18-batch1.md), RQ-0007/RQ-1227.
+
 
 - 1941-09-13~15: 미영 대일 수출제한 제안·중립법 식민지 적용 해석·비시의 인도차이나 우려 원문 확인. 실제 시행/수출량, 9/14 독립 사건, 동부전선·중국·아프리카·민간인 원자료는 미검증. [감사](source-audit-1941-sep13-15-batch1.md), RQ-0007/RQ-0003. 신규 ID 없음.
 
