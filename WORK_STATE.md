@@ -1,9 +1,12 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-11-18
-FORWARD_INSPECTED_THROUGH: 1941-11-17
-CURRENT_FORWARD_BATCH: 1941-11-18..1941-11-20
+FORWARD_CURSOR: 1941-11-21
+FORWARD_INSPECTED_THROUGH: 1941-11-20
+CURRENT_FORWARD_BATCH: 1941-11-21..1941-11-23
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-10
+
+## 최신 실행 — 2026-11-10
+- 1941-11-18..11-20 forward: FRUS d400/d401/d402 당대 회담 기록 3건 직접 판독, d399(11/17) 경계일 참고. 제안·발언과 이행 구분. 신규 0/0/0 누적 3612/2035/1227. [감사](source-audit-1941-nov18-20-batch1.md); RQ-0003/RQ-0007 backfill. 다음 1941-11-21.
 
 ## 최신 실행 — 2026-11-10
 - 1941-11-15..11-17 forward: FRUS 원문 4건 직접 판독(11/17 미일 회견·일본 측 제안); 11/15 문서목록만 확인, 11/16 미확인. 신규 0/0/0 누적 3612/2035/1227. [감사](source-audit-1941-nov15-17-batch1.md); RQ-0003/RQ-0007 backfill. 다음 1941-11-18.
