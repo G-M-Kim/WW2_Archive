@@ -651,5 +651,154 @@
     ],
     "rights": "원 자료 및 디지털 게시의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
     "independence_group": "Knowles 미 해군 전투정보 부문 회고; Pillsbury 보고서와 서술자·시기 상이"
+  },
+  {
+    "id": "CAT-DE-SRC-0029",
+    "title": "LeMO Biografie: Erich von Manstein",
+    "institution_or_author": "Alexander Mühle, Oliver Schweinoch, Arnulf Scriba / Deutsches Historisches Museum",
+    "publication_date": "2023-04-21 (Stand)",
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "1887, 1940–1944, 1946, 1949, 1973년 항목",
+    "url": "https://www.dhm.de/lemo/biografie/erich-von-manstein",
+    "accessed_at": "2026-11-09T12:54:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰 및 제38군단·제11군, 1942년 원수, 프랑스 침공계획 관여",
+      "1946년 증인 및 1949년 함부르크 재판의 18년 형량"
+    ],
+    "limitations": [
+      "전기의 요약은 발령·작전 원기록이 아님",
+      "돈 집단군 인수를 1942년 7월 항목에 적어 KCL 목록의 11월과 차이"
+    ],
+    "rights": "기관이 본문 CC BY-NC-SA 4.0을 명시. 자체 요약과 링크만 사용.",
+    "independence_group": "DHM LeMO 전기. 하위 원기록 계보 미확인."
+  },
+  {
+    "id": "CAT-DE-SRC-0030",
+    "title": "Trial of the Major War Criminals, Vol. XXXIV: Document 4064-PS",
+    "institution_or_author": "독일 제11군 사령부 / International Military Tribunal 증거집 / Library of Congress 스캔",
+    "publication_date": "1941-11-20 (명령서)",
+    "source_type": "primary: 전시 문서의 공식 증거집 수록본",
+    "document_or_accession_number": "AOK 11 Abt. Ic/AO Nr. 2379/41 geh.; 4064-PS / USA-927",
+    "locator": "인쇄 129–132쪽, 표제·접수 표식 설명·본문·서명 표기",
+    "url": "https://tile.loc.gov/storage-services/service/ll/llmlp/2011525338_NT_Vol-XXXIV/2011525338_NT_Vol-XXXIV.pdf",
+    "accessed_at": "2026-11-09T12:54:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제11군 명령의 날짜·문서번호 및 제72사단 접수 표식",
+      "반유대주의적 보복 논리와 현지 조달·포로와 주민에 대한 식량 배분 지침"
+    ],
+    "limitations": [
+      "공식 증거집 인쇄본을 열람. 원 서명 필적과 지휘부별 수신·집행은 미확인."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "전시 제11군 명령 자체"
+  },
+  {
+    "id": "CAT-DE-SRC-0031",
+    "title": "IMT Proceedings, Vol. XX: One Hundred Ninety-Seventh Day, 10 August 1946",
+    "institution_or_author": "International Military Tribunal / Yale Law School Avalon Project 전사",
+    "publication_date": "1946-08-10",
+    "source_type": "primary-transcription: 법정 증언의 공식 속기록 전사",
+    "document_or_accession_number": "IMT Vol. XX, 1946-08-10",
+    "locator": "인쇄 644–645쪽, Telford Taylor의 반대신문과 만슈타인 답변",
+    "url": "https://avalon.law.yale.edu/imt/08-10-46.asp",
+    "accessed_at": "2026-11-09T12:54:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "만슈타인이 4064-PS의 직접 작성은 부인하고 초안에 서명했을 가능성이 크다고 진술"
+    ],
+    "limitations": [
+      "증인은 이 재판에서 피고인이 아님. 자기 진술은 발령·실행이나 집필자 신원에 대한 별도 확증이 아님."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "1946년 법정 당사자 증언. 명령서 자체와 다른 증거 종류."
+  },
+  {
+    "id": "CAT-DE-SRC-0032",
+    "title": "VON MANSTEIN, FM (Fritz) Erich (1887-1973)",
+    "institution_or_author": "King’s College London, Liddell Hart Centre for Military Archives / AIM25",
+    "publication_date": null,
+    "source_type": "archival finding aid: 기록관 목록과 전기",
+    "document_or_accession_number": "GB 0099 KCLMA Von Manstein",
+    "locator": "Administrative history, Archival history, Scope and content",
+    "url": "https://atom.aim25.com/index.php/von-manstein-fm-fritz-erich-1887-1973?sf_culture=en",
+    "accessed_at": "2026-11-09T12:54:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제38군단과 제11군 지휘, 돈 집단군 지휘 시작을 1942년 11월로 표기",
+      "함부르크 별도 재판 소장기록 및 17개 혐의 중 9개 유죄와 최초 18년형이라는 목록 설명"
+    ],
+    "limitations": [
+      "원 판결문·증거·형량 감경 기록 미열람",
+      "전기의 정확한 출전 계보는 미확인"
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "KCL 기록관 목록. 변호인 쪽 기증 기록이 포함된 컬렉션."
+  },
+  {
+    "id": "CAT-DE-SRC-0033",
+    "title": "LeMO Biografie: Karl Dönitz",
+    "institution_or_author": "Manfred Wichmann / Deutsches Historisches Museum",
+    "publication_date": "2014-09-14 (Stand)",
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "1891·1939·1943·1946·1980년 항목",
+    "url": "https://www.dhm.de/lemo/biografie/karl-doenitz",
+    "accessed_at": "2026-11-09T12:54:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰·BdU의 조직 및 작전 지휘, 1943년 해군 총사령관과 대제독, 전후 최초 10년형"
+    ],
+    "limitations": [
+      "기관 전기이며 개별 잠수함 명령 원본이 아님."
+    ],
+    "rights": "기관이 본문 CC BY-NC-SA 4.0을 명시. 자체 요약과 링크만 사용.",
+    "independence_group": "DHM LeMO 전기. 하위 원기록 계보 미확인."
+  },
+  {
+    "id": "CAT-DE-SRC-0034",
+    "title": "Trial of the Major War Criminals, Vol. I: Judgment on Dönitz and Sentences",
+    "institution_or_author": "International Military Tribunal / Library of Congress 스캔",
+    "publication_date": "1946-09-30~1946-10-01 (판결 낭독 및 선고)",
+    "source_type": "primary: 재판소 공식 판결·선고록",
+    "document_or_accession_number": "IMT Vol. I, Dönitz 항목",
+    "locator": "인쇄 310–315쪽, 365쪽. Yale Avalon HTML의 Doenitz 항목도 대조",
+    "url": "https://tile.loc.gov/storage-services/service/ll/llmlp/2011525338_NT_Vol-I/2011525338_NT_Vol-I.pdf",
+    "accessed_at": "2026-11-09T12:54:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943-01-30 해군 총사령관 취임, 개전 후 잠수함전 지휘 및 초기 상급 지휘부 권한",
+      "잠수함전 의정서 위반 판단·생존자 살해 명령에 관한 증명 한계·형량에서 잠수함전 국제법 위반 제외",
+      "제1항 무죄, 제2·3항 유죄와 10년형, 특공대 명령 유지의 책임 범위"
+    ],
+    "limitations": [
+      "판결은 재판소의 인정과 법적 판단을 보여 준다. 개별 작전의 발신·수신 자료가 아님.",
+      "Avalon 전사는 같은 판결을 전달하므로 별도 확증으로 집계하지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "IMT 판결 및 선고 원기록"
+  },
+  {
+    "id": "CAT-DE-SRC-0035",
+    "title": "F.d.U./B.d.U.’s War Log, 16–31 March 1943",
+    "institution_or_author": "독일 해군 잠수함 지휘부 / U-boat Archive 영어 전사",
+    "publication_date": "1943-03-16 (확인한 일지 날짜)",
+    "source_type": "primary-translation-transcription: 전시 지휘부 일지의 영어 번역 전사",
+    "document_or_accession_number": "PG30320",
+    "locator": "1943-03-16, Current Operations IV.b.2, 전사 173쪽",
+    "url": "https://www.uboatarchive.net/BDU/BDUKTB30320.htm",
+    "accessed_at": "2026-11-09T12:54:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제19호 호송선단에 대한 Stürmer 일부 재배치와 무선정보에 따른 Dränger 전환"
+    ],
+    "limitations": [
+      "독일어 원일지 및 발신·수신 원문 미대조",
+      "지휘부 일지는 되니츠의 개별 결재와 호송선단 손실을 독립 입증하지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "BdU 조직의 전시 전쟁일지. IMT 사후 판단과 구별."
   }
 ]

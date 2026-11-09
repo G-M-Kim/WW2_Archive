@@ -1,6 +1,6 @@
 # 독일 — WW2 카테고리 조사
 
-국가 코드 `DE`. 이 국가의 19개 항목을 순서대로 첫 조사한다. 아래 원고 파일은 해당 실행에서 실제 자료와 함께 생성한다. 01번은 대표 네 전차 계열, 02번은 돌격포·화염방사 반궤도차·8륜 장갑차의 세 대표 사례를 부분 조사했다. 03번은 Bismarck·U-505 두 개별함의 무장·자료상 성능을 부분 조사했다. 04번은 Me 262 조종 지침·소장품과 Ju 52 수송 역할을 부분 조사했다. 05번은 Karabiner 98k, MG 42, Panzerfaust 60, M 35/40 철모를 부분 조사했다. 06번은 뷔르츠부르크 레이더 계열과 해군 4회전자 에니그마를 부분 조사했다. 총 6/19 방문이며 07번 이후는 미착수다.
+국가 코드 `DE`. 이 국가의 19개 항목을 순서대로 첫 조사한다. 아래 원고 파일은 해당 실행에서 실제 자료와 함께 생성한다. 01번은 대표 네 전차 계열, 02번은 돌격포·화염방사 반궤도차·8륜 장갑차의 세 대표 사례를 부분 조사했다. 03번은 Bismarck·U-505 두 개별함의 무장·자료상 성능을 부분 조사했다. 04번은 Me 262 조종 지침·소장품과 Ju 52 수송 역할을 부분 조사했다. 05번은 Karabiner 98k, MG 42, Panzerfaust 60, M 35/40 철모를 부분 조사했다. 06번은 뷔르츠부르크 레이더 계열과 해군 4회전자 에니그마를 부분 조사했다. 07번은 만슈타인과 되니츠의 전시 지휘 및 책임을 부분 조사했다. 총 7/19 방문이며 08번 이후는 미착수다.
 
 [전체 계획](../PLAN.md) · [출처 장부](SOURCES.json) · [미확인 과제](QUESTIONS.json)
 
@@ -12,7 +12,7 @@
 | 4 | 항공기, 무장, 성능 | partial | [04-aircraft.md](04-aircraft.md) |
 | 5 | 보병 무기 및 장비 | partial | [05-infantry-equipment.md](05-infantry-equipment.md) |
 | 6 | WW2에서 빼놓을 수 없는 장비 | partial | [06-essential-technology.md](06-essential-technology.md) |
-| 7 | 유명한 전투 참여 인물 | pending | `07-combat-personnel.md` |
+| 7 | 유명한 전투 참여 인물 | partial | [07-combat-personnel.md](07-combat-personnel.md) |
 | 8 | 유명한 정치 인물 | pending | `08-political-personnel.md` |
 | 9 | 유명한 학자·연구자 | pending | `09-scientific-personnel.md` |
 | 10 | 유명 연설의 영상자료 | pending | `10-speech-videos.md` |
