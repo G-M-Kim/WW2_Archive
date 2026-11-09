@@ -1,11 +1,13 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-10-28
-FORWARD_INSPECTED_THROUGH: 1941-10-27
-CURRENT_FORWARD_BATCH: 1941-10-28..1941-10-30
+FORWARD_CURSOR: 1941-10-31
+FORWARD_INSPECTED_THROUGH: 1941-10-30
+CURRENT_FORWARD_BATCH: 1941-10-31..1941-11-02
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-10
 
 ## 최신 실행 — 2026-11-10
+- 1941-10-28..30 forward: FRUS 10건(태국·인도차이나·미일·중국·소련·미주) 선별 대조, 신규 0/0/0 누적 3612/2035/1227. [감사](source-audit-1941-oct28-30-batch1.md). 타전역·실제 집행은 RQ-0003/RQ-0007 backfill. 다음 1941-10-31.
+
 - 1941-10-25..27 forward: FRUS 6건(IV d402/d403/d406, V d346/d604, Japan II d375) 및 USHMM 오데사 10/25~27 해설 대조. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-oct25-27-batch1.md). 타전역·집행 원문 RQ-0003/RQ-0007 backfill. 다음 1941-10-28.
 
 ## 이전 실행 — 2026-11-09
