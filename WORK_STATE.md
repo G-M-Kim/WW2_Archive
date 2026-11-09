@@ -1,11 +1,14 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-11-03
-FORWARD_INSPECTED_THROUGH: 1941-11-02
-CURRENT_FORWARD_BATCH: 1941-11-03..1941-11-05
+FORWARD_CURSOR: 1941-11-06
+FORWARD_INSPECTED_THROUGH: 1941-11-05
+CURRENT_FORWARD_BATCH: 1941-11-06..1941-11-08
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-10
 
 ## 최신 실행 — 2026-11-10
+- 1941-11-03..11-05 forward: FRUS 외교 당대 문서 12건 선별 확인(일본 협상·중국/태국·소련 선전·인도 선교사·이란 고문), 신규 0/0/0 누적 3612/2035/1227. [감사](source-audit-1941-nov03-05-batch1.md). 타전역·실제 집행은 RQ-0003/RQ-0007 backfill. 다음 1941-11-06.
+
+## 이전 실행 — 2026-11-10
 - 1941-10-31..11-02 forward: FRUS 외교 당대 문서 9건 선별 확인(미일 동결자금·도고 외교·중국 윈난·페루/에콰도르). 신규 0/0/0 누적 3612/2035/1227. [감사](source-audit-1941-oct31-nov02-batch1.md). 타전역 및 집행 기록 RQ-0003/RQ-0007 backfill. 다음 1941-11-03.
 
 - 1941-10-28..30 forward: FRUS 10건(태국·인도차이나·미일·중국·소련·미주) 선별 대조, 신규 0/0/0 누적 3612/2035/1227. [감사](source-audit-1941-oct28-30-batch1.md). 타전역·실제 집행은 RQ-0003/RQ-0007 backfill. 다음 1941-10-31.
