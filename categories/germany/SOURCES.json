@@ -2570,5 +2570,145 @@
     ],
     "rights": "미 육군 공식 디지털판. 자체 요약과 링크만 사용.",
     "independence_group": "연합군 최고사령부 작전 보고"
+  },
+  {
+    "id": "CAT-DE-SRC-0124",
+    "title": "The Political Adviser in Germany (Murphy) to the Secretary of State ad interim, German Coal",
+    "institution_or_author": "Robert Murphy / U.S. Department of State Office of the Historian",
+    "publication_date": "1945-06-28 (본문), 1945-06-27 (Rainey 첨부)",
+    "source_type": "primary: 점령 당국의 동시대 외교보고",
+    "document_or_accession_number": "FRUS, The Conference of Berlin, 1945, vol. I, doc. 421; 740.00112 E. W./6–2845",
+    "locator": "문서 421 본문 614–615쪽 및 첨부 1",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv01/d421",
+    "accessed_at": "2026-11-10T08:57:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북독일 석탄 통제기관의 영국 군정 소속과 군정 감독 하 독일 경영조직 사용 방침."
+    ],
+    "limitations": [
+      "6월 방침이며 9월 개별 탄광·제철소 인수 기록이 아니다. 다음 날 같은 작성자의 전문과 독립 확증으로 합산하지 않는다."
+    ],
+    "rights": "미 국무부 공식 전사본. 자체 요약과 링크만 사용.",
+    "independence_group": "미국 독일 정치고문실 1945년 6월 석탄 상황 보고"
+  },
+  {
+    "id": "CAT-DE-SRC-0125",
+    "title": "The Political Adviser in Germany (Murphy) to the Assistant Secretary of State (Clayton)",
+    "institution_or_author": "Robert Murphy / U.S. Department of State Office of the Historian",
+    "publication_date": "1945-06-29",
+    "source_type": "primary: 점령기 외교전문",
+    "document_or_accession_number": "FRUS, The Conference of Berlin, 1945, vol. I, doc. 422; 840.6363/6–2945",
+    "locator": "문서 422, 621–622쪽",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv01/d422",
+    "accessed_at": "2026-11-10T08:57:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "판매 가능 석탄 하루 60,000 tons, 독일인 광부 약 175,000명 작업, 수운 병목과 뒤스부르크항 상태."
+    ],
+    "limitations": [
+      "비공식 현황 요약. 개별 탄광 관측일, tons 정의, 9월 상태 미기재. 장래 전망치는 실제 실적과 분리."
+    ],
+    "rights": "미 국무부 공식 전사본. 자체 요약과 링크만 사용.",
+    "independence_group": "미국 독일 정치고문실 1945년 6월 석탄 상황 보고"
+  },
+  {
+    "id": "CAT-DE-SRC-0126",
+    "title": "Wirtschaft in Westdeutschland 1945–1948: Rekonstruktion und Wachstumsbedingungen in der amerikanischen und britischen Zone",
+    "institution_or_author": "Werner Abelshauser / Deutsche Verlags-Anstalt / Institut für Zeitgeschichte",
+    "publication_date": "1975",
+    "source_type": "secondary: 군정 통계를 이용한 경제사 연구",
+    "document_or_accession_number": "Schriftenreihe der Vierteljahrshefte für Zeitgeschichte Nr. 50; ISBN 3-421-01714-X",
+    "locator": "159쪽 표 36, 각주 a·c·d, PDF 139면",
+    "url": "https://open.ifz-muenchen.de/bitstreams/78011a0a-34f9-48d5-b6aa-fbf46e70acdf/download",
+    "accessed_at": "2026-11-10T08:57:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "각주가 명시한 루르·아헨·이벤뷔렌의 1945-08-04·09-29 경질탄 작업일 평균 80·127천 t/작업일."
+    ],
+    "limitations": [
+      "표 원면 열람. 출처란의 OMGUS No. 5 Coal 5쪽 등 바탕 통계는 직접 대조하지 못했다. 루르 단독 값과 9월 2일 값이 아니다."
+    ],
+    "rights": "1975년 출판본의 IfZ 공개 스캔. 표·페이지 재수록 없이 자체 요약과 링크만 사용.",
+    "independence_group": "Abelshauser가 편집한 점령기 연합국 통계"
+  },
+  {
+    "id": "CAT-DE-SRC-0127",
+    "title": "Kraftwerk Lauta (nach 1945)",
+    "institution_or_author": "Vinzenz Czech / Industriegeschichte Brandenburgs, brandenburgikon",
+    "publication_date": "2022-10-14",
+    "source_type": "secondary: 지역 산업사 편찬",
+    "document_or_accession_number": null,
+    "locator": "점령·철거·연말 복구 문단, 문헌 Kahl 외(2009) 102–110쪽",
+    "url": "https://www.brandenburgikon.net/index.php/de/betriebe-1945-1989/bezirk-cottbus/lauta2",
+    "accessed_at": "2026-11-10T08:57:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "4월 20일 소련군 점령, 폭격 손상, 부분 철거, 1945년 말 24 MW 공급 가능, 1946년 10월 재건 착수."
+    ],
+    "limitations": [
+      "9월 2일 가용·설치출력 및 발전 실적 미기재. 개전편 출처 0120과 저자 및 문헌 계열 공통."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Czech의 라우타 발전소사, Kahl 외 인용"
+  },
+  {
+    "id": "CAT-DE-SRC-0128",
+    "title": "Geschichte Lauta 1374–1989",
+    "institution_or_author": "Stadt Lauta",
+    "publication_date": null,
+    "source_type": "secondary: 지자체 역사 연표",
+    "document_or_accession_number": null,
+    "locator": "1944·1945·1946년 항목",
+    "url": "https://www.lauta.de/1374-1989.html",
+    "accessed_at": "2026-11-10T08:57:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944~1945년 공장 공습, 1945-04-20 소련군 진입, 1946년 중반 철거 완료와 재건 서술."
+    ],
+    "limitations": [
+      "일자별 철거·설비 목록과 바탕 기록 미기재. 산업사와 교차 대조하되 전승의 독립성은 미확인."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "라우타시 연표"
+  },
+  {
+    "id": "CAT-DE-SRC-0129",
+    "title": "VEB Aluminiumwerk „Albert Zimmermann“ Lauta",
+    "institution_or_author": "Katrin Verch, Vinzenz Czech 편집 / Industriegeschichte Brandenburgs",
+    "publication_date": "2022-11-16",
+    "source_type": "secondary: 기록관 편찬을 바탕으로 한 산업사",
+    "document_or_accession_number": null,
+    "locator": "첫 두 문단, Verch(2005) 337–339쪽 관련 문헌",
+    "url": "https://brandenburgikon.net/index.php/de/betriebe-1945-1989/bezirk-cottbus/aluwerk",
+    "accessed_at": "2026-11-10T08:57:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "폭격 피해, 4월 20일 점령, 소련군정 몰수와 배상 설비 반출의 경과."
+    ],
+    "limitations": [
+      "정확한 몰수 명령 일자와 9월 2일 운영자 미기재. 후대 VEB 명칭을 1945년에 소급하지 않는다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Verch의 기업사, Czech 편집"
+  },
+  {
+    "id": "CAT-DE-SRC-0130",
+    "title": "A City Amputated, a Community Regenerated: Munich During and After the Allied Air War, 1939 to 1948",
+    "institution_or_author": "Thomas J. Arnold / University of Kansas",
+    "publication_date": "2012-04-11 (박사논문 승인)",
+    "source_type": "secondary: 연합국 석탄 보고를 인용한 박사논문",
+    "document_or_accession_number": "KU ScholarWorks 1808/10394; 원 보고 인용 The National Archives PRO FO 371",
+    "locator": "121쪽, 각주 13에 인용된 1945-07-12 연합국 석탄 보고",
+    "url": "https://kuscholarworks.ku.edu/bitstream/1808/10394/1/Arnold_ku_0099D_12083_DATA_1.pdf",
+    "accessed_at": "2026-11-10T08:57:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "루르·아헨 탄광 가동 중단과 피해 분류, 잠재 연간 생산능력 추계."
+    ],
+    "limitations": [
+      "논문 본문과 인용 문헌 번호를 열람했다. 인용 원 보고 원면은 미확보이며 루르만의 9월 수치가 아니다."
+    ],
+    "rights": "University of Kansas 공개 학위논문. 자체 요약과 링크만 사용.",
+    "independence_group": "Arnold의 연합국 1945-07-12 석탄 보고 인용"
   }
 ]
