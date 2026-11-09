@@ -1,11 +1,13 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-09-25
-FORWARD_INSPECTED_THROUGH: 1941-09-24
-CURRENT_FORWARD_BATCH: 1941-09-25..1941-09-27
+FORWARD_CURSOR: 1941-09-28
+FORWARD_INSPECTED_THROUGH: 1941-09-27
+CURRENT_FORWARD_BATCH: 1941-09-28..1941-09-30
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-09
 
 ## 최신 실행 — 2026-11-09
+- 1941-09-25..27 forward: FRUS IV d353/d354/d702/d703, V d306, III d458 1차 문서 6건 확인. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-sep25-27-batch1.md). 타전역·실제 집행은 BACKFILL_QUEUE/RQ-0007/RQ-1227. 다음 1941-09-28.
+
 - 1941-09-22..24 forward: FRUS 터키 크롬, 대일 수출제한, 미일 협상·중국 주둔, 비시 인도차이나 관련 당대 사료 7건 선별 검토. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-sep22-24-batch1.md). 미검증 사항 BACKFILL_QUEUE/RQ-0007/RQ-0003, 다음 1941-09-25.
 
 - 1941-09-19..21 forward: FRUS 이란 왕위승계, 일본 교섭, 터키 원조, 수리남 방호, 파라과이 협정 선별 감사. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-sep19-21-batch1.md). 타전역·실제 시행 미확인은 BACKFILL_QUEUE/RQ-0007/RQ-1227. 다음 1941-09-22.
