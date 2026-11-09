@@ -444,5 +444,60 @@
     ],
     "evidence": "이번은 두 대표 인물과 공동 핵분열 연구에 한정했다.",
     "completion_condition": "연구소·군·산업·의학의 전시 과제를 원 사료에 연결하고 피험자·수감자 피해와 개인 책임을 별도로 기록한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0037",
+    "status": "open",
+    "question": "괴벨스 연설의 공개 뉴스릴·IWF 편집본·방송 녹음은 어느 구간에서 대응하는가?",
+    "related_ids": [
+      "CAT-DE-PER-0007",
+      "CAT-DE-SRC-0052",
+      "CAT-DE-SRC-0053",
+      "CAT-DE-SRC-0054",
+      "CAT-DE-SRC-0061"
+    ],
+    "evidence": "당대 촬영 장면은 후대 자막 MP4에서 확인했다. 전체 연설 영상, 원 필름·IWF 판본, 음성 동기화와 누락 범위는 미확인이다.",
+    "completion_condition": "기록기관 필름과 방송 녹음을 입수해 장면·문장별 타임코드로 판본, 누락, 자막 차이, 음성 출처를 확인한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0038",
+    "status": "open",
+    "question": "되니츠의 두 방송 원음과 후대 발췌의 대응 구간은 어디이며 당일 촬영 영상이 남아 있는가?",
+    "related_ids": [
+      "CAT-DE-PER-0002",
+      "CAT-DE-SRC-0056",
+      "CAT-DE-SRC-0057",
+      "CAT-DE-SRC-0058"
+    ],
+    "evidence": "서로 다른 DRA 번호를 확인했고 5월 8일 bpb 음성 파일을 확인했다. DRA 원음은 미청취, 실제 영상 미확보다.",
+    "completion_condition": "DRA 소장 음원 청취와 bpb 발췌의 위치를 기록한다. 방송 자체의 촬영 자료를 다른 날짜 영상 및 정지화면 편집과 구분한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0039",
+    "status": "open",
+    "question": "1939년 9월 1일 히틀러 연설 영상은 제470호 공개 사본의 어느 구간인가?",
+    "related_ids": [
+      "CAT-DE-PER-0003",
+      "CAT-DE-SRC-0052",
+      "CAT-DE-SRC-0059",
+      "CAT-DE-SRC-0060",
+      "CAT-DE-SRC-0062"
+    ],
+    "evidence": "PS-2322와 IWM 제IV부 기술은 확인했다. IWM 영상은 미제공이고 Filmarchiv Austria 페이지에서는 재생 소스를 확인하지 못했다.",
+    "completion_condition": "제470호 열람 가능 판본을 재생해 의회 발언 장면·음성 여부·편집·타임코드를 식별하고 같은 해 다른 의회 연설과 구별한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0040",
+    "status": "open",
+    "question": "다른 독일 전시 연설의 영상·음성 전승을 어떻게 보완할 것인가?",
+    "related_ids": [
+      "CAT-DE-PER-0002",
+      "CAT-DE-PER-0003",
+      "CAT-DE-PER-0007",
+      "CAT-DE-SRC-0053",
+      "CAT-DE-SRC-0056"
+    ],
+    "evidence": "개전·총동원·종전의 대표 사례에 한정했다. 다른 국내·점령지·대외 방송, 무성 영상, 정지화면 편집과 후대 재연은 미조사다.",
+    "completion_condition": "방송·필름 소장기관에서 대표 사례를 확보하고 실제 촬영·음성·사진 편집·재연 여부와 권리를 항목마다 기록한다."
   }
 ]

@@ -1,0 +1,70 @@
+{
+  "step": 10,
+  "job_id": "CAT-DE-10",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 10,
+  "category": "유명 연설의 영상자료",
+  "article_path": "categories/germany/10-speech-videos.md",
+  "status": "partial",
+  "completed_at": "2026-11-09T19:05:39+09:00",
+  "started_at": "2026-11-09T18:59:28+09:00",
+  "base_head": "817c2323b51698596ebbac2df750365d34e163a6",
+  "source_ids": [
+    "CAT-DE-SRC-0052",
+    "CAT-DE-SRC-0053",
+    "CAT-DE-SRC-0054",
+    "CAT-DE-SRC-0055",
+    "CAT-DE-SRC-0056",
+    "CAT-DE-SRC-0057",
+    "CAT-DE-SRC-0058",
+    "CAT-DE-SRC-0059",
+    "CAT-DE-SRC-0060",
+    "CAT-DE-SRC-0061",
+    "CAT-DE-SRC-0062"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0037",
+    "CAT-DE-RQ-0038",
+    "CAT-DE-RQ-0039",
+    "CAT-DE-RQ-0040"
+  ],
+  "entity_ids": [
+    "CAT-DE-PER-0002",
+    "CAT-DE-PER-0003",
+    "CAT-DE-PER-0007"
+  ],
+  "research_scope": "괴벨스 1943년 총력전 뉴스릴, 되니츠 1945년 5월 두 방송, 히틀러 1939년 9월 1일 연설의 문서·영상 소장.",
+  "limitations": [
+    "괴벨스 영상은 후대 영문 자막을 붙인 뉴스릴 사본. 전편 및 원 필름 미대조.",
+    "되니츠 영상 미확보. DRA 소장 녹음 청취와 bpb 발췌 구간 확정은 후속 과제.",
+    "히틀러 9월 1일 영상은 소장 목록과 판본만 확인. 실제 영상·타임코드 미확보."
+  ],
+  "evidence_checked": [
+    "뉴스릴 제651호의 실제 MP4 프레임과 스트림 및 연방기록원 목록의 DW 651/1943",
+    "GHDI 네 번째 질문 및 USHMM의 선별 청중 설명",
+    "DRA 135·169번, BArch RH 26-1002/8 및 bpb MP3 파일 유형·길이",
+    "PS-2322 영어 문서, IWM GWY 431 제IV부, Filmarchiv Austria 35mm 복원판 설명"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://archive.org/download/grmnnr/The%20German%20Newsreel%20-%20Die%20Deutsche%20Wochenschau%20%281939-1945%29/German%20Newsreel%20651%20-%20February%2024%2C%201943.mp4",
+      "result": "파일 내려받기 HTTP 200, 프레임과 스트림 확인."
+    },
+    {
+      "url": "https://film.iwmcollections.org.uk/record/19352",
+      "result": "소장정보 열람. 기관이 재생 미제공·별도 열람 문의를 표시."
+    },
+    {
+      "url": "https://www.filmarchiv.at/de/filmarchiv-on/video/f_030gr3zyc50YKabJZBjNJ8",
+      "result": "목록 및 공개 페이지 HTML 열람. 재생 소스가 노출되지 않아 동영상 확인 보류."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=10 pending=123; sources=62 questions=40. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; pinned HEAD snapshot."
+  }
+}

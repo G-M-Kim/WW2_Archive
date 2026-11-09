@@ -1129,5 +1129,226 @@
     ],
     "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
     "independence_group": "AHF 인물 전기"
+  },
+  {
+    "id": "CAT-DE-SRC-0052",
+    "title": "Wochenschauen und Dokumentarfilme 1895–1950 im Bundesarchiv-Filmarchiv",
+    "institution_or_author": "Peter Bucher / Bundesarchiv",
+    "publication_date": "1984 (2000년 재인쇄)",
+    "source_type": "secondary: 기록원 필름 소장목록",
+    "document_or_accession_number": "Findbücher Band 8, A 2770, DW 651/1943 및 UTW 470/1939",
+    "locator": "인쇄 87·130쪽, 두 뉴스릴 항목",
+    "url": "https://www.bundesarchiv.de/assets/bundesarchiv/de/Downloads/Verzeichnisse/wochenschauen-dokfilme.pdf",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제651호의 1943-02-24 표기, 201m 유성 판본, 1943-02-18 집회 수록",
+      "제470호의 1939-09-07 표기와 베를린 의회 회의 수록"
+    ],
+    "limitations": [
+      "목록은 필름 자체나 공개 사본의 정확한 계보를 보여 주지 않는다."
+    ],
+    "rights": "목록 권리 유보 명시. 기록 링크와 자체 요약만 사용.",
+    "independence_group": "Bundesarchiv-Filmarchiv 소장 판본"
+  },
+  {
+    "id": "CAT-DE-SRC-0053",
+    "title": "Die Deutsche Wochenschau Nr. 651/1943 (English-subtitled copy)",
+    "institution_or_author": "UFA / International Historic Films, Inc. 자막 / Internet Archive 공개 사본",
+    "publication_date": "1943-02-24 (호수 일자), 1993 (영문 자막판 표기)",
+    "source_type": "primary-derived: 당대 선전 뉴스릴의 후대 영문 자막 디지털 사본",
+    "document_or_accession_number": "DW 651/1943, Internet Archive grmnnr, German Newsreel 651 - February 24, 1943.mp4",
+    "locator": "00:00 부근 자막사 표기, 02:15·02:25–02:55, 05:45, ffprobe 전체 1031.031초",
+    "url": "https://archive.org/download/grmnnr/The%20German%20Newsreel%20-%20Die%20Deutsche%20Wochenschau%20%281939-1945%29/German%20Newsreel%20651%20-%20February%2024%2C%201943.mp4",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영상 프레임에서 연단·객석 전환과 영어 자막의 총력전 질문 판독, 영상·음성 스트림 확인"
+    ],
+    "limitations": [
+      "동시대 촬영분을 담은 뉴스릴의 후대 자막 사본. 독일어 음성의 청취 전사와 숏별 동기화, 원 필름 계보 미확인."
+    ],
+    "rights": "사본 도입부에 © 1993 International Historic Films 및 권리 유보 표기. 링크만 사용.",
+    "independence_group": "UFA 651호 뉴스릴"
+  },
+  {
+    "id": "CAT-DE-SRC-0054",
+    "title": "“Total War”: Excerpt from Goebbels’s Speech at the Sportpalast in Berlin",
+    "institution_or_author": "Joseph Goebbels / Frankfurter Zeitung / German History in Documents and Images",
+    "publication_date": "1943-02-18 (연설), 1943-02-20 (신문 게재)",
+    "source_type": "primary-derived: 당대 연설 신문 게재분을 재수록한 번역",
+    "document_or_accession_number": "GHDI document-1583, Frankfurter Zeitung 7쪽, Heiber 203–205쪽, Remak 91–92쪽",
+    "locator": "Source의 네 번째 질문 및 하단 출전",
+    "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/total-war-excerpt-from-goebbels-s-speech-at-the-sportpalast-in-berlin-february-18-1943",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "총력전을 요구한 네 번째 질문의 위치와 연단에서 청중을 대상으로 한 질문 구성"
+    ],
+    "limitations": [
+      "웹에 게재된 발췌를 열람. 원 신문 지면 및 연설 전체 녹음 미대조."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "신문 게재 연설 발췌 전승"
+  },
+  {
+    "id": "CAT-DE-SRC-0055",
+    "title": "Joseph Goebbels",
+    "institution_or_author": "United States Holocaust Memorial Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 인물·전시 선전 해설",
+    "document_or_accession_number": null,
+    "locator": "Goebbels as Plenipotentiary for the War Economy, 1944–45",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/joseph-goebbels-1",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 선전장관의 1943-02-18 연설, 스탈린그라드 패배 이후 총동원 및 선별된 청중"
+    ],
+    "limitations": [
+      "역사적 맥락을 위한 해설. 공개 영상 사본의 계보 증명에는 사용하지 않았다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "USHMM 해설"
+  },
+  {
+    "id": "CAT-DE-SRC-0056",
+    "title": "Auswahl der wichtigsten Tonaufnahmen vom 1.4.1945–30.6.1945",
+    "institution_or_author": "Deutsches Rundfunkarchiv",
+    "publication_date": null,
+    "source_type": "secondary: 방송 음원 소장목록 및 발췌 전사",
+    "document_or_accession_number": "DRA Ffm 45.502 / DRA Ffm 83 U 3984/12",
+    "locator": "인쇄 21쪽 135번, 26쪽 169번",
+    "url": "https://www.dra.de/fileadmin/www.dra.de/downloads/pdf/Sonderhinweisdienst_Ende_Zweiter_Weltkrieg.pdf",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "5월 1일 함부르크 방송 6분 30초와 5월 8일 플렌스부르크 방송 4분 30초의 소장번호·날짜·발췌"
+    ],
+    "limitations": [
+      "소장 목록과 발췌를 열람. DRA 음원 자체는 미청취. 영상 소장 여부를 판단할 수 없다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "DRA 방송 녹음 전승"
+  },
+  {
+    "id": "CAT-DE-SRC-0057",
+    "title": "Transkript der Rundfunkansprache von Karl Dönitz zum Tod von Adolf Hitler",
+    "institution_or_author": "Karl Dönitz / Bundesarchiv",
+    "publication_date": "1945-05-01 (방송일)",
+    "source_type": "primary-derived: 방송 전사 기록의 소장정보와 기록원 해설",
+    "document_or_accession_number": "BArch RH 26-1002/8",
+    "locator": "문서 캡션, Historischer Hintergrund, Die Ansprache",
+    "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/dokumente-zur-zeitgeschichte/rundfunkansprache-von-karl-doenitz-zum-tod-von-adolf-hitler/",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "22:30 송출 표기, 전사본 소장번호, 히틀러 자살과 방송의 전사 주장 차이"
+    ],
+    "limitations": [
+      "육군 사단 역사 자료집의 전사본으로 등재. 웹 해설과 인용을 열람했고 방송 녹음은 별도 소장 기록으로 대조했다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "BArch 전사본 및 역사 해설"
+  },
+  {
+    "id": "CAT-DE-SRC-0058",
+    "title": "08.05.1945: Die bedingungslose Kapitulation der deutschen Wehrmacht",
+    "institution_or_author": "Nikolas Jonas / Bundeszentrale für politische Bildung",
+    "publication_date": "2020-05-07 (제작)",
+    "source_type": "primary-derived: 당대 방송 발췌를 포함한다고 밝힌 후대 해설 음성",
+    "document_or_accession_number": "bpb 309496",
+    "locator": "Inhalt 및 Mehr Informationen, MP3 전체 164.780초",
+    "url": "https://www.bpb.de/mediathek/audio/309496/08-05-1945-die-bedingungslose-kapitulation-der-deutschen-wehrmacht/",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기관은 되니츠 항복 방송 발췌를 명시. 직접 내려받은 https://mediathek.bpb.de/audio/1/309496.mp3 는 영상 스트림 없는 MP3."
+    ],
+    "limitations": [
+      "해설을 포함한 전체 길이. 발췌의 음성 타임코드와 DRA 소장본과의 동일성은 미확인."
+    ],
+    "rights": "© 2020 Bundeszentrale für politische Bildung. 링크만 사용.",
+    "independence_group": "되니츠 방송의 bpb 편집 전승"
+  },
+  {
+    "id": "CAT-DE-SRC-0059",
+    "title": "Hitler’s Speech before the Reichstag 1 September 1939",
+    "institution_or_author": "Adolf Hitler / Office of United States Chief of Counsel / Harvard Law School Library",
+    "publication_date": "1939-09-01 (연설), 1946 (수록 자료집)",
+    "source_type": "primary-derived: 뉘른베르크 재판 증거 영어 문서",
+    "document_or_accession_number": "PS-2322, HLSL Item 450619",
+    "locator": "Document Summary 및 영어 본문",
+    "url": "https://nuremberg.law.harvard.edu/documents/989-speech-to-the-reichstag?mode=text",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-09-01 의회 연설의 날짜와 폴란드에 대한 발언의 문서화"
+    ],
+    "limitations": [
+      "영어 번역·전사 웹 문서. 동시대 영상과 음성 동기화의 근거로 쓰지 않았다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "IMT PS-2322 문서 전승"
+  },
+  {
+    "id": "CAT-DE-SRC-0060",
+    "title": "UFA TONWOCHE NR 470",
+    "institution_or_author": "Imperial War Museums / UFA",
+    "publication_date": "1939-09-07 (IWM 제작일 표기)",
+    "source_type": "secondary: 영상기록 소장정보",
+    "document_or_accession_number": "IWM GWY 431, record 19352",
+    "locator": "Description IV 및 Technical Details",
+    "url": "https://film.iwmcollections.org.uk/record/19352",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "크롤 오페라극장 도착·의회 발언 장면이 제IV부로 기재됨. 16mm 유성 사본."
+    ],
+    "limitations": [
+      "기관 페이지에 재생 미제공 표시. 목록의 장면 기술까지 확인했다."
+    ],
+    "rights": "Access Conditions IWM-GERMAN, Attribution IWM – GWY 431. 링크만 사용.",
+    "independence_group": "UFA 470호 뉴스릴의 IWM 소장본"
+  },
+  {
+    "id": "CAT-DE-SRC-0061",
+    "title": "Joseph Goebbels zum Totalen Krieg - Kundgebung im Berliner Sportpalast am 18.2.1943",
+    "institution_or_author": "filmportal.de / Universum-Film AG / Institut für den wissenschaftlichen Film",
+    "publication_date": "1943 (촬영), IWF 편집일 미확인",
+    "source_type": "secondary: 독일 영화 자료 목록",
+    "document_or_accession_number": null,
+    "locator": "Credits 및 Archivfassung",
+    "url": "https://www.filmportal.de/film/joseph-goebbels-zum-totalen-krieg-kundgebung-im-berliner-sportpalast-am-1821943",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "UFA 원 촬영과 IWF 편집을 명시한 흑백 유성 16mm·67m·6분 보존판 등재"
+    ],
+    "limitations": [
+      "실제 영상 미열람. 제651호 및 다른 보존판과의 쇼트 대응 미확인."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "UFA 촬영분의 IWF 편집판"
+  },
+  {
+    "id": "CAT-DE-SRC-0062",
+    "title": "Beginn des Zweiten Weltkrieges: Feldzug gegen Polen",
+    "institution_or_author": "Filmarchiv Austria / Universum-Film AG",
+    "publication_date": "1939 (뉴스릴), 2025 (복원판)",
+    "source_type": "secondary: 기록기관의 복원판 페이지",
+    "document_or_accession_number": "f_030gr3zyc50YKabJZBjNJ8, UFA Tonwoche 470/1939",
+    "locator": "Originaltitel·Quelle·Restaurierte Fassung",
+    "url": "https://www.filmarchiv.at/de/filmarchiv-on/video/f_030gr3zyc50YKabJZBjNJ8",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Filmarchiv Austria 컬렉션의 35mm 양화를 바탕으로 한 동일 호수 복원판의 서지"
+    ],
+    "limitations": [
+      "공개 페이지 설명과 HTML을 열람. 재생 소스가 노출되지 않아 해당 사본 장면과 길이는 미확인."
+    ],
+    "rights": "Filmarchiv Austria © 2025 복원판 표기. 링크만 사용.",
+    "independence_group": "UFA 470호 뉴스릴의 Filmarchiv Austria 소장 양화"
   }
 ]

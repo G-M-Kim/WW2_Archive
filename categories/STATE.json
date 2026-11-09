@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 10,
-  "CAT_VISITED_COUNT": 9,
-  "CAT_LAST_JOB_ID": "CAT-DE-09",
+  "CAT_NEXT_STEP": 11,
+  "CAT_VISITED_COUNT": 10,
+  "CAT_LAST_JOB_ID": "CAT-DE-10",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-09T17:08:00+09:00",
-  "note": "독일 09 오토 한·폰 브라운 부분 조사 저장. 첫 방문 9/133, 다음 CAT-DE-10."
+  "updated_at": "2026-11-09T19:05:39+09:00",
+  "note": "독일 10 괴벨스·되니츠·히틀러 연설 자료 부분 조사 저장. 첫 방문 10/133, 다음 CAT-DE-11."
 }
