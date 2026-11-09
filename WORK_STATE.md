@@ -1,11 +1,13 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-10-19
-FORWARD_INSPECTED_THROUGH: 1941-10-18
-CURRENT_FORWARD_BATCH: 1941-10-19..1941-10-21
+FORWARD_CURSOR: 1941-10-22
+FORWARD_INSPECTED_THROUGH: 1941-10-21
+CURRENT_FORWARD_BATCH: 1941-10-22..1941-10-24
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-09
 
 ## 최신 실행 — 2026-11-09
+- 1941-10-19..21 forward: FRUS IV d396/d397/d398/d401, V d479, VII d418, I d965/d796 원문 8건 대조. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-oct19-21-batch1.md). 동부전선·중국·민간인·타전역 및 일본측 원문은 RQ-0007/RQ-0003 backfill. 다음 1941-10-22.
+
 - 1941-10-16..18 forward: FRUS IV d379/d388/d390/d391/d392 당대 기록 5건 대조; 내각 사임·신임 내각 발표·미발송 외교안 구분. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-oct16-18-batch1.md). 동부전선·중국·민간인·타전역 및 일본측 원문은 backfill. 다음 1941-10-19.
 
 - 1941-10-13..15 forward: FRUS IV d376/d377/d378 원문 확인; 10/13·타전역 backfill. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-oct13-15-batch1.md). 다음 1941-10-16.
