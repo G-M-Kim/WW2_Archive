@@ -160,8 +160,9 @@
     "category": "당시 인구",
     "article_path": "categories/germany/12-population.md",
     "planned_at": "2026-11-09T19:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-DE-12.json",
+    "completed_at": "2026-11-09T23:14:47+09:00"
   },
   {
     "step": 13,

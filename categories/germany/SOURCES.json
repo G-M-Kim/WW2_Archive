@@ -1550,5 +1550,165 @@
     ],
     "rights": "Siemens 웹 보도자료. 요약·링크만 사용.",
     "independence_group": "Siemens 기업 보도자료"
+  },
+  {
+    "id": "CAT-DE-SRC-0073",
+    "title": "Die Bevölkerung des Deutschen Reichs 1939: Vorläufiges Ergebnis der Volkszählung vom 17. Mai 1939",
+    "institution_or_author": "Statistisches Reichsamt / Statistische Bibliothek",
+    "publication_date": "1939-07 (7월 첫 호)",
+    "source_type": "primary: 당대 인구조사 잠정 발표",
+    "document_or_accession_number": "Wirtschaft und Statistik, 19. Jg. Nr. 13",
+    "locator": "498–500쪽, 499쪽 하단 지역별 표, PDF 5면",
+    "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEAusgabe_derivate_00001193/Wirtschaft_und_Statistik-1939-13.pdf",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "메멜 제외 79,576,758명, 조사일 현지 체류 인구"
+    ],
+    "limitations": [
+      "상주 인구 확정치와 기준이 다르며 보호령과 메멜 관련 문단은 별도 추산."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "1939 독일 인구조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0074",
+    "title": "Die Bevölkerung des Deutschen Reichs: Endgültiges Ergebnis der Volkszählung vom 17. Mai 1939",
+    "institution_or_author": "Statistisches Reichsamt / Statistische Bibliothek",
+    "publication_date": "1940-09-21",
+    "source_type": "primary: 당대 인구조사 확정 발표",
+    "document_or_accession_number": "Wirtschaft und Statistik, 20. Jg. Nr. 17",
+    "locator": "381–382쪽과 부록 1쪽; PDF 2면의 지역별 합계·각주를 스캔에서 판독",
+    "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEAusgabe_derivate_00001172/Wirtschaft_und_Statistik-1940-17.pdf",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "상주·현지 체류·복무자 제외 기준, 79,375,281명 및 지역별 합계, 메멜과 보호령의 별도 기준"
+    ],
+    "limitations": [
+      "영토 확장 표에는 서로 다른 조사·추계 시점이 섞임. 조사값과 공식 통계의 정치적 서술은 분리."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "1939 독일 인구조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0075",
+    "title": "Civil Affairs Handbook: Germany, Section 1: Geographical and Social Background",
+    "institution_or_author": "U.S. Army Service Forces / Combined Arms Research Library",
+    "publication_date": "1944-09-16",
+    "source_type": "primary-derived: 전시 미군 편람의 독일 통계 인용",
+    "document_or_accession_number": "Army Service Forces Manual M356-1",
+    "locator": "인쇄 41쪽 B.1.a 및 주 1–2",
+    "url": "https://cgsc.contentdm.oclc.org/digital/api/collection/p4013coll8/id/2666/download",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 1939년 조사 총인구의 전시 재인용 및 1937년 제국·오스트리아·주데텐으로 설명한 범위"
+    ],
+    "limitations": [
+      "동일 원조사의 재인용이며 독립 인구조사가 아님. Wohnbevölkerung의 각주 설명은 독일 확정 보고와 다름."
+    ],
+    "rights": "미국 정부 간행물 디지털 열람본. 자체 요약·링크 사용.",
+    "independence_group": "1939 독일 인구조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0076",
+    "title": "Statistisches Jahrbuch für die Bundesrepublik Deutschland 1952",
+    "institution_or_author": "Statistisches Bundesamt / Statistische Bibliothek",
+    "publication_date": "1952",
+    "source_type": "secondary: 전후 공식 연감의 역사 통계 재편집",
+    "document_or_accession_number": "1952년 연감 I. Gebiet und Bevölkerung",
+    "locator": "12–13쪽, 표 1–2 및 경계 각주",
+    "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEHeft_derivate_00055594/1952.pdf",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1937년 말 경계의 1939년 5월 재구성 및 1939–1944년 연도 중반 인구, 1945년 공란"
+    ],
+    "limitations": [
+      "연도 중반 계열과 총조사일 수치를 분리. 개별 연도 산출 원자료와 편찬 과정은 미대조."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "연방통계청 연감 편찬"
+  },
+  {
+    "id": "CAT-DE-SRC-0077",
+    "title": "Volks- und Berufszählung vom 29. Oktober 1946 in den vier Besatzungszonen und Groß-Berlin: Deutsches Gemeindeverzeichnis",
+    "institution_or_author": "Ausschuß der Deutschen Statistiker für die Volks- und Berufszählung 1946 / Statistische Bibliothek",
+    "publication_date": "1950 (인쇄)",
+    "source_type": "primary: 전후 인구조사 공식 시정촌 명부",
+    "document_or_accession_number": "DEHeft_derivate_00096654",
+    "locator": "인쇄 1쪽 표 I 및 각주, PDF 7면",
+    "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEHeft_derivate_00096654/gemeindeverzeichnis.pdf",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "4개 점령구역·대베를린의 1939년 재집계와 1946년 총계·지역별 값 및 적용 경계일"
+    ],
+    "limitations": [
+      "1946-10-29 인구 열과 행정경계의 날짜가 다름. 1939년 값은 동일 지역을 대상으로 재구성."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "1946 점령구역 총조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0078",
+    "title": "Volks- und Berufszählung vom 29. Oktober 1946 in den vier Besatzungszonen und Groß-Berlin: Volkszählung, Textteil",
+    "institution_or_author": "Ausschuß der Deutschen Statistiker für die Volks- und Berufszählung 1946 / Statistische Bibliothek",
+    "publication_date": null,
+    "source_type": "primary: 조사 담당 위원회의 결과 및 방법 해설",
+    "document_or_accession_number": "DEHeft_derivate_00096650",
+    "locator": "서문 III–IV쪽과 조사범위·1939 비교 단락 (PDF 3–4, 9–10면)",
+    "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEHeft_derivate_00096650/volkszaehlungtextteil.pdf",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 상주 인구의 일부 추계 재집계, 자르 분리, 1946년 상주 기준표와 D.P.-Lager 포함·제외 총계"
+    ],
+    "limitations": [
+      "D.P.-Lager 열은 지정 수용소 인원만을 뜻함. 0077과 동일 조사이며 다른 기준의 표도 수록."
+    ],
+    "rights": "Duncker & Humblot 권리 유보 표기. 자체 요약·링크만 사용.",
+    "independence_group": "1946 점령구역 총조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0079",
+    "title": "Protocol of the Proceedings of the Berlin Conference",
+    "institution_or_author": "미국·영국·소련 대표단 / U.S. Department of State, Office of the Historian",
+    "publication_date": "1945-08-01 (서명)",
+    "source_type": "primary: 포츠담 의정서 공식 외교문서 수록본",
+    "document_or_accession_number": "FRUS 1945 Berlin Conference, Vol. II, document 1383",
+    "locator": "VI, IX.B (1491–1492쪽), XIII (1495–1496쪽)",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv02/d1383",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동부 영토의 잠정 행정 범위와 최종 국경 확정의 구분, 폴란드·체코슬로바키아·헝가리의 독일인 이송 결정"
+    ],
+    "limitations": [
+      "외교 결정문은 지역 인구나 이동의 실제 완료 인원을 집계한 자료가 아님."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "포츠담 합의 문서"
+  },
+  {
+    "id": "CAT-DE-SRC-0080",
+    "title": "The supplementary cards stating information about origin and educational background of the population census of 17 May 1939",
+    "institution_or_author": "Nicolai M. Zimmermann / Bundesarchiv",
+    "publication_date": null,
+    "source_type": "secondary 및 primary: 기록원 해설과 당대 조사 양식 수록",
+    "document_or_accession_number": "Bundesarchiv R 1509 (보충카드 소장군)",
+    "locator": "1–3쪽, 표 1·주 9 및 첨부 Drucksache Nr. II",
+    "url": "https://www.bundesarchiv.de/assets/bundesarchiv/en/Downloads/essay-zimmermann-supplementary-cards.pdf",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "인종법의 조부모 분류와 당대 양식, 공식 세 범주 318,320명과 현존 카드 277,531명, 지역별 자료 누락"
+    ],
+    "limitations": [
+      "공식 집계와 현존 보존 카드에서 파악한 인원을 구분. 개별 카드나 피해 추적을 전수 대조하지 않음."
+    ],
+    "rights": "Bundesarchiv 게시본. 양식과 개별 카드의 재게시 없이 요약·링크만 사용.",
+    "independence_group": "1939 보충카드 보존·공식 결과 비교"
   }
 ]

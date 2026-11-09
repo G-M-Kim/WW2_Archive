@@ -1,0 +1,62 @@
+{
+  "step": 12,
+  "job_id": "CAT-DE-12",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 12,
+  "category": "당시 인구",
+  "article_path": "categories/germany/12-population.md",
+  "status": "partial",
+  "completed_at": "2026-11-09T23:14:47+09:00",
+  "started_at": "2026-11-09T23:09:37+09:00",
+  "base_head": "fefa61a34c37bdc7cf9cc16cdf59f83a54db9c2b",
+  "source_ids": [
+    "CAT-DE-SRC-0073",
+    "CAT-DE-SRC-0074",
+    "CAT-DE-SRC-0075",
+    "CAT-DE-SRC-0076",
+    "CAT-DE-SRC-0077",
+    "CAT-DE-SRC-0078",
+    "CAT-DE-SRC-0079",
+    "CAT-DE-SRC-0080"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0046",
+    "CAT-DE-RQ-0047",
+    "CAT-DE-RQ-0048",
+    "CAT-DE-RQ-0049"
+  ],
+  "entity_ids": [
+    "CAT-DE-GEO-0001",
+    "CAT-DE-GEO-0002",
+    "CAT-DE-GEO-0003",
+    "CAT-DE-GEO-0004",
+    "CAT-DE-GEO-0005",
+    "CAT-DE-GEO-0006"
+  ],
+  "research_scope": "1939 현지 체류·상주 집계, 병합지와 보호령, 전시 연중 인구, 1946 점령구역 재집계 및 보충카드의 한계.",
+  "limitations": [
+    "개전·종전 당일 수치 및 전시 점령지·이동·사망의 통합 검증 미실시.",
+    "1946년 점령구역 비교의 1939년 값은 일부 추계를 포함한 재집계.",
+    "보충카드 현존 자료는 전수 명부가 아니며 개별 피해 경로는 조사하지 않음."
+  ],
+  "evidence_checked": [
+    "Wirtschaft und Statistik 1939 인쇄 499쪽 및 1940 인쇄 381–382쪽 본문·표",
+    "미군 M356-1 인쇄 41쪽, 1952년 통계연감 I.1–2",
+    "1946년 시정촌 명부 I표 1쪽 및 해설 IV쪽과 1946 집계 범위",
+    "포츠담 의정서의 동부 행정 및 이송 조항, 연방기록원 보충카드 해설 표 1·양식"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://digi.bib.uni-mannheim.de/fileadmin/gv/364900261_19390552/pdf/364900261_0009.pdf",
+      "result": "만하임 대학도서관 제552권 1책 공개 PDF는 표제 1면만 제공. 숫자는 1940년 원 확정 보고의 표에서 확인."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=12 pending=121; sources=80 questions=49. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; pinned HEAD snapshot."
+  }
+}
