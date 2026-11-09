@@ -1,11 +1,13 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-10-07
-FORWARD_INSPECTED_THROUGH: 1941-10-06
-CURRENT_FORWARD_BATCH: 1941-10-07..1941-10-09
+FORWARD_CURSOR: 1941-10-10
+FORWARD_INSPECTED_THROUGH: 1941-10-09
+CURRENT_FORWARD_BATCH: 1941-10-10..1941-10-12
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-09
 
 ## 최신 실행 — 2026-11-09
+- 1941-10-07..09 forward: FRUS 미국·일본·동인도·터키·중국 관련 당대 사료 7건 선별 대조. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-oct07-09-batch1.md). 10/9 및 타전역은 RQ-0007/RQ-0003 backfill. 다음 1941-10-10.
+
 - 1941-10-04..06 forward: FRUS IV d369 10/6 포르투갈 미 무관 간접전언 원문 확인, 일본 외무성/JACAR 공식 사료집 서지 및 FRUS 목차 확인. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-oct04-06-batch1.md). 10/4~5·타전역 미조사 및 일본측 원자료는 RQ-0007/RQ-0003 backfill. 다음 1941-10-07.
 
 - 1941-10-01..03 forward: FRUS 미일·중국·우루과이·브라질 문서 4건 본문과 10/2 서지 확인. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-oct01-03-batch1.md). 10/2~3 및 타전역 backfill RQ-0007/RQ-0003. 다음 1941-10-04.
