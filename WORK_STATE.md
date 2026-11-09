@@ -1,11 +1,14 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-11-09
-FORWARD_INSPECTED_THROUGH: 1941-11-08
-CURRENT_FORWARD_BATCH: 1941-11-09..1941-11-11
+FORWARD_CURSOR: 1941-11-12
+FORWARD_INSPECTED_THROUGH: 1941-11-11
+CURRENT_FORWARD_BATCH: 1941-11-12..1941-11-14
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-10
 
 ## 최신 실행 — 2026-11-10
+- 1941-11-09..11-11 forward: FRUS 6건(소련·레반트·상하이·미일·통상) 선별 감사. 신규 0/0/0 누적 3612/2035/1227. [감사](source-audit-1941-nov09-11-batch1.md), 미검증 RQ-0003/RQ-0007 backfill. 다음 1941-11-12.
+
+## 이전 실행 — 2026-11-10
 - 1941-11-06..11-08 forward: FRUS 1차 외교문서 9건 선별 대조(일본·중국·태국·소련·쿠바), 신규 0/0/0 누적 3612/2035/1227. [감사](source-audit-1941-nov06-08-batch1.md). 타전역·집행 기록은 RQ-0003/RQ-0007 backfill. 다음 1941-11-09.
 
 ## 이전 실행 — 2026-11-10
