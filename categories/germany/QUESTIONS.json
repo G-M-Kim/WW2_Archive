@@ -395,5 +395,54 @@
     ],
     "evidence": "이번에는 두 인물의 대표 문서와 되니츠 승계를 부분 조사했다. 외교·선전·점령행정·전시 동원은 범위가 남아 있다.",
     "completion_condition": "직책과 실제 결정·집행을 동시대 문서에 연결한다. 앞선 분류와 중복되면 인물 ID를 재사용한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0033",
+    "status": "open",
+    "question": "오토 한은 전시 우라늄 연구에서 어떤 기관·과제에 참여했는가?",
+    "related_ids": [
+      "CAT-DE-PER-0005",
+      "CAT-DE-SRC-0044",
+      "CAT-DE-SRC-0046",
+      "CAT-DE-SRC-0047",
+      "CAT-DE-SRC-0051"
+    ],
+    "evidence": "공동 실험과 팜홀 반응은 확인. 논문과 감시 보고만으로 전시 과제의 범위와 무기 개발 책임을 확정하기 어렵다.",
+    "completion_condition": "기관 지원 기록·전시 연구 보고서·발령을 문서번호와 쪽으로 연결하고 담당 연구와 무기 설계·제작을 구분한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0034",
+    "status": "open",
+    "question": "미텔베르크 A4 생산의 1944년 1월과 후반 표기는 각각 어느 단계인가?",
+    "related_ids": [
+      "CAT-DE-PER-0006",
+      "CAT-DE-SRC-0048",
+      "CAT-DE-SRC-0049"
+    ],
+    "evidence": "도라 기념관은 1월, NASA 전기는 1944년 후반을 생산 시작으로 기술한다.",
+    "completion_condition": "현장 일보·공장 조립·검수·출하 원장의 시점과 생산 정의를 대조한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0035",
+    "status": "open",
+    "question": "폰 브라운이 1944년 8월에 언급한 수감자 이송과 시험 작업장은 실제로 어떻게 집행됐는가?",
+    "related_ids": [
+      "CAT-DE-PER-0006",
+      "CAT-DE-SRC-0049",
+      "CAT-DE-SRC-0050"
+    ],
+    "evidence": "Neufeld가 인용한 편지에는 이송 주선이 나오지만 원본과 실제 이송·배치 대장은 미확인이다.",
+    "completion_condition": "DM GD 638.8.2 또는 NASM FE 694a와 수감자 이송·업무 배치 기록을 확인하고 작성·주선·실행을 구분한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0036",
+    "status": "open",
+    "question": "다른 독일 전시 과학·공학·의학 연구자의 활동을 어떻게 보완할 것인가?",
+    "related_ids": [
+      "CAT-DE-PER-0005",
+      "CAT-DE-PER-0006"
+    ],
+    "evidence": "이번은 두 대표 인물과 공동 핵분열 연구에 한정했다.",
+    "completion_condition": "연구소·군·산업·의학의 전시 과제를 원 사료에 연결하고 피험자·수감자 피해와 개인 책임을 별도로 기록한다."
   }
 ]

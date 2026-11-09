@@ -968,5 +968,166 @@
     ],
     "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
     "independence_group": "1945년 정치 유언 자체"
+  },
+  {
+    "id": "CAT-DE-SRC-0044",
+    "title": "Über den Nachweis und das Verhalten der bei der Bestrahlung des Urans mittels Neutronen entstehenden Erdalkalimetalle",
+    "institution_or_author": "Otto Hahn·Fritz Strassmann / Die Naturwissenschaften, ChemTeam 스캔",
+    "publication_date": "1939-01-06 (접수 1938-12-22)",
+    "source_type": "primary: 당대 연구논문 스캔",
+    "document_or_accession_number": "Die Naturwissenschaften 27(1), 11–15쪽",
+    "locator": "11쪽 표제·소속·접수일 및 15쪽 결론 직접 판독",
+    "url": "https://www.chemteam.info/Chem-History/Hahn-fission-1939a-German/Hahn-1939a-fission-German.pdf",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공동 저자·베를린다렘 연구소, 이전 라듐 식별을 바륨으로 수정해야 한다는 결론과 핵물리 해석 유보"
+    ],
+    "limitations": [
+      "원 실험노트와 전시 과제 배정 문서는 아님."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "한·슈트라스만의 실험 논문"
+  },
+  {
+    "id": "CAT-DE-SRC-0045",
+    "title": "Disintegration of Uranium by Neutrons: a New Type of Nuclear Reaction",
+    "institution_or_author": "Lise Meitner·O. R. Frisch / Nature, Texas A&M University 호스팅 PDF",
+    "publication_date": "1939-02-11",
+    "source_type": "primary: 당대 해석 논문 PDF",
+    "document_or_accession_number": "Nature 143, 239–240쪽, DOI 10.1038/143239a0",
+    "locator": "239–240쪽 본문 및 저자 소속·각주 5",
+    "url": "https://people.tamu.edu/~f-narcowich/m641/m641_notes/Meitner-Frisch-1939.pdf",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "한·슈트라스만 결과를 인용한 핵분열 해석 및 스톡홀름·코펜하겐 소속 표기"
+    ],
+    "limitations": [
+      "바륨 실험을 독립 반복한 논문으로 집계하지 않음."
+    ],
+    "rights": "PDF © 1939 Nature Publishing Group 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "마이트너·프리슈 해석 논문"
+  },
+  {
+    "id": "CAT-DE-SRC-0046",
+    "title": "Otto Hahn",
+    "institution_or_author": "Max-Planck-Gesellschaft",
+    "publication_date": null,
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "Career in the KWG 문단",
+    "url": "https://www.mpg.de/8241484/otto-hahn",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "한의 1928–1945 소장직, 스웨덴 피신 중 마이트너의 공동 해석, 팜홀 수용"
+    ],
+    "limitations": [
+      "기관의 후대 전기. 전시 과제 배정·집행 원문 아님."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "MPG의 기관사 전기"
+  },
+  {
+    "id": "CAT-DE-SRC-0047",
+    "title": "Transcript of Surreptitiously Taped Conversations among German Nuclear Physicists at Farm Hall (August 6–7, 1945)",
+    "institution_or_author": "영국 측 팜홀 감시 기록 / German History in Documents and Images",
+    "publication_date": "1945-08-06~07 (대화일)",
+    "source_type": "primary-derived: 당대 영어 번역·감시 보고의 웹 전사",
+    "document_or_accession_number": "GHDI document-2320",
+    "locator": "Source, II. 6th August 1945 §§1–3",
+    "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/ghdi:document-2320",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "관찰자가 기록한 한의 첫 반응과 피수용자들의 미국 폭탄 및 연구 역량 논의"
+    ],
+    "limitations": [
+      "발화자 귀속·당사자 회고·관찰자의 서술을 분리. 녹음 원본 및 영국 문서 원본 미대조."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "팜홀 감시보고 자체"
+  },
+  {
+    "id": "CAT-DE-SRC-0048",
+    "title": "Wernher von Braun",
+    "institution_or_author": "NASA / Marshall Space Flight Center",
+    "publication_date": null,
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "독일 육군 입사, 페네뮌데 개발, 첫 발사 및 Mittelwerk 이전·방문 단락",
+    "url": "https://www.nasa.gov/people/wernher-von-braun/",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰, 독일 육군의 로켓 개발·나치당 가입과 SS 이력, 1942년 10월 시험과 1944년 9월 실전 사용",
+      "Mittelwerk의 강제노동과 NASA의 1944년 후반 생산 개시 표기"
+    ],
+    "limitations": [
+      "기관 전기이며 전시 생산 원장이 아님. 생산 개시 설명이 도라 기념관과 상충."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "NASA 기관 전기"
+  },
+  {
+    "id": "CAT-DE-SRC-0049",
+    "title": "„Lebendig begraben“",
+    "institution_or_author": "Mittelbau-Dora Memorial",
+    "publication_date": null,
+    "source_type": "secondary: 역사 현장 기념관의 연표 설명",
+    "document_or_accession_number": null,
+    "locator": "본문 1–5문단",
+    "url": "https://www.dora.de/en/geschichte/chronologie/konzentrationslager/lebendig-begraben",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 8월 말부터의 수감자 이송과 터널 강제노동, 1944년 1월 A4 생산 가동 표기"
+    ],
+    "limitations": [
+      "생산 원장·인수 조건은 미확인. 개인의 결재·명령 책임을 직접 입증하지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "미텔바우도라 기념관의 수용소 연표"
+  },
+  {
+    "id": "CAT-DE-SRC-0050",
+    "title": "Wernher von Braun, the SS, and Concentration Camp Labor: Questions of Moral, Political, and Criminal Responsibility",
+    "institution_or_author": "Michael J. Neufeld / German Studies Review",
+    "publication_date": "2002-02",
+    "source_type": "secondary: 학술논문 및 1944년 서한 인용",
+    "document_or_accession_number": "German Studies Review 25(1); 인용 서한 DM GD 638.8.2 / NASM FE 694a",
+    "locator": "58–59쪽, 67–69쪽 §3 및 주 29",
+    "url": "https://epizodsspace.airbase.ru/bibl/inostr-yazyki/german-studies/2002/neufeld_25.pdf",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "폰 브라운의 기술 지휘, 1944-08-15 알빈 자바츠키에게 보낸 서한의 인용 및 이송과 작업장 성립의 검증 한계"
+    ],
+    "limitations": [
+      "웹에서 논문 PDF 본문 열람. 독일어 서한의 기록관 원본은 미열람."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Neufeld의 기록 기반 분석과 서한 인용"
+  },
+  {
+    "id": "CAT-DE-SRC-0051",
+    "title": "Otto Hahn",
+    "institution_or_author": "Atomic Heritage Foundation / National Museum of Nuclear Science & History",
+    "publication_date": null,
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "인물 소개 첫 단락",
+    "url": "https://ahf.nuclearmuseum.org/ahf/profile/otto-hahn/",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "한의 독일 국적, 생몰연도와 방사화학자 신원"
+    ],
+    "limitations": [
+      "이 원고에서는 신원과 연대의 근거로 사용. 전시 연구사업 전체와의 관계는 별도 사료 필요."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "AHF 인물 전기"
   }
 ]

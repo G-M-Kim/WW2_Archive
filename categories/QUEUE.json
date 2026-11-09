@@ -118,8 +118,9 @@
     "category": "유명한 학자·연구자",
     "article_path": "categories/germany/09-scientific-personnel.md",
     "planned_at": "2026-11-09T13:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-DE-09.json",
+    "completed_at": "2026-11-09T17:08:00+09:00"
   },
   {
     "step": 10,
