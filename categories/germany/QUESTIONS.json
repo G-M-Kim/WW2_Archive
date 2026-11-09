@@ -677,5 +677,64 @@
     ],
     "evidence": "도시 세 곳과 자유시 한 영역의 표본만 조사했다. 국내 지명과 추가 병합·점령 지역은 후보 범위다.",
     "completion_condition": "독일 본토와 추가 지역에서 최소 한 사례씩 당대 지도·행정 문서·현지어 근거와 현행 대응명을 확보한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0054",
+    "status": "open",
+    "question": "주데텐 편입지와 보호령의 시기별 경계는 어느 지방 단위를 포함했는가?",
+    "related_ids": [
+      "CAT-DE-GEO-0003",
+      "CAT-DE-GEO-0005",
+      "CAT-DE-SRC-0095",
+      "CAT-DE-SRC-0096",
+      "CAT-DE-SRC-0107"
+    ],
+    "evidence": "협정 본문·보호령 칙령과 복원 지도는 확인했으며 뮌헨 부속 원도와 국제위원회 획정 기록은 미확보.",
+    "completion_condition": "위원회 원도·회의록과 현지 행정구역표를 날짜별로 대조한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0055",
+    "status": "open",
+    "question": "독일 점령 폴란드에서 편입·총독부·비아위스토크 등 경계와 시행일은 지방별로 어떻게 달라졌는가?",
+    "related_ids": [
+      "CAT-DE-GEO-0008",
+      "CAT-DE-GEO-0011",
+      "CAT-DE-GEO-0013",
+      "CAT-DE-SRC-0092",
+      "CAT-DE-SRC-0099",
+      "CAT-DE-SRC-0100",
+      "CAT-DE-SRC-0101"
+    ],
+    "evidence": "1939년 칙령과 1942년 개략도에서 구조를 확인했으며 모든 지역의 편입 명령과 도엽은 미확보.",
+    "completion_condition": "지역별 시행 관보, 지방 행정 지도와 1941년 재편 명령을 대조한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0056",
+    "status": "open",
+    "question": "독일의 서부·동부 추가 점령지와 협력 정권의 군사·민사 권한은 어떻게 달라졌는가?",
+    "related_ids": [
+      "CAT-DE-GEO-0012",
+      "CAT-DE-SRC-0102",
+      "CAT-DE-SRC-0108"
+    ],
+    "evidence": "프랑스 1940년 정전 체제를 대표 사례로 조사했다. 알자스·모젤, 룩셈부르크와 동부 국가판무관부 등은 후보 범위다.",
+    "completion_condition": "편입 선언과 사실상 편입, 군정·민정, 협력 정권을 문서와 시기별 지도에서 분리한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0057",
+    "status": "open",
+    "question": "1945년 구역별 실제 인수일과 포츠담 동부 잠정행정선은 지방에서 어떻게 구현됐는가?",
+    "related_ids": [
+      "CAT-DE-GEO-0006",
+      "CAT-DE-GEO-0008",
+      "CAT-DE-GEO-0010",
+      "CAT-DE-SRC-0079",
+      "CAT-DE-SRC-0103",
+      "CAT-DE-SRC-0104",
+      "CAT-DE-SRC-0105",
+      "CAT-DE-SRC-0106"
+    ],
+    "evidence": "외교적 구역 기준과 점령구역 표시 지도는 확인했다. 지방 인수 날짜 및 실제 관할 경계의 전수 복원은 미실시.",
+    "completion_condition": "4국 군정 지도·인수 기록과 폴란드·소련 현지 행정 명령을 대조한다."
   }
 ]

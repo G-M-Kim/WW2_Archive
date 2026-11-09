@@ -188,8 +188,9 @@
     "category": "당시 영토",
     "article_path": "categories/germany/14-territory.md",
     "planned_at": "2026-11-09T23:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-DE-14.json",
+    "completed_at": "2026-11-10T02:59:54+09:00"
   },
   {
     "step": 15,
