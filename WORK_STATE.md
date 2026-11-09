@@ -1,11 +1,13 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-10-01
-FORWARD_INSPECTED_THROUGH: 1941-09-30
-CURRENT_FORWARD_BATCH: 1941-10-01..1941-10-03
+FORWARD_CURSOR: 1941-10-04
+FORWARD_INSPECTED_THROUGH: 1941-10-03
+CURRENT_FORWARD_BATCH: 1941-10-04..1941-10-06
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-09
 
 ## 최신 실행 — 2026-11-09
+- 1941-10-01..03 forward: FRUS 미일·중국·우루과이·브라질 문서 4건 본문과 10/2 서지 확인. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-oct01-03-batch1.md). 10/2~3 및 타전역 backfill RQ-0007/RQ-0003. 다음 1941-10-04.
+
 - 1941-09-28..30 forward: FRUS 이란·시리아·터키·자유프랑스·중국·일본·인도차이나 1차 기록 9건 선별 검토. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-sep28-30-batch1.md). 타전역·원자료 검증 BACKFILL_QUEUE/RQ-0007/RQ-1227. 다음 1941-10-01.
 
 - 1941-09-25..27 forward: FRUS IV d353/d354/d702/d703, V d306, III d458 1차 문서 6건 확인. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-sep25-27-batch1.md). 타전역·실제 집행은 BACKFILL_QUEUE/RQ-0007/RQ-1227. 다음 1941-09-28.
