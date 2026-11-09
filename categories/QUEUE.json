@@ -62,8 +62,9 @@
     "category": "보병 무기 및 장비",
     "article_path": "categories/germany/05-infantry-equipment.md",
     "planned_at": "2026-11-09T05:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-DE-05.json",
+    "completed_at": "2026-11-09T09:02:34+09:00"
   },
   {
     "step": 6,

@@ -5,20 +5,22 @@
     "institution_or_author": "United States War Department; U.S. Government Printing Office",
     "publication_date": "1945-03-15（발행문; 해당 본문 머리말 1945-03-01）",
     "source_type": "primary: 동시대 적군 정보 교범 원문 스캔",
-    "locator": "TM-E 30-451; 제목지 PDF 2, 서문 PDF 3; Chapter VII §VI.3~4, VII-79~85 (PDF 389~395); 시각 판독 PDF 390, 392, 393, 395; CAT-DE-02 추가: VII §V.1.c VII-57(PDF 367) 텍스트; §V.2.a VII-58(PDF 368), §VI.6 VII-88(PDF 398) 시각 판독",
+    "locator": "TM-E 30-451; 제목지 PDF 2, 서문 PDF 3; Chapter VII §VI.3~4, VII-79~85 (PDF 389~395); 시각 판독 PDF 390, 392, 393, 395; CAT-DE-02 추가: VII §V.1.c VII-57(PDF 367) 텍스트; §V.2.a VII-58(PDF 368), §VI.6 VII-88(PDF 398) 시각 판독; CAT-DE-05: VII §II.5.a VII-5(PDF 315), §II.6.b VII-8(PDF 318), §II.7.b(3) VII-11(PDF 321)",
     "url": "https://www.ibiblio.org/hyperwar/USA/ref/TM/pdfs/TME30-451.PDF",
     "access_status": "source_checked",
     "claims_checked": [
       "Model G Panzer IV, Panther, Model E Tiger 및 Model B Tiger의 표상 무장·승무원·기동 수치",
       "Tiger Model E road speed 원문 15 mph와 후대 전사본 5 mph의 불일치",
       "발행일·정보 집계일 및 본문 머리말 날짜 구분",
-      "CAT-DE-02: 자주포 분류의 역할 중첩, StuG III L/48의 무장·승무원·최대속력·선회/고저각, Sd.Kfz.251 및 251/16의 장갑수송 계열 분류"
+      "CAT-DE-02: 자주포 분류의 역할 중첩, StuG III L/48의 무장·승무원·최대속력·선회/고저각, Sd.Kfz.251 및 251/16의 장갑수송 계열 분류",
+      "CAT-DE-05: Kar 98k의 43½in 및 98계열 탄약·클립 공통란, MG 42의 발사속도 종류·거치 구분, Panzerfaust 60의 조준기 거리와 중량 표기"
     ],
     "limitations": [
       "독일 제조사 시험 원기록이 아닌 미군 정보자료; 실전 가동 성능으로 일반화 불가",
       "형식별 장갑·엔진·생산대장·시험 조건의 독립 검증은 미완",
       "전체 PDF의 모든 페이지를 검수하지 않음; PDF 교차참조 복구 경고 후 해당 페이지를 실제 렌더링·판독",
-      "CAT-DE-02: StuG III 20 mph와 박물관 Ausf G 25 mph 불일치 미해결; 교범 표에 Ausf G 명시 없음"
+      "CAT-DE-02: StuG III 20 mph와 박물관 Ausf G 25 mph 불일치 미해결; 교범 표에 Ausf G 명시 없음",
+      "CAT-DE-05: MG 42의 발사속도·Panzerfaust 60의 중량 및 관통 측정 조건 미제시. 98계열의 공통 중량/유효거리는 98k 단독 제원으로 채택하지 않음."
     ],
     "rights": "미 연방정부 당대 간행물. 원문/사진 재업로드 없이 자체 한국어 요약과 링크 사용.",
     "access_attempts": [
@@ -33,7 +35,7 @@
     ],
     "sha256": "dfa9fd6f83d12beadcd3c10c7460ad46c189b665181809b0b77c66e532f25b36",
     "independence_group": "TM-E-30-451",
-    "accessed_at": "2026-11-09T00:46:17+09:00",
+    "accessed_at": "2026-11-09T09:02:34+09:00",
     "access_history": [
       {
         "accessed_at": "2026-11-08T18:53:10+09:00",
@@ -42,6 +44,10 @@
       {
         "accessed_at": "2026-11-09T00:46:17+09:00",
         "scope": "동일 해시 파일 재다운로드 및 PDF 368·398 이미지 판독, 367 텍스트 확인; xref 복구 경고"
+      },
+      {
+        "accessed_at": "2026-11-09T09:02:34+09:00",
+        "scope": "CAT-DE-05: 기존 SHA-256 일치 스캔의 PDF 315·318·321 해당 인쇄면 재렌더링·시각 판독"
       }
     ]
   },
@@ -392,5 +398,127 @@
     "independence_group": "Morzik-USAF167",
     "accessed_at": "2026-11-09T06:58:04+09:00",
     "access_status": "source_checked"
+  },
+  {
+    "id": "CAT-DE-SRC-0017",
+    "title": "Mauser Kar 98k Rifle : German Army",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "document_or_accession_number": "REL28841",
+    "source_type": "secondary: 기관의 소장품 설명. 전시기 물품은 물적 1차 자료",
+    "locator": "Maker·Date made·Description·History / Summary, 무쪽번호",
+    "url": "https://www.awm.gov.au/collection/C963504",
+    "accessed_at": "2026-11-09T09:02:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 Lübeck 제작자로 기재된 1940년 소장품, 237·1940·Mod 98 각인, 볼트액션, 멜빵"
+    ],
+    "limitations": [
+      "제작일은 물품 연대이며 웹 설명의 게시일은 미상",
+      "개별 부대 배치·교전 및 실측 제원 미제시"
+    ],
+    "rights": "소장기관 웹 콘텐츠의 권리 적용. 한국어 자체 요약과 링크만 사용. 사진 미복제.",
+    "independence_group": "AWM-REL28841; 물품 기술은 미군 교범과 별도"
+  },
+  {
+    "id": "CAT-DE-SRC-0018",
+    "title": "Mauser MG 42 7.92 mm machine gun, 1943 (c)",
+    "institution_or_author": "National Army Museum, London",
+    "publication_date": null,
+    "document_or_accession_number": "NAM 1964-05-60-12",
+    "source_type": "secondary: 기관의 소장품 설명. 전시기 물품은 물적 1차 자료",
+    "locator": "제목·본문 첫 문단·NAM Accession Number·Copyright/Ownership",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1964-05-60-12",
+    "accessed_at": "2026-11-09T09:02:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "약 1943년 물품 식별, 7.92 mm, 해설의 분당 1,200~1,500발"
+    ],
+    "limitations": [
+      "해설 발사속도에 시험조건·출전 없음. 전시품 직접 시험으로 취급하지 않음."
+    ],
+    "rights": "National Army Museum Copyright 명시. 한국어 자체 요약과 링크만 사용.",
+    "independence_group": "NAM-1964-05-60-12; 발사속도 원전 계보 미확인"
+  },
+  {
+    "id": "CAT-DE-SRC-0019",
+    "title": "Non disintergrating ammunition belt : MG34 and MG42",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "document_or_accession_number": "REL31710",
+    "source_type": "secondary: 기관의 소장품 설명. 전시기 물품은 물적 1차 자료",
+    "locator": "제목·Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C1023548",
+    "accessed_at": "2026-11-09T09:02:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "비분리식 강철 탄띠 50발 단위 및 7.92×57 mm용이라는 물품 설명"
+    ],
+    "limitations": [
+      "물품 연대는 약 1930~1940년대, 개별 사용 이력 미상. 발사속도·보급량의 증거 아님."
+    ],
+    "rights": "소장기관 웹 콘텐츠의 권리 적용. 한국어 자체 요약과 링크만 사용. 사진 미복제.",
+    "independence_group": "AWM-REL31710; 물품 기술은 미군 교범과 별도"
+  },
+  {
+    "id": "CAT-DE-SRC-0020",
+    "title": "Die Panzerfaust (Pzf–60 m)",
+    "institution_or_author": "독일군 전시 안내서, 개별 저자 미표기 / djvu.online 디지털 스캔",
+    "publication_date": "1944-10 (스캔 4면 10.44 인쇄 표기)",
+    "document_or_accession_number": "D 560/3; 원 소장처 미상",
+    "source_type": "primary: 독일군 전시 인쇄 안내서의 이미지 스캔",
+    "locator": "무쪽번호, 스캔 이미지 001~004. 001 표제·탄두 도해·80m 문구, 002 조준기 눈금, 004 인쇄 표기",
+    "url": "https://djvu.online/file/xVyEqdA2dCtZi",
+    "accessed_at": "2026-11-09T09:02:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Pzf–60 m 및 성형작약 탄두, 조준기 30·60·80 m와 표지 80 m 주장, 10.44 인쇄 표기. OCR 대신 이미지 판독."
+    ],
+    "limitations": [
+      "스캔 물품의 원 소장처 미확인. 표지는 교육·선전 성격이 강하며 실제 명중·관통 시험조건을 제시하지 않음.",
+      "CAMO Bestand 500 Findbuch 12451 Akte 194의 목록은 확인했으나 해당 소장본 본문과 스캔의 동일 판본 여부는 미대조."
+    ],
+    "rights": "당대 간행물과 스캔 게시의 권리 상태 미확인. 이미지·전문 복제 없이 링크와 요약만 사용.",
+    "independence_group": "독일 D 560/3; 미군 TM-E가 참고한 독일 자료는 미확인"
+  },
+  {
+    "id": "CAT-DE-SRC-0021",
+    "title": "Panzerfaust 60 (demilitarisiert)",
+    "institution_or_author": "Celler Garnison-Museum e.V.",
+    "publication_date": null,
+    "document_or_accession_number": "CGM-03-09-0002",
+    "source_type": "secondary: 기관의 소장품 설명. 전시기 물품은 물적 1차 자료",
+    "locator": "Titel·Hersteller·Inventarnummer·Beschreibung·Quelle·Rechte",
+    "url": "https://www.celler-garnisonmuseum.de/items/show/32",
+    "accessed_at": "2026-11-09T09:02:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "비무장화 소장품 식별과 해설의 약 8.5 kg, 약 60 m, 유리한 조건의 약 200 mm 관통 표기"
+    ],
+    "limitations": [
+      "중량 계량 구성과 시험자료 미제시. 표기 출전 D 560/2는 60형 전용 D 560/3과 구별."
+    ],
+    "rights": "페이지 Rechte에 CC BY-SA 4.0 표시. 이미지 복제 없이 링크와 자체 요약만 사용.",
+    "independence_group": "CGM-03-09-0002; 해설 수치의 원기록 계보 미확인"
+  },
+  {
+    "id": "CAT-DE-SRC-0022",
+    "title": "German M 35/40 helmet : Private H Horrowitz, Cape Town Highlanders",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "document_or_accession_number": "REL32447",
+    "source_type": "secondary: 기관의 소장품 설명. 전시기 물품은 물적 1차 자료",
+    "locator": "Date made·Description·History / Summary, 무쪽번호",
+    "url": "https://www.awm.gov.au/collection/C1036245",
+    "accessed_at": "2026-11-09T09:02:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "약 1940~1942년이라는 물품 연대, 강철 외피·가죽 내피·D120·NS64 표기, 균열 및 엘알라메인 수집 이력"
+    ],
+    "limitations": [
+      "M 35/40은 기관 목록 명칭. 손상 원인·정확한 제작일·개별 착용자·방호 성능은 미확인."
+    ],
+    "rights": "소장기관 웹 콘텐츠의 권리 적용. 한국어 자체 요약과 링크만 사용. 사진 미복제.",
+    "independence_group": "AWM-REL32447"
   }
 ]

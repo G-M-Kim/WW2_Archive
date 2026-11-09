@@ -189,5 +189,58 @@
     ],
     "evidence": "이번은 Me262와 Ju52만 부분 확인. 피스톤전투·폭격·공격·정찰·훈련·연락·수상기·글라이더 등 미조사.",
     "completion_condition": "역할별 후보의 형식/엔진/무장/개발·시제·생산·배치·실전 상태를 실제 사료에 연결; 정규 큐는 DE05로 전진"
+  },
+  {
+    "id": "CAT-DE-RQ-0017",
+    "status": "open",
+    "question": "MG 42 발사속도 상한 차이와 Kar 98k의 형식별 제원·지급 시점을 어떤 기록으로 검증할 수 있는가?",
+    "related_ids": [
+      "CAT-DE-EQP-0012",
+      "CAT-DE-EQP-0013",
+      "CAT-DE-SRC-0001",
+      "CAT-DE-SRC-0017",
+      "CAT-DE-SRC-0018",
+      "CAT-DE-SRC-0019"
+    ],
+    "evidence": "TM-E VII–8은 분당 1,200~1,400발, NAM 해설은 1,200~1,500발로 조건 미제시. VII–5의 일부 제원은 98 계열 공통란이다.",
+    "completion_condition": "독일 원 교범·수락시험·배치 자료에서 표본/형식, 탄종, 거치, 측정 조건 및 날짜를 확인하고 기계적·실용 발사속도를 분리한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0018",
+    "status": "open",
+    "question": "Panzerfaust 60의 13½ lb와 약 8.5 kg 차이 및 거리·관통값의 시험조건은 무엇인가?",
+    "related_ids": [
+      "CAT-DE-EQP-0014",
+      "CAT-DE-SRC-0001",
+      "CAT-DE-SRC-0020",
+      "CAT-DE-SRC-0021"
+    ],
+    "evidence": "중량 자료의 계량 구성 불명. D 560/3의 80 m 안내, 30·60·80 m 조준기 표기, 박물관의 60 m 유효거리, 200 mm 관통 주장에는 서로 다른 의미가 있다.",
+    "completion_condition": "당대 독일 제작·인수 및 독립 시험자료에서 계량 구성, 탄두·발사관, 표적 장갑 재질·각도·시험 거리를 확인한다. CAMO Akte 194의 판본 대조도 남긴다."
+  },
+  {
+    "id": "CAT-DE-RQ-0019",
+    "status": "open",
+    "question": "REL32447 철모의 세부 형식과 이력을 동시대 기록으로 보완할 수 있는가?",
+    "related_ids": [
+      "CAT-DE-EQP-0015",
+      "CAT-DE-SRC-0022"
+    ],
+    "evidence": "박물관 목록 표기는 M 35/40, 제작연대는 추정이다. 손상 원인은 가능한 해석만 제시된다.",
+    "completion_condition": "동시대 철모 규격·납품·현지 수집 기록의 문서번호와 근거를 연결하고, 방호 성능은 독립 시험으로만 평가한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0020",
+    "status": "open",
+    "question": "나머지 독일 보병 무기·장비를 어떻게 보완할 것인가?",
+    "related_ids": [
+      "CAT-DE-EQP-0012",
+      "CAT-DE-EQP-0013",
+      "CAT-DE-EQP-0014",
+      "CAT-DE-EQP-0015",
+      "CAT-DE-SRC-0001"
+    ],
+    "evidence": "첫 방문에서는 네 사례만 확인했다. 다른 소총·기관단총·권총·기관총, 박격포·수류탄·대전차화기, 군장·통신·의무 장비는 미조사 후보 범위다.",
+    "completion_condition": "전시 교범·소장 기록·부대 편제/지급표를 대조해 형식과 소속·시기·운용 상태를 확정하고 기존 EQP ID와 중복을 방지한다."
   }
 ]
