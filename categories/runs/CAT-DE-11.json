@@ -1,0 +1,68 @@
+{
+  "step": 11,
+  "job_id": "CAT-DE-11",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 11,
+  "category": "유명 군수기업",
+  "article_path": "categories/germany/11-military-industry.md",
+  "status": "partial",
+  "completed_at": "2026-11-09T20:56:17+09:00",
+  "started_at": "2026-11-09T20:50:52+09:00",
+  "base_head": "8ca41c6188f9cb230bf888004b2d5f004c309448",
+  "source_ids": [
+    "CAT-DE-SRC-0063",
+    "CAT-DE-SRC-0064",
+    "CAT-DE-SRC-0065",
+    "CAT-DE-SRC-0066",
+    "CAT-DE-SRC-0067",
+    "CAT-DE-SRC-0068",
+    "CAT-DE-SRC-0069",
+    "CAT-DE-SRC-0070",
+    "CAT-DE-SRC-0071",
+    "CAT-DE-SRC-0072"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0041",
+    "CAT-DE-RQ-0042",
+    "CAT-DE-RQ-0043",
+    "CAT-DE-RQ-0044",
+    "CAT-DE-RQ-0045"
+  ],
+  "entity_ids": [
+    "CAT-DE-ORG-0001",
+    "CAT-DE-ORG-0002",
+    "CAT-DE-ORG-0003",
+    "CAT-DE-ORG-0004",
+    "CAT-DE-ORG-0005",
+    "CAT-DE-EQP-0019"
+  ],
+  "research_scope": "크루프 철강·병기·조선, Siemens & Halske 전기·통신, I.G. Farben 합성고무·연료 사업 및 강제노동.",
+  "limitations": [
+    "대표 기업과 사업장만 다룸. 자회사별 인도 원장·제품별 납품량 미확인.",
+    "모노비체 보조 공정의 산출·출하 및 라벤스브뤼크 부품 계약 미확인."
+  ],
+  "evidence_checked": [
+    "NMT IX의 Lex Krupp, 1944년 인사 메모와 에센 강제노동 판결, 에센 Slg. 6013",
+    "영국 해군정보부 U 99 심문보고, 하버드 재판 자료 개요의 계열사 분류",
+    "라벤스브뤼크 기념관 전시와 아롤젠 3767903 배치 명단 스캔",
+    "NMT VIII의 모노비체 판결·선서진술 및 아우슈비츠 박물관 해설"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://collections.arolsen-archives.org/en/archive/1-1-35-1_2514002",
+      "result": "영문 목록 직접 요청은 15초 타임아웃. 독일어 문서 뷰어와 이미지 서버에서 스캔 확인."
+    },
+    {
+      "url": "https://tile.loc.gov/storage-services/service/ll/llmlp/2011525364_NT_war-criminals_Vol-VIII/2011525364_NT_war-criminals_Vol-VIII.pdf",
+      "result": "웹 문서 열기는 크기 제한. 미 의회도서관 PDF 직접 다운로드 후 해당 인쇄 쪽 본문 열람."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=11 pending=122; sources=72 questions=45. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; pinned HEAD snapshot."
+  }
+}

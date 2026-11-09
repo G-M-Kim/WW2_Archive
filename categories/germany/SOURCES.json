@@ -1350,5 +1350,205 @@
     ],
     "rights": "Filmarchiv Austria © 2025 복원판 표기. 링크만 사용.",
     "independence_group": "UFA 470호 뉴스릴의 Filmarchiv Austria 소장 양화"
+  },
+  {
+    "id": "CAT-DE-SRC-0063",
+    "title": "Trials of War Criminals before the Nuernberg Military Tribunals, Vol. IX: The Krupp Case",
+    "institution_or_author": "U.S. Military Tribunal III / U.S. Government Printing Office / Law Library of Congress",
+    "publication_date": "1950 (편찬본), 1943-11-12·1944-07-06 (증거문서), 1948-07-31 (판결)",
+    "source_type": "primary: 공식 재판 판결문과 전시 증거 영어 번역 수록",
+    "document_or_accession_number": "LCCN 2011525364; 1387-PS(검찰 475), NIK-7440(검찰 1018)",
+    "locator": "인쇄 351–352, 1132–1134, 1425–1428쪽",
+    "url": "https://tile.loc.gov/storage-services/service/ll/llmlp/2011525364_NT_war-criminals_Vol-IX/2011525364_NT_war-criminals_Vol-IX.pdf",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "특별령 조항과 관보 게재일, 1944년 크루프-SS 협상 메모, 판결의 520명 선발과 압연공장 배치"
+    ],
+    "limitations": [
+      "특별령과 메모는 재판 수록 영어 번역. 판결의 사실 인정과 1944년 협상안을 구분."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "NMT 사건 10 기록"
+  },
+  {
+    "id": "CAT-DE-SRC-0064",
+    "title": "NMT Case 10: USA vs. Alfried Krupp, et al.",
+    "institution_or_author": "Harvard Law School Library",
+    "publication_date": null,
+    "source_type": "secondary: 재판 기록 해제",
+    "document_or_accession_number": "NMT Case 10",
+    "locator": "Summary 및 Subsidiaries of Krupp",
+    "url": "https://nuremberg.law.harvard.edu/nmt_10_intro",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "주식회사에서 가족기업으로의 전환, 1943년 12월 소유·지휘, Berthawerk와 Germaniawerft의 분업"
+    ],
+    "limitations": [
+      "같은 크루프 재판 자료의 후대 해제. 재판 사실의 독립 교차검증으로 세지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "NMT 사건 10 기록"
+  },
+  {
+    "id": "CAT-DE-SRC-0065",
+    "title": "Außenlager KZ Buchenwald – Humboldtstraße",
+    "institution_or_author": "Haus der Essener Geschichte/Stadtarchiv",
+    "publication_date": null,
+    "source_type": "secondary: 시립기록원 소장군 해설",
+    "document_or_accession_number": "Slg. 6013",
+    "locator": "Full view Inventory, Description",
+    "url": "https://stadtarchiv.essen.de/actaproweb/archive.xhtml?id=Best++++65f7beb4-791a-4535-9fd0-e1022de33fd8",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "520명 최초 선발·8월 이송, 9월 인력 두 명 추가, 압연공장 II 배치"
+    ],
+    "limitations": [
+      "개별 명부는 미열람. 설명문은 1944년 기업을 종전 주식회사 명칭으로도 표기. 나이·작업장까지의 거리 등은 이번에 확정하지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "에센 지역 기록·연구 해제"
+  },
+  {
+    "id": "CAT-DE-SRC-0066",
+    "title": "U 99: Interrogation of Survivors",
+    "institution_or_author": "British Admiralty, Naval Intelligence Division / U-boat Archive",
+    "publication_date": "1941-04",
+    "source_type": "primary: 당대 해군정보부 심문보고의 웹 전사",
+    "document_or_accession_number": "C.B. 04051 (20)",
+    "locator": "표지, 인쇄 7쪽 III 및 IV 첫 단락",
+    "url": "https://w.uboatarchive.net/U-99A/U-99INT.htm",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "킬 게르마니아 조선소 건조, 진수·완성·발트해 시험·첫 항해를 구분한 기록"
+    ],
+    "limitations": [
+      "포로 진술 기반 추정 포함. 독일 건조·인수 원장 미대조."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "영국 해군정보부 당대 심문"
+  },
+  {
+    "id": "CAT-DE-SRC-0067",
+    "title": "Produkte. Zwangsarbeit bei Siemens im Frauen-Konzentrationslager Ravensbrück",
+    "institution_or_author": "Mahn- und Gedenkstätte Ravensbrück / Stiftung Brandenburgische Gedenkstätten",
+    "publication_date": null,
+    "source_type": "secondary: 기념관 전시 해설",
+    "document_or_accession_number": null,
+    "locator": "전시 소개 1–4문단",
+    "url": "https://www.ravensbrueck-sbg.de/ausstellungen/wanderausstellungen/produkte-zwangsarbeit-bei-siemens-im-frauen-konzentrationslager-ravensbrueck-eine-fotoausstellung/",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Siemens & Halske 생산시설 운영 기간과 위치, 전화·계측·무선기기 부품 공정 및 수감자 강제노동"
+    ],
+    "limitations": [
+      "문서·증언·현장 잔해의 종합 해설. 품번·완제품 수령처·납품량은 미확인."
+    ],
+    "rights": "기념관 저작권 및 사진가 표시. 자체 요약·링크만 사용.",
+    "independence_group": "기념관 전시 조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0068",
+    "title": "Arbeitseinsatzlisten / Zwangsarbeit (Fragmente), u.a. bei dem Unternehmen Siemens",
+    "institution_or_author": "Arolsen Archives / 원본 소장 Instytut Pamięci Narodowej",
+    "publication_date": "1944 (목록 연대), DocID 3767903 열람면 자체 날짜 미확인",
+    "source_type": "primary: 당대 작업 배치 명단 스캔 및 기록관 소장정보",
+    "document_or_accession_number": "1.1.35.1, 2514002, DocID 3767903",
+    "locator": "Form und Inhalt, DocID 3767903 첫 면(원문 우상단 13)",
+    "url": "https://collections.arolsen-archives.org/de/document/3767903",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "시리즈의 지멘스 등 작업 배치 명단 소장정보. 첫 면에서 일련번호·수감자 번호·성명란 판독."
+    ],
+    "limitations": [
+      "명단 단편에는 다른 배치처도 포함. 해당 면으로 인원 총계와 개인별 배치 확정 불가. 인명은 재수록하지 않음."
+    ],
+    "rights": "웹 © Arolsen Archives, 2021. 소장 원본 권리 별도, 링크만 사용.",
+    "independence_group": "라벤스브뤼크 수용소 명단"
+  },
+  {
+    "id": "CAT-DE-SRC-0069",
+    "title": "Trials of War Criminals before the Nuernberg Military Tribunals, Vol. VIII: The I. G. Farben Case",
+    "institution_or_author": "U.S. Military Tribunal VI / U.S. Government Printing Office / Law Library of Congress",
+    "publication_date": "1952 (편찬본), 1941-04-07 (창립 회의), 1948 (판결)",
+    "source_type": "primary: 공식 재판 판결·증거 수록",
+    "document_or_accession_number": "LCCN 2011525364; NI-11117(검찰 1430), NI-9807(검찰 1476)",
+    "locator": "인쇄 591쪽 볼하임 선서진술, 1181–1183쪽 판결",
+    "url": "https://tile.loc.gov/storage-services/service/ll/llmlp/2011525364_NT_war-criminals_Vol-VIII/2011525364_NT_war-criminals_Vol-VIII.pdf",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "창립 회의의 SS 수감자 공사 투입 계획, 시공 계약과 인력 조달, 볼하임이 전해 들은 작업"
+    ],
+    "limitations": [
+      "창립 회의는 판결의 인용·요약으로 확인. 선서진술의 메탄올 대목은 전언으로 산출·인도 원장 미확인."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "NMT 사건 6 기록"
+  },
+  {
+    "id": "CAT-DE-SRC-0070",
+    "title": "IG Farben",
+    "institution_or_author": "Auschwitz-Birkenau State Museum",
+    "publication_date": null,
+    "source_type": "secondary: 국립박물관의 모노비체 입지와 계약 해설",
+    "document_or_accession_number": null,
+    "locator": "본문 1–4문단",
+    "url": "https://www.auschwitz.org/en/history/auschwitz-iii/ig-farben?trk=public_post_comment-text",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "합성고무·연료 공장 입지, 부지 몰수·매입, 기업과 수용소 간 인력 협의"
+    ],
+    "limitations": [
+      "기관 해설로, 부지 매매계약이나 생산 원장 원본은 미열람."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "아우슈비츠-비르케나우 박물관 연구"
+  },
+  {
+    "id": "CAT-DE-SRC-0071",
+    "title": "Auschwitz III-Monowitz camp",
+    "institution_or_author": "Auschwitz-Birkenau State Museum",
+    "publication_date": null,
+    "source_type": "secondary: 기관 연구 해설 팟캐스트 전사",
+    "document_or_accession_number": null,
+    "locator": "연합군 폭격과 1945년 생산 전망 문답",
+    "url": "https://www.auschwitz.org/en/education/e-learning/podcast/auschwitz-iii-monowitz-camp/",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 1월 말 Buna 생산 목표와 미완성 상태. 공장과 SS 수용소 구분."
+    ],
+    "limitations": [
+      "텍스트 전사 열람. 보조 공정의 시험·출하를 확인할 수 있는 원장은 아님. 0070과 같은 기관."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "아우슈비츠-비르케나우 박물관 연구"
+  },
+  {
+    "id": "CAT-DE-SRC-0072",
+    "title": "Auschwitz liberated 70 years ago today: Siemens remembers the victims of National Socialism",
+    "institution_or_author": "Siemens AG",
+    "publication_date": "2015-01-27",
+    "source_type": "secondary: 기업의 전후 공식 회고",
+    "document_or_accession_number": null,
+    "locator": "보도자료 본문",
+    "url": "https://press.siemens.com/global/en/pressrelease/auschwitz-liberated-70-years-ago-today-siemens-remembers-victims-national-socialism",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "보브레크 시설의 운영 주체를 Siemens-Schuckertwerke AG로 표기"
+    ],
+    "limitations": [
+      "현대 기업의 회고. 보브레크 자체의 제품·수량에 대해서는 이 원고에서 독립 확인을 하지 않음."
+    ],
+    "rights": "Siemens 웹 보도자료. 요약·링크만 사용.",
+    "independence_group": "Siemens 기업 보도자료"
   }
 ]
