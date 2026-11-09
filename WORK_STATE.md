@@ -1,11 +1,14 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-10-25
-FORWARD_INSPECTED_THROUGH: 1941-10-24
-CURRENT_FORWARD_BATCH: 1941-10-25..1941-10-27
+FORWARD_CURSOR: 1941-10-28
+FORWARD_INSPECTED_THROUGH: 1941-10-27
+CURRENT_FORWARD_BATCH: 1941-10-28..1941-10-30
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
-AS_OF: 2026-11-09
+AS_OF: 2026-11-10
 
-## 최신 실행 — 2026-11-09
+## 최신 실행 — 2026-11-10
+- 1941-10-25..27 forward: FRUS 6건(IV d402/d403/d406, V d346/d604, Japan II d375) 및 USHMM 오데사 10/25~27 해설 대조. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-oct25-27-batch1.md). 타전역·집행 원문 RQ-0003/RQ-0007 backfill. 다음 1941-10-28.
+
+## 이전 실행 — 2026-11-09
 - 1941-10-22..24 forward: 루마니아 국립기록보관소 사료 소개 및 USHMM 오데사 학살 해설 교차; EVT-0117 중복 방지, 신규 0/0/0. [감사](source-audit-1941-oct22-24-batch1.md). 원본 직접 판독·타전역 backfill RQ-0003/RQ-0007. 다음 1941-10-25.
 
 - 1941-10-19..21 forward: FRUS IV d396/d397/d398/d401, V d479, VII d418, I d965/d796 원문 8건 대조. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-oct19-21-batch1.md). 동부전선·중국·민간인·타전역 및 일본측 원문은 RQ-0007/RQ-0003 backfill. 다음 1941-10-22.
