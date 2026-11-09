@@ -2270,5 +2270,185 @@
     ],
     "rights": "USHMM 웹 게시본. 자체 요약과 링크만 사용.",
     "independence_group": "USHMM 프랑스 점령 해설"
+  },
+  {
+    "id": "CAT-DE-SRC-0109",
+    "title": "Summary Report (European War)",
+    "institution_or_author": "United States Strategic Bombing Survey / U.S. Government Printing Office, HyperWar 전사",
+    "publication_date": "1945-09-30 (보고서), 1946 (표지 인쇄)",
+    "source_type": "primary: 전후 현장조사·독일 생산 기록 분석",
+    "document_or_accession_number": "USSBS European Report 001",
+    "locator": "The Attack on Oil, Further Dividends From the Oil Attack, Steel, 인쇄 8–11쪽",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/ETO-Summary",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "루마니아·헝가리 석유 공급과 합성유, 슈코파우 생산 차질, 개전 제강능력 및 1944년 월별 생산."
+    ],
+    "limitations": [
+      "전후 조사단의 집계·해석. 강철 월별 합계에 점령지와 전선 변동이 포함되며 단일 공장 기록과 구분."
+    ],
+    "rights": "미 연방정부 보고서. 전사본 링크와 자체 요약 사용.",
+    "independence_group": "USSBS 유럽 조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0110",
+    "title": "The Strategic Air War Against Germany 1939–1945: Report of the British Bombing Survey Unit",
+    "institution_or_author": "British Bombing Survey Unit / 49 Squadron Association 스캔 게시",
+    "publication_date": "1947년 중반 자료까지 반영 (스캔 표제 발행일 미표기)",
+    "source_type": "primary: 영국 전후 조사보고서 및 미국 조사 표 전재",
+    "document_or_accession_number": "스캔 C-20639.7, Copy No. 54; UEA 별도 소장 SZ/BBSU/25",
+    "locator": "인쇄 143–144쪽 표 45·47 (PDF 205–206면), 합성고무 본문 PDF 219면",
+    "url": "https://www.49squadron.co.uk/assets/pdf/survey.pdf",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "원유·합성 생산·수입의 구분, 정제시설 산출, 슈코파우와 로이나의 공급 연계. 표 47 스캔 직접 판독."
+    ],
+    "limitations": [
+      "표 47은 USSBS 보고서 표 37 전재로 독립 확증이 아님. 1943년 점령지 원유는 원표 미확인값."
+    ],
+    "rights": "스캔과 원 보고서의 권리를 구분. 이미지 재게시 없음.",
+    "independence_group": "BBSU 편찬 및 표 47의 USSBS 전재"
+  },
+  {
+    "id": "CAT-DE-SRC-0111",
+    "title": "Did Raw Material Shortages Decide World War Two? New Data for the Example of Nazi Rubber Supplies",
+    "institution_or_author": "Paul Ferdinand Schmelzing / Essays in Economic & Business History 35(2)",
+    "publication_date": "2017-06-17 (최종판)",
+    "source_type": "secondary: 기록 기반 학술 연구",
+    "document_or_accession_number": "Vol. XXXV(2), journal item 353",
+    "locator": "인쇄 38–39쪽 표 1–2, PDF 14–15면",
+    "url": "https://www.ebhsoc.org/journal/index.php/ebhs/article/download/353/330/693",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전후 편람·USSBS·I.G. Farben 통계의 1943·1944년 행과 점령지 유입 분류를 대조."
+    ],
+    "limitations": [
+      "표 1 원자료별 수치는 논문에서 열람. 기업 집계의 개별 원장은 별도로 열람하지 않았으며 표 2의 합산은 저자 방법에 따름."
+    ],
+    "rights": "PDF에 CC BY 4.0 표시. 한국어 요약과 링크 사용.",
+    "independence_group": "Schmelzing의 기록 비교 및 재구성"
+  },
+  {
+    "id": "CAT-DE-SRC-0112",
+    "title": "Military Government Guide: The Light Metals Industry in Germany",
+    "institution_or_author": "미국 War Department / Foreign Economic Administration 작성, Library of Congress",
+    "publication_date": "1945-05-31",
+    "source_type": "primary: 군정용 동시대 정보보고서",
+    "document_or_accession_number": "War Department Pamphlet No. 31-131",
+    "locator": "인쇄 1–2쪽 공정, 9쪽 표 2, 10쪽 표 3, 14쪽 표 9, 16쪽 표 12 (PDF 143–144·148·150면)",
+    "url": "https://tile.loc.gov/storage-services/public/gdcmassbookdig/eliminationofnaz00unit/eliminationofnaz00unit.pdf",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 본토 제련 설비와 생산 추정, 라우타베르크의 개별 추정, 보크사이트 반입 산지와 알루미나 공정 분리."
+    ],
+    "limitations": [
+      "영국 경제전쟁부 Economic Survey H의 추정 인용. 표의 지리 경계와 tons를 유지하며 실제 공장 원장과 구분."
+    ],
+    "rights": "미 연방정부 발행 보고서. 자체 요약과 소장기관 링크.",
+    "independence_group": "영국 MEW Economic Survey H를 인용한 미군 지침"
+  },
+  {
+    "id": "CAT-DE-SRC-0113",
+    "title": "Report to Congress on Operations of the Foreign Economic Administration",
+    "institution_or_author": "U.S. Foreign Economic Administration / U.S. Government Publishing Office",
+    "publication_date": "1944-09-25",
+    "source_type": "primary: 당대 의회 보고",
+    "document_or_accession_number": "GPO GOVPUB-PR32_5800-50ce07fb1b19911017ffc730395f987e",
+    "locator": "Chapter II Economic Warfare, 15–16쪽",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-PR32_5800-50ce07fb1b19911017ffc730395f987e/html/GOVPUB-PR32_5800-50ce07fb1b19911017ffc730395f987e.htm",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "튀르키예 크롬광 협정 구매 허용량과 1943년 독일 확보 추정의 차이."
+    ],
+    "limitations": [
+      "협정 원문·독일 통관 자료를 대체하지 않으며 해당 문단 tons의 기준 미표기."
+    ],
+    "rights": "미 연방정부 발행 문서. 요약과 링크.",
+    "independence_group": "미국 FEA 경제전 의회 보고"
+  },
+  {
+    "id": "CAT-DE-SRC-0114",
+    "title": "Germany (Metal Imports)",
+    "institution_or_author": "UK House of Commons / Ministry of Economic Warfare, Dingle Foot 답변",
+    "publication_date": "1944-01-18",
+    "source_type": "primary: 당대 의회 회의록",
+    "document_or_accession_number": "HC Deb vol. 396 cc. 13–15",
+    "locator": "제24문답",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1944/jan/18/germany-metal-imports",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 스웨덴 철광석 철분, 튀르키예 크롬 산화물 기준 비중, 이베리아 울프람 비중."
+    ],
+    "limitations": [
+      "영국 정부 추정. 광석 중량·금속 함량·소비 비중을 구분. FRUS 전보의 MEW 수치와 계통 일부 공유."
+    ],
+    "rights": "UK Parliament 공식 전사. 한국어 요약과 링크만 사용.",
+    "independence_group": "영국 MEW 의회 추정"
+  },
+  {
+    "id": "CAT-DE-SRC-0115",
+    "title": "The Ambassador in the United Kingdom (Winant) to the Secretary of State",
+    "institution_or_author": "John G. Winant / U.S. Department of State",
+    "publication_date": "1943-08-14",
+    "source_type": "primary: 당대 미국 외교전보에 수록된 영국 추정",
+    "document_or_accession_number": "FRUS 1943 Europe II, Doc. 574; 811.20 Defense (M) Spain/958, telegram 5347",
+    "locator": "The battle for tungsten §§1–5",
+    "url": "https://history.state.gov/historicaldocuments/frus1943v02/d574",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 상반기 울프람 미터톤의 이베리아 구매·기초 재고와 국내 생산 추정."
+    ],
+    "limitations": [
+      "영국 MEW 기반, 미국 OEW의 수치와 일부 다름을 전보가 명시. 구매와 인도를 구분."
+    ],
+    "rights": "미국 국무부 공식 외교문서 수록본. 자체 요약과 링크.",
+    "independence_group": "영국 MEW의 1943년 여름 울프람 검토, 미 대사관 전보"
+  },
+  {
+    "id": "CAT-DE-SRC-0116",
+    "title": "Germany (Metal Supplies)",
+    "institution_or_author": "UK House of Commons / Ministry of Economic Warfare, Dingle Foot 답변",
+    "publication_date": "1944-10-03",
+    "source_type": "primary: 당대 의회 회의록",
+    "document_or_accession_number": "HC Deb 3 October 1944, question 35",
+    "locator": "제35문답 Chrome·Bauxite·Wolfram",
+    "url": "https://hansard.parliament.uk/Commons/1944-10-03/debates/532e1aed-e91b-48e7-9fd2-8cf740b7c146/Germany%28MetalSupplies%29",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "튀르키예 중단 뒤 발칸 경로와 수송 단절 추정, 보크사이트와 금속 알루미늄의 분리."
+    ],
+    "limitations": [
+      "전시 공개 추정으로 국내 재고나 품위별 실적을 제시하지 않음."
+    ],
+    "rights": "UK Parliament 공식 전사. 한국어 요약과 링크만 사용.",
+    "independence_group": "영국 MEW 의회 추정"
+  },
+  {
+    "id": "CAT-DE-SRC-0117",
+    "title": "Statistische Schnellberichte zur Kriegsproduktion: Jahresheft (Manuskript), 1938 bis 1944",
+    "institution_or_author": "독일 전시 생산 통계 편찬 당국 / Bundesarchiv Berlin, University of Rochester 공개 스캔",
+    "publication_date": "1938–1944 (수록 기간), 원고 작성일 미표기",
+    "source_type": "primary: 전시 독일 생산 통계 원고 스캔",
+    "document_or_accession_number": "Bundesarchiv R 3102/3147; UR handle 1802/5956",
+    "locator": "PDF 2면 Vorbemerkungen 및 인쇄 5·8·12·13·17쪽 (PDF 9·12·16·17·21면)의 조강·알루미늄·크롬·텅스텐·Buna 행",
+    "url": "https://urresearch.rochester.edu/fileDownloadForInstitutionalItem.action?itemFileId=8502&itemId=5505",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대독일·점령지·수입 경계, 1944년 12월 조강, 1943년 월평균 고무·제련 알루미늄 및 크롬·텅스텐의 금속 함량 단위."
+    ],
+    "limitations": [
+      "월평균과 12월 실적을 구분. 수입 정의는 원고 서문에 따르며 산지별 광석 구매량과 직접 비교 불가."
+    ],
+    "rights": "University of Rochester 공개 스캔의 권리 표시 적용. 재게시 없이 자체 요약·링크.",
+    "independence_group": "독일 전시 생산 통계 원고"
   }
 ]

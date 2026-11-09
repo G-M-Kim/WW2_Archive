@@ -736,5 +736,63 @@
     ],
     "evidence": "외교적 구역 기준과 점령구역 표시 지도는 확인했다. 지방 인수 날짜 및 실제 관할 경계의 전수 복원은 미실시.",
     "completion_condition": "4국 군정 지도·인수 기록과 폴란드·소련 현지 행정 명령을 대조한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0058",
+    "status": "open",
+    "question": "독일의 원유·합성유·정제품·수입 경계를 연도별로 어떻게 맞출 수 있는가?",
+    "related_ids": [
+      "CAT-DE-GEO-0001",
+      "CAT-DE-GEO-0002",
+      "CAT-DE-SRC-0109",
+      "CAT-DE-SRC-0110"
+    ],
+    "evidence": "표 45와 47의 분류가 다르고 1943년 점령지 원유는 미확인. 1937년 국경 내 원유량은 별도 검증이 필요하다.",
+    "completion_condition": "생산·정제·수입·노획·재고를 지역별 원장과 대조하고 상호 중복을 제거한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0059",
+    "status": "open",
+    "question": "제강·알루미늄의 설비와 실생산, 원료 투입을 고정 지역 경계로 분해할 수 있는가?",
+    "related_ids": [
+      "CAT-DE-GEO-0014",
+      "CAT-DE-GEO-0017",
+      "CAT-DE-SRC-0109",
+      "CAT-DE-SRC-0112",
+      "CAT-DE-SRC-0114",
+      "CAT-DE-SRC-0117"
+    ],
+    "evidence": "강철의 범위는 전선에 따라 변하고 알루미늄 지침은 추정치다. 광석과 중간재·금속의 산출은 별도다.",
+    "completion_condition": "당대 독일 월보와 제강소·알루미나·제련소 기록을 지역·단위·기간별로 대조한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0060",
+    "status": "open",
+    "question": "1944년 고무 수입 열의 누락과 천연·합성·노획·점령지 생산 중복을 어디까지 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-DE-GEO-0015",
+      "CAT-DE-GEO-0016",
+      "CAT-DE-SRC-0071",
+      "CAT-DE-SRC-0109",
+      "CAT-DE-SRC-0111",
+      "CAT-DE-SRC-0117",
+      "CAT-DE-RQ-0044"
+    ],
+    "evidence": "학술 재구성에서 공식 수입 열과 별도 공급 경로를 확인했다. 모노비체 공정별 상태는 기존 과제로 남는다.",
+    "completion_condition": "항만·철도·기업 장부의 흐름과 원료 종류 및 재고 변화의 중복을 확인한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0061",
+    "status": "open",
+    "question": "크롬·텅스텐의 산지별 출하, 품위·금속량과 독일 통관을 어떻게 대조할 수 있는가?",
+    "related_ids": [
+      "CAT-DE-SRC-0113",
+      "CAT-DE-SRC-0114",
+      "CAT-DE-SRC-0115",
+      "CAT-DE-SRC-0116",
+      "CAT-DE-SRC-0117"
+    ],
+    "evidence": "연합국 추정은 구매권·구매·재고·광석 중량·금속 함량·소비 비중의 분모가 다르다. 국내 채굴·제련과 매장량은 별도 확인 필요.",
+    "completion_condition": "산지 통계와 수입국 통관·인도 및 제련 원장을 비교하고 조사 가능한 매장량·수출 범위를 명시한다."
   }
 ]
