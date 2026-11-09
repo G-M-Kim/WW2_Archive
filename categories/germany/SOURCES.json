@@ -771,14 +771,21 @@
     "claims_checked": [
       "1943-01-30 해군 총사령관 취임, 개전 후 잠수함전 지휘 및 초기 상급 지휘부 권한",
       "잠수함전 의정서 위반 판단·생존자 살해 명령에 관한 증명 한계·형량에서 잠수함전 국제법 위반 제외",
-      "제1항 무죄, 제2·3항 유죄와 10년형, 특공대 명령 유지의 책임 범위"
+      "제1항 무죄, 제2·3항 유죄와 10년형, 특공대 명령 유지의 책임 범위",
+      "CAT-DE-08: 1945-05-01 되니츠 국가원수 취임이라는 판결문 기록 재확인"
     ],
     "limitations": [
       "판결은 재판소의 인정과 법적 판단을 보여 준다. 개별 작전의 발신·수신 자료가 아님.",
       "Avalon 전사는 같은 판결을 전달하므로 별도 확증으로 집계하지 않음."
     ],
     "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
-    "independence_group": "IMT 판결 및 선고 원기록"
+    "independence_group": "IMT 판결 및 선고 원기록",
+    "access_history": [
+      {
+        "accessed_at": "2026-11-09T15:00:34+09:00",
+        "scope": "Yale Avalon 동일 판결의 Crimes against Peace 부분에서 국가원수 취임일 재대조"
+      }
+    ]
   },
   {
     "id": "CAT-DE-SRC-0035",
@@ -800,5 +807,166 @@
     ],
     "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
     "independence_group": "BdU 조직의 전시 전쟁일지. IMT 사후 판단과 구별."
+  },
+  {
+    "id": "CAT-DE-SRC-0036",
+    "title": "LeMO Biografie: Adolf Hitler",
+    "institution_or_author": "Daniel Wosnitzka / Deutsches Historisches Museum",
+    "publication_date": "1998-10-12 (Stand)",
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "1889·1932–1934·1945년 항목",
+    "url": "https://www.dhm.de/lemo/biografie/adolf-hitler",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "출생과 1932년 독일 국적 취득, 1933-01-30 총리 임명, 1945년 사망"
+    ],
+    "limitations": [
+      "박물관 전기. 국적·임명 원문과 개별 군사명령은 별도 증거."
+    ],
+    "rights": "기관이 본문 CC BY-NC-SA 4.0을 명시. 자체 요약과 링크만 사용.",
+    "independence_group": "DHM LeMO 전기. 하위 원기록 계보 미확인."
+  },
+  {
+    "id": "CAT-DE-SRC-0037",
+    "title": "Directive Nr. 21 Case Barbarossa (extracts)",
+    "institution_or_author": "독일 국방군 최고사령부 / Harvard Law School Library",
+    "publication_date": "1940-12-18",
+    "source_type": "primary-translation-transcription: 전시 지령의 재판용 영어 번역 전사",
+    "document_or_accession_number": "OKW/WFSt/Abt.L (I) Nr. 33 408/40; PS-446; HLSL 450606",
+    "locator": "표제, 서두, I항, IV항, 서명란",
+    "url": "https://nuremberg.law.harvard.edu/documents/496-extracts-from-directive-21?mode=text",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "준비 기한 1941-05-15와 실제 개시 미정, 군종 임무, 히틀러 서명 표기"
+    ],
+    "limitations": [
+      "영어 발췌 전사. 독일어 원본 및 실제 개시 명령 미대조. Harvard 목록은 다른 PS-446 사본을 구분한다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "독일 최고사령부 준비 지령"
+  },
+  {
+    "id": "CAT-DE-SRC-0038",
+    "title": "Operation Barbarossa",
+    "institution_or_author": "United States Holocaust Memorial Museum, Holocaust Encyclopedia",
+    "publication_date": null,
+    "source_type": "secondary: 기관 역사 해설",
+    "document_or_accession_number": null,
+    "locator": "June 22, 1941 사건 본문 두 단락",
+    "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1939-1941/operation-barbarossa",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "실제 침공일, 이동 학살부대의 뒤따른 진입 및 6월 마지막 주 집단 총살 개시"
+    ],
+    "limitations": [
+      "6월 22일은 사건 날짜. 기관 서술의 각 작전 원명령과 현장 기록은 미대조."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "USHMM 전쟁·박해 연표 해설"
+  },
+  {
+    "id": "CAT-DE-SRC-0039",
+    "title": "LeMO Biografie: Hermann Göring",
+    "institution_or_author": "Susanne Eckelmann / Deutsches Historisches Museum",
+    "publication_date": "2026-06-05 (Stand)",
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "1893·1935–1936·1940–1941·1946년 항목",
+    "url": "https://www.dhm.de/lemo/biografie/hermann-goering",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰, 공군 총사령관, 4개년계획 담당, 제국원수 계급, 1941년 위임·전후 유죄와 사망"
+    ],
+    "limitations": [
+      "기관 전기이며 개별 집행·결재 원본 아님."
+    ],
+    "rights": "기관이 본문 CC BY-NC-SA 4.0을 명시. 자체 요약과 링크만 사용.",
+    "independence_group": "DHM LeMO 전기. 하위 원기록 계보 미확인."
+  },
+  {
+    "id": "CAT-DE-SRC-0040",
+    "title": "Instructions to Heydrich to prepare organizational and financial arrangements",
+    "institution_or_author": "Hermann Göring / Harvard Law School Library",
+    "publication_date": "1941-07-31",
+    "source_type": "primary-translation-transcription: 전시 서한의 재판용 영어 번역 전사",
+    "document_or_accession_number": "PS-710 / USA-509(별도 제출본); HLSL 450494",
+    "locator": "수신란, 인쇄 525쪽 및 다음 면, 목록 Notes",
+    "url": "https://nuremberg.law.harvard.edu/documents/542-instructions-to-heydrich-to-prepare?mode=text&q=ps-710",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "서한의 명시 수신인 하이드리히, 유럽 내 독일 영향권, 준비·기관 협조·종합안 제출 요구"
+    ],
+    "limitations": [
+      "이 판본은 영어 번역 전사. 힘러 명의 별도 수신·배포 및 실행 명령을 입증하지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "괴링 발신 서한"
+  },
+  {
+    "id": "CAT-DE-SRC-0041",
+    "title": "Besprechungsprotokoll: Wannsee-Konferenz",
+    "institution_or_author": "회의 기록 작성 기관 Reichssicherheitshauptamt / Politisches Archiv des Auswärtigen Amts / Haus der Wannsee-Konferenz",
+    "publication_date": "1942-01-20 (회의일)",
+    "source_type": "primary: 당대 회의록 사본의 공개 스캔",
+    "document_or_accession_number": "R 100857, Bl. 166–188 (게시기관 안내); 16번째 사본",
+    "locator": "스캔 1쪽 표제·날짜 및 2쪽 II항",
+    "url": "https://www.ghwk.de/fileadmin/Redaktion/PDF/Konferenz/protokoll-januar1942_barrierefrei.pdf",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942-01-20 회의 및 하이드리히의 제국원수 위임 설명, 관계기관 조정과 종합안"
+    ],
+    "limitations": [
+      "회의록은 나치 당국의 완곡어를 사용. 참석자 발언의 축어록이나 모든 후속 집행 증거가 아님."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "회의록 자체. PS-710을 후속 절차에서 언급한 자료"
+  },
+  {
+    "id": "CAT-DE-SRC-0042",
+    "title": "International Military Tribunal Judgment: Göring",
+    "institution_or_author": "International Military Tribunal / Yale Law School Avalon Project",
+    "publication_date": "1946-09-30~1946-10-01 (판결 낭독)",
+    "source_type": "primary-transcription: 공식 판결 전사",
+    "document_or_accession_number": "IMT Vol. I, Göring 항목",
+    "locator": "Crimes against Peace, War Crimes and Crimes against Humanity, Conclusion. LoC 공식 판결집 인쇄 281–282쪽도 대조",
+    "url": "https://avalon.law.yale.edu/imt/judgoeri.asp",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "침략전쟁·강제노동·박해에 대한 재판소 판단, 4개 공소항목 유죄",
+      "7월 31일 지시 요약의 힘러와 하이드리히 표기"
+    ],
+    "limitations": [
+      "법정의 종합 판단이며 PS-710의 실제 수신란은 하이드리히만 명시. 공식 판결집과 Avalon은 동일 판결."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "IMT의 괴링 판결 부분"
+  },
+  {
+    "id": "CAT-DE-SRC-0043",
+    "title": "The Private and Political Testaments of Hitler, April 29, 1945",
+    "institution_or_author": "Adolf Hitler / 미국 검찰 증거집 / ibiblio 전사",
+    "publication_date": "1945-04-29",
+    "source_type": "primary-translation-transcription: 정치 유언 영어 번역 전사",
+    "document_or_accession_number": "3569-PS; Nazi Conspiracy and Aggression VI, 259–263쪽",
+    "locator": "Second Part of the Political Testament, 지명 및 날짜 문단",
+    "url": "https://www.ibiblio.org/pha/policy/1945/1945-04-29a.html",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "괴링의 후계 권리와 당적 박탈, 되니츠의 국가원수 및 군 최고지휘관 지명"
+    ],
+    "limitations": [
+      "영어 번역 전사. 전달·효력 시점과 후계정부의 실제 권한은 별도 기록 필요."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "1945년 정치 유언 자체"
   }
 ]

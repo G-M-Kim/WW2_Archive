@@ -345,5 +345,55 @@
     ],
     "evidence": "이번은 육군과 해군 지휘관 두 명의 부분 조사. 다른 지휘관, 함장과 공군 조종사는 미조사다.",
     "completion_condition": "전시 인사·출격·작전 자료와 별도 책임 근거를 연결하고 08번과 중복되는 인물은 기존 PER ID를 재사용한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0029",
+    "status": "open",
+    "question": "바르바로사 준비 지령과 실제 개시 명령, 점령지 학살의 명령 계통은 어떻게 구분되는가?",
+    "related_ids": [
+      "CAT-DE-PER-0003",
+      "CAT-DE-SRC-0037",
+      "CAT-DE-SRC-0038"
+    ],
+    "evidence": "PS-446은 준비 기한과 지휘권을 보여 준다. 실제 침공일과 후방 집단 총살은 USHMM 해설에서 대조했다.",
+    "completion_condition": "독일어 원 지령, 개시 명령과 국방군·SS의 협정, 부대별 실행 기록을 문서번호와 해당 면으로 연결한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0030",
+    "status": "open",
+    "question": "괴링의 위임장과 재판소의 7월 31일 지시 요약에서 수신인 범위가 다른 이유는 무엇인가?",
+    "related_ids": [
+      "CAT-DE-PER-0004",
+      "CAT-DE-SRC-0040",
+      "CAT-DE-SRC-0041",
+      "CAT-DE-SRC-0042"
+    ],
+    "evidence": "PS-710은 하이드리히를 수신인으로 적지만 판결은 힘러와 하이드리히를 함께 언급한다.",
+    "completion_condition": "독일어 원본, 배포·수령 기록 및 판결이 검토한 별도 자료를 대조하고 반제 회의 이후 기관별 이행을 구분한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0031",
+    "status": "open",
+    "question": "되니츠의 지명, 취임 공표, 실제 권한 행사는 어떤 경로와 시점으로 확인되는가?",
+    "related_ids": [
+      "CAT-DE-PER-0002",
+      "CAT-DE-PER-0003",
+      "CAT-DE-PER-0004",
+      "CAT-DE-SRC-0034",
+      "CAT-DE-SRC-0043"
+    ],
+    "evidence": "4월 29일 정치 유언과 5월 1일 판결문상 취임은 별개 사건이다.",
+    "completion_condition": "전달 전보, 공표 기록 및 후계정부 발령 문서에서 전달·공표·권한 행사의 시점을 각각 대조한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0032",
+    "status": "open",
+    "question": "미조사 정치 인물의 전시 정책과 실제 책임을 어떻게 보완하는가?",
+    "related_ids": [
+      "CAT-DE-PER-0003",
+      "CAT-DE-PER-0004"
+    ],
+    "evidence": "이번에는 두 인물의 대표 문서와 되니츠 승계를 부분 조사했다. 외교·선전·점령행정·전시 동원은 범위가 남아 있다.",
+    "completion_condition": "직책과 실제 결정·집행을 동시대 문서에 연결한다. 앞선 분류와 중복되면 인물 ID를 재사용한다."
   }
 ]
