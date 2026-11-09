@@ -1,11 +1,14 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-11-21
-FORWARD_INSPECTED_THROUGH: 1941-11-20
-CURRENT_FORWARD_BATCH: 1941-11-21..1941-11-23
+FORWARD_CURSOR: 1941-11-24
+FORWARD_INSPECTED_THROUGH: 1941-11-23
+CURRENT_FORWARD_BATCH: 1941-11-24..1941-11-26
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-10
 
 ## 최신 실행 — 2026-11-10
+- 1941-11-21..11-23 forward: FRUS II d404/d405 원문 2건 확인, 11/23 미확인. 삼국동맹 해석 서한 초안과 자산동결·인도차이나 철군 협상은 집행과 구분. 신규 0/0/0 누적 3612/2035/1227. [감사](source-audit-1941-nov21-23-batch1.md), RQ-0003/RQ-0007 backfill. 다음 1941-11-24.
+
+## 이전 실행 — 2026-11-10
 - 1941-11-18..11-20 forward: FRUS d400/d401/d402 당대 회담 기록 3건 직접 판독, d399(11/17) 경계일 참고. 제안·발언과 이행 구분. 신규 0/0/0 누적 3612/2035/1227. [감사](source-audit-1941-nov18-20-batch1.md); RQ-0003/RQ-0007 backfill. 다음 1941-11-21.
 
 ## 최신 실행 — 2026-11-10
