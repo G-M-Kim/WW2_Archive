@@ -214,10 +214,11 @@
     "category_number": 16,
     "category": "개전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/germany/16-industrial-centers-start.md",
-    "status": "pending",
-    "run_record": null,
+    "status": "partial",
+    "run_record": "categories/runs/CAT-DE-16.json",
     "step": 16,
-    "planned_at": "2026-11-10T03:30:00+09:00"
+    "planned_at": "2026-11-10T03:30:00+09:00",
+    "completed_at": "2026-11-10T07:04:24+09:00"
   },
   {
     "job_id": "CAT-DE-17",

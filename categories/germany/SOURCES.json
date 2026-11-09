@@ -2450,5 +2450,125 @@
     ],
     "rights": "University of Rochester 공개 스캔의 권리 표시 적용. 재게시 없이 자체 요약·링크.",
     "independence_group": "독일 전시 생산 통계 원고"
+  },
+  {
+    "id": "CAT-DE-SRC-0118",
+    "title": "The Ruhr",
+    "institution_or_author": "U.S. Department of State / Office of the Historian, FRUS",
+    "publication_date": "1945-06-30",
+    "source_type": "primary: 포츠담 회담 준비용 국무부 메모",
+    "document_or_accession_number": "FRUS, The Conference of Berlin (The Potsdam Conference), 1945, vol. I, doc. 400, 740.00119 (Potsdam)/5–2446",
+    "locator": "문서 400, 인쇄 590–591쪽, §b Basic Data",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv01/d400",
+    "accessed_at": "2026-11-10T07:04:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "광역 루르와 내부 중심 공업대의 지역 면적, 라인강 서쪽 일부를 포함하는 지리 설명, 산업 집적과 철도·수운 비중의 추정."
+    ],
+    "limitations": [
+      "포함 시군의 확정 경계와 운송량의 관측 기간 미기재. 지역 전체 면적과 산업용 면적을 분리."
+    ],
+    "rights": "미 국무부 공식 문서 전사본. 자체 요약과 링크만 사용.",
+    "independence_group": "미 국무부 포츠담 회담 준비 메모"
+  },
+  {
+    "id": "CAT-DE-SRC-0119",
+    "title": "Lautawerk",
+    "institution_or_author": "Anja Prust / Landesamt für Archäologie Sachsen, KuLaDig",
+    "publication_date": "2023",
+    "source_type": "secondary: 산업유산 인벤토리",
+    "document_or_accession_number": "BKM 31100089",
+    "locator": "기술 본문, BKM·좌표·인용 안내",
+    "url": "https://www.kuladig.de/Objektansicht/BKM-31100089",
+    "accessed_at": "2026-11-10T07:04:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "라우타 공장·연결 발전소·공정, 초기 가동, 인근 광산·주거지, 전극 공장 건설 시점, 유산 대표 좌표."
+    ],
+    "limitations": [
+      "현대 유산 대표점이며 역사 필지의 측량 좌표가 아님. 동일 저자의 논문과 독립 자료로 중복 집계하지 않음."
+    ],
+    "rights": "게시 본문의 CC BY-NC 4.0 표기와 개별 이미지 권리 구분. 자체 요약과 링크만 사용.",
+    "independence_group": "Anja Prust의 라우지츠 산업유산 조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0120",
+    "title": "Kraftwerk Lauta (vor 1945)",
+    "institution_or_author": "Vinzenz Czech / Industriegeschichte Brandenburgs, brandenburgikon",
+    "publication_date": "2022-10-14",
+    "source_type": "secondary: 지역 산업사 편찬",
+    "document_or_accession_number": null,
+    "locator": "1938년 발전소 증설 문단, 문헌목록 Kahl 외(2009) 102–110쪽, EWAG 소유와 전쟁 말 점령 문단",
+    "url": "https://www.brandenburgikon.net/index.php/de/unternehmen-bis-1945/niederlausitz/lauta",
+    "accessed_at": "2026-11-10T07:04:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "EWAG의 발전소 인수·운영, 1938년 최대 명목출력 173 MW, 송전망 연계, 종전 직전 소련군 점령."
+    ],
+    "limitations": [
+      "Kahl 외의 발전소사를 인용한 정격. 원 발전기 명판과 발전·공장 송전 실적의 독립 대조 미실시."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Czech의 라우타 발전소사, Kahl 외 인용"
+  },
+  {
+    "id": "CAT-DE-SRC-0121",
+    "title": "The Archaeological Legacy of the Lignite Boom in Upper Lusatia",
+    "institution_or_author": "Anja Prust / Internet Archaeology 66",
+    "publication_date": "2024",
+    "source_type": "secondary: 산업고고학 논문, 1937년 지형도 활용",
+    "document_or_accession_number": "DOI 10.11141/ia.66.22; Messtischblatt 2618/4550 Hohenbocka",
+    "locator": "§3 Allied industries in Upper Lusatia, 그림 7 좌측 1937년 지도 패널",
+    "url": "https://www.intarch.ac.uk/journal/issue66/22/full-text.html",
+    "accessed_at": "2026-11-10T07:04:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "역사 지도 기반 도해에서 공장 윤곽·철도와 구역 외 광산·주거지의 공간 구분을 판독."
+    ],
+    "limitations": [
+      "후대 도해의 경계선이며 법정 필지나 가동 면적 측량값이 아님. 출처 0119와 연구자 공통."
+    ],
+    "rights": "논문은 별도 표기가 없는 부분 CC BY 3.0. 도해의 기초 자료별 권리를 구분하고 링크만 사용.",
+    "independence_group": "Anja Prust의 라우지츠 산업유산 조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0122",
+    "title": "Wirtschaft und Statistik, 19. Jahrgang Nr. 14, 2. Juli-Heft 1939",
+    "institution_or_author": "Statistisches Reichsamt / Statistische Bibliothek",
+    "publication_date": "1939-08-04 (발행란)",
+    "source_type": "primary: 동시대 독일 공식 통계",
+    "document_or_accession_number": "19. Jg. Nr. 14; DEAusgabe_derivate_00001194",
+    "locator": "544쪽, Kohlenförderung 표와 아래 본문, PDF 10면 / 545쪽, Deutsche Roheisen- und Rohstahlerzeugung, Erzeugung nach Bezirken, PDF 11면",
+    "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEAusgabe_derivate_00001194/Wirtschaft_und_Statistik-1939-14.pdf",
+    "accessed_at": "2026-11-10T07:04:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 6월 루르·자르란트 경질탄과 코크스, 루르 탄광과 부속 사업장 고용, 별도 라인란트·베스트팔렌 및 자르란트 제철 실적."
+    ],
+    "limitations": [
+      "1939년 6월 실적으로 설비능력이 아님. 제철 표의 집계 지역은 루르 탄광 통계의 Ruhrgebiet와 다름."
+    ],
+    "rights": "통계도서관 공개 스캔. 원면 재수록 없이 자체 요약과 링크만 사용.",
+    "independence_group": "Statistisches Reichsamt 1939년 월간 통계, 업종단체 집계 인용"
+  },
+  {
+    "id": "CAT-DE-SRC-0123",
+    "title": "Report by the Supreme Commander to the Combined Chiefs of Staff on the Operations in Europe of the Allied Expeditionary Force, 6 June 1944 to 8 May 1945",
+    "institution_or_author": "Dwight D. Eisenhower / Center of Military History, U.S. Army",
+    "publication_date": "1994 (디지털 소장본 표지의 재발행본)",
+    "source_type": "primary: 연합군 최고사령관 작전 보고",
+    "document_or_accession_number": "CMH 70-58",
+    "locator": "105쪽, Ruhr 포위망 4월 전황",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/70-58.pdf",
+    "accessed_at": "2026-11-10T07:04:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 4월 18일 루르 포위망의 독일군 저항 종결."
+    ],
+    "limitations": [
+      "군사작전 종결 기준이다. 개별 사업장 인수일과 공업지대 경계를 확정하지 않는다."
+    ],
+    "rights": "미 육군 공식 디지털판. 자체 요약과 링크만 사용.",
+    "independence_group": "연합군 최고사령부 작전 보고"
   }
 ]

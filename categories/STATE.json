@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 16,
-  "CAT_VISITED_COUNT": 15,
-  "CAT_LAST_JOB_ID": "CAT-DE-15",
+  "CAT_NEXT_STEP": 17,
+  "CAT_VISITED_COUNT": 16,
+  "CAT_LAST_JOB_ID": "CAT-DE-16",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-10T04:58:29+09:00",
-  "note": "독일 15 전시 자원 여섯 종의 생산·조달 부분 조사 저장. 첫 방문 15/133, 다음 CAT-DE-16."
+  "updated_at": "2026-11-10T07:04:24+09:00",
+  "note": "독일 16 루르·라우타베르크 개전 설비와 실적 부분 조사 저장. 첫 방문 16/133, 다음 CAT-DE-17."
 }
