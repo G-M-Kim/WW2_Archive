@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 13,
-  "CAT_VISITED_COUNT": 12,
-  "CAT_LAST_JOB_ID": "CAT-DE-12",
+  "CAT_NEXT_STEP": 14,
+  "CAT_VISITED_COUNT": 13,
+  "CAT_LAST_JOB_ID": "CAT-DE-13",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-09T23:14:47+09:00",
-  "note": "독일 12 인구조사와 경계별 비교 부분 조사 저장. 첫 방문 12/133, 다음 CAT-DE-13."
+  "updated_at": "2026-11-10T00:59:11+09:00",
+  "note": "독일 13 당시 지명 대표 사례 부분 조사 저장. 첫 방문 13/133, 다음 CAT-DE-14."
 }

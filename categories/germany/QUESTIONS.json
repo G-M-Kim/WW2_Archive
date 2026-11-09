@@ -620,5 +620,62 @@
     ],
     "evidence": "보충카드에 남은 인원과 공식 분류별 총계가 다르다. 보존·수록 범위가 다른 자료를 더 확인해야 한다.",
     "completion_condition": "공식 분류의 원표, 미전승 지역 기록, 별도 피해 등록 자료를 대조하고 종교·국적·나치 분류·피해를 분리한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0050",
+    "status": "open",
+    "question": "단치히 자유시·도시·전시 행정구의 경계 및 폴란드어 Gdańsk의 실제 사용과 1945년 시정 개시를 어떻게 연결할 수 있는가?",
+    "related_ids": [
+      "CAT-DE-GEO-0007",
+      "CAT-DE-GEO-0008",
+      "CAT-DE-SRC-0079",
+      "CAT-DE-SRC-0081",
+      "CAT-DE-SRC-0083",
+      "CAT-DE-SRC-0092"
+    ],
+    "evidence": "조약·관보·포츠담에서 공간 단위를 분리했다. 폴란드 현지 공고와 경계 도엽을 추가 열람해야 한다.",
+    "completion_condition": "현지어 문서, 시정 공고와 시기별 경계 사료로 용례·적용 구역·시행 날짜를 구분한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0051",
+    "status": "open",
+    "question": "Łódź의 Lodz·Lodsch·Litzmannstadt 명령은 언제, 어떤 관할 단위에 적용됐고 현지 언어 용례는 어떠했는가?",
+    "related_ids": [
+      "CAT-DE-GEO-0009",
+      "CAT-DE-SRC-0084",
+      "CAT-DE-SRC-0085",
+      "CAT-DE-SRC-0086",
+      "CAT-DE-SRC-0088",
+      "CAT-DE-SRC-0092"
+    ],
+    "evidence": "신문 원면이 1940-04-11 발표를 보도하고 전시 도엽이 새 명칭을 사용한다. 초기 명령과 최종 법적 효력의 원 기록은 미확보.",
+    "completion_condition": "개별 공고 원본과 시·도시군 문서 및 폴란드어·이디시어 동시대 기록을 대조한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0052",
+    "status": "open",
+    "question": "1946년 쾨니히스베르크 개칭 공포본과 전시·현대 도시 경계의 대응은 어떻게 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-DE-GEO-0010",
+      "CAT-DE-SRC-0079",
+      "CAT-DE-SRC-0089",
+      "CAT-DE-SRC-0090",
+      "CAT-DE-SRC-0091"
+    ],
+    "evidence": "전시 도엽과 포츠담 의정서 및 도서관 연혁을 확인했다. 개칭 법령 공포면과 경계 변경을 확인하지 못했다.",
+    "completion_condition": "소련 공보의 법령 번호·일자와 당시 독일·소련 시정 경계 지도, 현대 경계 자료를 대조한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0053",
+    "status": "open",
+    "question": "독일 본토 및 다른 병합·점령지에서 같은 이름의 공간 단위와 이명·개칭 사례를 어떻게 보완할 것인가?",
+    "related_ids": [
+      "CAT-DE-GEO-0007",
+      "CAT-DE-GEO-0008",
+      "CAT-DE-GEO-0009",
+      "CAT-DE-GEO-0010"
+    ],
+    "evidence": "도시 세 곳과 자유시 한 영역의 표본만 조사했다. 국내 지명과 추가 병합·점령 지역은 후보 범위다.",
+    "completion_condition": "독일 본토와 추가 지역에서 최소 한 사례씩 당대 지도·행정 문서·현지어 근거와 현행 대응명을 확보한다."
   }
 ]

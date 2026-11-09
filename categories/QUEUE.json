@@ -174,8 +174,9 @@
     "category": "당시 기준 지명",
     "article_path": "categories/germany/13-historical-place-names.md",
     "planned_at": "2026-11-09T21:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-DE-13.json",
+    "completed_at": "2026-11-10T00:59:11+09:00"
   },
   {
     "step": 14,

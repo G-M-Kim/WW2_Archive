@@ -1710,5 +1710,245 @@
     ],
     "rights": "Bundesarchiv 게시본. 양식과 개별 카드의 재게시 없이 요약·링크만 사용.",
     "independence_group": "1939 보충카드 보존·공식 결과 비교"
+  },
+  {
+    "id": "CAT-DE-SRC-0081",
+    "title": "Treaty of Versailles, Part III, Section XI — Free City of Danzig",
+    "institution_or_author": "연합·협상국 및 독일 / 미국 국무부 Office of the Historian 수록",
+    "publication_date": "1919-06-28",
+    "source_type": "primary: 조약 본문 공식 수록본",
+    "document_or_accession_number": "FRUS Paris Peace Conference 1919, XIII, ch. XII, subch. XI",
+    "locator": "인쇄 251–255쪽, 제100·102·104조 및 제102조 주석",
+    "url": "https://history.state.gov/historicaldocuments/frus1919Parisv13/ch12subch11",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "자유시 경계와 도시·주변 영토의 구분, 국제연맹 보호, 폴란드의 조약상 권리. 1920년 발효일은 편집 주석에서 확인."
+    ],
+    "limitations": [
+      "후속 전시 실효지배나 주민 언어는 조약의 직접 확인 범위 밖."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "베르사유 조약"
+  },
+  {
+    "id": "CAT-DE-SRC-0082",
+    "title": "Gesetz über die Wiedervereinigung der Freien Stadt Danzig mit dem Deutschen Reich",
+    "institution_or_author": "Deutsches Reich / Bundesarchiv 소장",
+    "publication_date": "1939-09-01",
+    "source_type": "primary: 관보 원면",
+    "document_or_accession_number": "RGBl. I Nr. 155; BArch R 43 II/973 b, Scan 0299",
+    "locator": "인쇄 1547쪽, 제1조 및 인용 자유시 법문 I–IV",
+    "url": "https://www.bundesarchiv.de/assets/bundesarchiv/de/_processed_/5/b/csm_BArch_R_43_II_973_b_0299_Reichsgesetzblatt_Danzig_336f5203dc.jpg",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "관보 원면의 날짜, 자유시 헌법 폐지 및 영토 편입을 선언한 법문."
+    ],
+    "limitations": [
+      "나치 독일이 공표한 국내법. 국제적 승인과 실효지배의 실제 범위는 별개."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "독일 관보 1939-09-01"
+  },
+  {
+    "id": "CAT-DE-SRC-0083",
+    "title": "Die Stadt Danzig im Nationalsozialismus",
+    "institution_or_author": "Bundesarchiv",
+    "publication_date": null,
+    "source_type": "secondary: 기록원 해설",
+    "document_or_accession_number": null,
+    "locator": "Der Zweite Weltkrieg in Danzig 절 및 전후 단락",
+    "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/themenbeitraege/die-stadt-danzig-im-nationalsozialismus/",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-09-01 공격과 독일의 폴란드 시설 점거, 1945-03-30 소련군 도시 장악, 현재 폴란드어 이름."
+    ],
+    "limitations": [
+      "관보를 인용한 병합법 설명은 별도 독립 사료로 계산하지 않음. 전후 국경·행정의 법적 문구는 포츠담 원문을 따름."
+    ],
+    "rights": "Bundesarchiv 사이트 권리 표시. 사진·기록 이미지 재게시 없음.",
+    "independence_group": "Bundesarchiv 해설 및 기록 가이드"
+  },
+  {
+    "id": "CAT-DE-SRC-0084",
+    "title": "Litzmannstädter Zeitung, Jg. 18 Nr. 102",
+    "institution_or_author": "Verlagsgesellschaft Libertas / Wojewódzka Biblioteka Publiczna w Łodzi 소장",
+    "publication_date": "1940-04-12",
+    "source_type": "primary: 점령기 신문 원면",
+    "document_or_accession_number": "oai:bc.wbp.lodz.pl:27650",
+    "locator": "1면 제호·날짜·헤드라인 및 그라이저의 발표와 전보 기사 (원면 https://bc.wbp.lodz.pl/Content/27650/download/)",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/29011/edition/27650",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Lodsch와 Litzmannstadt 표기, 전날 새 이름 발표 보도."
+    ],
+    "limitations": [
+      "독일 점령기 선전 매체. 주민의 수용이나 개칭 명령 전문의 증거로 쓰지 않음."
+    ],
+    "rights": "디지털 도서관 목록의 퍼블릭 도메인 표시. 재게시 없이 요약·링크.",
+    "independence_group": "1940-04-12 신문 당대 인쇄"
+  },
+  {
+    "id": "CAT-DE-SRC-0085",
+    "title": "Plan von Litzmannstadt: mit Strassenverzeichnis",
+    "institution_or_author": "Erwin Thiem / Buchhandlung S. Seipelt / Stanford University Libraries 소장",
+    "publication_date": "1942 (소장 목록 연도)",
+    "source_type": "primary: 점령기 시가도",
+    "document_or_accession_number": "Stanford xb387zj9235",
+    "locator": "앞면 우상단 1:20,000 표제, 뒷면 색인 표제 및 목록",
+    "url": "https://purl.stanford.edu/xb387zj9235",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "원 도엽 양면의 Litzmannstadt와 앞면 축척."
+    ],
+    "limitations": [
+      "지도 간행 표기이며 행정명령과 주민 언어에는 별도 사료가 필요. 목록의 발행 연도와 지도 원면의 표기 구분."
+    ],
+    "rights": "Stanford 제공 Public Domain Mark 1.0. 재게시 없이 요약·링크.",
+    "independence_group": "Thiem 시가도"
+  },
+  {
+    "id": "CAT-DE-SRC-0086",
+    "title": "The Propaganda Exhibition “The Beautiful Town—Entschandelung and Design”: Stops in the “German East”, 1940–1942",
+    "institution_or_author": "Anja Wiese / Zeitschrift für Ostmitteleuropa-Forschung 70(4)",
+    "publication_date": "2021-12-31",
+    "source_type": "secondary: 학술논문과 당대 기록 도판",
+    "document_or_accession_number": "DOI 10.25627/202170411054; Fig. 6 BArch 146-1974-151-14; Fig. 8 Stadtarchiv Stralsund Rep. 24 Nr. 3033a fol. 249",
+    "locator": "PDF 18면 본문과 그림 6, 20면 그림 8",
+    "url": "https://www.zfo-online.de/portal/zfo/article/download/11054/10949",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-09-08 점령과 1940년 4월 개칭, 거리 표기의 현지 대응명. 신문과 다른 소장 기록의 도판."
+    ],
+    "limitations": [
+      "전시·건축 중심 연구. 도판은 논문 수록본이며 소장기관 원본 별도 열람은 미실시."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Anja Wiese의 전시기록 분석"
+  },
+  {
+    "id": "CAT-DE-SRC-0087",
+    "title": "Hołd i kwiaty od UŁ Ofiarom Radogoszcza",
+    "institution_or_author": "Uniwersytet Łódzki / Iwona Ptaszek-Zielińska, 역사 해설 Kamil Śmiechowski",
+    "publication_date": "2024-01-19",
+    "source_type": "secondary: 대학 공개 해설",
+    "document_or_accession_number": null,
+    "locator": "Zakończenie okupacji niemieckiej w Łodzi… 절 첫 문단",
+    "url": "https://www.uni.lodz.pl/aktualnosc/szczegoly/hold-i-kwiaty-od-ul-ofiarom-radogoszcza",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945-01-19 독일 점령 종료, 현대 폴란드어 표기."
+    ],
+    "limitations": [
+      "종전 현지 행정 공고의 원본은 이 해설에 수록되지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "우치대 역사학자 해설"
+  },
+  {
+    "id": "CAT-DE-SRC-0088",
+    "title": "Stadtkreis Litzmannstadt",
+    "institution_or_author": "Rolf Jehke / territorial.de",
+    "publication_date": null,
+    "source_type": "secondary: 행정 연표 편찬",
+    "document_or_accession_number": null,
+    "locator": "1939-11-09, 1939-12-29, 1940-04-11, 1945-01-01 항목과 주 1",
+    "url": "https://territorial.de/wart/litzmann/litzmstd.htm",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 행정상의 도시·도시군 표기 연쇄, 상위 행정구역, 새 명칭의 발표 시점 대조."
+    ],
+    "limitations": [
+      "행정 편찬물의 1939년 세부 날짜를 확정할 별도의 개별 개칭 법령 원문은 미확보."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Jehke 행정 연표"
+  },
+  {
+    "id": "CAT-DE-SRC-0089",
+    "title": "Königsberg, J-15",
+    "institution_or_author": "Army Map Service, U.S. Army / Biblioteka Politechniki Białostockiej 디지털 소장",
+    "publication_date": "1944 (AMS 2 개정)",
+    "source_type": "primary: 전시 미군 지도 원도엽",
+    "document_or_accession_number": "AMS M651 / GSGS 4416, J-15, 134009; oai:pbc.biaman.pl:3143",
+    "locator": "우측 상단 표제와 우측 하단 판차·지역 표시 (원도 https://pbc.biaman.pl/Content/3143/download/)",
+    "url": "https://pbc.biaman.pl/dlibra/publication/3368/edition/3143/konigsberg-j-15?language=en",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "POLAND 시리즈, 1:100,000, KÖNIGSBERG 표제 및 KONIGSBERG, GERMANY 하단 표기."
+    ],
+    "limitations": [
+      "전시 미군 제작 표기. 현대 목록의 폴란드어 키워드는 원도 표기와 구분."
+    ],
+    "rights": "미 육군 지도국 제작. 소장기관 디지털 원도 권리 안내와 별개로 이미지 재게시 없이 링크.",
+    "independence_group": "미 육군 지도국 1944 도엽"
+  },
+  {
+    "id": "CAT-DE-SRC-0090",
+    "title": "В составе РСФСР образована Кёнигсбергская (Калининградская) область",
+    "institution_or_author": "Президентская библиотека имени Б. Н. Ельцина",
+    "publication_date": null,
+    "source_type": "secondary: 국립 도서관 역사 해설",
+    "document_or_accession_number": null,
+    "locator": "1946년 4월 7일 및 7월 4일 단락",
+    "url": "https://www.prlib.ru/node/619151",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1946-04-07 주 설치, 1946-07-04 도시와 주의 개칭 및 원어 표기."
+    ],
+    "limitations": [
+      "페이지 표제 아래 날짜는 역사 사건의 날짜. 포츠담의 법적 문구는 외교문서 원문을 따르며 1946년 법령 관보는 미확보."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "러시아 대통령도서관 연혁"
+  },
+  {
+    "id": "CAT-DE-SRC-0091",
+    "title": "80 лет со дня взятия Кёнигсберга",
+    "institution_or_author": "Михаил Коваленко / Красноярский краевой краеведческий музей",
+    "publication_date": "2025-04-07",
+    "source_type": "secondary: 박물관 연구자 해설",
+    "document_or_accession_number": null,
+    "locator": "첫 문단 및 4월 공세와 수비대 항복 단락",
+    "url": "https://www.kkkm.ru/o-muzee/stati-i-publikacii/80-let-so-dnya-vzyatiya-kyonigsberga",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 동프로이센 주도, 1945년 4월 6–9일 소련군의 공세와 수비대 항복."
+    ],
+    "limitations": [
+      "기념 해설의 전과·포로 수는 조사 범위 밖. 항복문 원본은 별도 확인 필요."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "크라스노야르스크 박물관 해설"
+  },
+  {
+    "id": "CAT-DE-SRC-0092",
+    "title": "Erlass des Führers und Reichskanzlers über Gliederung und Verwaltung der Ostgebiete",
+    "institution_or_author": "Deutsches Reich / Karol Marian Pospieszalski 편, Instytut Zachodni",
+    "publication_date": "1939-10-08 (법령), 1952 (원 편찬)",
+    "source_type": "primary 및 secondary: 독일어 법령 전재와 편자 주석",
+    "document_or_accession_number": "RGBl. I 2042; Documenta Occupationis V, III-1",
+    "locator": "인쇄 122쪽 제1–2조와 주 3–5",
+    "url": "https://www.iz.poznan.pl/archiwum/wp-content/uploads/2019/10/DOCUMENTA-OCCUPATIONIS-V_ENG.pdf",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Westpreußen과 Posen의 행정 계층, Danzig 소재지, 후속 상위 명칭 변경과 Łódź로의 관청 이전에 관한 문헌번호."
+    ],
+    "limitations": [
+      "현지 시 경계와 개별 도시 개칭을 정하는 원문은 이 조항에 없음. 개정 명칭과 관청 이전은 편자 주석으로 확인."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "독일 관보 1939-10-08 법령 및 서방연구소 편집"
   }
 ]
