@@ -242,5 +242,58 @@
     ],
     "evidence": "첫 방문에서는 네 사례만 확인했다. 다른 소총·기관단총·권총·기관총, 박격포·수류탄·대전차화기, 군장·통신·의무 장비는 미조사 후보 범위다.",
     "completion_condition": "전시 교범·소장 기록·부대 편제/지급표를 대조해 형식과 소속·시기·운용 상태를 확정하고 기존 EQP ID와 중복을 방지한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0021",
+    "status": "open",
+    "question": "Würzburg 하위형과 Riese의 운용거리·정확도 및 배치는 원 시험·운용자료로 확인되는가?",
+    "related_ids": [
+      "CAT-DE-EQP-0016",
+      "CAT-DE-EQP-0017",
+      "CAT-DE-SRC-0023",
+      "CAT-DE-SRC-0024"
+    ],
+    "evidence": "1945년 영국 정보 보고의 A/D 25 km 계열 값과 Riese 약 70 km에는 상세 측정조건이 없고 수집 진술 자체에 유보가 있다.",
+    "completion_condition": "독일 형식별 교범·시험표·부대 운용표에서 날짜와 형식, 표적 고도/반사·재밍 및 가동 기준을 연결하고 생산·설치·가동을 구분한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0022",
+    "status": "open",
+    "question": "브뤼느발에서 실제 인계된 부품과 Science Museum 1982-1216의 전시 부품은 어느 범위가 일치하는가?",
+    "related_ids": [
+      "CAT-DE-EQP-0016",
+      "CAT-DE-SRC-0023",
+      "CAT-DE-SRC-0024",
+      "CAT-DE-SRC-0025"
+    ],
+    "evidence": "영국 정찰사와 독일 측 문서 발췌가 부품 노획을 가리키나, 박물관은 노획품 연계를 가능성으로만 제시하며 건지 부품을 사용했다고 밝힌다.",
+    "completion_condition": "Operation Biting 원보고·노획 인수 목록과 박물관 복원 장부를 식별번호 단위로 대조한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0023",
+    "status": "open",
+    "question": "U-505의 회수 암호기 형식·수량·부속품과 회수 자료의 정보 효과를 어떻게 검증할 수 있는가?",
+    "related_ids": [
+      "CAT-DE-EQP-0018",
+      "CAT-DE-EQP-0009",
+      "CAT-DE-SRC-0026",
+      "CAT-DE-SRC-0027",
+      "CAT-DE-SRC-0028"
+    ],
+    "evidence": "Pillsbury 보고는 기기와 자료 회수를 묶어 서술하고, Knowles는 새 해도의 가치를 회고한다. NMS 물품의 함정 귀속은 미확인이다.",
+    "completion_condition": "노획 인수 목록, 독일 탑재·통신기록 및 날짜별 연합군 복호 원장으로 장비·회전자·설정표·해도를 분리하고 전후 효과를 확인한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0024",
+    "status": "open",
+    "question": "다른 전쟁 지원 장비를 어떤 증거로 보완할 것인가?",
+    "related_ids": [
+      "CAT-DE-EQP-0016",
+      "CAT-DE-EQP-0017",
+      "CAT-DE-EQP-0018",
+      "CAT-DE-SRC-0024"
+    ],
+    "evidence": "이번은 레이더 두 계열과 해군 에니그마의 부분 조사. 다른 레이더·암호기, 무선·소나·항법·사격통제·정보처리·병참은 미조사 범위다.",
+    "completion_condition": "분류별 전시 문서·소장 이력·실전 사용 자료를 대조하고 하위형·설치와 배치를 구분한다. 정규 순서는 07로 전진한다."
   }
 ]

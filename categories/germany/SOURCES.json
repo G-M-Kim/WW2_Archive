@@ -520,5 +520,136 @@
     ],
     "rights": "소장기관 웹 콘텐츠의 권리 적용. 한국어 자체 요약과 링크만 사용. 사진 미복제.",
     "independence_group": "AWM-REL32447"
+  },
+  {
+    "id": "CAT-DE-SRC-0023",
+    "title": "R.A.F. Narrative (First Draft): Photographic Reconnaissance, Volume II, May 1941 to August 1945",
+    "institution_or_author": "Air Historical Branch (1), Air Ministry / Royal Air Force 공식 스캔",
+    "publication_date": "초고 작성일 미표기, 수록기간 1941-05~1945-08",
+    "source_type": "official historical narrative: 동시대 정찰·작전기록을 활용한 기관 서술의 스캔",
+    "document_or_accession_number": "DS 74661/1(104) (96쪽 표기); 인용 Operation Biting Report Ops.11.4",
+    "locator": "표제, 인쇄 96쪽 C. Enemy Radio and Radar (PDF 100), 103쪽 같은 항목 (PDF 107)",
+    "url": "https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/second-world-war-thematic-studies/photographic-reconnaissance-vol-ii-may-1941-august-1945/",
+    "accessed_at": "2026-11-09T10:58:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941-12-05 정찰 및 르아브르 부근 단거리 포물면형",
+      "1942-02-27 브뤼느발 급습과 부품 회수, 대공포 사격통제"
+    ],
+    "limitations": [
+      "원 항공사진 및 Biting 원작전보고는 미열람",
+      "노획 장비의 하위형·일련번호 및 시험값 미제시"
+    ],
+    "rights": "원 자료 및 디지털 게시의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "RAF 정찰·작전 기록 계열; ADI(K) §46 독일 측 문서 발췌와 구별"
+  },
+  {
+    "id": "CAT-DE-SRC-0024",
+    "title": "Radio and Radar Equipment in the Luftwaffe – X: German early warning Ground Radar",
+    "institution_or_author": "영국 A.D.I.(K); 기술정보 보고 / CDV&T 후대 재조판 PDF",
+    "publication_date": "1945 (보고번호의 연도, 월·일 미확인)",
+    "source_type": "primary-derived: 전시 당사자 심문 및 확보 문서 기반 1945년 영국 보고의 재조판",
+    "document_or_accession_number": "A.D.I.(K) Report No. 390/1945",
+    "locator": "PDF 1쪽 경고·§1, 6쪽 §31, 9쪽 §46, 12–14쪽 §§60–68",
+    "url": "https://www.cdvandt.org/ADIK390all.pdf",
+    "accessed_at": "2026-11-09T10:58:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "§46의 1944년 6월 독일 측 문서 번역 발췌와 브뤼느발 부품 노획",
+      "Würzburg A/D와 Riese의 거리·역할, Kammhuber 구역 및 Seeburg 표시 방식"
+    ],
+    "limitations": [
+      "보고서 머리말에 심문 내용 미검증 경고",
+      "원 스캔 및 독일 측 문서 원본과 재조판 미대조",
+      "거리·정확도 수치의 표적·고도·재밍·시험조건 불충분"
+    ],
+    "rights": "원 자료 및 디지털 게시의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Martini 측 심문·확보 문서; RAF 정찰사와 계보가 다른 독일 측 자료를 §46에서 간접 열람"
+  },
+  {
+    "id": "CAT-DE-SRC-0025",
+    "title": "Wurzburg radar aerial",
+    "institution_or_author": "Science Museum Group",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 설명, 전시 실물은 물적 1차 자료",
+    "document_or_accession_number": "1982-1216",
+    "locator": "소개 본문, Details / Object Number",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co35946/wurzburg-radar-aerial",
+    "accessed_at": "2026-11-09T10:58:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "접이식 대차 안테나와 Type A 식별",
+      "브뤼느발 노획 가능성, 건지 부품을 이용한 1990년대 복원"
+    ],
+    "limitations": [
+      "기관이 제시한 브뤼느발 연계는 가능성 표기",
+      "원 인계 목록·복원 부품별 일련번호 미확보"
+    ],
+    "rights": "원 자료 및 디지털 게시의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "SMG 1982-1216 소장·복원 설명"
+  },
+  {
+    "id": "CAT-DE-SRC-0026",
+    "title": "The role of the Enigma encoding machine in World War 2",
+    "institution_or_author": "National Museums Scotland",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 설명, 전시 실물은 물적 1차 자료",
+    "document_or_accession_number": "T.1994.63",
+    "locator": "소장품 소개·사진 캡션·How Enigma machines worked",
+    "url": "https://www.nms.ac.uk/discover-catalogue/the-role-of-the-enigma-encoding-machine-in-world-war-2",
+    "accessed_at": "2026-11-09T10:58:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 제작 해군형 4회전자 실물 및 별도 상자의 교체용 회전자 5개",
+      "전기기계식 치환과 공유 설정, 시연 영상은 스위스형"
+    ],
+    "limitations": [
+      "1944는 물품 제작연대이며 웹 게시일은 미확인",
+      "개별 함정 탑재·사용 이력과 복호 성과 미입증"
+    ],
+    "rights": "원 자료 및 디지털 게시의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "NMS T.1994.63 소장품 계열"
+  },
+  {
+    "id": "CAT-DE-SRC-0027",
+    "title": "Contact and Action Report - capture of U-505",
+    "institution_or_author": "USS Pillsbury (DE-133) 함장 / U-boat Archive 전사",
+    "publication_date": "1944-06-08",
+    "source_type": "primary-transcription: 전시 미 해군 작전보고의 HTML 전사",
+    "document_or_accession_number": "DE133/(FMR)/A16-3/cab, Serial #001; 보존기관 소장번호 미확인",
+    "locator": "표제·1쪽 §1, 2쪽 1146, 3쪽 1425 및 §3",
+    "url": "https://www.uboatarchive.net/U-505A/U-505Pillsbury%20Report.htm",
+    "accessed_at": "2026-11-09T10:58:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944-06-04 승선 및 기밀 출판물·해도·문서·기기 회수, Guadalcanal로 자료 인계"
+    ],
+    "limitations": [
+      "원 스캔 미대조",
+      "인용 구간은 개별 암호기의 형식·수량·일련번호를 적은 인수 목록이 아님"
+    ],
+    "rights": "미 연방정부 당대 문서와 후대 웹 전사·편집의 권리를 구분. 요약과 링크만 사용.",
+    "independence_group": "USS Pillsbury 함상 기록"
+  },
+  {
+    "id": "CAT-DE-SRC-0028",
+    "title": "Ultra and the Battle of the Atlantic: 미국 측 발표 중 U-505 관련 부분",
+    "institution_or_author": "Kenneth Knowles, Naval Symposium / NSA 공개본",
+    "publication_date": "1977-10-28 (발표), 간행일 미확인, 2010-07-26 공개 승인",
+    "source_type": "retrospective participant account: 전후 당사자 회고",
+    "document_or_accession_number": "NSA DOCID 3726627, FOIA Case 62049",
+    "locator": "합본 머리말 및 Knowles 발표 인쇄 14–15쪽",
+    "url": "https://www.nsa.gov/Portals/70/documents/news-features/declassified-documents/cryptologic-spectrum/Ultra.pdf",
+    "accessed_at": "2026-11-09T10:58:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "에니그마 통신문 해독과 별도로 부호화 해도가 위치 해석에 필요했다는 설명, U-505에서 새 해도를 확보했다는 회고"
+    ],
+    "limitations": [
+      "전후 회고이며 작전별 효과의 정량 자료가 아님",
+      "암호기 인수 목록 및 일련번호 미제시"
+    ],
+    "rights": "원 자료 및 디지털 게시의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Knowles 미 해군 전투정보 부문 회고; Pillsbury 보고서와 서술자·시기 상이"
   }
 ]
