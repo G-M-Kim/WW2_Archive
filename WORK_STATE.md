@@ -1,11 +1,13 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-10-13
-FORWARD_INSPECTED_THROUGH: 1941-10-12
-CURRENT_FORWARD_BATCH: 1941-10-13..1941-10-15
+FORWARD_CURSOR: 1941-10-16
+FORWARD_INSPECTED_THROUGH: 1941-10-15
+CURRENT_FORWARD_BATCH: 1941-10-16..1941-10-18
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-09
 
 ## 최신 실행 — 2026-11-09
+- 1941-10-13..15 forward: FRUS IV d376/d377/d378 원문 확인; 10/13·타전역 backfill. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-oct13-15-batch1.md). 다음 1941-10-16.
+
 - 1941-10-10..12 forward: FRUS 당대 문서 6건 및 소련 전투일지 보관서지 1건 선별 확인. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-oct10-12-batch1.md). 동부전선·인도차이나·태국·민간인 등은 backfill. 다음 1941-10-13.
 
 - 1941-10-07..09 forward: FRUS 미국·일본·동인도·터키·중국 관련 당대 사료 7건 선별 대조. 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-oct07-09-batch1.md). 10/9 및 타전역은 RQ-0007/RQ-0003 backfill. 다음 1941-10-10.
@@ -44,6 +46,8 @@ AS_OF: 2026-11-09
 - **운영 절차:** [research/RESEARCH_PROTOCOL.md](research/RESEARCH_PROTOCOL.md). 과거 상태 로그는 [보존본](research/WORK_STATE_HISTORY_2026-11-07.md)에만 있다. 과거의 FORWARD_CURSOR·다음 날짜는 사용하지 않는다.
 
 ## BACKFILL_QUEUE (진행을 차단하지 않음)
+- 1941-10-13~15: 10/13 사이공 전보 원문, 일본측 10/14 기록, 10/15 외교지침 집행, 동부전선·중국·아프리카·점령지 민간인 원자료 미확인. [감사](source-audit-1941-oct13-15-batch1.md), RQ-0007/RQ-0003.
+
 - 1941-09-22~24: 9/24 독립 사건·동부전선/중국/아프리카/민간인 원자료, 대일 금수 실제 수출량, 터키 크롬 갱신·선적, 일본 중국 주둔안 중국 측 반응, 비시 독일압력 주장 독립 검증 미완료. [감사](source-audit-1941-sep22-24-batch1.md), RQ-0007/RQ-0003.
 
 - 1941-09-19~21: 이란 승인 원본·수리남 미군 실배치·터키 원조 실제 인도·파라과이 서명본·일본 궁중회의 원문·9/21 독립 사건 및 중국/동부전선/아프리카/민간인 원자료 미확인. [감사](source-audit-1941-sep19-21-batch1.md), RQ-0007/RQ-1227.
