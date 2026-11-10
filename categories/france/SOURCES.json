@@ -1012,5 +1012,165 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "톰에이 형식별 편찬"
+  },
+  {
+    "id": "CAT-FR-SRC-0051",
+    "title": "The Second World War 1939–1945: Royal Air Force Signals, Volume IV, Radar in Raid Reporting",
+    "institution_or_author": "Air Ministry, Air Historical Branch",
+    "publication_date": "1950",
+    "source_type": "secondary: 작전 문서를 인용한 영국 공군 공식 전사",
+    "document_or_accession_number": "제4권, Air Ministry File S.2538 Encl. 6A 인용",
+    "locator": "제7장 91쪽과 주 1",
+    "url": "https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/second-world-war-thematic-studies/signals-vol-iv-radar-in-raid-reporting-chapters1-17/",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스 감시초소망과 DEM의 보조 관계, 간섭 탐지 원리 및 영국 측 성능 평가."
+    ],
+    "limitations": [
+      "영국 쪽 편찬이며 원 인클로저와 프랑스 시험기록은 미열람. 특정 E-62 조건을 밝히지 않는다."
+    ],
+    "rights": "RAF 공개 스캔. 원문 링크와 자체 요약만 사용.",
+    "independence_group": "영국 공군 공식 전사"
+  },
+  {
+    "id": "CAT-FR-SRC-0052",
+    "title": "Électronique et Armement",
+    "institution_or_author": "Revue historique des Armées / Persée",
+    "publication_date": "1964",
+    "source_type": "secondary: 군사사 학술지 논문",
+    "document_or_accession_number": "20권 2호, DOI 10.3406/rharm.1964.9565",
+    "locator": "184쪽, Des transmissions à l’électronique",
+    "url": "https://www.persee.fr/doc/rharm_0035-3299_1964_num_20_2_9565?pageId=T1_184",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1934년 다비드의 르부르제 시험, 1940년 6월 해안 탐지 사례."
+    ],
+    "limitations": [
+      "60–125 km는 세 지역을 함께 제시한 범위다. 개별 교전의 관측 원표는 제시되지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "프랑스 군사사 학술지"
+  },
+  {
+    "id": "CAT-FR-SRC-0053",
+    "title": "A French pre-WW II attempt at Air-Warning Radar: Pierre David's Electromagnetic Barrier",
+    "institution_or_author": "Yves Blanchard / The Radio Science Bulletin",
+    "publication_date": "2016-09",
+    "source_type": "secondary: 프랑스 기술·부대 기록을 인용한 연구 논문",
+    "document_or_accession_number": "The Radio Science Bulletin n° 358",
+    "locator": "27–31쪽, §6.1 및 그림 11·13, 주 18·26–31",
+    "url": "https://www.researchgate.net/publication/335202734_A_French_pre-WW_II_attempt_at_Air-Warning_Radar_Pierre_David%27s_Electromagnetic_Barrier",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동부 계획·발주와 배치 불확실성, 남부 E-62/R-62 경보선, 브레스트 가동/건설 구분과 포르크로 LMT 펄스 장비."
+    ],
+    "limitations": [
+      "연구 논문 본문을 열람했다. 인용된 프랑스 배치표·교전일지와 이탈리아 작전 원자료는 확보하지 않았다."
+    ],
+    "rights": "저널 및 도판 권리자의 권리 표기를 따른다. 자체 요약과 링크만 사용.",
+    "independence_group": "블랑샤르 기술사 연구"
+  },
+  {
+    "id": "CAT-FR-SRC-0054",
+    "title": "Émetteur-récepteur valise anglais type B 2 (3 MK II), n° de série : 44072",
+    "institution_or_author": "Musée de l’Ordre de la Libération",
+    "publication_date": null,
+    "source_type": "primary_object_catalog: 당대 유물의 후대 소장 설명",
+    "document_or_accession_number": "N2574, 일련번호 44072",
+    "locator": "Mesures 및 Informations complémentaires",
+    "url": "https://www.ordredelaliberation.fr/fr/collection/6320863e06bf26bb27b723d7",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "닫은 가방의 치수·전체 질량, 구성과 시트로넬 임무의 브로 사용 이력."
+    ],
+    "limitations": [
+      "개별 유물 설명이며 보급 원장과 당시 송신 기록은 첨부되지 않았다."
+    ],
+    "rights": "박물관 및 이미지 권리자 표기를 따른다. 링크와 자체 요약만 사용.",
+    "independence_group": "프랑스 해방훈장박물관"
+  },
+  {
+    "id": "CAT-FR-SRC-0055",
+    "title": "Radio Transceiver - SOE Suitcase, B2 Type 3, Mk II, Stonebridge Park, England, circa 1943",
+    "institution_or_author": "Museums Victoria",
+    "publication_date": null,
+    "source_type": "primary_object_catalog: 별도 당대 장비의 후대 소장 설명",
+    "document_or_accession_number": "ST 30097, 세트 44183으로 기재",
+    "locator": "Summary, Physical Description, Inscriptions",
+    "url": "https://collections.museumsvictoria.com.au/items/412143",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "송수신 모듈, 전원부 표기, 암호화된 메시지의 전송 용도와 설계상 최대 거리 설명."
+    ],
+    "limitations": [
+      "44072와 다른 소장품이며 일부 부품은 원품이 아니다. 최대 거리의 시험 조건과 시트로넬 실적은 제시되지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "빅토리아박물관 B2 장비·지침"
+  },
+  {
+    "id": "CAT-FR-SRC-0056",
+    "title": "Collection de messages envoyés et reçus par le BCRA, 1942–1944",
+    "institution_or_author": "Jérôme Blondet / Service historique de la Défense",
+    "publication_date": "2014",
+    "source_type": "archive_catalog: 전보철 상세 목록",
+    "document_or_accession_number": "SHDGR_INV_28P5_BCRA_COLLECTION_MESSAGES, GR 28 P 5 27",
+    "locator": "표지, 3쪽 및 7쪽, Région C",
+    "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/137.pdf",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "시트로넬 및 Prisme 등의 1944년 전보철 존재와 청구기호."
+    ],
+    "limitations": [
+      "전보철 목록만 열람했다. 개별 전보의 본문과 무전기 번호를 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "프랑스 국방역사기록원 BCRA 장부"
+  },
+  {
+    "id": "CAT-FR-SRC-0057",
+    "title": "Insigne du maquis des Ardennes",
+    "institution_or_author": "Philippe Lecler / Musée de la Résistance en ligne",
+    "publication_date": null,
+    "source_type": "secondary: 레지스탕스 재단의 소장품·임무 해설",
+    "document_or_accession_number": "온라인 항목 3017",
+    "locator": "Contexte historique",
+    "url": "https://museedelaresistanceenligne.org/media3017-Insigne-du-maquis-des-Ardennes",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "시트로넬의 무전 담당자 브로, 런던과 연결된 임무의 무선 연락."
+    ],
+    "limitations": [
+      "해설과 참고문헌을 열람했다. 44072호 일련번호나 실제 송수신량을 검증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "필리프 르클레르 아르덴 해설"
+  },
+  {
+    "id": "CAT-FR-SRC-0058",
+    "title": "Portable Transmitting and Receiving Equipment Type 3 Mk.II, Description and Operating Instructions",
+    "institution_or_author": "Special Operations Executive / Museums Victoria",
+    "publication_date": "약 1943년(소장처 추정)",
+    "source_type": "archive_catalog: 당대 운용지침의 소장 목록과 일부 이미지",
+    "document_or_accession_number": "TL 34729, 세트 44183용",
+    "locator": "Title 및 More Information, 공개 발췌 이미지",
+    "url": "https://collections.museumsvictoria.com.au/items/1410726",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "SOE 지침의 세트 번호, 제작기관, 목차 및 소장 범위."
+    ],
+    "limitations": [
+      "38쪽 전부를 열람하지 않았다. ST 30097과 같은 유물군이므로 독립 교차 근거로 중복 계산하지 않는다."
+    ],
+    "rights": "소장처 발췌 이미지에 All Rights Reserved 표기. 링크만 사용.",
+    "independence_group": "빅토리아박물관 B2 장비·지침"
   }
 ]
