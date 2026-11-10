@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 18,
-  "CAT_VISITED_COUNT": 17,
-  "CAT_LAST_JOB_ID": "CAT-DE-17",
+  "CAT_NEXT_STEP": 19,
+  "CAT_VISITED_COUNT": 18,
+  "CAT_LAST_JOB_ID": "CAT-DE-18",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-10T08:57:51+09:00",
-  "note": "독일 17 루르·라우타베르크 종전 피해·실가동·철거 부분 조사 저장. 첫 방문 17/133, 다음 CAT-DE-18."
+  "updated_at": "2026-11-10T10:58:54+09:00",
+  "note": "독일 18 개전 공군기지 대표 세 곳 부분 조사 저장. 첫 방문 18/133, 다음 CAT-DE-19."
 }

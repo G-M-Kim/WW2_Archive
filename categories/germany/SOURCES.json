@@ -2710,5 +2710,206 @@
     ],
     "rights": "University of Kansas 공개 학위논문. 자체 요약과 링크만 사용.",
     "independence_group": "Arnold의 연합국 1945-07-12 석탄 보고 인용"
+  },
+  {
+    "id": "CAT-DE-SRC-0131",
+    "title": "Flugplätze und Fliegerhorste der deutschen Luftwaffe und deren übergeordnete Organisation im Zweiten Weltkrieg",
+    "institution_or_author": "Bundesarchiv",
+    "publication_date": null,
+    "source_type": "secondary: 연방기록원 연구 안내",
+    "document_or_accession_number": "RL 21 등 기록군",
+    "locator": "Ebene 1: Flugplatz, Quellen im Bundesarchiv",
+    "url": "https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/flugplaetze-und-fliegerhorste-der-deutschen-luftwaffe-und-deren-uebergeordnete-organisation-im-zweiten-weltkrieg/",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "상설 기지·동원기지·수상기·보조기지의 구분과 기록군 탐색 경로."
+    ],
+    "limitations": [
+      "조직 분류의 해설이며 개별 기지 1939년 수용량 원장이 아니다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "독일 연방기록원 공군 지상조직 안내"
+  },
+  {
+    "id": "CAT-DE-SRC-0132",
+    "title": "Erprobungsstelle der deutschen Luftwaffe",
+    "institution_or_author": "Luftfahrttechnisches Museum Rechlin e.V.; 본문 말미 Christoph Regel(1998) 표시",
+    "publication_date": null,
+    "source_type": "secondary: 항공기술박물관 시설 연혁",
+    "document_or_accession_number": null,
+    "locator": "1933–1945, Gruppe Nord·Süd, Flugplatz Lärz, Rollfeld Roggentin",
+    "url": "https://www.luftfahrttechnisches-museum-rechlin.de/ausstellungen/erprobungsstelle-der-deutschen-luftwaffe.html",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "네 시설군의 배치, 1936년까지의 남쪽 시험 설비, 지하 연료 저장량의 시점 차이, 라르츠 착공·로겐틴 보조 비행장."
+    ],
+    "limitations": [
+      "남쪽 저장량 관측일 미기재. 1943년 저장량과 당일 개전 수치는 별개. 개별 도면·시운전 원장 미확보."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "레힐린 항공기술박물관 시설사"
+  },
+  {
+    "id": "CAT-DE-SRC-0133",
+    "title": "Flugerprobungen in Rechlin",
+    "institution_or_author": "Luftfahrttechnisches Museum Rechlin e.V.",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 시험활동 연혁",
+    "document_or_accession_number": null,
+    "locator": "1935년 Flugzeugbestand·Starts 문단",
+    "url": "https://www.luftfahrttechnisches-museum-rechlin.de/archiv/details-zu/flugerprobungen-in-rechlin.html",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1935년 시험기관 보유 기체와 시험활동 집계."
+    ],
+    "limitations": [
+      "1939년 배치나 비행장 수용 한도가 아니며 집계 원장 미확보."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "레힐린 항공기술박물관 시험활동사"
+  },
+  {
+    "id": "CAT-DE-SRC-0134",
+    "title": "Royal Air Force Gatow (RAF Gatow)",
+    "institution_or_author": "Landesdenkmalamt Berlin",
+    "publication_date": null,
+    "source_type": "secondary: 문화재청 시설 연혁",
+    "document_or_accession_number": null,
+    "locator": "Bauzeit / Geschichte, 독일 공군·소련군·RAF 인수와 Rollbahn 문단",
+    "url": "https://www.berlin.de/landesdenkmalamt/denkmale/highlight-denkmale-der-alliierten/grossbritannien/spandau/royal-air-force-gatow-raf-gatow-648000.php",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "리터펠트 내 기지 건설 목적, 독일군 철수·점령과 영국 인수, 인수 당시 잔디면 및 1945·1947년 활주로 증설."
+    ],
+    "limitations": [
+      "1945년 잔디면에서 1939년의 길이·수용량을 확정할 수 없다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "베를린 문화재청 가토 문화유산 조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0135",
+    "title": "Der Flugplatz Berlin-Gatow: Das Militärhistorische Museum ehem. Luftwaffenmuseum",
+    "institution_or_author": "Norbert Dachroth / Baukammer Berlin, konstruktiv",
+    "publication_date": "2019, 3호",
+    "source_type": "secondary: 공병·건축사 해설과 후대 배치 복원",
+    "document_or_accession_number": "konstruktiv 3/2019",
+    "locator": "인쇄 66쪽 격납고, 68쪽 배치도·개교, 69쪽 기술구역",
+    "url": "https://www.baukammerberlin.de/wp-content/uploads/2024/08/2019-03_BK-konstruktiv.pdf",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "가토의 격납고 9동 서술, 교육 개시와 1937년 명칭, 북서쪽 기술구역과 남동쪽 아카데미 구분."
+    ],
+    "limitations": [
+      "배치도는 약 1940년 상태의 Elke Dittrich 복원. 격납고별 준공일·개전 정원 미제시. MHM 제공 자료를 일부 이용."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Dachroth 공병 해설·MHM 자료"
+  },
+  {
+    "id": "CAT-DE-SRC-0136",
+    "title": "Werneuchen, Schlüsselübergabe an Theo Osterkamp",
+    "institution_or_author": "원 표제 Nau / Bundesarchiv, Bild 183",
+    "publication_date": "1937-11-27",
+    "source_type": "primary: 당대 사진과 원 표제",
+    "document_or_accession_number": "BArch Bild 183-C16644",
+    "locator": "1937년 11월 27일 촬영 이미지 및 사진 원 표제",
+    "url": "https://www.bild.bundesarchiv.de/dba/de/search/?query=124745822",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "병영 입구 열쇠 인계 장면. 연방기록원 목록과 동일 소장번호의 기록원 배포 디지털 사진을 대조."
+    ],
+    "limitations": [
+      "공식 이미지 서버 점검으로 배포 복제본에서 원 촬영물을 확인. 의식 사진은 활주로·격납고 배치를 보여주지 않는다."
+    ],
+    "rights": "연방기록원 배포 복제본 CC BY-SA 3.0 DE 표기. 이미지 복제 없이 설명·링크만 사용.",
+    "independence_group": "BArch Bild 183-C16644",
+    "alternate_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-C16644,_Werneuchen,_Schl%C3%BCssel%C3%BCbergabe_Theo_Osterkamp.jpg"
+  },
+  {
+    "id": "CAT-DE-SRC-0137",
+    "title": "Denkmalliste des Landes Brandenburg: Landkreis Barnim",
+    "institution_or_author": "Brandenburgisches Landesamt für Denkmalpflege und Archäologisches Landesmuseum",
+    "publication_date": "2026-01-01 (목록 기준)",
+    "source_type": "secondary: 주 문화재 현황 목록",
+    "document_or_accession_number": "MIDAS 09175483",
+    "locator": "40쪽, Werneuchen Jagdfliegerschule 행",
+    "url": "https://bldam-brandenburg.de/wp-content/uploads/2026/03/05_BAR_Internet-25.pdf",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "문화재 건물군 주소·항공기 격납고 7동과 관제탑."
+    ],
+    "limitations": [
+      "현대 보호 대상 목록. 기준일 전체 격납고나 정원·수용 대수와 동일시할 수 없다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "브란덴부르크 주 문화재 목록"
+  },
+  {
+    "id": "CAT-DE-SRC-0138",
+    "title": "Jagdfliegerschule Werneuchen / Jagdfliegerschule 1",
+    "institution_or_author": "Lexikon der Wehrmacht",
+    "publication_date": null,
+    "source_type": "secondary: 후대 편제 웹 편찬",
+    "document_or_accession_number": null,
+    "locator": "첫 문단 및 Staffel 주둔 표",
+    "url": "https://www.lexikon-der-wehrmacht.de/Gliederungen/Jagdfliegerschulen/JFS1-R.htm",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "편찬물의 1939년 9월 1일 슈트라우스베르크 전개 명령 서술."
+    ],
+    "limitations": [
+      "해당 명령서 원문과 비행일지 미확보. 역사적 실제 이동의 독립 확증으로 집계하지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Lexikon der Wehrmacht 편제 편찬"
+  },
+  {
+    "id": "CAT-DE-SRC-0139",
+    "title": "Entwicklung und Erprobung von Waffen und Munition: SC 10 mit Bremsflügel, Schlußbericht, Erprobungs-Nr. 52377",
+    "institution_or_author": "Bundesarchiv / Deutsche Digitale Bibliothek, 문서 담당 Dr. Petter",
+    "publication_date": "1938-12-20 (기록 작성일)",
+    "source_type": "secondary: 1차 시험보고의 기록관 목록",
+    "document_or_accession_number": "BArch RL 36/168, 구 RLM 1267/23",
+    "locator": "Archivaliensignatur, Kontext, Laufzeit",
+    "url": "https://www.deutsche-digitale-bibliothek.de/item/PMHYF3PQSIM6TXY3BAFJYXSUP4DTTR7A",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "레힐린 시험기관 산하 항공무장 시험 보고의 계층·날짜·기록번호."
+    ],
+    "limitations": [
+      "목록 열람. Invenio의 본문 접근이 시간 초과되어 시험 결과나 시설 수치를 확인하지 못함."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "BArch RL 36/168 목록"
+  },
+  {
+    "id": "CAT-DE-SRC-0140",
+    "title": "Bestandsaufnahme von Rüstungsaltlastverdachtsstandorten in der Bundesrepublik Deutschland, Band 5: Findmittelverzeichnis Bundesarchive",
+    "institution_or_author": "Jürgen Thieme / Umweltbundesamt",
+    "publication_date": "1996-04",
+    "source_type": "secondary: 연방기록 보존자료 탐색 목록",
+    "document_or_accession_number": "TEXTE 29/96; UBA-FB 96-030/5",
+    "locator": "135쪽, RL 36/42",
+    "url": "https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/texte_1996_29_bestandsaufnahme_von_ruestungsaltlastverdachtsstandorten_band_5_findmittelverzeichnis_bundesarchive.pdf",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944-06-13 레힐린 시찰 관련 항공사진·배치도·축척 1:25,000 지도 목록."
+    ],
+    "limitations": [
+      "배치도 원면은 미확보. 1944년 기록이므로 개전 상태를 독립 입증하지 않는다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "독일 환경청 기록 탐색 목록"
   }
 ]
