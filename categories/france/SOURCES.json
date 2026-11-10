@@ -484,5 +484,105 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "tritten-french-doctrine"
+  },
+  {
+    "id": "CAT-FR-SRC-0025",
+    "title": "Un débat méconnu : l’organisation de l’armée de l’Air sur le front du Nord-Est en 1939–1940",
+    "institution_or_author": "Patrick Facon / Revue historique des Armées",
+    "publication_date": "2001",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 91–100쪽, 1936·1938년 체제와 전방·후방 지휘",
+    "url": "https://www.persee.fr/doc/rharm_0035-3299_2001_num_223_2_5193?pageId=T1_92",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동원·편제 개편의 이행, 뷔유맹의 작전 권한과 후방 참모부의 분리."
+    ],
+    "limitations": [
+      "북동부 전선과 1940년 전후 지휘 논쟁을 다룬다. 다른 전구에 일률 적용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "facon-air-command"
+  },
+  {
+    "id": "CAT-FR-SRC-0026",
+    "title": "Le bombardement français sur la Meuse, le 14 mai 1940",
+    "institution_or_author": "Philippe de Laubier / Revue historique des Armées",
+    "publication_date": "1985",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 96–109쪽, 세당과 뫼즈 도하점 폭격 명령 및 실행",
+    "url": "https://www.persee.fr/doc/rharm_0035-3299_1985_num_160_3_7443?pageId=T1_98",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "육군의 요청, 프랑스 폭격부대의 집결·표적 변경·도하 차단 시도."
+    ],
+    "limitations": [
+      "전투 사례 연구다. 양측 보고의 출격·명중·손실 수치를 새로 합산하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "laubier-meuse"
+  },
+  {
+    "id": "CAT-FR-SRC-0027",
+    "title": "L’Armée de l’Air française face aux armistices de juin 1940",
+    "institution_or_author": "Patrick Facon / Airpower in 20th Century, 이탈리아 국방부 공개 논집",
+    "publication_date": "2011",
+    "source_type": "secondary",
+    "document_or_accession_number": "N. 89, Roma 2011",
+    "locator": "인쇄 79쪽 이하, 1940년 6월 휴전 전후 부대·예비 기체",
+    "url": "https://www.difesa.it/assets/allegati/44064/airpower_in_20th_century_nov11.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "휴전 전후 기체와 부대의 장부 규모, 전방·비전방·북아프리카 위치가 다른 문제."
+    ],
+    "limitations": [
+      "논집에 수록된 본문이다. 장부 수량을 같은 날 출격할 수 있는 전력으로 해석하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "facon-armistice-air"
+  },
+  {
+    "id": "CAT-FR-SRC-0028",
+    "title": "Refaire l’Armée française (1943–1945) : des deux rives de la Méditerranée à l’Allemagne",
+    "institution_or_author": "Tristan Lecoq / Chemins de mémoire",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "L’Armée de l’air, 영국 훈련, 미제 재무장과 연합군 작전 통제",
+    "url": "https://www.cheminsdememoire.gouv.fr/sites/default/files/2023-05/Refaire_lArmee_francaise_2023.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "자유프랑스 항공부대와 북아프리카 부대의 재무장, 연합 편입과 프랑스 제1군 항공지원."
+    ],
+    "limitations": [
+      "재편 개관이다. 전대별 훈련 일정·장비 보유·출격은 별도 확인이 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "chemins-refaire-armee"
+  },
+  {
+    "id": "CAT-FR-SRC-0029",
+    "title": "Histoire de l’armée de l’Air et de l’Espace",
+    "institution_or_author": "프랑스 항공우주군",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1934년 항목, 1933년 독립 허용 법령과 1934년 조직법",
+    "url": "https://boutique.airespace.defense.gouv.fr/content/10-histoire-armee-air-espace",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스 공군의 독립 조직 허용과 법제화가 두 시점으로 나뉨."
+    ],
+    "limitations": [
+      "공군 공식 연혁이다. 법령·법률 원문의 세부 조문은 대조하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "fr-aae-chronology"
   }
 ]

@@ -198,5 +198,85 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "nko-0109-bums37"
+  },
+  {
+    "id": "CAT-SU-SRC-0011",
+    "title": "Приказ о сформировании 1-й воздушной армии",
+    "institution_or_author": "소련 국방인민위원부 / 러시아 역사문서 전자도서관",
+    "publication_date": "1942-05-06",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "ф. 4, оп. 11, д. 67, л. 244–246",
+    "locator": "제1항공군 편성 명령의 표제·날짜·기록 기호",
+    "url": "https://docs.historyrussia.org/ru/nodes/187364-prikaz-o-sformirovanii-1-y-vozdushnoy-armii-6-maya-1942-g",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 5월 제1항공군 편성 명령의 존재와 원본 위치."
+    ],
+    "limitations": [
+      "목록으로 확인했다. 원면의 상세 편제와 조문은 이 항목으로 검증하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nko-1st-air-army"
+  },
+  {
+    "id": "CAT-SU-SRC-0012",
+    "title": "Командование и штаб ВВС Советской Армии в Великой Отечественной войне 1941–1945 гг.",
+    "institution_or_author": "М. Н. Кожевников / Воениздат, Militera 전사",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제3장, 항공군과 최고사령부 예비군단, 무선과 전선군 협동",
+    "url": "https://militera.lib.ru/h/kozhevnikov_mn/03.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "항공군과 항공 예비의 집중, 전선 간 전용과 1942년 지상군 협동·무선 지시."
+    ],
+    "limitations": [
+      "소련의 전후 연구다. 성과 평가는 독일 원장과 독립 대조해야 한다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "kozhevnikov-vvs"
+  },
+  {
+    "id": "CAT-SU-SRC-0013",
+    "title": "A Comparative Look at Air-Ground Support Doctrine and Practice in World War II",
+    "institution_or_author": "Kenneth A. Steadman / U.S. Army Combat Studies Institute",
+    "publication_date": "1982-09-01",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The Soviet Air-Ground System in WW II, 전전 규정과 1943~1945년 연락·유도",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D110-PURL-LPS71516/pdf/GOVPUB-D110-PURL-LPS71516.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전전 지상군 협동 구상, 1941년 실행 격차, 무선 유도와 표적 표시."
+    ],
+    "limitations": [
+      "비교 연구다. 1939·1940년 러시아어 교범 원면은 별도 대조가 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "steadman-air-ground"
+  },
+  {
+    "id": "CAT-SU-SRC-0014",
+    "title": "Case Studies in the Achievement of Air Superiority",
+    "institution_or_author": "Benjamin Franklin Cooling 편 / Center for Air Force History",
+    "publication_date": "1994",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "동부전선의 제공권 장, 스탈린그라드·쿠반·쿠르스크·벨라루스 공세",
+    "url": "https://media.defense.gov/2010/Oct/12/2001330116/-1/-1/0/AFD-101012-038.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "노비코프의 복수 항공군 조정, 전투기 전술 개선과 후기 공세 항공력 집중."
+    ],
+    "limitations": [
+      "사례 연구가 양측의 상이한 집계를 소개한다. 격추·출격 숫자는 채택하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "cooling-air-superiority"
   }
 ]

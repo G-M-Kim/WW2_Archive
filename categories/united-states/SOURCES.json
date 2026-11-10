@@ -198,5 +198,125 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "ussbs-pacific-summary"
+  },
+  {
+    "id": "CAT-US-SRC-0011",
+    "title": "FM 100-20: Command and Employment of Air Power",
+    "institution_or_author": "U.S. War Department",
+    "publication_date": "1943-07-21",
+    "source_type": "primary",
+    "document_or_accession_number": "FM 100-20",
+    "locator": "제1절 기본 원칙 및 전술항공의 우선순위 단락",
+    "url": "https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2006/December%202006/1206keeperfull.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전구 항공력의 집중 통제와 제공권·차단·직접지원 순서."
+    ],
+    "limitations": [
+      "교범 공개 복제본이다. 모든 전장 지휘 관계가 규정대로 작동했다고 추정하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "us-fm100-20"
+  },
+  {
+    "id": "CAT-US-SRC-0012",
+    "title": "Plan for Combined Bomber Offensive From the United Kingdom",
+    "institution_or_author": "U.S. Joint Chiefs of Staff / Foreign Relations of the United States",
+    "publication_date": "1943-05-14",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1943, Washington and Quebec, Doc. 92",
+    "locator": "문서 본문과 표적·전력 계획",
+    "url": "https://history.state.gov/historicaldocuments/frus1943/d92",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 기반 연합 폭격 공세, 독일 항공 전력과 전쟁 수행 기반의 표적화."
+    ],
+    "limitations": [
+      "당대 계획이다. 계획의 예정 성과와 실제 피해를 구분했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "frus-combined-bomber-offensive"
+  },
+  {
+    "id": "CAT-US-SRC-0013",
+    "title": "The Army Air Forces in World War II, Vol. III",
+    "institution_or_author": "Wesley F. Craven · James L. Cate 편 / 미 육군항공군 공식 전사",
+    "publication_date": "1951",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제2장, 1944년 2월 ARGUMENT와 항공기 공장 공격",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/III/AAF-III-2.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 전투기 산업에 대한 연속 공습, 영미 협동, 피해와 산업 분산."
+    ],
+    "limitations": [
+      "공식 전사다. 공장 피해와 독일 전투기 생산 추세를 같은 지표로 취급하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "craven-cate-aaf-iii"
+  },
+  {
+    "id": "CAT-US-SRC-0014",
+    "title": "Air Superiority in World War II and Korea",
+    "institution_or_author": "Office of Air Force History",
+    "publication_date": "1983",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "유럽 전역의 슈바인푸르트와 장거리 호위 단락",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48300/pdf/GOVPUB-D301-PURL-LPS48300.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 호위 범위 밖 폭격 손실과 장거리 호위 전투기의 중요성."
+    ],
+    "limitations": [
+      "회고·전사 성격이 섞인 편찬물이다. 개별 전투의 손실은 수치화하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "usaf-air-superiority"
+  },
+  {
+    "id": "CAT-US-SRC-0015",
+    "title": "Introduction to the United States Air Force — Bombing Tokyo (9–10 March 1945)",
+    "institution_or_author": "B. Chance Saltzman · Thomas R. Searle / Air University Press",
+    "publication_date": "2001",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "도쿄 공습 사례, 저고도 야간 소이탄 운용",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS20457/pdf/GOVPUB-D301-PURL-LPS20457.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "마리아나 기반 B-29의 전술 변경과 도쿄 도시지역 피해."
+    ],
+    "limitations": [
+      "사례 연구다. 사망자 추정치와 일본 항복에 대한 단독 인과를 채택하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "au-bombing-tokyo"
+  },
+  {
+    "id": "CAT-US-SRC-0016",
+    "title": "The Strategic Air War Against Germany and Japan: A Memoir",
+    "institution_or_author": "Haywood S. Hansell, Jr. / Office of Air Force History",
+    "publication_date": "1986",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "제2장, Planned Air Offensive Against Germany (AWPD-1)",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/Hansell/Hansell-2.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "계획 작성 참여자의 회고에 나타난 전력 산정, 선별 산업 표적 및 침공 지원 구상."
+    ],
+    "limitations": [
+      "전후 작성자의 회고다. 1941년 계획서 원면과 저자의 해석을 구별했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "hansell-awpd-1"
   }
 ]

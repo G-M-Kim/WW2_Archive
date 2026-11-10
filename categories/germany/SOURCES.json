@@ -3431,5 +3431,125 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "rcn-battle-atlantic"
+  },
+  {
+    "id": "CAT-DE-SRC-0169",
+    "title": "From Biplanes to Blitzkreig: The Development of German Air Doctrine Between the Wars",
+    "institution_or_author": "James S. Corum / War in History",
+    "publication_date": "1996",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "권 3 호 1, 공개 초록",
+    "url": "https://journals.sagepub.com/doi/10.1177/096834459600300104",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일군이 개전 전 개발한 작전 항공 교리와 다양한 임무."
+    ],
+    "limitations": [
+      "출판사 초록만 확인했다. 교범의 조문을 이 논문 초록에서 복원하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "corum-german-air-doctrine"
+  },
+  {
+    "id": "CAT-DE-SRC-0170",
+    "title": "Centre of Gravity Analysis of Planning and Prosecution of the Battle of Britain?",
+    "institution_or_author": "David Bond / Royal Air Force, Air and Space Power Review",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Vol. 24, No. 2",
+    "locator": "Luftwaffe Regulation 16, Wever 및 1940년 작전목표 단락",
+    "url": "https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/aspr-vol24-iss2-7-pdf/",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전전 교범과 장거리 폭격 구상, 1940년의 목표와 수단 불일치."
+    ],
+    "limitations": [
+      "영국의 후대 사례 연구다. L.Dv. 16 독일어 원면은 직접 대조하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "raf-aspr-bob-strategy"
+  },
+  {
+    "id": "CAT-DE-SRC-0171",
+    "title": "The Army Air Forces in World War II, Vol. I",
+    "institution_or_author": "Wesley F. Craven · James L. Cate 편 / 미 육군항공군 공식 전사",
+    "publication_date": "1948",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제3장 The European War, 소련 공세와 모스크바 방면 단락",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/I/AAF-I-3.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "바르바로사에서의 독일 항공 전력 집중과 장기화에 따른 손실."
+    ],
+    "limitations": [
+      "미국 공식 전사다. 독일과 소련의 기체 손실 집계는 따로 비교해야 한다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "craven-cate-aaf-i"
+  },
+  {
+    "id": "CAT-DE-SRC-0172",
+    "title": "A fight for the skies: The Battle of Britain",
+    "institution_or_author": "영국 국방부 / GOV.UK",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "독일의 비행장 공격과 런던 폭격, 전투의 결과 단락",
+    "url": "https://www.gov.uk/government/news/a-fight-for-the-skies-the-battle-of-britain",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일의 RAF 비행장 공격과 런던을 향한 공격의 전개, 제공권 미확보."
+    ],
+    "limitations": [
+      "영국의 기념 해설이다. 표적 변화만으로 패배 원인을 설명하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "uk-mod-battle-of-britain"
+  },
+  {
+    "id": "CAT-DE-SRC-0173",
+    "title": "Case Studies in the Achievement of Air Superiority",
+    "institution_or_author": "Benjamin Franklin Cooling 편 / Center for Air Force History",
+    "publication_date": "1994",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "동부전선의 제공권 장과 독일 본토 방공 사례",
+    "url": "https://media.defense.gov/2010/Oct/12/2001330116/-1/-1/0/AFD-101012-038.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동부전선 공군의 초기 우위와 소모, 독일 본토 방공 전투의 전개."
+    ],
+    "limitations": [
+      "여러 저자의 사례 연구다. 동·서부의 손실 집계와 시기를 혼합하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "cooling-air-superiority"
+  },
+  {
+    "id": "CAT-DE-SRC-0174",
+    "title": "A Comparative Look at Air-Ground Support Doctrine and Practice in World War II",
+    "institution_or_author": "Kenneth A. Steadman / U.S. Army Combat Studies Institute",
+    "publication_date": "1982-09-01",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The German Air-Ground System in WW II, 1940년 프랑스와 공군 연락대",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D110-PURL-LPS71516/pdf/GOVPUB-D110-PURL-LPS71516.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "주공 방향 항공부대 배정과 전방 공동 계획·연락대 운용."
+    ],
+    "limitations": [
+      "후대 비교 연구다. 전술항공 지원 체계에 초점을 두며 독일 공군 전체의 교범은 별개다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "steadman-air-ground"
   }
 ]

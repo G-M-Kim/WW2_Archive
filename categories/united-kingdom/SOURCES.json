@@ -178,5 +178,85 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "rcn-battle-atlantic"
+  },
+  {
+    "id": "CAT-GB-SRC-0010",
+    "title": "Battle of Britain Despatch",
+    "institution_or_author": "Hugh Dowding / Royal Air Force Air Power Review 재수록",
+    "publication_date": "1941년 보고, 1946년 공개",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "§§54–59 레이더·관측단 및 방공 지휘 설명",
+    "url": "https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/apr-vol18-iss2-4-pdf/",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 전투에서 전투기 통제와 경보망의 역할에 관한 지휘관 보고."
+    ],
+    "limitations": [
+      "전투기사령관의 사후 보고다. RAF의 전과 판정은 독일 원장과 별도 대조가 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "dowding-despatch"
+  },
+  {
+    "id": "CAT-GB-SRC-0011",
+    "title": "The Battle of Britain — The Dowding System",
+    "institution_or_author": "RAF Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The Dowding System 및 Dowding: The Man and the System",
+    "url": "https://www.rafmuseum.org.uk/documents/LargePrintGuides/BoB_Guides/LPG_Battle_of_Britain_Cosford_web.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "레이더·관측단의 탐지, 정보 필터링, 전투기·대공 전력의 통제."
+    ],
+    "limitations": [
+      "박물관 해설이다. 전투일별 통신 지연과 출격률은 제시하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rafm-dowding"
+  },
+  {
+    "id": "CAT-GB-SRC-0012",
+    "title": "Learning How to Fight Together: The British Experience with Joint Air-Land Warfare",
+    "institution_or_author": "David Ian Hall / Air Force Research Institute",
+    "publication_date": "2009-03",
+    "source_type": "secondary",
+    "document_or_accession_number": "Research Paper 2009-2",
+    "locator": "Tedder·Coningham 및 Operation Crusader 단락",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo82468/pdf/GOVPUB-D301-PURL-gpo82468.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북아프리카 중앙집권적 항공지휘, 육군과 참모부 배치, 제공권·차단·직접 지원의 구분."
+    ],
+    "limitations": [
+      "북아프리카의 전시 발전을 분석한 연구다. 모든 RAF 전구에 같은 구조를 적용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "north-africa-air-land"
+  },
+  {
+    "id": "CAT-GB-SRC-0013",
+    "title": "Sir Arthur Harris and Some Myths and Controversies of the Bomber Offensive",
+    "institution_or_author": "Sebastian Cox / RAF Historical Society",
+    "publication_date": "2009년 발표",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1942년 2월 14일 지침과 5월 쾰른 공습 단락",
+    "url": "https://www.rafmuseum.org.uk/documents/Research/RAF-Historical-Society-Journals/Bomber_harris.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "지역폭격 지침의 시점과 사기 표적, 해리스 부임 및 쾰른 공습."
+    ],
+    "limitations": [
+      "공개 논문집의 관련 본문을 확인했다. 민간 피해 수치를 이 자료에서 확정하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rafhs-bomber-harris"
   }
 ]

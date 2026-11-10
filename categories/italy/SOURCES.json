@@ -198,5 +198,105 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "donolo-italian-doctrine"
+  },
+  {
+    "id": "CAT-IT-SRC-0011",
+    "title": "Giulio Douhet and the Doctrine of Air Power in Italy",
+    "institution_or_author": "Basilio Di Martino / Nacelles",
+    "publication_date": "2020-11-01",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Nacelles 9호, 두에·메코치와 1937–1938년 기동훈련 단락",
+    "url": "https://interfas.univ-tlse2.fr/nacelles/?do=_pdfgen_get&document=1038&lang=en",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "두에의 독립 폭격론, 아메데오 메코치의 공격기 운용론, 실제 전력과 운용 구상의 차이."
+    ],
+    "limitations": [
+      "당대 이론을 검토한 후대 연구다. 두에의 저술을 전시 작전명령으로 취급하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "dimartino-douhet"
+  },
+  {
+    "id": "CAT-IT-SRC-0012",
+    "title": "Building an Air Force: The Management and Mismanagement of the Regia Aeronautica, 1923–1940",
+    "institution_or_author": "Jonathan Pieri / University of Pisa repository",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "대학 저장소의 공개 초록",
+    "url": "https://arpi.unipi.it/handle/11568/1301987",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전간기 인력 부족과 1940년 준비에 관한 연구의 결론."
+    ],
+    "limitations": [
+      "공개 초록까지만 대조했다. 항공대별 인력·장비 현황은 별도 검증이 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "pieri-regia-aeronautica"
+  },
+  {
+    "id": "CAT-IT-SRC-0013",
+    "title": "Corpo Aereo Italiano",
+    "institution_or_author": "RAF Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "벨기에 기지, 하리치·딜 출격과 공세 제한",
+    "url": "https://www.rafmuseum.org.uk/our-collection/supporting-research/online-exhibitions/corpo-aero-italiano/",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 항공원정단의 1940년 말 영국 방면 출격과 운용 한계."
+    ],
+    "limitations": [
+      "영국 박물관 해설이다. 양측 전과 주장을 새로 집계하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rafm-cai"
+  },
+  {
+    "id": "CAT-IT-SRC-0014",
+    "title": "Case Studies in the Use of Land-Based Aerial Forces in Maritime Operations, 1939–1990 — The Mediterranean Maritime Air Campaign",
+    "institution_or_author": "William S. Hanable / Air Force History & Museums Program",
+    "publication_date": "1998-09",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1941년 1월 몰타 호송과 5월 크레타 철수 단락",
+    "url": "https://media.defense.gov/2013/Sep/16/2001329865/-1/-1/0/AFD-130916-005.PDF",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 육상기지의 어뢰기 공격, 독일 급강하폭격기와 구분되는 기여."
+    ],
+    "limitations": [
+      "후대의 해상항공 연구다. 연합 공격 전체를 이탈리아 단독 성과로 집계하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "hanable-maritime-air"
+  },
+  {
+    "id": "CAT-IT-SRC-0015",
+    "title": "Historical Timeline: World War II",
+    "institution_or_author": "Aeronautica Militare",
+    "publication_date": "2023-09-07",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1940년 준비와 1943년 휴전 이후 부대 소속 단락",
+    "url": "https://www.aeronautica.difesa.it/2023/09/07/historical-timeline-world-war-ii/",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전쟁 참가 시 가용성 문제와 휴전 뒤 연합군·이탈리아 사회공화국 방면 분열."
+    ],
+    "limitations": [
+      "이탈리아 공군의 기관 연표다. 정확한 가동 대수 산출에는 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ami-wwii-timeline"
   }
 ]
