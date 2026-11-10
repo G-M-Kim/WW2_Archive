@@ -1,0 +1,59 @@
+{
+  "step": 21,
+  "job_id": "CAT-FR-02",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 2,
+  "category": "전차 제외 기갑장비, 무장, 성능",
+  "article_path": "categories/france/02-other-armored-vehicles.md",
+  "status": "partial",
+  "completed_at": "2026-11-10T16:55:57+09:00",
+  "started_at": "2026-11-10T16:50:51+09:00",
+  "base_head": "deeee1ced519676a1ad0492e2be3d3b59fa64f24",
+  "source_ids": [
+    "CAT-FR-SRC-0009",
+    "CAT-FR-SRC-0010",
+    "CAT-FR-SRC-0011",
+    "CAT-FR-SRC-0012",
+    "CAT-FR-SRC-0013",
+    "CAT-FR-SRC-0014"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0005",
+    "CAT-FR-RQ-0006",
+    "CAT-FR-RQ-0007",
+    "CAT-FR-RQ-0008"
+  ],
+  "entity_ids": [
+    "CAT-FR-EQP-0004",
+    "CAT-FR-EQP-0005",
+    "CAT-FR-EQP-0006"
+  ],
+  "research_scope": "판아르 178 기병 정찰장갑차, 르노 UE 보병 보급차, 로렌 37 L 전차 보급차. 무장, 기동, 시제·양산·배치·노획 개조 구분.",
+  "limitations": [
+    "판아르 장갑·최고속도 수치는 자료 간 상충. 1940년 벨기에 사진은 기록관 목록만 확인.",
+    "르노 UE 사진은 발췌본만 확인. 로렌의 시제 속도와 별도로 양산차 성능·부대별 가동 자료 미확보."
+  ],
+  "evidence_checked": [
+    "미 전쟁부 FM 30-42 인쇄 16쪽 스캔 직접 판독 및 인쇄 17쪽 식별도",
+    "Touzin 인쇄 65–67·195–197·205–206쪽 및 바이에른 육군박물관 0812-1984 소장품 설명",
+    "Le Miroir 사진 발췌 이미지 직접 판독 및 Bundesarchiv 101I-383-0301-24A 목록"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9797971b/f2.item",
+      "result": "원면 웹 열람과 IIIF 직접 요청에서 HTTP 403. 별도 공개된 사진 발췌본 이미지를 직접 확인."
+    },
+    {
+      "url": "https://bild.bundesarchiv.de/device_barch/dev1/2024/09-04/b4/34/file7x1cqhw71ae1f3pgexux.jpg",
+      "result": "이미지 대신 점검 페이지 반환. 소장번호·제목·촬영월 메타데이터만 이용."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=21 pending=112; sources=171 questions=83. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

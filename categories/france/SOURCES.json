@@ -166,18 +166,23 @@
     "publication_date": "1979",
     "source_type": "secondary: 군용차량사 연구서의 디지털 본문",
     "document_or_accession_number": "Les chars légers Renault R 35 et R 40",
-    "locator": "인쇄 152–154쪽, 포탑 무장·1935년 주문·1936년 시험 및 증속 장치 실험",
+    "locator": "인쇄 152–154쪽, 포탑 무장·1935년 주문·1936년 시험 및 증속 장치 실험 / CAT-FR-02 추가 대조: 인쇄 65–67쪽(AMD), 195–197쪽(UE), 205–206쪽(Lorraine).",
     "url": "https://djvu.online/file/jjoqDQwILFiHF",
     "accessed_at": "2026-11-10T15:00:47+09:00",
     "access_status": "source_checked",
     "claims_checked": [
-      "37 mm SA 18 modifié 34 및 SA 38 사례, 첫 주문 300대, 첫 양산차 시험 평균 19.471 km/h."
+      "37 mm SA 18 modifié 34 및 SA 38 사례, 첫 주문 300대, 첫 양산차 시험 평균 19.471 km/h.",
+      "AMD Panhard 양산형 포탑 무장과 제원표, UE 기본형과 견인·무장시험 구분, Lorraine 1937년 트레일러 시험 조건과 계약·검수 서술."
     ],
     "limitations": [
-      "후대 연구서 디지털 본문. Vincennes 위원회의 시험 원본 미열람. R35와 R40, 발주·생산·인도를 합산하지 않음."
+      "후대 연구서 디지털 본문. Vincennes 위원회의 시험 원본 미열람. R35와 R40, 발주·생산·인도를 합산하지 않음.",
+      "AMD 전후 의회 집계 원표와 Lorraine 검수 원장, 세 장비의 빈센 시험 원문은 미확보."
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
-    "independence_group": "touzin-french-armour"
+    "independence_group": "touzin-french-armour",
+    "additional_accessed_at": [
+      "2026-11-10T16:55:57+09:00"
+    ]
   },
   {
     "id": "CAT-FR-SRC-0010",
@@ -198,5 +203,86 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "shd-gr7n-finding-aid"
+  },
+  {
+    "id": "CAT-FR-SRC-0011",
+    "title": "Military Intelligence: Identification of Foreign Armored Vehicles, German, Japanese, Russian, and Italian",
+    "institution_or_author": "U.S. War Department / U.S. Government Printing Office / GovInfo",
+    "publication_date": "1942-10-03",
+    "source_type": "primary: 전시 식별 교범",
+    "document_or_accession_number": "FM 30-42; GOVPUB-W-PURL-gpo119422",
+    "locator": "인쇄 16–17쪽(PDF 20–21쪽), Panhard 178 A.M.D. 35, 제원표 1·2·4·12·13·20번 및 식별도",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-W-PURL-gpo119422/pdf/GOVPUB-W-PURL-gpo119422.pdf",
+    "accessed_at": "2026-11-10T16:55:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "인쇄 16쪽 원면에서 독일군 사용 표기, 승무원 4명, 4륜구동, 2.5 cm포와 기관총, 부위별 장갑 및 도로 최고속도 확인."
+    ],
+    "limitations": [
+      "제1절의 한계 고지처럼 식별용 편찬이며 측정 차량, 개조 상태, 시험조건 불명. 프랑스 양산형과 수치가 엇갈린다."
+    ],
+    "rights": "미 전쟁부 간행물의 GovInfo 공개본. 문서·사진은 복제하지 않고 자체 요약과 링크 사용.",
+    "independence_group": "us-war-department-fm30-42"
+  },
+  {
+    "id": "CAT-FR-SRC-0012",
+    "title": "Objekt: Renault Panzer",
+    "institution_or_author": "Bayerisches Armeemuseum",
+    "publication_date": null,
+    "source_type": "secondary: 소장품 해설",
+    "document_or_accession_number": "Inv. Nr. 0812-1984",
+    "locator": "Renault UE Chenillette 본문, Technische Daten",
+    "url": "https://armeemuseum.de/de/aktuell/objekt-des-monats/1048-objekt-renault-panzer.html",
+    "accessed_at": "2026-11-10T16:55:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장품 번호, 보급·견인 및 독일군 노획 개조 설명, 2인·9 mm·30 km/h 제원 표기."
+    ],
+    "limitations": [
+      "장갑 위치와 시험 노면·하중이 미제시되어 소장품 페이지의 제원으로 제한. 프랑스군의 형식별 생산 집계 미확정."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bavarian-army-museum"
+  },
+  {
+    "id": "CAT-FR-SRC-0013",
+    "title": "Le Miroir, 22 octobre 1939: sentinelle et chenillettes",
+    "institution_or_author": "촬영자 미상 / Le Miroir / Bibliothèque nationale de France",
+    "publication_date": "1939-10-22(간행일)",
+    "source_type": "primary: 당대 사진의 디지털 발췌",
+    "document_or_accession_number": "BnF Gallica bpt6k9797971b",
+    "locator": "2쪽 사진 발췌, 궤도차와 말이 나란히 놓인 장면",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9797971b/f2.item",
+    "accessed_at": "2026-11-10T16:55:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "직접 열람한 발췌 이미지에서 낮은 궤도 차량이 말과 함께 나타남. 발췌의 서지 정보는 Le Miroir 자르 장면으로 연결."
+    ],
+    "limitations": [
+      "Gallica 원면과 IIIF 요청은 접근 차단. 발췌에서 세부 형식·부대·촬영일·작전 결과는 식별 불가."
+    ],
+    "rights": "복제본 게시처는 프랑스 퍼블릭 도메인으로 표기. 원면의 별도 이용 조건은 미확인. 사진을 재업로드하지 않음.",
+    "independence_group": "le-miroir-1939-10-22",
+    "accessed_copy_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sentinelle%2C_chenillettes_Renault_UE_et_chevaux_pendant_l%27offensive_de_la_Sarre%2C_octobre_1939.jpg"
+  },
+  {
+    "id": "CAT-FR-SRC-0014",
+    "title": "Belgien, französische Panzer Panhard 178",
+    "institution_or_author": "Bundesarchiv",
+    "publication_date": "1940-05(촬영 목록 표기)",
+    "source_type": "archive_catalog: 당대 사진의 목록 메타데이터",
+    "document_or_accession_number": "Bild 101I-383-0301-24A",
+    "locator": "Digitales Bildarchiv 항목 제목, 소장번호, 촬영월",
+    "url": "https://www.bild.bundesarchiv.de/dba/en/search/?topicid=dcx-thes_klassifikation_7755gbmm4t232d00dbv",
+    "accessed_at": "2026-11-10T16:55:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "판아르 178이 기재된 1940년 5월 벨기에 사진의 개별 식별번호와 목록 설명."
+    ],
+    "limitations": [
+      "이미지 주소는 점검 페이지를 반환하여 원면 미열람. 목록의 차종·날짜·장소 이상의 판독을 하지 않음."
+    ],
+    "rights": "독일 연방기록원 웹 목록. 사진 이용권 미확인. 목록에 링크만 연결.",
+    "independence_group": "bundesarchiv-bild101i"
   }
 ]

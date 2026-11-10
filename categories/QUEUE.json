@@ -286,8 +286,9 @@
     "category": "전차 제외 기갑장비, 무장, 성능",
     "article_path": "categories/france/02-other-armored-vehicles.md",
     "planned_at": "2026-11-10T13:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-FR-02.json",
+    "completed_at": "2026-11-10T16:55:57+09:00"
   },
   {
     "step": 22,
