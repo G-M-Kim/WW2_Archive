@@ -1,11 +1,14 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-11-30
-FORWARD_INSPECTED_THROUGH: 1941-11-29
-CURRENT_FORWARD_BATCH: 1941-11-30..1941-12-02
+FORWARD_CURSOR: 1941-12-03
+FORWARD_INSPECTED_THROUGH: 1941-12-02
+CURRENT_FORWARD_BATCH: 1941-12-03..1941-12-05
 TOTAL_EVT_SRC_RQ: 3612/2035/1227
 AS_OF: 2026-11-10
 
 ## 최신 실행 — 2026-11-10
+- 1941-11-30..12-02 forward: FRUS 1차 기록 9건 선별 감사(미일·중국·태국·네덜란드령 동인도·버마 민간인). 11/30 직접 원문 미확인; 신규 0/0/0 누적 3612/2035/1227. [감사](source-audit-1941-nov30-dec02-batch1.md); RQ-0003/RQ-0007 backfill. 다음 1941-12-03.
+
+## 이전 실행 — 2026-11-10
 - 1941-11-27..11-29 forward: FRUS 1차 기록 12건 선별 감사(미일 외교, 태국 위기, 상하이 미 해병 철수, 인도차이나 병력·항공기 불확실 추정). 신규 0/0/0, 누적 3612/2035/1227. [감사](source-audit-1941-nov27-29-batch1.md); RQ-0003/RQ-0007 backfill. 다음 1941-11-30.
 
 ## 이전 실행 — 2026-11-10
