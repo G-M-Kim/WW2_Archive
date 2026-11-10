@@ -30,4 +30,4 @@
 
 16~19번의 기준일·원자료·규모 환산은 [시설 평가 기준](../INFRASTRUCTURE_RATING.md)을 따른다. 점수는 사료 자체가 아닌 출처 기반 분석치다.
 
-**보충 조사** · [제2차 세계대전 육군 교리](army-doctrine.md)
+**보충 조사** · [제2차 세계대전 육군 교리](army-doctrine.md) · [제2차 세계대전 해군 교리](naval-doctrine.md)

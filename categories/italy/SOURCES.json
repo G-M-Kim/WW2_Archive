@@ -98,5 +98,105 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "italian-army-n1-11-inventory"
+  },
+  {
+    "id": "CAT-IT-SRC-0006",
+    "title": "The Italian Fleet ‘in Efficienza’ (1919–43)",
+    "institution_or_author": "Fabio De Ninno / Naval Institute Press, University of Siena repository",
+    "publication_date": "2025",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "대학 저장소의 공개 초록 및 서지, 수록 본문 188–209쪽",
+    "url": "https://usiena-air.unisi.it/handle/11365/1307535",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "함대를 보존하면서 유리한 조건에 공세를 취하는 전간기 구상, 타란토 이후 변화와 리비아 항로."
+    ],
+    "limitations": [
+      "공개 초록만 대조했다. 수록 본문과 인용 사료를 직접 읽은 것으로 집계하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "deninno-efficienza"
+  },
+  {
+    "id": "CAT-IT-SRC-0007",
+    "title": "The Battle of Cape Matapan",
+    "institution_or_author": "Naval Historical Society of Australia",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "정찰·포르미더블의 공격 및 야간 교전 단락",
+    "url": "https://navyhistory.au/the-battle-of-cape-matapan/",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "항모 항공대의 추적·공격, 영국 측 레이더·야간훈련 및 이탈리아 함대의 구조 접근."
+    ],
+    "limitations": [
+      "사례 해설이다. 마타판 이후 이탈리아 해군이 더는 활동하지 않았다는 식의 서술은 채택하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nhsa-matapan"
+  },
+  {
+    "id": "CAT-IT-SRC-0008",
+    "title": "Navy commemorates 70th anniversary of Battle of Taranto",
+    "institution_or_author": "영국 국방부 / GOV.UK",
+    "publication_date": "2010-11-11",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Operation JUDGEMENT 및 피해 서술",
+    "url": "https://www.gov.uk/government/news/navy-commemorates-70th-anniversary-of-battle-of-taranto",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 11월 타란토에서 함재기가 정박 중 전함들을 공격해 손상시킨 결과."
+    ],
+    "limitations": [
+      "영국 측 기념 해설이다. 이후 전력 회복 및 통상로 통제의 지속기간은 별도 사료가 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "uk-mod-taranto"
+  },
+  {
+    "id": "CAT-IT-SRC-0009",
+    "title": "Royal Australian Navy, 1939–1942",
+    "institution_or_author": "G. Hermon Gill / Australian War Memorial",
+    "publication_date": "1957",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제11장 To the Far East, 인쇄 406–407쪽의 1941년 12월 시르테·알렉산드리아",
+    "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070346/document/5519634.PDF",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북아프리카 수송 중 이탈리아 전함·순양함·구축함 출격, 이탈리아 유인어뢰의 영국 전함 피해."
+    ],
+    "limitations": [
+      "호주 공식 전사의 영연방 측 서술이다. 이탈리아 선단의 화물별 도착률을 확정할 수 없다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "gill-ran-official-history"
+  },
+  {
+    "id": "CAT-IT-SRC-0010",
+    "title": "The History of Italian Naval Doctrine",
+    "institution_or_author": "Luigi Donolo / Naval War College Press",
+    "publication_date": "1995-12",
+    "source_type": "secondary",
+    "document_or_accession_number": "A Doctrine Reader, Newport Paper No. 9",
+    "locator": "인쇄 115–116쪽, 1940년 5월 지침과 Supermarina의 지휘",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D208_200-PURL-gpo58388/pdf/GOVPUB-D208_200-PURL-gpo58388.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "방어 태세와 기회가 있을 때의 교전 지침, 상세 명령을 내리는 Supermarina, 제한된 북아프리카 항만 수용력."
+    ],
+    "limitations": [
+      "전후 교리사다. 1940년 5월 지침 원본과 전투별 하급 지휘관의 실제 재량은 미대조다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "donolo-italian-doctrine"
   }
 ]

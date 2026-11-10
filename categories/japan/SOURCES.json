@@ -98,5 +98,125 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "neimeyer-investigating-iwo"
+  },
+  {
+    "id": "CAT-JP-SRC-0006",
+    "title": "Crucible at Sea",
+    "institution_or_author": "U.S. Naval Institute, Naval History",
+    "publication_date": "2007-08",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "전전 미·일 함대결전 구상, 잠수함·항공·야간 어뢰전 단락",
+    "url": "https://www.usni.org/magazines/naval-history-magazine/2007/august/crucible-sea",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본의 사전 소모 구상, 구축함·순양함 야간 어뢰 공격과 훈련."
+    ],
+    "limitations": [
+      "솔로몬 전역 중심의 후대 해설이다. 해군 전체의 시기별 교범으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "usni-crucible-at-sea"
+  },
+  {
+    "id": "CAT-JP-SRC-0007",
+    "title": "Japanese Monograph No. 97: Pearl Harbor Operations — General Outline of Orders and Plans",
+    "institution_or_author": "미군의 전후 일본 전사 편찬 및 번역",
+    "publication_date": "전후 편찬",
+    "source_type": "primary",
+    "document_or_accession_number": "Japanese Monograph No. 97",
+    "locator": "1941년 11월 연합함대 명령·지시의 영문 수록 부분",
+    "url": "https://www.ibiblio.org/pha/myths/jm-097.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연합함대에 전달된 1941년 전시 준비 및 작전 지시와 항모기동부대 계획."
+    ],
+    "limitations": [
+      "전후 편찬물에 수록된 영문 명령문을 당대 문서의 번역으로 사용했다. 일본어 원본의 구절과는 미대조다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "jm-97-orders"
+  },
+  {
+    "id": "CAT-JP-SRC-0008",
+    "title": "The Campaigns of the Pacific War — Japanese Attack on Pearl Harbor",
+    "institution_or_author": "United States Strategic Bombing Survey, Naval Analysis Division",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "제II장 인쇄 13–25쪽, 목표·편제·공격",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-2.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미 태평양 함대를 일시 무력화해 남방작전 시간을 확보하려던 목적과 항모 집중."
+    ],
+    "limitations": [
+      "전후 조사 보고의 목적 설명이다. 항모 전력이 모든 전구를 동시에 제압했다는 의미는 아니다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-pacific-campaigns"
+  },
+  {
+    "id": "CAT-JP-SRC-0009",
+    "title": "The Campaigns of the Pacific War — The Battle of Midway",
+    "institution_or_author": "United States Strategic Bombing Survey, Naval Analysis Division",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "제V장 인쇄 58–77쪽, 일본 측 계획과 항모 교전",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-5.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미드웨이 점령·미 함대 유인 계획, 일본 항모 4척의 손실과 전력의 분리."
+    ],
+    "limitations": [
+      "전후 편찬의 동일 보고서에서 장만 나누었다. 진주만 장과 독립 교차검증으로 세지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-pacific-campaigns"
+  },
+  {
+    "id": "CAT-JP-SRC-0010",
+    "title": "Interrogations of Japanese Officials — Captain Oi, Atsushi",
+    "institution_or_author": "United States Strategic Bombing Survey, Naval Analysis Division",
+    "publication_date": "1945",
+    "source_type": "primary",
+    "document_or_accession_number": "Nav. No. 11; USSBS No. 61",
+    "locator": "Summary 및 Combined Escort Fleet 창설·임무 문답",
+    "url": "https://ibiblio.org/hyperwar/AAF/USSBS/IJO/IJO-11.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 11월 해상호위총사령부 창설, 기존 분산 관리와 호위 전력의 구성."
+    ],
+    "limitations": [
+      "패전 직후 담당 참모의 증언이다. 이후 상급 지휘 관계의 변경 시점은 다른 증언과 달라 채택하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-oi-interrogation"
+  },
+  {
+    "id": "CAT-JP-SRC-0011",
+    "title": "The United States Strategic Bombing Survey: Summary Report (Pacific War)",
+    "institution_or_author": "United States Strategic Bombing Survey",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "Destruction of the Japanese Merchant Fleet",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Summary.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 해상수송에 가한 잠수함·항공기·기뢰의 상호 보완적 압박, 유조선 손실과 함대 기동 제약."
+    ],
+    "limitations": [
+      "미국의 전후 직후 종합 보고다. 각 수단의 공로를 저자의 집계 조건 밖으로 확대하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-pacific-summary"
   }
 ]

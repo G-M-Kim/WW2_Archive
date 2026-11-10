@@ -384,5 +384,105 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "mcgrath-scouts-out"
+  },
+  {
+    "id": "CAT-FR-SRC-0020",
+    "title": "War at Sea 1939–1945, I: The Defensive",
+    "institution_or_author": "S. W. Roskill / 영국 공식 전사",
+    "publication_date": "1954",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제4장 인쇄 50–51쪽, Force de Raid 및 Table 3",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/UK-RN-I/UK-RN-I-4.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "서지중해 분담과 브레스트 Force de Raid의 방면·편제."
+    ],
+    "limitations": [
+      "영국 측 전사다. 편성 합의와 실제 배치 표의 숫자가 달라 공통 역할만 채택했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "roskill-war-at-sea-i"
+  },
+  {
+    "id": "CAT-FR-SRC-0021",
+    "title": "The Road to Oran: Anglo-French Naval Relations, September 1939–July 1940",
+    "institution_or_author": "David Brown / Frank Cass",
+    "publication_date": "2004",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "공개 발췌의 Dramatis Personae, Darlan 및 Gensoul 항목",
+    "url": "https://api.pageplace.de/preview/DT0400.9781135771638_A23808252/preview-9781135771638_A23808252.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "장술(Gensoul)의 Force de Raid 지휘와 브레스트에서 지중해로 옮긴 배치 기록."
+    ],
+    "limitations": [
+      "공개 발췌 범위만 사용했다. 영불 협상과 메르스엘케비르 전투의 전 장을 열람하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "brown-road-to-oran"
+  },
+  {
+    "id": "CAT-FR-SRC-0022",
+    "title": "La Marine nationale",
+    "institution_or_author": "Ordre de la Libération et son Musée",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Corvette Aconit 및 FNFL 소개",
+    "url": "https://www.ordredelaliberation.fr/fr/la-marine-nationale",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Aconit의 영국 공여, 호위단 편입, 대서양 호송과 노르망디기 호위."
+    ],
+    "limitations": [
+      "훈장 수여와 함정 이력 중심이다. 프랑스 함대 전체 성과로 확대하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ordre-liberation-naval"
+  },
+  {
+    "id": "CAT-FR-SRC-0023",
+    "title": "The Official Chronology of the U.S. Navy in World War II — 1942",
+    "institution_or_author": "Robert J. Cressman / U.S. Navy",
+    "publication_date": "1999",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1942년 11월 8일 북아프리카와 11월 27일 툴롱 항목",
+    "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "토치 상륙 당시 프랑스 측의 교전, 11월 독일의 툴롱 접근과 프랑스 함정의 자침."
+    ],
+    "limitations": [
+      "미 해군 공식 연표다. 비시 정부와 개별 부대의 명령 관계는 별도 확인이 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "cressman-usn-chronology"
+  },
+  {
+    "id": "CAT-FR-SRC-0024",
+    "title": "Navy and Military Doctrine in France",
+    "institution_or_author": "James J. Tritten / Naval War College Press",
+    "publication_date": "1995-12",
+    "source_type": "secondary",
+    "document_or_accession_number": "A Doctrine Reader, Newport Paper No. 9",
+    "locator": "프랑스 장의 전간기 및 제2차 세계대전 준비 단락",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D208_200-PURL-gpo58388/pdf/GOVPUB-D208_200-PURL-gpo58388.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "함대 건설과 해군 항공·대공·대잠 준비의 불균형에 대한 저자의 평가."
+    ],
+    "limitations": [
+      "후대 교리사 연구의 해석이다. 함정별 전시 대잠·대공 능력은 이 자료에서 산출하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "tritten-french-doctrine"
   }
 ]

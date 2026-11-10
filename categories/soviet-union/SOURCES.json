@@ -78,5 +78,125 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "aup-bagration-deception"
+  },
+  {
+    "id": "CAT-SU-SRC-0005",
+    "title": "Stalin’s Ocean-Going Fleet: Soviet Naval Strategy and Shipbuilding Programmes, 1935–1953",
+    "institution_or_author": "Jürgen Rohwer · Mikhail S. Monakov / Frank Cass",
+    "publication_date": "2001",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "공개 발췌의 서론 및 대양함대·1936년 계획 단락",
+    "url": "https://api.pageplace.de/preview/DT0400.9781136321917_A23819962/preview-9781136321917_A23819962.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1930년대 중반 대양함대 건설 전환과 전함 건조 계획."
+    ],
+    "limitations": [
+      "공개 발췌본이다. 건함 목표 수량을 개전 시 전력으로 집계하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rohwer-monakov-ocean-going-fleet"
+  },
+  {
+    "id": "CAT-SU-SRC-0006",
+    "title": "Under the Surface — Stories from Vrak",
+    "institution_or_author": "Vrak – Museum of Wrecks",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Baltic mine warfare 및 Tallinn, 28 August 1941 단락",
+    "url": "https://www.vrak.se/globalassets/dokument/bocker/t_under-the-surface-engelsk-vrakbok_klar.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "탈린에서 크론시타트로 이동하는 소련 함선과 독일·핀란드의 기뢰 장애."
+    ],
+    "limitations": [
+      "해양고고학 박물관 해설이다. 선박·인명 손실 수는 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "vrak-baltic-mines"
+  },
+  {
+    "id": "CAT-SU-SRC-0007",
+    "title": "Директива № 002454 — об организации эвакуации войск Одесского оборонительного района",
+    "institution_or_author": "소련 최고사령부 / 러시아 대통령도서관",
+    "publication_date": "1941-09-30",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "ЦА МО РФ. Ф. 3. Оп. 1156. Д. 2. Л. 377–378",
+    "locator": "목록의 발신자·수신자·표제·날짜와 인증 사본 표기",
+    "url": "https://www.prlib.ru/item/1855779",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "흑해함대·오데사 방어구역·제51군 지휘관을 수신자로 한 철수 지시의 존재."
+    ],
+    "limitations": [
+      "소장 목록만 확인했다. 지시의 상세 항목과 철수 실적은 여기에서 산출하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "stavka-odessa-002454"
+  },
+  {
+    "id": "CAT-SU-SRC-0008",
+    "title": "Началась Петсамо-Киркенесская операция Великой Отечественной войны",
+    "institution_or_author": "러시아 대통령도서관",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1944년 10월 7~14일, 카렐리야 전선군과 북방함대·해군보병 상륙",
+    "url": "https://www.prlib.ru/history/619608",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "육군 공세와 북방함대 지원, 말라야 볼로코바야만과 리이나하마리 상륙."
+    ],
+    "limitations": [
+      "공공기관의 기념 해설이다. 적 손실·격침 수치는 독립 대조하지 않아 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "prlib-petsamo-kirkenes"
+  },
+  {
+    "id": "CAT-SU-SRC-0009",
+    "title": "Admiral Gorshkov and the Soviet Navy",
+    "institution_or_author": "Donald D. Chipman / Air University Review, 미국 해병대 편찬물 재수록",
+    "publication_date": "1982",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "레닌그라드 방어, 흑해 케르치, 함대별 지리 제약 단락",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D214-PURL-gpo119074/pdf/GOVPUB-D214-PURL-gpo119074.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "발트함대 인력의 지상 지원, 흑해의 케르치 상륙 사례와 좁은 출입구의 제약."
+    ],
+    "limitations": [
+      "냉전기 인물·전략 연구다. 1941년 전력 규모나 전과의 1차 통계로 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "chipman-gorshkov"
+  },
+  {
+    "id": "CAT-SU-SRC-0010",
+    "title": "Приказ НКО СССР № 0109 об итогах боевой подготовки РККА за 1937 год и задачах на 1938 год",
+    "institution_or_author": "소련 국방인민위원부 / Исторические материалы 전사본",
+    "publication_date": "1937-12-14",
+    "source_type": "primary",
+    "document_or_accession_number": "№ 0109",
+    "locator": "해군 전투훈련 평가 및 1938년 해군 과제 §1–2, БУМС-37 인용",
+    "url": "https://istmat.org/node/29094",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1937년 해군 규정을 인용한 수상함·잠수함·항공 협동과 집중 타격 요구, 육군과 함포 지원 훈련의 미비."
+    ],
+    "limitations": [
+      "당대 명령의 공개 전사본이다. 인용된 교범 전체 및 문서 원면은 직접 대조하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nko-0109-bums37"
   }
 ]

@@ -78,5 +78,105 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "forrester-normandy"
+  },
+  {
+    "id": "CAT-GB-SRC-0005",
+    "title": "War at Sea 1939–1945, I: The Defensive",
+    "institution_or_author": "S. W. Roskill / 영국 공식 전사",
+    "publication_date": "1954",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제4장, 함대 배치와 지중해 전구 분담",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/UK-RN-I/UK-RN-I-4.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "본국·지중해·대서양에서 함대와 순양함을 분배한 배경."
+    ],
+    "limitations": [
+      "영국 공식 전사다. 개전기 배치를 후기 전력 구조와 구분했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "roskill-war-at-sea-i"
+  },
+  {
+    "id": "CAT-GB-SRC-0006",
+    "title": "Anniversary of the Navy’s greatest modern triumph – defeat of the U-boat",
+    "institution_or_author": "Royal Navy",
+    "publication_date": "2021-05-24",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "ONS 5, 호위·정보·대잠 개선과 1943년 5월",
+    "url": "https://www.royalnavy.mod.uk/news/2021/may/24/20210524-battle-atlantic",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대서양 호송전의 전환과 연합국 대잠 수단."
+    ],
+    "limitations": [
+      "왕립해군의 개관이다. 다국적 호위 전력을 영국 단독 성과로 집계하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rn-black-may"
+  },
+  {
+    "id": "CAT-GB-SRC-0007",
+    "title": "Navy commemorates 70th anniversary of Battle of Taranto",
+    "institution_or_author": "영국 국방부 / GOV.UK",
+    "publication_date": "2010-11-11",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Operation JUDGEMENT와 HMS Illustrious 공습 단락",
+    "url": "https://www.gov.uk/government/news/navy-commemorates-70th-anniversary-of-battle-of-taranto",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "야간 함재기 공격과 이탈리아 주력함의 손상."
+    ],
+    "limitations": [
+      "기념 해설이다. ‘전략적 결정’이라는 평가는 그대로 채택하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "uk-mod-taranto"
+  },
+  {
+    "id": "CAT-GB-SRC-0008",
+    "title": "Loss of H.M. Ships Prince of Wales and Repulse",
+    "institution_or_author": "British Admiralty",
+    "publication_date": "1943년 초판, 1948년 개정",
+    "source_type": "primary",
+    "document_or_accession_number": "Battle Summary No. 14",
+    "locator": "§12 침몰과 부록 H 제453비행대 보고",
+    "url": "https://ibiblio.org/hyperwar/UN/UK/RN/BS-14_POW%2BRepulse/index.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 12월 Force Z의 작전과 항공 공격, 전투기의 엄호 공백."
+    ],
+    "limitations": [
+      "1943년 전투 요약의 1948년 개정본이다. 개정에는 일부 일본군 진술이 반영됐으나 일본 측 정찰·타격 기록의 추가 대조가 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "admiralty-battle-summary-14"
+  },
+  {
+    "id": "CAT-GB-SRC-0009",
+    "title": "The Battle of the Atlantic, 1939 to 1945",
+    "institution_or_author": "Royal Canadian Navy / Government of Canada",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "대잠 탐지 장비와 1943~1944년 호위·지원단 단락",
+    "url": "https://www.canada.ca/en/navy/services/history/naval-service-1910-2010/battle-atlantic-1939-1945.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 호위함의 10 cm 레이더 장비, 캐나다 해군의 장비 격차와 연합 호송 지원단 참여."
+    ],
+    "limitations": [
+      "캐나다 측 기관 해설이다. 장비 도입 속도를 연합 전력 전반에 일반화하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rcn-battle-atlantic"
   }
 ]

@@ -3331,5 +3331,105 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "frieser-operational-art"
+  },
+  {
+    "id": "CAT-DE-SRC-0164",
+    "title": "German Naval Strategy in World War I and World War II",
+    "institution_or_author": "Michael Epkenhans / NIDS·ZMSBw 공동연구 논집",
+    "publication_date": "2022",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 46–54쪽, Raeder and Naval Strategy 및 The Kriegsmarine at War",
+    "url": "https://www.nids.mod.go.jp/english/publication/joint_research/series19/pdf/series19.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Z 계획, 레더의 원양 통상전, 노르웨이와 프랑스 기지, 수상함과 U보트 우선순위의 변화."
+    ],
+    "limitations": [
+      "전후 전략사 연구다. 건함 목표와 전시 가용함을 구분했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nids-german-naval-strategy"
+  },
+  {
+    "id": "CAT-DE-SRC-0165",
+    "title": "War at Sea 1939–1945, I: The Defensive",
+    "institution_or_author": "S. W. Roskill / 영국 공식 전사",
+    "publication_date": "1954",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제7장 The Early Campaigns Against Enemy Raiders, Table 6",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/UK-RN-I/UK-RN-I-7.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 독일 수상 습격함의 활동에 대응한 영·프 수색 전력 편성."
+    ],
+    "limitations": [
+      "영국 측 대응 기록을 중심으로 한 서술이다. 독일 작전명령의 대체 자료가 아니다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "roskill-war-at-sea-i"
+  },
+  {
+    "id": "CAT-DE-SRC-0166",
+    "title": "Anniversary of the Navy’s greatest modern triumph – defeat of the U-boat",
+    "institution_or_author": "Royal Navy",
+    "publication_date": "2021-05-24",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "ONS 5와 1943년 5월 24일 북대서양 재배치 단락",
+    "url": "https://www.royalnavy.mod.uk/news/2021/may/24/20210524-battle-atlantic",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "ONS 5 양측 손실, 연합 대잠전 강화와 5월 U보트 철수."
+    ],
+    "limitations": [
+      "왕립해군 개관이며 손실 집계의 지역 경계를 전역 전체로 확대하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rn-black-may"
+  },
+  {
+    "id": "CAT-DE-SRC-0167",
+    "title": "Kriegstagebuch des Befehlshabers der Unterseeboote — 16–31 May 1943",
+    "institution_or_author": "독일 잠수함사령부 / U-boat Archive 영문 전사",
+    "publication_date": "1943-05",
+    "source_type": "primary",
+    "document_or_accession_number": "PG 30324",
+    "locator": "1943년 5월 24일자 재배치 명령과 §VI의 전황 판단",
+    "url": "https://ww.uboatarchive.net/BDU/BDUKTB30324.htm",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북대서양 호송 작전 중단 후 재배치, 항공 위협이 작은 해역으로의 일시 전환과 일부 잠수함 잔류."
+    ],
+    "limitations": [
+      "영문 전사본이다. 일지에 적힌 당시 판단과 전후 확인된 손실은 구분했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "bdu-ktb-pg30324"
+  },
+  {
+    "id": "CAT-DE-SRC-0168",
+    "title": "The Battle of the Atlantic, 1939 to 1945",
+    "institution_or_author": "Royal Canadian Navy / Government of Canada",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "대잠 탐지 장비와 1943~1944년 호위·지원단 단락",
+    "url": "https://www.canada.ca/en/navy/services/history/naval-service-1910-2010/battle-atlantic-1939-1945.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 호위함의 10 cm 레이더 장비, 캐나다 해군의 장비 격차와 연합 호송 지원단 참여."
+    ],
+    "limitations": [
+      "캐나다 측 기관 해설이다. 장비 도입 속도를 연합 전력 전반에 일반화하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rcn-battle-atlantic"
   }
 ]

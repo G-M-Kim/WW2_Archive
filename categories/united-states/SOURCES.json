@@ -98,5 +98,105 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "cmh-reader-guide-cole"
+  },
+  {
+    "id": "CAT-US-SRC-0006",
+    "title": "Operation Galvanic: The Battle for Tarawa, November 1943",
+    "institution_or_author": "U.S. Naval History and Heritage Command",
+    "publication_date": "2020",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "War Plan Orange 및 Strategy in the Pacific",
+    "url": "https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/Galvanic-booklet-508%20A.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "오렌지 계획의 단계적 태평양 진격, 무지개 5호 우선순위와 전시 진격의 연결."
+    ],
+    "limitations": [
+      "전쟁 전 계획과 전시의 다른 전구·작전 순서를 구분했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nhhc-galvanic"
+  },
+  {
+    "id": "CAT-US-SRC-0007",
+    "title": "Contested Logistics: Sustaining the Pacific War",
+    "institution_or_author": "Peter C. Luebke · Timothy L. Francis · Heather M. Haley / NHHC",
+    "publication_date": "2023",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1943~1944년 Service Squadrons 및 전진 정박지 단락",
+    "url": "https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/contested_logistics_508.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이동식 정비·보급 편대, Service Squadron 10, 정박지와 함대 지속 작전."
+    ],
+    "limitations": [
+      "지원함과 정박지의 발전사다. 모든 함대에 같은 보급 능력이 있었다는 의미는 아니다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nhhc-contested-logistics"
+  },
+  {
+    "id": "CAT-US-SRC-0008",
+    "title": "The Campaigns of the Pacific War",
+    "institution_or_author": "United States Strategic Bombing Survey, Naval Analysis Division",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "The Marianas Campaign, Battle of the Philippine Sea, 19–20 June 1944",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "사이판 지원, 미 함재 전투기의 방어와 항공 전투, 일본 항모에 대한 미 잠수함 공격."
+    ],
+    "limitations": [
+      "전투 직후 종합 보고다. 양측 손실 수와 격추 주장의 최신 대조 자료로 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-pacific-campaigns"
+  },
+  {
+    "id": "CAT-US-SRC-0009",
+    "title": "“Calmness, Courage, and Efficiency”: Remembering the Battle of Leyte Gulf",
+    "institution_or_author": "Martin R. Waldman / NHHC",
+    "publication_date": "2022",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "San Bernardino Strait와 Battle off Samar 관련 단락",
+    "url": "https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/battle_leyte_gulf_508.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제3함대의 북상, 산베르나르디노 해협과 사마르 앞 제7함대의 방어."
+    ],
+    "limitations": [
+      "전후 전사다. 지휘관 개인 책임은 명령 원문과 통신을 별도로 대조해야 한다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nhhc-leyte"
+  },
+  {
+    "id": "CAT-US-SRC-0010",
+    "title": "The United States Strategic Bombing Survey: Summary Report (Pacific War)",
+    "institution_or_author": "United States Strategic Bombing Survey",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "Destruction of the Japanese Merchant Fleet",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Summary.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 해상수송에 가한 잠수함·항공기·기뢰의 상호 보완적 압박, 유조선 손실과 함대 기동 제약."
+    ],
+    "limitations": [
+      "미국의 전후 직후 종합 보고다. 각 수단의 공로를 저자의 집계 조건 밖으로 확대하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-pacific-summary"
   }
 ]
