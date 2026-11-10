@@ -356,8 +356,9 @@
     "category": "유명한 전투 참여 인물",
     "article_path": "categories/france/07-combat-personnel.md",
     "planned_at": "2026-11-10T23:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-FR-07.json",
+    "completed_at": "2026-11-11T03:00:18+09:00"
   },
   {
     "step": 27,

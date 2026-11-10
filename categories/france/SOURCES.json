@@ -1172,5 +1172,225 @@
     ],
     "rights": "소장처 발췌 이미지에 All Rights Reserved 표기. 링크만 사용.",
     "independence_group": "빅토리아박물관 B2 장비·지침"
+  },
+  {
+    "id": "CAT-FR-SRC-0059",
+    "title": "Philippe LECLERC de HAUTECLOCQUE",
+    "institution_or_author": "Musée de l’Ordre de la Libération",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "웹 전기, Fort-Lamy·Normandie·Paris·Vosges 단락",
+    "url": "https://www.ordredelaliberation.fr/fr/compagnons/philippe-leclerc-de-hauteclocque",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "자유 프랑스 차드 지휘, 1941년 3월 1일 쿠프라 점령, 1944년 2e DB의 파리 및 스트라스부르 작전."
+    ],
+    "limitations": [
+      "기관 전기이며 1941년 서약의 정확한 문구나 포로 수를 확증하는 당대 기록은 아님."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ordre-liberation"
+  },
+  {
+    "id": "CAT-FR-SRC-0060",
+    "title": "Ordre du jour no 73",
+    "institution_or_author": "Philippe Leclerc de Hauteclocque / Service historique de la Défense",
+    "publication_date": "1944-11-24",
+    "source_type": "primary",
+    "document_or_accession_number": "GR 29 P 31, ordre du jour no 73",
+    "locator": "SHD 전시 보도자료 PDF 10쪽 왼쪽 상단 도판의 전사, 표제·본문·날짜·발신 직위",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2025-05/Dossier%20de%20presse.pdf#page=10",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "2e DB 사단장이 스트라스부르 해방과 쿠프라 서약의 이행을 연결한 당대 일일명령."
+    ],
+    "limitations": [
+      "공개 PDF 도판의 판독 텍스트를 열람. 이미지 직접 호출은 시간 초과. 지휘관의 전과 주장은 독립 집계 미확보."
+    ],
+    "rights": "SHD 공개 도판. 재사용 조건 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "shd-ordre-73"
+  },
+  {
+    "id": "CAT-FR-SRC-0061",
+    "title": "Northern France: 25 July–14 September 1944",
+    "institution_or_author": "David W. Hogan / U.S. Army Center of Military History",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 72-30",
+    "locator": "본문 22–23쪽, 파리 진입과 항복 접수 단락",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/72-30.pdf",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제2기갑사단과 미 제4보병사단의 진입 계획, 르클레르의 항복 접수와 잔류 독일군."
+    ],
+    "limitations": [
+      "미군 공식 전사 관점. FFI 내부 지휘 또는 협정 사본별 서명 확인에는 쓰지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-cmh"
+  },
+  {
+    "id": "CAT-FR-SRC-0062",
+    "title": "Henri ROL-TANGUY",
+    "institution_or_author": "Musée de l’Ordre de la Libération",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "웹 전기, FTP 활동·1944년 6월 임명·파리 봉기 단락",
+    "url": "https://www.ordredelaliberation.fr/fr/compagnons/henri-rol-tanguy",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "롤탕기의 FTP 경력, 일드프랑스 FFI 지휘 및 파리 봉기 동원·바리케이드 명령."
+    ],
+    "limitations": [
+      "기관 전기. 개별 구역의 작전 일지와 봉기 병력 집계는 미확보."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ordre-liberation"
+  },
+  {
+    "id": "CAT-FR-SRC-0063",
+    "title": "Paris, Compagnon de la Libération",
+    "institution_or_author": "Christine Levisse-Touzé, Vladimir Trouplin / Comité d’histoire de la Ville de Paris",
+    "publication_date": "2010 (재판)",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "48–49쪽, La reddition de von Choltitz",
+    "url": "https://archives.paris.fr/fichier/303352/886",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "개별 거점의 항복 명령과 롤탕기가 협정 사본 한 부에 서명한 일의 구분."
+    ],
+    "limitations": [
+      "기관 해설. 사본 전체나 자필 서명의 대조는 제공하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "chemins-memoire"
+  },
+  {
+    "id": "CAT-FR-SRC-0064",
+    "title": "Ordre (Befehl) de reddition aux points d’appui allemands du Gross Paris (ici, celui de la Place de la République)",
+    "institution_or_author": "Dietrich von Choltitz / Paris Musées",
+    "publication_date": "1944-08-25",
+    "source_type": "primary",
+    "document_or_accession_number": "2020.1.2",
+    "locator": "소장품 상세의 Marques, inscriptions, poinçons 전사 및 서명 표기",
+    "url": "https://www.parismuseescollections.paris.fr/fr/musee-jean-moulin/oeuvres/ordre-befehl-de-reddition-aux-points-d-appui-allemands-du-gross-paris-ici",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "레퓌블리크 광장 독일군 거점에 전투 중지를 지시한 개별 명령의 날짜·수신 거점·서명."
+    ],
+    "limitations": [
+      "디지털 이미지와 기관 전사를 대조. 개별 거점 명령은 협정 본문이나 명령 이행을 입증하지 않음."
+    ],
+    "rights": "Paris Musées 소장품 이미지 CC0 표시. 자체 요약과 링크만 사용.",
+    "independence_group": "choltitz-place-republique"
+  },
+  {
+    "id": "CAT-FR-SRC-0065",
+    "title": "Convention de reddition de Von Choltitz",
+    "institution_or_author": "Gilles Primout / Fondation de la Résistance",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Archives nationales 72AJ61 (소개된 사본)",
+    "locator": "Légende 및 Contexte historique",
+    "url": "https://museedelaresistanceenligne.org/media4844-Convention-de-reddition-de-Von-Choltitz",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "롤탕기가 추가된 협정 수정본 사본의 소재와 협정 제목 수정에 관한 기관 해설."
+    ],
+    "limitations": [
+      "목록과 해설을 열람. 고해상도 이미지 직접 호출 시간 초과로 자필과 수정 흔적 미확인."
+    ],
+    "rights": "Archives nationales, droits réservés 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "paris-surrender-copy"
+  },
+  {
+    "id": "CAT-FR-SRC-0066",
+    "title": "La libération de Paris",
+    "institution_or_author": "Chemins de mémoire / 프랑스 국방부",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "32–33쪽 동원·바리케이드, 39쪽 문서 6의 캡션",
+    "url": "https://www.cheminsdememoire.gouv.fr/sites/default/files/2019-04/Fiches_Liberation_de_Paris_CM2.pdf",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동원·봉기 지휘 해설과 경찰청의 제6조 수정 및 몽파르나스의 제목·서명 수정에 대한 캡션."
+    ],
+    "limitations": [
+      "롤탕기 전기 부분은 해방훈장박물관 서술과 중복. 39쪽의 원문 이미지는 502로 열리지 않아 캡션만 사용."
+    ],
+    "rights": "문서 6 이미지 © Mémorial Leclerc - Musée Jean Moulin / Roger-Viollet 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "ordre-liberation"
+  },
+  {
+    "id": "CAT-FR-SRC-0067",
+    "title": "René MOUCHOTTE",
+    "institution_or_author": "Musée de l’Ordre de la Libération",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "웹 전기, 영국 도착·알자스 지휘·1943년 5월 15일과 8월 27일 단락",
+    "url": "https://www.ordredelaliberation.fr/fr/compagnons/rene-mouchotte",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스 공군 경력, 영국 공군 편제 작전, 알자스 지휘, 폭격기 호위 출격 및 빅긴힐 전과 서술."
+    ],
+    "limitations": [
+      "격추 순번과 손실 원인을 당대 작전 기록이나 상대 손실 자료로 입증하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ordre-liberation"
+  },
+  {
+    "id": "CAT-FR-SRC-0068",
+    "title": "Armée de l’air",
+    "institution_or_author": "Musée de l’Ordre de la Libération",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Le groupe de chasse Alsace 절, 1943년 1–4월 단락",
+    "url": "https://www.ordredelaliberation.fr/fr/armee-de-lair",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "알자스 전투비행단의 RAF 제341비행대 편제, 무쇼트 지휘, 빅긴힐 이동과 폭격기 호위."
+    ],
+    "limitations": [
+      "같은 기관의 무쇼트 전기와 독립 근거로 중복 집계하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ordre-liberation"
+  },
+  {
+    "id": "CAT-FR-SRC-0069",
+    "title": "Adjudant Rene Gaston Octave Jean Mouchotte",
+    "institution_or_author": "Battle of Britain Memorial Trust",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Stories of The Few, 제341비행대·1943년 5월 빅긴힐 및 8월 27일 실종 단락",
+    "url": "https://www.battleofbritainmemorial.org/stories/adjudant-rene-gaston-octave-jean-mouchotte/",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "무쇼트의 제341비행대 지휘와 마지막 출격의 미귀환, 잭 찰스와 빅긴힐 격추 순번을 가릴 수 없었다는 설명."
+    ],
+    "limitations": [
+      "후대 영국 기관 설명. 두 기관의 바탕이 된 전과 인정 문서와 독일 손실 기록은 미열람."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "battle-of-britain-memorial"
   }
 ]
