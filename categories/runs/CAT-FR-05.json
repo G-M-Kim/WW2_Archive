@@ -1,0 +1,72 @@
+{
+  "step": 24,
+  "job_id": "CAT-FR-05",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 5,
+  "category": "보병 무기 및 장비",
+  "article_path": "categories/france/05-infantry-equipment.md",
+  "status": "partial",
+  "completed_at": "2026-11-10T23:01:44+09:00",
+  "started_at": "2026-11-10T22:56:47+09:00",
+  "base_head": "65ac213ecbccd35cfe33740cf1fb2768a2a3f795",
+  "source_ids": [
+    "CAT-FR-SRC-0043",
+    "CAT-FR-SRC-0044",
+    "CAT-FR-SRC-0045",
+    "CAT-FR-SRC-0046",
+    "CAT-FR-SRC-0047",
+    "CAT-FR-SRC-0048",
+    "CAT-FR-SRC-0049",
+    "CAT-FR-SRC-0050"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0018",
+    "CAT-FR-RQ-0019",
+    "CAT-FR-RQ-0020"
+  ],
+  "entity_ids": [
+    "CAT-FR-EQP-0011",
+    "CAT-FR-EQP-0012",
+    "CAT-FR-EQP-0013",
+    "CAT-FR-EQP-0014"
+  ],
+  "research_scope": "MAS 36 및 FM 24/29의 형식·탄약·전시 보급 근거와 1940년 나르비크 폴란드 SBSP의 프랑스제 보호구·군장 사례.",
+  "limitations": [
+    "FM 교범 본문 및 프랑스군 부대별 보급 원장은 미확보. 폴란드군 박물관의 FM 사진 원파일 미열람.",
+    "MAS 36 중량 계량 조건의 차이와 CR 39의 전시 납품·지급은 확인되지 않았다. 일반 보병 및 후반기 장비는 미조사 범위다."
+  ],
+  "evidence_checked": [
+    "호주 전쟁기념관 소장품 REL/19291, 랭스 AA.19, 네덜란드 국립군사박물관 001759, 폴란드군 박물관 나르비크 해설 및 군장 전시",
+    "Terrot 제조사 적재 목록, BnF의 FM 교범 서지, 프랑스 국방역사기록원 접철형 시험 문서 발췌와 1940년 임시 지침 표지"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9738490m",
+      "result": "BnF 서지에 연결된 FM 교범 본문에서 HTTP 403."
+    },
+    {
+      "url": "https://bibliotheques-numeriques.defense.gouv.fr/emd/document/feef1f7a-b673-4c44-bb60-d117e168a31e?cote=R+1168&portal=358353",
+      "result": "CLADE.net FM 교범 목록 직접 열람 시간 초과."
+    },
+    {
+      "url": "https://imagesdefense.gouv.fr/fr/un-soldat-de-la-4e-armee-sert-un-fm-24-29-dans-un-poste-de-mitrailleur-a-l-interieur-d-une-tranchee-1.html",
+      "result": "ECPAD 기록관 일반 안내로 이동. 4ARMEE 26 D232 사진 미열람."
+    },
+    {
+      "url": "https://imagesdefense.gouv.fr/fr/servants-d-un-fm-m-24-29-du-310e-ri-regiment-d-infanterie-au-cours-d-un-entrainement-probablement-dans-le-secteur-defensif-de-lille.html",
+      "result": "ECPAD 기록관 일반 안내로 이동. 1ARMEE 6 A22 사진 미열람."
+    },
+    {
+      "url": "https://muzeumwp.pl/wp-content/uploads/2026/05/narwik4-scaled.jpg",
+      "result": "나르비크 SBSP FM 사진 파일 직접 열람 시간 초과. 공개 해설의 식별만 확인."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=24 pending=109; sources=298 questions=113. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

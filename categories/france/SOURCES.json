@@ -852,5 +852,165 @@
     ],
     "rights": "사이트 저작권 표기. 자체 요약과 링크만 사용.",
     "independence_group": "항공사고 편찬"
+  },
+  {
+    "id": "CAT-FR-SRC-0043",
+    "title": "MAS 36 Rifle : French Army",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "source_type": "primary: 1938년 제작 소장품의 후대 목록",
+    "document_or_accession_number": "REL/19291",
+    "locator": "Date made, Description, History / Summary",
+    "url": "https://www.awm.gov.au/collection/C246072",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 제작 표기, 수동 볼트 구조 및 앞덮개 내 십자형 총검 수납."
+    ],
+    "limitations": [
+      "전시 지급 부대와 개별 운용 이력은 목록에 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "호주 전쟁기념관 소장품"
+  },
+  {
+    "id": "CAT-FR-SRC-0044",
+    "title": "Atak sił sojuszniczych na Narwik",
+    "institution_or_author": "Tomasz Kozakiewicz / Muzeum Wojska Polskiego",
+    "publication_date": "2026-05-28",
+    "source_type": "secondary: 전역 해설, 소장 군장 및 당대 사진의 설명",
+    "document_or_accession_number": null,
+    "locator": "글 말미의 SBSP FM 사진 설명, SBSP 병사 군복·장구 및 MAS wz. 36 항목",
+    "url": "https://muzeumwp.pl/2026/05/28/atak-sil-sojuszniczych-na-narwik/",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "SBSP의 MAS 36 지급 서술, FM 24/29의 나르비크 사진 식별·제원, 아드리앵 26형과 35형 배낭의 전시 구성."
+    ],
+    "limitations": [
+      "FM 사진 원파일은 시간 초과로 본문 설명만 확인했다. 제원의 시험·계량 조건, 사진·장구의 개별 소장번호는 페이지에 명시되지 않았다."
+    ],
+    "rights": "박물관 및 사진 권리자의 권리 표기를 따른다. 본문 요약과 원문 링크만 사용.",
+    "independence_group": "폴란드군 박물관"
+  },
+  {
+    "id": "CAT-FR-SRC-0045",
+    "title": "Fusil-mitrailleur MAC 24/29",
+    "institution_or_author": "Musées de Reims / Musée de la Reddition du 7 mai 1945",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 소장품 및 개발·생산 해설",
+    "document_or_accession_number": "AA.19, 각인 D 49363",
+    "locator": "Création, Technique, Contexte, Inscription",
+    "url": "https://musees-reims.fr/oeuvre/fusil-mitrailleur-mac-24-29",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "초기 1924형의 7.5 × 58에서 개량형 24/29의 7.5 × 54로 변경, 개량 부위, 소장품의 시기와 각인."
+    ],
+    "limitations": [
+      "소장품 제작 연대는 1945–1957년으로 분류된다. 전시 부대별 지급 수량은 없다."
+    ],
+    "rights": "소장처와 사진 권리 표기 준수. 자체 요약과 링크만 사용.",
+    "independence_group": "랭스 박물관 소장품"
+  },
+  {
+    "id": "CAT-FR-SRC-0046",
+    "title": "Geweermitrailleur Frans model Châtellerault Mle 24 M29, kaliber 7.5 x 54",
+    "institution_or_author": "Nationaal Militair Museum",
+    "publication_date": null,
+    "source_type": "primary: 소장품의 후대 목록",
+    "document_or_accession_number": "001759",
+    "locator": "Object 및 Vervaardiging",
+    "url": "https://collectie.nmm.nl/nl/collectie/detail/262687/",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "샤텔로 제조, Mle 24 M29, 7.5 × 54 mm 표기와 소장품 제작 연대 범위 1929–1940년."
+    ],
+    "limitations": [
+      "개별 제작일, 지급처와 실제 교전은 목록에 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "네덜란드 국립군사박물관 소장품"
+  },
+  {
+    "id": "CAT-FR-SRC-0047",
+    "title": "Description, conduite, entretien et graissage — Moto tous terrains Terrot 750 cm³ type VAtt avec side-car D P",
+    "institution_or_author": "Établissements Terrot / 디지털 복제 terrot.eu",
+    "publication_date": "미상(본문에 1936-05-01자 요구조건 인용)",
+    "source_type": "primary: 제조사 기술 설명서의 디지털 복제",
+    "document_or_accession_number": null,
+    "locator": "표지와 인쇄 43–45쪽, Carrosserie",
+    "url": "https://terrot.eu/images/terrot/doc_technique/terrot/Description_conduite_entretien_750_VAtt_DP.pdf",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Dragons portés 사이드카에 FM Mle 1924-M.29 1정과 탄창 가방을 넣도록 한 설계."
+    ],
+    "limitations": [
+      "발행일과 소장번호 미표기. 실제 배치·적재 실적을 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "테로 제조사 설명서"
+  },
+  {
+    "id": "CAT-FR-SRC-0048",
+    "title": "Notice sur le fusil-mitrailleur, modèle 1924-M. 29",
+    "institution_or_author": "프랑스 국방·전쟁부 / Imprimerie nationale / Bibliothèque nationale de France",
+    "publication_date": "1940(1939-09-13 승인)",
+    "source_type": "archive_catalog: 당대 교범의 후대 서지",
+    "document_or_accession_number": "FRBNF44225446, 8-V-54579, NUMM-9738490",
+    "locator": "제목, 발행, 물리 형태 및 소장란",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb44225446d",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "승인일과 국립인쇄소 발행연도 및 소장번호."
+    ],
+    "limitations": [
+      "Gallica 본문이 HTTP 403이어서 서지만 확인했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "프랑스국립도서관 서지"
+  },
+  {
+    "id": "CAT-FR-SRC-0049",
+    "title": "Sources d’archives pour l’histoire de la Manufacture d’Armes de St-Etienne",
+    "institution_or_author": "Service historique de la Défense, Centre des archives de l’armement et du personnel civil",
+    "publication_date": "2016-10(공개 슬라이드)",
+    "source_type": "primary_excerpt: 후대 기록원 발표에 실린 당대 시험 문서 표지·사진",
+    "document_or_accession_number": "SHDAA 2H3 n° 431 carton 5, Question n° 452, Note n° 1",
+    "locator": "같은 소장번호의 슬라이드, 문서 표지와 Photographie n° 2",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2019-04/20161012-armement_mas_der.pdf",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936-04-20자 지시를 인용한 접철식 개머리판 시험 문서 표지 및 접은 상태의 사진."
+    ],
+    "limitations": [
+      "시험 문서의 본문과 채택·납품·실전 기록은 발췌에 없다."
+    ],
+    "rights": "발표 말미 CC BY-NC 표기. 발췌 이미지 재배포 없이 링크와 자체 요약만 사용.",
+    "independence_group": "부르주 시험위원회"
+  },
+  {
+    "id": "CAT-FR-SRC-0050",
+    "title": "F.R. M.A.S. 36 — Fusil à répétition de la Manufacture d’Armes de Saint Etienne modèle 1936 et ses dérivés",
+    "institution_or_author": "Alain Tomëï / Monsieur Légionnaire 공개 PDF",
+    "publication_date": null,
+    "source_type": "secondary: 형식별 기술 편찬, 당대 지침 표지 발췌 포함",
+    "document_or_accession_number": "1940-04 임시 지침 표지 n° 488 42 T",
+    "locator": "기본형 Renseignements numériques, Documentation의 1940년 4월 표지",
+    "url": "https://www.monsieur-legionnaire.org/pdf/FR-MAS-36.pdf",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기본형 길이·탄창·Mle 1929 C 탄종 및 질량 조건, 1940년 임시 지침의 CR 39 부록 표기."
+    ],
+    "limitations": [
+      "기술 제원은 후대 편찬이며 지침은 표지만 확인했다. 시험 성적과 생산·지급 수량의 근거로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "톰에이 형식별 편찬"
   }
 ]

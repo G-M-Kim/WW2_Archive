@@ -229,5 +229,47 @@
     ],
     "evidence": "다른 전투기와 폭격·공격·정찰·훈련·연락·수상기 및 글라이더는 미조사 후보다.",
     "completion_condition": "당대 교범·운용 부대일지·인수 자료로 형식·용도·무장·비행 조건 및 프랑스 내 실제 운용 주체를 구분한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0018",
+    "status": "open",
+    "question": "MAS 36 기본형과 CR 39의 전시 납품·지급 규모 및 기본형의 질량 조건은 무엇인가?",
+    "related_ids": [
+      "CAT-FR-EQP-0011",
+      "CAT-FR-SRC-0043",
+      "CAT-FR-SRC-0044",
+      "CAT-FR-SRC-0049",
+      "CAT-FR-SRC-0050"
+    ],
+    "evidence": "1938년 실물과 1940년 CR 39 부록 표지를 확인했다. 소총 질량 3.78 kg과 3.720 kg의 측정 조건을 맞출 수 없고 접철형의 전시 출고·지급은 미확인이다.",
+    "completion_condition": "연도별 검수·인도 장부와 부대별 수령 기록을 대조하고 제식표에서 탄약·총검·부속품 포함 조건을 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0019",
+    "status": "open",
+    "question": "FM 24/29의 교범상 사거리·휴대량과 전시 부대별 지급·사용은 어떻게 구분되는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0012",
+      "CAT-FR-SRC-0044",
+      "CAT-FR-SRC-0045",
+      "CAT-FR-SRC-0046",
+      "CAT-FR-SRC-0047",
+      "CAT-FR-SRC-0048"
+    ],
+    "evidence": "현존 소장품의 제식 표기 및 제작사 적재 목록을 확인했다. Gallica 교범은 403, CLADE 목록은 시간 초과였고 ECPAD 사진 주소는 기록관 일반 안내로 이동했다.",
+    "completion_condition": "당대 지침의 해당 사격·편제표를 열람하고 배치 보고·지급 원장 및 ECPAD 사진 4ARMEE 26 D232, 1ARMEE 6 A22의 목록을 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0020",
+    "status": "open",
+    "question": "대표 무기·군장 이외의 프랑스 보병 장비는 시기와 운용 부대에 따라 어떻게 바뀌었는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0013",
+      "CAT-FR-EQP-0014",
+      "CAT-FR-SRC-0044",
+      "CAT-FR-SRC-0048"
+    ],
+    "evidence": "나르비크 SBSP 개인 장구를 예로 들었다. 프랑스군의 보호·통신·의무 장비, 나머지 화기와 자유프랑스·재편 부대의 후반기 공여품은 후보로 남겼다.",
+    "completion_condition": "프랑스 육군의 부대별 편제·실보급표, 자유프랑스 및 후반기 공여 장부와 소장품의 전시 이력을 확인한다."
   }
 ]
