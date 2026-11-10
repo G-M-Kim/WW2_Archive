@@ -314,8 +314,9 @@
     "category": "항공기, 무장, 성능",
     "article_path": "categories/france/04-aircraft.md",
     "planned_at": "2026-11-10T17:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-FR-04.json",
+    "completed_at": "2026-11-10T20:58:41+09:00"
   },
   {
     "step": 24,

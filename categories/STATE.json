@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 23,
-  "CAT_VISITED_COUNT": 22,
-  "CAT_LAST_JOB_ID": "CAT-FR-03",
+  "CAT_NEXT_STEP": 24,
+  "CAT_VISITED_COUNT": 23,
+  "CAT_LAST_JOB_ID": "CAT-FR-04",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-10T19:00:44+09:00",
-  "note": "프랑스 03 함선·함정 대표 두 척 부분 조사 저장. 첫 방문 22/133, 다음 CAT-FR-04."
+  "updated_at": "2026-11-10T20:58:41+09:00",
+  "note": "프랑스 04 항공기 대표 두 기종 부분 조사 저장. 첫 방문 23/133, 다음 CAT-FR-05."
 }

@@ -712,5 +712,145 @@
     ],
     "rights": "저자 © 2006 표기. 자체 요약과 링크만 사용.",
     "independence_group": "mason-british-minelaying"
+  },
+  {
+    "id": "CAT-FR-SRC-0036",
+    "title": "Dewoitine D 520",
+    "institution_or_author": "Musée de l’Air et de l’Espace",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 소장기 및 기종 해설",
+    "document_or_accession_number": "전시 기체 n°862",
+    "locator": "제목 아래 제원 목록, Trop tard…, L’exemplaire du musée, Les victoires des D 520 durant la Bataille de France",
+    "url": "https://www.museeairespace.fr/aller-plus-haut/collections/dewoitine-d-520/",
+    "accessed_at": "2026-11-10T20:58:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "12 Y 45 엔진·기관포와 기관총 구성, 표의 질량·속도·상승한도·거리, 첫 비행과 부대 배치, 862호의 이력과 도색."
+    ],
+    "limitations": [
+      "비행시험 조건·시험기 번호가 제시되지 않으며 전시기 도색은 다른 기체를 재현한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "프랑스 항공우주박물관"
+  },
+  {
+    "id": "CAT-FR-SRC-0037",
+    "title": "Report on Royal Air Force Operations in Syria, between 8th June and 11th July, 1941",
+    "institution_or_author": "Air Commodore L. O. Brown / Royal Air Force, Air Historical Branch",
+    "publication_date": "1941년 작전 보고(표지 작성일 미확인)",
+    "source_type": "primary: 당대 지휘관 작전보고",
+    "document_or_accession_number": "Copy No. 3(표지)",
+    "locator": "§60(iv)–(v), 1941-07-11, 인쇄 39쪽",
+    "url": "https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/ahb-despatches-and-reports/report-on-raf-operations-in-syria-8jun-11jul1941/",
+    "accessed_at": "2026-11-10T20:58:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "하마에서 기총소사 중인 토마호크 1기의 D.520에 의한 격추를 보고한다."
+    ],
+    "limitations": [
+      "영국군의 교전 기록과 상대 기종 식별이다. 비시 측 기체 번호나 전과 판정과 대조하지 못했다."
+    ],
+    "rights": "영국 공군이 공개한 기밀 해제 스캔. 권리의 추가 확인이 필요한 원문은 링크만 사용.",
+    "independence_group": "영국 공군 레반트 작전보고"
+  },
+  {
+    "id": "CAT-FR-SRC-0038",
+    "title": "Three unidentified Australian ground crew members from No 3 Squadron RAAF, standing on the starboard wing of a damaged Vichy French aircraft",
+    "institution_or_author": "촬영자 미상 / Australian War Memorial",
+    "publication_date": "1941-06경(소장처 추정)",
+    "source_type": "primary: 당대 사진 및 후대 목록 설명",
+    "document_or_accession_number": "P02541.001",
+    "locator": "소장 이미지의 전경과 좌측 배경, Description, Place made",
+    "url": "https://www.awm.gov.au/collection/C333209",
+    "accessed_at": "2026-11-10T20:58:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "라야크 비행장 손상 기체 사진과 박물관이 D.520으로 식별한 좌측 배경 잔해."
+    ],
+    "limitations": [
+      "정확한 촬영일과 개별 기체 번호 미확인. 잔해 기종 식별은 소장처 설명에 의존."
+    ],
+    "rights": "소장처 표기 Public Domain. 자체 요약과 링크만 사용.",
+    "independence_group": "호주군 사진 기록"
+  },
+  {
+    "id": "CAT-FR-SRC-0039",
+    "title": "MB 220-221 : origines, caractéristiques et performances",
+    "institution_or_author": "Dassault Aviation",
+    "publication_date": null,
+    "source_type": "secondary: 후대 제조사 역사·제원",
+    "document_or_accession_number": null,
+    "locator": "Origines et prototypes, Production et utilisation opérationnelle, Fiche technique",
+    "url": "https://www.dassault-aviation.com/fr/passion/avions/bloch-civils/mb-220-221/",
+    "accessed_at": "2026-11-10T20:58:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "MB.220 초도비행·정기편·1939년 징발 수량, 기체 및 엔진·속도·거리·승객 제원, MB.221 엔진 형식."
+    ],
+    "limitations": [
+      "징발 원장, 노획 명부, 시험표 및 항속 조건을 게시하지 않는다. 양산형과 시제형 제원은 분리했다."
+    ],
+    "rights": "다소 항공 및 각 사진의 별도 권리 표기를 따른다. 자체 요약과 링크만 사용.",
+    "independence_group": "다소 항공의 기종 연혁"
+  },
+  {
+    "id": "CAT-FR-SRC-0040",
+    "title": "Une flotte de légende",
+    "institution_or_author": "Air France",
+    "publication_date": null,
+    "source_type": "secondary: 항공사 기단 연혁",
+    "document_or_accession_number": null,
+    "locator": "Dewoitine 338, le fleuron d’avant-guerre 첫 문단",
+    "url": "https://corporate.airfrance.com/fr/une-flotte-de-legende",
+    "accessed_at": "2026-11-10T20:58:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "MB.220의 유럽 중거리 노선 도입과 19석·복엽기 표기."
+    ],
+    "limitations": [
+      "좌석 기준을 명시하지 않는다. 복엽기·좌석 표기는 다소 제원과 대조 대상이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "에어프랑스 기단 연혁"
+  },
+  {
+    "id": "CAT-FR-SRC-0041",
+    "title": "La vitesse des avions : ses progrès, ses limites",
+    "institution_or_author": "Pierre Sarlac / La Science et la Vie / Cnum (Cnam)",
+    "publication_date": "1945-02",
+    "source_type": "primary: 전쟁 중 기술지에 실린 제원 비교 서술",
+    "document_or_accession_number": "제67권 제329호, Cnum SCVIE.329",
+    "locator": "인쇄 72–73쪽, Comment accroître la vitesse des avions ?",
+    "url": "https://cnum.cnam.fr/pgi/redir.php?ident=SCVIE.329&onglet=c",
+    "accessed_at": "2026-11-10T20:58:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 기술지의 MB.220 순항 300 km/h 표기."
+    ],
+    "limitations": [
+      "성능 시험보고가 아니며 해당 순항 수치의 고도, 중량과 출력을 명시하지 않는다."
+    ],
+    "rights": "Cnum이 공개한 본문 전사. 자체 요약과 링크만 사용.",
+    "independence_group": "1945년 기술지"
+  },
+  {
+    "id": "CAT-FR-SRC-0042",
+    "title": "Air France — Crash of a Bloch MB.220 off Marseille",
+    "institution_or_author": "Bureau of Aircraft Accidents Archives",
+    "publication_date": null,
+    "source_type": "secondary: 후대 항공사고 편찬",
+    "document_or_accession_number": "F-AQNL, MSN 12",
+    "locator": "Air France 사고 목록, 1941-09-01 항목, Registration·Flight Type·Schedule·Circumstances",
+    "url": "https://www.baaa-acro.com/operator/air-france?page=60",
+    "accessed_at": "2026-11-10T20:58:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "MB.220 12호기 F-AQNL의 1941-09-01 마르세유–툴루즈 정기편 및 볼몽 연못 사고."
+    ],
+    "limitations": [
+      "사고 조사 원문이 아니다. 개별기 운항 사례 확인에만 사용하며 사고 원인과 징발 소속 변동을 확정하지 않는다."
+    ],
+    "rights": "사이트 저작권 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "항공사고 편찬"
   }
 ]
