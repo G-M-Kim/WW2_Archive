@@ -1,0 +1,71 @@
+{
+  "step": 28,
+  "job_id": "CAT-FR-09",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 9,
+  "category": "유명한 학자·연구자",
+  "article_path": "categories/france/09-scientific-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-11T06:57:35+09:00",
+  "started_at": "2026-11-11T06:51:12+09:00",
+  "base_head": "c262d5c7616eec26bce5feb46f6104405423a1a9",
+  "source_ids": [
+    "CAT-FR-SRC-0052",
+    "CAT-FR-SRC-0053",
+    "CAT-FR-SRC-0082",
+    "CAT-FR-SRC-0083",
+    "CAT-FR-SRC-0084",
+    "CAT-FR-SRC-0085",
+    "CAT-FR-SRC-0086",
+    "CAT-FR-SRC-0087",
+    "CAT-FR-SRC-0088",
+    "CAT-FR-SRC-0089",
+    "CAT-FR-SRC-0090",
+    "CAT-FR-SRC-0091"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0030",
+    "CAT-FR-RQ-0031",
+    "CAT-FR-RQ-0032"
+  ],
+  "entity_ids": [
+    "CAT-FR-PER-0007",
+    "CAT-FR-PER-0008",
+    "CAT-FR-PER-0009",
+    "CAT-FR-PER-0010",
+    "CAT-FR-PER-0011"
+  ],
+  "research_scope": "졸리오퀴리·페랭·할반·코바르스키의 전전 핵분열 연구와 전시 영국·캐나다 연구, 다비드의 프랑스 방공 탐지 연구.",
+  "limitations": [
+    "특허는 표제부 확인 범위. 초기 실험 원표, 개인별 발명 기여와 귀화 명령 원문은 미대조.",
+    "케임브리지 중수 실험 원보고서와 이송 명세 미확보. 캐나다 ZEEP의 첫 임계는 종전 직후 성과로 분리.",
+    "다비드의 시험 성과는 후대 연구와 군사사 해설 범위. 항공공학·전시의학·암호 연구는 후속 범위."
+  ],
+  "evidence_checked": [
+    "프랑스 특허 제976.541·976.542·971.324호 표제부의 출원일과 공개일, 페랭의 1939년 논문 1394쪽 원판면",
+    "코크크로프트 회고 18–19쪽, MAUD 폭탄 보고서 §1 전사, 코바르스키 구술 전사, 캐나다 NRC 연혁",
+    "블랑샤르의 Pierre David 논문 18–22·27–31쪽, Revue historique des Armées 184쪽"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.nature.com/articles/143680a0",
+      "result": "당대 중성자 실험 논문 본문이 로그인 경로로 연결됐다. CNRS와 Mongin의 서술에 근거한 요약만 사용."
+    },
+    {
+      "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?src=CalmView.Catalog&id=MS%2F850",
+      "result": "왕립학회 MS/850 조회 타임아웃. 케임브리지 원실험 기록을 검증 쟁점에 등록."
+    },
+    {
+      "url": "https://gallica.bnf.fr/",
+      "result": "페랭 논문 Gallica 직접 호출 403. 동일 권호의 위키문헌 호스팅 원판 스캔 1394쪽을 확인."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=28 pending=105; sources=339 questions=125. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

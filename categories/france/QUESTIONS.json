@@ -394,5 +394,50 @@
     ],
     "evidence": "이번 원고는 페탱·라발·드골의 선택된 문서로 한정했다.",
     "completion_condition": "달라디에·레노 내각, 알제의 공동지도부와 국내 저항 대표의 회의록·명령·외교문서를 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0030",
+    "status": "open",
+    "question": "파리 연구팀의 1939년 관측·계산과 특허 초안에서 연구자별 역할은 어떻게 드러나는가?",
+    "related_ids": [
+      "CAT-FR-PER-0007",
+      "CAT-FR-PER-0008",
+      "CAT-FR-PER-0009",
+      "CAT-FR-PER-0010",
+      "CAT-FR-SRC-0082",
+      "CAT-FR-SRC-0086",
+      "CAT-FR-SRC-0088",
+      "CAT-FR-SRC-0090"
+    ],
+    "evidence": "특허 표제부는 기관 명의를 표시한다. Nature 원문과 연구노트, 할반·코바르스키의 귀화 명령 원문은 미확보.",
+    "completion_condition": "1939년 논문과 실험 원표·출원철을 비교하고 귀화 날짜를 관보 또는 귀화 명령 원본으로 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0031",
+    "status": "open",
+    "question": "케임브리지 실험의 실측과 외삽, 중수 이송 내역은 원문에서 어떻게 구분되는가?",
+    "related_ids": [
+      "CAT-FR-PER-0009",
+      "CAT-FR-PER-0010",
+      "CAT-FR-SRC-0083",
+      "CAT-FR-SRC-0085",
+      "CAT-FR-SRC-0087",
+      "CAT-FR-SRC-0091"
+    ],
+    "evidence": "영국 측 참여자 회고와 프랑스 연구사는 이송과 연구의 큰 흐름에서 일치한다. 서로 다른 단위의 중수 수치는 채택하지 않았다.",
+    "completion_condition": "당시 운송·인수 명세와 왕립학회 MS/850 및 관련 영국 위원회 실험 보고서를 대조해 실제 사용량과 실험 조건·결론을 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0032",
+    "status": "open",
+    "question": "다비드 연구의 현장 시험에서 설계·계측·채택의 책임은 어떻게 나뉘며, 다른 전시 연구 분야의 대표 사례는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-PER-0011",
+      "CAT-FR-SRC-0052",
+      "CAT-FR-SRC-0053",
+      "CAT-FR-RQ-0021"
+    ],
+    "evidence": "다비드의 고안과 폴 라바의 군 시험 참여를 구분했다. 항공공학·전시의학·암호 분야는 이번 범위 밖이다.",
+    "completion_condition": "CEAM/SHAT 7 N 3946의 시험 기록을 확인하고, 다른 분야는 동시대 논문·발주·실제 적용 기록을 연결한다."
   }
 ]

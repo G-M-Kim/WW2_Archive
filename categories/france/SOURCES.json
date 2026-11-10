@@ -1632,5 +1632,205 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "us-diplomatic-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0082",
+    "title": "Brevets nos 976.541, 976.542 et 971.324 (fac-similés des cartouches)",
+    "institution_or_author": "Caisse nationale de la recherche scientifique / Service de la propriété industrielle / 재현 Paul Reuss·SFEN",
+    "publication_date": "1939-05-01 / 1939-05-02 / 1939-05-04 (출원), 1951 (공개)",
+    "source_type": "primary",
+    "document_or_accession_number": "FR 976.541, FR 976.542, FR 971.324",
+    "locator": "La fabuleuse histoire de l’énergie nucléaire, Partie 1, Les brevets de l’équipe Joliot 슬라이드 오른쪽 표제부",
+    "url": "https://alpes.sfen-regions.org/wp-content/uploads/sites/2/2022/03/2021-11-30_Presentation_Histoire_Energie_nucle%CC%81airePartie1.pdf",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "표제부의 출원인, 세 출원 날짜, 각각의 기술 주제와 1951년 공개 날짜."
+    ],
+    "limitations": [
+      "슬라이드의 관청 문서 표제부로 확인. 청구항 전문, 발명자별 역할, 제작·시험을 입증하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "french-nuclear-patent-facsimiles"
+  },
+  {
+    "id": "CAT-FR-SRC-0083",
+    "title": "Aux origines du programme atomique militaire français",
+    "institution_or_author": "Dominique Mongin / Matériaux pour l’histoire de notre temps",
+    "publication_date": "1993",
+    "source_type": "secondary",
+    "document_or_accession_number": "doi:10.3406/mat.1993.404097",
+    "locator": "31호, 13쪽, 전전 특허·도트리·1940년 중수 이송 단락",
+    "url": "https://www.persee.fr/doc/mat_0769-3206_1993_num_31_1_404097",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "졸리오가 이끈 팀의 구성과 특허, 군수부 지원, 할반과 코바르스키의 영국행."
+    ],
+    "limitations": [
+      "연구사 서술. 중수 총량은 자료마다 단위와 수치가 달라 본문에서 확정하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "mongin"
+  },
+  {
+    "id": "CAT-FR-SRC-0084",
+    "title": "Les origines françaises de la bombe atomique",
+    "institution_or_author": "Mathieu Grousson / CNRS Le journal",
+    "publication_date": "2025-10-13",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "핵분열과 중성자 단락, Brevets français 및 La crainte d’une bombe nazie 절",
+    "url": "https://lejournal.cnrs.fr/articles/les-origines-francaises-de-la-bombe-atomique",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 파리 팀의 중성자 연구, 특허 준비에 참여한 연구자와 프랑스에 남은 졸리오."
+    ],
+    "limitations": [
+      "후대 기관 해설. 실험 수치와 특허 날짜는 원문과 따로 대조해야 함."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "cnrs-grousson"
+  },
+  {
+    "id": "CAT-FR-SRC-0085",
+    "title": "The Early Days of the Canadian and British Atomic Energy Projects",
+    "institution_or_author": "John Cockcroft / IAEA Bulletin",
+    "publication_date": "1962",
+    "source_type": "primary",
+    "document_or_accession_number": "IAEA Bulletin, 04004701820su",
+    "locator": "18–19쪽, 1940년 케임브리지 실험, 몬트리올 이동과 ZEEP 단락",
+    "url": "https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull4-0/04004701820su.pdf",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐번디시에서 중수 연구를 지원한 참여자의 회고, 몬트리올 연구팀 이동, 코바르스키의 ZEEP 책임과 NRC 협업."
+    ],
+    "limitations": [
+      "전후 참여자 회고. 당시 실험 장치의 임계 여부와 실험 결론의 표현은 원보고서로 구분해야 함."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "cockcroft-recollection"
+  },
+  {
+    "id": "CAT-FR-SRC-0086",
+    "title": "Les chercheurs français dans les projets Manhattan et Tube Alloys, 1939–1945",
+    "institution_or_author": "Hervé Delime / Université de Strasbourg",
+    "publication_date": "2022-11-25",
+    "source_type": "secondary",
+    "document_or_accession_number": "ED 221",
+    "locator": "서론의 시기 구분, §1.2.1.1, §1.2.2.1, §1.8.1–1.8.2, §2.3.8",
+    "url": "https://publication-theses.unistra.fr/public/theses_doctorat/2022/DELIME_Herve_2022_ED221.pdf",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "할반과 코바르스키의 출생·귀화, 전시 인력 배치, 영국과 캐나다의 소속·업무 변화."
+    ],
+    "limitations": [
+      "인용한 기록에 근거한 박사논문. 귀화 명령 원문과 개별 연구노트는 이 원고에서 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "delime"
+  },
+  {
+    "id": "CAT-FR-SRC-0087",
+    "title": "1946–1964",
+    "institution_or_author": "National Research Council Canada",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "From nuclear pioneers to leaders / Nuclear energy for peaceful purposes",
+    "url": "https://nrc.canada.ca/en/corporate/history/1946-1964",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐나다 초크리버 ZEEP의 1945년 9월 5일 첫 임계, 캐나다·영국·프랑스 협업."
+    ],
+    "limitations": [
+      "기관 연혁이며 운전 일지 원본이나 각 연구자의 개별 역할을 제시하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "canada-nrc"
+  },
+  {
+    "id": "CAT-FR-SRC-0088",
+    "title": "Calcul relatif aux conditions éventuelles de transmutation en chaîne de l’uranium",
+    "institution_or_author": "Francis Perrin / Académie des sciences",
+    "publication_date": "1939-05-01",
+    "source_type": "primary",
+    "document_or_accession_number": "Comptes rendus, t. 208, no 18, pp. 1394–1396",
+    "locator": "첫 페이지 1394쪽, DjVu 1482, 제목·저자·첫 모델 가정",
+    "url": "https://fr.wikisource.org/wiki/Page:Comptes_rendus_hebdomadaires_des_s%C3%A9ances_de_l%E2%80%99Acad%C3%A9mie_des_sciences,_tome_208,_1939.djvu/1482",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "원판면의 페랭 저자명과 빠른 중성자, 구형 물질의 가정."
+    ],
+    "limitations": [
+      "Gallica 직접 호출 403. Wikimedia에 호스팅된 당대 원판 스캔 첫 쪽을 사용하고 미교정 전사 수치에는 의존하지 않음."
+    ],
+    "rights": "공개 스캔의 재사용 조건은 별도 확인. 자체 요약과 링크만 사용.",
+    "independence_group": "perrin-cras-1939"
+  },
+  {
+    "id": "CAT-FR-SRC-0089",
+    "title": "Francis Perrin",
+    "institution_or_author": "Collège de France",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Biographie의 1939–1943년 항목",
+    "url": "https://www.college-de-france.fr/fr/personne/francis-perrin",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "방공포병 장교 동원과 컬럼비아대학교 초빙교수 근무."
+    ],
+    "limitations": [
+      "기관 이력 요약이며 전시 업무 전체나 연구 결과를 다루지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "college-de-france"
+  },
+  {
+    "id": "CAT-FR-SRC-0090",
+    "title": "Lew Kowarski’s Interview – Part 2",
+    "institution_or_author": "Lew Kowarski, Stéphane Groueff / National Museum of Nuclear Science & History",
+    "publication_date": "1964-11-29",
+    "source_type": "primary",
+    "document_or_accession_number": "Stéphane Groueff collection",
+    "locator": "인터뷰 전사, 프랑스 시민권과 시카고 방문 대목",
+    "url": "https://ahf.nuclearmuseum.org/voices/oral-histories/lew-kowarskis-interview-part-2/",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "코바르스키가 직접 회고한 1939년 11월 프랑스 귀화와 캐나다 연구 맥락."
+    ],
+    "limitations": [
+      "참여자의 전후 구술. 녹음 전체와 귀화 명령 원문은 미대조."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "kowarski-groueff"
+  },
+  {
+    "id": "CAT-FR-SRC-0091",
+    "title": "Report by MAUD Committee on the Use of Uranium for a Bomb",
+    "institution_or_author": "MAUD Committee / Margaret Gowing 전재 / Atomic Archive 웹 전사",
+    "publication_date": "1941-07",
+    "source_type": "primary",
+    "document_or_accession_number": "MAUD Committee Report (폭탄 보고서)",
+    "locator": "Outline of Present Knowledge, §1 General Statement",
+    "url": "https://www.atomicarchive.com/resources/documents/beginnings/maud.html",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "폭탄 보고서가 중수 경로의 즉각적인 군사적 가치를 낮게 평가한 당시 판단."
+    ],
+    "limitations": [
+      "폭탄 보고서의 후대 전사본. 별도 동력 보고서나 원본의 부록은 이 페이지에서 확인하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "maud-bomb-report"
   }
 ]

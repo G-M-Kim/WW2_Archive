@@ -384,8 +384,9 @@
     "category": "유명한 학자·연구자",
     "article_path": "categories/france/09-scientific-personnel.md",
     "planned_at": "2026-11-11T03:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-FR-09.json",
+    "completed_at": "2026-11-11T06:57:35+09:00"
   },
   {
     "step": 29,
