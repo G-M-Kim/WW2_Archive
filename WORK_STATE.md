@@ -1,11 +1,14 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1941-12-09
-FORWARD_INSPECTED_THROUGH: 1941-12-08
-CURRENT_FORWARD_BATCH: 1941-12-09..1941-12-11
+FORWARD_CURSOR: 1941-12-12
+FORWARD_INSPECTED_THROUGH: 1941-12-11
+CURRENT_FORWARD_BATCH: 1941-12-12..1941-12-14
 TOTAL_EVT_SRC_RQ: 3613/2044/1227
 AS_OF: 2026-11-10
 
-## 최신 전진 실행 — 2026-11-10 (12월 6~8일)
+## 최신 전진 실행 — 2026-11-10 (12월 9~11일)
+- FRUS 중국 12/9 선전포고·12/11 대사 보고, 미 해군·AWM Force Z 12/10 자료 선별 확인. 신규 0/0/0, 누적 3613/2044/1227. [감사](source-audit-1941-dec09-11-batch1.md). RQ-0003/RQ-0007 backfill. 다음 1941-12-12.
+
+## 이전 전진 실행 — 2026-11-10 (12월 6~8일)
 - FRUS·JACAR·미 국립문서기록관리청·영국 의회 1차 기록/해설 5건 선별 감사. 신규 0/0/0, 누적 3613/2044/1227. [감사](source-audit-1941-dec06-08-batch1.md). 타전역 및 도착시각 RQ-0003/RQ-0007 backfill. 다음 1941-12-09.
 
 ## 후속 보완 — 2026-11-10
