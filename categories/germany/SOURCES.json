@@ -5,7 +5,7 @@
     "institution_or_author": "United States War Department; U.S. Government Printing Office",
     "publication_date": "1945-03-15（발행문; 해당 본문 머리말 1945-03-01）",
     "source_type": "primary: 동시대 적군 정보 교범 원문 스캔",
-    "locator": "TM-E 30-451; 제목지 PDF 2, 서문 PDF 3; Chapter VII §VI.3~4, VII-79~85 (PDF 389~395); 시각 판독 PDF 390, 392, 393, 395; CAT-DE-02 추가: VII §V.1.c VII-57(PDF 367) 텍스트; §V.2.a VII-58(PDF 368), §VI.6 VII-88(PDF 398) 시각 판독; CAT-DE-05: VII §II.5.a VII-5(PDF 315), §II.6.b VII-8(PDF 318), §II.7.b(3) VII-11(PDF 321)",
+    "locator": "TM-E 30-451; 제목지 PDF 2, 서문 PDF 3; Chapter VII §VI.3~4, VII-79~85 (PDF 389~395); 시각 판독 PDF 390, 392, 393, 395; CAT-DE-02 추가: VII §V.1.c VII-57(PDF 367) 텍스트; §V.2.a VII-58(PDF 368), §VI.6 VII-88(PDF 398) 시각 판독; CAT-DE-05: VII §II.5.a VII-5(PDF 315), §II.6.b VII-8(PDF 318), §II.7.b(3) VII-11(PDF 321); CAT-DE-01 후속: VII §VI.3.b–d, VII-76~79 HTML 전사본(https://www.ibiblio.org/hyperwar/Germany/HB/HB-7.html)",
     "url": "https://www.ibiblio.org/hyperwar/USA/ref/TM/pdfs/TME30-451.PDF",
     "access_status": "source_checked",
     "claims_checked": [
@@ -13,14 +13,16 @@
       "Tiger Model E road speed 원문 15 mph와 후대 전사본 5 mph의 불일치",
       "발행일·정보 집계일 및 본문 머리말 날짜 구분",
       "CAT-DE-02: 자주포 분류의 역할 중첩, StuG III L/48의 무장·승무원·최대속력·선회/고저각, Sd.Kfz.251 및 251/16의 장갑수송 계열 분류",
-      "CAT-DE-05: Kar 98k의 43½in 및 98계열 탄약·클립 공통란, MG 42의 발사속도 종류·거치 구분, Panzerfaust 60의 조준기 거리와 중량 표기"
+      "CAT-DE-05: Kar 98k의 43½in 및 98계열 탄약·클립 공통란, MG 42의 발사속도 종류·거치 구분, Panzerfaust 60의 조준기 거리와 중량 표기",
+      "CAT-DE-01 후속: Panzer I A, II F, II L 및 III L/M의 교범상 승무원·무장·기동 수치"
     ],
     "limitations": [
       "독일 제조사 시험 원기록이 아닌 미군 정보자료; 실전 가동 성능으로 일반화 불가",
       "형식별 장갑·엔진·생산대장·시험 조건의 독립 검증은 미완",
       "전체 PDF의 모든 페이지를 검수하지 않음; PDF 교차참조 복구 경고 후 해당 페이지를 실제 렌더링·판독",
       "CAT-DE-02: StuG III 20 mph와 박물관 Ausf G 25 mph 불일치 미해결; 교범 표에 Ausf G 명시 없음",
-      "CAT-DE-05: MG 42의 발사속도·Panzerfaust 60의 중량 및 관통 측정 조건 미제시. 98계열의 공통 중량/유효거리는 98k 단독 제원으로 채택하지 않음."
+      "CAT-DE-05: MG 42의 발사속도·Panzerfaust 60의 중량 및 관통 측정 조건 미제시. 98계열의 공통 중량/유효거리는 98k 단독 제원으로 채택하지 않음.",
+      "CAT-DE-01 후속은 동일 판본의 HTML 전사본 해당 절을 대조했다. Luchs의 주포 형식·승무원은 박물관과 불일치하며, 이번에 해당 스캔 페이지를 재판독하지 않았다."
     ],
     "rights": "미 연방정부 당대 간행물. 원문/사진 재업로드 없이 자체 한국어 요약과 링크 사용.",
     "access_attempts": [
@@ -2911,5 +2913,171 @@
     ],
     "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
     "independence_group": "독일 환경청 기록 탐색 목록"
+  },
+  {
+    "id": "CAT-DE-SRC-0141",
+    "title": "Carro ligero Panzerkampfwagen I Ausf A",
+    "institution_or_author": "Ejército de Tierra, Museo de Medios Acorazados El Goloso",
+    "publication_date": "게시일 미확인",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "Panzerkampfwagen I Ausf A, Desarrollo·Características",
+    "url": "https://ejercito.defensa.gob.es/materiales/otros/museo_carros/museo-carros.html?__locale=es",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Ausf A의 MG 13 2정·승무원 2명 및 제원란의 최대 42 km/h"
+    ],
+    "limitations": [
+      "박물관 표에 측정 노면·하중과 시험 원기록 미제시"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0142",
+    "title": "Panzer II",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": "게시일 미확인",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "The Museum’s Panzer II·Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/panzer-ii?era=all",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Ausf F, 20 mm 포·7.92 mm 기관총 1정·3명",
+      "1941년 도입. 튀니지에서 영국군에 노획된 소장품의 1940년 프랑스 전역 표식은 전시용"
+    ],
+    "limitations": [
+      "주포 세부 모델과 40 km/h의 측정 조건 미제시. 요약 생산량의 집계 범위 미확인"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0143",
+    "title": "Panzer II Ausf L",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": "게시일 미확인",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "개발·발주·인도 문단 및 Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/panzer-ii-ausf-l?country=&era=WW2&tname=&tpage=1",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Luchs의 2 cm KwK 38·MG34 1정·승무원 4명",
+      "2 cm 양산형과 계획된 5 cm형 구분"
+    ],
+    "limitations": [
+      "교범 전사본의 3명 및 2 cm Kw.K.18과 상충. 독일군 장비 제식 문서와 양산대장 미확보"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0144",
+    "title": "Panzer III L",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": "게시일 미확인",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "The Tank Museum’s Panzer III L·Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/panzer-iii-l?country=all&era=all&tpage=1",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Ausf L 도입 시점과 50 mm 주포·7.92 mm 기관총 2정·승무원 5명",
+      "열대화 사양 소장품의 1942년 리비아 도착과 제8전차연대 지급"
+    ],
+    "limitations": [
+      "알람 할파 참가 가능성은 박물관 추정. 28 mph 측정조건과 653대의 공장 원장은 미확인"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0145",
+    "title": "Československý tank LT 35",
+    "institution_or_author": "Vojenský historický ústav Praha",
+    "publication_date": "2013-08-27",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "본문, 제작번호 10 112 및 체코슬로바키아 등록번호 13.962",
+    "url": "https://www.vhu.cz/lt-35/",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Škoda 개발, 소장 차량의 ČKD 생산·1937년 인수·1939년 독일군 편입"
+    ],
+    "limitations": [
+      "298대는 1936–1938년 체코슬로바키아군 인수량. 독일 인수량과 개별 차량의 전투 이력은 별도"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0146",
+    "title": "Lehký tank Praga LT vzor 38",
+    "institution_or_author": "Michal Burian, Vojenský historický ústav Praha",
+    "publication_date": "2018-12-24",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "본문 차대 008·1939년 폴란드 전역 단락 및 말미 제원",
+    "url": "https://www.vhu.cz/en/lehky-tank-praga-lt-vzor-38/",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "체코슬로바키아 개발·주문과 1939년 독일군 인수·Ausf A 폴란드 전역 운용",
+      "소장 사례의 Škoda A-7 3.7 cm 주포·기관총 2정·승무원 4명·최대 42 km/h"
+    ],
+    "limitations": [
+      "차대 008의 개별 전투 참가를 입증하는 기록 아님. 후속 형식 전체에 소장품 제원을 적용할 수 없음"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0147",
+    "title": "The Swedish King Tiger",
+    "institution_or_author": "Svensk PansarHistorisk Förening (SPHF)",
+    "publication_date": "게시일 미확인",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "Basic characteristics of the Swedish King Tiger, 차대번호 문단",
+    "url": "https://www.sphf.se/svenskt-pansar/fordon/utlandska-stridsfordon-i-sverige/en_the-swedish-king-tiger/",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "시제 V1·V2·V3와 별도의 양산 차대번호 280001–280489"
+    ],
+    "limitations": [
+      "후대 차량 식별 연구. Henschel 월별 공장 대장·인도 장부 또는 박물관 492 표기의 내부 산식은 미확보"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0148",
+    "title": "King Tiger V2",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": "게시일 미확인",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "The Tank Museum’s Tiger II (Pre-Production), Versuchs-Fahrgestell No. V2",
+    "url": "https://tankmuseum.org/tank_collection/king-tiger-v2?country=all&era=&tname=&tpage=1",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "시제 3대 중 V2의 1943년 12월 완성과 Henschel 시험 용도, 전투부대 미지급"
+    ],
+    "limitations": [
+      "보존품 안내이며 공장 전체 생산·검수·인도 장부 아님"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0149",
+    "title": "Vojenský historický ústav Praha, Výroční zpráva 2013",
+    "institution_or_author": "Vojenský historický ústav Praha",
+    "publication_date": "2013년 연차보고서",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "Lešany 전시 설명, PzKpfw 35(t) 문단",
+    "url": "https://www.vhu.cz/wp-content/uploads/2017/12/V%C3%BDro%C4%8Dn%C3%AD-zpr%C3%A1va-VH%C3%9A-Praha-2013.pdf",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "체코슬로바키아 LT vz. 35의 독일군 명칭 PzKpfw 35(t)"
+    ],
+    "limitations": [
+      "2013년 기관 해설. 독일군 배치·개장 원기록과 구분"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
   }
 ]

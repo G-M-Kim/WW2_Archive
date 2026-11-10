@@ -29,24 +29,33 @@
   },
   {
     "id": "CAT-DE-RQ-0003",
-    "status": "open",
+    "status": "in_progress",
     "question": "Tiger II 생산량 489와 492의 집계 차이는 무엇인가?",
     "related_ids": [
       "CAT-DE-EQP-0004",
-      "CAT-DE-SRC-0005"
+      "CAT-DE-SRC-0005",
+      "CAT-DE-SRC-0147",
+      "CAT-DE-SRC-0148"
     ],
-    "evidence": "The Tank Museum 동일 페이지 본문은 489, Tank facts는 492를 기재. 집계 차이 설명 미제시.",
+    "evidence": "The Tank Museum 동일 페이지 본문은 489, Tank facts는 492를 기재. 집계 차이 설명 미제시. 2026-11-10 후속: SPHF는 양산 차대번호 280001–280489와 별도의 시제 V1–V3를 명시한다. Tank Museum V2 소장품은 세 시제차 중 한 대다. 489+3=492로 두 수치의 차이를 설명할 수 있다. 박물관의 요약란 집계 정의와 공장 원장은 미확인이다.",
     "completion_condition": "공장 생산대장 또는 이를 문서번호로 인용한 연구에서 양산·시제품·차대·인도 수량과 기간을 구분하여 확증"
   },
   {
     "id": "CAT-DE-RQ-0004",
-    "status": "open",
+    "status": "in_progress",
     "question": "미방문 전차 계열과 시제품·노획·수입 운용의 범위를 어떻게 보완할 것인가?",
     "related_ids": [
-      "CAT-DE-SRC-0001"
+      "CAT-DE-SRC-0001",
+      "CAT-DE-SRC-0141",
+      "CAT-DE-SRC-0142",
+      "CAT-DE-SRC-0143",
+      "CAT-DE-SRC-0144",
+      "CAT-DE-SRC-0145",
+      "CAT-DE-SRC-0146",
+      "CAT-DE-SRC-0149"
     ],
-    "evidence": "이번 첫 검사는 네 계열의 대표 형식뿐이다. Panzer I·II·III, 35(t)·38(t), 지휘·화염방사·시제형 등은 후속 후보이며 상세 검증하지 않았다.",
-    "completion_condition": "범주별 목록과 형식·개발/양산/배치/실전 상태·독립 근거를 확보하고 기존 개체와 중복을 방지. 현재 정규 큐는 02번으로 전진"
+    "evidence": "이번 첫 검사는 네 계열의 대표 형식뿐이다. Panzer I·II·III, 35(t)·38(t), 지휘·화염방사·시제형 등은 후속 후보이며 상세 검증하지 않았다. 2026-11-10 후속: Panzer I A, II F/L, III L과 체코슬로바키아 기원의 35(t)·38(t) 사례를 보완했다. II L 주포·승무원은 교범과 박물관 사이에 차이가 있다. 각 계열의 다른 형식·지휘·화염방사·시제품·기타 노획 및 수입 운용은 남아 있다.",
+    "completion_condition": "범주별 목록과 형식·개발/양산/배치/실전 상태·독립 근거를 확보하고 기존 개체와 중복을 방지"
   },
   {
     "id": "CAT-DE-RQ-0005",
@@ -935,5 +944,17 @@
     ],
     "evidence": "이번 범위는 본토의 상설 교육·시험 거점 세 곳이다. 서로 다른 범위의 격납고 동수로 네 차원의 경계를 정할 수 없다.",
     "completion_condition": "상설 전투기·폭격기 기지, 임시 전진기지와 수상기 기지에서 개전 당일 실제 운용을 확인하고 7개국에 재사용할 차원별 정량 기준을 문서화한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0072",
+    "status": "open",
+    "question": "Panzer II Ausf L의 제식 주포와 승무원 구성이 두 자료에서 다른 이유는 무엇인가?",
+    "related_ids": [
+      "CAT-DE-EQP-0022",
+      "CAT-DE-SRC-0001",
+      "CAT-DE-SRC-0143"
+    ],
+    "evidence": "미군 교범 HTML 전사본은 2 cm Kw.K.18·3명, Tank Museum 소장품 안내는 2 cm KwK 38·4명으로 기록한다.",
+    "completion_condition": "미군 교범 VII-77 스캔을 전사본과 대조하고 독일군 제식 교범·차량 인수 및 편제 기록으로 양산형의 무장과 승무원을 확인한다."
   }
 ]
