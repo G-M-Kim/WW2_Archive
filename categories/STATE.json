@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 20,
-  "CAT_VISITED_COUNT": 19,
-  "CAT_LAST_JOB_ID": "CAT-DE-19",
+  "CAT_NEXT_STEP": 21,
+  "CAT_VISITED_COUNT": 20,
+  "CAT_LAST_JOB_ID": "CAT-FR-01",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-10T12:57:38+09:00",
-  "note": "독일 19 개전 해군기지 대표 두 곳 부분 조사 저장. 첫 방문 19/133, 다음 CAT-FR-01."
+  "updated_at": "2026-11-10T15:00:47+09:00",
+  "note": "프랑스 01 전차 대표 세 형식 부분 조사 저장. 첫 방문 20/133, 다음 CAT-FR-02."
 }

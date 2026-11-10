@@ -1,1 +1,202 @@
-[]
+[
+  {
+    "id": "CAT-FR-SRC-0001",
+    "title": "B1 BIS",
+    "institution_or_author": "Musée des Blindés, Saumur",
+    "publication_date": "2024-12-05",
+    "source_type": "secondary: 박물관 소장차 해설",
+    "document_or_accession_number": null,
+    "locator": "B1 BIS 본문 및 제원 목록",
+    "url": "https://museedesblindes.fr/les_chars/b1-bis/",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "무장 배치와 유압 조향, 중량·출력·속도·장갑 표기."
+    ],
+    "limitations": [
+      "시험 하중·노면·장갑 측정 위치 미제시."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "saumur-collections"
+  },
+  {
+    "id": "CAT-FR-SRC-0002",
+    "title": "Somua S 35",
+    "institution_or_author": "Musée des Blindés, Saumur",
+    "publication_date": "2024-06-25",
+    "source_type": "secondary: 박물관 소장차 해설",
+    "document_or_accession_number": null,
+    "locator": "Somua S 35 본문 및 Armement 등 제원 목록",
+    "url": "https://museedesblindes.fr/les_chars/somua-s35/",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스 기병 운용, 소장차 제2흉갑기병연대 이력, 무장과 기동·장갑 제원 표기."
+    ],
+    "limitations": [
+      "기관총 수는 Bovington 자료와 상충. 기동 시험조건 및 장갑 부위 미제시."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "saumur-collections"
+  },
+  {
+    "id": "CAT-FR-SRC-0003",
+    "title": "Renault R35",
+    "institution_or_author": "Musée des Blindés, Saumur",
+    "publication_date": "2024-06-25",
+    "source_type": "secondary: 박물관 소장차 해설",
+    "document_or_accession_number": null,
+    "locator": "Renault R35 도입·복원 본문 및 제원 목록",
+    "url": "https://museedesblindes.fr/les_chars/renault-r35/",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1935년 채택과 보병지원 용도, 중량·속도·출력·장갑·무장 표기."
+    ],
+    "limitations": [
+      "시험 조건과 포의 세부 형식은 미제시. 전시 위장 도색은 복원이라고 명시."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "saumur-collections"
+  },
+  {
+    "id": "CAT-FR-SRC-0004",
+    "title": "Le Char B 1 bis",
+    "institution_or_author": "Pierre Garnier de Labareyre / Chemins de mémoire, 프랑스 국방부",
+    "publication_date": null,
+    "source_type": "secondary: 국방부 역사 해설",
+    "document_or_accession_number": null,
+    "locator": "인쇄 14–15쪽, 사진 제원과 Son utilisation au combat",
+    "url": "https://www.cheminsdememoire.gouv.fr/sites/default/files/2019-06/char%20B1%20bis.pdf",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "B1과 B1 bis의 형식 차이, 두 포의 모델과 MAC 31 수, 승무원 4명, DCR 운용 및 차체포 조준."
+    ],
+    "limitations": [
+      "생산량은 B1과 B1 bis 합산. 기계 성능의 세부 시험조건과 전투별 손실 원부 미제시. 일부 제원 사진은 Saumur 제공."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "garnier-chemins-de-memoire"
+  },
+  {
+    "id": "CAT-FR-SRC-0005",
+    "title": "SOMUA S35",
+    "institution_or_author": "The Tank Museum, Bovington",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 소장차 해설",
+    "document_or_accession_number": null,
+    "locator": "The Tank Museum’s SOMUA S35, Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/somua-s35",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "47 mm SA 35, 기관총 한 정 표기, 승무원 3명과 1인 포탑, 독일 노획 후 개조 흔적, 제원."
+    ],
+    "limitations": [
+      "본문 약 500대와 제원란 440대의 집계 범위 불명. 기관총 수는 Saumur와 상충. 전시 표식과 실제 프랑스군 개별차 이력은 별개."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bovington-collections"
+  },
+  {
+    "id": "CAT-FR-SRC-0006",
+    "title": "A Technical Examination of the Main Armament of the French Char B1 bis Tank, the Best Armed Series-Produced Tank in Service in 1939",
+    "institution_or_author": "William S. Andrews, Royal Military College of Canada / ISoMS",
+    "publication_date": null,
+    "source_type": "secondary: 기술 발표 초록",
+    "document_or_accession_number": null,
+    "locator": "1쪽, 75 mm·47 mm 및 승무원 조작 문단",
+    "url": "https://www.isofms.org/resource/dm/438500250147557394.pdf?n=Andrews.pdf",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "75 mm SA35 차체 장착, 47 mm SA35 포탑 장착, 조종수와 전차장의 조준·사격 역할."
+    ],
+    "limitations": [
+      "공개 초록만 열람. 369대의 공장별 원부와 세부 집계 조건은 확인되지 않아 확정값으로 사용하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "andrews-isofms-abstract"
+  },
+  {
+    "id": "CAT-FR-SRC-0007",
+    "title": "Char B1 bis. Appareil « Naëder » – Ensemble. Coupe longitudinale",
+    "institution_or_author": "Ateliers de Construction de Rueil, Service des Études(게시처 표기)",
+    "publication_date": "1939년 설명서로 목록화, 도판 자체 날짜 미표기",
+    "source_type": "primary: 당대 정비 도판의 디지털 발췌",
+    "document_or_accession_number": "Notice sur la description et l’entretien du matériel, planche 30",
+    "locator": "PL. N°30, Générateur / Récepteur / Différentiel",
+    "url": "https://tanks-encyclopedia.com/wp-content/uploads/imported/ww2_france_char_b1_bis_php/KYCOSlz.png",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Naëder 장치의 종단면, 발전부·수신부·차동기 연결 표기."
+    ],
+    "limitations": [
+      "정비 도판 30번 이미지만 직접 열람. 전체 교범 판본과 소장번호는 미확인. 조준 절차는 별도 해설과 대조."
+    ],
+    "rights": "공개된 도판 복제의 권리 조건 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "rueil-b1bis-manual"
+  },
+  {
+    "id": "CAT-FR-SRC-0008",
+    "title": "Im Westen, zerstörter französischer Panzer Char B1",
+    "institution_or_author": "Heinz Fremke / Bundesarchiv",
+    "publication_date": "1940-05",
+    "source_type": "primary: 당대 사진, 기록관 배포 디지털 복제본",
+    "document_or_accession_number": "Bild 101I-125-0277-09, PK 689",
+    "locator": "사진 전체, 차체와 포탑 및 BEARN II 차량 표식",
+    "url": "https://www.bild.bundesarchiv.de/dba/de/search/?query=Bild+101I-125-0277-09",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기록관의 800×540 배포 복제본을 직접 열람. 포탑과 차체에 각각 포신이 보이며 차량 전면에 BEARN II 표식이 있다."
+    ],
+    "limitations": [
+      "선전부대 촬영. 사진으로 구경·장갑·파괴 원인 또는 정확한 촬영지와 부대 이력을 확정하지 않음."
+    ],
+    "rights": "기록관 배포 복제는 Bundesarchiv / Heinz Fremke / CC BY-SA 3.0 DE 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "fremke-pk689"
+  },
+  {
+    "id": "CAT-FR-SRC-0009",
+    "title": "Les véhicules blindés français 1900–1944",
+    "institution_or_author": "Pierre Touzin",
+    "publication_date": "1979",
+    "source_type": "secondary: 군용차량사 연구서의 디지털 본문",
+    "document_or_accession_number": "Les chars légers Renault R 35 et R 40",
+    "locator": "인쇄 152–154쪽, 포탑 무장·1935년 주문·1936년 시험 및 증속 장치 실험",
+    "url": "https://djvu.online/file/jjoqDQwILFiHF",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "37 mm SA 18 modifié 34 및 SA 38 사례, 첫 주문 300대, 첫 양산차 시험 평균 19.471 km/h."
+    ],
+    "limitations": [
+      "후대 연구서 디지털 본문. Vincennes 위원회의 시험 원본 미열람. R35와 R40, 발주·생산·인도를 합산하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "touzin-french-armour"
+  },
+  {
+    "id": "CAT-FR-SRC-0010",
+    "title": "Inventaire des archives de la Guerre, sous-séries 7 N à 9 N, tome II",
+    "institution_or_author": "Service historique de la Défense",
+    "publication_date": null,
+    "source_type": "archive_catalog: 프랑스 국방역사기록원 소장목록",
+    "document_or_accession_number": "GR 7 N 4204",
+    "locator": "dossiers 2–3, E.M.A. Section de l’armement",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2019-10/SHDGR_INV_7N_9N_1920_1940_T2_0.pdf",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 기병 전투장비 설명서, 1937–1939년 전차·장갑차 제원표와 생산 보고서의 접근 단서."
+    ],
+    "limitations": [
+      "기록원 목록 본문만 확인. 설명서의 정확한 차종 및 문건 본문·수치는 미열람."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "shd-gr7n-finding-aid"
+  }
+]

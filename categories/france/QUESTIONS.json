@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": "CAT-FR-RQ-0001",
+    "status": "open",
+    "question": "B1과 B1 bis의 생산·납품 및 장갑·기동 실측을 어떻게 분리할 수 있는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0001",
+      "CAT-FR-SRC-0001",
+      "CAT-FR-SRC-0004",
+      "CAT-FR-SRC-0006",
+      "CAT-FR-SRC-0007",
+      "CAT-FR-SRC-0008",
+      "CAT-FR-SRC-0010"
+    ],
+    "evidence": "합산 수치와 bis 단독 서술의 범위가 다르고, 당대 정비 도면은 30번만 확인했다.",
+    "completion_condition": "공장별 생산·검수·인수 원장과 형식별 정비교범·시험보고서 원문에서 기준일, 차대 번호, 시험조건을 명시."
+  },
+  {
+    "id": "CAT-FR-RQ-0002",
+    "status": "open",
+    "question": "S 35 양산형의 기관총 수와 장갑 부위, 정확한 인수 수량은 무엇인가?",
+    "related_ids": [
+      "CAT-FR-EQP-0002",
+      "CAT-FR-SRC-0002",
+      "CAT-FR-SRC-0005",
+      "CAT-FR-SRC-0010"
+    ],
+    "evidence": "두 박물관 기관총 수 표기가 2정과 1정으로 엇갈리고 영국 박물관 본문과 제원표의 생산량이 다르다.",
+    "completion_condition": "프랑스 육군 설명서와 출고·검수 대장, 소장차 개조 이력에서 장착·휴대, 생산·인수 기준을 구분."
+  },
+  {
+    "id": "CAT-FR-RQ-0003",
+    "status": "open",
+    "question": "R35의 SA 18·SA 38 전환 및 부대별 인도·전투 기록을 어디까지 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0003",
+      "CAT-FR-SRC-0003",
+      "CAT-FR-SRC-0009",
+      "CAT-FR-SRC-0010"
+    ],
+    "evidence": "후대 연구서에 두 포의 사례가 있다. 당대 사진 후보는 개별 항목 대신 일반 기록관 페이지로 이동했다.",
+    "completion_condition": "차대·포탑 번호별 인수 장부와 BCC 전투일지를 대조하고 R40·수출·가용량을 분리."
+  },
+  {
+    "id": "CAT-FR-RQ-0004",
+    "status": "open",
+    "question": "이 세 차종 외 프랑스 전차와 공여 전차의 전쟁기 운용은 어떠했는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0001",
+      "CAT-FR-EQP-0002",
+      "CAT-FR-EQP-0003",
+      "CAT-FR-SRC-0004",
+      "CAT-FR-SRC-0010"
+    ],
+    "evidence": "1940년 전역 전후 세 양산형에 집중했으며 나머지 형식, 북아프리카와 해방기 운용은 후보로 남았다.",
+    "completion_condition": "형식별 생산·부대·전구·시점을 확인하고 비시, 자유프랑스, 해방기 부대의 실제 운용과 공여·노획을 분리."
+  }
+]
