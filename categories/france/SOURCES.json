@@ -1832,5 +1832,145 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "maud-bomb-report"
+  },
+  {
+    "id": "CAT-FR-SRC-0092",
+    "title": "L’Appel du 18 juin 1940. Le manuscrit du général de Gaulle entre aux Archives nationales",
+    "institution_or_author": "Archives nationales",
+    "publication_date": "2025-06-04",
+    "source_type": "secondary: 보존기관 전시·소장 해설",
+    "document_or_accession_number": "AE/I/25/9 [AG/3(1)/290]",
+    "locator": "L’Appel 절, 이미지 소장번호",
+    "url": "https://www.archives-nationales.culture.gouv.fr/evenements/lappel-du-18-juin-1940-le-manuscrit-du-general-de-gaulle-entre-aux-archives-nationales",
+    "accessed_at": "2026-11-11T08:52:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "18일 방송 녹음 미보존과 자필 원고의 소장번호."
+    ],
+    "limitations": [
+      "보존기관 해설 열람. 방송 실황 영상·음성은 확보하지 못함."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "archives-nationales"
+  },
+  {
+    "id": "CAT-FR-SRC-0093",
+    "title": "L’Appel du 18 juin 1940 — Proposition d’inscription au registre Mémoire du Monde",
+    "institution_or_author": "INA·BBC / UNESCO",
+    "publication_date": "2004-06-21",
+    "source_type": "primary: 보존기관 공동 신청서",
+    "document_or_accession_number": "PHD86064726; BBC 2509 C; AN 3334 BBC",
+    "locator": "§3.1, 소장서지 및 §5 권리",
+    "url": "https://media.unesco.org/sites/default/files/webform/mow001/france_and_uk_appeal_18_june_1940_fr.pdf",
+    "accessed_at": "2026-11-11T08:52:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "22일 음반의 6분20초 길이, 소장번호, 두 기관 사본의 동일성."
+    ],
+    "limitations": [
+      "음반 보존·식별에 관한 1차 기록. 직접 청취하지 않았고 2004년의 소장 정보를 현재 원고 소재지로 일반화하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ina-bbc-1940-recording"
+  },
+  {
+    "id": "CAT-FR-SRC-0094",
+    "title": "Appel du 22 juin 1940 du général de Gaulle après la signature de l’armistice",
+    "institution_or_author": "Fondation de la Résistance, AERI / INA",
+    "publication_date": null,
+    "source_type": "secondary: 음성 자료 목록",
+    "document_or_accession_number": "media10277; InaEdu00280",
+    "locator": "Genre, Détails techniques, Analyse média",
+    "url": "https://museedelaresistanceenligne.org/media10277-Appel-du-22-juin-1940-du-gnral-de-Gaulle-aprs-la-signature-de-larmistice",
+    "accessed_at": "2026-11-11T08:52:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "음성 분류, 프랑스어 런던 방송의 웹 길이 5분49초와 플레이어 링크."
+    ],
+    "limitations": [
+      "INA 본문 재생 접근 실패. 음반과 길이 차이 미해결. INA 음반의 재제공이므로 별도 독립 녹음으로 세지 않음."
+    ],
+    "rights": "© INA, Droits réservés. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "ina-bbc-1940-recording"
+  },
+  {
+    "id": "CAT-FR-SRC-0095",
+    "title": "GENERAL DE GAULLE ADDRESSES THE PEOPLE OF BAYEUX (PART 1) [Allocated Title]",
+    "institution_or_author": "IWM / War Office; Army Film and Photographic Unit; Sergeant Parkinson",
+    "publication_date": "1944-06-14",
+    "source_type": "primary: 동시대 필름의 보존기관 목록",
+    "document_or_accession_number": "A70 45-1; record 2282; object 1060019435",
+    "locator": "Description, Production Details, Physical Characteristics, Technical Details",
+    "url": "https://film.iwmcollections.org.uk/record/2282",
+    "accessed_at": "2026-11-11T08:52:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "바외 중앙 공원 연설 촬영, 무성·흑백·35mm·166ft·약2분."
+    ],
+    "limitations": [
+      "목록과 공개 HLS 미리보기 표본 프레임 00:30·00:45 확인. 로컬 ffprobe 길이114.958333초, 영상1트랙·음성0트랙. 원필름 전편 대조 미완료."
+    ],
+    "rights": "© IWM. 목록상 권리 표기를 따르며 요약과 링크만 제공.",
+    "independence_group": "afpu-bayeux-1944"
+  },
+  {
+    "id": "CAT-FR-SRC-0096",
+    "title": "GENERAL DE GAULLE ADDRESSES THE PEOPLE OF BAYEUX (PART 2) [Allocated Title]",
+    "institution_or_author": "IWM / War Office; Army Film and Photographic Unit; L. J. Evans",
+    "publication_date": "1944-06-14",
+    "source_type": "primary: 동시대 필름의 보존기관 목록",
+    "document_or_accession_number": "A70 45-3; record 2560",
+    "locator": "Description, Physical Characteristics, Technical Details",
+    "url": "https://film.iwmcollections.org.uk/record/2560",
+    "accessed_at": "2026-11-11T08:52:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "같은 바외 연설의 추가 무성 촬영, 35mm·59ft·약1분."
+    ],
+    "limitations": [
+      "목록 확인. 재생·음성 발언 대조 미확인. 같은 AFPU 촬영 자료군."
+    ],
+    "rights": "© IWM. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "afpu-bayeux-1944"
+  },
+  {
+    "id": "CAT-FR-SRC-0097",
+    "title": "Discours du général de Gaulle à l’Hôtel de Ville",
+    "institution_or_author": "Fabrice Bourrée / Fondation de la Résistance, AERI / INA; film CLCF",
+    "publication_date": "1944-08 (원영화)",
+    "source_type": "primary: 동시대 편집 영화의 보존 목록·구간 설명",
+    "document_or_accession_number": "media4599; INA I00007088",
+    "locator": "Légende, Détails techniques, Analyse média 00:00:18–00:06:23",
+    "url": "https://museedelaresistanceenligne.org/media.php?expo=0&media=4599",
+    "accessed_at": "2026-11-11T08:52:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "원영화 시작 위치 23:56, 발췌7:38, 연설 시작23초와 다음 날 장면의 구분."
+    ],
+    "limitations": [
+      "플레이어 HTML만 열렸고 실재생 불확인. 동시녹음 여부·완전성 미확인. 원영화 제작과 후대 목록 해설을 구분함."
+    ],
+    "rights": "© INA, Droits réservés. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "clcf-ina-liberation-paris"
+  },
+  {
+    "id": "CAT-FR-SRC-0098",
+    "title": "La libération de Paris",
+    "institution_or_author": "Tiphanie Louis·Évelyne Masson-Viardot / Fondation Charles de Gaulle",
+    "publication_date": null,
+    "source_type": "secondary: 교육 해설",
+    "document_or_accession_number": null,
+    "locator": "Documentaire, Présentation, Analyse",
+    "url": "https://enseigner.charles-de-gaulle.org/la-liberation-de-paris/",
+    "accessed_at": "2026-11-11T08:52:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "25일 시청 연설의 장면·정치적 맥락 및1분43초 편집본 안내."
+    ],
+    "limitations": [
+      "INA 자료의 교육적 재소개로 독립 촬영 증거가 아님. 플레이어 실재생 및 AERI7분38초 판본과 관계는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "clcf-ina-liberation-paris"
   }
 ]

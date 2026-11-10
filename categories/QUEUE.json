@@ -398,8 +398,9 @@
     "category": "유명 연설의 영상자료",
     "article_path": "categories/france/10-speech-videos.md",
     "planned_at": "2026-11-11T05:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-FR-10.json",
+    "completed_at": "2026-11-11T08:52:31+09:00"
   },
   {
     "step": 30,

@@ -439,5 +439,42 @@
     ],
     "evidence": "다비드의 고안과 폴 라바의 군 시험 참여를 구분했다. 항공공학·전시의학·암호 분야는 이번 범위 밖이다.",
     "completion_condition": "CEAM/SHAT 7 N 3946의 시험 기록을 확인하고, 다른 분야는 동시대 논문·발주·실제 적용 기록을 연결한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0033",
+    "status": "open",
+    "question": "6월22일 보존 음반6분20초와 INA 웹5분49초 판본의 차이는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-PER-0006",
+      "CAT-FR-SRC-0092",
+      "CAT-FR-SRC-0093",
+      "CAT-FR-SRC-0094"
+    ],
+    "evidence": "음반과 웹 제공본의 명시 길이가 다르며 웹 플레이어 청취는 접근 실패.",
+    "completion_condition": "기관 원음·웹 판본을 직접 청취하고 편집·무음·속도·발언 구간과 권리·서지 일치 여부를 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0034",
+    "status": "open",
+    "question": "바외 A70 45-1·45-3의 실제 화면 구간과 발언 원문은 어떻게 대응하는가?",
+    "related_ids": [
+      "CAT-FR-PER-0006",
+      "CAT-FR-SRC-0095",
+      "CAT-FR-SRC-0096"
+    ],
+    "evidence": "Part1 공개 미리보기의 청중00:30·드골00:45 프레임과 음성 트랙 부재를 확인했다. Part2는 목록 확인 범위.",
+    "completion_condition": "두 필름을 재생해 구간·실제 길이·연설 장면을 기록하고 동시대 대본과 대조하되 무성 영상의 발언 복원 한계를 유지한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0035",
+    "status": "open",
+    "question": "파리 시청 연설 영화의 원음·편집 계통과 다른 전시 연설자의 원자료는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-PER-0006",
+      "CAT-FR-SRC-0097",
+      "CAT-FR-SRC-0098"
+    ],
+    "evidence": "INA 플레이어 HTML만 열렸고 목록의 구간만 확인했다.1분43초·7분38초 판본의 관계 미확인. 드골 이외 인사는 후속 범위.",
+    "completion_condition": "CLCF 원영화·INA 판본의 화면과 소리를 직접 확인해 동기·편집·길이·권리를 기록하고 페탱·레지스탕스 인사의 원자료를 추가한다."
   }
 ]

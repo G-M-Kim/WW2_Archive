@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 29,
-  "CAT_VISITED_COUNT": 28,
-  "CAT_LAST_JOB_ID": "CAT-FR-09",
+  "CAT_NEXT_STEP": 30,
+  "CAT_VISITED_COUNT": 29,
+  "CAT_LAST_JOB_ID": "CAT-FR-10",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-11T06:57:35+09:00",
-  "note": "프랑스 09 학자·연구자 부분 조사 저장. 첫 방문 28/133, 다음 CAT-FR-10."
+  "updated_at": "2026-11-11T08:52:31+09:00",
+  "note": "프랑스 10 연설 영상·음성 자료 부분 조사 저장. 첫 방문 29/133, 다음 CAT-FR-11."
 }
