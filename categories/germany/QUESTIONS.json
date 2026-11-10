@@ -956,5 +956,47 @@
     ],
     "evidence": "미군 교범 HTML 전사본은 2 cm Kw.K.18·3명, Tank Museum 소장품 안내는 2 cm KwK 38·4명으로 기록한다.",
     "completion_condition": "미군 교범 VII-77 스캔을 전사본과 대조하고 독일군 제식 교범·차량 인수 및 편제 기록으로 양산형의 무장과 승무원을 확인한다."
+  },
+  {
+    "id": "CAT-DE-RQ-0073",
+    "status": "open",
+    "question": "1939-09-01 빌헬름스하펜의 군용 계류장·갑문·건선거·부유도크는 얼마나 가동 가능했는가?",
+    "related_ids": [
+      "CAT-DE-GEO-0021",
+      "CAT-DE-SRC-0150",
+      "CAT-DE-SRC-0151",
+      "CAT-DE-SRC-0153",
+      "CAT-DE-SRC-0154"
+    ],
+    "evidence": "제3입구 갑실의 길이와 9월 입출항 사례는 확인했다. 전체 접안 길이, 갑실 유효 폭·수심과 도크별 명부는 미확인.",
+    "completion_condition": "1939년 해군 항만도와 조선소 도크 명세를 확보하고 군용 범위에서 수치·단위·설비 준공 및 가용일을 확인."
+  },
+  {
+    "id": "CAT-DE-RQ-0074",
+    "status": "open",
+    "question": "킬의 군용 부두·도크와 민간 계약 조선소를 1939년 기준으로 어디까지 구분할 수 있는가?",
+    "related_ids": [
+      "CAT-DE-GEO-0022",
+      "CAT-DE-SRC-0150",
+      "CAT-DE-SRC-0154",
+      "CAT-DE-SRC-0155",
+      "CAT-DE-SRC-0156",
+      "CAT-DE-SRC-0157"
+    ],
+    "evidence": "Wik 계류와 Howaldt 시설 통합 근거가 있다. 1940년 정찰의 도크 위치별 관리 주체와 1939년 경계·설비량은 미확인.",
+    "completion_condition": "1939년 킬 항만·토지 도면 및 해군·민간 설비 명부를 대조하고 1940년 정찰 지점을 귀속."
+  },
+  {
+    "id": "CAT-DE-RQ-0075",
+    "status": "open",
+    "question": "두 기지의 전시 보급·수리 용량과 공통 등급 기준, 다른 독일 기지의 후보 범위를 어떻게 확인할 것인가?",
+    "related_ids": [
+      "CAT-DE-GEO-0021",
+      "CAT-DE-GEO-0022",
+      "CAT-DE-SRC-0150",
+      "CAT-DE-SRC-0154"
+    ],
+    "evidence": "개전일 가용 연료·탄약, 보급률·수리량과 공통 비교군의 임계값이 없다. 쿡스하펜·슈비네뮌데는 추가 검토 후보.",
+    "completion_condition": "당시 정비 작업량과 유류·탄약 설비 원부의 값·시점·경계를 확인하고, 같은 정의를 적용할 비교 기지와 등급 경계를 설정."
   }
 ]

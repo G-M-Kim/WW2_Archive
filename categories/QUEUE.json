@@ -256,10 +256,11 @@
     "category_number": 19,
     "category": "개전 시점 주요 해군기지와 규모(1~10)",
     "article_path": "categories/germany/19-naval-bases-start.md",
-    "status": "pending",
-    "run_record": null,
+    "status": "partial",
+    "run_record": "categories/runs/CAT-DE-19.json",
     "step": 19,
-    "planned_at": "2026-11-10T09:30:00+09:00"
+    "planned_at": "2026-11-10T09:30:00+09:00",
+    "completed_at": "2026-11-10T12:57:38+09:00"
   },
   {
     "step": 20,
