@@ -1392,5 +1392,245 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "battle-of-britain-memorial"
+  },
+  {
+    "id": "CAT-FR-SRC-0070",
+    "title": "Des décrets-lois du Gouvernement Daladier au vote par la Chambre des députés et le Sénat des pleins pouvoirs au maréchal Pétain",
+    "institution_or_author": "Assemblée nationale",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1940년 6월 16일 및 7월 10~11일 단락",
+    "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-guerre-mondiale/des-decrets-lois-du-gouvernement-daladier-au-vote-par-la-chambre-des-deputes-et-le-senat-des-pleins-pouvoirs-au-marechal-petain",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "페탱의 각료회의 의장 임명, 7월 10일 헌정법 단일 조항, 새 의회 미구성."
+    ],
+    "limitations": [
+      "프랑스 하원의 후대 해설. 헌정법은 해당 본문에 인용된 조항으로 확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "assemblee-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0071",
+    "title": "Actes constitutionnels du Gouvernement de Vichy (transcriptions dans Documenti costituzionali francesi, IV parte)",
+    "institution_or_author": "Philippe Pétain / Nomos–Parlalex",
+    "publication_date": "1940-07-11 / 1942-04-18 / 1942-11-17",
+    "source_type": "primary",
+    "document_or_accession_number": "Actes constitutionnels nos 1, 2, 11 et 12",
+    "locator": "제1호 본문, 제2호 제1조 §§1–3, 제11·12호의 단일 조항, 제4 quinquies호 제1조",
+    "url": "https://www.nomos-leattualitaneldiritto.it/parlalex/documenti-costituzionali-francesi-iv-partedalle-leggi-costituzionali-del-1875-alla-iv-repubblica/",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "페탱의 국가원수 취임 선언과 장관 임면·입법, 정부 수반의 정책 지휘와 단독 서명 공포."
+    ],
+    "limitations": [
+      "후대 학술 사이트의 원문 전사. 당시 관보 판면 및 원서명은 이 자료에서 대조하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "vichy-constitutional-acts"
+  },
+  {
+    "id": "CAT-FR-SRC-0072",
+    "title": "Loi portant statut des juifs",
+    "institution_or_author": "Philippe Pétain 등 / Journal officiel de la République française / IREL–EPHE",
+    "publication_date": "1940-10-03",
+    "source_type": "primary",
+    "document_or_accession_number": "JORF, 18 octobre 1940, p. 5323",
+    "locator": "관보 5323쪽, PDF 4쪽, 제1·2·9조와 날짜 및 서명란",
+    "url": "https://irel.ephe.psl.eu/sites/default/files/2026-09/laicite-1940-1003-journal-officiel.pdf#page=4",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "조상에 따른 분류, 특정 공직 제한, 알제리 등 적용 범위, 페탱 서명과 라발 부서."
+    ],
+    "limitations": [
+      "공포문은 지역별 시행 기록이나 초안의 작성 경위를 담지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "vichy-official-gazette"
+  },
+  {
+    "id": "CAT-FR-SRC-0073",
+    "title": "La Collaboration (1940–1945), livret de visite",
+    "institution_or_author": "Archives nationales",
+    "publication_date": "2014–2015 (전시)",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "항목 21, 페탱이 주석을 단 유대인 지위법 초안. 항목 22, 제2호 헌정행위",
+    "url": "https://www.archives-nationales.culture.gouv.fr/documents/10157/11399/Livret_de_l%27exposition_La_Collaboration_%281940-1945%29.pdf",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "사법·교육의 배제 범위를 넓히는 페탱의 초안 수정에 대한 기록원 해설."
+    ],
+    "limitations": [
+      "전시 해설 본문을 열람. 초안 전체의 필적과 문구별 채택 여부는 확인하지 못함."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "archives-nationales-exhibit"
+  },
+  {
+    "id": "CAT-FR-SRC-0074",
+    "title": "Lettre de Theodor Dannecker au Reichssicherheitshauptamt",
+    "institution_or_author": "Theodor Dannecker / Mémorial de la Shoah / Réseau Canopé",
+    "publication_date": "1942-07-06",
+    "source_type": "primary",
+    "document_or_accession_number": "XLIX 35",
+    "locator": "80e anniversaire de la rafle du Vél’d’Hiv, 17쪽, 7월 6일자 프랑스어 발췌",
+    "url": "https://www.reseau-canope.fr/fileadmin/user_upload/Projets/Valeurs_de_la_republique/veldhiv.pdf#page=17",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "비점령지에서 추방되는 유대인 가족의 16세 미만 아동 포함 제안을 라발에게 귀속한 독일 보고."
+    ],
+    "limitations": [
+      "SS 내부 보고의 프랑스어 발췌. 발언 녹취, 프랑스 경찰의 지시, 베를린의 최종 승인은 별개."
+    ],
+    "rights": "Réseau Canopé 공개 교육자료 내 사료 발췌. 원기록 및 번역 재사용 조건 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "ss-dannecker-19420706"
+  },
+  {
+    "id": "CAT-FR-SRC-0075",
+    "title": "Compte rendu du conseil des ministres du 10 juillet 1942 (extrait)",
+    "institution_or_author": "비시 각료회의 / Serge Klarsfeld(전재) / Réseau Canopé",
+    "publication_date": "1942-07-10",
+    "source_type": "primary",
+    "document_or_accession_number": "Vichy-Auschwitz, Fayard, 1983, p. 242 경유",
+    "locator": "80e anniversaire de la rafle du Vél’d’Hiv, 18쪽, Négociations entre Karl Oberg et Pierre Laval",
+    "url": "https://www.reseau-canope.fr/fileadmin/user_upload/Projets/Valeurs_de_la_republique/veldhiv.pdf#page=18",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "각료회의가 라발의 아동 동행 협의를 보고한 사실과 그 정당화 표현."
+    ],
+    "limitations": [
+      "프랑스 행정기록으로 SS 보고와 작성 주체가 다름. 교육자료가 인용한 발췌만 확인했으며 회의록 전문과 소장번호는 미확보."
+    ],
+    "rights": "Réseau Canopé 공개 교육자료 내 사료 발췌. 원기록 및 번역 재사용 조건 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "vichy-cabinet-19420710"
+  },
+  {
+    "id": "CAT-FR-SRC-0076",
+    "title": "Circulaire n° 173-42 organisant la rafle du Vél’d’Hiv (extrait)",
+    "institution_or_author": "Émile Hennequin / Préfecture de police de Paris / Mémorial de la Shoah",
+    "publication_date": "1942-07-13",
+    "source_type": "primary",
+    "document_or_accession_number": "173-42 / XX-14a",
+    "locator": "80e anniversaire de la rafle du Vél’d’Hiv, 18–19쪽, 대상과 아동 체포·수용처 지시",
+    "url": "https://www.reseau-canope.fr/fileadmin/user_upload/Projets/Valeurs_de_la_republique/veldhiv.pdf#page=18",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "파리 경찰 지시가 부모를 체포할 때 16세 미만 아동도 함께 데려가도록 규정함."
+    ],
+    "limitations": [
+      "회람의 발췌로 실제 체포·수용·국외 이송의 완료나 인원수는 따로 검증해야 함."
+    ],
+    "rights": "Réseau Canopé 공개 교육자료 내 사료 발췌. 원기록 및 번역 재사용 조건 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "paris-police-19420713"
+  },
+  {
+    "id": "CAT-FR-SRC-0077",
+    "title": "Ordonnance du 9 août 1944 relative au rétablissement de la légalité républicaine sur le territoire continental",
+    "institution_or_author": "Gouvernement provisoire de la République française / Ministère de la Culture",
+    "publication_date": "1944-08-09",
+    "source_type": "primary",
+    "document_or_accession_number": "JORFTEXT000000320215 / JORF 10 août 1944",
+    "locator": "문화부 PDF 제1~3·7·11조 및 말미 드골·드 망통 서명 표기",
+    "url": "https://www.culture.gouv.fr/Media/Thematiques/Musees/MNR/Ordonnance-du-9-aout-1944",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공화국의 법적 연속성, 명시 무효와 잠정 적용 구분, 해방에 따른 본토 적용."
+    ],
+    "limitations": [
+      "1944년 8월 10일 기준 정리본 전사이며 별표가 생략돼 개별 법령 처리 전수 확인에 부적합."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "gprf-ordinance-19440809"
+  },
+  {
+    "id": "CAT-FR-SRC-0078",
+    "title": "The Chargé in the Soviet Union (Kennan) to the Secretary of State",
+    "institution_or_author": "George F. Kennan / U.S. Department of State, Office of the Historian",
+    "publication_date": "1944-10-23",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1944, Europe IV, doc. 836 / 851.01/10–2344 / telegram 4050",
+    "locator": "전보 본문과 주 3",
+    "url": "https://history.state.gov/historicaldocuments/frus1944v04/d836",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "몰로토프가 보낸 소련 승인 결정의 요지 및 미국의 같은 날 승인 발표에 대한 편집 주."
+    ],
+    "limitations": [
+      "소련 선언은 케넌의 전달 보고로 확인. 미국 발표문 전체는 이 항목에 수록되지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "moscow-telegram-19441023"
+  },
+  {
+    "id": "CAT-FR-SRC-0079",
+    "title": "War And International Situation",
+    "institution_or_author": "Winston Churchill / UK Parliament, Hansard",
+    "publication_date": "1944-10-27",
+    "source_type": "primary",
+    "document_or_accession_number": "HC Deb 27 October 1944",
+    "locator": "하원 정부 발언, French Consultative Assembly·Interior Zone·23rd October 단락",
+    "url": "https://hansard.parliament.uk/commons/1944-10-27/debates/ba131f0a-de32-4352-ac14-4bea805a087a/WarAndInternationalSituation",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 대사에 대한 10월 23일 승인 통보 지시, 미국·소련의 동시 조치."
+    ],
+    "limitations": [
+      "영국 정부가 의회에서 설명한 내용. 프랑스 전체의 정치적 지지에 대한 평가에는 사용하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-hansard-19441027"
+  },
+  {
+    "id": "CAT-FR-SRC-0080",
+    "title": "M. Pierre LAVAL reçoit les pleins pouvoirs",
+    "institution_or_author": "Le Pays Nivernais / Archives départementales de la Nièvre",
+    "publication_date": "1942-11-22",
+    "source_type": "primary",
+    "document_or_accession_number": "2e année, no 90",
+    "locator": "권한 확대 기사와 11월 17일 제12호 단일 조항 전재",
+    "url": "https://archives.nievre.fr/media/573a46cf-0e50-4fb6-9aec-81d6bdfa1ec4.pdf",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제12호의 비헌정 법률·명령 단독 서명 공포 및 라발에 대한 권한 확대를 전한 당대 보도."
+    ],
+    "limitations": [
+      "당대 신문의 관보 조문 재전재는 원조문과 독립된 법적 증거가 아님. 보도 논조와 조문을 구분."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "vichy-constitutional-acts"
+  },
+  {
+    "id": "CAT-FR-SRC-0081",
+    "title": "France — A Guide to the United States’ History of Recognition, Diplomatic, and Consular Relations",
+    "institution_or_author": "U.S. Department of State, Office of the Historian",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Limited U.S. Recognition of the French Committee of National Liberation, 1943 및 U.S. Recognition of the Provisional Government of the French Republic, 1944",
+    "url": "https://history.state.gov/countries/france",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "알제 CFLN 공동위원장, 1943년 미국의 제한적 인정과 1944년 10월 23일 임시정부 승인."
+    ],
+    "limitations": [
+      "미국 외교사 편집 요약. 연합국 전체의 내부 승인 과정이나 식민지별 통치 상태는 다루지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-diplomatic-history"
   }
 ]
