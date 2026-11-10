@@ -432,18 +432,22 @@
     "publication_date": null,
     "source_type": "secondary",
     "document_or_accession_number": null,
-    "locator": "Corvette Aconit 및 FNFL 소개",
+    "locator": "Corvette Aconit 및 FNFL 소개 / CAT-FR-03: Sous-marin Rubis, 탑재량·1940년 지휘 전환",
     "url": "https://www.ordredelaliberation.fr/fr/la-marine-nationale",
     "accessed_at": "2026-11-10T17:37:14+09:00",
     "access_status": "source_checked",
     "claims_checked": [
-      "Aconit의 영국 공여, 호위단 편입, 대서양 호송과 노르망디기 호위."
+      "Aconit의 영국 공여, 호위단 편입, 대서양 호송과 노르망디기 호위.",
+      "뤼비의 기뢰 탑재 32발, 1940년 영국 지휘 및 7월 중순 FNFL 합류."
     ],
     "limitations": [
       "훈장 수여와 함정 이력 중심이다. 프랑스 함대 전체 성과로 확대하지 않았다."
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
-    "independence_group": "ordre-liberation-naval"
+    "independence_group": "ordre-liberation-naval",
+    "additional_accessed_at": [
+      "2026-11-10T19:00:44+09:00"
+    ]
   },
   {
     "id": "CAT-FR-SRC-0023",
@@ -452,18 +456,22 @@
     "publication_date": "1999",
     "source_type": "secondary",
     "document_or_accession_number": null,
-    "locator": "1942년 11월 8일 북아프리카와 11월 27일 툴롱 항목",
+    "locator": "1942년 11월 8일 북아프리카와 11월 27일 툴롱 항목 / CAT-FR-03: 1942년 11월 8일 카사블랑카, 손상 함정 집계",
     "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
     "accessed_at": "2026-11-10T17:37:14+09:00",
     "access_status": "source_checked",
     "claims_checked": [
-      "토치 상륙 당시 프랑스 측의 교전, 11월 독일의 툴롱 접근과 프랑스 함정의 자침."
+      "토치 상륙 당시 프랑스 측의 교전, 11월 독일의 툴롱 접근과 프랑스 함정의 자침.",
+      "USS Massachusetts 포격으로 장 바르가 피해를 입었다는 공식 연표 서술."
     ],
     "limitations": [
       "미 해군 공식 연표다. 비시 정부와 개별 부대의 명령 관계는 별도 확인이 필요하다."
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
-    "independence_group": "cressman-usn-chronology"
+    "independence_group": "cressman-usn-chronology",
+    "additional_accessed_at": [
+      "2026-11-10T19:00:44+09:00"
+    ]
   },
   {
     "id": "CAT-FR-SRC-0024",
@@ -584,5 +592,125 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "fr-aae-chronology"
+  },
+  {
+    "id": "CAT-FR-SRC-0030",
+    "title": "Operational Experience of Fast Battleships: World War II, Korea, Vietnam",
+    "institution_or_author": "U.S. Navy, USS Massachusetts / John C. Reilly, Jr. 편 / Naval Historical Center",
+    "publication_date": "1942-11-08 교전 보고서 발췌, 1989년 편찬판",
+    "source_type": "mixed: 전시 전투보고서 발췌 및 후대 해군사 편찬",
+    "document_or_accession_number": "Landing at Casablanca, Massachusetts Action Report",
+    "locator": "인쇄 1–2쪽 Landing at Casablanca의 전투보고 발췌와 피격 해설",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/OpExpFastBBs/OpExpFastBBs.htm",
+    "accessed_at": "2026-11-10T19:00:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미완성 장 바르의 가동 포탑 한 기, 피격 후 선회 장애, USS Massachusetts의 일제사격 횟수 추정 및 관측 한계."
+    ],
+    "limitations": [
+      "전투보고서 전문 미확보. 관측 추정과 1989년 편찬자의 피격 설명을 구분. 프랑스 함 일지와 대조하지 못했다."
+    ],
+    "rights": "미 해군사 기관 편찬물의 공개 전사. 자체 한국어 요약 및 링크만 사용.",
+    "independence_group": "massachusetts-action-report"
+  },
+  {
+    "id": "CAT-FR-SRC-0031",
+    "title": "Meeting The Jean Bart’s Commander",
+    "institution_or_author": "H. Kent Hewitt / U.S. Naval Institute Proceedings",
+    "publication_date": "1957-09",
+    "source_type": "primary: 참전 지휘관의 후대 회고",
+    "document_or_accession_number": "Proceedings Vol. 83/9/655",
+    "locator": "Discussions, Comments and Notes 중 Meeting The Jean Bart’s Commander",
+    "url": "https://www.usni.org/magazines/proceedings/1957/september/discussions-comments-and-notes",
+    "accessed_at": "2026-11-10T19:00:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "카사블랑카의 완성된 380 mm 4연장 포탑 하나와 계류 사격, 1942-11-10 Augusta 주변 낙탄."
+    ],
+    "limitations": [
+      "약 15년 뒤 회고. 포탑 수리는 프랑스 지휘관의 구술을 재전달했다. 당대 사격일지나 수리보고서와 별개."
+    ],
+    "rights": "USNI 공개 열람 회고. 자체 요약과 링크만 사용.",
+    "independence_group": "hewitt-casablanca-recollection"
+  },
+  {
+    "id": "CAT-FR-SRC-0032",
+    "title": "Jean Bart – Cuirassé",
+    "institution_or_author": "Mémorial national des marins morts pour la France",
+    "publication_date": null,
+    "source_type": "secondary: 프랑스 해군 전몰자 추모기관의 개별함 이력",
+    "document_or_accession_number": null,
+    "locator": "1940년 6월 출항, Caractéristiques, 1945년 귀환과 현역 편입 단락",
+    "url": "https://memorial-national-des-marins.fr/crypte-hf/9565-jean-bart",
+    "accessed_at": "2026-11-10T19:00:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생나제르 출항 및 카사블랑카 도착 경위, 전시 공사·교전과 전후 완성 구분, 제원표 표기."
+    ],
+    "limitations": [
+      "제원표의 배수량 하중 및 속력 시험 조건 불명. 완성함 표기를 1942년 가동 사양으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "french-mariners-memorial-jean-bart"
+  },
+  {
+    "id": "CAT-FR-SRC-0033",
+    "title": "War Diary of Submarines: Home Fleet Submarines, April to May 1940",
+    "institution_or_author": "Vice Admiral (Submarines) Max Horton / 영국 해군성 / Don Kindell 전사",
+    "publication_date": "1940-06-12",
+    "source_type": "primary: 전시일지의 디지털 전사",
+    "document_or_accession_number": "No. 598/SM.1004",
+    "locator": "표제 제출서 및 May 1940, 10th May",
+    "url": "https://www.naval-history.net/xDKWD-HF1940SS.htm",
+    "accessed_at": "2026-11-10T19:00:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940-05-10 뤼비의 에게르순 기뢰부설 보고."
+    ],
+    "limitations": [
+      "전사 본문 열람. 원면과 개별 잠수함 일지는 미열람. 해당 날짜의 기뢰 수량은 전시일지 문장에서 확인되지 않는다."
+    ],
+    "rights": "영국 당대 문서와 후대 전사의 권리 조건은 별도. 요약과 링크만 사용.",
+    "independence_group": "admiralty-horton-war-diary"
+  },
+  {
+    "id": "CAT-FR-SRC-0034",
+    "title": "L’Épopée du Rubis",
+    "institution_or_author": "Henri Rousselot / Fondation de la France Libre",
+    "publication_date": "2016-03-24(프랑스어 번역 웹 게시)",
+    "source_type": "primary: 승조원·후임 함장의 전후 회고 번역",
+    "document_or_accession_number": null,
+    "locator": "Opérations de guerre avant l’armistice, 1943년 5월 2일 정비, Caractéristiques du Rubis",
+    "url": "https://francelibre.net/lepopee-du-rubis/",
+    "accessed_at": "2026-11-10T19:00:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "에게르순 1940-05-10 작전, 1943년 무장과 레이더 개장, 수상·잠항 제원 및 탑재 무장."
+    ],
+    "limitations": [
+      "회고의 번역으로 당대 일지 및 제원 시험 원표가 아니다. 길이와 배수량·속력의 세부 측정 기준은 미확인."
+    ],
+    "rights": "재단 공개 번역본. 자체 요약과 링크만 사용.",
+    "independence_group": "rousselot-rubis-recollection"
+  },
+  {
+    "id": "CAT-FR-SRC-0035",
+    "title": "British Naval Minelaying in World War 2",
+    "institution_or_author": "Geoffrey B. Mason / Naval-History.Net",
+    "publication_date": "2006",
+    "source_type": "secondary: 기뢰전 작전 편찬",
+    "document_or_accession_number": "§4, FD 14",
+    "locator": "Chronological Sequence of Submarine Minelaying Operations 1939–45, FD 14, 10 May 1940",
+    "url": "https://www.naval-history.net/xGM-Ops-Minelaying.htm",
+    "accessed_at": "2026-11-10T19:00:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "FD 14의 뤼비 부설 32발과 프랑스제 SH4 표기."
+    ],
+    "limitations": [
+      "후대 편찬표다. 원본 불출표나 부설 원장을 직접 보지 않았으며 영국 기록 계통과 완전한 독립성은 확정하지 않았다."
+    ],
+    "rights": "저자 © 2006 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "mason-british-minelaying"
   }
 ]
