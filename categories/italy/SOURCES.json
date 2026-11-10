@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "id": "CAT-IT-SRC-0001",
+    "title": "Fallen Eagles: The Italian 10th Army in the Opening Campaign in the Western Desert, June 1940–December 1940",
+    "institution_or_author": "Howard R. Christie / U.S. Army Command and General Staff College",
+    "publication_date": "1999",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제2장 Italian Mechanized Doctrine and Its Development, Circolare 9000",
+    "url": "https://cgsc.contentdm.oclc.org/digital/api/collection/p4013coll2/id/597/download",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 회람 9000과 신속한 결전을 지향한 차량화·기계화 운용 개념."
+    ],
+    "limitations": [
+      "회람은 연구자가 인용한 문헌을 통해 확인했다. 회람 원면은 대조하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "christie-fallen-eagles"
+  },
+  {
+    "id": "CAT-IT-SRC-0002",
+    "title": "The Road to Defeat: The Reorganisation of the Italian Army after the Winter 1940-41",
+    "institution_or_author": "Pier Paolo Battistelli / Nuova Antologia Militare",
+    "publication_date": "2023-11",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 504–505쪽 및 1940년 말 보병연대 증설 논의",
+    "url": "https://www.nam-sism.org/Articoli/Articoli%202023/NAM%2016%20articoli/NAM%20N.%2016.%2016%20BATTISTELLI%20The%20Road%20to%20Defeat.%20Thed%20Reorganisation%20of%20the%20Italian%20Army.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "파리아니의 2개 보병연대 편제, 군단 중심 병참과 포병 축소, 전시 보강 제약."
+    ],
+    "limitations": [
+      "편제 목표와 실제 사단별 인원·장비 가용량은 별개다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "battistelli-italian-reorganisation"
+  },
+  {
+    "id": "CAT-IT-SRC-0003",
+    "title": "Operation COMPASS",
+    "institution_or_author": "The Cove / Australian Army",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "도입부 및 Italian·British mobility와 logistics 단락",
+    "url": "https://cove.army.gov.au/article/operation-compass",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아군의 기계화 운용 제약, 영연방군의 기동·보급과 고립된 방어 거점."
+    ],
+    "limitations": [
+      "영연방군의 시각에서 쓴 작전교육 개관이다. 전체 전역의 전과·포로 수치로 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "cove-operation-compass"
+  },
+  {
+    "id": "CAT-IT-SRC-0004",
+    "title": "‘Bardia or Bust!’",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "방어선과 1941년 1월 3~5일 공격, 소장기록 PR03058·S04342",
+    "url": "https://www.awm.gov.au/articles/blog/battle-of-bardia",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아군의 철조망·콘크리트 거점과 호주군의 돌파, 양측 참가자 자료에 대한 안내."
+    ],
+    "limitations": [
+      "박물관 해설의 본문을 확인했다. 연결된 양측 구술·일기 전문까지 대조한 것은 아니다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "awm-bardia"
+  },
+  {
+    "id": "CAT-IT-SRC-0005",
+    "title": "Indice relazioni conflitto 1940–1945",
+    "institution_or_author": "이탈리아 육군 참모부 역사실",
+    "publication_date": null,
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "Fondo N-1/11; 1160/C/11/2; 목록 항목 216·218",
+    "locator": "Folgore의 이집트 전선 보고 및 1942년 10월 23~24일 Munaqir El Dab’A 전투 보고 항목",
+    "url": "https://www.esercito.difesa.it/storia/Ufficio-Storico-SME/Documents/150312/fondoN-1-11-relazioni-repertorio.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "후기 이탈리아 육군 방어를 검증할 폴고레 관련 보고서의 존재와 목록 표기."
+    ],
+    "limitations": [
+      "보고서 소장목록이다. 폴고레의 화력 배치나 전과를 목록에서 추정하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "italian-army-n1-11-inventory"
+  }
+]

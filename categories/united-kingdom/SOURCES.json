@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "CAT-GB-SRC-0001",
+    "title": "Field Service Regulations 1935",
+    "institution_or_author": "War Office / Australian War Memorial",
+    "publication_date": "1935",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "LIB41945",
+    "locator": "서지·권별 표제",
+    "url": "https://www.awm.gov.au/collection/LIB41945",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1935년 야전복무규정의 소장과 간행 정보."
+    ],
+    "limitations": [
+      "영국 육군 교범의 소장 목록이다. 규정 원면은 직접 확인하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "gb-fsr-1935"
+  },
+  {
+    "id": "CAT-GB-SRC-0002",
+    "title": "We Have Been Here Before: The Evolution of the Doctrine of Decentralised Command in the British Army 1905–1989",
+    "institution_or_author": "Christopher Pugsley / Royal Military Academy Sandhurst",
+    "publication_date": "2011",
+    "source_type": "secondary",
+    "document_or_accession_number": "Sandhurst Occasional Paper No. 9",
+    "locator": "전간기 FSR과 1939~1940년 BEF의 훈련·지휘를 다루는 단락",
+    "url": "https://www.westernfrontassociation.com/media/izejy5uu/royal_military_academysandhurst_occasional_paper_09.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "FSR의 제병협동 원칙과 지휘 철학, 원정군 훈련과 기갑 편제에 관한 설명."
+    ],
+    "limitations": [
+      "현대의 mission command 개념을 사용한 후대 해석이다. 공식 전시 지시문과 구별했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "sandhurst-op9"
+  },
+  {
+    "id": "CAT-GB-SRC-0003",
+    "title": "Second Battle of El Alamein",
+    "institution_or_author": "National Army Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Lightfoot 및 Supercharge",
+    "url": "https://www.nam.ac.uk/explore/battle-alamein",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "지뢰밭 통로 개척과 제8군 공격, 재집결 후의 돌파 및 추격."
+    ],
+    "limitations": [
+      "박물관 개관이다. 추격 지연의 설명은 여러 가능한 해석 중 하나다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nam-el-alamein"
+  },
+  {
+    "id": "CAT-GB-SRC-0004",
+    "title": "Montgomery and His Legions: A Study of Operational Development, Innovation and Command in 21st Army Group, North-West Europe, 1944–45",
+    "institution_or_author": "C. J. Forrester / University of Leeds",
+    "publication_date": "2010-12",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 52쪽 및 85쪽 이하, 노르망디 작전과 GOODWOOD",
+    "url": "https://etheses.whiterose.ac.uk/id/eprint/1753/1/C.J.Forrester_PhD_History_Montgomery_and_his_Legions.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제21집단군의 대표 작전, 굿우드의 기갑·보병 협동과 전술 학습."
+    ],
+    "limitations": [
+      "선별 사례의 학위논문이며 굿우드의 상급 작전 목표에는 다른 해석이 있다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "forrester-normandy"
+  }
+]

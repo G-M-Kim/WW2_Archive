@@ -284,5 +284,105 @@
     ],
     "rights": "독일 연방기록원 웹 목록. 사진 이용권 미확인. 목록에 링크만 연결.",
     "independence_group": "bundesarchiv-bild101i"
+  },
+  {
+    "id": "CAT-FR-SRC-0015",
+    "title": "Instruction (du 12 août 1936) sur l’emploi tactique des Grandes Unités",
+    "institution_or_author": "프랑스 육군 참모부 / 프랑스 국방부 CLADE.net",
+    "publication_date": "1936-08-12",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": null,
+    "locator": "표제·간행일·간행기관 및 물리적 서지",
+    "url": "https://bibliotheques-numeriques.defense.gouv.fr/chetom/document/e84cc5e4-c19d-482c-86a5-dec36c65d16c",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 대부대 전술 운용 지침의 소장 및 서지."
+    ],
+    "limitations": [
+      "공식 목록의 검색 색인과 Doughty에 나타나는 1936년 지침의 서지."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "기록관 목록 및 본문 직접 열람에 실패했다. 검색 색인은 원문 열람으로 집계하지 않았다."
+  },
+  {
+    "id": "CAT-FR-SRC-0016",
+    "title": "French Operational Art: 1888–1940",
+    "institution_or_author": "Robert A. Doughty / U.S. Army Center of Military History",
+    "publication_date": "2005",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 70-89",
+    "locator": "인쇄 91–101쪽, The Methodical Battle, France in 1940, Sedan",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/H%20Pdf/cmhPub_70-89.pdf?ver=OY1vr2V5R_70PubR44yMdw%3D%3D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "단계별·시간표에 따른 전투, 포병 통제, 딜선 전진 및 세당의 전개."
+    ],
+    "limitations": [
+      "프랑스 작전술의 연속성과 실패에 초점을 둔 해석이다. 1944년의 제1군에는 적용하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "doughty-french-operational-art"
+  },
+  {
+    "id": "CAT-FR-SRC-0017",
+    "title": "The Twenty Years Armistice and the “Mechanical Force”: French Interwar Defense Policy and the Debacle of 1940",
+    "institution_or_author": "Kang Jie Ng / U.S. Military Academy Athena",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 82–84쪽, Dyle–Breda·Hannut·Gembloux",
+    "url": "https://athena.westpoint.edu/bitstreams/4010f9e6-66c8-430a-b113-1a978394bfbd/download",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "벨기에 전진과 기동 기병의 아뉘 방어, 후속 장블루 교전."
+    ],
+    "limitations": [
+      "전술 세부는 Gunsburg 연구에 의존한다. 인용된 손실 수치나 평가를 별도 사료로 집계하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "usma-mechanical-arm"
+  },
+  {
+    "id": "CAT-FR-SRC-0018",
+    "title": "L’histoire de la Poche de Colmar",
+    "institution_or_author": "Musée Mémorial des Combats de la Poche de Colmar",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1944~1945년 프랑스 제1군·콜마르 포위지 서술",
+    "url": "https://musee.turckheim-alsace.com/lhistoire-de-la-poche-de-colmar/",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스 제1군의 콜마르 전투와 미군 증원·협동."
+    ],
+    "limitations": [
+      "전투 개관이다. 프랑스군 재무장과 보급의 전반적 운영을 설명하는 사료는 아니다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "colmar-memorial-museum"
+  },
+  {
+    "id": "CAT-FR-SRC-0019",
+    "title": "Scouts Out! The Development of Reconnaissance Units in Modern Armies",
+    "institution_or_author": "John J. McGrath / U.S. Army Combat Studies Institute Press",
+    "publication_date": "2008",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 67–70쪽, 프랑스의 DLM·DCR 편제와 1940년 정찰",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D110-PURL-LPS113722/pdf/GOVPUB-D110-PURL-LPS113722.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "DLM의 정찰·엄호와 DCR의 집중 전차 지원 임무, 독립 보병지원 전차의 병존."
+    ],
+    "limitations": [
+      "편제 및 정찰 중심의 후대 연구다. 부대별 실전 가동률은 인용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "mcgrath-scouts-out"
   }
 ]

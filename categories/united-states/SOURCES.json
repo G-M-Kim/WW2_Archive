@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "id": "CAT-US-SRC-0001",
+    "title": "FM 100-5, Field Service Regulations, Operations",
+    "institution_or_author": "U.S. War Department",
+    "publication_date": "1941-05-22",
+    "source_type": "primary",
+    "document_or_accession_number": "FM 100-5",
+    "locator": "발행문과 제1장 §§13–16",
+    "url": "https://www.ibiblio.org/hyperwar/USA/ref/FM/FM100-5/index.html",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제병협동 전술의 원칙, 임무별 부대 편성, 사단의 기본 제병협동 편제 지위."
+    ],
+    "limitations": [
+      "1941년판 전사본이다. 1944년판의 변경 사항이나 개별 전장의 수행률을 뜻하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "us-fm100-5-1941"
+  },
+  {
+    "id": "CAT-US-SRC-0002",
+    "title": "The Organizational History of Field Artillery, 1775–2003",
+    "institution_or_author": "Janice E. McKenney / U.S. Army Center of Military History",
+    "publication_date": "2007",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 60-16",
+    "locator": "제2차 대전기 1942년 사격지휘소와 통신망에 관한 단락",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/60-16.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "포병 대대 사격지휘소의 조직과 전화·무선망을 통한 사격 집중."
+    ],
+    "limitations": [
+      "제도 발전사다. 전장별 요청 처리 시간이나 탄약 부족 빈도는 확인하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "mckenney-field-artillery"
+  },
+  {
+    "id": "CAT-US-SRC-0003",
+    "title": "The Battle of Kasserine Pass",
+    "institution_or_author": "Keith Huxen / The National WWII Museum",
+    "publication_date": "2018-02-05",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제2군단의 배치·부대 분할 및 재집결 단락",
+    "url": "https://www.nationalww2museum.org/war/articles/battle-kasserine-pass",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 카세린에서 초기 부대 분산, 정찰·협동 문제와 연합 증원·포병의 역할."
+    ],
+    "limitations": [
+      "전투 개관이다. 미군과 다른 연합군의 기여를 분리해 읽었다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "huxen-kasserine"
+  },
+  {
+    "id": "CAT-US-SRC-0004",
+    "title": "Mobility, Shock, and Firepower: The Emergence of the U.S. Army’s Armor Branch, 1917–1945",
+    "institution_or_author": "Robert S. Cameron / U.S. Army Center of Military History",
+    "publication_date": "2008",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH 30-23-1",
+    "locator": "제14장, 특히 인쇄 499쪽 Arracourt",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/M%20Pdf/CMH_30-23-1.pdf?ver=3eiLaQdPQeR08OqcG9Wa3Q%3D%3D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "아라쿠르의 제4기갑사단 지원 구축전차 부대와 안개 속 교전, 아르덴의 대전차 전력 집중 제약."
+    ],
+    "limitations": [
+      "일부 전과는 관찰보고서·전후 연구에 따른다. 격파 수치 대신 전술적 활용만 사용했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "cmh-armored-enablers"
+  },
+  {
+    "id": "CAT-US-SRC-0005",
+    "title": "United States Army in World War II Reader’s Guide",
+    "institution_or_author": "U.S. Army Center of Military History",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 11-9",
+    "locator": "인쇄 77쪽, The Lorraine Campaign",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/U%20Pdf/CMH_Pub_11-9.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "로렌 진입 시 추격으로 늘어난 보급선, 자원 배분과 독일군 방어의 작전 영향."
+    ],
+    "limitations": [
+      "공식 전사의 요약 안내다. 날짜별 차량·연료 실적을 확인한 자료는 아니다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "cmh-reader-guide-cole"
+  }
+]

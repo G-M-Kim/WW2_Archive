@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "id": "CAT-JP-SRC-0001",
+    "title": "作戦要務令：綱領、総則及第1部 第2部",
+    "institution_or_author": "일본 국립국회도서관",
+    "publication_date": "1938(국립국회도서관 서지)",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "특210-640 / NDL 1439842",
+    "locator": "서지와 디지털 컬렉션 연결",
+    "url": "https://ndlsearch.ndl.go.jp/books/R100000039-I1439842",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "《작전요무령》 제1·2부의 기록."
+    ],
+    "limitations": [
+      "목록을 확인했다. 디지털 뷰어에서 원문 조항은 대조하지 못했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "jp-field-service-regulations"
+  },
+  {
+    "id": "CAT-JP-SRC-0002",
+    "title": "Handbook on Japanese Military Forces",
+    "institution_or_author": "U.S. War Department",
+    "publication_date": "1944-10-01",
+    "source_type": "primary",
+    "document_or_accession_number": "TM-E 30-480",
+    "locator": "제VII장 도입 및 Part I §I–II, 전술 원칙과 공격",
+    "url": "https://www.ibiblio.org/hyperwar/Japan/IJA/HB/HB-7.html",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "정찰·침투·기습·포위 및 공격 중시를 기술한 미군 전시 관측."
+    ],
+    "limitations": [
+      "일본군 자체 교범이 아닌 적군 정보 자료다. 저자의 국민성 관련 해석을 채택하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "us-war-department-jp-handbook"
+  },
+  {
+    "id": "CAT-JP-SRC-0003",
+    "title": "Cross-Domain Concepts of the Malaya Campaign",
+    "institution_or_author": "Robert W. Lamont / U.S. Army ARMOR",
+    "publication_date": "2014",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Preparation과 Malaya Campaign의 전진 배치·도로·우회 단락",
+    "url": "https://www.benning.army.mil/armor/earmor/content/issues/2014/JAN_FEB/Articles/Lamont.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "말라야 투입부대의 보병·전차·포병·공병 결합, 도로 기동과 측방 침투."
+    ],
+    "limitations": [
+      "선택한 전역에 특화된 연구다. 중국·태평양의 일반 편제로 확대하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "lamont-malaya"
+  },
+  {
+    "id": "CAT-JP-SRC-0004",
+    "title": "Guadalcanal: The First Offensive",
+    "institution_or_author": "John Miller, Jr. / U.S. Army Center of Military History",
+    "publication_date": "1949",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 5-3",
+    "locator": "일루강 전투 및 제XIII장 인쇄 311–313쪽",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/G%20Pdf/CMH_Pub_5-3.pdf?ver=cZWR0mMJARWo2fa9ke_qGA%3D%3D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이치키 부대 공격, 미군의 사전 조준 화력, 일본군 포병 집중과 보급의 한계."
+    ],
+    "limitations": [
+      "미군 공식 전사다. 일본군 전투일지의 독립 대조와 손실 수치 비교는 남았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "miller-guadalcanal"
+  },
+  {
+    "id": "CAT-JP-SRC-0005",
+    "title": "Investigating Iwo: The Flag Raisings in Myth, Memory, and Esprit de Corps",
+    "institution_or_author": "Charles P. Neimeyer 외 / Marine Corps History Division",
+    "publication_date": "2019",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Neimeyer의 서두, 인쇄 8쪽 및 그림 1.2",
+    "url": "https://www.usmcu.edu/Portals/218/Investigating%20Iwo_WEB3.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "구리바야시의 상호 지원 거점·동굴·갱도에 기반한 방어와 대규모 돌격 억제."
+    ],
+    "limitations": [
+      "미 해병대 역사 연구다. 일본 육·해군의 지휘 계통과 개별 진지별 명령은 추가 확인이 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "neimeyer-investigating-iwo"
+  }
+]

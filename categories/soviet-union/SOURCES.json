@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "CAT-SU-SRC-0001",
+    "title": "Временный полевой устав РККА 1936 (ПУ 36)",
+    "institution_or_author": "소련 국방인민위원부 / 러시아 국립도서관(RSL)",
+    "publication_date": "1937년 인쇄본",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "FB R 337/441; FB R 337/442",
+    "locator": "서지·소장기호",
+    "url": "https://search.rsl.ru/ru/record/01005176691",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 적군 임시 야전규정의 1937년 간행 및 소장 정보."
+    ],
+    "limitations": [
+      "소장 목록을 확인했다. 러시아어 원면의 각 조항은 대조하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "soviet-pu36"
+  },
+  {
+    "id": "CAT-SU-SRC-0002",
+    "title": "Soviet Operational Art Since 1936: The Triumph of Maneuver War",
+    "institution_or_author": "David M. Glantz / U.S. Army Center of Military History",
+    "publication_date": "2005",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 70-89",
+    "locator": "인쇄 247–292쪽 중 On the Eve of War, 스탈린그라드 반격과 전시 재편 단락",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/H%20Pdf/cmhPub_70-89.pdf?ver=OY1vr2V5R_70PubR44yMdw%3D%3D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전전 이론과 1941년의 괴리, 기동편제 재구축, 스탈린그라드 돌파와 포위."
+    ],
+    "limitations": [
+      "작전술 중심의 후대 종합 연구다. 전체 사단의 수행을 동일하게 보지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "glantz-soviet-operational-art"
+  },
+  {
+    "id": "CAT-SU-SRC-0003",
+    "title": "Soviet Operational Logistics, 1939–1990",
+    "institution_or_author": "Graham H. Turbiville, Jr. / U.S. Army Center of Military History",
+    "publication_date": "2005",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 70-89",
+    "locator": "인쇄 293쪽 이하 중 스탈린그라드 반격의 도로·철도 및 전진기지 단락",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/H%20Pdf/cmhPub_70-89.pdf?ver=OY1vr2V5R_70PubR44yMdw%3D%3D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "스탈린그라드 반격 준비의 전진 보급기지와 도로·철도 복구."
+    ],
+    "limitations": [
+      "같은 편저에 수록된 별도 저자의 병참 연구다. 동일 주장에 대한 반복 인용은 독립 교차검증으로 세지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "turbiville-soviet-logistics"
+  },
+  {
+    "id": "CAT-SU-SRC-0004",
+    "title": "Weaving the Tangled Web: Military Deception in Large-Scale Combat Operations — BAGRATION case",
+    "institution_or_author": "U.S. Army University Press",
+    "publication_date": "2018",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 118쪽 이하, Deception Planning 및 바그라티온의 전선군 증원",
+    "url": "https://www.armyupress.army.mil/Portals/7/Research-and-Books/Archives/2018/PDF/Sep-2018-WeavingTheTangledWeb.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "4개 전선군의 증원, 전개 은폐와 기만 계획."
+    ],
+    "limitations": [
+      "기만을 중심으로 한 사례 연구다. 작전 결과를 기만 한 가지에 귀속하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "aup-bagration-deception"
+  }
+]

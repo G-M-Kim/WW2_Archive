@@ -5,7 +5,7 @@
     "institution_or_author": "United States War Department; U.S. Government Printing Office",
     "publication_date": "1945-03-15（발행문; 해당 본문 머리말 1945-03-01）",
     "source_type": "primary: 동시대 적군 정보 교범 원문 스캔",
-    "locator": "TM-E 30-451; 제목지 PDF 2, 서문 PDF 3; Chapter VII §VI.3~4, VII-79~85 (PDF 389~395); 시각 판독 PDF 390, 392, 393, 395; CAT-DE-02 추가: VII §V.1.c VII-57(PDF 367) 텍스트; §V.2.a VII-58(PDF 368), §VI.6 VII-88(PDF 398) 시각 판독; CAT-DE-05: VII §II.5.a VII-5(PDF 315), §II.6.b VII-8(PDF 318), §II.7.b(3) VII-11(PDF 321); CAT-DE-01 후속: VII §VI.3.b–d, VII-76~79 HTML 전사본(https://www.ibiblio.org/hyperwar/Germany/HB/HB-7.html)",
+    "locator": "TM-E 30-451; 제목지 PDF 2, 서문 PDF 3; Chapter VII §VI.3~4, VII-79~85 (PDF 389~395); 시각 판독 PDF 390, 392, 393, 395; CAT-DE-02 추가: VII §V.1.c VII-57(PDF 367) 텍스트; §V.2.a VII-58(PDF 368), §VI.6 VII-88(PDF 398) 시각 판독; CAT-DE-05: VII §II.5.a VII-5(PDF 315), §II.6.b VII-8(PDF 318), §II.7.b(3) VII-11(PDF 321); CAT-DE-01 후속: VII §VI.3.b–d, VII-76~79 HTML 전사본(https://www.ibiblio.org/hyperwar/Germany/HB/HB-7.html); 육군 교리 보충 조사: 제II장 인쇄 II–100쪽 §7 Veterinary Troops",
     "url": "https://www.ibiblio.org/hyperwar/USA/ref/TM/pdfs/TME30-451.PDF",
     "access_status": "source_checked",
     "claims_checked": [
@@ -14,7 +14,8 @@
       "발행일·정보 집계일 및 본문 머리말 날짜 구분",
       "CAT-DE-02: 자주포 분류의 역할 중첩, StuG III L/48의 무장·승무원·최대속력·선회/고저각, Sd.Kfz.251 및 251/16의 장갑수송 계열 분류",
       "CAT-DE-05: Kar 98k의 43½in 및 98계열 탄약·클립 공통란, MG 42의 발사속도 종류·거치 구분, Panzerfaust 60의 조준기 거리와 중량 표기",
-      "CAT-DE-01 후속: Panzer I A, II F, II L 및 III L/M의 교범상 승무원·무장·기동 수치"
+      "CAT-DE-01 후속: Panzer I A, II F, II L 및 III L/M의 교범상 승무원·무장·기동 수치",
+      "제II장 인쇄 II–100쪽 §7은 다수 독일군 사단이 수송에 말을 사용하고 수의중대를 두었다고 기록한다."
     ],
     "limitations": [
       "독일 제조사 시험 원기록이 아닌 미군 정보자료; 실전 가동 성능으로 일반화 불가",
@@ -51,6 +52,9 @@
         "accessed_at": "2026-11-09T09:02:34+09:00",
         "scope": "CAT-DE-05: 기존 SHA-256 일치 스캔의 PDF 315·318·321 해당 인쇄면 재렌더링·시각 판독"
       }
+    ],
+    "additional_accessed_at": [
+      "2026-11-10T17:18:19+09:00"
     ]
   },
   {
@@ -3207,5 +3211,125 @@
     "limitations": "웹의 KTB 영어 번역 본문 확인. 후속 조선소 체류 기록은 별도 상업 조선소를 군기지 설비로 합산하는 근거가 아니다.",
     "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
     "independence_group": "kriegsmarine-u48-ktb"
+  },
+  {
+    "id": "CAT-DE-SRC-0158",
+    "title": "Truppenführung (T.F.), 1. Teil (Abschnitt I–XIII)",
+    "institution_or_author": "Deutsche Digitale Bibliothek / Bundesarchiv",
+    "publication_date": "1933",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "H.Dv. 300/1",
+    "locator": "표제 및 문서번호",
+    "url": "https://www.deutsche-digitale-bibliothek.de/item/4HDHHTP4RDSUZLDUJPRB3CWWYYJRWNQW",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "육군 지휘 교범 제1부의 표제·문서번호."
+    ],
+    "limitations": [
+      "서지와 소장정보를 확인했다. 독일어 원면의 조항은 직접 대조하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "de-truppenfuehrung"
+  },
+  {
+    "id": "CAT-DE-SRC-0159",
+    "title": "The Survival of Auftragstaktik During the Soviet Counterattack in the Battle for Moscow, December 1941 to January 1942",
+    "institution_or_author": "Miguel A. Lopez / Temple University",
+    "publication_date": "2015-12",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 11–13쪽, Truppenführung",
+    "url": "https://scholarshare.temple.edu/bitstreams/e2f8e3a1-6586-4454-8e63-61158ee75870/download",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1933·1934년 두 부분의 간행과 교범 §§6, 75–76의 독립 판단·상급 의도·보고 책임."
+    ],
+    "limitations": [
+      "Condell·Zabecki의 영문 번역을 인용하는 후대 연구다. 독일어 원면과 독립된 증거로 합산하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "de-truppenfuehrung"
+  },
+  {
+    "id": "CAT-DE-SRC-0160",
+    "title": "Sixteen Cases of Mission Command",
+    "institution_or_author": "Donald P. Wright 편 / U.S. Army Combat Studies Institute Press",
+    "publication_date": "2013",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 52–60쪽, 세당 도하 및 그림 3",
+    "url": "https://www.armyupress.army.mil/Portals/7/combat-studies-institute/csi-books/SixteenCasesOfMissionCommand.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도하의 사전 연습, 제1기갑사단의 보병 돌격, 공병 교량 설치 후 차량 도하."
+    ],
+    "limitations": [
+      "임무형 지휘의 교육용 성공 사례다. 다른 군단·사단의 보편적 실적은 다루지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "csi-mission-command"
+  },
+  {
+    "id": "CAT-DE-SRC-0161",
+    "title": "Kiev 1941 — Introduction",
+    "institution_or_author": "David Stahel / Cambridge University Press",
+    "publication_date": "2012",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "서론의 1941년 여름 동부군 손실·기동부대 마모 단락",
+    "url": "https://www.cambridge.org/core/books/abs/kiev-1941/introduction/B6DC068AD79EEEA6B00A40F07D22074D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "포위 성과와 전차·차량 마모, 정비 여건 및 부품 부족의 병존."
+    ],
+    "limitations": [
+      "저자의 작전 지속 가능성 평가를 참고했다. 개별 사단별 가동률을 인용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "stahel-kiev-1941"
+  },
+  {
+    "id": "CAT-DE-SRC-0162",
+    "title": "Standing Fast: German Defensive Doctrine on the Russian Front During World War II, Prewar to March 1943",
+    "institution_or_author": "Timothy A. Wray / U.S. Army Combat Studies Institute",
+    "publication_date": "1986",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제1장 The Origins of German Defensive Doctrine",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/GERMANY/GER%20Standing%20Fast%2C%20Defensive%20Doct.%20Russ%20Front%20to%201943.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일군 종심 탄력방어의 제1차 대전기 기원과 전전의 계승."
+    ],
+    "limitations": [
+      "연구의 종료 시점은 1943년 3월이다. 이후 방어에 그대로 적용하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "wray-standing-fast"
+  },
+  {
+    "id": "CAT-DE-SRC-0163",
+    "title": "Panzer Group Kleist and the Breakthrough in France, 1940",
+    "institution_or_author": "Karl-Heinz Frieser / U.S. Army Center of Military History",
+    "publication_date": "2005",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 70-89",
+    "locator": "독일군 작전술 장의 Sedan과 Operation CITADEL 비교",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/H%20Pdf/cmhPub_70-89.pdf?ver=OY1vr2V5R_70PubR44yMdw%3D%3D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기습과 취약부를 이용한 세당 공세와, 예고된 방향의 준비된 쿠르스크 방어 돌파 시도의 차이."
+    ],
+    "limitations": [
+      "두 사례에 대한 저자의 비교 해석이다. 책임 소재를 이 장 하나로 확정하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "frieser-operational-art"
   }
 ]
