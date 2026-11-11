@@ -1,11 +1,14 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1942-02-10
-FORWARD_INSPECTED_THROUGH: 1942-02-09
-CURRENT_FORWARD_BATCH: 1942-02-10..1942-02-12
+FORWARD_CURSOR: 1942-02-13
+FORWARD_INSPECTED_THROUGH: 1942-02-12
+CURRENT_FORWARD_BATCH: 1942-02-13..1942-02-15
 TOTAL_EVT_SRC_RQ: 3613/2044/1227
 AS_OF: 2026-11-11
 
-## 최신 전진 실행 — 2026-11-11 (2월 7~9일)
+## 최신 전진 실행 — 2026-11-11 (2월 10~12일)
+- FRUS China d17/d18/d19/d350·Europe III d82·I d786/d787 당대 원문 7건 대조: 평가/실제 전력, 전달/수신, 동의/참여, 법률/지급, 지시/회신 분리. 신규 0/0/0, 누적 3613/2044/1227. [감사](source-audit-1942-feb10-12-batch1.md). RQ-0003/RQ-0007 backfill. 다음 1942-02-13.
+
+## 이전 전진 실행 — 2026-11-11 (2월 7~9일)
 - FRUS China d15/d16 2월 9일 당대 문서 확인: USS Tutuila 양도 의견과 실제 인도, 중국 항공보급 약속과 실제 수송량 구분. 2/7~8 및 타전역·민간인 자료 미확인. 신규 0/0/0, 누적 3613/2044/1227. [감사](source-audit-1942-feb07-09-batch1.md). RQ-0003/RQ-0007 backfill. 다음 1942-02-10.
 
 ## 이전 전진 실행 — 2026-11-11 (2월 4~6일)
