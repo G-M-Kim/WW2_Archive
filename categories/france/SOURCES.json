@@ -2120,12 +2120,13 @@
     "publication_date": "1938",
     "source_type": "primary: 총조사 간행물 스캔",
     "document_or_accession_number": "BNSP bc6p06z2rd0; 인쇄번호 J.39241-38",
-    "locator": "Population légale aux divers recensements depuis 1801, 1936년 행; 96쪽 표 II, 97쪽 표 IV",
+    "locator": "Population légale aux divers recensements depuis 1801, 1936년 행; 96쪽 표 II, 97쪽 표 IV; 56쪽 표 II Strasbourg 행",
     "url": "https://www.bnsp.insee.fr/ark:/12148/bc6p06z2rd0.pdf",
     "accessed_at": "2026-11-11T12:58:10+09:00",
     "access_status": "source_checked",
     "claims_checked": [
-      "본토 법정인구의 최초·정정 값과 해외 별도 집계. 알제리·튀니지 별도 표의 조사일과 범위."
+      "본토 법정인구의 최초·정정 값과 해외 별도 집계. 알제리·튀니지 별도 표의 조사일과 범위.",
+      "1936년 도시 표의 Strasbourg와 Bas-Rhin 표기."
     ],
     "limitations": [
       "전전 총조사. OCR 숫자가 본문·표에서 불일치하므로 정정치는 요약표를 기준으로 확인했다."
@@ -2292,5 +2293,305 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "fr-1946-census-decree"
+  },
+  {
+    "id": "CAT-FR-SRC-0115",
+    "title": "Amtlicher Plan der Stadt Strassburg (Massstab 1: 15 000)",
+    "institution_or_author": "Städtisches Vermessungsamt / J. Finck (인쇄) / Paris Musées",
+    "publication_date": "1940–1945 (소장처 추정)",
+    "source_type": "primary: 독일 민정기 공식 시가지도 및 사후 기입",
+    "document_or_accession_number": "2015.3.1.249; IIIF 600005477",
+    "locator": "표지, 축척, Marques et inscriptions",
+    "url": "https://www.parismuseescollections.paris.fr/fr/musee-jean-moulin/oeuvres/prise-de-guerre-du-4rbfm-amtlicher-plan-der-stadt-strassburg-massstab-1-15",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일어 지도 표기 Strassburg, 시 측량부 명의, 프랑스어 기입 Strasbourg 및 1944-11-23."
+    ],
+    "limitations": [
+      "표지와 지도 이미지를 열었다. 기입 전체는 기관 전사를 대조했다. 인쇄·기입 시점은 각각 미확인."
+    ],
+    "rights": "디지털 이미지에 Paris Musées CC0 표기. 이미지 재수록 없이 링크만 사용.",
+    "independence_group": "strasbourg-municipal-survey-map"
+  },
+  {
+    "id": "CAT-FR-SRC-0116",
+    "title": "Die „Germanisierung“ Straßburgs am Beispiel der Umbenennung von Straßen und Plätzen",
+    "institution_or_author": "Moritz Faist / Universität Freiburg 연구 프로젝트",
+    "publication_date": "2017-04-21",
+    "source_type": "secondary: 기록과 당대 신문을 이용한 연구",
+    "document_or_accession_number": "연구 프로젝트 온라인 글; 인용 사진 Archives de Strasbourg 1 Fi 128/19",
+    "locator": "개명 절, 1940-08-21 신문 사진 및 출처 목록",
+    "url": "https://ns-ministerien-bw.de/2017/04/franzoesische-schminke-weicht-altem-deutschem-kulturgut-die-germanisierung-strassburgs-am-beispiel-der-umbenennung-von-strassen-und-plaetzen/",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일의 사실상 병합 아래 1940-08-21 광장 3곳 개명 행사와 프랑스어·독일어 대응."
+    ],
+    "limitations": [
+      "당시 신문과 공고에 근거한 해설로 공고의 독립 확증으로 계산하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "strasbourg-renaming-1940"
+  },
+  {
+    "id": "CAT-FR-SRC-0117",
+    "title": "Umbenennung von Strassen und Plätzen [신문 공고 스캔 묶음]",
+    "institution_or_author": "Straßburger Neueste Nachrichten / Freiburg 연구 프로젝트 제공",
+    "publication_date": "1940-08 (두 번째 이미지 공고 말미 1940-08-30)",
+    "source_type": "primary: 개명 공고의 스캔",
+    "document_or_accession_number": "Umbenennung_Strassen.pdf, 2면",
+    "locator": "PDF 두 번째 이미지의 Kléber·Broglie 대응 행 및 하단 날짜",
+    "url": "https://ns-ministerien-bw.de/wp-content/uploads/2017/04/Umbenennung_Strassen.pdf",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Place Kléber—Karl-Roos-Platz와 Place Broglie—Adolf-Hitler-Platz 대응."
+    ],
+    "limitations": [
+      "두 번째 이미지의 하단 날짜는 기사에 붙은 8월 24일 출처 표기와 구분했다. 두 번째 이미지의 발행 호수 및 개별 시행일은 미확정."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "strasbourg-renaming-1940"
+  },
+  {
+    "id": "CAT-FR-SRC-0118",
+    "title": "Libération de Strasbourg",
+    "institution_or_author": "Armée de Terre / Ministère des Armées",
+    "publication_date": null,
+    "source_type": "secondary: 공식 해방사 해설",
+    "document_or_accession_number": "liberation-2",
+    "locator": "「23 novembre 1944, la libération de Strasbourg」",
+    "url": "https://www.defense.gouv.fr/terre/mieux-nous-connaitre/histoire-larmee-terre/lengagement-larmee-terre-seconde-guerre-mondiale/liberation-2",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944-11-23 제2기갑사단의 도시 진입과 클레베르 광장 명칭."
+    ],
+    "limitations": [
+      "직접 내려받은 기관 HTML 본문을 확인했다. 현대의 사건 설명이며 광장명 환원 법령은 아니다."
+    ],
+    "rights": "본문 요약 및 링크만 사용. 사진에 ECPAD/Défense 권리 표기.",
+    "independence_group": "armee-terre-strasbourg-liberation"
+  },
+  {
+    "id": "CAT-FR-SRC-0119",
+    "title": "Commune de Strasbourg",
+    "institution_or_author": "INSEE",
+    "publication_date": "2026-01-01 (지리 코드 기준일)",
+    "source_type": "primary: 현행 공식 지리 식별자",
+    "document_or_accession_number": "COG 67482",
+    "locator": "Code officiel géographique au 1er janvier 2026",
+    "url": "https://www.insee.fr/fr/metadonnees/geographie/commune/67482-strasbourg",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현대 Strasbourg와 Bas-Rhin 대응."
+    ],
+    "limitations": [
+      "현대 행정 코드는 전시 경계를 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "insee-strasbourg-cog"
+  },
+  {
+    "id": "CAT-FR-SRC-0120",
+    "title": "Strasbourg capitale de Noël – Plan d’accès automobile",
+    "institution_or_author": "Ville de Strasbourg",
+    "publication_date": "2026 (판면 행사 기준)",
+    "source_type": "primary: 현대 시 지도",
+    "document_or_accession_number": "공개 PDF 1면",
+    "locator": "지도 중앙 광장 3곳 표기",
+    "url": "https://ete.strasbourg.eu/documents/d/strasbourg.eu/plan_noel2024_secu",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현재 Place Kléber·Place Broglie·Place de la République 표기."
+    ],
+    "limitations": [
+      "현재 대응명만 인용. URL 파일명의 숫자와 달리 열람한 판면은 2026년 행사판."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "strasbourg-current-city-map"
+  },
+  {
+    "id": "CAT-FR-SRC-0121",
+    "title": "Plan de Saïgon",
+    "institution_or_author": "Service géographique de l’Indochine / Bibliothèque nationale de France",
+    "publication_date": "1942",
+    "source_type": "primary: 당대 지도 스캔 복제본",
+    "document_or_accession_number": "BnF GE C-17229; Gallica btv1b53197000p",
+    "locator": "단일 도엽 표제와 축척",
+    "url": "https://commons.wikimedia.org/wiki/File:Plan_de_Sa%C3%AFgon_(1942).jpg",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 Saïgon 지도 표제와 1:10,000 도엽."
+    ],
+    "limitations": [
+      "Gallica 제공 스캔의 공개 축소판을 열람했다. 지도의 도시 표제가 법령상 행정 경계를 뜻하지 않는다."
+    ],
+    "rights": "복제본에 Public Domain Mark 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "sgi-1942-city-maps"
+  },
+  {
+    "id": "CAT-FR-SRC-0122",
+    "title": "Plan de Cholon",
+    "institution_or_author": "Service géographique de l’Indochine / Bibliothèque nationale de France",
+    "publication_date": "1942",
+    "source_type": "primary: 당대 지도 스캔 복제본",
+    "document_or_accession_number": "BnF GE C-17230; Gallica btv1b53189369q",
+    "locator": "단일 도엽 표제와 축척",
+    "url": "https://commons.wikimedia.org/wiki/File:Plan_de_Cholon_(1942).jpg",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 Cholon 지도 표제와 1:10,000 도엽."
+    ],
+    "limitations": [
+      "Gallica 직접 접근 403, 공개 축소판의 표제를 열람했다. 같은 기관의 Saïgon 지도와 독립 계열로 계산하지 않는다."
+    ],
+    "rights": "복제본에 Public Domain Mark 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "sgi-1942-city-maps"
+  },
+  {
+    "id": "CAT-FR-SRC-0123",
+    "title": "Họa đồ Đô thành Sài Gòn – Chợ Lớn (1956), tỷ lệ 1/20.000",
+    "institution_or_author": "Trung tâm Lưu trữ quốc gia II (베트남 국가기록원 제2센터)",
+    "publication_date": null,
+    "source_type": "secondary: 기관 소장 지도 해설",
+    "document_or_accession_number": "온라인 전시 지도 제37번",
+    "locator": "첫 문단, 연혁 [1]–[5]",
+    "url": "https://www.nac2.gov.vn/csdl/bando/37.html",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Sài Gòn, Chợ Lớn 및 Région de Saigon-Cholon 대응, 1931년 구역 설치, 1941년 권한 이전."
+    ],
+    "limitations": [
+      "1956년 도면 설명이 인용한 연혁이다. 1931년·1941년 법령 원문과 전시 경계도는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nac2-saigon-cholon-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0124",
+    "title": "Indochine",
+    "institution_or_author": "Archives nationales d’outre-mer",
+    "publication_date": null,
+    "source_type": "secondary: 공식 기록군 해설",
+    "document_or_accession_number": "GGI; colonial administration before 1945",
+    "locator": "Archives de l’administration coloniale jusqu’en 1945",
+    "url": "https://archives-nationales-outre-mer.culture.gouv.fr/faire-une-recherche/indochine",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "코친차이나의 직할 식민지 행정과 인도차이나 연방 내 위치."
+    ],
+    "limitations": [
+      "기관 기록 안내. 개별 도시의 관할 경계와 실효지배는 확인 대상이 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "anom-indochina-guide"
+  },
+  {
+    "id": "CAT-FR-SRC-0125",
+    "title": "Nouveau conseil de la région de Saïgon-Cholon",
+    "institution_or_author": "Le Nouvelliste d’Indochine",
+    "publication_date": "1942-01-25",
+    "source_type": "primary: 당대 신문 보도의 후대 전재",
+    "document_or_accession_number": "SFDIC-Cholon.pdf 내 신문 발췌",
+    "locator": "1942-01-25 기사 표제·첫 문단",
+    "url": "https://www.entreprises-coloniales.fr/inde-indochine/SFDIC-Cholon.pdf",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "구역 이름의 실제 사용, 새 평의회 첫 회의가 사이공 시청에서 열렸다는 당대 보도."
+    ],
+    "limitations": [
+      "현대 편집본에 전재된 기사 발췌를 열람했다. 신문 원판면과 관보 원문은 미대조."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nouvelliste-indochine-1942"
+  },
+  {
+    "id": "CAT-FR-SRC-0126",
+    "title": "Inventaire des archives de l’Indochine. Sous-série 10 H (1867–1956), tome I",
+    "institution_or_author": "Jean-Claude Devos, Jean Nicot, Philippe Schillinger / Service historique de l’armée de Terre",
+    "publication_date": "1990",
+    "source_type": "secondary: 기록물 목록의 역사 서문",
+    "document_or_accession_number": "10 H; ISBN 2-86323-055-7",
+    "locator": "22쪽; 10 H 79–80 목록",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/notices_files/SHDGR_INV_10H_T1.pdf",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945-03-09 사이공 총독 관저의 드쿠 체포와 일본군 공격."
+    ],
+    "limitations": [
+      "프랑스 육군 기록기관의 서문을 열람했다. 해당 기록군 개별 문서 원문과 시가지 지배 경계는 미확인."
+    ],
+    "rights": "© Service historique de l’armée de Terre. 요약과 링크만 사용.",
+    "independence_group": "shat-10h-inventory"
+  },
+  {
+    "id": "CAT-FR-SRC-0127",
+    "title": "Memorandum of Conversation, by the Director of the Office of Far Eastern Affairs (Vincent)",
+    "institution_or_author": "John Carter Vincent / U.S. Department of State",
+    "publication_date": "1945-09-24",
+    "source_type": "primary: 미 국무부 외교 메모 공식 전사",
+    "document_or_accession_number": "851G.00/9–2445; FRUS 1945 VI, doc. 189",
+    "locator": "본문 첫 단락",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v06/d189",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 9월 하순 미국 외교 메모의 Saigon 표기."
+    ],
+    "limitations": [
+      "메모의 영국 외교관 진술은 당시 입장을 기록하며, 9월 2일의 통치 상태는 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-state-851g-092445"
+  },
+  {
+    "id": "CAT-FR-SRC-0128",
+    "title": "Nghị quyết về việc chính thức đặt tên thành phố Sài Gòn - Gia Định là thành phố Hồ Chí Minh",
+    "institution_or_author": "베트남 국회 / Trường Chinh 서명",
+    "publication_date": "1976-07-02",
+    "source_type": "primary: 국회 결의의 온라인 전사",
+    "document_or_accession_number": "무번호 국회 결의; 국회 도서관 11742/17813",
+    "locator": "날짜 및 QUYẾT NGHỊ 본문",
+    "url": "https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-quyet-chinh-thuc-dat-ten-thanh-pho-sai-gon-gia-dinh-la-thanh-pho-ho-chi-minh-42737.aspx",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Sài Gòn–Gia Định의 현대 도시명 변경."
+    ],
+    "limitations": [
+      "국회 도서관 직접 접근 403. 공개 법령 데이터베이스의 전문을 열람했다. 현대명 식별에만 사용했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "vn-assembly-1976-hcmc"
+  },
+  {
+    "id": "CAT-FR-SRC-0129",
+    "title": "Libération de Strasbourg, la place Kléber",
+    "institution_or_author": "촬영자 미상 / Eastman Kodak Company (제조) / Paris Musées",
+    "publication_date": "1944-11-23 (사진 소장기관 연대)",
+    "source_type": "primary: 해방 당시 사진 및 소장기관의 뒷면 기입 전사",
+    "document_or_accession_number": "2015.3.1.122",
+    "locator": "Marques, inscriptions, poinçons, 뒷면 기입",
+    "url": "https://www.parismuseescollections.paris.fr/fr/musee-jean-moulin/oeuvres/liberation-de-strasbourg-la-place-kleber",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "사진 뒷면에 기록된 프랑스어 Place Kléber와 촬영 장면의 날짜."
+    ],
+    "limitations": [
+      "소장기관의 기입 전사를 확인했다. 기입 작성일이나 법정 명칭의 시행일은 미확인."
+    ],
+    "rights": "기관에 Reproduction 표기. 이미지 재수록 없이 링크만 사용.",
+    "independence_group": "paris-musees-kleber-print"
   }
 ]

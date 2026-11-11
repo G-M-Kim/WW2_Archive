@@ -1,0 +1,77 @@
+{
+  "step": 32,
+  "job_id": "CAT-FR-13",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 13,
+  "category": "당시 기준 지명",
+  "article_path": "categories/france/13-historical-place-names.md",
+  "status": "partial",
+  "completed_at": "2026-11-11T15:03:24+09:00",
+  "started_at": "2026-11-11T14:55:46+09:00",
+  "base_head": "5ec53670c838b841462722caa48e7b50a499a892",
+  "source_ids": [
+    "CAT-FR-SRC-0106",
+    "CAT-FR-SRC-0115",
+    "CAT-FR-SRC-0116",
+    "CAT-FR-SRC-0117",
+    "CAT-FR-SRC-0118",
+    "CAT-FR-SRC-0119",
+    "CAT-FR-SRC-0120",
+    "CAT-FR-SRC-0121",
+    "CAT-FR-SRC-0122",
+    "CAT-FR-SRC-0123",
+    "CAT-FR-SRC-0124",
+    "CAT-FR-SRC-0125",
+    "CAT-FR-SRC-0126",
+    "CAT-FR-SRC-0127",
+    "CAT-FR-SRC-0128",
+    "CAT-FR-SRC-0129"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0042",
+    "CAT-FR-RQ-0043",
+    "CAT-FR-RQ-0044"
+  ],
+  "entity_ids": [
+    "CAT-FR-GEO-0004",
+    "CAT-FR-GEO-0005",
+    "CAT-FR-GEO-0006",
+    "CAT-FR-GEO-0007",
+    "CAT-FR-GEO-0008",
+    "CAT-FR-GEO-0009",
+    "CAT-FR-GEO-0010"
+  ],
+  "research_scope": "스트라스부르와 도심 광장 세 곳의 전전·독일 민정기·해방 및 현대 표기, 사이공·쩌런 시가지와 식민지 행정구역 표기.",
+  "limitations": [
+    "스트라스부르 광장별 개명·환원 시행일, 지도 인쇄일 및 뒷면 기입 작성일 미확정.",
+    "사이공–쩌런 구역 설치·권한 조치의 원 법령, 전시 행정 경계와 현지어 당대 원문 미확보.",
+    "모젤과 그 밖의 본토·해외 지역은 후속 조사 범위."
+  ],
+  "evidence_checked": [
+    "1936년 본토 총조사 표 II, Paris Musées 2015.3.1.249 지도 표지 및 기입, 2015.3.1.122 사진 뒷면 기입 전사",
+    "1940년 광장 개명 공고 스캔 두 번째 면, Freiburg 연구, 프랑스 육군 웹 본문, INSEE 코드와 현재 시가지도",
+    "1942년 지리국 도엽 GE C-17229·17230 축소판, 베트남 국가기록원 제2센터의 지도 37 해설, 1942년 현지 신문 발췌, FRUS 189호"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://gallica.bnf.fr/ark:/12148/btv1b53189369q",
+      "result": "직접 열람 403. 두 지도는 BnF 스캔의 공개 복제본에서 열람."
+    },
+    {
+      "url": "https://thuvienso.quochoi.vn/handle/11742/17813?mode=full",
+      "result": "국회 도서관 직접 열람 403. 공개 법령 데이터베이스 전사 본문으로 대조."
+    },
+    {
+      "url": "https://www.defense.gouv.fr/terre/mieux-nous-connaitre/histoire-larmee-terre/lengagement-larmee-terre-seconde-guerre-mondiale/liberation-2",
+      "result": "웹 조회 시간 초과 후 기관 HTML을 직접 내려받아 본문을 확인."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=32 pending=101; sources=377 questions=137. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

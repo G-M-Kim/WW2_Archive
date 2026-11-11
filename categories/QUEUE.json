@@ -440,8 +440,9 @@
     "category": "당시 기준 지명",
     "article_path": "categories/france/13-historical-place-names.md",
     "planned_at": "2026-11-11T11:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-FR-13.json",
+    "completed_at": "2026-11-11T15:03:24+09:00"
   },
   {
     "step": 33,
