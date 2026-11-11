@@ -3793,5 +3793,265 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "lafarge-airfield-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0190",
+    "title": "Formes de construction, bassins de radoub actuellement bassins n° 8, 9 et 10, Laninon, Arsenal (Brest)",
+    "institution_or_author": "Guillaume Lécuillier / Inventaire général du patrimoine culturel, Bretagne",
+    "publication_date": "2005 조사, 2023 갱신, 부록 1은 1996",
+    "source_type": "secondary: 문화유산 조사와 해군 시설사 재록",
+    "document_or_accession_number": "IA29001878",
+    "locator": "Annexe 1, Pierres de mer, Les bassins de Lanninon",
+    "url": "https://www.patrimoine.bzh/gertrude-diffusion/dossier/IA29001878",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "라니농 기존 도크 2기, 1916년 사용 개시, 길이 250 m·폭 36 m와 전후 연장."
+    ],
+    "limitations": [
+      "부록 1은 후대 시설사. 부록 2는 위키 재록이어서 근거로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "brest-inventaire-pierres-de-mer"
+  },
+  {
+    "id": "CAT-FR-SRC-0191",
+    "title": "La construction d’un troisième bassin à La Ninon est commencée",
+    "institution_or_author": "La Dépêche de Brest / Retro29 재록",
+    "publication_date": "1939-02-18",
+    "source_type": "primary: 동시대 신문의 제목 판면과 본문 전사",
+    "document_or_accession_number": "La Dépêche de Brest 1939-02-18자",
+    "locator": "제목 판면과 Les deux bassins actuels 및 Le bassin qui vient d’être entrepris 문단",
+    "url": "https://www.retro29.fr/1939-construction-bassin-3",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기존 250 m·입구 36 m, 제3도크 2월 7일 공사 시작 보도, 305 m에서 365 m로 연장하는 계획 및 입구 46 m."
+    ],
+    "limitations": [
+      "표제 이미지와 전사 본문 열람. BnF 지면 전체 및 공사기록 미열람. 착공일과 계획은 언론 보도."
+    ],
+    "rights": "당대 신문의 권리 상태 미확인. 이미지·본문을 재수록하지 않고 링크와 자체 요약만 사용.",
+    "independence_group": "brest-depeche-19390218"
+  },
+  {
+    "id": "CAT-FR-SRC-0192",
+    "title": "Lancement du Richelieu à Brest, 17 janvier 1939",
+    "institution_or_author": "Musée de la Marine 소장 / Monique Michaux·J. Chantriot 재록",
+    "publication_date": "1939-01-17 촬영, 1979 재록",
+    "source_type": "primary: 당대 사진의 재록",
+    "document_or_accession_number": "Revue historique des Armées 6-4, DOI 10.3406/rharm.1979.7680",
+    "locator": "인쇄 71쪽 상단 진수 사진과 설명",
+    "url": "https://www.persee.fr/doc/rharm_0035-3299_1979_num_6_4_7680",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "브레스트에서 리슐리외가 1939-01-17 진수된 장면."
+    ],
+    "limitations": [
+      "판면 직접 열람. 사진 설명은 위치를 브레스트로만 특정하고 후속 도크 사용은 알려 주지 않는다."
+    ],
+    "rights": "원 사진 Musée de la Marine 표기. 링크와 자체 요약만 사용.",
+    "independence_group": "musee-marine-richelieu-photo"
+  },
+  {
+    "id": "CAT-FR-SRC-0193",
+    "title": "Richelieu — Carrière / Service career",
+    "institution_or_author": "Naval Monographies / Avions-Bateaux 공개 발췌",
+    "publication_date": "발행일 미표기",
+    "source_type": "secondary: 함정 건조·운용 연혁",
+    "document_or_accession_number": "Naval Monographies 01, 발췌 인쇄 18쪽",
+    "locator": "18쪽 Carrière, 1939년 1월 진수와 도크 조립 및 9월 기관시험 문단",
+    "url": "https://www.avions-bateaux.com/uploads/attachment/produit/produit_1981_b562eaeb27b1931fb2ddd1f2a3c87dc2.pdf",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "진수는 선체 중앙부였으며 라니농 9번 도크에서 선수·선미를 부착했다는 기록. 첫 기관시험은 9월 14일."
+    ],
+    "limitations": [
+      "공개 발췌에서 확인. 접안 및 건조일지 원자료를 직접 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "naval-monographs-richelieu"
+  },
+  {
+    "id": "CAT-FR-SRC-0194",
+    "title": "Bassin de radoub dit grands bassins Vauban",
+    "institution_or_author": "Sophie Carteron / Région Provence-Alpes-Côte d’Azur, Inventaire général",
+    "publication_date": "2015 조사 및 작성, 2017 갱신",
+    "source_type": "secondary: 문화유산 조사",
+    "document_or_accession_number": "IA83001867",
+    "locator": "Historique, Description",
+    "url": "https://dossiersinventaire.maregionsud.fr/dossier/IA83001867",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1927년 완공 서술, 평행 도크 두 줄의 각 442×40 m와 네 구획 분할 구조, 전후 남서 도크 확폭."
+    ],
+    "limitations": [
+      "폭 측정 지점 및 1939년 입거 기록 미확인. 442 m는 도크 한 줄 전체 수치다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "paca-inventaire-vauban"
+  },
+  {
+    "id": "CAT-FR-SRC-0195",
+    "title": "Le patrimoine militaire de la rade de Toulon : histoire, territorialité et gestion patrimoniale",
+    "institution_or_author": "Bernard Cros / In Situ",
+    "publication_date": "2011",
+    "source_type": "secondary: 해군 항만과 군용 시설 연구",
+    "document_or_accession_number": "In Situ 16, DOI 10.4000/insitu.275",
+    "locator": "§12·16~17, 카스티뇨 공작장, 보방 도크, 밀로 보급 및 개전 전 군항 수역",
+    "url": "https://www.researchgate.net/publication/272436047_Le_patrimoine_militaire_de_la_rade_de_Toulon_histoire_territorialite_et_gestion_patrimoniale",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대형 도크 1928년 완공 서술, 15 ha 매립지, 군항 수역 관할, 카스티뇨 공작장과 밀로·라구브랑의 보급 시설 연혁."
+    ],
+    "limitations": [
+      "논문 본문을 공개 저자 페이지의 재록에서 열람. 개전일 개별 시설 운영표가 아니며 완공 연도는 IA83001867과 차이."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "cros-toulon-study"
+  },
+  {
+    "id": "CAT-FR-SRC-0196",
+    "title": "Avis de l’autorité environnementale sur le dossier de demande d’autorisation d’exploiter du dépôt d’hydrocarbures des Arènes",
+    "institution_or_author": "프랑스 환경당국 / Conseil général de l’environnement et du développement durable",
+    "publication_date": "2010",
+    "source_type": "primary: 2010년 시설 인허가 의견서와 과거 이력 기재",
+    "document_or_accession_number": "10150-IDPP2-10-09-972 AO",
+    "locator": "1쪽 Contexte et description du projet",
+    "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Avis%20AE%20100906.pdf#page=1",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "툴롱 해군 지원용 아렌 지하 저장소 1938년 건설, 군항 담장 밖 별도 부속 부지."
+    ],
+    "limitations": [
+      "탱크 10기는 2010년 기술이다. 1939년 가동 개시, 저장량·이송량 및 탱크 수는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "environment-arenes-2010"
+  },
+  {
+    "id": "CAT-FR-SRC-0197",
+    "title": "French, Polish, German, United States Navy Ship Dispositions, September 1939",
+    "institution_or_author": "Don Kindell / Naval-History.Net",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary: 월간 해군 배치·편제 편찬",
+    "document_or_accession_number": "xDKWW2-3909-05OtherNavies",
+    "locator": "1. French Navy, Major Squadrons, Brest / Oran / Toulon",
+    "url": "https://www.naval-history.net/xDKWW2-3909-05OtherNavies.htm",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "브레스트 Force de Raid와 툴롱 제3전대의 편제, 툴롱 출발 제2전대의 9월 2일 오랑 도착."
+    ],
+    "limitations": [
+      "9월 편제·이동을 포함하며 9월 1일 전 함정의 실계류 명부가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "kindell-sept1939"
+  },
+  {
+    "id": "CAT-FR-SRC-0198",
+    "title": "La Marine — Été 1939",
+    "institution_or_author": "Atlas de la France en guerre / atlasfrance.hypotheses.org",
+    "publication_date": "PDF 작성일 미표기, 웹 경로 2023-05",
+    "source_type": "secondary: 해군 관할 역사 지도",
+    "document_or_accession_number": "carte_regions-maritimes_1939.pdf",
+    "locator": "단일 지도, Brest·Toulon 및 해군관구 범례",
+    "url": "https://atlasfrance.hypotheses.org/files/2023/05/carte_regions-maritimes_1939.pdf",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 여름 브레스트·툴롱의 프랑스 해군 관구 중심지 및 본토·북아프리카 관할 구분."
+    ],
+    "limitations": [
+      "후대 재구성. 배치의 시각과 군항 시설의 정량 수치는 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "atlasfrance-regions-maritimes"
+  },
+  {
+    "id": "CAT-FR-SRC-0199",
+    "title": "Vue de trois quarts arrière bâbord du contre-torpilleur Volta qui appareille du port de Brest",
+    "institution_or_author": "ECPAD / ImagesDéfense",
+    "publication_date": "1939-10-03",
+    "source_type": "secondary: 동시대 해군 사진의 기록관 설명",
+    "document_or_accession_number": "MARINE 1-7",
+    "locator": "Description, Propriétés 및 reportage",
+    "url": "https://imagesdefense.gouv.fr/fr/vue-de-trois-quarts-arriere-babord-du-contre-torpilleur-volta-qui-appareille-du-port-de-brest.html",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-10-03 볼타의 브레스트 출항이라는 사진 설명과 당시 군항 활동."
+    ],
+    "limitations": [
+      "개별 HTML 소장 정보를 열람했다. 개전일 계류 위치나 항만 정원은 알 수 없다."
+    ],
+    "rights": "ECPAD 소장. 원문 링크와 자체 요약만 사용.",
+    "independence_group": "ecpad-marine-1"
+  },
+  {
+    "id": "CAT-FR-SRC-0200",
+    "title": "Sabordage de la flotte française. Vue aérienne",
+    "institution_or_author": "촬영자 미상 / Bildarchiv Preussischer Kulturbesitz, Histoire par l’image",
+    "publication_date": "1942-11-27",
+    "source_type": "primary: 동시대 항공사진의 공개 복제",
+    "document_or_accession_number": "16-580440",
+    "locator": "첫 항공사진과 소장정보",
+    "url": "https://histoire-image.org/etudes/sabordage-flotte-francaise-toulon",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "툴롱 군항의 수역·부두·함정이 1942년 자침 시점 사진에 보인다."
+    ],
+    "limitations": [
+      "사진 파일 직접 열람. 개전일 상태, 치수, 입거 정원과 다른 시점이다."
+    ],
+    "rights": "© BPK, Berlin, Dist. RMN-Grand Palais / image BPK. 링크만 사용.",
+    "independence_group": "bpk-toulon-photo-1942"
+  },
+  {
+    "id": "CAT-FR-SRC-0201",
+    "title": "Arsenal (Brest)",
+    "institution_or_author": "Guillaume Lécuillier / Inventaire général du patrimoine culturel, Bretagne",
+    "publication_date": "온라인 조사 기록, 본문 개정일 미확정",
+    "source_type": "secondary: 문화유산 종합 조사",
+    "document_or_accession_number": "IA29001847",
+    "locator": "Localisation, Description 및 Laninon·Salou 연계 목록",
+    "url": "https://www.patrimoine.bzh/gertrude-diffusion/dossier/IA29001847",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "브레스트 군항 조선·수리 구역과 팡펠드·라니농 도크 공간의 관계."
+    ],
+    "limitations": [
+      "현대 유산 조사로 시대별 경계가 포함된다. 개전일 전체 처리량이나 법정 필지의 원장은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "brest-inventaire-arsenal"
+  },
+  {
+    "id": "CAT-FR-SRC-0202",
+    "title": "Lecture d’archives — Le début de l’Occupation à Brest",
+    "institution_or_author": "Archives municipales et communautaires de Brest",
+    "publication_date": "2026-10-21 갱신",
+    "source_type": "secondary: 기록관 역사 목록",
+    "document_or_accession_number": "Lecture d’archives, Deuxième Guerre Mondiale",
+    "locator": "Le début de l’Occupation 및 Arrivée des troupes allemandes 항목",
+    "url": "https://archives.brest.fr/decouvrir/lecture-darchives",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "브레스트의 독일군 진입과 점령 시작을 1940-06-19로 기록한다."
+    ],
+    "limitations": [
+      "온라인 안내 본문과 날짜 확인. 당일 군항 각 부두의 인계 시간은 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "brest-municipal-occupation"
   }
 ]

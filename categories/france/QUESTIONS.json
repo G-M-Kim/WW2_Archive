@@ -861,5 +861,65 @@
     ],
     "evidence": "candidate: 본토 두 상설 사례와 마르시롤 비교치만 열람. inaccessible: Gallica의 1938년 지도 원판. 기지 규모 등급 경계 미확정.",
     "completion_condition": "원판 지도와 각 지역 당대 시설·지배 자료를 확보하고, 본토·알제리·보호령·기타 해외를 나눠 네 차원별 비교 가능한 수치와 경계를 구축한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0062",
+    "status": "open",
+    "question": "브레스트의 개전일 라니농·팡펠드 접안, 입거·수리 및 보급 처리능력은 얼마였는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0021",
+      "CAT-FR-SRC-0190",
+      "CAT-FR-SRC-0191",
+      "CAT-FR-SRC-0193",
+      "CAT-FR-SRC-0199",
+      "CAT-FR-SRC-0201"
+    ],
+    "evidence": "candidate: 기존 도크 2기의 치수는 대조했다. 신설 계획의 305/365 m와 실제 개전일 공정은 분리했으며, 가동 원장은 미확인이다.",
+    "completion_condition": "SHD 브레스트 군항의 도크 건설·인수·일별 배정·유류·탄약 원장과 당대 부두 도면에서 치수와 현장 가동을 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0063",
+    "status": "open",
+    "question": "툴롱의 보방 대형 도크 완공·인수 차이와 개전일 구획별 유효 치수·보급 처리능력은 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0022",
+      "CAT-FR-SRC-0194",
+      "CAT-FR-SRC-0195",
+      "CAT-FR-SRC-0196",
+      "CAT-FR-SRC-0200"
+    ],
+    "evidence": "disputed: 1927년과 1928년 완공 서술 차이. candidate: 아렌의 1938년 건설은 확인했으나 탱크 수·가동일·용량은 미확인이다.",
+    "completion_condition": "공사 완공·인수 조서, 개장 전 도면, 도크 사용 장부와 아렌·미시에시 유류 원장을 확보한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0064",
+    "status": "open",
+    "question": "1939-09-01 브레스트와 툴롱의 실제 계류 함정과 출항은 월간 편제와 어떻게 다른가?",
+    "related_ids": [
+      "CAT-FR-GEO-0021",
+      "CAT-FR-GEO-0022",
+      "CAT-FR-SRC-0192",
+      "CAT-FR-SRC-0193",
+      "CAT-FR-SRC-0197",
+      "CAT-FR-SRC-0199",
+      "CAT-FR-SRC-0200"
+    ],
+    "evidence": "candidate: 9월 월간 편제와 후속 출항 사진 설명은 확보했으나 9월 1일 실계류 함정 목록은 미확인이다.",
+    "completion_condition": "군항 당직일지·항해일지의 시각별 출입항과 접안표를 확인하고 건조 중 함정·타항 이동·모항 배속을 구분한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0065",
+    "status": "open",
+    "question": "해외 군항과 본토의 나머지 후보 및 공통 1~10 등급의 정량 경계를 어떻게 검증할 것인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0021",
+      "CAT-FR-GEO-0022",
+      "CAT-FR-SRC-0191",
+      "CAT-FR-SRC-0194",
+      "CAT-FR-SRC-0197",
+      "CAT-FR-SRC-0198"
+    ],
+    "evidence": "candidate: 두 본토 군항의 도크 비교값만 확보했다. 셰르부르·로리앙·비제르테·메르스엘케비르·다카르와 기타 해외 시설은 미조사.",
+    "completion_condition": "개전일 공사·인수·가동을 구분하고 본토·식민지·보호령의 법적 지위와 네 차원별 동일 단위 비교 표를 확보한다."
   }
 ]
