@@ -476,5 +476,42 @@
     ],
     "evidence": "INA 플레이어 HTML만 열렸고 목록의 구간만 확인했다.1분43초·7분38초 판본의 관계 미확인. 드골 이외 인사는 후속 범위.",
     "completion_condition": "CLCF 원영화·INA 판본의 화면과 소리를 직접 확인해 동기·편집·길이·권리를 기록하고 페탱·레지스탕스 인사의 원자료를 추가한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0036",
+    "status": "open",
+    "question": "르노의 점령기 계약별 계획·생산·실제 출고 및 노획차 수리 주체는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-ORG-0001",
+      "CAT-FR-SRC-0100",
+      "CAT-FR-SRC-0104",
+      "CAT-FR-SRC-0105"
+    ],
+    "evidence": "피카르의 월간 생산과 주문액을 확인했다. 연구회 도표는 차종 가중치를 적용하며, USSBS 본문과 공장 수리 원대장은 미열람이다.",
+    "completion_condition": "USSBS 제80호의 표와 회사 월보·출고 및 독일 인수대장, 피아트아스트라 징발 명령을 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0037",
+    "status": "open",
+    "question": "르노 노동자의 독일 이송과 배치에 누가 어떤 역할을 했는가?",
+    "related_ids": [
+      "CAT-FR-ORG-0001",
+      "CAT-FR-SRC-0100"
+    ],
+    "evidence": "1942년 일기는 열차 통지와 독일 군 당국의 위협을 기술한다. 개인 명부와 사업장 인사 원부는 미확인이다.",
+    "completion_condition": "징발 위원회 자료·이송 명단·독일 배치 기록을 회사 인사기록 및 노동자 증언과 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0038",
+    "status": "open",
+    "question": "LMT·CGCT의 점령기 계약·납품과 다른 주요 산업의 전시 공급망은 어떠했는가?",
+    "related_ids": [
+      "CAT-FR-ORG-0002",
+      "CAT-FR-ORG-0003",
+      "CAT-FR-SRC-0102",
+      "CAT-FR-SRC-0103"
+    ],
+    "evidence": "CIOS가 제품과 일부 생산·미인도 상태를 보고했다. 검수증·주주명부·사업장 노동 자료는 미대조다.",
+    "completion_condition": "발주·검수·지분 원문과 노동 기록을 대조한 뒤 항공·조선·전력·화학 부문의 대표 기업을 별도로 확인한다."
   }
 ]

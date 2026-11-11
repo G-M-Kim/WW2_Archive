@@ -412,8 +412,9 @@
     "category": "유명 군수기업",
     "article_path": "categories/france/11-military-industry.md",
     "planned_at": "2026-11-11T07:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-FR-11.json",
+    "completed_at": "2026-11-11T11:02:01+09:00"
   },
   {
     "step": 31,
