@@ -2112,5 +2112,185 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "loc-ussbs-finding-aid"
+  },
+  {
+    "id": "CAT-FR-SRC-0106",
+    "title": "Résultats statistiques du recensement général de la population effectué le 8 mars 1936. Tome I, première partie: Population légale ou de résidence habituelle",
+    "institution_or_author": "Direction de la Statistique Générale et de la Documentation / Imprimerie nationale",
+    "publication_date": "1938",
+    "source_type": "primary: 총조사 간행물 스캔",
+    "document_or_accession_number": "BNSP bc6p06z2rd0; 인쇄번호 J.39241-38",
+    "locator": "Population légale aux divers recensements depuis 1801, 1936년 행; 96쪽 표 II, 97쪽 표 IV",
+    "url": "https://www.bnsp.insee.fr/ark:/12148/bc6p06z2rd0.pdf",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "본토 법정인구의 최초·정정 값과 해외 별도 집계. 알제리·튀니지 별도 표의 조사일과 범위."
+    ],
+    "limitations": [
+      "전전 총조사. OCR 숫자가 본문·표에서 불일치하므로 정정치는 요약표를 기준으로 확인했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "sgf-1936-census"
+  },
+  {
+    "id": "CAT-FR-SRC-0107",
+    "title": "Données nationales – Population, T1. Évolution générale de la situation démographique",
+    "institution_or_author": "Institut national de la statistique et des études économiques (INSEE)",
+    "publication_date": "2024-07-15",
+    "source_type": "primary: 공식 통계 계열과 소급 추계",
+    "document_or_accession_number": "INSEE 8210070; T1.xlsx",
+    "locator": "FM!B43:C49, B50, 131·133–134행",
+    "url": "https://www.insee.fr/fr/statistiques/fichier/8210070/T1.xlsx",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939~1945년 본토 연평균 추계, 1946년 1월 1일 추계, 전시 사망 열의 제외 범위."
+    ],
+    "limitations": [
+      "워크북 실물을 열람했다. 전시 1월 1일 수치 미제공. 연평균을 특정 날짜·점령 구역 값으로 해석할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "insee-t1-metropolitan-series"
+  },
+  {
+    "id": "CAT-FR-SRC-0108",
+    "title": "Statistiques récentes: Premières données sur le recensement de la population française du 10 mars 1946 et sur l’évolution de la population totale de la France de 1938 à 1945",
+    "institution_or_author": "M. G. / Annales de géographie",
+    "publication_date": "1946",
+    "source_type": "secondary: 동시대 인구통계 보고",
+    "document_or_accession_number": "55권 300호; Persée 12578",
+    "locator": "317쪽 본문 및 인구동태 표",
+    "url": "https://www.persee.fr/doc/geo_0003-4010_1946_num_55_300_12578",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1946년 3월 10일 법정인구 40,517,923명과 전시 일부 통계의 86·87개 데파르트망 범위."
+    ],
+    "limitations": [
+      "총조사 원표의 독립 재계측이 아니다. 당시 보고에 인용된 값이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "fr-1946-census-reports"
+  },
+  {
+    "id": "CAT-FR-SRC-0109",
+    "title": "Chronique de démographie",
+    "institution_or_author": "Paul Gasc / Journal de la Société de statistique de Paris",
+    "publication_date": "1948",
+    "source_type": "secondary: 동시대 인구통계 논평",
+    "document_or_accession_number": "89권 119–128쪽; NUMDAM JSFS_1948__89__119_0",
+    "locator": "119쪽 주 3",
+    "url": "https://www.numdam.org/article/JSFS_1948__89__119_0.pdf",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "정정 법정인구 40,502,513명과 제외된 해외 인구 약 31만 명."
+    ],
+    "limitations": [
+      "정정된 합계의 인용이다. 원 정정표와 지역별 변경 내역은 미대조."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "fr-1946-census-reports"
+  },
+  {
+    "id": "CAT-FR-SRC-0110",
+    "title": "La situation démographique",
+    "institution_or_author": "Jean Bourgeois / Population",
+    "publication_date": "1947",
+    "source_type": "secondary: 동시대 인구학 분석",
+    "document_or_accession_number": "2권 2호 329–347쪽; Persée 1778",
+    "locator": "330쪽 표 I과 본문",
+    "url": "https://www.persee.fr/doc/pop_0032-4663_1947_num_2_2_1778?pageId=T1_330",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "총조사 편의를 보정한 1936·1946년 상주인구와 분석상 감소분."
+    ],
+    "limitations": [
+      "동일 총조사에 기반한 별도 보정 분석이며 법정인구의 독립 계측이 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bourgeois-1947-adjusted-censuses"
+  },
+  {
+    "id": "CAT-FR-SRC-0111",
+    "title": "Le recensement du 31 octobre 1948 en Algérie",
+    "institution_or_author": "Service d’Information du Cabinet du Gouverneur Général de l’Algérie",
+    "publication_date": "1949-08-01",
+    "source_type": "primary: 동시대 총독부 공보 스캔",
+    "document_or_accession_number": "Documents Algériens, série sociale n°26",
+    "locator": "1쪽 표 I·II",
+    "url": "https://alger-roi.fr/Alger/documents_algeriens/social/pages/26_recensement_1948_1.pdf",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1948년 조사에서 총 8,676,016명, 코뮌 집계 8,595,581명 및 별도 집계 80,435명."
+    ],
+    "limitations": [
+      "표 I의 검색 OCR은 총계를 오독한다. 판면과 표 II를 대조했다. 1945년 인구가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "algeria-1948-census-editions"
+  },
+  {
+    "id": "CAT-FR-SRC-0112",
+    "title": "Résultats statistiques du dénombrement de la population effectué le 31 octobre 1954. Volume I: Population légale ou de résidence habituelle, Répertoire statistique des communes d’Algérie",
+    "institution_or_author": "Gouvernement général de l’Algérie / Direction générale des finances, Service de statistique générale",
+    "publication_date": null,
+    "source_type": "primary: 공식 총조사 간행물 스캔",
+    "document_or_accession_number": "Volume I; 1954-10-31 조사",
+    "locator": "서문 XV쪽, 4쪽 표 I",
+    "url": "https://paris8-omekas.s3.nl-ams.scw.cloud/original/dfb67babe96a86b8432d9ace80ec254842929ac4.pdf",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936·1948년 소급 표의 코뮌·별도 집계와 각각 7,234,684명 및 8,681,785명."
+    ],
+    "limitations": [
+      "1954년 조사 간행물의 소급 표로 1948년 공보와 같은 조사를 재수록했다. 판본 차이의 이유와 발행일은 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "algeria-1948-census-editions"
+  },
+  {
+    "id": "CAT-FR-SRC-0113",
+    "title": "Le recensement de 1936 dans l’Afrique du nord",
+    "institution_or_author": "Augustin Bernard / Annales de géographie",
+    "publication_date": "1937",
+    "source_type": "secondary: 동시대 총조사 해설",
+    "document_or_accession_number": "46권 259호 84–88쪽; DOI 10.3406/geo.1937.12245",
+    "locator": "85쪽 튀니지 절과 출처 주",
+    "url": "https://www.persee.fr/doc/geo_0003-4010_1937_num_46_259_12245?pageId=T1_85",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "튀니지 보호령의 1936년 3월 12일 민간인구 2,608,313명과 인용 조사 간행물 표제."
+    ],
+    "limitations": [
+      "본토 부록과 동일한 튀니지 조사를 인용했다. 전시 인구를 보여주지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "tunisia-1936-census-reports"
+  },
+  {
+    "id": "CAT-FR-SRC-0114",
+    "title": "Décret n°46-2948 du 30 décembre 1946 recensement de la population du 10 mars 1946",
+    "institution_or_author": "Journal officiel de la République française / Légifrance",
+    "publication_date": "1946-12-30",
+    "source_type": "primary: 당대 명령 공식 서지",
+    "document_or_accession_number": "JORFTEXT000000685968",
+    "locator": "명령 표제 및 관보 안내",
+    "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000685968",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "본토 법정인구를 정하는 명령의 서지."
+    ],
+    "limitations": [
+      "공식 페이지의 표제와 관보 안내 확인. 부속표의 수치 및 정정 문서는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "fr-1946-census-decree"
   }
 ]

@@ -426,8 +426,9 @@
     "category": "당시 인구",
     "article_path": "categories/france/12-population.md",
     "planned_at": "2026-11-11T09:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-FR-12.json",
+    "completed_at": "2026-11-11T12:58:10+09:00"
   },
   {
     "step": 32,
