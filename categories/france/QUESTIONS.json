@@ -754,5 +754,53 @@
     ],
     "evidence": "candidate: 소쇼와 샬롱의 실제 규모 지표는 일부 비교값이다. 본토의 로렌·북부와 식민지·보호령 시설은 이번 대표 사례 밖이다.",
     "completion_condition": "동종 공업 집적의 면적·설치 능력·작업 수용·처리 시설을 동일 시점과 단위로 확보하고 16·17번의 비교 경계를 정합화한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0055",
+    "status": "open",
+    "question": "빌랑쿠르의 168에이커 분모와 1939년 면적은 어떻게 다르며, 1945-09-02 실제 가동은 어느 정도인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0017",
+      "CAT-FR-SRC-0101",
+      "CAT-FR-SRC-0156",
+      "CAT-FR-SRC-0158",
+      "CAT-FR-SRC-0169",
+      "CAT-FR-SRC-0170",
+      "CAT-FR-SRC-0176"
+    ],
+    "evidence": "candidate: USSBS 점령기 조사 원면과 1945년 고용 집계를 확보. 종전일 현장별 잔존·가동 면적과 생산·고용 집계일은 미확인.",
+    "completion_condition": "공장별 필지·건물·장비 배치도 및 1945년 RNUR 월별 생산·급여·수송 장부에서 관측 시점과 범위를 맞춘다."
+  },
+  {
+    "id": "CAT-FR-RQ-0056",
+    "status": "open",
+    "question": "르크뢰조 세 구역의 1944년 피해가 1945-09-02까지 얼마나 복구됐는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0018",
+      "CAT-FR-SRC-0163",
+      "CAT-FR-SRC-0164",
+      "CAT-FR-SRC-0166",
+      "CAT-FR-SRC-0168",
+      "CAT-FR-SRC-0171"
+    ],
+    "evidence": "candidate: 해방 시점 도면의 605,000 m² 분모와 노별 피해·수리 범위는 미확정. 전력·철도 및 일부 제강 재개일은 확보.",
+    "completion_condition": "피해도의 원본·범례와 설비별 복구대장, 앙리폴 생산·고용표 및 국유 작업장의 폐쇄·이전·반환 원문을 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0057",
+    "status": "open",
+    "question": "동일 산업·공간의 1939/1945년 비교를 뒷받침할 기준과 미조사 공업지대의 원자료는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0017",
+      "CAT-FR-GEO-0018",
+      "CAT-FR-SRC-0148",
+      "CAT-FR-SRC-0165",
+      "CAT-FR-SRC-0167",
+      "CAT-FR-SRC-0168",
+      "CAT-FR-SRC-0169",
+      "CAT-FR-SRC-0170"
+    ],
+    "evidence": "candidate: 기존 소쇼·샬롱 비교값과 새 르망 고용은 시설 규모 4차원의 등급 경계가 아니다. 로렌·북부·해외 비교는 남음.",
+    "completion_condition": "동종 부지·설치 생산능력·작업 수용·처리 능력을 양 시점에서 맞추고 업종별 공통 정량 경계의 근거를 확보한다."
   }
 ]

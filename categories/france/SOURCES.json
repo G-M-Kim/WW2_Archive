@@ -3373,5 +3373,165 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "afb-prost-creusot"
+  },
+  {
+    "id": "CAT-FR-SRC-0169",
+    "title": "Renault Motor Vehicles Plant, Billancourt, Paris",
+    "institution_or_author": "United States Strategic Bombing Survey, Munitions Division / National Diet Library 디지털 복제",
+    "publication_date": "1945-11 초판; 1947-01 재판 열람",
+    "source_type": "primary: 전시 피해 현장조사와 공장 기록 분석",
+    "document_or_accession_number": "USSBS Report 80, D785.U6 no. 80a; NARA M-1013 R07, NDL YD-208",
+    "locator": "NDL 프레임 210(표제), 213~215(인쇄 1~5쪽), 223(1943-04-04 부록 도면)",
+    "url": "https://dl.ndl.go.jp/pid/14051965/1/214",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 11월 현장조사 계열, 조사단 면적 168 acres, 해당 공습 구조피해 7.2%, 트럭 실적·가정 능력·현장 공정 이동."
+    ],
+    "limitations": [
+      "마이크로필름에서 원면과 도면 열람. 점령기 지표와 폭격 피해를 다루며 1945-09-02 실사는 아님. 168 acres의 필지 경계는 별도 검증 대상."
+    ],
+    "rights": "NDL 서지 PDM 표기. 한국어 자체 요약 및 원문 링크만 사용.",
+    "independence_group": "ussbs-renault-survey"
+  },
+  {
+    "id": "CAT-FR-SRC-0170",
+    "title": "Division du travail et mobilisation quotidienne de la main-d’œuvre. Les cas Renault et Fiat",
+    "institution_or_author": "Michel Freyssenet / CSU",
+    "publication_date": "1979; 디지털판 2006",
+    "source_type": "secondary: 사회사·산업 연구, 르노 회사표 재록",
+    "document_or_accession_number": "CSU Paris, 431쪽, 디지털 완전판",
+    "locator": "§3.2.2.8 근처 Carte 1 et Tableau 7, Effectif des usines Renault et filiales",
+    "url": "https://freyssenet.com/files/Division%20du%20travail%20et%20mobilisation%20quotidienne%20de%20la%20main%20d%20oeuvre.%20Les%20cas%20Renault%20et%20Fiat.%20Volume%20complet.pdf",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 17,063명, 1945년 23,375명 빌랑쿠르 고용 및 1945년 르망 1,311명."
+    ],
+    "limitations": [
+      "회사 수치를 재록한 표다. 1945년 개별 관측일·고용 범주·작업 수용 정원은 미상."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "freyssenet-renault-company-series"
+  },
+  {
+    "id": "CAT-FR-SRC-0171",
+    "title": "Exposé de Monsieur Charles Schneider devant les délégués du personnel le 14 septembre 1944",
+    "institution_or_author": "Charles Schneider / André Prost 편집, Académie François Bourdon",
+    "publication_date": "1944-09-14 연설; 2008-02 재록",
+    "source_type": "primary: 기업 경영자의 동시대 직원 대상 보고 전사",
+    "document_or_accession_number": "Bulletin de l’Académie François Bourdon n°9",
+    "locator": "6~10쪽 연설, 특히 9~10쪽 피해·복구 절",
+    "url": "https://www.afbourdon.com/wp-content/uploads/2014/11/Bulletin_9.pdf",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "르크뢰조 해방 직후 잔존 중앙 변전 설비와 르브뢰유 변전소·연결교량의 피해."
+    ],
+    "limitations": [
+      "이해당사자의 발언이며 실사 보고서가 아니다. 1945년 용량 및 종전일 실가동은 미상."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "schneider-speech-1944"
+  },
+  {
+    "id": "CAT-FR-SRC-0172",
+    "title": "Instrument of Surrender",
+    "institution_or_author": "일본·연합국 서명자 / U.S. National Archives",
+    "publication_date": "1945-09-02",
+    "source_type": "primary: 항복문서 전사",
+    "document_or_accession_number": "Records of the U.S. Joint Chiefs of Staff, RG 218",
+    "locator": "Transcript, 도쿄만 서명 일시",
+    "url": "https://www.archives.gov/milestone-documents/surrender-of-japan",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공통 비교일 1945-09-02 일본 항복문서 서명."
+    ],
+    "limitations": [
+      "산업시설 관측 자료와 날짜의 역할이 다름."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-surrender-japan"
+  },
+  {
+    "id": "CAT-FR-SRC-0173",
+    "title": "Act of Military Surrender",
+    "institution_or_author": "SHAEF·독일군 최고사령부 등 / U.S. National Archives",
+    "publication_date": "1945-05-07",
+    "source_type": "primary: 랭스 독일군 항복문서 전사",
+    "document_or_accession_number": "Instruments of German Surrender, RG 218",
+    "locator": "Transcript, 제2조 및 서명란",
+    "url": "https://www.archives.gov/milestone-documents/surrender-of-germany",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "랭스 서명 및 1945-05-08 23:01 중부유럽 시각 전투 중지 명령."
+    ],
+    "limitations": [
+      "랭스 문서의 규정으로 현장별 전투 종료일은 다를 수 있음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-surrender-germany"
+  },
+  {
+    "id": "CAT-FR-SRC-0174",
+    "title": "Boulogne-Billancourt Information, septembre 2020",
+    "institution_or_author": "Ville de Boulogne-Billancourt",
+    "publication_date": "2020-09",
+    "source_type": "secondary: 시립 기록관·시보의 지역 연혁",
+    "document_or_accession_number": "BBI 2020-09",
+    "locator": "30~31쪽 Notre Ville, Libération, le 25 août 1944",
+    "url": "https://www.boulognebillancourt.com/fileadmin/medias/Publications/BBI/BBI_2020/BBI_Sept_2020_.pdf",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "불로뉴빌랑쿠르 1944-08-25 해방."
+    ],
+    "limitations": [
+      "시점은 시 행정구역 연혁. 공장별 조업재개는 별도."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "boulogne-municipal-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0175",
+    "title": "Le Creusot Magazine, n°208",
+    "institution_or_author": "Ville du Creusot",
+    "publication_date": "2024-08 (80주년호)",
+    "source_type": "secondary: 시보의 지역 연혁",
+    "document_or_accession_number": "LCM n°208",
+    "locator": "14쪽 80ème anniversaire de la libération du Creusot",
+    "url": "https://www.le-creusot.fr/app/uploads/2024/08/LCM-208okk.pdf",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "르크뢰조 1944-09-07 해방과 1942·1943년 공습 날짜."
+    ],
+    "limitations": [
+      "시역의 해방 연혁이며 주변 구역의 시간별 통제나 공장 실적은 다루지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "creusot-municipal-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0176",
+    "title": "Annexe statistique 1945–1998, Renault, chapitre 14",
+    "institution_or_author": "Michel Freyssenet",
+    "publication_date": "미상 (표 범위 1945~1998)",
+    "source_type": "secondary: 회사·국가별 산업통계 편찬",
+    "document_or_accession_number": "Freyssenet Renault chapitre 14 annexe",
+    "locator": "1쪽 Production, 국내 열 1945년 행",
+    "url": "https://freyssenet.com/files/Annexe%20statistique%201945-1998%2C%20Renault%2C%20chapitre%2014.pdf",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 프랑스 국내 르노 승용·소형 상용차 12,036대."
+    ],
+    "limitations": [
+      "프랑스 전체이며 빌랑쿠르 개별 공장·대형 트럭 실적을 제공하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "freyssenet-renault-company-series"
   }
 ]
