@@ -2593,5 +2593,285 @@
     ],
     "rights": "기관에 Reproduction 표기. 이미지 재수록 없이 링크만 사용.",
     "independence_group": "paris-musees-kleber-print"
+  },
+  {
+    "id": "CAT-FR-SRC-0130",
+    "title": "Armistice Agreement between the German High Command and French Plenipotentiaries",
+    "institution_or_author": "Wilhelm Keitel·Charles Huntziger / U.S. Department of State / Yale Avalon Project",
+    "publication_date": "1940-06-22 (서명), 1956 (영문 편찬)",
+    "source_type": "primary: 휴전협정 영문 전사",
+    "document_or_accession_number": "Documents on German Foreign Policy, Series D IX, 671–676쪽; Department of State Publication 6312",
+    "locator": "제2·3·23조, 서명란, 부록",
+    "url": "https://avalon.law.yale.edu/wwii/frgearm.asp",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북·서쪽 점령, 점령국 권한과 프랑스 행정의 역할, 경계선 설명, 6월 22일 서명."
+    ],
+    "limitations": [
+      "웹 표제의 6월 25일과 문서 서명일을 구분했다. 첨부 원도 판면은 없음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "franco-german-armistice"
+  },
+  {
+    "id": "CAT-FR-SRC-0131",
+    "title": "The Conquest and Liberation of France",
+    "institution_or_author": "Army Information Branch, Army Service Forces, U.S. War Department / Truman Library",
+    "publication_date": "1944-09-18",
+    "source_type": "primary: 전시 지도 스캔",
+    "document_or_accession_number": "M1772-01",
+    "locator": "1939년 9월 및 1940년 6월 패널과 범례",
+    "url": "https://www.trumanlibrary.gov/maps/m1772-01-map-conquest-and-liberation-france",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "개전기 국제 경계와 1940년 6월 독일군 진출선의 표기."
+    ],
+    "limitations": [
+      "1944년 제작된 전쟁 경과 지도. 군사 진출선과 휴전협정상의 점령선 및 현장 군정 경계를 구분한다."
+    ],
+    "rights": "소장기관 public domain 표기. 재수록 없이 링크만 사용.",
+    "independence_group": "us-war-department-m1772"
+  },
+  {
+    "id": "CAT-FR-SRC-0132",
+    "title": "Chronologie : Répression et persécution en France occupée 1940–1944",
+    "institution_or_author": "Sciences Po / Violence de masse et Résistance",
+    "publication_date": "2009-12-07",
+    "source_type": "secondary: 연구기관 연혁",
+    "document_or_accession_number": "공개 온라인 연혁",
+    "locator": "Introduction, 1940년 행정 분할 및 1942년 11월 단락",
+    "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/fr/actualites/chronologie-repression-et-persecution-en-france-occupee-1940-1944/",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "비시 소재, 점령기 군정 구역, 알자스·모젤 사실상 병합, 1942년 남부 및 코르시카 점령."
+    ],
+    "limitations": [
+      "제도와 구역의 개요다. 개별 코뮌의 경계 시행일과 점령기 원도는 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "sciencespo-occupation-chronology"
+  },
+  {
+    "id": "CAT-FR-SRC-0133",
+    "title": "Reddition, capitulation, libération des poches et reconstruction : retour sur les événements historiques",
+    "institution_or_author": "Conseil scientifique et d’orientation de la Mission Libération / Ministère des Armées",
+    "publication_date": "2025-04-24",
+    "source_type": "secondary: 기관 역사 연혁",
+    "document_or_accession_number": "Mission Libération, reddition",
+    "locator": "대서양 거점 해방 연혁 및 독일 항복 단락",
+    "url": "https://www.defense.gouv.fr/mission-liberation/vivre-liberation/liberation-via-ses-historiens/regards-dhistoriens-liberation/reddition",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 5월 로리앙·생나제르 등의 해방 시점."
+    ],
+    "limitations": [
+      "국방부 HTML 본문을 직접 열람했다. 해방일은 개별 항복문 서명·발효일과 구분한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "mission-liberation-1945"
+  },
+  {
+    "id": "CAT-FR-SRC-0134",
+    "title": "Mandat français sur le Cameroun / French Mandate for the Cameroons",
+    "institution_or_author": "국제연맹 이사회",
+    "publication_date": "1922-07-20 (위임 문서), 1922-08-01 (인쇄본 표지)",
+    "source_type": "primary: 국제연맹 인쇄본의 스캔",
+    "document_or_accession_number": "M. 345 (e). 1922. VI.",
+    "locator": "프랑스어본 제1·9조와 1919-07-10 부속 선언",
+    "url": "https://m.bigenc.ru/vault/d511ae278ab3fde2deedbd75240450c7.pdf",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1919년 영불 선언선 동쪽의 프랑스 위임통치와 위임 조건."
+    ],
+    "limitations": [
+      "제3자 호스팅의 당대 인쇄본. 지상 경계위원회 최종 보고서와 도면은 미확인. 1940년 현지 통제는 별도 사료로 확인."
+    ],
+    "rights": "권리 세부 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "league-french-cameroons-mandate"
+  },
+  {
+    "id": "CAT-FR-SRC-0135",
+    "title": "1940. Ralliements de l’Empire à la France Libre",
+    "institution_or_author": "Direction du patrimoine, de la mémoire et des archives / Ministère des Armées",
+    "publication_date": "2026-08-10 (웹 메타데이터)",
+    "source_type": "secondary: 기관 역사 해설",
+    "document_or_accession_number": "France Libre, 1940-0",
+    "locator": "Historique, Chronologie, Le ralliement du Gabon",
+    "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/seconde-guerre-mondiale/resister/france-libre/1940-0",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "차드·카메룬·중콩고·우방기샤리의 합류와 가봉의 무력 장악."
+    ],
+    "limitations": [
+      "국방부 HTML 본문을 직접 열람했다. 연혁의 날짜를 인용했으며 지역별 이관 문서와 외곽 통제는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "dpma-free-france-ralliements"
+  },
+  {
+    "id": "CAT-FR-SRC-0136",
+    "title": "Manifeste de Brazzaville",
+    "institution_or_author": "Charles de Gaulle / Fondation de la France Libre",
+    "publication_date": "1940-10-27 (선언), 2008-12-02 (웹 전사)",
+    "source_type": "primary: 선언문 전사",
+    "document_or_accession_number": "Manifeste de Brazzaville, 27 octobre 1940",
+    "locator": "제국방위평의회 창설 및 합류 영토 관련 단락",
+    "url": "https://francelibre.net/manifeste-brazzaville/",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "브라자빌에서 발표한 자유프랑스의 제국방위평의회 설치와 관할 주장."
+    ],
+    "limitations": [
+      "당사자의 정치적 선언이며 개별 영토의 행정권 이관일을 증명하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "de-gaulle-brazzaville-manifesto"
+  },
+  {
+    "id": "CAT-FR-SRC-0137",
+    "title": "Trusteeship Agreement for the Territory of the Cameroons under French Administration",
+    "institution_or_author": "UN Trusteeship Council / 프랑스 정부·유엔 총회",
+    "publication_date": "1946-12-13 (승인), 1947-06-09 (UN 발행)",
+    "source_type": "primary: 유엔 신탁통치협정 공식본",
+    "document_or_accession_number": "T/Agreement/5; A/RES/63(I)",
+    "locator": "서문, 제1·2조",
+    "url": "https://digitallibrary.un.org/nanna/record/3995998/files/T_Agreement_5-FR.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1922년 위임통치의 공간적 범위 및 1946년 신탁통치 승인."
+    ],
+    "limitations": [
+      "전후 처리의 공식 근거. 신탁통치 지위를 1945년에 소급하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "un-cameroons-trusteeship"
+  },
+  {
+    "id": "CAT-FR-SRC-0138",
+    "title": "Convention de paix entre la France et la Thaïlande",
+    "institution_or_author": "프랑스국·태국, 일본 중재 / British and Foreign State Papers",
+    "publication_date": "1941-05-09 (체결)",
+    "source_type": "primary: 조약집 프랑스어 스캔",
+    "document_or_accession_number": "British and Foreign State Papers, vol. 144, 805–812쪽",
+    "locator": "805–807쪽 제2·3·5조",
+    "url": "https://documentsdedroitinternational.fr/ressources/TdP/1941-05-09-ConventiondeTokyo.pdf",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "메콩·캄보디아 국경 변경, 철수·이관, 태국 편입 조항."
+    ],
+    "limitations": [
+      "조약집 판면은 이관 규정을 보여준다. 조약이 참조하는 측량 원도와 현장 이관표는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "tokyo-franco-thai-convention"
+  },
+  {
+    "id": "CAT-FR-SRC-0139",
+    "title": "The French Embassy to the Department of State",
+    "institution_or_author": "주미 프랑스 대사관 / U.S. Department of State",
+    "publication_date": "1945-08-22",
+    "source_type": "primary: 프랑스 공한 공식 영문 번역",
+    "document_or_accession_number": "No. 621; FRUS 1945 VI, doc. 956, 1292–1293쪽",
+    "locator": "본문, 협약 무효 주장 및 앞선 반환 요구",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v06/d956",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 프랑스 정부의 도쿄 협약 부인 및 영토 반환 주장."
+    ],
+    "limitations": [
+      "당사자 입장으로 제시한다. 국제 판결이나 현장 반환 확인 문서는 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "french-embassy-1945-621"
+  },
+  {
+    "id": "CAT-FR-SRC-0140",
+    "title": "General Order No. 1 (Directive No. 1)",
+    "institution_or_author": "Supreme Commander for the Allied Powers / Nagoya University SCAPIN-DB",
+    "publication_date": "1945-09-02",
+    "source_type": "primary: 항복 명령의 전사",
+    "document_or_accession_number": "SCAPIN-1",
+    "locator": "별첨 Military and Naval, I(a), I(c)(1)",
+    "url": "https://jahis.law.nagoya-u.ac.jp/scapindb/docs/scapin-1",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북위 16도 기준 일본군 항복 접수 주체."
+    ],
+    "limitations": [
+      "항복 지시이며 국경 조약이나 현지에서 지시가 집행된 날짜의 증거가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "scapin-order-1"
+  },
+  {
+    "id": "CAT-FR-SRC-0141",
+    "title": "Declaration of Independence",
+    "institution_or_author": "Hồ Chí Minh / 베트남 민주공화국 임시정부 / 주미 베트남 대사관",
+    "publication_date": "1945-09-02",
+    "source_type": "primary: 독립선언의 기관 영문 번역",
+    "document_or_accession_number": "대사관 공개 기록 node/57",
+    "locator": "표제 날짜와 마지막 선언 단락",
+    "url": "https://vietnamembassy-usa.org/node/57",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스와 식민 관계 단절 및 베트남 민주공화국 독립 선언."
+    ],
+    "limitations": [
+      "선언자의 정치·법적 입장이며 전 지역의 동일한 행정 통제나 타국의 승인 여부를 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "vietnam-declaration-independence-1945"
+  },
+  {
+    "id": "CAT-FR-SRC-0142",
+    "title": "Settlement Agreement between France and Siam, with Protocol",
+    "institution_or_author": "프랑스 공화국 임시정부·시암 정부 / United Nations Treaty Series",
+    "publication_date": "1946-11-17 (서명·발효), 1959 (UNTS 수록)",
+    "source_type": "primary: 국제 조약 등록본",
+    "document_or_accession_number": "UNTS vol. 344, No. 4943",
+    "locator": "68–71쪽 제1·5조, 이관 의정서 I–IV",
+    "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%20344/v344.pdf",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 협약 폐기 및 이전 상태 회복, 행정·재산·기록 이관 규정."
+    ],
+    "limitations": [
+      "법적 합의와 이관 방법을 확인했다. 개별 지역의 현장 인계 완료일은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "washington-franco-siamese-settlement"
+  },
+  {
+    "id": "CAT-FR-SRC-0143",
+    "title": "Carte de France présentant la ligne de démarcation [notice]",
+    "institution_or_author": "Service historique de la Défense / Fonds Claude Boudey",
+    "publication_date": "1940 (목록의 지도 연대)",
+    "source_type": "secondary: 군사기록원 소장 목록",
+    "document_or_accession_number": "DE 2017 PA 65 874; ARK 1493250",
+    "locator": "목록의 표제·연대·조건",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/1493250",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 점령선 지도 소장번호와 열람 조건."
+    ],
+    "limitations": [
+      "기관 HTML 목록을 확인했다. 이 항목은 지도 판면 또는 휴전 원도 일치 여부를 증명하지 않는다."
+    ],
+    "rights": "소장 목록에 이용 조건 Sous réserve 표기. 링크만 사용.",
+    "independence_group": "shd-boudey-map-catalog"
   }
 ]

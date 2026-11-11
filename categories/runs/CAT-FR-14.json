@@ -1,0 +1,83 @@
+{
+  "step": 33,
+  "job_id": "CAT-FR-14",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 14,
+  "category": "당시 영토",
+  "article_path": "categories/france/14-territory.md",
+  "status": "partial",
+  "completed_at": "2026-11-11T17:00:01+09:00",
+  "started_at": "2026-11-11T16:52:39+09:00",
+  "base_head": "8400286a9105c3d5d4cbf3746cd93f97641e8540",
+  "source_ids": [
+    "CAT-FR-SRC-0077",
+    "CAT-FR-SRC-0106",
+    "CAT-FR-SRC-0113",
+    "CAT-FR-SRC-0118",
+    "CAT-FR-SRC-0124",
+    "CAT-FR-SRC-0126",
+    "CAT-FR-SRC-0130",
+    "CAT-FR-SRC-0131",
+    "CAT-FR-SRC-0132",
+    "CAT-FR-SRC-0133",
+    "CAT-FR-SRC-0134",
+    "CAT-FR-SRC-0135",
+    "CAT-FR-SRC-0136",
+    "CAT-FR-SRC-0137",
+    "CAT-FR-SRC-0138",
+    "CAT-FR-SRC-0139",
+    "CAT-FR-SRC-0140",
+    "CAT-FR-SRC-0141",
+    "CAT-FR-SRC-0142",
+    "CAT-FR-SRC-0143"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0045",
+    "CAT-FR-RQ-0046",
+    "CAT-FR-RQ-0047"
+  ],
+  "entity_ids": [
+    "CAT-FR-GEO-0001",
+    "CAT-FR-GEO-0002",
+    "CAT-FR-GEO-0003",
+    "CAT-FR-GEO-0004",
+    "CAT-FR-GEO-0008",
+    "CAT-FR-GEO-0011",
+    "CAT-FR-GEO-0012",
+    "CAT-FR-GEO-0013",
+    "CAT-FR-GEO-0014"
+  ],
+  "research_scope": "프랑스 본토 점령·해방, 적도아프리카·카메룬의 위임 및 자유프랑스 합류, 인도차이나 국경과 항복 접수 구역, 알제리·튀니지 전전 지위.",
+  "limitations": [
+    "휴전 첨부 원도와 특수 군정의 코뮌별 경계, 1943년 이후 행정권 인계 기록은 미확보.",
+    "해외 영토는 대표 사례만 검토했다. 북아프리카의 전시 변화, 레반트 및 태평양 등은 남은 범위다.",
+    "태국 접경 조약 원도·현장 인계 및 1945년 인도차이나 지역별 실효 통치는 미확인."
+  ],
+  "evidence_checked": [
+    "프랑스·독일 휴전 제2·3·23조 및 부록, Truman M1772-01 판면, Sciences Po 점령기 연혁, 임시정부 8월 명령 제1·11조",
+    "국제연맹 위임 인쇄본 M.345(e), 1940년 자유프랑스 합류 연혁과 브라자빌 선언, 유엔 카메룬 신탁협정",
+    "도쿄 협약 제2·3·5조, 프랑스 대사관 공한 621호, SCAPIN-1, 베트남 독립선언 번역, UNTS 제4943호 및 이관 의정서"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/1493250",
+      "result": "직접 내려받아 목록과 소장번호를 확인했다. 지도 판면은 확보하지 못했다."
+    },
+    {
+      "url": "https://mjp.univ-perp.fr/constit/cm1922.htm",
+      "result": "웹 502 및 직접 다운로드 시간 초과. 별도 호스팅된 당대 국제연맹 인쇄본을 열람했다."
+    },
+    {
+      "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/seconde-guerre-mondiale/resister/france-libre/1940-0",
+      "result": "웹 열람 시간 초과 뒤 직접 다운로드한 국방부 HTML 연혁을 확인했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=33 pending=100; sources=391 questions=140. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

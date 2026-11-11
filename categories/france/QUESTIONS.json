@@ -599,5 +599,55 @@
     ],
     "evidence": "이번 검사는 스트라스부르와 사이공·쩌런 대표 사례에 한정했다.",
     "completion_condition": "모젤, 북아프리카 및 인도차이나 다른 지역의 당대 지도와 공문서에서 날짜별 명칭과 관할 단위를 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0045",
+    "status": "open",
+    "question": "본토의 휴전 점령선, 특수 군정 경계와 해방 뒤 행정 복귀의 실제 범위는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0001",
+      "CAT-FR-GEO-0004",
+      "CAT-FR-GEO-0011",
+      "CAT-FR-SRC-0077",
+      "CAT-FR-SRC-0130",
+      "CAT-FR-SRC-0131",
+      "CAT-FR-SRC-0143"
+    ],
+    "evidence": "휴전 조문, 동시대 미 육군 지도와 SHD 목록을 대조했다. SHD 지도 판면 및 1943년 이후 지역별 인계 문서는 미확인이다.",
+    "completion_condition": "DE 2017 PA 65 874와 휴전 첨부 원도 및 민정·군정 경계도를 대조하고 코르시카와 국경 인접 지역의 복귀 행정기록을 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0046",
+    "status": "open",
+    "question": "적도아프리카·카메룬의 지역별 행정 인계와 나머지 해외 영토의 전시 지위·통치 변화는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0002",
+      "CAT-FR-GEO-0003",
+      "CAT-FR-GEO-0012",
+      "CAT-FR-GEO-0013",
+      "CAT-FR-SRC-0134",
+      "CAT-FR-SRC-0135",
+      "CAT-FR-SRC-0136",
+      "CAT-FR-SRC-0137"
+    ],
+    "evidence": "카메룬 위임통치와 전후 신탁통치 및 합류 개요를 확인했다. 알제리·튀니지는 전전 지위만 확인했다.",
+    "completion_condition": "지역별 관보·이관 문서·지도와 북아프리카, 서아프리카, 레반트 및 태평양 영토의 자료를 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0047",
+    "status": "open",
+    "question": "태국 접경의 실제 인계 날짜와 1945년 인도차이나 도시·농촌의 통치 범위는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0008",
+      "CAT-FR-GEO-0014",
+      "CAT-FR-SRC-0126",
+      "CAT-FR-SRC-0138",
+      "CAT-FR-SRC-0139",
+      "CAT-FR-SRC-0140",
+      "CAT-FR-SRC-0141",
+      "CAT-FR-SRC-0142"
+    ],
+    "evidence": "국경 조약과 종전 지시 및 선언, 전후 합의를 확인했다. 부속 원도와 현장 이관대장은 확보하지 못했다.",
+    "completion_condition": "국경위원회 표주·지도 및 현지 관청 인계 문서를 확보하고, 일본군 항복 접수와 지역별 행정 기록을 대조한다."
   }
 ]
