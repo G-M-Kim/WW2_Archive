@@ -2873,5 +2873,225 @@
     ],
     "rights": "소장 목록에 이용 조건 Sous réserve 표기. 링크만 사용.",
     "independence_group": "shd-boudey-map-catalog"
+  },
+  {
+    "id": "CAT-FR-SRC-0144",
+    "title": "The Mineral Industry of the British Empire and Foreign Countries: Statistical Summary (Production, Imports and Exports), 1938–1944",
+    "institution_or_author": "Imperial Institute, Mineral Resources Department / HMSO, NERC Open Research Archive",
+    "publication_date": "1948",
+    "source_type": "primary: 전후 초기의 공식 국제 통계 편찬본",
+    "document_or_accession_number": "NORA 535289",
+    "locator": "11~12쪽 보크사이트·알루미늄 생산, 59·61쪽 크롬광 생산·수출, 151쪽 강괴·강주물, 224쪽 원유, 344~345쪽 텅스텐 정광",
+    "url": "https://nora.nerc.ac.uk/id/eprint/535289/1/SS_1938_1944.pdf",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스·인도차이나·누벨칼레도니의 해당 표 행, 연도, 롱톤과 품목 구분을 대조."
+    ],
+    "limitations": [
+      "각국 원통계의 전시 행정 귀속과 독립성은 미확인. 금속 및 산화물 함유량 일부는 편찬자 추계."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "imperial-institute-mineral-summary"
+  },
+  {
+    "id": "CAT-FR-SRC-0145",
+    "title": "Assemblée générale ordinaire. Rapport annuel – exercice 1938",
+    "institution_or_author": "Société anonyme d’exploitations minières de Pechelbronn / Archives Worms & Cie",
+    "publication_date": "1939-06-21",
+    "source_type": "primary: 당대 회사 이사회 보고",
+    "document_or_accession_number": "Worms, 1939.06.21.De Pechelbronn",
+    "locator": "Rapport du conseil d’administration, 원유 생산 및 프랑스 원유 수입 단락",
+    "url": "https://www.wormsetcie.com/fr/archives/1939/19390621de-pechelbronnassemblee-generale-ordinairerapport-annuel-exercice-1938",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 알자스 유전 생산 71,807 t과 프랑스 원유 수입 6,969,000 t."
+    ],
+    "limitations": [
+      "회사 기록에 인용된 전국 수입 집계의 원 세관표는 미확인. 전전 기준으로만 사용."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "pechelbronn-board-report-1938"
+  },
+  {
+    "id": "CAT-FR-SRC-0146",
+    "title": "Évolution de l’industrie du pétrole en France (표 1)",
+    "institution_or_author": "World Bank Group Archives 소장 문건 / 표 출처 Comité Professionnel du Pétrole, Bureau de Recherches de Pétrole",
+    "publication_date": "1957–1958 (소장철 범위, 개별 문건 작성일 미상)",
+    "source_type": "secondary: 공식 산업 자료를 편찬한 후대 표",
+    "document_or_accession_number": "WBG Archives Folder 1849841, Leonard B. Rist – French Oil Exploration",
+    "locator": "문건 2~3쪽, Tableau 1, 1938 행 및 주 (1)",
+    "url": "https://thedocs.worldbank.org/en/doc/41271443760640822-0560011958/original/WorldBankGroupArchivesFolder1849841.pdf",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 원유 생산·수입·정제 처리 구분과 생산의 본토 범위."
+    ],
+    "limitations": [
+      "전전 통계의 회고 자료. 1944–45 묶음의 기간 정의가 분명하지 않아 이번 수치 비교에서는 제외."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "french-petroleum-industry-retrospective"
+  },
+  {
+    "id": "CAT-FR-SRC-0147",
+    "title": "Historique",
+    "institution_or_author": "Musée Français du Pétrole",
+    "publication_date": "미상",
+    "source_type": "secondary: 현지 박물관 연혁",
+    "document_or_accession_number": "웹 연혁",
+    "locator": "Raffinage, Seconde Guerre mondiale 단락",
+    "url": "https://www.musee-du-petrole.com/historique/",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "페셸브론 정유시설의 1944-08-03 폭격."
+    ],
+    "limitations": [
+      "폭격의 당대 피해조서와 가동률·처리량은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "musee-pechelbronn-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0148",
+    "title": "The French Iron and Steel Industry",
+    "institution_or_author": "J. Grauman·E. W. Rembert / IBRD Economic Department",
+    "publication_date": "1949-04-20",
+    "source_type": "primary: 전후 복구기의 기관 조사보고서 및 집계",
+    "document_or_accession_number": "E 34/49; World Bank 66879",
+    "locator": "본문 14쪽 §IV, 부록 표 6·7 (PDF 38~39쪽)",
+    "url": "https://documents1.worldbank.org/curated/en/581841468281387936/pdf/NonAsciiFileName0.pdf",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 및 1945년 프랑스 조강·완제품 강철 연간 생산, 천 미터톤 단위."
+    ],
+    "limitations": [
+      "IBRD 작업문서의 집계. 영국 통계와 원자료 계통의 독립성은 미확인. 1939·1945년 수출 공란은 미확인으로 처리."
+    ],
+    "rights": "공개 열람 승인 표기. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "ibrd-france-steel-1949"
+  },
+  {
+    "id": "CAT-FR-SRC-0149",
+    "title": "Annuaire statistique de l’Indochine, XI, 1943–1946",
+    "institution_or_author": "Haut-Commissariat de France pour l’Indochine, Statistique générale",
+    "publication_date": "1948",
+    "source_type": "primary: 식민 행정 공식 통계연감",
+    "document_or_accession_number": "Tome XI; Sea-Delt Document ID 251",
+    "locator": "99쪽 표 IX·X",
+    "url": "https://seadelt.net/Asset/Source/Document_ID-251_No-01.pdf",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940·1942·1945년 천연고무 생산 총량과 품목·지역 항목의 존재."
+    ],
+    "limitations": [
+      "PDF 기계 판독 텍스트에서 총계와 일부 세부 합이 불일치. 판면 재확인 전에는 비교 자료와 일치하는 연도 총계만 사용."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "indochina-statistique-generale-xi"
+  },
+  {
+    "id": "CAT-FR-SRC-0150",
+    "title": "L’avenir économique de l’Indochine",
+    "institution_or_author": "Paul Bernard / France-Illustration",
+    "publication_date": "1949-06-04",
+    "source_type": "secondary: 전후 산업계 기고의 생산 집계",
+    "document_or_accession_number": "France-Illustration n° 190, spécial Indochine",
+    "locator": "CAOUTCHOUC, Production indochinoise en tonnes 표",
+    "url": "https://www.entreprises-coloniales.fr/inde-indochine/Bernard-Avenir_eco_IC.pdf",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940·1942·1945년 천연고무 생산 총량을 통계연감과 대조."
+    ],
+    "limitations": [
+      "재전사본 열람. 식민지 경제개발을 옹호하는 기고이며 공식 연감과 기초자료가 독립인지 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bernard-indochina-1949"
+  },
+  {
+    "id": "CAT-FR-SRC-0151",
+    "title": "Problèmes de l’industrie de l’aluminium en France",
+    "institution_or_author": "Bernard Kayser / L’Information Géographique",
+    "publication_date": "1949",
+    "source_type": "secondary: 산업지리 연구",
+    "document_or_accession_number": "13(5), 176–184쪽; DOI 10.3406/ingeo.1949.5482",
+    "locator": "177쪽 §II.A, L’alumine",
+    "url": "https://www.persee.fr/doc/ingeo_0020-0093_1949_num_13_5_5482?pageId=T1_177",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년과 1944년 본토 알루미나 생산량."
+    ],
+    "limitations": [
+      "원 공장별 생산장부는 미확인. 전후 조사 당시의 설비 규모는 전시 규모에 대입하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "kayser-aluminium-1949"
+  },
+  {
+    "id": "CAT-FR-SRC-0152",
+    "title": "Les ressources minérales",
+    "institution_or_author": "Direction de l’industrie, des mines et de l’énergie de la Nouvelle-Calédonie",
+    "publication_date": "미상",
+    "source_type": "secondary: 광업 당국의 지질 해설",
+    "document_or_accession_number": "DIMENC 웹 자료",
+    "locator": "La chromite",
+    "url": "https://dimenc.gouv.nc/geologie/evaluer-les-ressources/les-ressources-minerales",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "쿠마크 티에바기의 크로마이트 산지 식별."
+    ],
+    "limitations": [
+      "지질 해설과 장기 누계. 광산별 전쟁 연도 생산량·운영권을 확인하는 자료로 사용하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "dimenc-chromite"
+  },
+  {
+    "id": "CAT-FR-SRC-0153",
+    "title": "Le tungstène produit conjoncturel (étude succincte du marché mondial)",
+    "institution_or_author": "M. Clairin / INSEE",
+    "publication_date": "1954",
+    "source_type": "secondary: 전후 공식 시장 연구",
+    "document_or_accession_number": "Études et conjoncture 9(9), 820–839쪽; DOI 10.3406/estat.1954.8592",
+    "locator": "830쪽, 2° France 및 인도차이나 공급 단락",
+    "url": "https://www.bnsp.insee.fr/ark%3A/12148/bc6p06z07mv.pdf",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 프랑스 광석 생산 284 t과 1938년 인도차이나 공급 553 t의 품목·기간."
+    ],
+    "limitations": [
+      "품위와 생산·수입의 원통계 계통이 확인되지 않아 영국 통계의 정광량과 통합하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "insee-clairin-tungsten-1954"
+  },
+  {
+    "id": "CAT-FR-SRC-0154",
+    "title": "Military Agency Records RG 226: Records of the Office of Strategic Services",
+    "institution_or_author": "U.S. National Archives and Records Administration",
+    "publication_date": "웹 목록 작성일 미상; 대상 기록 1942-02",
+    "source_type": "secondary: 소장기록 검색도구",
+    "document_or_accession_number": "RG 226, 18835",
+    "locator": "18835행, F.A.M. Noelting 사본 보고 4쪽",
+    "url": "https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3a.html",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "candidate",
+    "claims_checked": [
+      "프랑스 합성고무 산업에 관한 동시대 보고의 서지·청구 단서."
+    ],
+    "limitations": [
+      "목록만 열람했다. 본문·가동 여부·생산량은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-rg226-index"
   }
 ]

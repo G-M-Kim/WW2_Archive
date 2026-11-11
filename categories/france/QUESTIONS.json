@@ -649,5 +649,62 @@
     ],
     "evidence": "국경 조약과 종전 지시 및 선언, 전후 합의를 확인했다. 부속 원도와 현장 이관대장은 확보하지 못했다.",
     "completion_condition": "국경위원회 표주·지도 및 현지 관청 인계 문서를 확보하고, 일본군 항복 접수와 지역별 행정 기록을 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0048",
+    "status": "open",
+    "question": "1938년 프랑스 원유 수입량 두 집계는 왜 다르며 점령기 원유·정제·합성유의 흐름은 어땠는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0011",
+      "CAT-FR-GEO-0015",
+      "CAT-FR-SRC-0144",
+      "CAT-FR-SRC-0145",
+      "CAT-FR-SRC-0146",
+      "CAT-FR-SRC-0147"
+    ],
+    "evidence": "disputed: 원유 수입 6,969,000 t과 6,937,000 t. 영국 표의 1940년 생산 수치는 1~7월분이다.",
+    "completion_condition": "세관의 품목·경계·기간·반올림 규칙을 맞추고 전시 정제 실적, 반출·수입, 합성유의 별도 생산량을 찾아 대조."
+  },
+  {
+    "id": "CAT-FR-RQ-0049",
+    "status": "open",
+    "question": "알자스-로렌을 포함한 강철 및 알루미늄의 전시 생산은 어떤 경계와 품목 기준으로 집계됐는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0011",
+      "CAT-FR-SRC-0144",
+      "CAT-FR-SRC-0148",
+      "CAT-FR-SRC-0151"
+    ],
+    "evidence": "candidate: 1939년 강괴·강주물과 조강의 규모가 비슷하나 원표 계통은 미확인. 광석·알루미나·금속 생산은 서로 다른 계정이다.",
+    "completion_condition": "공장별 생산·정제·반출과 거래의 1차 표를 확보하고 경계 변화 및 품목 정의를 해소."
+  },
+  {
+    "id": "CAT-FR-RQ-0050",
+    "status": "open",
+    "question": "인도차이나 천연고무의 원표·목적지별 수출과 프랑스 합성고무 실가동 실적은 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0014",
+      "CAT-FR-SRC-0126",
+      "CAT-FR-SRC-0149",
+      "CAT-FR-SRC-0150",
+      "CAT-FR-SRC-0154"
+    ],
+    "evidence": "disputed: 1939·1941·1943·1944년 연감 기계 판독과 후대 전사 수치 불일치. candidate: RG 226 문서 18835는 목록만 확인.",
+    "completion_condition": "원표 판면의 총계·지역·품질을 확인하고 세관 및 선적표에서 목적지별 교역을 확인. 합성고무는 원 보고서와 공장 기록을 대조."
+  },
+  {
+    "id": "CAT-FR-RQ-0051",
+    "status": "open",
+    "question": "누벨칼레도니 크롬광의 1941년 생산·수출 격차와 프랑스·인도차이나 텅스텐 통계의 품목 차이는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0014",
+      "CAT-FR-GEO-0016",
+      "CAT-FR-SRC-0135",
+      "CAT-FR-SRC-0144",
+      "CAT-FR-SRC-0152",
+      "CAT-FR-SRC-0153"
+    ],
+    "evidence": "candidate: 크롬광의 수출이 당해 생산보다 크다. 프랑스의 1939년 광석량과 정광량은 가공 단계가 다르다.",
+    "completion_condition": "광산·세관 원표와 재고·도착지 기록을 대조하고, 광석·정광·함유량 및 본토 수입을 별도 표로 검증."
   }
 ]
