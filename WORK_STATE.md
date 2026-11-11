@@ -1,11 +1,14 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1942-04-08
-FORWARD_INSPECTED_THROUGH: 1942-04-07
-CURRENT_FORWARD_BATCH: 1942-04-08..1942-04-10
+FORWARD_CURSOR: 1942-04-11
+FORWARD_INSPECTED_THROUGH: 1942-04-10
+CURRENT_FORWARD_BATCH: 1942-04-11..1942-04-13
 TOTAL_EVT_SRC_RQ: 3613/2044/1227
 AS_OF: 2026-11-12
 
-## 최신 전진 실행 — 2026-11-12 (4월 5~7일)
+## 최신 전진 실행 — 2026-11-12 (4월 8~10일)
+- NHHC·호주 DVA·Bataan Legacy 후대 기관자료로 바탄 4/9 항복 및 트링코말리 공습 확인. 4/8 방어선 붕괴·4/10 포로이송/작전종료 원전 미확보. [감사](source-audit-1942-apr08-10-batch1.md). 신규 0/0/0, 누적 3613/2044/1227. RQ-0003/RQ-0007 backfill. 다음 1942-04-11.
+
+## 이전 전진 실행 — 2026-11-12 (4월 5~7일)
 - AWM 1942년 사진 소장자료·후대 해설·1943년 영국 해군 작전보고서 서지 확인. 콜롬보 공습·Tenedos 및 Cornwall·Dorsetshire 침몰은 출처 단계별 구분, 4/6~7 원자료 미확보. [감사](source-audit-1942-apr05-07-batch1.md). 신규 0/0/0, 누적 3613/2044/1227. RQ-0003/RQ-0007 backfill. 다음 1942-04-08.
 
 ## 이전 전진 실행 — 2026-11-12 (4월 2~4일)
