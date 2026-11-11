@@ -258,5 +258,165 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "rafhs-bomber-harris"
+  },
+  {
+    "id": "CAT-GB-SRC-0014",
+    "title": "Matilda II",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 소장 전차 설명",
+    "document_or_accession_number": null,
+    "locator": "The Tank Museum’s Matilda II 및 Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/matilda-ii/?tpage=2",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "A12 Matilda IIA 표의 2파운더·7.92 mm Besa·승무원 4명·20~78 mm·16 mph."
+    ],
+    "limitations": [
+      "시속의 노면·시험 중량·측정 방법, tons의 단위계 및 개별 형식 생산 집계는 명시되지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bovington-matilda"
+  },
+  {
+    "id": "CAT-GB-SRC-0015",
+    "title": "Churchill",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 소장 전차 설명",
+    "document_or_accession_number": "T31579",
+    "locator": "The Tank Museum’s Churchill IV 및 Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/churchill-iv?country=&era=ww2&tname=&tpage=2",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Churchill Mk IV 기준 6파운더·7.92 mm Besa 2정·승무원 5명·39 tonnes·25 km/h와 전시 표본의 개장 이력."
+    ],
+    "limitations": [
+      "복원 표본 T31579의 전시 작전 이력 미상. 시속 시험 조건 및 102 mm의 구체적 장갑 위치는 표에서 미기재."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bovington-churchill"
+  },
+  {
+    "id": "CAT-GB-SRC-0016",
+    "title": "Cromwell",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 소장 전차 설명",
+    "document_or_accession_number": null,
+    "locator": "기원 및 생산 문단, The Tank Museum’s Cromwell IV, Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/cromwell?country=all&era=&tname=&tpage=2",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "A27M Mk IV의 75 mm 주포·7.92 mm 기관총 2정·승무원 5명·35 mph, Meteor 및 Centaur 주문과 완성 구분."
+    ],
+    "limitations": [
+      "현존 차량은 훈련 차량을 폴란드 부대 표식으로 전시. 표의 속도·중량 조건과 생산량의 Mk IV 단독 분모는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bovington-cromwell"
+  },
+  {
+    "id": "CAT-GB-SRC-0017",
+    "title": "British War Production",
+    "institution_or_author": "M. M. Postan / HMSO, History of the Second World War",
+    "publication_date": "1952",
+    "source_type": "secondary: 영국 공식 전시 생산사",
+    "document_or_accession_number": "United Kingdom Civil Series",
+    "locator": "제IV장 §10 The Tank and its Gun, 인쇄 185~188쪽, 표 25",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/UK-Civil-WarProduction/UK-Civil-WarProduction-4.html",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "보병·순항 분류, 1940년 납품 구간, Matilda II 15 mph 및 전면 장갑 구분, Cromwell의 Meteor 개발."
+    ],
+    "limitations": [
+      "전후 종합서이며 원 시험지나 단일 Mk 자료가 아니다. 표 25는 형식별 생산이 아닌 유형별 인도 집계다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "postan-war-production"
+  },
+  {
+    "id": "CAT-GB-SRC-0018",
+    "title": "Matilda tanks of 2/9 Armoured Regiment being driven ashore",
+    "institution_or_author": "Robert Eric Donaldson / Australian War Memorial",
+    "publication_date": "1945-06-10",
+    "source_type": "primary: 전시 사진 음화의 디지털 복제",
+    "document_or_accession_number": "108957",
+    "locator": "첫 사진 판면과 Description, Date made",
+    "url": "https://www.awm.gov.au/collection/108957",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "호주 제2/9기갑연대의 마틸다가 브루나이만 그린 비치에서 상륙한 현장."
+    ],
+    "limitations": [
+      "사진과 소장 설명을 열람. 세부 Mk와 무장 형식의 판정은 보류."
+    ],
+    "rights": "AWM 표기 Public Domain. 링크와 자체 설명만 사용.",
+    "independence_group": "awm-108957"
+  },
+  {
+    "id": "CAT-GB-SRC-0019",
+    "title": "Preliminary Report on Operation “JUBILEE” (The Raid on DIEPPE), 19 Aug 42",
+    "institution_or_author": "C. P. Stacey / Canadian Military Headquarters",
+    "publication_date": "1942-09-19",
+    "source_type": "primary: 동시대 작전 예비 보고",
+    "document_or_accession_number": "CMHQ Report 83 / D63-4/83-1942E-PDF",
+    "locator": "보고서 1쪽 §1~2",
+    "url": "https://publications.gc.ca/collections/collection_2016/mdn-dnd/D63-4-83-1942-eng.pdf",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942-08-19 디에프 작전에 캐나다 처칠 전차 대대가 참가했다."
+    ],
+    "limitations": [
+      "보고서가 스스로 잠정성을 명시한다. 개별 Mk·개장과 손실 집계는 이 부분에서 확정하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "cmhq83-dieppe"
+  },
+  {
+    "id": "CAT-GB-SRC-0020",
+    "title": "Reinforcements Come Ashore at Juno Beach",
+    "institution_or_author": "John Norman Johnson / Army Film and Photographic Unit / Imperial War Museums",
+    "publication_date": "1944-06-13",
+    "source_type": "secondary: 전시 촬영물의 보존기관 기술",
+    "document_or_accession_number": "A70 47-7",
+    "locator": "Description 및 Production Date",
+    "url": "https://film.iwmcollections.org.uk/record/1216",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "6월 13일 저녁 제7기갑사단 증원 크롬웰이 주노 해변 Mike 구역에 상륙했다는 소장 설명."
+    ],
+    "limitations": [
+      "소장 설명을 열람했다. 영상 프레임에서 개별 Mk 또는 차대번호를 독립 판정하지 않았다."
+    ],
+    "rights": "© IWM. 소장 설명 자체 요약과 원문 링크만 사용.",
+    "independence_group": "iwm-a70-47-7"
+  },
+  {
+    "id": "CAT-GB-SRC-0021",
+    "title": "TANKFEST 2024 Star Vehicles",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": "2024-02-01",
+    "source_type": "secondary: 박물관의 전차 연혁",
+    "document_or_accession_number": null,
+    "locator": "Matilda II 소제목",
+    "url": "https://tankmuseum.org/article/tankfest-stars-2024",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "A12 마틸다 II와 1940년 아라스 전투의 관련성."
+    ],
+    "limitations": [
+      "기념 행사 해설. 세부 Mk별 배치와 부대별 작전일지 미대조. 소장품 페이지와 기관이 같으므로 독립 출처로 세지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bovington-matilda"
   }
 ]

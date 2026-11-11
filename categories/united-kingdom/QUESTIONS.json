@@ -38,5 +38,58 @@
     ],
     "evidence": "다우딩 보고와 대표 전구 연구를 확인했다. 폭격 지침 원면 및 사령부별 배정·출격 기록은 추가 대조가 필요하다.",
     "completion_condition": "RAF 작전지시와 부대기록부를 연결해 방공·해안 초계·전장 지원·폭격의 배정과 취소·실제 출격을 비교한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0004",
+    "status": "open",
+    "question": "마틸다 II의 15 mph와 16 mph는 시험차·형식·노면 조건 중 무엇이 달라 발생했는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0001",
+      "CAT-GB-SRC-0014",
+      "CAT-GB-SRC-0017",
+      "CAT-GB-SRC-0018",
+      "CAT-GB-SRC-0021"
+    ],
+    "evidence": "disputed: 공식 전사와 박물관의 표기 속도 차이. 시험 조건과 아라스·브루나이만의 개별 Mk 미확인.",
+    "completion_condition": "A12 세부 형식별 교범·차대번호·시험 보고 및 영국·호주 부대 일지를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0005",
+    "status": "open",
+    "question": "처칠 Mk IV의 주포·포탑·장갑 조합과 디에프에 투입된 세부 형식은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0002",
+      "CAT-GB-SRC-0015",
+      "CAT-GB-SRC-0017",
+      "CAT-GB-SRC-0019"
+    ],
+    "evidence": "candidate: 6파운더 전시 표본과 디에프 처칠 계열 투입은 확인. T31579 전시 이력 및 디에프 차량별 Mk 미확인.",
+    "completion_condition": "차대별 생산·개장표와 캐나다 부대 전투일지, 도크·수송선 적재표 및 당시 사진을 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0006",
+    "status": "open",
+    "question": "크롬웰 Mk IV의 속도 조건·생산 범위 및 제7기갑사단의 개별 차량 형식은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0003",
+      "CAT-GB-SRC-0016",
+      "CAT-GB-SRC-0017",
+      "CAT-GB-SRC-0020"
+    ],
+    "evidence": "candidate: 박물관 표에 시험 노면·중량이 없고, IWM 기술은 전차 계열까지 특정한다.",
+    "completion_condition": "Mk별 인수표와 Meteor·차대 배정 및 시험표를 확보하고 IWM 원영상과 전시 차량 명부를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0007",
+    "status": "open",
+    "question": "대표 3형식 외의 영국 전차와 수입·영국 개조 차량의 생산·배치는 어떻게 비교되는가?",
+    "related_ids": [
+      "CAT-GB-SRC-0014",
+      "CAT-GB-SRC-0015",
+      "CAT-GB-SRC-0016",
+      "CAT-GB-SRC-0017"
+    ],
+    "evidence": "candidate: 유형별 납품 합계와 대표 3형식을 확인했다. 밸런타인·크루세이더·코멧 및 셔먼 파이어플라이는 미검사다.",
+    "completion_condition": "전시 인수표·계약서·부대별 일지를 대조해 영국 생산, 도미니언 생산, 수입 및 개장을 구분한다."
   }
 ]
