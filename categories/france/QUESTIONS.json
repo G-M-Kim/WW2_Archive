@@ -802,5 +802,64 @@
     ],
     "evidence": "candidate: 기존 소쇼·샬롱 비교값과 새 르망 고용은 시설 규모 4차원의 등급 경계가 아니다. 로렌·북부·해외 비교는 남음.",
     "completion_condition": "동종 부지·설치 생산능력·작업 수용·처리 능력을 양 시점에서 맞추고 업종별 공통 정량 경계의 근거를 확보한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0058",
+    "status": "open",
+    "question": "랭스–쿠르시의 9월 1일 비행면·격납·정비·연료 설비와 실제 배치는 얼마였는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0019",
+      "CAT-FR-SRC-0177",
+      "CAT-FR-SRC-0178",
+      "CAT-FR-SRC-0179",
+      "CAT-FR-SRC-0187",
+      "CAT-FR-SRC-0189"
+    ],
+    "evidence": "candidate: 1939년 사진과 특정 격납고군 6동, 전전 주둔 추산과 9월 2일 조직 해체 확인. 일자별 기체 현황·인수계와 시설 대장 미확인.",
+    "completion_condition": "AI 79 F 및 개전기 배치·인계 원장과 도면을 확보하고 분산 전후 재적·현지 배치·가동기 및 연합군 도착을 구분한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0059",
+    "status": "open",
+    "question": "디종–롱비크의 개전일 비행면과 격납·정비·연료 용량은 얼마였는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0020",
+      "CAT-FR-SRC-0180",
+      "CAT-FR-SRC-0181",
+      "CAT-FR-SRC-0182",
+      "CAT-FR-SRC-0186",
+      "CAT-FR-SRC-0188"
+    ],
+    "evidence": "candidate: 격납고 외형 및 전전 철도 지선 확인. 민항 사용 허가와 민간 시설 부가의 날짜가 자료별로 다르고, 1938년 확장안은 실현 여부 미상.",
+    "completion_condition": "AI 2 B 156 원도와 건물·정비·유류 대장, 민항 공고를 대조하고 1939년 시설과 1940년 이후 공사를 분리한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0060",
+    "status": "open",
+    "question": "디종 전투부대의 이동과 교체 부대의 8월 말~9월 초 현지 배치 일자는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0020",
+      "CAT-FR-SRC-0180",
+      "CAT-FR-SRC-0183",
+      "CAT-FR-SRC-0184"
+    ],
+    "evidence": "candidate: 전투부대의 전시 분산과 GC III/7의 9월 2일 마르시롤 도착이 후대 자료에 기록된다. 디종 출발 시각과 9월 1일 주둔 수는 미확인.",
+    "completion_condition": "GC III/7 및 교체 폭격부대의 JMO·이동명령·정비일지를 대조해 시점·기종·재적·가동을 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0061",
+    "status": "open",
+    "question": "동일 단위의 비교 경계와 미조사 본토·해외 기지의 개전 원자료는 어디에 있는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0019",
+      "CAT-FR-GEO-0020",
+      "CAT-FR-SRC-0184",
+      "CAT-FR-SRC-0185",
+      "CAT-FR-SRC-0186",
+      "CAT-FR-SRC-0187",
+      "CAT-FR-SRC-0188"
+    ],
+    "evidence": "candidate: 본토 두 상설 사례와 마르시롤 비교치만 열람. inaccessible: Gallica의 1938년 지도 원판. 기지 규모 등급 경계 미확정.",
+    "completion_condition": "원판 지도와 각 지역 당대 시설·지배 자료를 확보하고, 본토·알제리·보호령·기타 해외를 나눠 네 차원별 비교 가능한 수치와 경계를 구축한다."
   }
 ]

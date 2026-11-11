@@ -3533,5 +3533,265 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "freyssenet-renault-company-series"
+  },
+  {
+    "id": "CAT-FR-SRC-0177",
+    "title": "Aerial picture, quartier Roisin 1939",
+    "institution_or_author": "촬영자 미표기 / Grand Reims·Europan 17 재록",
+    "publication_date": "1939 (월일 미표기)",
+    "source_type": "primary: 동시대 항공사진의 재록",
+    "document_or_accession_number": "FR-COURCY_GRANDREIMS-SS-AP3",
+    "locator": "Site Brief 인쇄 24쪽 아래 사진 및 첨부 목록",
+    "url": "https://www.europan-europe.eu/media/default/0001/27/e17_fr_courcy_grand_reims_en_pdf.pdf#page=24",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "랭스–쿠르시 로아쟁 구역에 막사 건물군과 여러 대형 격납고 지붕이 나타난다."
+    ],
+    "limitations": [
+      "사진 판면을 직접 열람. 촬영 월일, 촬영자, 절대 축척, 각 건물 기능과 전체 비행장 경계 미확인."
+    ],
+    "rights": "개별 사진 권리 미확인. 복제 없이 한국어 설명과 출처 링크만 사용.",
+    "independence_group": "europan-roisin-photo"
+  },
+  {
+    "id": "CAT-FR-SRC-0178",
+    "title": "Europan 17 — Living Cities 2, Courcy–Grand Reims Site Brief",
+    "institution_or_author": "Grand Reims / Europan France",
+    "publication_date": "2023 공모 자료",
+    "source_type": "secondary: 기지 재생을 위한 현장·건축 연혁",
+    "document_or_accession_number": "FR-COURCY-GRANDREIMS-PS-M1",
+    "locator": "인쇄 23쪽 The evolution of Air Force Base 112, 24쪽 사진 및 현대 중첩 지도",
+    "url": "https://www.europan-europe.eu/media/default/0001/27/e17_fr_courcy_grand_reims_en_pdf.pdf#page=23",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1928-10-01 가동 시작, 전전 라파유 철근콘크리트 격납고군 6동 서술과 현재 대상 부지의 범위."
+    ],
+    "limitations": [
+      "격납고 6동은 특정 설계 집단이다. 65 ha와 55,000 m²는 현대 공모 대상 구역이다. 1939-09-01 실측 아님."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "europan-site-brief"
+  },
+  {
+    "id": "CAT-FR-SRC-0179",
+    "title": "Base aérienne 112 Reims",
+    "institution_or_author": "Service historique de la Défense",
+    "publication_date": "온라인 목록 발행일 미표기",
+    "source_type": "secondary: 기록관 연혁·소장 목록",
+    "document_or_accession_number": "AI 79 F / notice 49343",
+    "locator": "Présentation du contenu 및 하위 Journal de marche et d’opérations",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/en/node/49343",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1925년 쿠르시 정비, 1938년 제112항공대대 지원, 1939-09-02 기지 조직 해체, 1944-10-16 재설치."
+    ],
+    "limitations": [
+      "영문 경로의 프랑스어 HTML을 직접 열람. 행정 해체 기록이며 비행면 폐쇄를 뜻하는지와 개전일 배치 원장은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "shd-reims-ba112"
+  },
+  {
+    "id": "CAT-FR-SRC-0180",
+    "title": "La BA 102 de Dijon a 100 ans !",
+    "institution_or_author": "Frédéric Lafarge / Anciens Aérodromes",
+    "publication_date": "2014-09",
+    "source_type": "secondary: 기지 연혁",
+    "document_or_accession_number": "Bulletin n° 50",
+    "locator": "19~22쪽, 부지·격납고 및 1939~1940년 동원·피해",
+    "url": "https://www.anciens-aerodromes.com/upload/magN50sept2014.pdf#page=21",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "뒤부아 격납고 240×40 m, 전전 전투부대와 8월 말 이동, 폭격부대 수용, 1940년 피해·점령 및 포장 활주로 공사."
+    ],
+    "limitations": [
+      "일일 배치·가동 원장 미확인. 1914년 약 100 ha는 1939년 관측치가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "lafarge-airfield-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0181",
+    "title": "“Dubois Lepeu” / Dijon – Longvic",
+    "institution_or_author": "G. Labeeuw / Hangars aéronautiques",
+    "publication_date": "2026-08-22 게시; 사진 약 1930년",
+    "source_type": "secondary: 격납고 건축 조사와 동시대 사진 재록",
+    "document_or_accession_number": "notice 3901; 사진 Coll. MAE via Association des Amis de la 102",
+    "locator": "Type & description, Dimensions, Construction, État actuel 및 첫 사진",
+    "url": "https://hangars.anciens-aerodromes.com/?p=3901",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기지 서쪽의 격납고 외형 240×40 m. 약 1930년 사진에서 현수 지붕 구조가 보인다."
+    ],
+    "limitations": [
+      "사진 파일 직접 열람. 치수 실측 원장, 유효 높이와 수용 정원은 미확인. Lafarge와 치수 표기는 일치하나 원자료 독립성 미확인."
+    ],
+    "rights": "격납고 사진은 소장처 표기를 따르며 재사용 조건 미확인. 원문 링크만 사용.",
+    "independence_group": "labeeuw-dijon-hangar"
+  },
+  {
+    "id": "CAT-FR-SRC-0182",
+    "title": "De la mise en défense au déclassement d’un territoire : vers une réappropriation de l’empreinte militaire dans la région de Dijon-Langres",
+    "institution_or_author": "Emmanuel Chiffre·Denis Mathis / Revue de géographie historique",
+    "publication_date": "2017-05-20",
+    "source_type": "secondary: 역사 지리 연구",
+    "document_or_accession_number": "DOI 10.4000/geohist.941",
+    "locator": "인쇄 10쪽 §21 및 11쪽 §23",
+    "url": "https://journals.openedition.org/geohist/pdf/941#page=11",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "디종 군 비행장의 전전 사용, 인접 민간 시설과 현대 대응, 약 500 ha는 전후 확장에 걸친 값."
+    ],
+    "limitations": [
+      "민간 비행장 부가를 1930년으로 서술. DGAC 연혁의 1920년대 민간 사용과 같은 행정 사건인지 미확인."
+    ],
+    "rights": "CC BY-NC-ND 4.0. 자체 요약 및 링크만 사용.",
+    "independence_group": "chiffre-mathis-dijon"
+  },
+  {
+    "id": "CAT-FR-SRC-0183",
+    "title": "Général Victor TANGUY — Entretien réalisé au SHAA le 9 juin 1993",
+    "institution_or_author": "Victor Tanguy·Françoise de Ruffray / SHD",
+    "publication_date": "1993-06-09 구술 채록",
+    "source_type": "secondary: 구술 1차 자료의 기록관 분석 목록",
+    "document_or_accession_number": "AI/8/Z/703",
+    "locator": "Compte rendu analytique, Bande 1 – Face 1 및 Biographie et histoire",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/924480",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당사자의 디종 GC I/7 근무, 1939년 III/7 전속과 새 비행장 배치가 목록에 요약된다."
+    ],
+    "limitations": [
+      "녹음 원본은 미청취. 분석 목록에는 출발·도착 날짜나 기체 수가 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "shd-tanguy-interview"
+  },
+  {
+    "id": "CAT-FR-SRC-0184",
+    "title": "Historique du terrain d’aviation de Marcilloles-Chambaran ou de Penol-Les Burettes",
+    "institution_or_author": "Paul Mathevet / Anciens Aérodromes",
+    "publication_date": "2011-12 원고; 2012 회보",
+    "source_type": "secondary: 지역 비행장사",
+    "document_or_accession_number": "Le Magazine 2A n° 32",
+    "locator": "2~3쪽, 1934·1938 부지 및 1939-08-30·09-02 항목",
+    "url": "https://www.anciens-aerodromes.com/upload/magazine2An32.pdf#page=3",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 확장 후 약 80 ha, 8월 30일 지원 중대의 정비 시작과 9월 2일 디종 출발 계통 GC III/7 도착."
+    ],
+    "limitations": [
+      "약 80 ha는 비행장 부지이고 일일 처리량은 미상. 도착 부대 규모는 디종 9월 1일 실적으로 환산 불가. 구술 정보 일부는 Tanguy와 겹칠 수 있다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "mathevet-marcilloles"
+  },
+  {
+    "id": "CAT-FR-SRC-0185",
+    "title": "Carte des terrains d’atterrisage de France au 1. 000. 000e",
+    "institution_or_author": "Fédération aéronautique de France / BnF",
+    "publication_date": "1938-03-01",
+    "source_type": "secondary: 당대 1차 지도의 BnF 목록",
+    "document_or_accession_number": "FRBNF40613954; GE C-18816; IFN-53198568",
+    "locator": "Notice bibliographique 및 Localiser ce document",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb40613954v",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 본토 항공지도 판본의 발행일, 축척 1:1,000,000, 소장번호."
+    ],
+    "limitations": [
+      "서지 직접 열람. Gallica 원판과 IIIF 응답은 열람 불가였으며 기지 표식은 증거로 채택하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bnf-airfield-map"
+  },
+  {
+    "id": "CAT-FR-SRC-0186",
+    "title": "Dossiers de terrains d’aviation",
+    "institution_or_author": "Service historique de la Défense",
+    "publication_date": "수록 기간 1926~1940",
+    "source_type": "secondary: 당대 시설기록의 소장 목록",
+    "document_or_accession_number": "AI 2 B 156",
+    "locator": "Terrains de DAG à GO, Dijon - Longvic, Côte-d’Or",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/en/node/681374",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "디종–롱비크가 당대 비행장 문서의 소장 범위에 포함된다."
+    ],
+    "limitations": [
+      "영문 경로의 프랑스어 목록을 직접 열람. 개별 원문 도면과 기지 시설 수치는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "shd-dijon-holdings"
+  },
+  {
+    "id": "CAT-FR-SRC-0187",
+    "title": "Aérodrome de Reims–Champagne (Marne)",
+    "institution_or_author": "Jean Sauter / DGAC",
+    "publication_date": "2005 CD-ROM, 웹 전재판",
+    "source_type": "secondary: 민간항공 역사 지도집과 시설 연혁",
+    "document_or_accession_number": "Atlas DGAC, fiche 502 / plan e042",
+    "locator": "1930~1939 사용 규정 문단, 1940년 점령 및 후기 미군 시설 문단, IGN 바탕 도면",
+    "url": "https://www.anciens-aerodromes.com/AtlasDGACOct16/html/aero502.htm",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스 공군 관할, 1939년 1월까지 공용 항공 교통, 중앙 표지 부근 착륙면 규정 및 점령기 시설 분리."
+    ],
+    "limitations": [
+      "재구성 지도이며 현지 개전일 실측 자료가 아니다. 42개 격납고는 제1차 세계대전 이전 민간 시설에 해당한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "dgac-sauter-atlas"
+  },
+  {
+    "id": "CAT-FR-SRC-0188",
+    "title": "Centre d’aviation militaire de Dijon–Longvic (Côte-d’Or)",
+    "institution_or_author": "Jean Sauter / DGAC",
+    "publication_date": "2005 CD-ROM, 웹 전재판",
+    "source_type": "secondary: 민간항공 역사 지도집과 시설 연혁",
+    "document_or_accession_number": "Atlas DGAC, fiche 206 / plan e018",
+    "locator": "1927년 수정 도면, 1936·1938년 페르베르, 1938년 계획, 독일 점령기 공사 및 IGN 바탕 도면",
+    "url": "https://www.anciens-aerodromes.com/AtlasDGACOct16/html/aero206.htm",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1927년 철도 지선 기록, 1938년 확장안과 점령기 1,050 m 활주로를 구분한다."
+    ],
+    "limitations": [
+      "개전일 지선 운송실적·설비 용량 미확인. 확장안과 점령기 활주로를 1939년 규모에 포함하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "dgac-sauter-atlas"
+  },
+  {
+    "id": "CAT-FR-SRC-0189",
+    "title": "La Base Aérienne 112 : vitrine de l’Armée de l’air / La Seconde Guerre mondiale et ses suites",
+    "institution_or_author": "Frédéric Lafarge / Anciens Aérodromes 전재",
+    "publication_date": "본문 발행일 미표기",
+    "source_type": "secondary: 기지 연혁",
+    "document_or_accession_number": "Reims.htm, Lafarge 기고",
+    "locator": "1925~1939 절 말미 및 1939~1949 절 첫 문단",
+    "url": "https://www.anciens-aerodromes.com/illustrationsterrains/Reims.htm",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "잔디 비행면, 개전 전 기체 약 300대라는 추산, 8월 말 분산 전개와 뒤이은 RAF 사용."
+    ],
+    "limitations": [
+      "약 300대의 집계일·원표·가동 구분이 없다. 9월 1일 배치나 시설 정원으로 쓰지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "lafarge-airfield-history"
   }
 ]
