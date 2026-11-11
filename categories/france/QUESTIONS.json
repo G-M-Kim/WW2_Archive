@@ -706,5 +706,53 @@
     ],
     "evidence": "candidate: 크롬광의 수출이 당해 생산보다 크다. 프랑스의 1939년 광석량과 정광량은 가공 단계가 다르다.",
     "completion_condition": "광산·세관 원표와 재고·도착지 기록을 대조하고, 광석·정광·함유량 및 본토 수입을 별도 표로 검증."
+  },
+  {
+    "id": "CAT-FR-RQ-0052",
+    "status": "open",
+    "question": "빌랑쿠르 르노의 개전일 부지·설치 능력·생산·인사·수송 장부는 어디에 있는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0017",
+      "CAT-FR-SRC-0099",
+      "CAT-FR-SRC-0105",
+      "CAT-FR-SRC-0156",
+      "CAT-FR-SRC-0157",
+      "CAT-FR-SRC-0158",
+      "CAT-FR-SRC-0159",
+      "CAT-FR-SRC-0160",
+      "CAT-FR-SRC-0161"
+    ],
+    "evidence": "candidate: 1939년 100 ha 및 시점 미상 전성기 72 ha. 1939년 연간 차량 58,000대와 1938~39년 실제 고용은 원표·분모 미확인.",
+    "completion_condition": "당대 지적도·건물대장과 생산·급여·철도 및 발전 장부를 확보하고 구역별 정의와 시점을 맞춘다."
+  },
+  {
+    "id": "CAT-FR-RQ-0053",
+    "status": "open",
+    "question": "르크뢰조 세 공장의 개전일 가동과 국유 작업장의 경계·운영권은 어떻게 구분되는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0018",
+      "CAT-FR-SRC-0163",
+      "CAT-FR-SRC-0164",
+      "CAT-FR-SRC-0165",
+      "CAT-FR-SRC-0166",
+      "CAT-FR-SRC-0168"
+    ],
+    "evidence": "candidate: 일부 설비 명목치와 1940년 5월 실제 고용을 확보했다. 개전일 물량과 국유 작업장 집계 범위는 미확인.",
+    "completion_condition": "1939년 공장도, 국가 인수·반환 문서, 생산·고용 원장을 대조하고 17번에서 같은 GEO와 구역을 비교한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0054",
+    "status": "open",
+    "question": "업종·공간 단위별 공통 등급 경계를 세울 동시대 설비 조사와 미조사 지역은 어디에 있는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0017",
+      "CAT-FR-GEO-0018",
+      "CAT-FR-SRC-0148",
+      "CAT-FR-SRC-0163",
+      "CAT-FR-SRC-0165",
+      "CAT-FR-SRC-0167"
+    ],
+    "evidence": "candidate: 소쇼와 샬롱의 실제 규모 지표는 일부 비교값이다. 본토의 로렌·북부와 식민지·보호령 시설은 이번 대표 사례 밖이다.",
+    "completion_condition": "동종 공업 집적의 면적·설치 능력·작업 수용·처리 시설을 동일 시점과 단위로 확보하고 16·17번의 비교 경계를 정합화한다."
   }
 ]

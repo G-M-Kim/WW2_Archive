@@ -3093,5 +3093,285 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "nara-rg226-index"
+  },
+  {
+    "id": "CAT-FR-SRC-0155",
+    "title": "Notification relative à l’état de guerre entre la France et l’Allemagne",
+    "institution_or_author": "Georges Bonnet / 프랑스 외무부, Yale Law School Avalon Project 전재",
+    "publication_date": "1939-09-03",
+    "source_type": "primary: 당대 외교 통보의 영어판",
+    "document_or_accession_number": "French Yellow Book no. 368",
+    "locator": "제368호 통보 본문",
+    "url": "https://avalon.law.yale.edu/wwii/ylbk368.asp",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일과의 전쟁 상태 발효일 1939-09-03 17시."
+    ],
+    "limitations": [
+      "당대 외교 문서 영어판의 전재본. 원본 필사 서명은 미열람."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "french-yellow-book-1939"
+  },
+  {
+    "id": "CAT-FR-SRC-0156",
+    "title": "Histoire et chronologie",
+    "institution_or_author": "SPL Val de Seine Aménagement",
+    "publication_date": "미상",
+    "source_type": "secondary: 공공 개발기관 연혁",
+    "document_or_accession_number": "Île Seguin–Rives de Seine 웹 연혁",
+    "locator": "Les usines Renault",
+    "url": "https://www.ileseguin-rivesdeseine.fr/fr/histoire-et-chronologie",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 뫼동~불로뉴빌랑쿠르 공장 면적 100 ha."
+    ],
+    "limitations": [
+      "정확한 조사일, 포함 필지, 토지와 건물 면적 구분을 밝히지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "val-de-seine-development"
+  },
+  {
+    "id": "CAT-FR-SRC-0157",
+    "title": "Boulogne-Billancourt, ville d’art et d’essai, 1800–2000",
+    "institution_or_author": "Antoine Le Bas / Région Île-de-France, Inventaire général; Dominique Hervier 편",
+    "publication_date": "1997-11",
+    "source_type": "secondary: 지역 문화유산 연구서",
+    "document_or_accession_number": "Images du Patrimoine 166; ISBN 2-905913-21-5",
+    "locator": "101~102쪽 Les usines Renault",
+    "url": "https://www.iledefrance.fr/sites/default/files/2023-09/Boulogne-Billancourt%2C%20ville%20d%E2%80%99art%20et%20d%E2%80%99essai%2C%201800-2000.pdf",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전성기 약 72 ha, 우안 트라페즈·세갱섬·바뫼동 기능과 공간 관계."
+    ],
+    "limitations": [
+      "전성기의 연도가 미상. 수록 항공사진은 1955년으로 개전 배치의 직접 자료가 아님."
+    ],
+    "rights": "Inventaire général ADAGP 권리 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "idf-inventaire-renault"
+  },
+  {
+    "id": "CAT-FR-SRC-0158",
+    "title": "Usine de construction automobile dite Régie nationale des usines Renault, ou Île Seguin, Bas-Meudon",
+    "institution_or_author": "Région Île-de-France, Inventaire général du patrimoine culturel",
+    "publication_date": "1991 (1990 조사; 2023 갱신, 2024 PDF)",
+    "source_type": "secondary: 산업유산 실사 및 연혁",
+    "document_or_accession_number": "IA00126647",
+    "locator": "1쪽 Historique·Description",
+    "url": "https://inventaire.iledefrance.fr/dossier/pdf/2f8cec2e-245f-447e-b838-8ea9ab1ff21e/usine-de-construction-automobile-dite-regie-nationale-des-usines-renault-ou-ile-seguin-bas-meudon-detruit-apres-inventaire.pdf",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "M6 최종조립, 1927년 발전소, 1929·1933년 터보발전기 3기, 1928·1932년 교량과 철도망 연결, 갈리스 부지 매입과 전후 공사."
+    ],
+    "limitations": [
+      "조사 당시 잔존 자료와 소급 연혁. 1939년 발전량, 설비 동시 가동 및 수송량은 확인 불가."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "idf-inventaire-renault"
+  },
+  {
+    "id": "CAT-FR-SRC-0159",
+    "title": "Leçon 2, §2.3 Boulogne-Billancourt, banlieue automobile",
+    "institution_or_author": "Université Paris 1 Panthéon-Sorbonne / Université ouverte des humanités",
+    "publication_date": "미상",
+    "source_type": "secondary: 대학 역사 강의",
+    "document_or_accession_number": "Paris et ses banlieues, §2.3",
+    "locator": "세갱섬 프레스·조립 및 1938년 고용 단락",
+    "url": "https://e-cours.univ-paris1.fr/modules/uoh/paris-banlieues/u2/co/2_3.html",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 공장 종업원 38,000명."
+    ],
+    "limitations": [
+      "관측 월, 인원 범주 및 근거 장부는 이 절에 없음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "paris1-urban-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0160",
+    "title": "Adieu Billancourt…",
+    "institution_or_author": "Le Monde",
+    "publication_date": "1992-03-29",
+    "source_type": "secondary: 신문 산업사 회고",
+    "document_or_accession_number": "Le Monde 1992-03-29 아카이브",
+    "locator": "En 1939 단락",
+    "url": "https://www.lemonde.fr/archives/article/1992/03/29/perspectives-retrospective-adieu-billancourt-apres-quatre-vingt-dix-ans-d-activite-ce-qui-fut-la-plus-grande-usine-francaise-d-automobiles-le-coeur-de-renault-s-arrete-la-modernisa_3873307_1819218.html",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 고용 37,000명. 생산 집중과 경쟁 공장에 대한 서술."
+    ],
+    "limitations": [
+      "고용의 관측 월과 원 인사표 미확인. 1938년 통계와 경계·범주가 같은지 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "le-monde-billancourt-1992"
+  },
+  {
+    "id": "CAT-FR-SRC-0161",
+    "title": "France: Billancourt",
+    "institution_or_author": "Association Renault Histoire",
+    "publication_date": "미상",
+    "source_type": "secondary: 회사사 연구회 사이트",
+    "document_or_accession_number": "Histoire des sites Renault, Billancourt",
+    "locator": "Production annuelle (quelques chiffres), 1939 행",
+    "url": "https://sites.google.com/view/associationrenaulthistoire/un-peu-d-histoire/histoire-des-sites-renault/billancourt",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 빌랑쿠르 차량 58,000대 연간 생산 수치."
+    ],
+    "limitations": [
+      "원 생산장부, 차종과 각 작업장 분모를 확인하지 못했다. 설비능력 및 개전일 생산은 별도."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "renault-histoire-sites"
+  },
+  {
+    "id": "CAT-FR-SRC-0162",
+    "title": "Le break, 1890 à 2008",
+    "institution_or_author": "Renault Classic",
+    "publication_date": "미상 (제목상 수록 범위 1890~2008)",
+    "source_type": "secondary: 제조사 역사 자료",
+    "document_or_accession_number": "Renault Classic LeBreak1890a2008",
+    "locator": "1950 à nos jours : le break contemporain, La Juvaquatre",
+    "url": "https://cdn.group.renault.com/ren/master/renault-classic/tools-and-services/LeBreak1890a2008.pdf",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "빌랑쿠르 쥐바카트 생산 시작 1938년, 소형 화물차의 1939년 3월 판매 시작."
+    ],
+    "limitations": [
+      "전시 생산의 정확한 대수 및 당일 가동을 제공하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "renault-classic-break"
+  },
+  {
+    "id": "CAT-FR-SRC-0163",
+    "title": "Aciérie du Breuil ; actuellement Industeel France",
+    "institution_or_author": "Frédéric Pillet / Région Bourgogne-Franche-Comté",
+    "publication_date": "2000 (PDF 2026-06-12 출력)",
+    "source_type": "secondary: 산업유산 실사 및 연혁",
+    "document_or_accession_number": "IA71000142",
+    "locator": "1~2쪽 Historique, complément de localisation 및 hydrographie",
+    "url": "https://patrimoine.bourgognefranchecomte.fr/dossier/pdf/IA71000142",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1918년 설치 마르탱로 8기와 기별 용량, 1944년 1호로 파괴, 변전소 및 운하 인접."
+    ],
+    "limitations": [
+      "개별 로의 명목 용량과 설비 존속을 제공. 일일·연간 생산이나 전력·운하의 처리 실적은 미확인."
+    ],
+    "rights": "지역 문화유산 목록의 이미지 복제 허가 표기. 본문은 자체 요약과 링크만 사용.",
+    "independence_group": "bfc-inventaire-industrial"
+  },
+  {
+    "id": "CAT-FR-SRC-0164",
+    "title": "Fonderie Henri-Paul",
+    "institution_or_author": "Frédéric Pillet / Région Bourgogne-Franche-Comté",
+    "publication_date": "1999 (조사·기록)",
+    "source_type": "secondary: 산업유산 실사 및 연혁",
+    "document_or_accession_number": "IA71000109",
+    "locator": "1쪽 Historique",
+    "url": "https://patrimoine.bourgognefranchecomte.fr/dossier/pdf/IA71000109",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "몽샤냉 주조소, 1920년 개소 당시 주철 능력 30,000 t/년과 1934년 무렵 용해설비 갱신."
+    ],
+    "limitations": [
+      "개소 명목치의 1939년 유효성, 실가동·생산은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bfc-inventaire-industrial"
+  },
+  {
+    "id": "CAT-FR-SRC-0165",
+    "title": "Schneider : de l’exode à la collaboration (été 1940)",
+    "institution_or_author": "Laurent Dingli; 독일 자료 번역 Jacky Ehrhardt",
+    "publication_date": "2021-09-07 (열람 PDF 판본)",
+    "source_type": "secondary: 기록관 자료에 기초한 기업사 연구",
+    "document_or_accession_number": "저자 공개 PDF, 2021-09-07 판",
+    "locator": "10~12쪽 국유화·표 1, 30쪽 L’invasion",
+    "url": "https://louisrenault.com/wp-content/uploads/2021/09/Schneider-a%CC%80-le%CC%81te%CC%81-1940-de-lexode-a%CC%80-la-collaboration-07-09-2021.pdf",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1937년 일부 작업장 국유화, 1940-05-31 세 공장군 고용 및 샬롱 비교 행, 1940-06-17 독일군 진입."
+    ],
+    "limitations": [
+      "집계 원표와 국유 작업장 인원 포함 여부는 미확인. 1940년 고용은 1939년 기준일에 대입하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "dingli-schneider-1940"
+  },
+  {
+    "id": "CAT-FR-SRC-0166",
+    "title": "Gestion du personnel de l’atelier de construction de Creusot (1937–1945)",
+    "institution_or_author": "Service historique de la Défense / CAAPC Châtellerault",
+    "publication_date": "미상 (기록군 1937~1945)",
+    "source_type": "secondary: 국방 기록관의 소장목록과 기관 연혁",
+    "document_or_accession_number": "DE/2017/ZO/8; ark 956530",
+    "locator": "Biographie et histoire; Historique de la conservation; Conditions d’accès",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/956530",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "국유 작업장의 포병 행정 소속, 1940년 폐쇄·생퐁 이전, 원 급여 자료 보존 단서."
+    ],
+    "limitations": [
+      "HTML 원문 열람. 개별 급여·인사 원장과 이전 설비 목록은 미열람."
+    ],
+    "rights": "공공기록, 개별 자료는 열람실의 법정 공개 조건 적용. 자체 요약과 링크만 사용.",
+    "independence_group": "shd-creusot-atelier"
+  },
+  {
+    "id": "CAT-FR-SRC-0167",
+    "title": "Usine de construction automobile PSA Peugeot Citroën",
+    "institution_or_author": "Raphaël Favereaux / Région Bourgogne-Franche-Comté",
+    "publication_date": "2012 (조사·기록)",
+    "source_type": "secondary: 산업유산 목록과 연혁",
+    "document_or_accession_number": "IA25001029",
+    "locator": "1쪽 Historique",
+    "url": "https://patrimoine.bourgognefranchecomte.fr/dossier/pdf/IA25001029",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소쇼 1928~1932년 재편 무렵 부지 50 ha, 1937년 노동자 15,000명."
+    ],
+    "limitations": [
+      "연도와 인원 범주가 빌랑쿠르 수치와 다름. 비교값만 사용하고 개전 등급 경계에 대입하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bfc-inventaire-industrial"
+  },
+  {
+    "id": "CAT-FR-SRC-0168",
+    "title": "Le Creusot 1939–1948",
+    "institution_or_author": "André Prost / Académie François Bourdon",
+    "publication_date": "2007-02",
+    "source_type": "secondary: 산업 기록관 회보의 지역 산업사",
+    "document_or_accession_number": "Bulletin de l’Académie François Bourdon n°8",
+    "locator": "3~4쪽 L’avant guerre",
+    "url": "https://afbourdon.com/wp-content/uploads/2014/11/Bulletin_8.pdf",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일부 작업장의 1937년 국유화와 1939년 11월 반환 서술."
+    ],
+    "limitations": [
+      "법인 설립·물리적 인수·직원 이동을 같은 사건으로 보지 않음. 인계 원문과 범위 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "afb-prost-creusot"
   }
 ]
