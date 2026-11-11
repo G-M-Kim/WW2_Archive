@@ -91,5 +91,61 @@
     ],
     "evidence": "candidate: 유형별 납품 합계와 대표 3형식을 확인했다. 밸런타인·크루세이더·코멧 및 셔먼 파이어플라이는 미검사다.",
     "completion_condition": "전시 인수표·계약서·부대별 일지를 대조해 영국 생산, 도미니언 생산, 수입 및 개장을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0008",
+    "status": "open",
+    "question": "험버 스카우트 카의 Mk별 무장·기동 제원과 베이르트 차량의 장착 이력은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0004",
+      "CAT-GB-SRC-0022",
+      "CAT-GB-SRC-0023",
+      "CAT-GB-SRC-0030"
+    ],
+    "evidence": "candidate: NAM 일반 해설의 브렌과 별도 차량 사진 해설의 브라우닝은 적용 범위가 다르다. Mk와 속도 시험 미확인.",
+    "completion_condition": "험버 스카우트 카 Mk별 교범·제작표와 연대 장비 일지를 대조해 기본·부대별 장착 및 시험 조건을 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0009",
+    "status": "open",
+    "question": "영국 No. 1 Mk II, 캐나다 Mk I*와 호주산 캐리어의 제원·생산량은 어떻게 구분되는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0005",
+      "CAT-GB-SRC-0024",
+      "CAT-GB-SRC-0025",
+      "CAT-GB-SRC-0028",
+      "CAT-GB-SRC-0029",
+      "CAT-GB-SRC-0030"
+    ],
+    "evidence": "candidate: 영국 박물관 제원과 호주 현장 사진은 확보했다. 캐나다 교범 원판과 공장별 생산 원표 미확인.",
+    "completion_condition": "국가·형식별 교범과 인수장부를 확보해 적재·속도 시험 조건, tons 단위계와 집계 범위를 맞춘다."
+  },
+  {
+    "id": "CAT-GB-RQ-0010",
+    "status": "open",
+    "question": "아처의 인도 집계와 개별 부대의 실제 투입, 표준 주행·장갑 제원은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0006",
+      "CAT-GB-SRC-0026",
+      "CAT-GB-SRC-0027",
+      "CAT-GB-SRC-0030"
+    ],
+    "evidence": "candidate: 소장 표본의 17파운더 차체 구성과 인도 이력은 확인. 665대의 집계 마감일과 부대별 운용은 미확인.",
+    "completion_condition": "인수 대장, 차대별 배정표와 전시 포병대 전투일지, 공인 차량 시험표를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0011",
+    "status": "open",
+    "question": "다른 영국 비전차 기갑차량과 연합국 생산·도입 차량은 어떻게 분류되는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0004",
+      "CAT-GB-EQP-0005",
+      "CAT-GB-EQP-0006",
+      "CAT-GB-SRC-0024",
+      "CAT-GB-SRC-0027",
+      "CAT-GB-SRC-0030"
+    ],
+    "evidence": "candidate: 세 분류만 확인. 포탑형 장갑차, 반궤도, 전용 장갑수송차, 대공·공병·구난과 추가 자주포는 미검사.",
+    "completion_condition": "제식 목록과 제작·개조·운용 자료를 확보하고 영국 생산, 도미니언 생산, 미국 도입과 운용국을 구분한다."
   }
 ]

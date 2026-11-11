@@ -418,5 +418,185 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "bovington-matilda"
+  },
+  {
+    "id": "CAT-GB-SRC-0022",
+    "title": "Sergeant Major Jewell and Trooper Williams, 1944",
+    "institution_or_author": "Wilfred H. J. Sale / National Army Museum",
+    "publication_date": "1944",
+    "source_type": "primary: 전시 사진 및 별도 보존기관 해설",
+    "document_or_accession_number": "NAM. 1975-03-63-20-165",
+    "locator": "사진 판면·소장 설명의 B Squadron과 장비 문단",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1975-03-63-20-165",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북서유럽에서 영국 제3/4 런던 카운티 요머너리 B중대의 험버 스카우트 카. 해설상 2명, 비상 좌석 1개, No. 19 무전기, 브렌 1정."
+    ],
+    "limitations": [
+      "사진이 무전기 사양이나 계열 전체 표준 무장을 입증하지 않는다. Mk·노면별 속도·장갑 실측 자료 미확인."
+    ],
+    "rights": "National Army Museum Copyright. 사진 재수록 없이 링크만 사용.",
+    "independence_group": "sale-nam-sharpshooters"
+  },
+  {
+    "id": "CAT-GB-SRC-0023",
+    "title": "Major Toby Thwaites (in raincoat) on his scout car at Weert",
+    "institution_or_author": "Wilfred H. J. Sale / National Army Museum",
+    "publication_date": "1944",
+    "source_type": "primary: 전시 사진 및 별도 보존기관 해설",
+    "document_or_accession_number": "NAM. 1975-03-63-20-73",
+    "locator": "사진 판면·Browning 및 Weert 문단",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1975-03-63-20-73",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "네덜란드 베이르트에서 브라우닝 기관총 장착 험버 차량 한 사례. 해설이 인용하는 연대일지는 9월 26일 일대 주둔을 기록."
+    ],
+    "limitations": [
+      "기관총은 소장 설명으로 식별. 구경, 사진 촬영일, 개조 명령과 적용 범위 미확인. 22번과 같은 촬영자·소장군."
+    ],
+    "rights": "National Army Museum Copyright. 사진 재수록 없이 링크만 사용.",
+    "independence_group": "sale-nam-sharpshooters"
+  },
+  {
+    "id": "CAT-GB-SRC-0024",
+    "title": "Universal Carrier",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary: 소장 차량과 제원 해설",
+    "document_or_accession_number": null,
+    "locator": "The Tank Museum’s Universal Carrier 및 Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/universal-carrier/?country=&era=&tname=&tpage=1",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "No. 1 Mk II의 .303 브렌 1정, 4명, 4 Tons, 30 mph, 12 mm 표기. Sentinel의 1940년 제작 표본."
+    ],
+    "limitations": [
+      "시험 노면, 적재 조건, Tons 단위계와 장갑 위치는 미기재. 100,000대 표기의 지역·형식·기간별 원장 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bovington-universal"
+  },
+  {
+    "id": "CAT-GB-SRC-0025",
+    "title": "Australian-built Universal Carriers of the Australian 2nd Armoured Division",
+    "institution_or_author": "Clifford Bottomley / Australian War Memorial",
+    "publication_date": "제2차 세계대전 중, 소장 설명에 일자 미표기",
+    "source_type": "primary: 전시 사진 음화",
+    "document_or_accession_number": "AWM 150211",
+    "locator": "사진 판면 및 Description",
+    "url": "https://www.awm.gov.au/collection/150211",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "호주 빅토리아주 퍽카퍼니얼에서 호주산 유니버설 캐리어를 철도에 싣는 장면."
+    ],
+    "limitations": [
+      "사진과 소장 설명을 대조. 생산 로트, Mk와 정확한 촬영일 미확인. 전투 장면은 아니다."
+    ],
+    "rights": "AWM 표기 Public Domain. 링크와 자체 설명만 사용.",
+    "independence_group": "awm-150211"
+  },
+  {
+    "id": "CAT-GB-SRC-0026",
+    "title": "Valentine: geen rozen, maar rupsbanden",
+    "institution_or_author": "Alfred Staarman / Nationaal Militair Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 전시 해설과 소장 자료 기술",
+    "document_or_accession_number": "114924 volgnr. 000·002",
+    "locator": "두 소장 사진 설명 및 마지막 단락",
+    "url": "https://www.nmm.nl/nl/stories/valentine-geen-rozen-maar-rupsbanden/",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "아처의 밸런타인 차체와 17파운더를 소장품 기술로 확인."
+    ],
+    "limitations": [
+      "인용된 소장 사진은 박물관 자료다. 개별 전시 투입 이력·시험 속도·장갑 두께는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nmm-archer-114924"
+  },
+  {
+    "id": "CAT-GB-SRC-0027",
+    "title": "Valentine — The Tank Museum’s S-P 17pdr, Archer",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary: 소장 차량 이력",
+    "document_or_accession_number": "S280017",
+    "locator": "The Tank Museum’s S-P 17pdr, Archer",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/valentine",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "S280017은 1945년 초~중반 인도됐고 박물관 집계 665대 중 421번째."
+    ],
+    "limitations": [
+      "이 차대의 전시 운용 이력은 미상. 캐나다 부대 도색은 재현. 페이지 하단 Tank facts는 아처 전용 제원표가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bovington-archer"
+  },
+  {
+    "id": "CAT-GB-SRC-0028",
+    "title": "Operating instructions and workshop manual: carrier universal Mark 1* (Canadian)",
+    "institution_or_author": "Nationaal Militair Museum",
+    "publication_date": "1942 교범",
+    "source_type": "secondary: 동시대 교범의 소장 목록",
+    "document_or_accession_number": "00262537",
+    "locator": "Boek, Vervaardiging, Onderwerp",
+    "url": "https://collectie.nmm.nl/nl/collectie/detail/871044/",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐나다 Universal Carrier Mk I*의 별도 교범 명칭·소장번호·제작연도."
+    ],
+    "limitations": [
+      "교범 판면이 제공되지 않아 목록만 확인. 영국 No. 1 Mk II와의 제원 대조는 미실시."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nmm-carrier-manual-00262537"
+  },
+  {
+    "id": "CAT-GB-SRC-0029",
+    "title": "Bren gun and Universal Carriers of the 39th Infantry Battalion on manoeuvres",
+    "institution_or_author": "Thomas Fisher / Australian War Memorial",
+    "publication_date": "1942-08",
+    "source_type": "primary: 전시 사진",
+    "document_or_accession_number": "AWM 026134",
+    "locator": "사진 판면 및 Description",
+    "url": "https://www.awm.gov.au/collection/026134",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 8월 뉴기니 호주 제39보병대대 훈련에서 복수 캐리어의 존재."
+    ],
+    "limitations": [
+      "소장 설명은 Bren Gun 및 Universal을 함께 지칭한다. 사진 속 개별 차량의 Mk·제조국이나 실전을 확정하지 않았다."
+    ],
+    "rights": "AWM 표기 Public Domain. 링크와 자체 설명만 사용.",
+    "independence_group": "awm-026134"
+  },
+  {
+    "id": "CAT-GB-SRC-0030",
+    "title": "Official History of the Canadian Army in the Second World War, Vol. I: Six Years of War",
+    "institution_or_author": "C. P. Stacey / 캐나다 국방부",
+    "publication_date": "1955",
+    "source_type": "secondary: 공식 전사",
+    "document_or_accession_number": "Vol. I, Appendix G",
+    "locator": "인쇄 545~546쪽 Anti-Tank Artillery, Carriers, Miscellaneous",
+    "url": "https://www.canada.ca/content/dam/themes/defence/caf/militaryhistory/dhh/official/book-1955-army-ww2-1-en.pdf",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐나다산 Universal의 표준 사용과 견인용 미국산 T16 구분, 험버의 정찰·연락, 17파운더 자주포 범주."
+    ],
+    "limitations": [
+      "자주 17파운더의 차대·부대·개별 투입 날짜는 해당 단락에 없다. 아처의 개별 전투 증거로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "stacey-canada-official-history"
   }
 ]
