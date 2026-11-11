@@ -1,11 +1,14 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1942-04-14
-FORWARD_INSPECTED_THROUGH: 1942-04-13
-CURRENT_FORWARD_BATCH: 1942-04-14..1942-04-16
+FORWARD_CURSOR: 1942-04-17
+FORWARD_INSPECTED_THROUGH: 1942-04-16
+CURRENT_FORWARD_BATCH: 1942-04-17..1942-04-19
 TOTAL_EVT_SRC_RQ: 3613/2044/1227
 AS_OF: 2026-11-12
 
-## 최신 전진 실행 — 2026-11-12 (4월 11~13일)
+## 최신 전진 실행 — 2026-11-12 (4월 14~16일)
+- Heritage Malta·The Gazette·Times of Malta 자료 4건 대조. 4/15 몰타 조지 십자훈장 국왕 서한과 실물 배송·9월 수여식 구별; 4/14·16 원전 미확보. [감사](source-audit-1942-apr14-16-batch1.md). 신규 0/0/0, 누적 3613/2044/1227. RQ-0003/RQ-0007 backfill. 다음 1942-04-17.
+
+## 이전 전진 실행 — 2026-11-12 (4월 11~13일)
 - NHCP 역사표지·미 공군 해설·미 육군 공식 연표·일본 외무성 회고 4건 대조. Bagac 포로행군 4/11, 세부·버마 4/12, Ghormley 지휘관 지정·버마 4/13 확인. 1942 당대 작전일지 미열람; [감사](source-audit-1942-apr11-13-batch1.md). 신규 0/0/0, 누적 3613/2044/1227. RQ-0003/RQ-0007 backfill. 다음 1942-04-14.
 
 ## 이전 전진 실행 — 2026-11-12 (4월 8~10일)
