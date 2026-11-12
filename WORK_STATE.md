@@ -1,11 +1,14 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1942-04-17
-FORWARD_INSPECTED_THROUGH: 1942-04-16
-CURRENT_FORWARD_BATCH: 1942-04-17..1942-04-19
+FORWARD_CURSOR: 1942-04-20
+FORWARD_INSPECTED_THROUGH: 1942-04-19
+CURRENT_FORWARD_BATCH: 1942-04-20..1942-04-22
 TOTAL_EVT_SRC_RQ: 3613/2044/1227
 AS_OF: 2026-11-12
 
-## 최신 전진 실행 — 2026-11-12 (4월 14~16일)
+## 최신 전진 실행 — 2026-11-12 (4월 17~19일)
+- 미 해군 4/17 급유사진 메타데이터, 4/18 둘리틀 공습 NHHC·미 육군 교차, 당대 둘리틀 보고서 전사 확인. 4/19 예낭야웅 원전 미확보. [감사](source-audit-1942-apr17-19-batch1.md). 신규 0/0/0, 누적 3613/2044/1227. RQ-0003/RQ-0007 backfill. 다음 1942-04-20.
+
+## 이전 전진 실행 — 2026-11-12 (4월 14~16일)
 - Heritage Malta·The Gazette·Times of Malta 자료 4건 대조. 4/15 몰타 조지 십자훈장 국왕 서한과 실물 배송·9월 수여식 구별; 4/14·16 원전 미확보. [감사](source-audit-1942-apr14-16-batch1.md). 신규 0/0/0, 누적 3613/2044/1227. RQ-0003/RQ-0007 backfill. 다음 1942-04-17.
 
 ## 이전 전진 실행 — 2026-11-12 (4월 11~13일)
