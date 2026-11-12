@@ -46,18 +46,20 @@
     "publication_date": null,
     "source_type": "secondary",
     "document_or_accession_number": null,
-    "locator": "Lightfoot 및 Supercharge",
+    "locator": "도입부, The armies, Lightfoot 및 Supercharge",
     "url": "https://www.nam.ac.uk/explore/battle-alamein",
     "accessed_at": "2026-11-10T17:18:19+09:00",
     "access_status": "source_checked",
     "claims_checked": [
-      "지뢰밭 통로 개척과 제8군 공격, 재집결 후의 돌파 및 추격."
+      "지뢰밭 통로 개척과 제8군 공격, 재집결 후의 돌파 및 추격.",
+      "제8군의 1942년 8월 지휘 교체와 다국적 편성, 10월 23일~11월 4일 제2차 전투의 시점과 추격 평가."
     ],
     "limitations": [
       "박물관 개관이다. 추격 지연의 설명은 여러 가능한 해석 중 하나다."
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
-    "independence_group": "nam-el-alamein"
+    "independence_group": "nam-el-alamein",
+    "last_rechecked_at": "2026-11-12T18:55:40+09:00"
   },
   {
     "id": "CAT-GB-SRC-0004",
@@ -653,18 +655,20 @@
     "publication_date": "1940-11-13 함장 보고, 1941-01-16 제출, 1947-07-24 관보 보충판 표지일",
     "source_type": "primary: 동시대 지휘관 보고의 전후 관보 공개본",
     "document_or_accession_number": "The London Gazette 38023",
-    "locator": "3471~3473쪽, 함장 보고 §§4·9–10",
+    "locator": "3471~3473, 3477쪽, 커닝햄 §§4·10·13, 보이드 §§1·4·8–10, 리스터 부기",
     "url": "https://www.ibiblio.org/hyperwar/UN/UK/LondonGazette/38023.pdf",
     "accessed_at": "2026-11-12T10:56:25+09:00",
     "access_status": "source_checked",
     "claims_checked": [
-      "Eagle에서 이관된 Swordfish 5대, 첫 편대 이함 때 함속 28노트, 두 편대 12대와 9대의 실제 이함."
+      "Eagle에서 이관된 Swordfish 5대, 첫 편대 이함 때 함속 28노트, 두 편대 12대와 9대의 실제 이함.",
+      "커닝햄의 총사령관 직위·항모와 호위함 분견·해군본부 제출, 리스터의 계획 지시와 상신, 보이드의 항모 실행 보고."
     ],
     "limitations": [
       "함재기 정원·최고속도 자료가 아니다. GOV.UK의 후대 집계는 독립 관측으로 세지 않았다. 관보 미러의 OCR은 단 배열이 섞여 절 번호와 본문을 함께 읽었다."
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
-    "independence_group": "admiralty-taranto-command-reports"
+    "independence_group": "admiralty-taranto-command-reports",
+    "last_rechecked_at": "2026-11-12T18:55:40+09:00"
   },
   {
     "id": "CAT-GB-SRC-0034",
@@ -1325,5 +1329,165 @@
     ],
     "rights": "National Army Museum 권리 표기. 자체 요약과 링크만 사용.",
     "independence_group": "nam-mulberry-1985-11-36"
+  },
+  {
+    "id": "CAT-GB-SRC-0067",
+    "title": "The African Campaign from El Alamein to Tunis, from 10th August, 1942 to 13th May, 1943",
+    "institution_or_author": "Harold Alexander / The London Gazette",
+    "publication_date": "1947-05-23 제출, 1948-02-05 보충판 표지일",
+    "source_type": "primary: 당시 지휘관의 전후 공식 보고",
+    "document_or_accession_number": "The London Gazette 38196",
+    "locator": "839~840, 853, 857~858쪽, Part I: Situation in August 1942 및 The Battle of El Alamein",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/LondonGazette/38196.pdf",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "알렉산더의 중동군 인수와 몽고메리의 제8군 지휘, 전투 개시·종료, 군단에 내린 명령과 추격 보급 문제를 확인했다."
+    ],
+    "limitations": [
+      "전후에 정리한 상급 지휘관의 영국 측 기록. 적군 피해 추정은 이번 원고에 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-war-office-alexander-despatch"
+  },
+  {
+    "id": "CAT-GB-SRC-0068",
+    "title": "Bernard Law Montgomery: Unbeatable and unbearable",
+    "institution_or_author": "National Army Museum",
+    "publication_date": null,
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "도입부, Early career, North Africa, Viscount of Alamein",
+    "url": "https://www.nam.ac.uk/explore/bernard-montgomery",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "런던 출생, 생몰연도, 영국 육군 복무와 제8군 지휘를 확인했다."
+    ],
+    "limitations": [
+      "박물관의 인물 개관이다. 지휘 능력과 동료 관계 평가는 전재하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-montgomery"
+  },
+  {
+    "id": "CAT-GB-SRC-0069",
+    "title": "Photograph of Admiral Andrew Cunningham of the Royal Navy with Message and Original Signature, ca 1940s-1950s",
+    "institution_or_author": "Wilkes University Institutional Repository",
+    "publication_date": null,
+    "source_type": "secondary: 사진 소장품의 후대 인물 설명",
+    "document_or_accession_number": "디지털 목록 53327 / Admiral Harold R. Stark collection",
+    "locator": "Dublin Core, Description의 전기 두 문단",
+    "url": "https://omeka.wilkes.edu/omeka/document/53327",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "라스마인스 출생, 생몰연도, 영국 왕립해군과 지중해 함대 소속을 확인했다."
+    ],
+    "limitations": [
+      "인물 정보는 목록의 설명에서 확인했다. 사진 또는 서명으로 출생이나 타란토 당시 행위를 입증할 수 없다."
+    ],
+    "rights": "공개 목록의 자체 요약과 링크만 사용. 소장 사진은 복제하지 않았다.",
+    "independence_group": "wilkes-stark-collection-cunningham"
+  },
+  {
+    "id": "CAT-GB-SRC-0070",
+    "title": "La torpediniera Nicola Fabrizi in Adriatico e la scorta dei convogli per la Grecia",
+    "institution_or_author": "Cristiano Peluso / Ufficio Storico della Marina Militare",
+    "publication_date": "2012-06",
+    "source_type": "secondary: 이탈리아 해군 역사실 학술지 논문",
+    "document_or_accession_number": "Bollettino d’Archivio, 2012년 6월호",
+    "locator": "49~50쪽, La notte di Taranto",
+    "url": "https://www.marina.difesa.it/media-cultura/editoria/bollettino/Documents/2012/giugno/4_Peluso_La_tp_Fabrizi_pg_39_70.pdf",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공습과 호송·오트란토 해협 임무가 동시에 진행됐으며 타란토 공습을 일러스트리어스 함재기가 수행했음을 대조했다."
+    ],
+    "limitations": [
+      "이탈리아 측 역사 연구이며 영국 전력 세부에 관한 인용의 독립성은 단정하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "italian-naval-history-peluso"
+  },
+  {
+    "id": "CAT-GB-SRC-0071",
+    "title": "Air Ministry — Victoria Cross award for Flight Lieutenant James Brindley Nicolson",
+    "institution_or_author": "Air Ministry / The London Gazette",
+    "publication_date": "1940-11-15",
+    "source_type": "primary: 전시 공식 수훈 공고",
+    "document_or_accession_number": "The London Gazette 34993",
+    "locator": "6569쪽, Air Ministry, Royal Air Force",
+    "url": "https://www.thegazette.co.uk/London/issue/34993/page/6569/data.pdf",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "군번 39329, RAF 제249비행대, 1940-08-16 사우샘프턴 부근 교전과 피격·부상 뒤 격추를 서술한 수훈 사유를 확인했다."
+    ],
+    "limitations": [
+      "영국 측 수훈 공고로 상대 기종·개별 기체·손실 원장을 확인할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-air-ministry-nicolson-vc"
+  },
+  {
+    "id": "CAT-GB-SRC-0072",
+    "title": "For Valour: Flight Lieutenant James Brindley Nicolson",
+    "institution_or_author": "Norman Brice / Royal Air Force Museum",
+    "publication_date": "2024-08-15",
+    "source_type": "secondary: 박물관 전기 및 관보 인용",
+    "document_or_accession_number": "전기 본문에는 별도 번호 없음. 사진 P018589, 훈장 83/D/1062는 관련 소장품.",
+    "locator": "Who, 249 Squadron, Citation, After Nicolson 및 Credits",
+    "url": "https://www.rafmuseum.org.uk/blog/for-valour-flight-lieutenant-james-nicolson/",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰일, 제249비행대 비행편대장, 허리케인 P3576, 버마 제27비행대 지휘 서술을 확인했다."
+    ],
+    "limitations": [
+      "수훈 문구는 CAT-GB-SRC-0071을 그대로 인용한다. 다른 복무 정보는 전기 자료의 요약이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "raf-museum-brice-nicolson"
+  },
+  {
+    "id": "CAT-GB-SRC-0073",
+    "title": "Royal Air Force combat reports 1939–1945",
+    "institution_or_author": "The National Archives (UK)",
+    "publication_date": null,
+    "source_type": "secondary: 보존기관 열람 안내",
+    "document_or_accession_number": "AIR 50 시리즈 안내",
+    "locator": "What are these records? 및 What information do the records contain?",
+    "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports-1939-1945/",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "AIR 50이 작전 비행 중 적과 접촉한 조종사·공중사수의 전투보고를 보관하는 시리즈임을 확인했다."
+    ],
+    "limitations": [
+      "안내 페이지다. 특정 보고서의 소장 및 내용은 여기서 검증하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "tna-air50-guide"
+  },
+  {
+    "id": "CAT-GB-SRC-0074",
+    "title": "Nicolson, James Brindley Eric (Wing Commander)",
+    "institution_or_author": "CASPIR / Canadian Warplane Heritage Museum",
+    "publication_date": null,
+    "source_type": "secondary: 항공 인물 데이터베이스",
+    "document_or_accession_number": "CASPIR 인물 페이지 600031071",
+    "locator": "Birth Date, Born, Service, Service Numbers",
+    "url": "https://caspir.warplane.com/personnel/unit-search/p/600031071",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "햄프스테드 출생 및 생몰일, 군번 39329, RAF 소속이 적혀 있음을 확인했다."
+    ],
+    "limitations": [
+      "출생증명서 원본을 대조하지 않았다. 1940년 교전의 독립 전과 확증으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "caspir-nicolson"
   }
 ]

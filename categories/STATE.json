@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 45,
-  "CAT_VISITED_COUNT": 44,
-  "CAT_LAST_JOB_ID": "CAT-GB-06",
+  "CAT_NEXT_STEP": 46,
+  "CAT_VISITED_COUNT": 45,
+  "CAT_LAST_JOB_ID": "CAT-GB-07",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-12T17:04:21+09:00",
-  "note": "영국 06 기타 장비 부분 조사 저장. 첫 방문 44/133, 다음 CAT-GB-07."
+  "updated_at": "2026-11-12T18:55:40+09:00",
+  "note": "영국 07 전투 참여 인물 부분 조사 저장. 첫 방문 45/133, 다음 CAT-GB-08."
 }

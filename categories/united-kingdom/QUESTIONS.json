@@ -369,5 +369,59 @@
     ],
     "evidence": "candidate: 지상 조기경보·암호 분석·항만 보급 각 한 사례를 조사했다. 봄브와 기타 장비는 이번 첫 조사에서 별도 제원 검토를 하지 않았다.",
     "completion_condition": "장비별 시험·운용·보급 원장을 찾아 발주, 배치, 개별 운용과 효과를 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0028",
+    "status": "open",
+    "question": "엘알라메인 이후 추격에서 몽고메리의 명령·시점과 보급 제약은 어떤 영향을 주었는가?",
+    "related_ids": [
+      "CAT-GB-PER-0001",
+      "CAT-GB-SRC-0003",
+      "CAT-GB-SRC-0067",
+      "CAT-GB-SRC-0068"
+    ],
+    "evidence": "candidate: 박물관과 알렉산더의 보고는 추격 지연을 설명하는 강조점이 다르다. 인과 비중은 미확인이다.",
+    "completion_condition": "제8군과 제10·제30군단의 일지·보급 기록 및 독일·이탈리아 측 철수 명령을 같은 날짜와 부대에 맞춰 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0029",
+    "status": "open",
+    "question": "타란토 공습의 제안·승인과 실행 지시는 각 지휘 층위에 어떻게 배분되었는가?",
+    "related_ids": [
+      "CAT-GB-PER-0002",
+      "CAT-GB-SRC-0033",
+      "CAT-GB-SRC-0070"
+    ],
+    "evidence": "candidate: 보이드 보고에 리스터의 계획 지시 번호가 실리고 커닝햄의 분견과 상신이 확인된다.",
+    "completion_condition": "00478/97 및 00478/106 원본, 함대 신호 일지와 이탈리아 해군 수리·복귀 원장을 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0030",
+    "status": "open",
+    "question": "니컬슨의 1940년 8월 16일 개인 전과는 비행대 일지와 상대편 기록으로 어디까지 확인되는가?",
+    "related_ids": [
+      "CAT-GB-PER-0003",
+      "CAT-GB-SRC-0071",
+      "CAT-GB-SRC-0072",
+      "CAT-GB-SRC-0073"
+    ],
+    "evidence": "inaccessible: Discovery에서 AIR 50/96/97 및 AIR 27/1498 후보 검색이 접근 불가로 반환됐다. 관보 수훈 공고에는 상대 기종과 소속이 없다.",
+    "completion_condition": "개인 전투보고와 제249비행대 당일 Form 540·541 원본에서 기록 위치를 확인하고 독일 측 해당 지역 손실·귀환 자료와 교차 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0031",
+    "status": "open",
+    "question": "다른 전구와 계층의 영국군 전투 참여 인물 및 이들의 법적 국적·복무 이력은 어떻게 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-GB-PER-0001",
+      "CAT-GB-PER-0002",
+      "CAT-GB-PER-0003",
+      "CAT-GB-SRC-0067",
+      "CAT-GB-SRC-0033",
+      "CAT-GB-SRC-0071",
+      "CAT-GB-SRC-0074"
+    ],
+    "evidence": "candidate: 이번 방문은 육군 중장, 해군 제독, 공군 전투 조종사 한 사례씩이며 복무국과 출생지만 확인했다.",
+    "completion_condition": "함장·잠수함 및 호송 지휘관·폭격 승무원·육군 하급 인물의 부대 기록과 복무 자료를 확보한다. 본토·도미니언·식민지 출생과 복무국·법적 국적을 자료별로 대조한다."
   }
 ]

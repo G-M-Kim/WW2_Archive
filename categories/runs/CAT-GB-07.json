@@ -1,0 +1,69 @@
+{
+  "step": 45,
+  "job_id": "CAT-GB-07",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 7,
+  "category": "유명한 전투 참여 인물",
+  "article_path": "categories/united-kingdom/07-combat-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-12T18:55:40+09:00",
+  "started_at": "2026-11-12T18:50:09+09:00",
+  "base_head": "69d50e6f50e170c2c7461de9d8671afbba52405a",
+  "source_ids": [
+    "CAT-GB-SRC-0003",
+    "CAT-GB-SRC-0033",
+    "CAT-GB-SRC-0067",
+    "CAT-GB-SRC-0068",
+    "CAT-GB-SRC-0069",
+    "CAT-GB-SRC-0070",
+    "CAT-GB-SRC-0071",
+    "CAT-GB-SRC-0072",
+    "CAT-GB-SRC-0073",
+    "CAT-GB-SRC-0074"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0028",
+    "CAT-GB-RQ-0029",
+    "CAT-GB-RQ-0030",
+    "CAT-GB-RQ-0031"
+  ],
+  "entity_ids": [
+    "CAT-GB-PER-0001",
+    "CAT-GB-PER-0002",
+    "CAT-GB-PER-0003"
+  ],
+  "research_scope": "제2차 엘알라메인의 몽고메리, 타란토의 커닝햄, 영국 본토 방공의 니컬슨 사례에서 당대 지위와 역할을 확인했다.",
+  "limitations": [
+    "엘알라메인 추격 지연의 책임과 보급 제약의 상대적 비중은 부대 원장과 대조하지 못했다.",
+    "타란토의 개별 계획 지시 원본 및 이탈리아 함정별 수리·복귀 원장을 확인하지 못했다.",
+    "니컬슨의 격추는 수훈 관보의 서술이다. 개인 전투보고·비행대 일지와 상대편 손실 기록은 미확보다.",
+    "대표 세 사례의 첫 방문이다. 개인의 법적 국적 원장과 다른 전구·직책 인물은 후속 범위다."
+  ],
+  "evidence_checked": [
+    "Alexander 관보 38196호 840·853·857~858쪽과 영국 국립육군박물관 전투 해설",
+    "Cunningham·Boyd·Lyster 관보 38023호 3471~3473·3477쪽과 이탈리아 해군 역사실 논문 49~50쪽",
+    "Nicolson 수훈 관보 34993호 6569쪽, RAF 박물관 전기와 CASPIR 인물 목록"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://discovery.nationalarchives.gov.uk/results/r?_q=AIR%2050%2F96%2F97",
+      "result": "웹 열람에서 접근 불가를 반환했다. 개인 보고서 후보 번호와 원본 내용은 미검증이다."
+    },
+    {
+      "url": "https://discovery.nationalarchives.gov.uk/results/r?_q=AIR%2027%2F1498",
+      "result": "웹 열람에서 접근 불가를 반환했다. 제249비행대 일지 원본은 미확보다."
+    },
+    {
+      "url": "https://www.marina.difesa.it/cosa-facciamo/storia/la-nostra-storia/storianavale/Pagine/secondaguerramondiale.aspx",
+      "result": "웹 열람에서 TimeoutError가 반환됐다. 별도 이탈리아 해군 역사실 논문 49~50쪽을 열람했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=45 pending=88; sources=511 questions=186. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}
