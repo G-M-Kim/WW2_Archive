@@ -476,5 +476,60 @@
     ],
     "evidence": "candidate: 본토 연립·노동 동원·연합국 회담의 대표 사례만 조사했다. 식민지 정책과 개인별 책임은 미검증이다.",
     "completion_condition": "외무·식민·인도·민방위 및 선전 담당자의 임명 문서와 안건별 회의록·명령·집행 기록을 확보하고 각 정부의 관할과 인물의 관여를 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0036",
+    "status": "open",
+    "question": "1941년 공동 서한 이후 제8실 인력과 교대 운영이 실제로 얼마나 바뀌었는가?",
+    "related_ids": [
+      "CAT-GB-PER-0007",
+      "CAT-GB-SRC-0086",
+      "CAT-GB-SRC-0095"
+    ],
+    "evidence": "candidate: 10월 21일 서한 전사본에서 인력 부족과 증원 요청을 확인했다. 영국 국립기록원 원문 페이지는 403을 반환했다.",
+    "completion_condition": "HW 1/155의 후속 메모와 인사 명부·교대 기록을 대조하고 요청·배정·실근무 및 처리량을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0037",
+    "status": "open",
+    "question": "클라크의 제8실 부책임자 임명 월과 실제 분장 범위는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-PER-0008",
+      "CAT-GB-SRC-0088",
+      "CAT-GB-SRC-0089",
+      "CAT-GB-SRC-0090"
+    ],
+    "evidence": "disputed: English Heritage는 1944년 9월, MacTutor는 1944년 초로 기록한다. 두 해설의 임명 원문은 미확보다.",
+    "completion_condition": "1944년 인사 명령 또는 날짜가 있는 제8실 조직·교대 기록을 찾아 대행과 정식 임명 여부를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0038",
+    "status": "open",
+    "question": "왓슨와트·윌킨스 등의 시험·개발 분장과 왓슨와트의 미국 파견 임무는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-PER-0009",
+      "CAT-GB-SRC-0059",
+      "CAT-GB-SRC-0091",
+      "CAT-GB-SRC-0092",
+      "CAT-GB-SRC-0093",
+      "CAT-GB-SRC-0094"
+    ],
+    "evidence": "candidate: 기관 역사와 소장품 목록은 시연과 개발의 관계를 보여 준다. 당대 메모와 미국 파견 기록은 미확보다.",
+    "completion_condition": "항공부 메모·시험일지, 바우드지 인사 명령 및 미국 상대 기관의 보고를 확인해 설계·시험·운용·파견을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0039",
+    "status": "open",
+    "question": "다른 연구자와 운용 인력의 기여 및 직급·고용 조건은 어떻게 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-GB-PER-0007",
+      "CAT-GB-PER-0008",
+      "CAT-GB-PER-0009",
+      "CAT-GB-SRC-0086",
+      "CAT-GB-SRC-0088",
+      "CAT-GB-SRC-0095"
+    ],
+    "evidence": "candidate: 암호 분석·항공기 조기경보 사례에 한정했다. 작전연구·의학 및 다른 기술자·운용자의 기여는 미확인이다.",
+    "completion_condition": "전시 연구 보고와 인사·급여·업무 분장 원장을 분야별로 대조하고 공동 연구의 역할과 고용 조건을 기록한다."
   }
 ]

@@ -1709,5 +1709,205 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "hansard-bevin-person-index"
+  },
+  {
+    "id": "CAT-GB-SRC-0086",
+    "title": "Letter to Winston Churchill (1941)",
+    "institution_or_author": "Alan Turing, Gordon Welchman, Hugh Alexander, Stuart Milner-Barry / B. Jack Copeland 편",
+    "publication_date": "1941-10-21 작성, 2004 편찬",
+    "source_type": "primary: 당대 공동 서한의 출판 전사본",
+    "document_or_accession_number": "The National Archives HW 1/155 / The Essential Turing ch. 7",
+    "locator": "336~337쪽 편집자 서문과 소장번호, 338~340쪽 편지 본문 §§1~3 및 서명",
+    "url": "https://webhomes.maths.ed.ac.uk/~v1ranick/turingletter.pdf",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "네 서명자, 트래비스의 장비 조달 기여, 해군·육군·공군 암호 업무의 인력 부족과 증원 요청."
+    ],
+    "limitations": [
+      "공동 요청서가 설명한 병목이다. 실제 증원 규모나 업무 처리 개선은 인사 기록과 대조해야 한다."
+    ],
+    "rights": "편찬본은 편지·총리 메모에 Crown copyright 및 허가 재현을 표시한다. 자체 요약과 링크만 사용.",
+    "independence_group": "gc-cs-letter-hw-1-155"
+  },
+  {
+    "id": "CAT-GB-SRC-0087",
+    "title": "Alan Turing",
+    "institution_or_author": "Government Communications Headquarters (GCHQ)",
+    "publication_date": "2019-07-11",
+    "source_type": "secondary: 후신 기관의 인물 소개",
+    "document_or_accession_number": null,
+    "locator": "도입부, Bletchley Park, After the War의 생몰 정보",
+    "url": "https://www.gchq.gov.uk/information/alan-turing",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "출생지·생몰연도, 1939년 9월 GC&CS 합류, 제8실 해군 암호 업무 및 폴란드 연구와 영국 봄브의 관련성."
+    ],
+    "limitations": [
+      "기관 전기다. 개별 설계 도면과 팀별 공헌의 원기록은 별도 확인이 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "gchq-turing-profile"
+  },
+  {
+    "id": "CAT-GB-SRC-0088",
+    "title": "Joan Clarke",
+    "institution_or_author": "Government Communications Headquarters (GCHQ)",
+    "publication_date": "2019-07-15",
+    "source_type": "secondary: 후신 기관의 인물 소개",
+    "document_or_accession_number": null,
+    "locator": "PDF 1쪽 첫 문단 및 발행일",
+    "url": "https://www.gchq.gov.uk/sites/default/files/pdfs/publication/joan-clarke.pdf",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "웰치먼의 영입, 제8실 배치와 반버리즘을 적용한 분석 업무."
+    ],
+    "limitations": [
+      "수치화한 작업 절감이나 직책 임명일은 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "gchq-clarke-profile"
+  },
+  {
+    "id": "CAT-GB-SRC-0089",
+    "title": "CLARKE, Joan (1917–1996)",
+    "institution_or_author": "English Heritage",
+    "publication_date": null,
+    "source_type": "secondary: 블루 플라크 인물 해설",
+    "document_or_accession_number": "West Dulwich, 193 Rosendale Road, 2024년 설치",
+    "locator": "Early life, Bletchley code-breaking, D-Day and SOE, Later life",
+    "url": "https://www.english-heritage.org.uk/visit/blue-plaques/joan-clarke/",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "덜위치 출생, 생몰연도, 1940년 제8실 배치, 선임 업무 및 1944년 9월 부책임자라는 서술."
+    ],
+    "limitations": [
+      "임명 원문이 연결되지 않으며 MacTutor의 1944년 초와 상충한다."
+    ],
+    "rights": "English Heritage와 개별 사진 권리자 표기. 사진 없이 자체 요약과 링크만 사용.",
+    "independence_group": "english-heritage-clarke"
+  },
+  {
+    "id": "CAT-GB-SRC-0090",
+    "title": "Joan Elisabeth Lowther Clarke Murray",
+    "institution_or_author": "Lynsey Ann Lord / University of St Andrews, MacTutor",
+    "publication_date": "2008-07 최종 갱신",
+    "source_type": "secondary: 수학사 인물 전기",
+    "document_or_accession_number": null,
+    "locator": "Biography, Deputy Head in early 1944 문단 및 References",
+    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clarke_Joan/",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제8실 부책임자 시점을 1944년 초로 서술함을 확인."
+    ],
+    "limitations": [
+      "인용·참고문헌이 있는 후대 전기다. 해당 날짜의 인사 원문은 열람하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "mactutor-clarke"
+  },
+  {
+    "id": "CAT-GB-SRC-0091",
+    "title": "Radar apparatus used by R.Watson Watt in 1935",
+    "institution_or_author": "Science Museum Group",
+    "publication_date": "1935-02 사용, 웹 목록 발행일 미표기",
+    "source_type": "primary: 소장 실물 / secondary: 실험 날짜와 참여자에 관한 목록 해설",
+    "document_or_accession_number": "1957-90, 수신기 1957-90/1",
+    "locator": "Parts, 수신기 1957-90/1의 More와 Object Number",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co35028/radar-apparatus-used-by-rwatson-watt-in-1935",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장 수신기의 식별과 해설이 제시하는 1935-02-26 시연 및 왓슨와트의 관측 참여."
+    ],
+    "limitations": [
+      "물건은 당대 자료이며 시연 서술은 후대 목록이다. 현장 시험일지는 별도 미확보다."
+    ],
+    "rights": "소장품 이미지에 Science Museum Group 권리 표기. 사진 없이 자체 요약과 링크만 사용.",
+    "independence_group": "smg-receiver-1957-90"
+  },
+  {
+    "id": "CAT-GB-SRC-0092",
+    "title": "Radio Research at Ditton Park — IV Radiolocation",
+    "institution_or_author": "G. Gardiner / Radio Research Organization",
+    "publication_date": "1962-04-15",
+    "source_type": "secondary: 연구기관의 후대 역사 기사",
+    "document_or_accession_number": "Radio Research Organization Newsletter No. 12",
+    "locator": "IV Radiolocation, 1935년 2월 메모와 대번트리 시연 단락",
+    "url": "https://www.dittonpark-archive.rl.ac.uk/histarticles.html",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "윌킨스·왓슨와트의 공동 검토, 왓슨와트 메모 초안, 윌킨스의 시연 수행 및 다이어의 지원."
+    ],
+    "limitations": [
+      "1962년 기관 회고이며 당대 메모와 실험 일지의 원본은 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ditton-park-gardiner-1962"
+  },
+  {
+    "id": "CAT-GB-SRC-0093",
+    "title": "Sir Robert Watson-Watt",
+    "institution_or_author": "National Physical Laboratory (NPL)",
+    "publication_date": null,
+    "source_type": "secondary: 기관의 연구사·인물 소개",
+    "document_or_accession_number": null,
+    "locator": "Wimperis 접근, 1935년 시연과 1936년 바우드지 연구소 문단",
+    "url": "https://www.npl.co.uk/about-us/history/famous/sir-robert-watson-watt",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "NPL 무선 연구 책임자, 윌킨스와 메모 준비, 1935-02-26 시연 및 1936년 항공부 바우드지 연구소 책임자."
+    ],
+    "limitations": [
+      "기관 개관이다. 시험의 원측정값이나 부서 인사 발령 원문은 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "npl-watson-watt-profile"
+  },
+  {
+    "id": "CAT-GB-SRC-0094",
+    "title": "Sir Robert Alexander Watson-Watt, FRS (1892–1973)",
+    "institution_or_author": "UK Solar System Data Centre (UKSSDC)",
+    "publication_date": null,
+    "source_type": "secondary: 기관 인물 소개",
+    "document_or_accession_number": null,
+    "locator": "인물 소개 첫 두 문단",
+    "url": "https://www.ukssdc.ac.uk/ionosondes/history/watsonwatt.html",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "브리킨 출생, 생몰연도, 1940년 항공부 과학고문과 1941년 미국 레이더 업무 서술."
+    ],
+    "limitations": [
+      "미국 근무의 파견 명령·상대 기관 문서는 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ukssdc-watson-watt-profile"
+  },
+  {
+    "id": "CAT-GB-SRC-0095",
+    "title": "How I learned to stop worrying and love the Bombe: Machine Research and Development and Bletchley Park",
+    "institution_or_author": "Christopher Smith / History of Science, Coventry University 저자 수락본 공개",
+    "publication_date": "2014",
+    "source_type": "secondary: 학술 논문 저자 수락본",
+    "document_or_accession_number": "DOI 10.1177/0073275314529861 / 52(2), 200~222쪽",
+    "locator": "수락본 제목 Mechanising the Information War, Abstract 및 각주 42~46 주변",
+    "url": "https://pure.coventry.ac.uk/ws/portalfiles/portal/13619403/mechanising_the_information_war_4_2_.pdf",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "GC&CS의 설계·개발과 BTM 제작 계약, 제작 자원 배분과 병목을 확인했다."
+    ],
+    "limitations": [
+      "편찬본 원문과 다른 형식의 수락본을 열람했다. 인용한 발주 문서 원본은 미대조."
+    ],
+    "rights": "저자 또는 권리자 권리 보유. 자체 요약과 링크만 사용.",
+    "independence_group": "smith-bombe-history-2014"
   }
 ]

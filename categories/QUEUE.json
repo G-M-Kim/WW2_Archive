@@ -650,8 +650,9 @@
     "category": "유명한 학자·연구자",
     "article_path": "categories/united-kingdom/09-scientific-personnel.md",
     "planned_at": "2026-11-12T17:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-GB-09.json",
+    "completed_at": "2026-11-12T22:54:21+09:00"
   },
   {
     "step": 48,
