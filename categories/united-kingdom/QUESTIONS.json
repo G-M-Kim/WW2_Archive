@@ -147,5 +147,61 @@
     ],
     "evidence": "candidate: 세 분류만 확인. 포탑형 장갑차, 반궤도, 전용 장갑수송차, 대공·공병·구난과 추가 자주포는 미검사.",
     "completion_condition": "제식 목록과 제작·개조·운용 자료를 확보하고 영국 생산, 도미니언 생산, 미국 도입과 운용국을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0012",
+    "status": "open",
+    "question": "Prince of Wales의 인수 시운전과 피격 전후 성능·무장 상태는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0007",
+      "CAT-GB-SRC-0008",
+      "CAT-GB-SRC-0031",
+      "CAT-GB-SRC-0032"
+    ],
+    "evidence": "candidate: Force Z 주포와 피격 후 8노트는 1955년 개정판에서 확인. 설계·인수·정상 운용 수치와 초기 판본의 피해 판정은 미대조.",
+    "completion_condition": "함별 인수시험표, 당시 무장대장과 생존자 보고 원본을 확보해 적재·기관 상태 및 개정 전후 차이를 기록한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0013",
+    "status": "open",
+    "question": "Illustrious의 배수량 조건, 함포 구성과 함재기 수용 규모는 개장별로 어떻게 달라졌는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0008",
+      "CAT-GB-SRC-0007",
+      "CAT-GB-SRC-0033",
+      "CAT-GB-SRC-0034",
+      "CAT-GB-SRC-0035"
+    ],
+    "evidence": "candidate: 타란토 이함 21대와 그때의 함속은 확인. 미국 기관지의 23,000 tons는 단위·조건이 불명확하며 함포·수용 정원·최고속도는 미확인.",
+    "completion_condition": "해군 인수시험표, 장착 상태 도면과 항공대 편제표를 확보해 적재 기준과 전시 개장별 실장 수량을 비교한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0014",
+    "status": "open",
+    "question": "Belfast의 취역·수리·전시 개장별 포탑과 레이더, 시운전 제원은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0009",
+      "CAT-GB-SRC-0036",
+      "CAT-GB-SRC-0037",
+      "CAT-GB-SRC-0038",
+      "CAT-GB-SRC-0039"
+    ],
+    "evidence": "candidate: B 포탑 도면 기술 및 노르카프 탐지 사례를 확인. 전시 장착 총수, 레이더 형식 및 최고속도 시험은 미확인.",
+    "completion_condition": "전시 장비표와 도면 원판, 시운전표 및 함 일지를 대조해 장착일과 시험 조건을 분리한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0015",
+    "status": "open",
+    "question": "다른 수상 전투함과 잠수함·호위함·상륙함·보조함의 전시 편제와 제원은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0007",
+      "CAT-GB-EQP-0008",
+      "CAT-GB-EQP-0009",
+      "CAT-GB-SRC-0008",
+      "CAT-GB-SRC-0035",
+      "CAT-GB-SRC-0036"
+    ],
+    "evidence": "candidate: 세 대표 함정만 첫 조사했다. 다른 주력함과 구축함, 잠수함, 호위함, 상륙함 및 보조함은 미검사.",
+    "completion_condition": "전시 함정 목록, 함별 인수·개장·작전 기록을 확보해 영국과 도미니언의 건조·이관·운용을 구분한다."
   }
 ]

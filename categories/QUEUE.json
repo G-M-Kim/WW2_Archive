@@ -566,8 +566,9 @@
     "category": "함선 및 함정, 무장, 성능",
     "article_path": "categories/united-kingdom/03-naval-vessels.md",
     "planned_at": "2026-11-12T05:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-GB-03.json",
+    "completed_at": "2026-11-12T10:56:25+09:00"
   },
   {
     "step": 42,

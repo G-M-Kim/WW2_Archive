@@ -128,13 +128,15 @@
     "document_or_accession_number": null,
     "locator": "Operation JUDGEMENT와 HMS Illustrious 공습 단락",
     "url": "https://www.gov.uk/government/news/navy-commemorates-70th-anniversary-of-battle-of-taranto",
-    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
     "access_status": "source_checked",
     "claims_checked": [
-      "야간 함재기 공격과 이탈리아 주력함의 손상."
+      "야간 함재기 공격과 이탈리아 주력함의 손상.",
+      "타란토 작전에서 Illustrious를 이함한 Swordfish 21대."
     ],
     "limitations": [
-      "기념 해설이다. ‘전략적 결정’이라는 평가는 그대로 채택하지 않았다."
+      "기념 해설이다. ‘전략적 결정’이라는 평가는 그대로 채택하지 않았다.",
+      "당시 함장 보고와 일치하는 후대 집계이며 별도 관측 기록으로 세지 않았다."
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "uk-mod-taranto"
@@ -143,18 +145,19 @@
     "id": "CAT-GB-SRC-0008",
     "title": "Loss of H.M. Ships Prince of Wales and Repulse",
     "institution_or_author": "British Admiralty",
-    "publication_date": "1943년 초판, 1948년 개정",
-    "source_type": "primary",
-    "document_or_accession_number": "Battle Summary No. 14",
-    "locator": "§12 침몰과 부록 H 제453비행대 보고",
+    "publication_date": "1955-03-16 개정본. 1943년 초판과 1948년 개정판은 서문에 기록.",
+    "source_type": "secondary: 전후 해군성 편찬본, 동시대 보고를 부록에 수록",
+    "document_or_accession_number": "B.R. 1736 (8)/1955, Battle Summary No. 14 (revised)",
+    "locator": "발행 지시문 ii쪽, 서문 vi쪽, §12 12~18쪽, 부록 A 21쪽, 부록 H 제453비행대 보고 39쪽",
     "url": "https://ibiblio.org/hyperwar/UN/UK/RN/BS-14_POW%2BRepulse/index.html",
-    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
     "access_status": "source_checked",
     "claims_checked": [
-      "1941년 12월 Force Z의 작전과 항공 공격, 전투기의 엄호 공백."
+      "1941년 12월 Force Z의 작전과 항공 공격, 전투기의 엄호 공백.",
+      "부록 A의 14인치 주포 10문과 §12의 피격 뒤 함속 8노트."
     ],
     "limitations": [
-      "1943년 전투 요약의 1948년 개정본이다. 개정에는 일부 일본군 진술이 반영됐으나 일본 측 정찰·타격 기록의 추가 대조가 필요하다."
+      "열람한 링크는 1948년 판을 대체한 1955년 판이다. 일본군 진술·전후 자료를 반영했으며 일본 측 원자료 추가 대조가 필요하다."
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "admiralty-battle-summary-14"
@@ -598,5 +601,185 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "stacey-canada-official-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0031",
+    "title": "Battleships 1936 Programme Sheer Drawing",
+    "institution_or_author": "HM Admiralty / Director of Naval Construction / Stanley Vernon Goodall, Royal Museums Greenwich 소장",
+    "publication_date": "1936",
+    "source_type": "secondary: 동시대 1차 도면 소장 기술",
+    "document_or_accession_number": "NPB5300",
+    "locator": "도면 표제, 함정 목록, Object details",
+    "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-59257",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Prince of Wales를 포함한 킹 조지 5세급의 공통 선형도임을 확인."
+    ],
+    "limitations": [
+      "함급 설계 도면. 개별 선박의 실제 무장이나 인수시험 제원은 이 기술로 확인할 수 없다."
+    ],
+    "rights": "Crown copyright, National Maritime Museum 표기. 도면 미전재.",
+    "independence_group": "admiralty-dnc-npb5300"
+  },
+  {
+    "id": "CAT-GB-SRC-0032",
+    "title": "East Coast of Malaya. 1941-12-10. The new RN battleship HMS Prince of Wales and the battle ...",
+    "institution_or_author": "촬영자 미확인 / Australian War Memorial",
+    "publication_date": "1941-12-10 (소장 설명)",
+    "source_type": "primary: 전시 사진 복제 네거티브",
+    "document_or_accession_number": "P02018.056 / C305991",
+    "locator": "사진 판면, Accession Number, Description",
+    "url": "https://www.awm.gov.au/collection/C305991",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "피격 뒤 크게 기운 선체의 모습과 소장관의 날짜·함명 식별."
+    ],
+    "limitations": [
+      "사진 판면은 해군성 서술과 별개의 시각 자료다. 판면만으로 함명·피해 원인·침몰 시각·속도·인명 손실을 확정하지 않았다."
+    ],
+    "rights": "AWM 표기 Public Domain. 자체 설명과 링크만 사용.",
+    "independence_group": "awm-p02018-056"
+  },
+  {
+    "id": "CAT-GB-SRC-0033",
+    "title": "Fleet Air Arm Operations Against Taranto on 11th November, 1940",
+    "institution_or_author": "Andrew B. Cunningham 및 HMS Illustrious 함장 / The London Gazette",
+    "publication_date": "1940-11-13 함장 보고, 1941-01-16 제출, 1947-07-24 관보 보충판 표지일",
+    "source_type": "primary: 동시대 지휘관 보고의 전후 관보 공개본",
+    "document_or_accession_number": "The London Gazette 38023",
+    "locator": "3471~3473쪽, 함장 보고 §§4·9–10",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/LondonGazette/38023.pdf",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Eagle에서 이관된 Swordfish 5대, 첫 편대 이함 때 함속 28노트, 두 편대 12대와 9대의 실제 이함."
+    ],
+    "limitations": [
+      "함재기 정원·최고속도 자료가 아니다. GOV.UK의 후대 집계는 독립 관측으로 세지 않았다. 관보 미러의 OCR은 단 배열이 섞여 절 번호와 본문을 함께 읽었다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "admiralty-taranto-command-reports"
+  },
+  {
+    "id": "CAT-GB-SRC-0034",
+    "title": "Illustrious (1939) — rig, starboard profile as fitted",
+    "institution_or_author": "Vickers-Armstrong Limited / Royal Museums Greenwich 소장",
+    "publication_date": "1940-07-30",
+    "source_type": "secondary: 동시대 1차 도면 소장 기술",
+    "document_or_accession_number": "NPN4629",
+    "locator": "도면 표제와 Object details",
+    "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-597204",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 장착 상태의 우현 배치도라는 범위와 작성일."
+    ],
+    "limitations": [
+      "기관이 제공하는 소장 기술을 확인했다. 함포 형식·수량과 적재량을 판독하지 않았다."
+    ],
+    "rights": "Crown copyright, National Maritime Museum 표기. 도면 미전재.",
+    "independence_group": "vickers-illustrious-npn4629"
+  },
+  {
+    "id": "CAT-GB-SRC-0035",
+    "title": "Evolution of Aircraft Carriers: The Wartime European Carriers",
+    "institution_or_author": "Scot MacDonald / Naval Aviation News, U.S. Naval History and Heritage Command 제공",
+    "publication_date": "1963-05",
+    "source_type": "secondary: 미국 해군 기관지 전후 연구",
+    "document_or_accession_number": "Naval Aviation News, May 1963",
+    "locator": "61쪽, 1940년 도입된 Illustrious와 Formidable 단락",
+    "url": "https://www.history.navy.mil/content/dam/nhhc/research/histories/naval-aviation/evolution-of-aircraft-carriers/car-12.pdf",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Illustrious와 Formidable 각각의 배수량으로 23,000 tons를 기재."
+    ],
+    "limitations": [
+      "해당 단락에 배수량 조건과 ton의 종류가 없다. 원자료 및 함별 독립 확인은 남아 있다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "macdonald-naval-aviation-news-1963"
+  },
+  {
+    "id": "CAT-GB-SRC-0036",
+    "title": "Sinking of the German Battle Cruiser Scharnhorst on the 26th December, 1943",
+    "institution_or_author": "Bruce A. Fraser / The London Gazette",
+    "publication_date": "1944-01 보고, 1947-08-07 관보 보충판 표지일",
+    "source_type": "primary: 동시대 지휘관 보고의 전후 관보 공개본",
+    "document_or_accession_number": "The London Gazette 38038",
+    "locator": "3703~3705쪽, §§22–27 및 표제",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/LondonGazette/38038.pdf",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "JW55B 엄호 상황, Belfast가 레이더로 35,000야드에서 접촉했다는 보고와 최초 교전 조명탄 사격."
+    ],
+    "limitations": [
+      "당시 관측에 한정. 기종·시험 최대거리와 최초 교전의 명중을 이 대목에서 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "admiralty-north-cape-fraser-dispatch"
+  },
+  {
+    "id": "CAT-GB-SRC-0037",
+    "title": "6-inch Triple Mounting Marck XXIII plan relating HMS Belfast (C35) (1938)",
+    "institution_or_author": "Vickers-Armstrongs Ltd / National Maritime Museum",
+    "publication_date": "1939-07 도면",
+    "source_type": "secondary: 동시대 1차 도면의 박물관 기술",
+    "document_or_accession_number": "J8754 (이미지 참조 번호)",
+    "locator": "B 포탑 설명 및 Image reference",
+    "url": "https://prints.rmg.co.uk/products/6-inch-triple-mounting-marck-xxiii-plan-relating-hms-belfast-c35-1938-j8754",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Belfast의 B 포탑을 6인치 3연장으로 식별하는 소장 기술."
+    ],
+    "limitations": [
+      "B 포탑 한 곳의 도면 설명이다. 다른 포탑 수와 개장 뒤 구성은 입증하지 않는다."
+    ],
+    "rights": "National Maritime Museum 권리 표기. 도면 미전재.",
+    "independence_group": "vickers-belfast-j8754"
+  },
+  {
+    "id": "CAT-GB-SRC-0038",
+    "title": "HMS Belfast",
+    "institution_or_author": "National Historic Ships UK",
+    "publication_date": null,
+    "source_type": "secondary: 국가 역사선박 등록부",
+    "document_or_accession_number": "Registration 123",
+    "locator": "History 및 Key dates",
+    "url": "https://www.nationalhistoricships.org.uk/register/123/hms-belfast",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-08-05 취역, 1939-11 기뢰 피해, 1942-11 재취역, 북극 호송과 노르카프 해전."
+    ],
+    "limitations": [
+      "전후 이력도 포함한 등록부. 노르카프 서술의 자료 계보는 명시되지 않아 전투 보고와 독립 관측으로 세지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "national-historic-ships-belfast-123"
+  },
+  {
+    "id": "CAT-GB-SRC-0039",
+    "title": "HMS Belfast (1938) Rig & W/T Rig as Fitted",
+    "institution_or_author": "HM Dockyard, Devonport / Royal Museums Greenwich 소장",
+    "publication_date": "1942-11-16",
+    "source_type": "secondary: 동시대 1차 도면 소장 기술",
+    "document_or_accession_number": "NPA6728",
+    "locator": "도면 설명 및 Object details",
+    "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-50686",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 기뢰 피해 수리 뒤 실제 배치에 관한 도면이라는 범위와 작성일."
+    ],
+    "limitations": [
+      "소장 기술만 확인했다. 전시의 모든 개장과 레이더 형식·성능을 이 도면 기술에서 판정하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "devonport-belfast-npa6728"
   }
 ]
