@@ -1,11 +1,14 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1942-05-08
-FORWARD_INSPECTED_THROUGH: 1942-05-07
-CURRENT_FORWARD_BATCH: 1942-05-08..1942-05-10
+FORWARD_CURSOR: 1942-05-11
+FORWARD_INSPECTED_THROUGH: 1942-05-10
+CURRENT_FORWARD_BATCH: 1942-05-11..1942-05-13
 TOTAL_EVT_SRC_RQ: 3613/2044/1227
 AS_OF: 2026-11-12
 
-## 최신 전진 실행 — 2026-11-12 (5월 5~7일)
+## 최신 전진 실행 — 2026-11-12 (5월 8~10일)
+- ONI 1943 전투서술·NHHC 5/8 당대 사진 메타데이터·AWM 공식 전사 대조. Shokaku 피격, Lexington 피격/함내 폭발/퇴함/자침 구분. 5/9~10 독립 원전 및 다른 전역 backfill. [감사](source-audit-1942-may08-10-batch1.md). 신규 0/0/0, 누적 3613/2044/1227. 다음 1942-05-11.
+
+## 이전 전진 실행 — 2026-11-12 (5월 5~7일)
 - ONI 1943 준당대 전투서술과 NHHC·AWM·RAN 공식 해설 대조. 5/5 전역 기간 표기, 5/6 급유, 5/7 Shoho·Sims·Neosho 사건의 공격/침몰 날짜 분리. 다른 전역·민간인·일본측 원전 backfill. [감사](source-audit-1942-may05-07-batch1.md). 신규 0/0/0, 누적 3613/2044/1227. 다음 1942-05-08.
 
 ## 이전 전진 실행 — 2026-11-12 (5월 2~4일)
