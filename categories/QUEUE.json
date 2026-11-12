@@ -594,8 +594,9 @@
     "category": "보병 무기 및 장비",
     "article_path": "categories/united-kingdom/05-infantry-equipment.md",
     "planned_at": "2026-11-12T09:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-GB-05.json",
+    "completed_at": "2026-11-12T14:56:29+09:00"
   },
   {
     "step": 44,

@@ -589,15 +589,17 @@
     "publication_date": "1955",
     "source_type": "secondary: 공식 전사",
     "document_or_accession_number": "Vol. I, Appendix G",
-    "locator": "인쇄 545~546쪽 Anti-Tank Artillery, Carriers, Miscellaneous",
+    "locator": "인쇄 545~546쪽 Anti-Tank Artillery, Carriers, Miscellaneous; 인쇄 25~26쪽 Canadian Militia, John Inglis 계약 및 26쪽 각주",
     "url": "https://www.canada.ca/content/dam/themes/defence/caf/militaryhistory/dhh/official/book-1955-army-ww2-1-en.pdf",
-    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
     "access_status": "source_checked",
     "claims_checked": [
-      "캐나다산 Universal의 표준 사용과 견인용 미국산 T16 구분, 험버의 정찰·연락, 17파운더 자주포 범주."
+      "캐나다산 Universal의 표준 사용과 견인용 미국산 T16 구분, 험버의 정찰·연락, 17파운더 자주포 범주.",
+      "토론토 잉글리스의 브렌 생산 개시 1940년 3월과 캐나다 전시 생산 186,802정 표기."
     ],
     "limitations": [
-      "자주 17파운더의 차대·부대·개별 투입 날짜는 해당 단락에 없다. 아처의 개별 전투 증거로 사용하지 않았다."
+      "자주 17파운더의 차대·부대·개별 투입 날짜는 해당 단락에 없다. 아처의 개별 전투 증거로 사용하지 않았다.",
+      "26쪽 각주는 186,802정을 .303인치형만의 집계로 추정한다. 다른 구경·국가의 생산은 별도 범위다."
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "stacey-canada-official-history"
@@ -941,5 +943,225 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "army-flying-pearson-tonga"
+  },
+  {
+    "id": "CAT-GB-SRC-0048",
+    "title": "Lee Enfield No. 4 Mk I bolt action .303 inch rifle, 1942",
+    "institution_or_author": "National Army Museum",
+    "publication_date": "1942 표본",
+    "source_type": "secondary: 전시 실물의 소장 기술",
+    "document_or_accession_number": "1961-07-189-8-1",
+    "locator": "표제·소장 설명",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1961-07-189-8-1",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "No. 4 Mk I .303인치의 1942년 소장품 식별 및 양산을 위한 단순화 설명."
+    ],
+    "limitations": [
+      "개별 소장품이다. 부대별 보급 시점과 전시 사용 이력은 미확인."
+    ],
+    "rights": "National Army Museum Copyright 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-no4-1961-07-189"
+  },
+  {
+    "id": "CAT-GB-SRC-0049",
+    "title": "Lee-Enfield No 4 Mk I Rifle",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "1941 표식 및 소장 연대",
+    "source_type": "primary: 전시 실물의 공개 사진 및 소장 기술",
+    "document_or_accession_number": "REL/16298",
+    "locator": "Date made, Description, History / Summary",
+    "url": "https://www.awm.gov.au/collection/C244160",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "R.O.F.M. No4. Mk1.1941 표식과 영국 말트비 초기 생산품이라는 소장관 식별."
+    ],
+    "limitations": [
+      "현재 부품 조합은 개별 표본의 상태다. 교체 시기나 다른 생산품의 구성까지 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "awm-maltby-rel16298"
+  },
+  {
+    "id": "CAT-GB-SRC-0050",
+    "title": "Lee-Enfield No 4 Mk I* Rifle",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "1943 표식, 1960년대 개조",
+    "source_type": "primary: 실물의 공개 사진 및 소장 기술",
+    "document_or_accession_number": "REL/20343",
+    "locator": "Description, History / Summary",
+    "url": "https://www.awm.gov.au/collection/C259129",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐나다 Long Branch 1943 표식과 호주에서 이뤄진 전후 7.62 mm 시험 개조 이력."
+    ],
+    "limitations": [
+      "전시 원형과 현존 상태를 구분했다. 실제 전시 배속 부대는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "awm-long-branch-rel20343"
+  },
+  {
+    "id": "CAT-GB-SRC-0051",
+    "title": "Bren .303 inch Mk I light machine gun, 1942",
+    "institution_or_author": "National Army Museum",
+    "publication_date": "1942 표본",
+    "source_type": "secondary: 전시 실물의 소장 기술",
+    "document_or_accession_number": "1993-07-242-1",
+    "locator": "표제·소장 설명",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1993-07-242-1",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      ".303인치 Mk I 표본, 체코슬로바키아 ZB 계열과의 관계 및 1937년 엔필드 생산 개시."
+    ],
+    "limitations": [
+      "원 시험·인수 표나 공장별 생산 장부는 제공하지 않는다."
+    ],
+    "rights": "National Army Museum Copyright 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-bren-1993-07-242"
+  },
+  {
+    "id": "CAT-GB-SRC-0052",
+    "title": "A Bren gunner in the Burmese jungle, 1944",
+    "institution_or_author": "D. L. Quaid / National Army Museum",
+    "publication_date": "1944-10-18 (소장 설명)",
+    "source_type": "primary: 전시 사진, 소장 설명과 연대박물관 공개 판면 대조",
+    "document_or_accession_number": "1984-03-96-11",
+    "locator": "촬영자·날짜·부대 소장 설명, 판면은 SRC-0058 참조",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1984-03-96-11",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북부 버마 핀타에서 왕립 웰치 퓨질리어 제2대대의 브렌 휴대 사례."
+    ],
+    "limitations": [
+      "사진의 위치·날짜와 부대는 소장 설명에 따른다. Mk·일련번호·공장을 확정할 수 없다."
+    ],
+    "rights": "National Army Museum Copyright 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "quaid-pintha-photo"
+  },
+  {
+    "id": "CAT-GB-SRC-0053",
+    "title": "British steel helmet, universal pattern, Mark 3, 1943",
+    "institution_or_author": "National Army Museum",
+    "publication_date": "1943 표본",
+    "source_type": "secondary: 전시 실물의 소장 기술",
+    "document_or_accession_number": "1983-06-78-1",
+    "locator": "표제·소장 설명",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1983-06-78-1",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Mk III 철모 생산 개시 1943년 11월 및 노르망디 상륙 부대 지급 설명."
+    ],
+    "limitations": [
+      "생산 개시일은 박물관 기술이다. 공장별 생산량 및 부대별 수령일은 미확인."
+    ],
+    "rights": "National Army Museum Copyright 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-steel-helmet-1983-06-78"
+  },
+  {
+    "id": "CAT-GB-SRC-0054",
+    "title": "Combat helmet, Mark 3, Lieutenant K Baxter, Middlesex Regiment, 1944",
+    "institution_or_author": "National Army Museum",
+    "publication_date": "1944 사용 이력",
+    "source_type": "secondary: 전시 실물의 소장 기술",
+    "document_or_accession_number": "2003-09-71-1",
+    "locator": "표제·백스터의 부대 및 소장 설명",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=2003-09-71-1",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미들섹스 연대 제2대대 케네스 백스터와 관련된 Mk III 철모."
+    ],
+    "limitations": [
+      "개인 사용 이력을 담은 소장 설명이다. 전군 지급을 뜻하지 않는다."
+    ],
+    "rights": "National Army Museum Copyright 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-baxter-helmet"
+  },
+  {
+    "id": "CAT-GB-SRC-0055",
+    "title": "Military helmets - an introduction",
+    "institution_or_author": "Amanda Rebbeck / Australian War Memorial",
+    "publication_date": "2015-07-27",
+    "source_type": "secondary: 박물관 비교 해설",
+    "document_or_accession_number": null,
+    "locator": "Mark III Helmet",
+    "url": "https://www.awm.gov.au/articles/blog/introduction-military-helmets",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Mk III의 머리 측면 보호 설계 목적과 종전까지 Mk II·III 병용 설명."
+    ],
+    "limitations": [
+      "보호 시험표를 인용하지 않는다. 해당 단락 하단의 사진 캡션은 Mk II라 Mk III 판면으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "awm-rebbeck-helmets"
+  },
+  {
+    "id": "CAT-GB-SRC-0056",
+    "title": "1937 pattern waist belt",
+    "institution_or_author": "National Army Museum",
+    "publication_date": null,
+    "source_type": "secondary: 실물의 소장 기술",
+    "document_or_accession_number": "1998-02-259-1",
+    "locator": "표제·소장 설명",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1998-02-259-1",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "교체 가능한 구성의 휴대 군장과 제3육군 코만도 스탠 스콧 관련 허리띠."
+    ],
+    "limitations": [
+      "관련 인물의 전시 복무와 허리띠의 개별 제작일·사용일은 구분했다."
+    ],
+    "rights": "National Army Museum Copyright 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-scott-webbing"
+  },
+  {
+    "id": "CAT-GB-SRC-0057",
+    "title": "Pattern 1937 Pack : Private J M Bruce, 2/16 Battalion, AIF",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "1940년대경 (소장 기술)",
+    "source_type": "primary: 전시 관련 실물의 공개 사진 및 소장 기술",
+    "document_or_accession_number": "REL30983",
+    "locator": "판면, Description, History / Summary",
+    "url": "https://www.awm.gov.au/collection/C1005479",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "호주제 1937년형 면직 배낭과 제2/16대대 제임스 브루스 지급 기록."
+    ],
+    "limitations": [
+      "정확한 제작일과 지급일, 특정 임무의 군장 조합은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "awm-bruce-rel30983"
+  },
+  {
+    "id": "CAT-GB-SRC-0058",
+    "title": "Royal Welch Fusiliers — Second World War",
+    "institution_or_author": "Royal Welch Fusiliers Museum",
+    "publication_date": null,
+    "source_type": "primary: 전시 사진 재수록 및 박물관 해설",
+    "document_or_accession_number": null,
+    "locator": "Pintha 사진군의 Members of the 2nd Battalion 및 A Bren gunner in the Burmese jungle",
+    "url": "https://www.rwfmuseum.org.uk/downloads/240322-royal-welch-fusiliers-ww2-eng.pdf",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "핀타에서 No. 1 소총을 든 병사 사진의 표기 및 SRC-0052와 동일한 브렌 사진의 판면."
+    ],
+    "limitations": [
+      "브렌 사진은 SRC-0052와 같은 원본으로 독립 관측이 아니다. No. 1 사진은 별도 장면이며 Mk까지 특정하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "quaid-pintha-photo"
   }
 ]

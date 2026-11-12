@@ -256,5 +256,64 @@
     ],
     "evidence": "candidate: 전투기·중폭격기·글라이더 각 한 계열을 검토했다. 다른 전투·공격·폭격·함재·정찰·동력 수송·훈련·연락·수상 항공기 등은 미검사.",
     "completion_condition": "형식별 시험표·생산대장·부대 작전일지를 찾아 영국산, 도미니언 면허생산, 외국 도입 및 실제 운용 부대를 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0020",
+    "status": "open",
+    "question": "No. 1과 No. 4의 전구별 보급 전환 및 초기 말트비 표본의 부품 이력은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0013",
+      "CAT-GB-SRC-0048",
+      "CAT-GB-SRC-0049",
+      "CAT-GB-SRC-0050",
+      "CAT-GB-SRC-0058"
+    ],
+    "evidence": "candidate: 영국·캐나다 생산 실물, 전후 호주 개조 및 1944년 No. 1 운용 사진 해설은 확인. 부대별 교체와 부품 교체일 미확인.",
+    "completion_condition": "전시 인수대장과 부대별 무기 불출표를 소장품 이력과 비교한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0021",
+    "status": "open",
+    "question": "브렌의 공장·구경·형식별 생산량 및 영국군 납품 범위는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0014",
+      "CAT-GB-SRC-0030",
+      "CAT-GB-SRC-0051",
+      "CAT-GB-SRC-0052",
+      "CAT-GB-SRC-0058"
+    ],
+    "evidence": "candidate: 캐나다 전사의 186,802정은 .303인치형만의 수치로 추정되며, 영국 본토 총수와 합산할 수 없다. 핀타 표본의 Mk 미확인.",
+    "completion_condition": "엔필드·잉글리스의 원생산표에서 구경·인수·수출·마감 시점을 구분하고 핀타 부대의 불출표를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0022",
+    "status": "open",
+    "question": "Mk II·III 철모의 병용 및 1937년형 군장의 실제 전구별 구성은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0015",
+      "CAT-GB-EQP-0016",
+      "CAT-GB-SRC-0053",
+      "CAT-GB-SRC-0054",
+      "CAT-GB-SRC-0055",
+      "CAT-GB-SRC-0056",
+      "CAT-GB-SRC-0057"
+    ],
+    "evidence": "candidate: 영국과 호주의 소장품 및 사용 관련 이력은 확인. 보호 성능 원시험과 부대별 지급·전구별 군장 구성 미확인.",
+    "completion_condition": "전시 피복·군장 불출표, 현장 사진과 철모 시험표를 날짜와 부대별로 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0023",
+    "status": "open",
+    "question": "다른 개인화기·박격포·대전차화기·수류탄과 무전·의무·방독 장비는 어떻게 보급됐는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0013",
+      "CAT-GB-EQP-0014",
+      "CAT-GB-EQP-0015",
+      "CAT-GB-EQP-0016",
+      "CAT-GB-SRC-0052",
+      "CAT-GB-SRC-0055"
+    ],
+    "evidence": "candidate: 개인화기·지원화기·보호구·군장 네 사례를 확인했다. 다른 분류는 미검사.",
+    "completion_condition": "당대 장비 목록, 생산·불출 자료와 시점·전구가 식별된 실물 또는 사진을 확보한다."
   }
 ]
