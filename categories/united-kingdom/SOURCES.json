@@ -2149,5 +2149,245 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "uk-hansard-1945-05-08"
+  },
+  {
+    "id": "CAT-GB-SRC-0108",
+    "title": "Additional Number of Royal Air Force",
+    "institution_or_author": "UK House of Commons, Hansard / Sir Kingsley Wood",
+    "publication_date": "1938-07-20",
+    "source_type": "primary: 당대 의회 의사록 전사",
+    "document_or_accession_number": "HC Deb vol 338 cc2351–2388",
+    "locator": "Vote 4, Kingsley Wood의 캐슬브로미치·크루 공장 승인 발언",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1938/jul/20/additional-number-of-royal-air-force",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "너필드의 캐슬브로미치 신공장과 롤스로이스 엔진을 만들 크루 분산 공장 건설 승인 발표."
+    ],
+    "limitations": [
+      "착공·가동·납품 실적 또는 공장별 최종 비용을 증명하지 않는다."
+    ],
+    "rights": "UK Parliament 의사록, 자체 요약 및 링크.",
+    "independence_group": "uk-hansard-1938-07-20"
+  },
+  {
+    "id": "CAT-GB-SRC-0109",
+    "title": "Records of the British Aviation Industry in the RAF Museum: A Brief Guide",
+    "institution_or_author": "Royal Air Force Museum",
+    "publication_date": null,
+    "source_type": "secondary: 소장 원기록 안내 및 기업사",
+    "document_or_accession_number": "AC 70/4, L35, B258–264 및 B266",
+    "locator": "3쪽 The British Aircraft Industry, 14–15쪽 Supermarine 및 Vickers Ltd",
+    "url": "https://www.rafmuseum.org.uk/documents/Research/Company-Papers/Guide-to-Aircraft-Industry-Records.pdf",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "국가 소유·민간 운영 분산 공장 제도의 개요, 1938년 10월 슈퍼마린의 비커스-암스트롱스 편입, 월별 생산표 소장처."
+    ],
+    "limitations": [
+      "소장 안내의 해설을 열람했다. L35 생산표 본문과 소유권·운영 계약 원본은 미열람이다."
+    ],
+    "rights": "RAF Museum 공개 PDF. 자체 요약과 링크만 사용.",
+    "independence_group": "rafm-aircraft-record-guide"
+  },
+  {
+    "id": "CAT-GB-SRC-0110",
+    "title": "Individual History: Supermarine Spitfire Mk.VB BL614/4354M",
+    "institution_or_author": "Royal Air Force Museum",
+    "publication_date": null,
+    "source_type": "secondary: 현존 기체의 개체 이력 및 당대 기록 요약",
+    "document_or_accession_number": "82/A/1716 / BL614 / B981687/39",
+    "locator": "Section 2B, 1쪽, 1940년 10월 24일 및 1941년 12월~1942년 2월 7일 항목",
+    "url": "https://www.rafmuseum.org.uk/documents/collections/82-A-1716-Spitfire-VB-BL614.pdf",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "계약번호·공장·첫 비행·RAF 정비부대 및 비행대 이동의 순서."
+    ],
+    "limitations": [
+      "기체 한 대의 이력이다. 서명된 계약과 이동 카드 원본은 미확보다."
+    ],
+    "rights": "RAF Museum 공개 PDF. 자체 요약과 링크만 사용.",
+    "independence_group": "rafm-bl614-individual-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0111",
+    "title": "Winston Churchill watches a female riveter at work on a Supermarine Spitfire at the Castle Bromwich factory in Birmingham, 28 September 1941",
+    "institution_or_author": "Captain Horton / Imperial War Museums",
+    "publication_date": "1941-09-28 촬영",
+    "source_type": "primary: 당대 현장 사진 디지털 미리보기",
+    "document_or_accession_number": "H 14259 / IWM object 205196617",
+    "locator": "IWM Prints의 사진·Description·Additional information",
+    "url": "https://www.iwmprints.org.uk/collections/photos/products/pod446234",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐슬브로미치 공장의 여성 리벳 작업 장면과 촬영일·장소·촬영자."
+    ],
+    "limitations": [
+      "방문 중 촬영한 한 장면이다. 근로자 성명·고용 형태·인원 구성은 확인되지 않는다."
+    ],
+    "rights": "© IWM. 미리보기 열람, 사진 미복제.",
+    "independence_group": "iwm-h14259"
+  },
+  {
+    "id": "CAT-GB-SRC-0112",
+    "title": "Factory, Castle Bromwich (Agreement)",
+    "institution_or_author": "UK House of Commons, Hansard / John Wilmot",
+    "publication_date": "1946-10-21",
+    "source_type": "primary: 전시 협정에 대한 전후 공급장관 답변",
+    "document_or_accession_number": "HC Deb vol 427 cc1297–1298",
+    "locator": "질문 38–39, Wilmot 답변",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1946/oct/21/factory-castle-bromwich-agreement",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 협정상 채용·조달·생산 조직을 기업이 책임지고 적정 발생 비용을 돌려받았다는 장관 설명."
+    ],
+    "limitations": [
+      "협정 원문, 운영 인계일과 회사별 실제 지급액은 이 답변에 없다."
+    ],
+    "rights": "UK Parliament 의사록, 자체 요약 및 링크.",
+    "independence_group": "uk-hansard-1946-10-21"
+  },
+  {
+    "id": "CAT-GB-SRC-0113",
+    "title": "Rolls-Royce 'Merlin III' Aero Engine",
+    "institution_or_author": "Rolls-Royce Limited / Science Museum Group",
+    "publication_date": "1939–1940 제작",
+    "source_type": "primary: 현존 엔진과 소장기록",
+    "document_or_accession_number": "1954-660 Pt10",
+    "locator": "Made, maker, Details, credit",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co30080/rolls-royce-merlin-iii-aero-engine",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "더비 제작 Merlin III와 제작 법인명, 항공부 역사부 인수 계통."
+    ],
+    "limitations": [
+      "현존 한 점이며 더비 전체 물량 또는 어느 기체에 장착됐는지 입증하지 않는다."
+    ],
+    "rights": "사진 © Science Museum 이사회. 목록 데이터 CC0, 설명 CC BY 4.0. 사진 미복제.",
+    "independence_group": "smg-merlin-iii"
+  },
+  {
+    "id": "CAT-GB-SRC-0114",
+    "title": "Merlin 45 Aeroplane Engine",
+    "institution_or_author": "Rolls-Royce Ltd / Science Museum Group",
+    "publication_date": "약 1941년 제작",
+    "source_type": "primary: 현존 엔진과 소장기록",
+    "document_or_accession_number": "Y1969.41",
+    "locator": "Made, 본문, Details·Object Number",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8404794/merlin-45-aeroplane-engine-aeroplane-engine",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "크루에서 제작한 Merlin 45 실물, 주 적용 기종 Spitfire V, 후대 교육용 절개와 모터 장착."
+    ],
+    "limitations": [
+      "이 엔진의 개별 탑재·납품 기록이나 크루 전체 생산량은 확인되지 않는다."
+    ],
+    "rights": "사진 CC BY-NC-SA 4.0, 목록 데이터 CC0, 설명 CC BY 4.0. 사진 미복제.",
+    "independence_group": "smg-merlin-45"
+  },
+  {
+    "id": "CAT-GB-SRC-0115",
+    "title": "Pyms Lane: The Story of the Pyms Lane Factory",
+    "institution_or_author": "Crewe Heritage Centre",
+    "publication_date": null,
+    "source_type": "secondary: 지역 산업 유산 해설",
+    "document_or_accession_number": null,
+    "locator": "The Story of the Pyms Lane Factory 첫 두 문단",
+    "url": "https://www.crewehc.co.uk/pyms-lane",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "더비 생산 분산 목적, 크루 Pyms Lane의 전시 항공엔진 생산과 고용에 대한 서술."
+    ],
+    "limitations": [
+      "원 생산원장과 고용 명부는 제시되지 않는다. 인원 산정 기준일과 집계 정의는 미확인이다."
+    ],
+    "rights": "공개 해설. 자체 요약과 링크만 사용.",
+    "independence_group": "crewe-heritage-centre"
+  },
+  {
+    "id": "CAT-GB-SRC-0116",
+    "title": "General Electric Company plc",
+    "institution_or_author": "Science Museum Group",
+    "publication_date": null,
+    "source_type": "secondary: 기업 권위기록 및 소장자료 안내",
+    "document_or_accession_number": "ap314 / GEC/3/1–11",
+    "locator": "법인 연혁, 제2차 세계대전 문단, Related Documents",
+    "url": "https://collection.sciencemuseumgroup.org.uk/people/ap314",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 법인명 계통, 웸블리 연구소와 코번트리 전화기 공장, 전시 통신·조명 활동."
+    ],
+    "limitations": [
+      "웹 표제에는 후대 명칭을 쓴다. 조명·통신의 공장별 생산과 구체적 납품은 미확인이다."
+    ],
+    "rights": "공개 목록. 자체 요약과 링크만 사용.",
+    "independence_group": "smg-gec-authority"
+  },
+  {
+    "id": "CAT-GB-SRC-0117",
+    "title": "GEC Wembley Laboratories and the Cavity Magnetron",
+    "institution_or_author": "Institution of Engineering and Technology Archives",
+    "publication_date": null,
+    "source_type": "secondary: 기술 기록관 해설",
+    "document_or_accession_number": null,
+    "locator": "버밍엄 실험 및 Megaw의 웸블리 연구팀, 마지막 시험 문단",
+    "url": "https://www.theiet.org/membership/library-and-archives/the-iet-archives/archives-highlights/gec-wembley-laboratories-and-the-cavity-magnetron",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "버밍엄대 원형과 GEC 웸블리의 실용형 개발 분담, 1940년 6월 29일 시제품 시험, 초기 연구소 제작."
+    ],
+    "limitations": [
+      "시험일지·계약 원문과 양산 공장별 실적은 미확보다."
+    ],
+    "rights": "공개 해설. 자체 요약과 링크만 사용.",
+    "independence_group": "iet-gec-wembley-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0118",
+    "title": "Original cavity magnetron",
+    "institution_or_author": "John Randall 및 Harry Boot / Science Museum Group",
+    "publication_date": "1940 제작",
+    "source_type": "primary: 실험 장치 실물과 소장기록",
+    "document_or_accession_number": "1946-107",
+    "locator": "Description, Details·Object Number, credit",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co34430/original-cavity-magnetron",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "버밍엄 연구팀의 실험 장치와 연구자 귀속."
+    ],
+    "limitations": [
+      "초기 실험 실물이며 GEC 초기 납품이나 공장 양산 실적의 근거로 사용하지 않았다."
+    ],
+    "rights": "사진 © Science Museum 이사회, 목록 데이터 CC0, 설명 CC BY 4.0. 사진 미복제.",
+    "independence_group": "smg-randall-boot-1946-107"
+  },
+  {
+    "id": "CAT-GB-SRC-0119",
+    "title": "Rolls Royce Factory, Crewe",
+    "institution_or_author": "National Transport Trust",
+    "publication_date": null,
+    "source_type": "secondary: 공장 유산 해설",
+    "document_or_accession_number": null,
+    "locator": "About Rolls Royce Factory, Crewe의 전시 문단",
+    "url": "https://www.nationaltransporttrust.org.uk/heritage-sites/heritage-detail/rolls-royce-factory-crewe",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 정점 고용 10,000명이라는 유산 기관 서술."
+    ],
+    "limitations": [
+      "크루 지역 해설과 공통 원자료 사용 여부 미확인. 급여대장이나 교대 명부에 의한 독립 확증은 아니다."
+    ],
+    "rights": "공개 해설. 자체 요약과 링크만 사용.",
+    "independence_group": "crewe-heritage-secondary"
   }
 ]

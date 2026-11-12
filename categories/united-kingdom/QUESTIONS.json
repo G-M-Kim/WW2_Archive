@@ -584,5 +584,63 @@
     ],
     "evidence": "candidate: 뉴스릴 목록의 조지 6세 방송 및 상원 도서관의 애틀리 항복 발표 기록은 확인했다. 해당 자료의 현장 영상·음원은 미조사.",
     "completion_condition": "기관별 영상·음성 소장번호와 편집 이력을 찾아 실제 현장 촬영, 음성만, 정지화면 편집, 재연을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0044",
+    "status": "open",
+    "question": "캐슬브로미치 공장의 운영 인계일과 계약별 실제 생산·납품은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-ORG-0001",
+      "CAT-GB-SRC-0108",
+      "CAT-GB-SRC-0109",
+      "CAT-GB-SRC-0110",
+      "CAT-GB-SRC-0111",
+      "CAT-GB-SRC-0112"
+    ],
+    "evidence": "candidate: 승인·관리 원칙과 BL614 제작은 확인했다. 협정 원문과 인계일 및 월별 실적은 미확보다.",
+    "completion_condition": "항공기생산부 협정·인계 문서와 RAF Museum L35 월별 생산표·검수 기록을 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0045",
+    "status": "open",
+    "question": "크루 공장의 생산·고용과 노동 조건은 어떻게 집계됐는가?",
+    "related_ids": [
+      "CAT-GB-ORG-0002",
+      "CAT-GB-SRC-0108",
+      "CAT-GB-SRC-0113",
+      "CAT-GB-SRC-0114",
+      "CAT-GB-SRC-0115",
+      "CAT-GB-SRC-0119"
+    ],
+    "evidence": "candidate: 크루 고용 10,000명은 후대 두 해설에서 확인했다. 공통 원전과 기준일·고용 범위는 미확인이다.",
+    "completion_condition": "엔진 제조·검수 원장과 공장 인원·급여·배치 기록으로 기간과 고용 조건을 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0046",
+    "status": "open",
+    "question": "GEC의 초기 제작·양산과 통신·조명기구 납품은 어떻게 나뉘었는가?",
+    "related_ids": [
+      "CAT-GB-ORG-0003",
+      "CAT-GB-SRC-0116",
+      "CAT-GB-SRC-0117",
+      "CAT-GB-SRC-0118"
+    ],
+    "evidence": "candidate: 웸블리 시험과 초기 연구소 제작은 해설에서 확인했다. 양산 사업자별 발주·검수와 통신·조명 납품은 미확보다.",
+    "completion_condition": "GEC/3/1·GEC/3/4의 주문·계약과 정부 수령 기록으로 품목·공장·업체별 역할을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0047",
+    "status": "open",
+    "question": "조선·화학·광학·수송 등 다른 업체와 노동·조달 관계는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-ORG-0001",
+      "CAT-GB-ORG-0002",
+      "CAT-GB-ORG-0003",
+      "CAT-GB-SRC-0109",
+      "CAT-GB-SRC-0111",
+      "CAT-GB-SRC-0116"
+    ],
+    "evidence": "candidate: 대표 기업 3곳을 조사했다. 세 기업의 강제노동·수탈 관련 직접 자료는 미확보다.",
+    "completion_condition": "업종별 납품 원장과 기업별 고용·하청·공급 기록을 확보해 동원, 고용 및 강제노동·수탈 관련 행위를 대조한다."
   }
 ]
