@@ -16,10 +16,10 @@
 ## 커밋 원자성
 
 1. 먼저 기존 사건/출처/백로그와 중복 여부 확인. 양측 원문·날짜·발표/실행·편제정원/실현원·가동/총 보유/손실 구분. 자료에 없는 숫자를 절대 추정하지 않는다.
-2. 루트 `chronology-*.md`, `chronology-sources-v1.md`, `research-backlog.md`와 동일 바이트의 `research/` 미러, `WORK_STATE.md`, 이 `PROGRESS_LEDGER.md`, 최신 사료감사 파일을 **가능하면 단일 커밋**으로 갱신한다. 신규 EVT/SRC/RQ 누적을 직접 계산한다.
-3. GitHub Git Data API로 저장할 때 현재 HEAD의 트리를 `base_tree`로 사용한다. 새 커밋과 부모의 전체 변경 목록을 대조하고, 작업에 포함하지 않은 경로가 삭제됐으면 ref를 갱신하지 않는다. 조사할 경로만 담은 빈 트리에서 커밋을 만들면 나머지 파일이 모두 삭제된다.
-4. 연표 날짜순 정렬 확인. `python validate_index.py` 및 원격 해당 HEAD Actions 확인. 단순 CI 통과는 사료 독립검증 완료가 아니다.
-5. Draft PR #1 업데이트, `main`, `docs/`, Pages 및 PR 병합 건드리지 말 것. GitHub 쓰기 실패나 다른 커밋 충돌 시 성공했다고 보고하지 않는다.
+2. 원장 각 행의 `감사 파일` 칸에는 실제로 존재하는 조사 문서의 저장소 루트 기준 상대 경로 하나만 적는다. 예시는 `source-audit-1942-apr23-25-batch1.md`다. `merge-readiness.md`를 함께 갱신했다는 내용은 필요하면 메모 칸에 기록한다.
+3. 사료감사, `WORK_STATE.md`, `PROGRESS_LEDGER.md`, `merge-readiness.md`와 변경된 정본·미러를 한 커밋에 담아 브랜치를 한 번 갱신한다. Git을 사용하면 전체 변경을 한꺼번에 stage해 커밋한다. GitHub Git Data API를 사용하면 현재 HEAD의 트리를 `base_tree`로 지정하고 전체 변경으로 트리와 커밋을 하나씩 만든 뒤, 기대한 HEAD에서만 fast-forward로 ref를 갱신한다. 파일별 커밋으로 분할하면 검증이 불완전한 상태를 검사한다.
+4. 게시 전에 변경 목록에 예상 밖 삭제가 없는지 확인하고, 전체 변경을 적용한 상태에서 `python validate_index.py`를 실행한다. 검증 오류는 수정 후 재검사한다. 게시 뒤 정확한 원격 커밋의 Actions 상태를 확인한다. 실행이 아직 조회되지 않으면 대기 중으로 보고한다. 단순 CI 통과는 사료 독립검증 완료를 뜻하지 않는다.
+5. Draft PR #1을 업데이트한다. 수정 범위는 조사 브랜치이며 `main`, `docs/`, Pages 및 PR 병합은 건드리지 않는다. 저장 실패나 HEAD 충돌이 나면 최신 원격 상태를 다시 읽고 검증된 단일 커밋으로 재시도한다.
 
 ## 사용자를 위한 보고
 
