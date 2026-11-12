@@ -2629,5 +2629,185 @@
     ],
     "rights": "Statistics Canada 공개 통계. 수치 발췌와 자체 요약.",
     "independence_group": "census-canada-1941"
+  },
+  {
+    "id": "CAT-GB-SRC-0132",
+    "title": "Introducing the NAS Map Collection",
+    "institution_or_author": "National Archives of Singapore / Survey Department 및 Survey Production Centre Southeast Asia",
+    "publication_date": null,
+    "source_type": "secondary: 전시 지도 두 점의 기록관 해설·캡션",
+    "document_or_accession_number": "SP001565_1 / TM000984",
+    "locator": "제2차 세계대전 지도 문단 및 1943년 Town Plan·1945년 연합군 지형도 캡션",
+    "url": "https://corporate.nas.gov.sg/discover-archives/media/nasmapcollection/",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 일본 점령기 지도 왼쪽 위 Syonan 표기와 하단 일본어 명기, 1945년 연합군 Singapore 지형도 소장번호."
+    ],
+    "limitations": [
+      "기록관의 본문·캡션은 확인했다. 연결된 지도 이미지 요청은 오류가 나 범례와 경계를 직접 판독하지 못했다."
+    ],
+    "rights": "싱가포르 국립기록관 제공 자료. 자체 요약·링크만 사용하고 이미지 미복제.",
+    "independence_group": "nas-wartime-map-catalogue"
+  },
+  {
+    "id": "CAT-GB-SRC-0133",
+    "title": "The Syonan Shimbun, 12 November 1943",
+    "institution_or_author": "The Syonan Shimbun / National Library Board, Singapore",
+    "publication_date": "1943-11-12",
+    "source_type": "primary: 당대 점령기 신문 디지털 전사의 표제 및 주소",
+    "document_or_accession_number": "No. 294 / syonantimes19431112-1",
+    "locator": "1쪽 Masthead, Cecil Street의 Syonan 주소 표기",
+    "url": "https://eresources.nlb.gov.sg/newspapers/digitised/issue/syonantimes19431112-1",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943-11-12 신문 표제 및 발행처 주소의 Syonan 표기."
+    ],
+    "limitations": [
+      "페이지의 텍스트 전사를 열람했다. 주소 OCR의 번지 일부가 불명료해 인용하지 않았다. 신문 표기는 명명 법령이나 주민 일반의 호칭을 보여주지 않는다."
+    ],
+    "rights": "NLB NewspaperSG 공개 열람. 서지·지명과 링크만 사용, 이미지 및 기사 전문 미복제.",
+    "independence_group": "syonan-shimbun-294"
+  },
+  {
+    "id": "CAT-GB-SRC-0134",
+    "title": "Becoming Syonan",
+    "institution_or_author": "National Archives of Singapore",
+    "publication_date": "2026-03-18 갱신",
+    "source_type": "secondary: 점령기 전시 해설",
+    "document_or_accession_number": null,
+    "locator": "Becoming Syonan 및 Nipponisation/Surrender Room 설명",
+    "url": "https://corporate.nas.gov.sg/former-ford-factory/whatson/exhibition-syonan/",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942-02-15 영국군 항복과 그 뒤 일본 점령 당국의 Syonan-to 명칭."
+    ],
+    "limitations": [
+      "명명 법령 발효일과 시·섬 등 적용 경계는 확인되지 않는다."
+    ],
+    "rights": "© Government of Singapore. 자체 요약과 링크만 사용.",
+    "independence_group": "nas-occupation-exhibit"
+  },
+  {
+    "id": "CAT-GB-SRC-0135",
+    "title": "Air Operations in South East Asia, 3rd May, 1945 to 12th September, 1945",
+    "institution_or_author": "Air Chief Marshal Sir Keith Park / The London Gazette",
+    "publication_date": "1946-08 제출, 1951-04-19 보충호 발행",
+    "source_type": "primary: 작전 지휘관 보고의 관보 원문 스캔",
+    "document_or_accession_number": "The London Gazette No. 39202",
+    "locator": "2127쪽 제목·제출 주기·Foreword §1",
+    "url": "https://www.thegazette.co.uk/London/issue/39202/supplement/2127/data.pdf",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945-05-03 연합군의 Rangoon 진입과 1945-09-12 Singapore에서의 일본 남방군 항복을 지휘관이 기록했다."
+    ],
+    "limitations": [
+      "전후 제출 보고다. 진입일은 작전 경과를 설명한 것이며 도시 전체 행정 인계일이나 명명 법령 발효일과는 별개다."
+    ],
+    "rights": "The Gazette 공개 원문. 자체 요약·링크만 사용, 이미지 미복제.",
+    "independence_group": "park-sea-air-despatch"
+  },
+  {
+    "id": "CAT-GB-SRC-0136",
+    "title": "Toponymic factfile: Myanmar (Burma)",
+    "institution_or_author": "UK Permanent Committee on Geographical Names",
+    "publication_date": null,
+    "source_type": "secondary: 공식 지명 표준화 안내",
+    "document_or_accession_number": "Myanmar (Burma) factfile",
+    "locator": "Administrative divisions 표 Yangon Region 행의 행정 중심지, 각주 12",
+    "url": "https://assets.publishing.service.gov.uk/media/68aee1c63a052c9c504c8e7e/Myanmar__Burma__factfile.pdf",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현대 지명 Yangon 및 미얀마어 ရန်ကုန်, 1989년 영어 표기 개정과 Rangoon의 대응."
+    ],
+    "limitations": [
+      "현재 표준화 자료다. 전시 도시 경계나 각 주민 집단의 당시 표기를 소급 확정할 수 없다."
+    ],
+    "rights": "GOV.UK 공개 간행물. 자체 요약·링크만 사용.",
+    "independence_group": "uk-pcgn-myanmar"
+  },
+  {
+    "id": "CAT-GB-SRC-0137",
+    "title": "Rangoon, Burma. C. 1945-05. Aerial photograph of Rangoon after its capture",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "약 1945-05 촬영",
+    "source_type": "primary: 당시 사진의 보존기관 소장 정보",
+    "document_or_accession_number": "SUK14339 / C280942",
+    "locator": "Place, Accession Number, Description, Item copyright",
+    "url": "https://www.awm.gov.au/collection/C280942",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "별도 사진 자료의 소장 위치 표기 Rangoon, Burma 및 1945년 5월 무렵이라는 설명."
+    ],
+    "limitations": [
+      "소장기관 메타데이터를 대조했다. 촬영 원본의 당대 명문, 정확한 촬영일, 사진 속 도시 경계는 미확인이다."
+    ],
+    "rights": "보존기관 표시 저작권 만료·퍼블릭 도메인. 이미지 미복제.",
+    "independence_group": "awm-suk14339"
+  },
+  {
+    "id": "CAT-GB-SRC-0138",
+    "title": "Port of Londonderry",
+    "institution_or_author": "UK House of Commons / Minister of War Transport",
+    "publication_date": "1945-11-19",
+    "source_type": "primary: 전후 직후 의회 의사록 전사",
+    "document_or_accession_number": "HC Deb vol 416 cc30–31, 질문 80",
+    "locator": "질문 표제·본문과 Barnes의 답변",
+    "url": "https://api.parliament.uk/historic-hansard//commons/1945/nov/19/port-of-londonderry",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 이용을 묻는 의사록에서 Port of Londonderry 명칭을 확인했다."
+    ],
+    "limitations": [
+      "상업·여객 교통 전환 원인에 대한 질의자와 장관의 해석이 달라 원인을 단정하는 근거로 쓰지 않았다."
+    ],
+    "rights": "영국 의회 공개 의사록. 자체 요약·링크만 사용.",
+    "independence_group": "hansard-londonderry-port-1945"
+  },
+  {
+    "id": "CAT-GB-SRC-0139",
+    "title": "Records of Naval Districts and Shore Establishments",
+    "institution_or_author": "U.S. National Archives and Records Administration",
+    "publication_date": null,
+    "source_type": "secondary: 전시 미 해군 소장 문서군의 기록관 안내",
+    "document_or_accession_number": "Record Group 181, §181.6.5",
+    "locator": "Records of the Londonderry NOB 항목",
+    "url": "https://www.archives.gov/research/guide-fed-records/groups/181.html",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북아일랜드 Londonderry Naval Operating Base 명칭과 1942–1944년 관련 기록 계열."
+    ],
+    "limitations": [
+      "소장 안내를 확인했다. 해당 서신 원문과 기지의 법정 경계·개설일은 미확인이다."
+    ],
+    "rights": "미국 국립기록관리청 공개 목록. 자체 요약·링크만 사용.",
+    "independence_group": "nara-rg181-londonderry"
+  },
+  {
+    "id": "CAT-GB-SRC-0140",
+    "title": "Application by Derry City Council for Judicial Review",
+    "institution_or_author": "High Court of Justice in Northern Ireland / Weatherup J",
+    "publication_date": "2007-01-25",
+    "source_type": "primary: 도시명과 후대 행정구역명을 해석한 판결 원문",
+    "document_or_accession_number": "[2007] NIQB 5",
+    "locator": "¶¶8–9, 16–17, 34–35",
+    "url": "https://www.judiciaryni.uk/files/judiciaryni/decisions/Application%20by%20Derry%20City%20Council%20for%20Judicial%20Review.pdf",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 이전 Londonderry 도시·county borough 명칭 계보, 1984년 Derry 행정구역명 변경의 법적 효과와 도시명 구분."
+    ],
+    "limitations": [
+      "판결 당시 판단을 사용했다. 전시 민간 호칭 빈도나 현재 행정구역 경계는 판결로 확정할 수 없다."
+    ],
+    "rights": "북아일랜드 사법부 공개 판결. 자체 요약·링크만 사용.",
+    "independence_group": "niqb-2007-5"
   }
 ]

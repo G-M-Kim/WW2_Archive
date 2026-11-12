@@ -706,8 +706,9 @@
     "category": "당시 기준 지명",
     "article_path": "categories/united-kingdom/13-historical-place-names.md",
     "planned_at": "2026-11-13T01:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-GB-13.json",
+    "completed_at": "2026-11-13T05:07:44+09:00"
   },
   {
     "step": 52,

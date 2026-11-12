@@ -696,5 +696,47 @@
     ],
     "evidence": "candidate: 신계를 포함한 1941년 총계와 1945년 항복 무렵 값은 추계를 포함한다. 1945년 산식·기준일과 그 외 식민지·위임통치 지역의 인구는 미확인이다.",
     "completion_condition": "1941년 방공 집계 원표와 군정 배급·이동 기록을 대조하고, 말라야·싱가포르 및 기타 식민지·위임통치 지역의 현지 통계를 당시 경계와 행정 지위별로 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0052",
+    "status": "open",
+    "question": "싱가포르의 Syonan-to 명명 법령은 언제 효력이 생겼으며 어느 경계에 적용됐는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0006",
+      "CAT-GB-SRC-0132",
+      "CAT-GB-SRC-0133",
+      "CAT-GB-SRC-0134",
+      "CAT-GB-SRC-0135"
+    ],
+    "evidence": "candidate: 점령기 신문의 Syonan 전사, 지도 캡션, 전시 해설 및 연합군 보고를 대조했다. 명명 발효일·일본어 원문·시와 섬의 경계는 미확인이다.",
+    "completion_condition": "일본 군정의 당시 명명 공고, SP001565_1과 TM000984의 판권·범례·도곽 및 현지어 자료를 확보해 적용 범위와 날짜를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0053",
+    "status": "open",
+    "question": "전시 Londonderry 도시·항만·미 해군 기지의 경계와 Derry의 당시 용례는 어디까지 확인 가능한가?",
+    "related_ids": [
+      "CAT-GB-GEO-0001",
+      "CAT-GB-GEO-0005",
+      "CAT-GB-SRC-0138",
+      "CAT-GB-SRC-0139",
+      "CAT-GB-SRC-0140"
+    ],
+    "evidence": "candidate: 하원에서 항구 표기, NARA에서 전시 기지 문서 계열, 후대 판결에서 행정구역 명칭의 별도 계보를 확인했다. 전시 도시 경계·현지어 사용은 미확인이다.",
+    "completion_condition": "당대 항만도와 행정도, 항만 당국 문서, 현지 신문, RG 181 서신 원문에서 명칭별 지시 범위를 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0054",
+    "status": "open",
+    "question": "전시 랑군의 현지어와 점령당국 표기 및 미조사 지역의 지명은 어떻게 대조할 수 있는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0007",
+      "CAT-GB-SRC-0123",
+      "CAT-GB-SRC-0135",
+      "CAT-GB-SRC-0136",
+      "CAT-GB-SRC-0137"
+    ],
+    "evidence": "candidate: 연합군 보고의 Rangoon과 현대 양곤 대응은 확인했다. 일본 점령기 및 현지 행정의 철자·경계, 다른 본토·도미니언·위임통치 지역 표기는 미확인이다.",
+    "completion_condition": "버마·일본 측 관보와 당시 시가지도를 대조하고 다른 지역은 같은 기준으로 대표 지명을 확인한다."
   }
 ]
