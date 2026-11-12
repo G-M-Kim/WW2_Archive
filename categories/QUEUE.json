@@ -720,8 +720,9 @@
     "category": "당시 영토",
     "article_path": "categories/united-kingdom/14-territory.md",
     "planned_at": "2026-11-13T03:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-GB-14.json",
+    "completed_at": "2026-11-13T06:55:12+09:00"
   },
   {
     "step": 53,

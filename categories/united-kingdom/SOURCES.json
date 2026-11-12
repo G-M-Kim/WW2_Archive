@@ -2809,5 +2809,305 @@
     ],
     "rights": "북아일랜드 사법부 공개 판결. 자체 요약·링크만 사용.",
     "independence_group": "niqb-2007-5"
+  },
+  {
+    "id": "CAT-GB-SRC-0141",
+    "title": "Royal and Parliamentary Titles Act, 1927",
+    "institution_or_author": "UK Parliament",
+    "publication_date": "1927-04-12",
+    "source_type": "primary: 당대 법률 제정본",
+    "document_or_accession_number": "17 Geo. 5 c. 4",
+    "locator": "제2조 제1·2항",
+    "url": "https://www.legislation.gov.uk/ukpga/1927/4/pdfs/ukpga_19270004_en.pdf",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "후속 법률과 공문에서 United Kingdom의 통상 범위를 그레이트브리튼과 북아일랜드로 규정했다."
+    ],
+    "limitations": [
+      "북아일랜드의 개별 경계 표지는 이 조문에 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-royal-parliamentary-titles-act"
+  },
+  {
+    "id": "CAT-GB-SRC-0142",
+    "title": "The Canada Gazette, Extra: Proclamation",
+    "institution_or_author": "Government of Canada / Library and Archives Canada",
+    "publication_date": "1939-09-10",
+    "source_type": "primary: 관보 특별호 스캔",
+    "document_or_accession_number": "cgc_p1-2_v073_n000_t002_000_19390910_p00000",
+    "locator": "특별호 첫 면 영문 선언 본문",
+    "url": "https://central.bac-lac.gc.ca/.item?app=cangaz&id=cgc_p1-2_v073_n000_t002_000_19390910_p00000&op=pdf",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐나다 추밀원의 조언과 9월 10일부 독일과의 전쟁 상태를 명시한다."
+    ],
+    "limitations": [
+      "OCR에 오자가 있으며 정확한 발표 시각과 국경은 이 확인 범위 밖이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "canada-gazette-war-proclamation"
+  },
+  {
+    "id": "CAT-GB-SRC-0143",
+    "title": "The Canadian Army, 1939–1945: An Official Historical Summary",
+    "institution_or_author": "C. P. Stacey / Canadian Department of National Defence",
+    "publication_date": "1948",
+    "source_type": "secondary: 캐나다 육군 공식사",
+    "document_or_accession_number": "제I장",
+    "locator": "p. 1, Canada Goes to War",
+    "url": "https://www.canada.ca/content/dam/themes/defence/caf/militaryhistory/dhh/official/book-1948-army-1939-1945-en.pdf",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국과 프랑스의 9월 3일 대독 선전, 캐나다 의회 절차와 9월 10일 관보 발표."
+    ],
+    "limitations": [
+      "캐나다 선포문 인용은 관보와 동일 원전이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "canadian-army-official-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0144",
+    "title": "Government, history and culture",
+    "institution_or_author": "Government of Jersey",
+    "publication_date": null,
+    "source_type": "secondary: 정부 헌정 안내",
+    "document_or_accession_number": null,
+    "locator": "Facts about Jersey / Government and legal system",
+    "url": "https://www.gov.je/LifeEvents/MovingToJersey/WhyChooseJersey/Pages/Government.aspx",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "저지섬의 지리 및 영국 왕실속령으로서의 지위와 자체 행정."
+    ],
+    "limitations": [
+      "현행 헌정 안내의 선거·기관 구성은 전시에 소급하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jersey-government-constitution"
+  },
+  {
+    "id": "CAT-GB-SRC-0145",
+    "title": "History of Liberation",
+    "institution_or_author": "Government of Jersey / Doug Ford, Jersey Heritage",
+    "publication_date": null,
+    "source_type": "secondary: 정부 역사 해설",
+    "document_or_accession_number": null,
+    "locator": "The start of the German Occupation / Life during The Occupation / Liberation",
+    "url": "https://www.gov.je/Leisure/Liberation/pages/liberationhistory.aspx",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "저지섬 1940-07-01 독일군 진입과 점령 중 현지 민정의 존속, 1945-05-09 해방."
+    ],
+    "limitations": [
+      "저지섬의 날짜를 채널 제도 전체에 적용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jersey-heritage-liberation"
+  },
+  {
+    "id": "CAT-GB-SRC-0146",
+    "title": "Channel Islands (Administration)",
+    "institution_or_author": "UK House of Commons / James Chuter Ede",
+    "publication_date": "1945-08-17",
+    "source_type": "primary: 종전 직후 하원 발언 전사",
+    "document_or_accession_number": "1945-08-17 Commons Chamber",
+    "locator": "Oral Answers To Questions, Channel Islands (Administration), Ede 답변",
+    "url": "https://hansard.parliament.uk/commons/1945-08-17/debates/155447dc-d96b-4361-a7db-3fbbee8c2c83/CommonsChamber",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 6월 19일 철수 결정, 점령하 민정 존속, 1945년 8월 25일 군정 종료 예정에 대한 장관 발언."
+    ],
+    "limitations": [
+      "철수 결정일과 실제 철수일은 구분된다. 군정 종료는 발표 당시 예정일이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-hansard-channel-islands-1945"
+  },
+  {
+    "id": "CAT-GB-SRC-0147",
+    "title": "Hong Kong Study, Annex A: Treaties of 1842 and 1860",
+    "institution_or_author": "Great Britain and Qing China / UK Foreign and Commonwealth Office",
+    "publication_date": "1982",
+    "source_type": "primary: 두 당대 조약의 영국 외무부 자료집 수록본",
+    "document_or_accession_number": "UK National Archives PREM 19/792",
+    "locator": "1842-08-29 난징 조약 제III조, 인쇄 p. 160 / 1860-10-24 베이징 협약 제VI조, 인쇄 p. 241",
+    "url": "https://archive.margaretthatcher.org/doc04/820912%20fco%20spc%20stdy%20PREM19-0792%20f147.pdf",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "홍콩섬과 구룡 일부의 양도 조항을 확인했다."
+    ],
+    "limitations": [
+      "양도 대상 구룡의 현지 경계선은 별도 지리 자료가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "qing-uk-cession-treaties"
+  },
+  {
+    "id": "CAT-GB-SRC-0148",
+    "title": "Convention Respecting an Extension of the Hongkong Territory",
+    "institution_or_author": "Great Britain and Qing China / The World and Japan Database",
+    "publication_date": "1898-06-09",
+    "source_type": "primary: 조약 영문 전사",
+    "document_or_accession_number": "일본 외무성 조약국 조약집 pp. 169–170",
+    "locator": "Full text, 임대 기간·측량·구룡성 관할 단락",
+    "url": "https://worldjpn.net/documents/texts/pw/18980609.T1E.html",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "99년 임대, 측량 후 경계 확정 및 구룡성 관할 예외 조항을 확인했다."
+    ],
+    "limitations": [
+      "전사 페이지에 부속 지도와 1899년 이후 현지 조치의 원문이 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "qing-uk-hong-kong-lease"
+  },
+  {
+    "id": "CAT-GB-SRC-0149",
+    "title": "Hong Kong Yearbook 2021, Chapter 22: History",
+    "institution_or_author": "Hong Kong SAR Government",
+    "publication_date": null,
+    "source_type": "secondary: 정부 연감 역사 해설",
+    "document_or_accession_number": "Hong Kong Yearbook 2021",
+    "locator": "pp. 322–323 Lease of the New Territories, pp. 324–325 The 1930s and World War II",
+    "url": "https://www.yearbook.gov.hk/2021/en/pdf/E22.pdf",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "구룡 양도 구역·신계 임대 범위·구룡성 조치, 1941년 항복과 1945년 8월 30일 영국군 도착을 확인했다."
+    ],
+    "limitations": [
+      "권원은 조약으로 대조했다. 8월 30일 군 도착과 군정 선포는 공고 원문에서 별도 확인했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hksar-yearbook-2021"
+  },
+  {
+    "id": "CAT-GB-SRC-0150",
+    "title": "British Military Administration, Hong Kong: Proclamation No. 1",
+    "institution_or_author": "C. H. J. Harcourt / F. S. V. Donnison 편",
+    "publication_date": "1945-09-01",
+    "source_type": "primary: 1956년 영국 공식사에 수록된 공고 원문",
+    "document_or_accession_number": "British Military Administration in the Far East, 1943–46, Appendix 5",
+    "locator": "pp. 454–455, 전문·제1~4조·서명일",
+    "url": "https://www.generalstaff.org/WW2/Hist_UK/BritishMilitaryAdminFarEast1943-46.pdf",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "홍콩 식민지 전역의 영국 임시 군정 설치와 관할 인수, 1945년 9월 1일 공고일을 확인했다."
+    ],
+    "limitations": [
+      "공고의 관할 범위는 마을별 행정 집행 시점을 직접 보여주지 않는다."
+    ],
+    "rights": "수록본에 Crown Copyright Reserved 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "harcourt-hong-kong-proclamation"
+  },
+  {
+    "id": "CAT-GB-SRC-0151",
+    "title": "Recording Hong Kong: 1940s",
+    "institution_or_author": "Hong Kong Government Records Service",
+    "publication_date": null,
+    "source_type": "secondary: 기록관 소장 목록",
+    "document_or_accession_number": "06-08-203",
+    "locator": "1945 Instrument of surrender 항목",
+    "url": "https://www.grs.gov.hk/ws/rhk/en/1940s.html",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "홍콩 현지 항복문서의 소장 표기와 1945년 9월 16일 날짜를 확인했다."
+    ],
+    "limitations": [
+      "목록 기록을 열람했다. 소장 문서 전문을 전사하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hong-kong-local-surrender"
+  },
+  {
+    "id": "CAT-GB-SRC-0152",
+    "title": "Text of Mandate for Palestine",
+    "institution_or_author": "League of Nations / UN Secretary-General",
+    "publication_date": "1947-04-18",
+    "source_type": "primary: 국제연맹 위임장 및 승인 각서의 유엔 공식 수록본",
+    "document_or_accession_number": "UN A/292, League of Nations C.P.M.466 외",
+    "locator": "pp. 2–4, 10–13, 위임장 전문·제1·5·25조와 트란스요르단 각서",
+    "url": "https://digitallibrary.un.org/record/829707/files/A_292-EN.pdf",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1922년 7월 24일 위임장과 9월 16일 승인 각서에서 위임국의 권한, 트란스요르단 경계 서술과 별도 행정을 확인했다."
+    ],
+    "limitations": [
+      "위임장과 각서의 규정은 지방별 실효 행정의 현장 기록과 구분했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "league-of-nations-palestine-mandate"
+  },
+  {
+    "id": "CAT-GB-SRC-0153",
+    "title": "Memorandum by the Acting Secretary of State to President Truman",
+    "institution_or_author": "Joseph C. Grew / U.S. Department of State",
+    "publication_date": "1945-05-14",
+    "source_type": "primary: 전시 외교문서 전사",
+    "document_or_accession_number": "FRUS 1945 VIII, doc. 688, 867N.01/4–1945",
+    "locator": "pp. 706–707, 첫 문단",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v08/d688",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미국 국무부 문서에서 전시 트란스요르단의 영국 위임관계와 영국 외무부를 통한 서신 전달을 확인했다."
+    ],
+    "limitations": [
+      "미국 외교 경로의 사례이며 관할의 전 영역을 설명하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-diplomatic-memo-transjordan"
+  },
+  {
+    "id": "CAT-GB-SRC-0154",
+    "title": "Map of Palestine",
+    "institution_or_author": "Survey of Palestine / Harry S. Truman Presidential Library and Museum",
+    "publication_date": "1946-04",
+    "source_type": "primary: 직접 전후 지도 스캔과 기록관 메타데이터",
+    "document_or_accession_number": "M700",
+    "locator": "지도 1매, 범례 및 동쪽 경계, 축척 1:750,000",
+    "url": "https://www.trumanlibrary.gov/maps/m700-map-palestine",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "팔레스타인과 동쪽 트란스요르단의 공간 구분과 지도에 표시된 국제·하위 행정 경계 기호를 확인했다."
+    ],
+    "limitations": [
+      "1946년 4월경 지도다. 개전·종전 당일 경계의 직접 증거로 사용하지 않았다."
+    ],
+    "rights": "기록관에 Survey of Palestine 저작권 및 복제 제한 표기. 원본 이미지 재게시 없이 링크만 사용.",
+    "independence_group": "survey-of-palestine-m700"
+  },
+  {
+    "id": "CAT-GB-SRC-0155",
+    "title": "Japanese Surrender: surrender of the Japanese forces at Hong Kong",
+    "institution_or_author": "Royal Museums Greenwich / Caird Library and Archive",
+    "publication_date": "1945-09-16",
+    "source_type": "secondary: 당대 항복문서의 소장 목록",
+    "document_or_accession_number": "HSR/V/8 (formerly FD/58)",
+    "locator": "Record details의 Item reference와 Date made",
+    "url": "https://www.rmg.co.uk/collections/archive/rmgc-object-500220",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "홍콩 현지 항복문서의 1945년 9월 16일 서명일과 서명자 목록을 확인했다."
+    ],
+    "limitations": [
+      "독립 기관이 보존한 같은 항복 사건의 문서 기록이다. 별개 사건의 확증으로 세지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hong-kong-local-surrender"
   }
 ]
