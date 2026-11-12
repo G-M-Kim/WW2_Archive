@@ -1909,5 +1909,245 @@
     ],
     "rights": "저자 또는 권리자 권리 보유. 자체 요약과 링크만 사용.",
     "independence_group": "smith-bombe-history-2014"
+  },
+  {
+    "id": "CAT-GB-SRC-0096",
+    "title": "War Situation",
+    "institution_or_author": "UK House of Commons, Hansard",
+    "publication_date": "1940-06-04",
+    "source_type": "primary: 하원 당일 의사록 디지털 전사",
+    "document_or_accession_number": "HC Deb vol 361 cc787–798",
+    "locator": "열 787–789 첫 발언과 철수 경위, 열 795–796 결말",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1940/jun/04/war-situation",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "처칠 총리의 덩케르크 철수 보고와 항전 발언."
+    ],
+    "limitations": [
+      "텍스트 자료. 현장 영상·음성 보존 여부를 알려주지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-hansard-1940-06-04"
+  },
+  {
+    "id": "CAT-GB-SRC-0097",
+    "title": "Churchill Recordings: Speeches and Memoirs",
+    "institution_or_author": "Ronald I. Cohen / Hillsdale College Churchill Project",
+    "publication_date": "2016-11-18",
+    "source_type": "secondary: 상용 음반·녹음 서지",
+    "document_or_accession_number": "Decca 6, London XL.12, Decca LXT 6200 외",
+    "locator": "서문의 Commons 정의 및 The Speeches → 1940 → 4 June",
+    "url": "https://winstonchurchill.hillsdale.edu/churchill-recordings-speeches-memoirs/",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "하원 연설 이후 녹음이라는 표기와 6월 4일자 음반 목록."
+    ],
+    "limitations": [
+      "편자의 수집품 중심 목록. 각 매체의 녹음 날짜, 완전성, 미공개 방송 소장분은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "cohen-churchill-discography"
+  },
+  {
+    "id": "CAT-GB-SRC-0098",
+    "title": "Congressional Record — House, Friday, December 26, 1941",
+    "institution_or_author": "U.S. Congress / Government Printing Office",
+    "publication_date": "1941-12-26",
+    "source_type": "primary: 의회 당일 의사록",
+    "document_or_accession_number": "77th Congress, 1st Session, Part 9",
+    "locator": "10119쪽 Order of Business 및 Recess",
+    "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1941-pt9/pdf/GPO-CRECB-1941-pt9-22-2.pdf",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "오후 12시 30분으로 알린 상원 회의장 연설 일정과 하원 초청."
+    ],
+    "limitations": [
+      "공지 시각이며 실제 연설 개시 시각을 측정한 기록은 아니다. 이 부분에 연설 전문과 촬영 정보는 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-congress-record-1941-12-26"
+  },
+  {
+    "id": "CAT-GB-SRC-0099",
+    "title": "Churchill Addresses Congress",
+    "institution_or_author": "U.S. Senate Historical Office",
+    "publication_date": null,
+    "source_type": "secondary: 상원 역사 해설",
+    "document_or_accession_number": null,
+    "locator": "December 26, 1941, 첫 문단의 촬영과 마지막 문단의 연설 길이",
+    "url": "https://www.senate.gov/artandhistory/history/minute/Churchill_Addresses_Congress.htm",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "상원 회의장의 촬영과 약 30분 연설을 기술한다."
+    ],
+    "limitations": [
+      "날짜 표기는 사건일이다. 촬영분 소장번호 및 길이 산정 근거는 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-senate-historical-office"
+  },
+  {
+    "id": "CAT-GB-SRC-0100",
+    "title": "Mr Churchill’s Visit to the United States and Canada",
+    "institution_or_author": "British Movietone News / Imperial War Museums Film",
+    "publication_date": "1942 제작",
+    "source_type": "primary: 당대 뉴스릴 편집본의 기관 목록",
+    "document_or_accession_number": "COI 414",
+    "locator": "제1릴 Washington 장면, Physical Characteristics, Technical Details",
+    "url": "https://film.iwmcollections.org.uk/record/18023",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "의회 연설 발췌, 의사당 밖 군중의 중계 청취, 영어 유성 및 무자막, 전체 18분."
+    ],
+    "limitations": [
+      "목록 직접 열람. 미디지털화·온라인 미제공 표기로 원필름과 타임코드 미확인."
+    ],
+    "rights": "IWM 목록의 접근 조건 NON-IWM. 별도 권리 확인이 필요하며 원본을 복제하지 않았다.",
+    "independence_group": "coi-414"
+  },
+  {
+    "id": "CAT-GB-SRC-0101",
+    "title": "Prime Minister Winston Churchill’s Address to a Joint Session of Congress",
+    "institution_or_author": "CBS / U.S. National Archives at College Park / DocsTeach",
+    "publication_date": "1941-12-26 녹음",
+    "source_type": "primary: 당대 방송 음원 소장 기록",
+    "document_or_accession_number": "Sound Recording 200.74 / NAID 2194729",
+    "locator": "Description, Citation, Rights",
+    "url": "https://docsteach.org/document/churchill-congress/",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "CBS 컬렉션의 당일 의회 연설 음원, 기록 식별자와 권리 표기."
+    ],
+    "limitations": [
+      "음원 설명과 인용란을 열람했다. 음성 전체와 방송 편집 경계는 미확인."
+    ],
+    "rights": "Copyright Not Evaluated. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-cbs-2194729"
+  },
+  {
+    "id": "CAT-GB-SRC-0102",
+    "title": "Voices of World War II, 1937–1945",
+    "institution_or_author": "U.S. National Archives",
+    "publication_date": null,
+    "source_type": "secondary: 기관 음원 안내 목록",
+    "document_or_accession_number": "200(R)-74",
+    "locator": "1941 → December 26",
+    "url": "https://www.archives.gov/research/military/ww2/sound-recordings.html",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "처칠의 의회 연설로 등록된 소장 음원의 길이 표기 40분."
+    ],
+    "limitations": [
+      "0101과 같은 소장 계통이다. 40분은 목록에 기재된 자료 길이이며 발언 실측값은 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-cbs-2194729"
+  },
+  {
+    "id": "CAT-GB-SRC-0103",
+    "title": "The Unrelenting Struggle: from the speeches of Winston Churchill, 1940–1945",
+    "institution_or_author": "Crown Film Unit / Ministry of Information / Imperial War Museums Film",
+    "publication_date": "1945 제작",
+    "source_type": "primary: 당대 편집 영화의 기관 목록",
+    "document_or_accession_number": "COI 101 / HD COI 101-01·02",
+    "locator": "Description의 마지막 발췌, Physical Characteristics, Technical Details",
+    "url": "https://film.iwmcollections.org.uk/record/4395/media_id/12849",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "5월 8일 방송 발췌에서 처칠의 마이크 장면을 설명한다. 두 릴 전체 17분, 영어 음성·표제, 자막 없음."
+    ],
+    "limitations": [
+      "HD 비디오 항목과 장면 설명은 열람했다. 재생 프레임·음성·타임코드 및 촬영과 방송의 동시성은 미확인."
+    ],
+    "rights": "IWM Attribution: © IWM. 자체 요약과 링크만 사용.",
+    "independence_group": "coi-101"
+  },
+  {
+    "id": "CAT-GB-SRC-0104",
+    "title": "British Movietone News Issue 832 (14 May 1945)",
+    "institution_or_author": "British Movietone News / Imperial War Museums Film",
+    "publication_date": "1945-05-14 제작",
+    "source_type": "primary: 당대 뉴스릴의 기관 목록",
+    "document_or_accession_number": "NMV 832",
+    "locator": "Description → I. Victory",
+    "url": "https://film.iwmcollections.org.uk/record/33076",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "3시 방송, 거리 군중, 버킹엄궁 발코니 장면을 같은 꼭지에 수록."
+    ],
+    "limitations": [
+      "미디지털화·온라인 미제공으로 영상 원본 미확보. 보건부 발코니 연설 장면은 이 설명에서 확인되지 않는다."
+    ],
+    "rights": "IWM 목록의 접근 조건 NON-IWM. 자체 요약과 링크만 사용.",
+    "independence_group": "nmv-832"
+  },
+  {
+    "id": "CAT-GB-SRC-0105",
+    "title": "End of the second world war: 80th anniversary",
+    "institution_or_author": "Sarah Tudor / UK House of Lords Library",
+    "publication_date": "2025-04-29",
+    "source_type": "secondary: 상원 도서관 역사 해설",
+    "document_or_accession_number": null,
+    "locator": "§§1.2–1.3 및 3.1",
+    "url": "https://lordslibrary.parliament.uk/end-of-the-second-world-war-80th-anniversary/",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "5월 8일 오후 3시 방송, 이후 보건부 청사 발코니 즉석 연설, 방송에서 일본과의 전쟁 계속을 언급."
+    ],
+    "limitations": [
+      "여러 사건의 구분을 돕는 해설이다. 촬영·녹음 동기화는 판단할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "lords-library-ve-day"
+  },
+  {
+    "id": "CAT-GB-SRC-0106",
+    "title": "Winston Churchill addresses joint session of US Congress in late 1941",
+    "institution_or_author": "Sherman Grinberg Library / Getty Images",
+    "publication_date": "1941-12-26 촬영, 2017-05-16 업로드",
+    "source_type": "primary: 당대 뉴스릴 영상 클립의 소장처 메타데이터",
+    "document_or_accession_number": "681824770 / sr002439_01_06.mov",
+    "locator": "장면 설명, Editorial #, Date created, Clip length, Originally shot on",
+    "url": "https://www.gettyimages.co.nz/detail/video/tilt-down-rear-shot-standing-ovation-from-joint-session-news-footage/681824770?slot=55",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "장내 마이크 앞 연설과 박수, 35mm 흑백 원매체, 클립 길이 00:00:47:20."
+    ],
+    "limitations": [
+      "장면 설명과 매체 정보를 열람했다. 프레임 링크는 400 응답, 직접 재생과 각 장면 타임코드는 미확인. COI 414와 촬영 계통은 미대조."
+    ],
+    "rights": "Rights-ready, Not released 표시. 자체 요약과 링크만 사용.",
+    "independence_group": "grinberg-681824770"
+  },
+  {
+    "id": "CAT-GB-SRC-0107",
+    "title": "Germany (Unconditional Surrender)",
+    "institution_or_author": "UK House of Commons, Hansard",
+    "publication_date": "1945-05-08",
+    "source_type": "primary: 당일 하원 의사록 디지털 전사",
+    "document_or_accession_number": "HC Hansard, 8 May 1945, col 1869 외",
+    "locator": "Prime Minister’s Announcement 첫 문단, 일본과의 전쟁 및 방송 발언 반복 설명",
+    "url": "https://hansard.parliament.uk/commons/1945-05-08/debates/E357D31F-FB31-497E-BAD9-F85195A3A6D7/Germany%28UnconditionalSurrender%29",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "처칠이 방금 방송한 발표를 하원에서 반복한다고 밝혔으며 일본과의 전쟁이 계속된다고 말했다."
+    ],
+    "limitations": [
+      "하원 재진술의 텍스트이며 라디오 녹음 및 각 영상판과의 대조가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-hansard-1945-05-08"
   }
 ]

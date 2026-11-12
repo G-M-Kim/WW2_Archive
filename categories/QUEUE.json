@@ -664,8 +664,9 @@
     "category": "유명 연설의 영상자료",
     "article_path": "categories/united-kingdom/10-speech-videos.md",
     "planned_at": "2026-11-12T19:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-GB-10.json",
+    "completed_at": "2026-11-13T00:56:54+09:00"
   },
   {
     "step": 49,

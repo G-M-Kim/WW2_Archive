@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 48,
-  "CAT_VISITED_COUNT": 47,
-  "CAT_LAST_JOB_ID": "CAT-GB-09",
+  "CAT_NEXT_STEP": 49,
+  "CAT_VISITED_COUNT": 48,
+  "CAT_LAST_JOB_ID": "CAT-GB-10",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-12T22:54:21+09:00",
-  "note": "영국 09 학자·연구자 부분 조사 저장. 첫 방문 47/133, 다음 CAT-GB-10."
+  "updated_at": "2026-11-13T00:56:54+09:00",
+  "note": "영국 10 유명 연설의 영상자료 부분 조사 저장. 첫 방문 48/133, 다음 CAT-GB-11."
 }
