@@ -2389,5 +2389,245 @@
     ],
     "rights": "공개 해설. 자체 요약과 링크만 사용.",
     "independence_group": "crewe-heritage-secondary"
+  },
+  {
+    "id": "CAT-GB-SRC-0120",
+    "title": "Statistical Digest of the War",
+    "institution_or_author": "UK Central Statistical Office / Registrars General",
+    "publication_date": "1951",
+    "source_type": "primary: 전시 정부 통계 집성 원간행물 스캔",
+    "document_or_accession_number": "History of the Second World War, United Kingdom Civil Series",
+    "locator": "표 1 Population of the United Kingdom, 표 2 1939-06-30, 1939·1943 각주",
+    "url": "https://www.generalstaff.org/WW2/Hist_UK/StatisticalDigestOfWar_VarA.pdf",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939–1945 본토 연중 추계, 1940–1945 민간 계열, 지역별 수치와 인구 정의."
+    ],
+    "limitations": [
+      "정부 원자료를 전후에 집성했다. 1939년 현주와 1940년 이후 총인구의 집계 범위가 다르며 표 1에는 1943년 민간 계열 범위 변경이 있다."
+    ],
+    "rights": "HMSO 간행물 스캔. 수치 발췌와 자체 요약, 이미지 미복제.",
+    "independence_group": "uk-registrars-general"
+  },
+  {
+    "id": "CAT-GB-SRC-0121",
+    "title": "Annual Abstract of Statistics No. 85, 1937–1947",
+    "institution_or_author": "UK Central Statistical Office / Registrars-General",
+    "publication_date": "1948",
+    "source_type": "primary: 정부 통계 연감 원간행물 스캔",
+    "document_or_accession_number": "No. 85",
+    "locator": "인쇄 7쪽 표 6 Population of the United Kingdom, 1939·1945 행 및 각주",
+    "url": "https://escoe-website.s3.amazonaws.com/wp-content/uploads/2022/12/11173048/Annual-Abstract-of-Statistics-1937-1947.pdf",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 47,762천 명, 1945년 49,150천 명과 스코틀랜드 5,155천 명, 1940년 집계 정의 변경."
+    ],
+    "limitations": [
+      "120과 같은 등록기관 계열이며 독립 관측이 아니다. 1945년 스코틀랜드 32천 명 차이의 원인은 표만으로 확인되지 않는다."
+    ],
+    "rights": "HMSO 간행물 스캔. 수치 발췌와 자체 요약, 이미지 미복제.",
+    "independence_group": "uk-registrars-general"
+  },
+  {
+    "id": "CAT-GB-SRC-0122",
+    "title": "NHS Central Register: About the 1939 National Identity Register",
+    "institution_or_author": "National Records of Scotland",
+    "publication_date": null,
+    "source_type": "secondary: 등록 원기록 보존기관 해설",
+    "document_or_accession_number": "GRO7/23–56",
+    "locator": "About the 1939 National Identity Register 및 Information in the NRS catalogue",
+    "url": "https://www.nrscotland.gov.uk/statistics-and-data/nhs-central-register/",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-09-29 Great Britain과 Northern Ireland의 민간 등록, 신분증·배급 등 행정 목적."
+    ],
+    "limitations": [
+      "보존기관 해설을 열람했다. 지역별 명부 원자료와 등록 누락 인원은 미확인이다."
+    ],
+    "rights": "웹페이지 Crown copyright, 별도 명시 제외 OGL v3.0.",
+    "independence_group": "nrs-1939-register"
+  },
+  {
+    "id": "CAT-GB-SRC-0123",
+    "title": "Census of India, 1941, Volume I, Part I: India, Tables",
+    "institution_or_author": "M. W. M. Yeatts / Census Commissioner of India",
+    "publication_date": "1943",
+    "source_type": "primary: 1941년 인구조사 원보고서",
+    "document_or_accession_number": "Dspace_123456789_2585 / 21325_1941_TAB.pdf",
+    "locator": "20쪽 Operation, 표 I Area, Houses and Population의 설명·INDIA/PROVINCES/STATES AND AGENCIES 행, 표 II",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/32422/download/35603/21325_1941_TAB.pdf",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941-03-01 일출 기준 인도 합계, 직할 주 등과 번왕국·관할기관의 분리, 일부 변경지 추계와 버마·아덴 제외."
+    ],
+    "limitations": [
+      "조사 기준일은 공통이나 실제 조사일은 지역마다 달랐다. 북서 변경지 일부는 추정이고 전체가 실측값은 아니다."
+    ],
+    "rights": "소장기관 기록에 ORGI 권리 표시. 수치 발췌와 자체 요약, 페이지 미복제.",
+    "independence_group": "census-india-1941"
+  },
+  {
+    "id": "CAT-GB-SRC-0124",
+    "title": "Population Statistics",
+    "institution_or_author": "UK House of Commons / Secretary of State for India Leopold Amery",
+    "publication_date": "1943-02-04",
+    "source_type": "primary: 전시 의회 질의와 정부 답변",
+    "document_or_accession_number": "HC Deb vol 386 c1042, 질문 40",
+    "locator": "Amery의 1941 Census 총인구 답변",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1943/feb/04/population-statistics",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 인도 총인구 389,000,000명이라는 반올림 공표."
+    ],
+    "limitations": [
+      "123과 같은 인구조사 계통이다. 정치적 해석이나 인과관계는 수치의 검증에 사용하지 않았다."
+    ],
+    "rights": "의회 공개 의사록. 자체 요약 및 링크.",
+    "independence_group": "census-india-1941"
+  },
+  {
+    "id": "CAT-GB-SRC-0125",
+    "title": "Canada Year Book, 1943–44: Population",
+    "institution_or_author": "Canada Dominion Bureau of Statistics",
+    "publication_date": "1943–44판",
+    "source_type": "primary: 전시 공식 연감의 인구조사 집계",
+    "document_or_accession_number": "Canada Year Book 1943–44",
+    "locator": "85쪽 표 7 Area and Density of Population, by Counties or Census Divisions, 1941, Canada 행",
+    "url": "https://www66.statcan.gc.ca/eng/1943-44/194301550085_p.%2085.pdf",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 캐나다 인구 11,506,655명."
+    ],
+    "limitations": [
+      "집계 기준일은 126으로 확인했다. 전체 명부나 해외 복무자 포함 세칙은 별도 확인이 필요하다."
+    ],
+    "rights": "Statistics Canada 공개 스캔. 표 수치만 발췌하고 이미지 미복제.",
+    "independence_group": "census-canada-1941"
+  },
+  {
+    "id": "CAT-GB-SRC-0126",
+    "title": "Eighth census of Canada, 1941",
+    "institution_or_author": "Canada Dominion Bureau of Statistics / Government of Canada Publications",
+    "publication_date": null,
+    "source_type": "secondary: 공식 간행물 서지·권별 안내",
+    "document_or_accession_number": "CS98-1941-PDF / 9.833108",
+    "locator": "권별 요약 중 Vol. 2 Population by local subdivisions",
+    "url": "https://publications.gc.ca/site/eng/9.833108/publication.html",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제8차 인구조사 제2권의 기준일을 1941-06-02로 명시."
+    ],
+    "limitations": [
+      "원본 제2권 전체가 아닌 정부 서지의 기준일 설명을 열람했다."
+    ],
+    "rights": "정부 공개 서지. 자체 요약 및 링크.",
+    "independence_group": "census-canada-1941"
+  },
+  {
+    "id": "CAT-GB-SRC-0127",
+    "title": "Statute of Westminster, 1931",
+    "institution_or_author": "UK Parliament",
+    "publication_date": "1931-12-11",
+    "source_type": "primary: 당대 법률 제정본",
+    "document_or_accession_number": "22 Geo. 5 c. 4",
+    "locator": "서문 및 제1·4·7조",
+    "url": "https://www.legislation.gov.uk/ukpga/1931/4/pdfs/ukpga_19310004_en.pdf",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐나다 도미니언의 지위와 도미니언 법률 적용에 관한 규정."
+    ],
+    "limitations": [
+      "인구 자료가 아니다. 전시 캐나다 인구를 UK 본토 계열과 분리하는 제도 근거로 사용했다."
+    ],
+    "rights": "영국 공식 법령 스캔. 자체 요약 및 링크.",
+    "independence_group": "uk-statute-westminster"
+  },
+  {
+    "id": "CAT-GB-SRC-0128",
+    "title": "Annual Report on Hong Kong for the Year 1946",
+    "institution_or_author": "Government of Hong Kong",
+    "publication_date": "1947-03",
+    "source_type": "primary: 식민지 정부 보고서의 온라인 전사",
+    "document_or_accession_number": "Hong Kong Public Libraries 소장 표기 3 3288 03813789 1",
+    "locator": "정오표, Part II Chapter 1 Population, Chapter 8 The Military Administration",
+    "url": "https://www.histsyn.com/2023/01/EYB1946.html",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941–1945년 일본 점령, 항복 무렵 75만 명 미만 추정, 1945-09-01 영국 임시 군정 수립."
+    ],
+    "limitations": [
+      "웹 자료는 원간행물의 전사본이다. 75만 명은 상한 추정이고 해당 대목에 상세 산식은 없다."
+    ],
+    "rights": "표제면 Crown Copyright Reserved. 자체 요약과 링크만 사용.",
+    "independence_group": "hong-kong-colonial-annual-report"
+  },
+  {
+    "id": "CAT-GB-SRC-0129",
+    "title": "Hong Kong Population and Housing Census: 1971 Technical Report",
+    "institution_or_author": "Hong Kong Census and Statistics Department",
+    "publication_date": "1973-07 서문",
+    "source_type": "secondary: 1941년 조사 인용과 종전 인구 회고",
+    "document_or_accession_number": "B11290151971XXXXE0100",
+    "locator": "§1.11 The 1941 Census 및 §1.12 The period 1941–1961",
+    "url": "https://www.censtatd.gov.hk/en/data/stat_report/product/B1129015/att/B11290151971XXXXE0100.pdf",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 3월 홍콩 인원 조사 1,444,337명, 신계 추산 포함 약 164만 명, 종전 무렵 약 60만 명 추정."
+    ],
+    "limitations": [
+      "1941년 원표 자체는 미확보다. 1945년 추계의 정확한 기준일·산식과 128에서의 자료 계통은 확인되지 않았다."
+    ],
+    "rights": "홍콩 통계기관 공개 스캔. 수치 발췌와 자체 요약, 페이지 미복제.",
+    "independence_group": "hong-kong-census-technical-1971"
+  },
+  {
+    "id": "CAT-GB-SRC-0130",
+    "title": "2011 Census: Population Estimates for the United Kingdom, March 2011",
+    "institution_or_author": "Office for National Statistics",
+    "publication_date": "2012-12-17",
+    "source_type": "secondary: 공식 통계 간행물의 인구조사 연혁",
+    "document_or_accession_number": null,
+    "locator": "About the census, Figure 2 주석",
+    "url": "https://cy.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/2011censuspopulationestimatesfortheunitedkingdom/2012-12-17",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제2차 세계대전으로 1941년 UK 전역 정기 인구조사 미실시."
+    ],
+    "limitations": [
+      "2011년 간행물에서 역사적 조사 공백의 설명만 사용했다."
+    ],
+    "rights": "ONS 공개 통계. 자체 요약과 링크만 사용.",
+    "independence_group": "ons-census-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0131",
+    "title": "Canada Year Book 2012: Table 24.1, Population, by province and territory, selected years, 1861 to 2011",
+    "institution_or_author": "Statistics Canada",
+    "publication_date": "2012판",
+    "source_type": "secondary: 공식 역사 계열 재수록",
+    "document_or_accession_number": "11-402-X, Table 24.1",
+    "locator": "Canada의 1941 열 및 본문 주 1",
+    "url": "https://www150.statcan.gc.ca/n1/pub/11-402-x/2012000/chap/pop/tbl/tbl01-eng.htm",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 11,506,655명 재수록과 뉴펀들랜드·래브라도의 캐나다 합계 반영 범위."
+    ],
+    "limitations": [
+      "125와 같은 인구조사 계통이며 독립 인구 집계가 아니다."
+    ],
+    "rights": "Statistics Canada 공개 통계. 수치 발췌와 자체 요약.",
+    "independence_group": "census-canada-1941"
   }
 ]
