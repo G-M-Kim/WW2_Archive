@@ -636,8 +636,9 @@
     "category": "유명한 정치 인물",
     "article_path": "categories/united-kingdom/08-political-personnel.md",
     "planned_at": "2026-11-12T15:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-GB-08.json",
+    "completed_at": "2026-11-12T20:54:57+09:00"
   },
   {
     "step": 47,

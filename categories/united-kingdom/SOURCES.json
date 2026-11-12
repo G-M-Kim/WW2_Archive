@@ -1489,5 +1489,225 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "caspir-nicolson"
+  },
+  {
+    "id": "CAT-GB-SRC-0075",
+    "title": "History of Sir Winston Churchill",
+    "institution_or_author": "UK Government / GOV.UK",
+    "publication_date": null,
+    "source_type": "secondary: 영국 정부 인물 소개",
+    "document_or_accession_number": null,
+    "locator": "Born, Died, Political party, Biography",
+    "url": "https://www.gov.uk/government/history/past-prime-ministers/winston-churchill",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "옥스퍼드셔 출생, 생몰연도, 보수당 소속, 1940년 연립정부와 총리 겸 국방장관 직책."
+    ],
+    "limitations": [
+      "후대 전기 개관. 개별 정책의 결정 과정을 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "govuk-pm-churchill"
+  },
+  {
+    "id": "CAT-GB-SRC-0076",
+    "title": "History of Clement Attlee",
+    "institution_or_author": "UK Government / GOV.UK",
+    "publication_date": null,
+    "source_type": "secondary: 영국 정부 인물 소개",
+    "document_or_accession_number": null,
+    "locator": "Born, Died, Political party, Biography",
+    "url": "https://www.gov.uk/government/history/past-prime-ministers/clement-attlee",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "런던 출생, 생몰연도, 노동당 당수, 1942~1945년 부총리 및 1945년 총리직."
+    ],
+    "limitations": [
+      "후대 전기 개관. 개별 직무 위임 문서나 회의록이 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "govuk-pm-attlee"
+  },
+  {
+    "id": "CAT-GB-SRC-0077",
+    "title": "War Cabinet",
+    "institution_or_author": "House of Commons / Hansard",
+    "publication_date": "1940-05-13",
+    "source_type": "primary: 전시내각 명단의 의회 기록",
+    "document_or_accession_number": "HC Deb vol. 360 c. 1497",
+    "locator": "1497단, 1940-05-11 표기 명단",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1940/may/13/war-cabinet",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "처칠 총리 겸 국방장관, 체임벌린, 애틀리 국새상서, 핼리팩스, 그린우드의 명단."
+    ],
+    "limitations": [
+      "시점별 명단이다. 개인별 역할이나 이후 개편을 단독으로 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hansard-1940-war-cabinet-list"
+  },
+  {
+    "id": "CAT-GB-SRC-0078",
+    "title": "His Majesty’s Government",
+    "institution_or_author": "House of Commons / Hansard",
+    "publication_date": "1940-05-13",
+    "source_type": "primary: 하원 발언 및 표결 기록",
+    "document_or_accession_number": "HC Deb vol. 360 cc. 1501–1525, Division No. 62",
+    "locator": "1501~1503단의 처칠과 리스스미스 발언, Division No. 62 표결과 결의",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1940/may/13/his-majestys-government-1",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "처칠이 설명한 국왕의 위임과 5인 전시내각, 리스스미스가 보고한 노동당 참여 과정, 찬성 381·반대 0 표결."
+    ],
+    "limitations": [
+      "처칠과 리스스미스는 같은 토론에서 각자의 관여를 공개 설명했다. 비공개 협상 경위는 추가 사료가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hansard-1940-coalition-debate"
+  },
+  {
+    "id": "CAT-GB-SRC-0079",
+    "title": "A guide to researching working-class history",
+    "institution_or_author": "Churchill Archives Centre",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관 연구 안내",
+    "document_or_accession_number": "연결 소장군 BEVN, 전시 연설 BEVN II 1",
+    "locator": "Archive of Ernest Bevin, Second World War, Trade unions",
+    "url": "https://archives.chu.cam.ac.uk/collections/research-guides/working-class-history/",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "노동조합 지도자 경력과 전시 노동·국민복무장관, 이후 외무장관 경력을 확인했다."
+    ],
+    "limitations": [
+      "기관 해설만 확인했다. 연결된 소장 자료 원본은 열람하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "churchill-archives-bevin-guide"
+  },
+  {
+    "id": "CAT-GB-SRC-0080",
+    "title": "Coalmining (Compulsory Recruitment)",
+    "institution_or_author": "Ernest Bevin 및 하원의원 / Hansard",
+    "publication_date": "1943-12-02",
+    "source_type": "primary: 전시 정책 발표 및 질의",
+    "document_or_accession_number": "HC Deb vol. 395 cc. 521–529",
+    "locator": "521~529단, 대상·추첨·훈련·배치 및 북아일랜드 질의",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1943/dec/02/coalmining-compulsory-recruitment",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대상자 선정 방식, 두 부처의 훈련·배치 분담, 북아일랜드 적용 제외 설명과 하원 질의."
+    ],
+    "limitations": [
+      "발표 및 질의 기록. 당일 실제 배치나 법적 근거 원문은 별도다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hansard-bevin-coal-1943"
+  },
+  {
+    "id": "CAT-GB-SRC-0081",
+    "title": "Directed Mineworkers",
+    "institution_or_author": "Ernest Bevin / House of Commons, Hansard",
+    "publication_date": "1945-02-15",
+    "source_type": "primary: 하원 질의에 대한 전시 장관 답변",
+    "document_or_accession_number": "HC Deb vol. 408 cc. 363–364",
+    "locator": "363~364단, 제2번 질의와 장관 답변",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1945/feb/15/directed-mineworkers",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944-03-01~1945-01-27에 18,794명 근무 지시, 그중 17,293명 훈련 진입."
+    ],
+    "limitations": [
+      "장관이 밝힌 기간 집계로 전체 징발, 훈련 수료, 실제 지하 근무와 생산량은 알 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hansard-bevin-coal-1945"
+  },
+  {
+    "id": "CAT-GB-SRC-0082",
+    "title": "Voices in the Coalshed: VE Day",
+    "institution_or_author": "National Coal Mining Museum for England",
+    "publication_date": "2025-04-30",
+    "source_type": "secondary: 박물관 해설",
+    "document_or_accession_number": null,
+    "locator": "From December 14th, 1943 단락",
+    "url": "https://www.ncm.org.uk/news/voices-in-the-coalshed-ve-day/",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 12월 14일 징발 시행과 등록번호 추첨 방식의 후대 서술."
+    ],
+    "limitations": [
+      "시행일의 별도 원장과 박물관 글의 총계는 검증하지 않았다. 하원 답변의 기간 집계를 대체하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ncm-coal-conscription-overview"
+  },
+  {
+    "id": "CAT-GB-SRC-0083",
+    "title": "Thompson Minutes — Tenth Plenary Meeting, Potsdam",
+    "institution_or_author": "Llewellyn E. Thompson / U.S. Department of State",
+    "publication_date": "1945-07-28 회의",
+    "source_type": "primary: 미국 측 회의록의 공개 편찬본",
+    "document_or_accession_number": "Truman Papers / FRUS Berlin 1945 vol. II, unnumbered document following 710 (#130)",
+    "locator": "제10차 전체회의, 464~465쪽, §2 Italian Reparations",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv02/d710a-130",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 배상에서 애틀리가 설비 일회성 반출을 질의하고 베빈이 기존 지원의 우선을 언급했다."
+    ],
+    "limitations": [
+      "미국 측 회의 요약이다. 영국 내부 지시나 합의문의 개인별 기여를 확정하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "frus-thompson-minutes"
+  },
+  {
+    "id": "CAT-GB-SRC-0084",
+    "title": "Report on the Tripartite Conference of Berlin",
+    "institution_or_author": "미국·영국·소련 정부 / U.S. Department of State 편찬",
+    "publication_date": "1945-08-02 공개",
+    "source_type": "primary: 공개 공동보고의 편찬본",
+    "document_or_accession_number": "Truman Papers / FRUS Berlin 1945 vol. II, document 1384",
+    "locator": "1499~1502쪽, I. Report on the Tripartite Conference of Berlin 및 III. Germany",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv02/d1384",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "처칠과 애틀리·베빈의 회담 참석 시점 및 독일 점령의 정치·경제 원칙에 관한 공동 합의 발표."
+    ],
+    "limitations": [
+      "공개 합의 요약이다. 조항별 제안자, 비공개 토론, 이후 집행은 확인 범위 밖이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "potsdam-final-communique"
+  },
+  {
+    "id": "CAT-GB-SRC-0085",
+    "title": "Mr Ernest Bevin",
+    "institution_or_author": "UK Parliament / Historic Hansard",
+    "publication_date": null,
+    "source_type": "secondary: 의회 인물·발언 색인",
+    "document_or_accession_number": null,
+    "locator": "인물 표제 및 Constituencies",
+    "url": "https://api.parliament.uk/historic-hansard/people/mr-ernest-bevin/index.html",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "베빈의 생몰연도 및 1940년부터 완즈워스 센트럴 의석 기록."
+    ],
+    "limitations": [
+      "후대 색인이다. 출생 증명서나 정부 임명 문서로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hansard-bevin-person-index"
   }
 ]
