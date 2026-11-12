@@ -203,5 +203,58 @@
     ],
     "evidence": "candidate: 세 대표 함정만 첫 조사했다. 다른 주력함과 구축함, 잠수함, 호위함, 상륙함 및 보조함은 미검사.",
     "completion_condition": "전시 함정 목록, 함별 인수·개장·작전 기록을 확보해 영국과 도미니언의 건조·이관·운용을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0016",
+    "status": "open",
+    "question": "스핏파이어 Mk I의 장착 조합별 비행시험값과 덩케르크 출격기의 실제 무장은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0010",
+      "CAT-GB-SRC-0040",
+      "CAT-GB-SRC-0041"
+    ],
+    "evidence": "candidate: K9787의 초기 시험과 제19비행대 사례를 확인. N3200의 당시 프로펠러·무장·탄약 배정과 시험 성적은 미확인.",
+    "completion_condition": "기체별 장착·인수 기록과 RAF 제19비행대 Form 540/541 및 장비표를 같은 날짜로 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0017",
+    "status": "open",
+    "question": "랭커스터 Mk I의 프로펠러·엔진별 성능과 R5868의 방어무장·임무 탑재량은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0011",
+      "CAT-GB-SRC-0042",
+      "CAT-GB-SRC-0043",
+      "CAT-GB-SRC-0044"
+    ],
+    "evidence": "candidate: JB127의 A5/148 시험과 R5868의 한 임무 탑재 사례를 확인. 표준 프로펠러 시험과 개별 기체의 포탑·기관총 기록은 미확인.",
+    "completion_condition": "A&AEE 비교 보고서 제50부와 동일 기체·하중 시험을 대조하고, 작전일지 및 포탑·폭탄창 장비표를 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0018",
+    "status": "open",
+    "question": "호르사 병력 25명과 30명은 각각 어떤 형식·적재 조건의 수치인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0012",
+      "CAT-GB-SRC-0045",
+      "CAT-GB-SRC-0046",
+      "CAT-GB-SRC-0047"
+    ],
+    "evidence": "disputed: Mk I 교범은 장비를 갖춘 병력 25명을 제시하나 NAM 설명은 Mk와 적재 조건 없이 30명을 제시한다. 실제 노르망디 적재는 미확인.",
+    "completion_condition": "Mk I·II 교범 판본별 적재표와 글라이더별 출발 명부를 대조해 승무원, 탑승병력, 장비 및 기체번호를 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0019",
+    "status": "open",
+    "question": "그 밖의 영국 설계·생산·도입 항공기는 어떤 형식과 임무로 운용됐는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0010",
+      "CAT-GB-EQP-0011",
+      "CAT-GB-EQP-0012",
+      "CAT-GB-SRC-0041",
+      "CAT-GB-SRC-0043",
+      "CAT-GB-SRC-0047"
+    ],
+    "evidence": "candidate: 전투기·중폭격기·글라이더 각 한 계열을 검토했다. 다른 전투·공격·폭격·함재·정찰·동력 수송·훈련·연락·수상 항공기 등은 미검사.",
+    "completion_condition": "형식별 시험표·생산대장·부대 작전일지를 찾아 영국산, 도미니언 면허생산, 외국 도입 및 실제 운용 부대를 구분한다."
   }
 ]

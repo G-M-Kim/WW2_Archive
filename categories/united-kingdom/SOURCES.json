@@ -781,5 +781,165 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "devonport-belfast-npa6728"
+  },
+  {
+    "id": "CAT-GB-SRC-0040",
+    "title": "Spitfire Mk I K.9787 — Performance Trials",
+    "institution_or_author": "Aeroplane and Armament Experimental Establishment, Martlesham Heath / WWII Aircraft Performance 전사본",
+    "publication_date": "1938-08-18~12-12 시험, 1939-01-06 보고(같은 사이트의 보고 표제)",
+    "source_type": "primary: 동시대 비행시험 보고 전사",
+    "document_or_accession_number": "K.9787; Spec. 16/36",
+    "locator": "Results of Trials, Summary of Trials, Speed Trials; Mk I 보고 색인의 K.9787 표제",
+    "url": "https://www.wwiiaircraftperformance.com/org/spitcom/mk1/spitmk1_K9787.html",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "초기 양산기 K9787의 Merlin II·목제 고정피치 프로펠러·5,819 lb 및 18,500 ft에서 TAS 362.5 mph. 요약표는 362 mph."
+    ],
+    "limitations": [
+      "비행시험 전사본이다. 동일 미러의 보고 표제는 독립 시험이 아니다. N3200이나 다른 전시 장착 상태에 소급하지 않았다."
+    ],
+    "rights": "공개 열람 전사본. 자체 요약과 링크만 사용.",
+    "independence_group": "aaee-spitfire-k9787"
+  },
+  {
+    "id": "CAT-GB-SRC-0041",
+    "title": "Battle of Britain, Hangar 4 — Large Print Guide",
+    "institution_or_author": "Imperial War Museums, Duxford",
+    "publication_date": null,
+    "source_type": "secondary: 소장 기체와 전시 해설",
+    "document_or_accession_number": "IWM 다운로드 13301 (웹 식별자)",
+    "locator": "Supermarine Spitfire Mk IA 및 Corporal Fred Roberts 항목",
+    "url": "https://www.iwm.org.uk/file-download/download/public/13301",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "N3200과 제19비행대의 덩케르크 임무, 언윈의 스핏파이어에 장착된 .303인치 Browning 8정."
+    ],
+    "limitations": [
+      "박물관 전시 해설이다. 언윈 기체의 무장 서술은 N3200의 당일 장착과 탄약을 확증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "iwm-duxford-battle-of-britain"
+  },
+  {
+    "id": "CAT-GB-SRC-0042",
+    "title": "Lancaster I JB127 — Climb and Level Speed Performance",
+    "institution_or_author": "Aeroplane and Armament Experimental Establishment / WWII Aircraft Performance 공개본",
+    "publication_date": "1944-05 시험",
+    "source_type": "primary: 동시대 비행시험 보고 PDF",
+    "document_or_accession_number": "A.&A.E.E. CTO/AM.62/15; M.A.P. RA.5853/RDL2(b)",
+    "locator": "§§2.1–2.5·4.2·6.1, Table II",
+    "url": "https://www.wwiiaircraftperformance.org/Lancaster/Lancaster_I_JB127_Climb_and_Level_Speed_Performance.pdf",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "JB127의 Merlin 24 4기와 A5/148 프로펠러, 63,000 lb 시험 이륙중량, 10,000 ft TAS 280 mph."
+    ],
+    "limitations": [
+      "시험 기체와 해당 구성의 수치다. 문서가 참조하는 표준 프로펠러의 별도 원보고와 전시 R5868의 시험 성적은 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "aaee-lancaster-jb127"
+  },
+  {
+    "id": "CAT-GB-SRC-0043",
+    "title": "Individual History — Avro Lancaster B.Mk.1 R5868/7325M",
+    "institution_or_author": "Royal Air Force Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 기체 이력 편찬",
+    "document_or_accession_number": "74/A/12; Section 2B; 기체 R5868",
+    "locator": "표제·제작 단락 및 1942-06-29, 1943-09, 1944-02-15~16 항목",
+    "url": "https://www.rafmuseum.org.uk/documents/collections/74-A-12_Avro_Lancaster_R5868.pdf",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Metropolitan-Vickers 제작, RAF 제83비행대 인도, 호주 제467비행대 이관 및 1944년 2월 베를린 출격의 4,000 lb 폭탄 1발 기록."
+    ],
+    "limitations": [
+      "당시 기록을 인용한 기체 이력이다. 해당 탑재는 임무 사례다. 기체별 출격 총수는 문서 내 이견이 있어 채택하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "rafm-r5868-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0044",
+    "title": "RAF armourers with a 2,000 lb bomb beneath a Lancaster of No. 467 Squadron RAAF",
+    "institution_or_author": "촬영자 미확인 / Australian War Memorial",
+    "publication_date": "1944-08경",
+    "source_type": "primary: 전시 사진",
+    "document_or_accession_number": "UK1770 / C263609",
+    "locator": "사진 판면, Accession Number, Description",
+    "url": "https://www.awm.gov.au/collection/C263609",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "워딩턴에서 랭커스터 아래에 폭탄을 준비하는 장면. 2,000 lb와 부대명은 소장 설명에서 확인."
+    ],
+    "limitations": [
+      "준비 장면의 전시 사진이다. 정확한 촬영일, Mk, 기체 일련번호와 이륙 후 사용 여부는 미확인."
+    ],
+    "rights": "AWM 표기 Public Domain. 자체 설명과 링크만 사용.",
+    "independence_group": "awm-uk1770"
+  },
+  {
+    "id": "CAT-GB-SRC-0045",
+    "title": "Pilot’s Notes — Horsa I Glider",
+    "institution_or_author": "British Air Ministry / voloavela.it 공개본",
+    "publication_date": "1944-01 (Pilot’s Notes)",
+    "source_type": "primary: 동시대 교범 PDF",
+    "document_or_accession_number": "A.P. 2097A–P.N.",
+    "locator": "Part I, §1 Introductory",
+    "url": "https://voloavela.it/museo/attachments/article/121/horsa-manual.pdf",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "장비를 갖춘 병력 25명 또는 군수품·경차량을 운반하도록 설계. 별도의 조종사 좌석 2석."
+    ],
+    "limitations": [
+      "Mk I 설계 조건이다. 노르망디 실탑승 명부나 Mk II의 조건으로 사용하지 않았다. PDF에는 서로 다른 발행 시기의 문서가 함께 들어 있다."
+    ],
+    "rights": "교범의 Crown copyright 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "air-ministry-horsa-ap2097a"
+  },
+  {
+    "id": "CAT-GB-SRC-0046",
+    "title": "Airspeed Horsa glider, 1944",
+    "institution_or_author": "National Army Museum / 사진 촬영 Wilfred Herbert James Sale",
+    "publication_date": "1944 사진, 웹 설명 발행일 미확인",
+    "source_type": "secondary: 전시 사진의 소장 설명",
+    "document_or_accession_number": "1975-03-63-18-151",
+    "locator": "Airspeed Horsa glider, 1944의 소장 설명",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1975-03-63-18-151",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "박물관 해설의 병력 30명 수치와 수송 용도."
+    ],
+    "limitations": [
+      "30명은 사진에서 확인한 탑승 인원이 아니다. 적용 Mk와 적재 조건이 명시되지 않았다. 사진의 별도 판면 확인은 미실시."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-horsa-sale"
+  },
+  {
+    "id": "CAT-GB-SRC-0047",
+    "title": "D-Day Aviators",
+    "institution_or_author": "The Army Flying Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 전시 해설과 당사자 관련 기록 인용",
+    "document_or_accession_number": null,
+    "locator": "Staff Sergeant Stanley Pearson DFM GPR 단락",
+    "url": "https://armyflying.com/the-collections/online-exhibitions/d-day-aviators/",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944-06-05 밤 통가 작전에서 피어슨·거스리와 경보병 병력을 태운 호르사의 오른강 교량 부근 착륙."
+    ],
+    "limitations": [
+      "개별 글라이더 일련번호, Mk, 탑승 인원과 적재표는 공개 설명에서 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "army-flying-pearson-tonga"
   }
 ]
