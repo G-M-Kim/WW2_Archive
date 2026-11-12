@@ -1,11 +1,14 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1942-05-11
-FORWARD_INSPECTED_THROUGH: 1942-05-10
-CURRENT_FORWARD_BATCH: 1942-05-11..1942-05-13
+FORWARD_CURSOR: 1942-05-14
+FORWARD_INSPECTED_THROUGH: 1942-05-13
+CURRENT_FORWARD_BATCH: 1942-05-14..1942-05-16
 TOTAL_EVT_SRC_RQ: 3613/2044/1227
-AS_OF: 2026-11-12
+AS_OF: 2026-11-13
 
-## 최신 전진 실행 — 2026-11-12 (5월 8~10일)
+## 최신 전진 실행 — 2026-11-13 (5월 11~13일)
+- Neosho 함장 1942년 당대 작전보고서 전사·NHHC 공식 해설 대조. 5/11 Henley 구조·자침(15:22), MO 취소·Okinoshima 공격, 5/12 Shoei Maru 격침 후보 확인. 5/13 독립 원전 및 다른 전역 backfill. [감사](source-audit-1942-may11-13-batch1.md). 신규 0/0/0, 누적 3613/2044/1227. 다음 1942-05-14.
+
+## 이전 전진 실행 — 2026-11-12 (5월 8~10일)
 - ONI 1943 전투서술·NHHC 5/8 당대 사진 메타데이터·AWM 공식 전사 대조. Shokaku 피격, Lexington 피격/함내 폭발/퇴함/자침 구분. 5/9~10 독립 원전 및 다른 전역 backfill. [감사](source-audit-1942-may08-10-batch1.md). 신규 0/0/0, 누적 3613/2044/1227. 다음 1942-05-11.
 
 ## 이전 전진 실행 — 2026-11-12 (5월 5~7일)
