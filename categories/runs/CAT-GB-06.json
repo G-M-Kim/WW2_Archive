@@ -1,0 +1,63 @@
+{
+  "step": 44,
+  "job_id": "CAT-GB-06",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 6,
+  "category": "WW2에서 빼놓을 수 없는 장비",
+  "article_path": "categories/united-kingdom/06-essential-technology.md",
+  "status": "partial",
+  "completed_at": "2026-11-12T17:04:21+09:00",
+  "started_at": "2026-11-12T16:59:08+09:00",
+  "base_head": "381c865688e64c8eaec98d3de6b80105fdac75a6",
+  "source_ids": [
+    "CAT-GB-SRC-0010",
+    "CAT-GB-SRC-0059",
+    "CAT-GB-SRC-0060",
+    "CAT-GB-SRC-0061",
+    "CAT-GB-SRC-0062",
+    "CAT-GB-SRC-0063",
+    "CAT-GB-SRC-0064",
+    "CAT-GB-SRC-0065",
+    "CAT-GB-SRC-0066"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0024",
+    "CAT-GB-RQ-0025",
+    "CAT-GB-RQ-0026",
+    "CAT-GB-RQ-0027"
+  ],
+  "entity_ids": [
+    "CAT-GB-EQP-0017",
+    "CAT-GB-EQP-0018",
+    "CAT-GB-EQP-0019"
+  ],
+  "research_scope": "체인 홈 조기경보 레이더, 콜로서스 암호 분석 장비, 멀베리 B 조립식 인공항의 대표 운용과 한계.",
+  "limitations": [
+    "레이더 수치는 지휘관 요약이며 관측소별 탐지조건·가동률은 미확인.",
+    "콜로서스의 인수 기록과 개별 전문 배포, 멀베리 B 폐쇄 이후 시설 사용은 미확인.",
+    "기타 해상·공중 탐지, 암호, 항법, 통신, 사격통제 및 보급 장비는 후속 범위."
+  ],
+  "evidence_checked": [
+    "Dowding §§54–59·69–71과 RCHME 바우드지 연표",
+    "General Report on Tunny 325쪽 전사본, TNMOC 및 GCHQ 기관 설명",
+    "SHAEF Mulberry B 1~2·17쪽, 1944-12-01 Admiralty War Diary, AWM SUK13284 사진과 NAM 설명"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.alanturing.net/turing_archive/archive/t/t01/TR01-027.gif",
+      "result": "웹 열람 도구에서 GIF를 지원하지 않았다. 같은 원보고의 Tony Sale 전사본에서 325쪽을 확인했다."
+    },
+    {
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/second-world-war/operation-overlord-and-d-day/",
+      "result": "웹 열람에서 403이 반환돼 인용하지 않았다. SHAEF 보급 보고, 영국 해군 일지, 박물관 소장 자료를 열었다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=44 pending=89; sources=503 questions=182. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

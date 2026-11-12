@@ -315,5 +315,59 @@
     ],
     "evidence": "candidate: 개인화기·지원화기·보호구·군장 네 사례를 확인했다. 다른 분류는 미검사.",
     "completion_condition": "당대 장비 목록, 생산·불출 자료와 시점·전구가 식별된 실물 또는 사진을 확보한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0024",
+    "status": "open",
+    "question": "체인 홈 관측소별 탐지조건·가동률과 관측단 정보의 분담은 어떻게 달랐는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0017",
+      "CAT-GB-SRC-0010",
+      "CAT-GB-SRC-0059"
+    ],
+    "evidence": "candidate: 바우드지 운용 전환과 지휘관 보고의 전체 요약을 확인했다. 관측소별 조건과 1940년 실제 가동률 미확인.",
+    "completion_condition": "관측소 운용일지와 시험 보고의 표적 고도·기상·설비 상태를 같은 시점의 작전 기록과 맞춘다."
+  },
+  {
+    "id": "CAT-GB-RQ-0025",
+    "status": "open",
+    "question": "콜로서스의 설치·검수·작전 투입 시점과 분석 결과의 배포 경로는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0018",
+      "CAT-GB-SRC-0060",
+      "CAT-GB-SRC-0061",
+      "CAT-GB-SRC-0062"
+    ],
+    "evidence": "candidate: Tunny 분석 장비라는 원보고와 박물관의 운용 일자는 확인. 인수 원장과 개별 전문 배포 기록 미확인.",
+    "completion_condition": "설치·인수일지와 배포표를 확보해 장비 운용과 의사결정에 이르는 경로를 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0026",
+    "status": "open",
+    "question": "멀베리 B의 약 6개월과 10개월은 어떤 운영 범위를 가리키는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0019",
+      "CAT-GB-SRC-0063",
+      "CAT-GB-SRC-0064",
+      "CAT-GB-SRC-0065",
+      "CAT-GB-SRC-0066"
+    ],
+    "evidence": "disputed: 12월 1일 해군 일지의 폐쇄 보고와 국립육군박물관의 10개월 설명이 다르다. 폐쇄 이후 일부 시설 사용 여부는 미확인.",
+    "completion_condition": "11~12월 일일 하역·선박 입출항표, 항만 인계 문서, 이후 시설 사용기록을 비교해 군용 운영과 후속 사용을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0027",
+    "status": "open",
+    "question": "다른 암호·탐지·통신·항법·사격통제·병참 장비의 시험과 전시 배치는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0017",
+      "CAT-GB-EQP-0018",
+      "CAT-GB-EQP-0019",
+      "CAT-GB-SRC-0010",
+      "CAT-GB-SRC-0062",
+      "CAT-GB-SRC-0063"
+    ],
+    "evidence": "candidate: 지상 조기경보·암호 분석·항만 보급 각 한 사례를 조사했다. 봄브와 기타 장비는 이번 첫 조사에서 별도 제원 검토를 하지 않았다.",
+    "completion_condition": "장비별 시험·운용·보급 원장을 찾아 발주, 배치, 개별 운용과 효과를 구분한다."
   }
 ]

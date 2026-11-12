@@ -189,15 +189,17 @@
     "publication_date": "1941년 보고, 1946년 공개",
     "source_type": "primary",
     "document_or_accession_number": null,
-    "locator": "§§54–59 레이더·관측단 및 방공 지휘 설명",
+    "locator": "§§54–59 레이더·관측단 및 방공 지휘 설명, §§69–71 사령부 집계와 관측단 전달",
     "url": "https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/apr-vol18-iss2-4-pdf/",
-    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
     "access_status": "source_checked",
     "claims_checked": [
-      "영국 전투에서 전투기 통제와 경보망의 역할에 관한 지휘관 보고."
+      "영국 전투에서 전투기 통제와 경보망의 역할에 관한 지휘관 보고.",
+      "§54의 평균 유효 반경 약 80마일과 유리한 조건의 약 200마일, §55의 저공 보강 및 §§69–71 정보 전달."
     ],
     "limitations": [
-      "전투기사령관의 사후 보고다. RAF의 전과 판정은 독일 원장과 별도 대조가 필요하다."
+      "전투기사령관의 사후 보고다. RAF의 전과 판정은 독일 원장과 별도 대조가 필요하다.",
+      "지휘관의 요약값이다. 관측소별 시험 조건과 탐지 확률을 제시하지 않는다."
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "dowding-despatch"
@@ -1163,5 +1165,165 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "quaid-pintha-photo"
+  },
+  {
+    "id": "CAT-GB-SRC-0059",
+    "title": "RAF Bawdsey (AMES 24), Bawdsey, Suffolk",
+    "institution_or_author": "Roger J. C. Thomas / Royal Commission on the Historical Monuments of England, Historic England 공개",
+    "publication_date": "1995-10, 1999 개정",
+    "source_type": "secondary: 역사 건축 조사 보고",
+    "document_or_accession_number": "NBR 95120",
+    "locator": "3~4쪽 연표 및 Summary",
+    "url": "https://historicengland.org.uk/research/results/reports/8759/RAFBawdseyBawdseySuffolk",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 시험과 1937년 RAF 인계·9월 24일 완전 운용 기록을 구분."
+    ],
+    "limitations": [
+      "특정 관측소의 역사다. 1940년 전국 관측소의 가동률과 탐지거리는 여기서 산정할 수 없다."
+    ],
+    "rights": "Crown Copyright, RCHME 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "rchme-bawdsey-95120"
+  },
+  {
+    "id": "CAT-GB-SRC-0060",
+    "title": "General Report on Tunny — The Newmanry History",
+    "institution_or_author": "I. J. Good, Donald Michie, Geoffrey Timms / Tony Sale 전사",
+    "publication_date": "1945 원보고, 2001-03 전사 편집",
+    "source_type": "primary: 당대 실무자 보고 전사",
+    "document_or_accession_number": "TNA HW 25/4 및 HW 25/5",
+    "locator": "325쪽 §51 Introductory",
+    "url": "https://www.codesandciphers.org.uk/documents/newman/PAGE325.HTM",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "콜로서스와 로빈슨이 Tunny 분석에 쓰인 장비임을 확인."
+    ],
+    "limitations": [
+      "열람한 쪽은 기능 개요이며 날짜 연표가 아니다. 아카이브 GIF 판면은 도구에서 열리지 않아 전사본을 사용했다."
+    ],
+    "rights": "원문 Crown copyright 및 Tony Sale 전사 편집 권리 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "grt-hw25"
+  },
+  {
+    "id": "CAT-GB-SRC-0061",
+    "title": "Veterans recall D-Day at Colossus at 75 celebration",
+    "institution_or_author": "The National Museum of Computing",
+    "publication_date": "2019-05-30",
+    "source_type": "secondary: 박물관 전시 공개자료",
+    "document_or_accession_number": null,
+    "locator": "Notes to Editors, A short history of Colossus",
+    "url": "https://www.tnmoc.org/news-releases/2019/5/30/veterans-recall-d-day-at-colossus-at-75-celebration",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Mk I 1944-02-05 운용, 같은 해 6월 Mk II 추가."
+    ],
+    "limitations": [
+      "후대 박물관 연표다. 원 설치·검수 일지와 개별 전문의 분석·전달 기록은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "tnmoc-colossus-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0062",
+    "title": "GCHQ celebrates 80 years of Colossus",
+    "institution_or_author": "Government Communications Headquarters",
+    "publication_date": "2024-01-18",
+    "source_type": "secondary: 기관 역사 해설 및 공개 사진 안내",
+    "document_or_accession_number": null,
+    "locator": "콜로서스의 분석 대상과 Bombe를 비교하는 본문",
+    "url": "https://www.gchq.gov.uk/news/colossus-80",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 지휘부 전략 통신의 암호 분석과 Enigma용 Bombe의 구분."
+    ],
+    "limitations": [
+      "전시 전문 원문이나 의사결정 기록의 독립 검증으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "gchq-colossus-80"
+  },
+  {
+    "id": "CAT-GB-SRC-0063",
+    "title": "Mulberry B, D+4–D+147, 10 June to 31 October 1944",
+    "institution_or_author": "SHAEF G-4, R. W. Crawford 지휘하 편찬 / HyperWar 전사",
+    "publication_date": "1944 집계, 정확한 작성일 미확인",
+    "source_type": "primary: 당대 연합군 보급 보고 전사",
+    "document_or_accession_number": null,
+    "locator": "1~2쪽 및 17쪽 Stores Unloadings 표",
+    "url": "https://www.ibiblio.org/hyperwar/ETO/Overlord/MulberryB/index.html",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "부재와 아로망슈의 배치, 계획 일 6,000톤 및 10월 31일까지 627,719 롱톤의 물자 실적."
+    ],
+    "limitations": [
+      "10월 31일까지의 누계이며 폐쇄일까지의 총계가 아니다. 1쪽 628,000톤은 반올림 표기다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "shaef-g4-mulberry-b"
+  },
+  {
+    "id": "CAT-GB-SRC-0064",
+    "title": "Admiralty War Diary, 1–15 December 1944",
+    "institution_or_author": "British Admiralty / Royal Navy Naval Historical Branch 공개",
+    "publication_date": "1944-12-01 항목",
+    "source_type": "primary: 동시대 해군 전쟁일지",
+    "document_or_accession_number": null,
+    "locator": "1 December Situation Report, Channel 3(a)",
+    "url": "https://sccd.royalnavy.mod.uk/-/media/rnweb/locations-and-operations/navy-historical-branch/pdfs/1944/war_diary_naval_1944_12---day-1-to-day-15.pdf?rev=cbb503383a6747ffa44744d774838cb6",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Arrow라고 부른 멀베리 B가 거의 6개월 운용된 뒤 폐쇄됐다는 당일 보고."
+    ],
+    "limitations": [
+      "해군 상황보고의 운영 범위다. 폐쇄 뒤 시설의 일부 사용 여부나 마지막 하역일은 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "admiralty-diary-dec1944"
+  },
+  {
+    "id": "CAT-GB-SRC-0065",
+    "title": "Arromanches, Normandy, France — a Mulberry artificial harbour",
+    "institution_or_author": "촬영자 미확인 / Australian War Memorial",
+    "publication_date": "1944-11경 (소장 설명)",
+    "source_type": "primary: 전시 사진",
+    "document_or_accession_number": "SUK13284 / C278171",
+    "locator": "사진 판면·Description",
+    "url": "https://www.awm.gov.au/collection/C278171",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "아로망슈 항만의 방파제와 항내·외 수면을 보여 주는 전시 사진."
+    ],
+    "limitations": [
+      "촬영일은 추정이며 하역 실적이나 폐쇄일을 확인할 수 없다."
+    ],
+    "rights": "AWM 표기 Public Domain. 자체 요약과 링크만 사용.",
+    "independence_group": "awm-suk13284"
+  },
+  {
+    "id": "CAT-GB-SRC-0066",
+    "title": "Aerial view of the prefabricated port or Mulberry B at Arromanches, 1944",
+    "institution_or_author": "National Army Museum / Commando Association 사진 모음",
+    "publication_date": "1944 사진, 웹 해설 날짜 미확인",
+    "source_type": "secondary: 전시 사진의 소장 해설",
+    "document_or_accession_number": "1985-11-36-477",
+    "locator": "소장 설명 중 항만 운영 기간",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1985-11-36-477&page=1&pos=0&q=resultsDisplay%3Dlist%26searchType%3Dsimple%26simpleText%3Dwar%2Brrom&total=4",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "아로망슈 멀베리 B가 10개월 운영됐다는 소장 해설."
+    ],
+    "limitations": [
+      "10개월의 산정 기준이 없고 1944년 12월 해군 일지와 운영 기간이 다르다. 사진 자체는 기간을 입증하지 않는다."
+    ],
+    "rights": "National Army Museum 권리 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-mulberry-1985-11-36"
   }
 ]
