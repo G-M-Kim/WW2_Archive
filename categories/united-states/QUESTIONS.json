@@ -400,5 +400,58 @@
     ],
     "evidence": "연합군 최고사령부, 태평양함대사령부 및 전투비행단 지휘 사례를 우선 확인했다.",
     "completion_condition": "육상 야전지휘관·현장 함장·개별 비행 승무원·하급 장병의 사례를 전시 원자료로 보완한다."
+  },
+  {
+    "id": "CAT-US-RQ-0032",
+    "status": "open",
+    "question": "행정명령 9066에서 일본계 주민의 실제 배제·수용으로 이어진 기관별 집행 책임은 무엇인가?",
+    "related_ids": [
+      "CAT-US-PER-0004",
+      "CAT-US-SRC-0076",
+      "CAT-US-SRC-0077"
+    ],
+    "evidence": "행정명령의 위임과 의회의 전후 평가를 확인했다. 지역별 배제 명령과 이의 제기 기록은 미대조다.",
+    "completion_condition": "지역별 배제 명령과 집행 기록, 위원회 조사보고서 및 피해자 기록을 서로 연결한다."
+  },
+  {
+    "id": "CAT-US-RQ-0033",
+    "status": "open",
+    "question": "포츠담 선언의 문구별 합의 과정과 이후 일본의 응답은 어떻게 확인되는가?",
+    "related_ids": [
+      "CAT-US-PER-0005",
+      "CAT-US-SRC-0039",
+      "CAT-US-SRC-0080",
+      "CAT-US-SRC-0081",
+      "CAT-US-SRC-0082"
+    ],
+    "evidence": "트루먼의 서한, 주중 대사의 동의 전달, 공동 선언 및 항복 문서를 확인했다. 참가국별 전체 협상 자료는 미열람.",
+    "completion_condition": "미·영·중 문서 초안 및 일본 정부의 회의·응답 기록을 비교한다."
+  },
+  {
+    "id": "CAT-US-RQ-0034",
+    "status": "open",
+    "question": "헐의 국무장관 퇴임 시점과 유엔 설계 과정의 역할을 어떻게 정밀화할 수 있는가?",
+    "related_ids": [
+      "CAT-US-PER-0006",
+      "CAT-US-SRC-0083",
+      "CAT-US-SRC-0084",
+      "CAT-US-SRC-0085",
+      "CAT-US-SRC-0086"
+    ],
+    "evidence": "국무부 약력에 퇴임 날짜가 엇갈린다. 사임 서한과 국제기구 검토용 문서는 확인했다.",
+    "completion_condition": "사임 수리 원문과 인사 대장, 협상 실무 기록을 비교해 날짜와 기여를 검증한다."
+  },
+  {
+    "id": "CAT-US-RQ-0035",
+    "status": "open",
+    "question": "미국 전시 정치 인물의 범위를 어떤 자료로 보완할 수 있는가?",
+    "related_ids": [
+      "CAT-US-SRC-0075",
+      "CAT-US-SRC-0078",
+      "CAT-US-SRC-0079",
+      "CAT-US-SRC-0083"
+    ],
+    "evidence": "이번에는 두 대통령과 한 국무장관을 확인했다. 전시 입법·행정·외교의 다른 담당자는 미조사다.",
+    "completion_condition": "의회, 전쟁부·해군부, 전시 경제 행정 및 외교 대표의 직책과 행위를 당대 기록으로 추가한다."
   }
 ]

@@ -1478,5 +1478,245 @@
     ],
     "rights": "의회도서관 안내의 기증 컬렉션 사진. 권리의 추가 판단 없이 사진을 재게시하지 않고 링크만 사용.",
     "independence_group": "toni-frissell-lc-f9-02-4503-330-2"
+  },
+  {
+    "id": "CAT-US-SRC-0075",
+    "title": "FDR Biography",
+    "institution_or_author": "Franklin D. Roosevelt Presidential Library and Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The Early Years, The Presidency, World War II 및 Fast Facts",
+    "url": "https://www.fdrlibrary.org/fdr-biography",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "루스벨트의 생몰과 민주당 소속, 1933년 취임 및 전시 재임."
+    ],
+    "limitations": [
+      "전기 본문과 약력만 사용했다. 별도 연표의 참전 서술은 검증 범위에서 제외했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "fdr-library-biography"
+  },
+  {
+    "id": "CAT-US-SRC-0076",
+    "title": "Executive Order 9066",
+    "institution_or_author": "Franklin D. Roosevelt / NARA",
+    "publication_date": "1942-02-19",
+    "source_type": "primary",
+    "document_or_accession_number": "Executive Order 9066, RG 11",
+    "locator": "서명 판면, 전사문 첫 두 문단 및 NARA 시행 해설",
+    "url": "https://www.archives.gov/milestone-documents/executive-order-9066",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전쟁부 장관과 지정 군 지휘관에게 군사구역 설정·출입 제한·배제 권한을 부여. NARA는 이후 일본계 주민 강제이주와 수용을 설명한다."
+    ],
+    "limitations": [
+      "행정명령 본문과 NARA의 후대 시행 해설을 구분했다. 개별 군 배제명령 원문은 미열람."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-rg11-executive-order-9066"
+  },
+  {
+    "id": "CAT-US-SRC-0077",
+    "title": "Civil Liberties Act of 1988",
+    "institution_or_author": "미 연방 의회 / U.S. Government Publishing Office",
+    "publication_date": "1988-08-10",
+    "source_type": "primary",
+    "document_or_accession_number": "Public Law 100-383, 102 Stat. 903",
+    "locator": "§§1–2, 인쇄 pp. 903–904",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg903.pdf",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "의회의 강제이주·수용에 대한 사과와 인종적 편견·전시 공포·정치 지도력 실패에 관한 판단."
+    ],
+    "limitations": [
+      "전시 조치에 대한 후대 입법 판단이다. 위원회 조사보고서 전체나 개별 사건의 사법 판단을 대체하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-congress-public-law-100-383"
+  },
+  {
+    "id": "CAT-US-SRC-0078",
+    "title": "Communiqué Issued at the End of the Yalta Conference",
+    "institution_or_author": "미·영·소 정부 수뇌 / 미 국무부 FRUS",
+    "publication_date": "1945-02-11",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS Berlin 1945 II, No. 1417, 740.0011 EW/2–1145",
+    "locator": "서두 및 IV United Nations Conference, V Declaration on Liberated Europe, 인쇄 pp. 1577–1579",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv02/d1417",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "루스벨트의 미국 대통령 자격 회의 참석과 유엔 회의 및 해방 유럽에 관한 공동 발표."
+    ],
+    "limitations": [
+      "공동 발표 전사다. 각국 협상 초안과 합의 이행은 별도 검토가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "yalta-joint-communique-1945-02-11"
+  },
+  {
+    "id": "CAT-US-SRC-0079",
+    "title": "Biographical Sketch: Harry S. Truman, 33rd President of the United States",
+    "institution_or_author": "Harry S. Truman Presidential Library and Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "생몰 및 상원 국방조사 특별위원회·부통령·1945년 4월 12일 취임 단락",
+    "url": "https://www.trumanlibrary.gov/education/trivia/biographical-sketch-harry-truman",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "트루먼의 생몰, 상원 국방조사 특별위원장, 부통령 취임과 대통령직 승계."
+    ],
+    "limitations": [
+      "후대 약력이며 상원 청문회 기록이나 개별 계약의 조사 결과는 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "truman-library-biographical-sketch"
+  },
+  {
+    "id": "CAT-US-SRC-0080",
+    "title": "President Truman to Prime Minister Churchill",
+    "institution_or_author": "Harry S. Truman / 미 국무부 FRUS",
+    "publication_date": "1945-07-25",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS Berlin 1945 II, No. 1248, Truman Papers",
+    "locator": "바벨스베르크 발신 서한 발췌 및 각주 1–2",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv02/d1248",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "트루먼이 장제스의 동의를 기다리면서 처칠에게 공동 발표를 제안했다."
+    ],
+    "limitations": [
+      "서한 발췌는 발표 전 협의 한 단계를 보여준다. 최종 문안은 별도 자료다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "truman-to-churchill-1945-07-25"
+  },
+  {
+    "id": "CAT-US-SRC-0081",
+    "title": "Proclamation by the Heads of Governments, United States, China and the United Kingdom",
+    "institution_or_author": "Harry S. Truman·Winston Churchill·Chiang Kai-shek 명의 / 미 국무부 FRUS",
+    "publication_date": "1945-07-26",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS Berlin 1945 II, No. 1382, 740.00119 Potsdam/7–2645",
+    "locator": "인쇄 pp. 1474–1476, §§1·13, 말미 서명 표기와 각주 1·5",
+    "url": "https://history.state.gov//historicaldocuments/frus1945Berlinv02/d1382",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미·영·중 공동 발표와 일본군 무조건 항복 요구. 편집 각주는 보존본의 타국 지도자 명의가 트루먼 필체라고 설명한다."
+    ],
+    "limitations": [
+      "공개 문안과 보존본의 서명 정보를 보여준다. 세 정상의 대면 서명이나 종전 원인의 증거로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "potsdam-joint-proclamation-1945-07-26"
+  },
+  {
+    "id": "CAT-US-SRC-0082",
+    "title": "The Ambassador in China (Hurley) to the President and the Secretary of State",
+    "institution_or_author": "Patrick J. Hurley, 주중 미국 대사 / 미 국무부 FRUS",
+    "publication_date": "1945-07-26",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS Berlin 1945 II, No. 1251, 740.00119 Potsdam/8–745",
+    "locator": "충칭 발신 전문의 장제스 답신 인용 부분",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv02/d1251",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "장제스가 중화민국 국민정부 수반 명칭에 관한 수정과 함께 대일 선언에 동의했다는 보고."
+    ],
+    "limitations": [
+      "미 대사가 전달한 장제스 답신 전사다. 중화민국 측 보존 원본은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hurley-transmits-chiang-reply-1945-07-26"
+  },
+  {
+    "id": "CAT-US-SRC-0083",
+    "title": "Biographies of the Secretaries of State: Cordell Hull (1871–1955)",
+    "institution_or_author": "미 국무부 Office of the Historian",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Introduction, Early Life, Influence on American Diplomacy, Term of Appointment",
+    "url": "https://history.state.gov/departmenthistory/people/hull-cordell",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "헐의 생몰, 민주당 경력, 1933년 임명과 임기 종료 표기."
+    ],
+    "limitations": [
+      "도입부의 11월 20일과 정식 재임표의 11월 30일이 달라 공식 임명 종료 표기를 우선했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "state-office-of-historian-hull-biography"
+  },
+  {
+    "id": "CAT-US-SRC-0084",
+    "title": "Protocol, Signed at Moscow, November 1, 1943",
+    "institution_or_author": "Cordell Hull·Anthony Eden·V. M. Molotov / 미 국무부 FRUS",
+    "publication_date": "1943-11-01",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1943 I, No. 684, 740.0011 Moscow/340",
+    "locator": "서두, 말미 서명, 부속서 1 Declaration of Four Nations on General Security §4, 인쇄 pp. 749–756",
+    "url": "https://history.state.gov/historicaldocuments/frus1943v01/d684",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "헐의 모스크바 외무장관 회의 참석·의정서 서명과 부속 4개국 선언의 국제기구 구상."
+    ],
+    "limitations": [
+      "의정서와 부속 선언을 구분했다. 각국 대표가 조항을 작성한 비중은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "moscow-conference-protocol-1943-11-01"
+  },
+  {
+    "id": "CAT-US-SRC-0085",
+    "title": "Memorandum by the Secretary of State to President Roosevelt",
+    "institution_or_author": "Cordell Hull / 미 국무부 FRUS",
+    "publication_date": "1943-12-29",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1944 I, No. 376, 500.CC/12–2943",
+    "locator": "인쇄 pp. 614–616, 본문 첫 문단과 첨부 문서",
+    "url": "https://history.state.gov/historicaldocuments/frus1944v01/d376",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "헐이 국무부 실무진이 작성한 국제기구 구상안을 루스벨트에게 제출했다."
+    ],
+    "limitations": [
+      "대통령 검토용 문서이며 최종 유엔 헌장 및 회의에서 채택한 문안과 구분해야 한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hull-to-roosevelt-1943-12-29"
+  },
+  {
+    "id": "CAT-US-SRC-0086",
+    "title": "Letter of Resignation from Secretary of State Cordell Hull",
+    "institution_or_author": "Cordell Hull / University of California, Santa Barbara, The American Presidency Project",
+    "publication_date": "1944-11-21",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "본문 첫 문단 및 공개일에 관한 말미 편집 주",
+    "url": "https://www.presidency.ucsb.edu/documents/letter-resignation-from-secretary-state-cordell-hull",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "헐이 건강 문제로 사임을 요청한 1944-11-21 서한."
+    ],
+    "limitations": [
+      "대학 자료집의 전사를 읽었다. 요청일과 임명 종료일은 서로 다른 날짜다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hull-letter-of-resignation-1944-11-21"
   }
 ]
