@@ -93,5 +93,58 @@
     ],
     "evidence": "candidate. 포트녹스 사진은 M3 중형 계열의 훈련만 보여준다. 다른 형식과 태평양 후기·연합국 배치는 후속 조사 범위다.",
     "completion_condition": "형식별 인수·운용 자료와 소장 표본을 연결하고 국가·군종·전구 및 전시 시점을 구분한다."
+  },
+  {
+    "id": "CAT-US-RQ-0008",
+    "status": "open",
+    "question": "M3와 M3A1의 납품 수량과 박물관 2000.332의 전시 형식·개장 이력은 무엇인가?",
+    "related_ids": [
+      "CAT-US-EQP-0004",
+      "CAT-US-SRC-0026",
+      "CAT-US-SRC-0027",
+      "CAT-US-SRC-0028"
+    ],
+    "evidence": "disputed. 박물관 표의 무장·총중량·최고 속도가 전시 목록의 기본 M3 표기와 다르다. 조달사 수량은 여러 형식 합계다.",
+    "completion_condition": "차대번호와 개장 기록을 확보하고 업체별 인수표에서 M3·M3A1, 신규 생산·개장을 구분한다."
+  },
+  {
+    "id": "CAT-US-RQ-0009",
+    "status": "open",
+    "question": "M8의 전구별 초도 인도와 동아프리카 기갑군단 차량의 공여 경로를 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-US-EQP-0005",
+      "CAT-US-SRC-0026",
+      "CAT-US-SRC-0029",
+      "CAT-US-SRC-0030"
+    ],
+    "evidence": "candidate. NAM 사진 소장 설명은 부대 귀속을 알려주지만 배치 원장과 원 사진 판면은 미확보다.",
+    "completion_condition": "사진 판면·후면 주기와 부대 인수·배치기록을 대조해 장소와 날짜, 실제 배치 및 전투 여부를 확인한다."
+  },
+  {
+    "id": "CAT-US-RQ-0010",
+    "status": "open",
+    "question": "M18의 속도 표기 차이와 T70의 조달·M18 표준화·초도 실전 시점을 어떻게 구분할 수 있는가?",
+    "related_ids": [
+      "CAT-US-EQP-0006",
+      "CAT-US-SRC-0024",
+      "CAT-US-SRC-0026",
+      "CAT-US-SRC-0029",
+      "CAT-US-SRC-0031",
+      "CAT-US-SRC-0032"
+    ],
+    "evidence": "disputed. 평지 지속 50 mph와 전시 안내의 55·60 mph는 조건이 불명이다. 60 mph의 병기 단위도 불일치한다.",
+    "completion_condition": "속도 시험 기록의 하중·노면·지속 여부를 대조하고 인수표·부대 일지로 발주, 인도, 최초 운용을 구분한다."
+  },
+  {
+    "id": "CAT-US-RQ-0011",
+    "status": "open",
+    "question": "다른 구축전차·자주포·특수 기갑차량은 어떤 전시 형식과 운용 근거를 갖는가?",
+    "related_ids": [
+      "CAT-US-SRC-0024",
+      "CAT-US-SRC-0026",
+      "CAT-US-SRC-0028"
+    ],
+    "evidence": "candidate. M10·M36, 자주포·대공·공병·구난·상륙차량 등은 이 첫 검사의 상세 범위 밖이다.",
+    "completion_condition": "차량별 제식 분류와 생산·배치 원장을 연결하고, 개조 차량과 기반 전차의 수량을 중복 집계하지 않는다."
   }
 ]

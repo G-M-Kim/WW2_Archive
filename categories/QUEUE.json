@@ -818,8 +818,9 @@
     "category": "전차 제외 기갑장비, 무장, 성능",
     "article_path": "categories/united-states/02-other-armored-vehicles.md",
     "planned_at": "2026-11-13T17:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-US-02.json",
+    "completed_at": "2026-11-13T20:53:28+09:00"
   },
   {
     "step": 60,

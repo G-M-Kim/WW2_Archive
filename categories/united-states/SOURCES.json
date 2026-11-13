@@ -498,5 +498,145 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "us-army-yank-weekly"
+  },
+  {
+    "id": "CAT-US-SRC-0026",
+    "title": "Catalogue of Standard Ordnance Items, Second Edition, Volume I",
+    "institution_or_author": "U.S. War Department, Office of the Chief of Ordnance, Technical Division",
+    "publication_date": "1944년 제2판, 1945년 교체면 포함",
+    "source_type": "primary",
+    "document_or_accession_number": "Vol. I, Tank and Automotive",
+    "locator": "인쇄 pp. 39–40(M18), 55–56(M8), 65–67(M3·M3A1)",
+    "url": "https://www.90thidpg.us/Reference/Manuals/Standard%20Ordnance%20Items%20Catalog%2C%201944%2C%20Vol%201.pdf",
+    "accessed_at": "2026-11-13T20:53:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "세 형식의 제식 분류, 표준 무장과 정원, 총중량 및 평지 속도 조건을 확인했다."
+    ],
+    "limitations": [
+      "전시 표준 목록으로 시험일·노면 상태·차량별 실측 이력은 미확인이다. 민간 사이트가 소장본을 스캔했다."
+    ],
+    "rights": "미 전쟁부 발행 공개 자료의 디지털 복제본. 자체 요약·링크만 사용.",
+    "independence_group": "us-chief-of-ordnance-1944-catalogue"
+  },
+  {
+    "id": "CAT-US-SRC-0027",
+    "title": "White M3 Half-Track",
+    "institution_or_author": "The National WWII Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "2000.332",
+    "locator": "소장품 본문, Production, Specifications",
+    "url": "https://www.nationalww2museum.org/visit/museum-campus/us-freedom-pavilion/vehicles-war/white-m3-half-track",
+    "accessed_at": "2026-11-13T20:53:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "병력 수송 역할과 소장품 표의 .50 구경 기관총, 최고 45 mph, 총중량 17,650 lb를 확인했다."
+    ],
+    "limitations": [
+      "개별 차량의 전시 개장·계량 상태와 속도 조건, 생산 수치의 형식별 분모는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nww2m-halftrack"
+  },
+  {
+    "id": "CAT-US-SRC-0028",
+    "title": "The Ordnance Department: Procurement and Supply",
+    "institution_or_author": "Harry C. Thomson, Lida Mayo / U.S. Army Center of Military History",
+    "publication_date": "1960년 초판, 1991년 재판",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 10-10",
+    "locator": "Motor Transport Vehicles, Half-Tracks, 인쇄 pp. 292–293",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/10-10.pdf",
+    "accessed_at": "2026-11-13T20:53:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시는 반궤도차를 조달상 cars와 carriers로 구분했다. 22,837대는 여러 carrier 형식과 제조사의 합계다."
+    ],
+    "limitations": [
+      "개별 M3 형식의 제조사·월별 인수량은 이 합계에 분리 기재되지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-cmh-ordnance-procurement"
+  },
+  {
+    "id": "CAT-US-SRC-0029",
+    "title": "Exhibits",
+    "institution_or_author": "Museum of American Armor",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "M8 Armored Car 및 M18 Hellcat 전시 항목",
+    "url": "https://www.museumofamericanarmor.com/exhibits",
+    "accessed_at": "2026-11-13T20:53:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "M8의 6륜 구동·Hercules JXD·최고 55 mph와 M18의 5명·76 mm·55 mph 표기를 확인했다."
+    ],
+    "limitations": [
+      "노면·하중·지속 여부와 제원 원전은 미기재라 전시 장비 목록과 독립된 시험으로 볼 근거가 부족하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "museum-of-american-armor-exhibits"
+  },
+  {
+    "id": "CAT-US-SRC-0030",
+    "title": "M8 Greyhound armoured car and crew, 1944 (c)",
+    "institution_or_author": "National Army Museum, London",
+    "publication_date": "1944년경(촬영 추정), 소장 설명 작성일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "NAM 1965-08-74-8",
+    "locator": "사진 소장 설명, NAM Accession Number, Copyright/Ownership",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1965-08-74-8",
+    "accessed_at": "2026-11-13T20:53:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미국제 M8이 동아프리카 기갑군단 소속이었다는 사진 소장 설명을 확인했다. 소장 설명은 37 mm와 4명을 기재한다."
+    ],
+    "limitations": [
+      "사진 판면을 직접 열람하지 못했다. 정확한 장소·촬영일·공여 경로와 실전 여부는 이 기록으로 확정할 수 없다."
+    ],
+    "rights": "사진 권리는 소장처 표기 Out of Copyright. 사진 미전재.",
+    "independence_group": "nam-1965-08-74-8"
+  },
+  {
+    "id": "CAT-US-SRC-0031",
+    "title": "M18 Hellcat (1943-1944)",
+    "institution_or_author": "Museum of the American G.I.",
+    "publication_date": "2024-05-20",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "WWII M18 Hellcat 및 Did you know?",
+    "url": "https://americangimuseum.org/collections/restored-vehicles/m18-hellcat-1943-1944/",
+    "accessed_at": "2026-11-13T20:53:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시품 설명에서 76 mm M1A2, 승무원 5명, 속도 60 mph(병기 92 km/h) 및 1944년 유럽 운용 사례를 확인했다."
+    ],
+    "limitations": [
+      "60 mph는 약 96.6 km/h로 병기된 값과 불일치한다. 시험 조건·초도 실전 주장의 부대 원문 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "museum-american-gi-m18"
+  },
+  {
+    "id": "CAT-US-SRC-0032",
+    "title": "The Lorraine Campaign",
+    "institution_or_author": "Hugh M. Cole / U.S. Army Center of Military History",
+    "publication_date": "1950년 초판, 1993년 재판",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 7-6-1",
+    "locator": "The Arracourt Tank Battle, 19–22 September, 인쇄 pp. 223–224 및 주 23",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/L%20Pdf/CMH_Pub_7-6-1.pdf?ver=eQS9OjL5p7SMXu-7vccAZg%3D%3D",
+    "accessed_at": "2026-11-13T20:53:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 9월 19일 아라쿠르 일대 미 제704구축전차대대 참전 및 18~19일 밤 C중대 배속을 확인했다."
+    ],
+    "limitations": [
+      "해당 본문은 대대와 차량 분류를 확인해 주지만 세부 장비 형식이나 복원 표본의 소속을 명시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-cmh-lorraine"
   }
 ]
