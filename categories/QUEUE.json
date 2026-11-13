@@ -832,8 +832,9 @@
     "category": "함선 및 함정, 무장, 성능",
     "article_path": "categories/united-states/03-naval-vessels.md",
     "planned_at": "2026-11-13T19:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-US-03.json",
+    "completed_at": "2026-11-13T23:00:38+09:00"
   },
   {
     "step": 61,

@@ -146,5 +146,58 @@
     ],
     "evidence": "candidate. M10·M36, 자주포·대공·공병·구난·상륙차량 등은 이 첫 검사의 상세 범위 밖이다.",
     "completion_condition": "차량별 제식 분류와 생산·배치 원장을 연결하고, 개조 차량과 기반 전차의 수량을 중복 집계하지 않는다."
+  },
+  {
+    "id": "CAT-US-RQ-0012",
+    "status": "open",
+    "question": "에식스 CV-9의 날짜별 탑재기·대공무장 및 32·33 kn 표기의 기준은 무엇인가?",
+    "related_ids": [
+      "CAT-US-EQP-0007",
+      "CAT-US-SRC-0033",
+      "CAT-US-SRC-0034",
+      "CAT-US-SRC-0035",
+      "CAT-US-SRC-0036"
+    ],
+    "evidence": "disputed. ONI의 1945년 함급 최고 속력과 DANFS의 개별함 속력 표기가 다르다. 함급 표의 항공기 편성 예시를 CV-9 실탑재로 볼 근거가 부족하다.",
+    "completion_condition": "개별함 시운전 성적표와 전시 항공단 편성표·개장 기록을 날짜 및 배수 상태별로 대조한다."
+  },
+  {
+    "id": "CAT-US-RQ-0013",
+    "status": "open",
+    "question": "미주리의 전시 만재 배수량과 실제 최고 속력을 특정할 수 있는가?",
+    "related_ids": [
+      "CAT-US-EQP-0008",
+      "CAT-US-SRC-0033",
+      "CAT-US-SRC-0036",
+      "CAT-US-SRC-0037",
+      "CAT-US-SRC-0038",
+      "CAT-US-SRC-0039"
+    ],
+    "evidence": "disputed. ONI는 아이오와급 전시 평균 56,500 tons·최고 30 kn를, 기념관은 BB-63의 33 kn 초과와 퇴역 자료의 loaded 58,000 tons를 제시한다.",
+    "completion_condition": "1944~45년 BB-63 시운전·적재기록에서 전시 평균과 만재의 정의를 구분하고 속력·하중 조건을 연결한다."
+  },
+  {
+    "id": "CAT-US-RQ-0014",
+    "status": "open",
+    "question": "가토 SS-212의 갑판포 교체일과 순찰별 제원은 어디까지 확인되는가?",
+    "related_ids": [
+      "CAT-US-EQP-0009",
+      "CAT-US-SRC-0033",
+      "CAT-US-SRC-0040",
+      "CAT-US-SRC-0041"
+    ],
+    "evidence": "candidate. ONI 함급 표의 5인치와 1944년 11월 가토 사진 설명의 4인치는 대상과 날짜가 다르다. 정확한 교체일·최종 상태 및 개별함 속력 시험자료는 미확보다.",
+    "completion_condition": "사진 원판, 조선소 개장 명세, 순찰보고 전문과 시험 성적표를 같은 함번과 날짜로 연결한다."
+  },
+  {
+    "id": "CAT-US-RQ-0015",
+    "status": "open",
+    "question": "순양함·구축함·호위함·상륙 및 지원 함정의 함급과 개별함 제원은 어떻게 비교할 수 있는가?",
+    "related_ids": [
+      "CAT-US-SRC-0033",
+      "CAT-US-SRC-0036"
+    ],
+    "evidence": "candidate. 이번 원고의 사례는 함대항모·고속전함·함대잠수함에 한정된다.",
+    "completion_condition": "전시 함급 자료와 함별 일지·인수 자료를 대조하고, 배수량과 속력의 기준 및 개장 시점을 함께 기록한다."
   }
 ]

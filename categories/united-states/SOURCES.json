@@ -638,5 +638,185 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "us-army-cmh-lorraine"
+  },
+  {
+    "id": "CAT-US-SRC-0033",
+    "title": "United States Naval Vessels",
+    "institution_or_author": "U.S. Navy, Division of Naval Intelligence",
+    "publication_date": "1945-09-01",
+    "source_type": "primary",
+    "document_or_accession_number": "ONI 222-US",
+    "locator": "서문, 인쇄 p. 1 Iowa Class, p. 29 Essex Class, p. 113 Gato Class",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/ONI%20Recognition%20Manuals%20and%20other%20material/ONI%20222-US.United%20States.Naval.Vessels.pdf",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "함급별 기준·전시 평균·잠항 배수량, 속력 조건과 대표 무장 구성을 확인했다. 각 함의 함번을 함급 표에서 확인했다."
+    ],
+    "limitations": [
+      "종전 직전 함급 참고서다. 특정 함의 특정 날짜 만재 상태, 시험 실측, 개장 후 실물 확인을 대신하지 않는다."
+    ],
+    "rights": "미 해군 공개 발행 문서의 디지털 복제본. 자체 요약과 링크만 사용.",
+    "independence_group": "usn-oni-222-us-1945"
+  },
+  {
+    "id": "CAT-US-SRC-0034",
+    "title": "USS Essex IV (CV-9), Dictionary of American Naval Fighting Ships",
+    "institution_or_author": "U.S. Navy, Office of the Chief of Naval Operations, Naval History Division",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "DANFS, Essex IV (CV-9)",
+    "locator": "제원 첫 줄, 진수·취역 및 1944년 10~11월 단락",
+    "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CV/cv9.html",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "개별함의 1942-07-31 진수와 1942-12-31 취역, 1944년 레이테 및 11월 피격과 제원표 33 kn를 확인했다."
+    ],
+    "limitations": [
+      "HyperWar 전재본이다. 제원표의 속력 시험 조건과 배수량 기준이 해당 줄에서 명시되지 않는다. 미 해군 웹판은 직접 열람 실패."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "usn-danfs-essex"
+  },
+  {
+    "id": "CAT-US-SRC-0035",
+    "title": "Pictorial: Essex: More than a Ship, More than a Class",
+    "institution_or_author": "Richard F. Cross III / U.S. Naval Institute",
+    "publication_date": "1975-09",
+    "source_type": "secondary",
+    "document_or_accession_number": "Proceedings Vol. 101/9/871",
+    "locator": "최종 CV-9 설계 및 1940년 배수량 단락",
+    "url": "https://www.usni.org/magazines/proceedings/1975/september/pictorial-essex-more-ship-more-class",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "설계 기준 27,100 tons, 예상 시운전 33,900 tons, 설계 함포 5인치 12문과 Essex 취역일을 확인했다."
+    ],
+    "limitations": [
+      "미교정 OCR 본문을 열람했다. 예상 시운전 배수량은 개별함의 계측치가 아니다. 원자료 공유 여부는 확인되지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "usni-cross-essex"
+  },
+  {
+    "id": "CAT-US-SRC-0036",
+    "title": "“On the Verge of Breaking Down Completely”: Surviving the Kamikaze off Okinawa, 1945",
+    "institution_or_author": "Guy J. Nasuti / Naval History and Heritage Command",
+    "publication_date": "2023",
+    "source_type": "secondary",
+    "document_or_accession_number": "ISBN 978-1-943604-84-5 (digital)",
+    "locator": "표지 NH 62696, 인쇄 p. 4 사진 80-G-270738 및 UA 478.12",
+    "url": "https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/verge_breaking_down_508_080323.pdf",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Essex의 1944-11-25 루손 앞바다 피격 일자와 Missouri의 1945년 4월 오키나와 앞바다 운용을 사진 캡션과 대조했다."
+    ],
+    "limitations": [
+      "후대 연구서의 전시 사진 재수록판이다. 사진 캡션의 함명·날짜를 사용했고 함포 수량과 세부 수리 공정은 이 자료로 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nhhc-nasuti-2023"
+  },
+  {
+    "id": "CAT-US-SRC-0037",
+    "title": "USS Missouri (BB-63) and the Iowa Class Battleship",
+    "institution_or_author": "Battleship Missouri Memorial",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "BB-63",
+    "locator": "동명 본문 첫 두 단락",
+    "url": "https://ussmissouri.org/history/the-ship",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "개별함의 아이오와급 분류, 뉴욕 브루클린 해군 조선소 건조와 33 kn 초과 속력 표기를 확인했다."
+    ],
+    "limitations": [
+      "기념관의 속력 설명에 시험 일자, 배수 상태와 측정 조건이 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "missouri-memorial"
+  },
+  {
+    "id": "CAT-US-SRC-0038",
+    "title": "Ship Characteristics",
+    "institution_or_author": "Battleship Missouri Memorial",
+    "publication_date": "웹 게시일 미상, 인용 자료 1992-03-31",
+    "source_type": "secondary",
+    "document_or_accession_number": "BB-63 Second Decommissioning program",
+    "locator": "Ship Characteristics 표의 Launched, Commissioned, Displacement 및 제원 출전",
+    "url": "https://ussmissouri.org/kr/history/the-ship/ship-characteristics",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "진수 1944-01-29와 취역 1944-06-11이 별도다. 1992년 자료의 배수량은 loaded 58,000과 unloaded 45,000 tons로 표기한다."
+    ],
+    "limitations": [
+      "1992년 퇴역 프로그램 인용이다. 배수량 표기의 적용 시점과 적재 정의가 불명이며, 전시 평균 또는 1945년 만재로 귀속할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "missouri-memorial"
+  },
+  {
+    "id": "CAT-US-SRC-0039",
+    "title": "Instrument of Surrender",
+    "institution_or_author": "일본·연합국 서명 대표 / U.S. National Archives",
+    "publication_date": "1945-09-02",
+    "source_type": "primary",
+    "document_or_accession_number": "NARA 1752336, RG 218",
+    "locator": "문서 1쪽 판면, 서명란 전사문 및 NARA 소장 설명",
+    "url": "https://www.archives.gov/milestone-documents/surrender-of-japan",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "서명 문서의 날짜와 도쿄만 표기를 확인했다. USS Missouri는 NARA 소장 설명에서 장소로 확인했다."
+    ],
+    "limitations": [
+      "문서 판면과 소장 설명이 제공하는 정보가 다르다. 함정 성능의 자료로 사용하지 않았다."
+    ],
+    "rights": "미 국립문서기록관리청 공개 열람 자료. 판면은 재수록하지 않았다.",
+    "independence_group": "nara-rg218-surrender"
+  },
+  {
+    "id": "CAT-US-SRC-0040",
+    "title": "Submarine Photo Index: Gato (SS-212)",
+    "institution_or_author": "NavSource Naval History",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "SS-212, USN 19-N-75563 및 19-N-75565",
+    "locator": "건조·진수·취역 이력, Specifications, 1944-11-29 사진 설명",
+    "url": "https://navsource.net/archives/08/08212a.htm",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941-12-31 취역, 개별함의 수상 20.25 kn·잠항 8.75 kn 표기 및 1944년 11월 4인치 갑판포의 사진 설명을 확인했다."
+    ],
+    "limitations": [
+      "제원 수치의 시험 조건 미기재. 사진 소장처 원본과 개장 명세서는 미열람. 사진 설명은 해당 일자의 표본 근거다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "navsource-gato"
+  },
+  {
+    "id": "CAT-US-SRC-0041",
+    "title": "Do You Believe It? Part I",
+    "institution_or_author": "Submarine Force Library & Museum Association",
+    "publication_date": "2014-06-09",
+    "source_type": "secondary",
+    "document_or_accession_number": "USS Gato seventh war patrol, 발췌",
+    "locator": "제7차 순찰의 출항·복귀 서술 및 순찰보고 인용",
+    "url": "https://ussnautilus.org/do-you-believe-it-part-i/",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제7차 순찰의 1943-11-18 브리즈번 출항 및 1944-01-10 밀른만 지원함 Fulton 접안을 확인했다."
+    ],
+    "limitations": [
+      "박물관의 순찰보고 부분 인용과 해설이다. 보고서 전문, 격침 수치 및 함포 변경일은 검증하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "submarine-force-library-museum-gato"
   }
 ]
