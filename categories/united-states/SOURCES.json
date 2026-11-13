@@ -818,5 +818,165 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "submarine-force-library-museum-gato"
+  },
+  {
+    "id": "CAT-US-SRC-0042",
+    "title": "P-51D 15342 Performance Test",
+    "institution_or_author": "미 육군항공군 Air Technical Service Command, Engineering Division, Wright Field",
+    "publication_date": "1945-06-15",
+    "source_type": "primary",
+    "document_or_accession_number": "Memo Report TSCEP5E-1908, AAF 44-15342",
+    "locator": "§ I Introduction, § II Summary, § III Condition of Airplane Relative to Test",
+    "url": "https://www.wwiiaircraftperformance.com/org/p-51/p51d-15342.html",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "P-51D-15NA 44-15342의 시험 형식과 조건, 고도 26,000 ft에서 442 mph로 기록된 최고속도."
+    ],
+    "limitations": [
+      "전시 시험보고서의 웹 전사본을 열람했다. 시험기 1대의 값이며 원본 판면과의 대조는 미완료다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-aaf-wright-field-tscep5e-1908"
+  },
+  {
+    "id": "CAT-US-SRC-0043",
+    "title": "Major Changes in Undergraduate Pilot Training, 1939–2002",
+    "institution_or_author": "미 공군 Air Education and Training Command History Office",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "AETC PDF AFD-070130-081",
+    "locator": "Aircraft Index의 Boeing B-17 Flying Fortress 및 North American P-51 Mustang, Specifications 및 Performance",
+    "url": "https://www.aetc.af.mil/Portals/88/Documents/history/AFD-070130-081.pdf%3Fver%3D2016-01-12-160015-923",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "P-51 계열 도입과 전시 운용, P-51D 및 B-17G의 엔진·기관총·최고속도 요약."
+    ],
+    "limitations": [
+      "후대 형식 제원표. 속도 시험 조건과 인용 원자료를 표시하지 않는다. 게시일 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-aetc-history-office-pilot-training"
+  },
+  {
+    "id": "CAT-US-SRC-0044",
+    "title": "Army Air Forces Statistical Digest: World War II",
+    "institution_or_author": "미 육군항공군 Office of Statistical Control",
+    "publication_date": "1945-12",
+    "source_type": "primary",
+    "document_or_accession_number": "AAF Statistical Digest, Table 76",
+    "locator": "인쇄 p. 118부터 이어지는 Table 76, B-17·P-51·DC-3 type 행의 Jun 1940–Aug 1945 합계 열",
+    "url": "https://www.dafhistory.af.mil/Portals/16/documents/Timelines/USAF%20Statistical%20Digest/AFD-090608-042.pdf?ver=2016-09-02-113904-720",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "육군 관할 공장 인수 합계 B-17 12,692대, P-51 14,501대, DC-3 type 10,323대."
+    ],
+    "limitations": [
+      "표의 집계 단위와 기간에 한정된다. 세부 형식 생산량, 해군 관할 인수량, 배치 규모는 별도 확인이 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-aaf-office-statistical-control-digest"
+  },
+  {
+    "id": "CAT-US-SRC-0045",
+    "title": "P-51 Mustang fighter planes in flight on way to Iwo Jima, Japan, 1945",
+    "institution_or_author": "미군 공식 사진, The National WWII Museum 디지털 소장품",
+    "publication_date": "1945",
+    "source_type": "primary",
+    "document_or_accession_number": "2012.019.243, 원 캡션 6663-C",
+    "locator": "소장품 사진 및 Description에 전사된 원 캡션",
+    "url": "https://www.ww2online.org/image/p-51-mustang-fighter-planes-flight-way-iwo-jima-japan-1945",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "원 캡션의 P-51 편대와 이오지마행 비행 표기."
+    ],
+    "limitations": [
+      "원 캡션에 세부 형식과 개별기 번호가 없으며 사진만으로 호위 임무를 특정할 수 없다."
+    ],
+    "rights": "박물관 소장 사진. 공개 사진 및 원 캡션 열람, 이미지 재게시 없음.",
+    "independence_group": "us-wartime-photograph-6663-c"
+  },
+  {
+    "id": "CAT-US-SRC-0046",
+    "title": "Shoo Shoo Baby 복원 기념 자료",
+    "institution_or_author": "USAF Museum, Air Force Enlisted Heritage Research Institute 소장",
+    "publication_date": "1988-10-15",
+    "source_type": "secondary",
+    "document_or_accession_number": "AFEHRI File 19-2",
+    "locator": "1988-10-15 행사 자료, B-17G Specifications 및 History of “Shoo Shoo Baby”",
+    "url": "https://www.airuniversity.af.edu/Portals/10/AFEHRI/documents/RanksInsignia/eh19_2.pdf",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "B-17G-35-BO 42-32076의 부대·첫 실전·스웨덴 착륙과 B-17G 제원."
+    ],
+    "limitations": [
+      "복원 기념 자료이며 원 출격일지 미확인. 305 mph 옆 563 km/h는 환산이 맞지 않아 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "usaf-museum-shoo-shoo-baby-1988"
+  },
+  {
+    "id": "CAT-US-SRC-0047",
+    "title": "C-47A Skytrain",
+    "institution_or_author": "Air Mobility Command Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "전시기 42-92841",
+    "locator": "Specifications 및 Assignment History의 1944-04-21, 06-06, 06-29, 08-26 행",
+    "url": "https://www.amcmuseum.org/at-the-museum/aircraft/c-47a-skytrain/",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "42-92841의 부대, 전시 수송·부상병 후송·식량 수송, 박물관 제원표의 속도·적재량."
+    ],
+    "limitations": [
+      "전시 이력에는 W. E. Wood 일지 발췌가 포함된다. 일지 전체와 제원 시험보고서는 미열람."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "amcm-c47-42-92841-wood"
+  },
+  {
+    "id": "CAT-US-SRC-0048",
+    "title": "D-Day Jump Manifest Document",
+    "institution_or_author": "Air Mobility Command Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "1990-3242-0074-0015 (원 명부 1944-06-05)",
+    "locator": "Object Description 및 History",
+    "url": "https://www.amcmuseum.org/collections/d-day-jump-manifest-document/",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "박물관 목록에 있는 명부의 날짜·기체 번호와 Wood 소개문이 제시한 임무 날짜."
+    ],
+    "limitations": [
+      "원 명부의 판면은 확인하지 못했다. 같은 소장 기관과 기증자 계통이므로 독립 확증으로 세지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "amcm-c47-42-92841-wood"
+  },
+  {
+    "id": "CAT-US-SRC-0049",
+    "title": "The National WWII Museum 2022–2023 Flagship Museum 안내 책자",
+    "institution_or_author": "The National WWII Museum",
+    "publication_date": "2022",
+    "source_type": "secondary",
+    "document_or_accession_number": "전시기 2006.181, 군 일련번호 42-93096",
+    "locator": "인쇄 p. 19, C-47 Skytrain",
+    "url": "https://www.nationalww2museum.org/sites/default/files/2022-06/2022_2023%20Flagship_Museum_061322.pdf",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "42-93096의 1944-04-08 인도, 제9공군 배속, 노르망디 인원 수송과 바스토뉴 보급."
+    ],
+    "limitations": [
+      "박물관의 별도 기체 이력. 42-92841의 날짜나 개별 임무를 확인하는 자료로 쓰지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nwwiim-42-93096-collection-history"
   }
 ]

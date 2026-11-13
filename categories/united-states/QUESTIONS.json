@@ -199,5 +199,56 @@
     ],
     "evidence": "candidate. 이번 원고의 사례는 함대항모·고속전함·함대잠수함에 한정된다.",
     "completion_condition": "전시 함급 자료와 함별 일지·인수 자료를 대조하고, 배수량과 속력의 기준 및 개장 시점을 함께 기록한다."
+  },
+  {
+    "id": "CAT-US-RQ-0016",
+    "status": "open",
+    "question": "P-51D 최고속도 두 값의 시험 조건과 이오지마 사진 속 개별기 형식을 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-US-EQP-0010",
+      "CAT-US-SRC-0042",
+      "CAT-US-SRC-0043",
+      "CAT-US-SRC-0045"
+    ],
+    "evidence": "시험 전사본에는 442 mph가 있고 후대 형식표는 437 mph를 싣는다. 사진 설명은 P-51 계열까지만 명시한다.",
+    "completion_condition": "시험보고서 원판과 437 mph의 근거 자료를 대조하고, 사진 캡션을 편대·기체 번호가 있는 전시 기록과 연결한다."
+  },
+  {
+    "id": "CAT-US-RQ-0017",
+    "status": "open",
+    "question": "B-17G 제원표 속도 차이와 42-32076의 개별 배치·실전 기록을 어디까지 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-US-EQP-0011",
+      "CAT-US-SRC-0043",
+      "CAT-US-SRC-0044",
+      "CAT-US-SRC-0046"
+    ],
+    "evidence": "두 기관 자료의 최대속도는 300 mph와 305 mph다. 형식표의 시험 조건과 개별기의 원 출격 기록은 확인되지 않았다.",
+    "completion_condition": "동시대 형식 제원 또는 시험표로 조건을 식별하고 401폭격비행대의 원기록에서 개별기 이력을 확인한다."
+  },
+  {
+    "id": "CAT-US-RQ-0018",
+    "status": "open",
+    "question": "42-92841의 노르망디 임무 날짜와 DC-3 type 인수량의 세부 범위를 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-US-EQP-0012",
+      "CAT-US-SRC-0044",
+      "CAT-US-SRC-0047",
+      "CAT-US-SRC-0048",
+      "CAT-US-SRC-0049"
+    ],
+    "evidence": "명부 설명 및 기증자 소개의 6월 5일과 배속 이력의 6월 6일이 병존하며, 통계표는 DC-3 type으로 묶어 집계한다.",
+    "completion_condition": "명부 원본과 61병력수송비행대 출격 기록에서 작성·이륙·현지 임무 날짜를 확인하고, 세부 형식·관할별 인수표를 대조한다."
+  },
+  {
+    "id": "CAT-US-RQ-0019",
+    "status": "open",
+    "question": "미 해군·해병대 기종과 육군항공군의 다른 임무 유형을 어떻게 보완할 수 있는가?",
+    "related_ids": [
+      "CAT-US-SRC-0043",
+      "CAT-US-SRC-0044"
+    ],
+    "evidence": "첫 방문은 육군항공군 전투기·중폭격기·수송기 각 1형식에 한정됐다.",
+    "completion_condition": "함재기, 해상초계기, 전술폭격기, 야간전투기, 정찰·훈련·연락기 및 수송 글라이더를 전시 기록과 개별 형식 제원으로 보완한다."
   }
 ]
