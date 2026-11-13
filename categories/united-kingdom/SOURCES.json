@@ -3912,5 +3912,205 @@
     ],
     "rights": "RAF 공개 스캔. 자체 요약과 링크만 사용.",
     "independence_group": "air-ministry-official-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0196",
+    "title": "The Defence of the United Kingdom",
+    "institution_or_author": "Basil Collier / HMSO",
+    "publication_date": "1957",
+    "source_type": "secondary",
+    "document_or_accession_number": "History of the Second World War, United Kingdom Military Series",
+    "locator": "Appendix I, p. 437, Main Fleet—Scapa Flow",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/UK-Defence-UK/UK-DefenseOfUK-I.html",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-08-31 본국함대의 스캐파플로 배치표에서 주력함 7척·항공모함 1척·순양함 12척·구축함 17척을 확인했다."
+    ],
+    "limitations": [
+      "후대 공식 전사 표의 배치 분류다. 로스킬의 공식 전사와 원자료 계통이 겹칠 수 있으며 정박지 동시 수용이나 시각별 현존을 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-official-naval-disposition"
+  },
+  {
+    "id": "CAT-GB-SRC-0197",
+    "title": "Lyness, Hoy: Supplementary Guidance",
+    "institution_or_author": "Orkney Islands Council",
+    "publication_date": "2011-05-10 채택",
+    "source_type": "secondary",
+    "document_or_accession_number": "Lyness Development Brief",
+    "locator": "§§2.1–2.3, 위치도와 Site History",
+    "url": "https://www.orkney.gov.uk/documents/lyness-hoy-adopted-10-may-2011/html",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "천연 정박지 면적 약 140제곱마일, 지상 유류탱크 16기의 1939년 7월 전량 가동, 안벽 개량의 1944년 봄 완공을 확인했다."
+    ],
+    "limitations": [
+      "후대 행정 안내서다. 면적의 조사일·수심 구간 및 1939년 탱크별 정격·실재고를 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "orkney-council-site-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0198",
+    "title": "Former Pump House and Oil Storage Tank and Bund, Scapa Flow Visitor Centre and Museum, Lyness, Hoy",
+    "institution_or_author": "Historic Environment Scotland",
+    "publication_date": "2006-07-21 최초 등재, 2014년 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": "LB50533",
+    "locator": "Summary/NGR, Description 및 Statement of Special Interest",
+    "url": "https://portal.historicenvironment.scot/apex/f?p=1505:300:::::VIEWTYPE,VIEWREF:designation,LB50533",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1937년 펌프장과 지상 유류탱크의 연대 및 2013년 현장 관찰 내용을 확인했다."
+    ],
+    "limitations": [
+      "현존 시설 조사다. 지상 탱크 전체 수량, 1939년 9월 급유량 및 지하 시설 가동 시작일은 이 자료만으로 확정할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hes-fabric-survey"
+  },
+  {
+    "id": "CAT-GB-SRC-0199",
+    "title": "Admiralty War Diary, November 1939",
+    "institution_or_author": "British Admiralty / Royal Navy Naval Historical Branch",
+    "publication_date": "1939-11",
+    "source_type": "primary",
+    "document_or_accession_number": "Admiralty War Diary November 1939",
+    "locator": "1939-11-01 p. 1, Home Commands—Home Fleet Base 및 Home Fleet",
+    "url": "https://cd.royalnavy.mod.uk/-/media/rnweb/locations-and-operations/navy-historical-branch/pdfs/1939/1939/admiralty-war-diary-november-1939.pdf?rev=0a327c1771ea469d82a3475227c4c86f",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "11월 1일 스캐파 복귀가 조건부였고 기함을 포함한 일부 함대가 클라이드에 있었다는 기록을 확인했다."
+    ],
+    "limitations": [
+      "개전일 현존·시설 자료는 아니며 이후 가동 이력을 설명하는 데 사용했다."
+    ],
+    "rights": "Royal Navy 공개 스캔. 자체 요약과 링크만 사용.",
+    "independence_group": "admiralty-war-diary"
+  },
+  {
+    "id": "CAT-GB-SRC-0200",
+    "title": "Annual Report on the Social and Economic Progress of the People of the Straits Settlements, 1938",
+    "institution_or_author": "Straits Settlements Colonial Secretary / HMSO",
+    "publication_date": "1940 출판, 1939-10-07 보고서 서명",
+    "source_type": "primary",
+    "document_or_accession_number": "Colonial Reports—Annual No. 1931",
+    "locator": "p. 5 Chapter I.A, p. 90 Chapter XVII.E",
+    "url": "https://seadelt.net/Asset/Source/Document_ID-430_No-01.pdf",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "해협식민지의 행정 범위 및 1938-02-14 조지 6세 도크 개장과 미국 순양함 3척의 행사 참석을 확인했다."
+    ],
+    "limitations": [
+      "참석 기록은 1939년 현지 함대 배치나 도크 입거 실적을 나타내지 않는다."
+    ],
+    "rights": "스캔 표지에 Crown Copyright Reserved 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "straits-settlements-colonial-report"
+  },
+  {
+    "id": "CAT-GB-SRC-0201",
+    "title": "Navy Estimates, 1938",
+    "institution_or_author": "UK Parliament / Admiralty Parliamentary Secretary Geoffrey Shakespeare",
+    "publication_date": "1938-03-17",
+    "source_type": "primary",
+    "document_or_accession_number": "HC Deb vol. 333 cc623–737",
+    "locator": "cc626–627, Shakespeare의 싱가포르 도크·추가 공사 설명",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1938/mar/17/navy-estimates-1938",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "퀸 메리 크기 선박의 수용 가능성에 관한 정부 설명과 안벽·창고 등 추가 공사 예산을 확인했다."
+    ],
+    "limitations": [
+      "당대 발표의 수용 평가와 예산이다. 실제 입거 기록이나 1939-09-01 준공 검사는 아니다."
+    ],
+    "rights": "UK Parliament 공개 열람. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-admiralty-parliament"
+  },
+  {
+    "id": "CAT-GB-SRC-0202",
+    "title": "Dive into the Naval History and Stories of the Diverse Communities of Sembawang with a New Heritage Trail of the Coastal Town",
+    "institution_or_author": "Singapore National Heritage Board",
+    "publication_date": "2021-07-13",
+    "source_type": "secondary",
+    "document_or_accession_number": "Sembawang Heritage Trail 보도자료",
+    "locator": "p. 9, Sembawang Naval Base and Vicinity; p. 13, Annex C §2",
+    "url": "https://www.nhb.gov.sg/-/media/nhb/files/media/releases/2021/media-release---dive-into-the-naval-history-and-stories-of-the-diverse-communities-of-sembawang.pdf",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "조지 6세 도크 길이 305 m 및 1937년 준공·1938년 개장 구분을 확인했다."
+    ],
+    "limitations": [
+      "도크 길이는 후대 기관 표기이며 유효 입거 길이·문폭·당시 수심 전체를 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "singapore-nhb-trail"
+  },
+  {
+    "id": "CAT-GB-SRC-0203",
+    "title": "The Story of Two Shipyards: Keppel & Sembawang",
+    "institution_or_author": "Wee Beng Geok / National Library Board Singapore, BiblioAsia",
+    "publication_date": "2019-07-07",
+    "source_type": "secondary",
+    "document_or_accession_number": "BiblioAsia vol. 15 no. 2",
+    "locator": "A New Naval Base in Asia; The War Comes to Singapore",
+    "url": "https://biblioasia.nlb.gov.sg/all-sections/vol-15-issue-2-jul-sep-2019-shipyards-keppel-sembawang/",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "셈바왕 부유식 도크의 1928년 취역, 50,000 tons 인양 능력, 1942년 파괴·일본군 복구를 확인했다."
+    ],
+    "limitations": [
+      "인양량 원문의 ton 정의 및 1939년 실제 입거 횟수 미상. 고정 도크 완공 시점은 NHB와 달라 개장일과 분리했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "singapore-nlb-shipyard-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0204",
+    "title": "Singapore Dockyard: The Truncated Scheme and construction of the missing wharf walls 1938–1941",
+    "institution_or_author": "Bernard Mennell / Naval Historical Society of Australia",
+    "publication_date": "2019-05 최초 발행, 2020-12-19 재게시",
+    "source_type": "secondary",
+    "document_or_accession_number": "Dockyards 24(1); TNA 사진 ADM116/3664, ADM195/116-A38",
+    "locator": "개장·추가 계약·완공 미확정 단락 및 1938·1940 사진",
+    "url": "https://navyhistory.au/singapore-dockyard-the-truncated-scheme-and-construction-of-the-missing-wharf-walls-1938-1941/",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 개장 사진과 1940-02-15 동쪽 안벽 공사 사진의 복제 이미지를 대조했다."
+    ],
+    "limitations": [
+      "사진은 해당 구역의 관측값이다. 완공일과 1939-09-01 군항 전체 접안 능력은 원문에서 확정하지 않는다."
+    ],
+    "rights": "Naval Historical Review 권리 유보 및 TNA 소장 표기. 이미지 재게시 없이 자체 요약과 링크만 사용.",
+    "independence_group": "mennell-tna-photographs"
+  },
+  {
+    "id": "CAT-GB-SRC-0205",
+    "title": "Royal Navy Ships, September 1939",
+    "institution_or_author": "Don Kindell / Naval-History.Net",
+    "publication_date": "게시일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "British and Other Navies in World War 2 Day-by-Day, September 1939",
+    "locator": "Foreign Stations—China Station, Aircraft carrier 및 21st Destroyer Flotilla",
+    "url": "https://www.naval-history.net/xDKWW2-3909-04RN.htm",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "9월 1일 제41구축함분대 싱가포르 도착과 9월 3일 항공모함 Eagle 출항 서술을 확인했다."
+    ],
+    "limitations": [
+      "후대 함정 이동 편찬이며 싱가포르 항역 내 개별 선석이나 기지 전체의 상주 척수는 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "kindell-ship-movement-compilation"
   }
 ]
