@@ -2397,18 +2397,21 @@
     "publication_date": "1951",
     "source_type": "primary: 전시 정부 통계 집성 원간행물 스캔",
     "document_or_accession_number": "History of the Second World War, United Kingdom Civil Series",
-    "locator": "표 1 Population of the United Kingdom, 표 2 1939-06-30, 1939·1943 각주",
+    "locator": "표 1 Population of the United Kingdom, 표 2 1939-06-30, 1939·1943 각주 / 자원 재열람: 표 83–85(pp. 87–92), 표 92(pp. 105–106), 표 100(pp. 117–118)과 해당 설명",
     "url": "https://www.generalstaff.org/WW2/Hist_UK/StatisticalDigestOfWar_VarA.pdf",
     "accessed_at": "2026-11-13T05:01:54+09:00",
     "access_status": "source_checked",
     "claims_checked": [
-      "1939–1945 본토 연중 추계, 1940–1945 민간 계열, 지역별 수치와 인구 정의."
+      "1939–1945 본토 연중 추계, 1940–1945 민간 계열, 지역별 수치와 인구 정의.",
+      "전시 석유 해상 도착·수입유 정제·국내 원료 제품, 조강 생산, 천연·합성고무 계열을 재열람했다."
     ],
     "limitations": [
-      "정부 원자료를 전후에 집성했다. 1939년 현주와 1940년 이후 총인구의 집계 범위가 다르며 표 1에는 1943년 민간 계열 범위 변경이 있다."
+      "정부 원자료를 전후에 집성했다. 1939년 현주와 1940년 이후 총인구의 집계 범위가 다르며 표 1에는 1943년 민간 계열 범위 변경이 있다.",
+      "석유 표 85는 국내 원유 채굴량과 합성유만의 생산량을 따로 제시하지 않는다. 고무 소비에는 표 설명에 따라 수출이 포함된다."
     ],
     "rights": "HMSO 간행물 스캔. 수치 발췌와 자체 요약, 이미지 미복제.",
-    "independence_group": "uk-registrars-general"
+    "independence_group": "uk-registrars-general",
+    "additional_accessed_at": "2026-11-13T09:02:44+09:00"
   },
   {
     "id": "CAT-GB-SRC-0121",
@@ -3109,5 +3112,205 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "hong-kong-local-surrender"
+  },
+  {
+    "id": "CAT-GB-SRC-0156",
+    "title": "Oil, Great Britain (Development)",
+    "institution_or_author": "UK House of Commons / Ministry of Fuel and Power",
+    "publication_date": "1945-11-13",
+    "source_type": "primary: 장관 답변 전사",
+    "document_or_accession_number": "1945-11-13 Commons, Fuel and Power",
+    "locator": "Oil, Great Britain (Development), 장관 서면 회람 답변",
+    "url": "https://api.parliament.uk/historic-hansard//commons/1945/nov/13/oil-great-britain-development",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 10만 tons 초과, 1939년부터 답변일까지 원유 약 40만 tons 및 노팅엄셔·미들로디언·랭커셔 산지."
+    ],
+    "limitations": [
+      "1945년 11월의 연환산 속도는 달력연도 실적과 다르다. 답변에서 ton 정의는 미표기."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-fuel-ministry-crude-1945"
+  },
+  {
+    "id": "CAT-GB-SRC-0157",
+    "title": "Steel (Production and Imports)",
+    "institution_or_author": "UK House of Commons / Ministry of Supply",
+    "publication_date": "1949-11-07",
+    "source_type": "primary: 전시 실적을 담은 하원 답변 전사",
+    "document_or_accession_number": "HC Deb vol. 469 c894, 질문 66",
+    "locator": "답변에 첨부된 생산·수입 표의 1939·1945행과 각주. 디지털 전사에서 표는 앞 항목 말미에 배치됐다.",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1949/nov/07/imports-low-priced-goods",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 조강 생산과 강괴·반제품 수입, 2,240 lb 기준 및 반제품 생산 통계 중단."
+    ],
+    "limitations": [
+      "CSO 강철 총량과 일치하나 원통계의 독립성은 확인되지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-board-of-trade-steel-1949"
+  },
+  {
+    "id": "CAT-GB-SRC-0158",
+    "title": "The Chargé in the United Kingdom (Johnson) to the Secretary of State",
+    "institution_or_author": "Herschel V. Johnson / U.S. Department of State",
+    "publication_date": "1940-11-07",
+    "source_type": "primary: 런던발 외교 전문 전사",
+    "document_or_accession_number": "FRUS 1940 II doc. 345, 811.20 Defense (M)/628",
+    "locator": "싱가포르발 11월 5일 보고 첫 문단",
+    "url": "https://history.state.gov/historicaldocuments/frus1940v02/d345",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 10월 말라야 고무 선적 총량과 영국·미국행 물량."
+    ],
+    "limitations": [
+      "선적의 생산지 상세, ton 환산 기준과 통관 도착량은 전문에 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-frus-malaya-shipments"
+  },
+  {
+    "id": "CAT-GB-SRC-0159",
+    "title": "Written Answers: Rubber (Supplies)",
+    "institution_or_author": "UK House of Commons / Board of Trade",
+    "publication_date": "1946-02-13",
+    "source_type": "primary: 전시 공급과 재점령 재고에 관한 의회 답변 전사",
+    "document_or_accession_number": "1946-02-13 Commons, Written Answers",
+    "locator": "Ceylon 1945년 생산·배분 표와 Malaya and Burma 관련 Belcher 답변",
+    "url": "https://hansard.parliament.uk/%E2%80%8CCommons/1946-02-13/debates/b946a8bf-5f8d-4d8b-9e1b-935587de3ec7/WrittenAnswers",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "실론 생산·목적지별 선적과 말라야·버마 재점령 고무 재고의 집계 한계."
+    ],
+    "limitations": [
+      "1946년 말라야·버마 신규 생산 예상량은 전시 실적에서 제외했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-board-of-trade-rubber-1946"
+  },
+  {
+    "id": "CAT-GB-SRC-0160",
+    "title": "Miscellaneous Metals in Canada, 1945",
+    "institution_or_author": "Dominion Bureau of Statistics, Department of Trade and Commerce",
+    "publication_date": "1947",
+    "source_type": "primary: 캐나다 공식 산업 통계",
+    "document_or_accession_number": "CS26-219-1945, A66-30-9-47",
+    "locator": "Aluminum 본문 및 표 6–7",
+    "url": "https://publications.gc.ca/collections/collection_2018/statcan/26-219/CS26-219-1945-eng.pdf",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐나다 알루미늄 괴 생산, 보크사이트 수입 합계 및 영국령 기아나 원료 조달."
+    ],
+    "limitations": [
+      "보크사이트 표는 출처별 수입량을 제시하지 않는다. 생산·수입 원단위가 다르다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "canada-dbs-misc-metals"
+  },
+  {
+    "id": "CAT-GB-SRC-0161",
+    "title": "Statistical Summary of the Mineral Industry (Production, Imports and Exports) 1944–1950",
+    "institution_or_author": "Mineral Resources Division, Colonial Geological Surveys",
+    "publication_date": "1952",
+    "source_type": "primary: 영국 정부 광업통계 집성 스캔",
+    "document_or_accession_number": "HMSO 1952, NERC 535286",
+    "locator": "p. 10 보크사이트 표 각주 (c), p. 56 크롬 광석 생산 표",
+    "url": "https://nora.nerc.ac.uk/id/eprint/535286/1/SS_1944_1950.pdf",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국령 기아나의 건조·세척 광산 출하와 크롬 표의 별도 Cr₂O₃ 함량 추정 표기."
+    ],
+    "limitations": [
+      "크롬 표 OCR 행 대응이 의심되고 페이지 이미지 요청은 용량 오류였다. 남로디지아 원광 생산치는 Bulletin 표를 사용했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "colonial-geological-surveys-1944-1950"
+  },
+  {
+    "id": "CAT-GB-SRC-0162",
+    "title": "Mineral Production of Southern Rhodesia, 1940–45",
+    "institution_or_author": "Imperial Institute",
+    "publication_date": "1946",
+    "source_type": "primary: 종전 직후 공개 광업 통계 수록본",
+    "document_or_accession_number": "Bulletin of the Imperial Institute, vol. XLIV, no. 2",
+    "locator": "p. 151 크롬 광석·텅스텐 정광 행과 앞선 광업 동향 문단",
+    "url": "https://krishikosh.egranth.ac.in/server/api/core/bitstreams/ad5e1425-89d8-4be9-ac3e-308d7b8892e2/content",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "남로디지아의 크롬 원광과 텅스텐 정광 연별 생산 수치 및 long tons 단위."
+    ],
+    "limitations": [
+      "1945년 텅스텐 정광은 대시로 표시되어 의미를 0으로 확정하지 않았다. 매장량과 구매자별 선적은 표에 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "imperial-institute-rhodesia-production"
+  },
+  {
+    "id": "CAT-GB-SRC-0163",
+    "title": "Southern Rhodesia (Native Administration)",
+    "institution_or_author": "UK House of Commons / Colonial Office",
+    "publication_date": "1925-05-11",
+    "source_type": "primary: 식민지 헌정 관련 의회 답변 전사",
+    "document_or_accession_number": "1925-05-11 Commons, 식민장관 질의",
+    "locator": "1923년 헌정 및 유보 권한에 관한 답변",
+    "url": "https://hansard.parliament.uk/Commons/1925-05-11/debates/31f0d313-1d75-44c3-bf80-5df37c9b5a2b/SouthernRhodesia%28NativeADmInistration%29",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1923년 남로디지아 책임정부와 일부 권한 유보를 확인했다."
+    ],
+    "limitations": [
+      "광산 운영 기업과 전시 광업 규제는 이 문서의 범위 밖이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "southern-rhodesia-constitutional-status"
+  },
+  {
+    "id": "CAT-GB-SRC-0164",
+    "title": "Foreign Relations of the United States, 1945, Vol. II, Document 680",
+    "institution_or_author": "U.S. Embassy in the United Kingdom / U.S. Department of State",
+    "publication_date": "1945-12-23",
+    "source_type": "primary: 영국 무역부 제공 목록을 담은 외교 전문 전사",
+    "document_or_accession_number": "FRUS 1945 II doc. 680",
+    "locator": "Board of Trade furnished following list 단락",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v02/d680",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국령 기아나·실론 및 연방·비연방 말레이주·해협식민지를 영국 무역부의 관할 분류에서 확인했다."
+    ],
+    "limitations": [
+      "종전 직후 통상협의의 명단이다. 전시 선적 집계 경계와 각 지방의 군정 인수일을 확정하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-board-of-trade-territory-list"
+  },
+  {
+    "id": "CAT-GB-SRC-0165",
+    "title": "Military Administration Proclamation, No. 1 (Malaya)",
+    "institution_or_author": "Louis Mountbatten / F. S. V. Donnison 공식사 수록",
+    "publication_date": "1945-08-15",
+    "source_type": "primary: 1956년 영국 공식사에 수록된 공고 원문",
+    "document_or_accession_number": "British Military Administration in the Far East, Appendix 3",
+    "locator": "pp. 450–451, 제1·2·5·7조와 서명일",
+    "url": "https://www.generalstaff.org/WW2/Hist_UK/BritishMilitaryAdminFarEast1943-46.pdf",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 군정 뒤 영국 군정 관할을 지휘하 연합군이 실제 통제하는 말라야 지역에 한정했다."
+    ],
+    "limitations": [
+      "8월 15일은 서명일이다. 지방별 실제 행정 인수일이나 고무 생산은 제시하지 않는다."
+    ],
+    "rights": "수록본에 Crown Copyright Reserved 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "mountbatten-malaya-proclamation"
   }
 ]

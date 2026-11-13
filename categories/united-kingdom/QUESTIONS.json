@@ -792,5 +792,57 @@
     ],
     "evidence": "candidate: 위임장과 별도 행정의 법적 근거, 전시 외교 사례, 1946년 지도는 확인했다. 개전·종전 당일의 지도와 지방 경계 및 나머지 제국 관할의 목록은 남았다.",
     "completion_condition": "1939·1945년 현지 관보·행정지도 및 보호령·위임통치 개별 문서에서 경계와 지배 주체를 날짜별로 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0059",
+    "status": "open",
+    "question": "본토의 원유 채굴·합성유·정유 및 수입유의 연별·산지별 실적을 분리할 수 있는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0001",
+      "CAT-GB-SRC-0120",
+      "CAT-GB-SRC-0156"
+    ],
+    "evidence": "candidate: 원유 채굴과 수입유 정유·국내 원료 가공 합계를 확인했다. 공정별 합성유 수치와 개별 공급국·유전별 연간 자료는 미확인이다.",
+    "completion_condition": "연료동력부·Petroleum Board 원장과 무역 통계에서 산지별 원유, 합성 공정별 생산, 정제유와 수입을 동일 기간으로 맞춘다."
+  },
+  {
+    "id": "CAT-GB-RQ-0060",
+    "status": "open",
+    "question": "말라야 점령기 천연고무 생산·반출과 영국의 합성고무 국내 생산·수입은 각각 얼마였는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0001",
+      "CAT-GB-GEO-0010",
+      "CAT-GB-SRC-0120",
+      "CAT-GB-SRC-0158",
+      "CAT-GB-SRC-0159"
+    ],
+    "evidence": "candidate: 1940년 선적 및 1945년 실론 공급은 확인했다. 재점령 때 재고와 점령기 은닉분, 신규 생산은 일부 중첩된다.",
+    "completion_condition": "말라야 전시 무역표와 일본 군정 원장 및 영국 고무 조달 통계의 품목별 단위·행정 범위를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0061",
+    "status": "open",
+    "question": "캐나다 보크사이트 수입의 산지별 물량과 영국행 알루미늄 출하는 각각 얼마였는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0002",
+      "CAT-GB-GEO-0011",
+      "CAT-GB-SRC-0160",
+      "CAT-GB-SRC-0161"
+    ],
+    "evidence": "candidate: 보크사이트 수입 합계와 주요 원료 공급지 및 캐나다 제련량을 확인했다. 영국행 제품의 목적지별 무역표는 미확인이다.",
+    "completion_condition": "캐나다·영국령 기아나의 세관표와 캐나다 알루미늄 수출 목적지별 표를 연도·품목별로 연결한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0062",
+    "status": "open",
+    "question": "남로디지아 크롬·텅스텐의 광산별 출하와 영국 반입량은 얼마나 일치하는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0012",
+      "CAT-GB-SRC-0161",
+      "CAT-GB-SRC-0162",
+      "CAT-GB-SRC-0163"
+    ],
+    "evidence": "candidate: 광석·정광 생산을 확보했다. 광석과 산화물 함량의 표기 차이, 1945년 정광의 대시 및 광산·목적지별 물량은 미확인이다.",
+    "completion_condition": "광산·세관 원표와 수입국별 계약·반입 통계의 건조중량 및 품위 기준을 맞추고 크롬 집성표 이미지의 행 대응을 확인한다."
   }
 ]
