@@ -2342,3 +2342,4 @@ as_of: 2026-11-04
 
 | SRC-2061 | 독일 역사박물관(DHM), *Die deutsche Sommeroffensive 1942*, LeMO 기관 전쟁사 해설 | 2차(독일 역사박물관 공식 해설) | 1942-06-28 독일 여름 공세 개시·전략 목표 | https://www.dhm.de/lemo/kapitel/der-zweite-weltkrieg/kriegsverlauf/sommeroffensive-1942 | 2026-11-14 확인. 6/28 공격 개시와 후속 돈 강 도달을 구분; 당대 독일군 작전명령 원문은 미열람 |
 | SRC-2062 | 독일 역사박물관(DHM), *Die Eroberung von Sewastopol 1942*, LeMO 기관 전쟁사 해설(2015) | 2차(독일 역사박물관 공식 해설) | 1942-06-29 세베르나야 만 남안 공격·1942-07-01 시가지 점령·07-04 최종 저항 | https://www.dhm.de/lemo/kapitel/der-zweite-weltkrieg/kriegsverlauf/eroberung-von-sewastopol-1942 | 2026-11-14 확인. 6/29 돌격정 기습과 7/1 도시 함락, 7/4 최종 저항 종료 구분; 소련 당대 전투일지 미열람 |
+| SRC-2063 | Australian War Memorial, *Battles of El Alamein*, Collection E84345, 기관 역사해설(발행일 미확인) | 2차(호주 국립전쟁기념관 공식 전투사) | 1942-07-01 추축군 첫 공격, 7/4까지 저지 | https://www.awm.gov.au/collection/E84345 | 2026-11-14 원문 확인. 롬멜 첫 공격 7/1, 오친렉 제8군 방어선과 7/4까지 첫 공격 저지를 구분. 후대 10~11월 전투 및 피해 집계와 혼동 금지. 당대 양측 전쟁일지 미열람 |
