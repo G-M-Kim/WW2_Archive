@@ -300,5 +300,55 @@
     ],
     "evidence": "첫 조사 범위는 M1 소총과 카빈의 구분, M1 헬멧과 버클형 전투화다.",
     "completion_condition": "다른 개인화기와 분대 지원화기, 의무·통신·군장을 소장품과 당시 보급·운용 기록에서 형식별로 확인한다."
+  },
+  {
+    "id": "CAT-US-RQ-0024",
+    "status": "open",
+    "question": "CXAM의 함별 설치·정비 시점과 CXAM-1을 구분할 수 있는가?",
+    "related_ids": [
+      "CAT-US-EQP-0016",
+      "CAT-US-SRC-0059",
+      "CAT-US-SRC-0060",
+      "CAT-US-SRC-0061"
+    ],
+    "evidence": "요크타운의 장착 및 정지 기록과 호위부대의 수신 기록을 확인했다. 설치일과 계열별 보급 대장은 미확보다.",
+    "completion_condition": "함별 개장 기록과 장비 인수·정비부를 대조하여 초기형과 후속형을 날짜별로 식별한다."
+  },
+  {
+    "id": "CAT-US-RQ-0025",
+    "status": "open",
+    "question": "SIGABA/ECM II의 배치·사용 중 수량과 실제 총인수량을 구분할 수 있는가?",
+    "related_ids": [
+      "CAT-US-EQP-0017",
+      "CAT-US-SRC-0062",
+      "CAT-US-SRC-0063"
+    ],
+    "evidence": "초기 육군 배치와 이후 사용 중 수량이 후대 연구에 제시된다. 생산·인수·수리·이관을 분리할 원표는 없다.",
+    "completion_condition": "육·해군 배치 및 제조·인수 장부를 같은 날짜와 분류로 대조한다."
+  },
+  {
+    "id": "CAT-US-RQ-0026",
+    "status": "open",
+    "question": "1944~45년 태평양 LORAN 기지의 가동과 항공부대의 수신기 형식을 연결할 수 있는가?",
+    "related_ids": [
+      "CAT-US-EQP-0018",
+      "CAT-US-SRC-0064",
+      "CAT-US-SRC-0065",
+      "CAT-US-SRC-0066"
+    ],
+    "evidence": "항공부대 감사 서한과 기지 건설 이력은 용도를 확인한다. 소장 수신기의 전시 장착 여부는 미상이다.",
+    "completion_condition": "송신국 가동일지와 항공부대 장비 목록·항법 기록을 날짜별로 연결한다."
+  },
+  {
+    "id": "CAT-US-RQ-0027",
+    "status": "open",
+    "question": "다른 전시 장비 계열은 어떤 사료로 검증할 수 있는가?",
+    "related_ids": [
+      "CAT-US-SRC-0059",
+      "CAT-US-SRC-0063",
+      "CAT-US-SRC-0064"
+    ],
+    "evidence": "첫 검사는 함상 탐지, 암호 통신 및 장거리 전파항법의 대표 사례에 한정됐다.",
+    "completion_condition": "다른 레이더·무선·소나·사격통제·정보처리·병참 장비를 장비 인수 자료 및 현장 기록으로 검토한다."
   }
 ]

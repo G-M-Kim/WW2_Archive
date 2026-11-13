@@ -1158,5 +1158,165 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "us-army-economic-mobilization-table-5"
+  },
+  {
+    "id": "CAT-US-SRC-0059",
+    "title": "Report of Action of Yorktown and Yorktown Air Group on May 8, 1942",
+    "institution_or_author": "미 해군 USS Yorktown (CV-5)",
+    "publication_date": "1942-05-25",
+    "source_type": "primary",
+    "document_or_accession_number": "보고서 표제 (007)",
+    "locator": "1942-05-08 시각표 1131·1222 및 함내 Radio and Radar 보고 §2",
+    "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/CV/CV5-Coral.html",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "산호해 해전의 함상 CXAM 장착·기능 정지·복구 기록."
+    ],
+    "limitations": [
+      "HyperWar 웹 전사로 열람. 함 자체 기록이며 시간표는 문서의 함내 시각을 따른다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uss-yorktown-action-report-1942-05-25"
+  },
+  {
+    "id": "CAT-US-SRC-0060",
+    "title": "Action in Coral Sea Area on May 8, 1942, report of",
+    "institution_or_author": "미 해군 제2구축함전대 지휘관(제17.5.4임무부대)",
+    "publication_date": "1942-05-18",
+    "source_type": "primary",
+    "document_or_accession_number": "A16/FF12-4(2), Serial 080",
+    "locator": "보고 §3, 문서 인쇄 p. 2의 시각표 G.C.T. 0103 / I.C.T. 1203 행",
+    "url": "https://ibiblio.org/hyperwar/USN/CoralSeaAAR/CoralSeaAAR11.pdf",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "별도 호위부대가 요크타운 레이더 정지 통보를 수신한 기록."
+    ],
+    "limitations": [
+      "독립적으로 작성된 수신 기록이다. 장비 자체의 정지 시작이나 복구 시각을 측정한 기록은 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-destroyer-squadron-two-action-report-1942-05-18"
+  },
+  {
+    "id": "CAT-US-SRC-0061",
+    "title": "Weapons & Sensors — Radar — U.S. Navy CXAM Radar",
+    "institution_or_author": "미 해군 Naval Historical Center 온라인 사진 목록, HyperWar 전재",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "80-G-312018 / 80-G-312018-A",
+    "locator": "ADDITIONAL VIEWS의 Yorktown 항목 및 사진 캡션",
+    "url": "https://www.ibiblio.org/hyperwar/OnlineLibrary/photos/weap-sen/radar/us/cxam.htm",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "요크타운이 1940년 10월 초에는 CXAM을 장착했다는 목록 설명과 1942년 6월 4일 사진의 안테나 식별."
+    ],
+    "limitations": [
+      "목록 본문과 캡션만 열람했다. 설치 공사 원부는 미확인. A가 붙은 사진은 같은 원판의 확대본이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "naval-historical-center-cxam-photograph-catalogue"
+  },
+  {
+    "id": "CAT-US-SRC-0062",
+    "title": "SIGABA/ECM",
+    "institution_or_author": "미 국가안보국(NSA), National Cryptologic Museum",
+    "publication_date": "2021-08-04",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "전시 해설 본문",
+    "url": "https://www.nsa.gov/History/National-Cryptologic-Museum/Exhibits-Artifacts/Exhibit-View/Article/2719165/sigabaecm/",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "육군 SIGABA와 해군 ECM 명칭 및 NSA 전시의 전시 보안 평가."
+    ],
+    "limitations": [
+      "후대 기관 해설이다. 적국 해독기록 전체나 동맹국별 지급 원장까지 검증하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nsa-national-cryptologic-museum-sigaba"
+  },
+  {
+    "id": "CAT-US-SRC-0063",
+    "title": "The SIGABA/ECM II Cipher Machine: “A Beautiful Idea”",
+    "institution_or_author": "Timothy J. Mucklow, NSA Center for Cryptologic History",
+    "publication_date": "2015",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 pp. 18–19 및 각주 37(인쇄 p. 39)",
+    "url": "https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figures-publications/publications/technology/The_SIGABA_ECM_Cipher_Machine_A_Beautiful_Idea3.pdf",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "개발 단계, 1941년 6월 육군 첫 배치 459대와 8월 1일 공동 채택, 1943년 사용 중 5,730대의 문헌 표기."
+    ],
+    "limitations": [
+      "배치와 사용 중 수량의 기준이 서로 다르다. 생산·인수·장비대장 원표는 확보하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nsa-center-for-cryptologic-history-mucklow-2015"
+  },
+  {
+    "id": "CAT-US-SRC-0064",
+    "title": "Testimonial to Commanding Officer, Coast Guard Unit 335",
+    "institution_or_author": "Carl R. Storrie, 미 육군항공군 제314폭격비행단",
+    "publication_date": "1945-10-02",
+    "source_type": "primary",
+    "document_or_accession_number": "335.15, The Coast Guard At War, XV, Appendix A에 전사",
+    "locator": "1945-10-02 서한 §§1–4, 전사 PDF 첫 페이지",
+    "url": "https://media.defense.gov/2017/Jun/26/2001769034/-1/-1/0/CGATWARATON.PDF",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제314폭격비행단장이 태평양의 장거리 해상 비행에서 해안경비대의 LORAN 항법 지원을 사용했다고 보고."
+    ],
+    "limitations": [
+      "종전 직후의 전시 회고·감사 서한 전사본이다. 비행일지, 수신기 형식 및 표준 오차 시험은 포함하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "usaaf-314th-bombardment-wing-testimonial-1945-10-02"
+  },
+  {
+    "id": "CAT-US-SRC-0065",
+    "title": "U.S. Coast Guard Cutter Balsam",
+    "institution_or_author": "Marc Porter, 미 국립공원관리청 HAER",
+    "publication_date": "2002",
+    "source_type": "secondary",
+    "document_or_accession_number": "HAER No. AK-43",
+    "locator": "인쇄 pp. 3–4, 남태평양 LORAN 지원 및 운용 한계 단락",
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/ak/ak0500/ak0505/data/ak0505data.pdf",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "해안경비대 Balsam의 남태평양 기지 건설·유지 지원과 항만 입구에서의 정밀도 한계."
+    ],
+    "limitations": [
+      "후대 조사서이며 일부 근거는 전후 해안경비대 전사다. 항공부대 감사 서한의 항공기별 장비를 식별하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-haer-ak43-porter-2002"
+  },
+  {
+    "id": "CAT-US-SRC-0066",
+    "title": "Loran equipment comprising receiver and indicator",
+    "institution_or_author": "영국 Science Museum Group",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "1973-98, 수신기 19295 및 표시기 1513",
+    "locator": "소장품 제목, Details의 Object Number·Measurements·이용조건",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co35526",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "R-9/APN-4 수신기와 별도 표시기로 구성된 소장품의 식별."
+    ],
+    "limitations": [
+      "소장 설명에 제작일이나 전시 배치 이력이 없다. 전시 항공부대의 개별 장착을 입증하지 않는다."
+    ],
+    "rights": "목록 제목·세부 데이터 CC0, 설명 등 텍스트 CC BY 4.0으로 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "science-museum-group-loran-object-1973-98"
   }
 ]
