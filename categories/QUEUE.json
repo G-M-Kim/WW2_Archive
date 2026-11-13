@@ -774,10 +774,11 @@
     "category_number": 18,
     "category": "개전 시점 주요 공군기지와 규모(1~10)",
     "article_path": "categories/united-kingdom/18-air-bases-start.md",
-    "status": "pending",
-    "run_record": null,
+    "status": "partial",
+    "run_record": "categories/runs/CAT-GB-18.json",
     "step": 56,
-    "planned_at": "2026-11-13T11:30:00+09:00"
+    "planned_at": "2026-11-13T11:30:00+09:00",
+    "completed_at": "2026-11-13T14:59:11+09:00"
   },
   {
     "job_id": "CAT-GB-19",

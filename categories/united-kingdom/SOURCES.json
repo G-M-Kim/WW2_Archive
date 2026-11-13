@@ -3732,5 +3732,185 @@
     ],
     "rights": "© DigVentures Limited. 자체 요약과 링크만 사용.",
     "independence_group": "digventures-local-archaeology"
+  },
+  {
+    "id": "CAT-GB-SRC-0187",
+    "title": "Duxford: Building 84 (Hangar 3)",
+    "institution_or_author": "Historic England",
+    "publication_date": "1973-02-15 최초 등재, 현 설명 개정일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "NHLE 1162959; War Office drawing 332/17",
+    "locator": "Location, Summary, History, Details/Plan",
+    "url": "https://historicengland.org.uk/listing/the-list/list-entry/1162959",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북쪽 격납고 3동의 건설 시기, 84번 건물 치수 및 후대 강판·콘크리트 활주로 연혁을 확인했다."
+    ],
+    "limitations": [
+      "격납고 3동은 같은 설계의 건물군이다. 1939-09-01 전체 격납 정원과 비행장 처리량은 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "historic-england-duxf-survey"
+  },
+  {
+    "id": "CAT-GB-SRC-0188",
+    "title": "Duxford: Building 79 (Hangar 4)",
+    "institution_or_author": "Historic England",
+    "publication_date": "1973-02-15 최초 등재, 현 설명 개정일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "NHLE 1128126; War Office drawing 332/17",
+    "locator": "History, 1935년 증축 단락",
+    "url": "https://historicengland.org.uk/listing/the-list/list-entry/1128126",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제19비행대용 부속동과 무선·전기·계기 작업장 및 장비 저장 공간의 1935년 개조를 확인했다."
+    ],
+    "limitations": [
+      "187번과 같은 건축 조사 계열이며 동일 설계 격납고를 추가로 합산할 수 없다. 작업 처리능력은 미상이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "historic-england-duxf-survey"
+  },
+  {
+    "id": "CAT-GB-SRC-0189",
+    "title": "Duxford Spitfire audio transcript",
+    "institution_or_author": "Carl Warner / Imperial War Museums",
+    "publication_date": "공개 전사본 작성일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "Duxford_Spitfire_transcript.pdf; 일부 구술 IWM SR 6799",
+    "locator": "p. 1, 첫 단락과 No. 611 Squadron 단락",
+    "url": "https://www.iwm.org.uk/sites/default/files/files/2018-07/Duxford_Spitfire_transcript.pdf",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 5월 격납고 4 앞 언론 공개와 8월 제611보조비행대 여름 훈련을 확인했다."
+    ],
+    "limitations": [
+      "전사본에 대한 확인이다. 공개 행사 및 훈련에서 기준일 배치 대수나 출격 가용 대수를 산정할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "iwm-duxf-interpretation"
+  },
+  {
+    "id": "CAT-GB-SRC-0190",
+    "title": "Revealing the new Historic Duxford exhibition",
+    "institution_or_author": "Imperial War Museums",
+    "publication_date": "2012-05-01",
+    "source_type": "secondary",
+    "document_or_accession_number": "IWMD-PR-2012-05-01",
+    "locator": "Historic Duxford 개요의 미 제8공군 인수와 잔디 위 강판 포설 단락",
+    "url": "https://www.iwm.org.uk/sites/default/files/press-release/IWMD-PR-2012-05-01-Announcing-Historic-Duxford.pdf",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 미군 인수와 후대 잔디면 위 강판 포설을 확인했다."
+    ],
+    "limitations": [
+      "1939년 착륙장 치수는 제시하지 않는다. 미군 시기 공사와 1951년 콘크리트 활주로는 개전일 범위에서 제외했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "iwm-duxf-interpretation"
+  },
+  {
+    "id": "CAT-GB-SRC-0191",
+    "title": "RAF Bicester Conservation Area Appraisal",
+    "institution_or_author": "Cherwell District Council",
+    "publication_date": "2008-10-06",
+    "source_type": "secondary",
+    "document_or_accession_number": "Cherwell 공개문서 411",
+    "locator": "pp. 11–13 §§6.2.3–6.2.4, 그림 5·6",
+    "url": "https://www.cherwell.gov.uk/download/downloads/id/411/raf-bicester-conservation-area-appraisal-october-2008.pdf",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 복원 배치도, 1930년대 증축·항공유 시설, 1939년 부대 교체 및 후대 비행장 확장을 확인했다."
+    ],
+    "limitations": [
+      "그림 5는 P. Francis의 복원도이다. 시공 계약 연도와 기준일 시설 인수·가동은 구분된다. English Heritage 조사도 활용했다."
+    ],
+    "rights": "공개 열람. 도면 권리 표기를 존중해 자체 요약과 링크만 사용.",
+    "independence_group": "bicester-survey-and-heritage"
+  },
+  {
+    "id": "CAT-GB-SRC-0192",
+    "title": "Buildings Nos 79 and 137 (Type 'A' Hangars)",
+    "institution_or_author": "Historic England",
+    "publication_date": "2005-12-01 최초 등재, 현 설명 개정일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "NHLE 1393035; Air Ministry drawing 19a/24",
+    "locator": "Location, Details/History",
+    "url": "https://historicengland.org.uk/listing/the-list/list-entry/1393035",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "A형 격납고 2동 실설치 및 C형 2동 추가, A형 치수·설계 수용 가정과 정비 부속실을 확인했다."
+    ],
+    "limitations": [
+      "A형 설계 가정은 1920년대 기종을 기준으로 하며 1939년 실제 격납 대수를 뜻하지 않는다. 지방 평가서는 관련 문화유산 조사도 인용한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bicester-survey-and-heritage"
+  },
+  {
+    "id": "CAT-GB-SRC-0193",
+    "title": "The R.A.F. in the Bombing Offensive Against Germany, Vol. II: Restricted Bombing, September 1939 to May 1941",
+    "institution_or_author": "Air Ministry, Air Historical Branch (1)",
+    "publication_date": "1948 (표지 및 부록 인쇄 식별자 기준)",
+    "source_type": "secondary",
+    "document_or_accession_number": "G.197929/EFE/8/48; Appendix C1 G.197929/JW/6/48",
+    "locator": "Appendix C1, Composition of Bomber Command, 31.8.39, 12 및 142 행",
+    "url": "https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/second-world-war-campaign-narratives/raf-in-the-bombing-offensive-against-germany-vol-ii-restricted-bombing-september-1939-may-1941/",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-08-31 비스터 편제표에 제12·142비행대, Fairey Battle 34·32대가 Strength로 기재된 것을 확인했다."
+    ],
+    "limitations": [
+      "전후 공군부 편찬 초고의 표이다. Strength와 기지 내 주기·가동 가능 대수는 별개이며 9월 1일 직접 실측이 아니다."
+    ],
+    "rights": "RAF 공개 스캔. 원문 이미지 대신 자체 요약과 링크 사용.",
+    "independence_group": "air-ministry-official-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0194",
+    "title": "RAF Bicester Chronology",
+    "institution_or_author": "Bicester Local History Society 공개본",
+    "publication_date": "작성·발행일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "RAF BICESTER CHRONOLOGY (illust)",
+    "locator": "1939 항목, 5월 배치 및 9월 1~2일 단락",
+    "url": "https://www.blhs.org.uk/uploads/documents/RAF%20BICESTER%20CHRONOLOGY%28%20illust%29.pdf",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제12·142비행대의 9월 1일 동원 준비 명령과 다음 날 프랑스 이동 서술을 확인했다."
+    ],
+    "limitations": [
+      "개별 이동일을 뒷받침하는 당일 원장 미확보. 1940년 병합 단락에 부대 번호 반복 오기가 있다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bicester-local-chronology"
+  },
+  {
+    "id": "CAT-GB-SRC-0195",
+    "title": "The Expansion of the Royal Air Force, 1934–1939",
+    "institution_or_author": "Air Ministry, Air Historical Branch (1)",
+    "publication_date": "편찬일 미확인, 전후 초고",
+    "source_type": "secondary",
+    "document_or_accession_number": "G.106,640(a)",
+    "locator": "pp. 142–143, The Alignment of 1939",
+    "url": "https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/second-world-war-thematic-studies/the-expansion-of-the-raf-1934-1939/",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 가을 케임브리지셔 덕스퍼드를 전투기 기지로 분류한 본문을 확인했다."
+    ],
+    "limitations": [
+      "사령부 차원의 후대 서술로 기지의 정격과 9월 1일 기체 일계표가 없다."
+    ],
+    "rights": "RAF 공개 스캔. 자체 요약과 링크만 사용.",
+    "independence_group": "air-ministry-official-history"
   }
 ]

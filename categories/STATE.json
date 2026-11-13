@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 56,
-  "CAT_VISITED_COUNT": 55,
-  "CAT_LAST_JOB_ID": "CAT-GB-17",
+  "CAT_NEXT_STEP": 57,
+  "CAT_VISITED_COUNT": 56,
+  "CAT_LAST_JOB_ID": "CAT-GB-18",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-13T12:54:54+09:00",
-  "note": "영국 17 종전 시점 주요 공업단지 부분 조사 저장. 첫 방문 55/133, 다음 CAT-GB-18."
+  "updated_at": "2026-11-13T14:59:11+09:00",
+  "note": "영국 18 개전 시점 주요 공군기지 부분 조사 저장. 첫 방문 56/133, 다음 CAT-GB-19."
 }
