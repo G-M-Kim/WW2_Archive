@@ -844,5 +844,61 @@
     ],
     "evidence": "candidate: 광석·정광 생산을 확보했다. 광석과 산화물 함량의 표기 차이, 1945년 정광의 대시 및 광산·목적지별 물량은 미확인이다.",
     "completion_condition": "광산·세관 원표와 수입국별 계약·반입 통계의 건조중량 및 품위 기준을 맞추고 크롬 집성표 이미지의 행 대응을 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0063",
+    "status": "open",
+    "question": "유스턴 공장의 1939-09-01 생산·고용·준공 설비와 정확한 공장 경계는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-GEO-0013",
+      "CAT-GB-SRC-0167",
+      "CAT-GB-SRC-0168",
+      "CAT-GB-SRC-0169"
+    ],
+    "evidence": "candidate: 1936년 예정지와 1939년 4월 고용 및 후대의 400 ha 초과 표기가 있다. 측량 범위와 9월 설비·생산량은 미확인이다.",
+    "completion_condition": "WORK 26/11A/1·SUPP 5/1260 원문 및 부지 도면·준공증명과 1939년 9월 교대·생산 장부를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0064",
+    "status": "open",
+    "question": "대거넘 공장의 1939년 필지·라인별 설계능력과 부두·발전 처리량은 얼마인가?",
+    "related_ids": [
+      "CAT-GB-GEO-0014",
+      "CAT-GB-SRC-0170",
+      "CAT-GB-SRC-0171",
+      "CAT-GB-SRC-0172"
+    ],
+    "evidence": "candidate: 1930년 매입 면적과 1937년 사진에 나타난 부두는 확인했다. 1939년 필지와 가동 설비의 정격·실적은 미확인이다.",
+    "completion_condition": "Ford Ltd 공장도·생산일지·부두 하역표·발전소 명세에서 동일 경계의 개전과 종전 상태를 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0065",
+    "status": "open",
+    "question": "캐슬브로미치 공장의 1939년 개전일 공사 진척과 1940년 이전 작업 규모는 어느 수준이었는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0015",
+      "CAT-GB-SRC-0112",
+      "CAT-GB-SRC-0173",
+      "CAT-GB-SRC-0174",
+      "CAT-GB-SRC-0175",
+      "CAT-GB-SRC-0176"
+    ],
+    "evidence": "candidate: 토지 취득·착공과 후속 납품 시기를 구분했다. 1939년 현장 고용과 설비 준공 기록은 미확인이다.",
+    "completion_condition": "항공부 부지대장과 공사 진척표, Contract 981687/39 원본과 기체 인수장부를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0066",
+    "status": "open",
+    "question": "같은 척도로 대조할 영국·타국 공장과 추가 영국 산업집적의 자료는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-GEO-0013",
+      "CAT-GB-GEO-0014",
+      "CAT-GB-GEO-0015",
+      "CAT-GB-SRC-0168",
+      "CAT-GB-SRC-0171",
+      "CAT-GB-SRC-0176"
+    ],
+    "evidence": "candidate: 토지 예정지와 매입 부지, 후속 인도량의 정의가 달라 공통 등급 경계를 확정할 수 없다.",
+    "completion_condition": "동종 공장의 동일 기준 실측 산업 면적·설계 능력·작업 수용·전력 및 수송 처리 자료를 확보한다. 브리젠드와 영국 제철·조선 집적은 별도 경계로 조사한다."
   }
 ]

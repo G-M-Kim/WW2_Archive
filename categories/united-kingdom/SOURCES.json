@@ -3312,5 +3312,225 @@
     ],
     "rights": "수록본에 Crown Copyright Reserved 표기. 자체 요약과 링크만 사용.",
     "independence_group": "mountbatten-malaya-proclamation"
+  },
+  {
+    "id": "CAT-GB-SRC-0166",
+    "title": "Prime Minister's Announcement",
+    "institution_or_author": "UK House of Commons / Neville Chamberlain",
+    "publication_date": "1939-09-03",
+    "source_type": "primary: 당대 하원 회의록 전사",
+    "document_or_accession_number": "HC Deb vol. 351 cc291–302",
+    "locator": "cc291–292, 대독 최종 통첩과 전쟁 상태 발표",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1939/sep/03/prime-ministers-announcement",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국의 대독 참전일 1939-09-03을 공통 개전일과 구분했다."
+    ],
+    "limitations": [
+      "개별 공장에 대한 자료는 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-1939-war-announcement"
+  },
+  {
+    "id": "CAT-GB-SRC-0167",
+    "title": "Royal Ordnance Factory, Euxton",
+    "institution_or_author": "UK House of Commons / Leslie Hore-Belisha",
+    "publication_date": "1939-05-05",
+    "source_type": "primary: 당대 하원 서면 답변 전사",
+    "document_or_accession_number": "HC Deb vol. 346 cc2230–2232W",
+    "locator": "1939-04-15 직접 고용표와 도급 공사 인력 문단",
+    "url": "https://api.parliament.uk/historic-hansard/written-answers/1939/may/05/royal-ordnance-factory-euxton",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전쟁부 직접 고용 392명, 공사국 30명, 도급 시공 인력 약 5,000명을 확인했다."
+    ],
+    "limitations": [
+      "1939-04-15 직군별 고용이다. 총 노동 수용력이나 9월 1일 고용이 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hansard-euxton-employment"
+  },
+  {
+    "id": "CAT-GB-SRC-0168",
+    "title": "Historic Building Recording of a World War Two Defence Installation at Lucas Green",
+    "institution_or_author": "Aaron Goode, Robin Taylor-Wilson and Guy Thompson / Pre-Construct Archaeology",
+    "publication_date": "2013-03",
+    "source_type": "secondary: 고고학 조사 및 원기록 인용",
+    "document_or_accession_number": "LWC 13 / RN11016, 인용 원기록 WORK 26/11A/1, SUPP 5/1260",
+    "locator": "pp. 7–8, §2.4.1.3–5",
+    "url": "https://chorleyhistorysociety.co.uk/pdfs/Pill_box_LWC13%20HBR%20Report.pdf",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "유스턴 예정지 약 900 acres, 1939년 초 가동 시작과 4월 공정 확대, 개전 무렵 생산 및 부지 범위를 확인했다."
+    ],
+    "limitations": [
+      "TNA 원문은 이 조사 보고서의 인용을 통해 확인했다. 900 acres는 1936년 계획 범위이며 공사 전체 도로·철도 길이의 개별 준공일은 미상이다."
+    ],
+    "rights": "© Pre-Construct Archaeology Limited. 자체 요약과 링크만 사용.",
+    "independence_group": "pca-lwc13"
+  },
+  {
+    "id": "CAT-GB-SRC-0169",
+    "title": "Royal Ordnance Factory, Chorley, Lancashire",
+    "institution_or_author": "Historic England Archive",
+    "publication_date": null,
+    "source_type": "secondary: 항공사진 교육 자료의 해설",
+    "document_or_accession_number": "NMR/12920/48",
+    "locator": "사진 설명과 Period",
+    "url": "https://historicengland.org.uk/education/schools-resources/educational-images/royal-ordnance-factory-chorley-lancashire-nmr-12920-48",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공장 부지 400 ha 초과라는 후대 해설과 공장 용도를 확인했다."
+    ],
+    "limitations": [
+      "사진 분류는 1990년대이며 면적 측량일과 정확한 경계가 없다. 1939년 면적으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "he-chorley-education"
+  },
+  {
+    "id": "CAT-GB-SRC-0170",
+    "title": "The Ford Motor Car Manufactory, Dagenham, 1937",
+    "institution_or_author": "Aerofilms Ltd / Historic England Archive",
+    "publication_date": "1937-09-03",
+    "source_type": "primary: 개전 전 항공사진",
+    "document_or_accession_number": "EPW055196",
+    "locator": "사진 본체와 소장 목록 Details",
+    "url": "https://www.britainfromabove.org.uk/en/image/EPW055196",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1937년 9월 3일 템스강변 공장군과 돌출 부두가 사진에 보인다."
+    ],
+    "limitations": [
+      "사진의 위치 핀은 공장 필지의 꼭짓점이 아니다. 생산량·처리능력·면적은 이 사진으로 확정할 수 없다."
+    ],
+    "rights": "Historic England Archive 사진. 재게시 없이 원문 링크만 사용.",
+    "independence_group": "aerofilms-epw055196"
+  },
+  {
+    "id": "CAT-GB-SRC-0171",
+    "title": "Ford Dagenham: Forging the Heart of Automotive Innovation in the UK",
+    "institution_or_author": "Leslie Armbruster / Ford Motor Company",
+    "publication_date": "2025-11-07",
+    "source_type": "secondary: 회사 연혁",
+    "document_or_accession_number": "Ford From the Road",
+    "locator": "1924년 매입, 1930년 추가 매입, 1931년 첫 차량과 초기 설비 단락",
+    "url": "https://wwwqa.fromtheroad.ford.com/us/en/articles/2025/ford-dagenham-forging-the-heart-of-automotive-innovation-in-the-",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1930년 합계 501 acres와 초기 고로·주조소·발전소·부두, 1931년 첫 차량."
+    ],
+    "limitations": [
+      "회사 회고이며 501 acres는 토지 매입 합계다. 1939년 유효 산업 면적은 이 수치로 확정할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ford-dagenham-company-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0172",
+    "title": "Research Guide: Dagenham Ford plant in England",
+    "institution_or_author": "Benson Ford Research Center / The Henry Ford",
+    "publication_date": null,
+    "source_type": "secondary: 기업 기록 소장기관의 조사 안내",
+    "document_or_accession_number": "AskUs 274730",
+    "locator": "Answer의 1929–1936년 설비와 전시 생산 단락",
+    "url": "https://askus.thehenryford.org/researchguides/faq/274730",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1932년 정상 생산, 1936년 압연·스프링 제작 부문 추가, 전시 차량 생산과 공급업체 구분."
+    ],
+    "limitations": [
+      "문서 상자 원본은 열람하지 않았다. 회사 연혁과 기초 기록의 독립성을 가정하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "benson-ford-research-guide"
+  },
+  {
+    "id": "CAT-GB-SRC-0173",
+    "title": "The Second World War 1939–1945: Royal Air Force Maintenance",
+    "institution_or_author": "Air Ministry, Air Historical Branch",
+    "publication_date": "1954",
+    "source_type": "secondary: 영국 공군 공식사",
+    "document_or_accession_number": "C.D. 1131 / AP3397",
+    "locator": "pp. 2–3, Shadow Factories",
+    "url": "https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/second-world-war-thematic-studies/ap3397-maintenance/",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 5월 너필드의 공장 조직 수락과 이후 비커스 운영 전환을 확인했다."
+    ],
+    "limitations": [
+      "개전 당일 공사 진척, 고용·설비 능력·부지 도면은 해당 장에 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "air-historical-branch-shadow-factories"
+  },
+  {
+    "id": "CAT-GB-SRC-0174",
+    "title": "Castle Bromwich history",
+    "institution_or_author": "Solihull Metropolitan Borough Council",
+    "publication_date": null,
+    "source_type": "secondary: 지방정부 역사 자료",
+    "document_or_accession_number": null,
+    "locator": "Airfield 및 Aircraft factory",
+    "url": "https://www.solihull.gov.uk/about-solihull/castle-bromwich-history",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 착공, 공장 위치, 됭케르크 시기까지 스핏파이어 미생산과 이후 운영 전환을 확인했다."
+    ],
+    "limitations": [
+      "공장 착공식과 시설별 준공, 인도 일정은 서로 다른 사건이다. 후대 최대 생산량을 1939년에 적용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "solihull-castle-bromwich-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0175",
+    "title": "London–West Midlands Environmental Statement, CFA25 Castle Bromwich and Bromford",
+    "institution_or_author": "HS2 Ltd / Department for Transport",
+    "publication_date": "2013-11",
+    "source_type": "secondary: 고고학·문화유산 평가",
+    "document_or_accession_number": "ES 3.2.1.25 / CBBo58",
+    "locator": "pp. 75–76, §6.3.21",
+    "url": "https://assets.publishing.service.gov.uk/media/5a7cfa2ae5274a2af0ae29f4/Vol_2_CFA_25_Castle_Bromwich_and_Bromford.pdf",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 항공부 토지 취득 및 공장과 인접 비행장의 공간 구분."
+    ],
+    "limitations": [
+      "사업 보고서의 유산 위치 대조이며 당대 공장 필지 도면은 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hs2-cf25-heritage"
+  },
+  {
+    "id": "CAT-GB-SRC-0176",
+    "title": "Spitfire Mk IIA P7322",
+    "institution_or_author": "Historic England Research Records / J. J. Halley 자료 인용",
+    "publication_date": null,
+    "source_type": "secondary: 공식 유산 목록의 기체 이력",
+    "document_or_accession_number": "Monument 1322010 / Contract 981687/39",
+    "locator": "Description의 제작소와 계약 인도 범위",
+    "url": "https://historicengland.org.uk/listing/heritage-gateway/results/record/0d636742-8028-4a8c-8b7c-e1f9aaf2d338/0dc559b2-463a-406c-a1e4-85f148d78447",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐슬브로미치 제작기와 1,000대 계약분의 1940년 6월~1941년 7월 인도 범위를 확인했다."
+    ],
+    "limitations": [
+      "기체 이력에서 인용한 계약분이다. 계약 원장·1939년 생산능력은 미확인이며 목록의 좌표는 기체 손실 지점이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "he-p7322-contract"
   }
 ]
