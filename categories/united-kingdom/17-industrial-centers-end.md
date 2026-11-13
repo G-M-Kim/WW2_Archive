@@ -1,0 +1,34 @@
+# 영국의 종전 시점 주요 공업단지와 규모
+
+공통 비교일은 일본의 항복문서 서명일인 **1945년 9월 2일**이다. 영국의 대독 참전일인 **1939년 9월 3일**, 영국이 유럽전 승리를 발표한 **1945년 5월 8일**, 각 공장의 실적·촬영·이전 날짜를 따로 쓴다. [CAT-GB-SRC-0166, 하원 cc291–292](https://api.parliament.uk/historic-hansard/commons/1939/sep/03/prime-ministers-announcement) · [CAT-GB-SRC-0107, 처칠의 하원 발표](https://hansard.parliament.uk/commons/1945-05-08/debates/E357D31F-FB31-497E-BAD9-F85195A3A6D7/Germany%28UnconditionalSurrender%29) · [CAT-GB-SRC-0177, RG 218 항복문서 서명부](https://www.archives.gov/milestone-documents/surrender-of-japan#transcript)
+
+[개전 조사](16-industrial-centers-start.md)에서 다룬 탄약 충전·차량 제조·항공기 조립 공장 세 곳을 동일한 GEO ID와 공간 단위로 비교한다. 세 곳 모두 두 기준일에 영국 본토 잉글랜드의 영국 실효 지배 아래 있었다. 광역 공업 집적과 해외 관할 시설은 후속 조사에 남긴다.
+
+| 공장과 비교 경계 | 개전에서 종전까지 확인된 변화 | 1945-09-02 규모 판정 |
+|---|---|---|
+| **CAT-GB-GEO-0013** Royal Ordnance Factory Euxton / Chorley, 랭커셔 유스턴 북동·촐리 북서. 본 공장의 공정동·저장동·구내 운송시설을 포함하며 별도 히피(Heapey) 저장시설은 제외한다. 필지선 미확인. 종전 운영은 공급부 계통 ROF. | 개전 무렵 본격 가동에 들어갔고, 1945년에는 군수 작업과 잉여 물자 회수를 병행했다. 12월 정부 답변에는 평시 존치 방침이 나온다. [CAT-GB-SRC-0168, pp. 7–8](https://chorleyhistorysociety.co.uk/pdfs/Pill_box_LWC13%20HBR%20Report.pdf) · [CAT-GB-SRC-0178, vol. 417 cc159–161W](https://hansard.parliament.uk/commons/1945-12-10/debates/7633fbc0-da68-4e00-a22d-5deb6f4afaea/WrittenAnswers) · [CAT-GB-SRC-0179, 질문 117](https://hansard.parliament.uk/Commons/1948-01-26/debates/52313c90-eb83-4087-abbd-f82e95246698/RoyalOrdnanceFactoryChorley) | 점수·범위 미산정. 신뢰도 낮음. 기준일의 가동 면적·정격·수용 정원·물류량 미확인. |
+| **CAT-GB-GEO-0014** Ford Motor Works, Dagenham, 당시 에식스 대거넘의 템스 북안. 1937년 사진 목록 위치 핀 51.51440°N, 0.15477°E. 본 공장의 차량 조립·금속 공정·구내 발전·부두를 포함한다. 외지 공장·주거는 제외하고 같은 토지의 공급업체 작업장은 중복 집계를 보류한다. 운영 Ford Motor Company Ltd. | 개전 전부터 가동한 차량 공장이다. 전시 피해 기록과 전후 공장·부두 잔존이 확인된다. 전후 승용차 생산 재개는 확인되나 라인별 전환일은 미확인이다. [CAT-GB-SRC-0170, EPW055196](https://www.britainfromabove.org.uk/en/image/EPW055196) · [CAT-GB-SRC-0172, 연구 안내 Answer](https://askus.thehenryford.org/researchguides/faq/274730) · [CAT-GB-SRC-0180, THF99020](https://www.thehenryford.org/collections/explore/artifact/281039) · [CAT-GB-SRC-0182, CID 4182647 History](https://www.aviationarchives.uk/Portal/AAAI/en-GB/RecordView/Index/4182647) | 점수·범위 미산정. 신뢰도 낮음. 사진으로 설비의 가동 면적·생산 정격·수용 정원·하역량을 판정할 수 없다. |
+| **CAT-GB-GEO-0015** Castle Bromwich Aircraft Factory, 현 버밍엄 캐슬베일 체스터 로드 서쪽의 CBBo58. 인접 비행장과 던롭 공장 제외. 필지선 미확인. 영국 정부 항공기 생산 사업을 Vickers-Armstrongs가 운영했다. | 개전 때 건설 중이던 공장은 전시 생산을 거쳐 1945년 11월까지 스핏파이어를 완성했다. 전후 미완성 기체를 외지로 보내고 공장 부지는 이후 자동차 차체 제조에 쓰였다. [CAT-GB-SRC-0112, 하원 질문 38–39](https://api.parliament.uk/historic-hansard/commons/1946/oct/21/factory-castle-bromwich-agreement) · [CAT-GB-SRC-0174, Aircraft factory](https://www.solihull.gov.uk/about-solihull/castle-bromwich-history) · [CAT-GB-SRC-0175, §6.3.21](https://assets.publishing.service.gov.uk/media/5a7cfa2ae5274a2af0ae29f4/Vol_2_CFA_25_Castle_Bromwich_and_Bromford.pdf) · [CAT-GB-SRC-0185, 74/A/22 p. 1](https://www.rafmuseum.org.uk/documents/collections/74-A-22-Spitfire-24-PK724.pdf#page=1) | 점수·범위 미산정. 신뢰도 낮음. 공장 경계 안의 기준일 설치·가동량과 피해 복구율 미확인. |
+
+## 관측 시점과 집계 범위
+
+### 유스턴·촐리
+
+- **전시 최고 고용**은 1945년 12월 10일 하원 서면답변의 Lancashire–Chorley 행에 **35,600명**으로 나온다. 표에는 최고치의 실제 날짜와 부속시설 포함 여부가 없다. 이 답변은 촐리를 평시 존치 목록에 넣고 군용 생산 감축과 필수 민수품 작업 방침을 밝혔다. 공장별 민수품 생산 개시일이나 물량은 기재하지 않았다. [CAT-GB-SRC-0178, vol. 417 cc159–161W, Total peak strength 표 및 이어지는 답변](https://hansard.parliament.uk/commons/1945-12-10/debates/7633fbc0-da68-4e00-a22d-5deb6f4afaea/WrittenAnswers)
+- **1945년 12월 고용**은 1948년 공급부 답변에 **5,857명**으로 나온다. 원문은 *men*으로 적었고 여성 포함 여부와 월 내 기준일은 불명이다. 답변은 1945년 주 작업으로 탄약 충전과 잉여 물자 해체·재료 회수를 든다. 최고 총원과 모집단이 다를 수 있어 감소율은 산출하지 않았다. 별개 고고학 보고서가 인용한 **1945년 9월 3일** 지방지의 고용 전망은 기준일에 가까우나 신문 원지면과 실측 고용은 미확인이다. 공장 손상률과 설비 철거 여부도 미확인이다. [CAT-GB-SRC-0179, vol. 446 질문 117](https://hansard.parliament.uk/Commons/1948-01-26/debates/52313c90-eb83-4087-abbd-f82e95246698/RoyalOrdnanceFactoryChorley) · [CAT-GB-SRC-0186, pp. 34–36 §§5.8.3, 5.8.7, 각주 47](https://digventures.com/wp-content/uploads/2026/02/DV_SpoddenValleyRevealed_CommunityArchaeologyReport_v2.0-1.pdf)
+
+### 대거넘
+
+- **잔존 설비와 피해.** Ford의 **1946년 10월** 항공사진에서 강변 돌출 부두 **1곳**과 공장 건물군이 식별된다. **1937년 9월 3일** 사진에도 강변 돌출 부두가 보인다. 두 사진 사이에 개별 건물이 철거·재건됐는지나 부두의 종전일 하역 실적은 알 수 없다. 별도 지방 기록관의 **1939~1945년 추정** 폭격 피해 사진은 목록만 확인했다. 촬영 구역·복구일·손실 면적은 미확인이다. [CAT-GB-SRC-0180, 84.1.1660.P.O.5576 사진·Subject Date](https://www.thehenryford.org/collections/explore/artifact/281039) · [CAT-GB-SRC-0170, EPW055196 사진](https://www.britainfromabove.org.uk/en/image/EPW055196) · [CAT-GB-SRC-0181, SB211 목록 및 복제본 DS914](https://valencehousecollections.co.uk/object/photograph-showing-the-interior-view-of-bomb-damage-at-the-factory-of-the-ford-motor-company-dagenham-circa-1939-1945/)
+- **생산과 고용.** 항공산업 기록물 안내는 종전 후 승용차 생산 재개를 적고, 전시 멀린 엔진 생산은 맨체스터권 어름스턴의 별도 공장에 귀속한다. 1960년 하원에서 대거넘 지역 포드의 1945년 고용을 물었으나 상무부 답변은 개별 기업 통계의 비공개를 이유로 수치를 제공하지 않았다. 1945년 9월 본 공장의 라인별 생산·고용과 설비 정격은 보류한다. [CAT-GB-SRC-0182, CID 4182647 History](https://www.aviationarchives.uk/Portal/AAAI/en-GB/RecordView/Index/4182647) · [CAT-GB-SRC-0183, 하원 질문 21](https://hansard.parliament.uk/commons/1960-05-17/debates/d1cf0263-4139-4aaf-9c75-79ab82a94a7e/FordMotorCompany)
+
+### 캐슬브로미치
+
+- **완성기와 피해.** 솔리헐의 공장 연혁은 마지막 현지 생산 스핏파이어 PK614의 시험비행을 **1945년 11월 30일**로 기록한다. 버밍엄대 논문도 11월까지 생산으로 설명하나 이 대목에서 솔리헐 자료를 함께 인용하므로 독립 생산장부의 확증으로 세지 않았다. 솔리헐은 전시 공습 피해와 이후 차체 공장 전용을 기록하지만, 종전일 가동동 수나 공습 후 잔존 생산능력은 제시하지 않는다. 시험비행에 쓰인 비행장의 면적도 이 공장 평가에서 제외했다. [CAT-GB-SRC-0174, Aircraft factory·Airfield](https://www.solihull.gov.uk/about-solihull/castle-bromwich-history) · [CAT-GB-SRC-0184, pp. 150–151](https://etheses.bham.ac.uk/id/eprint/3118/1/Pethia11PhD.pdf)
+- **이전과 후속 완성.** RAF 박물관의 PK724 이력은 **1946년 1월** 캐슬브로미치에서 미완성 Mk.22 기체 **54대**를 사우스마스턴으로 옮겨 Mk.24로 완성했다고 기록한다. PK724의 **1946년 2월 27일** 시험비행 장소도 사우스마스턴이다. 이 수량은 이전한 재공품이며 1945년 9월 재고·캐슬브로미치 완성기 인도·설비 이전량과 각각 구분한다. [CAT-GB-SRC-0185, 74/A/22 p. 1, Jan 46 및 27 Feb 46 행](https://www.rafmuseum.org.uk/documents/collections/74-A-22-Spitfire-24-PK724.pdf#page=1)
+
+## 비교 척도와 후속 검증
+
+[시설 평가 기준](../INFRASTRUCTURE_RATING.md)의 공업단지 1~20점 척도와 개전 조사에서 쓴 네 차원(산업용 면적·시설 집적, 생산능력, 수용 가능한 노동·작업 규모, 전력·운송 처리설비)을 적용했다. 개전 측의 유스턴 **1936년 예정지 약 900 acres**와 대거넘 **1930년 매입 합계 501 acres**는 같은 비교 참고값으로 유지했다. 이 두 값은 종전일의 설치·가동 면적이나 등급 경계를 제공하지 않는다. 세 곳 모두 등급을 판정할 자료와 공통 정량 경계가 부족해 [실행 기록](../runs/CAT-GB-17.json)에 네 차원·점수·범위를 `null`, 점수 상태를 `candidate`, 신뢰도를 `low`로 저장했다. [CAT-GB-SRC-0168, p. 8 §2.4.1.4](https://chorleyhistorysociety.co.uk/pdfs/Pill_box_LWC13%20HBR%20Report.pdf) · [CAT-GB-SRC-0171, 1930년 추가 매입 단락](https://wwwqa.fromtheroad.ford.com/us/en/articles/2025/ford-dagenham-forging-the-heart-of-automotive-innovation-in-the-)
+
+[미확인 과제](QUESTIONS.json)에 촐리의 기준일 작업·고용 모집단(CAT-GB-RQ-0067), 대거넘의 라인별 전환·피해 복구(CAT-GB-RQ-0068), 캐슬브로미치의 인도·이전·인수 기록(CAT-GB-RQ-0069), 다른 영국 공업 집적과 해외 시설의 비교 기준(CAT-GB-RQ-0070)을 남겼다.

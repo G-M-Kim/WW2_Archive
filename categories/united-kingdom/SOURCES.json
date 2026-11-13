@@ -3532,5 +3532,205 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "he-p7322-contract"
+  },
+  {
+    "id": "CAT-GB-SRC-0177",
+    "title": "Instrument of Surrender",
+    "institution_or_author": "일본·연합국 서명 대표 / 미국 국립문서기록관리청(NARA)",
+    "publication_date": "1945-09-02",
+    "source_type": "primary",
+    "document_or_accession_number": "RG 218, Records of the U.S. Joint Chiefs of Staff",
+    "locator": "Transcript 서명부",
+    "url": "https://www.archives.gov/milestone-documents/surrender-of-japan",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 항복문서 서명일과 영국 대표 서명을 확인했다."
+    ],
+    "limitations": [
+      "영국 공장 운영 자료는 포함하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "japan-surrender-instrument"
+  },
+  {
+    "id": "CAT-GB-SRC-0178",
+    "title": "Royal Ordnance Factories (Peacetime Products)",
+    "institution_or_author": "UK Parliament / Leonard, Ministry of Supply",
+    "publication_date": "1945-12-10",
+    "source_type": "primary",
+    "document_or_accession_number": "HC Deb vol 417 cc159–161W",
+    "locator": "Total peak strength 표 Lancashire–Chorley 행 및 평시 존치 답변",
+    "url": "https://hansard.parliament.uk/commons/1945-12-10/debates/7633fbc0-da68-4e00-a22d-5deb6f4afaea/WrittenAnswers",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "촐리 전시 최고 총원 35,600명과 평시 존치 방침을 확인했다."
+    ],
+    "limitations": [
+      "표는 해당 최고치 날짜, 성별 및 별도 시설의 포함 여부를 명시하지 않는다. 민수품 생산은 당시 정책 설명이다."
+    ],
+    "rights": "UK Parliament 공개 열람. 의사록 자체 요약과 링크만 사용.",
+    "independence_group": "uk-ministry-of-supply"
+  },
+  {
+    "id": "CAT-GB-SRC-0179",
+    "title": "Royal Ordnance Factory, Chorley",
+    "institution_or_author": "UK Parliament / J. Jones, Ministry of Supply",
+    "publication_date": "1948-01-26",
+    "source_type": "primary",
+    "document_or_accession_number": "HC Deb vol 446, 질문 117",
+    "locator": "질문 117 J. Jones 답변 첫 문단",
+    "url": "https://hansard.parliament.uk/Commons/1948-01-26/debates/52313c90-eb83-4087-abbd-f82e95246698/RoyalOrdnanceFactoryChorley",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 12월 고용 5,857 men과 1945년의 주요 작업을 확인했다."
+    ],
+    "limitations": [
+      "답변은 men으로 표기한다. 여성 포함 여부, 월 내 기준일과 품목별 작업량은 미상이다."
+    ],
+    "rights": "UK Parliament 공개 열람. 의사록 자체 요약과 링크만 사용.",
+    "independence_group": "uk-ministry-of-supply"
+  },
+  {
+    "id": "CAT-GB-SRC-0180",
+    "title": "Aerial View of Ford Motor Company. Factory, Dagenham, Essex, England, 1946",
+    "institution_or_author": "Ford Motor Company / The Henry Ford",
+    "publication_date": "1946-10",
+    "source_type": "primary",
+    "document_or_accession_number": "84.1.1660.P.O.5576; THF99020",
+    "locator": "항공사진 본체와 Artifact Details의 Subject Date",
+    "url": "https://www.thehenryford.org/collections/explore/artifact/281039",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "촬영 영상에서 대거넘 강변 부두와 공장 건물군의 잔존을 확인했다."
+    ],
+    "limitations": [
+      "1946년 10월 사진이며 1945년 9월의 개별 건물 가동, 설비 손실과 하역량은 판독할 수 없다."
+    ],
+    "rights": "The Henry Ford 소장, Ford Motor Company 기증. 원본 이미지 재게시 없이 자체 요약과 링크만 사용.",
+    "independence_group": "ford-corporate-photo"
+  },
+  {
+    "id": "CAT-GB-SRC-0181",
+    "title": "Photograph showing the interior view of bomb damage at the factory of the Ford Motor Company, Dagenham, circa. 1939-1945",
+    "institution_or_author": "London Borough of Barking and Dagenham Archives and Local Studies Library / Valence House",
+    "publication_date": "1939–1945 (사진 추정); 목록 작성일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "SB211; 복제본 DS914",
+    "locator": "Object number, Date, Conditions governing reproduction, Copies",
+    "url": "https://valencehousecollections.co.uk/object/photograph-showing-the-interior-view-of-bomb-damage-at-the-factory-of-the-ford-motor-company-dagenham-circa-1939-1945/",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대거넘 공장 폭격 피해 내부 사진의 소장 기록을 확인했다."
+    ],
+    "limitations": [
+      "웹에서 목록만 열람했다. 사진 본체, 정확한 일자·피해 구역·복구율은 미확인이다."
+    ],
+    "rights": "목록상 사진 저작권자 미상. 목록 자체 요약과 링크만 사용.",
+    "independence_group": "dagenham-local-archive-catalog"
+  },
+  {
+    "id": "CAT-GB-SRC-0182",
+    "title": "Ford Motor Co Ltd",
+    "institution_or_author": "Aviation and Aerospace Archives Initiative / Royal Aeronautical Society",
+    "publication_date": "공개일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "CID 4182647",
+    "locator": "History의 제2차 세계대전 및 전후 단락",
+    "url": "https://www.aviationarchives.uk/Portal/AAAI/en-GB/RecordView/Index/4182647",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대거넘의 전후 승용차 생산 재개와 어름스턴 별도 공장 서술을 확인했다."
+    ],
+    "limitations": [
+      "재개일과 월별 라인 실적이 없고, 전시 누계의 제품·집계 경계도 세분하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "raes-archival-survey"
+  },
+  {
+    "id": "CAT-GB-SRC-0183",
+    "title": "Ford Motor Company",
+    "institution_or_author": "UK Parliament / Reginald Maudling, Board of Trade",
+    "publication_date": "1960-05-17",
+    "source_type": "primary",
+    "document_or_accession_number": "하원 질문 21",
+    "locator": "질문 21 Dagenham 1945년 인원 질의 및 Maudling 답변",
+    "url": "https://hansard.parliament.uk/commons/1960-05-17/debates/d1cf0263-4139-4aaf-9c75-79ab82a94a7e/FordMotorCompany",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대거넘 지역 포드 1945년 인원 질의에 수치가 공개되지 않았음을 확인했다."
+    ],
+    "limitations": [
+      "질의 범위는 대거넘 지역이며 본 공장 필지와 일치하는지 불명이다."
+    ],
+    "rights": "UK Parliament 공개 열람. 의사록 자체 요약과 링크만 사용.",
+    "independence_group": "uk-board-of-trade"
+  },
+  {
+    "id": "CAT-GB-SRC-0184",
+    "title": "Reconstructing communities: the impact of regeneration on community dynamics and processes",
+    "institution_or_author": "Stacey R. Pethia / University of Birmingham",
+    "publication_date": "2011",
+    "source_type": "secondary",
+    "document_or_accession_number": "UBIRA ETheses 3118",
+    "locator": "pp. 150–151, Historical Overview",
+    "url": "https://etheses.bham.ac.uk/id/eprint/3118/1/Pethia11PhD.pdf",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐슬브로미치 공장의 1945년 11월까지 생산 및 도로 양편의 공장·비행장 구분을 확인했다."
+    ],
+    "limitations": [
+      "지역 재개발 논문의 후대 연혁이다. 이 대목은 솔리헐 구청도 인용해 별개 공장 일지로 볼 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "castle-local-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0185",
+    "title": "Individual History: Supermarine Spitfire F.24 PK724/7288M",
+    "institution_or_author": "Andrew Simpson / Royal Air Force Museum",
+    "publication_date": "2012",
+    "source_type": "secondary",
+    "document_or_accession_number": "74/A/22; PK724/7288M",
+    "locator": "p. 1, Jan 46 및 27 Feb 46 행",
+    "url": "https://www.rafmuseum.org.uk/documents/collections/74-A-22-Spitfire-24-PK724.pdf#page=1",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미완성 기체 54대의 1946년 1월 이전과 PK724의 사우스마스턴 시험비행 기록을 확인했다."
+    ],
+    "limitations": [
+      "박물관의 개별 기체 이력이다. 원 공장 9월 재공품 수량 및 이전 설비 범위는 미상이다."
+    ],
+    "rights": "© Royal Air Force Museum 2012. 자체 요약과 링크만 사용.",
+    "independence_group": "rafm-aircraft-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0186",
+    "title": "Spodden Valley Revealed Eco museum – Community Archaeology Report",
+    "institution_or_author": "Stuart Noon 편 / DigVentures",
+    "publication_date": "2021 (저작권 표기; 초안 2019-12-16)",
+    "source_type": "secondary",
+    "document_or_accession_number": "OASIS digventu1-406840",
+    "locator": "pp. 34–36, §§5.8.3, 5.8.7 및 각주 47",
+    "url": "https://digventures.com/wp-content/uploads/2026/02/DV_SpoddenValleyRevealed_CommunityArchaeologyReport_v2.0-1.pdf",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공급부 소속 및 1945-09-03 지역지의 촐리 고용 전망 인용을 확인했다."
+    ],
+    "limitations": [
+      "지역지 지면 자체는 미열람이다. 전망은 당일 고용 실적이 아니다."
+    ],
+    "rights": "© DigVentures Limited. 자체 요약과 링크만 사용.",
+    "independence_group": "digventures-local-archaeology"
   }
 ]

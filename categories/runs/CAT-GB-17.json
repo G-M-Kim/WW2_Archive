@@ -1,0 +1,278 @@
+{
+  "step": 55,
+  "job_id": "CAT-GB-17",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 17,
+  "category": "종전 시점 주요 공업단지와 규모(1~20)",
+  "article_path": "categories/united-kingdom/17-industrial-centers-end.md",
+  "status": "partial",
+  "completed_at": "2026-11-13T12:54:54+09:00",
+  "started_at": "2026-11-13T12:48:15+09:00",
+  "base_head": "cd7e681d48de4a4ba979c5686ed0f48a694d4904",
+  "source_ids": [
+    "CAT-GB-SRC-0107",
+    "CAT-GB-SRC-0112",
+    "CAT-GB-SRC-0166",
+    "CAT-GB-SRC-0168",
+    "CAT-GB-SRC-0170",
+    "CAT-GB-SRC-0171",
+    "CAT-GB-SRC-0172",
+    "CAT-GB-SRC-0174",
+    "CAT-GB-SRC-0175",
+    "CAT-GB-SRC-0177",
+    "CAT-GB-SRC-0178",
+    "CAT-GB-SRC-0179",
+    "CAT-GB-SRC-0180",
+    "CAT-GB-SRC-0181",
+    "CAT-GB-SRC-0182",
+    "CAT-GB-SRC-0183",
+    "CAT-GB-SRC-0184",
+    "CAT-GB-SRC-0185",
+    "CAT-GB-SRC-0186"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0067",
+    "CAT-GB-RQ-0068",
+    "CAT-GB-RQ-0069",
+    "CAT-GB-RQ-0070"
+  ],
+  "entity_ids": [
+    "CAT-GB-GEO-0013",
+    "CAT-GB-GEO-0014",
+    "CAT-GB-GEO-0015"
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-GB-GEO-0013",
+      "reference_date": "1945-09-02",
+      "historical_name": "Royal Ordnance Factory Euxton / Chorley (Filling Factory No. 1)",
+      "modern_location": "랭커셔 유스턴 북동·촐리 북서",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "유스턴·촐리 본 공장 공정동·저장동·구내 운송시설. 별도 Heapey 저장시설 제외. 정확한 필지선 미확인.",
+      "territorial_status": "1945-09-02 영국 본토 잉글랜드, 영국의 실효 지배",
+      "operators": "영국 Ministry of Supply 계통 Royal Ordnance Factory",
+      "operational_status": "1945년 작업은 충전과 잉여 물자 해체·회수 중심. 12월 존치·민수 작업 방침. 9월 2일 일별 실적, 손상 및 설비 전환 현황 미확인.",
+      "source_survey_dates": [
+        "전시 최고치 정확한 기준일 미상, 1945-12-10 답변",
+        "1945-09-03 지방지 보도(후대 인용)",
+        "1945년 12월 고용, 1948-01-26 답변"
+      ],
+      "metrics": [
+        {
+          "metric": "전시 고용 최고치",
+          "value": 35600,
+          "unit": "명",
+          "date": "전시 최고치, 날짜 미상; 1945-12-10 보고",
+          "boundary": "Hansard의 Chorley 행, 부속 시설 포함 범위 미상",
+          "source_id": "CAT-GB-SRC-0178",
+          "locator": "cc159–161W Lancashire–Chorley 행",
+          "capacity_or_actual": "실제 고용 최고 총원"
+        },
+        {
+          "metric": "12월 고용",
+          "value": 5857,
+          "unit": "명 (원문 men)",
+          "date": "1945-12",
+          "boundary": "Hansard 질문 117의 Euxton/Chorley, 여성·부속시설 포함 여부 미상",
+          "source_id": "CAT-GB-SRC-0179",
+          "locator": "vol 446, 질문 117 답변",
+          "capacity_or_actual": "실제 고용, 기준일 이후"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "산업용 면적·시설 집적",
+          "facility": "Ford Motor Works, Dagenham",
+          "metric_value_or_band": "501 acres, 1930년 매입 합계",
+          "source_id": "CAT-GB-SRC-0171",
+          "locator": "1930년 추가 매입 단락",
+          "rationale": "동시대 산업용지 크기의 참고값. 시설 가동 면적과 동일하지 않아 등급 경계 설정에는 보류."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "공장 존치와 작업을 확인했다. 9월 가동 면적·정격·수용 정원·물류 설비량과 공통 등급 경계가 미확인이다.",
+      "source_ids": [
+        "CAT-GB-SRC-0168",
+        "CAT-GB-SRC-0171",
+        "CAT-GB-SRC-0178",
+        "CAT-GB-SRC-0179",
+        "CAT-GB-SRC-0186"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-GB-GEO-0014",
+      "reference_date": "1945-09-02",
+      "historical_name": "Ford Motor Works, Dagenham",
+      "modern_location": "당시 에식스 대거넘, 현재 그레이터런던 템스 북안",
+      "coordinates_wgs84": {
+        "latitude": 51.5144,
+        "longitude": 0.15477,
+        "basis": "EPW055196 목록 위치 핀, 공장 중심이나 필지 경계와 구별"
+      },
+      "comparison_boundary": "대거넘 본 공장의 차량 조립·금속 공정·구내 발전·부두. 외지 공장과 주거 제외. 동일 토지 내 타 법인 작업장의 중복 집계 보류.",
+      "territorial_status": "1945-09-02 영국 본토 잉글랜드, 영국의 실효 지배",
+      "operators": "Ford Motor Company Ltd, 동일 부지의 공급업체는 별도",
+      "operational_status": "전시 생산 이후 승용차 재개 기록. 9월 2일 라인별 실적 및 전시 피해 복구 상태 미확인.",
+      "source_survey_dates": [
+        "1937-09-03 비교 사진",
+        "1939–1945 피해 사진 목록, 촬영일 미상",
+        "1946-10 항공사진",
+        "1960-05-17 1945년 고용 질의"
+      ],
+      "metrics": [
+        {
+          "metric": "강변 돌출 부두 관찰",
+          "value": 1,
+          "unit": "곳 (사진에서 식별)",
+          "date": "1946-10",
+          "boundary": "대거넘 본 공장의 차량 조립·금속 공정·구내 발전·부두. 외지 공장과 주거 제외. 동일 토지 내 타 법인 작업장의 중복 집계 보류.",
+          "source_id": "CAT-GB-SRC-0180",
+          "locator": "THF99020 항공사진",
+          "capacity_or_actual": "촬영일 잔존 구조물, 하역량 미상"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "산업용 면적·시설 집적",
+          "facility": "ROF Euxton / Chorley",
+          "metric_value_or_band": "약 900 acres, 1936년 예정지",
+          "source_id": "CAT-GB-SRC-0168",
+          "locator": "p. 8 §2.4.1.4",
+          "rationale": "개전 전 부지 크기의 참고값. 계획 경계이므로 가동 면적의 등급 경계 설정에는 보류."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "전시 피해 기록과 전후 부지 잔존·승용차 재개를 확인했다. 9월 복구율·가동면적·정격·수용 및 물류량은 미확인이다.",
+      "source_ids": [
+        "CAT-GB-SRC-0168",
+        "CAT-GB-SRC-0170",
+        "CAT-GB-SRC-0172",
+        "CAT-GB-SRC-0180",
+        "CAT-GB-SRC-0181",
+        "CAT-GB-SRC-0182",
+        "CAT-GB-SRC-0183"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-GB-GEO-0015",
+      "reference_date": "1945-09-02",
+      "historical_name": "Castle Bromwich Aircraft Factory",
+      "modern_location": "현 버밍엄 캐슬베일, 체스터 로드 서쪽",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "체스터 로드 서쪽 CBBo58 항공기 공장 부지. 인접 비행장과 던롭 공장 제외. 정확한 필지선 미확인.",
+      "territorial_status": "1945-09-02 영국 본토 잉글랜드, 영국의 실효 지배",
+      "operators": "영국 정부 항공기 생산 사업, Vickers-Armstrongs 운영",
+      "operational_status": "1945년 11월 완성기 시험비행, 1946년 1월 미완성 기체 이전, 이후 차체 공장 전용. 9월 2일 가동량·시설 손실률 미확인.",
+      "source_survey_dates": [
+        "전시 공습 기간, 시설별 날짜 미상",
+        "1945-11-30 PK614 시험비행",
+        "1946-01 미완성 기체 이전",
+        "1946-02-27 사우스마스턴에서 PK724 시험비행"
+      ],
+      "metrics": [
+        {
+          "metric": "사우스마스턴으로 이전한 미완성 기체",
+          "value": 54,
+          "unit": "대",
+          "date": "1946-01",
+          "boundary": "캐슬브로미치 공장 출발 및 사우스마스턴 후속 완성",
+          "source_id": "CAT-GB-SRC-0185",
+          "locator": "p. 1, Jan 46 행",
+          "capacity_or_actual": "실제 재공품 이전, 완성기 인도 제외"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "산업용 면적·시설 집적",
+          "facility": "ROF Euxton / Chorley",
+          "metric_value_or_band": "약 900 acres, 1936년 예정지",
+          "source_id": "CAT-GB-SRC-0168",
+          "locator": "p. 8 §2.4.1.4",
+          "rationale": "개전 전 부지 크기의 참고값. 계획 경계이므로 가동 면적의 등급 경계 설정에는 보류."
+        },
+        {
+          "dimension": "산업용 면적·시설 집적",
+          "facility": "Ford Motor Works, Dagenham",
+          "metric_value_or_band": "501 acres, 1930년 매입 합계",
+          "source_id": "CAT-GB-SRC-0171",
+          "locator": "1930년 추가 매입 단락",
+          "rationale": "동시대 산업용지 크기의 참고값. 시설 가동 면적과 동일하지 않아 등급 경계 설정에는 보류."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "완성기 시험비행과 재공품 이전을 확인했다. 기준일 면적·정격·수용·처리량과 공습 피해 복구율 미확인이다.",
+      "source_ids": [
+        "CAT-GB-SRC-0112",
+        "CAT-GB-SRC-0168",
+        "CAT-GB-SRC-0171",
+        "CAT-GB-SRC-0174",
+        "CAT-GB-SRC-0175",
+        "CAT-GB-SRC-0184",
+        "CAT-GB-SRC-0185"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "research_scope": "개전 조사와 같은 유스턴·대거넘·캐슬브로미치 경계에서 종전 전후 가동·피해·전환을 조사했다.",
+  "limitations": [
+    "촐리 전시 최고 총원과 12월 men은 시점과 모집단이 다르며, 대거넘의 잔존 설비 사진은 1946년 촬영분이다.",
+    "캐슬브로미치의 최종 시험비행과 미완성 기체 이전은 각각 1945년 11월과 1946년 1월이다.",
+    "세 시설의 기준일 네 차원과 공통 등급 경계가 미확인으로 점수는 null이다. 다른 영국 및 해외 관할 시설은 이번 조사 범위 밖이다."
+  ],
+  "evidence_checked": [
+    "일본 항복문서 서명부 및 영국 의회 대독 개전·유럽전 종료 발표",
+    "Hansard vol 417 cc159–161W 촐리 행, vol 446 질문 117 및 1960년 질문 21",
+    "The Henry Ford THF99020 사진과 Valence House SB211 목록, Pethia pp. 150–151, RAF Museum 74/A/22 p. 1"
+  ],
+  "access_attempts": [
+    {
+      "target": "1945-12-10 Hansard 촐리 전시 고용표",
+      "result": "개별 답변 HTML에서 표가 생략되어 같은 날 하원 Written Answers 전체판에서 Lancashire–Chorley 행을 읽었다."
+    },
+    {
+      "target": "Valence House SB211 및 DS914",
+      "result": "온라인 목록에서 대상·날짜 범위·권리와 복제본 식별자를 확인했다. 사진 본체는 열람실 방문 안내만 확인했다."
+    },
+    {
+      "target": "1945-09-03 Lancashire Evening Post 촐리 기사",
+      "result": "DigVentures pp. 35–36의 간접 인용과 각주를 확인했다. 신문 원지면의 근거와 실제 고용 숫자는 미확인이다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=55 pending=78; sources=623 questions=225. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}
