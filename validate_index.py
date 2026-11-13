@@ -218,6 +218,31 @@ def main() -> int:
                     errors.append(f"PROGRESS_LEDGER.md:{n}: audit file not found {audit}")
                 previous = after
 
+            # Recent-run integrity: 'audit only' work must not silently form a
+            # permanent all-zero forward loop. Historic rows are immutable;
+            # constrain the latest run and its immediate predecessor only.
+            if len(rows) >= 2:
+                older, latest = rows[-2], rows[-1]
+                try:
+                    prior_totals = tuple(map(int, older[7].split("/")))
+                    last_delta = tuple(map(int, latest[6].split("/")))
+                    last_totals = tuple(map(int, latest[7].split("/")))
+                    if len(prior_totals) == len(last_delta) == len(last_totals) == 3:
+                        expected_totals = tuple(a + b for a, b in zip(prior_totals, last_delta))
+                        if last_totals != expected_totals:
+                            errors.append(
+                                "PROGRESS_LEDGER.md: latest declared delta does not match "
+                                f"previous totals ({prior_totals} + {last_delta} != {last_totals})"
+                            )
+                except ValueError:
+                    pass  # Existing format checks already report malformed totals.
+                if all(row[2] == "forward" and row[6] == "0/0/0" for row in (older, latest)):
+                    errors.append(
+                        "PROGRESS_LEDGER.md: two consecutive forward batches with "
+                        "zero EVT/SRC/RQ; repair missing canonical indexing or "
+                        "document a blocked/recovery workflow before continuing"
+                    )
+
             state_text = work_state.read_text(encoding="utf-8")
             cursor_match = re.search(r"(?m)^FORWARD_CURSOR:\s*(\d{4}-\d{2}-\d{2})\s*$", state_text)
             if not cursor_match:
