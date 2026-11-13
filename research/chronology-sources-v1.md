@@ -2330,3 +2330,5 @@ as_of: 2026-11-04
 
 | SRC-2053 | USHMM, *Lidice: The Annihilation of a Czech Town* | 2차(공식 역사해설) | 1942-06-09~10 포위·학살 및 후속 추방 | https://encyclopedia.ushmm.org/content/en/article/lidice | 2026-11-13 확인. 현장 173명 총살과 후속 희생 구분, 원본 경찰 명령·명부 미열람 |
 | SRC-2054 | Anne Frank House, *Anne Frank is presented with a diary for her 13th birthday* | 1차 수록 2차(일기 1942-06-14 인용) | Diary Version A 1942-06-14; Otto Frank 1952 서신 | https://research.annefrank.org/en/gebeurtenissen/d2a6e743-4840-476c-b673-b77d04c972b2/ | 2026-11-13 확인. 6/12 수령·6/14 기록 구분, 원문 대량 복제 금지 |
+
+| SRC-2055 | 영국 지중해함대 Admiralty War Diary 1942 (Naval-History.Net 전사) | 1차(당대 영국 해군 일지의 현대 전사) | 1942-06-11~15 Operation VIGOROUS 항목; 원본 쪽수 미확인 | https://naval-history.net/xDKWD-MedFleet1942a.htm | 2026-11-14 전사 내용 확인. 6/13 합류 및 6/12 출항 분리; 원본 스캔·이탈리아군 작전일지와 미교차, 전사 오류 가능성 |
