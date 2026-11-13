@@ -978,5 +978,185 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "nwwiim-42-93096-collection-history"
+  },
+  {
+    "id": "CAT-US-SRC-0050",
+    "title": "Springfield Armory: The Best Battle Implement Ever Devised",
+    "institution_or_author": "미 국립공원관리청(NPS), Springfield Armory National Historic Site",
+    "publication_date": "2017-08-04",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "M1 Garand Rifle 및 John Garand 단락, 페이지 갱신일",
+    "url": "https://www.nps.gov/articles/springfieldarmoryww2.htm",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 육군 채택·생산 개시, 반자동 방식과 제식 소총의 중량 표기, 조병창 생산 약 310만 정."
+    ],
+    "limitations": [
+      "웹 해설은 전시 생산량의 장부와 집계 시작·종료일, 중량의 계측 상태를 명시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-springfield-armory-garand-history"
+  },
+  {
+    "id": "CAT-US-SRC-0051",
+    "title": "M1 Rifle variations and experimental models",
+    "institution_or_author": "미 국립공원관리청(NPS), Springfield Armory National Historic Site",
+    "publication_date": "2021-06-16",
+    "source_type": "secondary",
+    "document_or_accession_number": "SPAR3435, SPAR4057, SPAR1807, SPAR3190",
+    "locator": "M1 일련번호 87 및 T1E1·SR M1·M1E5의 실물 사진과 소장 설명, 페이지 갱신일",
+    "url": "https://www.nps.gov/spar/learn/historyculture/m1-variations.htm",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1931년 T1E1 시제품, 1937년 M1 일련번호 87의 시험 통과, 1944년 M1E5 시험 및 M1 카빈과의 구분."
+    ],
+    "limitations": [
+      "실물 사진과 박물관 기술을 확인했다. 원 시험 성적표와 배치 문서는 열람하지 않았다."
+    ],
+    "rights": "기관 소장 사진을 공개 열람했다. 사진과 설명문 전문은 재게시하지 않았다.",
+    "independence_group": "nps-springfield-armory-object-catalogue"
+  },
+  {
+    "id": "CAT-US-SRC-0052",
+    "title": "Soldiers carrying M1 Garands patrol a jungle trail near Talasea, New Britain in September 1944",
+    "institution_or_author": "미 육군 통신대, The National WWII Museum 디지털 컬렉션 소장",
+    "publication_date": "1944-09",
+    "source_type": "primary",
+    "document_or_accession_number": "2008.354.262",
+    "locator": "디지털 사진, Description의 전시 캡션 및 박물관 형식 식별",
+    "url": "https://www.ww2online.org/image/soldiers-carrying-m1-garands-patrol-jungle-trail-near-talasea-new-britain-september-1944",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 9월 뉴브리튼 탈라세아 인근 순찰 사진. 박물관이 M1 소총과 M1 카빈을 함께 식별한다."
+    ],
+    "limitations": [
+      "원 캡션은 장소와 순찰을 뒷받침한다. 형식 판정은 박물관 설명에 의존하며 보급률과 일련번호는 확인할 수 없다."
+    ],
+    "rights": "기관 소장 사진을 공개 열람했다. 사진과 설명문 전문은 재게시하지 않았다.",
+    "independence_group": "us-army-signal-corps-talasea-2008-354-262"
+  },
+  {
+    "id": "CAT-US-SRC-0053",
+    "title": "A Veritable Arsenal: Museum Collection Management at Springfield Armory National Historic Site",
+    "institution_or_author": "Alexander MacKenzie, 미 국립공원관리청(NPS) 공개 전사",
+    "publication_date": "2019-06",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "2019년 6월 4~6일 발표 전사, 1936년 채택과 조병창 약 350만 정 단락",
+    "url": "https://www.nps.gov/articles/000/museum-collection-management-at-springfield-armory-national-historic-site.htm",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 제식 채택 및 Springfield Armory 자체의 대전 중 생산량을 약 350만 정으로 서술."
+    ],
+    "limitations": [
+      "발표 전사에는 해당 수치의 공장 원표가 없다. NPS의 다른 설명과 독립 검증으로 취급하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-springfield-armory-garand-history"
+  },
+  {
+    "id": "CAT-US-SRC-0054",
+    "title": "U.S. M1 Garand Rifle Production",
+    "institution_or_author": "미 국립공원관리청(NPS), Scott A. Duff의 일련번호 표 인용",
+    "publication_date": "2022-03-16",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "서문, Springfield Armory 1945년 행, Winchester 1942~1945년 행, 페이지 갱신일",
+    "url": "https://www.nps.gov/spar/learn/historyculture/u-s-m1-garand-rifle-production.htm",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제조사별 근사 월말 일련번호이며 Springfield의 1945년 7~10월 행은 3,888,081."
+    ],
+    "limitations": [
+      "번호 배정의 불연속과 제조사별 대역이 보인다. 일련번호를 제조·납품 총수로 환산하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "scott-duff-m1-garand-wwii-serials"
+  },
+  {
+    "id": "CAT-US-SRC-0055",
+    "title": "Band of Brothers at 25: A Guide to 101st Airborne Division Artifacts at the Museum",
+    "institution_or_author": "The National WWII Museum",
+    "publication_date": "2026-07-23",
+    "source_type": "secondary",
+    "document_or_accession_number": "2003.352.001",
+    "locator": "M1 Helmet and Liner of Private First Class Edward Sabo, 유물 사진·설명",
+    "url": "https://www.nationalww2museum.org/war/articles/band-brothers-25-guide-101st-airborne-division-artifacts-museum",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "외피와 내피의 전시 사진 및 제101공수사단 제506낙하산보병연대 E중대 에드워드 사보 소장품 귀속."
+    ],
+    "limitations": [
+      "사진과 목록 설명을 확인했다. 제조사·제조일·방호 시험 자료와 특정 전투 당시 착용 기록은 제시되지 않는다."
+    ],
+    "rights": "기관 소장 사진을 공개 열람했다. 사진과 설명문 전문은 재게시하지 않았다.",
+    "independence_group": "nwwiim-sabo-2003-352-001"
+  },
+  {
+    "id": "CAT-US-SRC-0056",
+    "title": "The Quartermaster Corps: Organization, Supply, and Services, Volume I",
+    "institution_or_author": "Erna Risch, 미 육군 군사사센터(CMH)",
+    "publication_date": "1953",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 10-12-1, 열람 1995년 기념판",
+    "locator": "인쇄 pp. 103–106, The Development of Army Clothing의 신발 개발 및 각주 69",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/10-12.pdf",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Type III 근무화 납품, 전투화 시험·표준화·정규 지급용 생산, 높이 비교, 전투화 사진."
+    ],
+    "limitations": [
+      "군수사의 당시 회의록·서신 인용을 확인했다. 원문 철과 부대별 수령 장부는 미열람."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-quartermaster-risch"
+  },
+  {
+    "id": "CAT-US-SRC-0057",
+    "title": "Cold Injury, Ground Type, in World War II",
+    "institution_or_author": "Tom F. Whayne 및 Michael E. DeBakey, 미 육군 군의감실",
+    "publication_date": "1958",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제7장 European Theater of Operations, Boots and shoes, 인쇄 pp. 150–152 및 각주 28",
+    "url": "https://achh.army.mil/history/book-wwii-coldinjury-chapter07/",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944~45년 유럽 전장에서 전투화·근무화가 병용됐고 방수·맞음새에 한계가 있었다."
+    ],
+    "limitations": [
+      "전후 군의사 분석과 인용 문헌을 확인했다. 전선별 지급률이나 실험실 성능을 나타내는 자료는 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-medical-history-eto-footgear"
+  },
+  {
+    "id": "CAT-US-SRC-0058",
+    "title": "The Army and Economic Mobilization",
+    "institution_or_author": "R. Elberton Smith, 미 육군 군사사센터(CMH)",
+    "publication_date": "1959",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 1-7, 열람 1991년 판",
+    "locator": "인쇄 p. 14부터 이어지는 표 5, Footwear와 Boots, service, combat & boots, jumper, parachutist 행",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/A%20Titles%20PDF/CMH_Pub_1-7.pdf?ver=_rGcIb3o0JkRrBeYfrZLmA%3D%3D",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 7월~1945년 8월 병참부 조달 인수표의 두 부츠 항목 합계 28,104천 켤레."
+    ],
+    "limitations": [
+      "전투화와 낙하산병용 부츠가 합산됐다. 품목별 생산량 및 전선 수령량은 이 합계에서 구할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-economic-mobilization-table-5"
   }
 ]

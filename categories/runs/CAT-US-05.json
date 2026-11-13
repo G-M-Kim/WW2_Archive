@@ -1,0 +1,63 @@
+{
+  "step": 62,
+  "job_id": "CAT-US-05",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 5,
+  "category": "보병 무기 및 장비",
+  "article_path": "categories/united-states/05-infantry-equipment.md",
+  "status": "partial",
+  "completed_at": "2026-11-14T02:55:32+09:00",
+  "started_at": "2026-11-14T02:50:23+09:00",
+  "base_head": "f0dd725e0ad6fa2786739d40d050c083180ad02a",
+  "source_ids": [
+    "CAT-US-SRC-0050",
+    "CAT-US-SRC-0051",
+    "CAT-US-SRC-0052",
+    "CAT-US-SRC-0053",
+    "CAT-US-SRC-0054",
+    "CAT-US-SRC-0055",
+    "CAT-US-SRC-0056",
+    "CAT-US-SRC-0057",
+    "CAT-US-SRC-0058"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0020",
+    "CAT-US-RQ-0021",
+    "CAT-US-RQ-0022",
+    "CAT-US-RQ-0023"
+  ],
+  "entity_ids": [
+    "CAT-US-EQP-0013",
+    "CAT-US-EQP-0014",
+    "CAT-US-EQP-0015"
+  ],
+  "research_scope": "미 육군 M1 개런드 소총, M1 헬멧 및 내피, 버클형 전투화의 제식·생산·전시 사용 사례.",
+  "limitations": [
+    "조병창 생산량의 기관 내 차이는 원 조달·완성 장부로 해결되지 않았다.",
+    "사보 헬멧의 제조·지급일과 보호 성능은 미확인이다.",
+    "전투화 조달 표는 낙하산병용 부츠와 합산했고, 다른 개인·지원 화기와 통신·의무·군장 범위는 남아 있다."
+  ],
+  "evidence_checked": [
+    "NPS M1 개발·생산 해설과 실물 목록, 소장관리 발표 전사, 일련번호표, 통신대 사진 2008.354.262.",
+    "미국 국립 제2차세계대전박물관의 사보 헬멧·내피 2003.352.001 실물 사진과 소장 설명.",
+    "CMH Pub 10-12-1 인쇄 pp. 103–106 및 각주 69, 군의사 제7장 pp. 150–152, CMH Pub 1-7 표 5."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.loc.gov/item/2017689204/",
+      "result": "의회도서관 제조 관련 사진 페이지 접근 시 403. 전시 운용은 미 육군 통신대 사진을 직접 열람해 확인했다."
+    },
+    {
+      "url": "https://qmmuseum.army.mil/research/history-heritage/former-qm-corps/clothing/Shoes-and-The-Army.html",
+      "result": "병참 박물관의 1945년 기사 전재 페이지 접근 시 502. 전재 기사를 검증 근거로 사용하지 않았다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=62 pending=71; sources=684 questions=251. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

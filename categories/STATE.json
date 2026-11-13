@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 62,
-  "CAT_VISITED_COUNT": 61,
-  "CAT_LAST_JOB_ID": "CAT-US-04",
+  "CAT_NEXT_STEP": 63,
+  "CAT_VISITED_COUNT": 62,
+  "CAT_LAST_JOB_ID": "CAT-US-05",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-14T00:57:50+09:00",
-  "note": "미국 04 항공기·무장·성능 부분 조사 저장. 첫 방문 61/133, 다음 CAT-US-05."
+  "updated_at": "2026-11-14T02:55:32+09:00",
+  "note": "미국 05 보병 무기 및 장비 부분 조사 저장. 첫 방문 62/133, 다음 CAT-US-06."
 }
