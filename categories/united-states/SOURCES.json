@@ -318,5 +318,185 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "hansell-awpd-1"
+  },
+  {
+    "id": "CAT-US-SRC-0017",
+    "title": "M3A1 Stuart Tank",
+    "institution_or_author": "The National WWII Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "2009.411",
+    "locator": "M3A1 Stuart Tank, Production, Specifications",
+    "url": "https://www.nationalww2museum.org/visit/museum-campus/us-freedom-pavilion/vehicles-war/m3a1-stuart-tank",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "M3의 1941년 필리핀 운용과 M3A1의 1942년 5월 생산 개시를 구분한다. M3A1은 승무원 4명, 37 mm, 최대 36 mph, 28,500 lb로 표기한다."
+    ],
+    "limitations": [
+      "최대속도의 노면·하중·측정법과 중량 상태 미기재. 생산 합계의 집계 범위 불명."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nww2m-stuart"
+  },
+  {
+    "id": "CAT-US-SRC-0018",
+    "title": "M3A1 Stuart",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The Tank Museum’s M3 Hybrid, Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/m3a1-stuart?tpage=2",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "M3A1 표에서 37 mm M6, 4명, 36 mph, 12.9 tonnes를 확인했다. 전시 혼합 차량은 M3 차체·M3A1 포탑이다."
+    ],
+    "limitations": [
+      "형식 표와 전시 혼합 차량의 이력은 적용 대상이 다르다. 속도 시험 조건 미기재."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "tank-museum-stuart"
+  },
+  {
+    "id": "CAT-US-SRC-0019",
+    "title": "The Fall of the Philippines",
+    "institution_or_author": "Louis Morton / U.S. Army Center of Military History",
+    "publication_date": "1953년 초판, 1993년 재판",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 5-2-1",
+    "locator": "The Reinforcement of the Philippines, 인쇄 pp. 32–33 및 p. 33 주 12",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/5-2.pdf",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미 육군 제192·194전차대대에 M-3 경전차 합계 108대가 도착했다는 전후 공식 전사 서술."
+    ],
+    "limitations": [
+      "인용 전보·선적 문서 원본은 미열람. 세부 변형·일별 가동 대수 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-cmh-morton"
+  },
+  {
+    "id": "CAT-US-SRC-0020",
+    "title": "M4A3 Sherman (1942-1943)",
+    "institution_or_author": "Museum of the American G.I.",
+    "publication_date": "2024-05-20",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "WWII M4A3 Sherman",
+    "url": "https://americangimuseum.org/collections/restored-vehicles/m4a3-sherman-1942-1943/",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942–43년형 M4A3 표에서 Ford GAA V8, 승무원 5명, 75 mm, 30 mph (48 km/h)."
+    ],
+    "limitations": [
+      "속도의 지속 여부·노면·하중 미기재. 복원 차량 소개를 전시 실측이나 전체 M4A3 계열 값으로 확대할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "museum-american-gi-m4a3"
+  },
+  {
+    "id": "CAT-US-SRC-0021",
+    "title": "M4 Sherman Tank",
+    "institution_or_author": "The National WWII Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "2000.216",
+    "locator": "M4A3E9 Sherman Tank, Production, Specifications (M4A3)",
+    "url": "https://www.nationalww2museum.org/visit/museum-campus/us-freedom-pavilion/vehicles-war/m4-sherman-tank",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 Ford 생산 M4A3E9 전시품과 복원 표식의 이력. 제원표는 75 mm·승무원 5명·Ford GAA V8·평지 지속 26 mph를 기재한다."
+    ],
+    "limitations": [
+      "복원 표식은 다른 차량의 이력이다. 제원표 속도의 시험일·하중 미기재."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nww2m-sherman"
+  },
+  {
+    "id": "CAT-US-SRC-0022",
+    "title": "Parade of M-4 (General Sherman) and M-3 (General Grant) tanks in training maneuvers, Ft. Knox, Ky.",
+    "institution_or_author": "Alfred T. Palmer / U.S. Office of War Information / Library of Congress",
+    "publication_date": "1942-06",
+    "source_type": "primary",
+    "document_or_accession_number": "LC-USW36-325 [P&P], LC-DIG-fsac-1a35226, LCCN 2017878432",
+    "locator": "컬러 투명필름 디지털 복제판 1a35226",
+    "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35226v.jpg",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "컬러 판면에서 훈련 중인 전차 대열을 확인했다. 소장 캡션의 형식은 M-4와 M-3 중형전차다."
+    ],
+    "limitations": [
+      "사진 자체는 속도나 M4A3 세부 변형을 입증하지 않는다. 항목 페이지 직접 접근은 403으로, 사진 판면은 LoC 이미지 서버에서 열람했다."
+    ],
+    "rights": "LoC 소장 기록의 권리 표시는 알려진 출판 제한 없음. 사진 미전재.",
+    "independence_group": "owi-palmer-fort-knox"
+  },
+  {
+    "id": "CAT-US-SRC-0023",
+    "title": "Logistics in World War II: Final Report of the Army Service Forces",
+    "institution_or_author": "U.S. War Department General Staff, Service, Supply, and Procurement Division / U.S. Army Center of Military History",
+    "publication_date": "1948년 GPO판(도서관 서지), 1993년 영인판",
+    "source_type": "primary",
+    "document_or_accession_number": "CMH Pub 70-29",
+    "locator": "Combat Vehicles, 인쇄 p. 91. 원판 연도는 판권면과 영인판 서문 참고.",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/70-29.pdf",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전후 업무보고는 1942년 M4의 보급 확대와 1945년 봄 Pershing의 유럽 실전 및 90 mm 무장을 기록한다."
+    ],
+    "limitations": [
+      "업무보고의 회고이며 차량별 시험성적서가 아니다. 46 tons의 단위계·하중 미기재. 영인판 서문은 원 출판연도를 1947년으로 기재해 판권면 서지의 1948년과 다르다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "war-department-asf-final-report"
+  },
+  {
+    "id": "CAT-US-SRC-0024",
+    "title": "The Ordnance Department: Planning Munitions for War",
+    "institution_or_author": "Constance McLaughlin Green, Harry C. Thomson, Peter C. Roots / U.S. Army Center of Military History",
+    "publication_date": "1955년 초판, 1990년 재판",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 10-9",
+    "locator": "Wartime Organization in Research and Development, 인쇄 p. 238 및 주 62",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/10-9.pdf",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "T26E3 20대 해외 파견 승인, 제3·9기갑사단의 초기 실전, 90 mm M3, 1945년 3월 M26 표준화를 기록한다."
+    ],
+    "limitations": [
+      "승인 수량과 전쟁 전체 배치 합계는 집계 범위가 다르다. 주 62의 일지와 군수국 원문 미열람."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-cmh-ordnance"
+  },
+  {
+    "id": "CAT-US-SRC-0025",
+    "title": "The Pershing M26 (T26 E3)",
+    "institution_or_author": "Yank, The Army Weekly / U.S. Army",
+    "publication_date": "1945-06-22",
+    "source_type": "primary",
+    "document_or_accession_number": "Vol. 4, No. 1",
+    "locator": "동명 기사 본문 및 사진 설명",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USArmy/Yank%20Magazine/Yank%20Vol.%204%20no.%2001%201945-06-22.pdf",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 군 간행물은 90 mm, 25 mph, 85,700 lb를 보도했다."
+    ],
+    "limitations": [
+      "군 간행물 소개 기사로 노면·하중·측정법 불명. 초도 실전 월과 중량 표기는 다른 군 기록과 대조 필요. PDF 텍스트 열람, 판면 캡처는 크기 제한."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-yank-weekly"
   }
 ]

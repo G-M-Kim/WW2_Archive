@@ -41,5 +41,57 @@
     ],
     "evidence": "FM 100-20 원문과 연합 폭격계획, 대표 교전을 확인했다. AWPD-1 원면과 표적별 생산·피해 및 출격 자료는 미대조다.",
     "completion_condition": "AWPD-1 및 전구 명령과 항공군 출격기록·피해 조사표를 날짜·전구·표적 단위로 대조한다."
+  },
+  {
+    "id": "CAT-US-RQ-0004",
+    "status": "open",
+    "question": "M3A1의 형식별 인수량과 북아프리카 실전 배치, 필리핀 M3 경전차의 대대별 도착일은 어디까지 확인되는가?",
+    "related_ids": [
+      "CAT-US-EQP-0001",
+      "CAT-US-SRC-0017",
+      "CAT-US-SRC-0018",
+      "CAT-US-SRC-0019"
+    ],
+    "evidence": "candidate. 박물관의 생산 수치는 범위가 불분명하고 Morton p. 33은 대대 수량과 계열을 확인해 준다.",
+    "completion_condition": "군 인수표와 대대별 수송·배치 기록을 대조해 날짜, 형식, 인수·보유·가동 수량을 구분한다."
+  },
+  {
+    "id": "CAT-US-RQ-0005",
+    "status": "open",
+    "question": "Ford 초기 M4A3 75 mm 형식의 속도 표기 차이와 개장·생산 형식별 계수를 어떻게 설명할 수 있는가?",
+    "related_ids": [
+      "CAT-US-EQP-0002",
+      "CAT-US-SRC-0020",
+      "CAT-US-SRC-0021",
+      "CAT-US-SRC-0022"
+    ],
+    "evidence": "disputed. 30 mph와 평지 지속 26 mph의 시험 조건과 적용 차량이 일치하는지 미확인이다. 훈련 사진은 계열만 식별한다.",
+    "completion_condition": "시험 기록에서 노면·하중·지속 또는 최고속도·형식과 시험일을 확인하고 생산·개장 장부의 범위를 분리한다."
+  },
+  {
+    "id": "CAT-US-RQ-0006",
+    "status": "open",
+    "question": "초기 T26E3 실전일, 전쟁 말기 M26의 부대별 인도 대수 및 서로 다른 중량 표기의 기준은 무엇인가?",
+    "related_ids": [
+      "CAT-US-EQP-0003",
+      "CAT-US-SRC-0023",
+      "CAT-US-SRC-0024",
+      "CAT-US-SRC-0025"
+    ],
+    "evidence": "disputed. ASF·군수국 전사는 46 tons를, Yank는 85,700 lb를 제시한다. 20대는 승인 수량이다.",
+    "completion_condition": "부대 일지와 인수기록에서 날짜·인도·배치·실전 여부를 분리하고 계량표의 단위·하중·형식을 확인한다."
+  },
+  {
+    "id": "CAT-US-RQ-0007",
+    "status": "open",
+    "question": "M3 Lee/Grant, M5/M5A1, M24, 76 mm 및 105 mm 셔먼, M4A3E2와 기타 특수형의 전시 이력을 어떻게 보완할 수 있는가?",
+    "related_ids": [
+      "CAT-US-EQP-0001",
+      "CAT-US-EQP-0002",
+      "CAT-US-SRC-0022",
+      "CAT-US-SRC-0023"
+    ],
+    "evidence": "candidate. 포트녹스 사진은 M3 중형 계열의 훈련만 보여준다. 다른 형식과 태평양 후기·연합국 배치는 후속 조사 범위다.",
+    "completion_condition": "형식별 인수·운용 자료와 소장 표본을 연결하고 국가·군종·전구 및 전시 시점을 구분한다."
   }
 ]

@@ -804,8 +804,9 @@
     "category": "전차장비, 무장, 성능",
     "article_path": "categories/united-states/01-tanks.md",
     "planned_at": "2026-11-13T15:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-US-01.json",
+    "completed_at": "2026-11-13T19:03:04+09:00"
   },
   {
     "step": 59,
