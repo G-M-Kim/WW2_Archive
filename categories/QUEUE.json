@@ -888,8 +888,9 @@
     "category": "유명한 전투 참여 인물",
     "article_path": "categories/united-states/07-combat-personnel.md",
     "planned_at": "2026-11-14T03:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-US-07.json",
+    "completed_at": "2026-11-14T07:01:36+09:00"
   },
   {
     "step": 65,

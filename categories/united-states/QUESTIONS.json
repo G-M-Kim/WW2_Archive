@@ -350,5 +350,55 @@
     ],
     "evidence": "첫 검사는 함상 탐지, 암호 통신 및 장거리 전파항법의 대표 사례에 한정됐다.",
     "completion_condition": "다른 레이더·무선·소나·사격통제·정보처리·병참 장비를 장비 인수 자료 및 현장 기록으로 검토한다."
+  },
+  {
+    "id": "CAT-US-RQ-0028",
+    "status": "open",
+    "question": "노르망디 작전 최종 승인과 연합군 지휘 책임은 어떤 당대 기록으로 더 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-US-PER-0001",
+      "CAT-US-SRC-0067",
+      "CAT-US-SRC-0068",
+      "CAT-US-SRC-0069"
+    ],
+    "evidence": "발령문과 실패 대비 메모를 확인했으나 두 문서의 목적이 다르며 회의별 승인 권한은 드러나지 않는다.",
+    "completion_condition": "연합참모본부 지시와 SHAEF 회의록을 연결해 날짜와 권한을 확인한다."
+  },
+  {
+    "id": "CAT-US-RQ-0029",
+    "status": "open",
+    "question": "니미츠의 미드웨이 사전 지시와 현장 보고의 시간 순서를 어느 범위까지 재구성할 수 있는가?",
+    "related_ids": [
+      "CAT-US-PER-0002",
+      "CAT-US-SRC-0070",
+      "CAT-US-SRC-0071",
+      "CAT-US-SRC-0072"
+    ],
+    "evidence": "CINCPAC 종합 보고와 제16임무부대 보고를 열람했다. 동시대 통신문 전량과 일본측 자료는 미대조다.",
+    "completion_condition": "전시 발신·수신 기록을 확인하고 양측 자료로 후대의 공적·전과 평가를 대조한다."
+  },
+  {
+    "id": "CAT-US-RQ-0030",
+    "status": "open",
+    "question": "데이비스 개인의 전시 출격과 두 지휘 부대의 실적은 어떻게 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-US-PER-0003",
+      "CAT-US-SRC-0073",
+      "CAT-US-SRC-0074"
+    ],
+    "evidence": "인물 연보와 전시 사진을 열람했다. 소장기관 두 곳의 제332부대 명칭은 다르고 개인 출격과 부대 실적의 원표가 없다.",
+    "completion_condition": "인사 발령·훈장 수여 원문과 부대 출격일지에서 지휘 기간, 소속, 개인과 부대의 기록을 분리한다."
+  },
+  {
+    "id": "CAT-US-RQ-0031",
+    "status": "open",
+    "question": "대표 3인 외 미국의 전투 참여 인물을 어떤 전시 자료로 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-US-SRC-0067",
+      "CAT-US-SRC-0070",
+      "CAT-US-SRC-0073"
+    ],
+    "evidence": "연합군 최고사령부, 태평양함대사령부 및 전투비행단 지휘 사례를 우선 확인했다.",
+    "completion_condition": "육상 야전지휘관·현장 함장·개별 비행 승무원·하급 장병의 사례를 전시 원자료로 보완한다."
   }
 ]

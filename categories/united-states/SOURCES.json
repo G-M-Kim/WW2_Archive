@@ -1318,5 +1318,165 @@
     ],
     "rights": "목록 제목·세부 데이터 CC0, 설명 등 텍스트 CC BY 4.0으로 표기. 자체 요약과 링크만 사용.",
     "independence_group": "science-museum-group-loran-object-1973-98"
+  },
+  {
+    "id": "CAT-US-SRC-0067",
+    "title": "The Eisenhowers — Dwight David Eisenhower Chronology",
+    "institution_or_author": "Dwight D. Eisenhower Presidential Library, NARA",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Dwight David Eisenhower Chronology의 1890·1942~1944·1969년 항목",
+    "url": "https://www.eisenhowerlibrary.gov/eisenhowers",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰일, 미 육군 장교 경력, 1943년 12월 최고사령관 임명과 1944년 12월 원수 진급."
+    ],
+    "limitations": [
+      "후대 연보. 1943년 임명 명령서와 지휘권의 세부 분장은 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "eisenhower-library-biographical-chronology"
+  },
+  {
+    "id": "CAT-US-SRC-0068",
+    "title": "Order of the Day",
+    "institution_or_author": "Dwight D. Eisenhower, 연합원정군 최고사령관",
+    "publication_date": "1944-06-06",
+    "source_type": "primary",
+    "document_or_accession_number": "NARA 12000995, Museum Manuscripts FY69 Box 1",
+    "locator": "PDF 1쪽 발령본 본문과 서명",
+    "url": "https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/d-day/order-of-the-day.pdf",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연합원정군 육·해·공 인원에게 낸 명령과 최고사령관 명의."
+    ],
+    "limitations": [
+      "발령문은 지휘와 대외 메시지를 보여준다. 실제 작전의 성과나 개별 부대 명령은 별도 기록이 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "shaeF-order-of-the-day-12000995"
+  },
+  {
+    "id": "CAT-US-SRC-0069",
+    "title": "In Case of Failure Message",
+    "institution_or_author": "Dwight D. Eisenhower, NARA Eisenhower Presidential Library 소장",
+    "publication_date": "1944-06-05",
+    "source_type": "primary",
+    "document_or_accession_number": "NARA 186470, Pre-Presidential Papers, Principal File, Box 168",
+    "locator": "PDF 1쪽 자필 본문과 말미 날짜. 소장기관 D-Day 안내의 날짜 정정 및 전사 대조",
+    "url": "https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/d-day/in-case-of-failure-message.pdf",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "상륙 실패를 가정해 작성한 책임 수용 문구와 원고의 July 5 표기."
+    ],
+    "limitations": [
+      "도서관은 작성일을 6월 5일로 설명한다. 실제 상륙의 결과를 기록한 보고서가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "eisenhower-in-case-of-failure-186470"
+  },
+  {
+    "id": "CAT-US-SRC-0070",
+    "title": "Papers of Fleet Admiral Chester W. Nimitz, USN",
+    "institution_or_author": "미 해군 Naval History and Heritage Command 기록보관소",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Coll/505",
+    "locator": "권두 Biography의 생애 및 1941–1945년 지휘·계급 단락과 Series XIV 제목",
+    "url": "https://www.history.navy.mil/content/dam/nhhc/research/archives/collections/personal-donated-collections/n/nimitz-coll-505.pdf",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미 해군 소속, 1941-12-31 태평양함대 사령관 취임, 1942-04-03 태평양해역 최고지휘 직책 겸임."
+    ],
+    "limitations": [
+      "기록군의 약력·색인을 열람했다. 임명 명령서와 권한 위임 전문은 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nhhc-coll-505-biographical-finding-aid"
+  },
+  {
+    "id": "CAT-US-SRC-0071",
+    "title": "Battle of Midway — CINCPAC Action Report",
+    "institution_or_author": "Chester W. Nimitz, 미 태평양함대 사령부",
+    "publication_date": "1942-06-28",
+    "source_type": "primary",
+    "document_or_accession_number": "CINCPAC A16, Serial 01849",
+    "locator": "머리말과 말미 서명, Preliminary Operations §§4–11",
+    "url": "https://www.ibiblio.org/hyperwar/USN/rep/Midway/Midway-CinCPac.html",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미 함대사령부와 태평양함대사령부의 지시 관계 및 제16·17임무부대 지휘관 구분."
+    ],
+    "limitations": [
+      "HyperWar 웹 전사. 문서 머리의 웹 전재 표제에 적힌 중간 이름 이니셜과 달리 말미 서명은 C. W. Nimitz다. 전투 손실 추정은 검증 범위 밖이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "cinCPac-midway-serial-01849"
+  },
+  {
+    "id": "CAT-US-SRC-0072",
+    "title": "Battle of Midway — TF 16 Action Report",
+    "institution_or_author": "Raymond A. Spruance, 미 해군 제16임무부대 지휘관",
+    "publication_date": "1942-06-16",
+    "source_type": "primary",
+    "document_or_accession_number": "A16-3, Serial 0144-A",
+    "locator": "보고서 발신·경유·수신란 및 §§1–3",
+    "url": "https://www.ibiblio.org/hyperwar/USN/rep/Midway/Midway-Carriers.html",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제16임무부대의 보고가 제17임무부대를 거쳐 미 태평양함대 사령관에게 제출됐다는 기록."
+    ],
+    "limitations": [
+      "별도 지휘 계층이 작성한 전시 보고서 전사다. 상급 보고와 하위 보고의 전투 서술은 같은 보고 계통에 속한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "task-force-16-midway-serial-0144-a"
+  },
+  {
+    "id": "CAT-US-SRC-0073",
+    "title": "Benjamin O. Davis Jr. Collection",
+    "institution_or_author": "Paul Silbermann 정리, Smithsonian National Air and Space Museum Archives",
+    "publication_date": "2003",
+    "source_type": "secondary",
+    "document_or_accession_number": "NASM.1992.0023, EAD 인코딩 2016",
+    "locator": "인쇄 pp. 1–2 Biographical / Historical, p. 5 전시 연보, p. 8 사망 항목",
+    "url": "https://sirismm.si.edu/EADpdfs/NASM.1992.0023.pdf",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰일, 제99전투비행대 및 제332전투비행단 지휘와 이탈리아 주둔, 임시 대령 진급 및 제477부대 전시 배치 한계."
+    ],
+    "limitations": [
+      "소장품 해제와 연보를 열람했다. 개별 출격일지와 훈장 원문은 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "smithsonian-nasm-1992-0023-finding-aid"
+  },
+  {
+    "id": "CAT-US-SRC-0074",
+    "title": "Col. Benjamin O. Davis, Air Base at Rametti, Italy, March 1945",
+    "institution_or_author": "Toni Frissell 촬영, 미 의회도서관 Prints and Photographs Division",
+    "publication_date": "1945-03",
+    "source_type": "primary",
+    "document_or_accession_number": "LC-F9-02-4503-330-2",
+    "locator": "Portfolio 2: Pictorial Journalism의 사진과 캡션",
+    "url": "https://wwws.loc.gov/rr/print/guide/port-2.html",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 3월 이탈리아 기지에서 대령 데이비스를 촬영한 사진과 소장 식별 정보."
+    ],
+    "limitations": [
+      "사진을 열람했다. 후대 해설의 332d Fighter Pilot Squadron은 NASM 연보의 332d Fighter Group과 달라 제식 단위명 근거로 쓰지 않았다."
+    ],
+    "rights": "의회도서관 안내의 기증 컬렉션 사진. 권리의 추가 판단 없이 사진을 재게시하지 않고 링크만 사용.",
+    "independence_group": "toni-frissell-lc-f9-02-4503-330-2"
   }
 ]
