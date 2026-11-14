@@ -2349,3 +2349,7 @@ as_of: 2026-11-04
 
 | SRC-2066 | 호주 전쟁기념관(AWM), *Tel el Eisa*, 전투명예 공식 기록 | 2차(공식 군사사·전투명예 기록) | 1942-07-10~11, Tel el Eisa 공세·점령 | https://www.awm.gov.au/collection/E84632 | 2026-11-14 확인. 10~11일 전투명예 기간 및 텔엘에이사 철도 측선·고지 점령, 후속 기갑 반격을 설명. 원본 전쟁일지·포로 집계 원전은 미열람 |
 | SRC-2067 | 호주 전쟁기념관(AWM), 사진 소장품 024480, *Italian prisoners taken by 26th Australian Infantry Brigade* (1942-07-10 촬영) | 1차(당대 사진, 현대 소장품 설명) | Accession 024480, 1942-07-10 | https://www.awm.gov.au/collection/C8276 | 2026-11-14 확인. 7/10 텔엘에이사 진격 중 이탈리아군 포로의 사진 기록. 사진 설명의 날짜·부대는 기관 메타데이터로 확인, 포로 총수나 전선 전체 결과는 입증하지 않음. 사진 복제 없음 |
+
+| SRC-2068 | 베스터보르크 추모센터 디지털 소장품, *Uitgaande transporten kamp Westerbork* | 2차(현지 기념관의 이송 목록·기록 안내) | 1942-07-15·16 최초 아우슈비츠행 이송을 별도 열차로 분류 | https://collecties.kampwesterbork.nl/entiteit/uitgaande%20transporten%20kamp%20westerbork | 2026-11-14 열람. 기관 디지털 소장품; 개별 승객 원명부 원문 미대조. 7/15와 7/16을 한 열차로 혼동 금지 |
+| SRC-2069 | 미국 홀로코스트 기념박물관, *Westerbork* | 2차(공립 박물관 역사 해설) | 1942-07-15 최초 아우슈비츠행 강제이송 출발 | https://encyclopedia.ushmm.org/content/en/article/westerbork | 2026-11-14 열람. 이송 시작과 이후 전체 누적 피해 집계 분리, 원명부 미열람 |
+| SRC-2070 | 안네 프랑크 하우스, *The deportations to Auschwitz have begun* | 2차(기념관 역사 연표) | 1942-07-14 암스테르담 검거, 7/15 베스터보르크 출발 및 1,137명 기술 | https://www.annefrank.org/en/timeline/158/de-deportaties-naar-auschwitz-beginnen/ | 2026-11-14 열람. 1,137명 수치는 현지 추모센터 1,132명 표기와 차이 있어 별도 RQ-1239; 인원 확정 전 연표에 숫자 생략 |
