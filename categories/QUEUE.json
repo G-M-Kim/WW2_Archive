@@ -930,8 +930,9 @@
     "category": "유명 연설의 영상자료",
     "article_path": "categories/united-states/10-speech-videos.md",
     "planned_at": "2026-11-14T09:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-US-10.json",
+    "completed_at": "2026-11-14T12:54:52+09:00"
   },
   {
     "step": 68,

@@ -1938,5 +1938,165 @@
     ],
     "rights": "기록관 공개 목록. 원본의 이용 조건은 미확인. 목록 링크만 사용.",
     "independence_group": "blood-transfusion-association-project-report"
+  },
+  {
+    "id": "CAT-US-SRC-0098",
+    "title": "Joint Address to Congress Leading to a Declaration of War Against Japan (1941)",
+    "institution_or_author": "Franklin D. Roosevelt; U.S. National Archives, Records of the U.S. Senate",
+    "publication_date": "1941-12-08",
+    "source_type": "primary",
+    "document_or_accession_number": "SEN 77A-H1, RG 46",
+    "locator": "Transcript 첫 문단·마지막 문단; 소장 해설의 12월 8일 단락",
+    "url": "https://www.archives.gov/milestone-documents/joint-address-to-congress-declaration-of-war-against-japan",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "진주만 공격을 전제로 한 대일 선전포고 요청을 전사에서, 합동회의 연설 일시와 라디오 중계를 소장 해설에서 확인했다."
+    ],
+    "limitations": [
+      "문서 전사와 소장 해설이다. 연설 영상이나 음성의 편집 경계는 별도 대조 대상이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-senate-fdr-infamy-address"
+  },
+  {
+    "id": "CAT-US-SRC-0099",
+    "title": "FDR’s Day of Infamy Speech (Attack on Pearl Harbor Media Resources)",
+    "institution_or_author": "The National WWII Museum (제공); Franklin D. Roosevelt (연설)",
+    "publication_date": "1941-12-08 (촬영 사건); 온라인 게시일 미확인",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "Archival Video → FDR’s Day of Infamy Speech; 재생본 약 00:18, 00:23, 01:25",
+    "url": "https://www.nationalww2museum.org/media/media-resources/exhibits-and-education/attack-pearl-harbor-media-resources",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "재생기에서 전체 길이 155.25초를 확인하고 의회 장내 전경, 청중, 연단의 연설자를 담은 서로 다른 흑백 장면을 확인했다. 자막 트랙은 0개였다."
+    ],
+    "limitations": [
+      "현장 촬영을 포함한 공개 편집본이다. 원필름 식별번호·녹음 출처·음성 동기화와 전체 현장 촬영본은 미확인이다."
+    ],
+    "rights": "박물관은 편집 보도용 페이지에서 Courtesy of The National WWII Museum 표기를 요청한다. 원필름의 포괄적 이용허락은 미확인이다. 링크만 기록.",
+    "independence_group": "national-wwii-museum-fdr-archival-clip"
+  },
+  {
+    "id": "CAT-US-SRC-0100",
+    "title": "President Franklin Roosevelt’s “Day of Infamy” Speech",
+    "institution_or_author": "Franklin D. Roosevelt; John G. Bradley Papers, U.S. National Archives (DocsTeach)",
+    "publication_date": "1941-12-08",
+    "source_type": "primary",
+    "document_or_accession_number": "Sound Recording 201.49; NAID 1436350",
+    "locator": "DocsTeach Description·Citation; 음원 본편 미재생",
+    "url": "https://docsteach.org/document/day-of-infamy-recording/",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당일 합동회의 연설의 별도 음성 소장번호·녹음일·자료 유형을 확인했다."
+    ],
+    "limitations": [
+      "DocsTeach 기록 설명과 인용 정보만 확인했다. 음원 전 구간, 박물관 영상과의 편집 일치는 미검증이다."
+    ],
+    "rights": "DocsTeach 권리 표기는 Copyright Not Evaluated. 링크만 기록.",
+    "independence_group": "nara-bradley-fdr-sound-201-49"
+  },
+  {
+    "id": "CAT-US-SRC-0101",
+    "title": "World War II: D-Day, The Invasion of Normandy — A/V resources",
+    "institution_or_author": "Dwight D. Eisenhower Presidential Library and Museum, NARA; Dwight D. Eisenhower (낭독)",
+    "publication_date": "1944-06-06 (명령일); 낭독 녹음일·편집본 게시일 미확인",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "A/V resources 첫 항목과 말미의 NBC 항목; 임베드 미재생",
+    "url": "https://www.eisenhowerlibrary.gov/research/online-documents/world-war-ii-d-day-invasion-normandy",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기관 설명에서 아이젠하워의 방송용 낭독에 정지사진을 편집한 영상임을 확인했다. NBC 초기 방송과 해안경비대 영화의 별도 결합 자료도 목록에 있다."
+    ],
+    "limitations": [
+      "기관이 기재한 편집 방식을 확인했다. 플레이어 접근은 제한됐고 낭독의 정확한 녹음·최초 방송시각, 자막 및 전체 재생 길이는 확인하지 못했다."
+    ],
+    "rights": "공개 페이지. 음원 및 수록 사진별 권리 미확인. 링크만 기록.",
+    "independence_group": "eisenhower-library-order-radio-slideshow"
+  },
+  {
+    "id": "CAT-US-SRC-0102",
+    "title": "Two Newsreels Documenting the Surrender of Japan",
+    "institution_or_author": "U.S. Navy / Bureau of Aeronautics; Harry S. Truman Presidential Library and Museum (소장)",
+    "publication_date": "1945 (수록 사건 1945-08-14 및 1945-09-02 현지일)",
+    "source_type": "primary",
+    "document_or_accession_number": "MP2007-22; Shot List의 RG 80 MN 9034G",
+    "locator": "Shot List 제1릴 03:50, 04:20, 08:20 및 제2릴 10:11, 11:33; Administrative Information",
+    "url": "https://www.trumanlibrary.gov/movingimage-records/mp2007-22",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장 장면표에서 백악관의 8월 14일 발표 장면과 미주리함 조인식 발언·서명 장면의 위치를 확인했다."
+    ],
+    "limitations": [
+      "장면표 시간은 이 소장본 기준이다. 임베드는 재생하지 못했으며 프레임·음성 동기화·자막은 미확인이다. 제1릴 08:20의 9월 1일 표기는 도쿄 현지 조인일을 확정하는 근거로 쓰지 않았다."
+    ],
+    "rights": "도서관 권리 표기는 Undetermined. 링크만 기록.",
+    "independence_group": "us-navy-9034g-truman-mp2007-22"
+  },
+  {
+    "id": "CAT-US-SRC-0103",
+    "title": "President Truman’s Radio Address to the American People after the Signing of the Terms of Unconditional Surrender by Japan",
+    "institution_or_author": "Harry S. Truman; Columbia Broadcasting System; Harry S. Truman Presidential Library and Museum (소장)",
+    "publication_date": "1945-09-01 (워싱턴 현지)",
+    "source_type": "primary",
+    "document_or_accession_number": "SR64-15; NAID 331916548",
+    "locator": "Recording Date(s), Description, Original Format(s), Running Time",
+    "url": "https://www.trumanlibrary.gov/soundrecording-records/sr64-15-president-trumans-radio-address-american-people-after-signing-terms",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "백악관 CBS 중계의 9월 1일 오후 9시 56분 ETW 표기와 12인치 음반·9분 13초의 소장 정보 확인."
+    ],
+    "limitations": [
+      "음성 소장 레코드를 확인했다. 실제 음원의 시간 표시와 영상 유무는 별도 대조가 필요하다."
+    ],
+    "rights": "도서관 표기는 Unrestricted, 제작·저작권란은 CBS. 링크만 기록.",
+    "independence_group": "cbs-truman-radio-sr64-15"
+  },
+  {
+    "id": "CAT-US-SRC-0104",
+    "title": "Radio Address to the American People After the Signing of the Terms of Unconditional Surrender by Japan",
+    "institution_or_author": "Harry S. Truman; Public Papers of the Presidents; Harry S. Truman Presidential Library and Museum (전사)",
+    "publication_date": "1945-09-01 (워싱턴 현지)",
+    "source_type": "primary",
+    "document_or_accession_number": "Public Papers No. 122",
+    "locator": "머리말의 방송시각 주기, 본문 첫 두 문단 및 희생자·전후 과제를 다룬 단락",
+    "url": "https://www.trumanlibrary.gov/library/public-papers/122/radio-address-american-people-after-signing-terms-unconditional-surrender",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "조인 후 대국민 방송의 내용, 9월 1일과 오후 10시 표기를 확인했다."
+    ],
+    "limitations": [
+      "소장 음원 레코드의 오후 9시 56분과 4분 차이가 있다. 편성표·송출 원장을 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "truman-public-papers-1945-no122"
+  },
+  {
+    "id": "CAT-US-SRC-0105",
+    "title": "Harry S. Truman’s Movie Memory Album",
+    "institution_or_author": "Paramount News; Fox Movietone; Harry S. Truman Presidential Library and Museum (소장)",
+    "publication_date": "1945-08-14~1945-09-02 (소장기록의 수록일 범위)",
+    "source_type": "primary",
+    "document_or_accession_number": "MP72-6",
+    "locator": "Shot List 01:00 및 05:34, Administrative Information",
+    "url": "https://www.trumanlibrary.gov/movingimage-records/mp72-6-harry-s-trumans-movie-memory-album",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장 목록이 8월 14일 기자회견 발췌와 9월 1·2일 연설의 짧은 발췌를 각각 표시한다."
+    ],
+    "limitations": [
+      "비순환 소장본이다. 발언별 정확한 경계·실제 발언 화면·음성 동기화·자막을 확인하지 못했다."
+    ],
+    "rights": "도서관 표기는 Restricted. 목록 링크만 기록.",
+    "independence_group": "paramount-movietone-truman-mp72-6"
   }
 ]
