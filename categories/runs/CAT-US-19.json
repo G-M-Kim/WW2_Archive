@@ -1,0 +1,333 @@
+{
+  "step": 76,
+  "job_id": "CAT-US-19",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 19,
+  "category": "개전 시점 주요 해군기지와 규모(1~10)",
+  "article_path": "categories/united-states/19-naval-bases-start.md",
+  "status": "partial",
+  "completed_at": "2026-11-15T07:00:58+09:00",
+  "started_at": "2026-11-15T06:55:19+09:00",
+  "base_head": "ced782029e1c3b546ae6528e9cec0c96dd8590ab",
+  "source_ids": [
+    "CAT-US-SRC-0098",
+    "CAT-US-SRC-0144",
+    "CAT-US-SRC-0199",
+    "CAT-US-SRC-0200",
+    "CAT-US-SRC-0201",
+    "CAT-US-SRC-0202",
+    "CAT-US-SRC-0203",
+    "CAT-US-SRC-0204",
+    "CAT-US-SRC-0205",
+    "CAT-US-SRC-0206"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0077",
+    "CAT-US-RQ-0078",
+    "CAT-US-RQ-0079"
+  ],
+  "entity_ids": [
+    "CAT-US-GEO-0012",
+    "CAT-US-GEO-0024",
+    "CAT-US-GEO-0025"
+  ],
+  "research_scope": "1939-09-01 기준 하와이 준주의 진주만 해군공창과 본토 퓨젯사운드 해군공창의 도크·지원시설과 운영을 비교.",
+  "limitations": [
+    "완공 도크 수를 확인했으나 기준일 접안·수리·보급 정격과 공통 등급 경계가 부족해 규모 점수·범위는 null.",
+    "퓨젯사운드 제4건선거의 첫 입거 준비와 공사 준공은 별도 기록이며 기준일 가동 도크에서 제외했다.",
+    "대서양 연안과 서해안의 다른 기지, 준주·운하구역·필리핀의 다른 기지는 후속 범위다."
+  ],
+  "evidence_checked": [
+    "1939년 미 의회기록의 완공·공사 중 도크 구분과 진주만 정비 시설.",
+    "미 해군 시설사, HAER 두 건, NPS 등록 문서, 의회 합동조사 보고, DANFS의 기공 기록 대조."
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-US-GEO-0024",
+      "reference_date": "1939-09-01",
+      "historical_name": "Pearl Harbor Navy Yard",
+      "modern_location": "오아후 진주만 해군조선소",
+      "comparison_boundary": "오아후 진주만 해군공창 본부지·수변. 포드섬, 육군 히캄, 별도 잠수함기지·병원·외곽 탄약고 제외.",
+      "territorial_status": "미국 하와이 준주의 연방 군용 시설, 미국 실효 지배.",
+      "operators": "미 해군",
+      "operational_status": "제1건선거 및 구내 수리·보급 사용. 제2·3건선거는 기준일 이후 계약. 당일 실제 접안·입거 명부 미확인.",
+      "source_survey_dates": [
+        "1939-05-08 위원회 보고",
+        "1939-05-19 회의록 수록",
+        "1939년 가을 무렵",
+        "1939-12-22 신설 계약",
+        "1940년 5월 함대 거점 운영"
+      ],
+      "metrics": [
+        {
+          "metric": "완공 건선거",
+          "value": 1,
+          "unit": "기",
+          "date": "1939-05-08 위원회 보고",
+          "boundary": "오아후 진주만 해군공창 본부지·수변. 포드섬, 육군 히캄, 별도 잠수함기지·병원·외곽 탄약고 제외.",
+          "source_id": "CAT-US-SRC-0199",
+          "locator": "p. 5811",
+          "capacity_or_actual": "기존 설치 수"
+        },
+        {
+          "metric": "평균 고조위에서 문턱 위 수심",
+          "value": 35,
+          "unit": "피트",
+          "date": "1939-05-08 위원회 보고",
+          "boundary": "제1건선거",
+          "source_id": "CAT-US-SRC-0199",
+          "locator": "p. 5811",
+          "capacity_or_actual": "입거 한계의 시설 수심"
+        },
+        {
+          "metric": "평균 고조위에서 받침목 위 수심",
+          "value": 32.5,
+          "unit": "피트",
+          "date": "1939-05-08 위원회 보고",
+          "boundary": "제1건선거",
+          "source_id": "CAT-US-SRC-0199",
+          "locator": "p. 5811",
+          "capacity_or_actual": "원문 32피트 6인치"
+        },
+        {
+          "metric": "선박 인양 철도",
+          "value": 1,
+          "unit": "기",
+          "date": "1922년 건설, 1939-05-08 위원회 보고",
+          "boundary": "오아후 진주만 해군공창 본부지·수변. 포드섬, 육군 히캄, 별도 잠수함기지·병원·외곽 탄약고 제외.",
+          "source_id": "CAT-US-SRC-0199",
+          "locator": "p. 5812",
+          "capacity_or_actual": "기존 설치 수, 건선거 제외"
+        },
+        {
+          "metric": "배관·구리 가공 작업장 부속동 폭",
+          "value": 30,
+          "unit": "피트 (약)",
+          "date": "1939-05-08 위원회 보고 전 1년",
+          "boundary": "오아후 진주만 해군공창 본부지·수변. 포드섬, 육군 히캄, 별도 잠수함기지·병원·외곽 탄약고 제외.",
+          "source_id": "CAT-US-SRC-0199",
+          "locator": "p. 5812",
+          "capacity_or_actual": "기존 건축 치수"
+        },
+        {
+          "metric": "배관·구리 가공 작업장 부속동 길이",
+          "value": 80,
+          "unit": "피트 (약)",
+          "date": "1939-05-08 위원회 보고 전 1년",
+          "boundary": "오아후 진주만 해군공창 본부지·수변. 포드섬, 육군 히캄, 별도 잠수함기지·병원·외곽 탄약고 제외.",
+          "source_id": "CAT-US-SRC-0199",
+          "locator": "p. 5812",
+          "capacity_or_actual": "기존 건축 치수"
+        },
+        {
+          "metric": "공창 면적",
+          "value": 498,
+          "unit": "에이커",
+          "date": "1939년 가을 무렵",
+          "boundary": "오아후 진주만 해군공창 본부지·수변. 포드섬, 육군 히캄, 별도 잠수함기지·병원·외곽 탄약고 제외.",
+          "source_id": "CAT-US-SRC-0200",
+          "locator": "pp. 120–121",
+          "capacity_or_actual": "근접시기 시설 면적"
+        },
+        {
+          "metric": "공창 건물 수",
+          "value": 190,
+          "unit": "동",
+          "date": "1939년 가을 무렵",
+          "boundary": "오아후 진주만 해군공창 본부지·수변. 포드섬, 육군 히캄, 별도 잠수함기지·병원·외곽 탄약고 제외.",
+          "source_id": "CAT-US-SRC-0200",
+          "locator": "pp. 120–121",
+          "capacity_or_actual": "근접시기 집계"
+        },
+        {
+          "metric": "지상 연료유 저장단지",
+          "value": 2,
+          "unit": "곳",
+          "date": "1939년 가을 무렵",
+          "boundary": "오아후 진주만 해군공창 본부지·수변. 포드섬, 육군 히캄, 별도 잠수함기지·병원·외곽 탄약고 제외.",
+          "source_id": "CAT-US-SRC-0200",
+          "locator": "pp. 120–121",
+          "capacity_or_actual": "단지 수, 탱크 수량·용량과 구분"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "도크의 수·치수·입거 능력",
+          "facility": "Navy Yard Puget Sound",
+          "metric_value_or_band": "완공 건선거 3기",
+          "source_id": "CAT-US-SRC-0199",
+          "locator": "p. 5813",
+          "comparison_reason": "동일 보고의 설치 수 비교. 용도별 입거 능력과 다른 차원의 구간 설정에는 부족함."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "계류 정원·수리와 보급 처리량, 네 차원의 동시대 공통 등급 경계가 부족하다.",
+      "source_ids": [
+        "CAT-US-SRC-0144",
+        "CAT-US-SRC-0199",
+        "CAT-US-SRC-0200",
+        "CAT-US-SRC-0202",
+        "CAT-US-SRC-0205"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-US-GEO-0025",
+      "reference_date": "1939-09-01",
+      "historical_name": "Navy Yard Puget Sound",
+      "modern_location": "워싱턴주 브레머턴 퓨젯사운드 해군조선소",
+      "comparison_boundary": "브레머턴 싱클레어만 북안의 개전기 공창 부두·도크·공작구역. 만 전체와 후대 증설지 제외.",
+      "territorial_status": "미국 본토 워싱턴주의 연방 군용 시설, 미국 실효 지배.",
+      "operators": "미 해군",
+      "operational_status": "기존 도크 및 조선·수리 시설. Monssen 기공 확인. 제4건선거는 공사 중이었으며 당일 정박·수리 명부는 미확인.",
+      "source_survey_dates": [
+        "1939-05-08 위원회 보고",
+        "전시 증설 이전, 개별 조사일 미확인",
+        "1938년 작업장 공사",
+        "1939-07-12 Monssen 기공",
+        "1940년 10월 제4건선거 입거 준비",
+        "1941년 제4건선거 준공"
+      ],
+      "metrics": [
+        {
+          "metric": "완공 건선거",
+          "value": 3,
+          "unit": "기",
+          "date": "1939-05-08 위원회 보고",
+          "boundary": "브레머턴 싱클레어만 북안의 개전기 공창 부두·도크·공작구역. 만 전체와 후대 증설지 제외.",
+          "source_id": "CAT-US-SRC-0199",
+          "locator": "p. 5813",
+          "capacity_or_actual": "보고서의 4기 중 공사 중 1기 제외"
+        },
+        {
+          "metric": "공사 중 건선거",
+          "value": 1,
+          "unit": "기",
+          "date": "1939-05-08 위원회 보고",
+          "boundary": "브레머턴 싱클레어만 북안의 개전기 공창 부두·도크·공작구역. 만 전체와 후대 증설지 제외.",
+          "source_id": "CAT-US-SRC-0199",
+          "locator": "p. 5813",
+          "capacity_or_actual": "공사 중, 완공 시설 제외"
+        },
+        {
+          "metric": "공창 면적",
+          "value": 286,
+          "unit": "에이커",
+          "date": "전시 증설 이전, 개별 조사일 미확인",
+          "boundary": "브레머턴 싱클레어만 북안의 개전기 공창 부두·도크·공작구역. 만 전체와 후대 증설지 제외.",
+          "source_id": "CAT-US-SRC-0201",
+          "locator": "pp. 193–194",
+          "capacity_or_actual": "증설 전 시설 면적"
+        },
+        {
+          "metric": "부두",
+          "value": 4,
+          "unit": "개",
+          "date": "전시 증설 이전, 개별 조사일 미확인",
+          "boundary": "브레머턴 싱클레어만 북안의 개전기 공창 부두·도크·공작구역. 만 전체와 후대 증설지 제외.",
+          "source_id": "CAT-US-SRC-0201",
+          "locator": "pp. 193–194",
+          "capacity_or_actual": "설치 수, 동시 접안 정원 미확인"
+        },
+        {
+          "metric": "부두 크레인 정격",
+          "value": 250,
+          "unit": "톤 (원문 ton)",
+          "date": "전시 증설 이전, 개별 조사일 미확인",
+          "boundary": "브레머턴 싱클레어만 북안의 개전기 공창 부두·도크·공작구역. 만 전체와 후대 증설지 제외.",
+          "source_id": "CAT-US-SRC-0201",
+          "locator": "pp. 193–194",
+          "capacity_or_actual": "정격, 실적과 별개"
+        },
+        {
+          "metric": "수리동 확장",
+          "value": 1,
+          "unit": "동",
+          "date": "1938",
+          "boundary": "브레머턴 싱클레어만 북안의 개전기 공창 부두·도크·공작구역. 만 전체와 후대 증설지 제외.",
+          "source_id": "CAT-US-SRC-0204",
+          "locator": "§7 p. 11, 건물 58",
+          "capacity_or_actual": "건축 확장"
+        },
+        {
+          "metric": "단조동 건설",
+          "value": 1,
+          "unit": "동",
+          "date": "1938",
+          "boundary": "브레머턴 싱클레어만 북안의 개전기 공창 부두·도크·공작구역. 만 전체와 후대 증설지 제외.",
+          "source_id": "CAT-US-SRC-0204",
+          "locator": "§7 p. 11, 건물 452",
+          "capacity_or_actual": "건축 설치"
+        },
+        {
+          "metric": "Monssen 기공",
+          "value": 1,
+          "unit": "척 (사례)",
+          "date": "1939-07-12",
+          "boundary": "브레머턴 싱클레어만 북안의 개전기 공창 부두·도크·공작구역. 만 전체와 후대 증설지 제외.",
+          "source_id": "CAT-US-SRC-0206",
+          "locator": "첫 함력 단락",
+          "capacity_or_actual": "실제 조선 사례, 생산·정비 총량과 별개"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "도크의 수·치수·입거 능력",
+          "facility": "Pearl Harbor Navy Yard",
+          "metric_value_or_band": "완공 건선거 1기",
+          "source_id": "CAT-US-SRC-0199",
+          "locator": "p. 5811",
+          "comparison_reason": "동일 보고의 설치 수 비교. 용도별 입거 능력과 다른 차원의 구간 설정에는 부족함."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "부두와 도크 수는 확인했지만 개전일 입거 가능 범위, 정비 및 보급 처리량·정원과 공통 비교 구간은 미확인이다.",
+      "source_ids": [
+        "CAT-US-SRC-0199",
+        "CAT-US-SRC-0201",
+        "CAT-US-SRC-0203",
+        "CAT-US-SRC-0204",
+        "CAT-US-SRC-0206"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.loc.gov/item/wa0565/",
+      "status": "inaccessible",
+      "detail": "항목 페이지 403. LOC 공개 HAER 보고서 판면을 별도로 열람했다."
+    },
+    {
+      "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/monssen-i.html",
+      "status": "inaccessible",
+      "detail": "직접 본문 열람 요청 시간 초과. 공개 DANFS 전사본에서 해당 단락을 확인했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=76 pending=57; sources=832 questions=307. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

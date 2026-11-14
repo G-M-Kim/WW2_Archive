@@ -1054,10 +1054,11 @@
     "category_number": 19,
     "category": "개전 시점 주요 해군기지와 규모(1~10)",
     "article_path": "categories/united-states/19-naval-bases-start.md",
-    "status": "pending",
-    "run_record": null,
+    "status": "partial",
+    "run_record": "categories/runs/CAT-US-19.json",
     "step": 76,
-    "planned_at": "2026-11-15T03:30:00+09:00"
+    "planned_at": "2026-11-15T03:30:00+09:00",
+    "completed_at": "2026-11-15T07:00:58+09:00"
   },
   {
     "step": 77,

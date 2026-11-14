@@ -3964,5 +3964,165 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "USAAF official multivolume history"
+  },
+  {
+    "id": "CAT-US-SRC-0199",
+    "title": "Congressional Record — Senate, May 19, 1939: Naval public works",
+    "institution_or_author": "U.S. Senate, Committee on Naval Affairs; Government Printing Office",
+    "publication_date": "1939-05-19 (회의록); 위원회 보고 1939-05-08",
+    "source_type": "primary",
+    "document_or_accession_number": "76th Congress, 1st Session; S. Rept. 76-390, H.R. 2878; Congressional Record vol. 84",
+    "locator": "인쇄 pp. 5811–5813, Navy Yard Pearl Harbor 및 Navy Yard Puget Sound",
+    "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1939-pt6-v84/pdf/GPO-CRECB-1939-pt6-v84-1-1.pdf",
+    "accessed_at": "2026-11-15T07:00:58+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "진주만의 기존 건선거 1기와 수심의 기준면, 인양 철도, 작업장 및 퓨젯사운드의 완공 3기와 공사 중 1기를 확인했다."
+    ],
+    "limitations": [
+      "건설 승인 논거를 담은 5월 보고의 회의록 수록본이다. 예산안·설계값과 실제 설치를 구분했다. 9월 1일 입거 및 보급 일보는 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Senate Report 76-390 as printed in Congressional Record"
+  },
+  {
+    "id": "CAT-US-SRC-0200",
+    "title": "Building the Navy’s Bases in World War II, Volume II, Chapter XXII: Pearl Harbor and the Outlying Islands",
+    "institution_or_author": "U.S. Navy, Bureau of Yards and Docks; U.S. Government Printing Office",
+    "publication_date": "1947",
+    "source_type": "secondary",
+    "document_or_accession_number": "Vol. II, Chapter XXII",
+    "locator": "pp. 120–124, 서두 및 Pearl Harbor Navy Yard",
+    "url": "https://ibiblio.org/hyperwar/NHC/bases/bases-22.htm",
+    "accessed_at": "2026-11-15T07:00:58+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 가을 무렵 공창 498에이커·190동, 지상 연료유 저장단지 2곳, 정비 시설, 제2·3건선거의 12월 계약을 확인했다."
+    ],
+    "limitations": [
+      "공사 담당 기관의 전후 공식사다. 근접 시점 요약이며 기준일 항만별 접안정원·일별 정비·재고는 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Bureau of Yards and Docks retrospective construction history"
+  },
+  {
+    "id": "CAT-US-SRC-0201",
+    "title": "Building the Navy’s Bases in World War II, Volume I, Chapter VIII: Navy Yards and Graving Docks",
+    "institution_or_author": "U.S. Navy, Bureau of Yards and Docks; U.S. Government Printing Office",
+    "publication_date": "1947",
+    "source_type": "secondary",
+    "document_or_accession_number": "Vol. I, Chapter VIII",
+    "locator": "pp. 193–195, Puget Sound 및 제4건선거 사진 설명",
+    "url": "https://ibiblio.org/hyperwar/NHC/bases/bases-8.htm",
+    "accessed_at": "2026-11-15T07:00:58+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 증설 전 면적 286에이커, 부두 4개, 건선거 3기와 크레인 정격, 제4건선거 입거 준비 시점을 확인했다."
+    ],
+    "limitations": [
+      "시설 목록의 별도 조사일이나 기준일의 정박·정비·보급 정격은 제시되지 않는다. 제4건선거 사진 설명의 입거 준비는 준공과 구분했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Bureau of Yards and Docks retrospective construction history"
+  },
+  {
+    "id": "CAT-US-SRC-0202",
+    "title": "U.S. Naval Base, Pearl Harbor, Dry Dock No. 1",
+    "institution_or_author": "Lorraine M. Palumbo; Historic American Engineering Record, Library of Congress",
+    "publication_date": "2002-01~08 조사, 2009 편집",
+    "source_type": "secondary",
+    "document_or_accession_number": "HAER HI-65",
+    "locator": "pp. 1–2, 11–12, 14",
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0700/hi0747/data/hi0747data.pdf",
+    "accessed_at": "2026-11-15T07:00:58+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "진주만 제1건선거의 1919년 8월 21일 개장과 공창 구역을 확인했다."
+    ],
+    "limitations": [
+      "개장 시점과 1939년 전함 흘수·가동률을 구분한다. 후대 시설 조사와 인용된 옛 계약·연감의 증거를 중복 집계하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "HAER HI-65 survey and archival compilation"
+  },
+  {
+    "id": "CAT-US-SRC-0203",
+    "title": "Puget Sound Naval Shipyard, Drydock No. 3 (Facility 703)",
+    "institution_or_author": "Katheryn H. Krafft; Historic American Engineering Record, Library of Congress",
+    "publication_date": "1995-04",
+    "source_type": "secondary",
+    "document_or_accession_number": "HAER WA-116-E",
+    "locator": "pp. 1–2, 8, Sinclair Inlet 및 제3건선거 공사 시기",
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/wa/wa0500/wa0565/data/wa0565data.pdf",
+    "accessed_at": "2026-11-15T07:00:58+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공창의 싱클레어만 북안 위치와 제3건선거 건설 기간(1917~1919년), 1929~1930년 및 1945년 개조 기록을 확인했다."
+    ],
+    "limitations": [
+      "후대의 부지 면적과 도크 형상은 1939년 값으로 사용하지 않았다. 지리적 위치와 시설 개조 이력을 확인하는 데 이용했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "HAER WA-116-E survey and archival compilation"
+  },
+  {
+    "id": "CAT-US-SRC-0204",
+    "title": "Navy Yard Puget Sound — National Register of Historic Places Registration Form",
+    "institution_or_author": "Erwin N. Thompson, revised by Ben Levy; National Park Service",
+    "publication_date": "1990-12-20 작성; 1991-12-10 제작",
+    "source_type": "secondary",
+    "document_or_accession_number": "NPS Form 10-900, Navy Yard Puget Sound",
+    "locator": "§7 pp. 6–7, 11 및 §11 p. 25",
+    "url": "https://npgallery.nps.gov/GetAsset/5d50d625-acf1-449d-8b4a-f2bd66b624f3",
+    "accessed_at": "2026-11-15T07:00:58+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제4건선거 준공 연도, 1938년 수리동 확장과 단조동 건설을 확인했다."
+    ],
+    "limitations": [
+      "보존조사 당시 치수와 1939년 실측을 구분했다. 해군 시설사의 1940년 입거 준비와 준공 차이는 인수 기록으로 확인할 필요가 있다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "NPS landmark nomination; includes prior shipyard surveys"
+  },
+  {
+    "id": "CAT-US-SRC-0205",
+    "title": "Investigation of the Pearl Harbor Attack: Report of the Joint Committee",
+    "institution_or_author": "U.S. Congress, Joint Committee on the Investigation of the Pearl Harbor Attack",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": "79th Congress; S. Con. Res. 27에 따른 합동조사 보고",
+    "locator": "제4부 p. 159, Basing the Pacific Fleet at Hawaii",
+    "url": "https://www.ibiblio.org/pha/congress/part_4.html",
+    "accessed_at": "2026-11-15T07:00:58+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "위원회가 정리한 1940년 5월 이후 진주만 거점 운영과 그 이전의 본토 서해안 배치를 확인했다."
+    ],
+    "limitations": [
+      "전후 조사 보고 자체의 결론을 인용했다. 1939년 9월 1일 각 함정의 실제 위치를 나열하는 당일 기록은 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. Congress postwar Pearl Harbor inquiry"
+  },
+  {
+    "id": "CAT-US-SRC-0206",
+    "title": "Dictionary of American Naval Fighting Ships: Monssen I (DD-436)",
+    "institution_or_author": "U.S. Navy, Naval History & Heritage Command; Destroyer History Foundation 전사",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "DANFS, DD-436",
+    "locator": "첫 함력 단락",
+    "url": "https://destroyerhistory.org/benson-gleavesclass/ussmonssen/index.asp?pid=43603",
+    "accessed_at": "2026-11-15T07:00:58+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "퓨젯사운드 공창에서 1939년 7월 12일 기공하고 1940년 5월 16일 진수한 사례를 확인했다."
+    ],
+    "limitations": [
+      "해군 함력의 전사본이다. 원 기공·진수 문서와 다른 군함의 1939년 정비 실적은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "DANFS ship history, transcribed by Destroyer History Foundation"
   }
 ]
