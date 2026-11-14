@@ -2361,3 +2361,5 @@ as_of: 2026-11-04
 | SRC-2074 | 야드바셈, 1942-07-22 바르샤바 게토 강제이송 공고 영문 번역 | 1차 수록 2차(당대 공고 번역) | 1942-07-22, Yad Vashem Documents on the Holocaust Doc.128 | https://wwv.yadvashem.org/odot_pdf/Microsoft%20Word%20-%204023.pdf | 2026-11-14 확인. '동부 이주'는 가해 측 기만 문구; 원어 원본 대조 필요 |
 | SRC-2075 | POLIN 폴란드 유대인 역사박물관, 바르샤바 게토 대규모 강제이송 기념 해설 | 2차(현지 박물관) | 1942-07-22 첫날 6,250명 | https://polin.pl/en/anniversary-of-the-great-liquidation-action-at-the-warsaw-ghetto | 2026-11-14 확인. 첫날 수치는 후대 집계; 당대 철도 명부 미대조 |
 | SRC-2076 | USHMM, Warsaw | 2차(박물관 역사 해설) | 1942-07-22~09-21 및 7/23 체르니아쿠프 사망 | https://encyclopedia.ushmm.org/content/en/article/warsaw | 2026-11-14 확인. 265,000명 추방·35,000명 게토 내 살해는 전체 기간 추정치 |
+
+| SRC-2077 | 러시아 대통령도서관, *В ходе Великой Отечественной войны началась битва за Кавказ* (캅카스 전투 개시), 기관 역사 연표 | 2차(공공기관 역사 해설) | 1942-07-25 캅카스 전투 개시 | https://www.prlib.ru/history/2049054 | 2026-11-14 열람. 소련 측 전역 시작일 정의를 반영. 독일군 원전 및 개별 도시 점령일과 구분; 원본 작전명령 미대조 |
