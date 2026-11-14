@@ -1000,8 +1000,9 @@
     "category": "영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐",
     "article_path": "categories/united-states/15-resources.md",
     "planned_at": "2026-11-14T19:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-US-15.json",
+    "completed_at": "2026-11-14T23:02:23+09:00"
   },
   {
     "job_id": "CAT-US-16",

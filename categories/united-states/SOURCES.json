@@ -3280,5 +3280,225 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "us-state-pacific-trusteeship-negotiation"
+  },
+  {
+    "id": "CAT-US-SRC-0165",
+    "title": "Historical Statistics of the United States, 1789–1945, Chapter G: Minerals and Power",
+    "institution_or_author": "U.S. Bureau of the Census; 원통계 U.S. Bureau of Mines",
+    "publication_date": "1949",
+    "source_type": "primary",
+    "document_or_accession_number": "Series G 57, 106, 108, 125",
+    "locator": "원유 G 57 pp. 145–146, 합금용 광석 G 106·108 p. 150, 1차 알루미늄 G 125 p. 151",
+    "url": "https://www2.census.gov/library/publications/1949/compendia/hist_stats_1789-1945/hist_stats_1789-1945-chG.pdf",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939~1945년 원유 생산, 1943·1945년 크로마이트 및 텅스텐 광산 출하, 1943·1944년 1차 알루미늄의 수치와 단위."
+    ],
+    "limitations": [
+      "광산국이 제공한 행정통계의 편찬본. 1945년 텅스텐 출하는 1953년판과 상충한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "US Bureau of Mines — Minerals Yearbook series"
+  },
+  {
+    "id": "CAT-US-SRC-0166",
+    "title": "Statistical Abstract of the United States: 1953, 74th ed., Mining and Mineral Products",
+    "institution_or_author": "U.S. Bureau of the Census; 원통계 U.S. Bureau of Mines 중심",
+    "publication_date": "1953",
+    "source_type": "primary",
+    "document_or_accession_number": "74th edition, tables 868, 870–871, 884, 886, 898–899",
+    "locator": "표 868 원유·정제제품, p. 735 표 870–871, p. 742 표 884·886, pp. 748–749 표 898–899",
+    "url": "https://www2.census.gov/library/publications/1953/compendia/statab/74ed/1953-06.pdf",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940·1945년 원유·정제품 수입과 정제 투입, 주별 1941~1945년 원유 생산 연평균, 광산 출하·금속 생산·수입과 무역 분류."
+    ],
+    "limitations": [
+      "광산국 계열로 SRC-0165와 독립 아님. 보크사이트 수입은 출하 중량, 알루미늄 수입은 합금 및 스크랩 포함. 동일 명칭에도 시기별 편찬이 다르다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "US Bureau of Mines — Minerals Yearbook series"
+  },
+  {
+    "id": "CAT-US-SRC-0167",
+    "title": "Thirtieth Annual Report of the United States Tariff Commission, 1946",
+    "institution_or_author": "United States Tariff Commission",
+    "publication_date": "1947-01-03",
+    "source_type": "primary",
+    "document_or_accession_number": "30th Annual Report; Petroleum (Report No. 17)",
+    "locator": "송부서 및 pp. 22–23, Petroleum",
+    "url": "https://www.usitc.gov/publications/year_in_review/fy_1946_annual_report.pdf",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 증산 지역과 수요, 원유·천연 가솔린을 합친 1944년 실적과 1945년 첫 8개월 연율의 집계 범위."
+    ],
+    "limitations": [
+      "Report No. 17의 요약이다. 원유 단독 생산량이나 정제 산출량과 합산 비교할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "US Tariff Commission — wartime petroleum industry study"
+  },
+  {
+    "id": "CAT-US-SRC-0168",
+    "title": "Statistical Abstract of the United States: 1948, 69th ed., Manufactures",
+    "institution_or_author": "U.S. Bureau of the Census; 생산 원통계 American Iron and Steel Institute",
+    "publication_date": "1948",
+    "source_type": "primary",
+    "document_or_accession_number": "69th edition, tables 970–971",
+    "locator": "p. 876, 강괴·강주물과 후판 생산 및 수입 열 머리글·각주",
+    "url": "https://www2.census.gov/library/publications/1948/compendia/statab/69ed/1948-11.pdf",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939·1944·1945년 미국 강괴·강주물 생산, 1940·1944·1945년 후판 실적, 표 970 수입은 선철·합금철 열임을 확인."
+    ],
+    "limitations": [
+      "1934년 이후 강주물은 강괴도 생산하는 주물공장만 포함한다. 판재와 강괴의 생산 합산에는 중복이 생긴다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "American Iron and Steel Institute — production series"
+  },
+  {
+    "id": "CAT-US-SRC-0169",
+    "title": "Survey of Current Business, February 1946",
+    "institution_or_author": "U.S. Department of Commerce, Office of Business Economics",
+    "publication_date": "1946-02",
+    "source_type": "primary",
+    "document_or_accession_number": "February 1946 issue, Chart 15",
+    "locator": "pp. 18–20, Chart 15 및 Steel Production Declines",
+    "url": "https://fraser.stlouisfed.org/title/survey-current-business-46/february-1946-9437/fulltext",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944~1945년 강괴 생산 감소와 쇼트톤 단위, 도표 15의 강철이 생산만 나타낸다는 각주."
+    ],
+    "limitations": [
+      "강철 자료 계열은 AISI로 SRC-0168과 공유. 도표의 알루미늄·고무는 복수 품목의 합계다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "American Iron and Steel Institute — production series"
+  },
+  {
+    "id": "CAT-US-SRC-0170",
+    "title": "Wartime Production Achievements and the Reconversion Outlook: Report of the Chairman",
+    "institution_or_author": "U.S. War Production Board",
+    "publication_date": "1945-10-09",
+    "source_type": "primary",
+    "document_or_accession_number": "GOVPUB-P32_4800-042ea7e5f3aabaa77ec650cc3aa0938f",
+    "locator": "pp. 48–49 Alloy Steel·Ferroalloys, p. 57 Aluminum, pp. 91–92 United States Rubber Supply 표·Natural Rubber",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-P32_4800-042ea7e5f3aabaa77ec650cc3aa0938f/html/GOVPUB-P32_4800-042ea7e5f3aabaa77ec650cc3aa0938f.htm",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "합금강 공급 제약, 항공기 수요와 1944년 알루미늄 감산, 천연고무 수입 분기별 실적과 1944년 합성고무 생산, 1945년 추정 분기 구분."
+    ],
+    "limitations": [
+      "위원회 자체 행정 보고. 1945년 3·4분기 고무 표는 추정이며 생산 통계는 CPA 후속 집계와 계열을 공유한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "War Production Board / Civilian Production Administration — rubber production series"
+  },
+  {
+    "id": "CAT-US-SRC-0171",
+    "title": "Survey of Current Business, December 1946",
+    "institution_or_author": "U.S. Department of Commerce, Office of Business Economics; CPA 및 Census 통계",
+    "publication_date": "1946-12",
+    "source_type": "primary",
+    "document_or_accession_number": "December 1946 issue, revised series for page S-37",
+    "locator": "p. 23 Natural, Synthetic, and Reclaimed Rubber 표 및 주 1",
+    "url": "https://apps.bea.gov/scb/issues/1946/scb-1946-december.pdf",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 합성고무 생산 762,630롱톤과 1944·1945년 합성고무 수입, 천연 라텍스·과율레 및 재생고무의 집계 범위."
+    ],
+    "limitations": [
+      "생산은 CPA 및 전신 기관에서 받았으므로 WPB와 별개 원집계로 세지 않는다. 무역량은 인구조사국 통계다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "War Production Board / Civilian Production Administration — rubber production series"
+  },
+  {
+    "id": "CAT-US-SRC-0172",
+    "title": "War Production in 1944: Report of the Chairman of the War Production Board",
+    "institution_or_author": "U.S. War Production Board",
+    "publication_date": "1945-06",
+    "source_type": "primary",
+    "document_or_accession_number": "GOVPUB-P32_4800-9e92e30522a253276362395c30ab5450",
+    "locator": "p. 38 Rubber, p. III 송부서(1945-06-14)",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-P32_4800-9e92e30522a253276362395c30ab5450/html/GOVPUB-P32_4800-9e92e30522a253276362395c30ab5450.htm",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 합성고무 생산 753,000롱톤이라는 전시생산위원회 초기 보고."
+    ],
+    "limitations": [
+      "1945년 10월 보고와 차이가 있으며 품목 범위나 개정 경위는 해당 문단으로 확인되지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "War Production Board / Civilian Production Administration — rubber production series"
+  },
+  {
+    "id": "CAT-US-SRC-0173",
+    "title": "Report of the Rubber Survey Committee",
+    "institution_or_author": "Rubber Survey Committee; 위원장 Bernard M. Baruch",
+    "publication_date": "1942-09-10",
+    "source_type": "primary",
+    "document_or_accession_number": "GOVPUB-PR32_400-5ba5c11666f8237a0d7818f949cd87a7",
+    "locator": "Part I 재고·수입 전망 단락 및 Part III Table IV",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-PR32_400-5ba5c11666f8237a0d7818f949cd87a7/html/GOVPUB-PR32_400-5ba5c11666f8237a0d7818f949cd87a7.htm",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942-07-01 보유량 578,000롱톤과 1944-01-01까지 예상 수입 53,000롱톤의 구별."
+    ],
+    "limitations": [
+      "수입 수치는 물자 계획용 전망으로 전시 실적과 구분한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Rubber Survey Committee — September 1942 survey"
+  },
+  {
+    "id": "CAT-US-SRC-0174",
+    "title": "Sixth Annual Report of the United States High Commissioner to the Philippine Islands",
+    "institution_or_author": "United States High Commissioner to the Philippine Islands",
+    "publication_date": "1943",
+    "source_type": "primary",
+    "document_or_accession_number": "78th Congress, 1st session, House Document No. 111; UMass scan STACK 354.91 U58 1941/42",
+    "locator": "표지, p. 103 Mining and Mineral Production",
+    "url": "https://bataanlegacy.org/uploads/3/4/7/6/34760003/us_high_commissioner_report.pdf",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 1~9월 필리핀 크롬 광석 생산 약 315,000미터톤."
+    ],
+    "limitations": [
+      "보고 대상 회계연도는 1941-07-01~1942-06-30이나 이 수치는 별도의 달력연도 부분 실적이다. 판무관의 보고일은 1942-10-20. 광산별 생산이나 수출입 근거가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. High Commissioner to Philippine Islands — Sixth Annual Report"
+  },
+  {
+    "id": "CAT-US-SRC-0175",
+    "title": "Executive Order 8908—Restoring to the Government of the Commonwealth of the Philippines Lands Comprising the United States Chromite Reservation",
+    "institution_or_author": "Franklin D. Roosevelt; University of California, Santa Barbara 전사본",
+    "publication_date": "1941-09-25",
+    "source_type": "primary",
+    "document_or_accession_number": "Executive Order 8908 (UCSB node 372199)",
+    "locator": "본문 제3필지 반환 조항",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-8908-restoring-the-government-the-commonwealth-the-philippines-lands",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "필리핀 자치령 정부 관리에 잠발레스 보호구역 제3필지를 반환한 1941년 명령."
+    ],
+    "limitations": [
+      "전사본 경도 표기에 의문이 있어 위치 경계 수치는 사용하지 않았다. 명령으로 채굴·선적 실적을 산정할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. Executive Office — Executive Order 8908"
   }
 ]
