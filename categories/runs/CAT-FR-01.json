@@ -1,0 +1,63 @@
+{
+  "step": 20,
+  "job_id": "CAT-FR-01",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 1,
+  "category": "전차장비, 무장, 성능",
+  "article_path": "categories/france/01-tanks.md",
+  "status": "partial",
+  "completed_at": "2026-11-10T15:00:47+09:00",
+  "started_at": "2026-11-10T14:54:30+09:00",
+  "base_head": "1ee3657366473dd2f734f363d5188a50a17989f0",
+  "source_ids": [
+    "CAT-FR-SRC-0001",
+    "CAT-FR-SRC-0002",
+    "CAT-FR-SRC-0003",
+    "CAT-FR-SRC-0004",
+    "CAT-FR-SRC-0005",
+    "CAT-FR-SRC-0006",
+    "CAT-FR-SRC-0007",
+    "CAT-FR-SRC-0008",
+    "CAT-FR-SRC-0009",
+    "CAT-FR-SRC-0010"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0001",
+    "CAT-FR-RQ-0002",
+    "CAT-FR-RQ-0003",
+    "CAT-FR-RQ-0004"
+  ],
+  "entity_ids": [
+    "CAT-FR-EQP-0001",
+    "CAT-FR-EQP-0002",
+    "CAT-FR-EQP-0003"
+  ],
+  "research_scope": "1940년 전역 전후 프랑스 양산 전차 B1 bis, SOMUA S 35, Renault R35의 무장, 기동, 형식과 운용.",
+  "limitations": [
+    "정비교범은 B1 bis 도판 30번만 확인. 박물관 기동·장갑 표기의 상세 조건은 미확인.",
+    "S 35 기관총 수 상충 및 생산·인수 총량 미확정. 세 사례 외 형식과 전구는 후속 과제로 분리."
+  ],
+  "evidence_checked": [
+    "Rueil 정비 도판 30번 이미지와 Bundesarchiv Bild 101I-125-0277-09 배포 사진 직접 판독",
+    "Saumur 소장차 세 항목과 Bovington SOMUA S35, 프랑스 국방부 B1 bis 인쇄 14–15쪽 및 Andrews 발표 초록",
+    "Touzin 인쇄 152–154쪽과 SHD GR 7 N 4204 소장목록 본문"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://imagesdefense.gouv.fr/fr/des-chars-renault-r35-de-la-2e-cie-du-5e-bcc-roulent-dans-une-rue-de-esch-sur-alzette.html",
+      "result": "브라우징과 직접 HTTP 열람 모두 ECPAD 일반 기록관 페이지로 이동. 사진 원본과 개별 소장번호를 확인하지 못함."
+    },
+    {
+      "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/1140901",
+      "result": "직접 목록 페이지 요청에서 시간 초과. 별도 공개 PDF에서 관련 기록군 목록 본문만 확인."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=20 pending=113; sources=167 questions=79. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

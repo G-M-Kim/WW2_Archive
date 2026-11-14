@@ -1,0 +1,55 @@
+{
+  "step": 46,
+  "job_id": "CAT-GB-08",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 8,
+  "category": "유명한 정치 인물",
+  "article_path": "categories/united-kingdom/08-political-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-12T20:54:57+09:00",
+  "started_at": "2026-11-12T20:49:28+09:00",
+  "base_head": "a32234fa472d427a1c73cf4a88d6966204438f59",
+  "source_ids": [
+    "CAT-GB-SRC-0075",
+    "CAT-GB-SRC-0076",
+    "CAT-GB-SRC-0077",
+    "CAT-GB-SRC-0078",
+    "CAT-GB-SRC-0079",
+    "CAT-GB-SRC-0080",
+    "CAT-GB-SRC-0081",
+    "CAT-GB-SRC-0082",
+    "CAT-GB-SRC-0083",
+    "CAT-GB-SRC-0084",
+    "CAT-GB-SRC-0085"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0032",
+    "CAT-GB-RQ-0033",
+    "CAT-GB-RQ-0034",
+    "CAT-GB-RQ-0035"
+  ],
+  "entity_ids": [
+    "CAT-GB-PER-0004",
+    "CAT-GB-PER-0005",
+    "CAT-GB-PER-0006"
+  ],
+  "research_scope": "처칠의 연립정부 구성과 대독전 방침, 애틀리와 베빈의 포츠담 협상, 베빈의 본토 탄광 동원 발표와 집행 보고.",
+  "limitations": [
+    "1940년 비공개 내각 논의와 개별 장관의 책임은 추가 조사 대상이다.",
+    "포츠담 발언은 미국 측 기록에서 확인했다. 영국 내부 지시 및 문안 변경 과정은 미확인이다.",
+    "탄광 동원의 현장 배치·생산·산재 결과와 식민지·도미니언 및 다른 각료는 후속 범위다."
+  ],
+  "evidence_checked": [
+    "Hansard 360권 1497·1501~1503단과 Division No. 62, GOV.UK 전기",
+    "FRUS 제2권 Thompson Minutes, 464~465쪽 및 공동보고 문서 1384, 1499~1502쪽",
+    "Hansard 395권 521~529단 및 408권 363~364단, 국립석탄광업박물관 해설"
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=46 pending=87; sources=522 questions=190. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

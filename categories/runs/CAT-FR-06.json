@@ -1,0 +1,55 @@
+{
+  "step": 25,
+  "job_id": "CAT-FR-06",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 6,
+  "category": "WW2에서 빼놓을 수 없는 장비",
+  "article_path": "categories/france/06-essential-technology.md",
+  "status": "partial",
+  "completed_at": "2026-11-11T00:54:51+09:00",
+  "started_at": "2026-11-11T00:50:17+09:00",
+  "base_head": "e509afc0b93643aa5c5f20faaaa725df772944d9",
+  "source_ids": [
+    "CAT-FR-SRC-0051",
+    "CAT-FR-SRC-0052",
+    "CAT-FR-SRC-0053",
+    "CAT-FR-SRC-0054",
+    "CAT-FR-SRC-0055",
+    "CAT-FR-SRC-0056",
+    "CAT-FR-SRC-0057",
+    "CAT-FR-SRC-0058"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0021",
+    "CAT-FR-RQ-0022",
+    "CAT-FR-RQ-0023"
+  ],
+  "entity_ids": [
+    "CAT-FR-EQP-0015",
+    "CAT-FR-EQP-0016",
+    "CAT-FR-EQP-0017"
+  ],
+  "research_scope": "프랑스 다비드 DEM 경보망의 발주와 배치, 포르크로 LMT 펄스 레이더, 1944년 아르덴에서 사용된 영국제 B2 44072호.",
+  "limitations": [
+    "프랑스 동부 연속망의 설치점 및 경보 처리와 포르크로의 개별 교전 성과는 당대 원일지 미확보.",
+    "BCRA 전보는 목록을 열람했으며 개별 전보와 장비 지급표는 미확보. SOE 지침은 소장 목록과 발췌 이미지 범위."
+  ],
+  "evidence_checked": [
+    "영국 공군 공식 전사 제7장과 프랑스 군사사 학술지 184쪽, 블랑샤르 논문 27–31쪽",
+    "해방훈장박물관 N2574, 빅토리아박물관 ST 30097 및 TL 34729, BCRA 전보철 목록과 레지스탕스 재단 임무 해설"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://parismuseescollections.paris.fr/fr/musee-jean-moulin/oeuvres/british-clandestine-radio-type-3-mkii-valise-radio-b2",
+      "result": "B2 별도 소장품의 개별 기록 직접 열람 시간 초과. 제원 근거에서 제외."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=25 pending=108; sources=306 questions=116. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

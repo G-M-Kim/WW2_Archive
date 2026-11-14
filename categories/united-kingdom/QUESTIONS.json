@@ -1,0 +1,1054 @@
+[
+  {
+    "id": "CAT-GB-RQ-0001",
+    "status": "open",
+    "question": "1935년 규정의 기동·분권 원칙은 1944년 제21집단군의 기갑·보병 협동 지시에서 어떻게 구체화됐는가?",
+    "related_ids": [
+      "CAT-GB-SRC-0001",
+      "CAT-GB-SRC-0002",
+      "CAT-GB-SRC-0003",
+      "CAT-GB-SRC-0004"
+    ],
+    "evidence": "전전 규정은 서지와 후대 연구로, 후기 운용은 대표 전투로 확인했다. 지휘권과 화력 요청 절차의 원문 대조는 미완료다.",
+    "completion_condition": "FSR 제II·III권, 제8군 및 제21집단군 전훈 교재, 굿우드 참가 부대의 작전명령과 전투일지를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0002",
+    "status": "open",
+    "question": "1941~1943년 호위단의 지휘·통신·항공 지원 절차 변화가 같은 항로의 호송 결과에 어떻게 연결됐는가?",
+    "related_ids": [
+      "CAT-GB-SRC-0005",
+      "CAT-GB-SRC-0006",
+      "CAT-GB-SRC-0007",
+      "CAT-GB-SRC-0008",
+      "CAT-GB-SRC-0009"
+    ],
+    "evidence": "영국 해군의 전역 개관과 말라야 전투 요약을 확인했다. 호위단·공군의 당대 명령 및 운용기록은 미대조다.",
+    "completion_condition": "영국 해군성 지침과 호위단 보고·해안사령부 작전일지를 함께 읽고 항공 공백·접촉·상선 손실을 항로별로 비교한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0003",
+    "status": "open",
+    "question": "RAF의 본토 방공·전구 지원·장거리 폭격은 자원 배분과 임무 우선순위에서 어떻게 조정됐는가?",
+    "related_ids": [
+      "CAT-GB-SRC-0010",
+      "CAT-GB-SRC-0011",
+      "CAT-GB-SRC-0012",
+      "CAT-GB-SRC-0013"
+    ],
+    "evidence": "다우딩 보고와 대표 전구 연구를 확인했다. 폭격 지침 원면 및 사령부별 배정·출격 기록은 추가 대조가 필요하다.",
+    "completion_condition": "RAF 작전지시와 부대기록부를 연결해 방공·해안 초계·전장 지원·폭격의 배정과 취소·실제 출격을 비교한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0004",
+    "status": "open",
+    "question": "마틸다 II의 15 mph와 16 mph는 시험차·형식·노면 조건 중 무엇이 달라 발생했는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0001",
+      "CAT-GB-SRC-0014",
+      "CAT-GB-SRC-0017",
+      "CAT-GB-SRC-0018",
+      "CAT-GB-SRC-0021"
+    ],
+    "evidence": "disputed: 공식 전사와 박물관의 표기 속도 차이. 시험 조건과 아라스·브루나이만의 개별 Mk 미확인.",
+    "completion_condition": "A12 세부 형식별 교범·차대번호·시험 보고 및 영국·호주 부대 일지를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0005",
+    "status": "open",
+    "question": "처칠 Mk IV의 주포·포탑·장갑 조합과 디에프에 투입된 세부 형식은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0002",
+      "CAT-GB-SRC-0015",
+      "CAT-GB-SRC-0017",
+      "CAT-GB-SRC-0019"
+    ],
+    "evidence": "candidate: 6파운더 전시 표본과 디에프 처칠 계열 투입은 확인. T31579 전시 이력 및 디에프 차량별 Mk 미확인.",
+    "completion_condition": "차대별 생산·개장표와 캐나다 부대 전투일지, 도크·수송선 적재표 및 당시 사진을 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0006",
+    "status": "open",
+    "question": "크롬웰 Mk IV의 속도 조건·생산 범위 및 제7기갑사단의 개별 차량 형식은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0003",
+      "CAT-GB-SRC-0016",
+      "CAT-GB-SRC-0017",
+      "CAT-GB-SRC-0020"
+    ],
+    "evidence": "candidate: 박물관 표에 시험 노면·중량이 없고, IWM 기술은 전차 계열까지 특정한다.",
+    "completion_condition": "Mk별 인수표와 Meteor·차대 배정 및 시험표를 확보하고 IWM 원영상과 전시 차량 명부를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0007",
+    "status": "open",
+    "question": "대표 3형식 외의 영국 전차와 수입·영국 개조 차량의 생산·배치는 어떻게 비교되는가?",
+    "related_ids": [
+      "CAT-GB-SRC-0014",
+      "CAT-GB-SRC-0015",
+      "CAT-GB-SRC-0016",
+      "CAT-GB-SRC-0017"
+    ],
+    "evidence": "candidate: 유형별 납품 합계와 대표 3형식을 확인했다. 밸런타인·크루세이더·코멧 및 셔먼 파이어플라이는 미검사다.",
+    "completion_condition": "전시 인수표·계약서·부대별 일지를 대조해 영국 생산, 도미니언 생산, 수입 및 개장을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0008",
+    "status": "open",
+    "question": "험버 스카우트 카의 Mk별 무장·기동 제원과 베이르트 차량의 장착 이력은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0004",
+      "CAT-GB-SRC-0022",
+      "CAT-GB-SRC-0023",
+      "CAT-GB-SRC-0030"
+    ],
+    "evidence": "candidate: NAM 일반 해설의 브렌과 별도 차량 사진 해설의 브라우닝은 적용 범위가 다르다. Mk와 속도 시험 미확인.",
+    "completion_condition": "험버 스카우트 카 Mk별 교범·제작표와 연대 장비 일지를 대조해 기본·부대별 장착 및 시험 조건을 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0009",
+    "status": "open",
+    "question": "영국 No. 1 Mk II, 캐나다 Mk I*와 호주산 캐리어의 제원·생산량은 어떻게 구분되는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0005",
+      "CAT-GB-SRC-0024",
+      "CAT-GB-SRC-0025",
+      "CAT-GB-SRC-0028",
+      "CAT-GB-SRC-0029",
+      "CAT-GB-SRC-0030"
+    ],
+    "evidence": "candidate: 영국 박물관 제원과 호주 현장 사진은 확보했다. 캐나다 교범 원판과 공장별 생산 원표 미확인.",
+    "completion_condition": "국가·형식별 교범과 인수장부를 확보해 적재·속도 시험 조건, tons 단위계와 집계 범위를 맞춘다."
+  },
+  {
+    "id": "CAT-GB-RQ-0010",
+    "status": "open",
+    "question": "아처의 인도 집계와 개별 부대의 실제 투입, 표준 주행·장갑 제원은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0006",
+      "CAT-GB-SRC-0026",
+      "CAT-GB-SRC-0027",
+      "CAT-GB-SRC-0030"
+    ],
+    "evidence": "candidate: 소장 표본의 17파운더 차체 구성과 인도 이력은 확인. 665대의 집계 마감일과 부대별 운용은 미확인.",
+    "completion_condition": "인수 대장, 차대별 배정표와 전시 포병대 전투일지, 공인 차량 시험표를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0011",
+    "status": "open",
+    "question": "다른 영국 비전차 기갑차량과 연합국 생산·도입 차량은 어떻게 분류되는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0004",
+      "CAT-GB-EQP-0005",
+      "CAT-GB-EQP-0006",
+      "CAT-GB-SRC-0024",
+      "CAT-GB-SRC-0027",
+      "CAT-GB-SRC-0030"
+    ],
+    "evidence": "candidate: 세 분류만 확인. 포탑형 장갑차, 반궤도, 전용 장갑수송차, 대공·공병·구난과 추가 자주포는 미검사.",
+    "completion_condition": "제식 목록과 제작·개조·운용 자료를 확보하고 영국 생산, 도미니언 생산, 미국 도입과 운용국을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0012",
+    "status": "open",
+    "question": "Prince of Wales의 인수 시운전과 피격 전후 성능·무장 상태는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0007",
+      "CAT-GB-SRC-0008",
+      "CAT-GB-SRC-0031",
+      "CAT-GB-SRC-0032"
+    ],
+    "evidence": "candidate: Force Z 주포와 피격 후 8노트는 1955년 개정판에서 확인. 설계·인수·정상 운용 수치와 초기 판본의 피해 판정은 미대조.",
+    "completion_condition": "함별 인수시험표, 당시 무장대장과 생존자 보고 원본을 확보해 적재·기관 상태 및 개정 전후 차이를 기록한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0013",
+    "status": "open",
+    "question": "Illustrious의 배수량 조건, 함포 구성과 함재기 수용 규모는 개장별로 어떻게 달라졌는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0008",
+      "CAT-GB-SRC-0007",
+      "CAT-GB-SRC-0033",
+      "CAT-GB-SRC-0034",
+      "CAT-GB-SRC-0035"
+    ],
+    "evidence": "candidate: 타란토 이함 21대와 그때의 함속은 확인. 미국 기관지의 23,000 tons는 단위·조건이 불명확하며 함포·수용 정원·최고속도는 미확인.",
+    "completion_condition": "해군 인수시험표, 장착 상태 도면과 항공대 편제표를 확보해 적재 기준과 전시 개장별 실장 수량을 비교한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0014",
+    "status": "open",
+    "question": "Belfast의 취역·수리·전시 개장별 포탑과 레이더, 시운전 제원은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0009",
+      "CAT-GB-SRC-0036",
+      "CAT-GB-SRC-0037",
+      "CAT-GB-SRC-0038",
+      "CAT-GB-SRC-0039"
+    ],
+    "evidence": "candidate: B 포탑 도면 기술 및 노르카프 탐지 사례를 확인. 전시 장착 총수, 레이더 형식 및 최고속도 시험은 미확인.",
+    "completion_condition": "전시 장비표와 도면 원판, 시운전표 및 함 일지를 대조해 장착일과 시험 조건을 분리한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0015",
+    "status": "open",
+    "question": "다른 수상 전투함과 잠수함·호위함·상륙함·보조함의 전시 편제와 제원은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0007",
+      "CAT-GB-EQP-0008",
+      "CAT-GB-EQP-0009",
+      "CAT-GB-SRC-0008",
+      "CAT-GB-SRC-0035",
+      "CAT-GB-SRC-0036"
+    ],
+    "evidence": "candidate: 세 대표 함정만 첫 조사했다. 다른 주력함과 구축함, 잠수함, 호위함, 상륙함 및 보조함은 미검사.",
+    "completion_condition": "전시 함정 목록, 함별 인수·개장·작전 기록을 확보해 영국과 도미니언의 건조·이관·운용을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0016",
+    "status": "open",
+    "question": "스핏파이어 Mk I의 장착 조합별 비행시험값과 덩케르크 출격기의 실제 무장은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0010",
+      "CAT-GB-SRC-0040",
+      "CAT-GB-SRC-0041"
+    ],
+    "evidence": "candidate: K9787의 초기 시험과 제19비행대 사례를 확인. N3200의 당시 프로펠러·무장·탄약 배정과 시험 성적은 미확인.",
+    "completion_condition": "기체별 장착·인수 기록과 RAF 제19비행대 Form 540/541 및 장비표를 같은 날짜로 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0017",
+    "status": "open",
+    "question": "랭커스터 Mk I의 프로펠러·엔진별 성능과 R5868의 방어무장·임무 탑재량은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0011",
+      "CAT-GB-SRC-0042",
+      "CAT-GB-SRC-0043",
+      "CAT-GB-SRC-0044"
+    ],
+    "evidence": "candidate: JB127의 A5/148 시험과 R5868의 한 임무 탑재 사례를 확인. 표준 프로펠러 시험과 개별 기체의 포탑·기관총 기록은 미확인.",
+    "completion_condition": "A&AEE 비교 보고서 제50부와 동일 기체·하중 시험을 대조하고, 작전일지 및 포탑·폭탄창 장비표를 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0018",
+    "status": "open",
+    "question": "호르사 병력 25명과 30명은 각각 어떤 형식·적재 조건의 수치인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0012",
+      "CAT-GB-SRC-0045",
+      "CAT-GB-SRC-0046",
+      "CAT-GB-SRC-0047"
+    ],
+    "evidence": "disputed: Mk I 교범은 장비를 갖춘 병력 25명을 제시하나 NAM 설명은 Mk와 적재 조건 없이 30명을 제시한다. 실제 노르망디 적재는 미확인.",
+    "completion_condition": "Mk I·II 교범 판본별 적재표와 글라이더별 출발 명부를 대조해 승무원, 탑승병력, 장비 및 기체번호를 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0019",
+    "status": "open",
+    "question": "그 밖의 영국 설계·생산·도입 항공기는 어떤 형식과 임무로 운용됐는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0010",
+      "CAT-GB-EQP-0011",
+      "CAT-GB-EQP-0012",
+      "CAT-GB-SRC-0041",
+      "CAT-GB-SRC-0043",
+      "CAT-GB-SRC-0047"
+    ],
+    "evidence": "candidate: 전투기·중폭격기·글라이더 각 한 계열을 검토했다. 다른 전투·공격·폭격·함재·정찰·동력 수송·훈련·연락·수상 항공기 등은 미검사.",
+    "completion_condition": "형식별 시험표·생산대장·부대 작전일지를 찾아 영국산, 도미니언 면허생산, 외국 도입 및 실제 운용 부대를 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0020",
+    "status": "open",
+    "question": "No. 1과 No. 4의 전구별 보급 전환 및 초기 말트비 표본의 부품 이력은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0013",
+      "CAT-GB-SRC-0048",
+      "CAT-GB-SRC-0049",
+      "CAT-GB-SRC-0050",
+      "CAT-GB-SRC-0058"
+    ],
+    "evidence": "candidate: 영국·캐나다 생산 실물, 전후 호주 개조 및 1944년 No. 1 운용 사진 해설은 확인. 부대별 교체와 부품 교체일 미확인.",
+    "completion_condition": "전시 인수대장과 부대별 무기 불출표를 소장품 이력과 비교한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0021",
+    "status": "open",
+    "question": "브렌의 공장·구경·형식별 생산량 및 영국군 납품 범위는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0014",
+      "CAT-GB-SRC-0030",
+      "CAT-GB-SRC-0051",
+      "CAT-GB-SRC-0052",
+      "CAT-GB-SRC-0058"
+    ],
+    "evidence": "candidate: 캐나다 전사의 186,802정은 .303인치형만의 수치로 추정되며, 영국 본토 총수와 합산할 수 없다. 핀타 표본의 Mk 미확인.",
+    "completion_condition": "엔필드·잉글리스의 원생산표에서 구경·인수·수출·마감 시점을 구분하고 핀타 부대의 불출표를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0022",
+    "status": "open",
+    "question": "Mk II·III 철모의 병용 및 1937년형 군장의 실제 전구별 구성은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0015",
+      "CAT-GB-EQP-0016",
+      "CAT-GB-SRC-0053",
+      "CAT-GB-SRC-0054",
+      "CAT-GB-SRC-0055",
+      "CAT-GB-SRC-0056",
+      "CAT-GB-SRC-0057"
+    ],
+    "evidence": "candidate: 영국과 호주의 소장품 및 사용 관련 이력은 확인. 보호 성능 원시험과 부대별 지급·전구별 군장 구성 미확인.",
+    "completion_condition": "전시 피복·군장 불출표, 현장 사진과 철모 시험표를 날짜와 부대별로 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0023",
+    "status": "open",
+    "question": "다른 개인화기·박격포·대전차화기·수류탄과 무전·의무·방독 장비는 어떻게 보급됐는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0013",
+      "CAT-GB-EQP-0014",
+      "CAT-GB-EQP-0015",
+      "CAT-GB-EQP-0016",
+      "CAT-GB-SRC-0052",
+      "CAT-GB-SRC-0055"
+    ],
+    "evidence": "candidate: 개인화기·지원화기·보호구·군장 네 사례를 확인했다. 다른 분류는 미검사.",
+    "completion_condition": "당대 장비 목록, 생산·불출 자료와 시점·전구가 식별된 실물 또는 사진을 확보한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0024",
+    "status": "open",
+    "question": "체인 홈 관측소별 탐지조건·가동률과 관측단 정보의 분담은 어떻게 달랐는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0017",
+      "CAT-GB-SRC-0010",
+      "CAT-GB-SRC-0059"
+    ],
+    "evidence": "candidate: 바우드지 운용 전환과 지휘관 보고의 전체 요약을 확인했다. 관측소별 조건과 1940년 실제 가동률 미확인.",
+    "completion_condition": "관측소 운용일지와 시험 보고의 표적 고도·기상·설비 상태를 같은 시점의 작전 기록과 맞춘다."
+  },
+  {
+    "id": "CAT-GB-RQ-0025",
+    "status": "open",
+    "question": "콜로서스의 설치·검수·작전 투입 시점과 분석 결과의 배포 경로는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0018",
+      "CAT-GB-SRC-0060",
+      "CAT-GB-SRC-0061",
+      "CAT-GB-SRC-0062"
+    ],
+    "evidence": "candidate: Tunny 분석 장비라는 원보고와 박물관의 운용 일자는 확인. 인수 원장과 개별 전문 배포 기록 미확인.",
+    "completion_condition": "설치·인수일지와 배포표를 확보해 장비 운용과 의사결정에 이르는 경로를 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0026",
+    "status": "open",
+    "question": "멀베리 B의 약 6개월과 10개월은 어떤 운영 범위를 가리키는가?",
+    "related_ids": [
+      "CAT-GB-EQP-0019",
+      "CAT-GB-SRC-0063",
+      "CAT-GB-SRC-0064",
+      "CAT-GB-SRC-0065",
+      "CAT-GB-SRC-0066"
+    ],
+    "evidence": "disputed: 12월 1일 해군 일지의 폐쇄 보고와 국립육군박물관의 10개월 설명이 다르다. 폐쇄 이후 일부 시설 사용 여부는 미확인.",
+    "completion_condition": "11~12월 일일 하역·선박 입출항표, 항만 인계 문서, 이후 시설 사용기록을 비교해 군용 운영과 후속 사용을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0027",
+    "status": "open",
+    "question": "다른 암호·탐지·통신·항법·사격통제·병참 장비의 시험과 전시 배치는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-EQP-0017",
+      "CAT-GB-EQP-0018",
+      "CAT-GB-EQP-0019",
+      "CAT-GB-SRC-0010",
+      "CAT-GB-SRC-0062",
+      "CAT-GB-SRC-0063"
+    ],
+    "evidence": "candidate: 지상 조기경보·암호 분석·항만 보급 각 한 사례를 조사했다. 봄브와 기타 장비는 이번 첫 조사에서 별도 제원 검토를 하지 않았다.",
+    "completion_condition": "장비별 시험·운용·보급 원장을 찾아 발주, 배치, 개별 운용과 효과를 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0028",
+    "status": "open",
+    "question": "엘알라메인 이후 추격에서 몽고메리의 명령·시점과 보급 제약은 어떤 영향을 주었는가?",
+    "related_ids": [
+      "CAT-GB-PER-0001",
+      "CAT-GB-SRC-0003",
+      "CAT-GB-SRC-0067",
+      "CAT-GB-SRC-0068"
+    ],
+    "evidence": "candidate: 박물관과 알렉산더의 보고는 추격 지연을 설명하는 강조점이 다르다. 인과 비중은 미확인이다.",
+    "completion_condition": "제8군과 제10·제30군단의 일지·보급 기록 및 독일·이탈리아 측 철수 명령을 같은 날짜와 부대에 맞춰 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0029",
+    "status": "open",
+    "question": "타란토 공습의 제안·승인과 실행 지시는 각 지휘 층위에 어떻게 배분되었는가?",
+    "related_ids": [
+      "CAT-GB-PER-0002",
+      "CAT-GB-SRC-0033",
+      "CAT-GB-SRC-0070"
+    ],
+    "evidence": "candidate: 보이드 보고에 리스터의 계획 지시 번호가 실리고 커닝햄의 분견과 상신이 확인된다.",
+    "completion_condition": "00478/97 및 00478/106 원본, 함대 신호 일지와 이탈리아 해군 수리·복귀 원장을 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0030",
+    "status": "open",
+    "question": "니컬슨의 1940년 8월 16일 개인 전과는 비행대 일지와 상대편 기록으로 어디까지 확인되는가?",
+    "related_ids": [
+      "CAT-GB-PER-0003",
+      "CAT-GB-SRC-0071",
+      "CAT-GB-SRC-0072",
+      "CAT-GB-SRC-0073"
+    ],
+    "evidence": "inaccessible: Discovery에서 AIR 50/96/97 및 AIR 27/1498 후보 검색이 접근 불가로 반환됐다. 관보 수훈 공고에는 상대 기종과 소속이 없다.",
+    "completion_condition": "개인 전투보고와 제249비행대 당일 Form 540·541 원본에서 기록 위치를 확인하고 독일 측 해당 지역 손실·귀환 자료와 교차 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0031",
+    "status": "open",
+    "question": "다른 전구와 계층의 영국군 전투 참여 인물 및 이들의 법적 국적·복무 이력은 어떻게 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-GB-PER-0001",
+      "CAT-GB-PER-0002",
+      "CAT-GB-PER-0003",
+      "CAT-GB-SRC-0067",
+      "CAT-GB-SRC-0033",
+      "CAT-GB-SRC-0071",
+      "CAT-GB-SRC-0074"
+    ],
+    "evidence": "candidate: 이번 방문은 육군 중장, 해군 제독, 공군 전투 조종사 한 사례씩이며 복무국과 출생지만 확인했다.",
+    "completion_condition": "함장·잠수함 및 호송 지휘관·폭격 승무원·육군 하급 인물의 부대 기록과 복무 자료를 확보한다. 본토·도미니언·식민지 출생과 복무국·법적 국적을 자료별로 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0032",
+    "status": "open",
+    "question": "1940년 5월 전시내각은 이탈리아 중재 문제를 어떻게 논의했고 처칠·애틀리 등은 실제로 어떤 입장을 취했는가?",
+    "related_ids": [
+      "CAT-GB-PER-0004",
+      "CAT-GB-PER-0005",
+      "CAT-GB-SRC-0077",
+      "CAT-GB-SRC-0078"
+    ],
+    "evidence": "candidate: 하원 기록은 연립 참여, 내각 구성과 대독전 지속 동의안을 보여 준다. 비공개 중재 논의의 발언과 결론은 이 기록의 범위 밖이다.",
+    "completion_condition": "CAB 65의 5월 26~28일 회의 결론과 비공개 부록, 외무부 전문, 노동당 기록을 날짜와 안건별로 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0033",
+    "status": "open",
+    "question": "포츠담에서 애틀리와 베빈의 발언은 영국 대표단의 내부 지시 및 최종 문안에 어떻게 연결되었는가?",
+    "related_ids": [
+      "CAT-GB-PER-0005",
+      "CAT-GB-PER-0006",
+      "CAT-GB-SRC-0083",
+      "CAT-GB-SRC-0084"
+    ],
+    "evidence": "candidate: 미국 측 회의록은 이탈리아 배상 발언을 담고, 공동보고는 3국이 발표한 결과를 보여 준다.",
+    "completion_condition": "영국 내각·외무부 지시와 영국 측 회의록, 초안 수정 이력을 미국 및 소련 측 기록과 맞춘다."
+  },
+  {
+    "id": "CAT-GB-RQ-0034",
+    "status": "open",
+    "question": "탄광 근무 지시·훈련·현장 배치 사이의 차이와 제도의 생산·노동 조건 효과는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-PER-0006",
+      "CAT-GB-SRC-0080",
+      "CAT-GB-SRC-0081",
+      "CAT-GB-SRC-0082"
+    ],
+    "evidence": "candidate: 1945년 하원 답변에 같은 기간 근무 지시와 훈련 진입 인원이 구분된다. 지역별 현장 배치·생산·산재는 미확인이다.",
+    "completion_condition": "동일 기간의 노동·국민복무부와 연료·동력부 기록, 탄광 배치부·산재·생산 보고를 대조하고 자원자와 추첨 대상자를 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0035",
+    "status": "open",
+    "question": "다른 전시 장관과 식민지·도미니언 관련 결정에서 영국 정치 인물의 권한과 책임은 어디까지 확인되는가?",
+    "related_ids": [
+      "CAT-GB-PER-0004",
+      "CAT-GB-PER-0005",
+      "CAT-GB-PER-0006",
+      "CAT-GB-SRC-0077",
+      "CAT-GB-SRC-0084"
+    ],
+    "evidence": "candidate: 본토 연립·노동 동원·연합국 회담의 대표 사례만 조사했다. 식민지 정책과 개인별 책임은 미검증이다.",
+    "completion_condition": "외무·식민·인도·민방위 및 선전 담당자의 임명 문서와 안건별 회의록·명령·집행 기록을 확보하고 각 정부의 관할과 인물의 관여를 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0036",
+    "status": "open",
+    "question": "1941년 공동 서한 이후 제8실 인력과 교대 운영이 실제로 얼마나 바뀌었는가?",
+    "related_ids": [
+      "CAT-GB-PER-0007",
+      "CAT-GB-SRC-0086",
+      "CAT-GB-SRC-0095"
+    ],
+    "evidence": "candidate: 10월 21일 서한 전사본에서 인력 부족과 증원 요청을 확인했다. 영국 국립기록원 원문 페이지는 403을 반환했다.",
+    "completion_condition": "HW 1/155의 후속 메모와 인사 명부·교대 기록을 대조하고 요청·배정·실근무 및 처리량을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0037",
+    "status": "open",
+    "question": "클라크의 제8실 부책임자 임명 월과 실제 분장 범위는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-PER-0008",
+      "CAT-GB-SRC-0088",
+      "CAT-GB-SRC-0089",
+      "CAT-GB-SRC-0090"
+    ],
+    "evidence": "disputed: English Heritage는 1944년 9월, MacTutor는 1944년 초로 기록한다. 두 해설의 임명 원문은 미확보다.",
+    "completion_condition": "1944년 인사 명령 또는 날짜가 있는 제8실 조직·교대 기록을 찾아 대행과 정식 임명 여부를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0038",
+    "status": "open",
+    "question": "왓슨와트·윌킨스 등의 시험·개발 분장과 왓슨와트의 미국 파견 임무는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-PER-0009",
+      "CAT-GB-SRC-0059",
+      "CAT-GB-SRC-0091",
+      "CAT-GB-SRC-0092",
+      "CAT-GB-SRC-0093",
+      "CAT-GB-SRC-0094"
+    ],
+    "evidence": "candidate: 기관 역사와 소장품 목록은 시연과 개발의 관계를 보여 준다. 당대 메모와 미국 파견 기록은 미확보다.",
+    "completion_condition": "항공부 메모·시험일지, 바우드지 인사 명령 및 미국 상대 기관의 보고를 확인해 설계·시험·운용·파견을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0039",
+    "status": "open",
+    "question": "다른 연구자와 운용 인력의 기여 및 직급·고용 조건은 어떻게 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-GB-PER-0007",
+      "CAT-GB-PER-0008",
+      "CAT-GB-PER-0009",
+      "CAT-GB-SRC-0086",
+      "CAT-GB-SRC-0088",
+      "CAT-GB-SRC-0095"
+    ],
+    "evidence": "candidate: 암호 분석·항공기 조기경보 사례에 한정했다. 작전연구·의학 및 다른 기술자·운용자의 기여는 미확인이다.",
+    "completion_condition": "전시 연구 보고와 인사·급여·업무 분장 원장을 분야별로 대조하고 공동 연구의 역할과 고용 조건을 기록한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0040",
+    "status": "open",
+    "question": "1940년 6월 4일 하원 발언 음반의 녹음일과 현장 원자료는 확인되는가?",
+    "related_ids": [
+      "CAT-GB-PER-0004",
+      "CAT-GB-SRC-0096",
+      "CAT-GB-SRC-0097"
+    ],
+    "evidence": "candidate: 의사록과 후대 녹음 목록을 확인했다. 하원 현장 원영상·음원은 미확보다.",
+    "completion_condition": "음반 원장과 마스터 번호, 방송 편성 기록을 대조해 후대 녹음의 날짜와 편집본별 계통을 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0041",
+    "status": "open",
+    "question": "1941년 미국 의회 연설의 현장 필름과 CBS 음원은 각각 어느 구간을 담는가?",
+    "related_ids": [
+      "CAT-GB-PER-0004",
+      "CAT-GB-SRC-0098",
+      "CAT-GB-SRC-0099",
+      "CAT-GB-SRC-0100",
+      "CAT-GB-SRC-0101",
+      "CAT-GB-SRC-0102",
+      "CAT-GB-SRC-0106"
+    ],
+    "evidence": "inaccessible: COI 414 목록은 미디지털화 상태다. Getty 장면 설명은 확인했으나 프레임 열람은 실패했다. CBS 음원 목록 40분과 상원 해설의 연설 약 30분을 구분했다.",
+    "completion_condition": "재생 가능한 사본으로 발언·박수·나레이션 구간과 프레임레이트를 기록하고 두 영상의 원필름 및 음성 계통을 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0042",
+    "status": "open",
+    "question": "유럽전승일 발표의 마이크 장면과 보건부 발코니 영상의 촬영·녹음 출처는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-PER-0004",
+      "CAT-GB-SRC-0103",
+      "CAT-GB-SRC-0104",
+      "CAT-GB-SRC-0105",
+      "CAT-GB-SRC-0107"
+    ],
+    "evidence": "candidate: COI 101은 마이크 장면, NMV 832는 버킹엄궁 장면을 목록에 적었다. 생방송 동시 촬영 및 보건부 청사 연설 원영상은 미확인.",
+    "completion_condition": "두 릴의 장면표와 방송 녹음 원장, 보건부 청사 발언 기록을 대조해 날짜·장소·타임코드·음성 싱크를 분리한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0043",
+    "status": "open",
+    "question": "조지 6세와 애틀리 등 영국의 다른 전시 연설은 어떤 형태로 남았는가?",
+    "related_ids": [
+      "CAT-GB-SRC-0104",
+      "CAT-GB-SRC-0105"
+    ],
+    "evidence": "candidate: 뉴스릴 목록의 조지 6세 방송 및 상원 도서관의 애틀리 항복 발표 기록은 확인했다. 해당 자료의 현장 영상·음원은 미조사.",
+    "completion_condition": "기관별 영상·음성 소장번호와 편집 이력을 찾아 실제 현장 촬영, 음성만, 정지화면 편집, 재연을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0044",
+    "status": "open",
+    "question": "캐슬브로미치 공장의 운영 인계일과 계약별 실제 생산·납품은 무엇인가?",
+    "related_ids": [
+      "CAT-GB-ORG-0001",
+      "CAT-GB-SRC-0108",
+      "CAT-GB-SRC-0109",
+      "CAT-GB-SRC-0110",
+      "CAT-GB-SRC-0111",
+      "CAT-GB-SRC-0112"
+    ],
+    "evidence": "candidate: 승인·관리 원칙과 BL614 제작은 확인했다. 협정 원문과 인계일 및 월별 실적은 미확보다.",
+    "completion_condition": "항공기생산부 협정·인계 문서와 RAF Museum L35 월별 생산표·검수 기록을 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0045",
+    "status": "open",
+    "question": "크루 공장의 생산·고용과 노동 조건은 어떻게 집계됐는가?",
+    "related_ids": [
+      "CAT-GB-ORG-0002",
+      "CAT-GB-SRC-0108",
+      "CAT-GB-SRC-0113",
+      "CAT-GB-SRC-0114",
+      "CAT-GB-SRC-0115",
+      "CAT-GB-SRC-0119"
+    ],
+    "evidence": "candidate: 크루 고용 10,000명은 후대 두 해설에서 확인했다. 공통 원전과 기준일·고용 범위는 미확인이다.",
+    "completion_condition": "엔진 제조·검수 원장과 공장 인원·급여·배치 기록으로 기간과 고용 조건을 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0046",
+    "status": "open",
+    "question": "GEC의 초기 제작·양산과 통신·조명기구 납품은 어떻게 나뉘었는가?",
+    "related_ids": [
+      "CAT-GB-ORG-0003",
+      "CAT-GB-SRC-0116",
+      "CAT-GB-SRC-0117",
+      "CAT-GB-SRC-0118"
+    ],
+    "evidence": "candidate: 웸블리 시험과 초기 연구소 제작은 해설에서 확인했다. 양산 사업자별 발주·검수와 통신·조명 납품은 미확보다.",
+    "completion_condition": "GEC/3/1·GEC/3/4의 주문·계약과 정부 수령 기록으로 품목·공장·업체별 역할을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0047",
+    "status": "open",
+    "question": "조선·화학·광학·수송 등 다른 업체와 노동·조달 관계는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-ORG-0001",
+      "CAT-GB-ORG-0002",
+      "CAT-GB-ORG-0003",
+      "CAT-GB-SRC-0109",
+      "CAT-GB-SRC-0111",
+      "CAT-GB-SRC-0116"
+    ],
+    "evidence": "candidate: 대표 기업 3곳을 조사했다. 세 기업의 강제노동·수탈 관련 직접 자료는 미확보다.",
+    "completion_condition": "업종별 납품 원장과 기업별 고용·하청·공급 기록을 확보해 동원, 고용 및 강제노동·수탈 관련 행위를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0048",
+    "status": "open",
+    "question": "1945년 중반 UK 총인구 추계가 두 공식 간행물에서 32천 명 다른 이유는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-GEO-0001",
+      "CAT-GB-SRC-0120",
+      "CAT-GB-SRC-0121"
+    ],
+    "evidence": "disputed: 1951년 전시 통계 집성 49,182천 명, 1948년 통계 연감 49,150천 명이다. 차이는 스코틀랜드 열에 나타나고 공통 원자료는 등록기관 계열이다.",
+    "completion_condition": "스코틀랜드 등록총감의 당시 연례보고서, 수정표와 판본별 주석으로 추계 개정 여부와 32천 명의 포함 범위를 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0049",
+    "status": "open",
+    "question": "본토 연중 추계와 민간 등록에서 해외 복무, 상선 선원 및 대피 이동을 어떻게 처리했는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0001",
+      "CAT-GB-SRC-0120",
+      "CAT-GB-SRC-0121",
+      "CAT-GB-SRC-0122",
+      "CAT-GB-SRC-0130"
+    ],
+    "evidence": "candidate: 1939년 국내 현주와 1940년 이후 총인구의 범위 차이 및 1943년 민간 계열의 일부 선원 제외를 확인했다. 개전·종전일의 동일 기준 수치는 미확보다.",
+    "completion_condition": "국가등록 요약, 등록총감의 추계 방법과 전시 이동·동원 자료를 대조해 동일 날짜·경계·대상의 비교 가능성을 기록한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0050",
+    "status": "open",
+    "question": "인도 조사권의 추계 포함 범위와 캐나다의 해외 복무자 집계는 어디까지 확인 가능한가?",
+    "related_ids": [
+      "CAT-GB-GEO-0002",
+      "CAT-GB-GEO-0003",
+      "CAT-GB-SRC-0123",
+      "CAT-GB-SRC-0124",
+      "CAT-GB-SRC-0125",
+      "CAT-GB-SRC-0126",
+      "CAT-GB-SRC-0131"
+    ],
+    "evidence": "candidate: 인도는 일부 변경지를 추계했고 캐나다는 뉴펀들랜드·래브라도를 제외한다. 세부 지방 추계 및 해외 복무자의 인구조사 포함 규칙은 미확인이다.",
+    "completion_condition": "인도 변경지별 조사·추계 부록과 캐나다 제8차 인구조사 지침·제2권을 검토해 지역별 현주·상주·부재자 처리 규칙을 기록한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0051",
+    "status": "open",
+    "question": "홍콩 점령기와 종전 무렵의 인구 추계는 어떤 원장에 근거하며 다른 식민지는 어떻게 비교할 수 있는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0004",
+      "CAT-GB-SRC-0128",
+      "CAT-GB-SRC-0129"
+    ],
+    "evidence": "candidate: 신계를 포함한 1941년 총계와 1945년 항복 무렵 값은 추계를 포함한다. 1945년 산식·기준일과 그 외 식민지·위임통치 지역의 인구는 미확인이다.",
+    "completion_condition": "1941년 방공 집계 원표와 군정 배급·이동 기록을 대조하고, 말라야·싱가포르 및 기타 식민지·위임통치 지역의 현지 통계를 당시 경계와 행정 지위별로 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0052",
+    "status": "open",
+    "question": "싱가포르의 Syonan-to 명명 법령은 언제 효력이 생겼으며 어느 경계에 적용됐는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0006",
+      "CAT-GB-SRC-0132",
+      "CAT-GB-SRC-0133",
+      "CAT-GB-SRC-0134",
+      "CAT-GB-SRC-0135"
+    ],
+    "evidence": "candidate: 점령기 신문의 Syonan 전사, 지도 캡션, 전시 해설 및 연합군 보고를 대조했다. 명명 발효일·일본어 원문·시와 섬의 경계는 미확인이다.",
+    "completion_condition": "일본 군정의 당시 명명 공고, SP001565_1과 TM000984의 판권·범례·도곽 및 현지어 자료를 확보해 적용 범위와 날짜를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0053",
+    "status": "open",
+    "question": "전시 Londonderry 도시·항만·미 해군 기지의 경계와 Derry의 당시 용례는 어디까지 확인 가능한가?",
+    "related_ids": [
+      "CAT-GB-GEO-0001",
+      "CAT-GB-GEO-0005",
+      "CAT-GB-SRC-0138",
+      "CAT-GB-SRC-0139",
+      "CAT-GB-SRC-0140"
+    ],
+    "evidence": "candidate: 하원에서 항구 표기, NARA에서 전시 기지 문서 계열, 후대 판결에서 행정구역 명칭의 별도 계보를 확인했다. 전시 도시 경계·현지어 사용은 미확인이다.",
+    "completion_condition": "당대 항만도와 행정도, 항만 당국 문서, 현지 신문, RG 181 서신 원문에서 명칭별 지시 범위를 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0054",
+    "status": "open",
+    "question": "전시 랑군의 현지어와 점령당국 표기 및 미조사 지역의 지명은 어떻게 대조할 수 있는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0007",
+      "CAT-GB-SRC-0123",
+      "CAT-GB-SRC-0135",
+      "CAT-GB-SRC-0136",
+      "CAT-GB-SRC-0137"
+    ],
+    "evidence": "candidate: 연합군 보고의 Rangoon과 현대 양곤 대응은 확인했다. 일본 점령기 및 현지 행정의 철자·경계, 다른 본토·도미니언·위임통치 지역 표기는 미확인이다.",
+    "completion_condition": "버마·일본 측 관보와 당시 시가지도를 대조하고 다른 지역은 같은 기준으로 대표 지명을 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0055",
+    "status": "open",
+    "question": "전시 도미니언별 참전·헌정 권한과 캐나다 동부 경계를 같은 시점으로 비교할 수 있는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0002",
+      "CAT-GB-SRC-0127",
+      "CAT-GB-SRC-0142",
+      "CAT-GB-SRC-0143"
+    ],
+    "evidence": "candidate: 캐나다 선포와 도미니언 지위는 확인했다. 다른 도미니언의 법 적용 및 캐나다·뉴펀들랜드 사이의 당시 경계선은 확인 범위 밖이다.",
+    "completion_condition": "도미니언별 적용 법률·선전포고 공고와 캐나다·뉴펀들랜드의 동시대 지도를 맞춰 기준일별로 기록한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0056",
+    "status": "open",
+    "question": "저지섬과 채널 제도 다른 섬의 점령·해방과 민정 복귀 시점은 어떻게 다른가?",
+    "related_ids": [
+      "CAT-GB-GEO-0008",
+      "CAT-GB-SRC-0145",
+      "CAT-GB-SRC-0146"
+    ],
+    "evidence": "candidate: 저지섬 입성·해방일과 하원의 군정 종료 예고를 확인했다. 다른 섬의 날짜 및 군정 종료 시행 원문은 미확인이다.",
+    "completion_condition": "섬별 항복 문서, 현지 행정 회의록과 군정 종료 시행 문서에서 날짜와 관할을 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0057",
+    "status": "open",
+    "question": "홍콩의 구룡성·신계·도서 경계와 1945년 군정의 현지 인수일을 어디까지 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0004",
+      "CAT-GB-SRC-0147",
+      "CAT-GB-SRC-0148",
+      "CAT-GB-SRC-0149",
+      "CAT-GB-SRC-0150",
+      "CAT-GB-SRC-0151",
+      "CAT-GB-SRC-0155"
+    ],
+    "evidence": "candidate: 양도·임대 근거 및 군정 선포와 현지 서명 날짜를 확인했다. 임대 부속 지도와 지점별 군정 인수 자료는 미확인이다.",
+    "completion_condition": "1898년 협약 부속 지도와 후속 경계 측량도, 구룡성 관련 1899년 추밀원령 원문, 1945년 군정의 지역별 인수 기록을 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0058",
+    "status": "open",
+    "question": "개전·종전 당일 팔레스타인 및 트란스요르단 행정구역과 다른 위임통치·보호령의 지위는 어떠했는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0009",
+      "CAT-GB-SRC-0152",
+      "CAT-GB-SRC-0153",
+      "CAT-GB-SRC-0154"
+    ],
+    "evidence": "candidate: 위임장과 별도 행정의 법적 근거, 전시 외교 사례, 1946년 지도는 확인했다. 개전·종전 당일의 지도와 지방 경계 및 나머지 제국 관할의 목록은 남았다.",
+    "completion_condition": "1939·1945년 현지 관보·행정지도 및 보호령·위임통치 개별 문서에서 경계와 지배 주체를 날짜별로 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0059",
+    "status": "open",
+    "question": "본토의 원유 채굴·합성유·정유 및 수입유의 연별·산지별 실적을 분리할 수 있는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0001",
+      "CAT-GB-SRC-0120",
+      "CAT-GB-SRC-0156"
+    ],
+    "evidence": "candidate: 원유 채굴과 수입유 정유·국내 원료 가공 합계를 확인했다. 공정별 합성유 수치와 개별 공급국·유전별 연간 자료는 미확인이다.",
+    "completion_condition": "연료동력부·Petroleum Board 원장과 무역 통계에서 산지별 원유, 합성 공정별 생산, 정제유와 수입을 동일 기간으로 맞춘다."
+  },
+  {
+    "id": "CAT-GB-RQ-0060",
+    "status": "open",
+    "question": "말라야 점령기 천연고무 생산·반출과 영국의 합성고무 국내 생산·수입은 각각 얼마였는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0001",
+      "CAT-GB-GEO-0010",
+      "CAT-GB-SRC-0120",
+      "CAT-GB-SRC-0158",
+      "CAT-GB-SRC-0159"
+    ],
+    "evidence": "candidate: 1940년 선적 및 1945년 실론 공급은 확인했다. 재점령 때 재고와 점령기 은닉분, 신규 생산은 일부 중첩된다.",
+    "completion_condition": "말라야 전시 무역표와 일본 군정 원장 및 영국 고무 조달 통계의 품목별 단위·행정 범위를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0061",
+    "status": "open",
+    "question": "캐나다 보크사이트 수입의 산지별 물량과 영국행 알루미늄 출하는 각각 얼마였는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0002",
+      "CAT-GB-GEO-0011",
+      "CAT-GB-SRC-0160",
+      "CAT-GB-SRC-0161"
+    ],
+    "evidence": "candidate: 보크사이트 수입 합계와 주요 원료 공급지 및 캐나다 제련량을 확인했다. 영국행 제품의 목적지별 무역표는 미확인이다.",
+    "completion_condition": "캐나다·영국령 기아나의 세관표와 캐나다 알루미늄 수출 목적지별 표를 연도·품목별로 연결한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0062",
+    "status": "open",
+    "question": "남로디지아 크롬·텅스텐의 광산별 출하와 영국 반입량은 얼마나 일치하는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0012",
+      "CAT-GB-SRC-0161",
+      "CAT-GB-SRC-0162",
+      "CAT-GB-SRC-0163"
+    ],
+    "evidence": "candidate: 광석·정광 생산을 확보했다. 광석과 산화물 함량의 표기 차이, 1945년 정광의 대시 및 광산·목적지별 물량은 미확인이다.",
+    "completion_condition": "광산·세관 원표와 수입국별 계약·반입 통계의 건조중량 및 품위 기준을 맞추고 크롬 집성표 이미지의 행 대응을 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0063",
+    "status": "open",
+    "question": "유스턴 공장의 1939-09-01 생산·고용·준공 설비와 정확한 공장 경계는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-GEO-0013",
+      "CAT-GB-SRC-0167",
+      "CAT-GB-SRC-0168",
+      "CAT-GB-SRC-0169"
+    ],
+    "evidence": "candidate: 1936년 예정지와 1939년 4월 고용 및 후대의 400 ha 초과 표기가 있다. 측량 범위와 9월 설비·생산량은 미확인이다.",
+    "completion_condition": "WORK 26/11A/1·SUPP 5/1260 원문 및 부지 도면·준공증명과 1939년 9월 교대·생산 장부를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0064",
+    "status": "open",
+    "question": "대거넘 공장의 1939년 필지·라인별 설계능력과 부두·발전 처리량은 얼마인가?",
+    "related_ids": [
+      "CAT-GB-GEO-0014",
+      "CAT-GB-SRC-0170",
+      "CAT-GB-SRC-0171",
+      "CAT-GB-SRC-0172"
+    ],
+    "evidence": "candidate: 1930년 매입 면적과 1937년 사진에 나타난 부두는 확인했다. 1939년 필지와 가동 설비의 정격·실적은 미확인이다.",
+    "completion_condition": "Ford Ltd 공장도·생산일지·부두 하역표·발전소 명세에서 동일 경계의 개전과 종전 상태를 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0065",
+    "status": "open",
+    "question": "캐슬브로미치 공장의 1939년 개전일 공사 진척과 1940년 이전 작업 규모는 어느 수준이었는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0015",
+      "CAT-GB-SRC-0112",
+      "CAT-GB-SRC-0173",
+      "CAT-GB-SRC-0174",
+      "CAT-GB-SRC-0175",
+      "CAT-GB-SRC-0176"
+    ],
+    "evidence": "candidate: 토지 취득·착공과 후속 납품 시기를 구분했다. 1939년 현장 고용과 설비 준공 기록은 미확인이다.",
+    "completion_condition": "항공부 부지대장과 공사 진척표, Contract 981687/39 원본과 기체 인수장부를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0066",
+    "status": "open",
+    "question": "같은 척도로 대조할 영국·타국 공장과 추가 영국 산업집적의 자료는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-GEO-0013",
+      "CAT-GB-GEO-0014",
+      "CAT-GB-GEO-0015",
+      "CAT-GB-SRC-0168",
+      "CAT-GB-SRC-0171",
+      "CAT-GB-SRC-0176"
+    ],
+    "evidence": "candidate: 토지 예정지와 매입 부지, 후속 인도량의 정의가 달라 공통 등급 경계를 확정할 수 없다.",
+    "completion_condition": "동종 공장의 동일 기준 실측 산업 면적·설계 능력·작업 수용·전력 및 수송 처리 자료를 확보한다. 브리젠드와 영국 제철·조선 집적은 별도 경계로 조사한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0067",
+    "status": "open",
+    "question": "촐리의 1945-09-02 전후 실가동, 고용 모집단 및 남은 설비는 어느 수준이었는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0013",
+      "CAT-GB-SRC-0168",
+      "CAT-GB-SRC-0178",
+      "CAT-GB-SRC-0179",
+      "CAT-GB-SRC-0186"
+    ],
+    "evidence": "전시 최고 총원과 12월 men 표기는 기준일·모집단이 다르다. 9월 3일 지방지 보도는 2차 인용으로 전망만 확인했다.",
+    "completion_condition": "8~12월 부문별 고용 원표(성별·고용 형태·부속시설), 작업 대장과 잔존 공정·물류 설비표를 비교한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0068",
+    "status": "open",
+    "question": "대거넘 본 공장 각 라인의 종전 무렵 생산 전환과 폭격 피해 복구 시점은 언제인가?",
+    "related_ids": [
+      "CAT-GB-GEO-0014",
+      "CAT-GB-SRC-0172",
+      "CAT-GB-SRC-0180",
+      "CAT-GB-SRC-0181",
+      "CAT-GB-SRC-0182",
+      "CAT-GB-SRC-0183"
+    ],
+    "evidence": "1946년 사진과 전시 피해 사진 목록 및 전후 생산 재개 서술은 확보했다. 1960년 의회 답변에는 요청한 1945년 고용이 없다.",
+    "completion_condition": "공장별 월간 생산·인사 원장 및 피해·복구 도면을 확인하고 외지 공장·별도 법인을 분리한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0069",
+    "status": "open",
+    "question": "캐슬브로미치의 1945년 8~11월 인도·재공품·인력과 전후 전용의 경계는 어디까지인가?",
+    "related_ids": [
+      "CAT-GB-GEO-0015",
+      "CAT-GB-SRC-0112",
+      "CAT-GB-SRC-0174",
+      "CAT-GB-SRC-0175",
+      "CAT-GB-SRC-0184",
+      "CAT-GB-SRC-0185"
+    ],
+    "evidence": "11월 마지막 완성기 시험비행과 1946년 1월 미완성 기체 이전의 날짜·행위가 다르다.",
+    "completion_condition": "인도 장부·시험비행일지·재공품 이동명세·차체 공장 인수자료를 대조하고 공장, 비행장 및 외지 완성 공장을 구분한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0070",
+    "status": "open",
+    "question": "영국의 나머지 주요 공업 집적과 해외 시설을 같은 경계·척도로 비교할 수 있는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0013",
+      "CAT-GB-GEO-0014",
+      "CAT-GB-GEO-0015",
+      "CAT-GB-SRC-0168",
+      "CAT-GB-SRC-0171",
+      "CAT-GB-SRC-0178"
+    ],
+    "evidence": "본토 공장 3곳을 조사했다. 예정·매입 면적, 최고 고용 및 후대 사진만으로 공통 등급을 정할 수 없다.",
+    "completion_condition": "클라이드 조선 집적, 사우스웨일스 철강, 미들랜즈 나머지 생산거점 및 해외 관할 사례의 경계·귀속·설치량을 확보해 네 차원 비교표를 검증한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0071",
+    "status": "open",
+    "question": "덕스퍼드 1939년 9월 1일의 현지 배치·가동 대수와 기지 시설 정격은 얼마였는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0016",
+      "CAT-GB-SRC-0187",
+      "CAT-GB-SRC-0188",
+      "CAT-GB-SRC-0189",
+      "CAT-GB-SRC-0190",
+      "CAT-GB-SRC-0195"
+    ],
+    "evidence": "전쟁 전 격납고 건축과 개전 전 기체 인도 및 임시 훈련은 확인했다. 기준일 기체 상태·연료 용량·착륙 처리량은 미확인이다.",
+    "completion_condition": "기지 AIR 28 및 비행대 AIR 27 일지, 당대 도면·시설대장으로 격납 정원과 주기·출격 가능 대수를 분리한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0072",
+    "status": "open",
+    "question": "비스터의 9월 1일 현지 기체와 개전일 시설 인수·가동 상태는 무엇인가?",
+    "related_ids": [
+      "CAT-GB-GEO-0017",
+      "CAT-GB-SRC-0191",
+      "CAT-GB-SRC-0192",
+      "CAT-GB-SRC-0193",
+      "CAT-GB-SRC-0194"
+    ],
+    "evidence": "8월 31일 편제표와 9월 초 이동 연혁, 복원 배치도를 확인했다. 기체 개별 상태·출발 시각 및 연료·작업 처리량 미확인이다.",
+    "completion_condition": "8월 31일~9월 3일 원일지와 확장 공사 인수 서류 및 연료·정비 시설 명세를 대조한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0073",
+    "status": "open",
+    "question": "본토 및 해외 관할의 다른 공군기지를 같은 1~10점 척도로 비교할 수 있는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0016",
+      "CAT-GB-GEO-0017",
+      "CAT-GB-SRC-0187",
+      "CAT-GB-SRC-0191",
+      "CAT-GB-SRC-0192",
+      "CAT-GB-SRC-0195"
+    ],
+    "evidence": "본토 전투·폭격기 기지 두 사례를 조사했다. 격납고 건축 치수 외에 착륙·정비·보급 처리능력을 공통 등급에 연결할 자료가 부족하다.",
+    "completion_condition": "다른 본토·식민지·해외 주둔·도미니언 기지의 지위와 운영 주체를 구분하고, 네 차원의 당대 시설 원표와 비교 등급 경계를 확보한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0074",
+    "status": "open",
+    "question": "1939-09-01 스캐파플로·리니스의 실제 정박·입거·수리·급유 능력은 어느 정도였는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0018",
+      "CAT-GB-SRC-0005",
+      "CAT-GB-SRC-0196",
+      "CAT-GB-SRC-0197",
+      "CAT-GB-SRC-0198",
+      "CAT-GB-SRC-0199"
+    ],
+    "evidence": "전날 배치표와 지상 연료시설은 확인했다. 당일 시각별 현존, 부유 도크·공작 능력과 탱크별 정격·급유량은 미확인이다.",
+    "completion_condition": "해군 전쟁일지와 항만 운항일지, 조선소·보급시설 명세를 확인해 정박과 정비·급유를 분리한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0075",
+    "status": "open",
+    "question": "1939-09-01 셈바왕 각 안벽·수리시설 및 연료 보급시설은 어느 구간까지 가동됐는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0019",
+      "CAT-GB-SRC-0200",
+      "CAT-GB-SRC-0201",
+      "CAT-GB-SRC-0202",
+      "CAT-GB-SRC-0203",
+      "CAT-GB-SRC-0204",
+      "CAT-GB-SRC-0205"
+    ],
+    "evidence": "도크 개장과 부유 도크 정격은 확인했다. 안벽 공사가 후속 진행됐고 당일 접안·입거 대장과 유류 처리량은 미확인이다.",
+    "completion_condition": "ADM 214 계약·준공 및 작업·입거 원장과 영국 해군 시설의 당일 보급대장을 확인한다."
+  },
+  {
+    "id": "CAT-GB-RQ-0076",
+    "status": "open",
+    "question": "두 사례를 다른 본토·식민지·해외 주둔·도미니언 기지와 같은 척도로 비교할 수 있는가?",
+    "related_ids": [
+      "CAT-GB-GEO-0018",
+      "CAT-GB-GEO-0019",
+      "CAT-GB-SRC-0197",
+      "CAT-GB-SRC-0198",
+      "CAT-GB-SRC-0202",
+      "CAT-GB-SRC-0203",
+      "CAT-GB-SRC-0204"
+    ],
+    "evidence": "천연 정박지 면적·지상 탱크 수·도크 길이·부유 도크 인양량은 서로 다른 지표다. 네 차원의 공통 경계가 부족하다.",
+    "completion_condition": "포츠머스·로사이스·데번포트 및 몰타·지브롤터 등 후속 후보의 1939년 접안, 도크, 수리, 보급 원표와 법적 지위를 비교한다."
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "step": 59,
+  "job_id": "CAT-US-02",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 2,
+  "category": "전차 제외 기갑장비, 무장, 성능",
+  "article_path": "categories/united-states/02-other-armored-vehicles.md",
+  "status": "partial",
+  "completed_at": "2026-11-13T20:53:28+09:00",
+  "started_at": "2026-11-13T20:47:58+09:00",
+  "base_head": "8f8c6696ab36e0ac6739667f608a75e85de61b6d",
+  "source_ids": [
+    "CAT-US-SRC-0024",
+    "CAT-US-SRC-0026",
+    "CAT-US-SRC-0027",
+    "CAT-US-SRC-0028",
+    "CAT-US-SRC-0029",
+    "CAT-US-SRC-0030",
+    "CAT-US-SRC-0031",
+    "CAT-US-SRC-0032"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0008",
+    "CAT-US-RQ-0009",
+    "CAT-US-RQ-0010",
+    "CAT-US-RQ-0011"
+  ],
+  "entity_ids": [
+    "CAT-US-EQP-0004",
+    "CAT-US-EQP-0005",
+    "CAT-US-EQP-0006"
+  ],
+  "research_scope": "M3 반궤도 병력수송차, M8 그레이하운드 정찰 장갑차, M18 헬캣 구축전차의 전시 제식과 기동 제원, 생산·배치 사례.",
+  "limitations": [
+    "전시 표준 제원과 현존 표본의 제원은 측정 조건과 형식 이력이 다르거나 미상이다.",
+    "동아프리카 기갑군단 사진은 소장 설명까지만 열람했다. M18 초도 전투일·실제 전투 속도와 M3 차량별 생산 수량은 미확인이다.",
+    "기타 구축전차·자주포·대공·공병·구난·상륙 기갑차량은 후속 과제다."
+  ],
+  "evidence_checked": [
+    "미 군수국 Catalogue of Standard Ordnance Items 제1권, 인쇄 pp. 39–40, 55–56, 65–67.",
+    "The National WWII Museum 및 Museum of American Armor와 Museum of the American G.I. 소장 설명·제원, NAM 1965-08-74-8 소장 설명.",
+    "미 육군 공식 전사 CMH 10-10 인쇄 pp. 292–293, CMH 10-9 인쇄 p. 316, CMH 7-6-1 인쇄 pp. 223–224."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.loc.gov/item/2017693790/",
+      "result": "403으로 포트녹스 반궤도차 사진 원판을 대조하지 못했다. 해당 사진에 형식을 귀속하지 않았다."
+    },
+    {
+      "url": "https://collection.nam.ac.uk/detail.php?acc=1965-08-74-8",
+      "result": "기관의 사진 소장 설명과 권리·등록번호를 확인했다. 사진 판면은 미열람이다."
+    },
+    {
+      "url": "https://americangimuseum.org/collections/restored-vehicles/m8-greyhound-1943-1945/",
+      "result": "직접 열람 시 403. 검색 요약의 속도와 생산 수치는 채택하지 않았다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=59 pending=74; sources=658 questions=239. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "source_required": [
+    "id",
+    "title",
+    "institution_or_author",
+    "publication_date",
+    "source_type",
+    "locator",
+    "url",
+    "accessed_at",
+    "access_status",
+    "claims_checked",
+    "limitations",
+    "rights"
+  ],
+  "question_required": [
+    "id",
+    "status",
+    "question",
+    "related_ids",
+    "evidence",
+    "completion_condition"
+  ],
+  "entity_id_pattern": "CAT-(DE|FR|GB|US|JP|IT|SU)-(EQP|PER|ORG|GEO)-[0-9]{4,}",
+  "source_id_pattern": "CAT-(DE|FR|GB|US|JP|IT|SU)-SRC-[0-9]{4,}",
+  "question_id_pattern": "CAT-(DE|FR|GB|US|JP|IT|SU)-RQ-[0-9]{4,}",
+  "notes": [
+    "미확인값은 null 또는 미확인으로 기록한다.",
+    "한국어로 작성하며 자료 원제와 고유명사는 원문을 병기한다.",
+    "16~19번 runs.rating_records: 원자료 metrics와 분석 점수 score를 분리. 미확인 score=null; 공업 1~20, 공군/해군 1~10; 상세 규칙은 INFRASTRUCTURE_RATING.md."
+  ],
+  "rating_required": [
+    "entity_id",
+    "reference_date",
+    "territorial_status",
+    "metrics",
+    "score",
+    "score_range",
+    "score_status",
+    "confidence",
+    "rationale",
+    "source_ids",
+    "method_version",
+    "dimension_ratings",
+    "anchors"
+  ],
+  "rating_method": "infrastructure-v1"
+}

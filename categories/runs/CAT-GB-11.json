@@ -1,0 +1,63 @@
+{
+  "step": 49,
+  "job_id": "CAT-GB-11",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 11,
+  "category": "유명 군수기업",
+  "article_path": "categories/united-kingdom/11-military-industry.md",
+  "status": "partial",
+  "completed_at": "2026-11-13T02:58:29+09:00",
+  "started_at": "2026-11-13T02:50:23+09:00",
+  "base_head": "625d15c58da6bb97521f0c8ecd91580d7052e16d",
+  "source_ids": [
+    "CAT-GB-SRC-0108",
+    "CAT-GB-SRC-0109",
+    "CAT-GB-SRC-0110",
+    "CAT-GB-SRC-0111",
+    "CAT-GB-SRC-0112",
+    "CAT-GB-SRC-0113",
+    "CAT-GB-SRC-0114",
+    "CAT-GB-SRC-0115",
+    "CAT-GB-SRC-0116",
+    "CAT-GB-SRC-0117",
+    "CAT-GB-SRC-0118",
+    "CAT-GB-SRC-0119"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0044",
+    "CAT-GB-RQ-0045",
+    "CAT-GB-RQ-0046",
+    "CAT-GB-RQ-0047"
+  ],
+  "entity_ids": [
+    "CAT-GB-ORG-0001",
+    "CAT-GB-ORG-0002",
+    "CAT-GB-ORG-0003"
+  ],
+  "research_scope": "완성 기체·항공엔진·전기통신 대표 기업 3곳의 건설 승인, 운영 계약, 생산·납품과 연구 사례를 대조했다.",
+  "limitations": [
+    "운영 협정 원문과 캐슬브로미치·크루의 공장별 월간 생산·납품 원장은 미확보다.",
+    "크루 고용 10,000명의 기준과 두 해설의 독립성은 미확인이다.",
+    "GEC 조명·통신 납품 수량, 양산 사업자별 검수, 세 기업의 강제노동·수탈 직접 자료는 미확보다."
+  ],
+  "evidence_checked": [
+    "Hansard 제338권 Vote 4, 제427권 열 1297–1298 및 RAF Museum 기업 안내 3·14–15쪽",
+    "RAF Museum 82/A/1716 1쪽 및 IWM H 14259 사진 미리보기·캡션",
+    "Science Museum Group 1954-660 Pt10·Y1969.41, Crewe Heritage Centre·National Transport Trust 공장 해설",
+    "Science Museum Group ap314·1946-107 및 IET 웸블리 시험 해설"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.iwm.org.uk/collections/item/object/205196617",
+      "result": "IWM 본 컬렉션에서 403 응답. 동일 소장번호의 IWM Prints 페이지에서 사진 미리보기와 소장 설명을 확인했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "not_run",
+    "result": "실행 환경을 사용할 수 없었다. 별도 검사로 133개 큐 순서·상태, 방문 수, 원고·실행 장부 참조 및 변경 범위를 대조했다.",
+    "path_check": "예정 변경 8개는 모두 categories/ 하위. ref 갱신 전 원격 비교로 다시 확인."
+  }
+}

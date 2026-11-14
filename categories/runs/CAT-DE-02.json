@@ -1,0 +1,59 @@
+{
+  "job_id": "CAT-DE-02",
+  "step": 2,
+  "country": "독일",
+  "category": "전차 제외 기갑장비, 무장, 성능",
+  "started_at": "2026-11-08T15:41:48.451Z",
+  "completed_at": "2026-11-09T00:46:17+09:00",
+  "status": "partial",
+  "article_path": "categories/germany/02-other-armored-vehicles.md",
+  "source_ids": [
+    "CAT-DE-SRC-0001",
+    "CAT-DE-SRC-0007",
+    "CAT-DE-SRC-0008",
+    "CAT-DE-SRC-0009"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0005",
+    "CAT-DE-RQ-0006",
+    "CAT-DE-RQ-0007",
+    "CAT-DE-RQ-0008"
+  ],
+  "entity_ids": [
+    "CAT-DE-EQP-0005",
+    "CAT-DE-EQP-0006",
+    "CAT-DE-EQP-0007"
+  ],
+  "research_scope": "StuG III L/48·박물관 Ausf G 구분, Sd.Kfz.251/16 및 Sd.Kfz.234/2 무장·승무원·자료상 기동 성능. 원문 스캔 네 페이지 시각 판독과 박물관 두 페이지 대조.",
+  "limitations": [
+    "전 계열·전 형식 전수조사 아님",
+    "StuG 최대속력 불일치 미해결",
+    "독일 생산·인수·실전·시험 원기록 미열람",
+    "미군 간행물 및 박물관의 독립 사료 계보 미확인"
+  ],
+  "execution_mode": "manual_recovery_after_failed_automation",
+  "base_head": "945a910b66f8cb11819faf6f846643e3ed746746",
+  "evidence_checked": [
+    "TM-E30-451 원문 PDF368(VII-58)·398(VII-88) 이미지 판독; PDF367 분류 텍스트 확인",
+    "Catalog of Enemy Ordnance Materiel 원문 PDF27(p42.1)·29(p46.1) 이미지 판독 및 낱장 날짜 확인",
+    "The Tank Museum StuG III·Sd Kfz234/3 본문 실제 열람; 형식별 제원 혼합 방지"
+  ],
+  "failed_scheduled_run_id": "dd2e2168-8a40-8320-9307-98d47cb52491",
+  "automation_observation": {
+    "id": "Automation_13524a92af348191b3972ebef1287d3f",
+    "recorded_status": "failed",
+    "scheduled_for": "2026-11-08T14:30:00Z",
+    "started_at": "2026-11-08T15:36:54.034062Z",
+    "completed_at": "2026-11-08T15:37:08.094352Z",
+    "latest_result": "There was a problem with your scheduled task.",
+    "internal_cause": "not_provided",
+    "schedule_changed": false,
+    "note": "동일 run_id의 실패 출력과 완료시각 확인. 수동 복구 성공은 향후 예약 성공을 보장하지 않음."
+  },
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "133 jobs; visited=2 pending=131; sources=9 questions=8. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; full baseline Git blob hashes matched latest remote snapshot before edits."
+  }
+}

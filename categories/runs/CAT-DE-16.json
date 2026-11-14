@@ -1,0 +1,328 @@
+{
+  "step": 16,
+  "job_id": "CAT-DE-16",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 16,
+  "category": "개전 시점 주요 공업단지와 규모(1~20)",
+  "article_path": "categories/germany/16-industrial-centers-start.md",
+  "status": "partial",
+  "completed_at": "2026-11-10T07:04:24+09:00",
+  "started_at": "2026-11-10T06:55:30+09:00",
+  "base_head": "fdea4834c9ca0e485682d0b3406ba83e98a6087e",
+  "source_ids": [
+    "CAT-DE-SRC-0100",
+    "CAT-DE-SRC-0103",
+    "CAT-DE-SRC-0109",
+    "CAT-DE-SRC-0112",
+    "CAT-DE-SRC-0118",
+    "CAT-DE-SRC-0119",
+    "CAT-DE-SRC-0120",
+    "CAT-DE-SRC-0121",
+    "CAT-DE-SRC-0122",
+    "CAT-DE-SRC-0123"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0062",
+    "CAT-DE-RQ-0063",
+    "CAT-DE-RQ-0064",
+    "CAT-DE-RQ-0065"
+  ],
+  "entity_ids": [
+    "CAT-DE-GEO-0014",
+    "CAT-DE-GEO-0017"
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-DE-GEO-0014",
+      "reference_date": "1939-09-01",
+      "historical_name": "Ruhrgebiet",
+      "modern_location": "독일 노르트라인베스트팔렌 루르 일대",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "루르 계곡과 라인강 서안 일부를 포함한 광역 루르. 중심 공업대는 내부 부분집합이며 시군 목록은 미확인.",
+      "territorial_status": "1939-09-01 독일 본토, 독일 실효 지배",
+      "operators": "광산·코크스·철강 등의 여러 기업. 단일 사업장 운영 주체 없음.",
+      "operational_status": "1939년 6월 생산 실적과 개전 제강 설비 추계 확보. 당일 개별 시설 가동은 미확인.",
+      "source_survey_dates": [
+        "1939-06 독일 월간 실적, 1939-08-04 발행",
+        "1945-06-30 국무부 메모, 지역·수송 원자료 조사 시점 미상",
+        "1945-09-30 USSBS 보고, 개전 소급 추계, 시설별 관측일 미상"
+      ],
+      "metrics": [
+        {
+          "metric": "광역 지역 총면적",
+          "value": 3000,
+          "unit": "mi² (약)",
+          "date": "1945-06-30 메모, 측정일 미상",
+          "boundary": "루르 계곡과 라인강 서안 일부를 포함한 광역 루르. 중심 공업대는 내부 부분집합이며 시군 목록은 미확인.",
+          "source_id": "CAT-DE-SRC-0118",
+          "locator": "문서 400, 인쇄 590–591쪽, §b Basic Data",
+          "capacity_or_actual": "지리 면적 추정"
+        },
+        {
+          "metric": "중심 공업대 총면적",
+          "value": 1000,
+          "unit": "mi² (약)",
+          "date": "1945-06-30 메모, 측정일 미상",
+          "boundary": "광역 루르 내부 중심 공업대",
+          "source_id": "CAT-DE-SRC-0118",
+          "locator": "문서 400, 인쇄 590–591쪽, §b Basic Data",
+          "capacity_or_actual": "지리 면적 추정"
+        },
+        {
+          "metric": "독일 연간 제강 설비 추계",
+          "value": 23000000,
+          "unit": "미터톤/년 (약)",
+          "date": "개전, 정확한 조사일 미상",
+          "boundary": "USSBS의 독일 집계",
+          "source_id": "CAT-DE-SRC-0109",
+          "locator": "Steel, 인쇄 10–11쪽",
+          "capacity_or_actual": "설비능력 추정"
+        },
+        {
+          "metric": "전국 제강 설비의 루르 비중",
+          "value": 69,
+          "unit": "% (약)",
+          "date": "개전, 정확한 조사일 미상",
+          "boundary": "USSBS의 Ruhr, FRUS 경계와 일치 여부 미확인",
+          "source_id": "CAT-DE-SRC-0109",
+          "locator": "Steel, 인쇄 10–11쪽",
+          "capacity_or_actual": "설비능력 비중"
+        },
+        {
+          "metric": "루르 연간 제강 설비 추계",
+          "value": 15900000,
+          "unit": "미터톤/년 (약)",
+          "date": "개전, 정확한 조사일 미상",
+          "boundary": "USSBS의 Ruhr, FRUS 경계와 일치 여부 미확인",
+          "source_id": "CAT-DE-SRC-0109",
+          "locator": "Steel, 인쇄 10–11쪽",
+          "capacity_or_actual": "설비능력 분석치, 2,300만 × 0.69 후 반올림"
+        },
+        {
+          "metric": "경질탄 채굴량",
+          "value": 11004,
+          "unit": "천 t",
+          "date": "1939-06",
+          "boundary": "독일 통계 Ruhrgebiet",
+          "source_id": "CAT-DE-SRC-0122",
+          "locator": "544쪽, Kohlenförderung 표와 아래 본문, PDF 10면",
+          "capacity_or_actual": "실적"
+        },
+        {
+          "metric": "코크스 생산량",
+          "value": 2870,
+          "unit": "천 t",
+          "date": "1939-06",
+          "boundary": "독일 통계 Ruhrgebiet",
+          "source_id": "CAT-DE-SRC-0122",
+          "locator": "544쪽, Kohlenförderung 표와 아래 본문, PDF 10면",
+          "capacity_or_actual": "실적"
+        },
+        {
+          "metric": "탄광과 부속 사업장 노동자",
+          "value": 312482,
+          "unit": "명",
+          "date": "1939-06-30",
+          "boundary": "독일 통계 Ruhrzechen과 Nebenbetriebe",
+          "source_id": "CAT-DE-SRC-0122",
+          "locator": "544쪽, Kohlenförderung 표와 아래 본문, PDF 10면",
+          "capacity_or_actual": "실고용"
+        },
+        {
+          "metric": "라인란트·베스트팔렌 선철 생산량",
+          "value": 1112.4,
+          "unit": "천 t",
+          "date": "1939-06",
+          "boundary": "독일 통계 Rheinland und Westfalen, 루르 단독 아님",
+          "source_id": "CAT-DE-SRC-0122",
+          "locator": "545쪽, Deutsche Roheisen- und Rohstahlerzeugung, Erzeugung nach Bezirken, PDF 11면",
+          "capacity_or_actual": "실적"
+        },
+        {
+          "metric": "라인란트·베스트팔렌 조강 생산량",
+          "value": 1416.7,
+          "unit": "천 t",
+          "date": "1939-06",
+          "boundary": "독일 통계 Rheinland und Westfalen, 루르 단독 아님",
+          "source_id": "CAT-DE-SRC-0122",
+          "locator": "545쪽, Deutsche Roheisen- und Rohstahlerzeugung, Erzeugung nach Bezirken, PDF 11면",
+          "capacity_or_actual": "실적"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": 2,
+          "facility": "Saarland 석탄·코크스 집적지",
+          "metric_value_or_band": "1939-06 경질탄 1,288천 t, 코크스 270천 t",
+          "source_id": "CAT-DE-SRC-0122",
+          "locator": "544쪽, Kohlenförderung 표와 아래 본문, PDF 10면",
+          "comparison_reason": "같은 월·통계·업종의 광역 생산 실적 비교. 설비 등급 경계에는 사용하지 않음."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "면적은 지역 총면적이며 고용·운송 비중은 실적이다. 제강 설비 동종 기준 및 네 차원 정량 경계가 미확립이다.",
+      "source_ids": [
+        "CAT-DE-SRC-0109",
+        "CAT-DE-SRC-0118",
+        "CAT-DE-SRC-0122"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-DE-GEO-0017",
+      "reference_date": "1939-09-01",
+      "historical_name": "Lautawerk",
+      "modern_location": "독일 작센주 바우첸군 라우타",
+      "coordinates_wgs84": {
+        "latitude": 51.45456,
+        "longitude": 14.10804,
+        "role": "유산 목록의 대표점"
+      },
+      "comparison_boundary": "라우타베르크 제련·알루미나 공장 및 현장 연결 발전소. 1937년 지도 기반 도해 윤곽. 인근 광산·주거지 제외.",
+      "territorial_status": "1939-09-01 독일 본토, 독일 실효 지배",
+      "operators": "알루미나·알루미늄 VAW, 연결 발전소 EWAG.",
+      "operational_status": "개전 전 생산 개시 및 1938·1939년 연간 생산 추정 확인. 당일 개별 설비 가동 미확인. 1941~1943년 전극공장은 제외.",
+      "source_survey_dates": [
+        "1937년 기초 지형도, 2024년 그림 7로 열람",
+        "1938년 발전소 명목출력, 2022년 해설",
+        "1938~1939년 연말 제련 능력·연간 생산, 1945-05-31 지침, 원 조사일 미상"
+      ],
+      "metrics": [
+        {
+          "metric": "알루미늄 제련 설비",
+          "value": 40000,
+          "unit": "tons (원문)",
+          "date": "1938-12-31",
+          "boundary": "Lautawerk 제련 공장",
+          "source_id": "CAT-DE-SRC-0112",
+          "locator": "Pamphlet 31-131, 인쇄 9쪽 표 2와 각주 1, PDF 143면",
+          "capacity_or_actual": "설비능력 추정"
+        },
+        {
+          "metric": "알루미늄 제련 설비",
+          "value": 70000,
+          "unit": "tons (원문)",
+          "date": "1939-12-31",
+          "boundary": "Lautawerk 제련 공장",
+          "source_id": "CAT-DE-SRC-0112",
+          "locator": "Pamphlet 31-131, 인쇄 9쪽 표 2와 각주 1, PDF 143면",
+          "capacity_or_actual": "설비능력 추정"
+        },
+        {
+          "metric": "알루미늄 연간 생산량",
+          "value": 38000,
+          "unit": "tons (원문)",
+          "date": "1938",
+          "boundary": "Lautawerk 제련 공장",
+          "source_id": "CAT-DE-SRC-0112",
+          "locator": "Pamphlet 31-131, 인쇄 9쪽 표 2와 각주 1, PDF 143면",
+          "capacity_or_actual": "실적 추정"
+        },
+        {
+          "metric": "알루미늄 연간 생산량",
+          "value": 50000,
+          "unit": "tons (원문)",
+          "date": "1939",
+          "boundary": "Lautawerk 제련 공장",
+          "source_id": "CAT-DE-SRC-0112",
+          "locator": "Pamphlet 31-131, 인쇄 9쪽 표 2와 각주 1, PDF 143면",
+          "capacity_or_actual": "실적 추정"
+        },
+        {
+          "metric": "연결 발전소 최대 명목출력",
+          "value": 173,
+          "unit": "MW",
+          "date": "1938",
+          "boundary": "Kraftwerk Lauta",
+          "source_id": "CAT-DE-SRC-0120",
+          "locator": "1938년 발전소 증설 문단, 문헌목록 Kahl 외(2009) 102–110쪽",
+          "capacity_or_actual": "설비능력"
+        },
+        {
+          "metric": "공장 구역 면적",
+          "value": null,
+          "unit": "미확인",
+          "date": "1937 지도",
+          "boundary": "라우타베르크 제련·알루미나 공장 및 현장 연결 발전소. 1937년 지도 기반 도해 윤곽. 인근 광산·주거지 제외.",
+          "source_id": "CAT-DE-SRC-0121",
+          "locator": "§3 그림 7 좌측",
+          "capacity_or_actual": "윤곽 확인, 면적 미계측"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": 2,
+          "facility": "Bitterfeld 제련소",
+          "metric_value_or_band": "1939-12-31 설비 35,000 tons",
+          "source_id": "CAT-DE-SRC-0112",
+          "locator": "Pamphlet 31-131, 인쇄 9쪽 표 2와 각주 1, PDF 143면",
+          "comparison_reason": "동일 연말·동일 업종·동일 출처의 공장별 추정치. 개전일 및 국제 등급 경계는 미확인."
+        },
+        {
+          "dimension": 2,
+          "facility": "Lippewerk, Lünen 제련소",
+          "metric_value_or_band": "1939-12-31 설비 25,000 tons",
+          "source_id": "CAT-DE-SRC-0112",
+          "locator": "Pamphlet 31-131, 인쇄 9쪽 표 2와 각주 1, PDF 143면",
+          "comparison_reason": "동일 연말·동일 업종·동일 출처의 공장별 추정치. 개전일 및 국제 등급 경계는 미확인."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "개전일 제련 설비, 면적, 작업 수용 능력과 철도 처리능력이 미확인이다. 제련 업종의 일부 비교값만 확보했다.",
+      "source_ids": [
+        "CAT-DE-SRC-0112",
+        "CAT-DE-SRC-0119",
+        "CAT-DE-SRC-0120",
+        "CAT-DE-SRC-0121"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "research_scope": "1939-09-01 기준 루르 광역 공업지대와 라우타베르크 개별 제련 시설. 설비능력·실적·지리 경계의 분리.",
+  "limitations": [
+    "대표 두 사례의 근접 시기 자료. 개전일 개별 설비 운용, 공업 면적·작업 수용·수송 능력 및 공통 정량 등급 경계 미확보.",
+    "연합국 추계와 독일 동시대 통계는 범위와 지표가 달라 정량 독립 재현에 이르지 못함. 라우타 제련 추정은 영국 조사 계열.",
+    "동종 비교 수치를 확인했으나 1~20 점수와 범위는 모두 null."
+  ],
+  "evidence_checked": [
+    "Statistisches Reichsamt 19. Jg. Nr. 14 표지·발행란·544–545쪽 원면",
+    "USSBS Steel 절, FRUS 포츠담 문서 400 §b, 미 육군 Pamphlet No. 31-131 9쪽 표 2 원면",
+    "KuLaDig BKM 31100089, brandenburgikon 발전소 연혁, Internet Archaeology 66 그림 7의 1937년 지도 패널"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEAusgabe_derivate_00001194/Wirtschaft_und_Statistik-1939-14.pdf",
+      "result": "PDF 내려받기 성공. 인쇄 544–545쪽 표·각주와 본문을 원면에서 확인."
+    },
+    {
+      "url": "https://www.intarch.ac.uk/journal/issue66/22/full-text.html#figure7",
+      "result": "논문 본문과 그림 7의 원본 JPEG를 열람해 1937년 지도 패널을 확인."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=16 pending=117; sources=123 questions=65. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; pinned HEAD snapshot."
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "CAT-IT-RQ-0001",
+    "status": "open",
+    "question": "회람 9000이 요구한 기동·병과 협동과 전시 이탈리아 사단의 실제 전투 편성은 어떻게 달랐는가?",
+    "related_ids": [
+      "CAT-IT-SRC-0001",
+      "CAT-IT-SRC-0002",
+      "CAT-IT-SRC-0003",
+      "CAT-IT-SRC-0004",
+      "CAT-IT-SRC-0005"
+    ],
+    "evidence": "회람은 후대 연구를 통해 확인했다. 폴고레의 엘알라메인 전투 보고는 목록만 확보했다.",
+    "completion_condition": "회람 원문과 군단·사단별 차량·포병 현황, 폴고레 전투 보고의 진지·화력·예비대 기록을 확보해 콤파스 및 1942년 사례를 비교한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0002",
+    "status": "open",
+    "question": "이탈리아 해군은 1940~1943년 북아프리카 선단에 직접 호위와 전함 원거리 엄호를 어떤 조건에서 배정했는가?",
+    "related_ids": [
+      "CAT-IT-SRC-0006",
+      "CAT-IT-SRC-0007",
+      "CAT-IT-SRC-0008",
+      "CAT-IT-SRC-0009",
+      "CAT-IT-SRC-0010"
+    ],
+    "evidence": "교리 연구 초록과 대표 교전을 대조했다. 선단별 배정 명령과 화물별 실제 도착량은 미확인이다.",
+    "completion_condition": "Supermarina의 명령·전투일지와 선단 출항·도착 원장에서 날짜·항로·직접 호위·원거리 엄호·항공엄호를 함께 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0003",
+    "status": "open",
+    "question": "왕립공군의 독립 폭격 구상과 지중해 공군·해군 협동은 실제 우선순위와 출격 편성에서 얼마나 달랐는가?",
+    "related_ids": [
+      "CAT-IT-SRC-0011",
+      "CAT-IT-SRC-0012",
+      "CAT-IT-SRC-0013",
+      "CAT-IT-SRC-0014",
+      "CAT-IT-SRC-0015"
+    ],
+    "evidence": "교리사와 영국 방면·지중해 대표 사례를 확인했다. 공군·해군의 당대 연락 기록과 항로별 호위·공격 배정은 미대조다.",
+    "completion_condition": "이탈리아 항공 교범과 공군 지휘부·Supermarina의 임무명령, 대함 항공대 일지를 동일 작전 기준으로 비교한다."
+  }
+]

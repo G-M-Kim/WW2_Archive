@@ -1,0 +1,3504 @@
+[
+  {
+    "id": "CAT-US-SRC-0001",
+    "title": "FM 100-5, Field Service Regulations, Operations",
+    "institution_or_author": "U.S. War Department",
+    "publication_date": "1941-05-22",
+    "source_type": "primary",
+    "document_or_accession_number": "FM 100-5",
+    "locator": "발행문과 제1장 §§13–16",
+    "url": "https://www.ibiblio.org/hyperwar/USA/ref/FM/FM100-5/index.html",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제병협동 전술의 원칙, 임무별 부대 편성, 사단의 기본 제병협동 편제 지위."
+    ],
+    "limitations": [
+      "1941년판 전사본이다. 1944년판의 변경 사항이나 개별 전장의 수행률을 뜻하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "us-fm100-5-1941"
+  },
+  {
+    "id": "CAT-US-SRC-0002",
+    "title": "The Organizational History of Field Artillery, 1775–2003",
+    "institution_or_author": "Janice E. McKenney / U.S. Army Center of Military History",
+    "publication_date": "2007",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 60-16",
+    "locator": "제2차 대전기 1942년 사격지휘소와 통신망에 관한 단락",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/60-16.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "포병 대대 사격지휘소의 조직과 전화·무선망을 통한 사격 집중."
+    ],
+    "limitations": [
+      "제도 발전사다. 전장별 요청 처리 시간이나 탄약 부족 빈도는 확인하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "mckenney-field-artillery"
+  },
+  {
+    "id": "CAT-US-SRC-0003",
+    "title": "The Battle of Kasserine Pass",
+    "institution_or_author": "Keith Huxen / The National WWII Museum",
+    "publication_date": "2018-02-05",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제2군단의 배치·부대 분할 및 재집결 단락",
+    "url": "https://www.nationalww2museum.org/war/articles/battle-kasserine-pass",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 카세린에서 초기 부대 분산, 정찰·협동 문제와 연합 증원·포병의 역할."
+    ],
+    "limitations": [
+      "전투 개관이다. 미군과 다른 연합군의 기여를 분리해 읽었다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "huxen-kasserine"
+  },
+  {
+    "id": "CAT-US-SRC-0004",
+    "title": "Mobility, Shock, and Firepower: The Emergence of the U.S. Army’s Armor Branch, 1917–1945",
+    "institution_or_author": "Robert S. Cameron / U.S. Army Center of Military History",
+    "publication_date": "2008",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH 30-23-1",
+    "locator": "제14장, 특히 인쇄 499쪽 Arracourt",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/M%20Pdf/CMH_30-23-1.pdf?ver=3eiLaQdPQeR08OqcG9Wa3Q%3D%3D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "아라쿠르의 제4기갑사단 지원 구축전차 부대와 안개 속 교전, 아르덴의 대전차 전력 집중 제약."
+    ],
+    "limitations": [
+      "일부 전과는 관찰보고서·전후 연구에 따른다. 격파 수치 대신 전술적 활용만 사용했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "cmh-armored-enablers"
+  },
+  {
+    "id": "CAT-US-SRC-0005",
+    "title": "United States Army in World War II Reader’s Guide",
+    "institution_or_author": "U.S. Army Center of Military History",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 11-9",
+    "locator": "인쇄 77쪽, The Lorraine Campaign",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/U%20Pdf/CMH_Pub_11-9.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "로렌 진입 시 추격으로 늘어난 보급선, 자원 배분과 독일군 방어의 작전 영향."
+    ],
+    "limitations": [
+      "공식 전사의 요약 안내다. 날짜별 차량·연료 실적을 확인한 자료는 아니다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "cmh-reader-guide-cole"
+  },
+  {
+    "id": "CAT-US-SRC-0006",
+    "title": "Operation Galvanic: The Battle for Tarawa, November 1943",
+    "institution_or_author": "U.S. Naval History and Heritage Command",
+    "publication_date": "2020",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "War Plan Orange 및 Strategy in the Pacific",
+    "url": "https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/Galvanic-booklet-508%20A.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "오렌지 계획의 단계적 태평양 진격, 무지개 5호 우선순위와 전시 진격의 연결."
+    ],
+    "limitations": [
+      "전쟁 전 계획과 전시의 다른 전구·작전 순서를 구분했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nhhc-galvanic"
+  },
+  {
+    "id": "CAT-US-SRC-0007",
+    "title": "Contested Logistics: Sustaining the Pacific War",
+    "institution_or_author": "Peter C. Luebke · Timothy L. Francis · Heather M. Haley / NHHC",
+    "publication_date": "2023",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1943~1944년 Service Squadrons 및 전진 정박지 단락",
+    "url": "https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/contested_logistics_508.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이동식 정비·보급 편대, Service Squadron 10, 정박지와 함대 지속 작전."
+    ],
+    "limitations": [
+      "지원함과 정박지의 발전사다. 모든 함대에 같은 보급 능력이 있었다는 의미는 아니다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nhhc-contested-logistics"
+  },
+  {
+    "id": "CAT-US-SRC-0008",
+    "title": "The Campaigns of the Pacific War",
+    "institution_or_author": "United States Strategic Bombing Survey, Naval Analysis Division",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "The Marianas Campaign, Battle of the Philippine Sea, 19–20 June 1944",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "사이판 지원, 미 함재 전투기의 방어와 항공 전투, 일본 항모에 대한 미 잠수함 공격."
+    ],
+    "limitations": [
+      "전투 직후 종합 보고다. 양측 손실 수와 격추 주장의 최신 대조 자료로 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-pacific-campaigns"
+  },
+  {
+    "id": "CAT-US-SRC-0009",
+    "title": "“Calmness, Courage, and Efficiency”: Remembering the Battle of Leyte Gulf",
+    "institution_or_author": "Martin R. Waldman / NHHC",
+    "publication_date": "2022",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "San Bernardino Strait와 Battle off Samar 관련 단락",
+    "url": "https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/battle_leyte_gulf_508.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제3함대의 북상, 산베르나르디노 해협과 사마르 앞 제7함대의 방어."
+    ],
+    "limitations": [
+      "전후 전사다. 지휘관 개인 책임은 명령 원문과 통신을 별도로 대조해야 한다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nhhc-leyte"
+  },
+  {
+    "id": "CAT-US-SRC-0010",
+    "title": "The United States Strategic Bombing Survey: Summary Report (Pacific War)",
+    "institution_or_author": "United States Strategic Bombing Survey",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "Destruction of the Japanese Merchant Fleet",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Summary.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 해상수송에 가한 잠수함·항공기·기뢰의 상호 보완적 압박, 유조선 손실과 함대 기동 제약."
+    ],
+    "limitations": [
+      "미국의 전후 직후 종합 보고다. 각 수단의 공로를 저자의 집계 조건 밖으로 확대하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-pacific-summary"
+  },
+  {
+    "id": "CAT-US-SRC-0011",
+    "title": "FM 100-20: Command and Employment of Air Power",
+    "institution_or_author": "U.S. War Department",
+    "publication_date": "1943-07-21",
+    "source_type": "primary",
+    "document_or_accession_number": "FM 100-20",
+    "locator": "제1절 기본 원칙 및 전술항공의 우선순위 단락",
+    "url": "https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2006/December%202006/1206keeperfull.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전구 항공력의 집중 통제와 제공권·차단·직접지원 순서."
+    ],
+    "limitations": [
+      "교범 공개 복제본이다. 모든 전장 지휘 관계가 규정대로 작동했다고 추정하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "us-fm100-20"
+  },
+  {
+    "id": "CAT-US-SRC-0012",
+    "title": "Plan for Combined Bomber Offensive From the United Kingdom",
+    "institution_or_author": "U.S. Joint Chiefs of Staff / Foreign Relations of the United States",
+    "publication_date": "1943-05-14",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1943, Washington and Quebec, Doc. 92",
+    "locator": "문서 본문과 표적·전력 계획",
+    "url": "https://history.state.gov/historicaldocuments/frus1943/d92",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 기반 연합 폭격 공세, 독일 항공 전력과 전쟁 수행 기반의 표적화."
+    ],
+    "limitations": [
+      "당대 계획이다. 계획의 예정 성과와 실제 피해를 구분했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "frus-combined-bomber-offensive"
+  },
+  {
+    "id": "CAT-US-SRC-0013",
+    "title": "The Army Air Forces in World War II, Vol. III",
+    "institution_or_author": "Wesley F. Craven · James L. Cate 편 / 미 육군항공군 공식 전사",
+    "publication_date": "1951",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제2장, 1944년 2월 ARGUMENT와 항공기 공장 공격",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/III/AAF-III-2.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 전투기 산업에 대한 연속 공습, 영미 협동, 피해와 산업 분산."
+    ],
+    "limitations": [
+      "공식 전사다. 공장 피해와 독일 전투기 생산 추세를 같은 지표로 취급하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "craven-cate-aaf-iii"
+  },
+  {
+    "id": "CAT-US-SRC-0014",
+    "title": "Air Superiority in World War II and Korea",
+    "institution_or_author": "Office of Air Force History",
+    "publication_date": "1983",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "유럽 전역의 슈바인푸르트와 장거리 호위 단락",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48300/pdf/GOVPUB-D301-PURL-LPS48300.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 호위 범위 밖 폭격 손실과 장거리 호위 전투기의 중요성."
+    ],
+    "limitations": [
+      "회고·전사 성격이 섞인 편찬물이다. 개별 전투의 손실은 수치화하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "usaf-air-superiority"
+  },
+  {
+    "id": "CAT-US-SRC-0015",
+    "title": "Introduction to the United States Air Force — Bombing Tokyo (9–10 March 1945)",
+    "institution_or_author": "B. Chance Saltzman · Thomas R. Searle / Air University Press",
+    "publication_date": "2001",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "도쿄 공습 사례, 저고도 야간 소이탄 운용",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS20457/pdf/GOVPUB-D301-PURL-LPS20457.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "마리아나 기반 B-29의 전술 변경과 도쿄 도시지역 피해."
+    ],
+    "limitations": [
+      "사례 연구다. 사망자 추정치와 일본 항복에 대한 단독 인과를 채택하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "au-bombing-tokyo"
+  },
+  {
+    "id": "CAT-US-SRC-0016",
+    "title": "The Strategic Air War Against Germany and Japan: A Memoir",
+    "institution_or_author": "Haywood S. Hansell, Jr. / Office of Air Force History",
+    "publication_date": "1986",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "제2장, Planned Air Offensive Against Germany (AWPD-1)",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/Hansell/Hansell-2.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "계획 작성 참여자의 회고에 나타난 전력 산정, 선별 산업 표적 및 침공 지원 구상."
+    ],
+    "limitations": [
+      "전후 작성자의 회고다. 1941년 계획서 원면과 저자의 해석을 구별했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "hansell-awpd-1"
+  },
+  {
+    "id": "CAT-US-SRC-0017",
+    "title": "M3A1 Stuart Tank",
+    "institution_or_author": "The National WWII Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "2009.411",
+    "locator": "M3A1 Stuart Tank, Production, Specifications",
+    "url": "https://www.nationalww2museum.org/visit/museum-campus/us-freedom-pavilion/vehicles-war/m3a1-stuart-tank",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "M3의 1941년 필리핀 운용과 M3A1의 1942년 5월 생산 개시를 구분한다. M3A1은 승무원 4명, 37 mm, 최대 36 mph, 28,500 lb로 표기한다."
+    ],
+    "limitations": [
+      "최대속도의 노면·하중·측정법과 중량 상태 미기재. 생산 합계의 집계 범위 불명."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nww2m-stuart"
+  },
+  {
+    "id": "CAT-US-SRC-0018",
+    "title": "M3A1 Stuart",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The Tank Museum’s M3 Hybrid, Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/m3a1-stuart?tpage=2",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "M3A1 표에서 37 mm M6, 4명, 36 mph, 12.9 tonnes를 확인했다. 전시 혼합 차량은 M3 차체·M3A1 포탑이다."
+    ],
+    "limitations": [
+      "형식 표와 전시 혼합 차량의 이력은 적용 대상이 다르다. 속도 시험 조건 미기재."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "tank-museum-stuart"
+  },
+  {
+    "id": "CAT-US-SRC-0019",
+    "title": "The Fall of the Philippines",
+    "institution_or_author": "Louis Morton / U.S. Army Center of Military History",
+    "publication_date": "1953년 초판, 1993년 재판",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 5-2-1",
+    "locator": "The Reinforcement of the Philippines, 인쇄 pp. 32–33 및 p. 33 주 12",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/5-2.pdf",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미 육군 제192·194전차대대에 M-3 경전차 합계 108대가 도착했다는 전후 공식 전사 서술."
+    ],
+    "limitations": [
+      "인용 전보·선적 문서 원본은 미열람. 세부 변형·일별 가동 대수 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-cmh-morton"
+  },
+  {
+    "id": "CAT-US-SRC-0020",
+    "title": "M4A3 Sherman (1942-1943)",
+    "institution_or_author": "Museum of the American G.I.",
+    "publication_date": "2024-05-20",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "WWII M4A3 Sherman",
+    "url": "https://americangimuseum.org/collections/restored-vehicles/m4a3-sherman-1942-1943/",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942–43년형 M4A3 표에서 Ford GAA V8, 승무원 5명, 75 mm, 30 mph (48 km/h)."
+    ],
+    "limitations": [
+      "속도의 지속 여부·노면·하중 미기재. 복원 차량 소개를 전시 실측이나 전체 M4A3 계열 값으로 확대할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "museum-american-gi-m4a3"
+  },
+  {
+    "id": "CAT-US-SRC-0021",
+    "title": "M4 Sherman Tank",
+    "institution_or_author": "The National WWII Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "2000.216",
+    "locator": "M4A3E9 Sherman Tank, Production, Specifications (M4A3)",
+    "url": "https://www.nationalww2museum.org/visit/museum-campus/us-freedom-pavilion/vehicles-war/m4-sherman-tank",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 Ford 생산 M4A3E9 전시품과 복원 표식의 이력. 제원표는 75 mm·승무원 5명·Ford GAA V8·평지 지속 26 mph를 기재한다."
+    ],
+    "limitations": [
+      "복원 표식은 다른 차량의 이력이다. 제원표 속도의 시험일·하중 미기재."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nww2m-sherman"
+  },
+  {
+    "id": "CAT-US-SRC-0022",
+    "title": "Parade of M-4 (General Sherman) and M-3 (General Grant) tanks in training maneuvers, Ft. Knox, Ky.",
+    "institution_or_author": "Alfred T. Palmer / U.S. Office of War Information / Library of Congress",
+    "publication_date": "1942-06",
+    "source_type": "primary",
+    "document_or_accession_number": "LC-USW36-325 [P&P], LC-DIG-fsac-1a35226, LCCN 2017878432",
+    "locator": "컬러 투명필름 디지털 복제판 1a35226",
+    "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35226v.jpg",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "컬러 판면에서 훈련 중인 전차 대열을 확인했다. 소장 캡션의 형식은 M-4와 M-3 중형전차다."
+    ],
+    "limitations": [
+      "사진 자체는 속도나 M4A3 세부 변형을 입증하지 않는다. 항목 페이지 직접 접근은 403으로, 사진 판면은 LoC 이미지 서버에서 열람했다."
+    ],
+    "rights": "LoC 소장 기록의 권리 표시는 알려진 출판 제한 없음. 사진 미전재.",
+    "independence_group": "owi-palmer-fort-knox"
+  },
+  {
+    "id": "CAT-US-SRC-0023",
+    "title": "Logistics in World War II: Final Report of the Army Service Forces",
+    "institution_or_author": "U.S. War Department General Staff, Service, Supply, and Procurement Division / U.S. Army Center of Military History",
+    "publication_date": "1948년 GPO판(도서관 서지), 1993년 영인판",
+    "source_type": "primary",
+    "document_or_accession_number": "CMH Pub 70-29",
+    "locator": "Combat Vehicles, 인쇄 p. 91. 원판 연도는 판권면과 영인판 서문 참고.",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/70-29.pdf",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전후 업무보고는 1942년 M4의 보급 확대와 1945년 봄 Pershing의 유럽 실전 및 90 mm 무장을 기록한다."
+    ],
+    "limitations": [
+      "업무보고의 회고이며 차량별 시험성적서가 아니다. 46 tons의 단위계·하중 미기재. 영인판 서문은 원 출판연도를 1947년으로 기재해 판권면 서지의 1948년과 다르다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "war-department-asf-final-report"
+  },
+  {
+    "id": "CAT-US-SRC-0024",
+    "title": "The Ordnance Department: Planning Munitions for War",
+    "institution_or_author": "Constance McLaughlin Green, Harry C. Thomson, Peter C. Roots / U.S. Army Center of Military History",
+    "publication_date": "1955년 초판, 1990년 재판",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 10-9",
+    "locator": "Wartime Organization in Research and Development, 인쇄 p. 238 및 주 62",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/10-9.pdf",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "T26E3 20대 해외 파견 승인, 제3·9기갑사단의 초기 실전, 90 mm M3, 1945년 3월 M26 표준화를 기록한다."
+    ],
+    "limitations": [
+      "승인 수량과 전쟁 전체 배치 합계는 집계 범위가 다르다. 주 62의 일지와 군수국 원문 미열람."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-cmh-ordnance"
+  },
+  {
+    "id": "CAT-US-SRC-0025",
+    "title": "The Pershing M26 (T26 E3)",
+    "institution_or_author": "Yank, The Army Weekly / U.S. Army",
+    "publication_date": "1945-06-22",
+    "source_type": "primary",
+    "document_or_accession_number": "Vol. 4, No. 1",
+    "locator": "동명 기사 본문 및 사진 설명",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USArmy/Yank%20Magazine/Yank%20Vol.%204%20no.%2001%201945-06-22.pdf",
+    "accessed_at": "2026-11-13T19:03:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 군 간행물은 90 mm, 25 mph, 85,700 lb를 보도했다."
+    ],
+    "limitations": [
+      "군 간행물 소개 기사로 노면·하중·측정법 불명. 초도 실전 월과 중량 표기는 다른 군 기록과 대조 필요. PDF 텍스트 열람, 판면 캡처는 크기 제한."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-yank-weekly"
+  },
+  {
+    "id": "CAT-US-SRC-0026",
+    "title": "Catalogue of Standard Ordnance Items, Second Edition, Volume I",
+    "institution_or_author": "U.S. War Department, Office of the Chief of Ordnance, Technical Division",
+    "publication_date": "1944년 제2판, 1945년 교체면 포함",
+    "source_type": "primary",
+    "document_or_accession_number": "Vol. I, Tank and Automotive",
+    "locator": "인쇄 pp. 39–40(M18), 55–56(M8), 65–67(M3·M3A1)",
+    "url": "https://www.90thidpg.us/Reference/Manuals/Standard%20Ordnance%20Items%20Catalog%2C%201944%2C%20Vol%201.pdf",
+    "accessed_at": "2026-11-13T20:53:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "세 형식의 제식 분류, 표준 무장과 정원, 총중량 및 평지 속도 조건을 확인했다."
+    ],
+    "limitations": [
+      "전시 표준 목록으로 시험일·노면 상태·차량별 실측 이력은 미확인이다. 민간 사이트가 소장본을 스캔했다."
+    ],
+    "rights": "미 전쟁부 발행 공개 자료의 디지털 복제본. 자체 요약·링크만 사용.",
+    "independence_group": "us-chief-of-ordnance-1944-catalogue"
+  },
+  {
+    "id": "CAT-US-SRC-0027",
+    "title": "White M3 Half-Track",
+    "institution_or_author": "The National WWII Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "2000.332",
+    "locator": "소장품 본문, Production, Specifications",
+    "url": "https://www.nationalww2museum.org/visit/museum-campus/us-freedom-pavilion/vehicles-war/white-m3-half-track",
+    "accessed_at": "2026-11-13T20:53:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "병력 수송 역할과 소장품 표의 .50 구경 기관총, 최고 45 mph, 총중량 17,650 lb를 확인했다."
+    ],
+    "limitations": [
+      "개별 차량의 전시 개장·계량 상태와 속도 조건, 생산 수치의 형식별 분모는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nww2m-halftrack"
+  },
+  {
+    "id": "CAT-US-SRC-0028",
+    "title": "The Ordnance Department: Procurement and Supply",
+    "institution_or_author": "Harry C. Thomson, Lida Mayo / U.S. Army Center of Military History",
+    "publication_date": "1960년 초판, 1991년 재판",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 10-10",
+    "locator": "Motor Transport Vehicles, Half-Tracks, 인쇄 pp. 292–293",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/10-10.pdf",
+    "accessed_at": "2026-11-13T20:53:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시는 반궤도차를 조달상 cars와 carriers로 구분했다. 22,837대는 여러 carrier 형식과 제조사의 합계다."
+    ],
+    "limitations": [
+      "개별 M3 형식의 제조사·월별 인수량은 이 합계에 분리 기재되지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-cmh-ordnance-procurement"
+  },
+  {
+    "id": "CAT-US-SRC-0029",
+    "title": "Exhibits",
+    "institution_or_author": "Museum of American Armor",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "M8 Armored Car 및 M18 Hellcat 전시 항목",
+    "url": "https://www.museumofamericanarmor.com/exhibits",
+    "accessed_at": "2026-11-13T20:53:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "M8의 6륜 구동·Hercules JXD·최고 55 mph와 M18의 5명·76 mm·55 mph 표기를 확인했다."
+    ],
+    "limitations": [
+      "노면·하중·지속 여부와 제원 원전은 미기재라 전시 장비 목록과 독립된 시험으로 볼 근거가 부족하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "museum-of-american-armor-exhibits"
+  },
+  {
+    "id": "CAT-US-SRC-0030",
+    "title": "M8 Greyhound armoured car and crew, 1944 (c)",
+    "institution_or_author": "National Army Museum, London",
+    "publication_date": "1944년경(촬영 추정), 소장 설명 작성일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "NAM 1965-08-74-8",
+    "locator": "사진 소장 설명, NAM Accession Number, Copyright/Ownership",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1965-08-74-8",
+    "accessed_at": "2026-11-13T20:53:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미국제 M8이 동아프리카 기갑군단 소속이었다는 사진 소장 설명을 확인했다. 소장 설명은 37 mm와 4명을 기재한다."
+    ],
+    "limitations": [
+      "사진 판면을 직접 열람하지 못했다. 정확한 장소·촬영일·공여 경로와 실전 여부는 이 기록으로 확정할 수 없다."
+    ],
+    "rights": "사진 권리는 소장처 표기 Out of Copyright. 사진 미전재.",
+    "independence_group": "nam-1965-08-74-8"
+  },
+  {
+    "id": "CAT-US-SRC-0031",
+    "title": "M18 Hellcat (1943-1944)",
+    "institution_or_author": "Museum of the American G.I.",
+    "publication_date": "2024-05-20",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "WWII M18 Hellcat 및 Did you know?",
+    "url": "https://americangimuseum.org/collections/restored-vehicles/m18-hellcat-1943-1944/",
+    "accessed_at": "2026-11-13T20:53:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시품 설명에서 76 mm M1A2, 승무원 5명, 속도 60 mph(병기 92 km/h) 및 1944년 유럽 운용 사례를 확인했다."
+    ],
+    "limitations": [
+      "60 mph는 약 96.6 km/h로 병기된 값과 불일치한다. 시험 조건·초도 실전 주장의 부대 원문 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "museum-american-gi-m18"
+  },
+  {
+    "id": "CAT-US-SRC-0032",
+    "title": "The Lorraine Campaign",
+    "institution_or_author": "Hugh M. Cole / U.S. Army Center of Military History",
+    "publication_date": "1950년 초판, 1993년 재판",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 7-6-1",
+    "locator": "The Arracourt Tank Battle, 19–22 September, 인쇄 pp. 223–224 및 주 23",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/L%20Pdf/CMH_Pub_7-6-1.pdf?ver=eQS9OjL5p7SMXu-7vccAZg%3D%3D",
+    "accessed_at": "2026-11-13T20:53:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 9월 19일 아라쿠르 일대 미 제704구축전차대대 참전 및 18~19일 밤 C중대 배속을 확인했다."
+    ],
+    "limitations": [
+      "해당 본문은 대대와 차량 분류를 확인해 주지만 세부 장비 형식이나 복원 표본의 소속을 명시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-cmh-lorraine"
+  },
+  {
+    "id": "CAT-US-SRC-0033",
+    "title": "United States Naval Vessels",
+    "institution_or_author": "U.S. Navy, Division of Naval Intelligence",
+    "publication_date": "1945-09-01",
+    "source_type": "primary",
+    "document_or_accession_number": "ONI 222-US",
+    "locator": "서문, 인쇄 p. 1 Iowa Class, p. 29 Essex Class, p. 113 Gato Class",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/ONI%20Recognition%20Manuals%20and%20other%20material/ONI%20222-US.United%20States.Naval.Vessels.pdf",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "함급별 기준·전시 평균·잠항 배수량, 속력 조건과 대표 무장 구성을 확인했다. 각 함의 함번을 함급 표에서 확인했다."
+    ],
+    "limitations": [
+      "종전 직전 함급 참고서다. 특정 함의 특정 날짜 만재 상태, 시험 실측, 개장 후 실물 확인을 대신하지 않는다."
+    ],
+    "rights": "미 해군 공개 발행 문서의 디지털 복제본. 자체 요약과 링크만 사용.",
+    "independence_group": "usn-oni-222-us-1945"
+  },
+  {
+    "id": "CAT-US-SRC-0034",
+    "title": "USS Essex IV (CV-9), Dictionary of American Naval Fighting Ships",
+    "institution_or_author": "U.S. Navy, Office of the Chief of Naval Operations, Naval History Division",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "DANFS, Essex IV (CV-9)",
+    "locator": "제원 첫 줄, 진수·취역 및 1944년 10~11월 단락",
+    "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CV/cv9.html",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "개별함의 1942-07-31 진수와 1942-12-31 취역, 1944년 레이테 및 11월 피격과 제원표 33 kn를 확인했다."
+    ],
+    "limitations": [
+      "HyperWar 전재본이다. 제원표의 속력 시험 조건과 배수량 기준이 해당 줄에서 명시되지 않는다. 미 해군 웹판은 직접 열람 실패."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "usn-danfs-essex"
+  },
+  {
+    "id": "CAT-US-SRC-0035",
+    "title": "Pictorial: Essex: More than a Ship, More than a Class",
+    "institution_or_author": "Richard F. Cross III / U.S. Naval Institute",
+    "publication_date": "1975-09",
+    "source_type": "secondary",
+    "document_or_accession_number": "Proceedings Vol. 101/9/871",
+    "locator": "최종 CV-9 설계 및 1940년 배수량 단락",
+    "url": "https://www.usni.org/magazines/proceedings/1975/september/pictorial-essex-more-ship-more-class",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "설계 기준 27,100 tons, 예상 시운전 33,900 tons, 설계 함포 5인치 12문과 Essex 취역일을 확인했다."
+    ],
+    "limitations": [
+      "미교정 OCR 본문을 열람했다. 예상 시운전 배수량은 개별함의 계측치가 아니다. 원자료 공유 여부는 확인되지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "usni-cross-essex"
+  },
+  {
+    "id": "CAT-US-SRC-0036",
+    "title": "“On the Verge of Breaking Down Completely”: Surviving the Kamikaze off Okinawa, 1945",
+    "institution_or_author": "Guy J. Nasuti / Naval History and Heritage Command",
+    "publication_date": "2023",
+    "source_type": "secondary",
+    "document_or_accession_number": "ISBN 978-1-943604-84-5 (digital)",
+    "locator": "표지 NH 62696, 인쇄 p. 4 사진 80-G-270738 및 UA 478.12",
+    "url": "https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/verge_breaking_down_508_080323.pdf",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Essex의 1944-11-25 루손 앞바다 피격 일자와 Missouri의 1945년 4월 오키나와 앞바다 운용을 사진 캡션과 대조했다."
+    ],
+    "limitations": [
+      "후대 연구서의 전시 사진 재수록판이다. 사진 캡션의 함명·날짜를 사용했고 함포 수량과 세부 수리 공정은 이 자료로 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nhhc-nasuti-2023"
+  },
+  {
+    "id": "CAT-US-SRC-0037",
+    "title": "USS Missouri (BB-63) and the Iowa Class Battleship",
+    "institution_or_author": "Battleship Missouri Memorial",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "BB-63",
+    "locator": "동명 본문 첫 두 단락",
+    "url": "https://ussmissouri.org/history/the-ship",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "개별함의 아이오와급 분류, 뉴욕 브루클린 해군 조선소 건조와 33 kn 초과 속력 표기를 확인했다."
+    ],
+    "limitations": [
+      "기념관의 속력 설명에 시험 일자, 배수 상태와 측정 조건이 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "missouri-memorial"
+  },
+  {
+    "id": "CAT-US-SRC-0038",
+    "title": "Ship Characteristics",
+    "institution_or_author": "Battleship Missouri Memorial",
+    "publication_date": "웹 게시일 미상, 인용 자료 1992-03-31",
+    "source_type": "secondary",
+    "document_or_accession_number": "BB-63 Second Decommissioning program",
+    "locator": "Ship Characteristics 표의 Launched, Commissioned, Displacement 및 제원 출전",
+    "url": "https://ussmissouri.org/kr/history/the-ship/ship-characteristics",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "진수 1944-01-29와 취역 1944-06-11이 별도다. 1992년 자료의 배수량은 loaded 58,000과 unloaded 45,000 tons로 표기한다."
+    ],
+    "limitations": [
+      "1992년 퇴역 프로그램 인용이다. 배수량 표기의 적용 시점과 적재 정의가 불명이며, 전시 평균 또는 1945년 만재로 귀속할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "missouri-memorial"
+  },
+  {
+    "id": "CAT-US-SRC-0039",
+    "title": "Instrument of Surrender",
+    "institution_or_author": "일본·연합국 서명 대표 / U.S. National Archives",
+    "publication_date": "1945-09-02",
+    "source_type": "primary",
+    "document_or_accession_number": "NARA 1752336, RG 218",
+    "locator": "문서 1쪽 판면, 서명란 전사문 및 NARA 소장 설명",
+    "url": "https://www.archives.gov/milestone-documents/surrender-of-japan",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "서명 문서의 날짜와 도쿄만 표기를 확인했다. USS Missouri는 NARA 소장 설명에서 장소로 확인했다."
+    ],
+    "limitations": [
+      "문서 판면과 소장 설명이 제공하는 정보가 다르다. 함정 성능의 자료로 사용하지 않았다."
+    ],
+    "rights": "미 국립문서기록관리청 공개 열람 자료. 판면은 재수록하지 않았다.",
+    "independence_group": "nara-rg218-surrender"
+  },
+  {
+    "id": "CAT-US-SRC-0040",
+    "title": "Submarine Photo Index: Gato (SS-212)",
+    "institution_or_author": "NavSource Naval History",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "SS-212, USN 19-N-75563 및 19-N-75565",
+    "locator": "건조·진수·취역 이력, Specifications, 1944-11-29 사진 설명",
+    "url": "https://navsource.net/archives/08/08212a.htm",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941-12-31 취역, 개별함의 수상 20.25 kn·잠항 8.75 kn 표기 및 1944년 11월 4인치 갑판포의 사진 설명을 확인했다."
+    ],
+    "limitations": [
+      "제원 수치의 시험 조건 미기재. 사진 소장처 원본과 개장 명세서는 미열람. 사진 설명은 해당 일자의 표본 근거다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "navsource-gato"
+  },
+  {
+    "id": "CAT-US-SRC-0041",
+    "title": "Do You Believe It? Part I",
+    "institution_or_author": "Submarine Force Library & Museum Association",
+    "publication_date": "2014-06-09",
+    "source_type": "secondary",
+    "document_or_accession_number": "USS Gato seventh war patrol, 발췌",
+    "locator": "제7차 순찰의 출항·복귀 서술 및 순찰보고 인용",
+    "url": "https://ussnautilus.org/do-you-believe-it-part-i/",
+    "accessed_at": "2026-11-13T23:00:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제7차 순찰의 1943-11-18 브리즈번 출항 및 1944-01-10 밀른만 지원함 Fulton 접안을 확인했다."
+    ],
+    "limitations": [
+      "박물관의 순찰보고 부분 인용과 해설이다. 보고서 전문, 격침 수치 및 함포 변경일은 검증하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "submarine-force-library-museum-gato"
+  },
+  {
+    "id": "CAT-US-SRC-0042",
+    "title": "P-51D 15342 Performance Test",
+    "institution_or_author": "미 육군항공군 Air Technical Service Command, Engineering Division, Wright Field",
+    "publication_date": "1945-06-15",
+    "source_type": "primary",
+    "document_or_accession_number": "Memo Report TSCEP5E-1908, AAF 44-15342",
+    "locator": "§ I Introduction, § II Summary, § III Condition of Airplane Relative to Test",
+    "url": "https://www.wwiiaircraftperformance.com/org/p-51/p51d-15342.html",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "P-51D-15NA 44-15342의 시험 형식과 조건, 고도 26,000 ft에서 442 mph로 기록된 최고속도."
+    ],
+    "limitations": [
+      "전시 시험보고서의 웹 전사본을 열람했다. 시험기 1대의 값이며 원본 판면과의 대조는 미완료다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-aaf-wright-field-tscep5e-1908"
+  },
+  {
+    "id": "CAT-US-SRC-0043",
+    "title": "Major Changes in Undergraduate Pilot Training, 1939–2002",
+    "institution_or_author": "미 공군 Air Education and Training Command History Office",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "AETC PDF AFD-070130-081",
+    "locator": "Aircraft Index의 Boeing B-17 Flying Fortress 및 North American P-51 Mustang, Specifications 및 Performance",
+    "url": "https://www.aetc.af.mil/Portals/88/Documents/history/AFD-070130-081.pdf%3Fver%3D2016-01-12-160015-923",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "P-51 계열 도입과 전시 운용, P-51D 및 B-17G의 엔진·기관총·최고속도 요약."
+    ],
+    "limitations": [
+      "후대 형식 제원표. 속도 시험 조건과 인용 원자료를 표시하지 않는다. 게시일 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-aetc-history-office-pilot-training"
+  },
+  {
+    "id": "CAT-US-SRC-0044",
+    "title": "Army Air Forces Statistical Digest: World War II",
+    "institution_or_author": "미 육군항공군 Office of Statistical Control",
+    "publication_date": "1945-12",
+    "source_type": "primary",
+    "document_or_accession_number": "AAF Statistical Digest, Table 76",
+    "locator": "인쇄 p. 118부터 이어지는 Table 76, B-17·P-51·DC-3 type 행의 Jun 1940–Aug 1945 합계 열; Table 75, Ford: Willow Run, Mich. / Army – B-24",
+    "url": "https://www.dafhistory.af.mil/Portals/16/documents/Timelines/USAF%20Statistical%20Digest/AFD-090608-042.pdf?ver=2016-09-02-113904-720",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "육군 관할 공장 인수 합계 B-17 12,692대, P-51 14,501대, DC-3 type 10,323대.",
+      "2026-11-14 재열람. Table 75의 Ford Willow Run 공장 인수량은 1942년 24대, 1943년 1,291대, 1944년 3,991대, 1945년 1–8월 1,486대, 합계 6,792대다."
+    ],
+    "limitations": [
+      "표의 집계 단위와 기간에 한정된다. 세부 형식 생산량, 해군 관할 인수량, 배치 규모는 별도 확인이 필요하다.",
+      "Table 75 인수량과 조립 세트 출하량은 집계 대상이 다르다. 미 육군항공군 전사는 완성기 인도를 6,791대로 기록한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-aaf-office-statistical-control-digest"
+  },
+  {
+    "id": "CAT-US-SRC-0045",
+    "title": "P-51 Mustang fighter planes in flight on way to Iwo Jima, Japan, 1945",
+    "institution_or_author": "미군 공식 사진, The National WWII Museum 디지털 소장품",
+    "publication_date": "1945",
+    "source_type": "primary",
+    "document_or_accession_number": "2012.019.243, 원 캡션 6663-C",
+    "locator": "소장품 사진 및 Description에 전사된 원 캡션",
+    "url": "https://www.ww2online.org/image/p-51-mustang-fighter-planes-flight-way-iwo-jima-japan-1945",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "원 캡션의 P-51 편대와 이오지마행 비행 표기."
+    ],
+    "limitations": [
+      "원 캡션에 세부 형식과 개별기 번호가 없으며 사진만으로 호위 임무를 특정할 수 없다."
+    ],
+    "rights": "박물관 소장 사진. 공개 사진 및 원 캡션 열람, 이미지 재게시 없음.",
+    "independence_group": "us-wartime-photograph-6663-c"
+  },
+  {
+    "id": "CAT-US-SRC-0046",
+    "title": "Shoo Shoo Baby 복원 기념 자료",
+    "institution_or_author": "USAF Museum, Air Force Enlisted Heritage Research Institute 소장",
+    "publication_date": "1988-10-15",
+    "source_type": "secondary",
+    "document_or_accession_number": "AFEHRI File 19-2",
+    "locator": "1988-10-15 행사 자료, B-17G Specifications 및 History of “Shoo Shoo Baby”",
+    "url": "https://www.airuniversity.af.edu/Portals/10/AFEHRI/documents/RanksInsignia/eh19_2.pdf",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "B-17G-35-BO 42-32076의 부대·첫 실전·스웨덴 착륙과 B-17G 제원."
+    ],
+    "limitations": [
+      "복원 기념 자료이며 원 출격일지 미확인. 305 mph 옆 563 km/h는 환산이 맞지 않아 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "usaf-museum-shoo-shoo-baby-1988"
+  },
+  {
+    "id": "CAT-US-SRC-0047",
+    "title": "C-47A Skytrain",
+    "institution_or_author": "Air Mobility Command Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "전시기 42-92841",
+    "locator": "Specifications 및 Assignment History의 1944-04-21, 06-06, 06-29, 08-26 행",
+    "url": "https://www.amcmuseum.org/at-the-museum/aircraft/c-47a-skytrain/",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "42-92841의 부대, 전시 수송·부상병 후송·식량 수송, 박물관 제원표의 속도·적재량."
+    ],
+    "limitations": [
+      "전시 이력에는 W. E. Wood 일지 발췌가 포함된다. 일지 전체와 제원 시험보고서는 미열람."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "amcm-c47-42-92841-wood"
+  },
+  {
+    "id": "CAT-US-SRC-0048",
+    "title": "D-Day Jump Manifest Document",
+    "institution_or_author": "Air Mobility Command Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "1990-3242-0074-0015 (원 명부 1944-06-05)",
+    "locator": "Object Description 및 History",
+    "url": "https://www.amcmuseum.org/collections/d-day-jump-manifest-document/",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "박물관 목록에 있는 명부의 날짜·기체 번호와 Wood 소개문이 제시한 임무 날짜."
+    ],
+    "limitations": [
+      "원 명부의 판면은 확인하지 못했다. 같은 소장 기관과 기증자 계통이므로 독립 확증으로 세지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "amcm-c47-42-92841-wood"
+  },
+  {
+    "id": "CAT-US-SRC-0049",
+    "title": "The National WWII Museum 2022–2023 Flagship Museum 안내 책자",
+    "institution_or_author": "The National WWII Museum",
+    "publication_date": "2022",
+    "source_type": "secondary",
+    "document_or_accession_number": "전시기 2006.181, 군 일련번호 42-93096",
+    "locator": "인쇄 p. 19, C-47 Skytrain",
+    "url": "https://www.nationalww2museum.org/sites/default/files/2022-06/2022_2023%20Flagship_Museum_061322.pdf",
+    "accessed_at": "2026-11-14T00:57:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "42-93096의 1944-04-08 인도, 제9공군 배속, 노르망디 인원 수송과 바스토뉴 보급."
+    ],
+    "limitations": [
+      "박물관의 별도 기체 이력. 42-92841의 날짜나 개별 임무를 확인하는 자료로 쓰지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nwwiim-42-93096-collection-history"
+  },
+  {
+    "id": "CAT-US-SRC-0050",
+    "title": "Springfield Armory: The Best Battle Implement Ever Devised",
+    "institution_or_author": "미 국립공원관리청(NPS), Springfield Armory National Historic Site",
+    "publication_date": "2017-08-04",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "M1 Garand Rifle 및 John Garand 단락, 페이지 갱신일",
+    "url": "https://www.nps.gov/articles/springfieldarmoryww2.htm",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 육군 채택·생산 개시, 반자동 방식과 제식 소총의 중량 표기, 조병창 생산 약 310만 정."
+    ],
+    "limitations": [
+      "웹 해설은 전시 생산량의 장부와 집계 시작·종료일, 중량의 계측 상태를 명시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-springfield-armory-garand-history"
+  },
+  {
+    "id": "CAT-US-SRC-0051",
+    "title": "M1 Rifle variations and experimental models",
+    "institution_or_author": "미 국립공원관리청(NPS), Springfield Armory National Historic Site",
+    "publication_date": "2021-06-16",
+    "source_type": "secondary",
+    "document_or_accession_number": "SPAR3435, SPAR4057, SPAR1807, SPAR3190",
+    "locator": "M1 일련번호 87 및 T1E1·SR M1·M1E5의 실물 사진과 소장 설명, 페이지 갱신일",
+    "url": "https://www.nps.gov/spar/learn/historyculture/m1-variations.htm",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1931년 T1E1 시제품, 1937년 M1 일련번호 87의 시험 통과, 1944년 M1E5 시험 및 M1 카빈과의 구분."
+    ],
+    "limitations": [
+      "실물 사진과 박물관 기술을 확인했다. 원 시험 성적표와 배치 문서는 열람하지 않았다."
+    ],
+    "rights": "기관 소장 사진을 공개 열람했다. 사진과 설명문 전문은 재게시하지 않았다.",
+    "independence_group": "nps-springfield-armory-object-catalogue"
+  },
+  {
+    "id": "CAT-US-SRC-0052",
+    "title": "Soldiers carrying M1 Garands patrol a jungle trail near Talasea, New Britain in September 1944",
+    "institution_or_author": "미 육군 통신대, The National WWII Museum 디지털 컬렉션 소장",
+    "publication_date": "1944-09",
+    "source_type": "primary",
+    "document_or_accession_number": "2008.354.262",
+    "locator": "디지털 사진, Description의 전시 캡션 및 박물관 형식 식별",
+    "url": "https://www.ww2online.org/image/soldiers-carrying-m1-garands-patrol-jungle-trail-near-talasea-new-britain-september-1944",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 9월 뉴브리튼 탈라세아 인근 순찰 사진. 박물관이 M1 소총과 M1 카빈을 함께 식별한다."
+    ],
+    "limitations": [
+      "원 캡션은 장소와 순찰을 뒷받침한다. 형식 판정은 박물관 설명에 의존하며 보급률과 일련번호는 확인할 수 없다."
+    ],
+    "rights": "기관 소장 사진을 공개 열람했다. 사진과 설명문 전문은 재게시하지 않았다.",
+    "independence_group": "us-army-signal-corps-talasea-2008-354-262"
+  },
+  {
+    "id": "CAT-US-SRC-0053",
+    "title": "A Veritable Arsenal: Museum Collection Management at Springfield Armory National Historic Site",
+    "institution_or_author": "Alexander MacKenzie, 미 국립공원관리청(NPS) 공개 전사",
+    "publication_date": "2019-06",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "2019년 6월 4~6일 발표 전사, 1936년 채택과 조병창 약 350만 정 단락",
+    "url": "https://www.nps.gov/articles/000/museum-collection-management-at-springfield-armory-national-historic-site.htm",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 제식 채택 및 Springfield Armory 자체의 대전 중 생산량을 약 350만 정으로 서술."
+    ],
+    "limitations": [
+      "발표 전사에는 해당 수치의 공장 원표가 없다. NPS의 다른 설명과 독립 검증으로 취급하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-springfield-armory-garand-history"
+  },
+  {
+    "id": "CAT-US-SRC-0054",
+    "title": "U.S. M1 Garand Rifle Production",
+    "institution_or_author": "미 국립공원관리청(NPS), Scott A. Duff의 일련번호 표 인용",
+    "publication_date": "2022-03-16",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "서문, Springfield Armory 1945년 행, Winchester 1942~1945년 행, 페이지 갱신일",
+    "url": "https://www.nps.gov/spar/learn/historyculture/u-s-m1-garand-rifle-production.htm",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제조사별 근사 월말 일련번호이며 Springfield의 1945년 7~10월 행은 3,888,081."
+    ],
+    "limitations": [
+      "번호 배정의 불연속과 제조사별 대역이 보인다. 일련번호를 제조·납품 총수로 환산하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "scott-duff-m1-garand-wwii-serials"
+  },
+  {
+    "id": "CAT-US-SRC-0055",
+    "title": "Band of Brothers at 25: A Guide to 101st Airborne Division Artifacts at the Museum",
+    "institution_or_author": "The National WWII Museum",
+    "publication_date": "2026-07-23",
+    "source_type": "secondary",
+    "document_or_accession_number": "2003.352.001",
+    "locator": "M1 Helmet and Liner of Private First Class Edward Sabo, 유물 사진·설명",
+    "url": "https://www.nationalww2museum.org/war/articles/band-brothers-25-guide-101st-airborne-division-artifacts-museum",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "외피와 내피의 전시 사진 및 제101공수사단 제506낙하산보병연대 E중대 에드워드 사보 소장품 귀속."
+    ],
+    "limitations": [
+      "사진과 목록 설명을 확인했다. 제조사·제조일·방호 시험 자료와 특정 전투 당시 착용 기록은 제시되지 않는다."
+    ],
+    "rights": "기관 소장 사진을 공개 열람했다. 사진과 설명문 전문은 재게시하지 않았다.",
+    "independence_group": "nwwiim-sabo-2003-352-001"
+  },
+  {
+    "id": "CAT-US-SRC-0056",
+    "title": "The Quartermaster Corps: Organization, Supply, and Services, Volume I",
+    "institution_or_author": "Erna Risch, 미 육군 군사사센터(CMH)",
+    "publication_date": "1953",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 10-12-1, 열람 1995년 기념판",
+    "locator": "인쇄 pp. 103–106, The Development of Army Clothing의 신발 개발 및 각주 69",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/10-12.pdf",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Type III 근무화 납품, 전투화 시험·표준화·정규 지급용 생산, 높이 비교, 전투화 사진."
+    ],
+    "limitations": [
+      "군수사의 당시 회의록·서신 인용을 확인했다. 원문 철과 부대별 수령 장부는 미열람."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-quartermaster-risch"
+  },
+  {
+    "id": "CAT-US-SRC-0057",
+    "title": "Cold Injury, Ground Type, in World War II",
+    "institution_or_author": "Tom F. Whayne 및 Michael E. DeBakey, 미 육군 군의감실",
+    "publication_date": "1958",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제7장 European Theater of Operations, Boots and shoes, 인쇄 pp. 150–152 및 각주 28",
+    "url": "https://achh.army.mil/history/book-wwii-coldinjury-chapter07/",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944~45년 유럽 전장에서 전투화·근무화가 병용됐고 방수·맞음새에 한계가 있었다."
+    ],
+    "limitations": [
+      "전후 군의사 분석과 인용 문헌을 확인했다. 전선별 지급률이나 실험실 성능을 나타내는 자료는 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-medical-history-eto-footgear"
+  },
+  {
+    "id": "CAT-US-SRC-0058",
+    "title": "The Army and Economic Mobilization",
+    "institution_or_author": "R. Elberton Smith, 미 육군 군사사센터(CMH)",
+    "publication_date": "1959",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 1-7, 열람 1991년 판",
+    "locator": "인쇄 p. 14부터 이어지는 표 5, Footwear와 Boots, service, combat & boots, jumper, parachutist 행",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/A%20Titles%20PDF/CMH_Pub_1-7.pdf?ver=_rGcIb3o0JkRrBeYfrZLmA%3D%3D",
+    "accessed_at": "2026-11-14T02:55:32+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 7월~1945년 8월 병참부 조달 인수표의 두 부츠 항목 합계 28,104천 켤레."
+    ],
+    "limitations": [
+      "전투화와 낙하산병용 부츠가 합산됐다. 품목별 생산량 및 전선 수령량은 이 합계에서 구할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-economic-mobilization-table-5"
+  },
+  {
+    "id": "CAT-US-SRC-0059",
+    "title": "Report of Action of Yorktown and Yorktown Air Group on May 8, 1942",
+    "institution_or_author": "미 해군 USS Yorktown (CV-5)",
+    "publication_date": "1942-05-25",
+    "source_type": "primary",
+    "document_or_accession_number": "보고서 표제 (007)",
+    "locator": "1942-05-08 시각표 1131·1222 및 함내 Radio and Radar 보고 §2",
+    "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/CV/CV5-Coral.html",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "산호해 해전의 함상 CXAM 장착·기능 정지·복구 기록."
+    ],
+    "limitations": [
+      "HyperWar 웹 전사로 열람. 함 자체 기록이며 시간표는 문서의 함내 시각을 따른다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uss-yorktown-action-report-1942-05-25"
+  },
+  {
+    "id": "CAT-US-SRC-0060",
+    "title": "Action in Coral Sea Area on May 8, 1942, report of",
+    "institution_or_author": "미 해군 제2구축함전대 지휘관(제17.5.4임무부대)",
+    "publication_date": "1942-05-18",
+    "source_type": "primary",
+    "document_or_accession_number": "A16/FF12-4(2), Serial 080",
+    "locator": "보고 §3, 문서 인쇄 p. 2의 시각표 G.C.T. 0103 / I.C.T. 1203 행",
+    "url": "https://ibiblio.org/hyperwar/USN/CoralSeaAAR/CoralSeaAAR11.pdf",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "별도 호위부대가 요크타운 레이더 정지 통보를 수신한 기록."
+    ],
+    "limitations": [
+      "독립적으로 작성된 수신 기록이다. 장비 자체의 정지 시작이나 복구 시각을 측정한 기록은 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-destroyer-squadron-two-action-report-1942-05-18"
+  },
+  {
+    "id": "CAT-US-SRC-0061",
+    "title": "Weapons & Sensors — Radar — U.S. Navy CXAM Radar",
+    "institution_or_author": "미 해군 Naval Historical Center 온라인 사진 목록, HyperWar 전재",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "80-G-312018 / 80-G-312018-A",
+    "locator": "ADDITIONAL VIEWS의 Yorktown 항목 및 사진 캡션",
+    "url": "https://www.ibiblio.org/hyperwar/OnlineLibrary/photos/weap-sen/radar/us/cxam.htm",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "요크타운이 1940년 10월 초에는 CXAM을 장착했다는 목록 설명과 1942년 6월 4일 사진의 안테나 식별."
+    ],
+    "limitations": [
+      "목록 본문과 캡션만 열람했다. 설치 공사 원부는 미확인. A가 붙은 사진은 같은 원판의 확대본이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "naval-historical-center-cxam-photograph-catalogue"
+  },
+  {
+    "id": "CAT-US-SRC-0062",
+    "title": "SIGABA/ECM",
+    "institution_or_author": "미 국가안보국(NSA), National Cryptologic Museum",
+    "publication_date": "2021-08-04",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "전시 해설 본문",
+    "url": "https://www.nsa.gov/History/National-Cryptologic-Museum/Exhibits-Artifacts/Exhibit-View/Article/2719165/sigabaecm/",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "육군 SIGABA와 해군 ECM 명칭 및 NSA 전시의 전시 보안 평가."
+    ],
+    "limitations": [
+      "후대 기관 해설이다. 적국 해독기록 전체나 동맹국별 지급 원장까지 검증하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nsa-national-cryptologic-museum-sigaba"
+  },
+  {
+    "id": "CAT-US-SRC-0063",
+    "title": "The SIGABA/ECM II Cipher Machine: “A Beautiful Idea”",
+    "institution_or_author": "Timothy J. Mucklow, NSA Center for Cryptologic History",
+    "publication_date": "2015",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 pp. 18–19 및 각주 37(인쇄 p. 39)",
+    "url": "https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figures-publications/publications/technology/The_SIGABA_ECM_Cipher_Machine_A_Beautiful_Idea3.pdf",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "개발 단계, 1941년 6월 육군 첫 배치 459대와 8월 1일 공동 채택, 1943년 사용 중 5,730대의 문헌 표기."
+    ],
+    "limitations": [
+      "배치와 사용 중 수량의 기준이 서로 다르다. 생산·인수·장비대장 원표는 확보하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nsa-center-for-cryptologic-history-mucklow-2015"
+  },
+  {
+    "id": "CAT-US-SRC-0064",
+    "title": "Testimonial to Commanding Officer, Coast Guard Unit 335",
+    "institution_or_author": "Carl R. Storrie, 미 육군항공군 제314폭격비행단",
+    "publication_date": "1945-10-02",
+    "source_type": "primary",
+    "document_or_accession_number": "335.15, The Coast Guard At War, XV, Appendix A에 전사",
+    "locator": "1945-10-02 서한 §§1–4, 전사 PDF 첫 페이지",
+    "url": "https://media.defense.gov/2017/Jun/26/2001769034/-1/-1/0/CGATWARATON.PDF",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제314폭격비행단장이 태평양의 장거리 해상 비행에서 해안경비대의 LORAN 항법 지원을 사용했다고 보고."
+    ],
+    "limitations": [
+      "종전 직후의 전시 회고·감사 서한 전사본이다. 비행일지, 수신기 형식 및 표준 오차 시험은 포함하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "usaaf-314th-bombardment-wing-testimonial-1945-10-02"
+  },
+  {
+    "id": "CAT-US-SRC-0065",
+    "title": "U.S. Coast Guard Cutter Balsam",
+    "institution_or_author": "Marc Porter, 미 국립공원관리청 HAER",
+    "publication_date": "2002",
+    "source_type": "secondary",
+    "document_or_accession_number": "HAER No. AK-43",
+    "locator": "인쇄 pp. 3–4, 남태평양 LORAN 지원 및 운용 한계 단락",
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/ak/ak0500/ak0505/data/ak0505data.pdf",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "해안경비대 Balsam의 남태평양 기지 건설·유지 지원과 항만 입구에서의 정밀도 한계."
+    ],
+    "limitations": [
+      "후대 조사서이며 일부 근거는 전후 해안경비대 전사다. 항공부대 감사 서한의 항공기별 장비를 식별하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-haer-ak43-porter-2002"
+  },
+  {
+    "id": "CAT-US-SRC-0066",
+    "title": "Loran equipment comprising receiver and indicator",
+    "institution_or_author": "영국 Science Museum Group",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "1973-98, 수신기 19295 및 표시기 1513",
+    "locator": "소장품 제목, Details의 Object Number·Measurements·이용조건",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co35526",
+    "accessed_at": "2026-11-14T04:54:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "R-9/APN-4 수신기와 별도 표시기로 구성된 소장품의 식별."
+    ],
+    "limitations": [
+      "소장 설명에 제작일이나 전시 배치 이력이 없다. 전시 항공부대의 개별 장착을 입증하지 않는다."
+    ],
+    "rights": "목록 제목·세부 데이터 CC0, 설명 등 텍스트 CC BY 4.0으로 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "science-museum-group-loran-object-1973-98"
+  },
+  {
+    "id": "CAT-US-SRC-0067",
+    "title": "The Eisenhowers — Dwight David Eisenhower Chronology",
+    "institution_or_author": "Dwight D. Eisenhower Presidential Library, NARA",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Dwight David Eisenhower Chronology의 1890·1942~1944·1969년 항목",
+    "url": "https://www.eisenhowerlibrary.gov/eisenhowers",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰일, 미 육군 장교 경력, 1943년 12월 최고사령관 임명과 1944년 12월 원수 진급."
+    ],
+    "limitations": [
+      "후대 연보. 1943년 임명 명령서와 지휘권의 세부 분장은 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "eisenhower-library-biographical-chronology"
+  },
+  {
+    "id": "CAT-US-SRC-0068",
+    "title": "Order of the Day",
+    "institution_or_author": "Dwight D. Eisenhower, 연합원정군 최고사령관",
+    "publication_date": "1944-06-06",
+    "source_type": "primary",
+    "document_or_accession_number": "NARA 12000995, Museum Manuscripts FY69 Box 1",
+    "locator": "PDF 1쪽 발령본 본문과 서명",
+    "url": "https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/d-day/order-of-the-day.pdf",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연합원정군 육·해·공 인원에게 낸 명령과 최고사령관 명의."
+    ],
+    "limitations": [
+      "발령문은 지휘와 대외 메시지를 보여준다. 실제 작전의 성과나 개별 부대 명령은 별도 기록이 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "shaeF-order-of-the-day-12000995"
+  },
+  {
+    "id": "CAT-US-SRC-0069",
+    "title": "In Case of Failure Message",
+    "institution_or_author": "Dwight D. Eisenhower, NARA Eisenhower Presidential Library 소장",
+    "publication_date": "1944-06-05",
+    "source_type": "primary",
+    "document_or_accession_number": "NARA 186470, Pre-Presidential Papers, Principal File, Box 168",
+    "locator": "PDF 1쪽 자필 본문과 말미 날짜. 소장기관 D-Day 안내의 날짜 정정 및 전사 대조",
+    "url": "https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/d-day/in-case-of-failure-message.pdf",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "상륙 실패를 가정해 작성한 책임 수용 문구와 원고의 July 5 표기."
+    ],
+    "limitations": [
+      "도서관은 작성일을 6월 5일로 설명한다. 실제 상륙의 결과를 기록한 보고서가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "eisenhower-in-case-of-failure-186470"
+  },
+  {
+    "id": "CAT-US-SRC-0070",
+    "title": "Papers of Fleet Admiral Chester W. Nimitz, USN",
+    "institution_or_author": "미 해군 Naval History and Heritage Command 기록보관소",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Coll/505",
+    "locator": "권두 Biography의 생애 및 1941–1945년 지휘·계급 단락과 Series XIV 제목",
+    "url": "https://www.history.navy.mil/content/dam/nhhc/research/archives/collections/personal-donated-collections/n/nimitz-coll-505.pdf",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미 해군 소속, 1941-12-31 태평양함대 사령관 취임, 1942-04-03 태평양해역 최고지휘 직책 겸임."
+    ],
+    "limitations": [
+      "기록군의 약력·색인을 열람했다. 임명 명령서와 권한 위임 전문은 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nhhc-coll-505-biographical-finding-aid"
+  },
+  {
+    "id": "CAT-US-SRC-0071",
+    "title": "Battle of Midway — CINCPAC Action Report",
+    "institution_or_author": "Chester W. Nimitz, 미 태평양함대 사령부",
+    "publication_date": "1942-06-28",
+    "source_type": "primary",
+    "document_or_accession_number": "CINCPAC A16, Serial 01849",
+    "locator": "머리말과 말미 서명, Preliminary Operations §§4–11",
+    "url": "https://www.ibiblio.org/hyperwar/USN/rep/Midway/Midway-CinCPac.html",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미 함대사령부와 태평양함대사령부의 지시 관계 및 제16·17임무부대 지휘관 구분."
+    ],
+    "limitations": [
+      "HyperWar 웹 전사. 문서 머리의 웹 전재 표제에 적힌 중간 이름 이니셜과 달리 말미 서명은 C. W. Nimitz다. 전투 손실 추정은 검증 범위 밖이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "cinCPac-midway-serial-01849"
+  },
+  {
+    "id": "CAT-US-SRC-0072",
+    "title": "Battle of Midway — TF 16 Action Report",
+    "institution_or_author": "Raymond A. Spruance, 미 해군 제16임무부대 지휘관",
+    "publication_date": "1942-06-16",
+    "source_type": "primary",
+    "document_or_accession_number": "A16-3, Serial 0144-A",
+    "locator": "보고서 발신·경유·수신란 및 §§1–3",
+    "url": "https://www.ibiblio.org/hyperwar/USN/rep/Midway/Midway-Carriers.html",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제16임무부대의 보고가 제17임무부대를 거쳐 미 태평양함대 사령관에게 제출됐다는 기록."
+    ],
+    "limitations": [
+      "별도 지휘 계층이 작성한 전시 보고서 전사다. 상급 보고와 하위 보고의 전투 서술은 같은 보고 계통에 속한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "task-force-16-midway-serial-0144-a"
+  },
+  {
+    "id": "CAT-US-SRC-0073",
+    "title": "Benjamin O. Davis Jr. Collection",
+    "institution_or_author": "Paul Silbermann 정리, Smithsonian National Air and Space Museum Archives",
+    "publication_date": "2003",
+    "source_type": "secondary",
+    "document_or_accession_number": "NASM.1992.0023, EAD 인코딩 2016",
+    "locator": "인쇄 pp. 1–2 Biographical / Historical, p. 5 전시 연보, p. 8 사망 항목",
+    "url": "https://sirismm.si.edu/EADpdfs/NASM.1992.0023.pdf",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰일, 제99전투비행대 및 제332전투비행단 지휘와 이탈리아 주둔, 임시 대령 진급 및 제477부대 전시 배치 한계."
+    ],
+    "limitations": [
+      "소장품 해제와 연보를 열람했다. 개별 출격일지와 훈장 원문은 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "smithsonian-nasm-1992-0023-finding-aid"
+  },
+  {
+    "id": "CAT-US-SRC-0074",
+    "title": "Col. Benjamin O. Davis, Air Base at Rametti, Italy, March 1945",
+    "institution_or_author": "Toni Frissell 촬영, 미 의회도서관 Prints and Photographs Division",
+    "publication_date": "1945-03",
+    "source_type": "primary",
+    "document_or_accession_number": "LC-F9-02-4503-330-2",
+    "locator": "Portfolio 2: Pictorial Journalism의 사진과 캡션",
+    "url": "https://wwws.loc.gov/rr/print/guide/port-2.html",
+    "accessed_at": "2026-11-14T07:01:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 3월 이탈리아 기지에서 대령 데이비스를 촬영한 사진과 소장 식별 정보."
+    ],
+    "limitations": [
+      "사진을 열람했다. 후대 해설의 332d Fighter Pilot Squadron은 NASM 연보의 332d Fighter Group과 달라 제식 단위명 근거로 쓰지 않았다."
+    ],
+    "rights": "의회도서관 안내의 기증 컬렉션 사진. 권리의 추가 판단 없이 사진을 재게시하지 않고 링크만 사용.",
+    "independence_group": "toni-frissell-lc-f9-02-4503-330-2"
+  },
+  {
+    "id": "CAT-US-SRC-0075",
+    "title": "FDR Biography",
+    "institution_or_author": "Franklin D. Roosevelt Presidential Library and Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The Early Years, The Presidency, World War II 및 Fast Facts",
+    "url": "https://www.fdrlibrary.org/fdr-biography",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "루스벨트의 생몰과 민주당 소속, 1933년 취임 및 전시 재임."
+    ],
+    "limitations": [
+      "전기 본문과 약력만 사용했다. 별도 연표의 참전 서술은 검증 범위에서 제외했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "fdr-library-biography"
+  },
+  {
+    "id": "CAT-US-SRC-0076",
+    "title": "Executive Order 9066",
+    "institution_or_author": "Franklin D. Roosevelt / NARA",
+    "publication_date": "1942-02-19",
+    "source_type": "primary",
+    "document_or_accession_number": "Executive Order 9066, RG 11",
+    "locator": "서명 판면, 전사문 첫 두 문단 및 NARA 시행 해설",
+    "url": "https://www.archives.gov/milestone-documents/executive-order-9066",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전쟁부 장관과 지정 군 지휘관에게 군사구역 설정·출입 제한·배제 권한을 부여. NARA는 이후 일본계 주민 강제이주와 수용을 설명한다."
+    ],
+    "limitations": [
+      "행정명령 본문과 NARA의 후대 시행 해설을 구분했다. 개별 군 배제명령 원문은 미열람."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-rg11-executive-order-9066"
+  },
+  {
+    "id": "CAT-US-SRC-0077",
+    "title": "Civil Liberties Act of 1988",
+    "institution_or_author": "미 연방 의회 / U.S. Government Publishing Office",
+    "publication_date": "1988-08-10",
+    "source_type": "primary",
+    "document_or_accession_number": "Public Law 100-383, 102 Stat. 903",
+    "locator": "§§1–2, 인쇄 pp. 903–904",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg903.pdf",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "의회의 강제이주·수용에 대한 사과와 인종적 편견·전시 공포·정치 지도력 실패에 관한 판단."
+    ],
+    "limitations": [
+      "전시 조치에 대한 후대 입법 판단이다. 위원회 조사보고서 전체나 개별 사건의 사법 판단을 대체하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-congress-public-law-100-383"
+  },
+  {
+    "id": "CAT-US-SRC-0078",
+    "title": "Communiqué Issued at the End of the Yalta Conference",
+    "institution_or_author": "미·영·소 정부 수뇌 / 미 국무부 FRUS",
+    "publication_date": "1945-02-11",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS Berlin 1945 II, No. 1417, 740.0011 EW/2–1145",
+    "locator": "서두 및 IV United Nations Conference, V Declaration on Liberated Europe, 인쇄 pp. 1577–1579",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv02/d1417",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "루스벨트의 미국 대통령 자격 회의 참석과 유엔 회의 및 해방 유럽에 관한 공동 발표."
+    ],
+    "limitations": [
+      "공동 발표 전사다. 각국 협상 초안과 합의 이행은 별도 검토가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "yalta-joint-communique-1945-02-11"
+  },
+  {
+    "id": "CAT-US-SRC-0079",
+    "title": "Biographical Sketch: Harry S. Truman, 33rd President of the United States",
+    "institution_or_author": "Harry S. Truman Presidential Library and Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "생몰 및 상원 국방조사 특별위원회·부통령·1945년 4월 12일 취임 단락",
+    "url": "https://www.trumanlibrary.gov/education/trivia/biographical-sketch-harry-truman",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "트루먼의 생몰, 상원 국방조사 특별위원장, 부통령 취임과 대통령직 승계."
+    ],
+    "limitations": [
+      "후대 약력이며 상원 청문회 기록이나 개별 계약의 조사 결과는 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "truman-library-biographical-sketch"
+  },
+  {
+    "id": "CAT-US-SRC-0080",
+    "title": "President Truman to Prime Minister Churchill",
+    "institution_or_author": "Harry S. Truman / 미 국무부 FRUS",
+    "publication_date": "1945-07-25",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS Berlin 1945 II, No. 1248, Truman Papers",
+    "locator": "바벨스베르크 발신 서한 발췌 및 각주 1–2",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv02/d1248",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "트루먼이 장제스의 동의를 기다리면서 처칠에게 공동 발표를 제안했다."
+    ],
+    "limitations": [
+      "서한 발췌는 발표 전 협의 한 단계를 보여준다. 최종 문안은 별도 자료다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "truman-to-churchill-1945-07-25"
+  },
+  {
+    "id": "CAT-US-SRC-0081",
+    "title": "Proclamation by the Heads of Governments, United States, China and the United Kingdom",
+    "institution_or_author": "Harry S. Truman·Winston Churchill·Chiang Kai-shek 명의 / 미 국무부 FRUS",
+    "publication_date": "1945-07-26",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS Berlin 1945 II, No. 1382, 740.00119 Potsdam/7–2645",
+    "locator": "인쇄 pp. 1474–1476, §§1·13, 말미 서명 표기와 각주 1·5",
+    "url": "https://history.state.gov//historicaldocuments/frus1945Berlinv02/d1382",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미·영·중 공동 발표와 일본군 무조건 항복 요구. 편집 각주는 보존본의 타국 지도자 명의가 트루먼 필체라고 설명한다."
+    ],
+    "limitations": [
+      "공개 문안과 보존본의 서명 정보를 보여준다. 세 정상의 대면 서명이나 종전 원인의 증거로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "potsdam-joint-proclamation-1945-07-26"
+  },
+  {
+    "id": "CAT-US-SRC-0082",
+    "title": "The Ambassador in China (Hurley) to the President and the Secretary of State",
+    "institution_or_author": "Patrick J. Hurley, 주중 미국 대사 / 미 국무부 FRUS",
+    "publication_date": "1945-07-26",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS Berlin 1945 II, No. 1251, 740.00119 Potsdam/8–745",
+    "locator": "충칭 발신 전문의 장제스 답신 인용 부분",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv02/d1251",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "장제스가 중화민국 국민정부 수반 명칭에 관한 수정과 함께 대일 선언에 동의했다는 보고."
+    ],
+    "limitations": [
+      "미 대사가 전달한 장제스 답신 전사다. 중화민국 측 보존 원본은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hurley-transmits-chiang-reply-1945-07-26"
+  },
+  {
+    "id": "CAT-US-SRC-0083",
+    "title": "Biographies of the Secretaries of State: Cordell Hull (1871–1955)",
+    "institution_or_author": "미 국무부 Office of the Historian",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Introduction, Early Life, Influence on American Diplomacy, Term of Appointment",
+    "url": "https://history.state.gov/departmenthistory/people/hull-cordell",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "헐의 생몰, 민주당 경력, 1933년 임명과 임기 종료 표기."
+    ],
+    "limitations": [
+      "도입부의 11월 20일과 정식 재임표의 11월 30일이 달라 공식 임명 종료 표기를 우선했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "state-office-of-historian-hull-biography"
+  },
+  {
+    "id": "CAT-US-SRC-0084",
+    "title": "Protocol, Signed at Moscow, November 1, 1943",
+    "institution_or_author": "Cordell Hull·Anthony Eden·V. M. Molotov / 미 국무부 FRUS",
+    "publication_date": "1943-11-01",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1943 I, No. 684, 740.0011 Moscow/340",
+    "locator": "서두, 말미 서명, 부속서 1 Declaration of Four Nations on General Security §4, 인쇄 pp. 749–756",
+    "url": "https://history.state.gov/historicaldocuments/frus1943v01/d684",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "헐의 모스크바 외무장관 회의 참석·의정서 서명과 부속 4개국 선언의 국제기구 구상."
+    ],
+    "limitations": [
+      "의정서와 부속 선언을 구분했다. 각국 대표가 조항을 작성한 비중은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "moscow-conference-protocol-1943-11-01"
+  },
+  {
+    "id": "CAT-US-SRC-0085",
+    "title": "Memorandum by the Secretary of State to President Roosevelt",
+    "institution_or_author": "Cordell Hull / 미 국무부 FRUS",
+    "publication_date": "1943-12-29",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1944 I, No. 376, 500.CC/12–2943",
+    "locator": "인쇄 pp. 614–616, 본문 첫 문단과 첨부 문서",
+    "url": "https://history.state.gov/historicaldocuments/frus1944v01/d376",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "헐이 국무부 실무진이 작성한 국제기구 구상안을 루스벨트에게 제출했다."
+    ],
+    "limitations": [
+      "대통령 검토용 문서이며 최종 유엔 헌장 및 회의에서 채택한 문안과 구분해야 한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hull-to-roosevelt-1943-12-29"
+  },
+  {
+    "id": "CAT-US-SRC-0086",
+    "title": "Letter of Resignation from Secretary of State Cordell Hull",
+    "institution_or_author": "Cordell Hull / University of California, Santa Barbara, The American Presidency Project",
+    "publication_date": "1944-11-21",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "본문 첫 문단 및 공개일에 관한 말미 편집 주",
+    "url": "https://www.presidency.ucsb.edu/documents/letter-resignation-from-secretary-state-cordell-hull",
+    "accessed_at": "2026-11-14T08:55:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "헐이 건강 문제로 사임을 요청한 1944-11-21 서한."
+    ],
+    "limitations": [
+      "대학 자료집의 전사를 읽었다. 요청일과 임명 종료일은 서로 다른 날짜다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hull-letter-of-resignation-1944-11-21"
+  },
+  {
+    "id": "CAT-US-SRC-0087",
+    "title": "Executive Order 8807—Establishing the Office of Scientific Research and Development in the Executive Office of the President and Defining Its Functions and Duties",
+    "institution_or_author": "Franklin D. Roosevelt; University of California, Santa Barbara, The American Presidency Project (전사)",
+    "publication_date": "1941-06-28",
+    "source_type": "primary",
+    "document_or_accession_number": "Executive Order 8807; 6 FR 3207 (1941-07-02)",
+    "locator": "§§1–4, 6–8",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-8807-establishing-the-office-scientific-research-and-development-the",
+    "accessed_at": "2026-11-14T10:55:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "OSRD의 설치, 대통령 지휘 아래 국장의 직위, 과학·의학 연구 조정 및 외부 기관과의 계약 권한을 본문에서 대조했다."
+    ],
+    "limitations": [
+      "설치 명령은 직제와 권한을 규정한다. 부시의 실제 재임과 사업 집행에는 별도 근거가 필요하다."
+    ],
+    "rights": "미국 연방정부 행정명령. 전사본 링크만 사용.",
+    "independence_group": "us-executive-order-8807"
+  },
+  {
+    "id": "CAT-US-SRC-0088",
+    "title": "Secret Weapons, Forgotten Sacrifices: Scientific R & D in World War II",
+    "institution_or_author": "Adam Kline with Robyn Dexter; U.S. National Archives, Prologue",
+    "publication_date": "2016 봄",
+    "source_type": "secondary",
+    "document_or_accession_number": "Prologue Vol. 48, No. 1; 관련 기록군 RG 227",
+    "locator": "FDR Taps Vannevar Bush To Oversee War Research",
+    "url": "https://www.archives.gov/publications/prologue/2016/spring/office-scientific-research-development-world-war-ii",
+    "accessed_at": "2026-11-14T10:55:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 NDRC 위원장과 1941년 OSRD 국장을 맡은 인물이 부시였음을 확인했다."
+    ],
+    "limitations": [
+      "기록관의 후대 해설이다. 부시의 임명장과 개별 계약서 원본은 미열람이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-osrd-institutional-history"
+  },
+  {
+    "id": "CAT-US-SRC-0089",
+    "title": "Science, the Endless Frontier",
+    "institution_or_author": "Vannevar Bush; U.S. Government Printing Office; GovInfo (전사)",
+    "publication_date": "1945-07",
+    "source_type": "primary",
+    "document_or_accession_number": "GOVPUB-PR32_400-e7966ee70a4f7b47f862431c9776f727",
+    "locator": "Letter of Transmittal, pp. V–VI; Chapter 6, National Research Foundation, §I, p. 28",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-PR32_400-e7966ee70a4f7b47f862431c9776f727/html/GOVPUB-PR32_400-e7966ee70a4f7b47f862431c9776f727.htm",
+    "accessed_at": "2026-11-14T10:55:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 11월 17일 대통령 요청, 1945년 7월 5일자 국장 송부 서한, 비영리기관 기초연구와 인재 양성을 위한 재단 제안을 확인했다."
+    ],
+    "limitations": [
+      "본문은 정책 제안과 작성 경위를 보여준다. 전후 법제화 및 조직의 실제 출범은 이번 대조 범위 밖이다."
+    ],
+    "rights": "미국 연방정부 보고서. 자체 요약과 링크만 사용.",
+    "independence_group": "bush-osrd-report-1945"
+  },
+  {
+    "id": "CAT-US-SRC-0090",
+    "title": "The Charles R. Drew Papers: Becoming “the Father of the Blood Bank,” 1938–1941",
+    "institution_or_author": "U.S. National Library of Medicine, Profiles in Science",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "교육용 PDF pp. 2–4",
+    "url": "https://www.nlm.nih.gov/exhibition/education/charlesdrew/pdf/FatheroftheBloodBankBiography.pdf",
+    "accessed_at": "2026-11-14T10:55:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 지원 사업에서 드루가 1940년 9월 상근 의학 감독을 맡았고, 1941년 2월 미국 적십자 시범사업에서는 부책임자로 일했다는 기술을 확인했다. 1941년 4월 하워드 복귀와 헌혈 차별 반대 기록을 확인했다."
+    ],
+    "limitations": [
+      "자료집의 후대 해설이다. 직함과 이임 경위는 Smithsonian 해설과 차이가 있다. 임명장과 이임 서신은 미열람이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nlm-drew-papers-biographical-narrative"
+  },
+  {
+    "id": "CAT-US-SRC-0091",
+    "title": "World War II and the American Red Cross",
+    "institution_or_author": "American Red Cross",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Blood Donor Services, pp. 14–15",
+    "url": "https://www.redcross.org/content/dam/redcross/National/history-wwii.pdf#page=14",
+    "accessed_at": "2026-11-14T10:55:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 8월~1941년 1월 뉴욕의 영국 지원 사업에서 적십자와 BTBA의 분담, 1941년 초 드루가 감독한 미국 내 시범사업을 확인했다."
+    ],
+    "limitations": [
+      "참여 기관의 후대 회고다. 드루의 인사 문서, 이임 이유, 영국 수령 원장은 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "american-red-cross-institutional-history"
+  },
+  {
+    "id": "CAT-US-SRC-0092",
+    "title": "The Color of Blood",
+    "institution_or_author": "Smithsonian Institution, National Museum of African American History and Culture",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Blood for Britain과 적십자 근무를 다룬 본문 문단",
+    "url": "https://nmaahc.si.edu/explore/stories/color-blood",
+    "accessed_at": "2026-11-14T10:55:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 지원 사업 지휘와 미국 적십자 사업 참여를 확인했다. 적십자 혈액은행 책임자와 1942년 사임이라는 별도 서술을 확인했다."
+    ],
+    "limitations": [
+      "시범사업 부책임자 및 1941년 4월 하워드 복귀라는 NLM 서술과 범위 및 연대가 다르다. 헌혈량 역시 다른 단위로 서술한다."
+    ],
+    "rights": "공개 박물관 해설. 소장 이미지 권리 별도. 자체 요약과 링크만 사용.",
+    "independence_group": "smithsonian-nmaahc-drew-exhibit"
+  },
+  {
+    "id": "CAT-US-SRC-0093",
+    "title": "Harvard IBM Mark I - Crew",
+    "institution_or_author": "Harvard University, Collection of Historical Scientific Instruments",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The Crew; Lieutenant Grace Murray Hopper; Ensigns Robert Campbell, and Richard Bloch; Work Summary",
+    "url": "https://chsi.harvard.edu/harvard-ibm-mark-1-crew",
+    "accessed_at": "2026-11-14T10:55:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 하버드에서의 초기 가동과 민간·해군 인력의 협업, 호퍼의 초기 코딩팀 참여 및 베셀 함수표 계산 작업 지휘를 확인했다."
+    ],
+    "limitations": [
+      "전시 사진·전시 해설은 구성원과 역할을 보여준다. 초창기 작업의 순번은 해군 CHIPS 회고와 표현이 다르다."
+    ],
+    "rights": "공개 전시 해설. 소장 사진 권리 별도. 자체 요약과 링크만 사용.",
+    "independence_group": "harvard-chsi-mark-i-exhibit"
+  },
+  {
+    "id": "CAT-US-SRC-0094",
+    "title": "A Manual of Operation for the Automatic Sequence Controlled Calculator",
+    "institution_or_author": "Staff of the Computation Laboratory, Harvard University; 서문 Howard H. Aiken",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": "Annals of the Computation Laboratory of Harvard University, Vol. I",
+    "locator": "표제면; Preface, Howard H. Aiken (1946년 3월)",
+    "url": "https://chimera.roma1.infn.it/SP/COMMON/MarkI_operMan_1946.pdf",
+    "accessed_at": "2026-11-14T10:55:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 5월 Bureau of Ships 산하 가동 개시, 1946년 1월 1일 Bureau of Ordnance 이관, 호퍼의 서장과 제2장 개정·제3장 공동 작업·총괄 편집을 서문 본문에서 확인했다."
+    ],
+    "limitations": [
+      "1946년 프로젝트 책임자의 회고와 기여 기록이다. PDF 추출 텍스트로 대조했으며 서문 판면 렌더링은 시간 초과였다."
+    ],
+    "rights": "Harvard University Press 간행물 공개 열람본. 권리 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "aiken-staff-mark-i-manual-1946"
+  },
+  {
+    "id": "CAT-US-SRC-0095",
+    "title": "“Amazing Grace”",
+    "institution_or_author": "U.S. Department of the Navy, CHIPS",
+    "publication_date": "2012-01~2012-03",
+    "source_type": "secondary",
+    "document_or_accession_number": "CHIPS, January–March 2012",
+    "locator": "p. 32, 인물 소개와 Mark I 단체사진 설명",
+    "url": "https://www.doncio.navy.mil/FileHandlerChips.ashx?id=41",
+    "accessed_at": "2026-11-14T10:55:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "호퍼가 1944년 Mark I의 프로그래머로 활동했다는 해군 회고를 확인했다."
+    ],
+    "limitations": [
+      "회고의 첫 프로그래머 표현과 사진 설명의 기관명은 시점을 구별해 읽어야 한다. 초기 코딩 순서는 하버드 전시와 일치하지 않는다."
+    ],
+    "rights": "공개 해군 간행물. 사진의 출처 및 권리 별도. 자체 요약과 링크만 사용.",
+    "independence_group": "us-navy-chips-hopper-retrospective"
+  },
+  {
+    "id": "CAT-US-SRC-0096",
+    "title": "Letter from Charles R. Drew to the American Red Cross Reporting on Facilities for Collecting Blood in American Cities",
+    "institution_or_author": "Charles R. Drew; National Archives at College Park, DocsTeach",
+    "publication_date": "1941-01-09",
+    "source_type": "primary",
+    "document_or_accession_number": "NAID 304958; Collection ANRC; file 505.02",
+    "locator": "DocsTeach Citation; 본문 판독 미완료",
+    "url": "https://docsteach.org/document/drew-red-cross-collecting-blood/",
+    "accessed_at": "2026-11-14T10:55:01+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [
+      "소장기관의 표제·일자·청구 정보를 확인했다."
+    ],
+    "limitations": [
+      "목록과 축소 이미지를 열었다. 전체 해상도 이미지 호출이 실패하여 본문에 근거한 주장 확인에는 사용하지 않았다."
+    ],
+    "rights": "DocsTeach 표기는 No Known Copyright. 목록 링크만 사용.",
+    "independence_group": "drew-red-cross-letter-naid304958"
+  },
+  {
+    "id": "CAT-US-SRC-0097",
+    "title": "Report of the Blood Transfusion Association",
+    "institution_or_author": "Blood Transfusion Association; McGill University Libraries, Archival Collections",
+    "publication_date": "1941",
+    "source_type": "primary",
+    "document_or_accession_number": "P226-06-005",
+    "locator": "Dates of creation; Scope and content; 보고서 본문 미열람",
+    "url": "https://archivalcollections.library.mcgill.ca/index.php/report-of-the-blood-transfusion-association",
+    "accessed_at": "2026-11-14T10:55:01+09:00",
+    "access_status": "candidate",
+    "claims_checked": [
+      "1940년 8월~1941년 1월 영국 지원 사업의 내러티브·의학 보고서 소장 항목을 확인했다."
+    ],
+    "limitations": [
+      "열람한 것은 McGill 목록이다. 원본 판면과 통계표를 확인하지 못했다."
+    ],
+    "rights": "기록관 공개 목록. 원본의 이용 조건은 미확인. 목록 링크만 사용.",
+    "independence_group": "blood-transfusion-association-project-report"
+  },
+  {
+    "id": "CAT-US-SRC-0098",
+    "title": "Joint Address to Congress Leading to a Declaration of War Against Japan (1941)",
+    "institution_or_author": "Franklin D. Roosevelt; U.S. National Archives, Records of the U.S. Senate",
+    "publication_date": "1941-12-08",
+    "source_type": "primary",
+    "document_or_accession_number": "SEN 77A-H1, RG 46",
+    "locator": "Transcript 첫 문단·마지막 문단; 소장 해설의 12월 8일 단락",
+    "url": "https://www.archives.gov/milestone-documents/joint-address-to-congress-declaration-of-war-against-japan",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "진주만 공격을 전제로 한 대일 선전포고 요청을 전사에서, 합동회의 연설 일시와 라디오 중계를 소장 해설에서 확인했다."
+    ],
+    "limitations": [
+      "문서 전사와 소장 해설이다. 연설 영상이나 음성의 편집 경계는 별도 대조 대상이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-senate-fdr-infamy-address"
+  },
+  {
+    "id": "CAT-US-SRC-0099",
+    "title": "FDR’s Day of Infamy Speech (Attack on Pearl Harbor Media Resources)",
+    "institution_or_author": "The National WWII Museum (제공); Franklin D. Roosevelt (연설)",
+    "publication_date": "1941-12-08 (촬영 사건); 온라인 게시일 미확인",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "Archival Video → FDR’s Day of Infamy Speech; 재생본 약 00:18, 00:23, 01:25",
+    "url": "https://www.nationalww2museum.org/media/media-resources/exhibits-and-education/attack-pearl-harbor-media-resources",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "재생기에서 전체 길이 155.25초를 확인하고 의회 장내 전경, 청중, 연단의 연설자를 담은 서로 다른 흑백 장면을 확인했다. 자막 트랙은 0개였다."
+    ],
+    "limitations": [
+      "현장 촬영을 포함한 공개 편집본이다. 원필름 식별번호·녹음 출처·음성 동기화와 전체 현장 촬영본은 미확인이다."
+    ],
+    "rights": "박물관은 편집 보도용 페이지에서 Courtesy of The National WWII Museum 표기를 요청한다. 원필름의 포괄적 이용허락은 미확인이다. 링크만 기록.",
+    "independence_group": "national-wwii-museum-fdr-archival-clip"
+  },
+  {
+    "id": "CAT-US-SRC-0100",
+    "title": "President Franklin Roosevelt’s “Day of Infamy” Speech",
+    "institution_or_author": "Franklin D. Roosevelt; John G. Bradley Papers, U.S. National Archives (DocsTeach)",
+    "publication_date": "1941-12-08",
+    "source_type": "primary",
+    "document_or_accession_number": "Sound Recording 201.49; NAID 1436350",
+    "locator": "DocsTeach Description·Citation; 음원 본편 미재생",
+    "url": "https://docsteach.org/document/day-of-infamy-recording/",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당일 합동회의 연설의 별도 음성 소장번호·녹음일·자료 유형을 확인했다."
+    ],
+    "limitations": [
+      "DocsTeach 기록 설명과 인용 정보만 확인했다. 음원 전 구간, 박물관 영상과의 편집 일치는 미검증이다."
+    ],
+    "rights": "DocsTeach 권리 표기는 Copyright Not Evaluated. 링크만 기록.",
+    "independence_group": "nara-bradley-fdr-sound-201-49"
+  },
+  {
+    "id": "CAT-US-SRC-0101",
+    "title": "World War II: D-Day, The Invasion of Normandy — A/V resources",
+    "institution_or_author": "Dwight D. Eisenhower Presidential Library and Museum, NARA; Dwight D. Eisenhower (낭독)",
+    "publication_date": "1944-06-06 (명령일); 낭독 녹음일·편집본 게시일 미확인",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "A/V resources 첫 항목과 말미의 NBC 항목; 임베드 미재생",
+    "url": "https://www.eisenhowerlibrary.gov/research/online-documents/world-war-ii-d-day-invasion-normandy",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기관 설명에서 아이젠하워의 방송용 낭독에 정지사진을 편집한 영상임을 확인했다. NBC 초기 방송과 해안경비대 영화의 별도 결합 자료도 목록에 있다."
+    ],
+    "limitations": [
+      "기관이 기재한 편집 방식을 확인했다. 플레이어 접근은 제한됐고 낭독의 정확한 녹음·최초 방송시각, 자막 및 전체 재생 길이는 확인하지 못했다."
+    ],
+    "rights": "공개 페이지. 음원 및 수록 사진별 권리 미확인. 링크만 기록.",
+    "independence_group": "eisenhower-library-order-radio-slideshow"
+  },
+  {
+    "id": "CAT-US-SRC-0102",
+    "title": "Two Newsreels Documenting the Surrender of Japan",
+    "institution_or_author": "U.S. Navy / Bureau of Aeronautics; Harry S. Truman Presidential Library and Museum (소장)",
+    "publication_date": "1945 (수록 사건 1945-08-14 및 1945-09-02 현지일)",
+    "source_type": "primary",
+    "document_or_accession_number": "MP2007-22; Shot List의 RG 80 MN 9034G",
+    "locator": "Shot List 제1릴 03:50, 04:20, 08:20 및 제2릴 10:11, 11:33; Administrative Information",
+    "url": "https://www.trumanlibrary.gov/movingimage-records/mp2007-22",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장 장면표에서 백악관의 8월 14일 발표 장면과 미주리함 조인식 발언·서명 장면의 위치를 확인했다."
+    ],
+    "limitations": [
+      "장면표 시간은 이 소장본 기준이다. 임베드는 재생하지 못했으며 프레임·음성 동기화·자막은 미확인이다. 제1릴 08:20의 9월 1일 표기는 도쿄 현지 조인일을 확정하는 근거로 쓰지 않았다."
+    ],
+    "rights": "도서관 권리 표기는 Undetermined. 링크만 기록.",
+    "independence_group": "us-navy-9034g-truman-mp2007-22"
+  },
+  {
+    "id": "CAT-US-SRC-0103",
+    "title": "President Truman’s Radio Address to the American People after the Signing of the Terms of Unconditional Surrender by Japan",
+    "institution_or_author": "Harry S. Truman; Columbia Broadcasting System; Harry S. Truman Presidential Library and Museum (소장)",
+    "publication_date": "1945-09-01 (워싱턴 현지)",
+    "source_type": "primary",
+    "document_or_accession_number": "SR64-15; NAID 331916548",
+    "locator": "Recording Date(s), Description, Original Format(s), Running Time",
+    "url": "https://www.trumanlibrary.gov/soundrecording-records/sr64-15-president-trumans-radio-address-american-people-after-signing-terms",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "백악관 CBS 중계의 9월 1일 오후 9시 56분 ETW 표기와 12인치 음반·9분 13초의 소장 정보 확인."
+    ],
+    "limitations": [
+      "음성 소장 레코드를 확인했다. 실제 음원의 시간 표시와 영상 유무는 별도 대조가 필요하다."
+    ],
+    "rights": "도서관 표기는 Unrestricted, 제작·저작권란은 CBS. 링크만 기록.",
+    "independence_group": "cbs-truman-radio-sr64-15"
+  },
+  {
+    "id": "CAT-US-SRC-0104",
+    "title": "Radio Address to the American People After the Signing of the Terms of Unconditional Surrender by Japan",
+    "institution_or_author": "Harry S. Truman; Public Papers of the Presidents; Harry S. Truman Presidential Library and Museum (전사)",
+    "publication_date": "1945-09-01 (워싱턴 현지)",
+    "source_type": "primary",
+    "document_or_accession_number": "Public Papers No. 122",
+    "locator": "머리말의 방송시각 주기, 본문 첫 두 문단 및 희생자·전후 과제를 다룬 단락",
+    "url": "https://www.trumanlibrary.gov/library/public-papers/122/radio-address-american-people-after-signing-terms-unconditional-surrender",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "조인 후 대국민 방송의 내용, 9월 1일과 오후 10시 표기를 확인했다."
+    ],
+    "limitations": [
+      "소장 음원 레코드의 오후 9시 56분과 4분 차이가 있다. 편성표·송출 원장을 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "truman-public-papers-1945-no122"
+  },
+  {
+    "id": "CAT-US-SRC-0105",
+    "title": "Harry S. Truman’s Movie Memory Album",
+    "institution_or_author": "Paramount News; Fox Movietone; Harry S. Truman Presidential Library and Museum (소장)",
+    "publication_date": "1945-08-14~1945-09-02 (소장기록의 수록일 범위)",
+    "source_type": "primary",
+    "document_or_accession_number": "MP72-6",
+    "locator": "Shot List 01:00 및 05:34, Administrative Information",
+    "url": "https://www.trumanlibrary.gov/movingimage-records/mp72-6-harry-s-trumans-movie-memory-album",
+    "accessed_at": "2026-11-14T12:54:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장 목록이 8월 14일 기자회견 발췌와 9월 1·2일 연설의 짧은 발췌를 각각 표시한다."
+    ],
+    "limitations": [
+      "비순환 소장본이다. 발언별 정확한 경계·실제 발언 화면·음성 동기화·자막을 확인하지 못했다."
+    ],
+    "rights": "도서관 표기는 Restricted. 목록 링크만 기록.",
+    "independence_group": "paramount-movietone-truman-mp72-6"
+  },
+  {
+    "id": "CAT-US-SRC-0106",
+    "title": "B-24 Liberator Assembly Line at Ford Willow Run Bomber Plant, December 30, 1942",
+    "institution_or_author": "Ford Motor Company Photographic Department; The Henry Ford, Benson Ford Research Center",
+    "publication_date": "1942-12-30",
+    "source_type": "primary",
+    "document_or_accession_number": "P.833.77313; THF123966",
+    "locator": "사진 판면·Artifact Details·Artifact Overview",
+    "url": "https://www.thehenryford.org/collections/explore/artifact/369253",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "촬영 날짜가 명시된 사진에서 윌로런의 조립 작업을 확인했다. 후대 소장 해설은 8,685대를 제시한다."
+    ],
+    "limitations": [
+      "사진은 작업의 존재를 보여준다. 소장 해설은 8,685의 완성기·조립 세트 구분을 제공하지 않는다."
+    ],
+    "rights": "포드 기증 사진. 재사용 권리는 별도 확인이 필요하다. 자체 요약과 링크만 사용.",
+    "independence_group": "ford-photographic-department-willow-run"
+  },
+  {
+    "id": "CAT-US-SRC-0107",
+    "title": "The Army Air Forces in World War II, Vol. VI: Men and Planes, Chapter 9",
+    "institution_or_author": "Wesley Frank Craven·James Lea Cate 편; University of Chicago Press; HyperWar 전사",
+    "publication_date": "1955",
+    "source_type": "secondary",
+    "document_or_accession_number": "Vol. VI, ch. 9",
+    "locator": "B-24 생산 공동계획 단락과 인쇄 pp. 328–329 및 주 86–87",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/VI/AAF-VI-9.html",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Consolidated 설계와 업체 간 조립 분업, 포드의 완성기 6,791대 및 타 공장 조립용 1,893세트 인도 기록을 확인했다."
+    ],
+    "limitations": [
+      "후대 공식 전사다. 인도와 공장 인수의 1대 차이는 개별 인수 기록으로 확인해야 한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "aaf-official-history-men-and-planes"
+  },
+  {
+    "id": "CAT-US-SRC-0108",
+    "title": "Rosie the Riveter National Historical Park, Richmond Shipyard No. 3: Written Historical and Descriptive Data",
+    "institution_or_author": "Fredric L. Quivik; National Park Service, Historic American Engineering Record; Library of Congress",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "HAER CA-326-M; LOC ca3398",
+    "locator": "인쇄 pp. 38, 50, 58–60, 94–95 및 주 107, 130, 224",
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca3300/ca3398/data/ca3398data.pdf",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Todd-California의 상호 변경, Richmond Shipbuilding Corporation 인수 뒤 기존 계약의 별도 존속, 리치먼드 네 조선소의 합계와 선종 범위를 확인했다."
+    ],
+    "limitations": [
+      "기록에 근거한 후대 조사다. 개별 계약서와 747척 선명·진수일 원목록은 직접 대조하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-haer-richmond-shipyard-quivik"
+  },
+  {
+    "id": "CAT-US-SRC-0109",
+    "title": "Final Report, June 28, 1946",
+    "institution_or_author": "U.S. Fair Employment Practice Committee; U.S. Government Printing Office; GovInfo 전사",
+    "publication_date": "1946-06-28 보고서, 1947 간행",
+    "source_type": "primary",
+    "document_or_accession_number": "GOVPUB-PR32_400-b5497620099b9756252b6142d521effd",
+    "locator": "부록 pp. 122–123, Maritime Commission의 1944년 12월 말 Pacific Coast Region 고용표",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-PR32_400-b5497620099b9756252b6142d521effd/html/GOVPUB-PR32_400-b5497620099b9756252b6142d521effd.htm",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연방 해사위원회가 리치먼드 제1·2조선소를 합쳐 기재하고 제3·4조선소를 별도 행으로 둔 점을 확인했다."
+    ],
+    "limitations": [
+      "원자료는 당시 분류의 특정 시점 고용표다. 직종·임금·노조 지위·차별 책임을 이 표만으로 판정할 수 없다."
+    ],
+    "rights": "미국 연방정부 공개 보고서. 자체 요약과 링크만 사용.",
+    "independence_group": "us-maritime-commission-fePC-correspondence"
+  },
+  {
+    "id": "CAT-US-SRC-0110",
+    "title": "New Western Electric Plant at Scranton",
+    "institution_or_author": "Bell Telephone Laboratories, Bell Laboratories Record",
+    "publication_date": "1944-06",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "1944년 6월호 pp. 431–432",
+    "url": "https://www.worldradiohistory.com/Archive-Bell-Laboratories-Record/40s/Bell-Laboratories-Record-1944-Jun.pdf",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "5월 11일 합의에 따라 국방공장공사 시설을 Western Electric이 사용하고, 볼티모어 Point Breeze의 전선 가공 일부를 이전한다는 회사측 공지를 확인했다."
+    ],
+    "limitations": [
+      "출하와 채용은 기사 작성 시점의 예상·계획이다. 실제 가동·인수 기록은 아니다."
+    ],
+    "rights": "기업 간행물 공개 스캔. 권리 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "bell-labs-record-1944-scranton"
+  },
+  {
+    "id": "CAT-US-SRC-0111",
+    "title": "The Bell System and Communications for Railroads",
+    "institution_or_author": "Bell Telephone Laboratories, Bell Laboratories Record",
+    "publication_date": "1944-11",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "1944년 11월호 p. 587",
+    "url": "https://www.telephonearchive.com/uploads/bell-labs-records/pdfs/Bell-Laboratories-Record-1944-Nov.pdf",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Western Electric이 당시 전시 수요용 통신장비 제조에 주력했다는 회사 간행물의 진술을 확인했다."
+    ],
+    "limitations": [
+      "기업 측 동시대 진술이다. 매출·공장별 생산량이나 계약별 인수 내역은 제시하지 않는다."
+    ],
+    "rights": "기업 간행물 공개 스캔. 권리 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "bell-labs-record-1944-scranton"
+  },
+  {
+    "id": "CAT-US-SRC-0112",
+    "title": "The Signal Corps: The Test (December 1941 to July 1943)",
+    "institution_or_author": "George Raynor Thompson, Dixie R. Harris, Pauline M. Oakes, Dulany Terrett; U.S. Department of the Army",
+    "publication_date": "1957",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 10-17",
+    "locator": "The Call for Equipment, 인쇄 pp. 66–68 및 주 23, 26–27",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/10-17.pdf",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미 육군 통신대와 벨 연구소의 개발 협력, Western Electric의 시험용 전선 및 반송통신 장비 주문 관계를 확인했다."
+    ],
+    "limitations": [
+      "군 공식 전사가 보고한 초기 주문을 확인했다. 서명 계약서, 공장별 제조 및 실제 인수·배치 규모는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-signal-corps-test-official-history"
+  },
+  {
+    "id": "CAT-US-SRC-0113",
+    "title": "Richmond and the WWII Home Front",
+    "institution_or_author": "U.S. National Park Service; Luther Bailey 제작, Maci Roberts 내레이션",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "에피소드 소개의 노조 및 Betty Reid Soskin 단락",
+    "url": "https://www.nps.gov/podcasts/richmond-and-the-wwii-home-front.htm",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "리치먼드 카이저 조선소 노동사에 관련된 흑인 보조 지부 A-36과 소스킨의 서기 역할에 대한 기관 해설을 확인했다."
+    ],
+    "limitations": [
+      "에피소드 소개를 읽었다. 구술 원본과 노사 계약서, 특정 고용 분쟁의 책임은 미대조다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-richmond-wwii-home-front-soskin"
+  },
+  {
+    "id": "CAT-US-SRC-0114",
+    "title": "1940 Census of Population, Vol. I: Number of Inhabitants — United States Summary",
+    "institution_or_author": "U.S. Bureau of the Census",
+    "publication_date": "1942",
+    "source_type": "primary",
+    "document_or_accession_number": "33973538v1ch02",
+    "locator": "Enumeration at usual place of residence, 인쇄 p. 3; Table 1, 인쇄 p. 4 (PDF 4쪽), 각주 3–5",
+    "url": "https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch02.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "상주지 기준, 본토 131,669,275명, 준주·속령 표의 각 행과 필리핀 별도 조사·외삽, 해외 군·영사 등 별도 항목을 대조했다."
+    ],
+    "limitations": [
+      "전체 표는 기준일과 집계 유형이 다른 자료를 묶는다. 단일 시점의 거주자 총계로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-census-1940-enumeration"
+  },
+  {
+    "id": "CAT-US-SRC-0115",
+    "title": "1940 Census of Population, Vol. I: Alaska, American Samoa, Guam, Hawaii, Panama Canal Zone, Puerto Rico, and Virgin Islands",
+    "institution_or_author": "U.S. Bureau of the Census",
+    "publication_date": "1942",
+    "source_type": "primary",
+    "document_or_accession_number": "33973538v1ch11",
+    "locator": "Alaska PDF 3쪽, American Samoa 12쪽, Guam 16쪽, Hawaii 20쪽 각주 1, Canal Zone 28쪽, Puerto Rico 32쪽",
+    "url": "https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch11.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "알래스카의 1939년 10월 1일 조사와 하와이 집계에 포함된 관할 밖 7개 태평양 섬 560명 및 기타 지역 총계를 확인했다."
+    ],
+    "limitations": [
+      "114번과 같은 정기총조사의 지역편이며 독립 계수가 아니다. 운하구역의 법적 지위는 인구 보고서의 표현만으로 판정하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-census-1940-enumeration"
+  },
+  {
+    "id": "CAT-US-SRC-0116",
+    "title": "Resident Population—Estimates by Age, Sex, and Race: July 1, 1939",
+    "institution_or_author": "U.S. Census Bureau",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "PE-11-1939",
+    "locator": "PDF 첫 쪽, 표 제목의 지역 주기 및 All ages / All races: Total",
+    "url": "https://www2.census.gov/programs-surveys/popest/tables/1900-1980/national/asrh/pe-11-1939.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 7월 1일 상주인구 추계 130,879,718명과 알래스카·하와이 제외 표기를 확인했다."
+    ],
+    "limitations": [
+      "7월 1일 추계이며 9월 1일 실측값이 아니다. 정확한 발표일은 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-census-1939-midyear"
+  },
+  {
+    "id": "CAT-US-SRC-0117",
+    "title": "Estimated Population of Continental United States, for Selected Dates: April 1, 1940, to January 1, 1947",
+    "institution_or_author": "U.S. Bureau of the Census",
+    "publication_date": "1947-10-07",
+    "source_type": "primary",
+    "document_or_accession_number": "Current Population Reports P-25 No. 3",
+    "locator": "Tables 1–2, By six-month intervals, April 1 1940, January 1 1942, July 1 1945",
+    "url": "https://www2.census.gov/library/publications/1947/demographics/P25-3.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 총조사 기준점과 1942년 1월·1945년 7월 해외군 포함·제외 및 민간인 추계 열을 대조했다."
+    ],
+    "limitations": [
+      "1947년 공개 추계 계열이다. 정확한 참전일·종전일 인구 또는 국적 인구가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-census-p25-3-estimates"
+  },
+  {
+    "id": "CAT-US-SRC-0118",
+    "title": "Estimates of the Population of Hawaii, Puerto Rico, the Panama Canal Zone, and the Virgin Islands of the United States: 1940 to 1948",
+    "institution_or_author": "U.S. Bureau of the Census",
+    "publication_date": "1949-09-01",
+    "source_type": "primary",
+    "document_or_accession_number": "Current Population Reports P-25 No. 29",
+    "locator": "pp. 1–2 방법 설명, p. 4 표 판면, HAWAII 및 PUERTO RICO July 1, 1945",
+    "url": "https://www2.census.gov/library/publications/1949/demographics/P25-29.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 7월 1일 하와이 812,000명/민간 483,000명, 푸에르토리코 2,070,000명/민간 2,040,000명 및 집계 단위를 확인했다."
+    ],
+    "limitations": [
+      "사후 추계이며 두 지역은 천 명 단위 반올림이다. 본토 표와 군인 귀속을 대조하지 않은 상태에서 합산할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-census-p25-29-estimates"
+  },
+  {
+    "id": "CAT-US-SRC-0119",
+    "title": "Statistical Abstract of the United States, 1964 — Population and Area—United States and Outlying Areas: 1940 to 1960",
+    "institution_or_author": "U.S. Bureau of the Census",
+    "publication_date": "1964",
+    "source_type": "secondary",
+    "document_or_accession_number": "85th ed., No. 4",
+    "locator": "인쇄 p. 8, Table 4, Population 1940 열 및 지역 행",
+    "url": "https://www2.census.gov/library/publications/1964/compendia/statab/85ed/1964-02.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "하와이 422,770명과 외곽 섬의 별도 표기, 인접 본토와 알래스카·하와이를 합한 132,164,569명 표기를 확인했다."
+    ],
+    "limitations": [
+      "당대 총조사를 재편집한 통계표다. 독립 조사나 1940년의 주·준주 법적 분류를 나타내지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-census-1940-enumeration"
+  },
+  {
+    "id": "CAT-US-SRC-0120",
+    "title": "Statistical Abstract of the United States, 1946 — Area and Population",
+    "institution_or_author": "U.S. Bureau of the Census; 필리핀 원자료 Commonwealth of the Philippines, Commission of the Census",
+    "publication_date": "1946",
+    "source_type": "secondary",
+    "document_or_accession_number": "67th ed., No. 64",
+    "locator": "Table 64 Total·Source 및 초반 지역 합계 표의 필리핀 기준일 각주",
+    "url": "https://www2.census.gov/library/publications/1946/compendia/statab/67ed/1946-02.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "필리핀 자치령 통계위원회 1939년 총조사 제2권의 16,000,303명을 인용한 행과 1939년 1월 1일 기준일을 확인했다."
+    ],
+    "limitations": [
+      "1939년 필리핀 총조사 제2권 자체는 미열람이다. 1940년 미국 정기총조사에서 직접 센 수치로 처리하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "philippine-commonwealth-1939-census"
+  },
+  {
+    "id": "CAT-US-SRC-0121",
+    "title": "2023 Philippine Statistical Yearbook",
+    "institution_or_author": "Philippine Statistics Authority",
+    "publication_date": "2023 (연감 표제연도)",
+    "source_type": "secondary",
+    "document_or_accession_number": "Table 1.4",
+    "locator": "Population of the Philippines: Census Years 1800 to 2020, 1939 및 1948 행",
+    "url": "https://psa.gov.ph/system/files/psy/2023-Philippine-Statistical-Yearbook.pdf?vcode=ZR7N2y",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 16,000,303명과 1948년 19,234,182명이 총조사 결과로 재수록됐음을 확인했다."
+    ],
+    "limitations": [
+      "120번과 1939년 조사 원천이 같다. 두 조사 사이의 전시 피해·이동을 직접 측정하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "philippine-commonwealth-1939-census"
+  },
+  {
+    "id": "CAT-US-SRC-0122",
+    "title": "Philippine Independence Act",
+    "institution_or_author": "U.S. Congress; U.S. Government Publishing Office",
+    "publication_date": "1934-03-24",
+    "source_type": "primary",
+    "document_or_accession_number": "Public No. 127, 48 Stat. 456, ch. 84",
+    "locator": "§§1–2, 인쇄 p. 456, 자치정부 수립과 주권 철수 전의 규정",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg456.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "필리핀 자치정부 헌법 수립과 미국 주권 철수 전 적용 규정을 확인했다."
+    ],
+    "limitations": [
+      "법률의 지위 규정이며 전시 실효지배나 인구조사 결과를 설명하는 자료가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-philippine-independence-act"
+  },
+  {
+    "id": "CAT-US-SRC-0123",
+    "title": "Report of George J. McMillin, Captain, USN",
+    "institution_or_author": "George J. McMillin; U.S. National Park Service 전사",
+    "publication_date": "1945-09-11",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "Surrender of Guam to the Japanese, Report of George J. McMillin, 첫 문단",
+    "url": "https://www.nps.gov/articles/000/surrender-of-guam-to-the-japanese.htm",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "보고서가 괌과 주둔 병력의 항복일을 1941년 12월 10일 현지로 명시한다."
+    ],
+    "limitations": [
+      "포로 석방 뒤 작성된 당사자 보고다. 점령기 민간인 규모를 계수하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "usn-mcmillin-guam-surrender-report"
+  },
+  {
+    "id": "CAT-US-SRC-0124",
+    "title": "Battle of Guam",
+    "institution_or_author": "U.S. National Park Service, War in the Pacific National Historical Park",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Battle of Guam, 마지막 단락의 1944년 8월 10일 현지 확보 선언",
+    "url": "https://home.nps.gov/wapa/learn/historyculture/battle-of-guam.htm",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미군의 괌 확보 선언일을 확인했다."
+    ],
+    "limitations": [
+      "전투사 해설로 인구 이동이나 전시 인구 규모를 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-battle-of-guam"
+  },
+  {
+    "id": "CAT-US-SRC-0125",
+    "title": "Philippines Independence Day (1898): June 12, 2023",
+    "institution_or_author": "U.S. Census Bureau; Central Intelligence Agency, The World Factbook 인용",
+    "publication_date": "2023-06-12",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The World Factbook 인용 단락의 1935~1946년 서술",
+    "url": "https://www.census.gov/newsroom/stories/philippines.html",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1935년 자치령 출범, 1942년 일본 점령, 1944~45년 탈환과 1946년 7월 4일 독립의 시기를 대조했다."
+    ],
+    "limitations": [
+      "후대 기관 해설을 재인용했다. 섬별 실효지배 시점은 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "cia-philippines-historical-summary"
+  },
+  {
+    "id": "CAT-US-SRC-0126",
+    "title": "Provisional Intercensal Estimates of the Population of the United States: 1940 to 1950",
+    "institution_or_author": "U.S. Bureau of the Census",
+    "publication_date": "1951-03-22",
+    "source_type": "primary",
+    "document_or_accession_number": "Current Population Reports P-25 No. 48",
+    "locator": "서두의 개정 설명, Tables 1–2, July 1, 1945",
+    "url": "https://www2.census.gov/library/publications/1951/demographics/P25-48.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1950년 총조사 결과를 반영한 개정판의 본토 상주 132,137,000명, 해외군 포함 139,934,000명, 본토 민간 127,571,000명을 확인했다."
+    ],
+    "limitations": [
+      "앞선 추계를 개정한 천 명 단위 잠정치다. P-25 No.3과 독립 총조사가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-census-p25-3-estimates"
+  },
+  {
+    "id": "CAT-US-SRC-0127",
+    "title": "10,000 More Workers are Needed Here",
+    "institution_or_author": "The Knoxville Journal; U.S. National Park Service 발췌",
+    "publication_date": "1944-04-18",
+    "source_type": "primary",
+    "document_or_accession_number": "The Knoxville Journal 1944-04-18 p. 1",
+    "locator": "NPS 교육 자료 Reading 3의 신문 발췌, 본문 첫 두 문단",
+    "url": "https://www.nps.gov/articles/000/-h-our-history-lesson-innovation-and-employment-in-wwii-oak-ridge-tn.htm",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 신문 발췌 본문에서 Clinton Project를 확인했다."
+    ],
+    "limitations": [
+      "신문 전체 판면과 명명 명령은 미열람이다. 대괄호 안에서 명칭을 설명하는 문장은 NPS 주석이다."
+    ],
+    "rights": "신문 권리 별도 확인 필요. 발췌의 원문과 이미지는 재수록하지 않았다.",
+    "independence_group": "knoxville-journal-1944-04-18"
+  },
+  {
+    "id": "CAT-US-SRC-0128",
+    "title": "Manhattan Project Site Selection",
+    "institution_or_author": "U.S. National Park Service",
+    "publication_date": "2023-04-05 최종 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "테네시 부지 선정 및 공식 지정 문단",
+    "url": "https://home.nps.gov/articles/000/manhattan-project-site-selection.htm",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 봄까지 Clinton Engineer Works로 공식 지정했다는 기관 설명을 확인했다."
+    ],
+    "limitations": [
+      "명명 명령 원문이나 사업 구역 경계를 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-mapr-oak-ridge"
+  },
+  {
+    "id": "CAT-US-SRC-0129",
+    "title": "Oak Ridge, Tennessee",
+    "institution_or_author": "U.S. National Park Service",
+    "publication_date": "2023-09-21 최종 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Quick Facts 및 1942년 토지 취득과 1959년 자치시 설명",
+    "url": "https://www.nps.gov/places/oak-ridge-tennessee.htm",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 미 육군 공병대가 조성한 오크리지 주거지와 1959년 자치시 편입을 확인했다."
+    ],
+    "limitations": [
+      "후대 기관 설명이며 전시 주거지와 현대 시 경계의 일치 여부를 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-mapr-oak-ridge"
+  },
+  {
+    "id": "CAT-US-SRC-0130",
+    "title": "Navy Department Communiqués: June, 1942",
+    "institution_or_author": "U.S. Navy Department; ibiblio 전사",
+    "publication_date": "1942-06-03",
+    "source_type": "primary",
+    "document_or_accession_number": "1942-06-03 오후 4시 집계 공보(ibiblio 표기 No. 83)",
+    "locator": "North Pacific Area §1",
+    "url": "https://ibiblio.org/pha/comms/1942-06.html",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Dutch Harbor, Alaska라는 표기를 확인했다."
+    ],
+    "limitations": [
+      "초기 공보는 지명 표기만 활용했다. 판면을 확보하지 못해 날짜와 집계 시각을 함께 적었다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-navy-department-communiques"
+  },
+  {
+    "id": "CAT-US-SRC-0131",
+    "title": "Naval Operating Base Dutch Harbor and Fort Mears",
+    "institution_or_author": "Sandra M. Faulkner, Erwin N. Thompson; NPS Historic American Buildings Survey",
+    "publication_date": "1986-07",
+    "source_type": "secondary",
+    "document_or_accession_number": "HABS AK-34; LOC ak0047",
+    "locator": "인쇄 pp. 6–9 및 30–31",
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/ak/ak0000/ak0047/data/ak0047data.pdf",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "아마크낙섬의 항구와 만 건너편 마을을 구분하고 후대 어널래스카시의 범위를 설명한다."
+    ],
+    "limitations": [
+      "전후 조사 보고서다. 인용된 전시 군 원자료와 당대 주민의 지명 사용은 별도 확인이 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "habs-ak-34"
+  },
+  {
+    "id": "CAT-US-SRC-0132",
+    "title": "Ford Island CPO Bungalows Neighborhood and Battleship Row Cultural Landscape",
+    "institution_or_author": "U.S. National Park Service",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "문화경관 975011",
+    "locator": "Landscape History 첫 두 문단과 1940년 항공사진 설명",
+    "url": "https://www.nps.gov/articles/000/ford-island-cpo-bungalows-neighborhood-and-battleship-row-975011.htm",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Puʻuloa Lagoon, Pearl Harbor, East Loch, Ford Island, Mokuʻumeʻume의 지리적 대응을 확인했다."
+    ],
+    "limitations": [
+      "후대 해설은 전시 하와이어 표기의 사용 기간을 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-ford-island-cultural-landscape"
+  },
+  {
+    "id": "CAT-US-SRC-0133",
+    "title": "Pearl Harbor",
+    "institution_or_author": "U.S. National Park Service, Pearl Harbor National Memorial",
+    "publication_date": "2024-09-13 최종 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Wai Momi: The Ancient Hawaiian Pearl",
+    "url": "https://www.nps.gov/perl/learn/historyculture/pearl-harbor.htm",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "NPS가 진주만 일대의 전통 지명으로 Wai Momi를 설명한다."
+    ],
+    "limitations": [
+      "전쟁기 하와이어 1차 문헌은 미대조이며 Puʻuloa의 당시 지시 범위와 일치 여부는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-pearl-harbor-interpretation"
+  },
+  {
+    "id": "CAT-US-SRC-0134",
+    "title": "グァム島(大宮島)附近兵要地誌資料圖 — 소장 서지",
+    "institution_or_author": "일본 국립국회도서관; 원지도 일본 참모본부",
+    "publication_date": "[1944] 원지도 추정 간행일, 목록 게시일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "YG813-670; NDLBibID 000008255111",
+    "locator": "タイトル·タイトルよみ·縮尺·出版年月日等",
+    "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008255111",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 지도 서지의 大宮島 표기와 목록 독음 オオミヤトウ를 확인했다."
+    ],
+    "limitations": [
+      "종이 소장본의 목록만 확인했다. 원지도 판면과 점령기 명명 포고는 미열람이다."
+    ],
+    "rights": "일본 국립국회도서관 소장 자료. 목록 링크만 사용했다.",
+    "independence_group": "ndl-yg813-670"
+  },
+  {
+    "id": "CAT-US-SRC-0135",
+    "title": "Imperial Japanese Occupation of Guam (1941–1944)",
+    "institution_or_author": "U.S. National Park Service, War in the Pacific National Historical Park",
+    "publication_date": "2024-10-25 최종 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "서두, Early Occupation",
+    "url": "https://www.nps.gov/wapa/learn/historyculture/imperial-japanese-occupation.htm",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 점령 당국이 섬을 Omiya Jima로 명명했다는 해설과 Hagåtña(Agana) 병기를 확인했다."
+    ],
+    "limitations": [
+      "점령기 개명 포고나 일본어 원자료 자체는 아니다. 독음의 당대 쓰임은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-guam-occupation"
+  },
+  {
+    "id": "CAT-US-SRC-0136",
+    "title": "Guam Public Law 24-152",
+    "institution_or_author": "24th Guam Legislature; Governor of Guam; Guam Department of Land Management 스캔",
+    "publication_date": "1998-04",
+    "source_type": "primary",
+    "document_or_accession_number": "Public Law 24-152; Bill 522 (COR); 1 GCA §403(b)",
+    "locator": "PDF 4–5쪽 법문 §§1–3, PDF 1쪽 서명 전달서",
+    "url": "https://dlm.guam.gov/wp-dlm-content/uploads/2017/01/P.L.-24-152.pdf",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Agana 자치구와 수도 명칭의 법적 대응을 확인했다."
+    ],
+    "limitations": [
+      "후대 법령이며 개명 전 차모로어 구어 사용 기간과 전시 행정 경계를 특정하지 않는다."
+    ],
+    "rights": "괌 정부 공개 법령. 판면은 재수록하지 않았다.",
+    "independence_group": "guam-public-law-24-152"
+  },
+  {
+    "id": "CAT-US-SRC-0137",
+    "title": "Executive Order No. 400, Creating the City of Greater Manila",
+    "institution_or_author": "Manuel L. Quezon / 필리핀 자치령; Presidential Museum and Library 관보, Lawphil 제공",
+    "publication_date": "1942-01-01",
+    "source_type": "primary",
+    "document_or_accession_number": "EO 400; Official Gazette, Quezon Vol. 4",
+    "locator": "인쇄 p. 425, 제1–3 문단",
+    "url": "https://lawphil.net/executive/execord/eo1942/pdf/eo_400_1942.pdf",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "마닐라·케손과 여섯 지방자치단체를 포함한 대마닐라 설치를 확인했다."
+    ],
+    "limitations": [
+      "법령의 관할 범위다. 일본 점령 아래 실제 행정 집행은 별도 사료가 필요하다."
+    ],
+    "rights": "공개 열람 관보 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "philippine-commonwealth-eo-400"
+  },
+  {
+    "id": "CAT-US-SRC-0138",
+    "title": "Executive Order No. 58, Reducing the Territory of the City of Greater Manila",
+    "institution_or_author": "Sergio Osmeña / 필리핀 자치령; Supreme Court E-Library 전사",
+    "publication_date": "1945-07-26",
+    "source_type": "primary",
+    "document_or_accession_number": "EO 58; MOP Book 4, vols. 4–6 p. 95",
+    "locator": "본문 1–3 문단, 1945-08-01 효력 조항",
+    "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/76937",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "여섯 지방자치단체를 리살주로 복귀시키면서 경찰 관할은 유지하도록 한 규정을 확인했다."
+    ],
+    "limitations": [
+      "실제 집행 범위는 확인하지 않았다. Lawphil PDF와 대조했으며 동일 명령의 재현이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "philippine-commonwealth-eo-58"
+  },
+  {
+    "id": "CAT-US-SRC-0139",
+    "title": "Triumph in the Philippines",
+    "institution_or_author": "Robert Ross Smith / U.S. Army Center of Military History",
+    "publication_date": "1963 초판; 1993 재판",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 5-10-1",
+    "locator": "제13장 인쇄 pp. 238–239, 제15장 지도 6",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/5-10.pdf",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Manila, 파시그강 남쪽의 성곽 지구 Intramuros, 공공서비스권에 사용된 Greater Manila 표기를 확인했다."
+    ],
+    "limitations": [
+      "지도 6은 전후 작성한 전투사 지도다. 행정·경찰 관할도를 대신할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-cmh-smith"
+  },
+  {
+    "id": "CAT-US-SRC-0140",
+    "title": "Philippine Standard Geographic Code — National Capital Region",
+    "institution_or_author": "Philippine Statistics Authority",
+    "publication_date": "2025-07-31 기준",
+    "source_type": "primary",
+    "document_or_accession_number": "PSGC 1300000000",
+    "locator": "Cities in the Province of National Capital Region, City of Manila 및 Quezon City 행",
+    "url": "https://psa.gov.ph/classification/psgc/citimuni/1300000000",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "오늘날 수도권 분류에서 마닐라시와 케손시가 별개임을 확인했다."
+    ],
+    "limitations": [
+      "현대 지명표이며 전시 경계를 보여주지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "philippine-statistics-authority-psgc"
+  },
+  {
+    "id": "CAT-US-SRC-0141",
+    "title": "About the Intramuros Administration",
+    "institution_or_author": "Intramuros Administration / Republic of the Philippines",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "About the Intramuros Administration, Mandate",
+    "url": "https://intramuros.gov.ph/about-the-ia/",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현대 행정기관이 Intramuros를 마닐라의 역사적 성곽 지구로 지칭함을 확인했다."
+    ],
+    "limitations": [
+      "기관의 현대 명칭 및 업무 범위를 설명한다. 전시 주민의 표기를 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "philippine-intramuros-administration"
+  },
+  {
+    "id": "CAT-US-SRC-0142",
+    "title": "February 2025 marks 80 years since Battle of Manila",
+    "institution_or_author": "American Battle Monuments Commission",
+    "publication_date": "2025-02-05",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1945년 2월 3일–3월 3일과 자치령 정부 복귀 문단",
+    "url": "https://www.abmc.gov/news-events/news/february-2025-marks-80-years-battle-manila/",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 점령 이후 마닐라 탈환의 시기와 자치령 수도 복귀의 맥락을 확인했다."
+    ],
+    "limitations": [
+      "후대 기념 해설이다. 개별 시기의 행정 지명 시행 기록은 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "abmc-manila-commemoration"
+  },
+  {
+    "id": "CAT-US-SRC-0143",
+    "title": "An Act To create a legislative assembly in the Territory of Alaska",
+    "institution_or_author": "U.S. Congress / GovInfo",
+    "publication_date": "1912-08-24",
+    "source_type": "primary",
+    "document_or_accession_number": "37 Stat. 512, ch. 387",
+    "locator": "인쇄 p. 512 §§1–3",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-37/pdf/STATUTE-37-Pg512.pdf",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1867년 할양지에 준주를 조직하고 주노를 수도로 정한 규정을 확인했다."
+    ],
+    "limitations": [
+      "1867년 조약의 좌표와 전시 점령 경계를 직접 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-congress-alaska-organic-act"
+  },
+  {
+    "id": "CAT-US-SRC-0144",
+    "title": "An Act To provide a government for the Territory of Hawaii",
+    "institution_or_author": "U.S. Congress / GovInfo",
+    "publication_date": "1900-04-30",
+    "source_type": "primary",
+    "document_or_accession_number": "31 Stat. 141, ch. 339",
+    "locator": "인쇄 p. 141 §§2–3",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-31/pdf/STATUTE-31-Pg141.pdf",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1898년 합병 결의로 취득한 섬들에 하와이 준주 정부를 설치한 규정을 확인했다."
+    ],
+    "limitations": [
+      "조문은 군도 바깥 도서의 개별 관할을 열거하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-congress-hawaii-organic-act"
+  },
+  {
+    "id": "CAT-US-SRC-0145",
+    "title": "World War II National Historic Landmarks: The Aleutian Campaign",
+    "institution_or_author": "U.S. National Park Service",
+    "publication_date": "2021-10-26 최종 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Attu Battlefield 및 Japanese Occupation Site, Kiska 항목",
+    "url": "https://www.nps.gov/articles/wwii-nhl-aleu-campaign.htm",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본군의 아투·키스카 점령과 미군의 아투 탈환, 키스카 철수 및 미·캐나다군 상륙을 확인했다."
+    ],
+    "limitations": [
+      "후대 기관 해설이다. 당대 항해일지의 날짜 기준은 별도 검증 대상이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-aleutian-landmarks"
+  },
+  {
+    "id": "CAT-US-SRC-0146",
+    "title": "Treaty of Peace Between the United States and Spain",
+    "institution_or_author": "United States and Spain / U.S. Statutes at Large",
+    "publication_date": "1898-12-10",
+    "source_type": "primary",
+    "document_or_accession_number": "30 Stat. 1754",
+    "locator": "인쇄 p. 1755 제2조 및 제3조 첫 문단",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-30/pdf/STATUTE-30-Pg1754.pdf",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "괌·푸에르토리코 할양 및 필리핀 군도의 별도 조항을 확인했다."
+    ],
+    "limitations": [
+      "할양 근거로 활용했다. 제2차 세계대전 중 군정·실효 지배는 별도 자료가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "treaty-of-paris-1898"
+  },
+  {
+    "id": "CAT-US-SRC-0147",
+    "title": "An Act To provide a civil government for Porto Rico, and for other purposes",
+    "institution_or_author": "U.S. Congress / GovInfo",
+    "publication_date": "1917-03-02",
+    "source_type": "primary",
+    "document_or_accession_number": "39 Stat. 951, ch. 145",
+    "locator": "인쇄 p. 951 첫 문단",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg951.pdf",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "법 적용 범위가 본섬, 미국 소속 인접 섬과 그 수역임을 확인했다."
+    ],
+    "limitations": [
+      "후속 개정이나 각 섬의 군사시설 관할은 미대조다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-congress-jones-act-puerto-rico"
+  },
+  {
+    "id": "CAT-US-SRC-0148",
+    "title": "Report by Mr. Karl L. Rankin",
+    "institution_or_author": "Karl L. Rankin / U.S. Foreign Service; FRUS 전사",
+    "publication_date": "1943-11-25",
+    "source_type": "primary",
+    "document_or_accession_number": "701.0090/3366; FRUS 1943 vol. III doc. 984",
+    "locator": "Introduction 및 Independence, pp. 1109–1112",
+    "url": "https://history.state.gov/historicaldocuments/frus1943v03/d984",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본군정 아래 남은 자치령 행정기구와 라우렐 정부 수립 과정을 확인했다."
+    ],
+    "limitations": [
+      "미 외교관의 당대 관찰이다. 문서 반출 없이 작성했으며 본문에 예정 날짜가 있어 실제 취임 날짜의 근거로 쓰지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "rankin-1943-occupied-philippines"
+  },
+  {
+    "id": "CAT-US-SRC-0149",
+    "title": "Proclamation 2695—Independence of the Philippines",
+    "institution_or_author": "Harry S. Truman / U.S. National Archives",
+    "publication_date": "1946-07-04",
+    "source_type": "primary",
+    "document_or_accession_number": "Proclamation 2695; 11 FR 7517",
+    "locator": "Now, therefore 이하와 서명일",
+    "url": "https://www.archives.gov/federal-register/codification/proclamations/02695.html",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미국의 권리 철회 및 필리핀 독립 인정 날짜와 법률상 유보 문구를 확인했다."
+    ],
+    "limitations": [
+      "1945년 도서별 군사 통제를 설명하는 문서는 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-presidential-proclamation-2695"
+  },
+  {
+    "id": "CAT-US-SRC-0150",
+    "title": "Wake Island (Wake Island National Historic Landmark)",
+    "institution_or_author": "U.S. National Park Service, Historic American Landscapes Survey / Library of Congress",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "HALS UM-1; LOC um0061",
+    "locator": "인쇄 pp. 1, 4–5, Location 및 Original and Subsequent Owners, Occupants",
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/um/um0000/um0061/data/um0061data.pdf",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "환초의 세 섬, 전전 미국 사용과 일본군의 1941-12-23~1945-09-04 통제 기간을 확인했다."
+    ],
+    "limitations": [
+      "전후 경관조사이며 미국 권원 주장에 대한 타 당사국의 외교 문서는 미대조다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-hals-um-1"
+  },
+  {
+    "id": "CAT-US-SRC-0151",
+    "title": "Surrender Acceptance of Wake Atoll on 4 September 1945, Narrative of",
+    "institution_or_author": "Lawson H. M. Sanderson / USMC; R. D. Heinl Jr. 편찬",
+    "publication_date": "1945-09-07 작성, 1947 재수록",
+    "source_type": "primary",
+    "document_or_accession_number": "KV/A16-3/wcl, Serial 001165; GOVPUB-M-PURL-gpo86667",
+    "locator": "The Defense of Wake, 부록 VI 인쇄 pp. 70–72, 보고 §§1–8, 23 및 편집 도입부",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "9월 2일 접수단의 출항과 9월 4일 현지 서명·통제 이관을 확인했다."
+    ],
+    "limitations": [
+      "보고서 재수록본은 일부 첨부를 생략한다. 전사 편집 도입부의 9월 7일 표기와 보고서가 충돌한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "usmc-sanderson-wake-surrender"
+  },
+  {
+    "id": "CAT-US-SRC-0152",
+    "title": "Newsmap, Monday, November 29, 1943 — Map of the Pacific Theater",
+    "institution_or_author": "U.S. War Department, Army Orientation Course; Richard Edes Harrison 원도 / Truman Library",
+    "publication_date": "1943-11-29",
+    "source_type": "primary",
+    "document_or_accession_number": "Truman Library M1740",
+    "locator": "앞면 태평양 지도와 범례",
+    "url": "https://www.trumanlibrary.gov/maps/m1740-map-pacific-theater",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 지도 스캔에서 태평양 전황과 통제 표시를 확인했다."
+    ],
+    "limitations": [
+      "전시 개관도이며 법적 경계와 소도서의 개별 통치를 입증하지 않는다."
+    ],
+    "rights": "소장기관의 저작권·재출판 제한 표기 있음. 링크만 사용했다.",
+    "independence_group": "war-department-newsmap-m1740"
+  },
+  {
+    "id": "CAT-US-SRC-0153",
+    "title": "Convention for the Construction of a Ship Canal (Hay–Bunau-Varilla Treaty)",
+    "institution_or_author": "United States and Panama / U.S. Department of State, FRUS 전사",
+    "publication_date": "1903-11-18",
+    "source_type": "primary",
+    "document_or_accession_number": "33 Stat. 2234; FRUS 1904 doc. 542",
+    "locator": "제2–3조, pp. 544–545",
+    "url": "https://history.state.gov/historicaldocuments/frus1904/d542",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "운하 중심선 양측 5마일의 부여 범위, 제외 도시·항구와 주권자에 준하는 권한을 확인했다."
+    ],
+    "limitations": [
+      "조문이 정의한 범위이며 전시 지적 경계 변경이나 주권에 관한 양국 해석을 전수 검토하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "panama-canal-convention-1903"
+  },
+  {
+    "id": "CAT-US-SRC-0154",
+    "title": "General Treaty of Friendship and Cooperation Between the United States and Panama",
+    "institution_or_author": "United States and Panama / GovInfo",
+    "publication_date": "1936-03-02 서명, 1939-07-27 비준서 교환",
+    "source_type": "primary",
+    "document_or_accession_number": "53 Stat. 1807; Treaty Series 945",
+    "locator": "p. 1807 서지, 제2조 및 제10조",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-53/pdf/STATUTE-53-Pg1807.pdf",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "운하구역 밖 추가 토지에 대한 영구 부여 포기 및 공동 방위와 협의 조항을 확인했다."
+    ],
+    "limitations": [
+      "1942년 방위부지 목록은 별도 협정에 있다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "panama-us-general-treaty-1936"
+  },
+  {
+    "id": "CAT-US-SRC-0155",
+    "title": "Memorandum by the Assistant Chief of the Division of Central America and Panama Affairs (Wise)",
+    "institution_or_author": "U.S. Department of State / FRUS 전사",
+    "publication_date": "1948-01-20",
+    "source_type": "primary",
+    "document_or_accession_number": "711.19/1–2048; FRUS 1948 vol. IX doc. 467",
+    "locator": "부록 Defense Sites Agreement of May 18, 1942, pp. 648–649",
+    "url": "https://history.state.gov/historicaldocuments/frus1948v09/d467",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "파나마 관할 내 임시 사용 합의와 전쟁 종결 전 총 134곳이라는 미 국무부의 정리를 확인했다."
+    ],
+    "limitations": [
+      "협정 본문·부속 지도 원본은 미확보이며 1945-09-02 가동 부지 총수가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-state-wise-panama-memo"
+  },
+  {
+    "id": "CAT-US-SRC-0156",
+    "title": "The Secretary of State to the British Ambassador (Lindsay)",
+    "institution_or_author": "Cordell Hull / U.S. Department of State, FRUS 전사",
+    "publication_date": "1939-04-06",
+    "source_type": "primary",
+    "document_or_accession_number": "EAS 145; FRUS 1939 vol. II doc. 280",
+    "locator": "I–III, VII 및 각주 1",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v02/d280",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "권원 주장 유보, 미·영 공동관리, 양국 관리 임명 및 같은 날 영국 회신을 확인했다."
+    ],
+    "limitations": [
+      "미국 측 각서와 편집 각주를 읽었다. 현장 운영은 별도 검증 대상이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-uk-canton-enderbury-notes"
+  },
+  {
+    "id": "CAT-US-SRC-0157",
+    "title": "The British Ambassador (Lothian) to the Secretary of State",
+    "institution_or_author": "Lord Lothian / UK Government; FRUS 전사",
+    "publication_date": "1940-09-02",
+    "source_type": "primary",
+    "document_or_accession_number": "EAS 181; FRUS 1940 vol. III doc. 65",
+    "locator": "pp. 73–74, 임차 대상 및 권한 문단",
+    "url": "https://history.state.gov/historicaldocuments/frus1940v03/d65",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "뉴펀들랜드·버뮤다와 카리브해·영국령 기아나의 조건 차이 및 99년 임차를 확인했다."
+    ],
+    "limitations": [
+      "영국 각서는 개별 부지의 정확한 경계를 확정하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-uk-destroyers-for-bases-notes"
+  },
+  {
+    "id": "CAT-US-SRC-0158",
+    "title": "The Secretary of State to the British Ambassador (Lothian)",
+    "institution_or_author": "Cordell Hull / U.S. Department of State, FRUS 전사",
+    "publication_date": "1940-09-02",
+    "source_type": "primary",
+    "document_or_accession_number": "EAS 181; FRUS 1940 vol. III doc. 66",
+    "locator": "p. 75, 수락·공동 위치 검토 문단",
+    "url": "https://history.state.gov/historicaldocuments/frus1940v03/d66",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미국의 수락과 정확한 위치를 양국 전문가가 결정한다는 절차를 확인했다."
+    ],
+    "limitations": [
+      "영국 각서에 대한 회신이며 별도의 실효 운영 증거가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-uk-destroyers-for-bases-notes"
+  },
+  {
+    "id": "CAT-US-SRC-0159",
+    "title": "Declaration Regarding the Defeat of Germany and the Assumption of Supreme Authority by Allied Powers",
+    "institution_or_author": "미국·소련·영국·프랑스 임시정부 대표 / Yale Law School Avalon Project 전사",
+    "publication_date": "1945-06-05",
+    "source_type": "primary",
+    "document_or_accession_number": "TIAS 1520; 60 Stat. 1649",
+    "locator": "서문 및 4개국 최고권한 인수 문단",
+    "url": "https://avalon.law.yale.edu/wwii/ger01.asp",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "4개국 권한 인수와 독일 병합의 구별을 확인했다."
+    ],
+    "limitations": [
+      "전사본이며 서명 원판과 개별 점령구역도는 미확보다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "allied-berlin-declaration-1945"
+  },
+  {
+    "id": "CAT-US-SRC-0160",
+    "title": "Records of U.S. Occupation Headquarters, World War II",
+    "institution_or_author": "U.S. National Archives",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "NARA RG 260",
+    "locator": "§§260.2–260.3 History",
+    "url": "https://www.archives.gov/research/guide-fed-records/groups/260.html",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 점령의 4개국 통제 체제와 미 군정청의 10월 1일 설립·관할을 확인했다."
+    ],
+    "limitations": [
+      "기록군 안내이며 개별 문서철의 실제 집행 기록은 미열람이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-rg-260-guide"
+  },
+  {
+    "id": "CAT-US-SRC-0161",
+    "title": "Instructions to General of the Army Douglas MacArthur (Message No. 1)",
+    "institution_or_author": "State–War–Navy Coordinating Committee / FRUS 전사",
+    "publication_date": "1945-09-06",
+    "source_type": "primary",
+    "document_or_accession_number": "SWNCC 181/2; FRUS 1945 vol. VI doc. 491",
+    "locator": "제1–2항 및 각주 1",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v06/d491",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연합국 최고사령관의 권한과 일본 정부를 통한 통치 방침을 확인했다."
+    ],
+    "limitations": [
+      "정책 지침이며 지역별 시행 시점과 경계는 별도 사료가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "swncc-181-2"
+  },
+  {
+    "id": "CAT-US-SRC-0162",
+    "title": "Proclamation No. 1 by General of the Army Douglas MacArthur",
+    "institution_or_author": "Douglas MacArthur / U.S. Army Forces, Pacific; FRUS 전사",
+    "publication_date": "1945-09-07",
+    "source_type": "primary",
+    "document_or_accession_number": "740.00119 Control (Korea)/9–745; FRUS 1945 vol. VI doc. 776",
+    "locator": "첫 문단, 제1조 및 서명란",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v06/d776",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북위 38도 이남 군정의 권한과 요코하마에서 서명한 날을 확인했다."
+    ],
+    "limitations": [
+      "포고 본문의 점령 표현은 실제 최초 상륙일과 별도로 읽어야 한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "macarthur-korea-proclamation-1"
+  },
+  {
+    "id": "CAT-US-SRC-0163",
+    "title": "The Secretary of State to the Acting Political Adviser in Japan (Atcheson)",
+    "institution_or_author": "James F. Byrnes / U.S. Department of State; FRUS 전사",
+    "publication_date": "1945-11-16",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1945 vol. VI doc. 824, 전보 127",
+    "locator": "11월 16일 발표문 첫 세 문단",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v06/d824",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "9월 8일 첫 상륙과 38도선 기준의 항복 접수 책임을 확인했다."
+    ],
+    "limitations": [
+      "미 국무부 발표다. 현지 지역별 통제 및 소련 측 자료는 미대조다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-state-korea-1945-11-16"
+  },
+  {
+    "id": "CAT-US-SRC-0164",
+    "title": "Negotiations of the Trusteeship Agreement for the Territory of the Pacific Islands",
+    "institution_or_author": "U.S. Department of State / FRUS 전사 및 편집 각주",
+    "publication_date": "1947-04-24 작성, 1947-07-02 전달",
+    "source_type": "primary",
+    "document_or_accession_number": "FW 890.0146/4–2447; FRUS 1947 vol. I doc. 176",
+    "locator": "제16조 및 각주 3",
+    "url": "https://history.state.gov/historicaldocuments/frus1947v01/d176",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "구 일본 위임통치 제도의 신탁통치에 대한 1947년 미국 승인 시점을 확인했다."
+    ],
+    "limitations": [
+      "협상 기록과 편집 주석으로, 1945년 각 섬의 점령 경계를 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-state-pacific-trusteeship-negotiation"
+  },
+  {
+    "id": "CAT-US-SRC-0165",
+    "title": "Historical Statistics of the United States, 1789–1945, Chapter G: Minerals and Power",
+    "institution_or_author": "U.S. Bureau of the Census; 원통계 U.S. Bureau of Mines",
+    "publication_date": "1949",
+    "source_type": "primary",
+    "document_or_accession_number": "Series G 57, 106, 108, 125",
+    "locator": "원유 G 57 pp. 145–146, 합금용 광석 G 106·108 p. 150, 1차 알루미늄 G 125 p. 151",
+    "url": "https://www2.census.gov/library/publications/1949/compendia/hist_stats_1789-1945/hist_stats_1789-1945-chG.pdf",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939~1945년 원유 생산, 1943·1945년 크로마이트 및 텅스텐 광산 출하, 1943·1944년 1차 알루미늄의 수치와 단위."
+    ],
+    "limitations": [
+      "광산국이 제공한 행정통계의 편찬본. 1945년 텅스텐 출하는 1953년판과 상충한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "US Bureau of Mines — Minerals Yearbook series"
+  },
+  {
+    "id": "CAT-US-SRC-0166",
+    "title": "Statistical Abstract of the United States: 1953, 74th ed., Mining and Mineral Products",
+    "institution_or_author": "U.S. Bureau of the Census; 원통계 U.S. Bureau of Mines 중심",
+    "publication_date": "1953",
+    "source_type": "primary",
+    "document_or_accession_number": "74th edition, tables 868, 870–871, 884, 886, 898–899",
+    "locator": "표 868 원유·정제제품, p. 735 표 870–871, p. 742 표 884·886, pp. 748–749 표 898–899",
+    "url": "https://www2.census.gov/library/publications/1953/compendia/statab/74ed/1953-06.pdf",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940·1945년 원유·정제품 수입과 정제 투입, 주별 1941~1945년 원유 생산 연평균, 광산 출하·금속 생산·수입과 무역 분류."
+    ],
+    "limitations": [
+      "광산국 계열로 SRC-0165와 독립 아님. 보크사이트 수입은 출하 중량, 알루미늄 수입은 합금 및 스크랩 포함. 동일 명칭에도 시기별 편찬이 다르다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "US Bureau of Mines — Minerals Yearbook series"
+  },
+  {
+    "id": "CAT-US-SRC-0167",
+    "title": "Thirtieth Annual Report of the United States Tariff Commission, 1946",
+    "institution_or_author": "United States Tariff Commission",
+    "publication_date": "1947-01-03",
+    "source_type": "primary",
+    "document_or_accession_number": "30th Annual Report; Petroleum (Report No. 17)",
+    "locator": "송부서 및 pp. 22–23, Petroleum",
+    "url": "https://www.usitc.gov/publications/year_in_review/fy_1946_annual_report.pdf",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 증산 지역과 수요, 원유·천연 가솔린을 합친 1944년 실적과 1945년 첫 8개월 연율의 집계 범위."
+    ],
+    "limitations": [
+      "Report No. 17의 요약이다. 원유 단독 생산량이나 정제 산출량과 합산 비교할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "US Tariff Commission — wartime petroleum industry study"
+  },
+  {
+    "id": "CAT-US-SRC-0168",
+    "title": "Statistical Abstract of the United States: 1948, 69th ed., Manufactures",
+    "institution_or_author": "U.S. Bureau of the Census; 생산 원통계 American Iron and Steel Institute",
+    "publication_date": "1948",
+    "source_type": "primary",
+    "document_or_accession_number": "69th edition, tables 970–971",
+    "locator": "p. 876, 강괴·강주물과 후판 생산 및 수입 열 머리글·각주",
+    "url": "https://www2.census.gov/library/publications/1948/compendia/statab/69ed/1948-11.pdf",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939·1944·1945년 미국 강괴·강주물 생산, 1940·1944·1945년 후판 실적, 표 970 수입은 선철·합금철 열임을 확인."
+    ],
+    "limitations": [
+      "1934년 이후 강주물은 강괴도 생산하는 주물공장만 포함한다. 판재와 강괴의 생산 합산에는 중복이 생긴다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "American Iron and Steel Institute — production series"
+  },
+  {
+    "id": "CAT-US-SRC-0169",
+    "title": "Survey of Current Business, February 1946",
+    "institution_or_author": "U.S. Department of Commerce, Office of Business Economics",
+    "publication_date": "1946-02",
+    "source_type": "primary",
+    "document_or_accession_number": "February 1946 issue, Chart 15",
+    "locator": "pp. 18–20, Chart 15 및 Steel Production Declines",
+    "url": "https://fraser.stlouisfed.org/title/survey-current-business-46/february-1946-9437/fulltext",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944~1945년 강괴 생산 감소와 쇼트톤 단위, 도표 15의 강철이 생산만 나타낸다는 각주."
+    ],
+    "limitations": [
+      "강철 자료 계열은 AISI로 SRC-0168과 공유. 도표의 알루미늄·고무는 복수 품목의 합계다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "American Iron and Steel Institute — production series"
+  },
+  {
+    "id": "CAT-US-SRC-0170",
+    "title": "Wartime Production Achievements and the Reconversion Outlook: Report of the Chairman",
+    "institution_or_author": "U.S. War Production Board",
+    "publication_date": "1945-10-09",
+    "source_type": "primary",
+    "document_or_accession_number": "GOVPUB-P32_4800-042ea7e5f3aabaa77ec650cc3aa0938f",
+    "locator": "pp. 48–49 Alloy Steel·Ferroalloys, p. 57 Aluminum, pp. 91–92 United States Rubber Supply 표·Natural Rubber",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-P32_4800-042ea7e5f3aabaa77ec650cc3aa0938f/html/GOVPUB-P32_4800-042ea7e5f3aabaa77ec650cc3aa0938f.htm",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "합금강 공급 제약, 항공기 수요와 1944년 알루미늄 감산, 천연고무 수입 분기별 실적과 1944년 합성고무 생산, 1945년 추정 분기 구분."
+    ],
+    "limitations": [
+      "위원회 자체 행정 보고. 1945년 3·4분기 고무 표는 추정이며 생산 통계는 CPA 후속 집계와 계열을 공유한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "War Production Board / Civilian Production Administration — rubber production series"
+  },
+  {
+    "id": "CAT-US-SRC-0171",
+    "title": "Survey of Current Business, December 1946",
+    "institution_or_author": "U.S. Department of Commerce, Office of Business Economics; CPA 및 Census 통계",
+    "publication_date": "1946-12",
+    "source_type": "primary",
+    "document_or_accession_number": "December 1946 issue, revised series for page S-37",
+    "locator": "p. 23 Natural, Synthetic, and Reclaimed Rubber 표 및 주 1",
+    "url": "https://apps.bea.gov/scb/issues/1946/scb-1946-december.pdf",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 합성고무 생산 762,630롱톤과 1944·1945년 합성고무 수입, 천연 라텍스·과율레 및 재생고무의 집계 범위."
+    ],
+    "limitations": [
+      "생산은 CPA 및 전신 기관에서 받았으므로 WPB와 별개 원집계로 세지 않는다. 무역량은 인구조사국 통계다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "War Production Board / Civilian Production Administration — rubber production series"
+  },
+  {
+    "id": "CAT-US-SRC-0172",
+    "title": "War Production in 1944: Report of the Chairman of the War Production Board",
+    "institution_or_author": "U.S. War Production Board",
+    "publication_date": "1945-06",
+    "source_type": "primary",
+    "document_or_accession_number": "GOVPUB-P32_4800-9e92e30522a253276362395c30ab5450",
+    "locator": "p. 38 Rubber, p. III 송부서(1945-06-14)",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-P32_4800-9e92e30522a253276362395c30ab5450/html/GOVPUB-P32_4800-9e92e30522a253276362395c30ab5450.htm",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 합성고무 생산 753,000롱톤이라는 전시생산위원회 초기 보고."
+    ],
+    "limitations": [
+      "1945년 10월 보고와 차이가 있으며 품목 범위나 개정 경위는 해당 문단으로 확인되지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "War Production Board / Civilian Production Administration — rubber production series"
+  },
+  {
+    "id": "CAT-US-SRC-0173",
+    "title": "Report of the Rubber Survey Committee",
+    "institution_or_author": "Rubber Survey Committee; 위원장 Bernard M. Baruch",
+    "publication_date": "1942-09-10",
+    "source_type": "primary",
+    "document_or_accession_number": "GOVPUB-PR32_400-5ba5c11666f8237a0d7818f949cd87a7",
+    "locator": "Part I 재고·수입 전망 단락 및 Part III Table IV",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-PR32_400-5ba5c11666f8237a0d7818f949cd87a7/html/GOVPUB-PR32_400-5ba5c11666f8237a0d7818f949cd87a7.htm",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942-07-01 보유량 578,000롱톤과 1944-01-01까지 예상 수입 53,000롱톤의 구별."
+    ],
+    "limitations": [
+      "수입 수치는 물자 계획용 전망으로 전시 실적과 구분한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Rubber Survey Committee — September 1942 survey"
+  },
+  {
+    "id": "CAT-US-SRC-0174",
+    "title": "Sixth Annual Report of the United States High Commissioner to the Philippine Islands",
+    "institution_or_author": "United States High Commissioner to the Philippine Islands",
+    "publication_date": "1943",
+    "source_type": "primary",
+    "document_or_accession_number": "78th Congress, 1st session, House Document No. 111; UMass scan STACK 354.91 U58 1941/42",
+    "locator": "표지, p. 103 Mining and Mineral Production",
+    "url": "https://bataanlegacy.org/uploads/3/4/7/6/34760003/us_high_commissioner_report.pdf",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 1~9월 필리핀 크롬 광석 생산 약 315,000미터톤."
+    ],
+    "limitations": [
+      "보고 대상 회계연도는 1941-07-01~1942-06-30이나 이 수치는 별도의 달력연도 부분 실적이다. 판무관의 보고일은 1942-10-20. 광산별 생산이나 수출입 근거가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. High Commissioner to Philippine Islands — Sixth Annual Report"
+  },
+  {
+    "id": "CAT-US-SRC-0175",
+    "title": "Executive Order 8908—Restoring to the Government of the Commonwealth of the Philippines Lands Comprising the United States Chromite Reservation",
+    "institution_or_author": "Franklin D. Roosevelt; University of California, Santa Barbara 전사본",
+    "publication_date": "1941-09-25",
+    "source_type": "primary",
+    "document_or_accession_number": "Executive Order 8908 (UCSB node 372199)",
+    "locator": "본문 제3필지 반환 조항",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-8908-restoring-the-government-the-commonwealth-the-philippines-lands",
+    "accessed_at": "2026-11-14T23:02:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "필리핀 자치령 정부 관리에 잠발레스 보호구역 제3필지를 반환한 1941년 명령."
+    ],
+    "limitations": [
+      "전사본 경도 표기에 의문이 있어 위치 경계 수치는 사용하지 않았다. 명령으로 채굴·선적 실적을 산정할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. Executive Office — Executive Order 8908"
+  }
+]

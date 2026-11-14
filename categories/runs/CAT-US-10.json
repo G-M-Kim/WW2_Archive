@@ -1,0 +1,59 @@
+{
+  "step": 67,
+  "job_id": "CAT-US-10",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 10,
+  "category": "유명 연설의 영상자료",
+  "article_path": "categories/united-states/10-speech-videos.md",
+  "status": "partial",
+  "completed_at": "2026-11-14T12:54:52+09:00",
+  "started_at": "2026-11-14T12:47:38+09:00",
+  "base_head": "5750ca91c25db380edbed4f16711b1befb0754c2",
+  "source_ids": [
+    "CAT-US-SRC-0039",
+    "CAT-US-SRC-0068",
+    "CAT-US-SRC-0098",
+    "CAT-US-SRC-0099",
+    "CAT-US-SRC-0100",
+    "CAT-US-SRC-0101",
+    "CAT-US-SRC-0102",
+    "CAT-US-SRC-0103",
+    "CAT-US-SRC-0104",
+    "CAT-US-SRC-0105"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0040",
+    "CAT-US-RQ-0041",
+    "CAT-US-RQ-0042",
+    "CAT-US-RQ-0043"
+  ],
+  "entity_ids": [
+    "CAT-US-PER-0001",
+    "CAT-US-PER-0004",
+    "CAT-US-PER-0005"
+  ],
+  "research_scope": "1941년 루스벨트 합동회의 연설, 1944년 아이젠하워 D-Day 명령과 방송용 낭독, 1945년 트루먼의 8월 발표와 9월 조인 후 라디오 연설.",
+  "limitations": [
+    "루스벨트 영상 발췌는 재생했다. 전체 촬영본·원필름 계통과 음성 동기화는 미확인이다.",
+    "아이젠하워 낭독과 트루먼 9월 1일 방송의 현장 원영상은 미확보다. 미 해군 뉴스릴 장면은 소장 장면표 기준이다.",
+    "트루먼 방송시각은 소장 음원 정보와 대통령 문서집 주기가 상이하며 기타 연설은 후속 대상이다."
+  ],
+  "evidence_checked": [
+    "NARA SEN 77A-H1 전사, 국립 제2차세계대전 박물관 영상의 표본 화면과 재생 정보, NAID 1436350 음원 목록.",
+    "D-Day 발령문과 아이젠하워 대통령도서관 A/V 자료의 정지사진 편집 설명.",
+    "MP2007-22·MP72-6 소장 장면표, SR64-15 녹음 정보, Public Papers 122 전사와 조인문."
+  ],
+  "access_attempts": [
+    "The National WWII Museum 재생기에서 155.25초 클립을 실제 재생·탐색하여 표본 화면을 확인했다. 웹 문서 열람 도구는 직접 MP4를 지원하지 않았다.",
+    "Eisenhower Library 낭독 임베드와 Truman Library MP2007-22의 두 임베드는 웹 열람에서 Online fetch throttled를 반환했다. 소장기관 설명과 장면표를 열람했다.",
+    "Truman Library MP72-6의 공개 재생본은 목록에서 확보하지 못했다. 소장 장면표와 제한 표시를 확인했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=67 pending=66; sources=731 questions=271. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

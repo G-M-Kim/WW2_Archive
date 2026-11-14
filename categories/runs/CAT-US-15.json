@@ -1,0 +1,63 @@
+{
+  "step": 72,
+  "job_id": "CAT-US-15",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 15,
+  "category": "영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐",
+  "article_path": "categories/united-states/15-resources.md",
+  "status": "partial",
+  "completed_at": "2026-11-14T23:02:23+09:00",
+  "started_at": "2026-11-14T22:53:15+09:00",
+  "base_head": "f930ede672e6f192b086734860fe4c46516efc0b",
+  "source_ids": [
+    "CAT-US-SRC-0165",
+    "CAT-US-SRC-0166",
+    "CAT-US-SRC-0167",
+    "CAT-US-SRC-0168",
+    "CAT-US-SRC-0169",
+    "CAT-US-SRC-0170",
+    "CAT-US-SRC-0171",
+    "CAT-US-SRC-0172",
+    "CAT-US-SRC-0173",
+    "CAT-US-SRC-0174",
+    "CAT-US-SRC-0175"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0060",
+    "CAT-US-RQ-0061",
+    "CAT-US-RQ-0062",
+    "CAT-US-RQ-0063",
+    "CAT-US-RQ-0064",
+    "CAT-US-RQ-0065"
+  ],
+  "entity_ids": [
+    "CAT-US-GEO-0001",
+    "CAT-US-GEO-0009"
+  ],
+  "research_scope": "1939~1945년 미국 전시 6종 자원의 대표 국내 생산·수입 및 필리핀 자치령 크롬 광석 부분연도 실적.",
+  "limitations": [
+    "품목별 지역·원산지와 준주·속령 전체는 미대조다.",
+    "1944년 합성고무 생산량 및 1945년 텅스텐 광산 출하의 판본별 차이 원인은 미확인이다.",
+    "1945년 광산연감 장별 뷰어에 접근하지 못했으며 합성유·제강품 수입은 후속 과제로 남겼다."
+  ],
+  "evidence_checked": [
+    "인구조사국의 광산국·AISI 계열 표에서 원유·정제품, 강괴·강주물, 보크사이트·알루미늄, 크로마이트·텅스텐의 정의 및 수치를 확인.",
+    "WPB 및 상무부의 고무 생산·수입 통계와 고무조사위원회의 전망, 관세위원회 석유 보고, 필리핀 자치령의 광석 실적과 행정명령을 대조."
+  ],
+  "access_attempts": [
+    {
+      "institution": "University of Wisconsin–Madison Libraries",
+      "status": "inaccessible",
+      "url": "https://digital.library.wisc.edu/1711.dl/EcoNatRes.MinYB1945",
+      "detail": "권차 목차는 열렸다. Chromite, Tungsten, Bauxite, Aluminum의 장별 링크는 Unsupported Browser 화면을 반환해 본문이나 표를 확인하지 못했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=72 pending=61; sources=801 questions=293. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

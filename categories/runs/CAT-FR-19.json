@@ -1,0 +1,283 @@
+{
+  "step": 38,
+  "job_id": "CAT-FR-19",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 19,
+  "category": "개전 시점 주요 해군기지와 규모(1~10)",
+  "article_path": "categories/france/19-naval-bases-start.md",
+  "status": "partial",
+  "completed_at": "2026-11-12T02:55:17+09:00",
+  "started_at": "2026-11-12T02:47:43+09:00",
+  "base_head": "4eb9b3af2994aa5a6a34381f82be7c34079c57b4",
+  "source_ids": [
+    "CAT-FR-SRC-0155",
+    "CAT-FR-SRC-0190",
+    "CAT-FR-SRC-0191",
+    "CAT-FR-SRC-0192",
+    "CAT-FR-SRC-0193",
+    "CAT-FR-SRC-0194",
+    "CAT-FR-SRC-0195",
+    "CAT-FR-SRC-0196",
+    "CAT-FR-SRC-0197",
+    "CAT-FR-SRC-0198",
+    "CAT-FR-SRC-0199",
+    "CAT-FR-SRC-0200",
+    "CAT-FR-SRC-0201",
+    "CAT-FR-SRC-0202"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0062",
+    "CAT-FR-RQ-0063",
+    "CAT-FR-RQ-0064",
+    "CAT-FR-RQ-0065"
+  ],
+  "entity_ids": [
+    "CAT-FR-GEO-0021",
+    "CAT-FR-GEO-0022"
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-FR-GEO-0021",
+      "reference_date": "1939-09-01",
+      "historical_name": "Arsenal et port militaire de Brest",
+      "modern_location": "피니스테르주 브레스트, 팡펠드 하구 및 브레스트 정박수역",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "브레스트 팡펠드 강변 군용 아르스날과 하구 라니농 군용 부두·도크. 상항과 후대 시설 제외.",
+      "territorial_status": "1939-09-01 프랑스 공화국 본토, 프랑스 법적 관할·실효 지배",
+      "operators": "Marine nationale 및 군항 조선·수리 부문",
+      "operational_status": "기존 라니농 2기 사용 및 제3도크 공사 보도. 리슐리외 의장과 9월 편제 확인. 9월 1일 계류·가동 원장 미확인.",
+      "source_survey_dates": [
+        "1916년 기존 도크 사용 개시",
+        "1939-01-17 진수",
+        "1939-02-18 기사",
+        "1939년 9월 편제",
+        "1939-10-03 출항 자료"
+      ],
+      "metrics": [
+        {
+          "metric": "라니농 기존 도크",
+          "value": 2,
+          "unit": "기",
+          "date": "1916년 가동 시작, 1939-02-18 기존 시설 확인",
+          "boundary": "라니농 8·9번",
+          "source_id": "CAT-FR-SRC-0190",
+          "locator": "Annexe 1, Les bassins de Lanninon",
+          "capacity_or_actual": "설치 수"
+        },
+        {
+          "metric": "기존 도크 개별 길이",
+          "value": 250,
+          "unit": "m",
+          "date": "1939-02-18",
+          "boundary": "라니농 8·9번",
+          "source_id": "CAT-FR-SRC-0191",
+          "locator": "Les deux bassins actuels 문단",
+          "capacity_or_actual": "설치 치수"
+        },
+        {
+          "metric": "기존 도크 개별 입구 폭",
+          "value": 36,
+          "unit": "m",
+          "date": "1939-02-18",
+          "boundary": "라니농 8·9번",
+          "source_id": "CAT-FR-SRC-0191",
+          "locator": "Les deux bassins actuels 문단",
+          "capacity_or_actual": "설치 치수"
+        },
+        {
+          "metric": "제3도크 계획 길이",
+          "value": 305,
+          "unit": "m",
+          "date": "1939-02-18",
+          "boundary": "라니농 제3도크 공사",
+          "source_id": "CAT-FR-SRC-0191",
+          "locator": "Le bassin qui vient d’être entrepris 문단",
+          "capacity_or_actual": "공사 계획, 후속 연장 365 m"
+        },
+        {
+          "metric": "제3도크 계획 입구 폭",
+          "value": 46,
+          "unit": "m",
+          "date": "1939-02-18",
+          "boundary": "라니농 제3도크 공사",
+          "source_id": "CAT-FR-SRC-0191",
+          "locator": "같은 계획 문단",
+          "capacity_or_actual": "공사 계획"
+        },
+        {
+          "metric": "군함 도크 사용",
+          "value": "리슐리외 선수·선미 부착",
+          "unit": "작업 사례",
+          "date": "1939-01-17 진수 뒤, 입거일 미상",
+          "boundary": "라니농 9번",
+          "source_id": "CAT-FR-SRC-0193",
+          "locator": "18쪽 Carrière",
+          "capacity_or_actual": "실제 작업 사례, 수리 처리량과 별개"
+        }
+      ],
+      "anchors": [
+        {
+          "dimension": "도크",
+          "facility": "Toulon grands bassins Vauban",
+          "metric_value_or_band": "도크 두 줄, 각 442×40 m, 최대 네 구획",
+          "source_id": "CAT-FR-SRC-0194",
+          "locator": "Description",
+          "comparison_reason": "전전 건설 비교. 연속 길이·분할 길이와 측정 지점이 다르며 등급 경계로 사용하지 않음."
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "전전 도크 치수는 대조했다. 접안·수리·보급의 동시점 처리능력과 네 차원의 공통 경계 미확인.",
+      "source_ids": [
+        "CAT-FR-SRC-0190",
+        "CAT-FR-SRC-0191",
+        "CAT-FR-SRC-0192",
+        "CAT-FR-SRC-0193",
+        "CAT-FR-SRC-0194",
+        "CAT-FR-SRC-0197",
+        "CAT-FR-SRC-0198",
+        "CAT-FR-SRC-0199",
+        "CAT-FR-SRC-0201"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-FR-GEO-0022",
+      "reference_date": "1939-09-01",
+      "historical_name": "Arsenal et port militaire de Toulon",
+      "modern_location": "바르주 툴롱 소정박지 주변 군용 항만",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "툴롱 군항의 보방·카스티뇨·미시에시부터 밀로·라구브랑까지 군용 해안. 상항과 별도 항공기지 제외. 아렌은 담장 밖 부속 시설로만 표기.",
+      "territorial_status": "1939-09-01 프랑스 공화국 본토, 프랑스 법적 관할·실효 지배",
+      "operators": "Marine nationale 및 군항 조선·수리 부문",
+      "operational_status": "대형 보방 도크 완공 및 9월 제3전대 편제 확인. 9월 1일 접안 및 아렌 가동 미확인.",
+      "source_survey_dates": [
+        "1927년 또는 1928년 대형 도크 완공 서술",
+        "1938년 아렌 건설",
+        "1939년 여름 관할·9월 편제",
+        "1942-11-27 항공사진",
+        "2010년 아렌 인허가 의견서"
+      ],
+      "metrics": [
+        {
+          "metric": "대형 보방 연속 도크",
+          "value": 2,
+          "unit": "줄",
+          "date": "1927년 또는 1928년 완공 서술",
+          "boundary": "보방 대형 도크군",
+          "source_id": "CAT-FR-SRC-0194",
+          "locator": "Historique / Description",
+          "capacity_or_actual": "설치 수, 분할 시 최대 네 구획"
+        },
+        {
+          "metric": "연속 도크 한 줄 전체 길이",
+          "value": 442,
+          "unit": "m",
+          "date": "전전 도크 연혁, 치수 관측일 미상",
+          "boundary": "보방 대형 도크군",
+          "source_id": "CAT-FR-SRC-0194",
+          "locator": "Description",
+          "capacity_or_actual": "설치 치수, 단일 분할 구획의 유효 길이는 미상"
+        },
+        {
+          "metric": "연속 도크 너비",
+          "value": 40,
+          "unit": "m",
+          "date": "전전 도크 연혁, 치수 관측일 미상",
+          "boundary": "보방 대형 도크군",
+          "source_id": "CAT-FR-SRC-0194",
+          "locator": "Description",
+          "capacity_or_actual": "보고 치수, 측정 단면과 개장 전후 미확인"
+        },
+        {
+          "metric": "도크 매립지",
+          "value": 15,
+          "unit": "ha",
+          "date": "전전 도크 건설기",
+          "boundary": "보방 대형 도크군 주변",
+          "source_id": "CAT-FR-SRC-0195",
+          "locator": "§16",
+          "capacity_or_actual": "물리 면적, 군항 전체 면적 아님"
+        },
+        {
+          "metric": "아렌 지하 유류 저장소",
+          "value": "건설",
+          "unit": "시설 이력",
+          "date": "1938년",
+          "boundary": "군항 담장 밖 아렌 부속 부지",
+          "source_id": "CAT-FR-SRC-0196",
+          "locator": "1쪽 Contexte",
+          "capacity_or_actual": "설치 이력, 개전일 저장·이송 능력 미확인"
+        }
+      ],
+      "anchors": [
+        {
+          "dimension": "도크",
+          "facility": "Brest Laninon 8·9",
+          "metric_value_or_band": "도크 2기, 각 250 m 및 입구 36 m",
+          "source_id": "CAT-FR-SRC-0191",
+          "locator": "기존 도크 문단",
+          "comparison_reason": "1939년 기존 치수 비교. 보방의 분할 구획 길이·폭 정의가 달라 직접 등급화 불가."
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "도크 구조와 보급 부속시설의 건설 시점을 확인했다. 개전일 접안·입거·수리·보급 정량과 등급 경계 미확인.",
+      "source_ids": [
+        "CAT-FR-SRC-0191",
+        "CAT-FR-SRC-0194",
+        "CAT-FR-SRC-0195",
+        "CAT-FR-SRC-0196",
+        "CAT-FR-SRC-0197",
+        "CAT-FR-SRC-0198",
+        "CAT-FR-SRC-0200"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "research_scope": "1939-09-01 공통 기준일. 프랑스 본토의 브레스트와 툴롱 군항 두 곳에서 도크, 수리·보급, 실제 배치와 후대 피해를 구분한 첫 조사.",
+  "limitations": [
+    "두 기지 모두 개전일 접안 정원, 수리 처리량, 연료·탄약 능력과 공통 경계가 미확인되어 점수·범위 null.",
+    "라니농 신설 도크 치수는 계획치. 툴롱 보방 대형 도크 완공 1927/1928년 불일치와 폭의 측정 기준은 후속 과제.",
+    "개전일 계류·가동 원장 및 해외 군항은 추가 조사 필요."
+  ],
+  "evidence_checked": [
+    "브레스트 당대 신문 표제 판면·본문 전사, 리슐리외 진수 사진 판면, 라니농 문화유산 조사 부록 1",
+    "툴롱 보방 도크 문화유산 조사, Cros 논문 §12·16~17, 환경당국 아렌 저장소 보고서 1쪽",
+    "1939년 하계 해군 관할도·9월 편제표, ECPAD MARINE 1-7, 툴롱 1942-11-27 항공사진 판면, 프랑스 외교문서 368호"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://gallica.bnf.fr/ark:/12148/cb32830550k/date19390218",
+      "result": "Gallica 신문 원판 경로 HTTP 403. 1939년 2월 18일 기사 표제 이미지와 공개 전사로 제한해 사용."
+    },
+    {
+      "url": "https://journals.openedition.org/insitu/275",
+      "result": "OpenEdition 웹 도구는 검증 화면만 반환. 같은 논문의 공개 재록 본문 §12·16~17을 대조했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=38 pending=95; sources=450 questions=158. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

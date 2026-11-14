@@ -1,0 +1,58 @@
+{
+  "step": 68,
+  "job_id": "CAT-US-11",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 11,
+  "category": "유명 군수기업",
+  "article_path": "categories/united-states/11-military-industry.md",
+  "status": "partial",
+  "completed_at": "2026-11-14T15:02:45+09:00",
+  "started_at": "2026-11-14T14:56:07+09:00",
+  "base_head": "04da633921fa56a38bf010fbb2aaf29ff53cd172",
+  "source_ids": [
+    "CAT-US-SRC-0044",
+    "CAT-US-SRC-0106",
+    "CAT-US-SRC-0107",
+    "CAT-US-SRC-0108",
+    "CAT-US-SRC-0109",
+    "CAT-US-SRC-0110",
+    "CAT-US-SRC-0111",
+    "CAT-US-SRC-0112",
+    "CAT-US-SRC-0113"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0044",
+    "CAT-US-RQ-0045",
+    "CAT-US-RQ-0046",
+    "CAT-US-RQ-0047"
+  ],
+  "entity_ids": [
+    "CAT-US-ORG-0001",
+    "CAT-US-ORG-0002",
+    "CAT-US-ORG-0003",
+    "CAT-US-ORG-0004"
+  ],
+  "research_scope": "포드 윌로런의 항공기 인수와 조립 세트, 카이저 계열 리치먼드 조선소의 계약 법인·건조·노동, 웨스턴 일렉트릭의 유선 통신장비 발주와 공장 전환.",
+  "limitations": [
+    "윌로런 완성기 인수와 인도의 1대 차이 및 박물관 수치 집계 방식이 미확정이다.",
+    "리치먼드 선박별 원목록과 인수 기록, 노동 차별의 주체별 책임은 미대조다.",
+    "스크랜턴 실제 가동과 통신장비 주문별 인수 기록 및 다른 산업은 후속 대상이다."
+  ],
+  "evidence_checked": [
+    "육군항공군 통계 표 75, 공식 전사 제6권 제9장, 1942년 포드 사진 판면과 해설.",
+    "HAER CA-326-M, FEPC 최종보고서 부록의 해사위원회 고용표, 국립공원관리청의 A-36 해설.",
+    "1944년 6·11월 Bell Laboratories Record 및 육군 통신대 공식 전사 pp. 66–68."
+  ],
+  "access_attempts": [
+    "The Henry Ford의 1942년 조립라인 사진 판면 및 서지 열람.",
+    "미 의회도서관의 리치먼드 제2조선소 1943년 사진 항목(2017851973) 직접 요청은 HTTP 403. 사진을 근거로 사용하지 않고 의회도서관 HAER 보고서 판독본과 연방 고용표를 대조했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=68 pending=65; sources=739 questions=275. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

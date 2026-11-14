@@ -1,0 +1,58 @@
+{
+  "step": 22,
+  "job_id": "CAT-FR-03",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 3,
+  "category": "함선 및 함정, 무장, 성능",
+  "article_path": "categories/france/03-naval-vessels.md",
+  "status": "partial",
+  "completed_at": "2026-11-10T19:00:44+09:00",
+  "started_at": "2026-11-10T18:56:06+09:00",
+  "base_head": "f9c7d5898446098b30a0b91134931dec41df612a",
+  "source_ids": [
+    "CAT-FR-SRC-0022",
+    "CAT-FR-SRC-0023",
+    "CAT-FR-SRC-0030",
+    "CAT-FR-SRC-0031",
+    "CAT-FR-SRC-0032",
+    "CAT-FR-SRC-0033",
+    "CAT-FR-SRC-0034",
+    "CAT-FR-SRC-0035"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0012",
+    "CAT-FR-RQ-0013",
+    "CAT-FR-RQ-0014"
+  ],
+  "entity_ids": [
+    "CAT-FR-EQP-0007",
+    "CAT-FR-EQP-0008"
+  ],
+  "research_scope": "1942년 카사블랑카의 장 바르 전함과 1940~1943년 뤼비 기뢰부설 잠수함. 전시 무장, 실제 운용, 성능의 제원 조건과 전후 완성을 구분.",
+  "limitations": [
+    "장 바르의 프랑스 함 일지, 사격표·시험 원표 미확보. 미 측 일제사격 추정은 확정하지 않았다.",
+    "뤼비의 길이 표기가 상충하고 속력·배수량 실측 조건 미확인. 전시일지는 공개 전사본, FD 14 수량은 후대 편찬에 근거."
+  ],
+  "evidence_checked": [
+    "USS Massachusetts 전투보고 발췌, Hewitt 회고, 프랑스 전몰자 추모기관 장 바르 함력 및 미 해군 연표",
+    "영국 잠수함대 전시일지 598/SM.1004 전사, Henri Rousselot 회고 번역 및 Ordre de la Libération, FD 14 편찬표"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/1370096",
+      "result": "장 바르(PN 197) 기록원 직접 열람 시간 초과. 검색 결과의 자료명만 접근 단서로 남기고 본문에 인용하지 않았다."
+    },
+    {
+      "url": "https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nara-series/80-g/80-g-30000/80-G-31605.html",
+      "result": "웹 열람 HTTP 502. 사진을 확인한 증거로 사용하지 않았다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=22 pending=111; sources=283 questions=107. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 2,
+  "project_id": "ww2-seven-powers-categories-v1",
+  "branch": "draft/categories-seven-powers-v1",
+  "write_prefix": "categories/",
+  "CAT_PHASE": "running",
+  "CAT_NEXT_STEP": 73,
+  "CAT_VISITED_COUNT": 72,
+  "CAT_LAST_JOB_ID": "CAT-US-15",
+  "country_order": [
+    "DE",
+    "FR",
+    "GB",
+    "US",
+    "JP",
+    "IT",
+    "SU"
+  ],
+  "categories_per_country": 19,
+  "total_steps": 133,
+  "updated_at": "2026-11-14T23:02:23+09:00",
+  "note": "미국 15 영토의 자원 6종 부분 조사 저장. 첫 방문 72/133, 다음 CAT-US-16."
+}

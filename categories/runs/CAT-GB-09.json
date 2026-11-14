@@ -1,0 +1,65 @@
+{
+  "step": 47,
+  "job_id": "CAT-GB-09",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 9,
+  "category": "유명한 학자·연구자",
+  "article_path": "categories/united-kingdom/09-scientific-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-12T22:54:21+09:00",
+  "started_at": "2026-11-12T22:49:41+09:00",
+  "base_head": "f12b8d51630195a53e8ba321c41faeeb8b09f599",
+  "source_ids": [
+    "CAT-GB-SRC-0059",
+    "CAT-GB-SRC-0086",
+    "CAT-GB-SRC-0087",
+    "CAT-GB-SRC-0088",
+    "CAT-GB-SRC-0089",
+    "CAT-GB-SRC-0090",
+    "CAT-GB-SRC-0091",
+    "CAT-GB-SRC-0092",
+    "CAT-GB-SRC-0093",
+    "CAT-GB-SRC-0094",
+    "CAT-GB-SRC-0095"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0036",
+    "CAT-GB-RQ-0037",
+    "CAT-GB-RQ-0038",
+    "CAT-GB-RQ-0039"
+  ],
+  "entity_ids": [
+    "CAT-GB-PER-0007",
+    "CAT-GB-PER-0008",
+    "CAT-GB-PER-0009"
+  ],
+  "research_scope": "튜링과 클라크의 GC&CS 전시 암호 분석 및 왓슨와트의 항공기 탐지 연구에서 개인·동료·운용 기관의 역할을 대조했다.",
+  "limitations": [
+    "튜링 등 공동 요청 이후 실제 인력 배정과 처리량은 미확인이다.",
+    "클라크의 제8실 부책임자 임명 시점은 1944년 초와 9월로 상충한다.",
+    "당대 레이더 메모·시험일지와 미국 파견 기록은 미대조이며, 작전연구·전시 의학은 후속 범위다."
+  ],
+  "evidence_checked": [
+    "HW 1/155 공동 서한 출판 전사본 338~340쪽, GCHQ 튜링 전기, 스미스 논문 수락본",
+    "GCHQ 클라크 전기 1쪽, English Heritage D-Day and SOE 및 MacTutor Biography",
+    "과학박물관 1957-90/1, Gardiner의 1962년 회고, NPL·UKSSDC 인물 소개, 바우드지 NBR 95120 연표"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/a-dramatic-plea-for-churchills-help/",
+      "result": "웹 열람에서 403이 반환됐다. 동일 서한의 The Essential Turing 출판 전사본 338~340쪽을 실제로 열람했다."
+    },
+    {
+      "url": "https://www.ellsbury.com/hut8/hut8-000.htm",
+      "result": "제8실 내부사 HW 25/2 전사본이 시간 초과됐다. 내부사의 직접 인용은 사용하지 않았다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=47 pending=86; sources=532 questions=194. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

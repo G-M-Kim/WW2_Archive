@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CAT-JP-SRC-0001",
+    "title": "作戦要務令：綱領、総則及第1部 第2部",
+    "institution_or_author": "일본 국립국회도서관",
+    "publication_date": "1938(국립국회도서관 서지)",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "특210-640 / NDL 1439842",
+    "locator": "서지와 디지털 컬렉션 연결",
+    "url": "https://ndlsearch.ndl.go.jp/books/R100000039-I1439842",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "《작전요무령》 제1·2부의 기록."
+    ],
+    "limitations": [
+      "목록을 확인했다. 디지털 뷰어에서 원문 조항은 대조하지 못했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "jp-field-service-regulations"
+  },
+  {
+    "id": "CAT-JP-SRC-0002",
+    "title": "Handbook on Japanese Military Forces",
+    "institution_or_author": "U.S. War Department",
+    "publication_date": "1944-10-01",
+    "source_type": "primary",
+    "document_or_accession_number": "TM-E 30-480",
+    "locator": "제VII장 도입 및 Part I §I–II, 전술 원칙과 공격",
+    "url": "https://www.ibiblio.org/hyperwar/Japan/IJA/HB/HB-7.html",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "정찰·침투·기습·포위 및 공격 중시를 기술한 미군 전시 관측."
+    ],
+    "limitations": [
+      "일본군 자체 교범이 아닌 적군 정보 자료다. 저자의 국민성 관련 해석을 채택하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "us-war-department-jp-handbook"
+  },
+  {
+    "id": "CAT-JP-SRC-0003",
+    "title": "Cross-Domain Concepts of the Malaya Campaign",
+    "institution_or_author": "Robert W. Lamont / U.S. Army ARMOR",
+    "publication_date": "2014",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Preparation과 Malaya Campaign의 전진 배치·도로·우회 단락",
+    "url": "https://www.benning.army.mil/armor/earmor/content/issues/2014/JAN_FEB/Articles/Lamont.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "말라야 투입부대의 보병·전차·포병·공병 결합, 도로 기동과 측방 침투."
+    ],
+    "limitations": [
+      "선택한 전역에 특화된 연구다. 중국·태평양의 일반 편제로 확대하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "lamont-malaya"
+  },
+  {
+    "id": "CAT-JP-SRC-0004",
+    "title": "Guadalcanal: The First Offensive",
+    "institution_or_author": "John Miller, Jr. / U.S. Army Center of Military History",
+    "publication_date": "1949",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 5-3",
+    "locator": "일루강 전투 및 제XIII장 인쇄 311–313쪽",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/G%20Pdf/CMH_Pub_5-3.pdf?ver=cZWR0mMJARWo2fa9ke_qGA%3D%3D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이치키 부대 공격, 미군의 사전 조준 화력, 일본군 포병 집중과 보급의 한계."
+    ],
+    "limitations": [
+      "미군 공식 전사다. 일본군 전투일지의 독립 대조와 손실 수치 비교는 남았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "miller-guadalcanal"
+  },
+  {
+    "id": "CAT-JP-SRC-0005",
+    "title": "Investigating Iwo: The Flag Raisings in Myth, Memory, and Esprit de Corps",
+    "institution_or_author": "Charles P. Neimeyer 외 / Marine Corps History Division",
+    "publication_date": "2019",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Neimeyer의 서두, 인쇄 8쪽 및 그림 1.2",
+    "url": "https://www.usmcu.edu/Portals/218/Investigating%20Iwo_WEB3.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "구리바야시의 상호 지원 거점·동굴·갱도에 기반한 방어와 대규모 돌격 억제."
+    ],
+    "limitations": [
+      "미 해병대 역사 연구다. 일본 육·해군의 지휘 계통과 개별 진지별 명령은 추가 확인이 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "neimeyer-investigating-iwo"
+  },
+  {
+    "id": "CAT-JP-SRC-0006",
+    "title": "Crucible at Sea",
+    "institution_or_author": "U.S. Naval Institute, Naval History",
+    "publication_date": "2007-08",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "전전 미·일 함대결전 구상, 잠수함·항공·야간 어뢰전 단락",
+    "url": "https://www.usni.org/magazines/naval-history-magazine/2007/august/crucible-sea",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본의 사전 소모 구상, 구축함·순양함 야간 어뢰 공격과 훈련."
+    ],
+    "limitations": [
+      "솔로몬 전역 중심의 후대 해설이다. 해군 전체의 시기별 교범으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "usni-crucible-at-sea"
+  },
+  {
+    "id": "CAT-JP-SRC-0007",
+    "title": "Japanese Monograph No. 97: Pearl Harbor Operations — General Outline of Orders and Plans",
+    "institution_or_author": "미군의 전후 일본 전사 편찬 및 번역",
+    "publication_date": "전후 편찬",
+    "source_type": "primary",
+    "document_or_accession_number": "Japanese Monograph No. 97",
+    "locator": "1941년 11월 연합함대 명령·지시의 영문 수록 부분",
+    "url": "https://www.ibiblio.org/pha/myths/jm-097.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연합함대에 전달된 1941년 전시 준비 및 작전 지시와 항모기동부대 계획."
+    ],
+    "limitations": [
+      "전후 편찬물에 수록된 영문 명령문을 당대 문서의 번역으로 사용했다. 일본어 원본의 구절과는 미대조다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "jm-97-orders"
+  },
+  {
+    "id": "CAT-JP-SRC-0008",
+    "title": "The Campaigns of the Pacific War — Japanese Attack on Pearl Harbor",
+    "institution_or_author": "United States Strategic Bombing Survey, Naval Analysis Division",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "제II장 인쇄 13–25쪽, 목표·편제·공격",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-2.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미 태평양 함대를 일시 무력화해 남방작전 시간을 확보하려던 목적과 항모 집중."
+    ],
+    "limitations": [
+      "전후 조사 보고의 목적 설명이다. 항모 전력이 모든 전구를 동시에 제압했다는 의미는 아니다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-pacific-campaigns"
+  },
+  {
+    "id": "CAT-JP-SRC-0009",
+    "title": "The Campaigns of the Pacific War — The Battle of Midway",
+    "institution_or_author": "United States Strategic Bombing Survey, Naval Analysis Division",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "제V장 인쇄 58–77쪽, 일본 측 계획과 항모 교전",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-5.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미드웨이 점령·미 함대 유인 계획, 일본 항모 4척의 손실과 전력의 분리."
+    ],
+    "limitations": [
+      "전후 편찬의 동일 보고서에서 장만 나누었다. 진주만 장과 독립 교차검증으로 세지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-pacific-campaigns"
+  },
+  {
+    "id": "CAT-JP-SRC-0010",
+    "title": "Interrogations of Japanese Officials — Captain Oi, Atsushi",
+    "institution_or_author": "United States Strategic Bombing Survey, Naval Analysis Division",
+    "publication_date": "1945",
+    "source_type": "primary",
+    "document_or_accession_number": "Nav. No. 11; USSBS No. 61",
+    "locator": "Summary 및 Combined Escort Fleet 창설·임무 문답",
+    "url": "https://ibiblio.org/hyperwar/AAF/USSBS/IJO/IJO-11.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 11월 해상호위총사령부 창설, 기존 분산 관리와 호위 전력의 구성."
+    ],
+    "limitations": [
+      "패전 직후 담당 참모의 증언이다. 이후 상급 지휘 관계의 변경 시점은 다른 증언과 달라 채택하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-oi-interrogation"
+  },
+  {
+    "id": "CAT-JP-SRC-0011",
+    "title": "The United States Strategic Bombing Survey: Summary Report (Pacific War)",
+    "institution_or_author": "United States Strategic Bombing Survey",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "Destruction of the Japanese Merchant Fleet; 공군 교리 보충 조사: Japanese Overextension, 솔로몬·뉴기니 및 항공기·조종사 보충 단락",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Summary.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 해상수송에 가한 잠수함·항공기·기뢰의 상호 보완적 압박, 유조선 손실과 함대 기동 제약.",
+      "솔로몬 전역의 라바울 방면 항공 작전과 전쟁 초반 숙련 조종사 손실, 연료·훈련 및 보충 제약."
+    ],
+    "limitations": [
+      "미국의 전후 직후 종합 보고다. 각 수단의 공로를 저자의 집계 조건 밖으로 확대하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-pacific-summary",
+    "additional_accessed_at": [
+      "2026-11-10T17:53:55+09:00"
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0012",
+    "title": "Handbook on Japanese Military Forces — Chapter IV: Japanese Air Service",
+    "institution_or_author": "U.S. War Department",
+    "publication_date": "1944-10-01",
+    "source_type": "primary",
+    "document_or_accession_number": "TM-E 30-480",
+    "locator": "제IV장 §III Strategic Doctrine, 육군·해군 항공의 임무",
+    "url": "https://www.lonesentry.com/manuals/handbook-japanese-military/strategic-doctrine.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "육군의 적 항공력 제압·지상군 지원, 해군의 기습과 함대·상륙 지원."
+    ],
+    "limitations": [
+      "미군의 전시 적군 정보 교범이다. 일본 자체 교범 조문이나 소속 변경 날짜로 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "us-war-department-jp-handbook"
+  },
+  {
+    "id": "CAT-JP-SRC-0013",
+    "title": "A Comparative Look at Air-Ground Support Doctrine and Practice in World War II",
+    "institution_or_author": "Kenneth A. Steadman / U.S. Army Combat Studies Institute",
+    "publication_date": "1982-09-01",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The Japanese Air-Ground System in WW II",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D110-PURL-LPS71516/pdf/GOVPUB-D110-PURL-LPS71516.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 육군 항공의 적 항공력 제압 우선과 지상 정찰·지원의 관계."
+    ],
+    "limitations": [
+      "비교 연구다. 해군 항공의 전술 규정은 이 절의 범위 밖이다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "steadman-air-ground"
+  },
+  {
+    "id": "CAT-JP-SRC-0014",
+    "title": "The Fall of the Philippines",
+    "institution_or_author": "Louis Morton / U.S. Army Center of Military History",
+    "publication_date": "1953",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제4장 The Japanese Plan, 항공 작전 구역·전진 기지 계획",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-4.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제5비행집단과 제11항공함대의 작전 분담, 비행장 점령과 후속 항공 이동 계획."
+    ],
+    "limitations": [
+      "미 육군의 후대 공식 전사다. 계획상 확보 목표와 실제 사용 가능 여부를 구분했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "morton-fall-philippines"
+  },
+  {
+    "id": "CAT-JP-SRC-0015",
+    "title": "The Fall of the Philippines — The First Days of War",
+    "institution_or_author": "Louis Morton / U.S. Army Center of Military History",
+    "publication_date": "1953",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제5장 The Attack on Clark Field",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-5.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 12월 클라크 비행장에 대한 일본 해군 항공의 공격."
+    ],
+    "limitations": [
+      "제4장과 같은 공식 전사의 다른 장이다. 독립적인 교차검증으로 세지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "morton-fall-philippines"
+  },
+  {
+    "id": "CAT-JP-SRC-0016",
+    "title": "Interrogations of Japanese Officials — Captain Sonokawa, Kameo",
+    "institution_or_author": "United States Strategic Bombing Survey",
+    "publication_date": "1945-11-14",
+    "source_type": "primary",
+    "document_or_accession_number": "USSBS Naval Analysis Division, Nav. No. 77",
+    "locator": "겐잔 항공대 훈련과 대함 공격에 관한 문답",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/IJO/IJO-77.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 해군 육상 항공대의 폭격·어뢰 및 야간 훈련에 관한 참가자 설명."
+    ],
+    "limitations": [
+      "패전 직후 구술이다. 해당 항공대의 진술을 일본 항공 전체에 적용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-sonokawa-interrogation"
+  }
+]

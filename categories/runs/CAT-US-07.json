@@ -1,0 +1,63 @@
+{
+  "step": 64,
+  "job_id": "CAT-US-07",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 7,
+  "category": "유명한 전투 참여 인물",
+  "article_path": "categories/united-states/07-combat-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-14T07:01:36+09:00",
+  "started_at": "2026-11-14T06:56:32+09:00",
+  "base_head": "6a25c706e5dcbbd3d8fd07488b9ff10132aa5ff1",
+  "source_ids": [
+    "CAT-US-SRC-0039",
+    "CAT-US-SRC-0067",
+    "CAT-US-SRC-0068",
+    "CAT-US-SRC-0069",
+    "CAT-US-SRC-0070",
+    "CAT-US-SRC-0071",
+    "CAT-US-SRC-0072",
+    "CAT-US-SRC-0073",
+    "CAT-US-SRC-0074"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0028",
+    "CAT-US-RQ-0029",
+    "CAT-US-RQ-0030",
+    "CAT-US-RQ-0031"
+  ],
+  "entity_ids": [
+    "CAT-US-PER-0001",
+    "CAT-US-PER-0002",
+    "CAT-US-PER-0003"
+  ],
+  "research_scope": "미국의 아이젠하워, 니미츠, 데이비스 주니어의 전시 계급·소속·지휘 권한과 실제 역할.",
+  "limitations": [
+    "노르망디 최종 승인 절차의 회의록 원문은 확인하지 않았다.",
+    "미드웨이 두 보고서는 동일한 미군 보고 계통이며 일본측 사료는 미대조다.",
+    "데이비스 개인 출격일지와 제332전투비행단의 실적 원표는 미확인이다."
+  ],
+  "evidence_checked": [
+    "NARA 12000995와 186470의 판면 및 대통령도서관 연보.",
+    "Coll/505 약력, 미드웨이 01849·0144-A 전사, NARA 1752336 서명란.",
+    "NASM.1992.0023 전기와 연보, 프리셀 사진 LC-F9-02-4503-330-2와 캡션."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.usnwcarchives.org/repositories/2/digital_objects/22",
+      "result": "해군전쟁대학 Graybook 목록 페이지가 403이었다. 이 목록을 근거로 삼지 않았다."
+    },
+    {
+      "url": "https://www.loc.gov/item/2016645631/",
+      "result": "라미텔리 브리핑 사진 개별 항목이 403이었다. 의회도서관 사진 안내의 별도 데이비스 초상과 캡션을 열람했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=64 pending=69; sources=700 questions=259. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

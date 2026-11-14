@@ -1,0 +1,345 @@
+{
+  "step": 54,
+  "job_id": "CAT-GB-16",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 16,
+  "category": "개전 시점 주요 공업단지와 규모(1~20)",
+  "article_path": "categories/united-kingdom/16-industrial-centers-start.md",
+  "status": "partial",
+  "completed_at": "2026-11-13T11:03:23+09:00",
+  "started_at": "2026-11-13T10:56:48+09:00",
+  "base_head": "c331346dc0b0209106e66063902694060823ce7e",
+  "source_ids": [
+    "CAT-GB-SRC-0112",
+    "CAT-GB-SRC-0166",
+    "CAT-GB-SRC-0167",
+    "CAT-GB-SRC-0168",
+    "CAT-GB-SRC-0169",
+    "CAT-GB-SRC-0170",
+    "CAT-GB-SRC-0171",
+    "CAT-GB-SRC-0172",
+    "CAT-GB-SRC-0173",
+    "CAT-GB-SRC-0174",
+    "CAT-GB-SRC-0175",
+    "CAT-GB-SRC-0176"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0063",
+    "CAT-GB-RQ-0064",
+    "CAT-GB-RQ-0065",
+    "CAT-GB-RQ-0066"
+  ],
+  "entity_ids": [
+    "CAT-GB-GEO-0013",
+    "CAT-GB-GEO-0014",
+    "CAT-GB-GEO-0015"
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-GB-GEO-0013",
+      "reference_date": "1939-09-01",
+      "historical_name": "Royal Ordnance Factory Euxton / Chorley (Filling Factory No. 1)",
+      "modern_location": "랭커셔 유스턴 북동·촐리 북서",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "유스턴·촐리 본 공장 공정동·저장동·구내 운송시설. 별도 Heapey 저장시설 제외. 정확한 필지선 미확인.",
+      "territorial_status": "1939-09-01 영국 본토 잉글랜드, 영국의 실효 지배",
+      "operators": "War Office 계통 ROF, H.M. Office of Works 및 도급 시공업체 별도",
+      "operational_status": "1939년 1월 소량 가동, 4월 확대. 조사보고서에 9월 개전 무렵 본격 가동. 개전 당일 생산량·공사 준공은 미확인.",
+      "source_survey_dates": [
+        "1936-10-24 예정지",
+        "1939-04-15 인력 관측",
+        "1939년 1·4·9월 가동 기록을 인용한 2013년 조사",
+        "1990년대 사진 설명의 면적 측량일 미상"
+      ],
+      "metrics": [
+        {
+          "metric": "공장 예정지",
+          "value": 900,
+          "unit": "acres (약)",
+          "date": "1936-10-24",
+          "boundary": "유스턴·촐리 본 공장 공정동·저장동·구내 운송시설. 별도 Heapey 저장시설 제외. 정확한 필지선 미확인.",
+          "source_id": "CAT-GB-SRC-0168",
+          "locator": "p. 8 §2.4.1.4",
+          "capacity_or_actual": "계획 경계"
+        },
+        {
+          "metric": "부지 면적 하한",
+          "value": 400,
+          "unit": "ha (초과)",
+          "date": "측량일 미상, 사진 분류 1990년대",
+          "boundary": "Historic England의 Chorley 공장, 필지선 미상",
+          "source_id": "CAT-GB-SRC-0169",
+          "locator": "NMR/12920/48 설명",
+          "capacity_or_actual": "후대 부지 설명"
+        },
+        {
+          "metric": "War Office 직접 고용",
+          "value": 392,
+          "unit": "명",
+          "date": "1939-04-15",
+          "boundary": "유스턴·촐리 본 공장 공정동·저장동·구내 운송시설. 별도 Heapey 저장시설 제외. 정확한 필지선 미확인.",
+          "source_id": "CAT-GB-SRC-0167",
+          "locator": "cc2230–2232W 고용표",
+          "capacity_or_actual": "실제 고용"
+        },
+        {
+          "metric": "Office of Works 직접 고용",
+          "value": 30,
+          "unit": "명",
+          "date": "1939-04-15",
+          "boundary": "유스턴·촐리 본 공장 공정동·저장동·구내 운송시설. 별도 Heapey 저장시설 제외. 정확한 필지선 미확인.",
+          "source_id": "CAT-GB-SRC-0167",
+          "locator": "cc2230–2232W 고용표",
+          "capacity_or_actual": "실제 고용"
+        },
+        {
+          "metric": "직접 고용 합계",
+          "value": 422,
+          "unit": "명",
+          "date": "1939-04-15",
+          "boundary": "유스턴·촐리 본 공장 공정동·저장동·구내 운송시설. 별도 Heapey 저장시설 제외. 정확한 필지선 미확인.",
+          "source_id": "CAT-GB-SRC-0167",
+          "locator": "cc2230–2232W 고용표",
+          "capacity_or_actual": "실제 고용, 위 두 행 합계"
+        },
+        {
+          "metric": "도급 시공 인력",
+          "value": 5000,
+          "unit": "명 (약)",
+          "date": "1939-04-15",
+          "boundary": "유스턴·촐리 본 공장 공정동·저장동·구내 운송시설. 별도 Heapey 저장시설 제외. 정확한 필지선 미확인.",
+          "source_id": "CAT-GB-SRC-0167",
+          "locator": "cc2230–2232W 도급 인력 단락",
+          "capacity_or_actual": "실제 공사 고용"
+        },
+        {
+          "metric": "공사 전체 건물",
+          "value": 1500,
+          "unit": "동",
+          "date": "공사 전체, 개별 준공일 미상",
+          "boundary": "유스턴·촐리 본 공장 공정동·저장동·구내 운송시설. 별도 Heapey 저장시설 제외. 정확한 필지선 미확인.",
+          "source_id": "CAT-GB-SRC-0168",
+          "locator": "p. 8 §2.4.1.5",
+          "capacity_or_actual": "후대 집계"
+        },
+        {
+          "metric": "공사 전체 도로",
+          "value": 50,
+          "unit": "miles",
+          "date": "공사 전체, 개별 준공일 미상",
+          "boundary": "유스턴·촐리 본 공장 공정동·저장동·구내 운송시설. 별도 Heapey 저장시설 제외. 정확한 필지선 미확인.",
+          "source_id": "CAT-GB-SRC-0168",
+          "locator": "p. 8 §2.4.1.5",
+          "capacity_or_actual": "설치 길이, 처리량 미상"
+        },
+        {
+          "metric": "공사 전체 철도",
+          "value": 25,
+          "unit": "miles",
+          "date": "공사 전체, 개별 준공일 미상",
+          "boundary": "유스턴·촐리 본 공장 공정동·저장동·구내 운송시설. 별도 Heapey 저장시설 제외. 정확한 필지선 미확인.",
+          "source_id": "CAT-GB-SRC-0168",
+          "locator": "p. 8 §2.4.1.5",
+          "capacity_or_actual": "설치 길이, 처리량 미상"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "산업용 면적·시설 집적",
+          "facility": "Ford Motor Works, Dagenham",
+          "metric_value_or_band": "501 acres, 1930년 매입 합계",
+          "source_id": "CAT-GB-SRC-0171",
+          "locator": "1930년 추가 매입 단락",
+          "rationale": "동시대 산업용지 크기의 참고값. 시설 가동 면적과 동일하지 않아 등급 경계 설정에는 보류."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "계획 부지와 후대 면적이 서로 다른 시기·경계를 가리킨다. 9월의 정격·작업 수용·운송량과 공통 등급 경계가 미확인이다.",
+      "source_ids": [
+        "CAT-GB-SRC-0167",
+        "CAT-GB-SRC-0168",
+        "CAT-GB-SRC-0169",
+        "CAT-GB-SRC-0171"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-GB-GEO-0014",
+      "reference_date": "1939-09-01",
+      "historical_name": "Ford Motor Works, Dagenham",
+      "modern_location": "당시 에식스 대거넘, 현재 그레이터런던 템스 북안",
+      "coordinates_wgs84": {
+        "latitude": 51.5144,
+        "longitude": 0.15477,
+        "basis": "EPW055196 목록 위치 핀, 공장 중심이나 필지 경계와 구별"
+      },
+      "comparison_boundary": "대거넘 본 공장의 차량 조립·금속 공정·구내 발전·부두. 외지 공장과 주거 제외. 동일 토지 내 타 법인 작업장의 중복 집계 보류.",
+      "territorial_status": "1939-09-01 영국 본토 잉글랜드, 영국의 실효 지배",
+      "operators": "Ford Motor Company Ltd, 동일 부지의 공급업체는 별도",
+      "operational_status": "1931년 차량 출고, 1932년 정상 생산 체제와 1936년 부문 증설. 개전 당일 실적 미확인.",
+      "source_survey_dates": [
+        "1930년 초 매입 합계",
+        "1931-10-01 첫 차량",
+        "1932년 여름 정상 생산 체제",
+        "1936년 부문 증설",
+        "1937-09-03 항공사진"
+      ],
+      "metrics": [
+        {
+          "metric": "누적 토지 매입",
+          "value": 501,
+          "unit": "acres",
+          "date": "1930년 초",
+          "boundary": "Ford 회고의 대거넘 매입 토지, 가동면적과 구별",
+          "source_id": "CAT-GB-SRC-0171",
+          "locator": "1930년 추가 매입 단락",
+          "capacity_or_actual": "실제 토지 매입"
+        },
+        {
+          "metric": "강변 돌출 부두 관찰",
+          "value": 1,
+          "unit": "곳 (사진에서 식별)",
+          "date": "1937-09-03",
+          "boundary": "대거넘 본 공장의 차량 조립·금속 공정·구내 발전·부두. 외지 공장과 주거 제외. 동일 토지 내 타 법인 작업장의 중복 집계 보류.",
+          "source_id": "CAT-GB-SRC-0170",
+          "locator": "EPW055196 사진",
+          "capacity_or_actual": "설치 확인, 하역량 미상"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "산업용 면적·시설 집적",
+          "facility": "ROF Euxton / Chorley",
+          "metric_value_or_band": "약 900 acres, 1936년 예정지",
+          "source_id": "CAT-GB-SRC-0168",
+          "locator": "p. 8 §2.4.1.4",
+          "rationale": "개전 전 부지 크기의 참고값. 계획 경계이므로 가동 면적의 등급 경계 설정에는 보류."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "1930년 매입 합계 및 개전 전 부두 존재는 확인했다. 개전일 필지·정격·정원·처리량 및 공통 등급 경계가 미확인이다.",
+      "source_ids": [
+        "CAT-GB-SRC-0168",
+        "CAT-GB-SRC-0170",
+        "CAT-GB-SRC-0171",
+        "CAT-GB-SRC-0172"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-GB-GEO-0015",
+      "reference_date": "1939-09-01",
+      "historical_name": "Castle Bromwich Aircraft Factory",
+      "modern_location": "현 버밍엄 캐슬베일, 체스터 로드 서쪽",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "체스터 로드 서쪽 CBBo58 항공기 공장 부지. 인접 비행장과 던롭 공장 제외. 정확한 필지선 미확인.",
+      "territorial_status": "1939-09-01 영국 본토 잉글랜드, 영국의 실효 지배",
+      "operators": "영국 Air Ministry 부지 및 사업, Nuffield Organisation 운영 준비. 1940년 Vickers-Armstrong 전환.",
+      "operational_status": "1938년 착공. 기준일 완성·납품 실적 및 준공 설비는 미확인. 후속 계약분 인도는 1940년 6월부터.",
+      "source_survey_dates": [
+        "1936년 항공부 취득",
+        "1938년 공사 시작",
+        "1940년 6월~1941년 7월 계약분 인도",
+        "1946-10-21 계약 관련 하원 답변"
+      ],
+      "metrics": [
+        {
+          "metric": "계약 981687/39 인도분",
+          "value": 1000,
+          "unit": "대",
+          "date": "1940-06~1941-07",
+          "boundary": "체스터 로드 서쪽 CBBo58 항공기 공장 부지. 인접 비행장과 던롭 공장 제외. 정확한 필지선 미확인.",
+          "source_id": "CAT-GB-SRC-0176",
+          "locator": "Description, Contract 981687/39",
+          "capacity_or_actual": "후속 인도 기록, 개전일 능력에서 제외"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "산업용 면적·시설 집적",
+          "facility": "ROF Euxton / Chorley",
+          "metric_value_or_band": "약 900 acres, 1936년 예정지",
+          "source_id": "CAT-GB-SRC-0168",
+          "locator": "p. 8 §2.4.1.4",
+          "rationale": "개전 전 부지 크기의 참고값. 계획 경계이므로 가동 면적의 등급 경계 설정에는 보류."
+        },
+        {
+          "dimension": "산업용 면적·시설 집적",
+          "facility": "Ford Motor Works, Dagenham",
+          "metric_value_or_band": "501 acres, 1930년 매입 합계",
+          "source_id": "CAT-GB-SRC-0171",
+          "locator": "1930년 추가 매입 단락",
+          "rationale": "동시대 산업용지 크기의 참고값. 시설 가동 면적과 동일하지 않아 등급 경계 설정에는 보류."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "개전 전 토지 취득과 착공을 확인했다. 준공 면적·정격·작업 수용·물류량은 미확인이고 다른 업종 부지를 등급 기준에 적용할 수 없다.",
+      "source_ids": [
+        "CAT-GB-SRC-0112",
+        "CAT-GB-SRC-0168",
+        "CAT-GB-SRC-0171",
+        "CAT-GB-SRC-0173",
+        "CAT-GB-SRC-0174",
+        "CAT-GB-SRC-0175",
+        "CAT-GB-SRC-0176"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "research_scope": "유스턴 왕립병기공장, 포드 대거넘, 캐슬브로미치 항공기 공장의 개전 전 부지·고용·가동과 1945년 비교 경계를 조사했다.",
+  "limitations": [
+    "유스턴의 1936년 예정지·1939년 4월 고용 및 후대 면적은 개전일 현황과 구분된다.",
+    "대거넘 1930년 매입 면적과 캐슬브로미치 1940년 이후 인도는 각각 가동면적과 기준일 생산능력의 대체값에서 제외했다.",
+    "공통 등급 경계 및 개전일 설비의 정격·수용·처리량 부족으로 3개 점수를 null로 기록했다. 나머지 영국 및 해외 관할 시설은 미조사다."
+  ],
+  "evidence_checked": [
+    "1939년 Hansard vol. 351 cc291–292 및 vol. 346 cc2230–2232W, PCA RN11016 pp. 7–8",
+    "Aerofilms 1937-09-03 EPW055196 이미지 및 목록, Ford 연혁과 Benson Ford Research Center 안내",
+    "Air Ministry C.D. 1131 pp. 2–3, HS2 CBBo58 §6.3.21, Historic England 계약 981687/39 인도 이력, 1946년 Hansard vol. 427 cc1297–1298"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.rafmuseum.org.uk/research/archive-exhibitions/alex-henshaw-flying-legend-a-life-in-art/view-selected-works/castle-bromwich-spitfire/",
+      "result": "404. 검색 요약의 개별 시험비행일을 쓰지 않고 Historic England 계약분 인도 범위를 확인했다."
+    },
+    {
+      "url": "https://historicengland.org.uk/images-books/photos/item/CC010388",
+      "result": "목록은 열람했으나 이미지 미공개. 대신 1937년 EPW055196의 소장 목록과 공개 이미지를 확인했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=54 pending=79; sources=613 questions=221. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

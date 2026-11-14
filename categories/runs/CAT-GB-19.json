@@ -1,0 +1,248 @@
+{
+  "step": 57,
+  "job_id": "CAT-GB-19",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 19,
+  "category": "개전 시점 주요 해군기지와 규모(1~10)",
+  "article_path": "categories/united-kingdom/19-naval-bases-start.md",
+  "status": "partial",
+  "completed_at": "2026-11-13T17:06:31+09:00",
+  "started_at": "2026-11-13T17:00:23+09:00",
+  "base_head": "9e02d468e28eacb2c0deee806673a1129366e63c",
+  "source_ids": [
+    "CAT-GB-SRC-0005",
+    "CAT-GB-SRC-0166",
+    "CAT-GB-SRC-0196",
+    "CAT-GB-SRC-0197",
+    "CAT-GB-SRC-0198",
+    "CAT-GB-SRC-0199",
+    "CAT-GB-SRC-0200",
+    "CAT-GB-SRC-0201",
+    "CAT-GB-SRC-0202",
+    "CAT-GB-SRC-0203",
+    "CAT-GB-SRC-0204",
+    "CAT-GB-SRC-0205"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0074",
+    "CAT-GB-RQ-0075",
+    "CAT-GB-RQ-0076"
+  ],
+  "entity_ids": [
+    "CAT-GB-GEO-0018",
+    "CAT-GB-GEO-0019"
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-GB-GEO-0018",
+      "reference_date": "1939-09-01",
+      "historical_name": "Scapa Flow / Lyness",
+      "modern_location": "스코틀랜드 오크니 제도 스캐파플로·호이섬 리니스",
+      "coordinates_wgs84": null,
+      "location_national_grid": "ND 30999 94646 (리니스 펌프장 기준점)",
+      "comparison_boundary": "오크니 스캐파플로의 천연 정박 수역과 호이섬 리니스의 해군 육상 지원구역. 로사이스 등 다른 항구 및 전시 후속 증설 제외.",
+      "territorial_status": "1939-09-01 영국 본토 스코틀랜드, 영국 실효 지배",
+      "operators": "영국 해군성(Admiralty)·왕립해군(Royal Navy)",
+      "operational_status": "본국함대의 주 기지로 사용. 8월 31일 배치표와 1939년 7월 지상 탱크 가동 확인. 기준일 현존 척수·도크·수리 처리량 미확인.",
+      "source_survey_dates": [
+        "1937 펌프장",
+        "1939-07 마지막 지상 탱크 가동",
+        "1939-08-31 함대 배치",
+        "1939-11-01 후속 전쟁일지",
+        "1944년 봄 개량 안벽 완공",
+        "2013 펌프장 내부 조사"
+      ],
+      "metrics": [
+        {
+          "metric": "천연 정박 수역 면적",
+          "value": 140,
+          "unit": "square miles (약)",
+          "date": "후대 지형 서술, 조사일 미상",
+          "boundary": "Scapa Flow 천연 수역",
+          "source_id": "CAT-GB-SRC-0197",
+          "locator": "§2.3 Site History",
+          "capacity_or_actual": "지형 면적, 동시 수용량 미상"
+        },
+        {
+          "metric": "가동 지상 유류 탱크",
+          "value": 16,
+          "unit": "기",
+          "date": "1939-07 마지막 탱크 가동",
+          "boundary": "Lyness Development Area에 해당하는 지상 탱크",
+          "source_id": "CAT-GB-SRC-0197",
+          "locator": "§2.3 Site History",
+          "capacity_or_actual": "설치·가동 집계, 저장 정격·처리량 미상"
+        },
+        {
+          "metric": "주력함 배치",
+          "value": 7,
+          "unit": "척",
+          "date": "1939-08-31",
+          "boundary": "Main Fleet–Scapa Flow 행",
+          "source_id": "CAT-GB-SRC-0196",
+          "locator": "Appendix I p. 437",
+          "capacity_or_actual": "편제표 배치, 개전 당일 현존·수용량 미상"
+        },
+        {
+          "metric": "항공모함 배치",
+          "value": 1,
+          "unit": "척",
+          "date": "1939-08-31",
+          "boundary": "Main Fleet–Scapa Flow 행",
+          "source_id": "CAT-GB-SRC-0196",
+          "locator": "Appendix I p. 437",
+          "capacity_or_actual": "편제표 배치, 개전 당일 현존·수용량 미상"
+        },
+        {
+          "metric": "순양함 배치",
+          "value": 12,
+          "unit": "척",
+          "date": "1939-08-31",
+          "boundary": "Main Fleet–Scapa Flow 행",
+          "source_id": "CAT-GB-SRC-0196",
+          "locator": "Appendix I p. 437",
+          "capacity_or_actual": "편제표 배치, 개전 당일 현존·수용량 미상"
+        },
+        {
+          "metric": "구축함 배치",
+          "value": 17,
+          "unit": "척",
+          "date": "1939-08-31",
+          "boundary": "Main Fleet–Scapa Flow 행",
+          "source_id": "CAT-GB-SRC-0196",
+          "locator": "Appendix I p. 437",
+          "capacity_or_actual": "편제표 배치, 개전 당일 현존·수용량 미상"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "도크의 수·치수·입거 능력",
+          "facility": "HM Naval Base Singapore",
+          "metric_value_or_band": "고정 도크 305 m",
+          "source_id": "CAT-GB-SRC-0202",
+          "locator": "Annex C §2",
+          "rationale": "별도 유형의 당대 사례. 리니스 동등 치수 부재로 점수 경계 미설정."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "정박 수역과 지상 연료시설은 확인했다. 도크·수리·정박 수용 및 급유 정격과 공통 등급 경계가 미확인이다.",
+      "source_ids": [
+        "CAT-GB-SRC-0005",
+        "CAT-GB-SRC-0196",
+        "CAT-GB-SRC-0197",
+        "CAT-GB-SRC-0198",
+        "CAT-GB-SRC-0199",
+        "CAT-GB-SRC-0202"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-GB-GEO-0019",
+      "reference_date": "1939-09-01",
+      "historical_name": "HM Naval Base Singapore / HM Dockyard, Singapore",
+      "modern_location": "현 싱가포르 셈바왕 해안",
+      "coordinates_wgs84": null,
+      "location_national_grid": null,
+      "comparison_boundary": "조호르 해협 싱가포르 북안 셈바왕 군항과 해군 조선소의 도크·안벽·직접 지원 구역. 케펠 상항과 인접 비행장 제외.",
+      "territorial_status": "1939-09-01 영국 해협식민지 싱가포르, 영국 실효 지배",
+      "operators": "영국 해군성(Admiralty)·왕립해군(Royal Navy)",
+      "operational_status": "고정·부유식 도크가 개전 전에 마련됐다. 일부 안벽 증설 진행. 싱가포르 항역의 일부 함정 이동만 확인. 기준일 선석별 운영·입거 기록 미확인. 1942-02-15 항복 이후 일본군 점령.",
+      "source_survey_dates": [
+        "1928 부유 도크 취역",
+        "1938-02-14 고정 도크 개장 및 사진",
+        "1938-03-17 해군 예산 설명",
+        "1939-09-01~03 일부 함정 이동",
+        "1940-02-15 동쪽 안벽 공사 사진"
+      ],
+      "metrics": [
+        {
+          "metric": "조지 6세 고정 건선거 길이",
+          "value": 305,
+          "unit": "m",
+          "date": "1937 준공(NHB), 1938-02-14 개장",
+          "boundary": "King George VI Dry Dock",
+          "source_id": "CAT-GB-SRC-0202",
+          "locator": "Annex C §2",
+          "capacity_or_actual": "설치 치수, 유효 입거 길이 미상"
+        },
+        {
+          "metric": "부유식 도크 인양 능력",
+          "value": 50000,
+          "unit": "tons (원문, ton 종류 미상)",
+          "date": "1928 취역",
+          "boundary": "셈바왕 부유식 도크",
+          "source_id": "CAT-GB-SRC-0203",
+          "locator": "A New Naval Base in Asia",
+          "capacity_or_actual": "자료상 인양 정격, 실제 입거 아님"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "연료·탄약·보급 처리 설비",
+          "facility": "Scapa Flow / Lyness",
+          "metric_value_or_band": "1939년 7월 지상 탱크 16기 가동",
+          "source_id": "CAT-GB-SRC-0197",
+          "locator": "§2.3 Site History",
+          "rationale": "당대 보급 시설의 비교 사례. 셈바왕 동등 용량·처리량과 공통 등급 경계 미확인."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "도크 수치가 있으나 당일 안벽 준공·정비·보급 처리량과 공통 등급 경계 미확인.",
+      "source_ids": [
+        "CAT-GB-SRC-0197",
+        "CAT-GB-SRC-0200",
+        "CAT-GB-SRC-0201",
+        "CAT-GB-SRC-0202",
+        "CAT-GB-SRC-0203",
+        "CAT-GB-SRC-0204",
+        "CAT-GB-SRC-0205"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "research_scope": "스캐파플로·리니스의 정박·연료시설과 싱가포르 셈바왕의 도크·안벽·개장 이력을 비교했다.",
+  "limitations": [
+    "스캐파플로 1939-08-31 배치표는 개전일의 동시 정박 실측이 아니다.",
+    "셈바왕의 개장일, 후속 안벽 공사, 개전일 실가동을 구분했다. 두 기지의 네 차원 정격과 공통 경계가 부족해 미산정이다."
+  ],
+  "evidence_checked": [
+    "Collier Appendix I p. 437, Roskill 제4장 pp. 46–47, Admiralty War Diary 1939-11-01 p. 1",
+    "Orkney Council §2.3와 HES LB50533, Colonial Reports No. 1931 p. 90, Hansard vol. 333 cc626–627, TNA 안벽 사진 복제본 두 장"
+  ],
+  "access_attempts": [
+    {
+      "target": "Royal Navy Admiralty War Diary, September 1939",
+      "result": "공식 PDF가 크기 제한(400)에 걸렸고 대체 호스트는 502를 반환했다. 8월 31일 공식 전사 배치표를 대조했고 11월 일지는 후속 자료로만 사용했다."
+    },
+    {
+      "target": "NewspaperSG, Dock Opening: Air View (1938-02-20)",
+      "result": "개별 기사에서 이용조건 확인 화면을 만났다. 개장일은 식민지 연차보고서, 공사 상태는 사진 복제본과 해군 예산 의사록으로 확인했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=57 pending=76; sources=642 questions=231. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}
