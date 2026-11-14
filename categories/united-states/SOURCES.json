@@ -866,15 +866,17 @@
     "publication_date": "1945-12",
     "source_type": "primary",
     "document_or_accession_number": "AAF Statistical Digest, Table 76",
-    "locator": "인쇄 p. 118부터 이어지는 Table 76, B-17·P-51·DC-3 type 행의 Jun 1940–Aug 1945 합계 열",
+    "locator": "인쇄 p. 118부터 이어지는 Table 76, B-17·P-51·DC-3 type 행의 Jun 1940–Aug 1945 합계 열; Table 75, Ford: Willow Run, Mich. / Army – B-24",
     "url": "https://www.dafhistory.af.mil/Portals/16/documents/Timelines/USAF%20Statistical%20Digest/AFD-090608-042.pdf?ver=2016-09-02-113904-720",
     "accessed_at": "2026-11-14T00:57:50+09:00",
     "access_status": "source_checked",
     "claims_checked": [
-      "육군 관할 공장 인수 합계 B-17 12,692대, P-51 14,501대, DC-3 type 10,323대."
+      "육군 관할 공장 인수 합계 B-17 12,692대, P-51 14,501대, DC-3 type 10,323대.",
+      "2026-11-14 재열람. Table 75의 Ford Willow Run 공장 인수량은 1942년 24대, 1943년 1,291대, 1944년 3,991대, 1945년 1–8월 1,486대, 합계 6,792대다."
     ],
     "limitations": [
-      "표의 집계 단위와 기간에 한정된다. 세부 형식 생산량, 해군 관할 인수량, 배치 규모는 별도 확인이 필요하다."
+      "표의 집계 단위와 기간에 한정된다. 세부 형식 생산량, 해군 관할 인수량, 배치 규모는 별도 확인이 필요하다.",
+      "Table 75 인수량과 조립 세트 출하량은 집계 대상이 다르다. 미 육군항공군 전사는 완성기 인도를 6,791대로 기록한다."
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "us-aaf-office-statistical-control-digest"
@@ -2098,5 +2100,165 @@
     ],
     "rights": "도서관 표기는 Restricted. 목록 링크만 기록.",
     "independence_group": "paramount-movietone-truman-mp72-6"
+  },
+  {
+    "id": "CAT-US-SRC-0106",
+    "title": "B-24 Liberator Assembly Line at Ford Willow Run Bomber Plant, December 30, 1942",
+    "institution_or_author": "Ford Motor Company Photographic Department; The Henry Ford, Benson Ford Research Center",
+    "publication_date": "1942-12-30",
+    "source_type": "primary",
+    "document_or_accession_number": "P.833.77313; THF123966",
+    "locator": "사진 판면·Artifact Details·Artifact Overview",
+    "url": "https://www.thehenryford.org/collections/explore/artifact/369253",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "촬영 날짜가 명시된 사진에서 윌로런의 조립 작업을 확인했다. 후대 소장 해설은 8,685대를 제시한다."
+    ],
+    "limitations": [
+      "사진은 작업의 존재를 보여준다. 소장 해설은 8,685의 완성기·조립 세트 구분을 제공하지 않는다."
+    ],
+    "rights": "포드 기증 사진. 재사용 권리는 별도 확인이 필요하다. 자체 요약과 링크만 사용.",
+    "independence_group": "ford-photographic-department-willow-run"
+  },
+  {
+    "id": "CAT-US-SRC-0107",
+    "title": "The Army Air Forces in World War II, Vol. VI: Men and Planes, Chapter 9",
+    "institution_or_author": "Wesley Frank Craven·James Lea Cate 편; University of Chicago Press; HyperWar 전사",
+    "publication_date": "1955",
+    "source_type": "secondary",
+    "document_or_accession_number": "Vol. VI, ch. 9",
+    "locator": "B-24 생산 공동계획 단락과 인쇄 pp. 328–329 및 주 86–87",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/VI/AAF-VI-9.html",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Consolidated 설계와 업체 간 조립 분업, 포드의 완성기 6,791대 및 타 공장 조립용 1,893세트 인도 기록을 확인했다."
+    ],
+    "limitations": [
+      "후대 공식 전사다. 인도와 공장 인수의 1대 차이는 개별 인수 기록으로 확인해야 한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "aaf-official-history-men-and-planes"
+  },
+  {
+    "id": "CAT-US-SRC-0108",
+    "title": "Rosie the Riveter National Historical Park, Richmond Shipyard No. 3: Written Historical and Descriptive Data",
+    "institution_or_author": "Fredric L. Quivik; National Park Service, Historic American Engineering Record; Library of Congress",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "HAER CA-326-M; LOC ca3398",
+    "locator": "인쇄 pp. 38, 50, 58–60, 94–95 및 주 107, 130, 224",
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca3300/ca3398/data/ca3398data.pdf",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Todd-California의 상호 변경, Richmond Shipbuilding Corporation 인수 뒤 기존 계약의 별도 존속, 리치먼드 네 조선소의 합계와 선종 범위를 확인했다."
+    ],
+    "limitations": [
+      "기록에 근거한 후대 조사다. 개별 계약서와 747척 선명·진수일 원목록은 직접 대조하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-haer-richmond-shipyard-quivik"
+  },
+  {
+    "id": "CAT-US-SRC-0109",
+    "title": "Final Report, June 28, 1946",
+    "institution_or_author": "U.S. Fair Employment Practice Committee; U.S. Government Printing Office; GovInfo 전사",
+    "publication_date": "1946-06-28 보고서, 1947 간행",
+    "source_type": "primary",
+    "document_or_accession_number": "GOVPUB-PR32_400-b5497620099b9756252b6142d521effd",
+    "locator": "부록 pp. 122–123, Maritime Commission의 1944년 12월 말 Pacific Coast Region 고용표",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-PR32_400-b5497620099b9756252b6142d521effd/html/GOVPUB-PR32_400-b5497620099b9756252b6142d521effd.htm",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연방 해사위원회가 리치먼드 제1·2조선소를 합쳐 기재하고 제3·4조선소를 별도 행으로 둔 점을 확인했다."
+    ],
+    "limitations": [
+      "원자료는 당시 분류의 특정 시점 고용표다. 직종·임금·노조 지위·차별 책임을 이 표만으로 판정할 수 없다."
+    ],
+    "rights": "미국 연방정부 공개 보고서. 자체 요약과 링크만 사용.",
+    "independence_group": "us-maritime-commission-fePC-correspondence"
+  },
+  {
+    "id": "CAT-US-SRC-0110",
+    "title": "New Western Electric Plant at Scranton",
+    "institution_or_author": "Bell Telephone Laboratories, Bell Laboratories Record",
+    "publication_date": "1944-06",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "1944년 6월호 pp. 431–432",
+    "url": "https://www.worldradiohistory.com/Archive-Bell-Laboratories-Record/40s/Bell-Laboratories-Record-1944-Jun.pdf",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "5월 11일 합의에 따라 국방공장공사 시설을 Western Electric이 사용하고, 볼티모어 Point Breeze의 전선 가공 일부를 이전한다는 회사측 공지를 확인했다."
+    ],
+    "limitations": [
+      "출하와 채용은 기사 작성 시점의 예상·계획이다. 실제 가동·인수 기록은 아니다."
+    ],
+    "rights": "기업 간행물 공개 스캔. 권리 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "bell-labs-record-1944-scranton"
+  },
+  {
+    "id": "CAT-US-SRC-0111",
+    "title": "The Bell System and Communications for Railroads",
+    "institution_or_author": "Bell Telephone Laboratories, Bell Laboratories Record",
+    "publication_date": "1944-11",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "1944년 11월호 p. 587",
+    "url": "https://www.telephonearchive.com/uploads/bell-labs-records/pdfs/Bell-Laboratories-Record-1944-Nov.pdf",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Western Electric이 당시 전시 수요용 통신장비 제조에 주력했다는 회사 간행물의 진술을 확인했다."
+    ],
+    "limitations": [
+      "기업 측 동시대 진술이다. 매출·공장별 생산량이나 계약별 인수 내역은 제시하지 않는다."
+    ],
+    "rights": "기업 간행물 공개 스캔. 권리 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "bell-labs-record-1944-scranton"
+  },
+  {
+    "id": "CAT-US-SRC-0112",
+    "title": "The Signal Corps: The Test (December 1941 to July 1943)",
+    "institution_or_author": "George Raynor Thompson, Dixie R. Harris, Pauline M. Oakes, Dulany Terrett; U.S. Department of the Army",
+    "publication_date": "1957",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 10-17",
+    "locator": "The Call for Equipment, 인쇄 pp. 66–68 및 주 23, 26–27",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/10-17.pdf",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미 육군 통신대와 벨 연구소의 개발 협력, Western Electric의 시험용 전선 및 반송통신 장비 주문 관계를 확인했다."
+    ],
+    "limitations": [
+      "군 공식 전사가 보고한 초기 주문을 확인했다. 서명 계약서, 공장별 제조 및 실제 인수·배치 규모는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-signal-corps-test-official-history"
+  },
+  {
+    "id": "CAT-US-SRC-0113",
+    "title": "Richmond and the WWII Home Front",
+    "institution_or_author": "U.S. National Park Service; Luther Bailey 제작, Maci Roberts 내레이션",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "에피소드 소개의 노조 및 Betty Reid Soskin 단락",
+    "url": "https://www.nps.gov/podcasts/richmond-and-the-wwii-home-front.htm",
+    "accessed_at": "2026-11-14T15:02:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "리치먼드 카이저 조선소 노동사에 관련된 흑인 보조 지부 A-36과 소스킨의 서기 역할에 대한 기관 해설을 확인했다."
+    ],
+    "limitations": [
+      "에피소드 소개를 읽었다. 구술 원본과 노사 계약서, 특정 고용 분쟁의 책임은 미대조다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-richmond-wwii-home-front-soskin"
   }
 ]

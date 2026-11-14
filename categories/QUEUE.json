@@ -944,8 +944,9 @@
     "category": "유명 군수기업",
     "article_path": "categories/united-states/11-military-industry.md",
     "planned_at": "2026-11-14T11:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-US-11.json",
+    "completed_at": "2026-11-14T15:02:45+09:00"
   },
   {
     "step": 69,
