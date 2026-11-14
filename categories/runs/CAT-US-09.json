@@ -1,0 +1,60 @@
+{
+  "step": 66,
+  "job_id": "CAT-US-09",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 9,
+  "category": "유명한 학자·연구자",
+  "article_path": "categories/united-states/09-scientific-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-14T10:55:01+09:00",
+  "started_at": "2026-11-14T10:49:30+09:00",
+  "base_head": "c7f63a159018173b495879001142fdefa96d3a45",
+  "source_ids": [
+    "CAT-US-SRC-0087",
+    "CAT-US-SRC-0088",
+    "CAT-US-SRC-0089",
+    "CAT-US-SRC-0090",
+    "CAT-US-SRC-0091",
+    "CAT-US-SRC-0092",
+    "CAT-US-SRC-0093",
+    "CAT-US-SRC-0094",
+    "CAT-US-SRC-0095",
+    "CAT-US-SRC-0096",
+    "CAT-US-SRC-0097"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0036",
+    "CAT-US-RQ-0037",
+    "CAT-US-RQ-0038",
+    "CAT-US-RQ-0039"
+  ],
+  "entity_ids": [
+    "CAT-US-PER-0007",
+    "CAT-US-PER-0008",
+    "CAT-US-PER-0009"
+  ],
+  "research_scope": "부시의 OSRD 연구 조정과 전후 과학정책 제안, 드루의 영국 지원 및 미국 적십자 헌혈 사업, 호퍼의 해군 Mark I 계산팀과 매뉴얼 집필 기여.",
+  "limitations": [
+    "드루의 시범사업 직함·이임과 영국 지원 수치의 집계 기준이 상충한다. 서한 판독 및 보고서 본문 확인은 보류했다.",
+    "호퍼의 초기 프로그래밍 순번은 후대 해설이 상충한다. 매뉴얼 서문은 추출 텍스트로 대조했다.",
+    "OSRD 개별 사업 집행과 다른 연구팀은 후속 과제다."
+  ],
+  "evidence_checked": [
+    "EO 8807 본문, NARA RG 227 기반 기관사, 부시 보고서 송부 서한과 재단 제안.",
+    "NLM 자료집 해설, 미국 적십자 기관사, 스미스소니언 해설을 대조. 드루 서한·사업보고서는 목록 확인.",
+    "Harvard CHSI 및 해군 CHIPS 인물 설명과 1946년 매뉴얼 에이컨 서문의 업무 시점·집필 분담."
+  ],
+  "access_attempts": [
+    "DocsTeach NAID 304958 목록·축소 이미지 열람. 전체 해상도 이미지 호출 실패로 서한 본문 판독 보류.",
+    "McGill P226-06-005 소장 목록 열람. 온라인 목록에서 보고서 본문 확보하지 못함.",
+    "Harvard CHSI의 Internet Archive 뷰어 링크에서 서지 확인. INFN 호스팅 스캔의 추출 본문으로 서문을 대조했으며 PDF 판면 요청은 시간 초과."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=66 pending=67; sources=723 questions=267. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}
