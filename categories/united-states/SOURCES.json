@@ -2260,5 +2260,265 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "nps-richmond-wwii-home-front-soskin"
+  },
+  {
+    "id": "CAT-US-SRC-0114",
+    "title": "1940 Census of Population, Vol. I: Number of Inhabitants — United States Summary",
+    "institution_or_author": "U.S. Bureau of the Census",
+    "publication_date": "1942",
+    "source_type": "primary",
+    "document_or_accession_number": "33973538v1ch02",
+    "locator": "Enumeration at usual place of residence, 인쇄 p. 3; Table 1, 인쇄 p. 4 (PDF 4쪽), 각주 3–5",
+    "url": "https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch02.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "상주지 기준, 본토 131,669,275명, 준주·속령 표의 각 행과 필리핀 별도 조사·외삽, 해외 군·영사 등 별도 항목을 대조했다."
+    ],
+    "limitations": [
+      "전체 표는 기준일과 집계 유형이 다른 자료를 묶는다. 단일 시점의 거주자 총계로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-census-1940-enumeration"
+  },
+  {
+    "id": "CAT-US-SRC-0115",
+    "title": "1940 Census of Population, Vol. I: Alaska, American Samoa, Guam, Hawaii, Panama Canal Zone, Puerto Rico, and Virgin Islands",
+    "institution_or_author": "U.S. Bureau of the Census",
+    "publication_date": "1942",
+    "source_type": "primary",
+    "document_or_accession_number": "33973538v1ch11",
+    "locator": "Alaska PDF 3쪽, American Samoa 12쪽, Guam 16쪽, Hawaii 20쪽 각주 1, Canal Zone 28쪽, Puerto Rico 32쪽",
+    "url": "https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch11.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "알래스카의 1939년 10월 1일 조사와 하와이 집계에 포함된 관할 밖 7개 태평양 섬 560명 및 기타 지역 총계를 확인했다."
+    ],
+    "limitations": [
+      "114번과 같은 정기총조사의 지역편이며 독립 계수가 아니다. 운하구역의 법적 지위는 인구 보고서의 표현만으로 판정하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-census-1940-enumeration"
+  },
+  {
+    "id": "CAT-US-SRC-0116",
+    "title": "Resident Population—Estimates by Age, Sex, and Race: July 1, 1939",
+    "institution_or_author": "U.S. Census Bureau",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "PE-11-1939",
+    "locator": "PDF 첫 쪽, 표 제목의 지역 주기 및 All ages / All races: Total",
+    "url": "https://www2.census.gov/programs-surveys/popest/tables/1900-1980/national/asrh/pe-11-1939.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 7월 1일 상주인구 추계 130,879,718명과 알래스카·하와이 제외 표기를 확인했다."
+    ],
+    "limitations": [
+      "7월 1일 추계이며 9월 1일 실측값이 아니다. 정확한 발표일은 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-census-1939-midyear"
+  },
+  {
+    "id": "CAT-US-SRC-0117",
+    "title": "Estimated Population of Continental United States, for Selected Dates: April 1, 1940, to January 1, 1947",
+    "institution_or_author": "U.S. Bureau of the Census",
+    "publication_date": "1947-10-07",
+    "source_type": "primary",
+    "document_or_accession_number": "Current Population Reports P-25 No. 3",
+    "locator": "Tables 1–2, By six-month intervals, April 1 1940, January 1 1942, July 1 1945",
+    "url": "https://www2.census.gov/library/publications/1947/demographics/P25-3.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 총조사 기준점과 1942년 1월·1945년 7월 해외군 포함·제외 및 민간인 추계 열을 대조했다."
+    ],
+    "limitations": [
+      "1947년 공개 추계 계열이다. 정확한 참전일·종전일 인구 또는 국적 인구가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-census-p25-3-estimates"
+  },
+  {
+    "id": "CAT-US-SRC-0118",
+    "title": "Estimates of the Population of Hawaii, Puerto Rico, the Panama Canal Zone, and the Virgin Islands of the United States: 1940 to 1948",
+    "institution_or_author": "U.S. Bureau of the Census",
+    "publication_date": "1949-09-01",
+    "source_type": "primary",
+    "document_or_accession_number": "Current Population Reports P-25 No. 29",
+    "locator": "pp. 1–2 방법 설명, p. 4 표 판면, HAWAII 및 PUERTO RICO July 1, 1945",
+    "url": "https://www2.census.gov/library/publications/1949/demographics/P25-29.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 7월 1일 하와이 812,000명/민간 483,000명, 푸에르토리코 2,070,000명/민간 2,040,000명 및 집계 단위를 확인했다."
+    ],
+    "limitations": [
+      "사후 추계이며 두 지역은 천 명 단위 반올림이다. 본토 표와 군인 귀속을 대조하지 않은 상태에서 합산할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-census-p25-29-estimates"
+  },
+  {
+    "id": "CAT-US-SRC-0119",
+    "title": "Statistical Abstract of the United States, 1964 — Population and Area—United States and Outlying Areas: 1940 to 1960",
+    "institution_or_author": "U.S. Bureau of the Census",
+    "publication_date": "1964",
+    "source_type": "secondary",
+    "document_or_accession_number": "85th ed., No. 4",
+    "locator": "인쇄 p. 8, Table 4, Population 1940 열 및 지역 행",
+    "url": "https://www2.census.gov/library/publications/1964/compendia/statab/85ed/1964-02.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "하와이 422,770명과 외곽 섬의 별도 표기, 인접 본토와 알래스카·하와이를 합한 132,164,569명 표기를 확인했다."
+    ],
+    "limitations": [
+      "당대 총조사를 재편집한 통계표다. 독립 조사나 1940년의 주·준주 법적 분류를 나타내지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-census-1940-enumeration"
+  },
+  {
+    "id": "CAT-US-SRC-0120",
+    "title": "Statistical Abstract of the United States, 1946 — Area and Population",
+    "institution_or_author": "U.S. Bureau of the Census; 필리핀 원자료 Commonwealth of the Philippines, Commission of the Census",
+    "publication_date": "1946",
+    "source_type": "secondary",
+    "document_or_accession_number": "67th ed., No. 64",
+    "locator": "Table 64 Total·Source 및 초반 지역 합계 표의 필리핀 기준일 각주",
+    "url": "https://www2.census.gov/library/publications/1946/compendia/statab/67ed/1946-02.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "필리핀 자치령 통계위원회 1939년 총조사 제2권의 16,000,303명을 인용한 행과 1939년 1월 1일 기준일을 확인했다."
+    ],
+    "limitations": [
+      "1939년 필리핀 총조사 제2권 자체는 미열람이다. 1940년 미국 정기총조사에서 직접 센 수치로 처리하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "philippine-commonwealth-1939-census"
+  },
+  {
+    "id": "CAT-US-SRC-0121",
+    "title": "2023 Philippine Statistical Yearbook",
+    "institution_or_author": "Philippine Statistics Authority",
+    "publication_date": "2023 (연감 표제연도)",
+    "source_type": "secondary",
+    "document_or_accession_number": "Table 1.4",
+    "locator": "Population of the Philippines: Census Years 1800 to 2020, 1939 및 1948 행",
+    "url": "https://psa.gov.ph/system/files/psy/2023-Philippine-Statistical-Yearbook.pdf?vcode=ZR7N2y",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 16,000,303명과 1948년 19,234,182명이 총조사 결과로 재수록됐음을 확인했다."
+    ],
+    "limitations": [
+      "120번과 1939년 조사 원천이 같다. 두 조사 사이의 전시 피해·이동을 직접 측정하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "philippine-commonwealth-1939-census"
+  },
+  {
+    "id": "CAT-US-SRC-0122",
+    "title": "Philippine Independence Act",
+    "institution_or_author": "U.S. Congress; U.S. Government Publishing Office",
+    "publication_date": "1934-03-24",
+    "source_type": "primary",
+    "document_or_accession_number": "Public No. 127, 48 Stat. 456, ch. 84",
+    "locator": "§§1–2, 인쇄 p. 456, 자치정부 수립과 주권 철수 전의 규정",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg456.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "필리핀 자치정부 헌법 수립과 미국 주권 철수 전 적용 규정을 확인했다."
+    ],
+    "limitations": [
+      "법률의 지위 규정이며 전시 실효지배나 인구조사 결과를 설명하는 자료가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-philippine-independence-act"
+  },
+  {
+    "id": "CAT-US-SRC-0123",
+    "title": "Report of George J. McMillin, Captain, USN",
+    "institution_or_author": "George J. McMillin; U.S. National Park Service 전사",
+    "publication_date": "1945-09-11",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "Surrender of Guam to the Japanese, Report of George J. McMillin, 첫 문단",
+    "url": "https://www.nps.gov/articles/000/surrender-of-guam-to-the-japanese.htm",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "보고서가 괌과 주둔 병력의 항복일을 1941년 12월 10일 현지로 명시한다."
+    ],
+    "limitations": [
+      "포로 석방 뒤 작성된 당사자 보고다. 점령기 민간인 규모를 계수하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "usn-mcmillin-guam-surrender-report"
+  },
+  {
+    "id": "CAT-US-SRC-0124",
+    "title": "Battle of Guam",
+    "institution_or_author": "U.S. National Park Service, War in the Pacific National Historical Park",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Battle of Guam, 마지막 단락의 1944년 8월 10일 현지 확보 선언",
+    "url": "https://home.nps.gov/wapa/learn/historyculture/battle-of-guam.htm",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미군의 괌 확보 선언일을 확인했다."
+    ],
+    "limitations": [
+      "전투사 해설로 인구 이동이나 전시 인구 규모를 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-battle-of-guam"
+  },
+  {
+    "id": "CAT-US-SRC-0125",
+    "title": "Philippines Independence Day (1898): June 12, 2023",
+    "institution_or_author": "U.S. Census Bureau; Central Intelligence Agency, The World Factbook 인용",
+    "publication_date": "2023-06-12",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The World Factbook 인용 단락의 1935~1946년 서술",
+    "url": "https://www.census.gov/newsroom/stories/philippines.html",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1935년 자치령 출범, 1942년 일본 점령, 1944~45년 탈환과 1946년 7월 4일 독립의 시기를 대조했다."
+    ],
+    "limitations": [
+      "후대 기관 해설을 재인용했다. 섬별 실효지배 시점은 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "cia-philippines-historical-summary"
+  },
+  {
+    "id": "CAT-US-SRC-0126",
+    "title": "Provisional Intercensal Estimates of the Population of the United States: 1940 to 1950",
+    "institution_or_author": "U.S. Bureau of the Census",
+    "publication_date": "1951-03-22",
+    "source_type": "primary",
+    "document_or_accession_number": "Current Population Reports P-25 No. 48",
+    "locator": "서두의 개정 설명, Tables 1–2, July 1, 1945",
+    "url": "https://www2.census.gov/library/publications/1951/demographics/P25-48.pdf",
+    "accessed_at": "2026-11-14T17:05:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1950년 총조사 결과를 반영한 개정판의 본토 상주 132,137,000명, 해외군 포함 139,934,000명, 본토 민간 127,571,000명을 확인했다."
+    ],
+    "limitations": [
+      "앞선 추계를 개정한 천 명 단위 잠정치다. P-25 No.3과 독립 총조사가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-census-p25-3-estimates"
   }
 ]
