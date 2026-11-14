@@ -972,8 +972,9 @@
     "category": "당시 기준 지명",
     "article_path": "categories/united-states/13-historical-place-names.md",
     "planned_at": "2026-11-14T15:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-US-13.json",
+    "completed_at": "2026-11-14T19:00:29+09:00"
   },
   {
     "step": 71,

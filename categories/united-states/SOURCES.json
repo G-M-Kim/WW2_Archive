@@ -2520,5 +2520,325 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "us-census-p25-3-estimates"
+  },
+  {
+    "id": "CAT-US-SRC-0127",
+    "title": "10,000 More Workers are Needed Here",
+    "institution_or_author": "The Knoxville Journal; U.S. National Park Service 발췌",
+    "publication_date": "1944-04-18",
+    "source_type": "primary",
+    "document_or_accession_number": "The Knoxville Journal 1944-04-18 p. 1",
+    "locator": "NPS 교육 자료 Reading 3의 신문 발췌, 본문 첫 두 문단",
+    "url": "https://www.nps.gov/articles/000/-h-our-history-lesson-innovation-and-employment-in-wwii-oak-ridge-tn.htm",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 신문 발췌 본문에서 Clinton Project를 확인했다."
+    ],
+    "limitations": [
+      "신문 전체 판면과 명명 명령은 미열람이다. 대괄호 안에서 명칭을 설명하는 문장은 NPS 주석이다."
+    ],
+    "rights": "신문 권리 별도 확인 필요. 발췌의 원문과 이미지는 재수록하지 않았다.",
+    "independence_group": "knoxville-journal-1944-04-18"
+  },
+  {
+    "id": "CAT-US-SRC-0128",
+    "title": "Manhattan Project Site Selection",
+    "institution_or_author": "U.S. National Park Service",
+    "publication_date": "2023-04-05 최종 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "테네시 부지 선정 및 공식 지정 문단",
+    "url": "https://home.nps.gov/articles/000/manhattan-project-site-selection.htm",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 봄까지 Clinton Engineer Works로 공식 지정했다는 기관 설명을 확인했다."
+    ],
+    "limitations": [
+      "명명 명령 원문이나 사업 구역 경계를 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-mapr-oak-ridge"
+  },
+  {
+    "id": "CAT-US-SRC-0129",
+    "title": "Oak Ridge, Tennessee",
+    "institution_or_author": "U.S. National Park Service",
+    "publication_date": "2023-09-21 최종 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Quick Facts 및 1942년 토지 취득과 1959년 자치시 설명",
+    "url": "https://www.nps.gov/places/oak-ridge-tennessee.htm",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 미 육군 공병대가 조성한 오크리지 주거지와 1959년 자치시 편입을 확인했다."
+    ],
+    "limitations": [
+      "후대 기관 설명이며 전시 주거지와 현대 시 경계의 일치 여부를 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-mapr-oak-ridge"
+  },
+  {
+    "id": "CAT-US-SRC-0130",
+    "title": "Navy Department Communiqués: June, 1942",
+    "institution_or_author": "U.S. Navy Department; ibiblio 전사",
+    "publication_date": "1942-06-03",
+    "source_type": "primary",
+    "document_or_accession_number": "1942-06-03 오후 4시 집계 공보(ibiblio 표기 No. 83)",
+    "locator": "North Pacific Area §1",
+    "url": "https://ibiblio.org/pha/comms/1942-06.html",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Dutch Harbor, Alaska라는 표기를 확인했다."
+    ],
+    "limitations": [
+      "초기 공보는 지명 표기만 활용했다. 판면을 확보하지 못해 날짜와 집계 시각을 함께 적었다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-navy-department-communiques"
+  },
+  {
+    "id": "CAT-US-SRC-0131",
+    "title": "Naval Operating Base Dutch Harbor and Fort Mears",
+    "institution_or_author": "Sandra M. Faulkner, Erwin N. Thompson; NPS Historic American Buildings Survey",
+    "publication_date": "1986-07",
+    "source_type": "secondary",
+    "document_or_accession_number": "HABS AK-34; LOC ak0047",
+    "locator": "인쇄 pp. 6–9 및 30–31",
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/ak/ak0000/ak0047/data/ak0047data.pdf",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "아마크낙섬의 항구와 만 건너편 마을을 구분하고 후대 어널래스카시의 범위를 설명한다."
+    ],
+    "limitations": [
+      "전후 조사 보고서다. 인용된 전시 군 원자료와 당대 주민의 지명 사용은 별도 확인이 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "habs-ak-34"
+  },
+  {
+    "id": "CAT-US-SRC-0132",
+    "title": "Ford Island CPO Bungalows Neighborhood and Battleship Row Cultural Landscape",
+    "institution_or_author": "U.S. National Park Service",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "문화경관 975011",
+    "locator": "Landscape History 첫 두 문단과 1940년 항공사진 설명",
+    "url": "https://www.nps.gov/articles/000/ford-island-cpo-bungalows-neighborhood-and-battleship-row-975011.htm",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Puʻuloa Lagoon, Pearl Harbor, East Loch, Ford Island, Mokuʻumeʻume의 지리적 대응을 확인했다."
+    ],
+    "limitations": [
+      "후대 해설은 전시 하와이어 표기의 사용 기간을 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-ford-island-cultural-landscape"
+  },
+  {
+    "id": "CAT-US-SRC-0133",
+    "title": "Pearl Harbor",
+    "institution_or_author": "U.S. National Park Service, Pearl Harbor National Memorial",
+    "publication_date": "2024-09-13 최종 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Wai Momi: The Ancient Hawaiian Pearl",
+    "url": "https://www.nps.gov/perl/learn/historyculture/pearl-harbor.htm",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "NPS가 진주만 일대의 전통 지명으로 Wai Momi를 설명한다."
+    ],
+    "limitations": [
+      "전쟁기 하와이어 1차 문헌은 미대조이며 Puʻuloa의 당시 지시 범위와 일치 여부는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-pearl-harbor-interpretation"
+  },
+  {
+    "id": "CAT-US-SRC-0134",
+    "title": "グァム島(大宮島)附近兵要地誌資料圖 — 소장 서지",
+    "institution_or_author": "일본 국립국회도서관; 원지도 일본 참모본부",
+    "publication_date": "[1944] 원지도 추정 간행일, 목록 게시일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "YG813-670; NDLBibID 000008255111",
+    "locator": "タイトル·タイトルよみ·縮尺·出版年月日等",
+    "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008255111",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 지도 서지의 大宮島 표기와 목록 독음 オオミヤトウ를 확인했다."
+    ],
+    "limitations": [
+      "종이 소장본의 목록만 확인했다. 원지도 판면과 점령기 명명 포고는 미열람이다."
+    ],
+    "rights": "일본 국립국회도서관 소장 자료. 목록 링크만 사용했다.",
+    "independence_group": "ndl-yg813-670"
+  },
+  {
+    "id": "CAT-US-SRC-0135",
+    "title": "Imperial Japanese Occupation of Guam (1941–1944)",
+    "institution_or_author": "U.S. National Park Service, War in the Pacific National Historical Park",
+    "publication_date": "2024-10-25 최종 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "서두, Early Occupation",
+    "url": "https://www.nps.gov/wapa/learn/historyculture/imperial-japanese-occupation.htm",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 점령 당국이 섬을 Omiya Jima로 명명했다는 해설과 Hagåtña(Agana) 병기를 확인했다."
+    ],
+    "limitations": [
+      "점령기 개명 포고나 일본어 원자료 자체는 아니다. 독음의 당대 쓰임은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-guam-occupation"
+  },
+  {
+    "id": "CAT-US-SRC-0136",
+    "title": "Guam Public Law 24-152",
+    "institution_or_author": "24th Guam Legislature; Governor of Guam; Guam Department of Land Management 스캔",
+    "publication_date": "1998-04",
+    "source_type": "primary",
+    "document_or_accession_number": "Public Law 24-152; Bill 522 (COR); 1 GCA §403(b)",
+    "locator": "PDF 4–5쪽 법문 §§1–3, PDF 1쪽 서명 전달서",
+    "url": "https://dlm.guam.gov/wp-dlm-content/uploads/2017/01/P.L.-24-152.pdf",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Agana 자치구와 수도 명칭의 법적 대응을 확인했다."
+    ],
+    "limitations": [
+      "후대 법령이며 개명 전 차모로어 구어 사용 기간과 전시 행정 경계를 특정하지 않는다."
+    ],
+    "rights": "괌 정부 공개 법령. 판면은 재수록하지 않았다.",
+    "independence_group": "guam-public-law-24-152"
+  },
+  {
+    "id": "CAT-US-SRC-0137",
+    "title": "Executive Order No. 400, Creating the City of Greater Manila",
+    "institution_or_author": "Manuel L. Quezon / 필리핀 자치령; Presidential Museum and Library 관보, Lawphil 제공",
+    "publication_date": "1942-01-01",
+    "source_type": "primary",
+    "document_or_accession_number": "EO 400; Official Gazette, Quezon Vol. 4",
+    "locator": "인쇄 p. 425, 제1–3 문단",
+    "url": "https://lawphil.net/executive/execord/eo1942/pdf/eo_400_1942.pdf",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "마닐라·케손과 여섯 지방자치단체를 포함한 대마닐라 설치를 확인했다."
+    ],
+    "limitations": [
+      "법령의 관할 범위다. 일본 점령 아래 실제 행정 집행은 별도 사료가 필요하다."
+    ],
+    "rights": "공개 열람 관보 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "philippine-commonwealth-eo-400"
+  },
+  {
+    "id": "CAT-US-SRC-0138",
+    "title": "Executive Order No. 58, Reducing the Territory of the City of Greater Manila",
+    "institution_or_author": "Sergio Osmeña / 필리핀 자치령; Supreme Court E-Library 전사",
+    "publication_date": "1945-07-26",
+    "source_type": "primary",
+    "document_or_accession_number": "EO 58; MOP Book 4, vols. 4–6 p. 95",
+    "locator": "본문 1–3 문단, 1945-08-01 효력 조항",
+    "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/76937",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "여섯 지방자치단체를 리살주로 복귀시키면서 경찰 관할은 유지하도록 한 규정을 확인했다."
+    ],
+    "limitations": [
+      "실제 집행 범위는 확인하지 않았다. Lawphil PDF와 대조했으며 동일 명령의 재현이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "philippine-commonwealth-eo-58"
+  },
+  {
+    "id": "CAT-US-SRC-0139",
+    "title": "Triumph in the Philippines",
+    "institution_or_author": "Robert Ross Smith / U.S. Army Center of Military History",
+    "publication_date": "1963 초판; 1993 재판",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 5-10-1",
+    "locator": "제13장 인쇄 pp. 238–239, 제15장 지도 6",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/5-10.pdf",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Manila, 파시그강 남쪽의 성곽 지구 Intramuros, 공공서비스권에 사용된 Greater Manila 표기를 확인했다."
+    ],
+    "limitations": [
+      "지도 6은 전후 작성한 전투사 지도다. 행정·경찰 관할도를 대신할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-cmh-smith"
+  },
+  {
+    "id": "CAT-US-SRC-0140",
+    "title": "Philippine Standard Geographic Code — National Capital Region",
+    "institution_or_author": "Philippine Statistics Authority",
+    "publication_date": "2025-07-31 기준",
+    "source_type": "primary",
+    "document_or_accession_number": "PSGC 1300000000",
+    "locator": "Cities in the Province of National Capital Region, City of Manila 및 Quezon City 행",
+    "url": "https://psa.gov.ph/classification/psgc/citimuni/1300000000",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "오늘날 수도권 분류에서 마닐라시와 케손시가 별개임을 확인했다."
+    ],
+    "limitations": [
+      "현대 지명표이며 전시 경계를 보여주지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "philippine-statistics-authority-psgc"
+  },
+  {
+    "id": "CAT-US-SRC-0141",
+    "title": "About the Intramuros Administration",
+    "institution_or_author": "Intramuros Administration / Republic of the Philippines",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "About the Intramuros Administration, Mandate",
+    "url": "https://intramuros.gov.ph/about-the-ia/",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현대 행정기관이 Intramuros를 마닐라의 역사적 성곽 지구로 지칭함을 확인했다."
+    ],
+    "limitations": [
+      "기관의 현대 명칭 및 업무 범위를 설명한다. 전시 주민의 표기를 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "philippine-intramuros-administration"
+  },
+  {
+    "id": "CAT-US-SRC-0142",
+    "title": "February 2025 marks 80 years since Battle of Manila",
+    "institution_or_author": "American Battle Monuments Commission",
+    "publication_date": "2025-02-05",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1945년 2월 3일–3월 3일과 자치령 정부 복귀 문단",
+    "url": "https://www.abmc.gov/news-events/news/february-2025-marks-80-years-battle-manila/",
+    "accessed_at": "2026-11-14T19:00:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 점령 이후 마닐라 탈환의 시기와 자치령 수도 복귀의 맥락을 확인했다."
+    ],
+    "limitations": [
+      "후대 기념 해설이다. 개별 시기의 행정 지명 시행 기록은 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "abmc-manila-commemoration"
   }
 ]
