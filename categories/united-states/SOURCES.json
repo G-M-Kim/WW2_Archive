@@ -3500,5 +3500,189 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "U.S. Executive Office — Executive Order 8908"
+  },
+  {
+    "id": "CAT-US-SRC-0176",
+    "title": "Buildings and Grounds Diagram of the River Rouge Plant of the Ford Motor Company, Mill & Factory, 1936",
+    "institution_or_author": "Ford Motor Company Archives; The Henry Ford, Benson Ford Research Center",
+    "publication_date": "circa 1935 (목록 제목 1936)",
+    "source_type": "primary",
+    "document_or_accession_number": "THF144077; 84.1.1660.P.D.510",
+    "locator": "판면 및 Artifact Details의 Subject Date",
+    "url": "https://www.thehenryford.org/collections/explore/artifact/206675",
+    "accessed_at": "2026-11-15T01:00:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전전 루지강 연안 본 공장의 기업 배치도와 당시 시설 집적."
+    ],
+    "limitations": [
+      "정확한 측량일·필지선·개별 설비 가동 여부는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Ford River Rouge company diagram"
+  },
+  {
+    "id": "CAT-US-SRC-0177",
+    "title": "Ford Rouge Plant Pictorial Flow Chart, “Complete Car Can Be Built in 28 Hours,” 1940",
+    "institution_or_author": "Time, Inc. 및 Ford Motor Company Photographic Department; The Henry Ford",
+    "publication_date": "1941-02-25",
+    "source_type": "primary",
+    "document_or_accession_number": "THF113889; 84.1.1660.P.833.75060",
+    "locator": "판면 및 Artifact Details의 Subject Date 1940-08-19",
+    "url": "https://www.thehenryford.org/collections/explore/artifact/33887",
+    "accessed_at": "2026-11-15T01:00:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "조립·제철·발전·선회수역과 구내 철도 100마일 표기."
+    ],
+    "limitations": [
+      "대상 시점은 1940년이며 도표의 제작 소요시간으로 생산능력이나 실제 생산량을 산정할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Time and Ford — 1940 River Rouge flow chart"
+  },
+  {
+    "id": "CAT-US-SRC-0178",
+    "title": "Strikes in 1941 and Strikes Affecting Defense Production",
+    "institution_or_author": "U.S. Bureau of Labor Statistics",
+    "publication_date": "1942",
+    "source_type": "primary",
+    "document_or_accession_number": "Bulletin No. 711",
+    "locator": "p. 13 표 7 및 Establishments Involved",
+    "url": "https://www.bls.gov/wsp/publications/annual-summaries/pdf/strikes-1941-and-affecting-defense-production.pdf",
+    "accessed_at": "2026-11-15T01:00:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 4월 Ford River Rouge 파업 관련 인원 약 85,000명."
+    ],
+    "limitations": [
+      "파업 관련 인원은 1939년 고용·작업 수용 정원이 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "BLS industrial disputes survey"
+  },
+  {
+    "id": "CAT-US-SRC-0179",
+    "title": "Ford Rouge Factory Tour: History & Timeline",
+    "institution_or_author": "The Henry Ford Staff",
+    "publication_date": "2025-12-12",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "전시 생산 단락 및 Decentralization",
+    "url": "https://www.thehenryford.org/collections/explore/popular-research-topics/ford-rouge-factory-tour-history-and-timeline",
+    "accessed_at": "2026-11-15T01:00:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "디어본 본 공장의 원래 부지 약 2,000에이커 및 전시 생산 전환."
+    ],
+    "limitations": [
+      "원 부지 수치의 필지·측량 기준일과 1939년 가동 면적은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "The Henry Ford historical interpretation"
+  },
+  {
+    "id": "CAT-US-SRC-0180",
+    "title": "Bethlehem Steel Corporation: Written History and Descriptive Data",
+    "institution_or_author": "Lance E. Metz; National Park Service, HAER",
+    "publication_date": "1990 (현장 조사)",
+    "source_type": "secondary",
+    "document_or_accession_number": "HAER PA-186; PA,48-BETH,18-; LOC pa2030",
+    "locator": "p. 1 소재·UTM, pp. 48–49, pp. 62–64 Appendix B",
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/pa/pa2000/pa2030/data/pa2030data.pdf",
+    "accessed_at": "2026-11-15T01:00:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "베스 포지 경계와 1939년 3·4월 설비 준공, 12월 증설 전후 장갑판 능력."
+    ],
+    "limitations": [
+      "1943년 회사 보고는 HAER의 인용과 전재를 통해 열람했다. 1939년 9월 가동 실적과 일일 인력 및 전력·운송 처리량은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "HAER PA-186 and Bethlehem Steel records transcribed there"
+  },
+  {
+    "id": "CAT-US-SRC-0181",
+    "title": "Rosie the Riveter National Historical Park, Ford Assembly Plant: Written Historical and Descriptive Data",
+    "institution_or_author": "Fredric L. Quivik; National Park Service, HAER",
+    "publication_date": "2002 (역사 조사)",
+    "source_type": "secondary",
+    "document_or_accession_number": "HAER CA-326-H; LOC ca3339",
+    "locator": "pp. 1, 21 및 주 33, p. 35 및 주 82–83, pp. 68–69",
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca3300/ca3339/data/ca3339data.pdf",
+    "accessed_at": "2026-11-15T01:00:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "리치먼드 내항 입지, 72에이커 약정과 교대당 계획 능력·고용, 전전 민수 조립 및 후속 전시 전환."
+    ],
+    "limitations": [
+      "공장사의 1941년 문서 및 기사 등은 HAER를 경유해 확인했다. 1939년 9월의 실적·필지선을 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "HAER CA-326-H and Ford Richmond Branch records referenced there"
+  },
+  {
+    "id": "CAT-US-SRC-0182",
+    "title": "Aerial View of Ford Motor Company Assembly Plant, Richmond, California, 1931",
+    "institution_or_author": "Ford Motor Company Photographic Department; The Henry Ford, Benson Ford Research Center",
+    "publication_date": "1931-09-15",
+    "source_type": "primary",
+    "document_or_accession_number": "THF144080; 84.1.1660.P.833.56436.3",
+    "locator": "항공사진 판면, Date Made·Subject Date",
+    "url": "https://www.thehenryford.org/collections/explore/artifact/176916",
+    "accessed_at": "2026-11-15T01:00:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1931년 리치먼드의 조립동과 수변 구조가 보이는 기업 항공사진."
+    ],
+    "limitations": [
+      "사진만으로 지적·가동면적, 생산·하역 실적 또는 전시 제품 분류를 알 수 없다. 목록의 개장·폐쇄 연도 요약은 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Ford Richmond 1931 aerial photograph"
+  },
+  {
+    "id": "CAT-US-SRC-0183",
+    "title": "United States Statutes at Large, vol. 55: Declarations of War with Japan, Germany and Italy",
+    "institution_or_author": "U.S. Congress; U.S. Government Publishing Office",
+    "publication_date": "1941-12-08 / 1941-12-11",
+    "source_type": "primary",
+    "document_or_accession_number": "55 Stat. 795–797; Public Laws 328, 331, 332",
+    "locator": "p. 795 ch. 561, p. 796 ch. 564, p. 797 ch. 565",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-55/pdf/STATUTE-55-Pg795.pdf",
+    "accessed_at": "2026-11-15T01:00:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대일 결의 12월 8일, 대독·대이탈리아 결의 12월 11일."
+    ],
+    "limitations": [
+      "직접 연관된 공장 인수·생산 상황을 규정하는 문서는 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "United States Congress — formal declarations",
+    "related_urls": [
+      "https://www.govinfo.gov/content/pkg/STATUTE-55/pdf/STATUTE-55-Pg796.pdf",
+      "https://www.govinfo.gov/content/pkg/STATUTE-55/pdf/STATUTE-55-Pg797.pdf"
+    ]
+  },
+  {
+    "id": "CAT-US-SRC-0184",
+    "title": "Ford Rouge Complex",
+    "institution_or_author": "Detroit Historical Society",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "첫 세 문단",
+    "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/ford-rouge-complex",
+    "accessed_at": "2026-11-15T01:00:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "약 2,000에이커의 디어본 원 공업시설과 자체 철도·수운 연계."
+    ],
+    "limitations": [
+      "기관 간 부지 수치의 원자료 독립성과 정확한 조사일은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Detroit Historical Society historical interpretation"
   }
 ]

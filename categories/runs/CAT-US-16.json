@@ -1,0 +1,303 @@
+{
+  "step": 73,
+  "job_id": "CAT-US-16",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 16,
+  "category": "개전 시점 주요 공업단지와 규모(1~20)",
+  "article_path": "categories/united-states/16-industrial-centers-start.md",
+  "status": "partial",
+  "completed_at": "2026-11-15T01:00:28+09:00",
+  "started_at": "2026-11-15T00:52:31+09:00",
+  "base_head": "225f6b34184534e6bd3455c7feab5fd3f9096c28",
+  "source_ids": [
+    "CAT-US-SRC-0176",
+    "CAT-US-SRC-0177",
+    "CAT-US-SRC-0178",
+    "CAT-US-SRC-0179",
+    "CAT-US-SRC-0180",
+    "CAT-US-SRC-0181",
+    "CAT-US-SRC-0182",
+    "CAT-US-SRC-0183",
+    "CAT-US-SRC-0184"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0066",
+    "CAT-US-RQ-0067",
+    "CAT-US-RQ-0068",
+    "CAT-US-RQ-0069"
+  ],
+  "entity_ids": [
+    "CAT-US-GEO-0019",
+    "CAT-US-GEO-0020",
+    "CAT-US-GEO-0021"
+  ],
+  "research_scope": "1939-09-01 미 본토의 대표 공업시설 3곳. 디어본 리버 루지, 베슬리헴 베스 포지, 리치먼드 포드 조립공장.",
+  "limitations": [
+    "기준일 가동·수용 규모·전력·물류 정격과 비교 경계가 부족하여 3곳의 점수와 범위를 null로 기록했다.",
+    "회사 설비 능력·계획 인력과 실제 생산·파업 관련 인원은 다른 시점과 집계다.",
+    "본토 추가 공업집적과 준주·속령은 후속 범위다."
+  ],
+  "evidence_checked": [
+    "포드 배치도·공정도 및 1931년 항공사진 판면, BLS 파업 통계와 기관별 루지 역사 설명.",
+    "NPS HAER PA-186 및 CA-326-H의 준공·설비·부지·생산계획과 미국 선전포고 법령."
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-US-GEO-0019",
+      "reference_date": "1939-09-01",
+      "historical_name": "Ford River Rouge Plant",
+      "modern_location": "미시간주 디어본, 루지강 연안",
+      "comparison_boundary": "디어본 루지강 연안 본 공장 제철·차량조립·발전·부두·구내철도 권역. 윌로런·외부 광산·기타 공장 제외. 필지선 미확인.",
+      "territorial_status": "미국 본토의 주, 미국 실효 지배, 민간 공업시설",
+      "operators": "Ford Motor Company (CAT-US-ORG-0001)",
+      "operational_status": "전전 제철과 차량 조립, 전시 생산 전환. 기준일 가동량 미확인.",
+      "source_survey_dates": [
+        "약 1935년 대상 도면, 목록 제목 1936",
+        "1940-08-19 공정도(1941-02-25 인화)",
+        "1941년 4월 파업",
+        "원부지 면적 측량일 미상"
+      ],
+      "metrics": [
+        {
+          "metric": "원 부지 면적",
+          "value": 2000,
+          "unit": "에이커 (약)",
+          "date": "측량일 미상",
+          "boundary": "디어본 루지강 연안 본 공장 제철·차량조립·발전·부두·구내철도 권역. 윌로런·외부 광산·기타 공장 제외. 필지선 미확인.",
+          "source_id": "CAT-US-SRC-0179",
+          "locator": "Decentralization",
+          "capacity_or_actual": "후대의 부지 설명"
+        },
+        {
+          "metric": "구내 철도 길이",
+          "value": 100,
+          "unit": "마일",
+          "date": "1940-08-19",
+          "boundary": "디어본 루지강 연안 본 공장 제철·차량조립·발전·부두·구내철도 권역. 윌로런·외부 광산·기타 공장 제외. 필지선 미확인.",
+          "source_id": "CAT-US-SRC-0177",
+          "locator": "판면 interplant railroad 표기",
+          "capacity_or_actual": "설치 길이, 처리량 미확인"
+        },
+        {
+          "metric": "파업 관련 인원",
+          "value": 85000,
+          "unit": "명 (약)",
+          "date": "1941-04",
+          "boundary": "디어본 루지강 연안 본 공장 제철·차량조립·발전·부두·구내철도 권역. 윌로런·외부 광산·기타 공장 제외. 필지선 미확인.",
+          "source_id": "CAT-US-SRC-0178",
+          "locator": "p. 13 Table 7 및 Establishments Involved",
+          "capacity_or_actual": "실제 파업 집계, 수용 정원과 구별"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "산업용 면적·시설 집적",
+          "facility": "Ford Richmond Assembly Plant",
+          "metric_value_or_band": "1926년 72에이커 매입 약정",
+          "source_id": "CAT-US-SRC-0181",
+          "locator": "p. 21",
+          "rationale": "1939년 산업 가동면적과 정의가 달라 등급 경계값으로 사용할 수 없다."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "개별 정격·정원과 전력·하역 처리량이 미확인이고 매입 약정과 원부지 설명을 같은 등급 경계로 사용할 수 없다.",
+      "source_ids": [
+        "CAT-US-SRC-0176",
+        "CAT-US-SRC-0177",
+        "CAT-US-SRC-0178",
+        "CAT-US-SRC-0179",
+        "CAT-US-SRC-0181",
+        "CAT-US-SRC-0184"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-US-GEO-0020",
+      "reference_date": "1939-09-01",
+      "historical_name": "Bethlehem Steel Corporation, Beth Forge",
+      "modern_location": "펜실베이니아주 베슬리헴, 리하이강변. UTM 18 469580 E / 4495980 N (기준면 미확인)",
+      "comparison_boundary": "베슬리헴 리하이강변 Fourth Street 북쪽·Minsi Trail Bridge 서쪽의 PA-186 원 단조·처리·기계가공 구역. Saucon·East Lehigh 별도.",
+      "territorial_status": "미국 본토의 주, 미국 실효 지배, 민간 공업시설",
+      "operators": "Bethlehem Steel Corporation",
+      "operational_status": "1939년 3·4월 일부 설비 준공. 12월 증설 및 이후 현장의 운영·피해는 별도 시점.",
+      "source_survey_dates": [
+        "1939년 3·4월 준공",
+        "1939년 12월 증설",
+        "1943-01-27 회사 보고를 인용한 1990년 HAER 조사"
+      ],
+      "metrics": [
+        {
+          "metric": "6호 단조로 준공",
+          "value": 1,
+          "unit": "기",
+          "date": "1939-03",
+          "boundary": "베슬리헴 리하이강변 Fourth Street 북쪽·Minsi Trail Bridge 서쪽의 PA-186 원 단조·처리·기계가공 구역. Saucon·East Lehigh 별도.",
+          "source_id": "CAT-US-SRC-0180",
+          "locator": "p. 62 Appendix B, Press Forge",
+          "capacity_or_actual": "설치 확인"
+        },
+        {
+          "metric": "2호 경화로 준공",
+          "value": 1,
+          "unit": "기",
+          "date": "1939-04",
+          "boundary": "베슬리헴 리하이강변 Fourth Street 북쪽·Minsi Trail Bridge 서쪽의 PA-186 원 단조·처리·기계가공 구역. Saucon·East Lehigh 별도.",
+          "source_id": "CAT-US-SRC-0180",
+          "locator": "p. 62 Appendix B, Treatment",
+          "capacity_or_actual": "설치 확인"
+        },
+        {
+          "metric": "증설 전 장갑판 기준 능력",
+          "value": 560,
+          "unit": "쇼트톤/월",
+          "date": "1939-12 증설 이전",
+          "boundary": "베슬리헴 리하이강변 Fourth Street 북쪽·Minsi Trail Bridge 서쪽의 PA-186 원 단조·처리·기계가공 구역. Saucon·East Lehigh 별도.",
+          "source_id": "CAT-US-SRC-0180",
+          "locator": "Appendix B pp. 62–64",
+          "capacity_or_actual": "설비 능력, 기준일 생산 실적 미확인"
+        },
+        {
+          "metric": "12월 증설 후 장갑판 능력",
+          "value": 1120,
+          "unit": "쇼트톤/월",
+          "date": "1939-12",
+          "boundary": "베슬리헴 리하이강변 Fourth Street 북쪽·Minsi Trail Bridge 서쪽의 PA-186 원 단조·처리·기계가공 구역. Saucon·East Lehigh 별도.",
+          "source_id": "CAT-US-SRC-0180",
+          "locator": "Appendix B p. 64",
+          "capacity_or_actual": "설비 능력, 개전일 산정 제외"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "개전 전 준공과 제품별 능력은 확인했다. 부지 실측·노동 규모·물류 정격과 동종 외부 비교시설 근거는 미확인이다.",
+      "source_ids": [
+        "CAT-US-SRC-0180"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-US-GEO-0021",
+      "reference_date": "1939-09-01",
+      "historical_name": "Ford Richmond Assembly Plant",
+      "modern_location": "캘리포니아주 리치먼드, 1400 Harbour Way South",
+      "comparison_boundary": "리치먼드 내항 1400 Harbour Way South 소재 포드 조립동·발전동·전용 철도와 선적시설. 공용 항만과 카이저 조선소 제외.",
+      "territorial_status": "미국 본토의 주, 미국 실효 지배, 민간 공업시설",
+      "operators": "Ford Motor Company (CAT-US-ORG-0001)",
+      "operational_status": "1931년 공장 물리적 존재, 전전 차량 조립 확인. 기준일 실적 미확인. 전시 전환 후 Richmond Tank Depot 역할.",
+      "source_survey_dates": [
+        "1926년 매입 약정",
+        "1930년 착공 단계",
+        "1931-09-15 항공사진",
+        "1938~1939년 조립 기록",
+        "2002년 HAER 조사"
+      ],
+      "metrics": [
+        {
+          "metric": "토지 매입 약정",
+          "value": 72,
+          "unit": "에이커",
+          "date": "1926",
+          "boundary": "리치먼드 내항 매입 약정 대상, 실제 가동 경계 미상",
+          "source_id": "CAT-US-SRC-0181",
+          "locator": "p. 21",
+          "capacity_or_actual": "매입 약정"
+        },
+        {
+          "metric": "자동차 조립 계획 능력",
+          "value": 400,
+          "unit": "대/8시간 교대 (최대)",
+          "date": "1930년 착공 단계",
+          "boundary": "리치먼드 내항 1400 Harbour Way South 소재 포드 조립동·발전동·전용 철도와 선적시설. 공용 항만과 카이저 조선소 제외.",
+          "source_id": "CAT-US-SRC-0181",
+          "locator": "p. 21 및 주 33",
+          "capacity_or_actual": "계획 능력, 차체 부문 추가 교대 조건"
+        },
+        {
+          "metric": "완전 생산 시 계획 인력",
+          "value": 2600,
+          "unit": "명",
+          "date": "1930년 착공 단계",
+          "boundary": "리치먼드 내항 1400 Harbour Way South 소재 포드 조립동·발전동·전용 철도와 선적시설. 공용 항만과 카이저 조선소 제외.",
+          "source_id": "CAT-US-SRC-0181",
+          "locator": "p. 21 및 주 33",
+          "capacity_or_actual": "계획 인력"
+        },
+        {
+          "metric": "접근 철도 회사",
+          "value": 2,
+          "unit": "개사",
+          "date": "1926년 약정 관련 기록",
+          "boundary": "리치먼드 내항 포드 관련 접속",
+          "source_id": "CAT-US-SRC-0181",
+          "locator": "p. 21",
+          "capacity_or_actual": "연결 확인, 처리량 미확인"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "산업용 면적·시설 집적",
+          "facility": "Ford River Rouge Plant",
+          "metric_value_or_band": "원 부지 약 2,000에이커",
+          "source_id": "CAT-US-SRC-0179",
+          "locator": "Decentralization",
+          "rationale": "후대의 원 부지 설명이며 정확한 기준일과 가동 경계를 모른다. 차량 조립 집적의 비교 참고값."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "물리적 공장과 전전 조립은 확인했다. 계획치에서 실제 가동 수치와 1~5 비교 등급을 확정할 수 없다.",
+      "source_ids": [
+        "CAT-US-SRC-0179",
+        "CAT-US-SRC-0181",
+        "CAT-US-SRC-0182"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.loc.gov/resource/fsa.8b00276/",
+      "status": "inaccessible",
+      "detail": "403. 루지 공구동의 사진 설명에 적힌 개별 생산동 수치는 사용하지 않았다."
+    },
+    {
+      "url": "https://www.loc.gov/item/ca3339/",
+      "status": "inaccessible",
+      "detail": "403. 미 의회도서관 공개 파일 서버의 HAER CA-326-H PDF를 별도로 열람했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=73 pending=60; sources=810 questions=297. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}
