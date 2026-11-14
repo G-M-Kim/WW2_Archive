@@ -2346,3 +2346,6 @@ as_of: 2026-11-04
 
 | SRC-2064 | 아우슈비츠-비르케나우 국립박물관 교육자료, *Medical Crimes at KL Auschwitz: Mass Sterilisation* | 2차(수용소 기념관 역사 교육자료) | 1942-07-07~08 베를린 회의·클라우베르크에게 대량 불임화 연구 임무 부여; 실제 실험은 1942년 말 | https://lekcja.auschwitz.org/2022_medycyna_en/sco_2.html | 2026-11-14 확인. 회의는 7~8일 범위, 시작일 7일로 색인; 회의 원문 기록은 미열람 |
 | SRC-2065 | 미국 홀로코스트 기념박물관(USHMM), *Carl Clauberg*, Holocaust Encyclopedia | 2차(미국 국립박물관 역사해설) | 1942년부터 아우슈비츠의 강제불임화 인체실험과 피해·후속 경과; 회의 정확한 날짜는 제시하지 않음 | https://encyclopedia.ushmm.org/content/en/article/carl-clauberg | 2026-11-14 확인. 7/7 회의일 증거는 SRC-2064에 한정; 연구 지시와 실제 실험 구분 |
+
+| SRC-2066 | 호주 전쟁기념관(AWM), *Tel el Eisa*, 전투명예 공식 기록 | 2차(공식 군사사·전투명예 기록) | 1942-07-10~11, Tel el Eisa 공세·점령 | https://www.awm.gov.au/collection/E84632 | 2026-11-14 확인. 10~11일 전투명예 기간 및 텔엘에이사 철도 측선·고지 점령, 후속 기갑 반격을 설명. 원본 전쟁일지·포로 집계 원전은 미열람 |
+| SRC-2067 | 호주 전쟁기념관(AWM), 사진 소장품 024480, *Italian prisoners taken by 26th Australian Infantry Brigade* (1942-07-10 촬영) | 1차(당대 사진, 현대 소장품 설명) | Accession 024480, 1942-07-10 | https://www.awm.gov.au/collection/C8276 | 2026-11-14 확인. 7/10 텔엘에이사 진격 중 이탈리아군 포로의 사진 기록. 사진 설명의 날짜·부대는 기관 메타데이터로 확인, 포로 총수나 전선 전체 결과는 입증하지 않음. 사진 복제 없음 |
