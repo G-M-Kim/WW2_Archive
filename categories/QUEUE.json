@@ -986,8 +986,9 @@
     "category": "당시 영토",
     "article_path": "categories/united-states/14-territory.md",
     "planned_at": "2026-11-14T17:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-US-14.json",
+    "completed_at": "2026-11-14T21:04:31+09:00"
   },
   {
     "step": 72,

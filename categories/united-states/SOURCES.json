@@ -2840,5 +2840,445 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "abmc-manila-commemoration"
+  },
+  {
+    "id": "CAT-US-SRC-0143",
+    "title": "An Act To create a legislative assembly in the Territory of Alaska",
+    "institution_or_author": "U.S. Congress / GovInfo",
+    "publication_date": "1912-08-24",
+    "source_type": "primary",
+    "document_or_accession_number": "37 Stat. 512, ch. 387",
+    "locator": "인쇄 p. 512 §§1–3",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-37/pdf/STATUTE-37-Pg512.pdf",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1867년 할양지에 준주를 조직하고 주노를 수도로 정한 규정을 확인했다."
+    ],
+    "limitations": [
+      "1867년 조약의 좌표와 전시 점령 경계를 직접 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-congress-alaska-organic-act"
+  },
+  {
+    "id": "CAT-US-SRC-0144",
+    "title": "An Act To provide a government for the Territory of Hawaii",
+    "institution_or_author": "U.S. Congress / GovInfo",
+    "publication_date": "1900-04-30",
+    "source_type": "primary",
+    "document_or_accession_number": "31 Stat. 141, ch. 339",
+    "locator": "인쇄 p. 141 §§2–3",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-31/pdf/STATUTE-31-Pg141.pdf",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1898년 합병 결의로 취득한 섬들에 하와이 준주 정부를 설치한 규정을 확인했다."
+    ],
+    "limitations": [
+      "조문은 군도 바깥 도서의 개별 관할을 열거하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-congress-hawaii-organic-act"
+  },
+  {
+    "id": "CAT-US-SRC-0145",
+    "title": "World War II National Historic Landmarks: The Aleutian Campaign",
+    "institution_or_author": "U.S. National Park Service",
+    "publication_date": "2021-10-26 최종 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Attu Battlefield 및 Japanese Occupation Site, Kiska 항목",
+    "url": "https://www.nps.gov/articles/wwii-nhl-aleu-campaign.htm",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본군의 아투·키스카 점령과 미군의 아투 탈환, 키스카 철수 및 미·캐나다군 상륙을 확인했다."
+    ],
+    "limitations": [
+      "후대 기관 해설이다. 당대 항해일지의 날짜 기준은 별도 검증 대상이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-aleutian-landmarks"
+  },
+  {
+    "id": "CAT-US-SRC-0146",
+    "title": "Treaty of Peace Between the United States and Spain",
+    "institution_or_author": "United States and Spain / U.S. Statutes at Large",
+    "publication_date": "1898-12-10",
+    "source_type": "primary",
+    "document_or_accession_number": "30 Stat. 1754",
+    "locator": "인쇄 p. 1755 제2조 및 제3조 첫 문단",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-30/pdf/STATUTE-30-Pg1754.pdf",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "괌·푸에르토리코 할양 및 필리핀 군도의 별도 조항을 확인했다."
+    ],
+    "limitations": [
+      "할양 근거로 활용했다. 제2차 세계대전 중 군정·실효 지배는 별도 자료가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "treaty-of-paris-1898"
+  },
+  {
+    "id": "CAT-US-SRC-0147",
+    "title": "An Act To provide a civil government for Porto Rico, and for other purposes",
+    "institution_or_author": "U.S. Congress / GovInfo",
+    "publication_date": "1917-03-02",
+    "source_type": "primary",
+    "document_or_accession_number": "39 Stat. 951, ch. 145",
+    "locator": "인쇄 p. 951 첫 문단",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg951.pdf",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "법 적용 범위가 본섬, 미국 소속 인접 섬과 그 수역임을 확인했다."
+    ],
+    "limitations": [
+      "후속 개정이나 각 섬의 군사시설 관할은 미대조다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-congress-jones-act-puerto-rico"
+  },
+  {
+    "id": "CAT-US-SRC-0148",
+    "title": "Report by Mr. Karl L. Rankin",
+    "institution_or_author": "Karl L. Rankin / U.S. Foreign Service; FRUS 전사",
+    "publication_date": "1943-11-25",
+    "source_type": "primary",
+    "document_or_accession_number": "701.0090/3366; FRUS 1943 vol. III doc. 984",
+    "locator": "Introduction 및 Independence, pp. 1109–1112",
+    "url": "https://history.state.gov/historicaldocuments/frus1943v03/d984",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본군정 아래 남은 자치령 행정기구와 라우렐 정부 수립 과정을 확인했다."
+    ],
+    "limitations": [
+      "미 외교관의 당대 관찰이다. 문서 반출 없이 작성했으며 본문에 예정 날짜가 있어 실제 취임 날짜의 근거로 쓰지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "rankin-1943-occupied-philippines"
+  },
+  {
+    "id": "CAT-US-SRC-0149",
+    "title": "Proclamation 2695—Independence of the Philippines",
+    "institution_or_author": "Harry S. Truman / U.S. National Archives",
+    "publication_date": "1946-07-04",
+    "source_type": "primary",
+    "document_or_accession_number": "Proclamation 2695; 11 FR 7517",
+    "locator": "Now, therefore 이하와 서명일",
+    "url": "https://www.archives.gov/federal-register/codification/proclamations/02695.html",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미국의 권리 철회 및 필리핀 독립 인정 날짜와 법률상 유보 문구를 확인했다."
+    ],
+    "limitations": [
+      "1945년 도서별 군사 통제를 설명하는 문서는 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-presidential-proclamation-2695"
+  },
+  {
+    "id": "CAT-US-SRC-0150",
+    "title": "Wake Island (Wake Island National Historic Landmark)",
+    "institution_or_author": "U.S. National Park Service, Historic American Landscapes Survey / Library of Congress",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "HALS UM-1; LOC um0061",
+    "locator": "인쇄 pp. 1, 4–5, Location 및 Original and Subsequent Owners, Occupants",
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/um/um0000/um0061/data/um0061data.pdf",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "환초의 세 섬, 전전 미국 사용과 일본군의 1941-12-23~1945-09-04 통제 기간을 확인했다."
+    ],
+    "limitations": [
+      "전후 경관조사이며 미국 권원 주장에 대한 타 당사국의 외교 문서는 미대조다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nps-hals-um-1"
+  },
+  {
+    "id": "CAT-US-SRC-0151",
+    "title": "Surrender Acceptance of Wake Atoll on 4 September 1945, Narrative of",
+    "institution_or_author": "Lawson H. M. Sanderson / USMC; R. D. Heinl Jr. 편찬",
+    "publication_date": "1945-09-07 작성, 1947 재수록",
+    "source_type": "primary",
+    "document_or_accession_number": "KV/A16-3/wcl, Serial 001165; GOVPUB-M-PURL-gpo86667",
+    "locator": "The Defense of Wake, 부록 VI 인쇄 pp. 70–72, 보고 §§1–8, 23 및 편집 도입부",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "9월 2일 접수단의 출항과 9월 4일 현지 서명·통제 이관을 확인했다."
+    ],
+    "limitations": [
+      "보고서 재수록본은 일부 첨부를 생략한다. 전사 편집 도입부의 9월 7일 표기와 보고서가 충돌한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "usmc-sanderson-wake-surrender"
+  },
+  {
+    "id": "CAT-US-SRC-0152",
+    "title": "Newsmap, Monday, November 29, 1943 — Map of the Pacific Theater",
+    "institution_or_author": "U.S. War Department, Army Orientation Course; Richard Edes Harrison 원도 / Truman Library",
+    "publication_date": "1943-11-29",
+    "source_type": "primary",
+    "document_or_accession_number": "Truman Library M1740",
+    "locator": "앞면 태평양 지도와 범례",
+    "url": "https://www.trumanlibrary.gov/maps/m1740-map-pacific-theater",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 지도 스캔에서 태평양 전황과 통제 표시를 확인했다."
+    ],
+    "limitations": [
+      "전시 개관도이며 법적 경계와 소도서의 개별 통치를 입증하지 않는다."
+    ],
+    "rights": "소장기관의 저작권·재출판 제한 표기 있음. 링크만 사용했다.",
+    "independence_group": "war-department-newsmap-m1740"
+  },
+  {
+    "id": "CAT-US-SRC-0153",
+    "title": "Convention for the Construction of a Ship Canal (Hay–Bunau-Varilla Treaty)",
+    "institution_or_author": "United States and Panama / U.S. Department of State, FRUS 전사",
+    "publication_date": "1903-11-18",
+    "source_type": "primary",
+    "document_or_accession_number": "33 Stat. 2234; FRUS 1904 doc. 542",
+    "locator": "제2–3조, pp. 544–545",
+    "url": "https://history.state.gov/historicaldocuments/frus1904/d542",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "운하 중심선 양측 5마일의 부여 범위, 제외 도시·항구와 주권자에 준하는 권한을 확인했다."
+    ],
+    "limitations": [
+      "조문이 정의한 범위이며 전시 지적 경계 변경이나 주권에 관한 양국 해석을 전수 검토하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "panama-canal-convention-1903"
+  },
+  {
+    "id": "CAT-US-SRC-0154",
+    "title": "General Treaty of Friendship and Cooperation Between the United States and Panama",
+    "institution_or_author": "United States and Panama / GovInfo",
+    "publication_date": "1936-03-02 서명, 1939-07-27 비준서 교환",
+    "source_type": "primary",
+    "document_or_accession_number": "53 Stat. 1807; Treaty Series 945",
+    "locator": "p. 1807 서지, 제2조 및 제10조",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-53/pdf/STATUTE-53-Pg1807.pdf",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "운하구역 밖 추가 토지에 대한 영구 부여 포기 및 공동 방위와 협의 조항을 확인했다."
+    ],
+    "limitations": [
+      "1942년 방위부지 목록은 별도 협정에 있다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "panama-us-general-treaty-1936"
+  },
+  {
+    "id": "CAT-US-SRC-0155",
+    "title": "Memorandum by the Assistant Chief of the Division of Central America and Panama Affairs (Wise)",
+    "institution_or_author": "U.S. Department of State / FRUS 전사",
+    "publication_date": "1948-01-20",
+    "source_type": "primary",
+    "document_or_accession_number": "711.19/1–2048; FRUS 1948 vol. IX doc. 467",
+    "locator": "부록 Defense Sites Agreement of May 18, 1942, pp. 648–649",
+    "url": "https://history.state.gov/historicaldocuments/frus1948v09/d467",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "파나마 관할 내 임시 사용 합의와 전쟁 종결 전 총 134곳이라는 미 국무부의 정리를 확인했다."
+    ],
+    "limitations": [
+      "협정 본문·부속 지도 원본은 미확보이며 1945-09-02 가동 부지 총수가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-state-wise-panama-memo"
+  },
+  {
+    "id": "CAT-US-SRC-0156",
+    "title": "The Secretary of State to the British Ambassador (Lindsay)",
+    "institution_or_author": "Cordell Hull / U.S. Department of State, FRUS 전사",
+    "publication_date": "1939-04-06",
+    "source_type": "primary",
+    "document_or_accession_number": "EAS 145; FRUS 1939 vol. II doc. 280",
+    "locator": "I–III, VII 및 각주 1",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v02/d280",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "권원 주장 유보, 미·영 공동관리, 양국 관리 임명 및 같은 날 영국 회신을 확인했다."
+    ],
+    "limitations": [
+      "미국 측 각서와 편집 각주를 읽었다. 현장 운영은 별도 검증 대상이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-uk-canton-enderbury-notes"
+  },
+  {
+    "id": "CAT-US-SRC-0157",
+    "title": "The British Ambassador (Lothian) to the Secretary of State",
+    "institution_or_author": "Lord Lothian / UK Government; FRUS 전사",
+    "publication_date": "1940-09-02",
+    "source_type": "primary",
+    "document_or_accession_number": "EAS 181; FRUS 1940 vol. III doc. 65",
+    "locator": "pp. 73–74, 임차 대상 및 권한 문단",
+    "url": "https://history.state.gov/historicaldocuments/frus1940v03/d65",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "뉴펀들랜드·버뮤다와 카리브해·영국령 기아나의 조건 차이 및 99년 임차를 확인했다."
+    ],
+    "limitations": [
+      "영국 각서는 개별 부지의 정확한 경계를 확정하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-uk-destroyers-for-bases-notes"
+  },
+  {
+    "id": "CAT-US-SRC-0158",
+    "title": "The Secretary of State to the British Ambassador (Lothian)",
+    "institution_or_author": "Cordell Hull / U.S. Department of State, FRUS 전사",
+    "publication_date": "1940-09-02",
+    "source_type": "primary",
+    "document_or_accession_number": "EAS 181; FRUS 1940 vol. III doc. 66",
+    "locator": "p. 75, 수락·공동 위치 검토 문단",
+    "url": "https://history.state.gov/historicaldocuments/frus1940v03/d66",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미국의 수락과 정확한 위치를 양국 전문가가 결정한다는 절차를 확인했다."
+    ],
+    "limitations": [
+      "영국 각서에 대한 회신이며 별도의 실효 운영 증거가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-uk-destroyers-for-bases-notes"
+  },
+  {
+    "id": "CAT-US-SRC-0159",
+    "title": "Declaration Regarding the Defeat of Germany and the Assumption of Supreme Authority by Allied Powers",
+    "institution_or_author": "미국·소련·영국·프랑스 임시정부 대표 / Yale Law School Avalon Project 전사",
+    "publication_date": "1945-06-05",
+    "source_type": "primary",
+    "document_or_accession_number": "TIAS 1520; 60 Stat. 1649",
+    "locator": "서문 및 4개국 최고권한 인수 문단",
+    "url": "https://avalon.law.yale.edu/wwii/ger01.asp",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "4개국 권한 인수와 독일 병합의 구별을 확인했다."
+    ],
+    "limitations": [
+      "전사본이며 서명 원판과 개별 점령구역도는 미확보다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "allied-berlin-declaration-1945"
+  },
+  {
+    "id": "CAT-US-SRC-0160",
+    "title": "Records of U.S. Occupation Headquarters, World War II",
+    "institution_or_author": "U.S. National Archives",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "NARA RG 260",
+    "locator": "§§260.2–260.3 History",
+    "url": "https://www.archives.gov/research/guide-fed-records/groups/260.html",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 점령의 4개국 통제 체제와 미 군정청의 10월 1일 설립·관할을 확인했다."
+    ],
+    "limitations": [
+      "기록군 안내이며 개별 문서철의 실제 집행 기록은 미열람이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-rg-260-guide"
+  },
+  {
+    "id": "CAT-US-SRC-0161",
+    "title": "Instructions to General of the Army Douglas MacArthur (Message No. 1)",
+    "institution_or_author": "State–War–Navy Coordinating Committee / FRUS 전사",
+    "publication_date": "1945-09-06",
+    "source_type": "primary",
+    "document_or_accession_number": "SWNCC 181/2; FRUS 1945 vol. VI doc. 491",
+    "locator": "제1–2항 및 각주 1",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v06/d491",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연합국 최고사령관의 권한과 일본 정부를 통한 통치 방침을 확인했다."
+    ],
+    "limitations": [
+      "정책 지침이며 지역별 시행 시점과 경계는 별도 사료가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "swncc-181-2"
+  },
+  {
+    "id": "CAT-US-SRC-0162",
+    "title": "Proclamation No. 1 by General of the Army Douglas MacArthur",
+    "institution_or_author": "Douglas MacArthur / U.S. Army Forces, Pacific; FRUS 전사",
+    "publication_date": "1945-09-07",
+    "source_type": "primary",
+    "document_or_accession_number": "740.00119 Control (Korea)/9–745; FRUS 1945 vol. VI doc. 776",
+    "locator": "첫 문단, 제1조 및 서명란",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v06/d776",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북위 38도 이남 군정의 권한과 요코하마에서 서명한 날을 확인했다."
+    ],
+    "limitations": [
+      "포고 본문의 점령 표현은 실제 최초 상륙일과 별도로 읽어야 한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "macarthur-korea-proclamation-1"
+  },
+  {
+    "id": "CAT-US-SRC-0163",
+    "title": "The Secretary of State to the Acting Political Adviser in Japan (Atcheson)",
+    "institution_or_author": "James F. Byrnes / U.S. Department of State; FRUS 전사",
+    "publication_date": "1945-11-16",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1945 vol. VI doc. 824, 전보 127",
+    "locator": "11월 16일 발표문 첫 세 문단",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v06/d824",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "9월 8일 첫 상륙과 38도선 기준의 항복 접수 책임을 확인했다."
+    ],
+    "limitations": [
+      "미 국무부 발표다. 현지 지역별 통제 및 소련 측 자료는 미대조다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-state-korea-1945-11-16"
+  },
+  {
+    "id": "CAT-US-SRC-0164",
+    "title": "Negotiations of the Trusteeship Agreement for the Territory of the Pacific Islands",
+    "institution_or_author": "U.S. Department of State / FRUS 전사 및 편집 각주",
+    "publication_date": "1947-04-24 작성, 1947-07-02 전달",
+    "source_type": "primary",
+    "document_or_accession_number": "FW 890.0146/4–2447; FRUS 1947 vol. I doc. 176",
+    "locator": "제16조 및 각주 3",
+    "url": "https://history.state.gov/historicaldocuments/frus1947v01/d176",
+    "accessed_at": "2026-11-14T21:04:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "구 일본 위임통치 제도의 신탁통치에 대한 1947년 미국 승인 시점을 확인했다."
+    ],
+    "limitations": [
+      "협상 기록과 편집 주석으로, 1945년 각 섬의 점령 경계를 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-state-pacific-trusteeship-negotiation"
   }
 ]
