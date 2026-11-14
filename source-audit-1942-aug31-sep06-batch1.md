@@ -1,0 +1,7 @@
+# 사료감사 — 1942-08-31~09-06 (forward)
+
+- 기준: PR #1 HEAD 5dd709f02fe9b94fd4dfe8e46eb2b1518b390c08; WORK_STATE·ledger 마지막 커서 1942-08-31 일치. 1942년 정본과 출처 등록부에서 EVT-3647/SRC-2089 및 원문 URL 중복 여부 확인. 기존 EVT-3646은 8/25 최초 상륙이며 이번 9/2 증원 반격과 다른 단계. 기존 SRC-2088은 호주 전쟁기념관 개요, 새 SRC-2089는 호주 정부 PNG Remembrance Trail의 전개 상세.
+- **9/2 밀른만 반격 보강:** 호주 전쟁기념관 https://www.awm.gov.au/collection/E84334 에서는 8/31 반격 후 호주 제2/9보병대대가 9/2부터 제2/12대대 진격을 지원했다고 기록. PNG Remembrance Trail https://www.pngremembrancetrail.gov.au/trail/milne-bay-remembrance-trail/scene/japanese-retreat-milne-bay 에서는 8/31 비행장 공격 격퇴, 9/1~6 호주군 북안 진격, 9/6 일본군 기지 진입 및 9/4~7 해상 철수의 순서를 제시. 9/2를 일본군 철수 명령일이나 전투 종결일로 해석하지 않음.
+- **8/31~9/6 다른 주요 검토:** 밀른만 일본군 비행장 공격은 8/31, 9/4~7 철수는 여러 날의 단계. 9/6~7 안슌(Anshun) 피격 시점은 호주 정부 역사안내 https://www.pngremembrancetrail.gov.au/trail/milne-bay-remembrance-trail/scene/japanese-retreat-milne-bay 와 https://anzacportal.dva.gov.au/wars-and-missions/ww2/where/swpa/png/milne-bay-1942 에서 야간·현지 일자 표기가 다르게 나타날 수 있어 이번에 별도 EVT로 단정하지 않음. 북아프리카 알람엘할파 8/30~9월 초 전투는 추가 군사 원전 교차 전까지 신규 색인 보류.
+- **한계/백필:** 중국·동부전선·대서양·점령지·학살·민간인·경제의 해당 주간 전수조사 미완료. 일본 해군 전투일지 및 제2/9대대 당대 전쟁일지, 알람엘할파 8군·추축국 작전일지, 안슌 선박 기록을 RQ-0007/RQ-0003과 WORK_STATE BACKFILL_QUEUE에 연결. 기존 포괄 과제로 추적 가능해 신규 RQ 0, 새 SRC 1은 기존 URL 미등록 확인. 자료 접근 가능 범위와 1차 사료 부족을 명시하며 전세계 전수 완료 주장 금지.
+- **검증 대상:** EVT +1, SRC +1, RQ +0; 누적 3647/2089/1240. 정본/미러 바이트 일치. 로컬 전체 validate_index.py 미실행 시 이를 보고하고 게시 SHA CI 확인.
