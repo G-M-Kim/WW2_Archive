@@ -37,7 +37,20 @@
       "일본군 자체 교범이 아닌 적군 정보 자료다. 저자의 국민성 관련 해석을 채택하지 않았다."
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
-    "independence_group": "us-war-department-jp-handbook"
+    "independence_group": "us-war-department-jp-handbook",
+    "additional_locators": [
+      {
+        "locator": "제IX장 §VI 3c·4d–e, pp. 245–246, 248–249 및 그림 244·248·249",
+        "url": "https://www.ibiblio.org/hyperwar/Japan/IJA/HB/HB-9.html",
+        "accessed_at": "2026-11-15T08:57:15+09:00",
+        "claims_checked": [
+          "95식과 97식 기본형의 당시 미군 제원값 및 47 mm 추정 차량의 미식별 표기를 확인했다."
+        ],
+        "limitations": [
+          "당시 미군 조사 차량의 식별·측정 조건이 불완전하다. 1945년 자료와 독립인 시험으로 세지 않았다."
+        ]
+      }
+    ]
   },
   {
     "id": "CAT-JP-SRC-0003",
@@ -322,5 +335,183 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "ussbs-sonokawa-interrogation"
+  },
+  {
+    "id": "CAT-JP-SRC-0017",
+    "title": "Japanese Tank and Antitank Warfare",
+    "institution_or_author": "U.S. War Department, Military Intelligence Division",
+    "publication_date": "1945-08-01",
+    "source_type": "primary",
+    "document_or_accession_number": "Special Series No. 34, MID 461",
+    "locator": "표제·발행 안내, pp. 18–32, 43–62",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/JAPAN/JPN%20Tank%20and%20Antitank%20Warfare.pdf",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "95식의 적재 조건별 중량과 3인 표기, 97식 기본형의 제원과 신포탑형 주포, 2식 수륙양용 형식을 확인했다."
+    ],
+    "limitations": [
+      "1945년 7월 15일까지 취합한 미군 전시 정보다. 차량별 시험 조건과 일본 제조·수령 장부는 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. War Department wartime Japanese equipment intelligence"
+  },
+  {
+    "id": "CAT-JP-SRC-0018",
+    "title": "Type 95 Ha Go Light Tank, Milne Bay",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": "REL32684; C1067568",
+    "locator": "Description 및 History / Summary",
+    "url": "https://www.awm.gov.au/collection/C1067568",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "밀른만 회수 실물의 장갑 범위, 기관총 배치 설명, 개체별 4명 서술과 전투·회수 이력을 확인했다."
+    ],
+    "limitations": [
+      "소장 해설의 승무원 서술은 개별 차량 대상이다. 당시 편제 원표와 계측 원장 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM REL32684 collection and conservation"
+  },
+  {
+    "id": "CAT-JP-SRC-0019",
+    "title": "Ha-Go",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": "전시 차량 일련번호 1303",
+    "locator": "The Tank Museum’s Ha-Go 및 Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/ha-go/?tpage=2",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "3명, 7.4 Tons, 28 mph를 제시한 소장기관 설명을 확인했다."
+    ],
+    "limitations": [
+      "Tons의 단위·적재 기준과 속도 시험 조건이 없다. 소장차의 밀른만 회수 경위는 추정으로 표기돼 있다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Tank Museum specimen 1303 and exhibit interpretation"
+  },
+  {
+    "id": "CAT-JP-SRC-0020",
+    "title": "Fact Sheet – Type 95 Ha-go light tank",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "2017-03-20; 2021-03-30 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": "REL32684 관련 팩트시트",
+    "locator": "Description and Characteristics·Crew·Speed",
+    "url": "https://www.awm.gov.au/media/press-releases/fact-sheet-type-95-ha-go-light-tank",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "해설의 4명, 7.4 tons, 25 mph 표기를 확인했다."
+    ],
+    "limitations": [
+      "실물 소장 설명과 같은 기관의 관련 해설이며 독립 교차 검증으로 계산하지 않는다. 속도 시험 조건·중량 단위 정의가 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM REL32684 collection and conservation"
+  },
+  {
+    "id": "CAT-JP-SRC-0021",
+    "title": "Australian soldiers inspecting two disabled Type 95 Ha-Go tanks at Milne Bay",
+    "institution_or_author": "촬영자 미상; Australian War Memorial",
+    "publication_date": "1942-08 (목록 촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "P05216.004; C1144477",
+    "locator": "사진 디지털 판면, Date made 및 Description",
+    "url": "https://www.awm.gov.au/collection/C1144477",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "사진에 전차 두 대와 병사들이 보인다. 소장 캡션은 장소·차종과 전투 맥락을 설명한다."
+    ],
+    "limitations": [
+      "전투 후 장면으로 당일 투입 시간과 상세 손실을 사진 자체에서 판독할 수 없다."
+    ],
+    "rights": "AWM 목록상 퍼블릭 도메인. 자체 설명과 원문 링크만 사용.",
+    "independence_group": "AWM photographic negative P05216.004"
+  },
+  {
+    "id": "CAT-JP-SRC-0022",
+    "title": "Central Pacific Drive: The Conquest of Southern Saipan",
+    "institution_or_author": "Henry I. Shaw Jr., Bernard C. Nalty, Edwin T. Turnbladh; Historical Branch, U.S. Marine Corps",
+    "publication_date": "1966",
+    "source_type": "secondary",
+    "document_or_accession_number": "History of U.S. Marine Corps Operations in World War II, vol. III, PCN 19000262600",
+    "locator": "제IV부 제4장 pp. 284–285",
+    "url": "https://www.ibiblio.org/hyperwar/USMC/III/USMC-III-IV-4.html",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "사이판 제9전차연대에 47 mm 주포 장착 중전차와 구형 경전차가 포함됐다는 공식 전사 서술을 확인했다."
+    ],
+    "limitations": [
+      "일본군 편제표나 개별 차량 확인 목록은 없으므로 투입 수를 신포탑형 전체로 환산하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. Marine Corps official historical synthesis"
+  },
+  {
+    "id": "CAT-JP-SRC-0023",
+    "title": "Rapopo Airstrip: Japanese crew handing over a Type 97 Chi-Ha",
+    "institution_or_author": "촬영자 미확인; Australian War Memorial",
+    "publication_date": "1945-09-28 (촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "097335; C75342",
+    "locator": "사진 디지털 판면 및 Description",
+    "url": "https://www.awm.gov.au/collection/C75342",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "사진의 인계 장면 및 소장 캡션의 치하 형식·날짜를 확인했다."
+    ],
+    "limitations": [
+      "직접 전후 인계 자료다. 전투 참가, 형식별 생산·배치 수치를 판단하는 사료로 사용하지 않는다."
+    ],
+    "rights": "AWM 목록상 퍼블릭 도메인. 자체 설명과 원문 링크만 사용.",
+    "independence_group": "AWM photograph 097335"
+  },
+  {
+    "id": "CAT-JP-SRC-0024",
+    "title": "Rabaul: Type 2 Ka-Mi amphibious tank without flotation pods",
+    "institution_or_author": "촬영자 미확인; Australian War Memorial",
+    "publication_date": "1945-09-14 (촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "096635; C74763",
+    "locator": "사진 디지털 판면 및 Description",
+    "url": "https://www.awm.gov.au/collection/C74763",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "라바울에서 기록된 부력체 없는 수륙양용전차의 모습과 소장기관 식별을 확인했다."
+    ],
+    "limitations": [
+      "항복 후 촬영이며 해당 차량의 전시 전투 참여와 수상 시험 성적을 확인할 수 없다."
+    ],
+    "rights": "AWM 목록상 퍼블릭 도메인. 자체 설명과 원문 링크만 사용.",
+    "independence_group": "AWM photograph 096635"
+  },
+  {
+    "id": "CAT-JP-SRC-0025",
+    "title": "１９３１～４０年　兵器生産状況調査表　（装軌車輌）",
+    "institution_or_author": "일본 방위성 방위연구소 소장; 일본 아시아역사자료센터(JACAR)",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "JACAR Ref. C15011259400",
+    "locator": "문서 번호·일본어/영어 목록 경로 접근 시도",
+    "url": "https://www.jacar.archives.go.jp/das/meta/C15011259400",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "일본어 페이지 403, 영어 페이지는 열기 실패. 검색에서 확인한 서지는 원표 열람을 대신하지 않는다."
+    ],
+    "rights": "문서 복제 없음. 접근용 링크만 기록.",
+    "independence_group": "JACAR C15011259400 archival record"
   }
 ]

@@ -1070,8 +1070,9 @@
     "category": "전차장비, 무장, 성능",
     "article_path": "categories/japan/01-tanks.md",
     "planned_at": "2026-11-15T05:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-JP-01.json",
+    "completed_at": "2026-11-15T08:57:15+09:00"
   },
   {
     "step": 78,

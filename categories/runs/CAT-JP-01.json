@@ -1,0 +1,70 @@
+{
+  "step": 77,
+  "job_id": "CAT-JP-01",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 1,
+  "category": "전차장비, 무장, 성능",
+  "article_path": "categories/japan/01-tanks.md",
+  "status": "partial",
+  "completed_at": "2026-11-15T08:57:15+09:00",
+  "started_at": "2026-11-15T08:51:35+09:00",
+  "base_head": "ee4ec3dd92ce953dd2ca09f5416b1bbdc7676770",
+  "source_ids": [
+    "CAT-JP-SRC-0002",
+    "CAT-JP-SRC-0017",
+    "CAT-JP-SRC-0018",
+    "CAT-JP-SRC-0019",
+    "CAT-JP-SRC-0020",
+    "CAT-JP-SRC-0021",
+    "CAT-JP-SRC-0022",
+    "CAT-JP-SRC-0023",
+    "CAT-JP-SRC-0024",
+    "CAT-JP-SRC-0025"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0004",
+    "CAT-JP-RQ-0005",
+    "CAT-JP-RQ-0006"
+  ],
+  "entity_ids": [
+    "CAT-JP-EQP-0001",
+    "CAT-JP-EQP-0002",
+    "CAT-JP-EQP-0003",
+    "CAT-JP-EQP-0004"
+  ],
+  "research_scope": "하 고와 치하 기본형·신포탑형 및 카미의 무장·차체·제원과 전시 운용 또는 직접 전후 인계 사례.",
+  "limitations": [
+    "하 고의 승무원·중량·속도 차이와 치하 기본형 장갑 수치 차이는 적용 차량과 조건 미확인.",
+    "일본 생산표 원문 접근 실패. 형식별 생산량과 최초 배치 및 인계 사진의 세부형 미확인.",
+    "89식과 후기 중전차, 카미의 조건별 시험은 후속 범위."
+  ],
+  "evidence_checked": [
+    "1944년 편람과 1945년 미 육군 정보 보고의 차량별 제원과 개량 설명.",
+    "전차박물관과 호주전쟁기념관 소장 기록·사진, 미 해병대 공식 전사의 사이판 부대 서술 대조."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.jacar.archives.go.jp/das/meta/C15011259400",
+      "status": "inaccessible",
+      "detail": "직접 열기 403. 생산표 숫자 인용 없음."
+    },
+    {
+      "url": "https://www.jacar.archives.go.jp/das/meta-en/C15011259400",
+      "status": "inaccessible",
+      "detail": "영문 경로 열기에서 DisabledError. 원표 확인 실패."
+    },
+    {
+      "url": "https://www.jacar.archives.go.jp/das/meta/C15011301800",
+      "status": "inaccessible",
+      "detail": "1942년 생산 대조표 경로 직접 열기 403."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=77 pending=56; sources=841 questions=310. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}
