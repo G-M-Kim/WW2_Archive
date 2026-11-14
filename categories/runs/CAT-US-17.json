@@ -1,0 +1,323 @@
+{
+  "step": 74,
+  "job_id": "CAT-US-17",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 17,
+  "category": "종전 시점 주요 공업단지와 규모(1~20)",
+  "article_path": "categories/united-states/17-industrial-centers-end.md",
+  "status": "partial",
+  "completed_at": "2026-11-15T02:55:11+09:00",
+  "started_at": "2026-11-15T02:47:38+09:00",
+  "base_head": "588857a2cea42d95a7a04f0728730f71d01ab14c",
+  "source_ids": [
+    "CAT-US-SRC-0039",
+    "CAT-US-SRC-0176",
+    "CAT-US-SRC-0177",
+    "CAT-US-SRC-0180",
+    "CAT-US-SRC-0181",
+    "CAT-US-SRC-0183",
+    "CAT-US-SRC-0185",
+    "CAT-US-SRC-0186",
+    "CAT-US-SRC-0187",
+    "CAT-US-SRC-0188"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0070",
+    "CAT-US-RQ-0071",
+    "CAT-US-RQ-0072",
+    "CAT-US-RQ-0073"
+  ],
+  "entity_ids": [
+    "CAT-US-GEO-0019",
+    "CAT-US-GEO-0020",
+    "CAT-US-GEO-0021"
+  ],
+  "research_scope": "1945-09-02를 기준으로 리버 루지, 베스 포지, 리치먼드 조립공장을 개전 조사와 같은 공간 단위로 비교.",
+  "limitations": [
+    "9월 2일 실가동과 네 차원의 공통 비교 자료가 부족하여 세 시설의 규모 점수·범위는 null.",
+    "리치먼드 지프 누계는 집계별 차이의 원인이 미확인이다.",
+    "세 시설 외 전시 신설 공업시설과 준주·속령은 후속 범위다."
+  ],
+  "evidence_checked": [
+    "1945년 포드 구내선 사진과 민수차 공개 사진, 웨인주립대 루지 엔진 최종 조립 목록·축소판.",
+    "HAER의 베스 포지 증설·철거와 리치먼드의 민군 분리, 항복 원문과 국가기록원 발표일 해설."
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-US-GEO-0019",
+      "reference_date": "1945-09-02",
+      "historical_name": "Ford River Rouge Plant",
+      "modern_location": "미시간주 디어본, 루지강 연안",
+      "comparison_boundary": "디어본 루지강 연안 본 공장 제철·차량조립·발전·부두·구내철도 권역. 윌로런·외부 광산·기타 공장 제외. 필지선 미확인.",
+      "territorial_status": "미국 본토의 주, 미국 실효 지배, 민간 공업시설",
+      "operators": "Ford Motor Company (CAT-US-ORG-0001)",
+      "operational_status": "1945년 3월 구내 선로 작업 확인. 포드 민수 전환과 10월 발행 루지 조립 사진 확인. 9월 2일 작업과 이전·폐기 이력은 미확인.",
+      "source_survey_dates": [
+        "1940-08-19 공정도",
+        "1945-03-24 구내철도 사진",
+        "1945-07-03 포드 홍보사진",
+        "1945-10-17 루지 사진 목록 발행일"
+      ],
+      "metrics": [
+        {
+          "metric": "개전 근접시점 구내 선로 길이 비교값",
+          "value": 100,
+          "unit": "마일",
+          "date": "1940-08-19",
+          "boundary": "디어본 루지강 연안 본 공장 제철·차량조립·발전·부두·구내철도 권역. 윌로런·외부 광산·기타 공장 제외. 필지선 미확인.",
+          "source_id": "CAT-US-SRC-0177",
+          "locator": "THF113889 판면",
+          "capacity_or_actual": "설치 길이, 종전 추정에 미사용"
+        },
+        {
+          "metric": "구내 선로 작업",
+          "value": "확인",
+          "unit": "사진 관찰",
+          "date": "1945-03-24",
+          "boundary": "디어본 루지강 연안 본 공장 제철·차량조립·발전·부두·구내철도 권역. 윌로런·외부 광산·기타 공장 제외. 필지선 미확인.",
+          "source_id": "CAT-US-SRC-0185",
+          "locator": "THF274318 판면",
+          "capacity_or_actual": "해당 날짜 관찰"
+        },
+        {
+          "metric": "엔진 최종 조립 사진 목록",
+          "value": "확인",
+          "unit": "기록",
+          "date": "1945-10-17 (발행일)",
+          "boundary": "디어본 루지강 연안 본 공장 제철·차량조립·발전·부두·구내철도 권역. 윌로런·외부 광산·기타 공장 제외. 필지선 미확인.",
+          "source_id": "CAT-US-SRC-0186",
+          "locator": "VMC 30980",
+          "capacity_or_actual": "촬영일·실제 생산량 미확인"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "산업용 면적·시설 집적",
+          "facility": "Ford Richmond Assembly Plant",
+          "metric_value_or_band": "1926년 72에이커 매입 약정",
+          "source_id": "CAT-US-SRC-0181",
+          "locator": "p. 21",
+          "rationale": "1939년 산업 가동면적과 정의가 달라 등급 경계값으로 사용할 수 없다."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "종전 당일 면적, 생산능력, 작업 수용과 물류 처리량의 실측 및 비교 구간이 없다.",
+      "source_ids": [
+        "CAT-US-SRC-0176",
+        "CAT-US-SRC-0177",
+        "CAT-US-SRC-0181",
+        "CAT-US-SRC-0185",
+        "CAT-US-SRC-0186",
+        "CAT-US-SRC-0187"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-US-GEO-0020",
+      "reference_date": "1945-09-02",
+      "historical_name": "Bethlehem Steel Corporation, Beth Forge",
+      "modern_location": "펜실베이니아주 베슬리헴, 리하이강변. UTM 18 469580 E / 4495980 N (기준면 미확인)",
+      "comparison_boundary": "베슬리헴 리하이강변 Fourth Street 북쪽·Minsi Trail Bridge 서쪽의 PA-186 원 단조·처리·기계가공 구역. Saucon·East Lehigh 별도.",
+      "territorial_status": "미국 본토의 주, 미국 실효 지배, 민간 공업시설",
+      "operators": "Bethlehem Steel Corporation",
+      "operational_status": "원 구역 단조·가공·처리동 확장. 1942년 홍수는 공장 전체 사건. 1946년 장갑판 생산 사실상 중단과 1952년 원 구역 프레스 폐기.",
+      "source_survey_dates": [
+        "1939년 12월 증설 이전",
+        "1942-05-12 홍수",
+        "1946·1952년 변화, 1990년 HAER 조사에 재구성"
+      ],
+      "metrics": [
+        {
+          "metric": "증설 전 장갑판 기준 능력",
+          "value": 560,
+          "unit": "쇼트톤/월",
+          "date": "1939-12 증설 이전",
+          "boundary": "베슬리헴 리하이강변 Fourth Street 북쪽·Minsi Trail Bridge 서쪽의 PA-186 원 단조·처리·기계가공 구역. Saucon·East Lehigh 별도.",
+          "source_id": "CAT-US-SRC-0180",
+          "locator": "Appendix B pp. 62–64",
+          "capacity_or_actual": "개전 근접시점 기준 능력"
+        },
+        {
+          "metric": "제1 단조동 프레스 가압력",
+          "value": 14000,
+          "unit": "톤힘 (원문 ton-force)",
+          "date": "전전 설치 설비, 1952년 폐기",
+          "boundary": "베슬리헴 리하이강변 Fourth Street 북쪽·Minsi Trail Bridge 서쪽의 PA-186 원 단조·처리·기계가공 구역. Saucon·East Lehigh 별도. 제1 단조동.",
+          "source_id": "CAT-US-SRC-0180",
+          "locator": "p. 50 및 주 188",
+          "capacity_or_actual": "설비 정격, 생산량 아님"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "후속 철거 이력과 설비 정격은 확인했다. 1945년 잔존·실가동 전수, 인력과 설비 처리량 및 동종 기준은 미확인이다.",
+      "source_ids": [
+        "CAT-US-SRC-0180"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-US-GEO-0021",
+      "reference_date": "1945-09-02",
+      "historical_name": "Ford Richmond Assembly Plant / Richmond Tank Depot",
+      "modern_location": "캘리포니아주 리치먼드, 1400 Harbour Way South",
+      "comparison_boundary": "리치먼드 내항 1400 Harbour Way South 소재 포드 조립동·발전동·전용 철도와 선적시설. 공용 항만과 카이저 조선소 제외.",
+      "territorial_status": "미국 본토의 주, 미국 실효 지배, 민간 공업시설",
+      "operators": "Ford Motor Company (CAT-US-ORG-0001). 미국 육군 Ordnance Department 감독 및 정부 자산 별도.",
+      "operational_status": "군용 지프 조립 종료 뒤 민수 트럭 조립 전환. 병기부 업무의 군용 출하는 10월 31일까지 이어졌고 정부 장비 해체는 별도였다.",
+      "source_survey_dates": [
+        "전시 배치 자료(1942년 12월 포함)",
+        "1945-07-28 마지막 지프 계약 종료",
+        "1945-08-29 민수 출고",
+        "1945년 9월 첫째 주 및 9월 10일 출하",
+        "1945-09-28 통보, 10-31 마지막 출하"
+      ],
+      "metrics": [
+        {
+          "metric": "지프 조립 배정 층면적 1층",
+          "value": 142000,
+          "unit": "제곱피트",
+          "date": "전시 배치, 1942년 12월 자료 포함",
+          "boundary": "리치먼드 내항 1400 Harbour Way South 소재 포드 조립동·발전동·전용 철도와 선적시설. 공용 항만과 카이저 조선소 제외. 조립동 안.",
+          "source_id": "CAT-US-SRC-0181",
+          "locator": "p. 69 주 169",
+          "capacity_or_actual": "용도별 층면적, 종전일 미확인"
+        },
+        {
+          "metric": "병기 집적소 배정 층면적 1층",
+          "value": 105162,
+          "unit": "제곱피트",
+          "date": "전시 배치, 1942년 12월 자료 포함",
+          "boundary": "리치먼드 내항 1400 Harbour Way South 소재 포드 조립동·발전동·전용 철도와 선적시설. 공용 항만과 카이저 조선소 제외. 조립동 안.",
+          "source_id": "CAT-US-SRC-0181",
+          "locator": "p. 69 주 169",
+          "capacity_or_actual": "용도별 층면적, 종전일 미확인"
+        },
+        {
+          "metric": "병기 집적소 배정 층면적 2층",
+          "value": 71714,
+          "unit": "제곱피트",
+          "date": "전시 배치, 1942년 12월 자료 포함",
+          "boundary": "리치먼드 내항 1400 Harbour Way South 소재 포드 조립동·발전동·전용 철도와 선적시설. 공용 항만과 카이저 조선소 제외. 조립동 안.",
+          "source_id": "CAT-US-SRC-0181",
+          "locator": "p. 69 주 169",
+          "capacity_or_actual": "용도별 층면적, 종전일 미확인"
+        },
+        {
+          "metric": "마지막 지프 계약 실적",
+          "value": 4423,
+          "unit": "대",
+          "date": "1945-02-20 계약~1945-07-28 종료",
+          "boundary": "리치먼드 내항 1400 Harbour Way South 소재 포드 조립동·발전동·전용 철도와 선적시설. 공용 항만과 카이저 조선소 제외. 조립동 안.",
+          "source_id": "CAT-US-SRC-0181",
+          "locator": "pp. 69–70, W-20-018-Ord-4920",
+          "capacity_or_actual": "계약별 누계"
+        },
+        {
+          "metric": "첫 민수 트럭",
+          "value": 1,
+          "unit": "대",
+          "date": "1945-08-29",
+          "boundary": "리치먼드 내항 1400 Harbour Way South 소재 포드 조립동·발전동·전용 철도와 선적시설. 공용 항만과 카이저 조선소 제외. 조립동 안.",
+          "source_id": "CAT-US-SRC-0181",
+          "locator": "p. 116 주 294",
+          "capacity_or_actual": "실제 출고 사례"
+        },
+        {
+          "metric": "집적소 출하율",
+          "value": 30,
+          "unit": "대/일 (약)",
+          "date": "1945년 9월 첫째 주",
+          "boundary": "리치먼드 전차집적소의 출하 업무. 공장 물리 경계와 지표 범위 차이.",
+          "source_id": "CAT-US-SRC-0181",
+          "locator": "p. 83 주 209",
+          "capacity_or_actual": "실제 출하율, 기준일 1일 실적과 구별"
+        },
+        {
+          "metric": "병기 업무 전환 인력",
+          "value": 200,
+          "unit": "명",
+          "date": "1945-09-10",
+          "boundary": "리치먼드 전차집적소의 출하 업무. 공장 물리 경계와 지표 범위 차이.",
+          "source_id": "CAT-US-SRC-0181",
+          "locator": "p. 83 주 209",
+          "capacity_or_actual": "실제 인력 전환, 정원 아님"
+        },
+        {
+          "metric": "집적소 출하율",
+          "value": 75,
+          "unit": "대/일 (약)",
+          "date": "1945-09-10 인력 전환 뒤",
+          "boundary": "리치먼드 전차집적소의 출하 업무. 공장 물리 경계와 지표 범위 차이.",
+          "source_id": "CAT-US-SRC-0181",
+          "locator": "p. 83 주 209",
+          "capacity_or_actual": "실제 출하율, 정격 아님"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "산업용 면적·시설 집적",
+          "facility": "Ford River Rouge Plant",
+          "metric_value_or_band": "원 부지 약 2,000에이커",
+          "source_id": "CAT-US-SRC-0179",
+          "locator": "Decentralization",
+          "rationale": "후대의 원 부지 설명이며 정확한 기준일과 가동 경계를 모른다. 차량 조립 집적의 비교 참고값."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "전시 층면적과 종전 전후 실적의 기준일·집계 정의가 서로 다르고 수용 정원과 전력·항만 정격의 당시 비교 자료가 없다.",
+      "source_ids": [
+        "CAT-US-SRC-0179",
+        "CAT-US-SRC-0181"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "access_attempts": [
+    {
+      "url": "https://loc.gov/pictures/item/pa2171/",
+      "status": "inaccessible",
+      "detail": "403. 같은 소장 단위의 공개 data PDF에서 HAER PA-186-A 표지를 확인했지만 철거 날짜는 확인할 수 없었다. 본문은 PA-186 p. 50을 인용했다."
+    },
+    {
+      "url": "https://arvasarchive.org/catalog/wvmturhc_repositories_2_resources_3207_c04_c30",
+      "status": "inaccessible",
+      "detail": "소장 목록의 연도 범위 및 Box 25 안내만 열렸다. 연차보고서 본문이나 1945년 공장별 수치는 확인하지 못했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=74 pending=59; sources=814 questions=301. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

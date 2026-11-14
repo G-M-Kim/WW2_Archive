@@ -3684,5 +3684,85 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "Detroit Historical Society historical interpretation"
+  },
+  {
+    "id": "CAT-US-SRC-0185",
+    "title": "Ford Railroad Employees with Handcar, Ford Rouge Plant, March 24, 1945",
+    "institution_or_author": "Ford Motor Company Photographic Department; The Henry Ford, Benson Ford Research Center",
+    "publication_date": "1945-03-24 (촬영 대상일)",
+    "source_type": "primary",
+    "document_or_accession_number": "THF274318; 64.167.833.P.81508.9",
+    "locator": "사진 판면·Subject Date·Artifact Overview",
+    "url": "https://www.thehenryford.org/collections/explore/artifact/476748?AssetId=THF274318",
+    "accessed_at": "2026-11-15T02:55:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "디어본 루지의 구내 선로와 노동자 활동을 확인했다. 소장기관은 약 100마일 규모로 설명한다."
+    ],
+    "limitations": [
+      "100마일의 별도 측량일은 없으며 사진으로는 1945-09-02 길이·수송 정격·실적을 알 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Ford company photographic series and catalog commentary"
+  },
+  {
+    "id": "CAT-US-SRC-0186",
+    "title": "Ford Motor Co.: Plants: Rouge. Final Assembly of Motors",
+    "institution_or_author": "Walter P. Reuther Library, Archives of Labor and Urban Affairs, Wayne State University; 촬영자 미확인",
+    "publication_date": "1945-10-17 (목록 발행일)",
+    "source_type": "primary",
+    "document_or_accession_number": "Virtual Motor City Collection id 30980",
+    "locator": "Michigan Memories 목록 및 공개 축소 사진",
+    "url": "https://michmemories.org/records/ford-motor-co-plants-rouge-final-assembly-motors",
+    "accessed_at": "2026-11-15T02:55:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "루지 공장의 엔진 최종 조립을 제목으로 삼은 1945년 10월 발행 사진 목록과 판면을 열람했다."
+    ],
+    "limitations": [
+      "발행일과 촬영일의 관계, 공정의 실제 생산 수량은 미확인이다."
+    ],
+    "rights": "Walter P. Reuther Library, Wayne State University 저작권 표기. 링크와 자체 요약만 사용.",
+    "independence_group": "Walter P. Reuther Library VMC 30980"
+  },
+  {
+    "id": "CAT-US-SRC-0187",
+    "title": "Henry Ford II Driving the First Ford Car off the Assembly Line after World War II, July 3, 1945",
+    "institution_or_author": "Ford Motor Company Photographic Department; The Henry Ford, Benson Ford Research Center",
+    "publication_date": "1945-07-03",
+    "source_type": "primary",
+    "document_or_accession_number": "THF271113; 64.167.833.P.81910",
+    "locator": "사진 판면 및 Date Made·Subject Date",
+    "url": "https://www.thehenryford.org/collections/explore/artifact/11223",
+    "accessed_at": "2026-11-15T02:55:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공식 항복 서명 전의 민수차 공개 장면과 기록 날짜를 확인했다."
+    ],
+    "limitations": [
+      "기념 사진이며 목록은 개별 생산동을 명시하지 않는다. 여기에 근거해 9월 2일 생산량을 산정할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Ford company photographic series and catalog commentary"
+  },
+  {
+    "id": "CAT-US-SRC-0188",
+    "title": "Remembering V-J Day: The Film and Photos That Captured History",
+    "institution_or_author": "Victoria Macchi; U.S. National Archives",
+    "publication_date": "2020-08-14",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "첫 단락의 백악관 발표일 및 항복 서명일",
+    "url": "https://www.archives.gov/news/vj-day-75",
+    "accessed_at": "2026-11-15T02:55:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미국에서 1945-08-14 백악관 발표와 1945-09-02 공식 서명을 구분했다."
+    ],
+    "limitations": [
+      "공장별 계약·운영 전환일은 이 자료에 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. National Archives historical interpretation"
   }
 ]
