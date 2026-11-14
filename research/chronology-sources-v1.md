@@ -2365,3 +2365,5 @@ as_of: 2026-11-04
 | SRC-2077 | 러시아 대통령도서관, *В ходе Великой Отечественной войны началась битва за Кавказ* (캅카스 전투 개시), 기관 역사 연표 | 2차(공공기관 역사 해설) | 1942-07-25 캅카스 전투 개시 | https://www.prlib.ru/history/2049054 | 2026-11-14 열람. 소련 측 전역 시작일 정의를 반영. 독일군 원전 및 개별 도시 점령일과 구분; 원본 작전명령 미대조 |
 | SRC-2078 | 소련 국방인민위원 명령 제227호, 1942-07-28 러시아어 전사 | 1차(당대 명령 전사) | 명령 제227호 발령·후퇴금지 및 형벌부대·차단분견대 규정 | https://stalingrad1942-1943.ru/node/2142 | 전사본 기반; 보존 원본 이미지·명령 실제 집행일 미대조 |
 | SRC-2079 | 미국 해군역사유산사령부(NHHC), The Women's Reserve (WAVES) | 2차(미 해군 공식 기관 해설) | 1942-07-30 Public Law 689 서명과 여성 해군예비군 설치 | https://www.history.navy.mil/content/history/nhhc/browse-by-topic/wars-conflicts-and-operations/world-war-ii/manning-the-us-navy/waves.html | 공식 기관 해설; 법률 원문과 후속 모집일 미대조 |
+
+| SRC-2080 | 미국 국립 제2차세계대전박물관, *Alexander A. Vandegrift Before Guadalcanal* | 2차(박물관 역사해설) | 1942-07-31 코로섬에서 미 해병 제1사단 약 19,000명 수송선 승선, 8/7 상륙 예정 | https://www.nationalww2museum.org/war/articles/alexander-vandegrift-guadalcanal | 2026-11-14 확인. 병력 수는 후대 해설의 대략치; 함정별 승선명부·실제 출항 시각은 미대조 |
