@@ -1,0 +1,353 @@
+{
+  "step": 75,
+  "job_id": "CAT-US-18",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 18,
+  "category": "개전 시점 주요 공군기지와 규모(1~10)",
+  "article_path": "categories/united-states/18-air-bases-start.md",
+  "status": "partial",
+  "completed_at": "2026-11-15T04:56:53+09:00",
+  "started_at": "2026-11-15T04:49:42+09:00",
+  "base_head": "411c2ff4a1e9aff2abd0a7664007401b9c3c3172",
+  "source_ids": [
+    "CAT-US-SRC-0098",
+    "CAT-US-SRC-0144",
+    "CAT-US-SRC-0189",
+    "CAT-US-SRC-0190",
+    "CAT-US-SRC-0191",
+    "CAT-US-SRC-0192",
+    "CAT-US-SRC-0193",
+    "CAT-US-SRC-0194",
+    "CAT-US-SRC-0195",
+    "CAT-US-SRC-0196",
+    "CAT-US-SRC-0197",
+    "CAT-US-SRC-0198"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0074",
+    "CAT-US-RQ-0075",
+    "CAT-US-RQ-0076"
+  ],
+  "entity_ids": [
+    "CAT-US-GEO-0022",
+    "CAT-US-GEO-0023"
+  ],
+  "research_scope": "1939-09-01 기준 본토 랭글리와 하와이 준주 히캄의 설치 시설과 실제 운영을 비교.",
+  "limitations": [
+    "당일 네 차원의 공통 수치와 등급 경계가 부족하여 두 시설의 규모 점수·범위는 null.",
+    "히캄 보급창의 이전 완료와 건물 인수·가동 시점은 출처별 서술이 다르다.",
+    "본토 훈련기지와 다른 관할은 후속 범위다."
+  ],
+  "evidence_checked": [
+    "1935·1939년 육군항공대 회보의 히캄 계획·지휘 통합과 랭글리 비행·입찰 기록.",
+    "히캄 기지 연혁, HABS 조사, 미 공군 공식사, 햄프턴 도시계획 보고서 대조."
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-US-GEO-0022",
+      "reference_date": "1939-09-01",
+      "historical_name": "Langley Field",
+      "modern_location": "버지니아 햄프턴 일대 랭글리 공군기지",
+      "comparison_boundary": "햄프턴 백리버 남서 지류 북안의 랭글리 육군 비행장. NACA 연구 구역과 외부 훈련장 제외.",
+      "territorial_status": "미국 본토 버지니아주, 미 연방 군용 시설, 미국 실효 지배.",
+      "operators": "미 육군항공대 전술 조직 GHQ Air Force. 공사는 육군 병참부 담당.",
+      "operational_status": "기준일 전 비행 시험과 제2폭격전대 B-17B 도착 확인. 8월 병영 공사는 개찰 단계.",
+      "source_survey_dates": [
+        "1916년 취득 결정",
+        "1918–1919년 격납고 공사",
+        "1937년 활주로 공사",
+        "1939년 7~8월 비행과 입찰",
+        "1940년 활주로 재포장"
+      ],
+      "metrics": [
+        {
+          "metric": "초기 취득 결정 면적",
+          "value": 1659,
+          "unit": "에이커",
+          "date": "1916",
+          "boundary": "초기 취득 부지",
+          "source_id": "CAT-US-SRC-0196",
+          "locator": "Executive Summary p. 1",
+          "capacity_or_actual": "취득 결정, 1939년 가동면적 미확인"
+        },
+        {
+          "metric": "확인한 초기 벽돌 격납고",
+          "value": 2,
+          "unit": "동",
+          "date": "1918–1919",
+          "boundary": "햄프턴 백리버 남서 지류 북안의 랭글리 육군 비행장. NACA 연구 구역과 외부 훈련장 제외.",
+          "source_id": "CAT-US-SRC-0197",
+          "locator": "두 격납고 건설 단락",
+          "capacity_or_actual": "실제 건설, 전체나 수용 대수 아님"
+        },
+        {
+          "metric": "활주로 표면 시공",
+          "value": "유처리 토양",
+          "unit": "재료",
+          "date": "1937",
+          "boundary": "햄프턴 백리버 남서 지류 북안의 랭글리 육군 비행장. NACA 연구 구역과 외부 훈련장 제외.",
+          "source_id": "CAT-US-SRC-0195",
+          "locator": "p. 370",
+          "capacity_or_actual": "실제 시공, 치수·당일 처리량 미확인"
+        },
+        {
+          "metric": "콘크리트 재포장 두께",
+          "value": 6,
+          "unit": "인치",
+          "date": "1940",
+          "boundary": "햄프턴 백리버 남서 지류 북안의 랭글리 육군 비행장. NACA 연구 구역과 외부 훈련장 제외.",
+          "source_id": "CAT-US-SRC-0195",
+          "locator": "pp. 370–371",
+          "capacity_or_actual": "후속 설치, 기준일 제외"
+        },
+        {
+          "metric": "개찰 대상 병영",
+          "value": 40,
+          "unit": "동",
+          "date": "1939-08-08",
+          "boundary": "햄프턴 백리버 남서 지류 북안의 랭글리 육군 비행장. NACA 연구 구역과 외부 훈련장 제외.",
+          "source_id": "CAT-US-SRC-0191",
+          "locator": "9월 1일호 p. 11",
+          "capacity_or_actual": "계획, 준공 미확인"
+        },
+        {
+          "metric": "개찰 대상 식당",
+          "value": 10,
+          "unit": "동",
+          "date": "1939-08-08",
+          "boundary": "햄프턴 백리버 남서 지류 북안의 랭글리 육군 비행장. NACA 연구 구역과 외부 훈련장 제외.",
+          "source_id": "CAT-US-SRC-0191",
+          "locator": "9월 1일호 p. 11",
+          "capacity_or_actual": "계획, 준공 미확인"
+        },
+        {
+          "metric": "개찰 대상 휴양관",
+          "value": 10,
+          "unit": "동",
+          "date": "1939-08-08",
+          "boundary": "햄프턴 백리버 남서 지류 북안의 랭글리 육군 비행장. NACA 연구 구역과 외부 훈련장 제외.",
+          "source_id": "CAT-US-SRC-0191",
+          "locator": "9월 1일호 p. 11",
+          "capacity_or_actual": "계획, 준공 미확인"
+        },
+        {
+          "metric": "제2폭격전대 첫 B-17B의 랭글리 도착",
+          "value": 1,
+          "unit": "대",
+          "date": "1939-08-10",
+          "boundary": "햄프턴 백리버 남서 지류 북안의 랭글리 육군 비행장. NACA 연구 구역과 외부 훈련장 제외.",
+          "source_id": "CAT-US-SRC-0191",
+          "locator": "10월 1일호 p. 11",
+          "capacity_or_actual": "실제 도착 사례, 기준일 배치 수 미확인"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "주기장·격납 수용 능력",
+          "facility": "Hickam Field",
+          "metric_value_or_band": "이중 격납고 4동",
+          "source_id": "CAT-US-SRC-0192",
+          "locator": "p. 1, 1937년 항목",
+          "comparison_reason": "동시대까지 존속한 격납 시설의 건설 수량 사례. 형태 및 수용 기종·정원 자료가 달라 등급 경계에 사용하지 않음."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "1939-09-01의 착륙장 치수·수용 정원·정비와 항공유 정격 및 공통 비교 경계가 미확인이다.",
+      "source_ids": [
+        "CAT-US-SRC-0191",
+        "CAT-US-SRC-0192",
+        "CAT-US-SRC-0195",
+        "CAT-US-SRC-0196",
+        "CAT-US-SRC-0197",
+        "CAT-US-SRC-0198"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-US-GEO-0023",
+      "reference_date": "1939-09-01",
+      "historical_name": "Hickam Field",
+      "modern_location": "하와이 오아후섬 진주만–히캄 합동기지 히캄 구역",
+      "comparison_boundary": "오아후 진주만 수로 동쪽의 히캄 육군 비행장. 루크 비행장 및 민간 존 로저스 공항 제외.",
+      "territorial_status": "미국 하와이 준주, 미 연방 군용 시설, 미국 실효 지배.",
+      "operators": "미 육군 Hawaiian Department 산하 육군항공대와 제18비행단. 병참부가 건설.",
+      "operational_status": "1938년 공식 가동 및 1939년 제5폭격전대 본부 이전. 항공 보급창 이전과 병영 공사는 별도.",
+      "source_survey_dates": [
+        "1935-04-03 구획 취득",
+        "1935-10-01 계획 보도",
+        "1937·1938년 준공 목록",
+        "1939년 2월 지휘 통합 보도",
+        "1939-09-01 병영 한 구획",
+        "1940년 병영 준공·보급창 이전"
+      ],
+      "metrics": [
+        {
+          "metric": "A·B 취득 대상 면적",
+          "value": 2225.46,
+          "unit": "에이커",
+          "date": "1935-04-03",
+          "boundary": "포트 카메하메하 인접 A·B 구획",
+          "source_id": "CAT-US-SRC-0192",
+          "locator": "p. 1, 1935년 4월 3일",
+          "capacity_or_actual": "매입, 가동면적 미확인"
+        },
+        {
+          "metric": "초기 계획 부지 규모",
+          "value": ">2500",
+          "unit": "에이커",
+          "date": "1935-10-01",
+          "boundary": "오아후 진주만 수로 동쪽의 히캄 육군 비행장. 루크 비행장 및 민간 존 로저스 공항 제외.",
+          "source_id": "CAT-US-SRC-0189",
+          "locator": "pp. 7–9",
+          "capacity_or_actual": "계획"
+        },
+        {
+          "metric": "초기 활주로 완성 구간 길이",
+          "value": 3000,
+          "unit": "피트",
+          "date": "1937-08",
+          "boundary": "오아후 진주만 수로 동쪽의 히캄 육군 비행장. 루크 비행장 및 민간 존 로저스 공항 제외.",
+          "source_id": "CAT-US-SRC-0194",
+          "locator": "pp. 14–15",
+          "capacity_or_actual": "확인된 초기 공사 길이, 1939년 전체 치수 미확인"
+        },
+        {
+          "metric": "포장 착륙면",
+          "value": 1,
+          "unit": "곳",
+          "date": "1937",
+          "boundary": "오아후 진주만 수로 동쪽의 히캄 육군 비행장. 루크 비행장 및 민간 존 로저스 공항 제외.",
+          "source_id": "CAT-US-SRC-0192",
+          "locator": "p. 1, 1937년",
+          "capacity_or_actual": "준공 목록, 치수 및 추가 활주로 수 미확인"
+        },
+        {
+          "metric": "이중 격납고",
+          "value": 4,
+          "unit": "동",
+          "date": "1937",
+          "boundary": "오아후 진주만 수로 동쪽의 히캄 육군 비행장. 루크 비행장 및 민간 존 로저스 공항 제외.",
+          "source_id": "CAT-US-SRC-0192",
+          "locator": "p. 1, 1937년",
+          "capacity_or_actual": "준공 목록, 수용 정원 미확인"
+        },
+        {
+          "metric": "콘크리트 시운전용 에이프런",
+          "value": 1,
+          "unit": "곳",
+          "date": "1938",
+          "boundary": "오아후 진주만 수로 동쪽의 히캄 육군 비행장. 루크 비행장 및 민간 존 로저스 공항 제외.",
+          "source_id": "CAT-US-SRC-0192",
+          "locator": "p. 1, 1938년",
+          "capacity_or_actual": "준공 목록, 동시 수용량 미확인"
+        },
+        {
+          "metric": "탄약 저장시설",
+          "value": 7,
+          "unit": "동",
+          "date": "1937",
+          "boundary": "오아후 진주만 수로 동쪽의 히캄 육군 비행장. 루크 비행장 및 민간 존 로저스 공항 제외.",
+          "source_id": "CAT-US-SRC-0192",
+          "locator": "p. 1, 1937년",
+          "capacity_or_actual": "준공 목록, 저장 용량 미확인"
+        },
+        {
+          "metric": "병참창고",
+          "value": 1,
+          "unit": "동",
+          "date": "1938",
+          "boundary": "오아후 진주만 수로 동쪽의 히캄 육군 비행장. 루크 비행장 및 민간 존 로저스 공항 제외.",
+          "source_id": "CAT-US-SRC-0192",
+          "locator": "p. 1, 1938년",
+          "capacity_or_actual": "준공 목록, 처리량 미확인"
+        },
+        {
+          "metric": "담수 입상탱크 용량",
+          "value": 500000,
+          "unit": "갤런 (미국)",
+          "date": "1937",
+          "boundary": "오아후 진주만 수로 동쪽의 히캄 육군 비행장. 루크 비행장 및 민간 존 로저스 공항 제외.",
+          "source_id": "CAT-US-SRC-0192",
+          "locator": "p. 1, 1937년",
+          "capacity_or_actual": "설치 용량, 연료와 별개"
+        },
+        {
+          "metric": "대형 병영 완성 구획",
+          "value": 1,
+          "unit": "구획",
+          "date": "1939-09-01",
+          "boundary": "Building 1102",
+          "source_id": "CAT-US-SRC-0194",
+          "locator": "pp. 16–17",
+          "capacity_or_actual": "공사 진척, 입주와 별개"
+        },
+        {
+          "metric": "대형 병영 완공 수용 정원",
+          "value": 3200,
+          "unit": "명",
+          "date": "1940-09-30",
+          "boundary": "Building 1102",
+          "source_id": "CAT-US-SRC-0192",
+          "locator": "p. 2, 1940년 9월 30일",
+          "capacity_or_actual": "후속 설계 정원, 개전일 평가에서 제외"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "주기장·격납 수용 능력",
+          "facility": "Langley Field",
+          "metric_value_or_band": "초기 벽돌 격납고 2동",
+          "source_id": "CAT-US-SRC-0197",
+          "locator": "1918~1919년 건설 단락",
+          "comparison_reason": "동시대까지 존속한 격납 시설의 건설 수량 사례. 형태 및 수용 기종·정원 자료가 달라 등급 경계에 사용하지 않음."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "부지 취득과 설치 수량은 확인했다. 기준일 착륙·격납·정비·급유 정격과 비교 등급 경계는 미확인이다.",
+      "source_ids": [
+        "CAT-US-SRC-0144",
+        "CAT-US-SRC-0189",
+        "CAT-US-SRC-0190",
+        "CAT-US-SRC-0192",
+        "CAT-US-SRC-0193",
+        "CAT-US-SRC-0194",
+        "CAT-US-SRC-0195",
+        "CAT-US-SRC-0197"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.loc.gov/resource/fsac.1a35094/",
+      "status": "inaccessible",
+      "detail": "사진 항목의 직접 열람 요청에 403 응답. 검색 요약의 촬영 연도나 캡션을 검증 근거로 사용하지 않았다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=75 pending=58; sources=824 questions=304. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

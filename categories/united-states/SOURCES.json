@@ -3764,5 +3764,205 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "U.S. National Archives historical interpretation"
+  },
+  {
+    "id": "CAT-US-SRC-0189",
+    "title": "Air Corps News Letter: Hickam Field to Be Miniature City When Completed",
+    "institution_or_author": "U.S. War Department, Office of the Chief of the Air Corps",
+    "publication_date": "1935-10-01",
+    "source_type": "primary",
+    "document_or_accession_number": "Vol. XVIII no. 18, V-6867 A.C.",
+    "locator": "pp. 7–9, 히캄 건설 계획",
+    "url": "https://media.defense.gov/2011/Apr/21/2001330176/-1/-1/0/AFD-110421-031.pdf",
+    "accessed_at": "2026-11-15T04:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "2,500에이커 초과 계획, 즉시 건설 예정 이중 격납고 4동 등을 확인했다."
+    ],
+    "limitations": [
+      "공사 승인 계획과 예상치다. 매입·준공 면적이나 1939년 설치 수량과 구별한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. Army Air Corps contemporary news series"
+  },
+  {
+    "id": "CAT-US-SRC-0190",
+    "title": "Air Corps News Letter: Air Corps Activities in Hawaii",
+    "institution_or_author": "U.S. War Department, Office of the Chief of the Air Corps",
+    "publication_date": "1939-02-01",
+    "source_type": "primary",
+    "document_or_accession_number": "V-7967 A.C.",
+    "locator": "p. 4, Air Corps Activities in Hawaii",
+    "url": "https://media.defense.gov/2011/Apr/21/2001330165/-1/-1/0/AFD-110421-046.pdf",
+    "accessed_at": "2026-11-15T04:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 1월 지휘 통합, 제5폭격전대 본부 이전과 훈련 활동을 확인했다."
+    ],
+    "limitations": [
+      "군 회보 기사다. 명령 원본과 9월 1일 기체 수, 정비 가동률·시설 정격은 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. Army Air Corps contemporary news series"
+  },
+  {
+    "id": "CAT-US-SRC-0191",
+    "title": "Air Corps News Letter: New Construction at Langley Field; New International and National Aircraft Performance Records; Notes of the 2nd Bombardment Group",
+    "institution_or_author": "U.S. War Department, Office of the Chief of the Air Corps",
+    "publication_date": "1939-09-01 및 1939-10-01",
+    "source_type": "primary",
+    "document_or_accession_number": "Vol. XXII nos. 17, 19; V-8178, V-8223 A.C.",
+    "locator": "9월 1일호 pp. 11, 23; 10월 1일호 pp. 8, 11",
+    "url": "https://media.defense.gov/2011/Apr/21/2001330179/-1/-1/0/AFD-110421-048.pdf",
+    "accessed_at": "2026-11-15T04:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "랭글리의 8월 병영·식당·휴양관 입찰, 7월에 이뤄진 기록 시험 및 8월 제2폭격전대의 첫 B-17B 도착을 확인했다."
+    ],
+    "limitations": [
+      "입찰은 완공 기록과 별개다. 시험·도착 사례로 9월 1일 일별 운용이나 시설 능력을 산출할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. Army Air Corps contemporary news series"
+  },
+  {
+    "id": "CAT-US-SRC-0192",
+    "title": "Hickam Field/Hickam Air Force Base Chronology (1935–1985)",
+    "institution_or_author": "Hawaii Department of Transportation, Airports Division 디지털 제공; 편찬자 미표기",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "pp. 1–2, 1935년 4월부터 1940년 9월까지의 관련 항목",
+    "url": "https://aviation.hawaii.gov/wp-content/uploads/2015/03/Hickam-AFB-Chronology-1935-1985.pdf",
+    "accessed_at": "2026-11-15T04:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "취득대상 구획의 면적, 착륙면·격납고·에이프런 등 설치 이력, 공식 가동과 보급창 이전 날짜를 확인했다."
+    ],
+    "limitations": [
+      "연혁의 원 인수 문서와 1939년 실사용 경계·격납·급유 정격은 미확인이다. 보급창 이전 일자에는 편찬사 간 차이가 있다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Hickam chronology as hosted by Hawaii Aviation"
+  },
+  {
+    "id": "CAT-US-SRC-0193",
+    "title": "7 December 1941: The Air Force Story",
+    "institution_or_author": "Leatrice R. Arakaki and John R. Kuborn; U.S. Air Force",
+    "publication_date": "1991",
+    "source_type": "secondary",
+    "document_or_accession_number": "ISBN 0-912799-73-0; GOVPUB-D301-PURL-LPS47830",
+    "locator": "제2장 pp. 17–20, 특히 pp. 18–19 및 주 4–8",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf",
+    "accessed_at": "2026-11-15T04:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "히캄 당시 부지의 인접 경계, 육군 항공부대 이전과 보급창 잔류·신축 시기 서술을 확인했다."
+    ],
+    "limitations": [
+      "반올림한 부지 면적과 1941년 배치 지도는 1939년 실사용 경계의 실측 근거가 아니다. 보급창 날짜는 원기록 대조가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Arakaki and Kuborn historical synthesis"
+  },
+  {
+    "id": "CAT-US-SRC-0194",
+    "title": "Hickam Air Force Base, Barracks",
+    "institution_or_author": "Historic American Buildings Survey (HABS); Library of Congress 소장",
+    "publication_date": "1994년 기본 조사, 증보부 작성일 미확인",
+    "source_type": "secondary",
+    "document_or_accession_number": "HABS HI-164-I",
+    "locator": "증보부 pp. 14–17, 초기 공사와 Building 1102",
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0200/hi0258/data/hi0258data.pdf",
+    "accessed_at": "2026-11-15T04:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "초기 이중 격납고 계약, 작업장·시험 시설, 공사 중인 활주로·저장·정비 시설, 병영 완성 단계와 1940년 수용 정원을 확인했다."
+    ],
+    "limitations": [
+      "병영 중심의 사후 조사다. 1939년 항공유 탱크 정격과 공사별 인수일은 제시하지 않는다. 인용된 육군 회보와 전사를 독립 증거로 중복 집계하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "HABS HI-164-I architectural survey and compiled history"
+  },
+  {
+    "id": "CAT-US-SRC-0195",
+    "title": "Aviation in the U.S. Army, 1919–1939",
+    "institution_or_author": "Maurer Maurer; Office of Air Force History",
+    "publication_date": "1987",
+    "source_type": "secondary",
+    "document_or_accession_number": "GOVPUB-D301-PURL-LPS48333",
+    "locator": "Building an Air Force, pp. 369–371 및 주 98–107",
+    "url": "https://media.defense.gov/2016/Mar/17/2001481634/-1/-1/0/PAGES%20FROM%20AVIATION%20IN%20THE%20US%20ARMY%201919-1939.PDF",
+    "accessed_at": "2026-11-15T04:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "랭글리의 1937년 유처리 토양 활주로와 1940년 콘크리트 재포장, 히캄 보급창 이전에 관한 다른 서술을 확인했다."
+    ],
+    "limitations": [
+      "설계·인수 원장 자체는 열람하지 않았다. 히캄의 초기 이전과 최종 시설 가동을 구분할 자료가 더 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Maurer historical synthesis"
+  },
+  {
+    "id": "CAT-US-SRC-0196",
+    "title": "The North King Street Corridor Master Plan Study",
+    "institution_or_author": "Urban Design Associates; City of Hampton",
+    "publication_date": "2007-03",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Executive Summary pp. 1–2, 1916년 부지와 지도",
+    "url": "https://www.hampton.gov/DocumentCenter/View/929/nking_street_corridor_master_plan?bidId=",
+    "accessed_at": "2026-11-15T04:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "햄프턴 북쪽 백리버 남서 지류의 북안에 위치한 1916년 초기 1,659에이커 취득 결정 및 현대 대응 이름을 확인했다."
+    ],
+    "limitations": [
+      "도시계획 보고서가 인용한 초기 면적이다. 1939년 연방 군용 시설의 확정 경계로 사용할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "City of Hampton urban planning study"
+  },
+  {
+    "id": "CAT-US-SRC-0197",
+    "title": "Two hangars on Langley trumphet architect's vision",
+    "institution_or_author": "Vic Johnston; 1st Fighter Wing Public Affairs",
+    "publication_date": "2016-10-19",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1918~1919년 격납고 2동과 벽돌 구조 설명",
+    "url": "https://www.jble.af.mil/News/Article-Display/Article/979255/two-hangars-on-langley-trumphet-architects-vision/",
+    "accessed_at": "2026-11-15T04:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제1차 세계대전 시기에 건설한 벽돌 격납고 두 동의 건설 연대와 구조를 확인했다."
+    ],
+    "limitations": [
+      "2000년 건축 조사 등을 재구성한 기사다. 1939년 기지 전체 격납고 수와 기종별 정원은 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Joint Base Langley-Eustis architectural heritage article"
+  },
+  {
+    "id": "CAT-US-SRC-0198",
+    "title": "The Army Air Forces in World War II, Vol. VI: Men and Planes, Chapter 4",
+    "institution_or_author": "Wesley Frank Craven and James Lea Cate (편); University of Chicago Press",
+    "publication_date": "1955",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제4장, pp. 120–123 개전 전 기지 목록",
+    "url": "https://ibiblio.org/hyperwar/AAF/VI/AAF-VI-4.html",
+    "accessed_at": "2026-11-15T04:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 초 랭글리의 전술 조직 소속, 다른 전술·훈련 기지 및 개전 전 인프라 한계를 확인했다."
+    ],
+    "limitations": [
+      "전후 공식사로 해당 장의 범위는 군 전체 시설이다. 1939년 9월 1일 기지별 정격·실적은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "USAAF official multivolume history"
   }
 ]
