@@ -1666,5 +1666,185 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "jacar-tripartite-pact-glossary"
+  },
+  {
+    "id": "CAT-JP-SRC-0080",
+    "title": "略年譜 著書目録 — 中谷宇吉郎",
+    "institution_or_author": "나카야 우키치로 눈의 과학관",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "연표 1900·1932·1941·1943~1944년 행",
+    "url": "https://yukinokagakukan.kagashi-ss.com/ukichiro/biography/",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "나카야의 출신지와 홋카이도제국대학 교수 경력, 저온과학연구소 출범, 니세코 관측소와 네무로 연구."
+    ],
+    "limitations": [
+      "인물 연표다. 연구 발주서와 항공기 개별 기체 이력은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nakaya-museum-chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0081",
+    "title": "樹氷の科学",
+    "institution_or_author": "나카야 우키치로, 이와나미서점, 아오조라문고 전자 전사",
+    "publication_date": "1950-03, 모본 『霧退治―科学物語』 1950-03-15",
+    "source_type": "primary",
+    "document_or_accession_number": "아오조라문고 파일 57305_60826",
+    "locator": "제12~14절, 제13절 그림 7 아래; 권말 저본 정보",
+    "url": "https://www.aozora.gr.jp/cards/001569/files/57305_60826.html",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "니세코안누푸리 관측소에서의 자연 착빙 관찰과 현미경 관찰·촬영에 관한 참여 연구자의 서술."
+    ],
+    "limitations": [
+      "전후에 쓴 과학 해설 겸 회고다. 전시 현장 기록이나 촬영물 자체는 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nakaya-participant-account"
+  },
+  {
+    "id": "CAT-JP-SRC-0082",
+    "title": "中谷宇吉郎と戦時研究",
+    "institution_or_author": "기쿠치 가쓰히로 강연, 홋카이도대학 종합박물관 공동 주최",
+    "publication_date": "2012-10-27 강연, 안내 PDF 게시일 미확인",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "PDF 1쪽 강연 요지",
+    "url": "https://www.museum.hokudai.ac.jp/wp-content/uploads/2012/04/NakayaUkichiro_2012_AutumnSeminar.pdf",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "해군성 주도 1943년 착빙 연구와 육군성 주도 1944년 네무로 안개 연구의 분담."
+    ],
+    "limitations": [
+      "강연 안내에 실린 연구사 요지다. 강연에서 소개한 당대 사진과 보고서 전체를 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hokudai-kikuchi-wartime-research"
+  },
+  {
+    "id": "CAT-JP-SRC-0083",
+    "title": "Nobel Prize in Physics 1965 — Sin-itiro Tomonaga",
+    "institution_or_author": "교토대학",
+    "publication_date": "자료 제작일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "PDF 1쪽 Achievements·Timeline",
+    "url": "https://www.kyoto-u.ac.jp/sites/default/files/embed/enabouthonorsinternational_awardsdocumentsnobel_laureatestomonaga_laureates.pdf",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도모나가의 생몰년, 1941년 대학 교수 임용과 1943년 상대론적 양자장 이론 연구."
+    ],
+    "limitations": [
+      "대학 인물 해설이다. 1943년 당시 원고나 해군 연구소 보고서의 저자 정보는 별도 확인이 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "kyoto-tomonaga-profile"
+  },
+  {
+    "id": "CAT-JP-SRC-0084",
+    "title": "A Survey of the Origins and Evolution of the Microwave Circuit Devices in Japan from the 1920s up until 1945",
+    "institution_or_author": "Tosiro Koga, IEICE Transactions on Fundamentals",
+    "publication_date": "2010-12-01",
+    "source_type": "secondary",
+    "document_or_accession_number": "DOI 10.1587/transfun.E93.A.2354",
+    "locator": "Vol. E93.A No. 12 pp. 2354–2370 중 공개 초록",
+    "url": "https://www.jstage.jst.go.jp/article/transfun/E93.A/12/E93.A_12_2354/_article/-char/en",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 해군 시마다 연구소에서 물리학자와 기술진이 협력한 배경, 도모나가의 마이크로파 회로 이론 기여."
+    ],
+    "limitations": [
+      "학술지 공개 초록을 읽었다. 본문 PDF는 구독 로그인으로 연결돼 담당 시기와 원자료를 대조하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "koga-japanese-microwave-history"
+  },
+  {
+    "id": "CAT-JP-SRC-0085",
+    "title": "On a Relativistically Invariant Formulation of the Quantum Theory of Wave Fields",
+    "institution_or_author": "S. Tomonaga, Progress of Theoretical Physics",
+    "publication_date": "1946",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "DOI 10.1143/PTP.1.27",
+    "locator": "Vol. 1 No. 2 pp. 27–42의 저널 서지 및 저자 소속",
+    "url": "https://www.jstage.jst.go.jp/article/ptp1946/1/2/1_2_27/_article/-char/en",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전후 논문 게재 연도 및 Physics Department, Tokyo Bunrika University 저자 소속 표기."
+    ],
+    "limitations": [
+      "1차 논문의 공식 출판 정보를 확인했다. 논문 본문이나 1943년 판본을 별도로 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "tomonaga-1946-publication-record"
+  },
+  {
+    "id": "CAT-JP-SRC-0086",
+    "title": "仁科芳雄博士の略年譜",
+    "institution_or_author": "사토쇼정 니시나회관",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "연표 1890년, 1931-07-01, 1945-08-08, 1951-01-10 행",
+    "url": "https://www.kagaku.nishina.town.satosho.okayama.jp/about/profile/",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "니시나의 출신 및 이화학연구소 주임연구원 경력, 1945년 8월 8일자 히로시마 조사 기록."
+    ],
+    "limitations": [
+      "기념관 연표다. 현지 방문 일자는 일지·이동 원기록으로 독립 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "satosho-nishina-chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0087",
+    "title": "広島・長崎の原子爆弾に関する初期調査",
+    "institution_or_author": "마쓰무라 다카오, 게이오기주쿠 경제학회",
+    "publication_date": "1996-04, 자료 A는 1945년 8월 전후 원문 전사",
+    "source_type": "secondary_with_primary_excerpt",
+    "document_or_accession_number": "DOI 10.14991/001.19960401-0108; 三田学会雑誌 89(1), pp. 108–126",
+    "locator": "III절 pp. 114–116, 주 17–18; 자료 A 「広島戦災（放射能ニ関スル）調査報告」의 「判決」·「調査責任者」",
+    "url": "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN00234610-19960401-0108.pdf?file_id=87095",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "니시나 조사 설명의 신문 보도 인용 경로와 제2차 조사반의 조사일·책임자·당시 판단의 범위."
+    ],
+    "limitations": [
+      "학술지에서 별도로 인용한 신문 지면과 조사 보고서 원본은 미열람이다. 보고서의 관측 시점은 폭발 직후와 구별한다."
+    ],
+    "rights": "KOARA 안내에 따라 저작권은 저자·학회·출판기관 등에 귀속. 한국어 요약과 링크만 사용.",
+    "independence_group": "matsumura-early-survey-japanese-report"
+  },
+  {
+    "id": "CAT-JP-SRC-0088",
+    "title": "仁科芳雄",
+    "institution_or_author": "니시나기념재단",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「旧『仁科記念室』」·「仁科芳雄博士略歴」",
+    "url": "https://www.nishina-mf.or.jp/doctor/",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "출생지 및 이화학연구소 니시나연구실 주임연구원 임용과 전후 경력."
+    ],
+    "limitations": [
+      "기념재단의 인물 해설이다. 히로시마 이동·현지 조사 일자 검증에 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nishina-foundation-biography"
   }
 ]

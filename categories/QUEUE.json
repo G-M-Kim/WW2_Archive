@@ -1182,8 +1182,9 @@
     "category": "유명한 학자·연구자",
     "article_path": "categories/japan/09-scientific-personnel.md",
     "planned_at": "2026-11-15T21:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-JP-09.json",
+    "completed_at": "2026-11-16T00:54:31+09:00"
   },
   {
     "step": 86,

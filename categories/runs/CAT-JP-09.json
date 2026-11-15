@@ -1,0 +1,64 @@
+{
+  "step": 85,
+  "job_id": "CAT-JP-09",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 9,
+  "category": "유명한 학자·연구자",
+  "article_path": "categories/japan/09-scientific-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-16T00:54:31+09:00",
+  "started_at": "2026-11-16T00:49:12+09:00",
+  "base_head": "4892970a18321f119e005ada0cb9aab31009d79f",
+  "source_ids": [
+    "CAT-JP-SRC-0080",
+    "CAT-JP-SRC-0081",
+    "CAT-JP-SRC-0082",
+    "CAT-JP-SRC-0083",
+    "CAT-JP-SRC-0084",
+    "CAT-JP-SRC-0085",
+    "CAT-JP-SRC-0086",
+    "CAT-JP-SRC-0087",
+    "CAT-JP-SRC-0088"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0030",
+    "CAT-JP-RQ-0031",
+    "CAT-JP-RQ-0032"
+  ],
+  "entity_ids": [
+    "CAT-JP-PER-0008",
+    "CAT-JP-PER-0009",
+    "CAT-JP-PER-0010"
+  ],
+  "research_scope": "나카야 우키치로의 착빙·안개 연구, 도모나가 신이치로의 전시 전파 연구, 니시나 요시오의 히로시마 피해 조사.",
+  "limitations": [
+    "관측 일지와 착빙·안개 연구가 비행 실무에 채택됐는지는 미확인이다.",
+    "도모나가의 당대 해군 연구소 보고서 및 역할 분담의 원자료는 확보하지 못했다.",
+    "니시나 현장 일지와 공표 지면, 제2차 조사반 보고 원본 및 표본 취급 기록은 별도 확인이 필요하다."
+  ],
+  "evidence_checked": [
+    "참여 연구자의 회고와 과학관 연표·대학 박물관 자료를 대조했다.",
+    "도모나가의 대학 약력, 논문 서지와 전시 전파 연구사의 학술지 공개 초록을 확인했다.",
+    "니시나 기관 연표와 히로시마 제2차 조사반 보고서의 학술지 수록본을 읽고 조사 주체를 구분했다."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.jstage.jst.go.jp/article/transfun/E93.A/12/E93.A_12_2354/_pdf/-char/en",
+      "status": "inaccessible",
+      "detail": "구독 로그인으로 이동했다. 출판사 초록을 열람했다."
+    },
+    {
+      "url": "https://www.aozora.gr.jp/cards/001569/files/57311_65196.html",
+      "status": "inaccessible",
+      "detail": "HTTP 502. 나카야의 1950년 전후 회고와 대학 박물관 자료를 열람했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=85 pending=48; sources=904 questions=336. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

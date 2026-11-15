@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 85,
-  "CAT_VISITED_COUNT": 84,
-  "CAT_LAST_JOB_ID": "CAT-JP-08",
+  "CAT_NEXT_STEP": 86,
+  "CAT_VISITED_COUNT": 85,
+  "CAT_LAST_JOB_ID": "CAT-JP-09",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-15T22:53:52+09:00",
-  "note": "일본 08 정치 인물 부분 조사 저장. 첫 방문 84/133, 다음 CAT-JP-09."
+  "updated_at": "2026-11-16T00:54:31+09:00",
+  "note": "일본 09 학자·연구자 부분 조사 저장. 첫 방문 85/133, 다음 CAT-JP-10."
 }
