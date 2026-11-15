@@ -2410,3 +2410,6 @@ as_of: 2026-11-04
 
 | SRC-2112 | 호주 전쟁기념관(AWM), *Battle of Buna*, 소장 전투사 해설 | 2차(공식 전투사 해설) | 1943-01-01 호주 제2/12대대 공격, 01-02 부나 정부청사 확보 및 미군과 연결 | https://www.awm.gov.au/collection/E84314 | 2026-11-16 확인. 부나 전투 종료와 1월 하순 사나난다 전역 종료 구분. 피해 2,870명은 해당 전투 설명의 집계로, 전역 전체 피해와 혼동 금지. 원본 전투일지 별도 대조 필요 |
 | SRC-2113 | 호주 전쟁기념관(AWM), *The Japanese experience at Buna-Gona*, 일본측 기록 기반 현대 연구 | 2차(일본측 시각의 군사사 연구) | 1942-12-27 일본 육·해군 철수명령과 1943-01-02 부나 함락 | https://www.awm.gov.au/wartime/83/article-two | 2026-11-16 확인. 일본측 전투일지 원본 직접 열람 아님. 철수명령·실제 철수·함락 시점을 분리하고 인원·손실의 당대 원자료 추가 검증 필요 |
+
+| SRC-2114 | 미 해군 해군역사유산사령부(NHHC), *H-015-2 Battle of Rennell Island*, 공식 군사사 해설 | 2차(공식 해군 전사) | 1943-01-04 20:00 에인스워스 함대 출항, 01-05 01:02 문다 비행장 포격 개시; 6인치·5인치 포탄 약 4,000발 서술 | https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html | 2026-11-16 확인. 사후 해설로 함정별 원전투일지 아님. 포탄 수·비행장 피해·후속 공중전 별도 구분; 재배포 금지 |
+| SRC-2115 | 미 육군 군사사센터 계열 전사, *Operations of Encircled Forces: German Experiences in Russia*, 미 정부 발행 PDF | 2차(독일측 경험에 기초한 미 육군 전사) | 벨리키예루키 1943-01-05 소련군 북쪽 공격으로 도시 내 방어거점 분리, 01-10 서부 포위구역 연결 시도 | https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo81636/pdf/GOVPUB-D114-PURL-gpo81636.pdf | 2026-11-16 확인. 독일군 관점의 사후 재구성으로 소련측 작전일지 독립 검증 필요. 수비대·손실 집계 미확정, 원문 대량 복제 금지 |
