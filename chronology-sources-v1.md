@@ -2387,3 +2387,5 @@ as_of: 2026-11-04
 
 | SRC-2097 | 캐나다 국방부/왕립해군, *The threat from within: SS Caribou sunk during Battle of the St. Lawrence* (2020-10) | 2차(캐나다 정부 해군 역사해설) | 1942-10-13 출항, 10-14 U-69 격침·민간인 승선 | https://www.canada.ca/en/department-national-defence/maple-leaf/rcn/2020/10/threat-within-ss-caribou-sunk.html | 2026-11-15 확인. 캐나다 전쟁박물관 1944년 기념포스터의 날짜와 수치 교차 필요; 당대 잠수함일지 미확인. 재배포 금지 |
 | SRC-2098 | Osprey Publishing, *Japanese Combined Fleet 1942–43: The Bombardment* (후대 군사사 해설) | 2차(군사사 출판사) | 1942-10-14 01:33 헨더슨 비행장 곤고·하루나 함포사격 | https://www.ospreypublishing.com/ca/discover/osprey-publishing/machine-of-the-month/japanese-combined-fleet-1942-43/ | 2026-11-15 확인. 973발 서술은 일본 함정별 기록의 918발과 상충하므로 EVT에 확정 수치 미기재. 원본 전투일지 독립 검증 필요; 저작권 복제 금지 |
+
+| SRC-2099 | Australian War Memorial, *The Battle of El Alamein, 23 October 1942* (Mark Johnston, 2002 강연 및 소장 당대 전투일지 안내) | 2차(호주 전쟁기념관 역사강연; 당대 문서 링크 포함) | 1942-10-23 연합군 공세 개시 및 10-25 밤 Trig 29 점령 | https://www.awm.gov.au/articles/atwar/alamein23 | 2026-11-15 확인. 제2/48대대와 25일 밤 점령 언급. 당대 제2/48대대 전투일지와 구체적 점령시각·손실 수치는 별도 교차 필요; 원문 재배포 금지 |
