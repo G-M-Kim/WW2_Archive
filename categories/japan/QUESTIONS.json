@@ -272,5 +272,44 @@
     ],
     "evidence": "전시 사진과 방호구 소장품 설명은 확인했으나 제식·지급 부대·시험 결과까지 뒷받침하지 않는다.",
     "completion_condition": "실물 제식 표지와 전시 보급·수령 문서를 대조하고 의무·통신·일반 휴대 군장의 대표 사례를 선정한다."
+  },
+  {
+    "id": "CAT-JP-RQ-0021",
+    "status": "open",
+    "question": "21호 제3개량형의 전시 설치 상태와 21·22호의 함별 배치·가동은 확인 가능한가?",
+    "related_ids": [
+      "CAT-JP-EQP-0022",
+      "CAT-JP-EQP-0023",
+      "CAT-JP-SRC-0052",
+      "CAT-JP-SRC-0053"
+    ],
+    "evidence": "E-01 본문과 부록 C는 21호 제3개량형 설치 상태의 해석이 다르다. 일본 측 저자의 회고는 1942년 사례를 서술한다.",
+    "completion_condition": "함정별 설치·인수 명세와 기록 날짜, 시험 항목 및 전투상보를 읽고, 설치와 가동을 구분한다."
+  },
+  {
+    "id": "CAT-JP-RQ-0022",
+    "status": "open",
+    "question": "PURPLE의 외교 공관 배치와 JADE의 해군 통신망 적용 범위는 무엇인가?",
+    "related_ids": [
+      "CAT-JP-EQP-0024",
+      "CAT-JP-EQP-0025",
+      "CAT-JP-SRC-0054",
+      "CAT-JP-SRC-0055",
+      "CAT-JP-SRC-0056",
+      "CAT-JP-SRC-0057"
+    ],
+    "evidence": "박물관의 장비 용도와 베를린 회수품, 미 국무부의 각서 전달 기록을 확인했다. 보급·배치 장부는 미확인이다.",
+    "completion_condition": "소장품 표기와 외무·해군 기록에서 당시 명칭, 장비 수량 및 운용 기관을 확인한다."
+  },
+  {
+    "id": "CAT-JP-RQ-0023",
+    "status": "open",
+    "question": "지상·항공 레이더와 무선·소나·항법·병참 장비의 대표 형식은 무엇인가?",
+    "related_ids": [
+      "CAT-JP-SRC-0052",
+      "CAT-JP-SRC-0053"
+    ],
+    "evidence": "이번 실행의 대표 사례는 함상 레이더와 암호 장비다. 기타 기술군의 배치·실가동은 미검토다.",
+    "completion_condition": "기술군별 대표 장비를 골라 동시대 기술자료와 실제 운용 기록을 대조한다."
   }
 ]

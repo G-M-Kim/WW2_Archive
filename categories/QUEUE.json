@@ -1140,8 +1140,9 @@
     "category": "WW2에서 빼놓을 수 없는 장비",
     "article_path": "categories/japan/06-essential-technology.md",
     "planned_at": "2026-11-15T15:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-JP-06.json",
+    "completed_at": "2026-11-15T18:54:42+09:00"
   },
   {
     "step": 83,
