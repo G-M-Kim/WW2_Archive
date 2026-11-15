@@ -1,0 +1,64 @@
+{
+  "step": 81,
+  "job_id": "CAT-JP-05",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 5,
+  "category": "보병 무기 및 장비",
+  "article_path": "categories/japan/05-infantry-equipment.md",
+  "status": "partial",
+  "completed_at": "2026-11-15T16:59:44+09:00",
+  "started_at": "2026-11-15T16:55:38+09:00",
+  "base_head": "62495df29f5f4e40bcda167ccb1fff59db5d91bf",
+  "source_ids": [
+    "CAT-JP-SRC-0002",
+    "CAT-JP-SRC-0045",
+    "CAT-JP-SRC-0046",
+    "CAT-JP-SRC-0047",
+    "CAT-JP-SRC-0048",
+    "CAT-JP-SRC-0049",
+    "CAT-JP-SRC-0050",
+    "CAT-JP-SRC-0051"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0018",
+    "CAT-JP-RQ-0019",
+    "CAT-JP-RQ-0020"
+  ],
+  "entity_ids": [
+    "CAT-JP-EQP-0017",
+    "CAT-JP-EQP-0018",
+    "CAT-JP-EQP-0019",
+    "CAT-JP-EQP-0020",
+    "CAT-JP-EQP-0021"
+  ],
+  "research_scope": "38식·99식 소총, 96식 경기관총, 파푸아 사진의 철모와 철제 몸통 방호구의 전시 기록과 제원.",
+  "limitations": [
+    "일본군 99식 단소총 및 96식 가제식 기록 HTTP 403. 부대별 지급량과 세부형 미확인.",
+    "철모 세부 제식, 몸통 방호구 보급 규모와 방호 시험은 미확인.",
+    "기타 보병화기·군장·의무 및 통신 장비는 후속 범위."
+  ],
+  "evidence_checked": [
+    "미군 1944년 편람 제IX장과 AWM 현존품 4건의 분류·제작 기록을 대조했다.",
+    "1942년 파푸아 철모 사진의 디지털 원판과 기관 설명을 열람했다."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.jacar.archives.go.jp/das/meta/C13010760800",
+      "status": "inaccessible",
+      "detail": "일본어·영어 목록 및 /das/image/C13010760800 경로에서 HTTP 403."
+    },
+    {
+      "url": "https://www.jacar.archives.go.jp/das/meta/C01001629700",
+      "status": "inaccessible",
+      "detail": "일본어·영어 기록 목록에서 HTTP 403."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=81 pending=52; sources=867 questions=324. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

@@ -49,6 +49,18 @@
         "limitations": [
           "당시 미군 조사 차량의 식별·측정 조건이 불완전하다. 1945년 자료와 독립인 시험으로 세지 않았다."
         ]
+      },
+      {
+        "job_id": "CAT-JP-05",
+        "locator": "제IX장 §II 1.f, 1.h, 2.c, 인쇄 pp. 189–191, 194–195, 그림 171·173·179",
+        "url": "https://www.ibiblio.org/hyperwar/Japan/IJA/HB/HB-9.html",
+        "accessed_at": "2026-11-15T16:59:44+09:00",
+        "claims_checked": [
+          "38식·99식 소총과 96식 경기관총의 구경, 편람상 분류 및 명시된 길이·중량 조건을 읽었다."
+        ],
+        "limitations": [
+          "미군 전시 정보 자료이며 일본군 공장별 사양과 시대별 부대 수령 기록을 대신하지 않는다."
+        ]
       }
     ]
   },
@@ -930,5 +942,141 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "NIDS archival catalogue"
+  },
+  {
+    "id": "CAT-JP-SRC-0045",
+    "title": "Arisaka Type 38 Rifle",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "RELAWM27365; C142149",
+    "locator": "Description 및 소장품번호",
+    "url": "https://collection.awm.gov.au/C142149",
+    "accessed_at": "2026-11-15T16:59:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장기관의 38식 소총 분류와 제2차 세계대전기 일본 육군 사용에 관한 해설을 확인했다."
+    ],
+    "limitations": [
+      "개별 소장품 제작·수집 이력은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM object RELAWM27365"
+  },
+  {
+    "id": "CAT-JP-SRC-0046",
+    "title": "Arisaka Type 99 Rifle : Japanese Military Forces",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "약 1944 (개별품 제작 추정)",
+    "source_type": "secondary",
+    "document_or_accession_number": "RELAWM24865; C141600",
+    "locator": "Maker·Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C141600",
+    "accessed_at": "2026-11-15T16:59:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "99식 소장품의 제조처·연대 표기와 접이식 지지대 및 38식 교체에 대한 기관 해설을 확인했다."
+    ],
+    "limitations": [
+      "부대별 소총 보급 장부가 아니며 소장품 설명을 전체 생산분으로 일반화할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM object RELAWM24865"
+  },
+  {
+    "id": "CAT-JP-SRC-0047",
+    "title": "Type 96 Light Machine Gun",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "1942 (개별품 제작연도 표기)",
+    "source_type": "secondary",
+    "document_or_accession_number": "REL24898; C315588",
+    "locator": "Physical description·Date made·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C315588",
+    "accessed_at": "2026-11-15T16:59:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "96식으로 분류된 1942년 일본 제작 소장품과 재질, 전시 표준 경기관총이라는 기관 해설을 확인했다."
+    ],
+    "limitations": [
+      "개별 전투 이력과 보급 부대 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM object REL24898"
+  },
+  {
+    "id": "CAT-JP-SRC-0048",
+    "title": "Papua. 1942-08-19. An Australian soldier examines a damaged Japanese steel helmet",
+    "institution_or_author": "Thomas Fisher; Australian War Memorial 소장",
+    "publication_date": "1942-08-19 (촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "026285A; C9944",
+    "locator": "사진 디지털 판면 및 Description",
+    "url": "https://www.awm.gov.au/collection/C9944",
+    "accessed_at": "2026-11-15T16:59:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "병사가 망이 달린 철모를 살피는 사진과 일본군 철모라는 소장기관 식별을 읽었다."
+    ],
+    "limitations": [
+      "세부 제식·사용자 및 손상 조건은 확정하지 않았다."
+    ],
+    "rights": "AWM 목록상 퍼블릭 도메인. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM wartime photograph 026285A"
+  },
+  {
+    "id": "CAT-JP-SRC-0049",
+    "title": "Body Armour : WWII : Japan",
+    "institution_or_author": "Australian War Memorial; 제작자 미상",
+    "publication_date": "1945년 이전 (목록 표기)",
+    "source_type": "secondary",
+    "document_or_accession_number": "REL/01153; C112272",
+    "locator": "Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C112272",
+    "accessed_at": "2026-11-15T16:59:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "두 부분의 철판과 직물 구성에 대한 소장기관의 기술을 확인했다."
+    ],
+    "limitations": [
+      "제식, 제작자, 개별품의 입수 경위와 보급 규모는 미상이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM object REL/01153"
+  },
+  {
+    "id": "CAT-JP-SRC-0050",
+    "title": "９９式短小銃",
+    "institution_or_author": "일본 육군 기록; 방위성 방위연구소 소장, JACAR",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "JACAR Ref. C13010760800",
+    "locator": "목록·이미지 직접 접근 시도",
+    "url": "https://www.jacar.archives.go.jp/das/meta/C13010760800",
+    "accessed_at": "2026-11-15T16:59:44+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "목록과 이미지 접근 시 403. 소장번호는 검색에서 식별했으며 문서 내용을 확인하지 못했다."
+    ],
+    "rights": "원문 링크만 사용.",
+    "independence_group": "Imperial Japanese Army short rifle record C13010760800"
+  },
+  {
+    "id": "CAT-JP-SRC-0051",
+    "title": "九六式軽機関銃外３点仮制式制定の件",
+    "institution_or_author": "일본 육군 기록; 방위성 방위연구소 소장, JACAR",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "JACAR Ref. C01001629700",
+    "locator": "일본어·영어 목록 직접 접근 시도",
+    "url": "https://www.jacar.archives.go.jp/das/meta/C01001629700",
+    "accessed_at": "2026-11-15T16:59:44+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "일본어와 영어 목록 모두 403. 문서의 결재일과 본문을 확인하지 못했다."
+    ],
+    "rights": "원문 링크만 사용.",
+    "independence_group": "Imperial Japanese Army standardization record C01001629700"
   }
 ]
