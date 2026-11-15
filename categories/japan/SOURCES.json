@@ -1511,7 +1511,18 @@
       "기관이 공개한 전사본의 본문·부서란을 확인했다. 회의 기록이나 다른 대상국에 대한 외교 통고는 별개다."
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
-    "independence_group": "jp-1941-declaration-rescript"
+    "independence_group": "jp-1941-declaration-rescript",
+    "additional_locators": [
+      {
+        "job_id": "CAT-JP-10",
+        "locator": "전사본 1~2쪽",
+        "url": "https://www.archives.go.jp/exhibition/permanent_exhibition/pdf/doc121.pdf",
+        "accessed_at": "2026-11-16T02:55:45+09:00",
+        "claims_checked": [
+          "1941년 선전 조서와 도조 부서란."
+        ]
+      }
+    ]
   },
   {
     "id": "CAT-JP-SRC-0073",
@@ -1563,6 +1574,15 @@
         ],
         "limitations": [
           "전시 설명 및 예시 이미지다. 방송 음원이나 영상은 별도 조사 항목이다."
+        ]
+      },
+      {
+        "job_id": "CAT-JP-10",
+        "locator": "전사본 1쪽 첫 문단",
+        "url": "https://www.archives.go.jp/exhibition/permanent_exhibition/pdf/doc131.pdf",
+        "accessed_at": "2026-11-16T02:55:45+09:00",
+        "claims_checked": [
+          "종전 조서의 연합국 통고 서술."
         ]
       }
     ]
@@ -1846,5 +1866,216 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "nishina-foundation-biography"
+  },
+  {
+    "id": "CAT-JP-SRC-0089",
+    "title": "当庁が管理する先の大戦関係の資料について／終戦の玉音放送",
+    "institution_or_author": "일본 궁내청",
+    "publication_date": "1945-08-14 밤 녹음, 1945-08-15 방송, 2015-08-01 공개",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": null,
+    "locator": "「終戦の玉音放送関係」 및 재생기·원반 사진",
+    "url": "https://www.kunaicho.go.jp/kunaicho/koho/taisenkankei/index.html",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "두 번째 녹음의 방송 사용 및 원반 재생을 통한 음성 공개."
+    ],
+    "limitations": [
+      "공개 설명과 사진을 확인했다. 재생기는 미디어 재생 불가 상태였고 원영상·음원 길이 미확인."
+    ],
+    "rights": "궁내청 페이지 저작권 고지. 미디어 복제 없이 링크만 사용.",
+    "independence_group": "imperial-household-gyokuon",
+    "additional_locators": [
+      {
+        "job_id": "CAT-JP-10",
+        "locator": "재생기 및 원반 사진",
+        "url": "https://www.kunaicho.go.jp/kunaicho/koho/taisenkankei/syusen/syusen.html",
+        "accessed_at": "2026-11-16T02:55:45+09:00",
+        "claims_checked": [
+          "공개 페이지와 원반 사진을 확인했다. 재생기는 미디어 재생 불가였다."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0090",
+    "title": "玉音放送とラジオ",
+    "institution_or_author": "일본 라디오박물관",
+    "publication_date": "웹 게시일 미확인",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「玉音の録音」 및 원반의 전후 공개·복원 설명",
+    "url": "https://www.japanradiomuseum.com/gyokuon",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "궁내성 정무실 녹음 위치, 녹음이 자정을 넘겼다는 설명과 복원 음원 공개일."
+    ],
+    "limitations": [
+      "방송사 자료와 회고 등을 토대로 한 해설이다. 2015년 공개 자체는 궁내청과 같은 자료에 근거한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "japan-radio-museum-history"
+  },
+  {
+    "id": "CAT-JP-SRC-0091",
+    "title": "勝利の記録 大詔を拜し奉りて（上）",
+    "institution_or_author": "쇼와관 디지털 아카이브, 발행 닛치쿠 공업",
+    "publication_date": "1941-12-08 방송(라벨), 음반 발매일 미확인",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "SPH2360300025A; 니치쿠 53003 A면; NDL pid 3573341",
+    "locator": "盤面情報 및 演奏時間",
+    "url": "https://search.showakan.go.jp/search/record/detail.php?id=90013281",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도조의 개전 방송 라벨 날짜 및 A면 목록 길이 3분 31초."
+    ],
+    "limitations": [
+      "소장기관이 전사한 라벨 정보다. 직접 청취 및 전체 방송 비교는 미실시."
+    ],
+    "rights": "쇼와관 자료 이용 안내 적용. 음반 파일을 복제하지 않음.",
+    "independence_group": "showakan-tojo-war-disc-53003"
+  },
+  {
+    "id": "CAT-JP-SRC-0092",
+    "title": "勝利の記録 大詔を拜し奉りて（下）",
+    "institution_or_author": "쇼와관 디지털 아카이브, 발행 닛치쿠 공업",
+    "publication_date": "1941-12-08 방송(라벨), 음반 발매일 미확인",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "니치쿠 53003 B면; NDL pid 3573342",
+    "locator": "盤面情報 및 演奏時間",
+    "url": "https://search.showakan.go.jp/search/record/detail.php?id=90013282",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "같은 음반 B면의 목록 길이 3분 50초."
+    ],
+    "limitations": [
+      "같은 음반의 반대 면으로 독립 근거가 아니다. 직접 청취 및 전체 방송 비교는 미실시."
+    ],
+    "rights": "쇼와관 자료 이용 안내 적용. 음반 파일을 복제하지 않음.",
+    "independence_group": "showakan-tojo-war-disc-53003"
+  },
+  {
+    "id": "CAT-JP-SRC-0093",
+    "title": "「対米英 宣戦布告」（No.CFSK-0240）",
+    "institution_or_author": "중일영화사(中日映画社) 공개 채널",
+    "publication_date": "2020-12-07 게시, 소개 사건 1941-12-08",
+    "source_type": "later_edited_media",
+    "document_or_accession_number": "CFSK-0240",
+    "locator": "재생기 00:00 제목 화면, 전체 07:49 및 게시자 개요",
+    "url": "https://www.youtube.com/watch?v=CLiLkoHhgC8",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "후대 편집 고지와 관저 성명 장면에 대한 게시자 설명. 첫 화면과 전체 길이를 화면에서 확인."
+    ],
+    "limitations": [
+      "영상이 00:00에서 진행하지 않아 도조 발언 구간·원필름·음성 동기 여부를 검증하지 못했다."
+    ],
+    "rights": "공개 채널의 시청 페이지. 영상·화면을 복제하지 않음.",
+    "independence_group": "chunichi-edited-film-cfsk0240"
+  },
+  {
+    "id": "CAT-JP-SRC-0094",
+    "title": "Timeline — A Window into the Early Showa Period: Greater East Asia Conference",
+    "institution_or_author": "일본 아시아역사자료센터(JACAR)",
+    "publication_date": "전시일 미확인; 인용 잡지 1943-11-17",
+    "source_type": "secondary",
+    "document_or_accession_number": "인용 『写真週報』 第298号, A06031089300",
+    "locator": "1943-11-06 항목 및 Document 1",
+    "url": "https://www.jacar.go.jp/english/exhibition/shuhou-english/timeline/nenpyo19431106.html",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "5일 의사당 회의, 6일 선언 발표, 7일 히비야 국민대회의 행사 날짜 및 장소."
+    ],
+    "limitations": [
+      "기관 전시 해설과 연결된 잡지 이미지다. 영화 속 개별 발언의 식별 자료로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jacar-shashin-shuho-298-timeline"
+  },
+  {
+    "id": "CAT-JP-SRC-0095",
+    "title": "日本ニュース第179号-1",
+    "institution_or_author": "쇼와관 디지털 아카이브, 제작·발행 일본영화사",
+    "publication_date": "1943년 11월 무렵 촬영(목록)",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "V1H1314003106",
+    "locator": "時間·館内限定公開·内容 2~3",
+    "url": "https://search.showakan.go.jp/search/video/detail.php?id=90063030",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 뉴스릴 분할본의 흑백·유성, 11분 12초 및 회의 장면 목록."
+    ],
+    "limitations": [
+      "관내 열람 전용이다. 실제 발언의 촬영일, 자막·타임코드·음성 동기 여부는 미확인."
+    ],
+    "rights": "관내 한정, 대출 불가. 이용 문의는 쇼와관.",
+    "independence_group": "nippon-news-179-holdings"
+  },
+  {
+    "id": "CAT-JP-SRC-0096",
+    "title": "返還映画コレクション（4）-12 — 日本ニュース 第179號",
+    "institution_or_author": "일본 국립영화아카이브, 제작 일본영화사",
+    "publication_date": "1943년 제작, 2026년 8월 상영 프로그램",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "상영 프로그램 60026",
+    "locator": "「日本ニュース 第179號」 항목",
+    "url": "https://www.nfaj.go.jp/program/repatriated_film4_202607-12/",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "16㎜ 흑백 23분 반환 상영본과 회의·국민대회 수록 설명."
+    ],
+    "limitations": [
+      "상영 목록만 열람했다. 쇼와관 분할본과 동일 장면의 편집 여부는 대조하지 않았다."
+    ],
+    "rights": "상영 자료. 별도 영상 이용 조건 미확인.",
+    "independence_group": "nippon-news-179-holdings"
+  },
+  {
+    "id": "CAT-JP-SRC-0097",
+    "title": "大東亜共同宣言",
+    "institution_or_author": "쇼와관 디지털 아카이브, 발행 닛치쿠 공업",
+    "publication_date": "1943-11-06 실황 녹음(라벨)",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "M1H16MK900195; 니치쿠 53014; NDL pid 3573363",
+    "locator": "盤面情報 및 演奏時間",
+    "url": "https://search.showakan.go.jp/search/record/detail.php?id=90011632",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "회의 실황 음원의 도조 표기·날짜 및 목록 길이 3분 31초."
+    ],
+    "limitations": [
+      "소장 목록을 열람했다. 음원 재생과 뉴스릴과의 동기화는 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "showakan-pact-disc-53014"
+  },
+  {
+    "id": "CAT-JP-SRC-0098",
+    "title": "日本国代表演説（一）",
+    "institution_or_author": "쇼와관 디지털 아카이브, 녹음 일본방송협회, 발행 닛치쿠 공업",
+    "publication_date": "1943-11-07 녹음(라벨)",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "M1H16MK900201; 니치쿠 53015; NDL pid 3573365",
+    "locator": "盤面情報·演奏時間·ジャンル名称",
+    "url": "https://search.showakan.go.jp/search/record/detail.php?id=90011638",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "히비야 공원 국민대회 도조 연설의 별도 음원, 첫 면 목록 길이 4분 21초."
+    ],
+    "limitations": [
+      "음반 목록을 열람했다. 연설 전체 길이와 음성의 영상 동기 여부 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "showakan-hibiya-disc-53015"
   }
 ]

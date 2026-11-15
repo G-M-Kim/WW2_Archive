@@ -1,0 +1,71 @@
+{
+  "step": 86,
+  "job_id": "CAT-JP-10",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 10,
+  "category": "유명 연설의 영상자료",
+  "article_path": "categories/japan/10-speech-videos.md",
+  "status": "partial",
+  "completed_at": "2026-11-16T02:55:45+09:00",
+  "started_at": "2026-11-16T02:49:45+09:00",
+  "base_head": "cf929fa266be06c75281ee39cd0b5844a7d93f5d",
+  "source_ids": [
+    "CAT-JP-SRC-0072",
+    "CAT-JP-SRC-0074",
+    "CAT-JP-SRC-0089",
+    "CAT-JP-SRC-0090",
+    "CAT-JP-SRC-0091",
+    "CAT-JP-SRC-0092",
+    "CAT-JP-SRC-0093",
+    "CAT-JP-SRC-0094",
+    "CAT-JP-SRC-0095",
+    "CAT-JP-SRC-0096",
+    "CAT-JP-SRC-0097",
+    "CAT-JP-SRC-0098"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0033",
+    "CAT-JP-RQ-0034",
+    "CAT-JP-RQ-0035"
+  ],
+  "entity_ids": [
+    "CAT-JP-PER-0005",
+    "CAT-JP-PER-0007"
+  ],
+  "research_scope": "히로히토 종전 조서 낭독, 도조 개전 방송과 대동아회의·국민대회 음원 및 뉴스릴.",
+  "limitations": [
+    "궁내청의 복원 음원은 재생하지 못했고 낭독 원영상도 확보하지 못했다.",
+    "2020년 편집본의 00:00 제목 화면과 게시 설명을 확인했다. 이후 연설 구간 및 원음과의 동기화는 미확인이다.",
+    "뉴스릴의 직접 열람과 소장본 사이 장면 대조는 미완료다."
+  ],
+  "evidence_checked": [
+    "궁내청 원반 공개 설명과 사진, 종전 조서 전사본을 확인했다.",
+    "쇼와관 SP 목록의 날짜·라벨·길이와 편집본의 영상 첫 화면을 대조했다.",
+    "쇼와관과 일본 국립영화아카이브의 뉴스릴 목록, 아시아역사자료센터의 행사 설명을 비교했다."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.kunaicho.go.jp/kunaicho/koho/taisenkankei/syusen/syusen.html",
+      "status": "inaccessible",
+      "detail": "공식 페이지 접근 성공. 재생기는 Unable to play media 상태. 원반 설명·사진과 조서 확인."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CLiLkoHhgC8",
+      "status": "inaccessible",
+      "detail": "제목 화면·게시자 설명·길이 확인. 재생 조작 뒤 00:00에서 진행되지 않았다."
+    },
+    {
+      "url": "https://cgi2.nhk.or.jp/shogenarchives/jpnews/movie.cgi?das_id=D0001300564_00000&seg_number=001",
+      "status": "inaccessible",
+      "detail": "직접 열기 불가. 쇼와관 관내 소장 목록과 일본 국립영화아카이브 상영 자료를 대조했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=86 pending=47; sources=914 questions=339. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}
