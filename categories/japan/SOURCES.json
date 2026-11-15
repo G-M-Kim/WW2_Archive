@@ -2278,7 +2278,16 @@
     ],
     "rights": "공개 원본 스캔. 집계 사실을 한국어로 요약하고 링크만 사용.",
     "independence_group": "1940 Japanese Cabinet Statistics Bureau census",
-    "archive_url": "https://dl.ndl.go.jp/pid/12921681"
+    "archive_url": "https://dl.ndl.go.jp/pid/12921681",
+    "additional_locators": [
+      {
+        "locator": "83쪽 「The Peace」",
+        "accessed_at": "2026-11-16T08:55:40+09:00",
+        "claims_checked": [
+          "당시 연감의 Changchung과 Hsinking 병기, 만주국 수도 설명을 확인했다."
+        ]
+      }
+    ]
   },
   {
     "id": "CAT-JP-SRC-0109",
@@ -2439,5 +2448,206 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "JACAR Taiwan and Korea administrative chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0117",
+    "title": "東京都制ヲ定メ〇府県制中〇市制中〇大正十一年法律第一号中〇地方税法中〇地方分与税法中ヲ改正ス",
+    "institution_or_author": "일본 내각 / 일본 국립공문서관 소장",
+    "publication_date": "1943",
+    "source_type": "primary",
+    "document_or_accession_number": "類02671100",
+    "locator": "「17. 東京都制」 첫 이미지·해설 및 「昭和7年 東京市35区」 도해와 범례",
+    "url": "https://www.archives.go.jp/exhibition/digital/henbou/contents/17.html",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "내각 문서의 東京都制 제목을 이미지에서 확인하고, 전시 해설의 시행일·부/시 폐지와 도해의 경계 구분을 대조했다."
+    ],
+    "limitations": [
+      "도해는 1932년의 행정 범위를 설명하는 후대 삽화이며 전시 각 구의 상세 경계를 인용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Japanese Cabinet Tokyo metropolitan reorganization"
+  },
+  {
+    "id": "CAT-JP-SRC-0118",
+    "title": "東京都制 昭和18年6月1日法律第89号",
+    "institution_or_author": "일본 국립국회도서관 일본법령색인",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "법령 ID 0000034715 / 昭和18年法律第89号",
+    "locator": "「法令の情報」 법률 번호·공포일과 「法案の情報」",
+    "url": "https://hourei.ndl.go.jp/simple/detail?current=-1&lawId=0000034715",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "법률 제89호와 1943년 6월 1일 공포를 확인했다."
+    ],
+    "limitations": [
+      "서지와 법령색인을 열람했다. 공포일은 시행일과 구별한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "NDL legal index Tokyo metropolitan law"
+  },
+  {
+    "id": "CAT-JP-SRC-0119",
+    "title": "京城市街全圖 / Keijo, Chosen Prefecture",
+    "institution_or_author": "일본어 바탕 지도 / 미 육군 지도국(AMS) 가필판 / 미국 의회도서관 지리·지도부",
+    "publication_date": "1942",
+    "source_type": "primary",
+    "document_or_accession_number": "LOC 공개 이미지 Figure5-web; 바탕 지도 1934",
+    "locator": "지도 이미지 우측 상단 한자 표제; 소장기관 글의 Figure 5 설명",
+    "url": "https://blogs.loc.gov/maps/files/2018/05/Figure5-web.jpg",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "지도 이미지에서 京城 표제를 직접 읽고 미측 사용본 연도와 바탕 지도 연도를 기관 설명에서 대조했다."
+    ],
+    "limitations": [
+      "영문 Keijo는 기관 설명의 표기다. 이 지도만으로 조선인 주민의 지명 사용이나 1942년 법정 경계를 알 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "LOC Seoul Japanese base map and 1942 American overlay",
+    "context_url": "https://blogs.loc.gov/maps/2018/05/maps-of-seoul-south-korea-under-japanese-occupation/"
+  },
+  {
+    "id": "CAT-JP-SRC-0120",
+    "title": "경성부 기록",
+    "institution_or_author": "서울기록원",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "OC-0001",
+    "locator": "「기록군 내용」의 관할과 명칭 전환 설명",
+    "url": "https://archives.seoul.go.kr/class/OC-0001",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "식민지기 경기도 경성부와 1946년 9월 28일의 지위 변화에 대한 기록원 설명을 확인했다."
+    ],
+    "limitations": [
+      "기록군 소개이며 1945~1946년 각 기관의 일상 용례를 전수 조사한 기록은 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Seoul Metropolitan Archives Kyongsong-bu record group"
+  },
+  {
+    "id": "CAT-JP-SRC-0121",
+    "title": "서울特別市의 設置 / The Establishment of the Special City of Seoul",
+    "institution_or_author": "재조선미국육군사령부군정청 / 국사편찬위원회 한국 현대 사료 DB",
+    "publication_date": "1946-09-18",
+    "source_type": "primary",
+    "document_or_accession_number": "군정법령 제106호 / gbmg_1946_09_18_a0012",
+    "locator": "국문 제1·2·4·5조, 문서 말미와 영문 대응 조항",
+    "url": "https://db.history.go.kr/contemp/gb/level.do?levelId=gbmg_1946_09_18_a0012",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "서울시의 경기도 분리·특별시 설치·8개 구 및 공포 후 10일 시행 규정을 확인했다."
+    ],
+    "limitations": [
+      "전사본의 문서 말미와 목록·해설의 전환일은 서로 다른 성격의 날짜다. 법령은 이미 서울시라는 명칭을 사용한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "USAMGIK ordinance 106"
+  },
+  {
+    "id": "CAT-JP-SRC-0122",
+    "title": "Taihoku-Matsuyama, Formosa City Plans",
+    "institution_or_author": "U.S. Army Map Service / University of Texas Libraries",
+    "publication_date": "1945-09",
+    "source_type": "primary",
+    "document_or_accession_number": "A.M.S. L991, First Edition AMS 1; txu-oclc-6565483",
+    "locator": "도엽 상단 제목과 시리즈·축척 표기; 제작·행정 세부는 CAT-JP-SRC-0123",
+    "url": "https://maps.lib.utexas.edu/maps/ams/formosa_city_plans/txu-oclc-6565483.jpg",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "스캔에서 TAIHOKU-MATSUYAMA 제목과 1:10,000 축척 표기를 확인했다."
+    ],
+    "limitations": [
+      "도엽과 현대 행정경계는 동일하지 않다. 인쇄월은 지도 해설의 도곽 판독에서 확인했다."
+    ],
+    "rights": "미 육군 제작 지도, 대학 도서관 공개 복제본. 인용은 표제·자체 요약·링크로 한정.",
+    "independence_group": "U.S. Army Map Service Taihoku city plan"
+  },
+  {
+    "id": "CAT-JP-SRC-0123",
+    "title": "二戰末期美軍所繪製臺灣相關地圖",
+    "institution_or_author": "대만 중앙연구원 인문사회과학연구센터 지리정보과학연구 전문센터",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Formosa City Plans A.M.S. L991 도엽 해제",
+    "locator": "제4절 그림 6, 도곽 자료 (1) 1–4 및 (2) 2·10·12",
+    "url": "https://gis.rchss.sinica.edu.tw/mapclub_202400808/",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도엽 해설에서 Taihoku shu, 지명 로마자 기준, 1944년 항공사진, 臺北市 등 행정구역, 1945년 9월 인쇄월을 대조했다."
+    ],
+    "limitations": [
+      "CAT-JP-SRC-0122와 같은 도엽을 분석한 해설이므로 별도의 독립 지도로 집계하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. Army Map Service Taihoku city plan"
+  },
+  {
+    "id": "CAT-JP-SRC-0124",
+    "title": "臺北歷史概述：歷史發展探源",
+    "institution_or_author": "臺北市政府",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "II 「日治時期」, III 「省轄市時期及直轄市時期」",
+    "url": "https://www.gov.taipei/cp.aspx?n=14D2637CBC4AAEC2",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "타이베이주와 도시의 관계를 설명하는 연혁 및 1945년 성 관할시 전환과 후속 편입을 확인했다."
+    ],
+    "limitations": [
+      "후대 행정 연혁이며 1945년 개편의 정확한 시행일이나 당일 경계는 원 법령에서 재확인해야 한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Taipei City Government municipal history"
+  },
+  {
+    "id": "CAT-JP-SRC-0125",
+    "title": "新京概觀",
+    "institution_or_author": "新京特別市公署·滿洲事情案內所 / 國立臺灣歷史博物館 소장",
+    "publication_date": "1936-06",
+    "source_type": "primary",
+    "document_or_accession_number": "2011.012.0342",
+    "locator": "첫 이미지 표제 및 소장 해설의 앞면 지도와 부속도 단락",
+    "url": "https://collections.culture.tw/Object?RNO=MjAxMS4wMTIuMDM0Mg%3D%3D&SYSUID=11",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "앞면 스캔의 新京概觀 표제, 소장 해설의 편찬 주체와 新京特別市 구역·수도계획 부속도 정보를 확인했다."
+    ],
+    "limitations": [
+      "전쟁에 이어진 행정명의 배경 자료다. 관광·계획용 도판으로 1939~1945년의 실제 경계는 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Hsinking Special Municipality contemporary map brochure"
+  },
+  {
+    "id": "CAT-JP-SRC-0126",
+    "title": "国都建設局",
+    "institution_or_author": "일본 국립공문서관 아시아역사자료센터 (JACAR)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "관련 사료 国都建設局官制 教令第88号",
+    "locator": "「解説」 수도 新京 및 1937년 신징특별시 산하 이관 단락",
+    "url": "https://www.jacar.go.jp/exhibition/glossary/term2/0050-0030-0040-0040-0100.html",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "만주국 수도로서 신징과 1937년 신징특별시 산하 기관의 업무 인계를 확인했다."
+    ],
+    "limitations": [
+      "행정기관 해설이다. 창춘에서 신징으로의 개칭 및 전후 환원의 시행일 근거는 아직 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JACAR Manchukuo capital construction institutional history"
   }
 ]

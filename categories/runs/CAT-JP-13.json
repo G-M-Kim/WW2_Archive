@@ -1,0 +1,64 @@
+{
+  "step": 89,
+  "job_id": "CAT-JP-13",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 13,
+  "category": "당시 기준 지명",
+  "article_path": "categories/japan/13-historical-place-names.md",
+  "status": "partial",
+  "completed_at": "2026-11-16T08:55:40+09:00",
+  "started_at": "2026-11-16T08:47:33+09:00",
+  "base_head": "8194060ed7112470a50ff82ea8d6647ab4337cc3",
+  "source_ids": [
+    "CAT-JP-SRC-0108",
+    "CAT-JP-SRC-0117",
+    "CAT-JP-SRC-0118",
+    "CAT-JP-SRC-0119",
+    "CAT-JP-SRC-0120",
+    "CAT-JP-SRC-0121",
+    "CAT-JP-SRC-0122",
+    "CAT-JP-SRC-0123",
+    "CAT-JP-SRC-0124",
+    "CAT-JP-SRC-0125",
+    "CAT-JP-SRC-0126"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0042",
+    "CAT-JP-RQ-0043",
+    "CAT-JP-RQ-0044"
+  ],
+  "entity_ids": [
+    "CAT-JP-GEO-0001",
+    "CAT-JP-GEO-0002",
+    "CAT-JP-GEO-0003",
+    "CAT-JP-GEO-0008",
+    "CAT-JP-GEO-0009",
+    "CAT-JP-GEO-0010",
+    "CAT-JP-GEO-0011"
+  ],
+  "research_scope": "내지 도쿄, 식민지 경성·타이베이, 만주국 수도 신징의 동시대 명칭·행정구역·현재 대응 지명.",
+  "limitations": [
+    "타이베이 1945년 개편과 신징 개칭·환원의 시행일, 도시별 전시 경계를 확정하지 못했다.",
+    "조차지·위임통치령·동남아 점령지의 별도 지명은 후속 범위다."
+  ],
+  "evidence_checked": [
+    "도쿄 내각 문건 첫 이미지·경계 도해 및 법령색인을 대조했다.",
+    "경성 지도 표제와 서울기록원 기록군, 미군정 법령 원문 전사를 대조했다.",
+    "타이베이 지도 표제·도곽 해설과 시 연혁, 신징 지도 앞면·1941–42년 연감 및 기록관 해설을 확인했다."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2011.012.0342",
+      "status": "inaccessible",
+      "detail": "박물관 기본 URL은 리디렉션 오류. 대만 문화부 공개 소장 사본과 앞면 이미지를 실제 열람했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=89 pending=44; sources=942 questions=348. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}
