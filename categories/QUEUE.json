@@ -1210,8 +1210,9 @@
     "category": "유명 군수기업",
     "article_path": "categories/japan/11-military-industry.md",
     "planned_at": "2026-11-16T01:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-JP-11.json",
+    "completed_at": "2026-11-16T05:00:24+09:00"
   },
   {
     "step": 88,
