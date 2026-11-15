@@ -2405,3 +2405,5 @@ as_of: 2026-11-04
 
 | SRC-2109 | Karola Fings, *Auschwitz Decree*, Encyclopaedia of the Nazi Genocide of the Sinti and Roma in Europe, 2025-02-19 | 2차 학술해설·1차 문서 서지정보 | 1942-12-16 명령 Tgb. No. I 2652/42 Ad./RF/V(원본 소실), 1943-01-29 RSHA 시행 긴급서한으로 존재 확인 | https://encyclopaedia-gsr.eu/lemma/auschwitz-decree-en-1-0/ | 2026-11-16 확인. 원명령서가 현존하지 않아 발령 범위·문구는 후속 시행문서와 구분. 원문 복제 금지 |
 | SRC-2110 | 아우슈비츠-비르케나우 국립박물관, *Sinti and Roma in Auschwitz* | 2차 박물관 공식해설·수용소 자료 기반 | 1942-12-16 히믈러 명령, 1943-01-29 시행규정, 1943-02 이송 개시 | https://www.auschwitz.org/en/history/categories-of-prisoners/sinti-and-roma-in-auschwitz/ | 2026-11-16 확인. 이송 대상과 1943~44 전체 피해·수용인원은 1942년 명령 당시 현원과 다름. 원문·사진 복제 금지 |
+
+| SRC-2111 | 미국 국무부 FRUS, *Foreign Relations of the United States, 1942, Europe, Vol. II*, 문서 490, Matthews→Secretary of State, 1942-12-25 02:00 | 1차 당대 외교전보(알제 라디오 발표의 전언) | 1942-12-24 다를랑 피격·사망 발표; 발신 12/25 02:00·수신 표기 12/24 22:41 구분 | https://history.state.gov/historicaldocuments/frus1942v02/d490 | 2026-11-16 확인. 현장 수사기록이 아닌 방송의 외교전달. 시간대·발신/수신 역전 표기 RQ-1245 추적, 원문 대량 복제 금지 |
