@@ -2407,3 +2407,6 @@ as_of: 2026-11-04
 | SRC-2110 | 아우슈비츠-비르케나우 국립박물관, *Sinti and Roma in Auschwitz* | 2차 박물관 공식해설·수용소 자료 기반 | 1942-12-16 히믈러 명령, 1943-01-29 시행규정, 1943-02 이송 개시 | https://www.auschwitz.org/en/history/categories-of-prisoners/sinti-and-roma-in-auschwitz/ | 2026-11-16 확인. 이송 대상과 1943~44 전체 피해·수용인원은 1942년 명령 당시 현원과 다름. 원문·사진 복제 금지 |
 
 | SRC-2111 | 미국 국무부 FRUS, *Foreign Relations of the United States, 1942, Europe, Vol. II*, 문서 490, Matthews→Secretary of State, 1942-12-25 02:00 | 1차 당대 외교전보(알제 라디오 발표의 전언) | 1942-12-24 다를랑 피격·사망 발표; 발신 12/25 02:00·수신 표기 12/24 22:41 구분 | https://history.state.gov/historicaldocuments/frus1942v02/d490 | 2026-11-16 확인. 현장 수사기록이 아닌 방송의 외교전달. 시간대·발신/수신 역전 표기 RQ-1245 추적, 원문 대량 복제 금지 |
+
+| SRC-2112 | 호주 전쟁기념관(AWM), *Battle of Buna*, 소장 전투사 해설 | 2차(공식 전투사 해설) | 1943-01-01 호주 제2/12대대 공격, 01-02 부나 정부청사 확보 및 미군과 연결 | https://www.awm.gov.au/collection/E84314 | 2026-11-16 확인. 부나 전투 종료와 1월 하순 사나난다 전역 종료 구분. 피해 2,870명은 해당 전투 설명의 집계로, 전역 전체 피해와 혼동 금지. 원본 전투일지 별도 대조 필요 |
+| SRC-2113 | 호주 전쟁기념관(AWM), *The Japanese experience at Buna-Gona*, 일본측 기록 기반 현대 연구 | 2차(일본측 시각의 군사사 연구) | 1942-12-27 일본 육·해군 철수명령과 1943-01-02 부나 함락 | https://www.awm.gov.au/wartime/83/article-two | 2026-11-16 확인. 일본측 전투일지 원본 직접 열람 아님. 철수명령·실제 철수·함락 시점을 분리하고 인원·손실의 당대 원자료 추가 검증 필요 |
