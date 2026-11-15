@@ -162,7 +162,21 @@
       "전후 편찬물에 수록된 영문 명령문을 당대 문서의 번역으로 사용했다. 일본어 원본의 구절과는 미대조다."
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
-    "independence_group": "jm-97-orders"
+    "independence_group": "jm-97-orders",
+    "additional_locators": [
+      {
+        "job_id": "CAT-JP-07",
+        "locator": "Combined Fleet Operations Order No. 2, p. 4; Carrier Striking Task Force Operations Order No. 1, p. 7 이하",
+        "url": "https://www.ibiblio.org/pha/myths/jm-097.html",
+        "accessed_at": "2026-11-15T20:58:29+09:00",
+        "claims_checked": [
+          "1941-11-07 연합함대 작전명령의 발령자와 기동부대 별도 작전명령."
+        ],
+        "limitations": [
+          "전후 편찬본의 영어 번역을 열람했다. 해당 일본어 원본과 작성·승인 분담은 미확인이다."
+        ]
+      }
+    ]
   },
   {
     "id": "CAT-JP-SRC-0008",
@@ -1198,5 +1212,185 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "NSA National Cryptologic Museum exhibits"
+  },
+  {
+    "id": "CAT-JP-SRC-0058",
+    "title": "山本五十六｜近代日本人の肖像",
+    "institution_or_author": "일본 국립국회도서관",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": "인물 344",
+    "locator": "生没年·解説",
+    "url": "https://www.ndl.go.jp/portrait/datas/344/index.html",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰, 1939년 연합함대 사령장관 취임, 1940년 해군 대장 진급, 1943-04-18 전사와 사후 원수 칭호."
+    ],
+    "limitations": [
+      "기관의 인물 해설이다. 인사 발령 원문이나 전사 보고서 자체는 열람하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ndl-yamamoto-biography"
+  },
+  {
+    "id": "CAT-JP-SRC-0059",
+    "title": "Singapore, 1942-02-15. Lieutenant General Tomoyuki Yamashita (left), Japanese commander ...",
+    "institution_or_author": "Australian War Memorial 소장, 촬영자 미표기",
+    "publication_date": "1942-02-15",
+    "source_type": "primary",
+    "document_or_accession_number": "127903",
+    "locator": "사진 및 Description",
+    "url": "https://www.awm.gov.au/collection/127903",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "싱가포르 항복 회담에서 야마시타와 퍼시벌의 참석을 보여 주는 사진 및 인물 식별."
+    ],
+    "limitations": [
+      "필름 복제 네거티브 소장품이다. 회담에서 오간 발언과 세부 명령은 사진으로 확인할 수 없다."
+    ],
+    "rights": "호주전쟁기념관 목록상 Public Domain. 자체 요약과 링크만 사용.",
+    "independence_group": "awm-surrender-photo-127903"
+  },
+  {
+    "id": "CAT-JP-SRC-0060",
+    "title": "In re Yamashita, 327 U.S. 1",
+    "institution_or_author": "미 연방대법원, 미국 의회도서관 공개본",
+    "publication_date": "1946-02-04",
+    "source_type": "primary",
+    "document_or_accession_number": "327 U.S. 1",
+    "locator": "pp. 1–5, 13–17, 25–26 및 머피·러틀리지 반대의견",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep327/usrep327001/usrep327001.pdf",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제14방면군 지휘권과 기소 요지, 군사위원회 권한과 구금에 대한 다수의견, 절차와 증거에 관한 반대의견."
+    ],
+    "limitations": [
+      "연방대법원 심사 기록이다. 사건별 사실관계와 직접 명령을 확인할 전체 공판 기록은 확보하지 않았다."
+    ],
+    "rights": "미 연방대법원 판결문 공개본. 자체 요약과 링크만 사용.",
+    "independence_group": "yamashita-us-judicial-record"
+  },
+  {
+    "id": "CAT-JP-SRC-0061",
+    "title": "小笠原兵団（膽）",
+    "institution_or_author": "일본 아시아역사자료센터(JACAR)",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": "공개 용어 해설 0100-0040-0030-0010-0010, 인용 편성 명령 大陸命第1038号",
+    "locator": "解説",
+    "url": "https://www.jacar.go.jp/exhibition/glossary/term/0100-0040-0030-0010-0010.html",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944-06-25 오가사와라 병단 편성, 제109사단장 구리바야시의 겸임 및 1945년 3월 전사."
+    ],
+    "limitations": [
+      "기관 해설을 열람했다. 편성 명령 원문과 사망 일자·경위는 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jacar-ogasawara-glossary"
+  },
+  {
+    "id": "CAT-JP-SRC-0062",
+    "title": "Closing In: Marines in the Seizure of Iwo Jima",
+    "institution_or_author": "Joseph H. Alexander, USMC History and Museums Division",
+    "publication_date": "1994",
+    "source_type": "secondary",
+    "document_or_accession_number": "Marines in World War II Commemorative Series",
+    "locator": "The Japanese Commander",
+    "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Iwo/",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "구리바야시의 육군 중장 계급, 제109사단장과 오가사와라 병단장 겸임에 관한 미 해병대 전사 서술."
+    ],
+    "limitations": [
+      "3월 23일 사망 경위는 일본 측 자료에 의거한 후대 서술이다. 그 인용 원전과 독립 사망 기록은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "usmc-iwo-jima-official-history"
+  },
+  {
+    "id": "CAT-JP-SRC-0063",
+    "title": "Review of the Record of Trial by a Military Commission of Tomoyuki Yamashita, General, Imperial Japanese Army",
+    "institution_or_author": "미군 법무부서, 미국 의회도서관 공개본",
+    "publication_date": "1945-12-26",
+    "source_type": "primary",
+    "document_or_accession_number": "JA 201",
+    "locator": "Case of General Yamashita: A Memorandum 수록 검토각서, p. 60 a. Charge, c. Findings, d. Sentence",
+    "url": "https://tile.loc.gov/storage-services/service/ll/llmlp/Yamashita/Yamashita.pdf",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "군사위원회 기소 내용과 유죄 판단, 사형 선고가 법무 검토각서에 기록되어 있다."
+    ],
+    "limitations": [
+      "같은 군사재판 기록 계열이다. 개별 범죄의 독립 확증 또는 전체 공판 속기록으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "yamashita-us-judicial-record"
+  },
+  {
+    "id": "CAT-JP-SRC-0064",
+    "title": "山下, 奉文, 1885–1946",
+    "institution_or_author": "일본 국립국회도서관",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "00623547",
+    "locator": "전거 레코드의 표목·생몰년",
+    "url": "https://id.ndl.go.jp/auth/ndlna/00623547",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "인명 한자 표기 및 생몰년."
+    ],
+    "limitations": [
+      "인명 서지 전거로, 전투와 재판의 사실관계는 다른 출처에 의거했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ndl-yamashita-authority"
+  },
+  {
+    "id": "CAT-JP-SRC-0065",
+    "title": "栗林忠道",
+    "institution_or_author": "일본 방위연구소 사료실",
+    "publication_date": "2016년 하반기 제211호",
+    "source_type": "secondary",
+    "document_or_accession_number": "防衛研究所ニュース 제211호; 인용 사료 中央-作戦指導その他-48",
+    "locator": "「栗林忠道」 및 「幕僚参考資料綴」, 胆参電第三五一号",
+    "url": "https://www.nids.mod.go.jp/publication/nids_news/pdf/2016/news201608-12.pdf",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1891–1945, 1944-05-27 제109사단장 임명, 06-08 이오지마 부임, 1945-03-07 보고 전보의 날짜와 요지."
+    ],
+    "limitations": [
+      "사료실의 설명과 발췌를 열람했다. 전보 원본 전체와 수신 기록은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nids-kuribayashi-archival-note"
+  },
+  {
+    "id": "CAT-JP-SRC-0066",
+    "title": "About Former Ford Factory",
+    "institution_or_author": "National Archives of Singapore",
+    "publication_date": "웹 페이지 최종 갱신 2026-03-18",
+    "source_type": "secondary",
+    "document_or_accession_number": "Former Ford Factory 전시 개요",
+    "locator": "전시 개요 중 1942-02-13 및 1942-02-15 서술",
+    "url": "https://corporate.nas.gov.sg/former-ford-factory/overview/",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제25군 지휘관 야마시타 중장의 포드 공장 사령부 설치와 퍼시벌의 항복 접수."
+    ],
+    "limitations": [
+      "기관의 공개 장소 해설이다. 항복 서명 원문 또는 이후 점령기 개별 기록은 이 페이지에서 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nas-former-ford-factory-history"
   }
 ]

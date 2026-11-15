@@ -1,0 +1,54 @@
+{
+  "step": 83,
+  "job_id": "CAT-JP-07",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 7,
+  "category": "유명한 전투 참여 인물",
+  "article_path": "categories/japan/07-combat-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-15T20:58:29+09:00",
+  "started_at": "2026-11-15T20:51:49+09:00",
+  "base_head": "249716e5a763d0fa88b4c77a4cc35d83c466feff",
+  "source_ids": [
+    "CAT-JP-SRC-0007",
+    "CAT-JP-SRC-0058",
+    "CAT-JP-SRC-0059",
+    "CAT-JP-SRC-0060",
+    "CAT-JP-SRC-0061",
+    "CAT-JP-SRC-0062",
+    "CAT-JP-SRC-0063",
+    "CAT-JP-SRC-0064",
+    "CAT-JP-SRC-0065",
+    "CAT-JP-SRC-0066"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0024",
+    "CAT-JP-RQ-0025",
+    "CAT-JP-RQ-0026"
+  ],
+  "entity_ids": [
+    "CAT-JP-PER-0001",
+    "CAT-JP-PER-0002",
+    "CAT-JP-PER-0003"
+  ],
+  "research_scope": "야마모토 이소로쿠·야마시타 도모유키·구리바야시 다다미치의 전시 지휘와 확인 가능한 책임 기록.",
+  "limitations": [
+    "야마모토 명령의 일본어 원본과 세부 계획 수립의 개인별 역할은 미확인이다.",
+    "야마시타 재판의 전체 공판 기록과 사건별 실효 지휘·직접 명령은 미확인이다.",
+    "구리바야시의 정확한 사망 일자·경위와 다른 직책의 대표 인물은 후속 조사 범위다."
+  ],
+  "evidence_checked": [
+    "연합함대 작전명령의 전후 번역과 국립국회도서관 인물 해설을 읽었다.",
+    "싱가포르 항복 사진과 기록원 해설, 군사재판 검토각서와 연방대법원 결정문을 대조했다.",
+    "일본의 편제·전보 해설과 미국 해병대 전사에서 이오지마 지휘 기록을 대조했다."
+  ],
+  "access_attempts": [],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=83 pending=50; sources=882 questions=330. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}
