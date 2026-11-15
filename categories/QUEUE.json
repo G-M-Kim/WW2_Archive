@@ -1084,8 +1084,9 @@
     "category": "전차 제외 기갑장비, 무장, 성능",
     "article_path": "categories/japan/02-other-armored-vehicles.md",
     "planned_at": "2026-11-15T07:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-JP-02.json",
+    "completed_at": "2026-11-15T10:59:50+09:00"
   },
   {
     "step": 79,

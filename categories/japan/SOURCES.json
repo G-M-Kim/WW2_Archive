@@ -354,7 +354,20 @@
       "1945년 7월 15일까지 취합한 미군 전시 정보다. 차량별 시험 조건과 일본 제조·수령 장부는 확인하지 못했다."
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
-    "independence_group": "U.S. War Department wartime Japanese equipment intelligence"
+    "independence_group": "U.S. War Department wartime Japanese equipment intelligence",
+    "additional_locators": [
+      {
+        "job_id": "CAT-JP-02",
+        "locator": "Chapter I pp. 6–10, 70–72, 그림 7–8, 85–88",
+        "accessed_at": "2026-11-15T10:59:50+09:00",
+        "claims_checked": [
+          "94식·97식 경장갑차의 분류, 제원표와 무장 대체 사양, 루손 노획 및 배치 사진 설명."
+        ],
+        "limitations": [
+          "두 경장갑차의 톤 종류·적재 조건과 기동 시험 조건 미기재. 자주포의 부품 기원과 제식 명칭은 미군의 당시 식별."
+        ]
+      }
+    ]
   },
   {
     "id": "CAT-JP-SRC-0018",
@@ -513,5 +526,105 @@
     ],
     "rights": "문서 복제 없음. 접근용 링크만 기록.",
     "independence_group": "JACAR C15011259400 archival record"
+  },
+  {
+    "id": "CAT-JP-SRC-0026",
+    "title": "馬具車輌 十一 九四式軽装甲車",
+    "institution_or_author": "일본 육군 현장 보고, 작성 부대 미확인; 일본 아시아역사자료센터(JACAR)",
+    "publication_date": "작성일 미확인 (1937년 상하이·난징 전투 경험을 서술)",
+    "source_type": "primary",
+    "document_or_accession_number": "JACAR Ref. C14010843100",
+    "locator": "원본 스캔 표기 1220–1223, 내부 (133)–(136), 十一 九四式軽装甲車",
+    "url": "https://www.jacar.archives.go.jp/acv/contents/pub/pdf/C14/C14010843100.c11224a0002.riku_heiki_002.1211_01.pdf",
+    "accessed_at": "2026-11-15T10:59:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "다창전·난징에서 확인한 94식의 지형별 운용과 당시 무장 개선 요구를 확인했다."
+    ],
+    "limitations": [
+      "일본군의 현장 소견이며 일정한 조건에서 측정된 성능 시험 및 개량 채택 기록은 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Japanese Army wartime field observations C14010843100"
+  },
+  {
+    "id": "CAT-JP-SRC-0027",
+    "title": "台児庄の戦場における日本軍の装甲部隊",
+    "institution_or_author": "姜克實; 岡山大学大学院社会文化科学研究科, 文化共生学研究 15, pp. 53–68",
+    "publication_date": "2016-03",
+    "source_type": "secondary",
+    "document_or_accession_number": "岡山大学機関リポジトリ 54216",
+    "locator": "pp. 54–55 및 각주 13–16, pp. 57–58 및 60, 각주 25–27 및 31",
+    "url": "https://ousar.lib.okayama-u.ac.jp/files/public/5/54216/20160528124052424269/scs_015_053_068.pdf",
+    "accessed_at": "2026-11-15T10:59:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "94식 제원 서술과 1938년 3월 27일 타이얼좡 전투의 임시전차중대 경장갑차 투입과 고장 기록을 확인했다."
+    ],
+    "limitations": [
+      "논문이 인용한 가제식 제정 원문과 전투상세보고의 해당 이미지는 미확인. 미군 보고와 중량값이 다르다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "姜克實 independent historical analysis of Japanese records"
+  },
+  {
+    "id": "CAT-JP-SRC-0028",
+    "title": "Type 94 Tankette Model 2594 : Imperial Japanese Army",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "1934 (소장품 제작연도), 목록 작성일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": "REL/16287; C110503",
+    "locator": "Description 및 History / Summary, 차량번호 88과 노획 이력",
+    "url": "https://www.awm.gov.au/collection/C110503",
+    "accessed_at": "2026-11-15T10:59:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현존 차량번호 및 포탑 기관총 결손 상태, 제원 설명과 1945-07-01 보르네오 노획 이력을 확인했다."
+    ],
+    "limitations": [
+      "소장기관의 현존품 설명과 역사 해설. 명칭 대응 및 일본 측 부대나 교전 이력은 확정할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM object REL/16287 and provenance"
+  },
+  {
+    "id": "CAT-JP-SRC-0029",
+    "title": "Koepang, Timor: Japanese tankettes and light tanks",
+    "institution_or_author": "촬영자 미확인; Australian War Memorial",
+    "publication_date": "1945-09-14 (촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "115682; C219942",
+    "locator": "사진 디지털 판면 및 Description",
+    "url": "https://www.awm.gov.au/collection/C219942",
+    "accessed_at": "2026-11-15T10:59:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "훼손된 차량이 담긴 사진과 94식에 TE-KE를 병기한 목록 캡션을 확인했다."
+    ],
+    "limitations": [
+      "항복 후 촬영. 캡션의 별칭만으로 각 차량의 형식이나 전시 소속 부대를 확정할 수 없다."
+    ],
+    "rights": "AWM 목록상 퍼블릭 도메인. 자체 설명과 원문 링크만 사용.",
+    "independence_group": "AWM photograph 115682"
+  },
+  {
+    "id": "CAT-JP-SRC-0030",
+    "title": "Cape Boram, Wewak area, New Guinea: Japanese armoured recovery vehicle",
+    "institution_or_author": "촬영자 미확인; Australian War Memorial",
+    "publication_date": "1945-07-23 (목록상 촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "094312",
+    "locator": "사진 메타데이터 및 Description, 이미지 파일 접근 실패",
+    "url": "https://www.awm.gov.au/collection/094312",
+    "accessed_at": "2026-11-15T10:59:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "치하 차체 장갑구난차의 노획과 조사라는 소장기관 메타데이터를 확인했다."
+    ],
+    "limitations": [
+      "이미지 파일과 일본 측 명칭·제작·운용 기록을 확인하지 못했다. 이 기록에서 소장기관 기술만 사용했다."
+    ],
+    "rights": "AWM 목록상 퍼블릭 도메인. 사진 복제 없이 목록 링크만 사용.",
+    "independence_group": "AWM photograph 094312 catalogue"
   }
 ]
