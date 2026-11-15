@@ -1392,5 +1392,279 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "nas-former-ford-factory-history"
+  },
+  {
+    "id": "CAT-JP-SRC-0067",
+    "title": "公文書に見る日米交渉 — 人物（元首／閣僚）",
+    "institution_or_author": "일본 아시아역사자료센터(JACAR)",
+    "publication_date": "웹 전시 ©2005",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「近衛文麿」·「東条英機」 항목",
+    "url": "https://www.jacar.go.jp/exhibition/nichibei/person/index.html",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "고노에 생몰·제1~3차 내각·대정익찬회 출범과 도조의 육군대신·총리 경력."
+    ],
+    "limitations": [
+      "전시 해설이다. 개별 각의 의사록과 인사 원문은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jacar-jp-us-biographical-exhibition"
+  },
+  {
+    "id": "CAT-JP-SRC-0068",
+    "title": "The Ambassador in Japan (Grew) to the Secretary of State",
+    "institution_or_author": "주일 미국대사 Joseph C. Grew, 미 국무부 역사실 공개본",
+    "publication_date": "1940-09-28 도쿄 발신",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS Japan, 1931–1941, II, 문서 103; 762.9411/26; 전보 912",
+    "locator": "pp. 168–169, Message of the Prime Minister",
+    "url": "https://history.state.gov/historicaldocuments/frus1931-41v02/d103",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "삼국조약 체결을 동아시아 질서 구축과 연결한 일본 총리 담화의 당시 전달문."
+    ],
+    "limitations": [
+      "외교 전보로 전한 영어 번역이다. 공개 담화의 명분을 보여 주며 일본어 원본과 협상 과정은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "konoe-pact-public-statement"
+  },
+  {
+    "id": "CAT-JP-SRC-0069",
+    "title": "Three-Power Pact Between Germany, Italy, and Japan",
+    "institution_or_author": "독일·이탈리아·일본 정부, Yale Law School Avalon Project 공개본",
+    "publication_date": "1940-09-27",
+    "source_type": "primary",
+    "document_or_accession_number": "삼국조약 제1~6조",
+    "locator": "제1~3조 및 베를린 체결 날짜가 기록된 말미",
+    "url": "https://avalon.law.yale.edu/wwii/triparti.asp",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "지역별 지도권의 상호 인정, 특정 조건 아래의 정치·경제·군사적 상호 지원, 체결 일자·장소."
+    ],
+    "limitations": [
+      "조약 본문의 영어 공개본으로 자필 서명 이미지는 제공하지 않는다. 서명자 식별은 별도 출처에 근거했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "tripartite-pact-text"
+  },
+  {
+    "id": "CAT-JP-SRC-0070",
+    "title": "東条英機｜近代日本人の肖像",
+    "institution_or_author": "일본 국립국회도서관",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": "인물 142",
+    "locator": "生没年·解説",
+    "url": "https://www.ndl.go.jp/portrait/datas/142",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도조의 생몰·총리 임명과 겸직, 1944년 참모총장 겸직 및 내각 총사직."
+    ],
+    "limitations": [
+      "인물 해설이다. 재판 개별 공소사실과 판결문은 이번 범위에서 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ndl-tojo-biography"
+  },
+  {
+    "id": "CAT-JP-SRC-0071",
+    "title": "第８回御前会議（議題：対米英蘭開戦決定）",
+    "institution_or_author": "일본 아시아역사자료센터(JACAR)",
+    "publication_date": "웹 전시 ©2005, 해설 대상 1941-12-01",
+    "source_type": "secondary",
+    "document_or_accession_number": "전시 자료 2 B02032967200, 자료 3 B02032967300, 자료 4 B02032959500",
+    "locator": "자료 2·3·4 해설, 자료 4 표지 사진",
+    "url": "https://www.jacar.go.jp/exhibition/nichibei/popup/pop_27.html",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제8회 어전회의의 개전 결정, 도조 총리 설명안의 논거와 결정 대상국."
+    ],
+    "limitations": [
+      "기관 해설과 표지 사진을 확인했다. 설명안·결정문 개별 원본은 별도 열람하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jacar-eighth-imperial-conference"
+  },
+  {
+    "id": "CAT-JP-SRC-0072",
+    "title": "米国及英国ニ対スル宣戦ノ件・御署名原本・昭和十六年・詔書一二月八日",
+    "institution_or_author": "일본 내각, 일본 국립공문서관 전사본",
+    "publication_date": "1941-12-08",
+    "source_type": "primary",
+    "document_or_accession_number": "御24374100",
+    "locator": "상설 전시 12번 전사 PDF 1쪽 본문, 2쪽 일자 및 부서란",
+    "url": "https://www.archives.go.jp/exhibition/permanent_exhibition/pdf/doc121.pdf",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "천황 명의 조서의 선전 대상이 미국·영국이고 도조가 총리 겸 육군대신 및 내무대신으로 기재됨."
+    ],
+    "limitations": [
+      "기관이 공개한 전사본의 본문·부서란을 확인했다. 회의 기록이나 다른 대상국에 대한 외교 통고는 별개다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jp-1941-declaration-rescript"
+  },
+  {
+    "id": "CAT-JP-SRC-0073",
+    "title": "鈴木貫太郎｜近代日本人の肖像",
+    "institution_or_author": "일본 국립국회도서관",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": "인물 113",
+    "locator": "生没年·解説",
+    "url": "https://www.ndl.go.jp/portrait/datas/113/index.html",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰, 1944년 추밀원 의장, 1945년 총리, 포츠담 선언 수락 후 총사직."
+    ],
+    "limitations": [
+      "생년은 이 인물 해설에 병기된 양력 표기를 사용했다. 각의 내부 절차는 해설 범위 밖이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ndl-suzuki-biography"
+  },
+  {
+    "id": "CAT-JP-SRC-0074",
+    "title": "大東亜戦争終結ニ関スル詔書・御署名原本・昭和二十年・詔書八月十四日",
+    "institution_or_author": "일본 내각, 일본 국립공문서관 전사본",
+    "publication_date": "1945-08-14",
+    "source_type": "primary",
+    "document_or_accession_number": "御28610100",
+    "locator": "상설 전시 13번 전사 PDF 1쪽 수락 통보·2쪽 날짜와 부서란; 별도 해설 「終戦の詔書」",
+    "url": "https://www.archives.go.jp/exhibition/permanent_exhibition/pdf/doc131.pdf",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "포츠담 선언 수락을 통보하도록 했다는 조서 본문, 8월 14일자 날짜와 스즈키 총리 부서."
+    ],
+    "limitations": [
+      "공개 전사본을 열람했다. 전사 PDF 첫머리의 청구번호 표기가 정본 목록 御28610100과 달라 목록 번호로 기재했다. 회의 중 발언은 조서가 직접 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jp-1945-termination-rescript",
+    "additional_locators": [
+      {
+        "job_id": "CAT-JP-08",
+        "locator": "일본 국립공문서관 전시 「終戦の詔書」",
+        "url": "https://www.archives.go.jp/owning/mini_img/2-4.html",
+        "accessed_at": "2026-11-15T22:53:52+09:00",
+        "claims_checked": [
+          "1945-08-15 정오 방송과 스즈키 내각 국무대신 부서."
+        ],
+        "limitations": [
+          "전시 설명 및 예시 이미지다. 방송 음원이나 영상은 별도 조사 항목이다."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0075",
+    "title": "The Swiss Chargé (Grässli) to the Secretary of State",
+    "institution_or_author": "스위스 대리공사 Max Grässli, 미 국무부 역사실 공개본",
+    "publication_date": "1945-08-14",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1945 VI 문서 440; 740.00119 PW/8–1445",
+    "locator": "8월 14일 일본 정부 통보문 1~2항",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v06/d440",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "포츠담 선언 수락 조서 발령과 항복 이행 관련 준비를 연합국에 알린 외교 통보."
+    ],
+    "limitations": [
+      "일본 정부의 통보를 전한 외교 문서다. 어전회의 내부 판단의 독립 증거는 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "swiss-transmission-japanese-acceptance"
+  },
+  {
+    "id": "CAT-JP-SRC-0076",
+    "title": "The Acting Political Adviser in Japan (Atcheson) to the Secretary of State",
+    "institution_or_author": "George Atcheson Jr. 및 Max W. Bishop, 미 국무부 역사실 공개본",
+    "publication_date": "1945-11-23 발송, 첨부 면담 1945-11-09",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1945 VI 문서 488; 740.00119 P.W./11–2345; No. 67",
+    "locator": "첨부 1, pp. 706–707, 사코미즈 히사쓰네 면담의 8월 14일 전후 서술",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v06/d488",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "스즈키의 연합국 회답 수용 입장·천황과의 협의 및 종전 조서 작성 지시에 관한 전후 증언."
+    ],
+    "limitations": [
+      "참여자 회고를 채록한 문서다. 발언 속기록이 아니며 문서의 서기관장 임기 연도 표기에 오기가 있어 그 부분은 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "sakomizu-1945-postwar-interview"
+  },
+  {
+    "id": "CAT-JP-SRC-0077",
+    "title": "宮内庁関係年表（慶応3年以後）",
+    "institution_or_author": "일본 궁내청",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1901-04-29 및 1989-01-07 행",
+    "url": "https://www.kunaicho.go.jp/kunaicho/kunaicho/kunaicho-nenpyo.html",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "히로히토의 이름과 쇼와 천황이라는 표기, 생몰년."
+    ],
+    "limitations": [
+      "궁중 기관의 연표이며 실질적인 전시 의사결정의 근거로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "imperial-household-chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0078",
+    "title": "Instrument of Surrender",
+    "institution_or_author": "미국 국립문서기록관리청(NARA), 미 합동참모본부 기록",
+    "publication_date": "1945-09-02",
+    "source_type": "primary",
+    "document_or_accession_number": "RG 218",
+    "locator": "Transcript 첫 두 단락 및 시게미쓰·우메즈 서명란",
+    "url": "https://www.archives.gov/milestone-documents/surrender-of-japan",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "포츠담 선언 수용, 일본군의 무조건 항복, 일본 측 두 대표의 서명과 각 대표 범위."
+    ],
+    "limitations": [
+      "정식 항복문서다. 지역별 현지 항복이나 실제 전투 중지 시점은 다루지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "japan-formal-surrender-instrument"
+  },
+  {
+    "id": "CAT-JP-SRC-0079",
+    "title": "公文書に見る日米交渉 — 用語解説",
+    "institution_or_author": "일본 아시아역사자료센터(JACAR)",
+    "publication_date": "웹 전시 ©2005",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「日独伊三国同盟」 항목",
+    "url": "https://www.jacar.go.jp/exhibition/nichibei/word/index7.html",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 측 삼국조약 서명자 구루스 사부로의 직책과 성명."
+    ],
+    "limitations": [
+      "기관 해설로 자필 서명본은 이번 조사에서 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jacar-tripartite-pact-glossary"
   }
 ]

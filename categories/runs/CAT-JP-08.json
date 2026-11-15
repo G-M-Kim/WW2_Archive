@@ -1,0 +1,74 @@
+{
+  "step": 84,
+  "job_id": "CAT-JP-08",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 8,
+  "category": "유명한 정치 인물",
+  "article_path": "categories/japan/08-political-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-15T22:53:52+09:00",
+  "started_at": "2026-11-15T22:48:25+09:00",
+  "base_head": "fc0ee2d17e4a2b6f8ba095183578b150a47dc3a9",
+  "source_ids": [
+    "CAT-JP-SRC-0067",
+    "CAT-JP-SRC-0068",
+    "CAT-JP-SRC-0069",
+    "CAT-JP-SRC-0070",
+    "CAT-JP-SRC-0071",
+    "CAT-JP-SRC-0072",
+    "CAT-JP-SRC-0073",
+    "CAT-JP-SRC-0074",
+    "CAT-JP-SRC-0075",
+    "CAT-JP-SRC-0076",
+    "CAT-JP-SRC-0077",
+    "CAT-JP-SRC-0078",
+    "CAT-JP-SRC-0079"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0027",
+    "CAT-JP-RQ-0028",
+    "CAT-JP-RQ-0029"
+  ],
+  "entity_ids": [
+    "CAT-JP-PER-0004",
+    "CAT-JP-PER-0005",
+    "CAT-JP-PER-0006",
+    "CAT-JP-PER-0007"
+  ],
+  "research_scope": "고노에 후미마로·도조 히데키·스즈키 간타로·히로히토의 전시 정치 역할. 1940년 삼국동맹, 1941년 개전, 1945년 포츠담 선언 수락 사례.",
+  "limitations": [
+    "총리 담화는 공개 명분을 보여 주며 삼국동맹 협상과 각의 내부 분담은 미확인이다.",
+    "1941년 어전회의의 설명안·결정문 개별 원본과 도조 재판 판결문은 미확인이다.",
+    "종전의 공식 행위와 사후 면담은 확인했으며, 어전회의 발언과 초안 변경은 동시대 기록과 추가 대조가 필요하다."
+  ],
+  "evidence_checked": [
+    "삼국조약 전사와 미 외교 전보에 수록된 고노에 담화를 확인했다.",
+    "일본 기록관의 개전 회의 해설 및 개전·종전 조서 전사본에서 결정, 공포, 부서를 구분했다.",
+    "스위스 외교 경로의 수락 통보, 전후 참여자 면담, 9월 2일 정식 항복문서를 대조했다."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.jacar.archives.go.jp/das/meta/B02032967200",
+      "status": "inaccessible",
+      "detail": "HTTP 403. JACAR 전시 해설에서 설명안 문서번호와 취지를 확인했다."
+    },
+    {
+      "url": "https://www.jacar.archives.go.jp/das/meta/B02032967300",
+      "status": "inaccessible",
+      "detail": "HTTP 403. JACAR 전시 해설의 결정안 설명과 별도 선전 조서 전사본을 확인했다."
+    },
+    {
+      "url": "https://www.digital.archives.go.jp/file/1744405.html",
+      "status": "inaccessible",
+      "detail": "직접 열기 HTTP 403. 같은 기관의 전사 PDF와 전시 페이지의 이미지·해설을 열람했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=84 pending=49; sources=895 questions=333. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}
