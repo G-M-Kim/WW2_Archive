@@ -758,7 +758,20 @@
       "잔해 목록의 역사 해설은 항해 일지 원문이 아니다. 배수 상태와 톤 기준은 미표기이며 대공포 구경도 목록 내부에서 불일치한다."
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
-    "independence_group": "HURL I-401 investigation and catalogue"
+    "independence_group": "HURL I-401 investigation and catalogue",
+    "additional_locators": [
+      {
+        "job_id": "CAT-JP-04",
+        "locator": "SUB-7a, Artifact History·Additional Information",
+        "accessed_at": "2026-11-15T15:00:41+09:00",
+        "claims_checked": [
+          "이-401의 항공 공격이 종전 전에 실행되지 않았다는 함정 이력과 세이란 수용 기록."
+        ],
+        "limitations": [
+          "잔해 조사기관의 이력 해설이며 항공대 출격·격납 기록 원문은 아니다."
+        ]
+      }
+    ]
   },
   {
     "id": "CAT-JP-SRC-0037",
@@ -777,5 +790,145 @@
     ],
     "rights": "기록물 복제 없이 접근용 링크만 사용.",
     "independence_group": "Imperial Japanese Navy Yamato action report"
+  },
+  {
+    "id": "CAT-JP-SRC-0038",
+    "title": "Comparative Combat Evaluation Trials of Japanese Zeke 52 Fighter",
+    "institution_or_author": "U.S. Naval Air Station, Patuxent River; M. H. Tuttle 등",
+    "publication_date": "1944-10-26",
+    "source_type": "primary",
+    "document_or_accession_number": "Project TED No. PTR-1111; C-0090",
+    "locator": "Introduction, 인쇄 pp. 1–2 시험 조건과 SPEEDS",
+    "url": "https://www.wwiiaircraftperformance.org/japan/ptr-1111.pdf",
+    "accessed_at": "2026-11-15T15:00:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "노획 시험기 TAIC #5의 엔진과 출력·중량 조건, 속력과 고도 및 사이판 입수 서술을 확인했다."
+    ],
+    "limitations": [
+      "특정 노획·수리 기체의 실측이고 일본군 양산형 전체의 공시 성능이나 전시 운용값이 아니다. 스미스소니언 소장품과의 동일성 미확인."
+    ],
+    "rights": "공개된 미국 해군 전시 보고서 스캔. 자체 요약과 링크만 사용.",
+    "independence_group": "US Navy Patuxent River flight trials"
+  },
+  {
+    "id": "CAT-JP-SRC-0039",
+    "title": "Manual on Japanese Aircraft, TAIC No. 2: Representative Enemy and Allied Aircraft, Comparative Performance and Characteristics, Third Edition",
+    "institution_or_author": "Technical Air Intelligence Center, 미·영 합동 인력, U.S. Division of Naval Intelligence 발행",
+    "publication_date": "1944-10 (문서 제목 표기); NDL 목록은 1945-06",
+    "source_type": "primary",
+    "document_or_accession_number": "TAIC No. 2 / OPNAV-ONI-161; NDL PID 4009756, USB-10 R036: 0813–0841, 원소장 NARA RG 243",
+    "locator": "Introduction, 인쇄 p. 14 ZEKE 52 및 출력 각주, p. 40 TABBY 22",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/NDL4009756_Manual_on_Japanese_aircraft%2C_TAIC_No._2%2C_October_1944._%28Representative_Enemy_and_Allied_A....pdf",
+    "accessed_at": "2026-11-15T15:00:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "NDL 소장 스캔에서 ZEKE 52의 표기 조건과 TABBY 22의 엔진·총중량·순항속력·통상 화물·무장 기재를 확인했다."
+    ],
+    "limitations": [
+      "편람이 시험·제작사 보증·계산을 함께 사용한다. 비교표 각 수치의 근거 시험기와 이 페이지에서 공란인 하중·속력 조건은 미확인이다. 서지는 NDL Search 000007744697과 대조했다."
+    ],
+    "rights": "NDL 소장 원문 스캔 공개본. 자체 요약과 링크만 사용.",
+    "independence_group": "TAIC combined aircraft intelligence tables"
+  },
+  {
+    "id": "CAT-JP-SRC-0040",
+    "title": "Mitsubishi A6M5 Reisen (Zero Fighter) Model 52 ZEKE",
+    "institution_or_author": "Smithsonian National Air and Space Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "A19600335000",
+    "locator": "Catalog Data, Summary, Long Description과 이동 이력",
+    "url": "https://collections.si.edu/search/detail/edanmdm:nasm_A19600335000",
+    "accessed_at": "2026-11-15T15:00:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 나카지마 제작 표기, 사이판 회수·평가 이력과 요약 및 상세 기술 사이의 날짜 차이를 확인했다."
+    ],
+    "limitations": [
+      "기체 식별 및 행정기록을 토대로 정리한 후대 설명이며 상세 회수일과 시험기 TAIC #5의 동일성은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Smithsonian A6M5 aircraft and curatorial file"
+  },
+  {
+    "id": "CAT-JP-SRC-0041",
+    "title": "BEO, TALAND ISLAND. 1945-03-24. Wreck of a Japanese transport aircraft, Allied code name Tabby",
+    "institution_or_author": "Australian War Memorial 소장, 촬영자 미표기",
+    "publication_date": "1945-03-24 (촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "P01167.044; C232795",
+    "locator": "흑백 사진 원판의 디지털 영상과 Description",
+    "url": "https://www.awm.gov.au/collection/C232795",
+    "accessed_at": "2026-11-15T15:00:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "해변의 수송기 잔해를 사진에서 확인했고 목록은 쇼와 제작 L2D로 식별한다."
+    ],
+    "limitations": [
+      "잔해 사진은 기체의 세부형·임무·탑재량 및 손실 경위를 확인할 수 없다."
+    ],
+    "rights": "AWM 목록상 퍼블릭 도메인. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM wartime photograph P01167.044"
+  },
+  {
+    "id": "CAT-JP-SRC-0042",
+    "title": "Aichi M6A1 Seiran (Clear Sky Storm)",
+    "institution_or_author": "Smithsonian National Air and Space Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "A19630308000",
+    "locator": "Summary·Long Description, 현존품 28번 및 개발 요구와 부대 운용 단락",
+    "url": "https://collections.si.edu/search/detail/edanmdm%3Anasm_A19630308000?fq=-topic%3A%22World+War%2C+1939-1945%22&hlterm=set_name%3A%26quot%3BWorld+War+II+Aviation%26quot%3B&q=set_name%3A%22World+War+II+Aviation%22&record=18",
+    "accessed_at": "2026-11-15T15:00:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "부주 유무에 따른 요구 속력, 무장 요구, 소장기관의 생산 집계와 항복 직후 기체 인계 기록을 확인했다."
+    ],
+    "limitations": [
+      "요구 제원은 공시 실측이 아니다. 생산 집계의 개별 공장 원표 미확인. 원문의 kg·lb 병기값이 맞지 않아 kg만 인용했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Smithsonian Seiran aircraft and curatorial file"
+  },
+  {
+    "id": "CAT-JP-SRC-0043",
+    "title": "芙蓉部隊",
+    "institution_or_author": "일본 항공자위대 시즈하마 기지（航空自衛隊静浜基地）",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "문서 서두의 오키나와 출격 단락, I 当時の藤枝海軍航空基地의 彗星一二型 사진, V 使用した航空機",
+    "url": "https://www.mod.go.jp/asdf/shizuhama/kichishoukai/huyoR6.4.11.pdf.pdf",
+    "accessed_at": "2026-11-15T15:00:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "후요 부대의 스이세이 12형 기체 사진 및 출격 이력과 제원표의 무장·엔진·속력을 대조하고, 52병형은 별도 형식으로 확인했다."
+    ],
+    "limitations": [
+      "전시 성능시험이나 출격일지 원문이 아니다. 표의 총중량과 속력 측정 당시 하중의 관계, 야간 개조 기체 전체의 제원은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JASDF Shizuhama Fuyo historical unit summary"
+  },
+  {
+    "id": "CAT-JP-SRC-0044",
+    "title": "防衛研究所 軍事史史料目録：海軍一般史料（技術・飛行機）",
+    "institution_or_author": "일본 방위성 방위연구소",
+    "publication_date": "2024-12-13 (목록판 표기)",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "⑥技術-飛行機-22, ⑥技術-飛行機-23",
+    "url": "https://www.nids.mod.go.jp/military_archives/pdf/catalog/n3.pdf",
+    "accessed_at": "2026-11-15T15:00:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제로 52형 취급참고서 및 0식 수송기·화물수송기 22형 취급설명서의 기록물 번호를 확인했다."
+    ],
+    "limitations": [
+      "소장 목록만 열람했다. 두 취급자료의 본문, 기술 수치 및 승인을 뜻하는 문서 상태 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "NIDS archival catalogue"
   }
 ]
