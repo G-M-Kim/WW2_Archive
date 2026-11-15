@@ -1224,8 +1224,9 @@
     "category": "당시 인구",
     "article_path": "categories/japan/12-population.md",
     "planned_at": "2026-11-16T03:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-JP-12.json",
+    "completed_at": "2026-11-16T07:00:12+09:00"
   },
   {
     "step": 89,

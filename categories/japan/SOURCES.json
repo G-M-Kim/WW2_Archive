@@ -2258,5 +2258,186 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "COFEPOW Hanawa memorial research"
+  },
+  {
+    "id": "CAT-JP-SRC-0108",
+    "title": "The Japan Year Book 1941–42",
+    "institution_or_author": "Foreign Affairs Association of Japan / The Japan Times Press",
+    "publication_date": "1941-10",
+    "source_type": "primary",
+    "document_or_accession_number": "NDL PID 12921681; Pros. Doc. No. 1756, part 1",
+    "locator": "34쪽 「Population of the Empire」1940년 표·주석; 제43장 발췌 「Geographical Features」",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/NDL12921681_Pros._Doc._No._1756-_%22Jap_Year_Book%22_part1.pdf",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동시대 연감의 1940년 10월 1일 6개 구역별 총수·합계와 해외 복무자 포함 주석을 확인했다."
+    ],
+    "limitations": [
+      "내각통계국 결과를 수록한 당대 연감이다. 각 지역 조사 원표 및 상세 분류는 미열람이다."
+    ],
+    "rights": "공개 원본 스캔. 집계 사실을 한국어로 요약하고 링크만 사용.",
+    "independence_group": "1940 Japanese Cabinet Statistics Bureau census",
+    "archive_url": "https://dl.ndl.go.jp/pid/12921681"
+  },
+  {
+    "id": "CAT-JP-SRC-0109",
+    "title": "昭和25年国勢調査報告 第1巻 人口総数 / Population Census of 1950, Volume I: Total Population",
+    "institution_or_author": "일본 총리부 통계국 (総理府統計局)",
+    "publication_date": "1951-11",
+    "source_type": "primary",
+    "document_or_accession_number": "e-Stat 000007914579",
+    "locator": "14–16쪽 「Area of Enumeration」 및 「Population Enumerated in Each Census」",
+    "url": "https://www.e-stat.go.jp/en/stat-search/file-download?fileKind=2&statInfId=000007914579",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 민간인·군인의 다른 귀속 방식, 1944년 가족 동거 군인 예외 및 1945년 조사 대상·71,998,104명 실측치를 확인했다."
+    ],
+    "limitations": [
+      "1950년 국세조사 보고서가 앞선 조사를 정리한다. 1940년 일부 본토 과거 표는 오키나와를 제외하는 등 연감과 공간 범위가 다르다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Japanese Statistics Bureau enumeration methods and 1945 returns"
+  },
+  {
+    "id": "CAT-JP-SRC-0110",
+    "title": "人口統計資料集",
+    "institution_or_author": "일본 후생성 인구문제연구소 (厚生省人口問題研究所)",
+    "publication_date": "1983-02-15",
+    "source_type": "secondary",
+    "document_or_accession_number": "연구자료 제230호",
+    "locator": "20쪽, 표 10(1)과 조사 구역 주석",
+    "url": "https://www.ipss.go.jp/syoushika/bunken/data/pdf/J08412.pdf",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940·1944·1945년 실측 총수, 조사 기준일, 오키나와 등의 조사·집계 제외 범위를 확인했다."
+    ],
+    "limitations": [
+      "원조사의 숫자를 모은 후대 자료집. 부기된 별도 오키나와 계열은 표에 기준일이 없어 전국 수치에 합산하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Japanese survey returns collated by Institute of Population Problems"
+  },
+  {
+    "id": "CAT-JP-SRC-0111",
+    "title": "Summation of Non-Military Activities in Japan, No. 8, Part IV: Social",
+    "institution_or_author": "General Headquarters, Supreme Commander for the Allied Powers",
+    "publication_date": "1946-05",
+    "source_type": "primary",
+    "document_or_accession_number": "No. 8 / 일본 내각부 공개 파일 b0604002_02_11",
+    "locator": "226쪽, Population Statistics §§60–62와 두 표",
+    "url": "https://www8.cao.go.jp/okinawa/okinawasen/pdf/b0604002_02/b0604002_02_11.pdf",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 11월 조사 성별 합계 71,996,477명, 누락 추정의 두 범주와 보정 7,290만 명을 확인했다."
+    ],
+    "limitations": [
+      "같은 일본 인구조사를 사용하면서 점령당국이 별도로 누락을 추정했다. 본문은 1940 기준일을 10월 5일, 표는 10월 1일로 써서 본문 날짜를 채택하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "SCAP population audit of Japanese survey returns"
+  },
+  {
+    "id": "CAT-JP-SRC-0112",
+    "title": "樺太庁",
+    "institution_or_author": "일본 아시아역사자료센터 (JACAR)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "관련 원문 A03022809000",
+    "locator": "「解説」1943년 3월 관제 개정, 「参考資料」",
+    "url": "https://www.jacar.go.jp/exhibition/glossary/term2/0050-0040-0030.html",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "가라후토의 내지 편입을 위해 1943년 3월 가라후토청 관제를 개정했다는 기록관 설명을 확인했다."
+    ],
+    "limitations": [
+      "기록관 해설을 확인했다. 링크된 관제 개정 원문은 이번 열람에서 접근하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JACAR Karafuto administrative glossary"
+  },
+  {
+    "id": "CAT-JP-SRC-0113",
+    "title": "Population of the Republic of Korea",
+    "institution_or_author": "United Nations ESCAP / 대한민국 경제기획원 조사통계국 협력",
+    "publication_date": "1975",
+    "source_type": "secondary",
+    "document_or_accession_number": "E/CN.11/1241; Country Monograph Series No. 2",
+    "locator": "제1장 A절, Table 3, 1940·1944년 행 및 Sources",
+    "url": "https://repository.unescap.org/server/api/core/bitstreams/a9d7ef46-d913-443f-bbf2-d84d60c4f618/content",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940·1944년 한반도 조사 총수와 조선인 수, 기준일을 구분했다."
+    ],
+    "limitations": [
+      "총독부 계열 조사와 한국 통계연감에 근거한 후대 종합이다. 1940년 총수를 별도 독립 실측으로 볼 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Korean census series compiled by ESCAP and EPB"
+  },
+  {
+    "id": "CAT-JP-SRC-0114",
+    "title": "令和2年国勢調査 最終報告書「日本の人口・世帯」第2部 第1章",
+    "institution_or_author": "일본 총무성 통계국",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「付表 各回調査における調査地域の人口」その1, 沖縄県·全国 행",
+    "url": "https://www.stat.go.jp/data/kokusei/2020/kekka/pdf/02-01.pdf",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "오키나와현의 1940년 574,579명과 1945년 칸 공란을 확인했다."
+    ],
+    "limitations": [
+      "역사 조사 수치를 다시 수록한 부표로서 1945년 별도 오키나와 인구를 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Statistics Bureau prefectural historical census tables"
+  },
+  {
+    "id": "CAT-JP-SRC-0115",
+    "title": "動態積上による日本人生年別人口の再構成と静態統計との比較―1944/45年の死亡構造推計をふまえて―",
+    "institution_or_author": "林 玲子 / 국립사회보장·인구문제연구소",
+    "publication_date": "2025-06",
+    "source_type": "secondary",
+    "document_or_accession_number": "人口問題研究 81(2), 147–166쪽",
+    "locator": "표 4 및 앞 문단, 1940년 외지와 만주국 관련 통계 서술",
+    "url": "https://ipss.repo.nii.ac.jp/record/2000512/files/j333.pdf",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "내지·외지 조사와 만주국의 별도 임시국세조사 및 외지별 통계 연보 목록을 확인했다."
+    ],
+    "limitations": [
+      "연구의 재구성 추계에는 다른 연도의 연령분포가 사용되기도 한다. 이 원고는 재구성 연령·사망 추계값을 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Hayashi research on Japanese population reconstruction"
+  },
+  {
+    "id": "CAT-JP-SRC-0116",
+    "title": "公文書に見る外地と内地：表から検索（年表：台湾／朝鮮）",
+    "institution_or_author": "일본 아시아역사자료센터 (JACAR)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1895년 4·6월 대만 행, 1910년 조선 행 및 전시기 행",
+    "url": "https://www.jacar.go.jp/exhibition/glossary/gaichitonaichi/table/history1.html",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대만·펑후의 일본 식민통치 및 조선의 별도 총독부 통치 범위를 확인했다."
+    ],
+    "limitations": [
+      "행정사 연표이며 인구 수치나 조사구의 미세한 경계는 주지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JACAR Taiwan and Korea administrative chronology"
   }
 ]
