@@ -1098,8 +1098,9 @@
     "category": "함선 및 함정, 무장, 성능",
     "article_path": "categories/japan/03-naval-vessels.md",
     "planned_at": "2026-11-15T09:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-JP-03.json",
+    "completed_at": "2026-11-15T12:59:31+09:00"
   },
   {
     "step": 80,

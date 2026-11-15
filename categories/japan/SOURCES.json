@@ -190,7 +190,20 @@
       "전후 편찬의 동일 보고서에서 장만 나누었다. 진주만 장과 독립 교차검증으로 세지 않았다."
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
-    "independence_group": "ussbs-pacific-campaigns"
+    "independence_group": "ussbs-pacific-campaigns",
+    "additional_locators": [
+      {
+        "job_id": "CAT-JP-03",
+        "locator": "Chapter V 본문, Appendix 23-3 p. 67, Appendix 24 Forces Involved",
+        "accessed_at": "2026-11-15T12:59:31+09:00",
+        "claims_checked": [
+          "아카기 기함 표기, 피격 당시 함상 기체 수, 피격과 자침 기재."
+        ],
+        "limitations": [
+          "전후 조사단 집계이며 NOAA 해설과 피격 수의 서술이 다르다."
+        ]
+      }
+    ]
   },
   {
     "id": "CAT-JP-SRC-0010",
@@ -626,5 +639,143 @@
     ],
     "rights": "AWM 목록상 퍼블릭 도메인. 사진 복제 없이 목록 링크만 사용.",
     "independence_group": "AWM photograph 094312 catalogue"
+  },
+  {
+    "id": "CAT-JP-SRC-0031",
+    "title": "数字で見る戦艦「大和」",
+    "institution_or_author": "呉市海事歴史科学館（大和ミュージアム）",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "データまとめ 및 기준배수량·주포·최대속력 항목",
+    "url": "https://yamato-museum.com/yamato-data/",
+    "accessed_at": "2026-11-15T12:59:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "야마토 준공·침몰일, 전장, 기준배수량, 최대속력 및 주포 수량을 표에서 확인했다."
+    ],
+    "limitations": [
+      "시험 시점·시험배수량·만재배수량과 개장별 대공 무장 표는 제시되지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Yamato Museum curatorial data"
+  },
+  {
+    "id": "CAT-JP-SRC-0032",
+    "title": "The Attack on the Yamato Group, 7 April 1945",
+    "institution_or_author": "U.S. Strategic Bombing Survey, Naval Analysis Division; 진술 미야모토(T. Miyamoto), 면담 T. J. Hedding",
+    "publication_date": "1945-10-25 (도쿄 면담)",
+    "source_type": "primary",
+    "document_or_accession_number": "Interrogation NAV No. 32; USSBS No. 133",
+    "locator": "Summary·Transcript, 인쇄 pp. 136, 139",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/IJO/IJO-32.html",
+    "accessed_at": "2026-11-15T12:59:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "야마토 승함 포술참모가 진술한 출항일, 최종 전투·침몰 날짜와 편대 기동속력을 확인했다."
+    ],
+    "limitations": [
+      "당사자의 전후 회고다. 속력은 편대의 값을 말한 것으로 공시운전 계측 자료가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Miyamoto eyewitness interview"
+  },
+  {
+    "id": "CAT-JP-SRC-0033",
+    "title": "Evolution of Aircraft Carriers",
+    "institution_or_author": "Scot MacDonald; Naval Aviation News, U.S. Navy",
+    "publication_date": "1962-10 (일본 항모 연재), 1964-02-01 (합본 서문)",
+    "source_type": "secondary",
+    "document_or_accession_number": "GovInfo GOVPUB-D221-PURL-gpo67727",
+    "locator": "일본 항모 연재 인쇄 pp. 40–42",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo67727/pdf/GOVPUB-D221-PURL-gpo67727.pdf",
+    "accessed_at": "2026-11-15T12:59:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "개장 전후 아카기 비행갑판 구성, 8인치포의 수와 개장 후 속력 서술을 확인했다."
+    ],
+    "limitations": [
+      "해군사 연재 해설이며 당시 공시운전 원표나 해당 수치의 적재 기준은 제시되지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "MacDonald Naval Aviation News historical synthesis"
+  },
+  {
+    "id": "CAT-JP-SRC-0034",
+    "title": "Akagi 赤城",
+    "institution_or_author": "NOAA Ocean Exploration",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Background, Shipwreck Site",
+    "url": "https://oceanexplorer.noaa.gov/photogrammetry/akagi/",
+    "accessed_at": "2026-11-15T12:59:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "함종 전환, 최대속력과 항공기 수 표기, 미드웨이 공습·자침 서술 및 조사 경위를 확인했다."
+    ],
+    "limitations": [
+      "역사 소개의 최대속력 및 기체 수에 시험·집계 조건은 명시되지 않는다. 선체 조사와 전투 해설의 확인 범위도 다르다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "NOAA Ocean Exploration Akagi site and historical overview"
+  },
+  {
+    "id": "CAT-JP-SRC-0035",
+    "title": "Characteristics of Japanese Naval Vessels, Article 7: Submarines, Supplement II",
+    "institution_or_author": "U.S. Naval Technical Mission to Japan",
+    "publication_date": "1946-01",
+    "source_type": "primary",
+    "document_or_accession_number": "S-01-7; NTJ·L·S-01-7",
+    "locator": "Part III A, pp. 18–21, 그림 14·16 및 General Characteristics·Propulsion·Armament",
+    "url": "https://www.fischer-tropsch.org/primary_documents/gvt_reports/USNAVY/USNTMJ%20Reports/USNTMJ-200G-0695-0924%20Report%20S-01-7.pdf",
+    "accessed_at": "2026-11-15T12:59:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "종전 직후 실함 사진과 이-400급 수상 배수량·수상 및 잠항 속력, 무장 및 기체 보관 표를 확인했다."
+    ],
+    "limitations": [
+      "수상배수량에 포로 진술이라는 단서가 붙는다. 각 속력의 실측 조건과 개별함 작전 탑재를 확정할 수 없다."
+    ],
+    "rights": "공개된 미 해군 기밀 해제 보고서. 자체 요약과 스캔 링크만 사용.",
+    "independence_group": "US Naval Technical Mission inspection and POW data"
+  },
+  {
+    "id": "CAT-JP-SRC-0036",
+    "title": "SUB-7a: IJN I-401 (bow)",
+    "institution_or_author": "University of Hawaiʻi at Mānoa, Hawaiʻi Undersea Research Laboratory",
+    "publication_date": "2019-03-18 (목록 개정)",
+    "source_type": "secondary",
+    "document_or_accession_number": "HURL SUB-7a; Dive PIV-136",
+    "locator": "Artifact History·Additional Information",
+    "url": "https://www.soest.hawaii.edu/HURL/HURLarchive/maritime_tmp.php?category=SUB-7a",
+    "accessed_at": "2026-11-15T12:59:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이-401 잔해 식별과 항복 무렵 나포 경위, 격납고 수용량 및 수상·잠항 속력 표기를 확인했다."
+    ],
+    "limitations": [
+      "잔해 목록의 역사 해설은 항해 일지 원문이 아니다. 배수 상태와 톤 기준은 미표기이며 대공포 구경도 목록 내부에서 불일치한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "HURL I-401 investigation and catalogue"
+  },
+  {
+    "id": "CAT-JP-SRC-0037",
+    "title": "昭和２０年４月６日～昭２０年４月７日　軍艦大和戦闘詳報",
+    "institution_or_author": "일본 해군 군함 야마토; 방위성 방위연구소 소장, JACAR",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "JACAR Ref. C08030566400",
+    "locator": "JACAR 안내의 표지 1, 전투 경과 이미지 2–8, 도면 12–13",
+    "url": "https://www.jacar.archives.go.jp/das/meta/C08030566400",
+    "accessed_at": "2026-11-15T12:59:31+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "직접 열기 403. JACAR의 별도 안내에서 문서 코드와 판면 범위만 확인했다."
+    ],
+    "rights": "기록물 복제 없이 접근용 링크만 사용.",
+    "independence_group": "Imperial Japanese Navy Yamato action report"
   }
 ]

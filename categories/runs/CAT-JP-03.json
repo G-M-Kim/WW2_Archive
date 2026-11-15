@@ -1,0 +1,59 @@
+{
+  "step": 79,
+  "job_id": "CAT-JP-03",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 3,
+  "category": "함선 및 함정, 무장, 성능",
+  "article_path": "categories/japan/03-naval-vessels.md",
+  "status": "partial",
+  "completed_at": "2026-11-15T12:59:31+09:00",
+  "started_at": "2026-11-15T12:54:30+09:00",
+  "base_head": "ac212d185fae7c980f50ffa1a9dac7befb722927",
+  "source_ids": [
+    "CAT-JP-SRC-0009",
+    "CAT-JP-SRC-0031",
+    "CAT-JP-SRC-0032",
+    "CAT-JP-SRC-0033",
+    "CAT-JP-SRC-0034",
+    "CAT-JP-SRC-0035",
+    "CAT-JP-SRC-0036",
+    "CAT-JP-SRC-0037"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0010",
+    "CAT-JP-RQ-0011",
+    "CAT-JP-RQ-0012",
+    "CAT-JP-RQ-0013"
+  ],
+  "entity_ids": [
+    "CAT-JP-EQP-0009",
+    "CAT-JP-EQP-0010",
+    "CAT-JP-EQP-0011",
+    "CAT-JP-EQP-0012"
+  ],
+  "research_scope": "일본 해군 전함 야마토, 항공모함 아카기, 잠수함 이-400급과 개별함 이-401의 제원과 전시 기록.",
+  "limitations": [
+    "야마토 공시 원표와 전투상보 판면 미확인.",
+    "아카기 속력·탑재·피격 수 및 이-400급 배수량·속력의 조건 미확인.",
+    "순양함·구축함·호위함·소형함·상륙 및 지원함은 후속 범위."
+  ],
+  "evidence_checked": [
+    "구레 박물관 야마토 표와 최종 전투 승함 참모의 USSBS 면담을 대조.",
+    "미 해군 항공사와 NOAA 개요를 USSBS 미드웨이 부록과 대조. 미 해군 기술조사단 잠수함 보고서와 HURL 이-401 목록 검토."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.jacar.archives.go.jp/das/meta/C08030566400",
+      "status": "inaccessible",
+      "detail": "직접 열기 HTTP 403. JACAR의 2015-07-07 안내 https://www.jacar.go.jp/wp/janews/others/557/에서 문서 코드와 판면 범위만 확인."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=79 pending=54; sources=853 questions=317. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}
