@@ -1,11 +1,14 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1942-11-02
-FORWARD_INSPECTED_THROUGH: 1942-11-01
-CURRENT_FORWARD_BATCH: 1942-11-02..1942-11-08
-TOTAL_EVT_SRC_RQ: 3658/2100/1242
+FORWARD_CURSOR: 1942-11-09
+FORWARD_INSPECTED_THROUGH: 1942-11-08
+CURRENT_FORWARD_BATCH: 1942-11-09..1942-11-15
+TOTAL_EVT_SRC_RQ: 3658/2101/1242
 AS_OF: 2026-11-15
 
-## 최신 전진 실행 — 2026-11-15 (10월 26일~11월 1일)
+## 최신 전진 실행 — 2026-11-15 (11월 2~8일)
+- 토치 작전 기존 EVT-0161 보강 및 루스벨트 당대 발표 SRC-2101 신규. [감사](source-audit-1942-nov02-08-batch1.md). 신규 0/1/0, 누적 3658/2101/1242, 다음 1942-11-09. 타전역 BACKFILL_QUEUE.
+
+## 이전 전진 실행 — 2026-11-15 (10월 26일~11월 1일)
 - 산타크루즈 해전 호넷 상실 EVT-3658 및 ONI 당대 전투서술 SRC-2100. [감사](source-audit-1942-oct26-nov01-batch1.md). 신규 1/1/0, 누적 3658/2100/1242, 다음 1942-11-02. 타전역 BACKFILL_QUEUE.
 
 ## 이전 전진 실행 — 2026-11-15 (10월 19~25일)
