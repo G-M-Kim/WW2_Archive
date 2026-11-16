@@ -1,0 +1,234 @@
+{
+  "step": 94,
+  "job_id": "CAT-JP-18",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 18,
+  "category": "개전 시점 주요 공군기지와 규모(1~10)",
+  "article_path": "categories/japan/18-air-bases-start.md",
+  "status": "partial",
+  "completed_at": "2026-11-16T19:13:59+09:00",
+  "started_at": "2026-11-16T19:05:26+09:00",
+  "base_head": "51a1e173187364e33b299c578cb33debad47aad6",
+  "source_ids": [
+    "CAT-JP-SRC-0072",
+    "CAT-JP-SRC-0078",
+    "CAT-JP-SRC-0158",
+    "CAT-JP-SRC-0159",
+    "CAT-JP-SRC-0160",
+    "CAT-JP-SRC-0161",
+    "CAT-JP-SRC-0162",
+    "CAT-JP-SRC-0163",
+    "CAT-JP-SRC-0164",
+    "CAT-JP-SRC-0165",
+    "CAT-JP-SRC-0166"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0057",
+    "CAT-JP-RQ-0058",
+    "CAT-JP-RQ-0059"
+  ],
+  "entity_ids": [
+    "CAT-JP-GEO-0020",
+    "CAT-JP-GEO-0021",
+    "CAT-JP-GEO-0022"
+  ],
+  "research_scope": "1939-09-01 내지의 육군 도코로자와와 다치카와, 해군 가스미가우라. 역사적 부지, 훈련·연구·정비·보급 역할, 확장 시점.",
+  "limitations": [
+    "1939년 당일의 착륙면·격납·정비·보급 정격과 비교 기준이 부족해 세 곳의 점수와 범위를 null로 뒀다.",
+    "다치카와 학교 이전 서술이 상충한다. 가스미가우라의 종전 수치는 1940년 분리 뒤이다. 식민지·점령지와 다른 내지 거점은 후속 범위다."
+  ],
+  "evidence_checked": [
+    "도코로자와 항공기념관 연표와 시 자료, 일본법령색인의 설비 부지·학교 일자.",
+    "다치카와 시립자료관·메이지대 수록 학술연구·도코로자와 시립도서관의 학교·확장 시점.",
+    "미에현 동시대 입대 검사 통지, 아미 기념관의 훈련 구역 이력, 일본 내각의 종전 시설 회답."
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-JP-GEO-0020",
+      "reference_date": "1939-09-01",
+      "territorial_status": "일본 내지. 일본 정부 실효 지배.",
+      "boundary": "사이타마현 도코로자와의 당시 비행장과 구내 항공교육 시설. 인접 남창고 별도.",
+      "operator": "일본 육군",
+      "operation": "항공정비교육 기능 확인. 기준일 기체 수와 비행대 편제 미확인.",
+      "metrics": [
+        {
+          "metric": "개설 총부지 약",
+          "value": 760000,
+          "unit": "m²",
+          "date": "1911-04",
+          "boundary": "초기 도코로자와 비행장",
+          "source_id": "CAT-JP-SRC-0159",
+          "locator": "p.1 「所沢飛行場の歴史」",
+          "capacity_or_actual": "actual"
+        },
+        {
+          "metric": "개설 활주로 개수",
+          "value": 1,
+          "unit": "본",
+          "date": "1911-04",
+          "boundary": "초기 도코로자와 비행장",
+          "source_id": "CAT-JP-SRC-0159",
+          "locator": "p.1 「所沢飛行場の歴史」",
+          "capacity_or_actual": "installed"
+        },
+        {
+          "metric": "개설 활주로 길이",
+          "value": 400,
+          "unit": "m",
+          "date": "1911-04",
+          "boundary": "초기 도코로자와 비행장",
+          "source_id": "CAT-JP-SRC-0159",
+          "locator": "p.1 「所沢飛行場の歴史」",
+          "capacity_or_actual": "installed"
+        },
+        {
+          "metric": "개설 활주로 너비",
+          "value": 50,
+          "unit": "m",
+          "date": "1911-04",
+          "boundary": "초기 도코로자와 비행장",
+          "source_id": "CAT-JP-SRC-0159",
+          "locator": "p.1 「所沢飛行場の歴史」",
+          "capacity_or_actual": "installed"
+        },
+        {
+          "metric": "제3차 확장 후 총부지",
+          "value": 2453000,
+          "unit": "m²",
+          "date": "1933–1936년 확장 후",
+          "boundary": "사이타마현 도코로자와의 당시 비행장과 구내 항공교육 시설. 인접 남창고 별도.",
+          "source_id": "CAT-JP-SRC-0158",
+          "locator": "쇼와 8–11년 행",
+          "capacity_or_actual": "actual"
+        },
+        {
+          "metric": "제4차 확장 후 총부지",
+          "value": 3653000,
+          "unit": "m²",
+          "date": "1940–1944년 확장 후",
+          "boundary": "확장된 도코로자와 비행장",
+          "source_id": "CAT-JP-SRC-0158",
+          "locator": "쇼와 15–19년 행",
+          "capacity_or_actual": "actual"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "부지면적은 착륙장의 처리능력과 다르며 1939년 격납·정비·보급 규모와 비교 구간 미확인.",
+      "source_ids": [
+        "CAT-JP-SRC-0158",
+        "CAT-JP-SRC-0159",
+        "CAT-JP-SRC-0160"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-JP-GEO-0021",
+      "reference_date": "1939-09-01",
+      "territorial_status": "일본 내지. 일본 정부 실효 지배.",
+      "boundary": "도쿄부 다치카와의 육군 비행장과 직속 학교·정비·보급 시설. 인접 민간 공장과 후대 증설 별도.",
+      "operator": "일본 육군",
+      "operation": "기술 연구·정비·보급. 학교 설치와 단계별 이전 일자는 후속 검증.",
+      "metrics": [
+        {
+          "metric": "후대 확장된 활주로 길이",
+          "value": 2000,
+          "unit": "m",
+          "date": "1942",
+          "boundary": "스나가와 방향으로 확장된 다치카와 비행장",
+          "source_id": "CAT-JP-SRC-0162",
+          "locator": "다치카와 1942년 확장 단락",
+          "capacity_or_actual": "installed"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "1942년 준공 규모를 1939년에 적용할 수 없고 당일 네 차원 정격 및 비교 구간 부족.",
+      "source_ids": [
+        "CAT-JP-SRC-0158",
+        "CAT-JP-SRC-0161",
+        "CAT-JP-SRC-0162",
+        "CAT-JP-SRC-0166"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-JP-GEO-0022",
+      "reference_date": "1939-09-01",
+      "territorial_status": "일본 내지. 일본 정부 실효 지배.",
+      "boundary": "이바라키현 아미의 고지 육상비행장과 호숫가 옛 수상반의 예과훈련 구역. 가시마 수상기장·별도 항공창 제외.",
+      "operator": "일본 해군",
+      "operation": "육상 항공과 비행 예과 교육. 수상기 훈련 조직 및 후대 쓰치우라 독립을 구분.",
+      "metrics": [
+        {
+          "metric": "종전시 부지",
+          "value": 1036077,
+          "unit": "坪(일본 쓰보)",
+          "date": "종전 당시, 1949-02-23 회고",
+          "boundary": "쓰치우라 분리 뒤 가스미가우라 항공대 행",
+          "source_id": "CAT-JP-SRC-0165",
+          "locator": "제11호 一甲 1–2",
+          "capacity_or_actual": "actual"
+        },
+        {
+          "metric": "종전시 건물",
+          "value": 200,
+          "unit": "동",
+          "date": "종전 당시, 1949-02-23 회고",
+          "boundary": "쓰치우라 분리 뒤 가스미가우라 항공대 행",
+          "source_id": "CAT-JP-SRC-0165",
+          "locator": "제11호 一甲 3",
+          "capacity_or_actual": "installed"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "1939년과 종전 집계의 행정 범위가 다르며, 1939년 처리·격납·정비·연료 능력과 구간 미확인.",
+      "source_ids": [
+        "CAT-JP-SRC-0163",
+        "CAT-JP-SRC-0164",
+        "CAT-JP-SRC-0165"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "access_attempts": [
+    "국립공문서관 칙령 제470호 링크가 HTTP 403을 반환했다. NDL 공식 색인의 날짜·번호만 인용했다.",
+    "미에현 공보의 PDF 원문 전사를 문서번호와 조항으로 대조했다. 검사 실적과 시설 도면은 확인하지 못했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=94 pending=39; sources=982 questions=363. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

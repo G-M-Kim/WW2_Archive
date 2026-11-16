@@ -3309,5 +3309,185 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "US Army official chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0158",
+    "title": "所沢飛行場ものがたり年表",
+    "institution_or_author": "所沢航空発祥記念館",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "전시 패널 TAP11",
+    "locator": "다이쇼 10년, 쇼와 8–19년의 제3·4차 확장 및 학교 연표, 쇼와 53년 행",
+    "url": "https://tam-web.jsf.or.jp/wp-content/uploads/TAP11.pdf",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "확장 단계별 총면적, 창고 준공, 정비학교 신설과 항공기술학교 이전 행을 열어 확인했다."
+    ],
+    "limitations": [
+      "후대 연표이며 총부지 면적이다. 1939년 필지·활주로·가동 장부와는 해상도가 다르다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Tokorozawa Aviation Museum timeline"
+  },
+  {
+    "id": "CAT-JP-SRC-0159",
+    "title": "米軍所沢通信基地 返還運動のあゆみ（基地対策2022）",
+    "institution_or_author": "所沢市・所沢市基地対策協議会",
+    "publication_date": "2022",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "p.1 「所沢飛行場の歴史」의 개설 부지와 항공교육 문단",
+    "url": "https://www.city.tokorozawa.saitama.jp/kurashi/dourokoutsuu/begunkichi/kichi-shiryo.files/tokorozawashikitikyopanf2022kaitei.pdf",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1911년 4월 개설 당시 부지 약 76만 m², 활주로 1본 및 400×50m와 비행·정비교육 맥락을 확인했다."
+    ],
+    "limitations": [
+      "현 시의 후대 연혁이다. 개설 면적은 1939년의 착륙장 면적에 적용할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Tokorozawa municipal land history"
+  },
+  {
+    "id": "CAT-JP-SRC-0160",
+    "title": "陸軍航空整備学校令 (일본법령색인)",
+    "institution_or_author": "일본 국립국회도서관 일본법령색인",
+    "publication_date": "1938-07-01 (공포)",
+    "source_type": "secondary",
+    "document_or_accession_number": "勅令第470号 / lawId 0000027855",
+    "locator": "§1 공포 정보, §5 본문 배포처",
+    "url": "https://hourei.ndl.go.jp/simple/detail?current=-1&lawId=0000027855",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "색인에서 공포일과 문서번호를 확인했다."
+    ],
+    "limitations": [
+      "원문 아카이브 링크가 403을 반환했다. 법령 내용이나 현지 개교일은 색인으로 확정하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "NDL Japanese Laws Index"
+  },
+  {
+    "id": "CAT-JP-SRC-0161",
+    "title": "立川飛行場のあゆみ",
+    "institution_or_author": "立川市歴史民俗資料館",
+    "publication_date": "2006-07 개정",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「立川飛行場年表」 1922·1939·1945년 행 및 「基地跡地の利用」",
+    "url": "https://www.city.tachikawa.lg.jp/_res/projects/default_project/_page_/001/004/905/7tatikawahikoujou.pdf",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제5비행대대 이전, 1939년 4월 항공기술학교 설치 항목과 옛 부지의 공원화를 확인했다."
+    ],
+    "limitations": [
+      "전시 해제는 설치와 실제 교사별 사용을 나누어 제시하지 않는다. 사진 시기와 통계 범위는 개별 확인이 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Tachikawa municipal museum"
+  },
+  {
+    "id": "CAT-JP-SRC-0162",
+    "title": "昭和初期における多摩地域の工業化",
+    "institution_or_author": "星野朗 / 駿台史学会, 駿台史学 105",
+    "publication_date": "1998-12",
+    "source_type": "secondary",
+    "document_or_accession_number": "Meiji repository 4242 / handle 10291/13372",
+    "locator": "다치카와 항공기 공업과 비행장 서술, 1939년 이전과 1942년 활주로 확장 단락",
+    "url": "https://meiji.repo.nii.ac.jp/record/4242/files/sundaishigaku_105_117.pdf",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "항공기술학교 이전, 항공창의 정비·보급 역할, 활주로 2,000m의 1942년 확장 시점을 본문에서 대조했다."
+    ],
+    "limitations": [
+      "지역 공업화 연구로 비행장 당일 편제와 원도면·측정치를 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Hoshino regional industrial history"
+  },
+  {
+    "id": "CAT-JP-SRC-0163",
+    "title": "土浦海軍航空隊、誕生 前編",
+    "institution_or_author": "予科練平和記念館 / 阿見町 『広報あみ』",
+    "publication_date": "2020-09-25",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "10월호 p.17 「予科練平和記念館だより」",
+    "url": "https://www.town.ami.lg.jp/cmsfiles/contents/0000007/7026/web200925all.pdf",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "육상·수상반 구분, 가시마 이전, 예과연습부의 1939년 이전 및 쓰치우라의 1940년 독립을 확인했다."
+    ],
+    "limitations": [
+      "후대 전시 해설이다. 옛 수상반과 이후 독립 부대의 행정 경계·1939년 기체 배치는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Ami museum Yokaren history"
+  },
+  {
+    "id": "CAT-JP-SRC-0164",
+    "title": "飛行豫科練習生志願者入隊時検査並ニ第二次検査ニ関スル件",
+    "institution_or_author": "三重縣 學務部長 / 미에현 공보 PDF",
+    "publication_date": "1939-02-08",
+    "source_type": "primary",
+    "document_or_accession_number": "社兵第324号",
+    "locator": "공보 수록 통지 제II–III항, 검사 장소와 기간",
+    "url": "https://www.pref.mie.lg.jp/common/content/000364403.pdf",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동시대 통지의 가스미가우라 검사 장소와 두 예정 기간을 읽었다."
+    ],
+    "limitations": [
+      "입대 검사 일정의 사전 공지다. 실시 여부·응시자 수·기지 시설 수용능력은 적혀 있지 않다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Mie prefectural gazette 1939"
+  },
+  {
+    "id": "CAT-JP-SRC-0165",
+    "title": "参議院議員池田恒雄君提出土浦飛行場等に関する質問に対する答弁書",
+    "institution_or_author": "일본 내각총리대신 吉田茂 / 参議院",
+    "publication_date": "1949-02-23",
+    "source_type": "primary",
+    "document_or_accession_number": "第5回国会 答弁書第11号・内閣参甲第14号",
+    "locator": "一甲 1–3 및 一乙, 종전 당시의 시설 재산 집계",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/005/touh/t005011.htm",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "가스미가우라의 종전 당시 부지, 건물 및 격납시설, 분리된 쓰치우라의 별도 집계를 확인했다."
+    ],
+    "limitations": [
+      "종전 당시를 회고한 정부 답변이다. 1939년 부지의 경계와 격납 대수를 재현하는 수치로 사용할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Japanese Cabinet parliamentary reply no.11"
+  },
+  {
+    "id": "CAT-JP-SRC-0166",
+    "title": "所沢の足跡 ～航空編～",
+    "institution_or_author": "所沢市立図書館",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「所沢陸軍航空整備学校」, 쇼와 16년 항공기술학교 이전 문장",
+    "url": "https://www.tokorozawa-library.jp/contents/history/history_hikougakko.html",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "다치카와 이전을 1941년으로 서술하는 해설을 확인했다."
+    ],
+    "limitations": [
+      "전시 연표·다치카와 지역 학술연구의 1939년과 상충한다. 단계별 이전과 기록 출전은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Tokorozawa City Library historical essay"
   }
 ]
