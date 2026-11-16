@@ -880,5 +880,145 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
     "independence_group": "Museo Caproni virtual exhibition Oggi si vola"
+  },
+  {
+    "id": "CAT-IT-SRC-0045",
+    "title": "Carcano Model 91 Rifle",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "REL/02158 / C235828",
+    "locator": "Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C235828",
+    "accessed_at": "2026-11-17T06:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1917년으로 분류된 M91 장총의 실물 목록과 제2차 세계대전에도 같은 형식이 지급됐다는 해제를 확인했다."
+    ],
+    "limitations": [
+      "해제는 후대 서술이다. 이 유물의 1939~1945년 부대 이력과 수량은 확인하지 못했다."
+    ],
+    "rights": "공개 소장 해제. 자체 요약과 링크만 사용했으며 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "AWM REL/02158 object"
+  },
+  {
+    "id": "CAT-IT-SRC-0046",
+    "title": "Arms of the First World War — Carcano Modello 1891 Rifle",
+    "institution_or_author": "Royal Armouries",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Italy → Carcano Modello 1891 Rifle → Development·Statistics",
+    "url": "https://royalarmouries.org/objects-and-stories/stories/arms-of-the-first-world-war",
+    "accessed_at": "2026-11-17T06:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "M91 장총의 제식 연도·구경·전장·중량을 확인했다."
+    ],
+    "limitations": [
+      "제1차대전 전시 해설로, 길이와 무게는 장총 기준이다. 제2차대전형 카빈·다른 형식의 수치와 지급량을 뒷받침하지 않는다."
+    ],
+    "rights": "공개 소장 해제. 자체 요약과 링크만 사용했으며 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Royal Armouries Carcano exhibit"
+  },
+  {
+    "id": "CAT-IT-SRC-0047",
+    "title": "Road to Matruh — Italian Carcano rifles, Breda and Fiat machine guns",
+    "institution_or_author": "James Francis (Frank) Hurley / Australian War Memorial",
+    "publication_date": "1940-12-15",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM 004432 / C26345",
+    "locator": "원사진·Date made·Place made·Description",
+    "url": "https://www.awm.gov.au/collection/C26345",
+    "accessed_at": "2026-11-17T06:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이집트 메르사마트루 지역의 노획 무기 사진과 카르카노 소총·브레다 및 피아트 기관총으로 식별한 해제를 확인했다."
+    ],
+    "limitations": [
+      "사진과 해제에서 개별 하위 형식과 이탈리아 측 원소속·정확한 전체 노획 수량은 판정할 수 없다."
+    ],
+    "rights": "소장기관의 저작권 만료·퍼블릭 도메인 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "Hurley wartime photograph AWM 004432"
+  },
+  {
+    "id": "CAT-IT-SRC-0048",
+    "title": "Breda Model 30 Light Machine Gun",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "RELAWM20173 / C137747",
+    "locator": "Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C137747",
+    "accessed_at": "2026-11-17T06:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년제 브레다 Mod.30의 분류와 모델 각인, 1941년 1월 리비아 데르나에서 호주군이 노획했다는 개체 이력을 확인했다."
+    ],
+    "limitations": [
+      "전시 원소속·가동 상태·인수시험 원자료가 생략돼 있다. 노획 이력은 박물관 해제에 따른다."
+    ],
+    "rights": "공개 소장 해제. 자체 요약과 링크만 사용했으며 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "AWM RELAWM20173 object"
+  },
+  {
+    "id": "CAT-IT-SRC-0049",
+    "title": "Fucile mitragliatore — Breda Mod.30",
+    "institution_or_author": "Museo della Repubblica di Montefiorino e della Resistenza italiana / PatER, Regione Emilia-Romagna",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "_0000534 / n. 091 / matricola 68750",
+    "locator": "Misure에 해당하는 치수·구경 항목, 설명 및 Altre informazioni의 각인",
+    "url": "https://bbcc.regione.emilia-romagna.it/dettaglio-oa/?s_id=227368",
+    "accessed_at": "2026-11-17T06:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "별도 소장품의 Breda Roma 각인, Mod.30 분류, 6.5 × 52 mm 구경과 전장 120 cm를 확인했다."
+    ],
+    "limitations": [
+      "소장품 설명에 인용된 사후 문헌과 제원도 섞여 있다. 이 개체의 전시 부대, 시험 조건과 성능 원표는 확인하지 못했다."
+    ],
+    "rights": "공개 소장 해제. 자체 요약과 링크만 사용했으며 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "PatER Museo Montefiorino specimen 68750"
+  },
+  {
+    "id": "CAT-IT-SRC-0050",
+    "title": "Italian M33 steel helmet : Driver W A Evans, Australian Army",
+    "institution_or_author": "S Maggiani & Co. / Australian War Memorial",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "REL34875 / C1147868",
+    "locator": "소장품 사진·Maker·Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C1147868",
+    "accessed_at": "2026-11-17T06:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아제 M33 철모의 강철·가죽 구성, 내피의 1939년 표기 및 북아프리카 수집 이력을 확인했다."
+    ],
+    "limitations": [
+      "1939년 표기는 내피에 있으며, 최초 착용자·배속 부대·수집일과 방호 시험은 확인할 수 없다."
+    ],
+    "rights": "공개 소장 해제. 자체 요약과 링크만 사용했으며 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Evans North Africa collection AWM"
+  },
+  {
+    "id": "CAT-IT-SRC-0051",
+    "title": "Italian gas mask and canister : Driver W A Evans, Australian Army",
+    "institution_or_author": "Sacic / Australian War Memorial",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "REL34876 / C1154124",
+    "locator": "Maker·Place made·Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C1154124",
+    "accessed_at": "2026-11-17T06:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 T.35로 분류된 벨기에제 개체와 여과통의 월·연도 표기 및 북아프리카 수집 이력을 확인했다."
+    ],
+    "limitations": [
+      "M33과 수집자가 동일하다. 보급 계약·지급 규모·물자의 정확한 회수 일자와 실제 착용에 대한 증거는 확인하지 못했다."
+    ],
+    "rights": "공개 소장 해제. 자체 요약과 링크만 사용했으며 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Evans North Africa collection AWM"
   }
 ]

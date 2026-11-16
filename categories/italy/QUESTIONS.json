@@ -213,5 +213,58 @@
     ],
     "evidence": "전투기·폭격기·뇌격기·수송기의 대표 세 계열을 확인했다.",
     "completion_condition": "다른 전투·폭격·정찰·수상·훈련·연락·구조·수송기의 당대 인수표와 배치 기록을 찾고, 휴전 이후 왕국군과 이탈리아 사회공화국 등 운용 주체를 구분한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0017",
+    "status": "open",
+    "question": "M91 장총과 후속 단축형의 전시 지급 비중 및 부대별 구성은 어떠했는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0013",
+      "CAT-IT-SRC-0045",
+      "CAT-IT-SRC-0046",
+      "CAT-IT-SRC-0047"
+    ],
+    "evidence": "장총의 소장 제원과 카르카노 계열의 북아프리카 존재를 확인했다. 사진은 세부 형식을 구별하지 않는다.",
+    "completion_condition": "이탈리아군 보급·재고표와 북아프리카 노획 목록을 대조해 형식·구경·기준일을 고정한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0018",
+    "status": "open",
+    "question": "브레다 Mod.30의 시기별 제원 차이와 군 인수시험 조건은 무엇인가?",
+    "related_ids": [
+      "CAT-IT-EQP-0014",
+      "CAT-IT-SRC-0047",
+      "CAT-IT-SRC-0048",
+      "CAT-IT-SRC-0049"
+    ],
+    "evidence": "데르나 노획 개체와 몬테피오리노 소장 개체를 확인했다. 제조·운용의 평균 성능은 자료에서 확인하지 못했다.",
+    "completion_condition": "제작사 자료와 전시 인수·검사표를 찾아 해당 형식과 조사 조건을 구분한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0019",
+    "status": "open",
+    "question": "M33과 T.35의 지급 및 수입 경로는 부대·연도별로 어떻게 달랐는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0015",
+      "CAT-IT-EQP-0016",
+      "CAT-IT-SRC-0050",
+      "CAT-IT-SRC-0051"
+    ],
+    "evidence": "같은 수집자에게서 들어온 두 소장품의 물적 표기와 북아프리카 수집 이력을 확인했다.",
+    "completion_condition": "이탈리아군 조달·지급 장부, 항목별 인수 규격과 수집자 기록을 대조해 M33·T.35 지급 규모와 T.35 공급 경로를 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0020",
+    "status": "open",
+    "question": "다른 보병 무기·휴대 장비의 대표 형식과 실제 지급은 어떠했는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0013",
+      "CAT-IT-EQP-0014",
+      "CAT-IT-EQP-0015",
+      "CAT-IT-EQP-0016",
+      "CAT-IT-SRC-0047"
+    ],
+    "evidence": "소총·경기관총·두 종류의 개인 보호 장비를 우선 조사했다.",
+    "completion_condition": "기관단총·권총·중기관총·박격포·수류탄과 복장·휴대품을 박물관 및 편제·보급 자료에서 확인한다."
   }
 ]

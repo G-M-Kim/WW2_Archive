@@ -1392,8 +1392,9 @@
     "category": "보병 무기 및 장비",
     "article_path": "categories/italy/05-infantry-equipment.md",
     "planned_at": "2026-11-17T03:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-IT-05.json",
+    "completed_at": "2026-11-17T06:59:16+09:00"
   },
   {
     "step": 101,

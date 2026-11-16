@@ -1,6 +1,6 @@
 # 이탈리아 — WW2 카테고리 조사
 
-국가 코드 `IT`. 이 국가의 19개 항목을 순서대로 첫 조사한다. 아래 원고 파일은 해당 실행에서 실제 자료와 함께 생성한다. 1번은 L3/33·M11/39·M13/40의 제원과 북아프리카 포획 기록을 부분 조사했다. 2번은 AB41·세모벤테 75/18·Fiat 665 NM의 제원과 전시 자료를 부분 조사했다. 3번은 리토리오 전함·시레 잠수함·아퀼라 미완성 항모의 제원과 이력을 부분 조사했다. 4번은 C.202 전투기·S.79 폭격기와 뇌격기·S.82 수송기의 제원과 전시 기록을 부분 조사했다. 현재 4/19 항목을 방문했다.
+국가 코드 `IT`. 이 국가의 19개 항목을 순서대로 첫 조사한다. 아래 원고 파일은 해당 실행에서 실제 자료와 함께 생성한다. 1번은 L3/33·M11/39·M13/40의 제원과 북아프리카 포획 기록을 부분 조사했다. 2번은 AB41·세모벤테 75/18·Fiat 665 NM의 제원과 전시 자료를 부분 조사했다. 3번은 리토리오 전함·시레 잠수함·아퀼라 미완성 항모의 제원과 이력을 부분 조사했다. 4번은 C.202 전투기·S.79 폭격기와 뇌격기·S.82 수송기의 제원과 전시 기록을 부분 조사했다. 5번은 M91 소총·브레다 Mod.30 경기관총·M33 철모·T.35 방독면의 전시 자료를 부분 조사했다. 현재 5/19 항목을 방문했다.
 
 [전체 계획](../PLAN.md) · [출처 장부](SOURCES.json) · [미확인 과제](QUESTIONS.json)
 
@@ -10,7 +10,7 @@
 | 2 | 전차 제외 기갑장비, 무장, 성능 | partial | [02-other-armored-vehicles.md](02-other-armored-vehicles.md) |
 | 3 | 함선 및 함정, 무장, 성능 | partial | [03-naval-vessels.md](03-naval-vessels.md) |
 | 4 | 항공기, 무장, 성능 | partial | [04-aircraft.md](04-aircraft.md) |
-| 5 | 보병 무기 및 장비 | pending | `05-infantry-equipment.md` |
+| 5 | 보병 무기 및 장비 | partial | [05-infantry-equipment.md](05-infantry-equipment.md) |
 | 6 | WW2에서 빼놓을 수 없는 장비 | pending | `06-essential-technology.md` |
 | 7 | 유명한 전투 참여 인물 | pending | `07-combat-personnel.md` |
 | 8 | 유명한 정치 인물 | pending | `08-political-personnel.md` |
