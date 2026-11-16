@@ -266,5 +266,56 @@
     ],
     "evidence": "소총·경기관총·두 종류의 개인 보호 장비를 우선 조사했다.",
     "completion_condition": "기관단총·권총·중기관총·박격포·수류탄과 복장·휴대품을 박물관 및 편제·보급 자료에서 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0021",
+    "status": "open",
+    "question": "E.C.3-bis 시험기와 E.C.3-ter 구포의 함별 설치일과 가동일은 언제인가?",
+    "related_ids": [
+      "CAT-IT-EQP-0017",
+      "CAT-IT-EQP-0007",
+      "CAT-IT-SRC-0052"
+    ],
+    "evidence": "갈라티의 표와 리토리오·이탈리아 사진 해설에서 두 단계를 구분했다. 표는 시제 장비를 포함한다.",
+    "completion_condition": "함별 개장 명세서·인수 검사표·항해일지를 대조하여 동일 날짜의 장착 함정 수와 가동 장비 수를 구한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0022",
+    "status": "open",
+    "question": "Hagelin C38m의 인도·도입·지급 일정과 이탈리아 해군의 사용 범위는 무엇인가?",
+    "related_ids": [
+      "CAT-IT-EQP-0018",
+      "CAT-IT-SRC-0054",
+      "CAT-IT-SRC-0055",
+      "CAT-IT-SRC-0056"
+    ],
+    "evidence": "해군 기관지의 도입월 서술과 영국 측의 사용 기록을 대조했다. 도입월 원자료와 해독 통계 분류는 미확인이다.",
+    "completion_condition": "USMM의 주문·인수·지급 원부와 Birch 자료에서 공군 C35와 해군 C38m에 해당하는 기록을 구분한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0023",
+    "status": "open",
+    "question": "FIVRE M-213 송신부는 어느 항공 레이더 체계에 통합됐고 어느 단계까지 진행됐는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0019",
+      "CAT-IT-SRC-0053"
+    ],
+    "evidence": "IGB-10220의 물적 목록이 있지만 완성 체계, 비행시험, 항공대 지급은 확인되지 않았다.",
+    "completion_condition": "제작사 자료와 항공기 개조·시험 기록에서 송신부 식별 번호를 대응시킨다."
+  },
+  {
+    "id": "CAT-IT-RQ-0024",
+    "status": "open",
+    "question": "전시 무전기·지상 감시 레이더·기타 통신 지원 장비의 대표 형식과 배치는 어떠했는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0017",
+      "CAT-IT-EQP-0018",
+      "CAT-IT-EQP-0019",
+      "CAT-IT-SRC-0052",
+      "CAT-IT-SRC-0053",
+      "CAT-IT-SRC-0054"
+    ],
+    "evidence": "함정 레이더, 해군 암호기와 항공 레이더 부품을 우선 조사했다.",
+    "completion_condition": "육군 무선국 장비, 지상 감시 레이더, 방향탐지기와 유선 통신 장비의 조달·배치 기록을 확인한다."
   }
 ]

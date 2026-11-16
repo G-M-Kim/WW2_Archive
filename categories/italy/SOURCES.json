@@ -1020,5 +1020,105 @@
     ],
     "rights": "공개 소장 해제. 자체 요약과 링크만 사용했으며 이미지의 재사용 조건은 별도 확인이 필요하다.",
     "independence_group": "Evans North Africa collection AWM"
+  },
+  {
+    "id": "CAT-IT-SRC-0052",
+    "title": "The Owls and the Gufo. Birth of Italian Radar",
+    "institution_or_author": "Gaspare Galati / Springer International Publishing",
+    "publication_date": "2016 (판권 연도)",
+    "source_type": "secondary",
+    "document_or_accession_number": "DOI 10.1007/978-3-319-00584-3_2",
+    "locator": "§2.3, 인쇄 38–42·46–48쪽, 표 2.1 및 그림 2.19·2.24·2.25·2.32",
+    "url": "https://ndl.ethernet.edu.et/bitstream/123456789/75574/1/519.pdf",
+    "accessed_at": "2026-11-17T08:54:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "E.C.3-bis 시험 장착과 E.C.3-ter 함정별 장착, 사진 해설 및 집계 범위를 확인했다."
+    ],
+    "limitations": [
+      "표는 선행 연구를 재구성한다. 사진 일자와 장비 판독은 그림 해설에 따랐으며 함별 수락·가동 일지와 시험 원본은 미확인이다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 사용했다. 사진과 문서 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Galati radar history and cited ship photographs"
+  },
+  {
+    "id": "CAT-IT-SRC-0053",
+    "title": "Trasmittente Fivre tipo M-213, pentola del Carrara",
+    "institution_or_author": "FIVRE(제조) / Museo Nazionale Scienza e Tecnologia Leonardo da Vinci(소장 및 목록)",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "IGB-10220 / IT-MUST-NTR001-020217 / M-213 n. 361/30",
+    "locator": "1944 circa·inventario·autori·descrizione·definizione",
+    "url": "https://collezioni-online.museoscienza.org/detail/IT-MUST-NTR001-020217/trasmittente-fivre-tipo-m-213-pentola-del-carrara",
+    "accessed_at": "2026-11-17T08:54:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "약 1944년의 이탈리아 항공 레이더용 FIVRE 송신부로 분류한 장비와 소장 번호를 확인했다."
+    ],
+    "limitations": [
+      "송신부의 목록이다. 완성 시스템의 형식명·비행시험·장착·실전 배치는 확인할 수 없다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 사용했다. 사진과 문서 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "MUST IGB-10220 inventoried transmitter"
+  },
+  {
+    "id": "CAT-IT-SRC-0054",
+    "title": "Molto rumore per nulla. La vera storia delle macchine cifranti Hagelin italiane, 1940–1943",
+    "institution_or_author": "Enrico Cernuschi / Rivista Marittima, Marina Militare",
+    "publication_date": "2020-06",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 74–76쪽 제목·소장 사진 설명, 81쪽 「… e la C 38」, 82쪽 USMM 주문 전보 영인·캡션",
+    "url": "https://www.marina.difesa.it/media-cultura/editoria/marivista/Documents/2020/Rivista_Marittima_Giugno_2020.pdf",
+    "accessed_at": "2026-11-17T08:54:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 1월 해군 C38m 도입과 행정 통신 중심 설명, 공군 C35와의 구분, 초기 주문 전보 영인 위치를 확인했다."
+    ],
+    "limitations": [
+      "인용된 Birch 자료와 전보의 문서번호·전문을 직접 대조하지 못했다. 논쟁적인 해독량은 인용하지 않았다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 사용했다. 사진과 문서 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Cernuschi Italian naval archival interpretation"
+  },
+  {
+    "id": "CAT-IT-SRC-0055",
+    "title": "At Bletchley Park",
+    "institution_or_author": "William T. Tutte / University of Waterloo 공개 사본",
+    "publication_date": "2000-08-16",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 2–3쪽, §I 말미에서 §II 시작 부분",
+    "url": "https://uwaterloo.ca/combinatorics-and-optimization/sites/default/files/uploads/documents/at_bletchley_park_pdf_0.pdf",
+    "accessed_at": "2026-11-17T08:54:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 연구부서에서 스웨덴제 하겔린으로 암호화된 이탈리아 해군 통신을 연구했다는 전시 근무자의 회고를 확인했다."
+    ],
+    "limitations": [
+      "전후 회고다. 해당 단락에 정확한 기종 접미사와 이탈리아 측 도입·지급일이 없다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 사용했다. 사진과 문서 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Tutte firsthand retrospective testimony"
+  },
+  {
+    "id": "CAT-IT-SRC-0056",
+    "title": "William Thomas 'Bill' Tutte OC FRS FRSC",
+    "institution_or_author": "Government Communications Headquarters (GCHQ)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Research Section 근무와 이탈리아 해군 C38m을 언급하는 단락",
+    "url": "https://www.gchq.gov.uk/person/bill-tutte",
+    "accessed_at": "2026-11-17T08:54:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 기관 해설이 이탈리아 해군의 기종을 C38m으로 명시함을 확인했다."
+    ],
+    "limitations": [
+      "Tutte의 회고와 관련 있는 기관 서술이다. 별개의 영국 관측으로 계산하지 않았으며 구체적인 도입월의 근거로 쓰지 않았다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 사용했다. 사진과 문서 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "GCHQ retrospective Tutte account"
   }
 ]

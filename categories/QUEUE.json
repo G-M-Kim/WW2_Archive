@@ -1406,8 +1406,9 @@
     "category": "WW2에서 빼놓을 수 없는 장비",
     "article_path": "categories/italy/06-essential-technology.md",
     "planned_at": "2026-11-17T05:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-IT-06.json",
+    "completed_at": "2026-11-17T08:54:22+09:00"
   },
   {
     "step": 102,
