@@ -1364,8 +1364,9 @@
     "category": "함선 및 함정, 무장, 성능",
     "article_path": "categories/italy/03-naval-vessels.md",
     "planned_at": "2026-11-16T23:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-IT-03.json",
+    "completed_at": "2026-11-17T02:57:18+09:00"
   },
   {
     "step": 99,

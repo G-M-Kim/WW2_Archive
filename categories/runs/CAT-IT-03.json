@@ -1,0 +1,56 @@
+{
+  "step": 98,
+  "job_id": "CAT-IT-03",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 3,
+  "category": "함선 및 함정, 무장, 성능",
+  "article_path": "categories/italy/03-naval-vessels.md",
+  "status": "partial",
+  "completed_at": "2026-11-17T02:57:18+09:00",
+  "started_at": "2026-11-17T02:52:06+09:00",
+  "base_head": "608c42200ce07b86d80a43d83ee3609b3537bc3b",
+  "source_ids": [
+    "CAT-IT-SRC-0008",
+    "CAT-IT-SRC-0028",
+    "CAT-IT-SRC-0029",
+    "CAT-IT-SRC-0030",
+    "CAT-IT-SRC-0031",
+    "CAT-IT-SRC-0032",
+    "CAT-IT-SRC-0033",
+    "CAT-IT-SRC-0034",
+    "CAT-IT-SRC-0035",
+    "CAT-IT-SRC-0036"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0010",
+    "CAT-IT-RQ-0011",
+    "CAT-IT-RQ-0012"
+  ],
+  "entity_ids": [
+    "CAT-IT-EQP-0007",
+    "CAT-IT-EQP-0008",
+    "CAT-IT-EQP-0009"
+  ],
+  "research_scope": "리토리오 전함, 시레 연안 잠수함, 아퀼라 미완성 항모의 제원·운용·공사 이력.",
+  "limitations": [
+    "전함 시운전의 개별 조건과 잠수함 개조 후 시험은 미확인이다.",
+    "아퀼라의 두 함재기 계획값의 차이는 미결이다. 순양함·구축함·호위함·어뢰정 등은 후속 범위다."
+  ],
+  "evidence_checked": [
+    "영국 하원 발언록과 호주전쟁기념관의 타란토 당대 사진, Santoni 및 미 해군연구소의 사후 서술.",
+    "시레의 학교·박물관 제원표, 이탈리아 해군 기관지, 하이파대 공개 초록.",
+    "해군 기관지의 아퀼라 개조 연구 및 Accorsi 컬렉션의 1943년 사진."
+  ],
+  "access_attempts": [
+    "이탈리아 해군 Littorio·Scirè·Aquila 웹 항목과 미국 NHHC NH 111469 웹 항목은 타임아웃이었다. 열람 가능한 기관 PDF·사진·의회 기록으로 대조했다.",
+    "RAF Air Power Review 합본은 파일 크기 한도로 본문을 열지 못했으며 제원 확정 근거로 사용하지 않았다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=98 pending=35; sources=1014 questions=375. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}
