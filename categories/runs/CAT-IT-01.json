@@ -1,0 +1,51 @@
+{
+  "step": 96,
+  "job_id": "CAT-IT-01",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 1,
+  "category": "전차장비, 무장, 성능",
+  "article_path": "categories/italy/01-tanks.md",
+  "status": "partial",
+  "completed_at": "2026-11-16T23:16:40+09:00",
+  "started_at": "2026-11-16T23:10:55+09:00",
+  "base_head": "0461f8d498a21403c28f4850ec00c8c436a72112",
+  "source_ids": [
+    "CAT-IT-SRC-0004",
+    "CAT-IT-SRC-0016",
+    "CAT-IT-SRC-0017",
+    "CAT-IT-SRC-0018",
+    "CAT-IT-SRC-0019",
+    "CAT-IT-SRC-0020"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0004",
+    "CAT-IT-RQ-0005",
+    "CAT-IT-RQ-0006"
+  ],
+  "entity_ids": [
+    "CAT-IT-EQP-0001",
+    "CAT-IT-EQP-0002",
+    "CAT-IT-EQP-0003"
+  ],
+  "research_scope": "북아프리카 관련 L3/33, M11/39, M13/40의 식별·대표 제원, 바르디아 포획 및 토브루크의 인수 사진.",
+  "limitations": [
+    "CV33/35 합본 수치의 개별 형식 적용 불가. 전시 교범의 속도 시험조건 미확인. 영국 표본 01473의 엔진과 형식 식별은 미해결.",
+    "생산·인수·부대별 가동 및 후기 전차는 후속 검증 범위."
+  ],
+  "evidence_checked": [
+    "미군 FM 30–42 원문 PDF의 제V절 판독문, 영국 STT 보고서 No. 18의 스캔 표지·제원표와 본문.",
+    "호주전쟁기념관의 당대 사진 005042·100193과 개별 소장차 설명, 바르디아 전투 해설."
+  ],
+  "access_attempts": [
+    "GovInfo PDF는 판독문을 읽었고 페이지 이미지 요청에는 10.9 MB 크기 한도 오류가 반환됐다.",
+    "이탈리아 육군의 역사 차량 박물관 두 주소는 열람 시 타임아웃이었다. 이탈리아 측 제식·생산 원장을 대조하지 못했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=96 pending=37; sources=998 questions=369. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

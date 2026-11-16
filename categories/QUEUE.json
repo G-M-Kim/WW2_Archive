@@ -1336,8 +1336,9 @@
     "category": "전차장비, 무장, 성능",
     "article_path": "categories/italy/01-tanks.md",
     "planned_at": "2026-11-16T19:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-IT-01.json",
+    "completed_at": "2026-11-16T23:16:40+09:00"
   },
   {
     "step": 97,

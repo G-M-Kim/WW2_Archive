@@ -298,5 +298,107 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "ami-wwii-timeline"
+  },
+  {
+    "id": "CAT-IT-SRC-0016",
+    "title": "Military Intelligence: Identification of Foreign Armored Vehicles, German, Japanese, Russian, and Italian",
+    "institution_or_author": "U.S. War Department / Government Publishing Office, GovInfo",
+    "publication_date": "1942-10-03",
+    "source_type": "primary",
+    "document_or_accession_number": "FM 30–42 / GOVPUB-W-PURL-gpo119422",
+    "locator": "인쇄 1쪽 §1, 제V절 인쇄 133–134쪽 CV 3/33–35, 139–140쪽 M.11/39, 141–142쪽 M-13/40",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-W-PURL-gpo119422/pdf/GOVPUB-W-PURL-gpo119422.pdf",
+    "accessed_at": "2026-11-16T23:16:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "차량별 승무원, 무장 종류·배치, 교범의 엔진·속도·중량 기재를 PDF 판독문에서 대조했다."
+    ],
+    "limitations": [
+      "미군 전시 식별 편찬물이다. 차대번호, 중량의 ton 종류, 노면·하중·측정법은 확인되지 않는다.",
+      "CV 3/33–35는 여러 형식을 함께 다룬다. 이 수치를 Series II 실측으로 적용하지 않았다."
+    ],
+    "rights": "공개 GovInfo 복제본이며 표지에 비밀해제 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "US War Department FM 30-42"
+  },
+  {
+    "id": "CAT-IT-SRC-0017",
+    "title": "Preliminary Report No. 18: Italian Tank M 13/40",
+    "institution_or_author": "J. D. Barnes·P. L. Gudgin / School of Tank Technology, Military College of Science",
+    "publication_date": "1943-11 (표지), 1943-10 조사",
+    "source_type": "primary",
+    "document_or_accession_number": "STT/8/5/3 / D.T.D. No. 3012, Project V.7037 / Chassis 01473",
+    "locator": "PDF 1–2쪽 표지·Foreword·General Specification, 인쇄 2쪽 §1",
+    "url": "https://www.military-references.com/wp-content/uploads/books/tanks/italy/m13-40/Preliminary_Report_No_13_Italian_Tank_M_13-40_1943.pdf",
+    "accessed_at": "2026-11-16T23:16:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공개 스캔 표지와 표에서 보고서 번호, 차대번호, 4인 승무원과 무장, 엔진 정격, 인수 중량 및 속도계 표기를 확인했다."
+    ],
+    "limitations": [
+      "보관기관이 아닌 공개 미러다. 파일명은 No. 13이지만 본문 표지는 No. 18이다.",
+      "일부 데이터는 노획 교범에서 왔다. 개별 표본의 형식·개조 여부를 확정할 수 없고 속도계는 주행 계측이 아니다."
+    ],
+    "rights": "원본·디지털 복제본의 개별 재사용 조건 미확인. 사료 링크와 자체 요약만 사용.",
+    "independence_group": "British STT DTD 3012"
+  },
+  {
+    "id": "CAT-IT-SRC-0018",
+    "title": "Tobruk, Libya: members of the AIF with captured Italian M13/40 and M11/39 tanks",
+    "institution_or_author": "James Francis (Frank) Hurley / Australian War Memorial",
+    "publication_date": "1941-01-23",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM 005042 / C198904",
+    "locator": "이미지, Date made, Description",
+    "url": "https://www.awm.gov.au/collection/C198904",
+    "accessed_at": "2026-11-16T23:16:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "저해상도 원사진을 열어 원경과 전경 차량을 비교했고, 소장 설명으로 형식 식별·바르디아 포획·호주군 운용을 확인했다."
+    ],
+    "limitations": [
+      "촬영 장면과 후대 소장 해제를 구분했다. 저해상도 사진만으로 세부 무장 모델·차대번호·포획일·가동 대수를 판독할 수 없다."
+    ],
+    "rights": "호주전쟁기념관의 소장 기록에 저작권 만료·퍼블릭 도메인 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "Hurley Tobruk 005042"
+  },
+  {
+    "id": "CAT-IT-SRC-0019",
+    "title": "Carro Veloce L.3/33 Series II Italian tankette",
+    "institution_or_author": "Ansaldo(제작) / Australian War Memorial(목록 및 해설)",
+    "publication_date": "1934 (차량 제작), 목록 작성일 미상",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "AWM OL00665.001 / C2121188",
+    "locator": "Maker·Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C2121188",
+    "accessed_at": "2026-11-16T23:16:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Series II로 식별된 현존 차량의 2인 구성, 기관총 장착 자리, 엔진 및 전후 도색과 전시 이력의 미확인을 소장 설명에서 확인했다."
+    ],
+    "limitations": [
+      "차량 상태는 박물관 해설로 확인했다. 기관총 현물은 부재하며 8 mm Fiat 14/35라는 상세 식별은 추정이다."
+    ],
+    "rights": "공개 열람본. 자체 요약 및 링크만 사용.",
+    "independence_group": "AWM OL00665.001 curatorial description"
+  },
+  {
+    "id": "CAT-IT-SRC-0020",
+    "title": "Bardia, North Africa. An Italian Fiat-Ansaldo Carro Veloce CV33 tankette",
+    "institution_or_author": "M. B. Rogers / Australian War Memorial",
+    "publication_date": "1941-01 (소장 설명 표기)",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM 100193 / C297842",
+    "locator": "사진, Maker, Description",
+    "url": "https://www.awm.gov.au/collection/100193",
+    "accessed_at": "2026-11-16T23:16:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "원사진과 소장 설명에서 바르디아의 CV33 포획 표기를 확인했다."
+    ],
+    "limitations": [
+      "사진만으로 제작 차수·차대번호와 OL00665.001 소장품의 동일성 등을 확인할 수 없다."
+    ],
+    "rights": "호주전쟁기념관의 소장 기록에 저작권 만료·퍼블릭 도메인 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "Rogers Bardia 100193"
   }
 ]
