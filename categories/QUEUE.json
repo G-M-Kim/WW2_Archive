@@ -1252,8 +1252,9 @@
     "category": "당시 영토",
     "article_path": "categories/japan/14-territory.md",
     "planned_at": "2026-11-16T07:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-JP-14.json",
+    "completed_at": "2026-11-16T10:59:09+09:00"
   },
   {
     "step": 91,

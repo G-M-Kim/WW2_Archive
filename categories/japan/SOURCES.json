@@ -2649,5 +2649,266 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "JACAR Manchukuo capital construction institutional history"
+  },
+  {
+    "id": "CAT-JP-SRC-0127",
+    "title": "Japanese Expansion",
+    "institution_or_author": "작성자 미확인 / Harry S. Truman Library & Museum 소장",
+    "publication_date": "1945",
+    "source_type": "primary",
+    "document_or_accession_number": "M848 / Official File 651",
+    "locator": "지도 좌상단 범례, 1941년 11월·1942년 7월의 범위 표기와 소장 해제",
+    "url": "https://www.trumanlibrary.gov/maps/m848-map-japanese-expansion",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "스캔을 열어 서로 다른 시점의 선과 계획선·점령 표식이 분리됐음을 확인했다."
+    ],
+    "limitations": [
+      "소장 기록의 연도는 1945년이다. 광역 회고 지도이며 외곽선은 법적 국경이나 지역별 행정구가 아니다."
+    ],
+    "rights": "소장기관이 제한 여부 미확정으로 안내한다. 이미지 재게시 없이 링크만 사용.",
+    "independence_group": "Truman Library M848 expansion map"
+  },
+  {
+    "id": "CAT-JP-SRC-0128",
+    "title": "Treaty of Peace Between Japan and Russia / Portsmouth Treaty",
+    "institution_or_author": "일본·러시아 / 미국 국무부 FRUS 수록",
+    "publication_date": "1905-09-05",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1905, document 915",
+    "locator": "제5·6·9조",
+    "url": "https://history.state.gov/historicaldocuments/frus1905/d915",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "뤼순·다롄과 인접지의 조차권 승계, 철도 관련 권리 및 북위 50도 이남 사할린의 할양을 분리 확인했다."
+    ],
+    "limitations": [
+      "전쟁 전의 법적 배경이다. 이 조약으로 1945년 인계가 언제 이루어졌는지는 알 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Portsmouth treaty"
+  },
+  {
+    "id": "CAT-JP-SRC-0129",
+    "title": "Mandate for the German Possessions in the Pacific Ocean Lying North of the Equator",
+    "institution_or_author": "국제연맹 이사회 / 유엔 디지털도서관",
+    "publication_date": "1920",
+    "source_type": "primary",
+    "document_or_accession_number": "A.70",
+    "locator": "해당 위임문서 영문 표제와 제1·2조",
+    "url": "https://digitallibrary.un.org/record/837510/files/A_70-EN.pdf",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "적도 이북 옛 독일령 섬을 대상으로 일본에 위임된 통치 권한과 조건을 확인했다."
+    ],
+    "limitations": [
+      "문서의 지리 범위는 위임통치 당시 기준이다. 전시의 섬별 통제 변화나 신탁통치 시행은 다른 자료가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "League of Nations Japanese Pacific mandate"
+  },
+  {
+    "id": "CAT-JP-SRC-0130",
+    "title": "Cairo Communiqué",
+    "institution_or_author": "미국·영국·중화민국 / 일본 국립국회도서관",
+    "publication_date": "1943-12-01",
+    "source_type": "primary",
+    "document_or_accession_number": "NDL 헌법 전시 1-1 / 002_46",
+    "locator": "영문 공개 안내와 대만·펑후·만주·한국 관련 문단",
+    "url": "https://www.ndl.go.jp/constitution/shiryo/01/002_46/002_46tx.html",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대만·펑후 등의 반환과 한국 독립에 관한 연합국의 발표 내용을 확인했다."
+    ],
+    "limitations": [
+      "공동성명의 전후 목표를 보여 준다. 지역별 군사 항복, 행정 인수, 조약 조문은 따로 확인했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Allied Cairo Communiqué"
+  },
+  {
+    "id": "CAT-JP-SRC-0131",
+    "title": "Potsdam Declaration",
+    "institution_or_author": "미국·영국·중화민국 / 일본 국립국회도서관",
+    "publication_date": "1945-07-26",
+    "source_type": "primary",
+    "document_or_accession_number": "NDL 헌법 전시 c06",
+    "locator": "제8항과 발행일",
+    "url": "https://www.ndl.go.jp/constitution/e/etc/c06.html",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "카이로 조건과 4대 섬 및 별도로 정해질 작은 섬에 관한 조건을 확인했다."
+    ],
+    "limitations": [
+      "제8항 자체에는 모든 작은 섬의 목록이 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Allied Potsdam proclamation"
+  },
+  {
+    "id": "CAT-JP-SRC-0132",
+    "title": "General Order No. 1 (Directive No. 1)",
+    "institution_or_author": "연합군최고사령부 / 나고야대 SCAPIN-DB",
+    "publication_date": "1945-09-02",
+    "source_type": "primary",
+    "document_or_accession_number": "SCAPIN-1",
+    "locator": "첨부 General Order Number 1 제1항 (a)–(e)",
+    "url": "https://jahis.law.nagoya-u.ac.jp/scapindb/docs/scapin-1",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대만, 만주, 한반도 북위 38도선 이북·이남, 가라후토, 지시마와 본토의 항복 접수 주체를 확인했다."
+    ],
+    "limitations": [
+      "항복 명령의 수령자 배정이다. 지역별 실제 서명일과 주권 처분은 다른 자료에 근거한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "SCAP General Order 1"
+  },
+  {
+    "id": "CAT-JP-SRC-0133",
+    "title": "Governmental and Administrative Separation of Certain Outlying Areas from Japan",
+    "institution_or_author": "연합군최고사령부 / 나고야대 SCAPIN-DB",
+    "publication_date": "1946-01-29",
+    "source_type": "primary",
+    "document_or_accession_number": "SCAPIN-677",
+    "locator": "제3–6항",
+    "url": "https://jahis.law.nagoya-u.ac.jp/scapindb/docs/scapin-677",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 정부의 점령기 행정 범위와 제외 지명 및 제6항의 최종처분 유보를 확인했다."
+    ],
+    "limitations": [
+      "제3–4항에 적힌 지리 범위는 이 지령의 행정 목적에 적용했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "SCAP administrative separation directive"
+  },
+  {
+    "id": "CAT-JP-SRC-0134",
+    "title": "Treaty of Peace with Japan",
+    "institution_or_author": "샌프란시스코 강화조약 당사국 / 미국 국무부 판본·국사편찬위원회",
+    "publication_date": "1951-09-08",
+    "source_type": "primary",
+    "document_or_accession_number": "UNTS vol. 136, p.45, No.1832",
+    "locator": "제2조 (a)–(d), 제3·23조 및 유엔 조약 등록의 발효란",
+    "url": "https://db.history.go.kr/contemp/hihd/level.do?levelId=hihd_1951_09_08_0010",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "지역별 권리 포기, 류큐 등의 행정 관련 조문, 1951년 서명과 1952년 발효를 확인했다."
+    ],
+    "limitations": [
+      "제2조의 포기 문언을 지역별 인계일이나 수령국 조항으로 확대하지 않았다. 당사국·유보 등의 별도 검토는 남았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "San Francisco Treaty of Peace with Japan",
+    "registry_url": "https://treaties.un.org/pages/showDetails.aspx?objid=08000002801528c2"
+  },
+  {
+    "id": "CAT-JP-SRC-0135",
+    "title": "Post-World War Two Demobilization and Repatriation: Chronological Timeline",
+    "institution_or_author": "일본 아시아역사자료센터",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1945년 9월 9일 및 10월 25일 행",
+    "url": "https://www.jacar.go.jp/english/exhibition/glossary_en/fukuin-hikiage/table/history.html",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "서울과 타이베이의 지역별 항복 서명 날짜를 확인했다."
+    ],
+    "limitations": [
+      "기관의 전후 연표다. 지역별 서명문 내용이나 그날 모든 관청의 통제 범위는 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JACAR postwar surrender chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0136",
+    "title": "World War II Trail",
+    "institution_or_author": "싱가포르 국가유산위원회 (NHB)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Introduction",
+    "url": "https://www.nhb.gov.sg/~/media/nhb/files/places/trails/world%20war%20ii/wwii-text.pdf",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "싱가포르 함락, 일본의 점령기 표기 Syonan-To와 1945년 9월 12일 현지 항복 서명을 확인했다."
+    ],
+    "limitations": [
+      "공식 역사 안내서다. 말라야 등 인접 점령지의 전체 군정 경계로 일반화하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Singapore National Heritage Board wartime heritage trail"
+  },
+  {
+    "id": "CAT-JP-SRC-0137",
+    "title": "千島列島・樺太",
+    "institution_or_author": "일본 아시아역사자료센터",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「解説」 지시마 행정과 1945년 사할린·지시마 군사 점령 문장",
+    "url": "https://www.jacar.go.jp/exhibition/glossary/term/0100-0040-0020.html",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "홋카이도청 네무로 지청 소속과 사할린 남부 8월, 지시마 8–9월의 점령 시기를 확인했다."
+    ],
+    "limitations": [
+      "일본 기관의 해설 중 전시 행정과 점령 시기를 이용했다. 현대 주권 판단이나 섬별 날짜는 확정하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JACAR Kuriles and Sakhalin wartime overview"
+  },
+  {
+    "id": "CAT-JP-SRC-0138",
+    "title": "公文書に見る外地と内地：表から検索（年表：関東州・満洲／樺太）",
+    "institution_or_author": "일본 아시아역사자료센터",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1932년 3·9월, 1933년 8월 및 관동주·만주국의 별도 열",
+    "url": "https://www.jacar.go.jp/exhibition/glossary/gaichitonaichi/table/history2.html",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "만주국 성립과 일본의 승인, 일본 정부의 지도 방침, 관동주와 별개인 행정 분류를 확인했다."
+    ],
+    "limitations": [
+      "연표 자료로는 1945년 각 도서와 조차지의 인계 시간 및 구역별 행정 연속성을 확정할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JACAR Kwantung Manchuria Karafuto administrative chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0139",
+    "title": "戦後沖縄の主な出来事",
+    "institution_or_author": "오키나와현 공문서관",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "관련 소장 자료 「米国海軍軍政府布告第1号」",
+    "locator": "1945년 미군의 오키나와 점령 항목",
+    "url": "https://www.archives.pref.okinawa.jp/ryukyu_government/5495",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미군 상륙 무렵 일본 행정권 정지와 미군 군정 개시에 대한 기록관 해설을 확인했다."
+    ],
+    "limitations": [
+      "오키나와 전후 행정 해설이며 류큐 전 도서에 동일한 날짜를 적용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Okinawa Prefectural Archives military government overview"
   }
 ]
