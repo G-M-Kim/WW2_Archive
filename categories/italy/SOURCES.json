@@ -400,5 +400,145 @@
     ],
     "rights": "호주전쟁기념관의 소장 기록에 저작권 만료·퍼블릭 도메인 표기. 자체 요약과 링크만 사용.",
     "independence_group": "Rogers Bardia 100193"
+  },
+  {
+    "id": "CAT-IT-SRC-0021",
+    "title": "Autoblinda Fiat-Ansaldo AB41: Scheda PSTRL",
+    "institution_or_author": "Daniele Mor / Fondazione Luigi Micheletti, SIRBeC Lombardia",
+    "publication_date": "2000 작성, 2007 개정",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "4v020-00028",
+    "locator": "PDF 5쪽 Oggetto·Trazione·Prestazioni·Notizie storico-critiche, 10쪽 Compilazione",
+    "url": "https://www.lombardiabeniculturali.it/scienza-tecnologia/schede-complete/4v020-00028/",
+    "accessed_at": "2026-11-17T00:57:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현존 장갑차의 차종·무장 구성, 4륜 구동·조향 및 완전 적재·평탄 도로의 조건부 주행거리 기재를 확인했다."
+    ],
+    "limitations": [
+      "후대 문화재 목록이다. 현재 비활성 무장을 기록한다. 전시 원시험·주행거리 측정일·조건의 적용 차수는 미확인이다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용. 소장 이미지 또는 본문을 복제하지 않았다.",
+    "independence_group": "SIRBeC Fiat-Ansaldo AB41 object catalog"
+  },
+  {
+    "id": "CAT-IT-SRC-0022",
+    "title": "Jettisoned: Italian Autoblinda AB41 in Libya",
+    "institution_or_author": "James Francis (Frank) Hurley / Australian War Memorial",
+    "publication_date": "1943-01-27 촬영",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM 014272 / C33641",
+    "locator": "원사진, Date made, Place made, Description",
+    "url": "https://www.awm.gov.au/collection/C33641",
+    "accessed_at": "2026-11-17T00:57:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "저해상도 사진 원본의 차륜 장갑차와 소장 해제의 AB41 식별·리비아 촬영 표기를 확인했다."
+    ],
+    "limitations": [
+      "형식명과 퇴각 상황은 소장 해제에 따른다. 사진 1장으로 전역의 출고·손실 대수나 해당 차량의 가동 여부를 정할 수 없다."
+    ],
+    "rights": "호주전쟁기념관은 사진을 저작권 만료·퍼블릭 도메인으로 명시한다. 링크만 사용.",
+    "independence_group": "Hurley Libya 014272 photograph"
+  },
+  {
+    "id": "CAT-IT-SRC-0023",
+    "title": "Recognition Pictorial Manual on Armored Vehicles",
+    "institution_or_author": "U.S. War Department / U.S. Government Printing Office",
+    "publication_date": "1943-11-03",
+    "source_type": "primary",
+    "document_or_accession_number": "FM 30-40 (1943년 11월판)",
+    "locator": "인쇄 103–104쪽 「75-MM SP GUN (ON M14 TANK CHASSIS)」, 제원·사진·SPEED 도판",
+    "url": "https://stephentaylorhistorian.com/wp-content/uploads/2020/02/recognition-pictorial-manual-armored-vehicles.pdf",
+    "accessed_at": "2026-11-17T00:57:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 교범의 M14 차체 분류와 형상, 75 mm 포와 3인 승무원, 도판의 19 mph를 확인했다."
+    ],
+    "limitations": [
+      "전시 식별 교범이다. 속도 시험의 하중·노면을 제시하지 않으며 다른 차대 형식의 수치로 확장할 근거가 없다. 공개 미러를 열람했다."
+    ],
+    "rights": "열람본 표지에 비밀해제 표기가 있다. 자체 요약과 링크만 사용.",
+    "independence_group": "US Army FM 30-40 Nov 1943 recognition manual"
+  },
+  {
+    "id": "CAT-IT-SRC-0024",
+    "title": "Obice da 75/18 Mod. 1934/1935: Scheda PSMRL",
+    "institution_or_author": "Luca Bonetti / Provincia di Sondrio, SIRBeC Lombardia",
+    "publication_date": "2018 목록 작성",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "SO100-00430 / 표기 MATR. 65415",
+    "locator": "PDF 6쪽 Iscrizioni와 Notizie storico-critiche, 8쪽 Compilazione",
+    "url": "https://www.lombardiabeniculturali.it/militaria/schede-complete/SO100-00430/",
+    "accessed_at": "2026-11-17T00:57:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "견인포 소장품의 성격과 별도 자주포 개발 해설에 적힌 시제품 시험·첫 인도·차대 계열을 확인했다."
+    ],
+    "limitations": [
+      "소장품은 견인 곡사포다. 자주포의 개발사는 후대 해설이며 형식별 인수·시험 원장 및 전투 기록은 확보되지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용. 소장 이미지 또는 본문을 복제하지 않았다.",
+    "independence_group": "SIRBeC towed 75-18 catalog historical commentary"
+  },
+  {
+    "id": "CAT-IT-SRC-0025",
+    "title": "Tank crewman leather jacket: Italian Army",
+    "institution_or_author": "Giusti(재킷 제작, 소장 표기) / Australian War Memorial(해설)",
+    "publication_date": "재킷 제작 약 1939–1943, 해설 작성일 미상",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "AWM REL44464 / C1278296",
+    "locator": "History / Summary의 132 Armoured Division 및 M40 Semovente",
+    "url": "https://www.awm.gov.au/collection/C1278296",
+    "accessed_at": "2026-11-17T00:57:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북아프리카의 이탈리아 제132기갑사단과 M40 Semovente를 연결한 소장 해설을 확인했다."
+    ],
+    "limitations": [
+      "재킷 자체의 소장 기록에 포함된 부대사 설명이다. 특정 차량 차대번호·운용 날짜·수치를 입증하지 않는다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용. 소장 이미지 또는 본문을 복제하지 않았다.",
+    "independence_group": "AWM REL44464 curatorial context"
+  },
+  {
+    "id": "CAT-IT-SRC-0026",
+    "title": "Il veicolo ruotato per la fanteria italiana",
+    "institution_or_author": "Fulvio Poli / Rivista Militare (Esercito Italiano)",
+    "publication_date": "2002, 제3호",
+    "source_type": "secondary",
+    "document_or_accession_number": "Rivista Militare 2002 n. 3",
+    "locator": "인쇄 92쪽, 「La seconda guerra mondiale」 Fiat 665 NM 두 문단",
+    "url": "https://www.esercito.difesa.it/assets/allegati/rivista_militare_2002_-_numero_3.2026.05.04.20.52.51.259.pdf",
+    "accessed_at": "2026-11-17T00:57:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 공동 개발, 기본형의 중량·수용·동력·속도·무장 구성, 발칸 운용과 1943-04-30 복무 현황 110대 표기를 확인했다."
+    ],
+    "limitations": [
+      "후대 연구다. 110대의 부대·형식별 원장과 58 km/h의 주행 시험 조건은 미확인이다. 병력 휴대 화기도 서술에 들어 있다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용. 소장 이미지 또는 본문을 복제하지 않았다.",
+    "independence_group": "Poli wheeled Italian infantry vehicles"
+  },
+  {
+    "id": "CAT-IT-SRC-0027",
+    "title": "Rapporti fra industria bellica ed esercito",
+    "institution_or_author": "Lucio Ceva / Commissione Italiana di Storia Militare",
+    "publication_date": "1992",
+    "source_type": "secondary",
+    "document_or_accession_number": "L’Italia in guerra, il secondo anno – 1941, 편집 R. H. Rainero·A. Biagini",
+    "locator": "인쇄 235쪽, FIAT 665 방호형 요청과 1942년 인도 문장",
+    "url": "https://www.difesa.it/assets/allegati/39410/02_convegno1991_italia_in_guerra_secondo_anno1941.pdf",
+    "accessed_at": "2026-11-17T00:57:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 FIAT 665 방호형 요청과 1942년 소량 인도의 서술을 확인했다."
+    ],
+    "limitations": [
+      "요청·인도의 연구자 서술이다. 1943년 당시의 110대 집계나 개별 부대·차량 인도일을 별도 확인해 주지 않는다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용. 소장 이미지 또는 본문을 복제하지 않았다.",
+    "independence_group": "Ceva military industry and army"
   }
 ]

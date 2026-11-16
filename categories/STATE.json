@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 97,
-  "CAT_VISITED_COUNT": 96,
-  "CAT_LAST_JOB_ID": "CAT-IT-01",
+  "CAT_NEXT_STEP": 98,
+  "CAT_VISITED_COUNT": 97,
+  "CAT_LAST_JOB_ID": "CAT-IT-02",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-16T23:16:40+09:00",
-  "note": "이탈리아 01 전차 부분 조사 저장. 첫 방문 95/133, 다음 CAT-IT-02."
+  "updated_at": "2026-11-17T00:57:26+09:00",
+  "note": "이탈리아 02 비전차 기갑장비 부분 조사 저장. 첫 방문 96/133, 다음 CAT-IT-03."
 }
