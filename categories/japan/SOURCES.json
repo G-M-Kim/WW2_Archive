@@ -3030,5 +3030,150 @@
     ],
     "rights": "© 2017 日本産業技術史学会. 공개 열람 자료의 자체 요약과 링크만 사용.",
     "independence_group": "Yasuda chloroprene study"
+  },
+  {
+    "id": "CAT-JP-SRC-0146",
+    "title": "官営企業都市八幡の財政構造（Ⅰ）―1896–1934年―",
+    "institution_or_author": "時里奉明 (Noriaki Tokisato) / 筑紫女学園大学研究紀要 17",
+    "publication_date": "2022",
+    "source_type": "secondary",
+    "document_or_accession_number": "대학 기관리포지터리 1094 / NDL I033040544",
+    "locator": "pp.2–3, 표 1 1938·1939년 행 및 출전",
+    "url": "https://chikushi-u.repo.nii.ac.jp/record/1094/files/kiyou_P01-17.pdf",
+    "accessed_at": "2026-11-16T15:01:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연구의 표 1에서 야하타제철소 종업원과 강재 생산 연도별 값을 대조했다."
+    ],
+    "limitations": [
+      "시사·현 통계·제철소 사사에서 재구성한 계열이다. 시설별 분해, 연도 내 인원 기준일, 도요제철 포함 여부는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Tokisato Yawata statistical synthesis"
+  },
+  {
+    "id": "CAT-JP-SRC-0147",
+    "title": "九州製鉄所",
+    "institution_or_author": "日本製鉄株式会社",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「九州製鉄所 沿革」 八幡 지구 1930·1934·1938년 행",
+    "url": "https://www.nipponsteel.com/company/publications/works_brochure/kyushu.pdf",
+    "accessed_at": "2026-11-16T15:01:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "히가시다·구키오카·도요제철을 나누어 제시한 1938년 고로 구성과 설립 연혁을 확인했다."
+    ],
+    "limitations": [
+      "현 기업의 회고 연혁이다. 1939년 당일의 가동이나 제철소 면적과 구역별 작업 능력은 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Nippon Steel Kyushu corporate history"
+  },
+  {
+    "id": "CAT-JP-SRC-0148",
+    "title": "広畑製鉄所30年史",
+    "institution_or_author": "広畑製鉄所創業30周年記念事業推進委員会 / 渋沢栄一記念財団",
+    "publication_date": "1970-09",
+    "source_type": "secondary",
+    "document_or_accession_number": "渋沢社史DB 4720 / A251",
+    "locator": "기본정보 및 디지털 전사 연표 p.6 1939년 5–8월, p.7 1939년 9–10월",
+    "url": "https://shashi.shibusawa.or.jp/details_nenpyo.php?class=&d=all&page=6&query=&sid=4720",
+    "accessed_at": "2026-11-16T15:01:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공사 장소와 처음 입항·부속설비 가동·고로 건조 및 10월 첫 화입·출선을 날짜별로 확인했다."
+    ],
+    "limitations": [
+      "자료는 전후 공장사의 공개 연표 전사다. 내역을 뒷받침한 공사일지와 원책 접지 도면은 열람하지 못했다."
+    ],
+    "rights": "© 渋沢栄一記念財団의 공개 전사. 한국어 요약과 링크만 사용.",
+    "independence_group": "Hirohata works 30-year chronology",
+    "additional_urls": [
+      "https://shashi.shibusawa.or.jp/details_basic.php?sid=4720",
+      "https://shashi.shibusawa.or.jp/details_nenpyo.php?class=&d=all&page=7&query=&sid=4720",
+      "https://www.nipponsteel.com/works/setouchi/hirohata/outline/"
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0149",
+    "title": "高炉技術の系統化",
+    "institution_or_author": "彼島秀雄 (Hideo Kanoshima) / 国立科学博物館 産業技術史資料情報センター",
+    "publication_date": "2010-03",
+    "source_type": "secondary",
+    "document_or_accession_number": "技術の系統化調査報告 第15集",
+    "locator": "pp.104–105 §5.1, 제철사업법·일본제철 설비 확충 단락",
+    "url": "https://sts.kahaku.go.jp/albums/abm.php?d=6689&f=abm00010767.pdf&n=061.pdf",
+    "accessed_at": "2026-11-16T15:01:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "히로하타의 건설계획 선철 규모와 제1고로 1939년 10월 가동을 확인했다."
+    ],
+    "limitations": [
+      "설비 계획과 후대 기술사 정리다. 첫 출선량은 공장사 자료에서 따로 읽었다. 다른 제철소의 연호-서기 병기 오기는 본문 수치에 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "National Museum of Nature and Science blast furnace history"
+  },
+  {
+    "id": "CAT-JP-SRC-0150",
+    "title": "태평양전쟁기 計劃造船과 식민지 造船工業",
+    "institution_or_author": "배석만 / 국사편찬위원회 國史館論叢 107",
+    "publication_date": "2005",
+    "source_type": "secondary",
+    "document_or_accession_number": "한국사DB kn_107_0110",
+    "locator": "pp.14–15 본문 및 p.14 주 44·47 표",
+    "url": "https://db.history.go.kr/download.do?fileName=kn_107_0110.pdf&levelId=kn_107_0110",
+    "accessed_at": "2026-11-16T15:01:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "겸이포의 가동·일본제철 편입·전시 조선용 강재 공급 및 1938·1939년 강재 실적표를 확인했다."
+    ],
+    "limitations": [
+      "표는 1959년 회사사 p.570을 인용한다. 이 연간 계열을 개전일의 가동이나 설비능력으로 환산하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Bae colonial shipbuilding and Kenjiho research"
+  },
+  {
+    "id": "CAT-JP-SRC-0151",
+    "title": "겸이포제철소 (兼二浦製鐵所)",
+    "institution_or_author": "배석만 / 한국학중앙연구원 한국민족문화대백과사전",
+    "publication_date": "2023-11-06 최종수정",
+    "source_type": "secondary",
+    "document_or_accession_number": "E0077988",
+    "locator": "설립목적·연원 및 변천·기능과 역할·현황",
+    "url": "https://encykorea.aks.ac.kr/Article/E0077988",
+    "accessed_at": "2026-11-16T15:01:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "식민지 황해도의 공장과 1934년 일본제철 분공장 편입, 전시 조선용 공급 및 현대 대응 명칭을 확인했다."
+    ],
+    "limitations": [
+      "같은 연구자의 논문과 독립된 생산통계로 세지 않았다. 초기 설비를 1939년 가동 설비로 적용하지 않았다."
+    ],
+    "rights": "한국학중앙연구원 공개 해제. 자체 요약과 링크만 사용.",
+    "independence_group": "Bae colonial shipbuilding and Kenjiho research"
+  },
+  {
+    "id": "CAT-JP-SRC-0152",
+    "title": "日本製鐵株式會社史：1934–1950",
+    "institution_or_author": "日本製鐵株式會社史編集委員会 / 渋沢栄一記念財団",
+    "publication_date": "1959-04",
+    "source_type": "secondary",
+    "document_or_accession_number": "渋沢社史DB 4940",
+    "locator": "디지털 전사 연표 p.14, 1936년 9월 행, 원책 p.636 참조",
+    "url": "https://shashi.shibusawa.or.jp/details_nenpyo.php?class=&d=all&page=14&query=&sid=4940",
+    "accessed_at": "2026-11-16T15:01:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "겸이포 공장의 강변 매립과 하역설비 준공 행을 확인했다."
+    ],
+    "limitations": [
+      "공개 연표를 대조했다. 원책 p.636의 현장 내역·하역 정격, p.570의 강재 실적 원표는 직접 읽지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Nippon Seitetsu 1934–1950 corporate history"
   }
 ]

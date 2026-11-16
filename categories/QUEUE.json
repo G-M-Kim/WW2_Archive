@@ -1278,10 +1278,11 @@
     "category_number": 16,
     "category": "개전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/japan/16-industrial-centers-start.md",
-    "status": "pending",
-    "run_record": null,
+    "status": "partial",
+    "run_record": "categories/runs/CAT-JP-16.json",
     "step": 92,
-    "planned_at": "2026-11-16T11:30:00+09:00"
+    "planned_at": "2026-11-16T11:30:00+09:00",
+    "completed_at": "2026-11-16T15:01:55+09:00"
   },
   {
     "job_id": "CAT-JP-17",
