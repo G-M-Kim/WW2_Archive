@@ -190,3 +190,4 @@
 
 | 2026-11-16 | forward | 1943-04-12..1943-04-18 | 1943-04-12 | 1943-04-19 | 0/1/0 | 3689/2147/1249 | source-audit-1943-apr12-18-batch1.md | 기존 EVT-0173 카틴 발표·EVT-0174 야마모토 요격 보강; 신규 NHHC 상세 전사 SRC-2147. 기존 RQ-0003/0007 backfill. 로컬 전체 validator 미실행, 원격 CI 확인 필요 |
 | 2026-11-17 | forward | 1943-04-19..1943-04-25 | 1943-04-19 | 1943-04-26 | 0/3/0 | 3689/2150/1249 | source-audit-1943-apr19-25-batch1.md | 기존 바르샤바 게토 봉기 EVT-0175 보강, USHMM·POLIN·Yad Vashem 당대 보고 SRC-2148~2150. RQ-0003/0007 및 WORK_STATE BACKFILL_QUEUE로 타전역·개별 전투 후속. 로컬 validator 미실행; 게시 SHA CI 확인 필요 |
+| 2026-11-17 | forward | 1943-04-26..1943-05-02 | 1943-04-26 | 1943-05-03 | 1/1/0 | 3690/2151/1249 | source-audit-1943-apr26-may02-batch1.md | 미 제34사단 609고지 정상 진입 EVT-3690/SRC-2125, 기존 민스미트 EVT-0176 보강 및 SRC-2151. 타전역·원전 RQ-0003/RQ-0007 BACKFILL_QUEUE. 로컬 validator 미실행, 게시 SHA CI 확인 필요 |
