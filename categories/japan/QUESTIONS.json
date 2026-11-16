@@ -816,5 +816,46 @@
     ],
     "evidence": "1939년 검사 통지와 이전 기록, 종전 당시 분리 집계를 확인했다.",
     "completion_condition": "당시 항공대 배치도·비행 및 시설 대장을 대조한다. 기타 내지와 식민지·점령지의 육·해군 항공거점은 지위별로 추가 확인한다."
+  },
+  {
+    "id": "CAT-JP-RQ-0060",
+    "status": "open",
+    "question": "구레 조선 선거의 1939년 원치수와 준공 범위는 어디까지인가?",
+    "related_ids": [
+      "CAT-JP-GEO-0023",
+      "CAT-JP-SRC-0167",
+      "CAT-JP-SRC-0168",
+      "CAT-JP-SRC-0169",
+      "CAT-JP-SRC-0177"
+    ],
+    "evidence": "개조량·야마토 건조 시기와 선거 용도를 대조했다. JACAR C05035232400 문서 페이지는 403이었다.",
+    "completion_condition": "개조 명령 원문과 준공검사도, 1939년 입거·수리·정박·보급 장부를 같은 경계로 대조한다."
+  },
+  {
+    "id": "CAT-JP-RQ-0061",
+    "status": "open",
+    "question": "마이즈루의 요항부 시기 공간 경계와 두 창고의 1939년 용도·처리량은 무엇인가?",
+    "related_ids": [
+      "CAT-JP-GEO-0024",
+      "CAT-JP-SRC-0170",
+      "CAT-JP-SRC-0171",
+      "CAT-JP-SRC-0172",
+      "CAT-JP-SRC-0173"
+    ],
+    "evidence": "1939년 행정 개편 및 창고의 건축면적과 관리 변경을 확인했다.",
+    "completion_condition": "요항과 군항 경계 도면, 당시 공창 대장·창고별 재고 및 입출고 문서를 대조한다."
+  },
+  {
+    "id": "CAT-JP-RQ-0062",
+    "status": "open",
+    "question": "요코스카의 1939년 운용 선거, 접안 및 수리·보급 능력은 어느 범위까지 복원할 수 있는가?",
+    "related_ids": [
+      "CAT-JP-GEO-0025",
+      "CAT-JP-SRC-0174",
+      "CAT-JP-SRC-0175",
+      "CAT-JP-SRC-0176"
+    ],
+    "evidence": "기존 선거와 1940년 증설, 1945년 진주를 분리해 기록했다.",
+    "completion_condition": "선거별 개조·검사·입거 장부와 비교구간을 확보한다. 사세보 및 외지·위임통치령·점령지의 사례를 지위별로 추가 조사한다."
   }
 ]

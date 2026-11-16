@@ -3489,5 +3489,223 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "Tokorozawa City Library historical essay"
+  },
+  {
+    "id": "CAT-JP-SRC-0167",
+    "title": "特別企画展 大和戦艦大和展 —新発見による艦橋復元—",
+    "institution_or_author": "呉市海事歴史科学館（大和ミュージアム）",
+    "publication_date": "2013–2014 전시",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「SHIP BUILDING　ものづくりをたどる」 첫 문단",
+    "url": "https://yamato-museum.com/press/wp-content/uploads/tk_2013.pdf",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공창 설비, 기존 도크 개조와 바닥 굴착 1 m, 1937년 야마토 기공을 확인했다."
+    ],
+    "limitations": [
+      "후대 전시 해설. 도크 최종 수심·군항 총 처리능력 및 당일 작업일지는 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Kure Maritime Museum"
+  },
+  {
+    "id": "CAT-JP-SRC-0168",
+    "title": "呉のおはなし❽ 戦艦「大和」の建造",
+    "institution_or_author": "呉市海事歴史科学館（大和ミュージアム）",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「大和」 및 「ひみつの戦艦『大和』」",
+    "url": "https://yamatomuseum.securesite.jp/annex/?page_id=3169",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "구레공창에서 1941-12-16 준공과 조선 선거 이용 서술을 확인했다."
+    ],
+    "limitations": [
+      "0167과 같은 박물관 계통이다. 1939년 실측·운영량에 대한 독립 증거로 간주하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Kure Maritime Museum"
+  },
+  {
+    "id": "CAT-JP-SRC-0169",
+    "title": "歴史の見える丘",
+    "institution_or_author": "呉市",
+    "publication_date": "2018-04-01 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「歴史の見える丘」 및 「造船船渠記念碑」",
+    "url": "https://www.city.kure.lg.jp/soshiki/67/m000050.html?iref=pc_extlink",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "옛 진수부 청사와 야마토 조선 선거의 구분, 선거 매립과 기념물 조성을 확인했다."
+    ],
+    "limitations": [
+      "후대 유적 해설이다. 옛 군항의 법적 경계나 전시 도크 가동 수치는 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Kure municipal heritage"
+  },
+  {
+    "id": "CAT-JP-SRC-0170",
+    "title": "舞鶴鎮守府",
+    "institution_or_author": "国立公文書館 アジア歴史資料センター",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「解説」 및 「参考資料」",
+    "url": "https://www.jacar.go.jp/exhibition/glossary/term3/0010-0080-0110-0110.html",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936-07-01 공창 복구, 1939-12-01 진수부 복귀를 확인했다."
+    ],
+    "limitations": [
+      "후대 기록관 해제이며 인용 문헌의 페이지 위치가 있다. 개편 시점은 해군공보와 대조했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JACAR glossary citing Iizuka"
+  },
+  {
+    "id": "CAT-JP-SRC-0171",
+    "title": "海軍公報（部内限）第三千三百七十三號",
+    "institution_or_author": "日本 海軍省 / JACAR",
+    "publication_date": "1939-12-01",
+    "source_type": "primary",
+    "document_or_accession_number": "제3373호 / JACAR C12070382200",
+    "locator": "인쇄 pp. 1191·1194–1195, 官房機密第6765號ノ二 및 군수·회계 규정 개정",
+    "url": "https://www.jacar.archives.go.jp/acv/contents/pub/pdf/C12/C12070382200.c1060e00009.0hourei_14_024.1191_01.pdf",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "해군공보 PDF 판독문에서 진수부 표기와 요항부 관련 문구의 삭제·개정을 확인했다."
+    ],
+    "limitations": [
+      "개정 문서이며 9월의 도크·보급 실적과 개편 전후 시설 경계의 실측은 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Imperial Japanese Navy internal gazette"
+  },
+  {
+    "id": "CAT-JP-SRC-0172",
+    "title": "国指定重要文化財建造物 舞鶴旧鎮守府倉庫施設 保存活用計画",
+    "institution_or_author": "舞鶴市",
+    "publication_date": "2021-03",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제1장 §1-2(2) 및 표 1.3.1–2",
+    "url": "https://www.city.maizuru.kyoto.jp/cmsfiles/contents/0000008/8823/sankou_3.pdf",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "창고 두 동의 건축면적·준공·1923년 소관 변경을 확인했다."
+    ],
+    "limitations": [
+      "문화재 실태 조사와 연혁의 정리다. 1939년 실측·저장능력·입출고량은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Maizuru conservation plan"
+  },
+  {
+    "id": "CAT-JP-SRC-0173",
+    "title": "舞鶴旧鎮守府倉庫施設 舞鶴海軍兵器廠魚形水雷庫",
+    "institution_or_author": "文化庁 国指定文化財等データベース",
+    "publication_date": "2008-06-09 지정",
+    "source_type": "secondary",
+    "document_or_accession_number": "지정번호 02528 / 102/00004276",
+    "locator": "각 동 정보, 연대·구조 및 형식·해설",
+    "url": "https://kunishitei.bunka.go.jp/heritage/detail/102/00004276",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "어형수뢰고의 1903년 및 건축면적 424.36 m²를 시 계획과 대조했다."
+    ],
+    "limitations": [
+      "두 기관 자료 모두 문화재 지정 기록과 관련된다. 독립 실측 여부는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Agency for Cultural Affairs heritage designation"
+  },
+  {
+    "id": "CAT-JP-SRC-0174",
+    "title": "横須賀製鉄所（造船所）と近代横須賀のゆかりの場所",
+    "institution_or_author": "横須賀市",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「ドライドック」 일람표 제1–6호 및 제6호 해설",
+    "url": "https://www.city.yokosuka.kanagawa.jp/2120/seitetsuzyo/documents/yokosuka_arsenal_ver20161220.pdf",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제1–5호 준공 연도, 제6호의 1935년 착공·1940년 준공과 시나노 건조를 표 및 해설에서 확인했다."
+    ],
+    "limitations": [
+      "일람표는 미 해군 제공 자료를 바탕으로 정리했다. 치수의 측정 시점과 1939년 가동은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Yokosuka municipal survey brochure"
+  },
+  {
+    "id": "CAT-JP-SRC-0175",
+    "title": "実物と図面が日本遺産－横須賀製鉄所の石造ドック",
+    "institution_or_author": "菊地 / 横須賀市自然・人文博物館",
+    "publication_date": "2017-09-28",
+    "source_type": "secondary",
+    "document_or_accession_number": "石井穎一郎氏寄贈近代造船所建築図面資料(소장군)",
+    "locator": "본문 석조 도크 및 소장 도면 단락",
+    "url": "https://www.museum.yokosuka.kanagawa.jp/archives/nature-history/24890",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제1·3·2호의 1871·1874·1884년 준공과 원도면 소장 정보를 확인했다."
+    ],
+    "limitations": [
+      "도면은 소장 정보까지만 확인했다. 공창 전체의 1939년 제원과 개수 기록은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Yokosuka museum architectural history"
+  },
+  {
+    "id": "CAT-JP-SRC-0176",
+    "title": "本州の横須賀への最初の占領軍の到着　1945年8月 (소장 목록)",
+    "institution_or_author": "昭和館 / 원촬영 미 해병대, NARA",
+    "publication_date": "1945-08-30 촬영일 표기, 목록 작성일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "V1R0101201540 / NARA 127-R-2513",
+    "locator": "목록 「撮影年月」 및 「内容」의 8월 30일과 9월 2일 구분",
+    "url": "https://search.showakan.go.jp/search/video/detail.php?id=90148851",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "8월 30일 요코스카 군항 진주를 적은 소장 목록을 열었다."
+    ],
+    "limitations": [
+      "웹의 자료 해제만 확인했다. 필름 프레임·타임코드는 미확인이다."
+    ],
+    "rights": "자료 이용은 쇼와관의 영상·음향 이용 안내를 따른다. 소장 목록 링크만 사용.",
+    "independence_group": "Showakan catalog of USMC film"
+  },
+  {
+    "id": "CAT-JP-SRC-0177",
+    "title": "第1059号 11.4.20 呉海軍工廠造船部造船船渠改設工事要領変更の件",
+    "institution_or_author": "日本 海軍省 / 防衛省防衛研究所・JACAR",
+    "publication_date": "1936-04-20 (색인 표기)",
+    "source_type": "primary",
+    "document_or_accession_number": "官房機密第1059号 / JACAR C05035232400",
+    "locator": "검색 색인의 제목·문서번호까지만 식별, 본문 위치 미확인",
+    "url": "https://www.jacar.archives.go.jp/das/meta/C05035232400",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "JACAR 문서 주소 HTTP 403 및 이미지 보기 주소 접근 불가. 명령 본문·별지는 미열람이다."
+    ],
+    "rights": "원문 이미지 미열람으로 개별 이용조건 미확인. 기록 주소만 연결.",
+    "independence_group": "Imperial Japanese Navy construction order"
   }
 ]
