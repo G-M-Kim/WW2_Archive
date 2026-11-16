@@ -189,3 +189,4 @@
 | 2026-11-16 | forward | 1943-04-05..1943-04-11 | 1943-04-05 | 1943-04-12 | 2/4/1 | 3689/2146/1249 | source-audit-1943-apr05-11-batch1.md | 와디 아카리트 공세·볼리비아 전쟁상태 선언, FRUS·Hansard·미 육군 공식 연표; RQ-1249 법적 지위, RQ-0003/0007 타전역 BACKFILL_QUEUE. 로컬 validator 미실행; CI 확인 필요 |
 
 | 2026-11-16 | forward | 1943-04-12..1943-04-18 | 1943-04-12 | 1943-04-19 | 0/1/0 | 3689/2147/1249 | source-audit-1943-apr12-18-batch1.md | 기존 EVT-0173 카틴 발표·EVT-0174 야마모토 요격 보강; 신규 NHHC 상세 전사 SRC-2147. 기존 RQ-0003/0007 backfill. 로컬 전체 validator 미실행, 원격 CI 확인 필요 |
+| 2026-11-17 | forward | 1943-04-19..1943-04-25 | 1943-04-19 | 1943-04-26 | 0/3/0 | 3689/2150/1249 | source-audit-1943-apr19-25-batch1.md | 기존 바르샤바 게토 봉기 EVT-0175 보강, USHMM·POLIN·Yad Vashem 당대 보고 SRC-2148~2150. RQ-0003/0007 및 WORK_STATE BACKFILL_QUEUE로 타전역·개별 전투 후속. 로컬 validator 미실행; 게시 SHA CI 확인 필요 |
