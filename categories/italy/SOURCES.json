@@ -720,5 +720,165 @@
     ],
     "rights": "사진 재사용 조건 미확인. 이미지 재업로드 없이 소장 링크만 사용.",
     "independence_group": "Fraccaroli Aquila August 1943 photographs"
+  },
+  {
+    "id": "CAT-IT-SRC-0037",
+    "title": "Italian Civil and Military Aircraft 1930–1945",
+    "institution_or_author": "Jonathan W. Thompson / Aero Publishers",
+    "publication_date": "1963",
+    "source_type": "secondary",
+    "document_or_accession_number": "Library of Congress Catalog Card No. 63-17621",
+    "locator": "PDF 표제·판권 페이지와 인쇄 189–191쪽 MC.202, 265–269쪽 SM.79 본문·사진 설명",
+    "url": "https://www.gruppofalchi.com/files/1963-Italian_Civil_and_Military_Aircraft_1930-45.pdf",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "C.202 시제·생산·무장과 속도, S.79 시제·폭격·뇌격형의 구분과 형식별 무장·속도를 확인했다."
+    ],
+    "limitations": [
+      "후대 연구의 공개 스캔이다. 형식 또는 엔진이 다른 기체에 제원을 적용하지 않았다. 원 시험표와 하중, 무장 장착 시기별 생산표는 미확인이다."
+    ],
+    "rights": "판권 페이지에 재생산 제한이 명시돼 있다. 자체 요약과 열람 링크만 사용.",
+    "independence_group": "Thompson 1963 aircraft history"
+  },
+  {
+    "id": "CAT-IT-SRC-0038",
+    "title": "Pantelleria: recuperato in mare un Macchi C.202 della Seconda Guerra Mondiale inabissato nel 1943",
+    "institution_or_author": "Distaccamento Aeroportuale Pantelleria / Aeronautica Militare",
+    "publication_date": "2023-06-29",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「La storia del velivolo Macchi C.202」 및 인양 기사 도입부",
+    "url": "https://www.aeronautica.difesa.it/news/pantelleria-recuperato-in-mare-un-macchi-c-202-della-seconda-guerra-mondiale-inabissato-nel-1943/",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "왕립공군 C.202 생산 기간, 엔진 면허생산, 기본 및 일부 후속 계열의 기관총 구성을 확인했다."
+    ],
+    "limitations": [
+      "전시 사실은 기관의 사후 해설이다. 인양 기체를 별도 형식·엔진 조합으로 적은 부분은 인양품 식별 보고서와 대조할 때까지 일반 C.202 제원에 적용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "Aeronautica Militare Pantelleria recovery and background"
+  },
+  {
+    "id": "CAT-IT-SRC-0039",
+    "title": "Fuka, Egypt. Italian Macchi C.202 fighter plane found wrecked on Fuka airfield",
+    "institution_or_author": "촬영자 미기재 / Australian War Memorial",
+    "publication_date": "1942-11-13 (소장 해제)",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM 025280 / C9045",
+    "locator": "공개 원사진과 Accession Number·Description",
+    "url": "https://www.awm.gov.au/collection/C9045",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이집트 푸카의 파손 기체 사진과 1942-11-13 C.202로 식별한 소장 해제를 확인했다."
+    ],
+    "limitations": [
+      "정확한 생산 계열, 무장 상태, 파손 원인과 해당 기체의 시험 조건은 증명하지 않는다."
+    ],
+    "rights": "호주전쟁기념관의 저작권 만료·퍼블릭 도메인 표기를 확인했다. 소장 링크만 사용.",
+    "independence_group": "AWM 025280 wartime Fuka photo"
+  },
+  {
+    "id": "CAT-IT-SRC-0040",
+    "title": "La seconda guerra mondiale: piloti di aerosiluranti",
+    "institution_or_author": "Lorenzo Gardumi·Federica Lavagna(전시 기획) / Museo Caproni·Fondazione Museo storico del Trentino",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "전시 해설의 첫 두 단락",
+    "url": "https://mostre.museocaproni.it/sala/sottosezione/seconda-guerra-mondiale-aerosiluranti/",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "민수 개념, 중형 폭격 및 지중해 뇌격 역할을 확인했다."
+    ],
+    "limitations": [
+      "출격별 기체 형식, 수량, 어뢰 탑재와 전과는 검증하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "Museo Caproni virtual exhibition Oggi si vola"
+  },
+  {
+    "id": "CAT-IT-SRC-0041",
+    "title": "North Africa. British personnel inspecting a captured Italian Air Force Savoia Marchetti SM 79 bomber aircraft",
+    "institution_or_author": "B. Craike / Australian War Memorial, Naval Historical Collection",
+    "publication_date": "1940 (소장 해제)",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM 306709 / C261255",
+    "locator": "공개 원사진과 Accession Number·Maker·Description",
+    "url": "https://www.awm.gov.au/collection/C261255",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 북아프리카의 노획 S.79 폭격기와 영국 인원 사진 및 소장 해제를 확인했다."
+    ],
+    "limitations": [
+      "정확한 날짜·장소, 하위 형식, 촬영 시 실제 무장 탑재 상태가 명시되지 않는다."
+    ],
+    "rights": "호주전쟁기념관의 저작권 만료·퍼블릭 도메인 표기를 확인했다. 소장 링크만 사용.",
+    "independence_group": "AWM 306709 wartime North Africa photo"
+  },
+  {
+    "id": "CAT-IT-SRC-0042",
+    "title": "SIAI S.82",
+    "institution_or_author": "Aeronautica Militare",
+    "publication_date": "2026-06-11 (웹 공개 경로)",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "본문 첫 두 단락과 「Dati Tecnici」",
+    "url": "https://www.aeronautica.difesa.it/2026/06/11/siai-s-82/",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "수송용 화물칸, 1940년 운용 개시 표기, RC18 엔진, 날개폭·최대이륙중량·최대속도를 확인했다."
+    ],
+    "limitations": [
+      "현대의 기관 해설이다. 최대속도·항속거리 조건 및 전시 생산 계열을 특정하지 않는다. 주문 수량은 인수·가동 수량으로 인용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "Aeronautica Militare historical aircraft catalogue"
+  },
+  {
+    "id": "CAT-IT-SRC-0043",
+    "title": "Italian SM-82",
+    "institution_or_author": "Military Intelligence Division / U.S. War Department",
+    "publication_date": "1943-10-07",
+    "source_type": "primary",
+    "document_or_accession_number": "Tactical and Technical Trends No. 35",
+    "locator": "PDF 표지와 Section I 「1. Italian SM-82」 인쇄 1쪽",
+    "url": "https://www.bulletpicker.com/pdf/Tactical-and-Technical-Trends-35.pdf",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "RC 21 엔진 표기, 고도별 속도, 방어무장 구경·수량, 분해 CR.42 운반 가능성을 적은 당대 미군 보고서를 확인했다."
+    ],
+    "limitations": [
+      "연합군 전시 정보 판단이다. 시험 원본이나 이탈리아 제작사 문서가 없고 해당 기체의 일련번호·하중은 적혀 있지 않다. 실제 노선별 수송량은 확인할 수 없다."
+    ],
+    "rights": "미 전쟁부 보고서의 공개 스캔. 자체 요약과 해당 문서 링크만 사용.",
+    "independence_group": "US War Department contemporary Technical Trends report No 35"
+  },
+  {
+    "id": "CAT-IT-SRC-0044",
+    "title": "La seconda guerra mondiale: piloti e aerei da trasporto",
+    "institution_or_author": "Lorenzo Gardumi·Federica Lavagna(전시 기획) / Museo Caproni·Fondazione Museo storico del Trentino",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "전시 해설의 첫 두 단락",
+    "url": "https://mostre.museocaproni.it/sala/sottosezione/seconda-guerra-mondiale-trasporto/",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940~1941년 그리스·알바니아 전선 공수 지원, 동아프리카의 분해 CR.42 수송을 확인했다."
+    ],
+    "limitations": [
+      "항공대별 원 출항기록과 화물 명부가 제시되지 않는다. 미군 보고서와는 운반 가능 기종이 일치하며 지역별 수송 대수에 대한 독립 집계는 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "Museo Caproni virtual exhibition Oggi si vola"
   }
 ]
