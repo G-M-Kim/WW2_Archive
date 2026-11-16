@@ -2910,5 +2910,125 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "Okinawa Prefectural Archives military government overview"
+  },
+  {
+    "id": "CAT-JP-SRC-0140",
+    "title": "The Effects of Strategic Bombing on Japan’s War Economy",
+    "institution_or_author": "U.S. Strategic Bombing Survey, Over-All Economic Effects Division",
+    "publication_date": "1946-12",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "p.28 표 16, 부표 C-30, pp.135, 140–144, 152–153 부표 C-50, C-54–55, C-65–66",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Effects%20of%20Strategic%20Bombing%20Japanese%20War%20Economy.pdf",
+    "accessed_at": "2026-11-16T12:56:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전체 PDF와 표 이미지를 열어 내지 강괴·완성강·알루미나·잉곳, Inner Zone 원유, 역년 생고무 반입·소비 및 합성고무 생산을 대조했다."
+    ],
+    "limitations": [
+      "종전 직후에 일본 기관 자료를 재편집했다. 고무 원표에는 미터톤 여부가 명기되지 않으며, 원유 표의 Inner Zone과 다른 표의 내지 경계를 동일시하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "USSBS Pacific"
+  },
+  {
+    "id": "CAT-JP-SRC-0141",
+    "title": "The War Against Japanese Transportation 1941–1945",
+    "institution_or_author": "U.S. Strategic Bombing Survey, Transportation Division",
+    "publication_date": "1947-05",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "p.20, Self-Sufficiency Through the “Co-Prosperity Sphere” 절 및 Figure 18 참조 문장",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20War%20Against%20Japanese%20Transportation%201941-1945.pdf",
+    "accessed_at": "2026-11-16T12:56:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "원문에서 동남아 점령지 고무와 네덜란드령 동인도 석유 및 말라야·네덜란드령 동인도 보크사이트 반입의 지리적 맥락을 확인했다."
+    ],
+    "limitations": [
+      "남방 수송의 종전 후 재구성이며 산지별 채굴량·통계 경계는 이 절이 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "USSBS Pacific"
+  },
+  {
+    "id": "CAT-JP-SRC-0142",
+    "title": "Basic Materials Division, Report No. 1c(9), USSBS Index Section 2, part 3",
+    "institution_or_author": "U.S. Strategic Bombing Survey, Basic Materials Division / 일본 국립국회도서관 소장",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "NDL PID 8318180 / Report No. 1c(9)",
+    "locator": "TABLE I 및 각주 (a)–(c)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/NDL8318180_Basic_Materials_Division._Report_No._1c%289%29%2C_USSBS_Index_Section_2_part3.pdf",
+    "accessed_at": "2026-11-16T12:56:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "회계연도 생산 집계에 일본·조선·대만이 포함되며 1942–1945년 잉곳 반입분은 만주에서 왔다는 각주를 대조했다."
+    ],
+    "limitations": [
+      "스캔의 표 I과 각주 범위만 사용했다. 장부의 지역별 수치를 분해하거나 최종 경제부 집계와 중복 합산하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "USSBS Pacific"
+  },
+  {
+    "id": "CAT-JP-SRC-0143",
+    "title": "The Japanese Iron and Steel Industry: A Study of the Magnitude of the Disarmament Problem",
+    "institution_or_author": "U.S. Department of State, Office of Research and Intelligence",
+    "publication_date": "1946-05-20",
+    "source_type": "primary",
+    "document_or_accession_number": "ORI No. 3300 / NDL PID 4010665",
+    "locator": "p.1 표 1과 각주, pp.6–7 §I.E.3–4와 p.6 각주 2",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/NDL4010665_No._3300%2C_20_May_1946%2C_Japanese_iron_and_steel_industry-_Study_of_magnitude_of_disarmamen....pdf",
+    "accessed_at": "2026-11-16T12:56:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "내지 강괴 설비 추계, 크롬광 생산·반입 및 상충치, 텅스텐광 평균 생산·반입을 대조했다."
+    ],
+    "limitations": [
+      "USSBS·폴리 조사단 등과 일부 근거를 공유한다. 1943년 크롬광 반입 수치의 두 원집계 범위와 광석의 품위는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "State Department ORI No. 3300"
+  },
+  {
+    "id": "CAT-JP-SRC-0144",
+    "title": "More Valuable than Gold: Korean Tungsten and the Japanese War Economy, 1910 to 1945",
+    "institution_or_author": "Chad Denton / Seoul Journal of Korean Studies, 서울대학교 규장각한국학연구원",
+    "publication_date": "2013",
+    "source_type": "secondary",
+    "document_or_accession_number": "DOI 10.1353/seo.2013.0023 / KCI ART001849041",
+    "locator": "26(2), pp.361–395 서지와 KCI 공개 초록",
+    "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001849041",
+    "accessed_at": "2026-11-16T12:56:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공개 초록에서 식민지 조선산 텅스텐의 전쟁 말기 기여와 연구에 사용된 광업 보고·통계의 종류를 확인했다."
+    ],
+    "limitations": [
+      "열람 범위는 초록이다. 본문 표와 일본 내지 도착량은 확인하지 않았다."
+    ],
+    "rights": "KCI 공개 서지·초록. 자체 요약과 링크만 사용.",
+    "independence_group": "Denton Korean tungsten study"
+  },
+  {
+    "id": "CAT-JP-SRC-0145",
+    "title": "戦時期日本におけるクロロプレンゴムの国産化",
+    "institution_or_author": "安田裕 (Yutaka Yasuda) / 日本産業技術史学会",
+    "publication_date": "2017-03-30",
+    "source_type": "secondary",
+    "document_or_accession_number": "DOI 10.57381/jshit.21.1_45",
+    "locator": "技術と文明 21(1), pp.45–57, 특히 pp.56–57 결론과 영문 초록",
+    "url": "https://www.jstage.jst.go.jp/article/jshit/21/1/21_45/_pdf/-char/en",
+    "accessed_at": "2026-11-16T12:56:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공장 생산의 실현과 이를 뒷받침하는 동시대 공적 조사·기업 기록을 확인했다."
+    ],
+    "limitations": [
+      "클로로프렌 고무 연구로 합성고무 전체의 연간 생산량 또는 천연고무 반입량을 확증하지 않는다."
+    ],
+    "rights": "© 2017 日本産業技術史学会. 공개 열람 자료의 자체 요약과 링크만 사용.",
+    "independence_group": "Yasuda chloroprene study"
   }
 ]
