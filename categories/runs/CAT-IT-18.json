@@ -1,0 +1,222 @@
+{
+  "job_id": "CAT-IT-18",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 18,
+  "category": "개전 시점 주요 공군기지와 규모(1~10)",
+  "article_path": "categories/italy/18-air-bases-start.md",
+  "status": "partial",
+  "step": 113,
+  "started_at": "2026-11-18T08:50:50+09:00",
+  "completed_at": "2026-11-18T08:56:03+09:00",
+  "base_head": "9adbbd67b374c6862fe30cefb4f6dd7960c2463f",
+  "source_ids": [
+    "CAT-IT-SRC-0066",
+    "CAT-IT-SRC-0107",
+    "CAT-IT-SRC-0122",
+    "CAT-IT-SRC-0153",
+    "CAT-IT-SRC-0154",
+    "CAT-IT-SRC-0155",
+    "CAT-IT-SRC-0156",
+    "CAT-IT-SRC-0157",
+    "CAT-IT-SRC-0158",
+    "CAT-IT-SRC-0159",
+    "CAT-IT-SRC-0160"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0064",
+    "CAT-IT-RQ-0065",
+    "CAT-IT-RQ-0066",
+    "CAT-IT-RQ-0067"
+  ],
+  "entity_ids": [
+    "CAT-IT-GEO-0018",
+    "CAT-IT-GEO-0019",
+    "CAT-IT-GEO-0020"
+  ],
+  "research_scope": "1939-09-01의 구이도니아 본토 군 비행장·DSSE, 식민지 리비아 카스텔 베니토와 벵가지 베르카 대표 사례.",
+  "limitations": [
+    "1939년 당일 시설 정격과 공통 비교 경계는 미확보로 세 곳의 규모 점수·범위는 null이다.",
+    "베르카 세부 착륙장 번호는 미확인이다. 카스텔 베니토 치수는 1943년 2월의 별도 관측이다."
+  ],
+  "evidence_checked": [
+    "1938년 구이도니아 계획도 재수록 범례와 공군·대학 연혁을 확인했다.",
+    "카스텔 베니토 훈련소의 명령 인용과 베르카의 1939년 항공단 이동, 1940년 정비 지원과 1943년 치수를 구분했다.",
+    "1940년 왕국 통계청이 인용한 리비아 네 주의 법적 지위와 실제 시설 운영을 분리했다."
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-IT-GEO-0018",
+      "reference_date": "1939-09-01",
+      "period_name": "Aeroporto Alfredo Barbieri / Guidonia",
+      "modern_name": "현 구이도니아 몬테첼리오",
+      "territorial_status": "이탈리아 왕국 유럽 본토 라치오. 이탈리아 왕국 정부 실효 지배.",
+      "boundary": "로마 인근 몬테첼리오·구이도니아의 당대 군 비행장과 DSSE 실험 구역. 1938년 배치도 범례가 가리키는 역사 범위. 도시 구역 및 현대 비행장 확장은 제외.",
+      "operator": "Regia Aeronautica / DSSE",
+      "operation": "비행시험·연구시설 가동. 1939-09-01 시험·배치·정비량 미확인.",
+      "metrics": [
+        {
+          "metric": "수력시험 갤러리 길이(약)",
+          "value": 500,
+          "unit": "m",
+          "date": "1935년 시설 이전·가동 이후의 시설, 후대 기술 해설",
+          "boundary": "로마 인근 몬테첼리오·구이도니아의 당대 군 비행장과 DSSE 실험 구역. 1938년 배치도 범례가 가리키는 역사 범위. 도시 구역 및 현대 비행장 확장은 제외.",
+          "source_id": "CAT-IT-SRC-0155",
+          "locator": "Fig. 1 항목 1",
+          "capacity_or_actual": "research_facility_not_runway"
+        },
+        {
+          "metric": "계획도에 표시된 모형 공작실",
+          "value": null,
+          "unit": null,
+          "date": "1938",
+          "boundary": "로마 인근 몬테첼리오·구이도니아의 당대 군 비행장과 DSSE 실험 구역. 1938년 배치도 범례가 가리키는 역사 범위. 도시 구역 및 현대 비행장 확장은 제외.",
+          "source_id": "CAT-IT-SRC-0154",
+          "locator": "계획도 범례 항목 5",
+          "capacity_or_actual": "plan_feature"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "연구 시설의 규모는 확인했으나 이착륙장·격납·항공기 정비와 연료 정격의 공통 비교 자료가 없다.",
+      "method_version": "infrastructure-v1",
+      "source_ids": [
+        "CAT-IT-SRC-0153",
+        "CAT-IT-SRC-0154",
+        "CAT-IT-SRC-0155"
+      ]
+    },
+    {
+      "entity_id": "CAT-IT-GEO-0019",
+      "reference_date": "1939-09-01",
+      "period_name": "Aeroporto di Castel Benito",
+      "modern_name": "현 카스르 빈 가시르 권역",
+      "territorial_status": "이탈리아가 실효 지배한 식민지 리비아. 1939년 이탈리아 국내법상 왕국에 편입된 리비아 4개 주의 영역. 유럽 본토와 별도 집계. 트리폴리주.",
+      "boundary": "트리폴리 남쪽 카스르 빈 가시르 인근의 카스텔 베니토 당대 육상 비행장과 낙하산학교. 멜라하·카라만리 비행장은 별도. 개전일 필지 미확인.",
+      "operator": "Regia Aeronautica / Comando Aeronautica della Libia",
+      "operation": "1938년 이후 낙하산학교 활동. 1940년 12월 재정비 거점. 기준일 고정 주둔 기체 및 처리량 미확인.",
+      "metrics": [
+        {
+          "metric": "착륙장 기록상 장변",
+          "value": 2500,
+          "unit": "m",
+          "date": "1943-02-05",
+          "boundary": "트리폴리 남쪽 카스르 빈 가시르 인근의 카스텔 베니토 당대 육상 비행장과 낙하산학교. 멜라하·카라만리 비행장은 별도. 개전일 필지 미확인.",
+          "source_id": "CAT-IT-SRC-0159",
+          "locator": "130~131쪽 Dimensions, 독일 항공사진 유래 수치",
+          "capacity_or_actual": "later_survey"
+        },
+        {
+          "metric": "착륙장 기록상 단변",
+          "value": 1620,
+          "unit": "m",
+          "date": "1943-02-05",
+          "boundary": "트리폴리 남쪽 카스르 빈 가시르 인근의 카스텔 베니토 당대 육상 비행장과 낙하산학교. 멜라하·카라만리 비행장은 별도. 개전일 필지 미확인.",
+          "source_id": "CAT-IT-SRC-0159",
+          "locator": "130~131쪽 Dimensions, 독일 항공사진 유래 수치",
+          "capacity_or_actual": "later_survey"
+        },
+        {
+          "metric": "SRAM 재정비 지원의 정격",
+          "value": null,
+          "unit": null,
+          "date": "1940-12",
+          "boundary": "트리폴리 남쪽 카스르 빈 가시르 인근의 카스텔 베니토 당대 육상 비행장과 낙하산학교. 멜라하·카라만리 비행장은 별도. 개전일 필지 미확인.",
+          "source_id": "CAT-IT-SRC-0158",
+          "locator": "Compass 단락",
+          "capacity_or_actual": "later_function"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "1943년 착륙장 기록은 전시 변화 뒤의 별도 관측이다. 1939년에 대응하는 네 차원 수치와 비교 경계가 없다.",
+      "method_version": "infrastructure-v1",
+      "source_ids": [
+        "CAT-IT-SRC-0156",
+        "CAT-IT-SRC-0158",
+        "CAT-IT-SRC-0159",
+        "CAT-IT-SRC-0160"
+      ]
+    },
+    {
+      "entity_id": "CAT-IT-GEO-0020",
+      "reference_date": "1939-09-01",
+      "period_name": "Aeroporto di Berka (Bengasi)",
+      "modern_name": "현 리비아 벵가지 알바르카 권역",
+      "territorial_status": "이탈리아가 실효 지배한 식민지 리비아. 1939년 이탈리아 국내법상 왕국에 편입된 리비아 4개 주의 영역. 유럽 본토와 별도 집계. 벵가지주.",
+      "boundary": "벵가지의 알바르카 일대에 있는 당대 베르카 항공시설. 1939년 부대 연혁의 ‘Berka’ 수준으로만 식별했고, 번호별 착륙장 및 별도 베니나 시설은 합산하지 않았다.",
+      "operator": "Regia Aeronautica / Comando Aeronautica della Libia",
+      "operation": "제50공격항공단의 1939-07-15 이전은 확인. 기준일 당일의 실제 기체 수 및 번호별 비행장 배치 미확인. 1940년 12월 SRAM 재정비 지원.",
+      "metrics": [
+        {
+          "metric": "제50공격항공단 집결지로 기록된 이전",
+          "value": 1,
+          "unit": "개 항공단",
+          "date": "1939-07-15",
+          "boundary": "벵가지의 알바르카 일대에 있는 당대 베르카 항공시설. 1939년 부대 연혁의 ‘Berka’ 수준으로만 식별했고, 번호별 착륙장 및 별도 베니나 시설은 합산하지 않았다.",
+          "source_id": "CAT-IT-SRC-0157",
+          "locator": "Il 50° Stormo d’Assalto 단락",
+          "capacity_or_actual": "actual_unit_movement"
+        },
+        {
+          "metric": "SRAM 재정비 지원의 정격",
+          "value": null,
+          "unit": null,
+          "date": "1940-12",
+          "boundary": "벵가지의 알바르카 일대에 있는 당대 베르카 항공시설. 1939년 부대 연혁의 ‘Berka’ 수준으로만 식별했고, 번호별 착륙장 및 별도 베니나 시설은 합산하지 않았다.",
+          "source_id": "CAT-IT-SRC-0158",
+          "locator": "Compass 단락",
+          "capacity_or_actual": "later_function"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "1939년 자료의 지명만으로 번호별 물리 시설에 배치를 귀속할 수 없다. 시설 치수·격납·정비·연료 정격과 비교 경계가 없다.",
+      "method_version": "infrastructure-v1",
+      "source_ids": [
+        "CAT-IT-SRC-0157",
+        "CAT-IT-SRC-0158",
+        "CAT-IT-SRC-0159",
+        "CAT-IT-SRC-0160"
+      ]
+    }
+  ],
+  "access_attempts": [
+    "구이도니아 배치도 이미지 렌더링이 실패해 공개 PDF의 범례 텍스트와 후대 연혁을 사용했다.",
+    "육군 학교 연혁과 Rivista Militare 원 PDF 일부는 접속 시간이 초과되어 명령을 각주·단락에 제시한 NAM 논문을 열람했다. 1943년 독일 항공사진 원본은 직접 열람하지 않았다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=113 pending=20; sources=1138 questions=430. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}

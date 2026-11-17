@@ -856,5 +856,55 @@
     ],
     "evidence": "연구표의 12월 28일과 미 외교전보의 12월 31일을 확인했다. 공업시설은 본토 세 곳을 조사했다.",
     "completion_condition": "지역별 군정 인수인계 서명·효력 문서, 추가 후보의 피해·잔존 조사와 동일 업종의 네 차원 비교 기준을 확보한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0064",
+    "status": "open",
+    "question": "구이도니아 군 비행장과 DSSE의 개전일 경계·활주로·격납·정비·보급 규모는 얼마인가?",
+    "related_ids": [
+      "CAT-IT-GEO-0018",
+      "CAT-IT-SRC-0153",
+      "CAT-IT-SRC-0154",
+      "CAT-IT-SRC-0155"
+    ],
+    "evidence": "1938년 배치도 범례와 시험 설비를 확인했다. 축척·준공도 및 항공기 정비 정격은 미확인이다.",
+    "completion_condition": "1938년 원도와 준공도, 비행장 대장과 DSSE 항공기 정비·급유 장부를 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0065",
+    "status": "open",
+    "question": "카스텔 베니토의 1939년 낙하산학교와 비행장 정격은 1943년 조사와 어떻게 달랐는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0019",
+      "CAT-IT-SRC-0156",
+      "CAT-IT-SRC-0158",
+      "CAT-IT-SRC-0159"
+    ],
+    "evidence": "1938년 명령 인용과 1943년 치수의 후대 전재를 확인했다. 1939년 수용력·고정 배치는 미확인이다.",
+    "completion_condition": "Super ASI 명령 원문, 1939년 공항 지적·운용기록과 전시 확장 도면을 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0066",
+    "status": "open",
+    "question": "1939년 제50공격항공단이 옮겨 간 베르카 비행장의 정확한 공간 범위와 시설 정격은 얼마인가?",
+    "related_ids": [
+      "CAT-IT-GEO-0020",
+      "CAT-IT-SRC-0157",
+      "CAT-IT-SRC-0158",
+      "CAT-IT-SRC-0159"
+    ],
+    "evidence": "부대 연혁은 Berka라고만 쓰며, 후대 편찬물은 복수 번호를 구분한다.",
+    "completion_condition": "항공단 일지·지도와 당시 시설 대장에서 착륙장 번호, 배치 및 시설 용량을 분리한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0067",
+    "status": "open",
+    "question": "개전일 시암피노 및 도데카네스 등 다른 대표 기지의 운영과 네 차원 비교 기준은 무엇인가?",
+    "related_ids": [
+      "CAT-IT-SRC-0157",
+      "CAT-IT-SRC-0158"
+    ],
+    "evidence": "선정한 세 곳의 기준일 정격이 부족하며 기타 지역과 기능은 미검사 상태다.",
+    "completion_condition": "1939년 시설 목록·원 도면과 정비·보급 대장에 따라 사례를 추가하고 같은 시점과 단위의 비교 경계를 확보한다."
   }
 ]

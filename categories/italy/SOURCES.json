@@ -3040,5 +3040,165 @@
     ],
     "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
     "independence_group": "MuseoTorino / Comune di Torino"
+  },
+  {
+    "id": "CAT-IT-SRC-0153",
+    "title": "Direzione Superiore Studi ed Esperienze (DSSE)",
+    "institution_or_author": "Aeronautica Militare",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Un viaggio nella storia della ricerca e sperimentazione del volo",
+    "url": "https://www.aeronautica.difesa.it/home/area-museale-aeronautica/direzione-superiore-studi-ed-esperienze-dsse/",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1927년 DSSE 설립 및 구이도니아의 풍동·수조 연구, 1943년 이후의 피해를 확인했다."
+    ],
+    "limitations": [
+      "현대 역사 전시 해설이며 1939년 활주로·항공기 정비 등의 처리량 원표는 없다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Aeronautica Militare"
+  },
+  {
+    "id": "CAT-IT-SRC-0154",
+    "title": "Piano regolatore dell’aeroporto Alfredo Barbieri di Guidonia del 1938",
+    "institution_or_author": "Comune di Guidonia Montecelio, 2023년 사업안에 재수록",
+    "publication_date": "1938",
+    "source_type": "primary_extract",
+    "document_or_accession_number": "현 소장번호 미확인. 재수록 문서 Comune prot. 0133450 (2023-12-20)",
+    "locator": "재수록 문서 5~6쪽, 1938년 계획도의 확인 가능한 텍스트·범례와 편찬자 연혁",
+    "url": "https://presidenza.governo.it/AmministrazioneTrasparente/Sovvenzioni/AttiConcessione/DocAttiConcessione/cncs_13620_13623_SCHEDA_PROGETTO_2302.pdf",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "재수록 텍스트의 1938년 계획도 범례에서 모형 공작실·발전소·로마–술모나 철도를 확인했다. 편찬 연혁에서는 1935년 시설 완공과 1943-09-12 독일군 인계를 확인했다."
+    ],
+    "limitations": [
+      "원 계획도의 실물과 축척·필지 세부 판독은 미확보다. 범례와 후대 문서의 연혁만 사용했다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Comune di Guidonia Montecelio, 2023년 사업안에 재수록"
+  },
+  {
+    "id": "CAT-IT-SRC-0155",
+    "title": "La Direzione Superiore Studi e Esperienze (DSSE) di Guidonia",
+    "institution_or_author": "Sapienza Università di Roma, Scuola di Ingegneria Aerospaziale 공개 자료",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Cenni Storici 및 Le Divisioni e le Sezioni, 연구 구역 도식 Fig. 1의 항목 1",
+    "url": "https://sia.web.uniroma1.it/sites/default/files/allegati/SitoGuidonia.pdf",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1935년 구이도니아 시험시설 이전·가동 맥락과 수력시험 갤러리 약 500m를 확인했다."
+    ],
+    "limitations": [
+      "후대 도해 및 설명이다. 수력시험 갤러리 길이는 이착륙장 치수가 아니다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Sapienza Università di Roma, Scuola di Ingegneria Aerospaziale 공개 자료"
+  },
+  {
+    "id": "CAT-IT-SRC-0156",
+    "title": "Il controllo a lungo raggio del deserto",
+    "institution_or_author": "Basilio Di Martino / Nuova Antologia Militare",
+    "publication_date": "2020",
+    "source_type": "secondary",
+    "document_or_accession_number": "NAM, anno 1, n. 4",
+    "locator": "47쪽, Super ASI 명령 64/S 및 학교 가동 단락",
+    "url": "https://www.tabedizioni.it/web/content/44385",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938-03-24 명령 64/S와 카스텔 베니토의 낙하산학교 운영, 관할 Comando Aeronautica della Libia를 확인했다."
+    ],
+    "limitations": [
+      "명령 원본 전문과 1939-09-01 항공기·시설 원부는 미확보다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Basilio Di Martino / Nuova Antologia Militare"
+  },
+  {
+    "id": "CAT-IT-SRC-0157",
+    "title": "Celebrato 75° anniversario del 50° Stormo",
+    "institution_or_author": "Michele Iacobuono / 50° Stormo, Aeronautica Militare",
+    "publication_date": "2011-06-22",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Il 50° Stormo d’Assalto… 단락",
+    "url": "https://www.aeronautica.difesa.it/news/celebrato-75-anniversario-del-50-stormo/",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-07-15 베르카 이동 및 리비아 항공사령부 관할, 제12·16그룹으로 창설된 부대 연혁을 확인했다."
+    ],
+    "limitations": [
+      "기념 연혁이다. 1939-09-01 가동 기체 수와 베르카 개별 비행장의 번호는 제시하지 않는다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Michele Iacobuono / 50° Stormo, Aeronautica Militare"
+  },
+  {
+    "id": "CAT-IT-SRC-0158",
+    "title": "L’Italia in guerra. Il primo anno 1940 — 학술회의 자료집",
+    "institution_or_author": "Commissione Italiana di Storia Militare / Ministero della Difesa",
+    "publication_date": "1990",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1940-12-09 Compass 단락, ‘riordino generale presso le SRAM’",
+    "url": "https://www.difesa.it/assets/allegati/39412/01_convegno1990_italia_in_guerra_primo_anno1940.pdf",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 12월 항공기 정비·재정비에 사용된 SRAM 가운데 베르카와 카스텔 베니토를 확인했다."
+    ],
+    "limitations": [
+      "1940년 12월의 지원 기록으로 1939년의 정비 대수·용량을 소급할 수 없다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Commissione Italiana di Storia Militare / Ministero della Difesa"
+  },
+  {
+    "id": "CAT-IT-SRC-0159",
+    "title": "Luftwaffe Airfields 1935–45: Libya (Tripolitania & Cyrenaica) & Egypt",
+    "institution_or_author": "Henry L. deZeng IV",
+    "publication_date": "2016-03",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "18–20쪽 Benghasi-Berca와 각 번호, 130–131쪽 Tripoli–Castel Benito Dimensions·Remarks",
+    "url": "https://ww2.dk/Airfields%20-%20Libya%20and%20Egypt.pdf",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "베르카가 복수 착륙장을 가리키는 편찬물의 범위를 확인했다. 카스텔 베니토의 1943-02-05 독일 항공사진 유래 이착륙장 치수 2,500×1,620m와 당시 연합군 통제 설명을 확인했다."
+    ],
+    "limitations": [
+      "후대 민간 편찬이며 원사진을 직접 판독하지 않았다. 1943년 치수는 1939년 또는 포장 활주로의 치수가 아니다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Henry L. deZeng IV"
+  },
+  {
+    "id": "CAT-IT-SRC-0160",
+    "title": "Censimento industriale e commerciale 1937–1940, vol. I, parte I, C) Libia",
+    "institution_or_author": "Istituto Centrale di Statistica del Regno d’Italia",
+    "publication_date": "1940",
+    "source_type": "primary",
+    "document_or_accession_number": "IST0007096, Vol. I, Parte I, C",
+    "locator": "Avvertenze alle tavole, R.D.L. 9 gennaio 1939 n. 70 단락",
+    "url": "https://lipari.istat.it/digibib/Censimenti%20industria/censind%201937/IST0007096Vol1P1TAVINDALIMLIBIA.pdf",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 통계청이 1939년 왕국 영토에 편입된 리비아 네 주로 트리폴리·미수라타·벵가지·데르나를 열거했음을 확인했다."
+    ],
+    "limitations": [
+      "왕국 당국의 공식 설명이다. 식민 통치의 법적·사회적 차이를 지우거나 기지 운영을 입증하지 않는다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Istituto Centrale di Statistica del Regno d’Italia"
   }
 ]
