@@ -2494,3 +2494,6 @@ as_of: 2026-11-04
 
 | SRC-2172 | *PT-109* / 미 해군 Naval History and Heritage Command, DANFS 함정사 | 2차(미 해군 공식 함정사·훈장 표창 인용) | 1943-08-01~02 충돌, 11명 생존·구조 경과 | https://www.history.navy.mil/research/histories/ship-histories/danfs/p/pt-109.html | 2026-11-17 공개 원문 확인. 미국측 기록으로 일본측 전투상보 미대조. 구조 시각·날짜는 원문 별도 정밀대조 필요; 복제 금지 |
 | SRC-2173 | *H-020-2 Central Solomons Campaign* / 미 해군 NHHC, 역사 해설 | 2차(미 해군 공식 역사해설) | 1943-08-01 렌도바 공습 및 8/2 PT-109 충돌·일본군 보급 | https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-020/h-020-2-central-solomons-campaign.html | 2026-11-17 공개 본문 확인. PT 15척 출동·어뢰 30발 발사 서술은 미 해군측 재구성으로 일본측 원전 및 함별 보고 미대조; 복제 금지 |
+
+| SRC-2174 | *FRUS 1943, Conferences at Washington and Quebec*, Document 373 / 미 국무부, 1943-08-14 CCS 회의록 | 1차(당대 회의록) | Document 373, 10:30 회의 | https://history.state.gov/historicaldocuments/frus1943/d373 | 회의 개시·의제 논의 확인. 후속 최종 결정과 구분, 재배포 권리 미확인 |
+| SRC-2175 | *FRUS 1943, Conferences at Washington and Quebec*, Document 205 / CCS 288/3, 1943-08-14 | 1차(당대 회의 의제) | Document 205, CCS 288/3 | https://history.state.gov/historicaldocuments/frus1943/d205 | OVERLORD·POINTBLANK 등 의제 확인, 승인 여부 별도 대조 필요, 재배포 권리 미확인 |
