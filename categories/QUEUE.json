@@ -1518,8 +1518,9 @@
     "category": "당시 영토",
     "article_path": "categories/italy/14-territory.md",
     "planned_at": "2026-11-17T21:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-IT-14.json",
+    "completed_at": "2026-11-18T01:00:13+09:00"
   },
   {
     "step": 110,

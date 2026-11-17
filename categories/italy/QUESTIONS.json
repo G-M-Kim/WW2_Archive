@@ -648,5 +648,54 @@
     ],
     "evidence": "로도스는 동시대 지도 소장 목록과 전후 조약, 트리폴리는 당대 통계연감과 현대 유엔 지명 자료를 대조했다.",
     "completion_condition": "이탈리아·연합군의 원도와 영·프 군정 지명집, 전시 그리스어·아랍어 자료를 확인한다. 나머지 북아프리카·아드리아해 사례를 보완한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0049",
+    "status": "open",
+    "question": "1945년 9월 2일 이탈리아 본토의 군정 잔류지와 북아드리아해의 임시 관할은 어디였는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0001",
+      "CAT-IT-GEO-0006",
+      "CAT-IT-GEO-0007",
+      "CAT-IT-SRC-0109",
+      "CAT-IT-SRC-0110",
+      "CAT-IT-SRC-0120",
+      "CAT-IT-SRC-0121",
+      "CAT-IT-SRC-0122"
+    ],
+    "evidence": "이양 지도와 임시 군정 조항을 확인했다. 카세르타 군사 항복 범위와 전후 양도 조항은 서로 다른 기준이다.",
+    "completion_condition": "1945년 6월 부속 지도와 지역별 이양, 군정 종료 문서의 시군·기준일을 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0050",
+    "status": "open",
+    "question": "알바니아·루블랴나·달마티아의 법령상 귀속과 프랑스·그리스 점령의 실제 경계는 어떻게 달랐는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0010",
+      "CAT-IT-GEO-0011",
+      "CAT-IT-SRC-0068",
+      "CAT-IT-SRC-0118",
+      "CAT-IT-SRC-0119",
+      "CAT-IT-SRC-0124"
+    ],
+    "evidence": "알바니아의 별도 왕관과 내각, 루블랴나의 이탈리아 국내 편입 선언, 일반 점령의 차이를 확인했다.",
+    "completion_condition": "이탈리아 관보 부속도, 달마티아의 협정·법령, 프랑스·그리스 군정 지도를 수집해 시점별 경계를 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0051",
+    "status": "open",
+    "question": "리비아·동아프리카·에게해의 개별 통치 인계 범위와 날짜는 무엇인가?",
+    "related_ids": [
+      "CAT-IT-GEO-0002",
+      "CAT-IT-GEO-0003",
+      "CAT-IT-GEO-0004",
+      "CAT-IT-GEO-0008",
+      "CAT-IT-SRC-0104",
+      "CAT-IT-SRC-0113",
+      "CAT-IT-SRC-0115",
+      "CAT-IT-SRC-0123"
+    ],
+    "evidence": "리비아 군정, 아디스아바바·로도스에서 통치 전환의 대표 시점, 1947년의 권원 처리를 분리했다.",
+    "completion_condition": "에리트레아·이탈리아령 소말릴란드와 에게해 각 섬의 군정 명령·행정 인수 기록을 확인한다."
   }
 ]
