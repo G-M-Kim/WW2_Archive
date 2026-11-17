@@ -1434,8 +1434,9 @@
     "category": "유명한 정치 인물",
     "article_path": "categories/italy/08-political-personnel.md",
     "planned_at": "2026-11-17T09:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-IT-08.json",
+    "completed_at": "2026-11-17T12:53:07+09:00"
   },
   {
     "step": 104,

@@ -366,5 +366,62 @@
     ],
     "evidence": "육군 야전 지휘관, 해군 함대 지휘관, 공군 조종사를 대표 사례로 조사했다.",
     "completion_condition": "추가 인물은 부대 기록과 독립 사료로 확인하고, 왕국군·사회공화국·저항세력 소속과 개별 책임을 시간순으로 기록한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0029",
+    "status": "open",
+    "question": "무솔리니의 참전 결정과 치아노의 외교 통고에 이르기까지 내부 결재와 협의는 어떻게 이루어졌는가?",
+    "related_ids": [
+      "CAT-IT-PER-0004",
+      "CAT-IT-PER-0007",
+      "CAT-IT-SRC-0065",
+      "CAT-IT-SRC-0066",
+      "CAT-IT-SRC-0073"
+    ],
+    "evidence": "외교 답변·공한과 이후 조약 서명은 확인했다. 결정 과정과 각자의 이견은 이 자료로 확정할 수 없다.",
+    "completion_condition": "이탈리아 외무부·왕실의 결재본과 내각 기록을 찾아 일자별로 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0030",
+    "status": "open",
+    "question": "1943년 7월 국왕의 무솔리니 해임·체포 및 바돌리오 임명에 관한 원문과 절차는 무엇인가?",
+    "related_ids": [
+      "CAT-IT-PER-0004",
+      "CAT-IT-PER-0005",
+      "CAT-IT-PER-0006",
+      "CAT-IT-SRC-0068",
+      "CAT-IT-SRC-0069",
+      "CAT-IT-SRC-0070"
+    ],
+    "evidence": "대평의회 표결과 국왕 조치, 바돌리오 내각의 의회 해산을 구분했다.",
+    "completion_condition": "대평의회 의안 원본, 왕실의 인사 문서와 체포 지시를 찾아 각각의 권한과 시점을 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0031",
+    "status": "open",
+    "question": "휴전 서명과 대독 선전포고에서 정부 수반의 위임이 현장에 어떻게 전달됐는가?",
+    "related_ids": [
+      "CAT-IT-PER-0005",
+      "CAT-IT-PER-0006",
+      "CAT-IT-SRC-0071",
+      "CAT-IT-SRC-0072",
+      "CAT-IT-SRC-0074"
+    ],
+    "evidence": "정부 위임 보고와 3국 공개 성명을 읽었다. 위임장과 외교 통고 수령증은 미확인이다.",
+    "completion_condition": "바티칸에 전달한 위임장·마드리드 통고 원문 및 수령 기록을 양쪽 기록관에서 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0032",
+    "status": "open",
+    "question": "반유대인 박해의 중앙정부 결정과 각 지역의 집행 책임을 어떻게 구분할 수 있는가?",
+    "related_ids": [
+      "CAT-IT-PER-0004",
+      "CAT-IT-PER-0005",
+      "CAT-IT-PER-0007",
+      "CAT-IT-SRC-0067",
+      "CAT-IT-SRC-0068"
+    ],
+    "evidence": "왕국 시기의 차별 법제와 독일 점령 이후 이탈리아 사회공화국의 성립을 확인했다.",
+    "completion_condition": "왕국 법령과 사회공화국·독일 당국의 지시·집행 기록을 분리해 비교하고 관련 정치 인물을 추가 검증한다."
   }
 ]

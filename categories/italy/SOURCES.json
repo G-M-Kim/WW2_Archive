@@ -1280,5 +1280,205 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
     "independence_group": "Italian liberation veterans association biographical entry"
+  },
+  {
+    "id": "CAT-IT-SRC-0065",
+    "title": "The Ambassador in Italy (Phillips) to the Secretary of State",
+    "institution_or_author": "William Phillips / U.S. Department of State",
+    "publication_date": "1940-06-01",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1940, vol. II, doc. 831; telegram 445",
+    "locator": "본문 첫 단락 및 독일 동맹 관련 문단",
+    "url": "https://history.state.gov/historicaldocuments/frus1940v02/d831",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "치아노가 무솔리니의 참전 결정과 대독 동맹에 관한 답변을 구두 전달했다는 미국 대사의 보고를 확인했다."
+    ],
+    "limitations": [
+      "보고는 전달받은 구두 답변에 근거한다. 이탈리아 내부 회의록이 아니다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "William Phillips / U.S. Department of State"
+  },
+  {
+    "id": "CAT-IT-SRC-0066",
+    "title": "The Italian Ambassador (Colonna) to the Secretary of State",
+    "institution_or_author": "Ascanio Colonna / U.S. Department of State",
+    "publication_date": "1940-06-11",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1940, vol. II, doc. 835; N. 4901; 740.0011 European War 1939/3710",
+    "locator": "공한 본문, 인쇄 716–717쪽",
+    "url": "https://history.state.gov/historicaldocuments/frus1940v02/d835",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "치아노의 6월 10일 대불·대영 통고와 프랑스에 통고한 발효 시점을 확인했다."
+    ],
+    "limitations": [
+      "이탈리아 대사가 미국에 전한 공한이다. 교전 개시 시각·각국의 현지 반응은 별도 자료가 필요하다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "Ascanio Colonna / U.S. Department of State"
+  },
+  {
+    "id": "CAT-IT-SRC-0067",
+    "title": "Legge 5 gennaio 1939, n. 274 — Conversione in legge del Regio decreto-legge n. 1728",
+    "institution_or_author": "Regno d’Italia / Normattiva",
+    "publication_date": "1939-01-05 (법률), 1939-02-27 (관보)",
+    "source_type": "primary",
+    "document_or_accession_number": "Legge n. 274; 039U0274",
+    "locator": "본조 및 Vittorio Emanuele·Mussolini·Ciano 서명 표기",
+    "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=039U0274&atto.dataPubblicazioneGazzetta=1939-02-27&qId=&tipoDettaglio=originario",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 인종차별 긴급 칙령을 법률로 전환한 본문 및 국왕·무솔리니·치아노의 명의 표기를 확인했다."
+    ],
+    "limitations": [
+      "전환법이다. 개인별 입안 과정이나 지역별 집행은 이 문서만으로 확인할 수 없다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "Regno d’Italia / Normattiva"
+  },
+  {
+    "id": "CAT-IT-SRC-0068",
+    "title": "Italy",
+    "institution_or_author": "United States Holocaust Memorial Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1938년 반유대 법제 단락, The Fall of Mussolini and the Italian Surrender 및 독일 점령 단락",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/italy",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "파시스트 독재와 반유대 법제, 무솔리니 체포·정권 교체·독일 점령과 이탈리아 사회공화국 성립을 확인했다."
+    ],
+    "limitations": [
+      "이탈리아 전체를 다룬 기관 해설이다. 개별 체포·추방 명령의 결재자는 여기서 확정할 수 없다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "USHMM Italy retrospective"
+  },
+  {
+    "id": "CAT-IT-SRC-0069",
+    "title": "President Roosevelt to the British Prime Minister (Churchill)",
+    "institution_or_author": "Franklin D. Roosevelt / U.S. Department of State",
+    "publication_date": "1943-07-26",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1943, Europe, vol. II, doc. 298; telegram 324",
+    "locator": "본문 로마 소식 및 편집자 주 3",
+    "url": "https://history.state.gov/historicaldocuments/frus1943v02/d298",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "루스벨트가 로마의 정권 교체 소식에 대응한 기록을 열었다. 편집자 주 3은 7월 25일 국왕의 발표와 바돌리오 임명을 명시한다."
+    ],
+    "limitations": [
+      "7월 25일 인사에 관한 상세 서술은 편집 주석에 해당한다. 이탈리아 임명장 사본은 아니다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "Roosevelt correspondence and FRUS editor"
+  },
+  {
+    "id": "CAT-IT-SRC-0070",
+    "title": "Regio decreto-legge 2 agosto 1943, n. 705 — Scioglimento della Camera dei fasci e delle corporazioni",
+    "institution_or_author": "Regno d’Italia / Gazzetta Ufficiale",
+    "publication_date": "1943-08-02 (제정), 1943-08-05 (관보·발효)",
+    "source_type": "primary",
+    "document_or_accession_number": "R.D.L. n. 705; GU n. 180; 043U0705",
+    "locator": "본문 제30대 회기 종료·의회 해산과 말미의 서명",
+    "url": "https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.codiceRedazionale=043U0705&atto.dataPubblicazioneGazzetta=1943-08-05&tipoSerie=serie_generale&tipoVigenza=originario",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "파시스트·협동조합 의회 해산의 법적 조치 및 국왕과 바돌리오 이름을 확인했다."
+    ],
+    "limitations": [
+      "도입 당시 법문이다. 새 대의원 선거 조항과 실제 선거 시행을 구분했다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "Regno d’Italia / Gazzetta Ufficiale"
+  },
+  {
+    "id": "CAT-IT-SRC-0071",
+    "title": "The President’s Personal Representative in North Africa (Murphy) to the President",
+    "institution_or_author": "Robert Murphy / U.S. Department of State",
+    "publication_date": "1943-09-08",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS, Conferences at Washington and Quebec, 1943, doc. 616",
+    "locator": "인쇄 1280–1282쪽, 9월 3일 승인 및 서명 단락",
+    "url": "https://history.state.gov/historicaldocuments/frus1943/d616",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "바돌리오 정부의 서명권 승인 및 카스텔라노·스미스의 휴전 서명을 기록한 참여자 보고를 확인했다."
+    ],
+    "limitations": [
+      "연합군 측 보고다. 바티칸에 전달한 이탈리아의 위임장 원문을 열지 못했다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "Robert Murphy / U.S. Department of State"
+  },
+  {
+    "id": "CAT-IT-SRC-0072",
+    "title": "Press Release Issued by the White House, October 13, 1943",
+    "institution_or_author": "미국·영국·소련 정부 / U.S. Department of State",
+    "publication_date": "1943-10-13",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1943, Europe, vol. II, doc. 357",
+    "locator": "인쇄 387–388쪽, 대독 선전포고 및 공동교전 지위 선언",
+    "url": "https://history.state.gov/historicaldocuments/frus1943v02/d357",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "왕국 정부의 대독 선전포고에 관한 3국 정부의 공동교전 인정 성명을 확인했다."
+    ],
+    "limitations": [
+      "공개 성명이다. 마드리드 외교 경로의 선전포고 수령증이나 군사 집행 기록은 포함하지 않는다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "미국·영국·소련 정부 / U.S. Department of State"
+  },
+  {
+    "id": "CAT-IT-SRC-0073",
+    "title": "Announcement and text of the German-Italian-Japanese Three Power Pact",
+    "institution_or_author": "독일 외무부 공고 / Harvard Law School Library, Nuremberg Trials Project",
+    "publication_date": "1940-09-27 (조약), 1940-11-28 (독일 관보 게재)",
+    "source_type": "primary",
+    "document_or_accession_number": "HLSL 450946; IMT PS-2643 (USA-149); Reichsgesetzblatt II, n. 41, p. 279",
+    "locator": "문서 메타데이터, 조약 말미 서명란",
+    "url": "https://nuremberg.law.harvard.edu/documents/1159-announcement-and-text-of-the-german-italian-japanese?mode=text",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "베를린 삼국동맹 조약의 날짜와 이탈리아 쪽 치아노 서명 표기를 확인했다."
+    ],
+    "limitations": [
+      "독일 관보 공고가 뉘른베르크 증거로 편집·번역된 형태다. 조약 협상 기록이나 자필본은 확인하지 않았다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "독일 외무부 공고 / Harvard Law School Library, Nuremberg Trials Project"
+  },
+  {
+    "id": "CAT-IT-SRC-0074",
+    "title": "Uffici del Capo provvisorio dello Stato",
+    "institution_or_author": "Archivio storico della Presidenza della Repubblica Italiana",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "CPF-001-000596",
+    "locator": "역사 소개 첫 단락, 1944년 6월 5일 칙령 제140호",
+    "url": "https://archivio.quirinale.it/aspr/soggetti-produttori/CPF-001-000596/uffici-del-capo-provvisorio-dello-stato",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "국왕의 움베르토 왕국 대리 임명일과 칙령 번호 및 로마 해방 후 보노미 정부 출범을 확인했다."
+    ],
+    "limitations": [
+      "기록 생산기관의 해설이다. 제140호 원문과 임명 당시의 왕실 내부 문서는 이 자료에 포함되지 않는다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "Archivio storico della Presidenza della Repubblica Italiana"
   }
 ]
