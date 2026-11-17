@@ -1544,10 +1544,11 @@
     "category_number": 16,
     "category": "개전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/italy/16-industrial-centers-start.md",
-    "status": "pending",
-    "run_record": null,
+    "status": "partial",
+    "run_record": "categories/runs/CAT-IT-16.json",
     "step": 111,
-    "planned_at": "2026-11-18T01:30:00+09:00"
+    "planned_at": "2026-11-18T01:30:00+09:00",
+    "completed_at": "2026-11-18T04:58:42+09:00"
   },
   {
     "job_id": "CAT-IT-17",

@@ -2660,5 +2660,205 @@
     ],
     "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
     "independence_group": "Istituto Mobiliare Italiano 소장 목록"
+  },
+  {
+    "id": "CAT-IT-SRC-0134",
+    "title": "Stabilimento Fiat Mirafiori",
+    "institution_or_author": "MuseoTorino / Comune di Torino",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Scheda luogo 5431e6fb4be949bfb79fc973c6576165",
+    "locator": "주소 및 §1 Storia dell’edificio, §2 Bombardamenti",
+    "url": "https://www.museotorino.it/view/s/5431e6fb4be949bfb79fc973c6576165",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Corso Giovanni Agnelli 200, Corso Tazzoli 공장동, 약 100ha, 개장 때 미완공 및 구내 철도 11km의 기술을 확인했다."
+    ],
+    "limitations": [
+      "구내 철도 총연장에 1939-09-01 완공 일자나 수송 정격은 붙어 있지 않다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "MuseoTorino / Comune di Torino"
+  },
+  {
+    "id": "CAT-IT-SRC-0135",
+    "title": "Inaugurazione dello stabilimento Fiat Mirafiori (15 Maggio 1939)",
+    "institution_or_author": "ISMEL / MuseoTorino",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Scheda evento e967d489ce784e95bfd0df9299e1e822",
+    "locator": "Data dell’evento, 건설·행사 단락과 주 1",
+    "url": "https://museotorino.it/view/s/e967d489ce784e95bfd0df9299e1e822",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-05-15 무솔리니 참석 개장 행사를 확인했다."
+    ],
+    "limitations": [
+      "행사 설명과 참석 인원은 공장 가동률이나 실제 고용 장부를 대신할 수 없다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "ISMEL / MuseoTorino"
+  },
+  {
+    "id": "CAT-IT-SRC-0136",
+    "title": "Storia di Torino. Dalla grande guerra alla liberazione, 1915–1945 — La società industriale nel ventennio fascista",
+    "institution_or_author": "MuseoTorino 디지털 도서관 / Storia di Torino",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 371쪽, 디지털 405/894",
+    "url": "https://www.museotorino.it/resources/pdf/books/149/files/assets/basic-html/page-405.html",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미라피오리 총 100만㎡와 건물 피복 30만㎡, 2교대 설계 인원 22,000명 및 1939년 11월 개장 서술을 확인했다."
+    ],
+    "limitations": [
+      "11월이라는 날짜의 행사·가동상 의미는 불명이다. 설계와 9월 기준일의 설치·인원을 동일시하지 않는다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "MuseoTorino 디지털 도서관 / Storia di Torino"
+  },
+  {
+    "id": "CAT-IT-SRC-0137",
+    "title": "Fiat Mirafiori — Come è realizzato il sistema alla Fiat-Mirafiori",
+    "institution_or_author": "Ufficio stampa Fiat / Massimo Tedesco, Università Ca’ Foscari Venezia 소장 학위논문 재수록",
+    "publication_date": "1939",
+    "source_type": "primary",
+    "document_or_accession_number": "Massimo Tedesco, Nascita e sviluppo di Fiat e Alfa Romeo: dalla divergenza all’acquisizione, 2014/2015, 그림 8.1",
+    "locator": "논문 인쇄 86쪽 그림 8.1 및 그림의 1939년 출처 표기",
+    "url": "https://unitesi.unive.it/retrieve/9e91f9e8-fa09-4ba4-ac59-78a72cbaab0b/832417-1189710.pdf",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 FIAT 홍보실 도식 재수록본에서 차체와 차대 부문을 중앙 차량 조립 흐름과 연결한 배치를 확인했다."
+    ],
+    "limitations": [
+      "1차 도식의 학위논문 수록본이며 원책 전체와 현장 준공 도면은 미확보했다. 도식은 정격이나 실가동 증명이 아니다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Ufficio stampa Fiat / Massimo Tedesco, Università Ca’ Foscari Venezia 소장 학위논문 재수록"
+  },
+  {
+    "id": "CAT-IT-SRC-0138",
+    "title": "L’economia di guerra in Umbria tra 1940 e 1944",
+    "institution_or_author": "Paolo Raspadori / Editoriale Umbra·Istituto per la storia dell’Umbria contemporanea",
+    "publication_date": "2017",
+    "source_type": "secondary",
+    "document_or_accession_number": "ISBN 978-88-88802-95-4",
+    "locator": "인쇄 22쪽 주 27, 23쪽 주 30. 생산 근거 ACS, Archivio IRI, Serie nera, b. 78, 1944-03-28 보고 6쪽",
+    "url": "https://ricerca.unicusano.it/wp-content/uploads/2021/10/Guerra-e-Resistenza.pdf",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "테르니 제철소의 1939-12-31 노동자 8,574명 및 IRI 자료에 근거한 1939년 강철 89,057톤을 확인했다."
+    ],
+    "limitations": [
+      "인용된 1차 문서의 원본은 미확보했다. 저자는 Bonelli의 별도 1939–1943 생산 계열과 차이가 있음을 주 30에서 명시한다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Paolo Raspadori / Editoriale Umbra·Istituto per la storia dell’Umbria contemporanea"
+  },
+  {
+    "id": "CAT-IT-SRC-0139",
+    "title": "Storia",
+    "institution_or_author": "Acciai Speciali Terni",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "연혁 La Terni, L’IRI, La pressa (1935), L’Italia entra in guerra, La fine della guerra",
+    "url": "https://www.acciaiterni.it/chi-siamo/storia/",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "운영 회사명과 IRI 재무 통제, 1935년 프레스 정격 12,000톤 및 전시 피해 맥락을 확인했다."
+    ],
+    "limitations": [
+      "회사 자체 회고다. 프레스 표기는 가압 정격으로 연간 강철 생산량과 비교할 수 없고 개별 설비 가동은 미확인이다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Acciai Speciali Terni"
+  },
+  {
+    "id": "CAT-IT-SRC-0140",
+    "title": "Società Italiana Acciaierie Cornigliano — SIAC",
+    "institution_or_author": "Antonella Frassinelli / SIUSA, Ministero della Cultura",
+    "publication_date": "2010-11-22",
+    "source_type": "finding_aid",
+    "document_or_accession_number": "SIUSA soggetto produttore 52688",
+    "locator": "Intestazioni와 회사 연혁",
+    "url": "https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?Chiave=52688&TipoPag=prodente",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "SIAC의 캄피 사업과 코르닐리아노 신설, 1938년 Finsider 지분 및 그 다음 해의 신설 공사 기록을 확인했다."
+    ],
+    "limitations": [
+      "운영자 연혁과 기록 목록이며 1938년 매립·착공 서술과의 차이는 일자별 원장으로 확인할 필요가 있다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Antonella Frassinelli / SIUSA, Ministero della Cultura"
+  },
+  {
+    "id": "CAT-IT-SRC-0141",
+    "title": "Archivio Ilva 1882–1994. Guida all’inventario",
+    "institution_or_author": "Claudia Cerioli 편 / Fondazione Ansaldo·Direzione generale Archivi",
+    "publication_date": "2015",
+    "source_type": "finding_aid",
+    "document_or_accession_number": "Strumenti VII",
+    "locator": "인쇄 32쪽 연표 1938 및 1943–1945 행",
+    "url": "https://dgagaeta.cultura.gov.it/public/uploads/documents/Archivi%20Italiani/61efaa9f68225.pdf",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제노바 해안 일관제철소 계획, SIAC의 매립 공사와 전쟁 중 거의 완성된 설비의 독일 측 해체·반출을 확인했다."
+    ],
+    "limitations": [
+      "연표의 1938년 행은 결정·매립·착수를 압축해 전한다. Ilva 전체 파괴 비율을 코르닐리아노 공장의 파괴율로 쓸 수 없다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Claudia Cerioli 편 / Fondazione Ansaldo·Direzione generale Archivi"
+  },
+  {
+    "id": "CAT-IT-SRC-0142",
+    "title": "La siderurgia",
+    "institution_or_author": "Istituto della Enciclopedia Italiana / Il Contributo italiano alla storia del Pensiero: Tecnica",
+    "publication_date": "2013",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Le vicende della siderurgia italiana, SIAC와 전쟁 전 일관제철 단락",
+    "url": "https://www.treccani.it/enciclopedia/la-siderurgia_%28Il-Contributo-italiano-alla-storia-del-Pensiero%3A-Tecnica%29/",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "코르닐리아노 착공 1938년 9월, 1942년 완공 기재와 생산 미개시 및 1943년 휴전 뒤 반출을 확인했다."
+    ],
+    "limitations": [
+      "착공 기재가 SIUSA 연혁과 다르다. 공사 공정별 원장과 가동 일지의 공개 원본은 미확보했다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Istituto della Enciclopedia Italiana / Il Contributo italiano alla storia del Pensiero: Tecnica"
+  },
+  {
+    "id": "CAT-IT-SRC-0143",
+    "title": "Acciai speciali Terni spa",
+    "institution_or_author": "Sistema Archivistico Nazionale / Ministero della Cultura",
+    "publication_date": "2012",
+    "source_type": "finding_aid",
+    "document_or_accession_number": "SAN 405/ca/1089011",
+    "locator": "Storia archivistica, 1942년까지 기록의 이관·손실·정리 단락",
+    "url": "https://inventari-san.cultura.gov.it/inventari/405/ca/1089011",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년까지의 일부 회사 기록 이관과 전쟁기 문서 손실 및 소장 체계를 확인했다."
+    ],
+    "limitations": [
+      "목록 열람이다. 1939년 공장 생산원장, 지적도 및 1945년 가동대장은 직접 확인하지 못했다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Sistema Archivistico Nazionale / Ministero della Cultura"
   }
 ]
