@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 106,
-  "CAT_VISITED_COUNT": 105,
-  "CAT_LAST_JOB_ID": "CAT-IT-10",
+  "CAT_NEXT_STEP": 107,
+  "CAT_VISITED_COUNT": 106,
+  "CAT_LAST_JOB_ID": "CAT-IT-11",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-17T17:04:47+09:00",
-  "note": "이탈리아 10 유명 연설의 영상자료 부분 조사 저장. 첫 방문 105/133, 다음 CAT-IT-11."
+  "updated_at": "2026-11-17T18:55:27+09:00",
+  "note": "이탈리아 11 유명 군수기업 부분 조사 저장. 첫 방문 106/133, 다음 CAT-IT-12."
 }

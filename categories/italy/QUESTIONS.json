@@ -519,5 +519,45 @@
     ],
     "evidence": "극장 연설은 12월 16일, 뉴스릴은 12월 27일이다. 뉴스릴은 다른 장소 발언과 군사 자료화면을 함께 편집했다.",
     "completion_condition": "C041801 및 TG1 보존본을 대조해 장소별 발언의 시작·끝·음성 종류를 기록하고 연설 전체본 및 다른 전시 방송을 찾는다."
+  },
+  {
+    "id": "CAT-IT-RQ-0040",
+    "status": "open",
+    "question": "미라피오리의 전시 실제 고용·차량 및 부품 생산·군 인수는 월별로 어떻게 변했는가?",
+    "related_ids": [
+      "CAT-IT-ORG-0001",
+      "CAT-IT-SRC-0092",
+      "CAT-IT-SRC-0093"
+    ],
+    "evidence": "설계상의 2교대 22,000명과 공장의 제품군 및 당대 작업 중단 보도를 대조했다.",
+    "completion_condition": "전시 고용·생산 집계와 수령 기관의 계약·인수 장부를 맞추고 설비 수용인원과 실제 인원을 분리한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0041",
+    "status": "open",
+    "question": "안살도의 사업장별 발주·납품, 1944년 6월 강제 이송 피해자 및 지시 계통은 무엇인가?",
+    "related_ids": [
+      "CAT-IT-ORG-0002",
+      "CAT-IT-SRC-0094",
+      "CAT-IT-SRC-0095",
+      "CAT-IT-SRC-0096",
+      "CAT-IT-SRC-0099"
+    ],
+    "evidence": "리토리오 진수와 안살도 사업장 명칭을 확인했다. 5월 작업 중단 보고와 6월 강제 이송은 날짜와 집계 범위가 다르다.",
+    "completion_condition": "회사 주문·인수 자료와 독일·RSI의 명령, 이송 명단을 확인해 사업장별 인원과 경영진 관여를 검증한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0042",
+    "status": "open",
+    "question": "F.I.M.M.·RadioMarelli·FIVRE의 전시 법인 관계와 군·민간 납품은 어떻게 구분되는가?",
+    "related_ids": [
+      "CAT-IT-ORG-0003",
+      "CAT-IT-ORG-0004",
+      "CAT-IT-SRC-0053",
+      "CAT-IT-SRC-0097",
+      "CAT-IT-SRC-0098"
+    ],
+    "evidence": "기관 연혁의 분업과 FIVRE 제작 송신부 목록을 확인했다. 지분·계약·납품 기록은 확보하지 못했다.",
+    "completion_condition": "전시 등기·주주명부와 전기·통신 기자재 발주서 및 공장별 납품 대장을 대조한다. 다른 전시 공급업체도 후속 조사한다."
   }
 ]
