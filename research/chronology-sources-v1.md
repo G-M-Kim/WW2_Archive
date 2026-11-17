@@ -2515,3 +2515,6 @@ as_of: 2026-11-04
 
 | SRC-2187 | *September: 16 September 1943, Lae* / Australian War Memorial | 2차(호주 공식 전쟁사 연표) | 1943-09-16 라에 점령 | https://www.awm.gov.au/articles/atwar/sep | 라에 전투 종료일 및 일본군 철수 요약. 개별 부대의 최초 진입시각·일본군 병력/피해는 당대 전투상보 미대조, 재배포 권리 미확인 |
 | SRC-2188 | *World War II — Asiatic-Pacific Theater* / U.S. Army Center of Military History | 2차(미 육군 공식 전역 해설) | 뉴기니 전역: 라에 1943-09-16 | https://history.army.mil/Research/Reference-Topics/Army-Campaigns/Brief-Summaries/World-War-II/World-War-II-Asiatic-Pacific-Theater/ | 9/4 제9사단 상륙, 9/5 나드자브 공수, 9/16 라에 확보의 구별 확인. 일본군 탈출 인원·사상자는 별도 양측 원자료 필요 |
+
+| SRC-2189 | *Order of the Day, September 25, 1943* / 소련 최고사령관 명령, 후대 영문 전재 | 1차(당대 공식 전과 발표의 번역 전재) | 1943-09-25 최고사령부 명령 | https://www.revolutionarydemocracy.org/Stalin/od0724to092543.htm | 스몰렌스크·로슬라블 점령을 당일 공식 발표. 소련측 전과·부대 명칭은 선전과 공식 발표의 한계를 고려해야 하며 독일측 철수기록과 독립 검증 필요. 원본 문서 판본·번역 정확성 미대조 |
+| SRC-2190 | *На смоленском направлении* / 스몰렌스크 국립박물관 역사전시 | 2차(지역박물관 전투사 해설) | 1943-09-25 스몰렌스크 시가지 재점령 | https://www.smolensk-museum.ru/afisha/virtualnie-vistavki/smolensk-75/noviy-razdel_1079/ | 24~25일 야간 시가지 전투·25일 아침 적기 게양·최고사령부 포고 서술. 지역 기념전시이므로 원문 작전일지·독일군 기록 대조 필요; 이미지 재배포 금지 |
