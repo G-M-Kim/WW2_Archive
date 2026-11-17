@@ -2497,3 +2497,6 @@ as_of: 2026-11-04
 
 | SRC-2174 | *FRUS 1943, Conferences at Washington and Quebec*, Document 373 / 미 국무부, 1943-08-14 CCS 회의록 | 1차(당대 회의록) | Document 373, 10:30 회의 | https://history.state.gov/historicaldocuments/frus1943/d373 | 회의 개시·의제 논의 확인. 후속 최종 결정과 구분, 재배포 권리 미확인 |
 | SRC-2175 | *FRUS 1943, Conferences at Washington and Quebec*, Document 205 / CCS 288/3, 1943-08-14 | 1차(당대 회의 의제) | Document 205, CCS 288/3 | https://history.state.gov/historicaldocuments/frus1943/d205 | OVERLORD·POINTBLANK 등 의제 확인, 승인 여부 별도 대조 필요, 재배포 권리 미확인 |
+
+| SRC-2176 | *Regensburg/Schweinfurt, August 17, 1943* / 미 공군 국립박물관 | 2차(미 공군 공식 역사해설) | 1943-08-17 양대 목표 공습·기상 지연·376대 출격과 60대 손실 | https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/1519655/regensburgschweinfurt-august-17-1943/ | 2026-11-17 공개 본문 확인. 376은 출격 편대 규모, 60은 손실 수; 600명 이상은 전사·실종·포로 합산으로 단일 전사자 수가 아님 |
+| SRC-2177 | *Schweinfurt–Regensburg Raid: August 17, 1943* / 미국 National WWII Museum | 2차(전쟁사 연구 해설) | 레겐스부르크 선발편대·슈바인푸르트 지연편대·북아프리카 착륙 및 공장 피해 | https://www.nationalww2museum.org/war/articles/schweinfurt-regensburg-raid-august-17-1943 | 2026-11-17 공개 본문 확인. 출격·폭격·귀환·추락 수치 구분 필요. 원본 미 제8공군 작전보고 및 독일측 산업생산 통계 미대조 |
