@@ -1,0 +1,55 @@
+{
+  "step": 102,
+  "job_id": "CAT-IT-07",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 7,
+  "category": "유명한 전투 참여 인물",
+  "article_path": "categories/italy/07-combat-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-17T10:55:23+09:00",
+  "started_at": "2026-11-17T10:49:55+09:00",
+  "base_head": "4fa807951696190b4661b0274de6306b53a5b056",
+  "source_ids": [
+    "CAT-IT-SRC-0057",
+    "CAT-IT-SRC-0058",
+    "CAT-IT-SRC-0059",
+    "CAT-IT-SRC-0060",
+    "CAT-IT-SRC-0061",
+    "CAT-IT-SRC-0062",
+    "CAT-IT-SRC-0063",
+    "CAT-IT-SRC-0064"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0025",
+    "CAT-IT-RQ-0026",
+    "CAT-IT-RQ-0027",
+    "CAT-IT-RQ-0028"
+  ],
+  "entity_ids": [
+    "CAT-IT-PER-0001",
+    "CAT-IT-PER-0002",
+    "CAT-IT-PER-0003"
+  ],
+  "research_scope": "육군 조반니 메세, 해군 카를로 베르가미니, 공군 카를로 에마누엘레 부스칼리아의 소속·전투 참여·지휘 책임.",
+  "limitations": [
+    "지휘권 인수, 항복 및 해군 명령의 원문과 상세 시각은 미확인이다.",
+    "부스칼리아의 사망일은 출처 간 상충한다. 비행사고 원문과 병원 문서, 출격별 전과는 확인하지 못했다."
+  ],
+  "evidence_checked": [
+    "튀니지 항복의 전시 사진 원본 이미지와 IWM 필름 목록, Treccani 약전.",
+    "베르가미니의 당대 포상 기록과 해군 역사국의 연구.",
+    "부스칼리아의 왕국 관보, 박물관 해설과 이탈리아 참전협회 약전."
+  ],
+  "access_attempts": [
+    "뉴질랜드 국립도서관의 직접 레코드는 본문이 표시되지 않아 동일 주제 사진을 공개한 뉴질랜드 문화유산부 자료에서 이미지와 해당 소장번호를 확인했다.",
+    "이탈리아 해군의 로마 난파선 조사 보도 페이지는 시간 초과였다. 해군 역사국 논문과 대통령실 포상 기록에서 교차 대조했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=102 pending=31; sources=1042 questions=391. Structural check only.",
+    "path_check": "변경 8개 경로는 모두 categories/ 하위."
+  }
+}

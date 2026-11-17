@@ -1120,5 +1120,165 @@
     ],
     "rights": "공개 열람본. 자체 요약과 원문 링크만 사용했다. 사진과 문서 이미지의 재사용 조건은 별도 확인이 필요하다.",
     "independence_group": "GCHQ retrospective Tutte account"
+  },
+  {
+    "id": "CAT-IT-SRC-0057",
+    "title": "MESSE, Giovanni",
+    "institution_or_author": "Giorgio Memmo / Istituto della Enciclopedia Italiana (Treccani)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "항목 본문, 1940년 그리스·1941년 CSIR·1943년 튀니지 단락",
+    "url": "https://www.treccani.it/enciclopedia/giovanni-messe_(Enciclopedia-Italiana)/",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "그리스 전역과 소련 원정군 지휘, 튀니지 제1군 및 1943년 5월 13일 포로가 된 이력을 확인했다."
+    ],
+    "limitations": [
+      "약전은 정식 발령·인수 시각이나 전장별 세부 명령을 수록하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Treccani Memmo biographical entry"
+  },
+  {
+    "id": "CAT-IT-SRC-0058",
+    "title": "Formal Surrender of Marshal Messe [Allocated Title]",
+    "institution_or_author": "Imperial War Museums Film Archive",
+    "publication_date": "1943-05-13 (필름 제작일)",
+    "source_type": "primary",
+    "document_or_accession_number": "AYY 439/1 / IWM Film 10998",
+    "locator": "Summary·Description·Production Date·Technical Details",
+    "url": "https://film.iwmcollections.org.uk/record/10998",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "엔피다빌의 제10군단 사령부에서 이탈리아 제1군 지휘관과 독일 제164경아프리카사단 지휘관이 프레이버그에게 항복한 것으로 기록된 필름 목록을 확인했다."
+    ],
+    "limitations": [
+      "필름의 소장 해제만 확인했다. 재생·장면별 타임코드 및 서명 문서 원본은 검증하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "IWM wartime film AYY 439/1 catalogue"
+  },
+  {
+    "id": "CAT-IT-SRC-0059",
+    "title": "General Freyberg accepts Italian surrender",
+    "institution_or_author": "Alexander Turnbull Library(소장) / Manatū Taonga, New Zealand Ministry for Culture and Heritage(공개)",
+    "publication_date": "1943-05 (사진), 2013-07-15 (웹 해제 갱신)",
+    "source_type": "primary",
+    "document_or_accession_number": "PAColl-5547-042",
+    "locator": "공개 원사진 및 첫 설명·Reference",
+    "url": "https://nzhistory.govt.nz/media/photo/general-freyberg-accepts-italian-surrender",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "메세와 프레이버그가 항복 뒤 대화하는 튀니지의 전시 사진과 소장 번호를 확인했다."
+    ],
+    "limitations": [
+      "사진 해제는 월까지만 특정하며 항복 문서 전문·서명 시각을 보여주지 않는다."
+    ],
+    "rights": "사진 재사용은 Alexander Turnbull Library 허가가 필요하다. 자체 요약과 원문 링크만 사용했다.",
+    "independence_group": "NZ wartime still PAColl-5547-042"
+  },
+  {
+    "id": "CAT-IT-SRC-0060",
+    "title": "BERGAMINI Carlo — Medaglia d’oro al valor militare",
+    "institution_or_author": "Presidenza della Repubblica Italiana / Quirinale",
+    "publication_date": "1943-12-20 (포상 수여일)",
+    "source_type": "primary",
+    "document_or_accession_number": "Quirinale insigniti 12267",
+    "locator": "Data del conferimento·motivazione 및 사건 일자·장소",
+    "url": "https://www.quirinale.it/onorificenze/insigniti/12267",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "왕립해군 전투함대 총지휘관 베르가미니가 1943년 9월 9일 아시나라 해역에서 기함과 함께 사망했다는 당대 포상 문구를 확인했다."
+    ],
+    "limitations": [
+      "기념·포상문은 명령 전달의 상세 시각과 선상 직책을 모두 기재하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Italian wartime award citation Bergamini"
+  },
+  {
+    "id": "CAT-IT-SRC-0061",
+    "title": "La partecipazione della Marina alla Guerra di Liberazione",
+    "institution_or_author": "Giuliano Manzari / Ufficio Storico della Marina Militare",
+    "publication_date": "2015-03",
+    "source_type": "secondary",
+    "document_or_accession_number": "Bollettino d’Archivio, marzo 2015",
+    "locator": "인쇄 16–17쪽 출항 명령, 24–25쪽 로마 침몰 단락 및 주 18–19",
+    "url": "https://www.marina.difesa.it/media-cultura/editoria/bollettino/Documents/2015/70_anniversario.pdf",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "휴전 발표 직후 베르가미니의 출항 명령과 독일군 공격 당시 로마의 함장 아도네 델 치마 및 베르가미니의 사망을 확인했다."
+    ],
+    "limitations": [
+      "해군사 연구의 서술이다. 당시 명령 수신본과 당직 일지는 원문 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Manzari Italian naval historical office narrative"
+  },
+  {
+    "id": "CAT-IT-SRC-0062",
+    "title": "Ricompense al valor militare — Medaglia d’Argento (BUSCAGLIA Carlo Emanuele)",
+    "institution_or_author": "Ministero dell’Aeronautica / Gazzetta Ufficiale del Regno d’Italia",
+    "publication_date": "1942-04-09",
+    "source_type": "primary",
+    "document_or_accession_number": "N. 84 / R. decreto 18 aprile 1941 / registro n. 25, foglio n. 111",
+    "locator": "인쇄 1394쪽 MINISTERO DELL’AERONAUTICA, BUSCAGLIA 항목",
+    "url": "https://www.gazzettaufficiale.it/eli/gu/1942/04/09/84/sg/pdf",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 왕립공군 조종사·뇌격기 승무원 지휘관으로 1940년 8월 15일~9월 17일 동지중해 전투에 참여했다고 적은 포상 원문을 확인했다."
+    ],
+    "limitations": [
+      "당시 포상 문구는 개별 출격 보고서와 대조하지 못했으며 전과 집계의 독립 증거로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Italian wartime gazette No. 84"
+  },
+  {
+    "id": "CAT-IT-SRC-0063",
+    "title": "Carlo Emanuele Buscaglia",
+    "institution_or_author": "Museo Caproni / Fondazione Museo storico del Trentino",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "전시 본문의 S.79 훈련·부대·포로·1944년 사고 문단",
+    "url": "https://mostre.museocaproni.it/sala/pilota/buscaglia-carlo-emanuele/",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "S.79 훈련, 제278·281비행대, 제132뇌격비행단 지휘, 1942년 11월 포로 및 연합국 공동교전 공군 복귀 서술을 확인했다."
+    ],
+    "limitations": [
+      "사망일을 1944년 8월 23일로 적어 협회 기록과 다르다. 격침 톤수는 출격별 상대측 기록과 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Museo Caproni Oggi si vola pilot exhibit"
+  },
+  {
+    "id": "CAT-IT-SRC-0064",
+    "title": "BUSCAGLIA Carlo Emanuele",
+    "institution_or_author": "Associazione Nazionale Combattenti Guerra di Liberazione inquadrati nei Reparti Regolari delle Forze Armate",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "본문의 제132뇌격비행단 및 캄포 베수비오·나폴리 병원 단락",
+    "url": "https://www.combattentiliberazione.it/movm-dal-1935-al-7-sett-1943/buscaglia-carlo-emanuele",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "포로에서 복귀 뒤 제28그룹 지휘와 1944년 8월 24일 나폴리 군병원 사망 서술을 확인했다."
+    ],
+    "limitations": [
+      "의무기록이나 사고 원문이 제공되지 않는다. 전시 포상 기록과 내용이 일부 겹친다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Italian liberation veterans association biographical entry"
   }
 ]
