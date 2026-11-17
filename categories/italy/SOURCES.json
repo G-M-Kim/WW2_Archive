@@ -2860,5 +2860,185 @@
     ],
     "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
     "independence_group": "Sistema Archivistico Nazionale / Ministero della Cultura"
+  },
+  {
+    "id": "CAT-IT-SRC-0144",
+    "title": "L’acciaieria di Terni, la ricostruzione e i “consiglieri operai”",
+    "institution_or_author": "Istituto per la storia dell’Umbria contemporanea / Editoriale Umbra",
+    "publication_date": "2014",
+    "source_type": "secondary",
+    "document_or_accession_number": "R–Esistenze. Umbria 1943–1944, ISBN 978-88-88802-67-1",
+    "locator": "말미 「L’Acciaieria di Terni tra guerra e ricostruzione」, 회사 운영위원회·1944년 9월 및 1945-09-08 두 단락",
+    "url": "https://ricerca.unicusano.it/wp-content/uploads/2021/10/R-Esistenze.pdf",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 6월 13–14일 해방, 로마 운영위원회의 복구, 1944년 9월 월 2,000톤과 노동자 약 1,600명, 1945-09-08의 1939년 대비 생산능력 18%를 확인했다."
+    ],
+    "limitations": [
+      "후대 기관 해설이며 원 회사 보고서의 동일 시점 원표는 미확보했다. 회사 전체 수력 생산능력 비율은 공장 내부 전력 정격으로 볼 수 없다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "Istituto per la storia dell’Umbria contemporanea / Editoriale Umbra"
+  },
+  {
+    "id": "CAT-IT-SRC-0145",
+    "title": "Torino in guerra",
+    "institution_or_author": "Giovanni De Luna / Storia di Torino, vol. VIII / MuseoTorino 디지털판",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Storia di Torino, vol. VIII, Parte III",
+    "locator": "인쇄 777쪽 및 주 201",
+    "url": "https://www.museotorino.it/resources/pdf/books/149/files/assets/common/downloads/publication.pdf",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 말 미라피오리 생산 수준이 해당 공장의 통상 수준의 50%라고 적힌 것을 확인했다."
+    ],
+    "limitations": [
+      "생산 기준선의 정확한 기간과 산식이 해당 단락에 없다. 9월 2일 생산량이나 건물 잔존율을 의미하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "Giovanni De Luna / Storia di Torino, vol. VIII / MuseoTorino 디지털판"
+  },
+  {
+    "id": "CAT-IT-SRC-0146",
+    "title": "Sospensioni del lavoro a Lingotto e Mirafiori — Diario dell’Ufficio Contabilità 요약 전재",
+    "institution_or_author": "FIAT 회계부 / Archivio storico Fiat / Istoreto 편집",
+    "publication_date": "2003",
+    "source_type": "primary_extract",
+    "document_or_accession_number": "La città delle fabbriche, Dati statistici 표 10",
+    "locator": "표 10, PDF 149쪽(1부터 셈), 1944-08-28과 1944-09-02~03 행 및 표 출처",
+    "url": "https://www.istoreto.it/to38-45_industria/pdf/citta_industria.pdf#page=149",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "FIAT 회계부 일지를 근거로 미라피오리의 1944년 8월 28일 및 9월 2~3일 정전 중단이 기록됐음을 확인했다."
+    ],
+    "limitations": [
+      "기관이 원 일지에서 정리한 표를 열람했다. 원본 일지 전체와 1945년 9월 전력·생산 장부는 미확보했다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "FIAT 회계부 / Archivio storico Fiat / Istoreto 편집"
+  },
+  {
+    "id": "CAT-IT-SRC-0147",
+    "title": "Civilian Disarmament: Public Order and the Restoration of State Authority in Italy’s Postwar Transition, 1944–6",
+    "institution_or_author": "Marco Maria Aterrano / Journal of Contemporary History",
+    "publication_date": "2020",
+    "source_type": "secondary",
+    "document_or_accession_number": "DOI 10.1177/0022009420909164",
+    "locator": "표 1, 테르니 1945-05-10 행 및 토리노·제노바가 든 12월 행",
+    "url": "https://ssu.elearning.unipd.it/pluginfile.php/662875/mod_folder/content/0/Primo%20dopoguerra/Articolo%20Aterrano.pdf",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "테르니주의 1945-05-10 민정 이관 및 제노바·토리노가 연말 이관군에 포함되었음을 확인했다."
+    ],
+    "limitations": [
+      "기관표의 12월 28일과 FRUS가 확인한 12월 31일 집행에는 날짜 차이가 있다. 이 둘이 따로 가리키는 절차의 원문은 미확보했다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "Marco Maria Aterrano / Journal of Contemporary History"
+  },
+  {
+    "id": "CAT-IT-SRC-0148",
+    "title": "Kirk to the Secretary of State, 17 August 1945",
+    "institution_or_author": "Alexander C. Kirk / U.S. Department of State",
+    "publication_date": "1945-08-17",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1945 IV 문서 960, 전보 2379, 740.00119 Control (Italy)/8–1745",
+    "locator": "전보 2379, 북부 이관 권고 1항 및 실행 조건 A항",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v04/d960",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북부의 연합군 군정 지역을 9월 15일 또는 승인 뒤 21일 중 늦은 날짜에 이관하자는 권고를 확인했다."
+    ],
+    "limitations": [
+      "권고 문서다. 승인과 실제 이관은 별도 문서에서 확인해야 한다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "Alexander C. Kirk / U.S. Department of State"
+  },
+  {
+    "id": "CAT-IT-SRC-0149",
+    "title": "Kirk to the Secretary of State, 18 December 1945",
+    "institution_or_author": "Alexander C. Kirk / U.S. Department of State",
+    "publication_date": "1945-12-18",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1945 IV 문서 1027, 전보 4106, 740.00119 Control (Italy)/12–1845",
+    "locator": "전보 4106, 연합국 위원회 이관 발표 및 각주 1",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v04/d1027",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "잔류 군정지의 이관 날짜가 12월 31일로 발표됐고 이후 전보가 그 날짜의 이관을 확인했음을 대조했다."
+    ],
+    "limitations": [
+      "시군·개별 공장 통치 또는 운영권의 전수 목록은 제공하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "Alexander C. Kirk / U.S. Department of State"
+  },
+  {
+    "id": "CAT-IT-SRC-0150",
+    "title": "Cornigliano S.p.A. (1948–1961)",
+    "institution_or_author": "Fondazione Ansaldo / Archimondi",
+    "publication_date": null,
+    "source_type": "finding_aid",
+    "document_or_accession_number": "Archimondi soggetti produttori item-set 26",
+    "locator": "Cornigliano S.p.A. 항목, 1951년 10월 인수와 1952–1953년 단계별 가동 단락",
+    "url": "https://archivio.fondazioneansaldo.it/s/1/item-set/26",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1951-10-09 후속 회사 인수, 1952년 말 코크스 설비 가동 준비, 1953년 4월 선철 및 6월 강철 생산 개시를 확인했다."
+    ],
+    "limitations": [
+      "기업 연혁 목록이다. 1945년 잔존 기계·토목 면적이나 반출한 설비의 개수는 밝히지 않는다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "Fondazione Ansaldo / Archimondi"
+  },
+  {
+    "id": "CAT-IT-SRC-0151",
+    "title": "L’Atto di Resa delle truppe tedesche",
+    "institution_or_author": "Musei di Genova / Museo del Risorgimento",
+    "publication_date": null,
+    "source_type": "finding_aid",
+    "document_or_accession_number": "Villa Migone 항복문서 소장 해제",
+    "locator": "1945년 4월 25일 문서 제목, 해제와 11월 박물관 이관 단락",
+    "url": "https://www.museidigenova.it/it/l-atto-di-resa-delle-truppe-tedesche",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945-04-25 제노바의 독일군 현지 항복 날짜와 소장 이력을 확인했다."
+    ],
+    "limitations": [
+      "열람한 것은 공개 문서 해제다. 산업설비 현황이나 북부 군정 종료일을 입증하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "Musei di Genova / Museo del Risorgimento"
+  },
+  {
+    "id": "CAT-IT-SRC-0152",
+    "title": "I luoghi della guerra e della Resistenza — percorso",
+    "institution_or_author": "MuseoTorino / Comune di Torino",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Scheda 57c5f30dda2847149f9281d8eae5c42c",
+    "locator": "26–28 aprile 1945 L’insurrezione e la liberazione",
+    "url": "https://www.museotorino.it/view/s/57c5f30dda2847149f9281d8eae5c42c",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "토리노의 4월 26~28일 봉기·해방 및 4월 28일 CLN의 새 지방 당국 임명을 확인했다."
+    ],
+    "limitations": [
+      "도시 단위 연혁이며 공장 재가동 명령이나 군정 종료문서가 아니다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "MuseoTorino / Comune di Torino"
   }
 ]

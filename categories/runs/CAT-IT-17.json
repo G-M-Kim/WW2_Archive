@@ -1,0 +1,268 @@
+{
+  "job_id": "CAT-IT-17",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 17,
+  "category": "종전 시점 주요 공업단지와 규모(1~20)",
+  "article_path": "categories/italy/17-industrial-centers-end.md",
+  "status": "partial",
+  "step": 112,
+  "started_at": "2026-11-18T06:54:51+09:00",
+  "completed_at": "2026-11-18T06:58:45+09:00",
+  "base_head": "52ff6aae98a23e9a39c59065af5df7bf811c09e7",
+  "source_ids": [
+    "CAT-IT-SRC-0066",
+    "CAT-IT-SRC-0107",
+    "CAT-IT-SRC-0122",
+    "CAT-IT-SRC-0134",
+    "CAT-IT-SRC-0136",
+    "CAT-IT-SRC-0138",
+    "CAT-IT-SRC-0139",
+    "CAT-IT-SRC-0140",
+    "CAT-IT-SRC-0141",
+    "CAT-IT-SRC-0142",
+    "CAT-IT-SRC-0144",
+    "CAT-IT-SRC-0145",
+    "CAT-IT-SRC-0146",
+    "CAT-IT-SRC-0147",
+    "CAT-IT-SRC-0148",
+    "CAT-IT-SRC-0149",
+    "CAT-IT-SRC-0150",
+    "CAT-IT-SRC-0151",
+    "CAT-IT-SRC-0152"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0060",
+    "CAT-IT-RQ-0061",
+    "CAT-IT-RQ-0062",
+    "CAT-IT-RQ-0063"
+  ],
+  "entity_ids": [
+    "CAT-IT-GEO-0015",
+    "CAT-IT-GEO-0016",
+    "CAT-IT-GEO-0017",
+    "CAT-IT-ORG-0001"
+  ],
+  "research_scope": "1945-09-02 기준 미라피오리 원 공장, 테르니 제철 본공장, 코르닐리아노 일관제철 신설 구역을 1939년과 동일 경계에서 비교.",
+  "limitations": [
+    "당일의 물리 규모 및 실제 가동·고용 원표가 부족하며 규모 점수·범위는 모두 null이다.",
+    "연말 미라피오리 생산 수준과 9월 8일 테르니 생산능력은 자료 날짜와 분모가 다르다. 북부 민정 이관 날짜의 자료 차이는 보류했다."
+  ],
+  "evidence_checked": [
+    "FIAT 회계일지 재정리표의 정전 구간과 박물관 피격 기록, 토리노 시사 연말 생산 비교를 확인했다.",
+    "테르니 기관 전시도록과 회사 연혁, Ilva 및 Fondazione Ansaldo 재건 기록을 대조했다.",
+    "미 외교전보의 북부 이관 권고와 최종 통보를 민정 이관 연구표에 대조했다."
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-IT-GEO-0015",
+      "period_name": "Stabilimento FIAT Mirafiori",
+      "modern_name": "토리노 Fiat Mirafiori 원 공장 구역",
+      "boundary": "토리노 남서부 미라피오리의 1930년대 원 공장. Corso Giovanni Agnelli 200의 업무동과 Corso Tazzoli 연변 본 공장동·구내 부대설비. 링고토와 전후 Mirafiori Sud 제외. 당시 필지 경계는 미확인.",
+      "reference_date": "1945-09-02",
+      "territorial_status": "이탈리아 왕국 본토 토리노. 1945년 4월 말 독일 점령 종식과 CLN 지방 당국 수립 후 1945-09-02 연합군 군정 아래에 있었고 지방 행정이 병존했다.",
+      "operator": "FIAT (CAT-IT-ORG-0001). 연합군 군정은 행정 권한으로 구분한다.",
+      "operation": "전시 공습 피해와 정전에 따른 작업 중단 확인. 1945년 말 통상 수준 대비 생산의 부분 회복. 9월 2일 실제 라인·잔존면적·고용 미확인.",
+      "metrics": [
+        {
+          "metric": "공습으로 피격한 횟수",
+          "value": 7,
+          "unit": "회",
+          "date": "1940–1944",
+          "boundary": "토리노 남서부 미라피오리의 1930년대 원 공장. Corso Giovanni Agnelli 200의 업무동과 Corso Tazzoli 연변 본 공장동·구내 부대설비. 링고토와 전후 Mirafiori Sud 제외. 당시 필지 경계는 미확인.",
+          "source_id": "CAT-IT-SRC-0134",
+          "locator": "개요 및 §2 Bombardamenti",
+          "capacity_or_actual": "damage_event_count"
+        },
+        {
+          "metric": "통상 대비 생산 수준",
+          "value": 50,
+          "unit": "%",
+          "date": "1945년 말",
+          "boundary": "토리노 남서부 미라피오리의 1930년대 원 공장. Corso Giovanni Agnelli 200의 업무동과 Corso Tazzoli 연변 본 공장동·구내 부대설비. 링고토와 전후 Mirafiori Sud 제외. 당시 필지 경계는 미확인.",
+          "source_id": "CAT-IT-SRC-0145",
+          "locator": "인쇄 777쪽과 주 201",
+          "capacity_or_actual": "actual_relative_normal"
+        },
+        {
+          "metric": "정전에 의한 가동 중단",
+          "value": null,
+          "unit": null,
+          "date": "1944-08-28 및 1944-09-02~03",
+          "boundary": "토리노 남서부 미라피오리의 1930년대 원 공장. Corso Giovanni Agnelli 200의 업무동과 Corso Tazzoli 연변 본 공장동·구내 부대설비. 링고토와 전후 Mirafiori Sud 제외. 당시 필지 경계는 미확인.",
+          "source_id": "CAT-IT-SRC-0146",
+          "locator": "표 10의 해당 날짜 행",
+          "capacity_or_actual": "operational_interruption"
+        }
+      ],
+      "rationale": "연말 생산 비교치는 기준일의 실적 또는 잔존 능력이 아니다. 당일 시설 잔존 면적·생산 정격·작업 수용·물류 정격, 공통 등급 경계 미확보.",
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "source_ids": [
+        "CAT-IT-SRC-0134",
+        "CAT-IT-SRC-0145",
+        "CAT-IT-SRC-0146",
+        "CAT-IT-SRC-0147",
+        "CAT-IT-SRC-0148",
+        "CAT-IT-SRC-0149",
+        "CAT-IT-SRC-0152"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-IT-GEO-0016",
+      "period_name": "Stabilimento siderurgico della Società Terni",
+      "modern_name": "테르니 Acciai Speciali Terni 제철 사업장",
+      "boundary": "움브리아 테르니 시의 Società Terni 제철·단조 본공장. 외부 수력발전소·화학사업장·육군 조병창·별개 SAIGS 합성고무 공장(CAT-IT-GEO-0014) 제외. 당시 필지 경계는 미확인.",
+      "reference_date": "1945-09-02",
+      "territorial_status": "이탈리아 왕국 본토 테르니. 1944년 6월 13~14일 해방, 1945-05-10 테르니주 민정 환원. 1945-09-02 이탈리아 왕국 민정.",
+      "operator": "Terni Società per l’Industria e l’Elettricità. 전선 통과 뒤 로마 소재 회사 운영위원회가 복구 관리.",
+      "operation": "공습·설비 반출 후 부분 재가동. 1944년 9월 생산량·고용, 1945년 9월 8일 생산능력 확인. 9월 2일 가동률 미확인.",
+      "metrics": [
+        {
+          "metric": "월간 강철 생산량",
+          "value": 2000,
+          "unit": "톤/월",
+          "date": "1944-09",
+          "boundary": "움브리아 테르니 시의 Società Terni 제철·단조 본공장. 외부 수력발전소·화학사업장·육군 조병창·별개 SAIGS 합성고무 공장(CAT-IT-GEO-0014) 제외. 당시 필지 경계는 미확인.",
+          "source_id": "CAT-IT-SRC-0144",
+          "locator": "L’acciaieria di Terni… 1944년 9월 단락",
+          "capacity_or_actual": "actual"
+        },
+        {
+          "metric": "제철소 노동자(약)",
+          "value": 1600,
+          "unit": "명",
+          "date": "1944-09",
+          "boundary": "움브리아 테르니 시의 Società Terni 제철·단조 본공장. 외부 수력발전소·화학사업장·육군 조병창·별개 SAIGS 합성고무 공장(CAT-IT-GEO-0014) 제외. 당시 필지 경계는 미확인.",
+          "source_id": "CAT-IT-SRC-0144",
+          "locator": "같은 단락",
+          "capacity_or_actual": "actual_approximate"
+        },
+        {
+          "metric": "강철 제철소 생산능력(1939=100)",
+          "value": 18,
+          "unit": "%",
+          "date": "1945-09-08",
+          "boundary": "움브리아 테르니 시의 Società Terni 제철·단조 본공장. 외부 수력발전소·화학사업장·육군 조병창·별개 SAIGS 합성고무 공장(CAT-IT-GEO-0014) 제외. 당시 필지 경계는 미확인.",
+          "source_id": "CAT-IT-SRC-0144",
+          "locator": "L’acciaieria di Terni… 1945-09-08 둘째 단락",
+          "capacity_or_actual": "capacity_relative_1939"
+        },
+        {
+          "metric": "전전 대비 전력 생산능력",
+          "value": 55,
+          "unit": "%",
+          "date": "1945-09-08",
+          "boundary": "Società Terni 외부 수력 계통. 개전 제철 본공장 경계 밖.",
+          "source_id": "CAT-IT-SRC-0144",
+          "locator": "L’acciaieria di Terni… 1945-09-08 첫 단락",
+          "capacity_or_actual": "external_capacity_context"
+        }
+      ],
+      "rationale": "기준일 6일 뒤의 상대 생산능력과 1년 전 생산·고용만으로 네 차원 점수를 산출할 수 없다. 외부 수력계통을 본공장 내부 정격에 더하지 않았으며 공통 등급 경계도 미확보.",
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "source_ids": [
+        "CAT-IT-SRC-0139",
+        "CAT-IT-SRC-0144",
+        "CAT-IT-SRC-0147"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-IT-GEO-0017",
+      "period_name": "Nuovo stabilimento a ciclo integrale di Cornigliano",
+      "modern_name": "제노바 코르닐리아노의 후대 Oscar Sinigaglia 제철소 구역",
+      "boundary": "리구리아 제노바의 코르닐리아노 해안 매립지 신설 일관제철소 공사 구역. SIAC 캄피 기존 공장과 전후 증설지 제외. 1939년 매립 외곽선과 면적은 미확인.",
+      "reference_date": "1945-09-02",
+      "territorial_status": "이탈리아 왕국 본토 제노바. 1945-04-25 도시의 독일군 항복 이후 지방 당국과 연합군 군정이 병존. 1945-09-02 연합군 군정 관할.",
+      "operator": "Società Italiana Acciaierie Cornigliano (SIAC), Finsider 계열. 공장 운영은 전시 중단. 1951년 인수는 별도.",
+      "operation": "전시 생산 미개시, 1943–1945년 설비 대부분 해체·반출. 1945-09-02 잔존 목록 및 실가동 원장 미확인. 후속 재건 과정의 코크스 설비 준비와 선철·강철 생산은 1952–1953년.",
+      "metrics": [
+        {
+          "metric": "해체·반출 설비 수 및 비율",
+          "value": null,
+          "unit": null,
+          "date": "1943–1945",
+          "boundary": "리구리아 제노바의 코르닐리아노 해안 매립지 신설 일관제철소 공사 구역. SIAC 캄피 기존 공장과 전후 증설지 제외. 1939년 매립 외곽선과 면적은 미확인.",
+          "source_id": "CAT-IT-SRC-0141",
+          "locator": "인쇄 32쪽 연표 1943–1945 행",
+          "capacity_or_actual": "removal_uncounted"
+        },
+        {
+          "metric": "잔존 산업용 면적",
+          "value": null,
+          "unit": null,
+          "date": "1945-09-02",
+          "boundary": "리구리아 제노바의 코르닐리아노 해안 매립지 신설 일관제철소 공사 구역. SIAC 캄피 기존 공장과 전후 증설지 제외. 1939년 매립 외곽선과 면적은 미확인.",
+          "source_id": "CAT-IT-SRC-0141",
+          "locator": "인쇄 32쪽 연표 1943–1945 행",
+          "capacity_or_actual": "unconfirmed"
+        },
+        {
+          "metric": "재건 뒤 선철 생산 개시",
+          "value": null,
+          "unit": null,
+          "date": "1953-04",
+          "boundary": "리구리아 제노바의 코르닐리아노 해안 매립지 신설 일관제철소 공사 구역. SIAC 캄피 기존 공장과 전후 증설지 제외. 1939년 매립 외곽선과 면적은 미확인.",
+          "source_id": "CAT-IT-SRC-0150",
+          "locator": "Cornigliano S.p.A. 가동 연혁",
+          "capacity_or_actual": "postwar_milestone"
+        }
+      ],
+      "rationale": "불가동과 반출의 정성 근거는 확보했으나 잔존 물리면적·시설·노동 및 처리 정격을 산출할 원자료와 공통 등급 경계 미확보.",
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "source_ids": [
+        "CAT-IT-SRC-0140",
+        "CAT-IT-SRC-0141",
+        "CAT-IT-SRC-0142",
+        "CAT-IT-SRC-0147",
+        "CAT-IT-SRC-0148",
+        "CAT-IT-SRC-0149",
+        "CAT-IT-SRC-0150",
+        "CAT-IT-SRC-0151"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "access_attempts": [
+    "미라피오리 1946년 1월 조립 현장 사진 기록 IMM-3g010-0018323은 Lombardia Beni Culturali 원문 접속 시 HTTP 502여서 판정 근거에 사용하지 않았다.",
+    "SAN 기업 포털의 코르닐리아노 기록 페이지는 접근이 제한되어 Fondazione Ansaldo 목록을 직접 열람했다. 테르니의 1945년 9월 8일 원표는 미확보다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=112 pending=21; sources=1130 questions=426. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}
