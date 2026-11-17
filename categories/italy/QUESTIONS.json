@@ -600,5 +600,53 @@
     ],
     "evidence": "동아프리카의 1939년 추계와 에게해의 1936년 현주 인구를 확인했다. 동아프리카 전역의 조사 완료 여부는 불명이다.",
     "completion_condition": "행정구역별 원표와 후속 통치 기관 자료를 대조하고 법적 귀속·실효 지배·국적별 모집단을 따로 표시한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0046",
+    "status": "open",
+    "question": "Fairfield Camp의 정확한 서명 구역은 1943년 카시빌레의 행정구역과 어떻게 대응하는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0005",
+      "CAT-IT-SRC-0088",
+      "CAT-IT-SRC-0107",
+      "CAT-IT-SRC-0108"
+    ],
+    "evidence": "미 육군 전사와 휴전문서의 지명·캠프명은 대조했다. 현대 카시빌레는 시라쿠사 소속이다.",
+    "completion_condition": "1943년 캠프 배치도·시라쿠사 지적도와 전시 사령부 기록으로 지점을 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0047",
+    "status": "open",
+    "question": "북아드리아해의 Fiume·Pola는 1939년 시·주 경계 및 1945년 군정하에서 어떻게 쓰였는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0006",
+      "CAT-IT-GEO-0007",
+      "CAT-IT-SRC-0109",
+      "CAT-IT-SRC-0110",
+      "CAT-IT-SRC-0111",
+      "CAT-IT-SRC-0112",
+      "CAT-IT-SRC-0117"
+    ],
+    "evidence": "1939년 주 명칭의 1945년 문서 재현, 폴라 군정 규정과 근현대 대응명을 확인했다. 리예카는 1948년 수샤크와 합쳐졌다.",
+    "completion_condition": "1939년 지적·행정지도와 1945년 부속 지도·시행 기록을 확인하고 전시 이탈리아어·크로아티아어 지명을 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0048",
+    "status": "open",
+    "question": "로도스 섬과 트리폴리 도시·주의 이름은 각 통치기관과 현지 자료에서 어떻게 확인되는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0002",
+      "CAT-IT-GEO-0004",
+      "CAT-IT-GEO-0008",
+      "CAT-IT-GEO-0009",
+      "CAT-IT-SRC-0100",
+      "CAT-IT-SRC-0104",
+      "CAT-IT-SRC-0113",
+      "CAT-IT-SRC-0114",
+      "CAT-IT-SRC-0115",
+      "CAT-IT-SRC-0116"
+    ],
+    "evidence": "로도스는 동시대 지도 소장 목록과 전후 조약, 트리폴리는 당대 통계연감과 현대 유엔 지명 자료를 대조했다.",
+    "completion_condition": "이탈리아·연합군의 원도와 영·프 군정 지명집, 전시 그리스어·아랍어 자료를 확인한다. 나머지 북아프리카·아드리아해 사례를 보완한다."
   }
 ]

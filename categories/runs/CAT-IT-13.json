@@ -1,0 +1,62 @@
+{
+  "step": 108,
+  "job_id": "CAT-IT-13",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 13,
+  "category": "당시 기준 지명",
+  "article_path": "categories/italy/13-historical-place-names.md",
+  "status": "partial",
+  "started_at": "2026-11-17T22:50:30+09:00",
+  "completed_at": "2026-11-17T22:56:34+09:00",
+  "base_head": "3e07f14bb41fb538cbfd9bd32feeae6021b607c5",
+  "source_ids": [
+    "CAT-IT-SRC-0088",
+    "CAT-IT-SRC-0100",
+    "CAT-IT-SRC-0104",
+    "CAT-IT-SRC-0107",
+    "CAT-IT-SRC-0108",
+    "CAT-IT-SRC-0109",
+    "CAT-IT-SRC-0110",
+    "CAT-IT-SRC-0111",
+    "CAT-IT-SRC-0112",
+    "CAT-IT-SRC-0113",
+    "CAT-IT-SRC-0114",
+    "CAT-IT-SRC-0115",
+    "CAT-IT-SRC-0116",
+    "CAT-IT-SRC-0117"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0046",
+    "CAT-IT-RQ-0047",
+    "CAT-IT-RQ-0048"
+  ],
+  "entity_ids": [
+    "CAT-IT-GEO-0002",
+    "CAT-IT-GEO-0004",
+    "CAT-IT-GEO-0005",
+    "CAT-IT-GEO-0006",
+    "CAT-IT-GEO-0007",
+    "CAT-IT-GEO-0008",
+    "CAT-IT-GEO-0009"
+  ],
+  "research_scope": "카시빌레·페어필드 캠프, 피우메·폴라, 로도스 섬, 트리폴리의 전시 기록 표기와 현대 대응명.",
+  "limitations": [
+    "캠프와 도시·주 경계, 군정기 최초·최종 명칭 적용일과 당대 크로아티아어·그리스어·아랍어 현지 사용은 미확인이다.",
+    "로도스 지도는 보존 목록을 확인했다. 이스트리아 해역 지도 E의 판독은 폴라 명칭을 확인하는 데 사용했다."
+  ],
+  "evidence_checked": [
+    "이탈리아 휴전 협정 및 북아드리아해 연합군 군정 협정, FRUS 전보, 평화조약 본문과 지도 E의 폴라 표기.",
+    "로도스 미군 지도 목록, 리예카·풀라·로도스 지자체 자료, 이탈리아 왕국 통계연감, 유엔 지명 자료."
+  ],
+  "access_attempts": [
+    "Princeton 지도 원도 주소는 도구에서 접근 불가였고 NLA의 다른 영국 지도 이미지 주소는 접근 거부였다. 기초 이탈리아 지도 표제는 AMS 지도 목록에서만 확인했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=108 pending=25; sources=1095 questions=411. Structural check only.",
+    "path_check": "변경 8개 경로는 모두 categories/ 하위."
+  }
+}

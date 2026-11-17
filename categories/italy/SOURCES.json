@@ -2120,5 +2120,225 @@
     ],
     "rights": "기관 공개 열람 자료. 자체 한국어 요약과 링크만 사용했다.",
     "independence_group": "왕국 1936년 조사 통계의 후대 재수록"
+  },
+  {
+    "id": "CAT-IT-SRC-0107",
+    "title": "Armistice with Italy; September 3, 1943",
+    "institution_or_author": "미국 국무부 조약집 / Yale Law School Avalon Project",
+    "publication_date": "1943-09-03",
+    "source_type": "primary",
+    "document_or_accession_number": "61 Stat. 2740, TIAS 1604",
+    "locator": "문서 표제 아래 FAIRFIELD CAMP / SICILY와 서명부",
+    "url": "https://avalon.law.yale.edu/wwii/italy01.asp",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "휴전 문서가 서명지를 Fairfield Camp, Sicily로 적었음을 확인했다."
+    ],
+    "limitations": [
+      "전사본이다. 캠프의 정확한 경계나 지적 위치는 기재하지 않는다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "미국 국무부 조약집 / Yale Law School Avalon Project"
+  },
+  {
+    "id": "CAT-IT-SRC-0108",
+    "title": "Giuseppe Raeli il mostro di Cassibile",
+    "institution_or_author": "Pasquale Salemme / Polizia Penitenziaria SGS Rivista On line",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "첫 3단락의 카시빌레 위치 및 휴전 설명",
+    "url": "https://www.poliziapenitenziaria.it/giuseppe-raeli-il-mostro-di-cassibile/amp/",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "카시빌레를 오늘날 시라쿠사 시 소속으로 설명하고 휴전과 연결한다."
+    ],
+    "limitations": [
+      "현대 지역 설명만 썼다. 서명지의 지적 경계, 당대 행정 경계·협정 효력 발생일의 근거로 사용하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "Pasquale Salemme / Polizia Penitenziaria SGS Rivista On line"
+  },
+  {
+    "id": "CAT-IT-SRC-0109",
+    "title": "Mr. Alexander C. Kirk to the Secretary of State, June 16, 1945",
+    "institution_or_author": "Alexander C. Kirk / U.S. Department of State, Office of the Historian",
+    "publication_date": "1945-06-16",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1945, Europe IV, 문서 1107, 전보 2643",
+    "locator": "협정안 제2·6·12항과 편집자 각주 2",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v04/d1107",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "협정안이 1939년 이탈리아의 행정구획 피우메(카르나로)·폴라(이스트리아)를 명시하고 폴라 주변 연합군 점령을 별도로 규정함을 확인했다."
+    ],
+    "limitations": [
+      "6월 16일 전보에 실린 협정안이다. 각주가 6월 20일 서명을 확인하나 부속 지도는 이 페이지에 없다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "Alexander C. Kirk / U.S. Department of State, Office of the Historian"
+  },
+  {
+    "id": "CAT-IT-SRC-0110",
+    "title": "Agreement for the Provisional Administration of Venezia Giulia; June 9, 1945",
+    "institution_or_author": "미국·영국·유고슬라비아 합의 / Yale Law School Avalon Project",
+    "publication_date": "1945-06-09",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "제2–4·7항",
+    "url": "https://avalon.law.yale.edu/wwii/venezia.asp",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "폴라 시내와 주변의 유고 정규군 철수 시한 및 연합군 군정 예정과 최종 귀속 별도 조항을 확인했다."
+    ],
+    "limitations": [
+      "협정 본문 전사다. 시행일의 현장 기록과 부속 지도는 이번 확인 범위에 없다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "미국·영국·유고슬라비아 합의 / Yale Law School Avalon Project"
+  },
+  {
+    "id": "CAT-IT-SRC-0111",
+    "title": "History of Rijeka",
+    "institution_or_author": "City of Rijeka",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1924년 편입, 1943–1945년 독일 점령, 1947년과 1948년 단락",
+    "url": "https://www.rijeka.hr/en/city-government/history-of-rijeka/?noredirect=en-GB",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현재 크로아티아어 명칭 Rijeka와 점령 연혁, 1948년 수샤크와 통합을 확인했다."
+    ],
+    "limitations": [
+      "현대 시의 연혁이다. 당시 시 경계나 크로아티아어의 공식 사용 개시일은 별도 사료가 필요하다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "City of Rijeka"
+  },
+  {
+    "id": "CAT-IT-SRC-0112",
+    "title": "Priručnik integriranog sustava upravljanja",
+    "institution_or_author": "Grad Pula / Città di Pola",
+    "publication_date": "2014-11-10 (제3판 유효일)",
+    "source_type": "primary",
+    "document_or_accession_number": "PR 5.00.00, verzija 3",
+    "locator": "표지·4쪽의 시 명칭",
+    "url": "https://www.pula.hr/site_media/media/typo3/fileadmin/sadrzaji/dokumenti/sanja/Prirucnik_integriranog_sustava_upravljanja.pdf",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "시 행정 문서에서 크로아티아어 Grad Pula와 이탈리아어 Città di Pola 병기를 확인했다."
+    ],
+    "limitations": [
+      "현대 병기의 증거다. 1940년대 언어별 사용 빈도는 보여주지 않는다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "Grad Pula / Città di Pola"
+  },
+  {
+    "id": "CAT-IT-SRC-0113",
+    "title": "Treaty of Peace with Italy",
+    "institution_or_author": "UN Treaty Series, 조약 보존·출판",
+    "publication_date": "1947-02-10 (서명), 1950 (UNTS 수록)",
+    "source_type": "primary",
+    "document_or_accession_number": "UNTS vol. 49, no. 747",
+    "locator": "제3·11·14조",
+    "url": "https://treaties.un.org/doc/publication/unts/volume%2049/v49.pdf",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "유고슬라비아 관련 국경·영토 조항과 그리스에 양도된 Rhodes (Rhodos) 표기를 확인했다."
+    ],
+    "limitations": [
+      "1945년 당시 실효지배나 각 도시의 언어 사용을 정하는 문서는 아니다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "파리 평화조약 제747호 본문 및 부속 지도"
+  },
+  {
+    "id": "CAT-IT-SRC-0114",
+    "title": "Rodi (Rhodes): Special strategic map",
+    "institution_or_author": "U.S. Army Map Service / Princeton University Library / AGSL GeoDiscovery",
+    "publication_date": "1943-05 편찬, 목록에 3/45 ED. 표기",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "A.M.S. 6201, 302029, ark:/88435/dcjq085x91h",
+    "locator": "표제·Description의 원도 서지 및 판 표시",
+    "url": "https://geodiscovery.uwm.edu/catalog/princeton-dcjq085x91h",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "지도 목록에서 Rodi (Rhodes) 표제와 1931년 이탈리아 IGM 원도의 Isola di Rodi 표기를 확인했다."
+    ],
+    "limitations": [
+      "목록과 설명만 확인했다. Princeton 원도 접근은 실패했다. 해당 지도와 별개인 NLA의 GSGS 4161 스캔도 접근 거부였다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "U.S. Army Map Service / Princeton University Library / AGSL GeoDiscovery"
+  },
+  {
+    "id": "CAT-IT-SRC-0115",
+    "title": "Νότια Ρόδος – Ιταλοκρατία",
+    "institution_or_author": "Municipality of Rhodes",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1943년 9월 휴전 이후와 1945년 5월 9일 단락",
+    "url": "https://www.rhodes.gr/notia-rodos/notia-rodos-italokratia/",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현대 그리스어 Ρόδος, 독일군 우세로 끝난 1943년 교전, 1945년 5월 9일 영국·그리스 병력 상륙 서술을 확인했다."
+    ],
+    "limitations": [
+      "남부 로도스 지역 연혁이다. 섬 전역의 정확한 인수 시각과 행정 기관별 변경일은 별도 검증이 필요하다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "Municipality of Rhodes"
+  },
+  {
+    "id": "CAT-IT-SRC-0116",
+    "title": "City Details – Tripoli",
+    "institution_or_author": "United Nations Group of Experts on Geographical Names",
+    "publication_date": null,
+    "source_type": "official_database",
+    "document_or_accession_number": "City id 48, M49 434",
+    "locator": "Capital city·Endonyms",
+    "url": "https://ungegn.un.org/dashboard/cities/details?crM49=434&id=48",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "리비아 Tripoli의 현지 아랍어 طرابلس 및 로마자 Ţarābulus를 확인했다."
+    ],
+    "limitations": [
+      "현재 지명 자료다. 전시 현지 문서의 사용이나 당시 시역의 범위는 확인할 수 없다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "United Nations Group of Experts on Geographical Names"
+  },
+  {
+    "id": "CAT-IT-SRC-0117",
+    "title": "Annex I (maps) to Treaty of Peace with Italy",
+    "institution_or_author": "UN Treaty Series, 조약 부속 지도",
+    "publication_date": "1947 (조약 부속), 1950 (UNTS 수록)",
+    "source_type": "primary",
+    "document_or_accession_number": "UNTS vol. 50, no. 747, Annex I, map E",
+    "locator": "지도 E (a), PDF 53번째 쪽, 이스트리아 남단의 Pola 표기",
+    "url": "https://treaties.un.org/doc/publication/unts/volume%2050/v50.pdf#page=53",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "UN 수록 지도 스캔에서 이스트리아 남단 Pola의 인쇄 표기를 확인했다."
+    ],
+    "limitations": [
+      "제11조 해역 부속도의 지명 표기다. 1945년 군정 경계 및 현재 시 경계의 근거로 쓰지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "파리 평화조약 제747호 본문 및 부속 지도"
   }
 ]

@@ -1504,8 +1504,9 @@
     "category": "당시 기준 지명",
     "article_path": "categories/italy/13-historical-place-names.md",
     "planned_at": "2026-11-17T19:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-IT-13.json",
+    "completed_at": "2026-11-17T22:56:34+09:00"
   },
   {
     "step": 109,
