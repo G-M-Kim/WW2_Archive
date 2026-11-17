@@ -2509,3 +2509,6 @@ as_of: 2026-11-04
 | SRC-2182 | *FRUS 1943*, Document 616 / 미 국무부 수록 당대 회담·휴전 기록 | 1차(당대 외교문서) | FRUS 1943, Document 616 | https://history.state.gov/historicaldocuments/frus1943/d616 | 9/3 카시빌레 서명 당대 기록; 17:30 서술과 다른 시각 자료의 차이 확인 필요. 재배포 조건 별도 확인 |
 | SRC-2183 | *Operation Baytown, 3 September 1943 (Calabria)* / History of War | 2차(군사사 연구해설) | 1943-09-03 상륙과 작전 경과 | https://www.historyofwar.org/articles/operation_baytown.html | 제8군·제13군단의 칼라브리아 상륙 서술. 당대 부대일지·영국 공식 전사 미대조, 전력·손실 수치 인용 유보 |
 | SRC-2184 | *Armistice with Italy; September 3, 1943* / Yale Avalon Project, 미 조약집 원문 수록 | 1차 수록(당대 협정 원문) | 61 Stat. 2740; TIAS 1604 | https://avalon.law.yale.edu/wwii/italy01.asp | 서명일·당사자·조항 확인. 협정 원문과 9/8 방송·실행일의 차이는 FRUS 및 후속 원전 교차 필요 |
+
+| SRC-2185 | *FRUS 1943, Conferences at Washington and Quebec*, Document 610 / 미·영 간 1943-09-07 휴전 공표 관련 전문 | 1차(당대 외교문서) | Document 610 | https://history.state.gov/historicaldocuments/frus1943/d610 | 9/8 예정 방송과 실제 방송·발효의 시각을 구분해야 함. 당시 외교적 계획 문서로 실행 사실 전체의 독립 증빙은 아님. 재배포 권리 미확인 |
+| SRC-2186 | *Allied Invasion of Mainland Italy: September 9–16, 1943* / 미국 해군 역사유산사령부 NHHC | 2차(해군 공식 역사해설) | 살레르노 상륙·해군 지원 | https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/wwii/wwii-europe/italian-campaign/allied-invasion-mainland-italy.html | 9/9 상륙과 함대 지원 개요. 당대 작전일지·독일측 자료 및 인명피해 원전 미대조. 재배포 권리 미확인 |
