@@ -1640,5 +1640,185 @@
     ],
     "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
     "independence_group": "Aeronautica Militare"
+  },
+  {
+    "id": "CAT-IT-SRC-0083",
+    "title": "10 GIUGNO ANNO XVIII [Main Title]",
+    "institution_or_author": "Istituto Nazionale Luce / Imperial War Museums",
+    "publication_date": "1940-06-10",
+    "source_type": "primary",
+    "document_or_accession_number": "COI 574",
+    "locator": "Description, Physical Characteristics, Technical Details",
+    "url": "https://film.iwmcollections.org.uk/record/18093",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "로마 발코니 현장 및 각 도시 군중을 편집한 당대 루체 필름의 목록을 확인했다. 흑백 유성, 35㎜ 1릴 909피트, 목록상 10분이다."
+    ],
+    "limitations": [
+      "IWM 소장본은 미디지털화. 필름 재생·연설 타임코드 미확인."
+    ],
+    "rights": "IWM 목록에 © IWM (COI 574) 표기. 원본 및 복제 사용은 기관 조건 확인.",
+    "independence_group": "Istituto Luce 1940 필름"
+  },
+  {
+    "id": "CAT-IT-SRC-0084",
+    "title": "La dichiarazione di guerra",
+    "institution_or_author": "Archivio Storico Istituto Luce",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "연설 발췌문과 공개본 링크, Un cortometraggio del 2014",
+    "url": "https://www.archivioluce.com/10-giugno-1940-litalia-e-in-guerra/",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 6월 10일 로마 베네치아 광장에서 행한 참여 발표와 영·프 대사에게 선언 전달을 언급한 발췌문을 확인했다. 2014년 단편은 별도다."
+    ],
+    "limitations": [
+      "삽입 재생 주소는 요청 제한, 시청 주소도 가져오기 오류였다. 공개본과 IWM 판본의 동일성 미확인."
+    ],
+    "rights": "공개 해제·링크만 사용. 영화·음성 재사용 조건 별도.",
+    "independence_group": "Istituto Luce 1940 필름"
+  },
+  {
+    "id": "CAT-IT-SRC-0085",
+    "title": "La dichiarazione di guerra a colori",
+    "institution_or_author": "Archivio Storico Istituto Luce",
+    "publication_date": "2020-06-10",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "디지털 복원 프로젝트와 첫 1분 30초 공개 단락",
+    "url": "https://www.archivioluce.com/la-dichiarazione-di-guerra-a-colori/",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "루체가 원필름을 디지털 복원·채색했고, 8분이라고 소개한 영상에서 1분 30초의 발췌를 공개한 사실을 확인했다."
+    ],
+    "limitations": [
+      "공지와 영상 링크를 열었다. 실제 재생과 IWM 10분 판본 대조는 하지 못했다."
+    ],
+    "rights": "채색 복원판은 별도 제작물. 공개 링크만 사용.",
+    "independence_group": "Istituto Luce 1940 필름"
+  },
+  {
+    "id": "CAT-IT-SRC-0086",
+    "title": "Armistice with Italy and their declaration of war with Germany — Circular No. 88",
+    "institution_or_author": "Secretary of State for the Colonies / Falkland Islands National Archives",
+    "publication_date": "1943-09-08",
+    "source_type": "primary",
+    "document_or_accession_number": "WARW2H/8#6, telegram No. 240, Circular No. 88",
+    "locator": "PDF 6쪽, 1943-09-08 영국 식민부 전보의 바돌리오 전달문",
+    "url": "https://nationalarchives.gov.fk/jdownloads/Defence%20and%20War/WWII%20-%20General/WAR-W2H-8-6.%20Armistice%20with%20Italy%20and%20their%20declaration%20of%20war%20with%20Germany.pdf#page=6",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 전보 원문에서 바돌리오 포고의 영어 전달문을 열고 영미군 상대 적대행위 중지와 다른 공격에 대한 대응을 확인했다."
+    ],
+    "limitations": [
+      "영어 전달문이다. 최초 방송 시각, 이탈리아어 원음이나 화면을 증명하지 않는다."
+    ],
+    "rights": "공개 기록관 디지털 사본. 링크·자체 요약만 사용.",
+    "independence_group": "British Colonial Office Circular No. 88"
+  },
+  {
+    "id": "CAT-IT-SRC-0087",
+    "title": "Una radio allo sbando : l'8 settembre 1943 ai microfoni dell'Eiar",
+    "institution_or_author": "Gianni Isola / Mélanges de l’École française de Rome. Italie et Méditerranée",
+    "publication_date": "1996",
+    "source_type": "secondary",
+    "document_or_accession_number": "108(1), pp. 137–145, DOI 10.3406/mefr.1996.4427",
+    "locator": "138쪽, Via Asiago 및 포고문 전사 단락",
+    "url": "https://www.persee.fr/doc/mefr_1123-9891_1996_num_108_1_4427?pageId=T1_138",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "로마 비아 아시아고 방송국, 송출 직전 녹음이라는 저자 설명과 이탈리아어 포고문을 대조했다."
+    ],
+    "limitations": [
+      "방송국 원녹음과 운행표는 직접 확인하지 않았다."
+    ],
+    "rights": "Persée 공개 열람. 링크·자체 요약만 사용.",
+    "independence_group": "Gianni Isola"
+  },
+  {
+    "id": "CAT-IT-SRC-0088",
+    "title": "Sicily and the Surrender of Italy",
+    "institution_or_author": "Albert N. Garland and Howard McGaw Smyth / U.S. Army Center of Military History",
+    "publication_date": "1963",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 6-2",
+    "locator": "제27장, 513쪽, 특히 주 5",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/6-2.pdf",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "바돌리오 낭독 시각 19:45, 방송국의 녹음·재방송 설명과 동시대 외국 방송 감청 일보를 인용한 각주를 확인했다."
+    ],
+    "limitations": [
+      "인용한 감청 일보 원본은 미열람. 최초 송출과 녹음 순서를 방송 원장으로 확정하지 못했다."
+    ],
+    "rights": "미 육군 공개 전사 PDF. 링크·자체 요약만 사용.",
+    "independence_group": "U.S. Army official history"
+  },
+  {
+    "id": "CAT-IT-SRC-0089",
+    "title": "8 settembre 1943 - Badoglio annuncia la resa",
+    "institution_or_author": "Rai TG1, Gianni Bisiach / Archivio storico della Presidenza della Repubblica",
+    "publication_date": "2012-09-07",
+    "source_type": "secondary",
+    "document_or_accession_number": "AV-002-000305",
+    "locator": "DURATA, DATA DI TRASMISSIONE, 내용 해제",
+    "url": "https://archivio.quirinale.it/aspr/gianni-bisiach/AV-002-000305/8-settembre-1943-badoglio-annuncia-resa",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "후대 다큐멘터리 길이 1분 49초와 바돌리오 육성 사용이라는 해제를 확인했다."
+    ],
+    "limitations": [
+      "구간 재생, 원반 계보, 육성 길이, 영상의 정지화면 사용 및 1943년 직접 촬영 여부는 미확인."
+    ],
+    "rights": "포털은 문서에 CC BY-NC를 표시한다. 수록 Rai 영상·원음의 재사용은 별도 권리 확인.",
+    "independence_group": "Rai TG1 Un minuto di storia"
+  },
+  {
+    "id": "CAT-IT-SRC-0090",
+    "title": "Le giornate milanesi del Duce",
+    "institution_or_author": "Istituto Luce / Archivio storico Istituto Luce",
+    "publication_date": "1944-12-27",
+    "source_type": "primary",
+    "document_or_accession_number": "Giornale Luce C0418, C041801, IL5000021164",
+    "locator": "data, durata, sonoro, sequenze",
+    "url": "https://patrimonio.archivioluce.com/luce-web/detail/IL5000021164/2/giornate-milanesi-del-duce.html?startPage=0",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 흑백 유성 뉴스릴 9분 27초의 장면 목록에서 극장 연설, 청취자, 자료화면, 별도 장소 발언을 확인했다."
+    ],
+    "limitations": [
+      "내장 미디어 요청 제한과 시청 주소 접근 오류로 본편 타임코드·음성 동기·연설 전체 수록은 미확인."
+    ],
+    "rights": "루체 공개 목록 및 재생 링크. 재업로드나 재사용 허가 여부는 별도.",
+    "independence_group": "Istituto Luce 1944 뉴스릴"
+  },
+  {
+    "id": "CAT-IT-SRC-0091",
+    "title": "16 dicembre 1944 - Mussolini discorso al Lirico",
+    "institution_or_author": "Rai TG1, Gianni Bisiach / Archivio storico della Presidenza della Repubblica",
+    "publication_date": "2001-12-14",
+    "source_type": "secondary",
+    "document_or_accession_number": "AV-002-001199",
+    "locator": "내용 해제, 아날로그 매체, DATA DI TRASMISSIONE",
+    "url": "https://archivio.quirinale.it/aspr/gianni-bisiach/AV-002-001199/16-dicembre-1944-mussolini-discorso-al-lirico",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 12월 16일 밀라노 리리코 극장 연설과 발언 일부를 소개한다. 2001년 방송물의 보존 매체는 미디지털화 BETA SP다."
+    ],
+    "limitations": [
+      "목록 해제만 확인. 후대 편집물의 원소재가 C041801과 독립 촬영인지 미확인."
+    ],
+    "rights": "포털 문서의 권리 표기와 Rai 영상 권리는 별도. 링크·자체 요약만 사용.",
+    "independence_group": "Rai TG1 Un minuto di storia"
   }
 ]
