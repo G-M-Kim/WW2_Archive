@@ -2512,3 +2512,6 @@ as_of: 2026-11-04
 
 | SRC-2185 | *FRUS 1943, Conferences at Washington and Quebec*, Document 610 / 미·영 간 1943-09-07 휴전 공표 관련 전문 | 1차(당대 외교문서) | Document 610 | https://history.state.gov/historicaldocuments/frus1943/d610 | 9/8 예정 방송과 실제 방송·발효의 시각을 구분해야 함. 당시 외교적 계획 문서로 실행 사실 전체의 독립 증빙은 아님. 재배포 권리 미확인 |
 | SRC-2186 | *Allied Invasion of Mainland Italy: September 9–16, 1943* / 미국 해군 역사유산사령부 NHHC | 2차(해군 공식 역사해설) | 살레르노 상륙·해군 지원 | https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/wwii/wwii-europe/italian-campaign/allied-invasion-mainland-italy.html | 9/9 상륙과 함대 지원 개요. 당대 작전일지·독일측 자료 및 인명피해 원전 미대조. 재배포 권리 미확인 |
+
+| SRC-2187 | *September: 16 September 1943, Lae* / Australian War Memorial | 2차(호주 공식 전쟁사 연표) | 1943-09-16 라에 점령 | https://www.awm.gov.au/articles/atwar/sep | 라에 전투 종료일 및 일본군 철수 요약. 개별 부대의 최초 진입시각·일본군 병력/피해는 당대 전투상보 미대조, 재배포 권리 미확인 |
+| SRC-2188 | *World War II — Asiatic-Pacific Theater* / U.S. Army Center of Military History | 2차(미 육군 공식 전역 해설) | 뉴기니 전역: 라에 1943-09-16 | https://history.army.mil/Research/Reference-Topics/Army-Campaigns/Brief-Summaries/World-War-II/World-War-II-Asiatic-Pacific-Theater/ | 9/4 제9사단 상륙, 9/5 나드자브 공수, 9/16 라에 확보의 구별 확인. 일본군 탈출 인원·사상자는 별도 양측 원자료 필요 |
