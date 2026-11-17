@@ -2480,5 +2480,185 @@
     ],
     "rights": "공개 원문·기관 해제. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·지도 재사용 조건은 별도 확인한다.",
     "independence_group": "United States Holocaust Memorial Museum, Holocaust Encyclopedia"
+  },
+  {
+    "id": "CAT-IT-SRC-0125",
+    "title": "The mineral industry of the British Empire and foreign countries: statistical summary (production, imports and exports) 1938–1944",
+    "institution_or_author": "Imperial Institute / HMSO / British Geological Survey, NERC Open Research Archive",
+    "publication_date": "1948",
+    "source_type": "primary",
+    "document_or_accession_number": "NORA eprint 535289",
+    "locator": "보크사이트 생산·알루미늄 추정 생산 표(11–13쪽), 강괴·주강 생산 표(152쪽), 원유 생산 표 및 각주 (c)(224–225쪽), 텅스텐 수입 표(349쪽)",
+    "url": "https://nora.nerc.ac.uk/id/eprint/535289/1/SS_1938_1944.pdf",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 보크사이트 채굴과 알루미늄 금속 생산의 별도 표, 이탈리아 강괴·주강의 국가별 집계, 이탈리아·알바니아 원유의 별도 행, 이탈리아 텅스텐 금속·페로텅스텐 수입행을 확인했다."
+    ],
+    "limitations": [
+      "당대 자료를 집계한 전후 공식 통계다. 다른 국가의 통계를 이용하므로 모든 수치가 독립 관측은 아니다. 장톤을 쓰며 수입의 (a)는 미확인이다. 이탈리아 원유행에 셰일유가 포함된다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Imperial Institute 공식 편집통계"
+  },
+  {
+    "id": "CAT-IT-SRC-0126",
+    "title": "Annuario Statistico Italiano 1939",
+    "institution_or_author": "Istituto Centrale di Statistica del Regno d’Italia",
+    "publication_date": "1939",
+    "source_type": "primary",
+    "document_or_accession_number": "RAV0040597ASI1939",
+    "locator": "101쪽 V. Industrie, F.1 Industria mineraria, Miniere e ricerche attive produttive",
+    "url": "https://ebiblio.istat.it/digibib/Annuario%20Statistico%20Italiano/RAV0040597ASI1939.pdf",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 보크사이트 채굴 360,837미터톤과 표의 품목 및 단위를 확인했다."
+    ],
+    "limitations": [
+      "1939년판 표의 이 수치는 1938년 생산이다. 1939년 이후 생산이나 출하량을 입증하지 않는다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "이탈리아 중앙통계기관 공식 통계"
+  },
+  {
+    "id": "CAT-IT-SRC-0127",
+    "title": "Zhvillimi i industrisë së naftës dhe gazit në Shqipëri",
+    "institution_or_author": "Albpetrol 공개 자료",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "13쪽, Kuçovë–Uji i Ftohtë Vlorë 송유관과 Kuçovë 생산 단락",
+    "url": "https://www.albpetrol.al/wp-content/uploads/2020/04/ZHVILLIMI-I-INDUSTRIS%C3%8B-S%C3%8B-NAFT%C3%8BS-DHE-GAZIT-N%C3%8B-SHQIP%C3%8BRI.pdf",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Kuçovë 유전의 1941년 추출량 148,000톤을 확인했다."
+    ],
+    "limitations": [
+      "후대 산업사 요약이다. 알바니아 국가 총계나 이탈리아에 실제 도착한 중량을 나타내지 않는다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Albpetrol 알바니아 석유산업사"
+  },
+  {
+    "id": "CAT-IT-SRC-0128",
+    "title": "La storia di Eni — Tutte le voci di Eni",
+    "institution_or_author": "Agostini·Favero / Università Ca’ Foscari Venezia, IRIS",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "102–103쪽, 각주 15–20과 그림 3",
+    "url": "https://iris.unive.it/retrieve/284354d2-8acb-4fa9-969e-d53a8f885077/ENI_IIIB_Agostini%20Favero.pdf",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "AIPA의 1940년 7월 AGIP 편입, 바리·리보르노의 알바니아 원유 처리, 1940년 SICS 합성연료 시설 건설, 멕시코 계약 맥락을 확인했다."
+    ],
+    "limitations": [
+      "AGIP 경영진 보고서에 근거한 원고다. 이 자료의 항목별 수치로 이탈리아 전체 수입량과 합성유 생산량을 계산할 수 없다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "AGIP 연차 보고서 재구성"
+  },
+  {
+    "id": "CAT-IT-SRC-0129",
+    "title": "Albanian chromite mines — declassified report extract",
+    "institution_or_author": "CIA Reading Room, 이탈리아 광업 보고의 영어 전재·요약",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "CIA-RDP80-00809A000600140131-1",
+    "locator": "공개 PDF 첫 페이지 INTRODUCTION, 본문 ‘A total of 160 mines…’ 단락",
+    "url": "https://www.cia.gov/readingroom/docs/CIA-RDP80-00809A000600140131-1.pdf",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 상품광 37,867톤과 평균 Cr₂O₃ 42%, 서론의 약 38,000톤, 1943년의 계획/추정 성격을 확인했다."
+    ],
+    "limitations": [
+      "비식별 공개본의 영어 보고이며 원 이탈리아어 표와 최초 작성일은 미확보했다. 1943년 추정치를 실적으로 사용하지 않았다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "이탈리아 전시 크롬 광업 보고 계열"
+  },
+  {
+    "id": "CAT-IT-SRC-0130",
+    "title": "Cromo",
+    "institution_or_author": "Istituto della Enciclopedia Italiana, Treccani",
+    "publication_date": "1948",
+    "source_type": "secondary",
+    "document_or_accession_number": "Enciclopedia Italiana, II Appendice",
+    "locator": "알바니아 AMMI 생산 단락 및 AMMI 1947 서지",
+    "url": "https://www.treccani.it/enciclopedia/cromo_res-8de381ab-87e5-11dc-8e9d-0016357eee51_%28Enciclopedia-Italiana%29/",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 AMMI 37,870톤, 1943년 31,100톤의 첫 9개월 표기를 확인했다."
+    ],
+    "limitations": [
+      "1947년 AMMI 자료에 의존한다. CIA 공개본의 배경이 된 이탈리아 자료와 계보 독립성이 입증되지 않았다. 서두 세계표의 산화물 환산 단위를 AMMI 단락에 옮겨 쓰지 않았다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "AMMI 보고 계열 가능성"
+  },
+  {
+    "id": "CAT-IT-SRC-0131",
+    "title": "Gomma elastica",
+    "institution_or_author": "Istituto della Enciclopedia Italiana, Treccani",
+    "publication_date": "1948",
+    "source_type": "secondary",
+    "document_or_accession_number": "Enciclopedia Italiana, II Appendice",
+    "locator": "Ferrara·Terni 단락",
+    "url": "https://www.treccani.it/enciclopedia/gomma-elastica_res-e789cb7b-87e5-11dc-8e9d-0016357eee51_%28Enciclopedia-Italiana%29/",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Ferrara 공업 생산 가동이 1942년 시작됐고, Terni의 연 18,000톤은 설계 능력이며 설비 반출이 완공 전에 이뤄졌다는 기록을 확인했다."
+    ],
+    "limitations": [
+      "1948년의 회고 해설이다. Ferrara의 연도별 생산 원장과 천연고무 수입량은 확인되지 않는다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Treccani 초기 전후 고무 해설"
+  },
+  {
+    "id": "CAT-IT-SRC-0132",
+    "title": "Università e grande industria per un trasferimento tecnologico di successo",
+    "institution_or_author": "La Chimica e l’Industria online / Società Chimica Italiana",
+    "publication_date": "2025-10",
+    "source_type": "secondary",
+    "document_or_accession_number": "Anno IX, n. 5",
+    "locator": "49–50쪽, Ferrara 시험·공업 가동 및 The fate of industrial plants and companies",
+    "url": "https://www.soc.chim.it/sites/default/files/chimind/pdf/2025_5_46_ca.pdf",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 10월 Ferrara 시험 시설과 1942년 4월 공업 시설 가동, 1944년 공장 폐쇄, Terni 설비 반출을 확인했다."
+    ],
+    "limitations": [
+      "후대 기술사이며 Ferrara의 13,000톤을 연간으로 표현한다. 원장과 집계 기간을 확인하기 전까지 이 수치를 실적으로 채택하지 않았다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Società Chimica Italiana 기술사"
+  },
+  {
+    "id": "CAT-IT-SRC-0133",
+    "title": "1462. [Pratiche rifiutate o abbandonate] — Società Anonima Industria Gomma Sintetica SAIGS",
+    "institution_or_author": "Archivio storico Intesa Sanpaolo / Istituto Mobiliare Italiano",
+    "publication_date": "1939–1944",
+    "source_type": "finding_aid",
+    "document_or_accession_number": "IT-ISP-AS00004-0004987, pratica 1462",
+    "locator": "기록 목록 sf. b, sf. d 및 Francesco Mauro 보고서(1942-10-27)",
+    "url": "https://asisp.intesasanpaolo.com/intesa-web/detail/IT-ISP-AS00004-0004987/1462-pratiche-rifiutate-o-abbandonate",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [
+      "Ferrara 설비 목록, Terni 배치도 및 두 공장에 관한 1942년 기술보고서가 기록 목록에 있음을 확인했다."
+    ],
+    "limitations": [
+      "첨부는 등록자 열람으로 안내된다. 소장 목록을 열람했으며 보고서의 본문이나 첨부 표는 열람하지 않았다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Istituto Mobiliare Italiano 소장 목록"
   }
 ]
