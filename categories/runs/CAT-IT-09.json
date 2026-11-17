@@ -1,0 +1,57 @@
+{
+  "step": 104,
+  "job_id": "CAT-IT-09",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 9,
+  "category": "유명한 학자·연구자",
+  "article_path": "categories/italy/09-scientific-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-17T14:53:52+09:00",
+  "started_at": "2026-11-17T14:49:31+09:00",
+  "base_head": "6b7922d304db33ad70e3831fcc1cc660613a3cd9",
+  "source_ids": [
+    "CAT-IT-SRC-0037",
+    "CAT-IT-SRC-0052",
+    "CAT-IT-SRC-0053",
+    "CAT-IT-SRC-0075",
+    "CAT-IT-SRC-0076",
+    "CAT-IT-SRC-0077",
+    "CAT-IT-SRC-0078",
+    "CAT-IT-SRC-0079",
+    "CAT-IT-SRC-0080",
+    "CAT-IT-SRC-0081",
+    "CAT-IT-SRC-0082"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0033",
+    "CAT-IT-RQ-0034",
+    "CAT-IT-RQ-0035",
+    "CAT-IT-RQ-0036"
+  ],
+  "entity_ids": [
+    "CAT-IT-PER-0008",
+    "CAT-IT-PER-0009",
+    "CAT-IT-PER-0010",
+    "CAT-IT-PER-0011"
+  ],
+  "research_scope": "우고 티베리오·넬로 카라라의 전파 연구, 마리오 카스톨디·주세페 가브리엘리의 항공기 설계와 전시 소속·기여.",
+  "limitations": [
+    "티베리오 자필 원고는 연구서의 발췌 번역본을 확인했다. 개별 연구자 분담과 FIVRE 부품의 설계 경로는 미확인이다.",
+    "G.55 초도비행일은 두 문헌이 상충하며 제조사의 시험 원일지는 미확인이다."
+  ],
+  "evidence_checked": [
+    "1936년 원고 발췌 번역, 이탈리아 인물사전, 피사대 서지와 이탈리아 문화부 기록 안내.",
+    "MC.205·FIVRE 송신부 박물관 실물 목록, 토리노 공과대학 소장 인물 해제, 피아트·마키 관련 두 연구문헌과 공군 수송기 항목."
+  ],
+  "access_attempts": [
+    "이탈리아 공군 G.55 영문 상세 항목은 시간 초과였다. 토리노 공과대학과 두 연구문헌을 대조했다. 구 SIUSA의 Fiat Avio 링크는 국가 기록 포털 시작 화면으로 이동했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=104 pending=29; sources=1060 questions=399. Structural check only.",
+    "path_check": "변경 8개 경로는 모두 categories/ 하위."
+  }
+}

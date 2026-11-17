@@ -1480,5 +1480,165 @@
     ],
     "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
     "independence_group": "Archivio storico della Presidenza della Repubblica Italiana"
+  },
+  {
+    "id": "CAT-IT-SRC-0075",
+    "title": "TIBERIO, Ugo",
+    "institution_or_author": "Marco Gemignani / Dizionario Biografico degli Italiani, Treccani",
+    "publication_date": "2019",
+    "source_type": "secondary",
+    "document_or_accession_number": "vol. 95",
+    "locator": "리보르노 RIEC 및 1941년 왕립해군사관학교·EC3-ter 연구 단락",
+    "url": "https://www.treccani.it/enciclopedia/ugo-tiberio_(Dizionario-Biografico)/",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 왕립해군 기술장교의 RIEC 연구, 1941년 전기공학 교수직 및 협력진과 구포 개발을 확인했다."
+    ],
+    "limitations": [
+      "전기 자료다. 시제품 실험일과 함정별 운용이나 구성원별 업무를 원연구 일지에서 확인하지는 못했다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Marco Gemignani / Dizionario Biografico degli Italiani, Treccani"
+  },
+  {
+    "id": "CAT-IT-SRC-0076",
+    "title": "Bibliografia di Ugo Tiberio",
+    "institution_or_author": "Università di Pisa, Sistema Bibliotecario di Ateneo",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "첫 쪽 Bibliografia degli scritti, 1939·1941 항목",
+    "url": "https://www.sba.unipi.it/sites/default/files/persona_archivio/bibliografia_di_ugo_tiberio.pdf",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 전파 측거 저술과 1941년 전파 탐지 장비 연구문헌의 제목·연도 기재를 확인했다."
+    ],
+    "limitations": [
+      "서지 목록에 해당한다. 열람한 범위는 제목·연도이며 각 저술 전문은 미확보이다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Università di Pisa, Sistema Bibliotecario di Ateneo"
+  },
+  {
+    "id": "CAT-IT-SRC-0077",
+    "title": "Carrara Nello",
+    "institution_or_author": "SIUSA / Ministero della Cultura",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "생산자 레코드 Chiave 509",
+    "locator": "Biografia, RIEC 연구·티베리오와의 협력·브린디시 이전 단락",
+    "url": "https://siusa-archivi.cultura.gov.it/cgi-bin/pagina.pl?Chiave=509&TipoPag=prodpersona",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "왕립해군사관학교 물리학 교육, 티베리오와의 전파탐지 선행 연구, 1944년 브린디시 교육 활동을 확인했다."
+    ],
+    "limitations": [
+      "기록 생산자의 약력이다. 장치 단위 담당표나 제작사 도면·시험 대장을 제공하지 않는다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "SIUSA / Ministero della Cultura"
+  },
+  {
+    "id": "CAT-IT-SRC-0078",
+    "title": "CASTOLDI, Mario",
+    "institution_or_author": "Mario Gaudiano / Dizionario Biografico degli Italiani, Treccani",
+    "publication_date": "1979",
+    "source_type": "secondary",
+    "document_or_accession_number": "vol. 22",
+    "locator": "마키 기술책임자 재임 단락 및 MC.200~MC.206 목록",
+    "url": "https://www.treccani.it/enciclopedia/mario-castoldi_(Dizionario-Biografico)/",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "마키의 전시 기술책임자와 MC.202·MC.205 설계 귀속 및 MC.206 시제품 상태를 확인했다."
+    ],
+    "limitations": [
+      "톰프슨 연구서를 참고문헌에 포함한다. 두 자료를 항공기 성능의 독립 확증으로 계산하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Mario Gaudiano / Dizionario Biografico degli Italiani, Treccani"
+  },
+  {
+    "id": "CAT-IT-SRC-0079",
+    "title": "Aeroplano Macchi MC. 205 Veltro",
+    "institution_or_author": "Museo Nazionale Scienza e Tecnologia Leonardo da Vinci",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "IGB-7560 / IT-MUST-NTR001-001310",
+    "locator": "1943 표기·inventario·autori·descrizione",
+    "url": "https://collezioni-online.museoscienza.org/detail/IT-MUST-NTR001-001310/aeroplano-macchi-mc-205-veltro",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "실물 소장 기록에서 카스톨디를 설계자로 적고 MC.202에서 발전한 기종으로 설명함을 확인했다."
+    ],
+    "limitations": [
+      "설계자 표기는 현대 소장 해제의 귀속이다. 개별 설계 변경과 전시 인도일은 다른 당대 문서 확인이 필요하다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Museo Nazionale Scienza e Tecnologia Leonardo da Vinci"
+  },
+  {
+    "id": "CAT-IT-SRC-0080",
+    "title": "Gabrielli, Giuseppe, ingegnere, docente (1903–1987)",
+    "institution_or_author": "Politecnico di Torino, Collezioni Storiche",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "인물 레코드 5973",
+    "locator": "Fiat 입사·항공 기술부서 및 G.55·G.12 단락",
+    "url": "https://collezionistoriche.polito.it/it/entita/5973-Giuseppe%20Gabrielli",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "피아트 항공 설계자로서의 경력과 1942년 G.55·전시 G.12 설계 관련 설명을 확인했다."
+    ],
+    "limitations": [
+      "대학의 소장 인물 해제다. 항공기 간 성능 순위나 초도비행의 날짜를 확정하지 않는다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Politecnico di Torino, Collezioni Storiche"
+  },
+  {
+    "id": "CAT-IT-SRC-0081",
+    "title": "GABRIELLI, Giuseppe",
+    "institution_or_author": "Enzo Pozzato / Dizionario Biografico degli Italiani, Treccani",
+    "publication_date": "1998",
+    "source_type": "secondary",
+    "document_or_accession_number": "vol. 51",
+    "locator": "G 12T·G 55 기종별 개발 단락",
+    "url": "https://www.treccani.it/enciclopedia/giuseppe-gabrielli_(Dizionario-Biografico)/",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 G.12T 수송기 개발과 G.55의 초도비행을 1942년 4월 20일로 기록한 대목을 확인했다."
+    ],
+    "limitations": [
+      "톰프슨의 4월 30일과 상충한다. 초도비행 일지와 대조하지 않았으며 기재된 엔진 수치도 인용하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Enzo Pozzato / Dizionario Biografico degli Italiani, Treccani"
+  },
+  {
+    "id": "CAT-IT-SRC-0082",
+    "title": "Fiat G.12",
+    "institution_or_author": "Aeronautica Militare",
+    "publication_date": "2023-10-10 (웹 경로)",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "기종 소개 첫 단락",
+    "url": "https://www.aeronautica.difesa.it/2023/10/10/fiat-g-12-2/",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "G.12 계열을 금속제 삼발 수송기로 분류하는 공군 해설을 확인했다."
+    ],
+    "limitations": [
+      "개별 하위형의 전시 최초 비행·생산량·수송 실적을 확정하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Aeronautica Militare"
   }
 ]
