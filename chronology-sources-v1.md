@@ -2505,3 +2505,7 @@ as_of: 2026-11-04
 | SRC-2179 | *FRUS 1943, Conferences at Washington and Quebec*, Document 525 / 1943-08-24 | 1차(당대 외교문서) | Document 525 | https://history.state.gov/historicaldocuments/frus1943/d525 | 최종회의 관련 문건. 국가수뇌 승인과 후속 실행의 독립 증빙 필요, 재배포 권리 미확인 |
 | SRC-2180 | *75-året for overfaldet på hær og flåde* / 덴마크 국방부, 2018-08-29 | 2차(덴마크 국방부 역사해설) | 1943-08-29 덴마크군 피습·함정 자침 | https://www.forsvaret.dk/da/nyheder/2018/75-aret-for-overfaldet-pa-har-og-flade/ | 덴마크군 사망 23·부상 53은 군측 집계로 민간인 전체 피해와 구분. 원전 미대조 |
 | SRC-2181 | *August Uprising 1943* / 덴마크 왕립도서관 | 2차(국립도서관 역사해설·자료 안내) | 1943년 8월 봉기·독일 점령정책 | https://www.kb.dk/en/inspiration/liberation/august-uprising-1943 | 정치·사회 배경을 설명하나 함정별 손실과 당대 독일군 명령은 별도 검증 필요 |
+
+| SRC-2182 | *FRUS 1943*, Document 616 / 미 국무부 수록 당대 회담·휴전 기록 | 1차(당대 외교문서) | FRUS 1943, Document 616 | https://history.state.gov/historicaldocuments/frus1943/d616 | 9/3 카시빌레 서명 당대 기록; 17:30 서술과 다른 시각 자료의 차이 확인 필요. 재배포 조건 별도 확인 |
+| SRC-2183 | *Operation Baytown, 3 September 1943 (Calabria)* / History of War | 2차(군사사 연구해설) | 1943-09-03 상륙과 작전 경과 | https://www.historyofwar.org/articles/operation_baytown.html | 제8군·제13군단의 칼라브리아 상륙 서술. 당대 부대일지·영국 공식 전사 미대조, 전력·손실 수치 인용 유보 |
+| SRC-2184 | *Armistice with Italy; September 3, 1943* / Yale Avalon Project, 미 조약집 원문 수록 | 1차 수록(당대 협정 원문) | 61 Stat. 2740; TIAS 1604 | https://avalon.law.yale.edu/wwii/italy01.asp | 서명일·당사자·조항 확인. 협정 원문과 9/8 방송·실행일의 차이는 FRUS 및 후속 원전 교차 필요 |
