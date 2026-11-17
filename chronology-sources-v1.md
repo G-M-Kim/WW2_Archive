@@ -2500,3 +2500,8 @@ as_of: 2026-11-04
 
 | SRC-2176 | *Regensburg/Schweinfurt, August 17, 1943* / 미 공군 국립박물관 | 2차(미 공군 공식 역사해설) | 1943-08-17 양대 목표 공습·기상 지연·376대 출격과 60대 손실 | https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/1519655/regensburgschweinfurt-august-17-1943/ | 2026-11-17 공개 본문 확인. 376은 출격 편대 규모, 60은 손실 수; 600명 이상은 전사·실종·포로 합산으로 단일 전사자 수가 아님 |
 | SRC-2177 | *Schweinfurt–Regensburg Raid: August 17, 1943* / 미국 National WWII Museum | 2차(전쟁사 연구 해설) | 레겐스부르크 선발편대·슈바인푸르트 지연편대·북아프리카 착륙 및 공장 피해 | https://www.nationalww2museum.org/war/articles/schweinfurt-regensburg-raid-august-17-1943 | 2026-11-17 공개 본문 확인. 출격·폭격·귀환·추락 수치 구분 필요. 원본 미 제8공군 작전보고 및 독일측 산업생산 통계 미대조 |
+
+| SRC-2178 | *FRUS 1943, Conferences at Washington and Quebec*, Document 523 / CCS 최종보고, 1943-08-24 | 1차(당대 외교·참모문서) | Document 523 | https://history.state.gov/historicaldocuments/frus1943/d523 | 최종 보고 문건과 개별 작전 승인·실행 시점을 구분. 재배포 권리 미확인 |
+| SRC-2179 | *FRUS 1943, Conferences at Washington and Quebec*, Document 525 / 1943-08-24 | 1차(당대 외교문서) | Document 525 | https://history.state.gov/historicaldocuments/frus1943/d525 | 최종회의 관련 문건. 국가수뇌 승인과 후속 실행의 독립 증빙 필요, 재배포 권리 미확인 |
+| SRC-2180 | *75-året for overfaldet på hær og flåde* / 덴마크 국방부, 2018-08-29 | 2차(덴마크 국방부 역사해설) | 1943-08-29 덴마크군 피습·함정 자침 | https://www.forsvaret.dk/da/nyheder/2018/75-aret-for-overfaldet-pa-har-og-flade/ | 덴마크군 사망 23·부상 53은 군측 집계로 민간인 전체 피해와 구분. 원전 미대조 |
+| SRC-2181 | *August Uprising 1943* / 덴마크 왕립도서관 | 2차(국립도서관 역사해설·자료 안내) | 1943년 8월 봉기·독일 점령정책 | https://www.kb.dk/en/inspiration/liberation/august-uprising-1943 | 정치·사회 배경을 설명하나 함정별 손실과 당대 독일군 명령은 별도 검증 필요 |
