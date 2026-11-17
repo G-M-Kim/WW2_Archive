@@ -1980,5 +1980,145 @@
     ],
     "rights": "기관 공개 열람 자료. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인이 필요하다.",
     "independence_group": "Fondazione Ansaldo Raccolta Lombardi"
+  },
+  {
+    "id": "CAT-IT-SRC-0100",
+    "title": "Annuario statistico italiano 1940",
+    "institution_or_author": "Istituto Centrale di Statistica del Regno d’Italia",
+    "publication_date": "1940 (연감 표제연도)",
+    "source_type": "primary",
+    "document_or_accession_number": "ISTAT 디지털본 RAV0040597ASI1940",
+    "locator": "제II장 표 A·B 및 각주, 제VIII장 표 A.1·C.2와 각주",
+    "url": "https://lipari.istat.it/digibib/Annuario%20Statistico%20Italiano/RAV0040597ASI1940.pdf",
+    "accessed_at": "2026-11-17T20:59:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 본토 총조사 상주·현주 및 특수 집계, 1939년 본토 잠정치의 리비아 포함 범위, 1936년 리비아·사하라·에게해와 1939년 동아프리카 추계를 확인했다."
+    ],
+    "limitations": [
+      "당대 행정 단위와 지역별 민족·법적 분류다. 조사 원장과 식민 행정 범위 안의 누락은 미확인이다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 링크만 사용했다.",
+    "independence_group": "왕국 통계기관"
+  },
+  {
+    "id": "CAT-IT-SRC-0101",
+    "title": "Popolazione e movimento anagrafico dei comuni, anno 1993",
+    "institution_or_author": "Istituto Nazionale di Statistica (ISTAT)",
+    "publication_date": "1995",
+    "source_type": "secondary",
+    "document_or_accession_number": "Annuario n. 6, edizione 1995 / IST0005035",
+    "locator": "표 2.1 연말열, 1939–1947년 및 각주 (a)·(e)",
+    "url": "https://ebiblio.istat.it/digibib/Demografia/Movimentostatocivile/IST0005035Pop_mov_ana_com_1993.pdf",
+    "accessed_at": "2026-11-17T20:59:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연말 상주 인구를 당시 국경·편찬 당시 국경별로 대조했다. 단위는 천 명이고 1947년 행에서 양도 영토 인구를 제외한다."
+    ],
+    "limitations": [
+      "총조사와 인구동태 통계에 기초한 역산이다. 1939년 9월 1일 및 전쟁 종결 당일의 실측, 피란민·군인 포착률은 확인하지 못했다."
+    ],
+    "rights": "출처 표시 조건으로 이용을 허용한다는 권두 표기. 자체 요약과 링크만 사용했다.",
+    "independence_group": "ISTAT 후대 재구성"
+  },
+  {
+    "id": "CAT-IT-SRC-0102",
+    "title": "Censimenti storici",
+    "institution_or_author": "Istituto Nazionale di Statistica (ISTAT)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Censimento Popolazione, 1881년 정의·1936/1941/1951년 설명",
+    "url": "https://www.istat.it/statistiche-per-temi/censimenti/censimenti-storici/",
+    "accessed_at": "2026-11-17T20:59:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일시 부재자 포함 상주 인구 정의 및 전쟁 때문에 1941년 총조사가 열리지 않았다는 설명을 확인했다."
+    ],
+    "limitations": [
+      "기관의 통사 해제이며 개별 전시 추계값은 제공하지 않는다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 링크만 사용했다.",
+    "independence_group": "ISTAT 역사 해제"
+  },
+  {
+    "id": "CAT-IT-SRC-0103",
+    "title": "I censimenti nei domini coloniali come fonte per la storia sociale",
+    "institution_or_author": "Gian Luca Podestà / ISTAT·Società Italiana di Demografia Storica",
+    "publication_date": "2012",
+    "source_type": "secondary",
+    "document_or_accession_number": "Annali di statistica, anno 141, serie XII, vol. 2, ISBN 978-88-458-1716-8",
+    "locator": "§3.1, 표 1–2, 269쪽 표 5",
+    "url": "https://www.istat.it/it/files/2011/01/I_Censimenti_nellItalia_unita.pdf",
+    "accessed_at": "2026-11-17T20:59:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동아프리카 조사 완료 불확실성과 1940–41년 리비아 연감에서 재수록한 1939년 총계 893,774명 및 분류를 확인했다."
+    ],
+    "limitations": [
+      "정확한 리비아 조사일·분류 기준 및 트리폴리 발행 당대 연감 자체는 미확인이다."
+    ],
+    "rights": "출처 표시·비상업적 재현 허용이라는 권두 표기. 자체 요약과 링크만 사용했다.",
+    "independence_group": "Podestà가 인용한 식민지 연감"
+  },
+  {
+    "id": "CAT-IT-SRC-0104",
+    "title": "Libia",
+    "institution_or_author": "Ettore Rossi / Treccani, Enciclopedia Italiana",
+    "publication_date": "1949",
+    "source_type": "secondary",
+    "document_or_accession_number": "II Appendice",
+    "locator": "Politica e amministrazione, Dati sulla popolazione, Durante la guerra",
+    "url": "https://www.treccani.it/enciclopedia/libia_res-3aab3a42-87e6-11dc-8e9d-0016357eee51_(Enciclopedia-Italiana)/",
+    "accessed_at": "2026-11-17T20:59:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 6월 30일 리비아 약 918,000명과 전시 피란, 영국·프랑스 군정 및 4개 주 편입의 설명을 확인했다."
+    ],
+    "limitations": [
+      "기초 집계 문서가 특정되지 않았다. 1939년 다른 수치와의 집계일·경계·독립성은 미확인이다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 링크만 사용했다.",
+    "independence_group": "Rossi 종전 직후 서술"
+  },
+  {
+    "id": "CAT-IT-SRC-0105",
+    "title": "R.D. 14 aprile 1939, n. 1390 — Aggiornamento delle norme per l’applicazione in Libia delle disposizioni sulla disciplina di guerra",
+    "institution_or_author": "Regno d’Italia / Gazzetta Ufficiale",
+    "publication_date": "1939-09-28",
+    "source_type": "primary",
+    "document_or_accession_number": "Gazzetta Ufficiale n. 227, Regio decreto n. 1390",
+    "locator": "왕령 제1390호 전문과 제1조, 왕령법 1939-01-09 제70호 인용",
+    "url": "https://www.gazzettaufficiale.it/eli/gu/1939/09/28/227/sg/pdf",
+    "accessed_at": "2026-11-17T20:59:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "리비아 4개 주의 왕국 영토 편입과 특별 시민권에 관한 당시 법령 인용을 확인했다."
+    ],
+    "limitations": [
+      "제70호 본문이 아니라 후속 왕령에 인용된 제70호의 요지다. 인구 수치의 자료로 사용하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 링크만 사용했다.",
+    "independence_group": "왕국 관보"
+  },
+  {
+    "id": "CAT-IT-SRC-0106",
+    "title": "Annuario statistico italiano 1957",
+    "institution_or_author": "Istituto Centrale di Statistica",
+    "publication_date": "1957",
+    "source_type": "secondary",
+    "document_or_accession_number": "ISTAT 디지털본 RAV0040597ASI1957",
+    "locator": "제2장 표 18, 1936년 당시 국경·편찬 당시 국경 열",
+    "url": "https://ebiblio.istat.it/digibib/Annuario%20Statistico%20Italiano/RAV0040597ASI1957.pdf",
+    "accessed_at": "2026-11-17T20:59:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 상주 인구와 1936년 당시 국경 현주 열의 42,918,726을 대조했다."
+    ],
+    "limitations": [
+      "같은 1936년 조사 계통의 재수록이므로 독립 확증이 아니다. 1940년 연감은 이 현주 값을 부재자 포함 특수 집계로 설명한다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 링크만 사용했다.",
+    "independence_group": "왕국 1936년 조사 통계의 후대 재수록"
   }
 ]
