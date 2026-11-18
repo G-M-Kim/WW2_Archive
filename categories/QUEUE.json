@@ -1658,8 +1658,9 @@
     "category": "보병 무기 및 장비",
     "article_path": "categories/soviet-union/05-infantry-equipment.md",
     "planned_at": "2026-11-18T17:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-SU-05.json",
+    "completed_at": "2026-11-18T21:02:38+09:00"
   },
   {
     "step": 120,

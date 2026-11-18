@@ -1,0 +1,53 @@
+{
+  "step": 119,
+  "job_id": "CAT-SU-05",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 5,
+  "category": "보병 무기 및 장비",
+  "article_path": "categories/soviet-union/05-infantry-equipment.md",
+  "status": "partial",
+  "started_at": "2026-11-18T20:56:44+09:00",
+  "completed_at": "2026-11-18T21:02:38+09:00",
+  "base_head": "3fe542db762e9d90700646f10c0b3f1340f26810",
+  "source_ids": [
+    "CAT-SU-SRC-0051",
+    "CAT-SU-SRC-0052",
+    "CAT-SU-SRC-0053",
+    "CAT-SU-SRC-0054",
+    "CAT-SU-SRC-0055",
+    "CAT-SU-SRC-0056",
+    "CAT-SU-SRC-0057"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0017",
+    "CAT-SU-RQ-0018",
+    "CAT-SU-RQ-0019",
+    "CAT-SU-RQ-0020"
+  ],
+  "entity_ids": [
+    "CAT-SU-EQP-0013",
+    "CAT-SU-EQP-0014",
+    "CAT-SU-EQP-0015"
+  ],
+  "research_scope": "PPSh-41 생산 결정과 소장품 이력, SSh-40 형식 식별·전투지 수습품, 의무병 가방 실물과 1943년 제70군 보유 기록.",
+  "limitations": [
+    "GKO 자료는 공개 목록까지만 확인했다. PPSh 양산 실적과 개별 전시 배치, SSh-40의 지급 원장, 제70군 의무 장비 원 집계표는 미확보다.",
+    "세 사례의 첫 조사다. 소총·지원화기 및 개인피복·휴대장구의 전체 범위는 미조사다."
+  ],
+  "evidence_checked": [
+    "GKO 954сс와 6152сс 목록의 날짜·보존번호·제목과 영국 국립육군박물관의 1942년 표기 PPSh-41 개체 기록을 확인했다.",
+    "두 기관의 SSh-40 전시 및 수습품 자료에서 형식 특징과 유물 치수·채집처를 확인했다.",
+    "박물관 가방 소장 기록과 별도의 제70군 1943-07-01 보유 통계 표를 대조했다."
+  ],
+  "access_attempts": [
+    "대통령도서관 954сс 전체 보기 URL은 접근 불가였고 요약 페이지에는 기록물 서지만 표시됐다. 6152сс 전체 보기에도 원문·첨부표가 노출되지 않았다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=119 pending=14; sources=1188 questions=450. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}

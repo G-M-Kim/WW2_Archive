@@ -998,5 +998,145 @@
     ],
     "rights": "기관 소개의 사실을 한국어로 요약하고 공개 링크만 제공했다.",
     "independence_group": "Presidential Library 2022 archival overview"
+  },
+  {
+    "id": "CAT-SU-SRC-0051",
+    "title": "Постановление ГКО СССР № 954 сс об увеличении производства пистолетов-пулеметов 7,62 мм (ППШ)",
+    "institution_or_author": "소련 국가방위위원회(GKO) 작성, РГАСПИ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1941-11-23",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "№ 954сс · РГАСПИ Ф. 644, Оп. 1, Д. 14, Л. 181; Оп. 2, Д. 26, Л. 105–106",
+    "locator": "공개 목록의 제목·일자·보존번호",
+    "url": "https://www.prlib.ru/item/1339923",
+    "accessed_at": "2026-11-18T21:02:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 11월 23일 소련 국가방위위원회가 7.62 mm PPSh 증산 결정을 냈다는 제목과 날짜를 확인했다."
+    ],
+    "limitations": [
+      "열람 범위는 기록물 목록이다. 원문 이미지와 공장별 실적 자료는 확보하지 못했다."
+    ],
+    "rights": "대통령도서관 웹사이트 권리 표시. 목록의 사실을 요약했다.",
+    "independence_group": "GKO 954ss · RGASPI"
+  },
+  {
+    "id": "CAT-SU-SRC-0052",
+    "title": "Постановление ГКО СССР № 6152 сс о плане производства и поставок пистолетов-пулеметов Шпагина и ПП-43 в июле и в 3 квартале 1944 г.",
+    "institution_or_author": "소련 국가방위위원회(GKO) 작성, РГАСПИ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1944-07-11",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "№ 6152сс · РГАСПИ Ф. 644, Оп. 1, Д. 271, Л. 1–19; Оп. 2, Д. 350, Л. 40–56",
+    "locator": "공개 목록의 확장 제목·일자·보존번호",
+    "url": "https://www.prlib.ru/item/2063367",
+    "accessed_at": "2026-11-18T21:02:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 7월 11일 결정이 7월 및 3분기 시파긴 기관단총과 PP-43 생산·공급 계획을 포함한다는 목록을 확인했다."
+    ],
+    "limitations": [
+      "분기와 월을 중복 합산할 수 없다. 원문·첨부표와 완료 실적은 확인하지 못했다."
+    ],
+    "rights": "대통령도서관 웹사이트 권리 표시. 목록의 사실을 요약했다.",
+    "independence_group": "GKO 6152ss · RGASPI"
+  },
+  {
+    "id": "CAT-SU-SRC-0053",
+    "title": "Russian PPSh-41 7.62 mm sub-machine gun, 1942",
+    "institution_or_author": "영국 국립육군박물관(National Army Museum), Study Collection",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": "NAM. 1992-11-64-1",
+    "locator": "표제·첫 문단·NAM Accession Number",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1992-11-64-1",
+    "accessed_at": "2026-11-18T21:02:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "7.62 mm PPSh-41 1942년 제작 표기와 해당 소장품의 1950년 박천 회수 이력을 확인했다."
+    ],
+    "limitations": [
+      "박물관 등록 이력이다. 해당 개체의 소련군 부대 배치나 제2차 세계대전 실전 사용을 확인할 수 없다."
+    ],
+    "rights": "National Army Museum Copyright. 소장품 해설 자체 요약과 링크만 제공했다.",
+    "independence_group": "National Army Museum collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0054",
+    "title": "Стальной шлем СШ-40",
+    "institution_or_author": "러시아 도로가 파먀티 박물관(Дорога памяти)",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": "제3전시실 공개 항목 03_exb-0108, 오디오 가이드 110",
+    "locator": "제품명과 СШ-39·СШ-40 외형 비교 단락",
+    "url": "https://1418museum.ru/eksponaty/03_exb-0108/",
+    "accessed_at": "2026-11-18T21:02:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "SSh-40의 강철제 분류와 SSh-39 대비 내피 및 외부 리벳 차이를 확인했다."
+    ],
+    "limitations": [
+      "부대별 지급량과 방호 시험조건 및 성적은 제공하지 않는다."
+    ],
+    "rights": "본문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 사용했다.",
+    "independence_group": "Doroga Pamyati collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0055",
+    "title": "Каталог предметов Великой Отечественной войны из фондов музея истории МГПУ",
+    "institution_or_author": "Н. В. Блинова·А. Д. Дементьев·Г. В. Теремецкая·Г. Н. Черных 편, 모스크바시립교육대학교 역사박물관·МГПУ 발행",
+    "publication_date": "2023",
+    "source_type": "museum_catalog",
+    "document_or_accession_number": "СШ-40 항목, 공개 소장번호 미기재",
+    "locator": "인쇄 21쪽(PDF 21번째 페이지), Стальной шлем СШ-40 및 Источник",
+    "url": "https://www.mgpu.ru/wp-content/uploads/2023/12/Katalog-predmetov-VOV-MGPU.pdf",
+    "accessed_at": "2026-11-18T21:02:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "옐냐구 모스크바 제8민병사단 전투지에서 수색단이 발견한 SSh-40으로 등록된 유물의 상태·치수·채집 위치를 확인했다."
+    ],
+    "limitations": [
+      "전후 채집·등록 기록이다. 소유자, 현장 퇴적 시점과 피해 원인은 독립 확인하지 않았다."
+    ],
+    "rights": "© 편자 및 МГПУ, 2023. 사진과 목록 원문은 복제하지 않았다.",
+    "independence_group": "MGPU museum collection · Nadezhda field recovery"
+  },
+  {
+    "id": "CAT-SU-SRC-0056",
+    "title": "Сумка санитарная",
+    "institution_or_author": "중앙전선 지휘소 역사기념박물관(Историко-мемориальный музей «КП Центрального фронта»), 러시아 문화유산 포털 Artefact 공개",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": null,
+    "locator": "Время создания·Размер·Коллекция 및 주석 #1–#3",
+    "url": "https://ar.culture.ru/ru/subject/sumka-sanitarnaya-1",
+    "accessed_at": "2026-11-18T21:02:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장 가방의 제작 범위·현존 치수와 의무병용 및 의무지도원용 설명을 확인했다."
+    ],
+    "limitations": [
+      "소장품 제작 시기가 20세기 전반으로 넓다. 1940~1950년대 재고 목록을 특정 전시 부대의 지급 기준으로 볼 수 없다."
+    ],
+    "rights": "본문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 사용했다.",
+    "independence_group": "Central Front Command Post Museum collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0057",
+    "title": "К вопросу истории развития системы комплектно-табельного оснащения медицинской службы Вооруженных Сил Российской Федерации",
+    "institution_or_author": "Ю. В. Мирошниченко, В. Н. Кононов, А. Б. Перфильев, Е. О. Родионов, И. А. Лихогра · 러시아 군사의학아카데미",
+    "publication_date": "2017",
+    "source_type": "secondary",
+    "document_or_accession_number": "Russian Military Medical Academy Reports 36(1), 59–64 · DOI 10.17816/rmmar709463",
+    "locator": "공개 PDF 내 8쪽, 표 2의 Сумка санитара 행",
+    "url": "https://journals.eco-vector.com/1682-7392/article/download/12167/9575",
+    "accessed_at": "2026-11-18T21:02:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 7월 1일 제70군 의무병 가방 기준 1,516개, 현존 1,338개, 충족률 88% 기재를 확인했다."
+    ],
+    "limitations": [
+      "후대 논문이 제시한 당시 제70군 표다. 원 집계 문서와 각 부대의 개인 지급표는 미확보이며 전군 통계가 아니다."
+    ],
+    "rights": "학술지 본문과 표를 복제하지 않고 한 행의 집계값을 자체 문장으로 요약했다.",
+    "independence_group": "Miroshnichenko et al. 2017 medical supply study"
   }
 ]
