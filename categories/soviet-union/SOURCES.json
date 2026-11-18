@@ -278,5 +278,185 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "cooling-air-superiority"
+  },
+  {
+    "id": "CAT-SU-SRC-0015",
+    "title": "T-34/76",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The Tank Museum’s T-34/76 및 Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/t-34-76?era=all",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "초기 소장품의 1941년 핀란드군 노획 이력, 표의 L-11, DT, 승무원 4명, 26.5 t, 53 km/h를 확인했다."
+    ],
+    "limitations": [
+      "시험 환경·연료·적재 조건 및 박물관 제원표의 차대별 적용 범위는 명시되지 않는다. 계열 전체 생산량과 초기형 제원을 하나의 생산 형식으로 합치지 않았다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "Bovington vehicle catalogue"
+  },
+  {
+    "id": "CAT-SU-SRC-0016",
+    "title": "On the Russian Front – Spring, 1942. Soviet T-34/76 Tanks Entering a Town",
+    "institution_or_author": "영국 공식 사진가 미상 / Australian War Memorial",
+    "publication_date": "1942-05-27 (목록의 제작일)",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM 012378 / C32071",
+    "locator": "소장기록 Date made·Description 및 공개 사진",
+    "url": "https://www.awm.gov.au/collection/C32071",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공개 사진과 1942년 봄 동부전선의 소련 T-34/76이라는 설명을 대조했다."
+    ],
+    "limitations": [
+      "사진과 해제만으로 도시·부대·주포 세부형과 최초 실전 여부를 확정할 수 없다."
+    ],
+    "rights": "AWM 소장 페이지에 저작권 만료·퍼블릭 도메인 표시. 링크만 사용.",
+    "independence_group": "AWM 012378 wartime photograph"
+  },
+  {
+    "id": "CAT-SU-SRC-0017",
+    "title": "Постановление ГКО СССР № 4776 сс о производстве танков Т-34-85 с 85-мм пушкой на заводе № 112",
+    "institution_or_author": "소련 국가방위위원회 / РГАСПИ, 러시아 대통령도서관",
+    "publication_date": "1943-12-15",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ Ф. 644. Оп. 1. Д. 183. Л. 22–28; Оп. 2. Д. 252. Л. 140–147об.",
+    "locator": "목록 표제·작성일·소장 기호·부속 기술제원 제목",
+    "url": "https://www.prlib.ru/item/2045242",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제112공장 T-34-85 생산에 관한 결정의 날짜와 부속 제원표의 존재를 확인했다."
+    ],
+    "limitations": [
+      "목록 열람이다. 부속 기술제원과 공장별 납품·검수 실적은 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "GKO decision 4776ss"
+  },
+  {
+    "id": "CAT-SU-SRC-0018",
+    "title": "Постановление ГКО СССР № 4873 «О вооружении танков Т-34 85-мм пушкой взамен 76-мм Ф-34»",
+    "institution_or_author": "소련 국가방위위원회 / РГАСПИ, Электронная библиотека исторических документов",
+    "publication_date": "1944-01-01",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ Ф. 644. Оп. 2. Д. 255. Л. 104–105; ЭБИД 300751",
+    "locator": "서지 설명과 2020년 공개 재록판의 26쪽 미리보기",
+    "url": "https://docs.historyrussia.org/ru/nodes/300751",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "F-34 76 mm에서 85 mm로의 주포 전환을 제목과 날짜에서 확인했다."
+    ],
+    "limitations": [
+      "재록판 첫 쪽의 저해상도 미리보기는 확보했으나 전체 원면과 부속표를 판독하지 못했다. 세부 조항과 월별 생산 수치는 채택하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "GKO decision 4873ss"
+  },
+  {
+    "id": "CAT-SU-SRC-0019",
+    "title": "T-34/85",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "E1952.44; E2022.487; E1987.85 (페이지 사진 표기)",
+    "locator": "첫 번째 The Tank Museum’s T-34/85, E1952.44·후속 소장품 이력, Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/t-34-85/?country=all&era=WW2&tname=&tpage=2",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "고리키 제112공장이 1944년 후반 제작한 E1952.44와 전후 조립·제작 표본, 85 mm 포 계열과 승무원 구성을 확인했다."
+    ],
+    "limitations": [
+      "제원표가 여러 나라·시기의 표본을 함께 설명한다. 표의 포 명칭·중량·속도·생산량을 제112공장 초기 생산분 개별 실측으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "Bovington vehicle catalogue"
+  },
+  {
+    "id": "CAT-SU-SRC-0020",
+    "title": "T34/85 Medium Tank : USSR",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "1944년 제작(해제), 목록 작성일 미표기",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "AWM REL/12389.001 / C110416",
+    "locator": "Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C110416",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "니즈니타길 제183공장 1944년 제작 표본과 소장품에 후대 교체된 주행륜의 존재를 확인했다."
+    ],
+    "limitations": [
+      "개별 표본의 생산지·개조는 소장 해제의 추적 결과다. 해제의 공장 누적 수량은 생산 원장과 대조 전까지 보류했다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "AWM REL/12389.001 physical object"
+  },
+  {
+    "id": "CAT-SU-SRC-0021",
+    "title": "Постановление ГКО СССР № 4479 сс о тяжелом танке ИС-2 со 122-мм пушкой",
+    "institution_or_author": "소련 국가방위위원회 / РГАСПИ, 러시아 대통령도서관",
+    "publication_date": "1943-10-31",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ Ф. 644. Оп. 1. Д. 171. Л. 100–105; Оп. 2. Д. 239. Л. 101–108",
+    "locator": "목록 표제·작성일·소장 기호·부속 기술제원 제목",
+    "url": "https://www.prlib.ru/item/2042880",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "122 mm 포를 쓰는 IS-2에 관한 결정의 날짜와 D-25가 부속자료 제목에 쓰였음을 확인했다."
+    ],
+    "limitations": [
+      "카탈로그 확인 범위다. 조문, 제원 원면과 공장별 배치 시점은 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "GKO decision 4479ss"
+  },
+  {
+    "id": "CAT-SU-SRC-0022",
+    "title": "IS-2 tank",
+    "institution_or_author": "Museum of Military and Labor Glory / 러시아 문화부 Artefact",
+    "publication_date": "전시품 제작 1944–1945, 목록 작성일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Creation period·Place of creation·Collection 및 해설 #3",
+    "url": "https://ar.culture.ru/en/subject/tyazhelyy-tank-is-2",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "첼랴빈스크 제작으로 기재된 1944–1945년 전시품과 당시 주포 형식에 관한 해설을 확인했다."
+    ],
+    "limitations": [
+      "후대 전시 해설이다. 전과·관통 성능 주장과 전시품 현재 치수를 전시 초기형과 등치할 근거는 채택하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "Chelyabinsk military and labor museum"
+  },
+  {
+    "id": "CAT-SU-SRC-0023",
+    "title": "Red Star — White Elephant? The Soviet Heavy Tank",
+    "institution_or_author": "Stephen L. Sewell / ARMOR, U.S. Army",
+    "publication_date": "2002-07/08",
+    "source_type": "secondary",
+    "document_or_accession_number": "PB 17-02-4",
+    "locator": "인쇄 26–28쪽, KV·IS-2 본문 및 베를린 도로 사진 설명",
+    "url": "https://www.moore.army.mil/armor/eARMOR/content/issues/2002/JUL_AUG/ArmorJulyAugust2002web.pdf",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "IS-2 주포 명칭 D-25T와 중량 46 t 언급, 1945년 봄 IS-2 종대 사진의 게재 설명을 확인했다."
+    ],
+    "limitations": [
+      "후대 연구와 사진 캡션이다. 공장·차대별 전시 시험 원자료는 제시하지 않으며 생산 총계는 박물관과 일치하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "Sewell ARMOR heavy tank history"
   }
 ]

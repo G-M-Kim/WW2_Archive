@@ -1,0 +1,55 @@
+{
+  "step": 115,
+  "job_id": "CAT-SU-01",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 1,
+  "category": "전차장비, 무장, 성능",
+  "article_path": "categories/soviet-union/01-tanks.md",
+  "status": "partial",
+  "started_at": "2026-11-18T12:51:43+09:00",
+  "completed_at": "2026-11-18T12:56:03+09:00",
+  "base_head": "4307e5d34470420dbee8bfc2e1a9289971add8d0",
+  "source_ids": [
+    "CAT-SU-SRC-0015",
+    "CAT-SU-SRC-0016",
+    "CAT-SU-SRC-0017",
+    "CAT-SU-SRC-0018",
+    "CAT-SU-SRC-0019",
+    "CAT-SU-SRC-0020",
+    "CAT-SU-SRC-0021",
+    "CAT-SU-SRC-0022",
+    "CAT-SU-SRC-0023"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0004",
+    "CAT-SU-RQ-0005",
+    "CAT-SU-RQ-0006"
+  ],
+  "entity_ids": [
+    "CAT-SU-EQP-0001",
+    "CAT-SU-EQP-0002",
+    "CAT-SU-EQP-0003"
+  ],
+  "research_scope": "소련 국산 전차 세 형식(T-34 초기 76 mm형, T-34-85, IS-2)의 제원·생산 결정·전시 사용 기록.",
+  "limitations": [
+    "박물관의 속도 표기는 시험조건이 미기재되어 실측 비교를 보류했다.",
+    "IS-2 생산 총계는 출처가 상충하며 T-34-85 공장별 실제 월별 수량은 확인하지 못했다."
+  ],
+  "evidence_checked": [
+    "1942년 사진 012378의 이미지과 소장 해제를 확인했다.",
+    "제4776·4873·4479호의 소장 설명을 확인하고 영국·호주·첼랴빈스크 박물관의 별개 소장품 생산 이력을 대조했다.",
+    "ARMOR 인쇄 27–28쪽의 IS-2 46 t 및 전시 사진 설명을 확인했다."
+  ],
+  "access_attempts": [
+    "러시아 대통령도서관의 두 결정과 부속자료는 공개 목록을 확인했다. 제4873호는 공개 재록본의 소형 첫 쪽 이미지가 열렸으나 추가 이미지 접근이 실패해 원면 전체를 검증하지 못했다.",
+    "소련 국방부 인물 페이지는 직접 열람에 401을 반환해 전시 배치 증거로 사용하지 않았다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=115 pending=18; sources=1154 questions=436. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}
