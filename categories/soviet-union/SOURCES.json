@@ -1458,5 +1458,185 @@
     ],
     "rights": "당대 회보의 인용·복제 허용 표기가 있다. 자체 요약과 스캔 링크만 제공했다.",
     "independence_group": "USSR Embassy Information Bulletin 104"
+  },
+  {
+    "id": "CAT-SU-SRC-0074",
+    "title": "Постановление Президиума Верховного Совета СССР, ЦК ВКП(б) и СНК СССР о создании Государственного комитета обороны",
+    "institution_or_author": "소련 최고소비에트 상임간부회·전연방공산당 중앙위원회·인민위원평의회 작성, РГАСПИ 소장, 대통령도서관 공개",
+    "publication_date": "1941-06-30",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ. Ф. 17. Оп. 163. Д. 1317. Л. 19–20",
+    "locator": "기록물 목록의 제목·날짜·서명 필적 설명·소장번호",
+    "url": "https://www.prlib.ru/item/1761941",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 6월 30일 GKO 설치 결정과 스탈린의 수정 필적을 표시한 서지를 확인했다."
+    ],
+    "limitations": [
+      "목록을 열람했다. 원문 전체와 조직의 일별 의사결정 과정은 미열람이다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "GKO founding resolution · RGASPI"
+  },
+  {
+    "id": "CAT-SU-SRC-0075",
+    "title": "Образован Государственный комитет обороны (ГКО)",
+    "institution_or_author": "러시아 대통령도서관",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1941년 6월 30일 설치 및 최초 구성원 설명",
+    "url": "https://www.prlib.ru/history/2127276",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "스탈린 위원장·몰로토프 부위원장·베리야 위원 등 최초 구성과 전시 권한을 확인했다."
+    ],
+    "limitations": [
+      "후대 제도사 해설이다. 원 결정 목록과 같은 기관의 설명이며 독립 확증으로 세지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "Presidential Library GKO institutional account"
+  },
+  {
+    "id": "CAT-SU-SRC-0076",
+    "title": "The Ambassador in the Soviet Union (Steinhardt) to the Secretary of State",
+    "institution_or_author": "Laurence A. Steinhardt, 주소련 미국대사 · 미 국무부 FRUS 편찬",
+    "publication_date": "1939-08-24",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1939, vol. I, doc. 335 · 761.6211/85 · 전보 464",
+    "locator": "전보 첫 문단·조약 요약·편집자 각주 15",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d335",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "몰로토프와 리벤트로프의 조약 서명 및 최종 회의에 스탈린이 참석했다는 동시대 대사 보고를 확인했다."
+    ],
+    "limitations": [
+      "제3국 대사의 보고다. 조약의 비밀의정서 내용은 이 본문에 전사돼 있지 않아 별도의 기관 해설로 대조했다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "US Embassy Moscow · Steinhardt telegram 464"
+  },
+  {
+    "id": "CAT-SU-SRC-0077",
+    "title": "German-Soviet Pact",
+    "institution_or_author": "미국 홀로코스트기념박물관(USHMM), Holocaust Encyclopedia",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The German-Soviet Pact 본문과 공개 협정·비밀의정서 설명",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/german-soviet-pact",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 8월 23일 협정에서 몰로토프의 외무인민위원 역할, 비밀 영향권 분할과 폴란드 침공·점령의 관계를 확인했다."
+    ],
+    "limitations": [
+      "기관의 역사 해설이다. 비밀의정서 원본과 분할 경계의 변경 조약 전문은 미열람이다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "USHMM German-Soviet Pact account"
+  },
+  {
+    "id": "CAT-SU-SRC-0078",
+    "title": "Agreement Regarding Entry of the Soviet Union Into the War Against Japan",
+    "institution_or_author": "스탈린·루스벨트·처칠 합의, 미 국무부 FRUS 편찬",
+    "publication_date": "1945-02-11",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS Conferences at Malta and Yalta, 1945, doc. 503 · Executive Agreement Series No. 498 · 59 Stat. 1823",
+    "locator": "합의 첫 문단·조건 1–3·중국 동의 단락·서명란",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Malta/d503",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 항복과 유럽전 종결 후 2~3개월 내 대일 참전 약속과 관련 조건, 세 지도자의 서명 표기를 확인했다."
+    ],
+    "limitations": [
+      "합의 원문 전사다. 실제 참전과 영토·항만 조항의 후속 이행은 별도 문서로 검증해야 한다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "Yalta agreement on Soviet entry against Japan"
+  },
+  {
+    "id": "CAT-SU-SRC-0079",
+    "title": "Decyzja Biura Politycznego WKP(b) o wymordowaniu obywateli polskich, w większości oficerów wziętych do niewoli we wrześniu 1939 r.",
+    "institution_or_author": "라브렌티 베리야의 스탈린 앞 제안 및 승인 기록 · 폴란드 국가기억연구소(IPN) 공개 폴란드어 전사",
+    "publication_date": "1940-03-05",
+    "source_type": "primary",
+    "document_or_accession_number": "Katyń. Dokumenty zbrodni, vol. 1, 편집 W. Materski, Warszawa 1995, pp. 469–470, 475",
+    "locator": "제안 I–II절·베리야 서명·승인 서명 편집 주석",
+    "url": "https://katyn.ipn.gov.pl/kat/bibliografia-i-mediatek/3643,Decyzja-Biura-Politycznego-WKPb-o-wymordowaniu-obywateli-polskich-w-wiekszosci-o.html",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "베리야가 폴란드 포로와 수감자의 총살을 제안하며 정식 소환·공소 절차를 생략하도록 한 내용과 스탈린·몰로토프 등의 승인 서명을 설명한 전사를 확인했다."
+    ],
+    "limitations": [
+      "기관이 제공하는 번역·편집 전사다. 서명 필적을 독자 감정하지 않았고 실제 집행 피해자 총수는 이 제안의 계획 수량과 구분한다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "Beria memorandum approved 1940-03-05"
+  },
+  {
+    "id": "CAT-SU-SRC-0080",
+    "title": "Translation of Crimean Tatars — Revelations from the Russian Archives",
+    "institution_or_author": "소련 GKO 작성 · 미 의회도서관 전시에서 제공하는 영문 번역",
+    "publication_date": "1944-05-11",
+    "source_type": "primary",
+    "document_or_accession_number": "GKO Decree No. 5859ss",
+    "locator": "제1항·제2항 이송 조항·I. Stalin 위원장 서명 표기",
+    "url": "https://loc.gov/exhibits/archives/trans-l2tartar.html",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "크림의 타타르인 전원을 우즈베크 SSR로 강제 이주시킨다는 지시와 NKVD·베리야의 담당, 스탈린의 위원장 서명 표기를 확인했다."
+    ],
+    "limitations": [
+      "국가기관 명령의 집단 비난 문구는 발령자의 명분이다. 실제 이주자·사망자 수 및 이행 날짜는 이 명령의 계획과 별도 검증이 필요하다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "GKO 5859ss · Crimean Tatar deportation"
+  },
+  {
+    "id": "CAT-SU-SRC-0081",
+    "title": "Постановление ГКО СССР № 5859 сс о крымских татарах, с приложением … докладной записки Берии Л. П. Сталину И. В.",
+    "institution_or_author": "소련 GKO 작성, РГАСПИ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1944-05-11",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ. Ф. 644. Оп. 1. Д. 252. Л. 137–144; Оп. 2. Д. 333. Л. 1–11",
+    "locator": "목록 제목·발령일·보존번호 및 베리야 보고서 첨부 설명",
+    "url": "https://www.prlib.ru/item/2058475",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "5859сс 결정 날짜와 베리야가 스탈린에게 제출한 보고서 첨부 기록을 확인했다."
+    ],
+    "limitations": [
+      "영문 번역과 동일 결정에 관한 목록이다. 독립된 명령으로 세지 않았고 첨부 보고서 전문은 미열람이다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "GKO 5859ss · Crimean Tatar deportation"
+  },
+  {
+    "id": "CAT-SU-SRC-0082",
+    "title": "The Ambassador in the United Kingdom (Winant) to the Secretary of State",
+    "institution_or_author": "John G. Winant, 주영국 미국대사 · 미 국무부 FRUS 편찬",
+    "publication_date": "1942-05-26",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1942, vol. III, doc. 467 · 741.6111/35 · 전보 2922",
+    "locator": "인쇄 564–566쪽, 영소 조약 협의와 몰로토프 관련 단락 및 각주",
+    "url": "https://history.state.gov/historicaldocuments/frus1942v03/d467",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영소 동맹조약 협의에 몰로토프가 관여하고 스탈린이 수정안을 승인했다는 동시대 대사 보고를 확인했다."
+    ],
+    "limitations": [
+      "보고는 당일 조약 서명을 예정형으로 표현한다. 서명본은 각주에 안내되며 원문 전체는 미열람이다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "US Embassy London · Winant telegram 2922"
   }
 ]
