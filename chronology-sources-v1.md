@@ -2548,3 +2548,6 @@ as_of: 2026-11-04
 
 | SRC-2210 | *FRUS 1943 Cairo–Tehran, Document 419: Declaration on Iran* / 미·영·소 정상, 1943-12-01 서명, 미 국무부 편찬 | 1차(당대 서명 선언문 편찬본) | Document 419, pp. 646–647 | https://history.state.gov/historicaldocuments/frus1943CairoTehran/d419 | 원본 타자 날짜 11/30 삭제 후 12/1 수정, 12/6 모스크바 시간 20시 공개 예정. 선언문은 원칙·지원 의사 표명으로 후속 실제 이행과 구별; 공개 원문 재배포 조건 별도 확인 |
 | SRC-2211 | *H-Gram 035: The German Air Raid on Bari, December 1943* / 미 해군 Naval History and Heritage Command | 2차(미 해군 공식 역사 해설) | Bari 1943-12-02, SS John Harvey | https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-035.html | 이전 배치에 기관 해설 확인 기록. 이번 실행 원문 재접근 시간 초과로 링크등록만 표시. 화학탄 적재 및 피해 집계는 당대 군의무기록·항만 기록 추가 대조 필요; 이미지 재배포 금지 |
+
+| SRC-2212 | *Fifth Army at the Winter Line, 15 November 1943–15 January 1944* / 미 육군 전쟁사 편찬, 전후 발간 | 1차(당대 전투기록 기반 공식 전역사) | 산피에트로 1943-12-08 첫 공격 및 후속 공격 구분 | https://history.army.mil/portals/143/Images/Publications/catalog/100-9.pdf | 143보병연대 12/8 공격, 12/15~17 재공격을 구분. 개별 독일군 전투일지 및 민간인 피해는 미대조; 지도·사진 재배포 금지 |
+| SRC-2213 | *FRUS 1943 Volume III, Document 574: Schoenfeld to Secretary of State* / 미 외교당국, 1943-12-13 당대 전문 | 1차(당대 외교전문 편찬본) | 1943-12-12 소련·체코슬로바키아 조약 서명 보고 | https://history.state.gov/historicaldocuments/frus1943v03/d574 | 12/13 전문이 전날 모스크바 서명을 명시. 조약 서명·비준·실제 집행을 구분하며 소련·체코 원문 대조 필요 |
