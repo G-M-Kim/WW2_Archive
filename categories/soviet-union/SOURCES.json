@@ -458,5 +458,185 @@
     ],
     "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
     "independence_group": "Sewell ARMOR heavy tank history"
+  },
+  {
+    "id": "CAT-SU-SRC-0024",
+    "title": "Постановление ГКО СССР № 1415 сс об организации производства бронеавтомобилей БА-64",
+    "institution_or_author": "소련 국가방위위원회 / РГАСПИ·러시아 대통령도서관",
+    "publication_date": "1942-03-09",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ Ф. 644. Оп. 1. Д. 24. Л. 16–24; Оп. 2. Д. 41. Л. 120–130",
+    "locator": "표제·날짜·소장 기호",
+    "url": "https://www.prlib.ru/item/1345448",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "고리키 몰로토프 자동차공장 BA-64 생산 조직 결정의 날짜와 대상 공장을 확인했다."
+    ],
+    "limitations": [
+      "목록 확인이다. 원면과 공장 생산·검수 수량은 미확인이다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "GKO 1415ss"
+  },
+  {
+    "id": "CAT-SU-SRC-0025",
+    "title": "Легкий бронеавтомобиль БА-64Б. СССР",
+    "institution_or_author": "러시아 승리박물관(Музей Победы)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Технические характеристики 및 추진·1942년 전선 인도 서술",
+    "url": "https://victorymuseum.ru/encyclopedia/technic/bronetankovaya-tekhnika/legkiy-broneavtomobil-ba-64b-sssr-/",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "BA-64 계열의 DT 7.62 mm, BA-64B 표의 승무원 2명과 명목 포장도로 속도, 엔진 출력의 본문·표 차이를 확인했다."
+    ],
+    "limitations": [
+      "표와 본문에 BA-64 및 BA-64B 자료가 섞인다. 포장도로 표기 외 시험 조건 및 적용 생산 로트는 미확인이다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "Victory Museum BA-64 exhibit history"
+  },
+  {
+    "id": "CAT-SU-SRC-0026",
+    "title": "Первое освобождение Харькова",
+    "institution_or_author": "아르카디 샤이헤트 / 개인 소장, История России в фотографиях",
+    "publication_date": "1943-02-14 (플랫폼의 촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "플랫폼 항목 81197, 소장 기호 미표기",
+    "locator": "공개 사진, 촬영일·장소와 차량 태그, 댓글의 태그 추가 이력",
+    "url": "https://russiainphoto.ru/photos/81197/",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "하르키우 시가지 당대 사진에서 차륜 장갑차를 확인했고, BA-64라는 태그가 이용자 제보 후 추가됐음을 확인했다."
+    ],
+    "limitations": [
+      "BA-64라는 형식 판정은 후대 태그와 외형에 따른 후보다. 차대·부대·파생형은 미확인이다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "Shaikhet Kharkiv photo"
+  },
+  {
+    "id": "CAT-SU-SRC-0027",
+    "title": "Постановление ГКО СССР № 2758 сс об организации производства самоходных артиллерийских установок СУ-76 на базе трофейных танков «Артштурм» и Т-3",
+    "institution_or_author": "소련 국가방위위원회 / РГАСПИ·러시아 대통령도서관",
+    "publication_date": "1943-01-18",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ Ф. 644. Оп. 1. Д. 83. Л. 11–14; Оп. 2. Д. 127. Л. 95–99",
+    "locator": "표제·날짜·소장 기호",
+    "url": "https://www.prlib.ru/item/1979152",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제2758호 목록이 노획 차체와 F-34 76 mm를 지정한 SU-76 생산 조직 사업임을 확인했다."
+    ],
+    "limitations": [
+      "공개 목록으로 사업의 범위만 확인했다. 첨부 명세서와 실제 제작분 무장 형식은 이 자료로 확인하지 않았다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "GKO 2758ss"
+  },
+  {
+    "id": "CAT-SU-SRC-0028",
+    "title": "Самоходная артиллерийская установка СУ-76И (С-1) образца 1943 года. СССР",
+    "institution_or_author": "러시아 승리박물관(Музей Победы)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Технические характеристики, 시제·채택·제1902연대 단락, 복원 이력",
+    "url": "https://victorymuseum.ru/encyclopedia/technic/bronetankovaya-tekhnika/samokhodnaya-artilleriyskaya-ustanovka-su-76i-s-1-obraztsa-1943-goda-sssr/",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "S-1 포와 채택 서술, 전투중량 22.5 t·승무원 4명·도로 속도 40 km/h, 제1902연대의 1943년 8월 도착 서술을 확인했다."
+    ],
+    "limitations": [
+      "박물관의 후대 설명이다. 채택 원명령, 연대 전투일지, 시험 성적표는 미대조다. 전시품은 2002년 복원 이력이 있다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "Victory Museum SU-76I exhibit history"
+  },
+  {
+    "id": "CAT-SU-SRC-0029",
+    "title": "Постановление ГКО СССР № 3184 сс о самоходных установках СУ-76",
+    "institution_or_author": "소련 국가방위위원회 / РГАСПИ·러시아 대통령도서관",
+    "publication_date": "1943-04-14",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ Ф. 644. Оп. 1. Д. 103. Л. 201–204об.; Оп. 2. Д. 155. Л. 123–127",
+    "locator": "표제·날짜·소장 기호",
+    "url": "https://www.prlib.ru/item/1991165",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 4월 문건의 표제에도 SU-76이 쓰였음을 확인했다."
+    ],
+    "limitations": [
+      "목록 제목은 차체와 대상 세부형을 명시하지 않는다. 원면 미열람이다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "GKO 3184ss"
+  },
+  {
+    "id": "CAT-SU-SRC-0030",
+    "title": "СУ-76",
+    "institution_or_author": "상트페테르부르크 포병·공병·통신병 군사역사박물관",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Историческая справка 첫 세 단락",
+    "url": "https://museum-artillery.ru/ru/su-76.html",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "T-70 기반 SU-76 계열과 ZiS-3, 초기 전선 투입, 1943년 8월 개선형 시험을 확인했다."
+    ],
+    "limitations": [
+      "후대 기관 해설이다. 초기 전선 투입형과 후속 개선형을 구분해서 서술하며 개별 차량의 출고 기록은 제공하지 않는다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "Saint Petersburg Artillery Museum SU-76 history"
+  },
+  {
+    "id": "CAT-SU-SRC-0031",
+    "title": "Самоходная артиллерийская установка СУ-76М",
+    "institution_or_author": "러시아 국내군사사박물관(Музей отечественной военной истории)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제3184·3964호 서술, 소장품 제작·복원 단락, Боевая масса·Вооружение·Максимальная скорость по шоссе",
+    "url": "https://www.kskdivniy.ru/museum/eksponaty/su-76m/",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "SU-12 초기형과 SU-76M 개량형 구분, 1945년 제40공장 제작으로 소개된 소장품, 무장·승무원·중량·도로 속도를 확인했다."
+    ],
+    "limitations": [
+      "후대 복원차이고 전시 도색은 원소속 증거가 아니다. 도로 속도는 박물관 제시값이며 시험 조건은 생략돼 있다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "Padikovo SU-76M exhibit history"
+  },
+  {
+    "id": "CAT-SU-SRC-0032",
+    "title": "Танки на марше",
+    "institution_or_author": "예브게니 할데이 / МАММ·МДФ, История России в фотографиях",
+    "publication_date": "1945-02 (플랫폼의 촬영월)",
+    "source_type": "primary",
+    "document_or_accession_number": "플랫폼 항목 183959, 소장 기호 미표기",
+    "locator": "공개 사진, 촬영월·장소, САУ Су-76 태그",
+    "url": "https://russiainphoto.ru/photos/183959/",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 2월 헝가리 촬영으로 기록된 공개 사진과 SU-76 태그를 확인했다."
+    ],
+    "limitations": [
+      "제목은 넓은 의미의 전차 표기다. 차량 계열의 보조 자료로 사용했으며 생산형과 부대는 확정하지 않았다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "Khaldei Hungary MAMM photo"
   }
 ]

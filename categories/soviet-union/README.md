@@ -1,13 +1,13 @@
 # 소련 — WW2 카테고리 조사
 
-국가 코드 `SU`. 이 국가의 19개 항목을 순서대로 첫 조사한다. 아래 원고 파일은 해당 실행에서 실제 자료와 함께 생성한다. 1번은 T-34 초기 76 mm형·T-34-85·IS-2의 제원, 생산 결정 및 전시 운용 자료를 부분 조사했다. 현재 1/19 항목을 방문했다.
+국가 코드 `SU`. 이 국가의 19개 항목을 순서대로 첫 조사한다. 아래 원고 파일은 해당 실행에서 실제 자료와 함께 생성한다. 1번은 T-34 초기 76 mm형·T-34-85·IS-2의 제원, 생산 결정 및 전시 운용 자료를 부분 조사했다. 2번은 BA-64 계열·SU-76I·SU-76M의 제원과 생산·배치 자료를 부분 조사했다. 현재 2/19 항목을 방문했다.
 
 [전체 계획](../PLAN.md) · [출처 장부](SOURCES.json) · [미확인 과제](QUESTIONS.json)
 
 | 번호 | 항목 | 첫 검사 상태 | 예정 원고 파일 |
 |---|---|---|---|
 | 1 | 전차장비, 무장, 성능 | partial | [01-tanks.md](01-tanks.md) |
-| 2 | 전차 제외 기갑장비, 무장, 성능 | pending | `02-other-armored-vehicles.md` |
+| 2 | 전차 제외 기갑장비, 무장, 성능 | partial | [02-other-armored-vehicles.md](02-other-armored-vehicles.md) |
 | 3 | 함선 및 함정, 무장, 성능 | pending | `03-naval-vessels.md` |
 | 4 | 항공기, 무장, 성능 | pending | `04-aircraft.md` |
 | 5 | 보병 무기 및 장비 | pending | `05-infantry-equipment.md` |
