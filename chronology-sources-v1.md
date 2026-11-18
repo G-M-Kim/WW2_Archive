@@ -2534,3 +2534,5 @@ as_of: 2026-11-04
 
 | SRC-2201 | *FRUS 1943, General I, Document 615*: 모스크바 외무장관 회의 제12차 회기 회의록 / 미 국무부 편찬 | 1차(당대 회의록 수록) | 1943-10-30, FRUS General I, Doc. 615 | https://history.state.gov/historicaldocuments/frus1943v01/d615 | 10월 30일 18시 30분 3국 외무장관과 중국 대사의 4국 선언 서명을 직접 기록. 서명과 공표 구분, 다른 선언들의 서명 주체는 별도 검증 |
 | SRC-2202 | *FRUS 1943, General I, Document 624*: 미국 대표단의 공표 일정 외교전보 / 미 국무부 편찬 | 1차(당대 외교전보 수록) | 1943-10-31, FRUS General I, Doc. 624 | https://history.state.gov/historicaldocuments/frus1943v01/d624 | 4국 선언 및 관련 공동성명·선언을 11월 1일 모스크바 시각 20시에 발표하기로 합의. 실제 발표 여부는 편찬자 각주에서 확인, 서명일과 구별 |
+
+| SRC-2203 | *FRUS 1943, General I, Document 684*: 1943년 모스크바 외무장관 회의 비밀 의정서 / 미 국무부 편찬 | 1차(당대 서명 의정서 수록) | 1943-11-01, FRUS General I, Doc. 684 | https://history.state.gov/historicaldocuments/frus1943v01/d684 | 헐·몰로토프·이든의 11월 1일 서명과 의제별 합의·유보를 구분. 부속서의 채택과 실제 정책 시행은 별도 검증, 중국 대표는 이 의정서 서명자 아님 |
