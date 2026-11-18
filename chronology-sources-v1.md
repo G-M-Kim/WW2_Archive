@@ -2551,3 +2551,6 @@ as_of: 2026-11-04
 
 | SRC-2212 | *Fifth Army at the Winter Line, 15 November 1943–15 January 1944* / 미 육군 전쟁사 편찬, 전후 발간 | 1차(당대 전투기록 기반 공식 전역사) | 산피에트로 1943-12-08 첫 공격 및 후속 공격 구분 | https://history.army.mil/portals/143/Images/Publications/catalog/100-9.pdf | 143보병연대 12/8 공격, 12/15~17 재공격을 구분. 개별 독일군 전투일지 및 민간인 피해는 미대조; 지도·사진 재배포 금지 |
 | SRC-2213 | *FRUS 1943 Volume III, Document 574: Schoenfeld to Secretary of State* / 미 외교당국, 1943-12-13 당대 전문 | 1차(당대 외교전문 편찬본) | 1943-12-12 소련·체코슬로바키아 조약 서명 보고 | https://history.state.gov/historicaldocuments/frus1943v03/d574 | 12/13 전문이 전날 모스크바 서명을 명시. 조약 서명·비준·실제 집행을 구분하며 소련·체코 원문 대조 필요 |
+
+| SRC-2214 | *Operations of the Seventh Amphibious Force: Arawe Operation* / 미 해군 제7상륙부대 작전기록, 1943년 12월 작전, NHHC 공개 | 1차(당대 작전 보고서 공개본) | Arawe operation, 15 December 1943, pp. 13–16 등 | https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/o/operations-seventh-amphibious-force.html | 12/15 상륙과 기상·상륙지원 서술. 미 해군 시각이며 일본군 보고 및 상륙군 지상일지는 추가 대조 필요; 원문 이미지 재배포 금지 |
+| SRC-2215 | *Bismarck Archipelago* / 미 육군 군사사센터 CMH Publication 72-24, 후대 공식 전역사 | 2차(미 육군 공식 전역사) | CMH Pub 72-24, Arawe landing 15 Dec 1943 | https://history.army.mil/portals/143/Images/Publications/catalog/72-24.pdf | 12/15 상륙과 후속 일본군 반격을 구분. 사상자 최종 집계는 1944년 1월까지 포함하므로 첫날 피해로 오독 금지; 일본군 기록 미대조 |
