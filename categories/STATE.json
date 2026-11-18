@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 114,
-  "CAT_VISITED_COUNT": 113,
-  "CAT_LAST_JOB_ID": "CAT-IT-18",
+  "CAT_NEXT_STEP": 115,
+  "CAT_VISITED_COUNT": 114,
+  "CAT_LAST_JOB_ID": "CAT-IT-19",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-18T08:56:03+09:00",
-  "note": "이탈리아 18 개전 시점 주요 공군기지와 규모 부분 조사 저장. 첫 방문 113/133, 다음 CAT-IT-19."
+  "updated_at": "2026-11-18T10:55:59+09:00",
+  "note": "이탈리아 19 개전 시점 주요 해군기지와 규모 부분 조사 저장. 첫 방문 114/133, 다음 CAT-SU-01."
 }

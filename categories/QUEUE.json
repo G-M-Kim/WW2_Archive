@@ -1586,10 +1586,11 @@
     "category_number": 19,
     "category": "개전 시점 주요 해군기지와 규모(1~10)",
     "article_path": "categories/italy/19-naval-bases-start.md",
-    "status": "pending",
-    "run_record": null,
+    "status": "partial",
+    "run_record": "categories/runs/CAT-IT-19.json",
     "step": 114,
-    "planned_at": "2026-11-18T07:30:00+09:00"
+    "planned_at": "2026-11-18T07:30:00+09:00",
+    "completed_at": "2026-11-18T10:55:59+09:00"
   },
   {
     "step": 115,
