@@ -778,5 +778,225 @@
     ],
     "rights": "보고서 권리자는 NjordIC B.V.로 표시된다. 본문·사진을 복제하지 않고 사건 사실의 자체 요약과 링크만 사용했다.",
     "independence_group": "NjordIC Bornholm historical review"
+  },
+  {
+    "id": "CAT-SU-SRC-0040",
+    "title": "Постановление ГКО СССР № 5526 сс о форсировании производства самолетов Як-3 … и самолетов Ил-2 с металлическим крылом",
+    "institution_or_author": "소련 국가방위위원회(GKO) 작성, РГАСПИ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1944-04-03",
+    "source_type": "primary",
+    "document_or_accession_number": "№ 5526сс. РГАСПИ Ф. 644, Оп. 1, Д. 224, Л. 170–171об.; Оп. 2, Д. 302, Л. 171–174об.",
+    "locator": "첫 장 공개 이미지 및 목록의 제목·일자·보존번호",
+    "url": "https://www.prlib.ru/item/2052372",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 4월 3일 제292공장 Yak-3와 제1·30공장 금속 날개 Il-2 생산 촉진 결정의 존재와 대상을 확인했다."
+    ],
+    "limitations": [
+      "열람한 첫 장과 목록으로 결정의 범위를 확인했다. 첨부 표 전부 및 공장별 실적은 미확인이다."
+    ],
+    "rights": "공개 사본 링크와 한국어 요약만 사용했다. 스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "GKO 5526ss · RGASPI"
+  },
+  {
+    "id": "CAT-SU-SRC-0041",
+    "title": "Yakovlev Yak-3",
+    "institution_or_author": "프랑스 항공우주박물관(Musée de l’Air et de l’Espace)",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": "기체 제작번호 2530",
+    "locator": "Le saviez-vous? 및 소장기 해설, Caractéristiques techniques",
+    "url": "https://www.museeairespace.fr/aller-plus-haut/collections/yakovlev-yak-3/",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "양산 초도 기체의 1944년 3월 8일 비행, 기체 2530의 부대 이력과 도장 변경, 웹 제원 수록값을 확인했다."
+    ],
+    "limitations": [
+      "소장기 이력과 제원 표의 증거 수준이 다르다. 웹 제원 표의 엔진·무장·속도에 대응하는 시험기록이나 제작기록은 제시되지 않는다."
+    ],
+    "rights": "박물관 페이지 본문과 사진을 복제하지 않고 요약과 링크만 인용했다.",
+    "independence_group": "Musée de l’Air et de l’Espace"
+  },
+  {
+    "id": "CAT-SU-SRC-0042",
+    "title": "Jeu-parcours Seconde Guerre mondiale — réponses",
+    "institution_or_author": "프랑스 항공우주박물관(Musée de l’Air et de l’Espace)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 10쪽, Yakovlev Yak 3 속도 답란",
+    "url": "https://www.museeairespace.fr/wp-content/uploads/sites/2/2018/03/reponses-jeu-parcours-seconde-guerre-mondiale.pdf",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "교육자료가 Yak-3의 속도로 648 km/h를 제시함을 확인했다."
+    ],
+    "limitations": [
+      "시험조건이 없는 활동지다. 소장품 페이지와 같은 기관이 작성했다."
+    ],
+    "rights": "교육 PDF의 사진과 본문은 복제하지 않고 링크만 제공했다.",
+    "independence_group": "Musée de l’Air et de l’Espace"
+  },
+  {
+    "id": "CAT-SU-SRC-0043",
+    "title": "Первый полёт совершил Як-3",
+    "institution_or_author": "러시아 중앙공군박물관(모니노)",
+    "publication_date": "2024-02-28",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "날짜 표제와 Як-1М 시제기 시험 단락",
+    "url": "https://cmvvs.ru/muzejnaya-deyatelnost/znamenatelnye-daty/pervyj-poljot-sovershil-yak-3.html",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 2월 28일을 Yak-1M 시제기 시험 시작일로 설명하는 본문을 확인했다."
+    ],
+    "limitations": [
+      "표제는 Yak-3으로 쓰여 있으나 본문에서 시험 대상은 Yak-1M이다. 시험일지 원본은 미열람이다."
+    ],
+    "rights": "본문·이미지 재게시 없이 요약과 링크만 인용했다.",
+    "independence_group": "Monino Central Air Force Museum"
+  },
+  {
+    "id": "CAT-SU-SRC-0044",
+    "title": "От «Фармана» до наших дней. К 100-летию военной авиации России",
+    "institution_or_author": "Д. А. Соболев·М. А. Маслов 편저, РУСАВИА 발행, 러시아 과학기술사연구소 PDF 공개",
+    "publication_date": "2012",
+    "source_type": "secondary",
+    "document_or_accession_number": "ISBN 5-900078-69-8",
+    "locator": "제4장 인쇄 131쪽 Il-2 생산 전환, 169쪽 Як-3 ВК-105ПФ2 제원",
+    "url": "https://ihst.ru/files/sobolev/ofdnd.pdf",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Il-2 단좌→복좌 생산 전환 및 VK-105PF2형 Yak-3의 이륙중량·최고속도와 기관포 1문·기관총 2정 구성의 편찬값을 확인했다."
+    ],
+    "limitations": [
+      "제원 칸에 시험 고도·부하와 시험보고 번호가 보이지 않는다. 일선 개별 기체에 일괄 적용할 수 없다."
+    ],
+    "rights": "© РУСАВИА 2012. 수치와 사실만 자체 요약했다.",
+    "independence_group": "Sobolev and Maslov 2012"
+  },
+  {
+    "id": "CAT-SU-SRC-0045",
+    "title": "Самолет Як-3",
+    "institution_or_author": "러시아 승리박물관(Музей Победы)",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": null,
+    "locator": "1944년 봄 양산형 인도 및 ВК-107А 시험형 단락",
+    "url": "https://victorymuseum.ru/about/museum-collection/armament/samolet-yak-3/",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "초기 양산형과 후속 무장 조합이 다르며 별도 VK-107A 시험형이 있었다는 본문을 확인했다."
+    ],
+    "limitations": [
+      "생산 블록 또는 전시 개체별 무장 원장과 인용된 국가시험 보고서 원문은 미열람이다."
+    ],
+    "rights": "기관 소장품 페이지 사진과 본문을 복제하지 않았다.",
+    "independence_group": "Victory Museum collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0046",
+    "title": "Бронированный штурмовик Ил-2",
+    "institution_or_author": "러시아 중앙공군박물관(모니노)",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": "온라인 전시 항목 431",
+    "locator": "Основные данные Ил-2 제원부 및 전시 기체 복원 단락",
+    "url": "https://cmvvs.ru/ekspozitsiya/letatelnye-apparaty.html?id=431&view=article",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Il-2M·Il-2 3형을 아우르는 엔진·중량·고도별 속도·무장 옵션과 소장기의 강제착륙·복원 이력을 확인했다."
+    ],
+    "limitations": [
+      "복수 양산형을 합쳐 서술한다. 고도는 명시되지만 시제기·생산번호와 속도시험의 하중은 확인되지 않는다."
+    ],
+    "rights": "원문과 소장품 이미지는 링크로만 제공했다.",
+    "independence_group": "Monino Central Air Force Museum"
+  },
+  {
+    "id": "CAT-SU-SRC-0047",
+    "title": "Штурмовики Ил-2 в полете",
+    "institution_or_author": "보리스 브도벤코(Борис Вдовенко) 촬영, МАММ/МДФ 소장, История России в фотографиях 공개",
+    "publication_date": "1944-08",
+    "source_type": "primary",
+    "document_or_accession_number": "온라인 사진 354302, 공개 소장번호 미표시",
+    "locator": "촬영자·1944년 8월 캡션 및 사진 원본 보기",
+    "url": "https://russiainphoto.ru/photos/354302/",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 8월로 분류된 Il-2 비행 사진과 촬영 정보를 확인했다."
+    ],
+    "limitations": [
+      "사진으로 기체 세부형과 부대, 엔진, 무장 및 당시 임무는 특정할 수 없다."
+    ],
+    "rights": "소장기관 표시가 있는 사진 원문을 링크했다. 사진 파일을 복제하지 않았다.",
+    "independence_group": "Boris Vdovenko wartime photograph"
+  },
+  {
+    "id": "CAT-SU-SRC-0048",
+    "title": "Lisunow Li-2 (lic. DC-3)",
+    "institution_or_author": "폴란드 항공박물관(Muzeum Lotnictwa Polskiego w Krakowie)",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": null,
+    "locator": "본문 생산·레닌그라드 보급·소장기 이력 단락 및 Technical data",
+    "url": "https://muzeumlotnictwa.pl/en/exhibits/lisunow-li-2-lic-dc-3-2/",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "DC-3 면허 생산, PS-84 생산과 군·민 운용, 레닌그라드 보급, 1943년 제작 소장기와 비무장 제원 표를 확인했다."
+    ],
+    "limitations": [
+      "명칭 변경을 1941년으로 적지만 명령 원문이 없다. 제원 표의 시험 고도·하중 미표기 및 전후 개조 이력을 고려해야 한다."
+    ],
+    "rights": "박물관 본문·사진은 복제 없이 요약과 링크만 인용했다.",
+    "independence_group": "Polish Aviation Museum collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0049",
+    "title": "Транспортный самолёт Ли-2",
+    "institution_or_author": "러시아 중앙공군박물관(모니노)",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": null,
+    "locator": "1941년 레닌그라드·후송 및 1942년 명칭·군용 파생형 단락",
+    "url": "https://cmvvs.ru/samoljoty-velikoj-pobedy/transportnyj-samoljot-li-2.html",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "PS-84의 1941년 보급·후송 서술과 1942년 명칭 변경 설명, 무장 군용 파생형의 존재를 확인했다."
+    ],
+    "limitations": [
+      "명칭 변경 시행 명령 및 1941년의 일자별 수송 기록은 본문에 제시되지 않는다."
+    ],
+    "rights": "박물관 사진과 본문을 복제하지 않고 요약·링크를 사용했다.",
+    "independence_group": "Monino Central Air Force Museum"
+  },
+  {
+    "id": "CAT-SU-SRC-0050",
+    "title": "Пополнение 2022 года — Вторая мировая война в архивных документах",
+    "institution_or_author": "러시아 대통령도서관",
+    "publication_date": "2022",
+    "source_type": "secondary",
+    "document_or_accession_number": "개요에 인용된 GKO № 1637сс, 1942-04-24",
+    "locator": "소련 항공 정책 단락의 1942년 4월 24일 PS-84 기재",
+    "url": "https://www.prlib.ru/section/1336922",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도서관 개요가 1942년 PS-84 여객기의 야간폭격기 사용 승인과 결정 번호를 함께 제시함을 확인했다."
+    ],
+    "limitations": [
+      "기관의 기록물 소개다. 결정 원본 전문과 개조·인도·출격 기록은 미열람이다."
+    ],
+    "rights": "기관 소개의 사실을 한국어로 요약하고 공개 링크만 제공했다.",
+    "independence_group": "Presidential Library 2022 archival overview"
   }
 ]
