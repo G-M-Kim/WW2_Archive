@@ -1278,5 +1278,185 @@
     ],
     "rights": "원문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 제공했다.",
     "independence_group": "GKO 6305ss · RGASPI"
+  },
+  {
+    "id": "CAT-SU-SRC-0065",
+    "title": "Георгий Константинович Жуков (1896–1974)",
+    "institution_or_author": "러시아 대통령도서관",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인물 표제 및 전쟁기 직책·베를린 작전 단락",
+    "url": "https://www.prlib.ru/Great_Russia/military_XX/Zhukov",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰연도, 출생지, 제1벨라루스전선군 지휘와 카를스호르스트 항복문서 관련 기관 서술을 확인했다."
+    ],
+    "limitations": [
+      "전쟁 전반의 공적을 요약한 기관 전기다. 개별 작전의 공과를 이 자료만으로 평가하기 어렵다."
+    ],
+    "rights": "한국어 자체 요약과 공개 링크만 제공했다. 원문·이미지는 재게시하지 않았다.",
+    "independence_group": "Presidential Library Zhukov biography"
+  },
+  {
+    "id": "CAT-SU-SRC-0066",
+    "title": "Донесение маршала Г. Жукова И. Сталину о развитии боев за город Берлин и установлении разграничительной линии между войсками 1-го Белорусского и 1-го Украинского фронтов",
+    "institution_or_author": "게오르기 주코프 작성, 러시아 국방부 중앙기록보관소(ЦАМО РФ) 소장, 역사문서 전자도서관 공개",
+    "publication_date": "1945-04-28",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "ЦАМО РФ. Ф. 233. Оп. 2356. Д. 574",
+    "locator": "표제·문서 설명·저자·소장번호",
+    "url": "https://docs.historyrussia.org/ru/nodes/195161-donesenie-marshala-g-zhukova-i-stalinu-o-razvitii-boev-za-gorod-berlin-i-ustanovlenii-razgranichitelnoy-linii-mezhdu-voyskami-1-go-belorusskogo-i-1-go-ukrainskogo-frontov-28-aprelya-1945-g",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 4월 28일 주코프의 스탈린 앞 베를린 전투 및 두 전선군 경계 보고의 서지를 확인했다."
+    ],
+    "limitations": [
+      "원 전문·부속지도는 미열람이다. 제목은 사령관 보고의 주제를 확인해 준다."
+    ],
+    "rights": "한국어 자체 요약과 공개 링크만 제공했다. 원문·이미지는 재게시하지 않았다.",
+    "independence_group": "TsAMO Zhukov report 1945-04-28"
+  },
+  {
+    "id": "CAT-SU-SRC-0067",
+    "title": "Act of Military Surrender Signed at Berlin on the 8th day of May, 1945",
+    "institution_or_author": "독일군 최고사령부 및 연합군 지휘부 대표, 미 국무부 편찬 영문을 예일대 로스쿨 Avalon Project에서 제공",
+    "publication_date": "1945-05-08",
+    "source_type": "primary",
+    "document_or_accession_number": "Act of Military Surrender, Berlin, 8 May 1945 · U.S. Department of State Publication 8484",
+    "locator": "영문 전사 제2조와 서명란",
+    "url": "https://avalon.law.yale.edu/wwii/gs11.asp",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "작전 중지의 문서상 기준시각과 G. Zhukov의 붉은군대 최고사령부 대표 자격을 확인했다."
+    ],
+    "limitations": [
+      "원본 사진이 아닌 편찬 영문 전사다. 문서에 적힌 날짜·효력 시각과 행사 시각은 구분한다."
+    ],
+    "rights": "한국어 자체 요약과 공개 링크만 제공했다. 원문·이미지는 재게시하지 않았다.",
+    "independence_group": "Berlin Act of Military Surrender · May 1945"
+  },
+  {
+    "id": "CAT-SU-SRC-0068",
+    "title": "The City Becomes a Symbol: The U.S. Army in the Occupation of Berlin, 1945–1949",
+    "institution_or_author": "William Stivers·Donald A. Carter, 미 육군 군사사센터(CMH)",
+    "publication_date": "2017",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 45–4, LCCN 2017027945",
+    "locator": "인쇄 34–35쪽 베를린 작전 및 카를스호르스트 항복, 35쪽 각주 1",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo88399/pdf/GOVPUB-D114-PURL-gpo88399.pdf",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "주코프의 제1벨라루스전선군 지휘, 다른 전선군의 참여, 항복 행사 장소와 참석자를 확인했다."
+    ],
+    "limitations": [
+      "미 육군 연구진의 전후 편찬이다. 실제 서명 절차와 시간대 쟁점은 당대 연합군 기록 추가 대조가 필요하다."
+    ],
+    "rights": "미 육군 공식 발간물 공개 링크와 자체 요약만 제공했다.",
+    "independence_group": "US Army CMH Berlin history"
+  },
+  {
+    "id": "CAT-SU-SRC-0069",
+    "title": "Чуйков Василий Иванович",
+    "institution_or_author": "러시아 스탈린그라드 전투 박물관(Музей-заповедник «Сталинградская битва»)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "생몰·전시 제62군 및 제8근위군 단락",
+    "url": "https://stalingrad-battle.ru/history/people-time/4375/",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰·출생지, 1942년 9월부터 제62군 지휘, 1943년 제8근위군 개편, 베를린 작전 당시 제1벨라루스전선군 내 역할을 확인했다."
+    ],
+    "limitations": [
+      "후대 박물관 전기다. 개인 발언의 재현이나 전술의 최초 고안 여부를 확인하는 자료로 사용하지 않았다."
+    ],
+    "rights": "한국어 자체 요약과 공개 링크만 제공했다. 원문·이미지는 재게시하지 않았다.",
+    "independence_group": "Stalingrad Battle Museum biography"
+  },
+  {
+    "id": "CAT-SU-SRC-0070",
+    "title": "Боевой приказ № 201 командующего 62-й армией Сталинградского фронта В. И. Чуйкова о начале уничтожения окруженной группировки противника в Сталинграде",
+    "institution_or_author": "바실리 추이코프 작성, ЦА МО РФ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1942-11-25",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "№ 201 · ЦА МО РФ. Ф. 345. Оп. 5487. Д. 5. Л. 554–555",
+    "locator": "표제의 발령자·직책·주제와 기록물 날짜·보존번호",
+    "url": "https://www.prlib.ru/item/1944736",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 11월 25일 스탈린그라드전선군 제62군 사령관 추이코프 명의로 발령된 전투 명령의 서지를 확인했다."
+    ],
+    "limitations": [
+      "목록만 열람했다. 명령 전문·하위 부대의 이행 및 실제 전과는 미확인이다."
+    ],
+    "rights": "한국어 자체 요약과 공개 링크만 제공했다. 원문·이미지는 재게시하지 않았다.",
+    "independence_group": "TsAMO Chuikov order 201"
+  },
+  {
+    "id": "CAT-SU-SRC-0071",
+    "title": "Павличенко Людмила Михайловна — Орден Ленина",
+    "institution_or_author": "북캅카스전선군 군사평의회 명령, 러시아 국방부 중앙기록보관소 소장, Память народа 공개",
+    "publication_date": "1942-07-16",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "명령 № 137 · ЦАМО. Ф. 33. Оп. 682524. Д. 612",
+    "locator": "1942년 표창문서 첫 항목의 제54소총연대·상사·명령 번호·날짜",
+    "url": "https://pamyat-naroda.ru/heroes/podvig-nagrada_kartoteka1100476289/",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 7월 16일 문서의 표제와 구조화된 계급·연대·레닌 훈장 기록을 확인했다."
+    ],
+    "limitations": [
+      "개인 페이지의 후대 표창 카드에는 소령도 표시된다. 전시 직급은 해당 날짜의 명령 항목을 기준으로 했다. 문서 사본 전문은 미열람이다."
+    ],
+    "rights": "한국어 자체 요약과 공개 링크만 제공했다. 원문·이미지는 재게시하지 않았다.",
+    "independence_group": "TsAMO Pavlichenko award order 137"
+  },
+  {
+    "id": "CAT-SU-SRC-0072",
+    "title": "Павличенко Людмила Михайловна",
+    "institution_or_author": "세바스토폴 방어·해방 박물관(Музей героической обороны и освобождения Севастополя)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "입대와 오데사·세바스토폴 방어 단락, 1942년 사진 캡션 및 사망 단락",
+    "url": "https://www.sevmuseum.ru/scientific-activity/dnevnik/sevastopolskiy-dnevnik/pavlichenko-lyudmila-mikhaylovna/",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "출생지, 제54소총연대·제25소총사단 복무, 오데사·세바스토폴 방어, 전시 훈련과 미국 대표단 활동, 사망연도를 확인했다."
+    ],
+    "limitations": [
+      "기관 전기와 사진 캡션이다. 게시된 당대 선전 전단을 개별 전과의 독립 증빙으로 세지 않았다."
+    ],
+    "rights": "한국어 자체 요약과 공개 링크만 제공했다. 원문·이미지는 재게시하지 않았다.",
+    "independence_group": "Sevastopol Museum biography and holdings"
+  },
+  {
+    "id": "CAT-SU-SRC-0073",
+    "title": "Soviet Student Delegation Arrives",
+    "institution_or_author": "주미 소련대사관 Information Bulletin, 공개 스캔은 Michael Harrison 웹사이트 보관",
+    "publication_date": "1942-08-29",
+    "source_type": "primary",
+    "document_or_accession_number": "Information Bulletin No. 104",
+    "locator": "제104호 첫 기사 «Soviet Student Delegation Arrives» 및 «Guests at White House»",
+    "url": "https://michaelharrison.org.uk/wp-content/uploads/2025/10/Embassy-Of-USSR-Information-Bulletin-1942-N79-153.pdf",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 8월 27일 대표단의 워싱턴 도착과 대사관이 그를 중위로 소개하고 309명 수치를 공표한 사실을 확인했다."
+    ],
+    "limitations": [
+      "외국 독자 대상 당대 소련 정부 홍보물이다. 공표 수치는 전투 일지나 상대측 자료로 독립 확증되지 않았다. 직급 표기는 보도 시점 호칭으로 사용했다."
+    ],
+    "rights": "당대 회보의 인용·복제 허용 표기가 있다. 자체 요약과 스캔 링크만 제공했다.",
+    "independence_group": "USSR Embassy Information Bulletin 104"
   }
 ]

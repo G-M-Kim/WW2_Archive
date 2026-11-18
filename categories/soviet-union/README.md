@@ -1,6 +1,6 @@
 # 소련 — WW2 카테고리 조사
 
-국가 코드 `SU`. 이 국가의 19개 항목을 순서대로 첫 조사한다. 아래 원고 파일은 해당 실행에서 실제 자료와 함께 생성한다. 1번은 T-34 초기 76 mm형·T-34-85·IS-2의 제원, 생산 결정 및 전시 운용 자료를 부분 조사했다. 2번은 BA-64 계열·SU-76I·SU-76M의 제원과 생산·배치 자료를 부분 조사했다. 3번은 마라트·키로프·D-2의 제원과 전시 운용 기록을 부분 조사했다. 4번은 Yak-3·Il-2·PS-84/Li-2의 생산·배치, 형식별 제원 및 수송·후송을 부분 조사했다. 5번은 PPSh-41·SSh-40·의무병 가방의 전시 생산·유물·보유 기록을 부분 조사했다. 6번은 RUS-2 레이더, M-101·K-37 암호기, Studebaker US6 공여 수송차량의 전시 기록을 부분 조사했다. 현재 6/19 항목을 방문했다.
+국가 코드 `SU`. 이 국가의 19개 항목을 순서대로 첫 조사한다. 아래 원고 파일은 해당 실행에서 실제 자료와 함께 생성한다. 1번은 T-34 초기 76 mm형·T-34-85·IS-2의 제원, 생산 결정 및 전시 운용 자료를 부분 조사했다. 2번은 BA-64 계열·SU-76I·SU-76M의 제원과 생산·배치 자료를 부분 조사했다. 3번은 마라트·키로프·D-2의 제원과 전시 운용 기록을 부분 조사했다. 4번은 Yak-3·Il-2·PS-84/Li-2의 생산·배치, 형식별 제원 및 수송·후송을 부분 조사했다. 5번은 PPSh-41·SSh-40·의무병 가방의 전시 생산·유물·보유 기록을 부분 조사했다. 6번은 RUS-2 레이더, M-101·K-37 암호기, Studebaker US6 공여 수송차량의 전시 기록을 부분 조사했다. 7번은 주코프·추이코프의 지휘와 파블리첸코의 전시 복무 기록을 부분 조사했다. 현재 7/19 항목을 방문했다.
 
 [전체 계획](../PLAN.md) · [출처 장부](SOURCES.json) · [미확인 과제](QUESTIONS.json)
 
@@ -12,7 +12,7 @@
 | 4 | 항공기, 무장, 성능 | partial | [04-aircraft.md](04-aircraft.md) |
 | 5 | 보병 무기 및 장비 | partial | [05-infantry-equipment.md](05-infantry-equipment.md) |
 | 6 | WW2에서 빼놓을 수 없는 장비 | partial | [06-essential-technology.md](06-essential-technology.md) |
-| 7 | 유명한 전투 참여 인물 | pending | `07-combat-personnel.md` |
+| 7 | 유명한 전투 참여 인물 | partial | [07-combat-personnel.md](07-combat-personnel.md) |
 | 8 | 유명한 정치 인물 | pending | `08-political-personnel.md` |
 | 9 | 유명한 학자·연구자 | pending | `09-scientific-personnel.md` |
 | 10 | 유명 연설의 영상자료 | pending | `10-speech-videos.md` |
