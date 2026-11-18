@@ -1758,5 +1758,107 @@
     ],
     "rights": "자체 한국어 요약과 원문 링크만 사용했다. 원문·사진·영상은 재게시하지 않았다.",
     "independence_group": "Timiryazev Biological Museum"
+  },
+  {
+    "id": "CAT-SU-SRC-0089",
+    "title": "Выступление по радио … В. М. Молотова … о … нападении … Германии на СССР",
+    "institution_or_author": "В. М. Молотов 발언 · РГАФД 소장 · 러시아 대통령도서관 공개",
+    "publication_date": "1941-06-22",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАФД. Ф. 1. Оп. 15 ш/ф. Ед. уч. 398",
+    "locator": "목록의 제목·날짜·Примечания·Шифр хранения",
+    "url": "https://www.prlib.ru/item/1354995",
+    "accessed_at": "2026-11-19T06:58:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "목록에서 1941년 6월 22일 음성문서(Фонодокумент), 러시아어, 길이 8분 34초로 확인했다."
+    ],
+    "limitations": [
+      "음성 자체를 재생·청취하지 못했다. 영상 소장·존재를 입증하는 목록이 아니다. 표제의 председатель СНК 직함은 별도 직책 대조가 필요해 본문에 그대로 채택하지 않았다."
+    ],
+    "rights": "자체 한국어 요약·원문 링크만 제공했다. 원본 음성·영상·이미지를 복제하거나 재업로드하지 않았다.",
+    "independence_group": "RGAFD 1/15/398"
+  },
+  {
+    "id": "CAT-SU-SRC-0090",
+    "title": "Выступление по радио И. В. Сталина с обращением к советскому народу в связи с нападением Германии на СССР",
+    "institution_or_author": "И. В. Сталин 발언 · РГАФД 소장 · 러시아 대통령도서관 공개",
+    "publication_date": "1941-07-03",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАФД. Ф. 1. Оп. 16 т/ф. Ед. уч. 254",
+    "locator": "목록의 날짜·Примечания·Шифр хранения",
+    "url": "https://www.prlib.ru/item/1355388",
+    "accessed_at": "2026-11-19T06:58:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 7월 3일 음성문서, 러시아어, 길이 21분 26초라는 서지를 확인했다."
+    ],
+    "limitations": [
+      "음성 자체는 미청취다. 영상 미확보는 모든 영상의 부존재를 뜻하지 않는다."
+    ],
+    "rights": "자체 한국어 요약·원문 링크만 제공했다. 원본 음성·영상·이미지를 복제하거나 재업로드하지 않았다.",
+    "independence_group": "RGAFD 1/16/254"
+  },
+  {
+    "id": "CAT-SU-SRC-0091",
+    "title": "Речь И. В. Сталина на параде войск Красной армии, посвященном 24-й годовщине Великой Октябрьской социалистической революции",
+    "institution_or_author": "И. В. Сталин 발언 · РГАФД 소장 · 러시아 대통령도서관 공개",
+    "publication_date": "1941-11-07",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАФД. Ф. 1. Ед. уч. 066",
+    "locator": "목록의 날짜·녹음장소·길이·소장번호",
+    "url": "https://www.prlib.ru/item/1355409",
+    "accessed_at": "2026-11-19T06:58:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "목록에서 녹음일 1941년 11월 7일, 모스크바 붉은광장, 길이 6분 58초, 음성문서로 확인했다."
+    ],
+    "limitations": [
+      "음성 미청취다. 이 녹음일을 별도 영화장면의 촬영일로 적용할 수 없다."
+    ],
+    "rights": "자체 한국어 요약·원문 링크만 제공했다. 원본 음성·영상·이미지를 복제하거나 재업로드하지 않았다.",
+    "independence_group": "RGAFD 1/066"
+  },
+  {
+    "id": "CAT-SU-SRC-0092",
+    "title": "Празднование 24-й годовщины Октябрьской революции в Москве и Куйбышеве (1941)",
+    "institution_or_author": "Net-Film 영상자료 유통·목록 서비스",
+    "publication_date": "1941",
+    "source_type": "film_catalog",
+    "document_or_accession_number": "Net-Film №59960 · сюжет 1",
+    "locator": "Сюжет №1 장면 설명 첫 단락, 전체 목록 길이 00:08:40, календарь",
+    "url": "https://www.net-film.ru/film-59960/",
+    "accessed_at": "2026-11-19T06:58:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "스탈린 연설 장면과 모스크바·쿠이비셰프 행진을 포함한다는 목록 설명, 한 сюжет와 전체 길이 8분 40초를 확인했다.",
+      "실제 브라우저 재생기에 Unable to play media.가 표시되었고 한 차례 새로고침 뒤에도 같은 오류였다."
+    ],
+    "limitations": [
+      "실제 동영상 시청·음성·자막·립싱크·프레임별 촬영일·장면 타임코드는 미검증이다. 전체 길이는 연설 단독 길이가 아니다. 공급사 번호를 원 소장기관의 소장번호로 쓰지 않는다."
+    ],
+    "rights": "사이트가 영상 제공·라이선스를 별도로 안내한다. 이용 허락이나 퍼블릭도메인으로 추정하지 않고 링크·자체 요약만 사용했다.",
+    "independence_group": "Net-Film 59960"
+  },
+  {
+    "id": "CAT-SU-SRC-0093",
+    "title": "Парад 7 ноября 1941 года. Как это было...",
+    "institution_or_author": "А. М. Трояновский 작성 · 중앙기록영화스튜디오 역사 가상박물관(CSDF Museum) 게재",
+    "publication_date": "2017-12-09",
+    "source_type": "primary_excerpt_and_commentary",
+    "document_or_accession_number": "М. Трояновский, …С веком наравне (РОССПЭН, 2004) 일기 재수록. 원본 소장번호·인쇄쪽 미확인",
+    "locator": "본문의 28 ноября 1941 г. 표제 아래 17·20·27 ноября 촬영 준비·촬영 일기 인용",
+    "url": "https://csdfmuseum.ru/blog/27-Парад-7-ноября-1941-года-Как-это-было",
+    "accessed_at": "2026-11-19T06:58:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "재수록 일기에서 11월 17일 촬영 결정, 20일 표시된 연설문 전달, 27일 크렘린 게오르기 홀에서 촬영했다는 기록을 읽었다.",
+      "웹 게재일 2017-12-09와 원 온라인 발표일 2011-11-04의 표기를 구분했다."
+    ],
+    "limitations": [
+      "원 일기·2004년 출판본은 직접 대조하지 못했다. 7일 연설의 재촬영 설명이며 모든 영상 판본의 특정 장면을 식별하는 기록은 아니다. 다른 CSDF 글도 이 일기를 인용하므로 독립 원사료로 세지 않았다."
+    ],
+    "rights": "자체 한국어 요약·원문 링크만 제공했다. 원본 음성·영상·이미지를 복제하거나 재업로드하지 않았다.",
+    "independence_group": "Mark Troyanovskii diary lineage"
   }
 ]
