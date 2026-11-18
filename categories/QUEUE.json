@@ -1714,8 +1714,9 @@
     "category": "유명한 학자·연구자",
     "article_path": "categories/soviet-union/09-scientific-personnel.md",
     "planned_at": "2026-11-19T01:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-SU-09.json",
+    "completed_at": "2026-11-19T04:59:44+09:00"
   },
   {
     "step": 124,

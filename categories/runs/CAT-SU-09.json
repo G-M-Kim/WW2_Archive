@@ -1,0 +1,57 @@
+{
+  "step": 123,
+  "job_id": "CAT-SU-09",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 9,
+  "category": "유명한 학자·연구자",
+  "article_path": "categories/soviet-union/09-scientific-personnel.md",
+  "status": "partial",
+  "started_at": "2026-11-19T04:54:28+09:00",
+  "completed_at": "2026-11-19T04:59:44+09:00",
+  "base_head": "87f46a53ab0f1769bade54548162c686ef70b38c",
+  "source_ids": [
+    "CAT-SU-SRC-0059",
+    "CAT-SU-SRC-0083",
+    "CAT-SU-SRC-0084",
+    "CAT-SU-SRC-0085",
+    "CAT-SU-SRC-0086",
+    "CAT-SU-SRC-0087",
+    "CAT-SU-SRC-0088"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0033",
+    "CAT-SU-RQ-0034",
+    "CAT-SU-RQ-0035",
+    "CAT-SU-RQ-0036"
+  ],
+  "entity_ids": [
+    "CAT-SU-PER-0007",
+    "CAT-SU-PER-0008",
+    "CAT-SU-PER-0009"
+  ],
+  "research_scope": "코브자레프의 펄스 레이더 연구, 예르몰리예바의 방역·페니실린 연구 조직, 바빌로프의 전시 탄압과 VIR 직원의 종자 보존을 대표 사례로 조사했다.",
+  "limitations": [
+    "전시 원문을 직접 판독한 근거는 확보하지 못했다. 후대 기술사·기관 설명·학술 전기와 재수록 회고를 사용했고 미확인 과제를 남겼다.",
+    "두 레이더 기술사의 공통 원전 계통은 미확인이다. 약물 효과·구명 인원·전시 생산량을 확정하지 않았다.",
+    "VIR의 봉쇄기 보존 활동은 잔류 직원에게 귀속하며 당시 감금된 바빌로프의 현장 지휘로 쓰지 않았다."
+  ],
+  "evidence_checked": [
+    "RAS의 자브로드스키 기관사와 자루츠키의 레이더 기술사 본문을 대조했다.",
+    "티미랴제프 박물관의 방역 기간·야콥손과의 공동 수상·페니실린 작업 지도 설명을 읽었다.",
+    "VIR 기념관 설명, 로스쿠토프의 5쪽 PDF 본문, 캐나다 우크라이나연구소의 바빌로프 전기를 읽었다."
+  ],
+  "access_attempts": [
+    "예르몰리예바 가상전시 링크 클릭과 직접 URL 열기는 모두 HTTP 502 Bad Gateway였다.",
+    "RAS 코브자레프 인물 페이지와 gnicpm.ru 예르몰리예바 소개는 HTTP 403으로 본문 미열람이다.",
+    "VIR PDF 두 파일의 스크린샷은 application/pdf로 인식되지 않아 실패했다. 본문 추출은 열렸다. 2021년 기관 발표 자료에서 인용된 원 보고서도 원본 판독으로 세지 않았다.",
+    "대통령도서관 도메인의 연구자·수상 관련 검색에서 해당 원결정을 확보하지 못했다. 검색 결과를 원문 열람으로 세지 않았다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=123 pending=10; sources=1219 questions=466. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}
