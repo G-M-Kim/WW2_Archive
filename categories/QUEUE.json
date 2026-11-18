@@ -1672,8 +1672,9 @@
     "category": "WW2에서 빼놓을 수 없는 장비",
     "article_path": "categories/soviet-union/06-essential-technology.md",
     "planned_at": "2026-11-18T19:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-SU-06.json",
+    "completed_at": "2026-11-18T23:02:59+09:00"
   },
   {
     "step": 121,

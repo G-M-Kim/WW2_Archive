@@ -1138,5 +1138,145 @@
     ],
     "rights": "학술지 본문과 표를 복제하지 않고 한 행의 집계값을 자체 문장으로 요약했다.",
     "independence_group": "Miroshnichenko et al. 2017 medical supply study"
+  },
+  {
+    "id": "CAT-SU-SRC-0058",
+    "title": "Постановление ГКО СССР № 3686 сс о радиолокации, с приложением докладной записки Маленкова Г. М. Сталину И. В.",
+    "institution_or_author": "소련 국가방위위원회(GKO) 작성, РГАСПИ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1943-07-04",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "№ 3686сс · РГАСПИ Ф. 644, Оп. 1, Д. 129, Л. 195–197об.; Оп. 2, Д. 184, Л. 130–135",
+    "locator": "기록물 목록의 제목·날짜·보존번호",
+    "url": "https://www.prlib.ru/item/2011584",
+    "accessed_at": "2026-11-18T23:02:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 7월 4일자 전시 레이더 결정 및 말렌코프의 보고서 첨부 서지를 확인했다."
+    ],
+    "limitations": [
+      "이 기록은 공개 목록 열람에 근거한다. 원문 전체와 지시별 시행 실적은 미확인이다."
+    ],
+    "rights": "원문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 제공했다.",
+    "independence_group": "GKO 3686ss · RGASPI"
+  },
+  {
+    "id": "CAT-SU-SRC-0059",
+    "title": "От «Ревеня» до «Примы». Из истории развития радиолокационных станций",
+    "institution_or_author": "А. Н. Заруцкий, Военно-исторический журнал",
+    "publication_date": "2023-08-02",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "РУС-2 «Редут» 채택 및 РУС-2с «Пегматит» 설명 단락",
+    "url": "https://history.milportal.ru/iz-istorii-razvitiya-radiolokacionnyx-stancij/",
+    "accessed_at": "2026-11-18T23:02:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 RUS-2 채택, 1941년 RUS-2s 개발 및 항공 감시·경보 체계의 장비로 활용됐다는 서술을 확인했다."
+    ],
+    "limitations": [
+      "후대 기술사 정리다. 당대 채택 명령서와 장비별 시험표 및 전과 원자료는 별도 확인이 필요하다."
+    ],
+    "rights": "원문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 제공했다.",
+    "independence_group": "Zarutskii radar history"
+  },
+  {
+    "id": "CAT-SU-SRC-0060",
+    "title": "Бой за Кронштадт",
+    "institution_or_author": "Г. И. Гельфенштейн 회고, Наука и жизнь",
+    "publication_date": "1999-05",
+    "source_type": "primary_memoir",
+    "document_or_accession_number": "Наука и жизнь № 5, 1999",
+    "locator": "‘Редут-3’ 및 1941년 9월 21일 당직 단락",
+    "url": "https://www.nkj.ru/archive/articles/9221/",
+    "accessed_at": "2026-11-18T23:02:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "레두트-3 운용자가 1941년 9월 21일 크론슈타트 방공에 공습 징후를 보고했다고 회고한 부분을 확인했다."
+    ],
+    "limitations": [
+      "전후 수십 년이 지난 참가자 증언이다. 실제 탐지 거리·경보 시간·피해 감소량은 동시대 기록으로 확증하지 못했다."
+    ],
+    "rights": "원문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 제공했다.",
+    "independence_group": "Gelfenshtein operator recollection"
+  },
+  {
+    "id": "CAT-SU-SRC-0061",
+    "title": "Великая Победа. Том 10: Война в эфире",
+    "institution_or_author": "편집위원회, 모스크바국제관계대학교(МГИМО) 출판 · 러시아역사협회 공개",
+    "publication_date": "2015",
+    "source_type": "secondary",
+    "document_or_accession_number": "ISBN 978-5-9228-1310-5",
+    "locator": "인쇄 21–22쪽 «Криптографы вступают в бой», 그림 7 및 각주 48·50·52",
+    "url": "https://historyrussia.org/images/img-knigi/pobeda/t10.pdf",
+    "accessed_at": "2026-11-18T23:02:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "M-101의 1940년 생산·1943년 군 송부와 K-37의 양산·제707공장 생산, K-37과 M-100의 인수 집계가 각각 구분됨을 확인했다."
+    ],
+    "limitations": [
+      "한 편찬물의 서술이다. 그 수치의 원 인수 장부와 독립 기록, 부대별 가동 대장은 확보하지 못했다."
+    ],
+    "rights": "원문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 제공했다.",
+    "independence_group": "Velikaya Pobeda · Voina v efire"
+  },
+  {
+    "id": "CAT-SU-SRC-0062",
+    "title": "The Persian Corridor and Aid to Russia",
+    "institution_or_author": "T. H. Vail Motter, 미 육군 군사사센터(Center of Military History)",
+    "publication_date": "1952",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 8-1",
+    "locator": "제8장 Motor Vehicle Assembly and Delivery, 인쇄 139쪽 첫 단락과 각주 1",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/8-1.pdf",
+    "accessed_at": "2026-11-18T23:02:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 9월 20일까지 미국산 트럭 409,526대와 페르시아 회랑 비중 약 45%가 전체 차종 집계로 기재됐음을 확인했다."
+    ],
+    "limitations": [
+      "전시와 직후를 아우르는 공식 전사 집계다. 본문 수치는 Studebaker US6 인도 수량이 아니다. 각주가 가리키는 1945년 11월 28일 원 보고서 직접 열람은 남았다."
+    ],
+    "rights": "미 육군 공식 발간물 공개 PDF를 링크하고 집계값을 요약했다.",
+    "independence_group": "US Army CMH · Motter"
+  },
+  {
+    "id": "CAT-SU-SRC-0063",
+    "title": "Studebaker US6",
+    "institution_or_author": "네덜란드 오버를론 전쟁박물관(Oorlogsmuseum Overloon)",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": null,
+    "locator": "Military Vehicle Collection, US6 소장품·붉은군대 공여 단락",
+    "url": "https://www.oorlogsmuseum.nl/en/the-museum/exhibitions/military-vehicle-collection-overloon/studebaker-us6/",
+    "accessed_at": "2026-11-18T23:02:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미국의 전시 US6 공급과 소장품 중 이동 정비차·견인차가 있음을 확인했다."
+    ],
+    "limitations": [
+      "차량별 소련군 인수 이력과 공여 수량을 제공하지 않는다. 해당 전시 실물을 소련에서 쓰인 개별 차량으로 단정할 수 없다."
+    ],
+    "rights": "원문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 제공했다.",
+    "independence_group": "Overloon US6 vehicle collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0064",
+    "title": "Распоряжение ГКО СССР № 6305 cc об охране Всесоюзного научно-исследовательского института радиолокации НИИ-108 и Совета по радиолокации при ГКО",
+    "institution_or_author": "소련 국가방위위원회(GKO) 작성, РГАСПИ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1944-08-01",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "№ 6305сс · РГАСПИ Ф. 644, Оп. 1, Д. 287, Л. 165–165об.; Оп. 2, Д. 368, Л. 107–108об.",
+    "locator": "공개 목록의 제목·날짜·보존번호",
+    "url": "https://www.prlib.ru/item/2064837",
+    "accessed_at": "2026-11-18T23:02:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 8월 1일 명령의 제목이 레이더 연구소 НИИ-108과 GKO 산하 레이더위원회를 함께 명시한다."
+    ],
+    "limitations": [
+      "기록물 목록의 기관 표기다. 실제 부대 배치나 기관의 연구 결과, 명령 집행 내용은 확인하지 못했다."
+    ],
+    "rights": "원문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 제공했다.",
+    "independence_group": "GKO 6305ss · RGASPI"
   }
 ]
