@@ -638,5 +638,145 @@
     ],
     "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
     "independence_group": "Khaldei Hungary MAMM photo"
+  },
+  {
+    "id": "CAT-SU-SRC-0033",
+    "title": "Intelligence Report: U.S.S.R. Navy",
+    "institution_or_author": "U.S. Navy Department, Intelligence Division, Eastern European Division / HyperWar 공개 스캔",
+    "publication_date": "1943-11-30",
+    "source_type": "primary",
+    "document_or_accession_number": "N.N.I. 96–1943; Serial 40-43; OP-16-FA-5",
+    "locator": "인쇄 78–79쪽 전함, 84쪽 순양함 제원과 85쪽 무장 구조, 127–128쪽 D급 잠수함",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USSR/ONI%20USSR%20Navy%201943-11-30.pdf",
+    "accessed_at": "2026-11-18T16:55:37+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "세바스토폴급 전함 배수량·주포, 키로프급 분류와 설계 속도 및 주포, D급 배수량·속도·발사관을 당대 보고 본문에서 확인했다."
+    ],
+    "limitations": [
+      "미국의 전시 정보 추정이다. 함급 단위 수치에는 상세 배수량 단위, 개함·개장별 시험조건이 충분히 표시되지 않는다."
+    ],
+    "rights": "기밀해제 표시가 있는 미 해군 정부 작성 문서의 공개 스캔. 한국어 요약과 링크만 사용했다.",
+    "independence_group": "US ONI Serial 40-43"
+  },
+  {
+    "id": "CAT-SU-SRC-0034",
+    "title": "305-мм ствол орудия артиллерийской башенной установки линейного корабля типа «Севастополь». СССР",
+    "institution_or_author": "러시아 승리박물관(Музей Победы)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "마라트의 1941년 9월 피격·부상, 2번 포탑 복구, 1944년 1월 무장 단락",
+    "url": "https://victorymuseum.ru/encyclopedia/technic/voenno-morskoy-flot/305-mm-stvol-orudiya-artilleriyskoy-bashennoy-ustanovki-lineynogo-korablya-tipa-sevastopol-sssr/",
+    "accessed_at": "2026-11-18T16:55:37+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941-09-23 피격, 3·4번 및 뒤이은 2번 포탑 가동, 1943년 함명 변경과 1944년 명시 무장을 확인했다."
+    ],
+    "limitations": [
+      "함포 유물 해설은 개별 함정 일지나 피해 원보고서가 아니다. 전과 수치는 채택하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 한국어 자체 요약과 링크만 사용했다. 원문·사진 재사용 권리는 별도 확인한다.",
+    "independence_group": "Victory Museum 305 mm artifact history"
+  },
+  {
+    "id": "CAT-SU-SRC-0035",
+    "title": "В Кронштадте почтили память экипажа линкора «Марат»",
+    "institution_or_author": "크론시타트 구 자치단체",
+    "publication_date": "2025년 84주기 기념 기사",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Трагедия 23 сентября 1941 года 및 Корабль, который отказался умирать",
+    "url": "https://xn--b1aqfv.xn--p1ai/poleznaya-informaciya/novosti/v-kronshtadte-pochtili-pamyat-ekipazha-linkora-marat/",
+    "accessed_at": "2026-11-18T16:55:37+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "피격일과 1941-10-31 후방 포탑 재사용을 적은 추모 기사 본문을 확인했다."
+    ],
+    "limitations": [
+      "후대 추모 기록이며 소련의 함정 일지와 독일 측 기록은 확인하지 못했다. 공격 규모 추정과 인명 수치는 채택하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 한국어 자체 요약과 링크만 사용했다. 원문·사진 재사용 권리는 별도 확인한다.",
+    "independence_group": "Kronstadt memorial narrative"
+  },
+  {
+    "id": "CAT-SU-SRC-0036",
+    "title": "Вступил в строй КБФ первый легкий крейсер проекта 26 «Киров» советской постройки",
+    "institution_or_author": "러시아 중앙해군박물관(ЦВММ)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "표제 및 1938년 편입·1941년 탈린 철수 단락",
+    "url": "https://navalmuseum.ru/news/memorable?id=919",
+    "accessed_at": "2026-11-18T16:55:37+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "키로프를 프로젝트 26 경순양함으로 분류한 점과 1938-09-26 발트함대 편입, 1941년 8월 탈린 철수 기함을 확인했다."
+    ],
+    "limitations": [
+      "박물관 연혁이다. 실제 해상시험·무장 목록과 해당 시기 함정 일지는 미열람이다."
+    ],
+    "rights": "기관 공개 열람 자료. 한국어 자체 요약과 링크만 사용했다. 원문·사진 재사용 권리는 별도 확인한다.",
+    "independence_group": "Central Naval Museum Kirov chronology"
+  },
+  {
+    "id": "CAT-SU-SRC-0037",
+    "title": "Строительство и технические данные Д-2",
+    "institution_or_author": "러시아 중앙해군박물관 D-2 분관",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "진수·발트해 해군 편입 단락 및 Основные тактико-технические элементы",
+    "url": "https://navalmuseum.ru/filials/narodovolec/history_of_d2",
+    "accessed_at": "2026-11-18T16:55:37+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "D-2가 데카브리스트형 I계열임과 개별 함정 제원표의 배수량·속도·무장을 확인했다."
+    ],
+    "limitations": [
+      "개장일과 전시 적재·시험 조건이 붙어 있지 않다. 개별 표의 수치를 D급 전체에 적용하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 한국어 자체 요약과 링크만 사용했다. 원문·사진 재사용 권리는 별도 확인한다.",
+    "independence_group": "Central Naval Museum D-2"
+  },
+  {
+    "id": "CAT-SU-SRC-0038",
+    "title": "Боевой путь Д2 «Народоволец»",
+    "institution_or_author": "러시아 중앙해군박물관 D-2 분관",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1941–1942년 수리·첫 전투 항해 및 선박 피격 단락",
+    "url": "https://navalmuseum.ru/filials/narodovolec/battleway",
+    "accessed_at": "2026-11-18T16:55:37+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942-09-23부터 11-04까지의 첫 전투 항해, 보른홀름 인근 Jacobus Fritzen 및 철도 연락선 피격 서술을 확인했다."
+    ],
+    "limitations": [
+      "후대 함력이다. 개별 공격의 전과 총계와 인명 피해는 상대측 원장과 대조하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 한국어 자체 요약과 링크만 사용했다. 원문·사진 재사용 권리는 별도 확인한다.",
+    "independence_group": "Central Naval Museum D-2"
+  },
+  {
+    "id": "CAT-SU-SRC-0039",
+    "title": "UXO Desk Study Offshore Wind Farm Bornholm I West",
+    "institution_or_author": "E. van den Berg / NjordIC B.V., Energinet 의뢰, 덴마크 에너지청 공개",
+    "publication_date": "2023-10-23",
+    "source_type": "secondary",
+    "document_or_accession_number": "2021.03.214/UP0-343, v4.0",
+    "locator": "인쇄 27쪽 1942-10-14·19 및 각주 39–40",
+    "url": "https://ens.dk/media/5938/download",
+    "accessed_at": "2026-11-18T16:55:37+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Jacobus Fritzen 격침과 Deutschland 손상 및 달력 날짜를 기록한 본문을 확인했다."
+    ],
+    "limitations": [
+      "사업 해역의 후대 역사 정리다. 10월 14일 항목은 NARA 자료를 인용하나 원 기록은 직접 열람하지 않았다."
+    ],
+    "rights": "보고서 권리자는 NjordIC B.V.로 표시된다. 본문·사진을 복제하지 않고 사건 사실의 자체 요약과 링크만 사용했다.",
+    "independence_group": "NjordIC Bornholm historical review"
   }
 ]
