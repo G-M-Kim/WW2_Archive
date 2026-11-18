@@ -1,0 +1,58 @@
+{
+  "step": 125,
+  "job_id": "CAT-SU-11",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 11,
+  "category": "유명 군수기업",
+  "article_path": "categories/soviet-union/11-military-industry.md",
+  "status": "partial",
+  "started_at": "2026-11-19T08:49:17+09:00",
+  "completed_at": "2026-11-19T08:53:24+09:00",
+  "base_head": "ef79d685bd8e28a6c1c04db74f07857c9d93b4b6",
+  "source_ids": [
+    "CAT-SU-SRC-0020",
+    "CAT-SU-SRC-0094",
+    "CAT-SU-SRC-0095",
+    "CAT-SU-SRC-0096",
+    "CAT-SU-SRC-0097",
+    "CAT-SU-SRC-0098",
+    "CAT-SU-SRC-0099",
+    "CAT-SU-SRC-0100"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0040",
+    "CAT-SU-RQ-0041",
+    "CAT-SU-RQ-0042",
+    "CAT-SU-RQ-0043"
+  ],
+  "entity_ids": [
+    "CAT-SU-ORG-0001",
+    "CAT-SU-ORG-0002",
+    "CAT-SU-ORG-0003"
+  ],
+  "research_scope": "제183공장 계통의 전차 이전·생산 목표·제작품, 크라스나야 자리야 통신공장의 설비 이전과 엘렉트로실라 전기기계·전력 복구의 대표 사례를 조사했다.",
+  "limitations": [
+    "제183공장 명령은 웹 전사와 공식 목록을 대조했다. 원본 이미지 전체·이행보고·생산/검수 원장은 미확인이다.",
+    "통신공장 분리와 이전지별 전시 생산은 부분 확인이며 1950년대 전화기를 전시 제작품으로 소급하지 않았다.",
+    "엘렉트로실라 복구 역할은 후대 기관사다. 별도 기관에서 송전 날짜를 대조했으나 원 운전일지는 미확인이다."
+  ],
+  "evidence_checked": [
+    "НКТП 명령 4호의 1·2·3а항과 공식 기록물 소장기호·역순 페이지를 대조했다.",
+    "AWM REL/12389.001의 1944년 제작·니즈니타길 제183공장 설명을 재열람했다.",
+    "GKO 1877호 목록, 톰스크 박물관의 페름 공장 기원 설명을 읽었다.",
+    "Power Machines 역사박물관과 RusHydro·LifeNews 본문에서 볼호프 전력 복구·송전 날짜를 대조했다."
+  ],
+  "access_attempts": [
+    "상트페테르부르크 기록관 Р-403의 상세 주소와 기본 주소 열기가 모두 TimeoutError였다. 검색 요약은 원문 확인으로 세지 않았다.",
+    "T-34 Inform 페이지의 Image 링크는 Rs.jpg 이미지 항목으로 열렸으나 원 문서 전체 이미지 판독을 완료한 것으로 세지 않았다.",
+    "대상 원고는 최신 HEAD에서 404였으며 이번 첫 조사로 생성했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=125 pending=8; sources=1231 questions=473. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}

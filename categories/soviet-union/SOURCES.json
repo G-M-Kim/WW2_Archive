@@ -388,10 +388,11 @@
     "document_or_accession_number": "AWM REL/12389.001 / C110416",
     "locator": "Date made·Description·History / Summary",
     "url": "https://www.awm.gov.au/collection/C110416",
-    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
     "access_status": "source_checked",
     "claims_checked": [
-      "니즈니타길 제183공장 1944년 제작 표본과 소장품에 후대 교체된 주행륜의 존재를 확인했다."
+      "니즈니타길 제183공장 1944년 제작 표본과 소장품에 후대 교체된 주행륜의 존재를 확인했다.",
+      "군수기업 항목에서 같은 소장품의 1944년 제작·니즈니타길 제183공장 귀속 설명을 재열람했다."
     ],
     "limitations": [
       "개별 표본의 생산지·개조는 소장 해제의 추적 결과다. 해제의 공장 누적 수량은 생산 원장과 대조 전까지 보류했다."
@@ -1860,5 +1861,145 @@
     ],
     "rights": "자체 한국어 요약·원문 링크만 제공했다. 원본 음성·영상·이미지를 복제하거나 재업로드하지 않았다.",
     "independence_group": "Mark Troyanovskii diary lineage"
+  },
+  {
+    "id": "CAT-SU-SRC-0094",
+    "title": "Приказ Народного комиссара танковой промышленности СССР № 4",
+    "institution_or_author": "В. А. Малышев / НКТП СССР 작성 · Макаров А. Ю., Желтов И. Г.의 Т-34 Информ 전사",
+    "publication_date": "1941-09-13",
+    "source_type": "primary_transcription",
+    "document_or_accession_number": "РГАЭ Ф. 8752. Оп. 4. Д. 2. Л. 7–10 (공식 목록은 역순 Л. 10–7)",
+    "locator": "명령 본문 1·2·3а항, 8·10항은 계획·동원 지시로 읽음",
+    "url": "https://t34inform.ru/doc/1941-09-13_Ord_NKTP_4cc.html",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제183공장 설비·인력을 니즈니타길 우랄바곤자보드 부지로 이전하라는 명령을 읽었다.",
+      "2항의 가동설비 50%씩 두 단계와 첫 단계 10월 10일 완료 목표, 3а항의 이전 중 일 7대·완전 이전 두 달 뒤 일 15대 T-34 생산 목표를 확인했다."
+    ],
+    "limitations": [
+      "웹 전사와 공식 목록의 문서번호·날짜·소장번호를 맞췄다. 원 문서 이미지 전체의 직접 판독과 명령 이행·군 검수량은 미확인이다. 목표를 실적으로 세지 않는다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
+    "independence_group": "NKTP order 4 · RGAE"
+  },
+  {
+    "id": "CAT-SU-SRC-0095",
+    "title": "Приказ № 4 Наркомата танковой промышленности СССР об эвакуации завода № 183 и Мариупольского завода в г. Нижний Тагил и выпуске танков Т-34 и бронедеталей",
+    "institution_or_author": "НКТП СССР / РГАЭ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1941-09-13",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАЭ. Ф. 8752. Оп. 4. Д. 2. Л. 10–7",
+    "locator": "표제·날짜·Примечания·소장번호",
+    "url": "https://www.prlib.ru/item/1354542",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "명령 4호의 원본 소장과 역순 페이지 표시 및 날짜·대상 공장을 확인했다."
+    ],
+    "limitations": [
+      "목록 대조다. 0094와 동일 명령이므로 독립된 정책 결정·실적 증거로 세지 않는다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
+    "independence_group": "NKTP order 4 · RGAE"
+  },
+  {
+    "id": "CAT-SU-SRC-0096",
+    "title": "Постановление ГКО СССР № 1877 о дополнительной эвакуации оборудования завода «Красная заря» Наркомата электропромышленности",
+    "institution_or_author": "GKO СССР / РГАСПИ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1942-06-05",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ. Ф. 644. Оп. 1. Д. 38. Л. 259; Оп. 2. Д. 69. Л. 68–70",
+    "locator": "목록 제목·날짜·소장번호·첨부문서 안내",
+    "url": "https://www.prlib.ru/item/1347301",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 6월 5일 크라스나야 자리야의 추가 설비 이전에 관한 결정과 전기공업인민위원부 소속 표기를 확인했다."
+    ],
+    "limitations": [
+      "원 전문·설비 목록은 미열람이다. 추가 이전의 목적지·이전 완료량·실제 전화기 납품은 확정하지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
+    "independence_group": "GKO 1877 · RGASPI"
+  },
+  {
+    "id": "CAT-SU-SRC-0097",
+    "title": "Телефонный аппарат «ТАУ 1 МБ» (настольный)",
+    "institution_or_author": "Ю. К. Рассамахин, 톰스크주 M. B. 샤틸로프 향토박물관",
+    "publication_date": null,
+    "source_type": "museum_interpretation",
+    "document_or_accession_number": null,
+    "locator": "말미의 페름 전화공장 기원 설명과 소장품의 1950년대 사용 단락",
+    "url": "https://tomskmuseum.ru/nmps/narim_virt/telephone-apparat-tau/",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "박물관은 페름 전화공장의 기원을 1941년 레닌그라드 크라스나야 자리야의 소개와 연결한다. 소장 전화기는 1950년대 나림 사용품으로 설명한다."
+    ],
+    "limitations": [
+      "후대 지역박물관 해설이다. 이 물품을 전시 제작품·전선 지급품으로 소급할 수 없다. 페름 설립·분리 원명령과 전시 전화기 생산은 미검증이다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
+    "independence_group": "Tomsk regional museum · Rassamakhin"
+  },
+  {
+    "id": "CAT-SU-SRC-0098",
+    "title": "История — Завод «Электросила»",
+    "institution_or_author": "실로비예 마시니(Power Machines) 역사박물관",
+    "publication_date": null,
+    "source_type": "museum_interpretation",
+    "document_or_accession_number": null,
+    "locator": "«Великая Отечественная война», 1941–1945 항목",
+    "url": "https://museum.power-m.ru/plants/elektrosila/history/",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 전차 부품·지뢰·포탄 제작 및 군용 전기장비 수리, 1942년 본업 생산 재개와 볼호프 수력발전기 복구 서술을 읽었다.",
+      "1942년 9월 23일 레닌그라드로 전력이 공급됐다는 기관사를 확인했다."
+    ],
+    "limitations": [
+      "후계 기업의 기관사다. 생산·수리 원장·검수 기록은 미열람이다. 현대 Power Machines라는 법인을 전시 기업명으로 쓰지 않는다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
+    "independence_group": "Power Machines corporate history"
+  },
+  {
+    "id": "CAT-SU-SRC-0099",
+    "title": "Свет Волхова",
+    "institution_or_author": "РусГидро·LifeNews 공동 역사 프로젝트",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "본문의 케이블 설치와 1942년 9월 23일 송전 설명 단락",
+    "url": "https://hydro1945.rushydro.ru/sobytiya/svet-volhova/",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "볼호프 수력발전소의 전력이 1942년 9월 23일 라도가 케이블로 레닌그라드에 도달했다는 설명을 대조했다."
+    ],
+    "limitations": [
+      "별도 기관의 후대 설명이지만 원자료 계통은 미확인이다. 엘렉트로실라의 단독 기여나 모든 시내 시설의 정상가동을 입증하지 않는다. 영상 시청이 아닌 페이지 본문 열람이다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
+    "independence_group": "RusHydro · LifeNews"
+  },
+  {
+    "id": "CAT-SU-SRC-0100",
+    "title": "ЦГАЛС СПб. Фонд Р-403 — Завод «Красная Заря»",
+    "institution_or_author": "상트페테르부르크 기록관",
+    "publication_date": null,
+    "source_type": "archive_finding_aid",
+    "document_or_accession_number": "ЦГАЛС СПб. Ф. Р-403",
+    "locator": "기금 페이지 접근 시도, 본문 미확인",
+    "url": "https://spbarchives.ru/infres/-/archive/cgals/R-403",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "검색 결과의 상세 주소와 쿼리 없는 기금 주소를 각각 열었으나 두 번 모두 TimeoutError였다. 검색 요약을 원문 열람이나 직제 확증으로 세지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
+    "independence_group": "St Petersburg archives R-403"
   }
 ]
