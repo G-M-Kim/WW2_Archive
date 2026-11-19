@@ -2564,3 +2564,5 @@ as_of: 2026-11-04
 
 | SRC-2221 | *Январский гром* / 러시아 국립도서관(RNB) 필사본부 소장 당대 문서 전시 해설 | 1차 사료 전시·기관 해설(개별 원문 대조는 미완료) | 1944-01-14 오라니엔바움 제2충격군 공격 및 1월 17일 롭샤 진격 | https://expositions.nlr.ru/ex_manus/victory75/january.php | 소장 문서의 기관 설명 확인; 작전 개시와 전과·피해 규모를 구분, 개별 작전일지 전문 미대조 |
 | SRC-2222 | *The end of the Great Patriotic War* / 러시아 중앙해군박물관 공식 전시 해설 | 2차(해군박물관 기관 전사 해설) | 1944-01-14 항공·포병 준비와 제2충격군 진격, 1월 27일 포위 해제 | https://eng.navalmuseum.ru/main_exposition/victory | 소련 해군 관점; 포격량·전력 수치의 원전 및 독일군 기록 대조 필요 |
+
+| SRC-2223 | *Operation Shingle: Landing at Anzio, Italy* / 미 해군 역사유산사령부 NHHC, 2019 공식 역사 해설 | 2차(미 해군 공식 전사, 당대 자료 주석 포함) | 1944-01-22 02:00 상륙, 1/23 HMS Janus 피격 | https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1944/anzio.html | 미 해군 관점: 상륙 시각과 첫날 병력·함정 피해를 설명하나 영국 해군·독일군 당대 전투일지 및 수치 대조 미완료. 사진·원문 대량 재배포 금지 |
