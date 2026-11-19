@@ -2587,3 +2587,6 @@ as_of: 2026-11-04
 
 | SRC-2236 | *Battles of Imphal and Kohima* / 영국 National Army Museum, 공식 역사 해설 | 2차(박물관 역사해설) | 1944-03-08~07-18 작전 개관 | https://www.nam.ac.uk/explore/battle-imphal | 3/8 공세 개시와 3/29 임팔-코히마 도로 차단 구분. 세부 일본군 당대 작전명령·날짜 원전 별도 검증 |
 | SRC-2237 | *Stilwell's Command Problems* / 미 육군 군사사센터 공식 전사 | 2차(공식 군사사) | p.174: 1944-03-08 일본 공세 개시 | https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/S%20PDF/CMH_Pub_9-2.pdf?ver=voydvZkqUj6q2TQlar5CNA%3D%3D | 미 육군 관점 전후 편찬사. 당시 일본군 명령 원문 및 현장 부대별 실제 공격시각 미대조 |
+
+| SRC-2238 | *The bombing of Cassino* / 28 Māori Battalion 프로젝트, 뉴질랜드 제28(마오리)대대 전쟁일지 1944-03-15 인용(1956년 공식 부대사 수록) | 1차 수록 2차(당대 부대 전쟁일지 발췌) | J. F. Cody, *28 (Maori) Battalion* (1956), pp.365–366; 08:30 첫 폭격파·08:45 오폭 기록 | https://28maoribattalion.org.nz/photo/bombing-cassino | 전쟁일지 발췌의 시각은 부대 관측 기준; 원본 일지·공군 비행일지 및 오폭 사상자 대조 필요. 사진 재배포 권리 미확인 |
+| SRC-2239 | *Map of Cassino area, 1944* / 뉴질랜드 문화유산부 NZHistory (2014 갱신), 뉴질랜드 군사사 참고서 지도 해설 | 2차(정부 역사해설) | 1944-03-15 재공격: 인도군 캐슬힐 점령, 뉴질랜드군 시가지 북부 진입, 03-23 공격 중지 | https://nzhistory.govt.nz/media/photo/map-cassino-1944 | 2/15 수도원 폭격과 3/15 시가지 폭격 구분. 지도 이미지 복제 금지; 부대별 정확한 점령 시각과 인명 피해 원시기록 미대조 |

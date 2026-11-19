@@ -1,11 +1,17 @@
 # WW2 아카이브 조사 상태 — 정본 v2
-FORWARD_CURSOR: 1944-03-13
-FORWARD_INSPECTED_THROUGH: 1944-03-12
-CURRENT_FORWARD_BATCH: 1944-03-13..1944-03-19
-TOTAL_EVT_SRC_RQ: 3740/2237/1288
+FORWARD_CURSOR: 1944-03-20
+FORWARD_INSPECTED_THROUGH: 1944-03-19
+CURRENT_FORWARD_BATCH: 1944-03-20..1944-03-26
+TOTAL_EVT_SRC_RQ: 3741/2239/1289
 AS_OF: 2026-11-19
 
-## 최신 전진 실행 — 2026-11-19 (1944년 3월 6~12일)
+## 최신 전진 실행 — 2026-11-19 (1944년 3월 13~19일)
+- 카시노 3/15 시가지 폭격·재공격 EVT-3741, SRC-2238/2239, RQ-1289. [감사](source-audit-1944-mar13-19-batch1.md). 신규 1/2/1 누적 3741/2239/1289 다음 1944-03-20. 전체 로컬 validator 미실행.
+
+## 1944-03-13~19 BACKFILL_QUEUE
+- 카시노 원시 부대일지·오폭·피해분모 RQ-1289, 타전역 RQ-0003/RQ-0007. 정규 forward 재방문 금지.
+
+## 이전 전진 실행 — 2026-11-19 (1944년 3월 6~12일)
 - 임팔 U-Go 기존 EVT-0206 보강, SRC-2236/2237 RQ-1288. [감사](source-audit-1944-mar06-12-batch1.md). 신규 0/2/1 누적 3740/2237/1288 다음 1944-03-13. 1944 연표 미러 불일치 복구. 전체 로컬 validator 미실행.
 
 ## 1944-03-06~12 BACKFILL_QUEUE
