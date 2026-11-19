@@ -2600,3 +2600,6 @@ as_of: 2026-11-04
 
 | SRC-2245 | *The Battle of Kohima* / Kohima Museum, 전투 전문 박물관 역사해설 | 2차(전문 박물관 역사해설) | 1944-04-04 일본군 도착과 같은 날 웨스트켄트 연대 증원, 04-18 구원군 도착 | https://www.kohimamuseum.co.uk/the-battle-of-kohima/ | 박물관 서술은 당대 전투일지 원문이 아니며 최초 교전 시각·부대별 현원 및 수치에 추가 교차 필요. 사진·본문 재배포 권리 미확인 |
 | SRC-2246 | *The Battles of Imphal and Kohima 1944* / Royal Armouries, 영국 국립 무기박물관 역사해설 | 2차(국립 박물관 역사해설) | 1944-04-04 도쿄의 코히마 함락 방송과 실제 전투 시작, 04-05~18 포위전 | https://royalarmouries.org/objects-and-stories/stories/the-battles-of-imphal-and-kohima-1944 | 도쿄 방송은 점령 사실의 증거가 아닌 당시 주장. 1차 방송 녹취·군 전투일지 미확인. 사진 복제 금지 |
+
+| SRC-2247 | *Приказ Верховного Главнокомандующего об освобождении Одессы. 10 апреля 1944 г.* / 소련 최고사령관 1944-04-10 명령; 프라우다 제88호 1944-04-12 게재 서지 | 1차(당대 공식 발표문 서지) | 프라우다 제88호 | https://www.newspapers.historyrussia.org/ru/nodes/276946-prikaz-verhovnogo-glavnokomanduyuschego-ob-osvobozhdenii-odessy-10-aprelya-1944-g | 명령일·신문 게재일 구분. 현장 시각 독립 미확인, 이미지 재배포 금지 |
+| SRC-2248 | *Orders of the Day, April 11–17, 1944* / 소련 최고사령관 1944-04-11 케르치 점령 명령의 영어 번역 재수록 | 1차 번역 전재(공식 발표) | 1944-04-11 케르치 명령 | https://www.revolutionarydemocracy.org/Stalin/od0411to041744.htm | 소련 발표의 번역 전재이며 독립된 현장 검증 아님. 독일군 작전일지·원본 미대조 |
