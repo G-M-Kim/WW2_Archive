@@ -2001,5 +2001,123 @@
     ],
     "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
     "independence_group": "St Petersburg archives R-403"
+  },
+  {
+    "id": "CAT-SU-SRC-0101",
+    "title": "Всесоюзная перепись населения 1939 г. Распределение городского и сельского населения СССР и союзных республик по национальности и полу",
+    "institution_or_author": "1939년 전연방 인구조사 · РГАЭ 자료, Демоскоп Weekly 전사",
+    "publication_date": "1939",
+    "source_type": "primary_table_transcription",
+    "document_or_accession_number": "Таблица 15д. Национальный состав населения. РГАЭ Ф. 1562. Оп. 336. Д. 966",
+    "locator": "표 머리말·Всего 행·페이지 하단 Источник",
+    "url": "https://www.demoscope.ru/weekly/ssp/sng_nac_39_gs.php",
+    "accessed_at": "2026-11-19T10:52:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "총계 170,557,093명, 남성 81,694,889명, 여성 88,862,204명을 원문 표 전사에서 확인했다."
+    ],
+    "limitations": [
+      "원 기록물 이미지·조사표 전장 미대조다. 숫자는 공표·편집된 집계로 보존하고 무오류 실인구로 승인하지 않는다. 거주 개념의 세부 지침도 후속 확인이 필요하다."
+    ],
+    "rights": "한국어 자체 요약·선별 수치와 원문 링크만 사용했다. 원문·도표 이미지·PDF 전문을 재게시하지 않았다.",
+    "independence_group": "1939 census table 15d · RGAE"
+  },
+  {
+    "id": "CAT-SU-SRC-0102",
+    "title": "Территория и население СССР. Часть I — Народное хозяйство СССР в 1960 году",
+    "institution_or_author": "소련 통계연감 · Исторические Материалы 재수록",
+    "publication_date": null,
+    "source_type": "official_statistics_transcription",
+    "document_or_accession_number": "Народное хозяйство СССР в 1960 году, 인쇄 7–9쪽",
+    "locator": "7쪽 영토·인구 표, 8쪽 남녀 표, 9쪽 도시·농촌 표",
+    "url": "https://istmat.org/node/207",
+    "accessed_at": "2026-11-19T10:52:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 1월 17일 조사·1939년 9월 17일 이전 경계 기준 170.6백만 명과 확대 영역 추계 190.7백만 명을 구분한 표를 읽었다.",
+      "같은 기준의 도시 56.1백만·농촌 114.5백만 명과 남성 81.7백만·여성 88.9백만 명을 확인했다."
+    ],
+    "limitations": [
+      "후대 공식 연감의 웹 전사다. 인쇄본 자체와 원 조사 문서는 미대조다. 확대 영역 추계를 1939년 당시 조사 영역이나 병합의 법적 승인으로 보지 않는다."
+    ],
+    "rights": "한국어 자체 요약·선별 수치와 원문 링크만 사용했다. 원문·도표 이미지·PDF 전문을 재게시하지 않았다.",
+    "independence_group": "Soviet 1960 statistical yearbook"
+  },
+  {
+    "id": "CAT-SU-SRC-0103",
+    "title": "О приписках в переписи 1939 г.",
+    "institution_or_author": "Дмитрий Богоявленский, Демоскоп Weekly",
+    "publication_date": "2013-10-14/2013-10-31",
+    "source_type": "secondary",
+    "document_or_accession_number": "Демоскоп Weekly №571–572",
+    "locator": "본문 «Техника подделки и ее количественная оценка» 전후, 보정·중앙집계 인원 설명",
+    "url": "https://www.demoscope.ru/weekly/2013/0571/arxiv01.php",
+    "accessed_at": "2026-11-19T10:52:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 집계의 의도적 과대계상과 군·NKVD 특별집계의 지역 재배분을 논하는 문헌·기록 인용을 읽었다."
+    ],
+    "limitations": [
+      "연구자의 해석과 인용문을 확인했다. 원 비밀 회람·서신 전체를 직접 판독하지 않았다. 이 글과 0101은 같은 웹 플랫폼이며 별개의 독립 인구조사가 아니다."
+    ],
+    "rights": "한국어 자체 요약·선별 수치와 원문 링크만 사용했다. 원문·도표 이미지·PDF 전문을 재게시하지 않았다.",
+    "independence_group": "Bogoyavlensky census critique"
+  },
+  {
+    "id": "CAT-SU-SRC-0104",
+    "title": "Великая Отечественная война. Юбилейный статистический сборник — Демоскоп 소개·표 재수록",
+    "institution_or_author": "Росстат(원 편찬) · Демоскоп Weekly(재수록)",
+    "publication_date": "2015",
+    "source_type": "official_statistics_reproduction",
+    "document_or_accession_number": "원서 Москва, Росстат, 2015, 190쪽 · 재수록 안내 22·24·31·32쪽",
+    "locator": "24쪽 인구 변화 표와 각주, 31쪽 점령지역 인구 표의 기준 영역 각주, 소개 마지막의 경계 원칙",
+    "url": "https://www.demoscope.ru/weekly/2015/0639/biblio01.php",
+    "accessed_at": "2026-11-19T10:52:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 초 추계 195.4백만, 1946년 초 추계 170.5백만, 같은 시점 가상 인구 209.9백만 명을 구분한 표와 각주를 읽었다.",
+      "1939년 초를 기준으로 전쟁 직전 영역에 소급한 190,678천 명의 별도 표와 지역 범위 각주를 확인했다."
+    ],
+    "limitations": [
+      "통계기관 원 PDF는 접근 실패로 직접 대조하지 못했다. 전사 표의 원서 쪽 번호를 인용했으며 PDF 페이지를 확인한 뜻이 아니다. 안드레예프·다르스키·하리코바의 복원 추계와 Rosstat 가상 시나리오를 독립된 인구센서스로 보지 않는다. 추계별 영토 조정의 세부 원문은 미확인이다."
+    ],
+    "rights": "한국어 자체 요약·선별 수치와 원문 링크만 사용했다. 원문·도표 이미지·PDF 전문을 재게시하지 않았다.",
+    "independence_group": "Rosstat 2015 · ADKh reconstruction"
+  },
+  {
+    "id": "CAT-SU-SRC-0105",
+    "title": "The Great Patriotic War — statistical handbook (English PDF)",
+    "institution_or_author": "Rosstat",
+    "publication_date": null,
+    "source_type": "official_statistics",
+    "document_or_accession_number": "VOV_ENG(2).pdf",
+    "locator": "공식 PDF 접근 시도, 본문 미열람",
+    "url": "https://eng.rosstat.gov.ru/storage/mediabank/VOV_ENG%282%29.pdf",
+    "accessed_at": "2026-11-19T10:52:29+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "같은 PDF를 두 차례 열었으나 TimeoutError로 원문 대조 실패. 러시아어 2020년 자료·통계사 2012년 자료·2015년 발표 페이지도 시간초과였다. 검색 요약을 원 PDF 열람으로 세지 않았다."
+    ],
+    "rights": "한국어 자체 요약·선별 수치와 원문 링크만 사용했다. 원문·도표 이미지·PDF 전문을 재게시하지 않았다.",
+    "independence_group": "Rosstat official PDF"
+  },
+  {
+    "id": "CAT-SU-SRC-0106",
+    "title": "Население Советского Союза: 1922–1991",
+    "institution_or_author": "Е. М. Андреев, Л. Е. Дарский, Т. Л. Харькова",
+    "publication_date": "1993",
+    "source_type": "scholarly_reconstruction",
+    "document_or_accession_number": "Москва: Наука, 1993 · ISBN 5-02-013479-1(탐색 서지, 원본 표지 미대조)",
+    "locator": "HSE 공개 PDF 진입 시도, 본문 미열람",
+    "url": "https://www.hse.ru/data/2013/07/31/1288282799/naselenie_1922-1991.pdf",
+    "accessed_at": "2026-11-19T10:52:29+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "열기 결과 400 Content length is too large: 11397172. 원서의 추계 방법과 표를 읽은 것으로 세지 않았다."
+    ],
+    "rights": "한국어 자체 요약·선별 수치와 원문 링크만 사용했다. 원문·도표 이미지·PDF 전문을 재게시하지 않았다.",
+    "independence_group": "ADKh reconstruction"
   }
 ]
