@@ -3551,5 +3551,309 @@
     ],
     "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
     "independence_group": "steadman-air-ground"
+  },
+  {
+    "id": "CAT-DE-SRC-0175",
+    "title": "Panzer der Wehrmacht 1933–1945",
+    "institution_or_author": "Alexander Lüdeke; Motorbuch Verlag",
+    "publication_date": "2015",
+    "source_type": "secondary_public_preview",
+    "document_or_accession_number": "ISBN 978-3-613-31288-3 (PDF)",
+    "locator": "공개 PDF 제목지와 목차, 경·중·중량급 전차의 인쇄쪽 참조",
+    "url": "https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "초기 Panzer I·II와 체코슬로바키아 기원 전차, Panzer III/IV, Panther 및 중전차의 형식 표기와 개발 사례를 목차에서 확인했다."
+    ],
+    "limitations": [
+      "쪽 번호는 목차가 가리키는 인쇄쪽이다. 공개 범위 밖 각 형식의 상세 본문과 생산 원장은 미열람이다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0176",
+    "title": "Panzer Tracts No.2-1: Panzerkampfwagen II",
+    "institution_or_author": "Thomas L. Jentz·Hilary Louis Doyle; Panzerwrecks 공개 소개",
+    "publication_date": null,
+    "source_type": "publisher_catalog",
+    "document_or_accession_number": null,
+    "locator": "제목과 설명의 형식 범위",
+    "url": "https://www.panzerwrecks.com/product/panzer-tractsno-2-1-panzerkampfwagen-ii-ausf-a-1-a-2-a-3-b-c-a-b-c/",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Panzer II의 a/1·a/2·a/3·b·c와 A·B·C 표기가 별개로 수록됨을 확인했다."
+    ],
+    "limitations": [
+      "공개 소개에서 표기를 확인했다. 전형식 생산량과 부대 운용 확인에 사용하지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0177",
+    "title": "Panzer III Medium Tank",
+    "institution_or_author": "J. Rickard; History of War",
+    "publication_date": null,
+    "source_type": "secondary_reference",
+    "document_or_accession_number": null,
+    "locator": "초기형 및 Ausf. E–H 항목",
+    "url": "https://www.historyofwar.org/articles/weapons_panzer_III.html",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Panzer III E·F·G·H가 별도 형식으로 정리되며 G형 초기차의 1940년 프랑스 전역 배정 설명이 있음을 확인했다."
+    ],
+    "limitations": [
+      "후대 종합 자료다. 최초 형식별 제작·배치 명부는 대조하지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0178",
+    "title": "Panzer Tracts No.3-3: Panzerkampfwagen III Ausf.J, L, M & N",
+    "institution_or_author": "Thomas L. Jentz·Hilary Louis Doyle; Panzerwrecks 공개 소개",
+    "publication_date": null,
+    "source_type": "publisher_catalog",
+    "document_or_accession_number": null,
+    "locator": "공개 목차 2–7절",
+    "url": "https://www.panzerwrecks.com/product/panzer-tracts-no-3-3-panzerkampfwagen-iii-ausf-j-l-m-n/",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "J·L·M·N의 형식 구분, J 무장계열 교체 및 N 단포신형 표기를 확인했다."
+    ],
+    "limitations": [
+      "목차 및 공개 설명을 사용했다. 개별 차량의 전장 이력이나 원 제조장부는 열람하지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0179",
+    "title": "Panzer IV, Ausf. A-J – Technical and Operational History Vol.1",
+    "institution_or_author": "Waldemar Trojca·Gregor Trojca; Panzerwrecks 공개 소개",
+    "publication_date": null,
+    "source_type": "publisher_catalog",
+    "document_or_accession_number": "ISBN 9788360041727",
+    "locator": "Volumes 1–3 통합 목차의 Panzer IV 형식",
+    "url": "https://www.panzerwrecks.com/product/panzer-iv-ausf-a-j-technical-and-operational-history-vol-1/",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Panzer IV A, B, C, D, E, F, F2, G, H, J를 다루는 항목이 나뉘어 있음을 확인했다."
+    ],
+    "limitations": [
+      "F2의 표기는 명칭을 확인하기 위해 인용했다. F2와 G의 생산량을 독립 합계로 취급하지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0180",
+    "title": "Modelling the Late Panzerkampfwagen IV",
+    "institution_or_author": "Tom Cockle·Gary Edmundson; Osprey Publishing",
+    "publication_date": null,
+    "source_type": "secondary_public_preview",
+    "document_or_accession_number": "Osprey Modelling 38",
+    "locator": "서론의 Panzer IV F2/G 명칭 설명",
+    "url": "https://api.pageplace.de/preview/DT0400.9781780964966_A26610662/preview-9781780964966_A26610662.pdf",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 초기 장포신형 명칭 F2에서 G로 바뀐 경위를 공개 서론에서 확인했다."
+    ],
+    "limitations": [
+      "모형 제작서의 역사 배경을 명칭 대조에 사용했다. 독일군 지시서 원본과 차대별 생산기록은 미열람이다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0181",
+    "title": "List of Tanks and Vehicles",
+    "institution_or_author": "Deutsches Panzermuseum Munster",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": null,
+    "locator": "전시 목록 14·15·25·32–57번",
+    "url": "https://daspanzermuseum.de/en/large-exhibits/",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Panzer III M, IV G, Panther A, Tiger II B, 그리고 StuG·Jagdpanzer·Wespe·Hummel의 별도 명칭을 확인했다."
+    ],
+    "limitations": [
+      "전시물 목록은 역사적 총생산량이나 실전 배치의 증거가 아니다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0182",
+    "title": "Panzerkampfwagen 38(t)",
+    "institution_or_author": "J. Rickard; History of War",
+    "publication_date": null,
+    "source_type": "secondary_reference",
+    "document_or_accession_number": null,
+    "locator": "Ausf. A–G·S 및 차대 파생형 설명",
+    "url": "https://www.historyofwar.org/articles/weapons_panzerkampfwagen_38t.html",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "A–G와 스웨덴 주문에서 유래한 S, H·M 차대와 별도 파생형을 확인했다."
+    ],
+    "limitations": [
+      "형식 분류 근거다. 총생산량은 구분과 집계 범위가 달라 인용하지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0183",
+    "title": "Panzer I Command Tank",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": null,
+    "locator": "서론, 소장품 안내, Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/panzer-i-command-tank?country=all&era=WW2&tname=&tpage=1",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Kleiner Panzerbefehlswagen의 Panzer I 기반 관계, 지휘 임무, 북아프리카 노획 소장품을 확인했다."
+    ],
+    "limitations": [
+      "개별 전시품의 특징을 계열 전체 제원으로 적용할 수 없다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0184",
+    "title": "Panzer Tracts No.3-4: Panzerbefehlswagen Ausf.D1, E, H, J & K",
+    "institution_or_author": "Panzerwrecks 공개 소개",
+    "publication_date": null,
+    "source_type": "publisher_catalog",
+    "document_or_accession_number": "ISBN 9781915969262",
+    "locator": "제목 및 수록 범위",
+    "url": "https://www.panzerwrecks.com/product/panzer-tracts-no-3-4-panzerbefehlswagen-ausf-d1-e-h-j-k/",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Panzer III 지휘형의 D1·E·H·J·K 명칭을 확인했다."
+    ],
+    "limitations": [
+      "출간 예고 페이지다. 개별 형식의 양산 수량과 배치 증거로 사용하지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0185",
+    "title": "Sources and Bibliography – Books on German Armoured Vehicles of World War II",
+    "institution_or_author": "Panzernet",
+    "publication_date": null,
+    "source_type": "secondary_bibliography",
+    "document_or_accession_number": null,
+    "locator": "Panzer Tracts No.2-2 서지",
+    "url": "https://www.panzernet.net/panzernet/en/panzernet/zdroje.php",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Panzer II G·H·J·L·M을 다루는 전문서의 권차와 제목을 확인했다."
+    ],
+    "limitations": [
+      "서지 열람이다. 책 본문을 읽거나 형식별 생산·실전을 확인한 것으로 계산하지 않는다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0186",
+    "title": "Norwegen, Panzer „Neubaufahrzeug“",
+    "institution_or_author": "Bundesarchiv Bilddatenbank",
+    "publication_date": "1940-04~05",
+    "source_type": "primary_photograph_archive_catalog",
+    "document_or_accession_number": "Bild 101I-761-0221N-06",
+    "locator": "사진 항목·소장기호 및 촬영 시기",
+    "url": "https://www.bild.bundesarchiv.de/dba/en/search/?query=Bild+101I-761-221N-06",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 4~5월 노르웨이의 Neubaufahrzeug 사진과 소장기호를 확인했다."
+    ],
+    "limitations": [
+      "한 장의 소재 정보로 교전 여부·제작 총수·사진 속 개별 차대를 확정하지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0187",
+    "title": "Panzer Tracts No.6: Schwere Panzerkampfwagen",
+    "institution_or_author": "Thomas L. Jentz·Hilary Louis Doyle",
+    "publication_date": null,
+    "source_type": "secondary_monograph",
+    "document_or_accession_number": null,
+    "locator": "Porsche Typ 101 / VK 45.01(P), Panzerkampfwagen E-100 절과 사진",
+    "url": "https://porschecarshistory.com/wp-content/old/biblio3/67/Panzer%20Tracts%206.pdf",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Porsche Tiger 개발군과 E-100의 미완성 차대 발견을 해당 개발사 절에서 확인했다."
+    ],
+    "limitations": [
+      "후대 기술사 서술이다. 독일 원 회의록 및 연합군 조사 보고서를 별도로 대조하지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0188",
+    "title": "Panzer Tracts No.5-4: Panther II & Ausführung F",
+    "institution_or_author": "Thomas L. Jentz·Hilary Louis Doyle; Panzerwrecks 공개 소개",
+    "publication_date": null,
+    "source_type": "publisher_catalog",
+    "document_or_accession_number": "ISBN 9781915969217",
+    "locator": "설명의 현존 Panther II 차대와 Ausf. F 비교",
+    "url": "https://www.panzerwrecks.com/product/panzer-tracts-no-5-4-panzerkampfwagen-panther-ii-ausfuhrung-f/",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현존 Panther II 차대와 Panther Ausf. F 차대 설계가 다르다는 저자의 설명을 확인했다."
+    ],
+    "limitations": [
+      "출판사 소개다. F의 종전 직전 인도나 실전 배치를 확인하지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0189",
+    "title": "A Maus Tale",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "museum_article_with_historic_photograph",
+    "document_or_accession_number": null,
+    "locator": "Maus 시제품 사진 및 1944-06-22 캡션",
+    "url": "https://tankmuseum.org/a-maus-tale",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Böblingen 시험장으로 이동 중인 두 번째 Maus 시제품의 1944년 사진 설명을 확인했다."
+    ],
+    "limitations": [
+      "시험 단계의 근거다. 전장 투입 근거로 사용하지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0190",
+    "title": "Panzers in Normandy: Then and Now",
+    "institution_or_author": "Éric Lefèvre; After the Battle",
+    "publication_date": "1987",
+    "source_type": "secondary_operational_history",
+    "document_or_accession_number": "ISBN 0-900913-29-0",
+    "locator": "The German Army and captured material, pp.58–59",
+    "url": "https://electronicsandbooks.com/edt/manual/Publischer/G/German%20Miltary%20WW2/Panzers%20In%20Normandy-Then%20And%20Now%20c20080815%20%5B214%5D.pdf",
+    "accessed_at": "2026-11-20T01:25:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "노르망디 독일 부대의 R35·Hotchkiss·Somua S35·Char B1 bis 및 독일군 명칭·화염방사 개조 사례를 확인했다."
+    ],
+    "limitations": [
+      "해당 전역의 후대 연구다. 독일 전역의 목록과 개별 차량 전투 기록은 범위 밖이다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
   }
 ]

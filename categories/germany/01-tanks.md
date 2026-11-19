@@ -3,15 +3,68 @@ job_id: CAT-DE-01
 country: 독일
 category_number: 1
 status: partial
-research_scope: Panzer IV 및 Panther·Tiger I·Tiger II의 대표 무장·승무원·교범상 성능과 박물관 기록 대조
-updated_at: 2026-11-10
+research_scope: 독일군 주요 9개 전차 계열의 형식 색인과 지휘·정찰·화염방사·시제·노획 운용 확인, 기존 상세 제원 대조
+updated_at: 2026-11-20
 ---
 
 # 독일 · 전차장비, 무장, 성능
 
-## 범위와 확인 수준
+## 전차 계열과 형식 빠른 찾기
 
-1939~1945년 독일군 전차 가운데 네 계열의 대표 형식만 첫 검사했다. 모든 형식·생산량·시험·실전 배치를 전수 검증한 목록은 아니다. 표의 수치는 **1945년 미군 교범의 기록값**이며 독일 제조사 시험으로 확정한 표준 제원이 아니다. 박물관 자료와 대조한 일치 항목도 원전 계보의 완전한 독립성까지 확증하지 않았다.
+1939~1945년 독일군이 운용한 전차와 그 직접 관련 개발을 다룬다. **주요 9개 계열의 형식 색인**에서 시작해, 특수 목적형·미완성 개발·노획 운용을 별도 표에서 찾을 수 있다. `Ausf.`는 형식 표기다. 계열의 운용 이력, 개별 형식의 생산 여부, 개별 차량의 실제 실전 투입은 각각 따로 확인한다. 이름이 확인된 형식 중 제원이나 배치가 미확인인 것은 표에 그 범위를 밝혔다.
+
+### 주요 9개 계열
+
+| 계열 | 확인한 형식·명칭 | 확인 범위와 근거 |
+|---|---|---|
+| **Panzer I** | **A, B** | A·B는 초기 기본형이다. C·F와 지휘전차는 아래 별도 표에 있다. A형 개별 자료는 [상세 대조](#detail-comparison)에 있다. [CAT-DE-SRC-0001](https://www.ibiblio.org/hyperwar/Germany/HB/HB-7.html) VII §VI.3.b · [CAT-DE-SRC-0175](https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf) 목차 pp.12–17에 해당하는 항목. |
+| **Panzer II** | **a/1, a/2, a/3, b, c** · **A, B, C, D, E, F** · **L (Luchs)** | 소문자 초기형과 대문자 형식은 구별한다. D·E는 이 목록에 따로 표기하고, F 개별 전차와 L 정찰전차는 [상세 대조](#detail-comparison)에서 확인할 수 있다. G·H·J·M은 아래 개발군 표에 있다. [CAT-DE-SRC-0176](https://www.panzerwrecks.com/product/panzer-tractsno-2-1-panzerkampfwagen-ii-ausf-a-1-a-2-a-3-b-c-a-b-c/) 제목 및 설명 · [CAT-DE-SRC-0175](https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf) 목차 pp.18–25 해당 항목 · [CAT-DE-SRC-0143](https://tankmuseum.org/tank-nuts/tank-collection/panzer-ii-ausf-l?country=&era=WW2&tname=&tpage=1) L형 개발 설명. |
+| **Panzer III** | **A, B, C, D** · **E, F, G, H** · **J, L, M, N** | A–D 초기형과 후기 J·L·M·N을 구분했다. J에는 무장 변경이 있었고 N은 단포신 75 mm 지원형으로 기록된다. 각 형식이 동일한 규모로 양산·배치됐다는 의미는 아니다. [CAT-DE-SRC-0175](https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf) 목차 pp.34–42 해당 항목 · [CAT-DE-SRC-0177](https://www.historyofwar.org/articles/weapons_panzer_III.html) E–H 절 · [CAT-DE-SRC-0178](https://www.panzerwrecks.com/product/panzer-tracts-no-3-3-panzerkampfwagen-iii-ausf-j-l-m-n/) 목차 2–7절. |
+| **Panzer IV** | **A, B, C, D, E, F(후칭 F1), G, H, J** · **F2** 표기 | F2는 초기 장포신형 명칭이며 1942년 G 명칭과 연결된다. 두 이름의 생산량을 독립 합계로 더하면 초기 장포신형이 중복될 수 있다. [CAT-DE-SRC-0179](https://www.panzerwrecks.com/product/panzer-iv-ausf-a-j-technical-and-operational-history-vol-1/) 세 권 통합 목차 · [CAT-DE-SRC-0180](https://api.pageplace.de/preview/DT0400.9781780964966_A26610662/preview-9781780964966_A26610662.pdf) 서론의 1942년 명칭 변경 설명. |
+| **Panther (Panzer V)** | **D, A, G** | 세 형식의 자료가 확인된다. D→A→G 순이므로 알파벳순으로 도입 시기를 추정하면 틀린다. 박물관 소장 A와 교범의 G도 구별한다. Panther II와 F는 아래 개발군에 있다. [CAT-DE-SRC-0175](https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf) 목차 pp.55–62 해당 항목 · [CAT-DE-SRC-0181](https://daspanzermuseum.de/en/large-exhibits/) 목록 42번 · [CAT-DE-SRC-0001](https://www.ibiblio.org/hyperwar/Germany/HB/HB-7.html) VII §VI.4.a. |
+| **Tiger I (Panzer VI)** | **E** | 중전차 Tiger I을 가리킨다. 노획품 Tiger 131은 개별 차량이다. Porsche의 경쟁 개발차는 아래 별도 표에 있다. [CAT-DE-SRC-0001](https://www.ibiblio.org/hyperwar/Germany/HB/HB-7.html) VII §VI.4.b · [CAT-DE-SRC-0004](https://tankmuseum.org/tank-nuts/tank-collection/tiger-i/?country=all&era=all&tname=&tpage=1) 소장품 안내. |
+| **Tiger II (Königstiger)** | **B** | Tiger I과 별개인 중전차 계열이다. 양산과 시제차 생산량 차이는 아래 상세 대조에 있다. [CAT-DE-SRC-0181](https://daspanzermuseum.de/en/large-exhibits/) 목록 55번 · [CAT-DE-SRC-0148](https://tankmuseum.org/tank_collection/king-tiger-v2?country=all&era=&tname=&tpage=1) V2 시제차 안내. |
+| **Panzer 35(t)** | **LT vz. 35 / Pz.Kpfw. 35(t)** | 체코슬로바키아 기원. 두 명칭은 동일 계열의 원 명칭과 독일군 표기다. [CAT-DE-SRC-0145](https://www.vhu.cz/lt-35/) 소장 차체 이력. |
+| **Panzer 38(t)** | **A, B, C, D, E, F, G, S** | 체코슬로바키아 기원. A–D·E–G와 S 주문분을 구분한다. S는 스웨덴 주문분에서 유래했다. H·M의 차대 표기는 대전차 자주포 등에도 쓰여 위 전차 형식 수에 합산하지 않았다. [CAT-DE-SRC-0146](https://www.vhu.cz/en/lehky-tank-praga-lt-vzor-38/) A형 차대 이력 · [CAT-DE-SRC-0182](https://www.historyofwar.org/articles/weapons_panzerkampfwagen_38t.html) 형식별 절. |
+
+### 지휘·정찰·화염방사형
+
+| 형식 | 확인한 구분과 현재 근거 |
+|---|---|
+| **Kleiner Panzerbefehlswagen (Sd.Kfz. 265)** | Panzer I 계열 지휘차다. 영국 전차박물관에 실제 노획 차량이 보존되어 있다. [CAT-DE-SRC-0183](https://tankmuseum.org/tank-nuts/tank-collection/panzer-i-command-tank?country=all&era=WW2&tname=&tpage=1) 소장품 절. |
+| **Panzerbefehlswagen III D1, E, H, J, K** | 지휘형으로 분류된 이름이다. D1은 기본 전차 D와, K는 기본 전차 형식 표와 구분했다. 전문서 출판사 소개에서 명칭을 확인했으며 각 형식의 실제 지급 수량은 미확인이다. [CAT-DE-SRC-0184](https://www.panzerwrecks.com/product/panzer-tracts-no-3-4-panzerbefehlswagen-ausf-d1-e-h-j-k/) 제목·수록 범위. |
+| **Panzer II (Flamm), Panzer III (Flamm)** | 각각 Panzer II와 III의 화염방사형이다. II의 **Ausf. F** 전차와 교범의 **II (F)** 화염방사형 표기를 분리한다. [CAT-DE-SRC-0175](https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf) 목차 pp.23·42 해당 항목 · [CAT-DE-SRC-0001](https://www.ibiblio.org/hyperwar/Germany/HB/HB-7.html) VII §VI.3.c–d. |
+| **Aufklärungspanzer 38(t)** | 38(t) 계열 차대를 사용한 정찰 개조형이다. 기본형 38(t)와 생산·편제 집계가 다르다. [CAT-DE-SRC-0175](https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf) 목차 p.33 해당 항목 · [CAT-DE-SRC-0182](https://www.historyofwar.org/articles/weapons_panzerkampfwagen_38t.html) 차대 파생형 절. |
+
+### 초기 소량 제작형, 시제차 및 개발 사업
+
+| 형식·사업 | 생산·운용에 관해 확인한 범위 |
+|---|---|
+| **Panzer I C (VK 601), F (VK 1801)** | 기본 A·B와 별개인 개발형이다. 이름과 형식 구분을 확인했다. 생산 대장과 배치·실전은 추가 검증이 필요하다. [CAT-DE-SRC-0175](https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf) 목차 pp.16–17 해당 항목. |
+| **Panzer II G, H, J, M** | 전문서 서지에서 확인되는 개발형 명칭이다. 출판물 본문의 형식별 생산·부대 지급 원자료는 미대조다. 정찰전차 L은 별도 실물 근거가 있어 주 계열 표에 포함했다. [CAT-DE-SRC-0185](https://www.panzernet.net/panzernet/en/panzernet/zdroje.php) Panzer Tracts 2-2 서지. |
+| **Neubaufahrzeug** | 시험형 계열이다. 독일 연방기록원은 1940년 4~5월 노르웨이 사진을 보존하고 있다. 사진은 현지 존재의 근거이며, 그 한 장으로 생산량이나 실전 교전 기록을 확정하지 않았다. [CAT-DE-SRC-0186](https://www.bild.bundesarchiv.de/dba/en/search/?query=Bild+101I-761-221N-06) Bild 101I-761-0221N-06. |
+| **VK 45.01(P) / Porsche Tiger** | Tiger 개발의 Porsche 경쟁차다. 일반 Tiger I 양산형과 구별했다. 같은 계열 차대를 활용한 Ferdinand/Elefant는 [02번 기갑장비](02-other-armored-vehicles.md) 범위다. [CAT-DE-SRC-0187](https://porschecarshistory.com/wp-content/old/biblio3/67/Panzer%20Tracts%206.pdf) Porsche Typ 101 및 VK 45.01(P) 절. |
+| **Panther II, Panther Ausf. F** | 서로 다른 개발이다. Panther II의 실존 차대와 F형 차대의 설계 차이는 전문서 설명에서 확인된다. F형의 종전 직전 완성·배치 여부는 미확인이다. [CAT-DE-SRC-0188](https://www.panzerwrecks.com/product/panzer-tracts-no-5-4-panzerkampfwagen-panther-ii-ausfuhrung-f/) 저자 설명. |
+| **Maus, E-100** | Maus는 주행시험을 한 시제차가 사진에 남아 있다. E-100은 연합군이 발견한 미완성 차대가 기록되어 있다. 두 사업 모두 양산 전차 표와 따로 읽는다. [CAT-DE-SRC-0189](https://tankmuseum.org/a-maus-tale) 두 번째 시제차 사진 설명 · [CAT-DE-SRC-0187](https://porschecarshistory.com/wp-content/old/biblio3/67/Panzer%20Tracts%206.pdf) E-100 절 및 차대 사진. |
+
+### 노획 후 독일군이 운용한 전차의 예
+
+체코슬로바키아 기원의 35(t)·38(t)는 정규 운용 비중 때문에 주요 계열 표에 넣었다. 아래는 다른 국가의 원형을 독일군이 사용한 사례다. 노획 수량, 부대 배정, 전투 참여, 포탑을 떼어 고정시설에 쓴 사례는 각각 구분한다.
+
+| 원형 | 독일군에서의 기록 |
+|---|---|
+| **Renault R35** | 노르망디 독일 부대의 프랑스제 장비 사례에 나온다. 독일군 명칭은 **Pz.Kpfw. 35-R 731(f)**로 기록된다. [CAT-DE-SRC-0190](https://electronicsandbooks.com/edt/manual/Publischer/G/German%20Miltary%20WW2/Panzers%20In%20Normandy-Then%20And%20Now%20c20080815%20%5B214%5D.pdf) 독일군의 프랑스제 장비, pp.58–59. |
+| **Hotchkiss H38, H39** | 같은 자료의 **Pz.Kpfw. 38-H 735(f)** 항목이다. 문헌의 H38·H39 표기를 보존했고 개별 차대와 프랑스 원제식명 대조는 남아 있다. [CAT-DE-SRC-0190](https://electronicsandbooks.com/edt/manual/Publischer/G/German%20Miltary%20WW2/Panzers%20In%20Normandy-Then%20And%20Now%20c20080815%20%5B214%5D.pdf) pp.58–59. |
+| **Somua S35** | **Pz.Kpfw. 35-S 739(f)**. 원형 전차 배정과 교육용 개조, 분리 포탑 이용은 같은 집계에 넣지 않는다. [CAT-DE-SRC-0190](https://electronicsandbooks.com/edt/manual/Publischer/G/German%20Miltary%20WW2/Panzers%20In%20Normandy-Then%20And%20Now%20c20080815%20%5B214%5D.pdf) pp.58–59. |
+| **Char B1 bis** | **Pz.Kpfw. B-2 740(f)**. 기본 노획 전차와 화염방사 개조형을 별도 운용 형태로 기록한다. [CAT-DE-SRC-0190](https://electronicsandbooks.com/edt/manual/Publischer/G/German%20Miltary%20WW2/Panzers%20In%20Normandy-Then%20And%20Now%20c20080815%20%5B214%5D.pdf) pp.58–59. |
+
+돌격포 **StuG III**, 구축전차 **Jagdpanther·Jagdpanzer 38**, 자주포 **Wespe·Hummel** 등은 전차 차대를 공유해도 [02번 기갑장비](02-other-armored-vehicles.md)의 조사 대상이다. 소련·이탈리아 등 기타 노획 전차, 전 형식의 생산량과 실전 배치, 출처 사이의 명칭 차이는 [후속 검증 과제](QUESTIONS.json) CAT-DE-RQ-0004에서 추적한다. [CAT-DE-SRC-0181](https://daspanzermuseum.de/en/large-exhibits/) 전시물 목록 32–57번.
+
+## 개별 형식 상세 대조 { #detail-comparison }
+
+### 범위와 확인 수준
+
+처음 네 계열의 대표 형식을 대조했고, 2026-11-10에 여섯 형식의 상세 근거를 추가했다. 아래 제원 대조는 이 열 형식에 해당한다. 모든 형식·생산량·시험·실전 배치를 전수 검증한 목록은 아니다. 표의 수치는 **1945년 미군 교범의 기록값**이며 독일 제조사 시험으로 확정한 표준 제원이 아니다. 박물관 자료와 대조한 일치 항목도 원전 계보의 완전한 독립성까지 확증하지 않았다.
 
 미 육군성 교범 TM-E 30-451의 원문 PDF를 실제 내려받아 텍스트를 추출하고 PDF 390·392·393·395쪽을 이미지로 판독했다. 제목지·발행문은 1945-03-15, 장비 페이지의 머리말은 1 MARCH 1945다. 두 날짜를 구분한다. 본문 VII-79~85가 대상이며, 주요 정보의 집계 시점은 서문상 1945-02-15까지다. [CAT-DE-SRC-0001, 제목지·서문 및 VII-79~85](https://www.ibiblio.org/hyperwar/USA/ref/TM/pdfs/TME30-451.PDF#page=389)
 
@@ -52,7 +105,7 @@ The Tank Museum은 초기 근접지원용 단포신 75 mm 무장에서 1941~1942
 
 스웨덴 장갑차량사 협회는 양산 차대번호 `280001–280489`와 시험 차대 `V1·V2·V3`를 분리해 기록한다. The Tank Museum은 소장 V2가 Henschel의 세 시제차 중 하나이며 1943년 12월 완성돼 시험에 사용됐다고 기록한다. 이 구분을 적용하면 **양산 489대 + 시제 3대 = 492대**로 두 수치의 차이를 설명할 수 있다. 박물관 요약란의 분모는 명시돼 있지 않다. 공장 생산대장과 월별 인도량을 확인하기 위해 CAT-DE-RQ-0003을 진행 중으로 둔다. [CAT-DE-SRC-0147, 차대번호 문단](https://www.sphf.se/svenskt-pansar/fordon/utlandska-stridsfordon-i-sverige/en_the-swedish-king-tiger/) · [CAT-DE-SRC-0148, 소장 V2](https://tankmuseum.org/tank_collection/king-tiger-v2?country=all&era=&tname=&tpage=1)
 
-### 첫 조사에서 빠진 전차 형식
+### 2026-11-10에 상세 근거를 보강한 여섯 형식
 
 Panzer I·II·III는 미 육군성 TM-E 30-451의 Chapter VII §VI.3.b–d HTML 전사본을 열어 박물관의 소장품 설명과 대조했다. 아래 기동 수치는 각 출처가 표시한 조건과 단위를 그대로 썼다. 개별 시험 원기록은 확인하지 못했다. [CAT-DE-SRC-0001, VII-76~79](https://www.ibiblio.org/hyperwar/Germany/HB/HB-7.html)
 
@@ -69,11 +122,11 @@ Panzer I·II·III는 미 육군성 TM-E 30-451의 Chapter VII §VI.3.b–d HTML 
 
 - Tiger Model E 도로 속력을 Lone Sentry 전사본은 **5 mph**로 적었다. 직접 확인한 원문 VII-83은 **15 mph**다. 본 원고는 원문 판독값을 사용한다. 같은 교범을 옮긴 웹사이트를 원문과 독립된 성능 확증으로 세지 않는다. [CAT-DE-SRC-0006, VII §VI.4.b(2) Performance](https://collection.lonesentry.com/manuals/tme30/ch7sec6sub4.html) / [CAT-DE-SRC-0001, VII-83](https://www.ibiblio.org/hyperwar/USA/ref/TM/pdfs/TME30-451.PDF#page=393)
 - 교범은 적군에 대한 동시대 정보·평가 자료다. 독일 원 설계도·시험보고·공장 생산대장과의 대조는 아직 없다. 교범의 오류 가능성을 근거 없이 수정하거나 모두 정확하다고 가정하지 않는다. 중량 단위 tons/short tons, 장갑 위치·각도·형식별 차이, 관통 성능, 생산량은 추가 원자료 확인 대상으로 남긴다(CAT-DE-RQ-0001~0003).
-- 이번에 보완한 계열의 다른 형식, 지휘·화염방사·시제 전차와 기타 수입·노획 운용의 형식별 검증은 남았다(CAT-DE-RQ-0004). 돌격포·구축전차·자주포는 [02번 원고](02-other-armored-vehicles.md)에서 다룬다.
+- 위 색인에 등록한 이름과 상세 제원·배치 검증은 층위가 다르다. 형식별 미확인 원자료와 추가 노획 사례는 CAT-DE-RQ-0004에 남겼다. 돌격포·구축전차·자주포는 [02번 원고](02-other-armored-vehicles.md)에서 다룬다.
 
 ## 출처와 재현 범위
 
-첫 조사 열람일은 2026-11-08, 후속 보완 열람일은 2026-11-10이다. 상세 서지·문서 위치·권리·확인 주장·한계는 [SOURCES.json](SOURCES.json)에 등록했다. CAT-DE-SRC-0001은 원문 스캔, 0002~0005는 박물관 소장품 안내, 0006은 동일 교범의 후대 전사본이다. 기관 자료들이 어떤 독일 원기록을 공통 사용했는지는 미확인이다. 전문·사진·영상은 저장소에 재업로드하지 않고 자체 요약과 링크만 사용했다.
+첫 조사 열람일은 2026-11-08이다. 상세 대조 보완과 형식 색인 보완은 각각 2026-11-10과 2026-11-20에 했다. 상세 서지·문서 위치·권리·확인 주장·한계는 [SOURCES.json](SOURCES.json)에 등록했다. CAT-DE-SRC-0001은 원문 스캔, 0002~0005는 박물관 소장품 안내, 0006은 동일 교범의 후대 전사본이다. 기관 자료들이 어떤 독일 원기록을 공통 사용했는지는 미확인이다. 전문·사진·영상은 저장소에 재업로드하지 않고 자체 요약과 링크만 사용했다.
 
 원문 PDF SHA-256: `dfa9fd6f83d12beadcd3c10c7460ad46c189b665181809b0b77c66e532f25b36`. 웹 열람 도구는 파일 크기로 실패했으나 직접 다운로드(86,572,532 bytes)와 해당 페이지 렌더링은 성공했다. PDF 교차참조표 복구 경고가 있었으며 화면으로 판독 가능한 위 쪽을 확인했다. 전체 PDF를 검수했다고 주장하지 않는다.
 
