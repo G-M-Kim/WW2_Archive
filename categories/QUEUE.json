@@ -1810,10 +1810,11 @@
     "category_number": 16,
     "category": "개전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/soviet-union/16-industrial-centers-start.md",
-    "status": "pending",
-    "run_record": null,
+    "status": "partial",
+    "run_record": "categories/runs/CAT-SU-16.json",
     "step": 130,
-    "planned_at": "2026-11-19T15:30:00+09:00"
+    "planned_at": "2026-11-19T15:30:00+09:00",
+    "completed_at": "2026-11-19T19:01:13+09:00"
   },
   {
     "job_id": "CAT-SU-17",

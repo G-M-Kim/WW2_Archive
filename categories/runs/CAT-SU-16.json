@@ -1,0 +1,179 @@
+{
+  "job_id": "CAT-SU-16",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 16,
+  "category": "개전 시점 주요 공업단지와 규모(1~20)",
+  "article_path": "categories/soviet-union/16-industrial-centers-start.md",
+  "status": "partial",
+  "step": 130,
+  "started_at": "2026-11-19T18:55:23+09:00",
+  "completed_at": "2026-11-19T19:01:13+09:00",
+  "base_head": "1364ddc67dfa91e7eb71b643929302f34bc6e234",
+  "source_ids": [
+    "CAT-SU-SRC-0122",
+    "CAT-SU-SRC-0129",
+    "CAT-SU-SRC-0130",
+    "CAT-SU-SRC-0131",
+    "CAT-SU-SRC-0132"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0059",
+    "CAT-SU-RQ-0060",
+    "CAT-SU-RQ-0061",
+    "CAT-SU-RQ-0062"
+  ],
+  "entity_ids": [
+    "CAT-SU-GEO-0008",
+    "CAT-SU-GEO-0009"
+  ],
+  "research_scope": "1939-09-01 공통 기준으로 MMK·원 쿠즈네츠크 제철 사업장2곳을 부분 조사했다. 동시대 MMK 호소문·후대 선철 집계·쿠즈네츠크 초기 구상과 도시/공장 경계를 구분했다.",
+  "limitations": [
+    "두 사업장의 당시 필지 외곽·면적·총정격·작업 수용·전력/물류 정격과 공통 비교 경계가 부족하여 점수·범위는모두null이다.",
+    "MMK의1939년 선철 실적은2010년 단일 회고 기사이며 원 생산장부 대조가 남았다. 쿠즈네츠크의 초기 계획을1939년 실적으로 세지 않았다.",
+    "소련 전체 업종·시설·노동동원·1939년 당일 가동 및 종전 피해/이전은 전수 조사하지 않았다."
+  ],
+  "evidence_checked": [
+    "ЭБИД 문서252의 재수록179쪽 스캔을 직접 판독하여1939-07-27 제강·국방 호소와 원신문 서지를 확인했다.",
+    "2010-07-06 Магнитогорский металл PDF 6쪽의 텍스트·이미지를 대조해 선철1,567,000톤/1939년과 고로4기 서술을 읽었다.",
+    "시청의 Журавков 도시사 두 편에서 초기 선철505천톤·노동자7천명 계획, 스탈린스크 명칭, 도시인구·건설인원 및 별개 Запсиб 구분을 읽었다.",
+    "기존0122의 USHMM 본문을 다시 열어1939-09-17 침공을공통 기준일과 구별했다."
+  ],
+  "rating_records": [
+    {
+      "reference_date": "1939-09-01",
+      "territorial_status": "소련 본토·러시아 SFSR, 소련 실효지배로 분류. 점령지·식민지 구역 아님. 당시 행정·소유권 원장의 직접 대조는 미완료.",
+      "coordinates": null,
+      "polygon": null,
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "method_version": "infrastructure-v1",
+      "entity_id": "CAT-SU-GEO-0008",
+      "period_name": "Магнитогорский металлургический комбинат (ММК)",
+      "modern_name": "마그니토고르스크 MMK 원 제철 사업장",
+      "boundary": "마그니토고르스크의 1939년 MMK 원 제철 사업장: 구내 제선·제강·압연 및 지원설비를 하나의 공간 단위로 삼는다. 도시 주거지·별도 광산·외부 수송망·1939 원구역 밖의 후대 증설은 제외한다. 당시 필지 외곽선·면적은 미확인.",
+      "operator": "MMK; 당시 감독 인민위원부·권한 규정 직접 미확인",
+      "operation": "1939-07-27 제강 활동의 동시대 호소문 확인. 기준일 당일 공정별 가동·정비 미확인. 1939년 선철 집계는 후대 회고 자료.",
+      "metrics": [
+        {
+          "metric": "연간 선철 생산량",
+          "value": 1567000,
+          "unit": "톤",
+          "date": "1939년 연간",
+          "boundary": "마그니토고르스크의 1939년 MMK 원 제철 사업장: 구내 제선·제강·압연 및 지원설비를 하나의 공간 단위로 삼는다. 도시 주거지·별도 광산·외부 수송망·1939 원구역 밖의 후대 증설은 제외한다. 당시 필지 외곽선·면적은 미확인.",
+          "source_id": "CAT-SU-SRC-0130",
+          "locator": "2010-07-06 인쇄6쪽 중앙 기사",
+          "capacity_or_actual": "actual_retrospective_single_source"
+        },
+        {
+          "metric": "고로 작업장 고로 수",
+          "value": 4,
+          "unit": "기",
+          "date": "1939·1941년 설명 문맥, 정확한 조사일 미표기",
+          "boundary": "마그니토고르스크의 1939년 MMK 원 제철 사업장: 구내 제선·제강·압연 및 지원설비를 하나의 공간 단위로 삼는다. 도시 주거지·별도 광산·외부 수송망·1939 원구역 밖의 후대 증설은 제외한다. 당시 필지 외곽선·면적은 미확인.",
+          "source_id": "CAT-SU-SRC-0130",
+          "locator": "6쪽 «в составе четырех печей» 문단",
+          "capacity_or_actual": "installed_date_unknown"
+        },
+        {
+          "metric": "1939-09-01 원 사업장 면적",
+          "value": null,
+          "unit": "㎡",
+          "date": "1939-09-01",
+          "boundary": "마그니토고르스크의 1939년 MMK 원 제철 사업장: 구내 제선·제강·압연 및 지원설비를 하나의 공간 단위로 삼는다. 도시 주거지·별도 광산·외부 수송망·1939 원구역 밖의 후대 증설은 제외한다. 당시 필지 외곽선·면적은 미확인.",
+          "source_id": "CAT-SU-SRC-0129",
+          "locator": "문서252·179쪽은 면적 미제시",
+          "capacity_or_actual": "unconfirmed"
+        }
+      ],
+      "rationale": "연간 선철 실적과 날짜 미상의 고로 수는 원 설비 정격이 아니다. 면적·총정격·작업 수용·전력/물류와 네 차원의 공통 비교 경계가 미확인이라 점수·범위를null로 남겼다.",
+      "source_ids": [
+        "CAT-SU-SRC-0129",
+        "CAT-SU-SRC-0130"
+      ]
+    },
+    {
+      "reference_date": "1939-09-01",
+      "territorial_status": "소련 본토·러시아 SFSR, 소련 실효지배로 분류. 점령지·식민지 구역 아님. 당시 행정·소유권 원장의 직접 대조는 미완료.",
+      "coordinates": null,
+      "polygon": null,
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "method_version": "infrastructure-v1",
+      "entity_id": "CAT-SU-GEO-0009",
+      "period_name": "Кузнецкий металлургический завод, Сталинск",
+      "modern_name": "노보쿠즈네츠크 원 쿠즈네츠크 제철 사업장",
+      "boundary": "스탈린스크의 원 쿠즈네츠크 제철 사업장: 구내 제선·제강·압연 및 지원설비를 하나의 공간 단위로 삼는다. 도시 주거지·외부 광산·별개 서시베리아 제철소(Запсиб)는 제외한다. 당시 필지 외곽선·면적은 미확인.",
+      "operator": "원 쿠즈네츠크 제철소; 당시 감독기관·법령상 명칭 직접 미확인",
+      "operation": "후대 연구로 초기 건설·도시 형성 및 전시 관련성을 확인. 1939-09-01 공정별 실제 가동·실적 직접 미확인. 별개 Запсиб 제외.",
+      "metrics": [
+        {
+          "metric": "초기 선철 생산 구상",
+          "value": 505000,
+          "unit": "톤(계획 집계기간 미표기)",
+          "date": "초기 구상, 정확한 작성일 미확인",
+          "boundary": "스탈린스크의 원 쿠즈네츠크 제철 사업장: 구내 제선·제강·압연 및 지원설비를 하나의 공간 단위로 삼는다. 도시 주거지·외부 광산·별개 서시베리아 제철소(Запсиб)는 제외한다. 당시 필지 외곽선·면적은 미확인.",
+          "source_id": "CAT-SU-SRC-0131",
+          "locator": "초기 공장 규모 문단; 원책22–26쪽 범위",
+          "capacity_or_actual": "planned"
+        },
+        {
+          "metric": "초기 노동자 구상",
+          "value": 7000,
+          "unit": "명",
+          "date": "같은 초기 구상, 정확한 작성일 미확인",
+          "boundary": "스탈린스크의 원 쿠즈네츠크 제철 사업장: 구내 제선·제강·압연 및 지원설비를 하나의 공간 단위로 삼는다. 도시 주거지·외부 광산·별개 서시베리아 제철소(Запсиб)는 제외한다. 당시 필지 외곽선·면적은 미확인.",
+          "source_id": "CAT-SU-SRC-0131",
+          "locator": "같은 문단",
+          "capacity_or_actual": "planned"
+        },
+        {
+          "metric": "1939년 실제 공장 고용",
+          "value": null,
+          "unit": "명",
+          "date": "1939-09-01",
+          "boundary": "스탈린스크의 원 쿠즈네츠크 제철 사업장: 구내 제선·제강·압연 및 지원설비를 하나의 공간 단위로 삼는다. 도시 주거지·외부 광산·별개 서시베리아 제철소(Запсиб)는 제외한다. 당시 필지 외곽선·면적은 미확인.",
+          "source_id": "CAT-SU-SRC-0132",
+          "locator": "도시인구·건설인원 문단은 공장고용 미제시",
+          "capacity_or_actual": "unconfirmed"
+        }
+      ],
+      "rationale": "초기 구상은1939년 설치능력·실적이 아니다. 도시 인구·건설 인원을 공장 고용으로 바꾸지 않았다. 실제 규모 네 차원·필지 외곽·공통 비교 경계가 미확인이라 점수·범위를null로 남겼다.",
+      "source_ids": [
+        "CAT-SU-SRC-0131",
+        "CAT-SU-SRC-0132"
+      ]
+    }
+  ],
+  "access_attempts": [
+    "대상 원고는 최신 HEAD에서404였다.",
+    "케메로보 도서관 dates/68?blind=off 첫 열기는 앞부분만 반환했다. 필요한 연혁 부분 재접근·기본주소·urllib는403이었으므로 최초 출선일을본문 확인으로 세지 않았다.",
+    "IstMat node18396 표 재접근은 웹 시간초과·urllib503이었다. 검색 요약의1936/1939 표제 불일치와 숫자는채택하지 않았다.",
+    "임시 이미지/PDF는 판독에만 사용했으며 저장소에는 자체 요약·선별 수치·원문 링크만 저장한다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=130 pending=3; sources=1263 questions=492. Structural check only.",
+    "path_check": "변경 대상8개 경로는 모두categories/ 하위. 원고·국가장부/README·실행기록·QUEUE/STATE/RUN_LOG만 변경."
+  }
+}
