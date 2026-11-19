@@ -4,9 +4,9 @@
   "branch": "draft/categories-seven-powers-v1",
   "write_prefix": "categories/",
   "CAT_PHASE": "running",
-  "CAT_NEXT_STEP": 131,
-  "CAT_VISITED_COUNT": 130,
-  "CAT_LAST_JOB_ID": "CAT-SU-16",
+  "CAT_NEXT_STEP": 132,
+  "CAT_VISITED_COUNT": 131,
+  "CAT_LAST_JOB_ID": "CAT-SU-17",
   "country_order": [
     "DE",
     "FR",
@@ -18,6 +18,6 @@
   ],
   "categories_per_country": 19,
   "total_steps": 133,
-  "updated_at": "2026-11-19T19:01:13+09:00",
-  "note": "소련16 개전 공업시설2곳 부분 조사 저장. 첫 방문130/133, 다음 CAT-SU-17."
+  "updated_at": "2026-11-19T20:56:00+09:00",
+  "note": "소련17 종전 공업시설2곳 부분 조사 저장.첫 방문131/133,다음CAT-SU-18."
 }

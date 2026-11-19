@@ -2654,5 +2654,105 @@
     ],
     "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 재수록 이미지의 별도 이용조건은 미확인이다.",
     "independence_group": "Zhuravkov Novokuznetsk urban-history studies"
+  },
+  {
+    "id": "CAT-SU-SRC-0133",
+    "title": "Из информации Управления Магнитогорского металлургического комбината…11 августа 1945 г.",
+    "institution_or_author": "MMK 관리부 → 마그니토고르스크 시당위원회; ЭБИД",
+    "publication_date": "1945-08-11",
+    "source_type": "primary_management_report_reproduced",
+    "document_or_accession_number": "Партархив Челябинского обкома КПСС.Ф.234.Оп.19.Д.53.Лл.144–146; 재수록1967년 문서143",
+    "locator": "Партийная организация Челябинской области в Великой Отечественной войне.1941–1945 (1967), 인쇄330–331쪽 문서143",
+    "url": "https://docs.historyrussia.org/ru/nodes/311138-iz-informatsii-upravleniya-magnitogorskogo-metallurgicheskogo-kombinata-v-gorkom-vkp-b-o-rabote-ratsionalizatorov-i-izobretateley-v-gody-otechestvennoy-voyny-11-avgusta-1945-g",
+    "accessed_at": "2026-11-19T20:54:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945-08-11 관리 보고 재수록330–331쪽을 판독했다. 생산 개선 서술과1945년 상반기 제안 접수790건·도입472건, 접수 계획1018건 미달을 확인했다."
+    ],
+    "limitations": [
+      "원기록144–146장은 미열람이다. 제안 건수를 설비수·생산능력으로 환산하지 않는다. 자기 보고는 독립 생산 감사가 아니다.9월2일보다22일 전 보고이며 보고 대상 상반기와 구분한다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 사용한다. 원문·사진·PDF 전문을 저장소에 재업로드하지 않는다. 개별 재수록 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "MMK management 1945"
+  },
+  {
+    "id": "CAT-SU-SRC-0134",
+    "title": "ММК в годы войны",
+    "institution_or_author": "마그니토고르스크 시의회",
+    "publication_date": null,
+    "source_type": "municipal_secondary",
+    "document_or_accession_number": null,
+    "locator": "고로5·6호 가동 및 전시 신설 설비 문단; 압연기4500 이전 문단",
+    "url": "https://sobranie74.ru/ммк-в-годы-войны.html",
+    "accessed_at": "2026-11-19T20:54:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "5호 고로1942-12-05,6호1943-12-25 가동과 전시 설비 증설, 이전 압연기1941-10-15 가동 설명을 읽었다."
+    ],
+    "limitations": [
+      "당시 인수증·배치도·정비대장은 아니다. 원자료 출전이 개별 제시되지 않는다. 증설 설비의1939 원구역 내외와1945-09-02 잔존·가동은 미확인이다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 사용한다. 원문·사진·PDF 전문을 저장소에 재업로드하지 않는다. 개별 재수록 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "MMK municipal retrospective"
+  },
+  {
+    "id": "CAT-SU-SRC-0135",
+    "title": "История Магнитогорского металлургического комбината и города Магнитогорска — Тематический перечень документов",
+    "institution_or_author": "Объединённый государственный архив Челябинской области; С.А.Кусков",
+    "publication_date": "2022",
+    "source_type": "archive_finding_aid",
+    "document_or_accession_number": null,
+    "locator": "PDF22·24쪽 목록163·180·182 및26쪽 목록194",
+    "url": "https://archive74.ru/sites/default/files/istoriya_magnitogorskogo_metallurgicheskogo_kombinata_i_goroda_magnitogorska_tematicheskiy_perechen._ch._2022.pdf",
+    "accessed_at": "2026-11-19T20:54:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "6호 고로 첫 선철의1943-12-25 사진 목록과1945-08-09 제7코크스 배터리·화학 작업장 가동 축하문 목록의 소장기호를 읽었다."
+    ],
+    "limitations": [
+      "목록 자체만 열람했다. 사진·축하문 원문과 현장 인수증은 열람하지 않았다. 목록 제목이 가동 정격·당일 가동률의 직접 증거는 아니다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 사용한다. 원문·사진·PDF 전문을 저장소에 재업로드하지 않는다. 개별 재수록 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "OGACHO archival finding aid"
+  },
+  {
+    "id": "CAT-SU-SRC-0136",
+    "title": "Новокузнецк — Города трудовой доблести",
+    "institution_or_author": "승전80주년 기념 조직위원회 may9.ru; Российское военно-историческое общество 지원",
+    "publication_date": null,
+    "source_type": "commemorative_secondary",
+    "document_or_accession_number": null,
+    "locator": "§Победоносная броня,1941년 이전·1942년 전기로·1943년 압연·1941-06-22~1945-05-08 누계 문단",
+    "url": "https://www.may9.ru/our-victory/gorodatrudovoydoblesti/Novokuzneck",
+    "accessed_at": "2026-11-19T20:54:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년4월 전기제강 작업장·1943년 여름 압연 설비 가동과 기간 누계 강철800만톤·압연500만톤 서술을 읽었다."
+    ],
+    "limitations": [
+      "원 생산장부 미제시. 같은 문단의 알루미늄28천톤을 뒤에서는 별개 СтАЗ 공장에 귀속해 시설 경계 혼선이 있다. 알루미늄은 원 쿠즈네츠크 사업장에 합산하지 않는다. 누계를9월2일 정격으로 환산하지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 사용한다. 원문·사진·PDF 전문을 저장소에 재업로드하지 않는다. 개별 재수록 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Novokuznetsk commemorative narratives"
+  },
+  {
+    "id": "CAT-SU-SRC-0137",
+    "title": "Кузнецкий металлургический комбинат",
+    "institution_or_author": "А.Э.Шпрингер; 노보쿠즈네츠크 가상 노동박물관·시 행정/АНО Информационно-Аналитический Центр; EVRAZ 지원",
+    "publication_date": "2023",
+    "source_type": "virtual_museum_secondary",
+    "document_or_accession_number": null,
+    "locator": "본문 «С22июня1941года по8мая1945года…» 누계·전시 이전 설비 문단",
+    "url": "https://gorodnvkz.ru/kmk",
+    "accessed_at": "2026-11-19T20:54:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기간 누계 선철6173.4천톤·강철8215.1천톤·압연5625.0천톤과 이전 설비 수용·6개 특수작업장 가동 서술을 읽었다."
+    ],
+    "limitations": [
+      "원표·소장기호·연간 분해·공간 경계가 미제시다. may9의 반올림 집계와 대체로 같은 설명 계통일 수 있어 독립 확증으로 세지 않는다. 인원 표기의 «6000 тысяч» 등 명백한 표기 문제도 있어 본문을 무비판적으로 채택하지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 사용한다. 원문·사진·PDF 전문을 저장소에 재업로드하지 않는다. 개별 재수록 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Novokuznetsk commemorative narratives"
   }
 ]
