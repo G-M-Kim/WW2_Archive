@@ -1784,8 +1784,9 @@
     "category": "당시 영토",
     "article_path": "categories/soviet-union/14-territory.md",
     "planned_at": "2026-11-19T11:30:00+09:00",
-    "status": "pending",
-    "run_record": null
+    "status": "partial",
+    "run_record": "categories/runs/CAT-SU-14.json",
+    "completed_at": "2026-11-19T14:55:41+09:00"
   },
   {
     "step": 129,

@@ -2279,5 +2279,169 @@
     ],
     "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
     "independence_group": "1924 second Congress renaming decree"
+  },
+  {
+    "id": "CAT-SU-SRC-0115",
+    "title": "Secret Additional Protocol",
+    "institution_or_author": "독일·소련 전권대표 · Yale Avalon 재수록",
+    "publication_date": "1939-08-23",
+    "source_type": "primary_diplomatic_text_translation",
+    "document_or_accession_number": "1939-08-23 비밀 추가의정서",
+    "locator": "전문 중 제1–3항과 날짜",
+    "url": "https://avalon.law.yale.edu/20th_century/addsepro.asp",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "발트·핀란드·폴란드·베사라비아 관련 세력권 문구와 나레프·비스와·산강 기준을 영문 전사에서 확인했다."
+    ],
+    "limitations": [
+      "서명본·독일어/러시아어 정본과 미대조인 영문 번역 전사다. 세력권 합의를 해당국의 적법한 양도·현장 점령 증거로 보지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Nazi-Soviet Relations diplomatic edition"
+  },
+  {
+    "id": "CAT-SU-SRC-0116",
+    "title": "German-Soviet Boundary and Friendship Treaty",
+    "institution_or_author": "독일·소련 정부 · Yale Avalon 재수록",
+    "publication_date": "1939-09-28",
+    "source_type": "primary_diplomatic_text_translation",
+    "document_or_accession_number": "1939-09-28 국경·우호조약",
+    "locator": "제I·II·III·V조",
+    "url": "https://avalon.law.yale.edu/20th_century/gsbound.asp",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "첨부지도에 따른 이해관계 경계와 동서 행정 재조직의 양국 분담, 서명 즉시 발효 조항을 읽었다."
+    ],
+    "limitations": [
+      "첨부지도·경계 세부의정서·서명 정본 미대조다. 문서가 폴란드 소멸을 주장하는 것은 체결국의 주장이며 연구자의 승인이나 제3국 인정으로 바꾸지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Nazi-Soviet Relations diplomatic edition"
+  },
+  {
+    "id": "CAT-SU-SRC-0117",
+    "title": "Secret Supplementary Protocol",
+    "institution_or_author": "독일·소련 전권대표 · Yale Avalon 재수록",
+    "publication_date": "1939-09-28",
+    "source_type": "primary_diplomatic_text_translation",
+    "document_or_accession_number": "1939-09-28 비밀 보충의정서",
+    "locator": "첫 본문 문단·리투아니아 남서부 유보 문단·날짜",
+    "url": "https://avalon.law.yale.edu/20th_century/sesupp.asp",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "리투아니아를 소련 세력권으로, 루블린·바르샤바 일부를 독일 세력권으로 조정하는 문구와 리투아니아 남서부 관련 별도 조건을 확인했다."
+    ],
+    "limitations": [
+      "0115·0116과 같은 편찬 계통이다. 세 개 페이지를 서로 독립된 역사 확증으로 세지 않는다. 첨부지도와 이후 추가 변경은 미검증이다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Nazi-Soviet Relations diplomatic edition"
+  },
+  {
+    "id": "CAT-SU-SRC-0118",
+    "title": "Press Release Issued by the Department of State on July 23, 1940",
+    "institution_or_author": "미 국무부 · Sumner Welles",
+    "publication_date": "1940-07-23",
+    "source_type": "primary_official_statement",
+    "document_or_accession_number": "FRUS 1940, General, vol.I, doc.412, pp.401–402; Department of State Bulletin 1940-07-27 p.48 재수록",
+    "locator": "성명 전문·각주93",
+    "url": "https://history.state.gov/historicaldocuments/frus1940v01/d412",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "에스토니아·라트비아·리투아니아의 독립·영토 보전 침해와 강제·위협에 의한 조치에 반대하는 동시대 미국 성명을 읽었다."
+    ],
+    "limitations": [
+      "미국의 외교 입장을 입증한다. 모든 국가의 승인 태도나 국제재판 판결을 대표하지 않는다. 문서의 평가 표현은 발행 주체의 입장으로 구분한다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "US State Department Baltic nonrecognition"
+  },
+  {
+    "id": "CAT-SU-SRC-0119",
+    "title": "Memorandum by Durbrow to Stettinius: United States Policy Regarding the Baltic States",
+    "institution_or_author": "Elbridge Durbrow · 미 국무부",
+    "publication_date": "1944-11-20",
+    "source_type": "primary_diplomatic_memorandum",
+    "document_or_accession_number": "711.60n/11–2044; FRUS 1944, Europe, vol.IV, doc.843, pp.933–936",
+    "locator": "Historic 및 Political Aspects of the Question 항목",
+    "url": "https://history.state.gov/historicaldocuments/frus1944v04/d843",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 주둔 협정, 1940년 최후통첩·추가 진주·선거·편입 청원에 대한 미국 관리의 정리와 불승인·외교대표 인정 지속 설명을 읽었다."
+    ],
+    "limitations": [
+      "미국 관리의 1944년 정책 검토 문서다. 소련·발트 원 행정명령과 독립 현장자료를 대조한 것이 아니며 0118과 같은 미국 정책 계통이다. 1945-09-02 군 배치의 직접 증거는 아니다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "US State Department Baltic nonrecognition"
+  },
+  {
+    "id": "CAT-SU-SRC-0120",
+    "title": "Potsdam Conference — Protocol of the Proceedings",
+    "institution_or_author": "소련·미국·영국 정부 · 미 외교문서 편찬/Yale Avalon 재수록",
+    "publication_date": "1945-08-01",
+    "source_type": "primary_conference_protocol_translation",
+    "document_or_accession_number": "A Decade of American Foreign Policy 1941–1949; 포츠담 의사록",
+    "locator": "제II.A.1항 및 제V절 City of Koenigsberg and the Adjacent Area",
+    "url": "https://avalon.law.yale.edu/20th_century/decade17.asp",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "쾨니히스베르크와 인접 지역의 궁극적 소련 이전에 대한 원칙적 동의, 전문가 경계 심사 및 평화 처리 유보를 읽었다.",
+      "독일 점령지별 군 총사령관 권한과 공동 통제 조항을 확인했다."
+    ],
+    "limitations": [
+      "당대 의사록의 후대 전사다. 웹 표제의 회의 기간 7월17일–8월2일과 의사록 날짜 8월1일을 구분했다. 실제 현장 점령선·최종 주권 이전의 완료 증거로 확대하지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Potsdam proceedings"
+  },
+  {
+    "id": "CAT-SU-SRC-0121",
+    "title": "Treaty concerning the Polish-Soviet State Frontier",
+    "institution_or_author": "폴란드·소련 · United Nations Treaty Series",
+    "publication_date": "1945-08-16",
+    "source_type": "primary_treaty_official_publication",
+    "document_or_accession_number": "UNTS vol.10 (1947), II–61, pp.193–201; 1945-08-16 모스크바 서명",
+    "locator": "폴란드어·러시아어 pp.194–197; 영문 pp.198·200 제1–4조와 p.198 발효 각주; PDF 0-based P208·209·211",
+    "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%2010/v10.pdf",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "커즌선과 폴란드 측 조정·국경 기술, 혼합위원회, 발트해 인접 구간 유보, 비준서 교환 발효 조항과 1946-02-05 발효 각주를 읽었다.",
+      "제2조 라바루스카 방향은 러시아어·폴란드어 정본의 서쪽 표기와 영문 번역의 남쪽 표기가 달라 정밀 경계선의 영문 단독 전사를 보류했다. 프랑스어 번역도 서쪽이다.",
+      "UN 등록 상세의 서명·발효일이 원문 각주와 일치함을 확인했다."
+    ],
+    "limitations": [
+      "영·불문은 번역이고 폴란드어·러시아어가 정본이다. 지도 삽지는 미판독이며 지도에서 좌표·면적을 추출하지 않았다. 번역 방향 차이는 후속 과제로 보존한다. 서명일과 1946년 발효일·1947년 등록일을 혼동하지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "1945 Polish-Soviet frontier treaty official publication",
+    "catalog_url": "https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280164b0a"
+  },
+  {
+    "id": "CAT-SU-SRC-0122",
+    "title": "Invasion of Poland, Fall 1939",
+    "institution_or_author": "United States Holocaust Memorial Museum",
+    "publication_date": "2021-08-25",
+    "source_type": "museum_secondary",
+    "document_or_accession_number": "Holocaust Encyclopedia; Last Edited Aug25 2021",
+    "locator": "Key Facts 2–3; Invasion and Partition of Poland; The German Occupation of Poland 마지막 문단",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-09-17 소련의 동부 폴란드 침공과 분할, 1941년 독일의 소련 점령 동부 폴란드 침공, 1944·1945년 소련군 진격에 대한 박물관 설명을 확인했다."
+    ],
+    "limitations": [
+      "박물관의 후대 해설이며 날짜별 전선·행정구역 경계의 직접 원자료는 아니다. 해설의 분할 날짜 9월29일을 조약의 서명일 9월28일과 합쳐 쓰지 않았다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "USHMM Poland invasion historical synthesis"
   }
 ]
