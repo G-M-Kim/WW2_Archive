@@ -1,5 +1,4 @@
 # 문서 목록
 
-아직 정식 백과사전 항목은 등록되지 않았습니다.
-
+- [7개국 카테고리 조사](../categories/index.md)
 - [항목 템플릿](sample-article.md)
