@@ -2593,3 +2593,7 @@ as_of: 2026-11-04
 
 | SRC-2240 | *Ardeatine Caves Massacre* / United States Holocaust Memorial Museum / 현대 기관 역사해설 | 2차(홀로코스트 전문기관 역사해설) | 1944-03-23 비아 라셀라 공격, 03-24 335명 처형·피해자 구성 | https://encyclopedia.ushmm.org/content/en/article/ardeatine-caves-massacre | 당대 명령서 원문 자체가 아니며 히틀러의 직접 명령 관여 정도는 논쟁. 독일군 보복 결정과 집행의 구분 필요 |
 | SRC-2241 | *Il fatto* / Mausoleo delle Fosse Ardeatine / 현대 추모시설 공식 역사안내 | 2차(현지 추모시설 공식 해설; 당대 보도 언급) | 1944-03-24 22:55 보도문 발표와 335명 살해 | https://www.mausoleofosseardeatine.it/mausoleo/il_fatto/ | 당대 통신사 보도문 원본 미열람. 22:55는 실행 완료를 알린 보도시각이지 학살 개시시각이 아님 |
+
+| SRC-2242 | *RAF in the Bombing Offensive against Germany, Vol VI* / RAF Air Historical Branch, 공식 작전사 | 2차(군 공식 전사) | 주요사건 연표, 1944-03-30/31 | https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/second-world-war-campaign-narratives/raf-in-the-bombing-offensive-against-germany-vol-vi-the-final-phase-march-1944-may-1945/ | 795대 출격·94대 손실은 해당 공식 전사 수치. 95·96대 등 다른 집계와 분모·분류 대조 필요 |
+| SRC-2243 | *Одесса освобождена от немецко-фашистской оккупации* / 러시아 대통령도서관 | 2차(국립도서관 역사해설) | 1944-03-27 야간 공세, 03-28 니콜라예프 | https://www.prlib.ru/history/619158 | 3/27 야간 교두보 확대와 3/28 작전 개시의 기준 차이. 피해 수치의 독립 검증 필요 |
+| SRC-2244 | *Разгром Одесской группировки противника* / Память народа 전쟁기록 포털 | 1차 사료 메타데이터 수록 기관 DB | 작전 기간 1944-03-28~04-14 | https://pamyat-naroda.ru/ops/razgrom-odesskoy-gruppirovki-protivnika-operatsiya-3-go-udara/ | 포털의 작전 기간 메타데이터를 확인; 원본 전선군 일지·작전명령은 별도 대조 필요 |
