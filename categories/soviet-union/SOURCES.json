@@ -2443,5 +2443,127 @@
     ],
     "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
     "independence_group": "USHMM Poland invasion historical synthesis"
+  },
+  {
+    "id": "CAT-SU-SRC-0123",
+    "title": "Народное хозяйство СССР в Великой Отечественной войне 1941–1945 гг. — Черная металлургия",
+    "institution_or_author": "소련 통계집 · Исторические Материалы 전사",
+    "publication_date": null,
+    "source_type": "official_statistics_transcription",
+    "document_or_accession_number": "통계집 제3절; 원 인쇄본 서지·쪽 미대조",
+    "locator": "웹 표 «Выплавка стали по видам»와 «Выплавка стали по союзным республикам»",
+    "url": "https://istmat.org/node/353",
+    "accessed_at": "2026-11-19T17:01:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "강철 총계 1940년 18,317.2·1945년 12,251.7천 톤과 공화국별 RSFSR·우크라이나 수치를 전사 표에서 읽었다.",
+      "강철·선철·압연제품 표가 구분됨을 확인했다."
+    ],
+    "limitations": [
+      "전사이며 원 통계집 인쇄본과 일차 생산 장부는 미대조다. 편찬연도·행정경계 조정 원칙·집계 누락은 미확인이다. 다른 연도 표에서 불일치 가능성이 있어 이번에는 명시한 1940·1945년 행만 사용한다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 개별 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Soviet wartime economic statistical collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0124",
+    "title": "Народное хозяйство СССР в Великой Отечественной войне 1941–1945 гг. — Сводный раздел",
+    "institution_or_author": "소련 통계집 · Исторические Материалы 전사",
+    "publication_date": null,
+    "source_type": "official_statistics_transcription",
+    "document_or_accession_number": "통계집 제1절; 원 인쇄본 서지·쪽 미대조",
+    "locator": "첫 표 «Основные показатели развития народного хозяйства СССР в годы Великой Отечественной войны», 석유 행",
+    "url": "https://istmat.org/node/351",
+    "accessed_at": "2026-11-19T17:01:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "석유(가스 콘덴세이트 포함)의 1940년 31.1·1945년 19.4백만 톤을 열람했다. 표의 표제·단위를 확인했다."
+    ],
+    "limitations": [
+      "연간 전연방 집계의 전사다. 별도 연료 절 node354는 열기에 실패했으며 그 검색 요약의 열량 환산값을 실물 톤으로 채택하지 않았다. 원유 단독·정유·합성유·수입의 개별 계열은 미검증이다. 0123과 같은 편찬 계통이다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 개별 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Soviet wartime economic statistical collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0125",
+    "title": "The Chromium Industry of the U.S.S.R.",
+    "institution_or_author": "Vasilii V. Strishkov · Walter G. Steblez / United States Bureau of Mines",
+    "publication_date": "1985",
+    "source_type": "official_historical_estimates",
+    "document_or_accession_number": "SuDoc I28.156:C46; OCLC681459774; UNT ark:/67531/metadc40313",
+    "locator": "인쇄 23쪽 표15, 1940·1945년 행과 표 하단 각주1·2; UNT m1/28 고해상도 이미지",
+    "url": "https://digital.library.unt.edu/ark:/67531/metadc40313/m1/28/",
+    "accessed_at": "2026-11-19T17:01:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "고해상도 표 이미지에서 1940년 원광 290·판매 가능 광석 260·페로크롬 24천 metric tons, 1945년 각각 400·361.2·20을 확인했다.",
+      "표 각주1의 1938–1983년 추정치 표시와 각주2의 전기로 페로크롬 범위를 읽었다."
+    ],
+    "limitations": [
+      "1985년 보고서의 과거 추정이며 전시 실측 생산 원장은 아니다. 소장목록의 primary 분류를 WW2 동시대 1차 사료라는 뜻으로 사용하지 않는다. 원광·제품 광석·페로크롬을 금속 Cr 함유량으로 환산하지 않는다. 참고문헌 원 계통과 전시 광산별 경계는 미대조다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 개별 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "US Bureau of Mines chromium retrospective estimates"
+  },
+  {
+    "id": "CAT-SU-SRC-0126",
+    "title": "The Secretary of State to the Ambassador in the Soviet Union (Harriman)",
+    "institution_or_author": "Cordell Hull 명의 · Harry Hopkins 전달 / 미 국무부",
+    "publication_date": "1944-01-12",
+    "source_type": "primary_diplomatic_telegram",
+    "document_or_accession_number": "861.24/1721a; FRUS 1944, Europe, vol.IV, doc.944, pp.1037–1038",
+    "locator": "첫 문단 및 추가 ingot aluminum 공급 가능성 문단",
+    "url": "https://history.state.gov/historicaldocuments/frus1944v04/d944",
+    "accessed_at": "2026-11-19T17:01:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "추가 알루미늄 잉곳의 대소 공급 가능성과 요청 근거 자료 문제를 다룬 전문을 읽었다."
+    ],
+    "limitations": [
+      "가능한 공급·정책 협의다. 실제 계약·선적·소련 인수량·국내 제련량의 수치로 쓰지 않는다. 원광·알루미나·잉곳을 별도 단계로 유지한다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 개별 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "US State Department Soviet aluminum supply"
+  },
+  {
+    "id": "CAT-SU-SRC-0127",
+    "title": "Memorandum by Auguste Richard — Interchange of Technical Information with USSR on Synthetic Rubber",
+    "institution_or_author": "Auguste Richard / Office of Wartime Economic Affairs, 미 국무부",
+    "publication_date": "1944-07-15",
+    "source_type": "primary_policy_memorandum",
+    "document_or_accession_number": "861.20211 Amtorg/7–2844; FRUS 1944, vol.IV, doc.993, pp.1101–1105",
+    "locator": "합성고무 본문 및 Annex Exhibit A, 특히 1104–1105쪽",
+    "url": "https://history.state.gov/historicaldocuments/frus1944v04/d993",
+    "accessed_at": "2026-11-19T17:01:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "합성고무 기술 교환 협상과 알코올로부터 부타디엔을 생산하는 소련 기술에 관한 설명을 읽었다."
+    ],
+    "limitations": [
+      "미국 관리가 정리한 협상 보고이며 소련 공장 생산일지는 아니다. 기술 요청·공장 방문·설비 요구를 실제 신규 생산·인도·기술 이전 완료와 동일시하지 않는다. 천연고무 생산·수입량의 근거가 아니다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 개별 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "US State Department synthetic-rubber negotiations"
+  },
+  {
+    "id": "CAT-SU-SRC-0128",
+    "title": "Industrial potential of the Kazakh SSR during the Great Patriotic War (1941–1945)",
+    "institution_or_author": "A. K. Akkuzinov / Vestnik of Samara University. History, pedagogics, philology",
+    "publication_date": "2023",
+    "source_type": "scholarly_secondary",
+    "document_or_accession_number": "Vol.29 No.4 pp.45–52; DOI10.18287/2542-0445-2023-29-4-45-52",
+    "locator": "Full Text의 «Цветная металлургия Казахстана в годы войны» 첫 집계 문단; АП РК Ф.708. Оп.9. Д.114. Л.7 인용",
+    "url": "https://journals.rcsi.science/2542-0445/article/view/312279/en_US",
+    "accessed_at": "2026-11-19T17:01:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941–1944년 카자흐 SSR 텅스텐 정광 2,943톤으로 제시된 집계와 기록 소장기호를 논문 본문에서 확인했다."
+    ],
+    "limitations": [
+      "인용된 카자흐스탄 기록 원본을 열람한 것은 아니다. 정광 품위·WO3/금속 W 함유량·연도별 분해는 미확인이다. 카자흐 SSR의 기간 합계를 소련 전체 연간 생산량으로 확대하지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 개별 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Akkuzinov Kazakhstan archive-based study"
   }
 ]
