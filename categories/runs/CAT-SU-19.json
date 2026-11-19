@@ -1,0 +1,229 @@
+{
+  "job_id": "CAT-SU-19",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 19,
+  "category": "개전 시점 주요 해군기지와 규모(1~10)",
+  "article_path": "categories/soviet-union/19-naval-bases-start.md",
+  "status": "partial",
+  "step": 133,
+  "execution_mode": "manual",
+  "started_at": "2026-11-20T00:04:38+09:00",
+  "completed_at": "2026-11-20T00:05:11+09:00",
+  "base_head": "5f73ec34de5e26cd5c999363465abdaefcc54af5",
+  "source_ids": [
+    "CAT-SU-SRC-0144",
+    "CAT-SU-SRC-0145",
+    "CAT-SU-SRC-0146",
+    "CAT-SU-SRC-0147",
+    "CAT-SU-SRC-0148",
+    "CAT-SU-SRC-0149",
+    "CAT-SU-SRC-0150",
+    "CAT-SU-SRC-0151"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0069",
+    "CAT-SU-RQ-0070",
+    "CAT-SU-RQ-0071"
+  ],
+  "entity_ids": [
+    "CAT-SU-GEO-0013",
+    "CAT-SU-GEO-0014",
+    "CAT-SU-GEO-0015"
+  ],
+  "research_scope": "1939-09-01 기준 발트·북극·흑해의 크론슈타트·폴랴르노예·세바스토폴 군항 3곳에서 도크·사업장과 모항 이력을 조사했다.",
+  "limitations": [
+    "세 군항의 기준일 접안 한계·수리 처리량·연료/탄약 저장 및 전체 경계 자료 부족으로 점수와 범위는 null이다.",
+    "벨레시친스키 도크의 두 출처는 길이와 입구 폭의 정의 또는 측정 시점이 일치하는지 미확인이다. 수치는 병기하고 평균하거나 현재 값을 1939년 수치로 소급하지 않았다.",
+    "세바스토폴 1941년 명령은 서지와 문서명만 확인했다. 태평양 등 다른 전역과 1939년 전체 소련 군항 목록은 후속 과제다."
+  ],
+  "evidence_checked": [
+    "크론슈타트 지역지의 1914년 개장 때 측정 정의·1941년 수리 기록과 조선공사 기관지의 별도 치수 표기를 대조했다.",
+    "러시아은행과 폴랴르니 지역박물관에서 폴랴르노예 명칭, 건설·상설 모항·개편 순서를 대조하고 북극 연표에서 1938년 잠수함 여단 위치를 확인했다.",
+    "세바스토폴 기록관 안내서 р-253의 사업장 명칭 적용 기간, 지역사 자료집에서 북안 도크 준공·전전 수리 기록, ЭБИД에서 1941년 주기지 명령 서지를 확인했다."
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-SU-GEO-0013",
+      "period_name": "Кронштадт, Кронштадтский Морской завод",
+      "modern_name": "크론슈타트 군항 해군공장 수리 구역",
+      "reference_date": "1939-09-01",
+      "territorial_status": "소련 본토, 러시아 SFSR, 당시 소련 실효지배",
+      "coordinates": null,
+      "polygon": null,
+      "boundary": "코틀린섬의 군항 내 해군공장과 벨레시친스키 건도크. 1939년 전체 군항 외곽과 다른 작업장의 귀속은 미확인.",
+      "operator": "발트 함대 기지, 해군공장(별도 수리 운영). 당시 법정 사업장 경계 미확인.",
+      "operation": "1914년 개장과 1941년 막심 고리키 수리 사례를 확인했다. 1939-09-01 도크 가용·함대 배정은 미확인.",
+      "metrics": [
+        {
+          "metric": "선박 설치부 길이",
+          "value": 228.6,
+          "unit": "m",
+          "date": "1914년 개장 설명",
+          "boundary": "벨레시친스키 건도크 1기. 선박 설치부·입구·문턱의 개장 제원.",
+          "source_id": "CAT-SU-SRC-0144",
+          "locator": "개장 치수 문단",
+          "capacity_or_actual": "historical_design_reported"
+        },
+        {
+          "metric": "평균 입구 폭",
+          "value": 36.58,
+          "unit": "m",
+          "date": "1914년 개장 설명",
+          "boundary": "벨레시친스키 건도크 1기. 선박 설치부·입구·문턱의 개장 제원.",
+          "source_id": "CAT-SU-SRC-0144",
+          "locator": "개장 치수 문단",
+          "capacity_or_actual": "historical_design_reported"
+        },
+        {
+          "metric": "기준 수면에서 문턱 깊이",
+          "value": 10.67,
+          "unit": "m",
+          "date": "1914년 개장 설명",
+          "boundary": "벨레시친스키 건도크 1기. 선박 설치부·입구·문턱의 개장 제원.",
+          "source_id": "CAT-SU-SRC-0144",
+          "locator": "개장 치수 문단",
+          "capacity_or_actual": "historical_design_reported"
+        },
+        {
+          "metric": "기사 기재 길이",
+          "value": 236,
+          "unit": "m",
+          "date": "2024년 기사 기재, 실측일 미상",
+          "boundary": "동 건도크, 길이와 입구 폭의 측정선 미확인",
+          "source_id": "CAT-SU-SRC-0145",
+          "locator": "p.40 첫 문단",
+          "capacity_or_actual": "later_report_unaligned"
+        },
+        {
+          "metric": "기사 기재 평균 입구 폭",
+          "value": 46,
+          "unit": "m",
+          "date": "2024년 기사 기재, 실측일 미상",
+          "boundary": "동 건도크, 길이와 입구 폭의 측정선 미확인",
+          "source_id": "CAT-SU-SRC-0145",
+          "locator": "p.40 첫 문단",
+          "capacity_or_actual": "later_report_unaligned"
+        },
+        {
+          "metric": "기사 기재 문턱 수심",
+          "value": 11,
+          "unit": "m",
+          "date": "2024년 기사 기재, 실측일 미상",
+          "boundary": "동 건도크, 길이와 입구 폭의 측정선 미확인",
+          "source_id": "CAT-SU-SRC-0145",
+          "locator": "p.40 첫 문단",
+          "capacity_or_actual": "later_report_unaligned"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "단일 도크의 치수 정의가 출처별로 다르다. 전체 접안·수리·보급 자료와 공통 평가 기준도 미확보.",
+      "source_ids": [
+        "CAT-SU-SRC-0144",
+        "CAT-SU-SRC-0145"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-SU-GEO-0014",
+      "period_name": "Полярное, Екатерининская гавань",
+      "modern_name": "폴랴르니 예카테리닌스카야 항만의 전전 군항",
+      "reference_date": "1939-09-01",
+      "territorial_status": "소련 본토, 러시아 SFSR, 당시 소련 실효지배, 무르만스크주",
+      "coordinates": null,
+      "polygon": null,
+      "boundary": "콜라만 예카테리닌스카야 항만의 군용 정박 수역과 관련 시설. 무르만스크 상항 및 다른 만의 시설 제외.",
+      "operator": "1935년 북방 군사소함대 모항, 1937년 개편 이후 북방 함대 주기지.",
+      "operation": "1935년 상설 모항, 1938년 잠수함 여단 주둔. 기준일 함정 및 부두별 가용 용량은 미확인이다.",
+      "metrics": [
+        {
+          "metric": "군용 접안 길이",
+          "value": null,
+          "unit": null,
+          "date": "1939-09-01",
+          "boundary": "예카테리닌스카야 항만 군용 수역",
+          "source_id": "CAT-SU-SRC-0147",
+          "locator": "전시 해설 #5에 미제시",
+          "capacity_or_actual": "unconfirmed"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "모항 전환과 부대 주둔은 시설 용량을 측정하지 않는다. 접안·도크·보급 원자료가 없다.",
+      "source_ids": [
+        "CAT-SU-SRC-0146",
+        "CAT-SU-SRC-0147",
+        "CAT-SU-SRC-0148"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-SU-GEO-0015",
+      "period_name": "Севастополь, военно-морская гавань и судоремонт",
+      "modern_name": "세바스토폴 전전 군항 및 수리시설",
+      "reference_date": "1939-09-01",
+      "territorial_status": "소련 본토, 러시아 SFSR, 당시 소련 실효지배, 크림 ASSR",
+      "coordinates": null,
+      "polygon": null,
+      "boundary": "세바스토폴 군항 수역, 북안 도크 및 관련 조선수리 사업장. 민간 상항 합산 제외. 항만·도크·공장 경계 원도면 미확보.",
+      "operator": "흑해 함대 시설. 수리 사업장은 기준일 남부 조선 트러스트 산하로 기록된다.",
+      "operation": "전전 대형함 도크 수리와 북안 도크 건설을 확인했다. 1941년 주기지 명령 서지는 별도 보조 기록이다.",
+      "metrics": [
+        {
+          "metric": "북안 도크 건설 사례",
+          "value": 1,
+          "unit": "기",
+          "date": "1911–1915년 건설, 1915년 첫 주수",
+          "boundary": "파나유토바 골짜기 북안 도크 1건, 군항 전체 도크 수 아님",
+          "source_id": "CAT-SU-SRC-0150",
+          "locator": "항목 36.6 북안 도크 문단",
+          "capacity_or_actual": "individual_facility_attested"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "조선소 수리 실적과 군항 처리 한계의 범위가 다르다. 전체 네 차원의 기준일 자료가 부족하다.",
+      "source_ids": [
+        "CAT-SU-SRC-0149",
+        "CAT-SU-SRC-0150",
+        "CAT-SU-SRC-0151"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=133 pending=0; sources=1282 questions=501. Structural check only.",
+    "path_check": "변경 8개 경로가 모두 categories/에 속하며 원고·국가 장부/README·실행 기록·QUEUE/STATE/RUN_LOG다."
+  }
+}

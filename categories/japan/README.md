@@ -1,0 +1,33 @@
+# 일본 — WW2 카테고리 조사
+
+국가 코드 `JP`. 이 국가의 19개 항목을 순서대로 첫 조사한다. 아래 원고 파일은 해당 실행에서 실제 자료와 함께 생성한다. 1번은 하 고, 치하 기본형·신포탑형, 카미를 부분 조사했다. 2번은 94식·97식 경장갑차와 노획 자주포·장갑구난차 사례를 부분 조사했다. 3번은 야마토·아카기·이-400급의 제원과 전시 기록을 부분 조사했다. 4번은 제로 52형, 스이세이 12형, L2D 수송기와 세이란을 부분 조사했다. 5번은 38식·99식 소총, 96식 경기관총과 철모·철제 방호구를 부분 조사했다. 6번은 21호·22호 전탐과 PURPLE·JADE 암호 장비를 부분 조사했다. 7번은 야마모토·야마시타·구리바야시의 전시 지휘와 책임 기록을 부분 조사했다. 8번은 고노에·도조·스즈키·히로히토의 전시 정치 역할을 부분 조사했다. 9번은 나카야·도모나가·니시나의 전시 연구 및 피해 조사 기록을 부분 조사했다. 10번은 옥음방송과 도조 개전·대동아회의 연설의 시청각 소장 기록을 부분 조사했다. 11번은 미쓰비시중공업·도쿄시바우라전기·일본무선·미쓰비시광업의 전시 생산과 강제노동 기록을 부분 조사했다. 12번은 1940년 본토·외지 인구와 1944·1945년 인구조사의 집계 차이를 부분 조사했다. 13번은 도쿄·경성·타이베이·신징의 전시 표기와 행정 변화를 부분 조사했다. 14번은 일본 내지·식민지·조차지·위임통치령과 괴뢰국·군사 점령지의 지위를 부분 조사했다. 15번은 전시 여섯 자원의 생산·반입 통계와 자료의 지역 범위를 부분 조사했다. 16번은 야하타·히로하타·겸이포 제철소의 개전 무렵 설비와 운영을 부분 조사했다. 17번은 같은 세 제철소의 종전 무렵 생산·설비·관리 기록을 부분 조사했다. 18번은 도코로자와·다치카와·가스미가우라의 개전 무렵 비행장과 교육·정비 시설을 부분 조사했다. 19번은 구레·마이즈루·요코스카의 개전 무렵 군항과 조선·보급 시설을 부분 조사했다. 현재 19/19 항목을 방문했다.
+
+[전체 계획](../PLAN.md) · [출처 장부](SOURCES.json) · [미확인 과제](QUESTIONS.json)
+
+| 번호 | 항목 | 첫 검사 상태 | 예정 원고 파일 |
+|---|---|---|---|
+| 1 | 전차장비, 무장, 성능 | partial | [01-tanks.md](01-tanks.md) |
+| 2 | 전차 제외 기갑장비, 무장, 성능 | partial | [02-other-armored-vehicles.md](02-other-armored-vehicles.md) |
+| 3 | 함선 및 함정, 무장, 성능 | partial | [03-naval-vessels.md](03-naval-vessels.md) |
+| 4 | 항공기, 무장, 성능 | partial | [04-aircraft.md](04-aircraft.md) |
+| 5 | 보병 무기 및 장비 | partial | [05-infantry-equipment.md](05-infantry-equipment.md) |
+| 6 | WW2에서 빼놓을 수 없는 장비 | partial | [06-essential-technology.md](06-essential-technology.md) |
+| 7 | 유명한 전투 참여 인물 | partial | [07-combat-personnel.md](07-combat-personnel.md) |
+| 8 | 유명한 정치 인물 | partial | [08-political-personnel.md](08-political-personnel.md) |
+| 9 | 유명한 학자·연구자 | partial | [09-scientific-personnel.md](09-scientific-personnel.md) |
+| 10 | 유명 연설의 영상자료 | partial | [10-speech-videos.md](10-speech-videos.md) |
+| 11 | 유명 군수기업 | partial | [11-military-industry.md](11-military-industry.md) |
+| 12 | 당시 인구 | partial | [12-population.md](12-population.md) |
+| 13 | 당시 기준 지명 | partial | [13-historical-place-names.md](13-historical-place-names.md) |
+| 14 | 당시 영토 | partial | [14-territory.md](14-territory.md) |
+| 15 | 영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐 | partial | [15-resources.md](15-resources.md) |
+| 16 | 개전 시점 주요 공업단지와 규모(1~20) | partial | [16-industrial-centers-start.md](16-industrial-centers-start.md) |
+| 17 | 종전 시점 주요 공업단지와 규모(1~20) | partial | [17-industrial-centers-end.md](17-industrial-centers-end.md) |
+| 18 | 개전 시점 주요 공군기지와 규모(1~10) | partial | [18-air-bases-start.md](18-air-bases-start.md) |
+| 19 | 개전 시점 주요 해군기지와 규모(1~10) | partial | [19-naval-bases-start.md](19-naval-bases-start.md) |
+
+출처 ID `CAT-JP-SRC-xxxx`, 미확인 과제 `CAT-JP-RQ-xxxx`. 날짜·변형·국적/소속·영토 지위·집계 범위를 구분하고 해당국의 역사적 모든 항목을 전수 검증한 것으로 표시하지 않는다.
+
+16~19번의 기준일·원자료·규모 환산은 [시설 평가 기준](../INFRASTRUCTURE_RATING.md)을 따른다. 점수는 사료 자체가 아닌 출처 기반 분석치다.
+
+**보충 조사** · [제2차 세계대전 육군 교리](army-doctrine.md) · [제2차 세계대전 해군 교리](naval-doctrine.md) · [제2차 세계대전 공군 교리](air-doctrine.md)

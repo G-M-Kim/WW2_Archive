@@ -1,0 +1,65 @@
+{
+  "step": 87,
+  "job_id": "CAT-JP-11",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 11,
+  "category": "유명 군수기업",
+  "article_path": "categories/japan/11-military-industry.md",
+  "status": "partial",
+  "completed_at": "2026-11-16T05:00:24+09:00",
+  "started_at": "2026-11-16T04:54:05+09:00",
+  "base_head": "a22bfc8afa9b90feb98230c4af7b2effb05e7f25",
+  "source_ids": [
+    "CAT-JP-SRC-0099",
+    "CAT-JP-SRC-0100",
+    "CAT-JP-SRC-0101",
+    "CAT-JP-SRC-0102",
+    "CAT-JP-SRC-0103",
+    "CAT-JP-SRC-0104",
+    "CAT-JP-SRC-0105",
+    "CAT-JP-SRC-0106",
+    "CAT-JP-SRC-0107"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0036",
+    "CAT-JP-RQ-0037",
+    "CAT-JP-RQ-0038"
+  ],
+  "entity_ids": [
+    "CAT-JP-ORG-0001",
+    "CAT-JP-ORG-0002",
+    "CAT-JP-ORG-0003",
+    "CAT-JP-ORG-0004"
+  ],
+  "research_scope": "전시 일본 본토의 항공기·엔진, 전력·전자, 무선통신, 광업을 대표하는 민간 법인 4곳.",
+  "limitations": [
+    "나고야 두 제작소와 USSBS 제조사별 집계의 기간·포함 공장 및 수량 차이를 해소하지 못했다.",
+    "전기·무선의 공장별 실적과 군 인수 기록, 광산의 생산·납품 수치와 집단별 강제동원 원장은 미확인이다.",
+    "조선·차량·제철과 다른 항공·전기·통신 기업은 후속 범위다."
+  ],
+  "evidence_checked": [
+    "USSBS 항공산업 조사 원본 표와 미쓰비시중공업의 나고야 사업장 연혁을 대조했다.",
+    "1944년 미 해군 정보보고서 부록, 1946년 점령당국 조사 메모 및 두 회사 연혁을 열람했다.",
+    "미쓰비시머티리얼의 화해문 및 첨부 표와 연합군 포로 가족단체·사과 행사 참여 기관 기록을 확인했다."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://findingaids.loc.gov/repositories/25/digital_objects/1077215",
+      "status": "inaccessible",
+      "detail": "미 의회도서관 기업별 보고서 디지털 객체에 직접 접근했으나 HTTP 403을 반환했다."
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NDL8815792_Mitsubishi_Heavy_Industries,_Ltd.,_Corporation_Report_No._1_(Mitsubishi_Jukogyo_KK)_(air_frames_and_engines)_(final_report_and_original_draft)._Report_No._16,_USSBS_Index_Section_2_part2.pdf",
+      "status": "inaccessible",
+      "detail": "NDL PID 8815792 복제본의 자료 설명을 읽었다. 157.47 MB 원본 PDF 직접 요청은 도구 크기 제한으로 실패했다. 별도 USSBS 항공산업 총괄보고서 본문의 표를 열람했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=87 pending=46; sources=923 questions=342. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

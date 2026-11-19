@@ -1,0 +1,55 @@
+{
+  "step": 110,
+  "job_id": "CAT-IT-15",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 15,
+  "category": "영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐",
+  "article_path": "categories/italy/15-resources.md",
+  "status": "partial",
+  "started_at": "2026-11-18T02:52:38+09:00",
+  "completed_at": "2026-11-18T02:58:43+09:00",
+  "base_head": "a4b92722c9bd91e39c8f43582525369193f98d63",
+  "source_ids": [
+    "CAT-IT-SRC-0118",
+    "CAT-IT-SRC-0124",
+    "CAT-IT-SRC-0125",
+    "CAT-IT-SRC-0126",
+    "CAT-IT-SRC-0127",
+    "CAT-IT-SRC-0128",
+    "CAT-IT-SRC-0129",
+    "CAT-IT-SRC-0130",
+    "CAT-IT-SRC-0131",
+    "CAT-IT-SRC-0132",
+    "CAT-IT-SRC-0133"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0052",
+    "CAT-IT-RQ-0053",
+    "CAT-IT-RQ-0054",
+    "CAT-IT-RQ-0055"
+  ],
+  "entity_ids": [
+    "CAT-IT-GEO-0001",
+    "CAT-IT-GEO-0010",
+    "CAT-IT-GEO-0012",
+    "CAT-IT-GEO-0013",
+    "CAT-IT-GEO-0014"
+  ],
+  "research_scope": "이탈리아 왕국 본토와 별도 집계된 알바니아의 석유·강철·고무·알루미늄·크롬·텅스텐 대표 사례. 전전 수치는 비교에만 사용.",
+  "limitations": [
+    "전시 천연고무·텅스텐 연도별 수입과 해외 속령·다른 점령지의 생산은 미확인이다.",
+    "알바니아산 원유·크롬의 이탈리아 도착량은 채굴 자료로 확정할 수 없다. Ferrara 합성고무의 실적 기간 및 수량을 원장으로 확인하지 못했다."
+  ],
+  "evidence_checked": [
+    "영국 제국연구소 원표의 1938–1944년 선별 행과 이탈리아 중앙통계기관의 1938년 보크사이트 원표를 확인했다.",
+    "알바니아 유전의 추출량 기록, 공개된 전시 크롬 광업 보고와 후대 AMMI 요약, Ferrara와 Terni의 가동 이력 및 IMI 등록 열람 목록을 대조했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=110 pending=23; sources=1111 questions=418. Structural check only.",
+    "path_check": "변경 대상 8개 경로를 categories/ 하위로 한정했다."
+  }
+}

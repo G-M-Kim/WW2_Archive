@@ -1,0 +1,62 @@
+{
+  "step": 63,
+  "job_id": "CAT-US-06",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 6,
+  "category": "WW2에서 빼놓을 수 없는 장비",
+  "article_path": "categories/united-states/06-essential-technology.md",
+  "status": "partial",
+  "completed_at": "2026-11-14T04:54:59+09:00",
+  "started_at": "2026-11-14T04:50:15+09:00",
+  "base_head": "55514e9705226fd4e833e4a828a5c147f70b6fa8",
+  "source_ids": [
+    "CAT-US-SRC-0059",
+    "CAT-US-SRC-0060",
+    "CAT-US-SRC-0061",
+    "CAT-US-SRC-0062",
+    "CAT-US-SRC-0063",
+    "CAT-US-SRC-0064",
+    "CAT-US-SRC-0065",
+    "CAT-US-SRC-0066"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0024",
+    "CAT-US-RQ-0025",
+    "CAT-US-RQ-0026",
+    "CAT-US-RQ-0027"
+  ],
+  "entity_ids": [
+    "CAT-US-EQP-0016",
+    "CAT-US-EQP-0017",
+    "CAT-US-EQP-0018"
+  ],
+  "research_scope": "미국의 CXAM 함상 레이더, SIGABA/ECM II 암호기, 전시 LORAN의 장착·채택·배치 및 실제 이용.",
+  "limitations": [
+    "CXAM 사진은 전재 캡션을 사용했으며 함별 개장 원부는 미확인이다.",
+    "SIGABA 생산·인수 원표와 LORAN 사용 항공부대의 수신기 형식은 미확인이다.",
+    "다른 레이더·무선·소나·사격통제·정보처리·병참 장비는 후속 범위다."
+  ],
+  "evidence_checked": [
+    "요크타운 1942-05-25 보고 전사 및 제2구축함전대 Serial 080 인쇄 p. 2, 사진 목록 80-G-312018.",
+    "NSA 박물관 전시 해설, Mucklow 인쇄 pp. 18–19 및 각주 37.",
+    "제314폭격비행단 335.15 서한 전사 §§1–4, HAER AK-43 인쇄 pp. 3–4, 박물관 1973-98."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nara-series/80-g/80-g-310000/80-G-312018-A.html",
+      "result": "NHHC 사진 원 페이지 시간 초과. HyperWar에 전재된 사진 목록의 캡션을 읽었다."
+    },
+    {
+      "url": "https://www.history.uscg.mil/Our-Collections/Documents-Publications/igphoto/2001772424/",
+      "result": "1945년 LORAN 사업 총괄 문서 목록 열기에서 403. 전사된 종전 직후 서한과 HAER 조사서를 대조했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=63 pending=70; sources=692 questions=255. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

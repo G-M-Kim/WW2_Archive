@@ -1,0 +1,55 @@
+{
+  "step": 8,
+  "job_id": "CAT-DE-08",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 8,
+  "category": "유명한 정치 인물",
+  "article_path": "categories/germany/08-political-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-09T15:00:34+09:00",
+  "started_at": "2026-11-09T14:55:31+09:00",
+  "base_head": "b31ce3eb18439f4aa5a6380aa3b466867a0f2e71",
+  "source_ids": [
+    "CAT-DE-SRC-0033",
+    "CAT-DE-SRC-0034",
+    "CAT-DE-SRC-0036",
+    "CAT-DE-SRC-0037",
+    "CAT-DE-SRC-0038",
+    "CAT-DE-SRC-0039",
+    "CAT-DE-SRC-0040",
+    "CAT-DE-SRC-0041",
+    "CAT-DE-SRC-0042",
+    "CAT-DE-SRC-0043"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0029",
+    "CAT-DE-RQ-0030",
+    "CAT-DE-RQ-0031",
+    "CAT-DE-RQ-0032"
+  ],
+  "entity_ids": [
+    "CAT-DE-PER-0002",
+    "CAT-DE-PER-0003",
+    "CAT-DE-PER-0004"
+  ],
+  "research_scope": "히틀러의 바르바로사 준비 지령, 괴링의 박해 정책 위임과 전후 판결, 되니츠 후계 지명.",
+  "limitations": [
+    "준비 지령과 실제 개시 명령의 연결, 개별 박해 명령의 집행 및 회의 후속 기록 미확인.",
+    "PS-710에 명시된 수신인과 판결의 더 넓은 요약을 구분함.",
+    "대표 정치 인물과 종전기 승계 일부. 외교·선전·점령행정은 후속 과제."
+  ],
+  "evidence_checked": [
+    "DHM 전기 두 편 및 USHMM 침공 연표 본문",
+    "PS-446, PS-710 영어 재판본 본문",
+    "반제 회의록 독일어 스캔 1–2쪽",
+    "IMT 괴링·되니츠 판결 및 3569-PS 영어 전사"
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=8 pending=125; sources=43 questions=32. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; pinned HEAD snapshot."
+  }
+}

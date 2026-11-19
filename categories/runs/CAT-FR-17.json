@@ -1,0 +1,372 @@
+{
+  "step": 36,
+  "job_id": "CAT-FR-17",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 17,
+  "category": "종전 시점 주요 공업단지와 규모(1~20)",
+  "article_path": "categories/france/17-industrial-centers-end.md",
+  "status": "partial",
+  "completed_at": "2026-11-11T23:00:22+09:00",
+  "started_at": "2026-11-11T22:50:26+09:00",
+  "base_head": "03552ab3ba46ad384d040425206fbc36eab8bfc9",
+  "source_ids": [
+    "CAT-FR-SRC-0101",
+    "CAT-FR-SRC-0155",
+    "CAT-FR-SRC-0156",
+    "CAT-FR-SRC-0161",
+    "CAT-FR-SRC-0163",
+    "CAT-FR-SRC-0165",
+    "CAT-FR-SRC-0166",
+    "CAT-FR-SRC-0167",
+    "CAT-FR-SRC-0168",
+    "CAT-FR-SRC-0169",
+    "CAT-FR-SRC-0170",
+    "CAT-FR-SRC-0171",
+    "CAT-FR-SRC-0172",
+    "CAT-FR-SRC-0173",
+    "CAT-FR-SRC-0174",
+    "CAT-FR-SRC-0175",
+    "CAT-FR-SRC-0176"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0055",
+    "CAT-FR-RQ-0056",
+    "CAT-FR-RQ-0057"
+  ],
+  "entity_ids": [
+    "CAT-FR-GEO-0017",
+    "CAT-FR-GEO-0018"
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-FR-GEO-0017",
+      "historical_name": "Usines Renault de Billancourt",
+      "modern_location": "불로뉴빌랑쿠르와 뫼동·세브르 접경 센강 일대 (오드센)",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "빌랑쿠르 센강 우안 트라페즈와 연결 작업장, 세갱섬 및 바뫼동의 르노 산업 필지. 외지 공장과 주거지 제외. 1939년 정확한 필지 경계 미확인.",
+      "method_version": "infrastructure-v1",
+      "reference_date": "1945-09-02",
+      "territorial_status": "프랑스 본토, 프랑스 공화국 임시정부의 법적 관할 및 실효 지배.",
+      "operators": "Régie nationale des usines Renault (RNUR), 명령 제45-68호 제7조.",
+      "operational_status": "1944-08-25 해방. 점령기 파괴·시설 내 공정 이동과 일부 복구 확인. 종전 당일 가동·잔존 면적 및 설치 생산능력은 미확인.",
+      "source_survey_dates": [
+        "1943-04-04 피해표; 1944-11 USSBS 현장 조사, 1945-03-28 보고서 본문 날짜; 열람판 1947-01",
+        "1944·1945년 르노 고용 집계, 세부 조사일 미상; 1945년 프랑스 내 연간 생산"
+      ],
+      "metrics": [
+        {
+          "metric": "조사단의 Billancourt 공장 면적",
+          "value": 168,
+          "unit": "acre",
+          "date": "1944-11 조사 계열, 면적 관측일 미상",
+          "boundary": "USSBS Billancourt, O공장 별도",
+          "source_id": "CAT-FR-SRC-0169",
+          "locator": "인쇄 4~5쪽, NDL 215",
+          "capacity_or_actual": "조사 면적, 1945-09-02 잔존 면적 아님"
+        },
+        {
+          "metric": "구조 피해 바닥면적 비중",
+          "value": 7.2,
+          "unit": "%",
+          "date": "1943-04-04 공습",
+          "boundary": "USSBS Billancourt 공장 바닥면적 집계",
+          "source_id": "CAT-FR-SRC-0169",
+          "locator": "인쇄 4쪽, NDL 215",
+          "capacity_or_actual": "단일 공습 구조피해, 누계 및 종전 피해 아님"
+        },
+        {
+          "metric": "점령기 트럭 최고 생산 실적",
+          "value": 1600,
+          "unit": "대/월",
+          "date": "1940~1944년 점령기, 해당 월 미상",
+          "boundary": "USSBS Billancourt 공장",
+          "source_id": "CAT-FR-SRC-0169",
+          "locator": "인쇄 3쪽 §1, NDL 214",
+          "capacity_or_actual": "실제 생산"
+        },
+        {
+          "metric": "트럭 전환 가정 생산능력",
+          "value": 2400,
+          "unit": "대/월 (약)",
+          "date": "점령기 설비에 대한 조사단 추계",
+          "boundary": "USSBS Billancourt 공장",
+          "source_id": "CAT-FR-SRC-0169",
+          "locator": "인쇄 3쪽 §1, NDL 214",
+          "capacity_or_actual": "전환 가정 추계, 종전일 실가동과 별개"
+        },
+        {
+          "metric": "실제 고용",
+          "value": 17063,
+          "unit": "명",
+          "date": "1944, 관측일 미상",
+          "boundary": "르노 회사표 Billancourt",
+          "source_id": "CAT-FR-SRC-0170",
+          "locator": "표 7, 1944 행",
+          "capacity_or_actual": "실제 고용"
+        },
+        {
+          "metric": "실제 고용",
+          "value": 23375,
+          "unit": "명",
+          "date": "1945, 관측일 미상",
+          "boundary": "르노 회사표 Billancourt",
+          "source_id": "CAT-FR-SRC-0170",
+          "locator": "표 7, 1945 행",
+          "capacity_or_actual": "실제 고용"
+        },
+        {
+          "metric": "승용·소형 상용차 국내 생산",
+          "value": 12036,
+          "unit": "대/년",
+          "date": "1945",
+          "boundary": "프랑스 내 르노 전체, 빌랑쿠르 단독 아님",
+          "source_id": "CAT-FR-SRC-0176",
+          "locator": "1쪽 1945 국내 행",
+          "capacity_or_actual": "전국 합산 실적, 시설 점수에 미사용"
+        }
+      ],
+      "anchors": [
+        {
+          "dimension": 1,
+          "facility": "Peugeot, Grand Sochaux",
+          "metric_value_or_band": "1928~1932년 재편 문맥에서 부지 50 ha",
+          "source_id": "CAT-FR-SRC-0167",
+          "locator": "IA25001029 1쪽",
+          "comparison_reason": "전전 자동차 공장군의 토지 면적. 필지 기준과 조사일이 달라 등급 경계에는 미사용."
+        },
+        {
+          "dimension": 3,
+          "facility": "Peugeot, Grand Sochaux",
+          "metric_value_or_band": "1937년 노동자 15,000명",
+          "source_id": "CAT-FR-SRC-0167",
+          "locator": "IA25001029 1쪽",
+          "comparison_reason": "자동차 공장의 실제 고용 비교. 종업원 전체나 작업 수용 정원과 직접 비교 불가."
+        },
+        {
+          "dimension": 3,
+          "facility": "Renault, Le Mans",
+          "metric_value_or_band": "1945년 고용 1,311명",
+          "source_id": "CAT-FR-SRC-0170",
+          "locator": "표 7 1945년 Le Mans 열",
+          "comparison_reason": "같은 회사·연도 표의 사업장 고용 비교. 수용 정원 및 등급 경계와 별개."
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "조사 면적과 1939년 분모가 일치하지 않고 종전일 설비·실가동·작업 수용·처리능력 및 공통 등급 경계가 미확인.",
+      "source_ids": [
+        "CAT-FR-SRC-0101",
+        "CAT-FR-SRC-0167",
+        "CAT-FR-SRC-0169",
+        "CAT-FR-SRC-0170",
+        "CAT-FR-SRC-0174",
+        "CAT-FR-SRC-0176"
+      ]
+    },
+    {
+      "entity_id": "CAT-FR-GEO-0018",
+      "historical_name": "Usines du Creusot, du Breuil et Henri-Paul",
+      "modern_location": "르크뢰조, 르브뢰유·토르시, 몽샤냉 일대 (손에루아르)",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "르크뢰조 본공장(국유 작업장 운영 별도), 르브뢰유 제강소 및 앙리폴 주조소의 세 구역. 샬롱 조선소·보르도·외지 광산 제외. 1939년 정확한 필지 경계 미확인.",
+      "method_version": "infrastructure-v1",
+      "reference_date": "1945-09-02",
+      "territorial_status": "프랑스 본토, 프랑스 공화국 임시정부의 법적 관할 및 실효 지배.",
+      "operators": "Schneider et Cie, 샤를 슈나이더 경영. 국가 제작소의 종전 당일 현장별 귀속 미확인.",
+      "operational_status": "1944-09-07 해방. 제강로·변전소·교량 피해, 1944년 전력 및 일부 제강 재개와 1945년 2월 설비 수리 확인. 종전일 구역별 가동률 미확인.",
+      "source_survey_dates": [
+        "1944-09 해방 상황도, 조사일 미상, 회사 복구자료를 2007년 회보가 재록",
+        "1944-09-14 당대 회사 보고, 2008년 회보 재록",
+        "1944-10-16·11-16·12-28 및 1945-02 복구 이정표, 2007년 회보 11쪽"
+      ],
+      "metrics": [
+        {
+          "metric": "피해도 공장 건물",
+          "value": 600,
+          "unit": "동",
+          "date": "1944-09 해방 상태",
+          "boundary": "피해도에 나타난 본공장·르브뢰유·앙리폴",
+          "source_id": "CAT-FR-SRC-0168",
+          "locator": "10쪽, PDF 12면",
+          "capacity_or_actual": "해방기 피해도 분모"
+        },
+        {
+          "metric": "피해도 공장 지붕 면적",
+          "value": 650000,
+          "unit": "m²",
+          "date": "1944-09 해방 상태",
+          "boundary": "피해도에 나타난 공장 건물",
+          "source_id": "CAT-FR-SRC-0168",
+          "locator": "10쪽, PDF 12면",
+          "capacity_or_actual": "해방기 건물 면적, 부지와 별개"
+        },
+        {
+          "metric": "피해 건물",
+          "value": 497,
+          "unit": "동",
+          "date": "1944-09 해방 상태",
+          "boundary": "피해도에 나타난 공장 건물",
+          "source_id": "CAT-FR-SRC-0168",
+          "locator": "10쪽, PDF 12면",
+          "capacity_or_actual": "피해 집계, 전파·부분 파괴 혼재"
+        },
+        {
+          "metric": "피해 캡션 면적",
+          "value": 605000,
+          "unit": "m²",
+          "date": "1944-09 해방 상태",
+          "boundary": "피해도 하단 캡션, 분모·정의 미확인",
+          "source_id": "CAT-FR-SRC-0168",
+          "locator": "10쪽, PDF 12면",
+          "capacity_or_actual": "원문 수치, 피해율 산출에 미사용"
+        },
+        {
+          "metric": "설치 임시 변전소",
+          "value": 2,
+          "unit": "곳",
+          "date": "1944-09 해방 약 두 달 후",
+          "boundary": "르크뢰조 회보의 공장 전력망",
+          "source_id": "CAT-FR-SRC-0168",
+          "locator": "11쪽, PDF 13면",
+          "capacity_or_actual": "복구 시설, 수전 용량 미확인"
+        },
+        {
+          "metric": "설치 임시 철도교 길이",
+          "value": 54,
+          "unit": "m",
+          "date": "1944-11-16",
+          "boundary": "르크뢰조~르브뢰유 연결망, 공장 및 SNCF 선로",
+          "source_id": "CAT-FR-SRC-0168",
+          "locator": "11쪽, PDF 13면",
+          "capacity_or_actual": "복구 시설 치수"
+        },
+        {
+          "metric": "임시 철도교 운반 가능 부품 중량",
+          "value": 120,
+          "unit": "t/개 (상한)",
+          "date": "1944-11-16",
+          "boundary": "르크뢰조~르브뢰유 연결망, 임시 철도교",
+          "source_id": "CAT-FR-SRC-0168",
+          "locator": "11쪽, PDF 13면",
+          "capacity_or_actual": "단일 화물 한계, 수송량과 별개"
+        },
+        {
+          "metric": "피해 마르탱로",
+          "value": 3,
+          "unit": "기",
+          "date": "1944-09 해방 상태",
+          "boundary": "회보의 마르탱 제강 설비, IA71000142의 1호로와 범위 미확인",
+          "source_id": "CAT-FR-SRC-0168",
+          "locator": "11쪽, PDF 13면",
+          "capacity_or_actual": "피해 실적"
+        },
+        {
+          "metric": "마르탱 제강 재개",
+          "value": 1,
+          "unit": "첫 출강",
+          "date": "1944-10-16",
+          "boundary": "회보의 마르탱 제강 설비",
+          "source_id": "CAT-FR-SRC-0168",
+          "locator": "11쪽, PDF 13면",
+          "capacity_or_actual": "재개 확인, 조강 톤수 미상"
+        },
+        {
+          "metric": "전기로 제강 재개",
+          "value": 1,
+          "unit": "첫 출강",
+          "date": "1944-12-28",
+          "boundary": "회보의 전기로 제강 설비",
+          "source_id": "CAT-FR-SRC-0168",
+          "locator": "11쪽, PDF 13면",
+          "capacity_or_actual": "재개 확인, 조강 톤수 미상"
+        },
+        {
+          "metric": "수리 완료 마르탱로",
+          "value": 1,
+          "unit": "기",
+          "date": "1945-02",
+          "boundary": "회보의 피해 마르탱로 중 완료 시기가 제시된 1기",
+          "source_id": "CAT-FR-SRC-0168",
+          "locator": "11쪽, PDF 13면",
+          "capacity_or_actual": "수리 실적, 1945-09 전체 가동 노 수 아님"
+        },
+        {
+          "metric": "종전일 실제 고용",
+          "value": null,
+          "unit": "명",
+          "date": "1945-09-02",
+          "boundary": "르크뢰조 세 공장군",
+          "source_id": "CAT-FR-SRC-0168",
+          "locator": "10~11쪽, 인원표 없음",
+          "capacity_or_actual": "미확인"
+        }
+      ],
+      "anchors": [
+        {
+          "dimension": 3,
+          "facility": "Chantiers de Chalon, Schneider et Cie",
+          "metric_value_or_band": "1940-05-31 노동자 1,364명, 직원 140명",
+          "source_id": "CAT-FR-SRC-0165",
+          "locator": "11~12쪽 표 1",
+          "comparison_reason": "같은 회사·날짜의 실제 고용 비교. 조선소로 업종이 다르고 수용 정원을 뜻하지 않음."
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "해방기 시설 피해와 복구 시점은 확보했으나 종전일 네 차원과 동일 업종·경계 기준을 채울 수 없다.",
+      "source_ids": [
+        "CAT-FR-SRC-0163",
+        "CAT-FR-SRC-0165",
+        "CAT-FR-SRC-0166",
+        "CAT-FR-SRC-0168",
+        "CAT-FR-SRC-0171",
+        "CAT-FR-SRC-0175"
+      ]
+    }
+  ],
+  "research_scope": "1945-09-02 기준 빌랑쿠르 르노·르크뢰조 슈나이더 공장군의 피해, 물리 규모, 복구와 실가동. 16번과 GEO·공간 단위·척도 동일.",
+  "limitations": [
+    "종전일 잔존 설비·실가동·수용·수송 정량과 4차원 등급 경계는 미확인. 두 점수·범위 모두 null.",
+    "르노 연간 고용의 관측일과 USSBS의 면적 분모는 미확인. 르크뢰조 해방 피해도는 종전 당일 자료가 아니다.",
+    "로렌·북부 공업지대와 해외 시설은 이번 비교 밖이다."
+  ],
+  "evidence_checked": [
+    "NDL YD-208 R07 프레임 210·213~215·223의 USSBS 판면과 도면, Freyssenet 표 7 및 국내 생산 부록",
+    "Académie François Bourdon n°8 8·10~11쪽, 도면 판면 및 n°9 9~10쪽 1944-09-14 연설",
+    "국영화 명령 제7조, 두 시의 해방 연혁, NARA 독일·일본 항복문서 전사"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://findingaids.loc.gov/repositories/25/digital_objects/1076829",
+      "result": "LOC 디지털 객체와 카탈로그 경로에 403. 일본 국회도서관 공개 마이크로필름의 IIIF 이미지로 같은 보고서 재판을 열람했다."
+    },
+    {
+      "url": "https://theoriginals.renault.com/1000-kg",
+      "result": "제조사 박물관 링크와 영어판이 404. 생산 근거는 프레세네의 국내 연간 부록으로 대체하고 빌랑쿠르 단독 생산은 미확인으로 남겼다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=36 pending=97; sources=424 questions=150. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

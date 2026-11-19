@@ -1,0 +1,37 @@
+{
+  "checked_at": "2026-11-08T14:00:54.681220+00:00",
+  "scope": "카테고리별 조사 운영",
+  "previous_automation_id": "Automation_3eee281072dc819194ac5604d3c3b374",
+  "previous_task_lookup": {
+    "listed_in_accessible_tasks": false,
+    "direct_lookup_status": "not_found_or_not_accessible",
+    "disabled_confirmed": false,
+    "internal_failure_cause": "not_provided"
+  },
+  "new_automation": {
+    "id": "Automation_13524a92af348191b3972ebef1287d3f",
+    "is_enabled": true,
+    "default_timezone": "Asia/Seoul",
+    "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Seoul:20261108T233000\nRRULE:FREQ=HOURLY;INTERVAL=2;COUNT=132\nEND:VEVENT",
+    "first_planned_at": "2026-11-08T23:30:00+09:00",
+    "last_planned_at": "2026-11-19T21:30:00+09:00",
+    "count": 132,
+    "conversation_id": "6af08021-40b0-83ee-8ffe-b457a04cfa9e"
+  },
+  "research_state": {
+    "visited": 1,
+    "pending": 132,
+    "next_job": "CAT-DE-02",
+    "new_research_performed": false
+  },
+  "safeguards": [
+    "이전 예약으로 실행 중임이 확인되면 종료",
+    "마지막 저장된 실행의 시작 이후 2시간 경과 확인",
+    "job_id 고정 및 expected_sha 검사; 다른 실행이 대상 작업을 저장했으면 종료"
+  ],
+  "limitations": [
+    "이전 예약은 중지 확인 불가",
+    "미래 실행 성공은 미검증",
+    "이 준비 기록은 역사 연구 실적이 아님"
+  ]
+}

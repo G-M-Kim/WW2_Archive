@@ -1,0 +1,62 @@
+{
+  "step": 61,
+  "job_id": "CAT-US-04",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 4,
+  "category": "항공기, 무장, 성능",
+  "article_path": "categories/united-states/04-aircraft.md",
+  "status": "partial",
+  "completed_at": "2026-11-14T00:57:50+09:00",
+  "started_at": "2026-11-14T00:51:23+09:00",
+  "base_head": "5e9777e0b90b4fdd11b70a5f9d8d41ba95e57fa0",
+  "source_ids": [
+    "CAT-US-SRC-0042",
+    "CAT-US-SRC-0043",
+    "CAT-US-SRC-0044",
+    "CAT-US-SRC-0045",
+    "CAT-US-SRC-0046",
+    "CAT-US-SRC-0047",
+    "CAT-US-SRC-0048",
+    "CAT-US-SRC-0049"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0016",
+    "CAT-US-RQ-0017",
+    "CAT-US-RQ-0018",
+    "CAT-US-RQ-0019"
+  ],
+  "entity_ids": [
+    "CAT-US-EQP-0010",
+    "CAT-US-EQP-0011",
+    "CAT-US-EQP-0012"
+  ],
+  "research_scope": "미 육군항공군의 P-51D 전투기, B-17G 중폭격기, C-47A 수송기의 제원과 전시 이력, 계열별 공장 인수 통계.",
+  "limitations": [
+    "P-51D 시험보고서는 전사본이며, B-17G 최고속도 출처 두 곳의 시험 조건은 미확인이다.",
+    "C-47A 42-92841의 노르망디 임무 날짜는 박물관 설명에 차이가 있고 원 명부 판면을 확인하지 못했다.",
+    "미 해군·해병대 항공기와 육군항공군의 다른 임무 유형은 후속 과제다."
+  ],
+  "evidence_checked": [
+    "Wright Field TSCEP5E-1908 §§ I–III 전사, 이오지마행 P-51 전시 사진 및 원 캡션.",
+    "AAF Statistical Digest 표 76의 기종별 행, AETC 두 기종 제원표, AFEHRI File 19-2의 B-17G 제원 및 개별기 이력.",
+    "AMC 박물관 C-47A 제원과 일지 발췌, 강하 명부 목록 설명, 국립 제2차세계대전박물관 안내 책자 p. 19의 별도 기체 이력."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.nationalmuseum.af.mil/",
+      "result": "미 공군 국립박물관 P-51D·C-47D 기체 안내 페이지가 403으로 열리지 않았다."
+    },
+    {
+      "url": "https://airandspace.si.edu/",
+      "result": "스미스소니언 P-51D 소장품 페이지가 403으로 열리지 않았다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=61 pending=72; sources=675 questions=247. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

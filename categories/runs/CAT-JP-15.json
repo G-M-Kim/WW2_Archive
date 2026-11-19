@@ -1,0 +1,56 @@
+{
+  "step": 91,
+  "job_id": "CAT-JP-15",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 15,
+  "category": "영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐",
+  "article_path": "categories/japan/15-resources.md",
+  "status": "partial",
+  "completed_at": "2026-11-16T12:56:35+09:00",
+  "started_at": "2026-11-16T12:47:39+09:00",
+  "base_head": "1fd1d31013d953b7c94e91eba511cab9f700a63d",
+  "source_ids": [
+    "CAT-JP-SRC-0011",
+    "CAT-JP-SRC-0140",
+    "CAT-JP-SRC-0141",
+    "CAT-JP-SRC-0142",
+    "CAT-JP-SRC-0143",
+    "CAT-JP-SRC-0144",
+    "CAT-JP-SRC-0145"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0048",
+    "CAT-JP-RQ-0049",
+    "CAT-JP-RQ-0050"
+  ],
+  "entity_ids": [
+    "CAT-JP-GEO-0001",
+    "CAT-JP-GEO-0002",
+    "CAT-JP-GEO-0003",
+    "CAT-JP-GEO-0012",
+    "CAT-JP-GEO-0015",
+    "CAT-JP-GEO-0016"
+  ],
+  "research_scope": "일본 내지·식민지·남방 점령지와 연계된 석유, 강철, 고무, 알루미늄, 크롬, 텅스텐의 생산·반입 대표 통계.",
+  "limitations": [
+    "USSBS 내부 자료는 독립 계열로 세지 않았다. Inner Zone 경계와 조선·대만의 독립 생산량은 미확인이다.",
+    "1943년 크롬광 반입 수치의 불일치가 남는다. 조선 텅스텐 논문은 공개 초록까지만 확인했다."
+  ],
+  "evidence_checked": [
+    "USSBS 경제보고서 스캔에서 내지 강괴·완성강, Inner Zone 원유, 내지 합성고무 및 생고무 반입·소비 표를 대조했다.",
+    "수송부 및 기초자재부 보고서를 대조해 남방 보크사이트 반입과 만주산 잉곳 반입, 식민지 포함 생산 범위를 구분했다.",
+    "미국 국무부 제3300호 크롬·텅스텐 광석 통계와 각주, 학술 논문의 고무 생산 결론 및 조선산 텅스텐 공개 초록을 확인했다."
+  ],
+  "access_attempts": [
+    "USSBS 경제·수송 보고서 웹 미리보기가 크기 제한을 반환했다. 같은 URL에서 PDF 원본을 내려받아 해당 표·본문을 열람했다.",
+    "KCI에서 텅스텐 논문의 공개 초록을 열람했다. 이번 판정에는 전문과 부록 수치를 사용하지 않았다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=91 pending=42; sources=961 questions=354. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

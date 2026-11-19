@@ -1,0 +1,80 @@
+{
+  "step": 52,
+  "job_id": "CAT-GB-14",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 14,
+  "category": "당시 영토",
+  "article_path": "categories/united-kingdom/14-territory.md",
+  "status": "partial",
+  "completed_at": "2026-11-13T06:55:12+09:00",
+  "started_at": "2026-11-13T06:47:53+09:00",
+  "base_head": "eac9fd4af52c438dcd1cd69f1e55368189828daf",
+  "source_ids": [
+    "CAT-GB-SRC-0127",
+    "CAT-GB-SRC-0141",
+    "CAT-GB-SRC-0142",
+    "CAT-GB-SRC-0143",
+    "CAT-GB-SRC-0144",
+    "CAT-GB-SRC-0145",
+    "CAT-GB-SRC-0146",
+    "CAT-GB-SRC-0147",
+    "CAT-GB-SRC-0148",
+    "CAT-GB-SRC-0149",
+    "CAT-GB-SRC-0150",
+    "CAT-GB-SRC-0151",
+    "CAT-GB-SRC-0152",
+    "CAT-GB-SRC-0153",
+    "CAT-GB-SRC-0154",
+    "CAT-GB-SRC-0155"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0055",
+    "CAT-GB-RQ-0056",
+    "CAT-GB-RQ-0057",
+    "CAT-GB-RQ-0058"
+  ],
+  "entity_ids": [
+    "CAT-GB-GEO-0001",
+    "CAT-GB-GEO-0002",
+    "CAT-GB-GEO-0004",
+    "CAT-GB-GEO-0008",
+    "CAT-GB-GEO-0009"
+  ],
+  "research_scope": "영국 본토·캐나다·저지섬·홍콩·팔레스타인과 트란스요르단의 법적 지위와 전시 통치를 대조했다.",
+  "limitations": [
+    "캐나다·뉴펀들랜드의 당대 경계와 채널 제도의 섬별 이행 및 저지 군정 종료 시행 기록은 미확인이다.",
+    "홍콩 임대 부속 지도와 지방별 군정 인수 날짜는 미확인이다.",
+    "팔레스타인 전시 지도 접근 오류로 1946년 지도를 지리 대조에만 사용했다. 기타 도미니언·식민지·보호령·위임통치 지역의 전수 범위가 남았다."
+  ],
+  "evidence_checked": [
+    "영국 법령 17 Geo. 5 c. 4 제2조와 22 Geo. 5 c. 4 제1·4·7조, Canada Gazette 1939-09-10 특별호 첫 면",
+    "저지 정부 역사 기록과 Hansard 1945-08-17, 홍콩 조약 PREM 19/792·1898년 협약 및 하코트 공고 제1호, 06-08-203·HSR/V/8",
+    "UN A/292 제1·5·25조 및 승인 각서, FRUS 1945 VIII doc. 688, 전후 지도 M700"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.nationalarchives.gov.uk/image/15145c50-9990-417c-a98e-4371c2d2aa7b/",
+      "result": "403. 난징 조약 제III조는 PREM 19/792 부속의 조약 수록 스캔에서 대조했다."
+    },
+    {
+      "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023676470205171/NLI",
+      "result": "1940년 지도 상세 조회가 403이었다. 직접 전후 지도 M700의 이미지와 위임장 지리 문구를 확인했다."
+    },
+    {
+      "url": "https://www.loc.gov/resource/matpc.12336/",
+      "result": "1945년 지도 이미지 페이지가 403이었다. 1946년 M700으로 공간 관계만 대조했고 1945년 경계 직접 검증은 보류했다."
+    },
+    {
+      "url": "https://www.histsyn.com/2023/01/EYB1946.html",
+      "result": "이전 항목에서 열람한 1946년 연감의 본문 재검색 요청은 차단 페이지로 이동했다. 이번에는 Harcourt 공고 수록본을 직접 확인했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=52 pending=81; sources=592 questions=213. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

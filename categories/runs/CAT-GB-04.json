@@ -1,0 +1,62 @@
+{
+  "step": 42,
+  "job_id": "CAT-GB-04",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 4,
+  "category": "항공기, 무장, 성능",
+  "article_path": "categories/united-kingdom/04-aircraft.md",
+  "status": "partial",
+  "completed_at": "2026-11-12T12:59:16+09:00",
+  "started_at": "2026-11-12T12:53:47+09:00",
+  "base_head": "a29e02f49d48a38b8cd77c84a455cc38cdc20aef",
+  "source_ids": [
+    "CAT-GB-SRC-0040",
+    "CAT-GB-SRC-0041",
+    "CAT-GB-SRC-0042",
+    "CAT-GB-SRC-0043",
+    "CAT-GB-SRC-0044",
+    "CAT-GB-SRC-0045",
+    "CAT-GB-SRC-0046",
+    "CAT-GB-SRC-0047"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0016",
+    "CAT-GB-RQ-0017",
+    "CAT-GB-RQ-0018",
+    "CAT-GB-RQ-0019"
+  ],
+  "entity_ids": [
+    "CAT-GB-EQP-0010",
+    "CAT-GB-EQP-0011",
+    "CAT-GB-EQP-0012"
+  ],
+  "research_scope": "스핏파이어 Mk I 전투기, 랭커스터 Mk I 중폭격기, 호르사 Mk I 수송 글라이더의 시험·무장 또는 적재·운용 사례.",
+  "limitations": [
+    "K9787과 JB127의 시험 제원은 각각 시험 기체의 장착·하중 조건에 한정된다.",
+    "호르사 병력 25명과 30명의 적용 조건은 미해결이며, 노르망디 실탑승 명부는 미확인이다.",
+    "랭커스터 방어무장 및 다른 전투·해군항공·정찰·동력 수송·훈련·연락·수상기는 후속 범위."
+  ],
+  "evidence_checked": [
+    "K9787 시험 보고의 속도표와 보고 표제, IWM Hangar 4의 N3200·Fred Roberts 항목",
+    "JB127 시험 보고 §§2.1–2.5·4.2·6.1과 표 II, RAF Museum 74/A/12 기체 이력, AWM UK1770 사진 판면과 소장 설명",
+    "항공부 A.P. 2097A–P.N. Part I §1, NAM 1975-03-63-18-151 소장 설명, Army Flying Museum의 피어슨 사례"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.spitfireperformance.com/k9787.html",
+      "result": "원 전사 사이트 요청이 시간 초과됐다. 대체 도메인의 같은 보고 전사본과 제목 색인을 열었다."
+    },
+    {
+      "url": "https://collection.nam.ac.uk/detail.php?acc=1975-03-63-18-151",
+      "result": "사진 링크의 자동 선택 결과가 페이지 배경 이미지였다. 소장 설명만 인용했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=42 pending=91; sources=484 questions=174. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

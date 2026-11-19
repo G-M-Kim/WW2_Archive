@@ -1,0 +1,63 @@
+{
+  "step": 50,
+  "job_id": "CAT-GB-12",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 12,
+  "category": "당시 인구",
+  "article_path": "categories/united-kingdom/12-population.md",
+  "status": "partial",
+  "completed_at": "2026-11-13T05:01:54+09:00",
+  "started_at": "2026-11-13T04:55:37+09:00",
+  "base_head": "107711544aa43050bea7cdf472e36f9c0a505b5e",
+  "source_ids": [
+    "CAT-GB-SRC-0120",
+    "CAT-GB-SRC-0121",
+    "CAT-GB-SRC-0122",
+    "CAT-GB-SRC-0123",
+    "CAT-GB-SRC-0124",
+    "CAT-GB-SRC-0125",
+    "CAT-GB-SRC-0126",
+    "CAT-GB-SRC-0127",
+    "CAT-GB-SRC-0128",
+    "CAT-GB-SRC-0129",
+    "CAT-GB-SRC-0130",
+    "CAT-GB-SRC-0131"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0048",
+    "CAT-GB-RQ-0049",
+    "CAT-GB-RQ-0050",
+    "CAT-GB-RQ-0051"
+  ],
+  "entity_ids": [
+    "CAT-GB-GEO-0001",
+    "CAT-GB-GEO-0002",
+    "CAT-GB-GEO-0003",
+    "CAT-GB-GEO-0004"
+  ],
+  "research_scope": "영국 본토의 연중 추계와 국가등록을 대조하고 캐나다 도미니언, 인도 조사권, 홍콩 식민지의 인구와 집계 경계를 확인했다.",
+  "limitations": [
+    "본토의 1939년 국내 현주 추계와 1940년 이후 총계는 해외 복무자·선원 범위가 다르다.",
+    "두 공식 간행물의 1945년 추계 32천 명 차이의 원인은 미확인이다.",
+    "홍콩 종전 추계의 기준일과 산식, 인도·캐나다 조사 세칙 및 기타 식민지·위임통치 지역은 후속 범위다."
+  ],
+  "evidence_checked": [
+    "UK Statistical Digest of the War 표 1·2, Annual Abstract No. 85 표 6 및 각주, NRS 1939 Register와 ONS 인구조사 연혁",
+    "1941 인도 Census 표 I·II 및 하원 질문 40, 캐나다 연감 표 7·공식 제2권 안내·후대 표 24.1 및 웨스트민스터 법령",
+    "홍콩 1946 연보 Part II 제1·8장 및 1971 인구조사 기술보고서 §§1.11–1.12"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/1939-register/",
+      "result": "영국 국립기록관 1939년 국가등록 안내 본문 열람은 403. 스코틀랜드 국립기록원 원장 안내와 ONS의 1941년 인구조사 연혁을 별도 열람했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=50 pending=83; sources=568 questions=206. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

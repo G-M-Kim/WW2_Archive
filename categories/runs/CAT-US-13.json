@@ -1,0 +1,72 @@
+{
+  "step": 70,
+  "job_id": "CAT-US-13",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 13,
+  "category": "당시 기준 지명",
+  "article_path": "categories/united-states/13-historical-place-names.md",
+  "status": "partial",
+  "completed_at": "2026-11-14T19:00:29+09:00",
+  "started_at": "2026-11-14T18:52:55+09:00",
+  "base_head": "f2f1c5af53ae1104eb50a2b7e4cfda3164cfd185",
+  "source_ids": [
+    "CAT-US-SRC-0098",
+    "CAT-US-SRC-0123",
+    "CAT-US-SRC-0124",
+    "CAT-US-SRC-0127",
+    "CAT-US-SRC-0128",
+    "CAT-US-SRC-0129",
+    "CAT-US-SRC-0130",
+    "CAT-US-SRC-0131",
+    "CAT-US-SRC-0132",
+    "CAT-US-SRC-0133",
+    "CAT-US-SRC-0134",
+    "CAT-US-SRC-0135",
+    "CAT-US-SRC-0136",
+    "CAT-US-SRC-0137",
+    "CAT-US-SRC-0138",
+    "CAT-US-SRC-0139",
+    "CAT-US-SRC-0140",
+    "CAT-US-SRC-0141",
+    "CAT-US-SRC-0142"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0052",
+    "CAT-US-RQ-0053",
+    "CAT-US-RQ-0054",
+    "CAT-US-RQ-0055"
+  ],
+  "entity_ids": [
+    "CAT-US-GEO-0005",
+    "CAT-US-GEO-0010",
+    "CAT-US-GEO-0011",
+    "CAT-US-GEO-0012",
+    "CAT-US-GEO-0013",
+    "CAT-US-GEO-0014",
+    "CAT-US-GEO-0015",
+    "CAT-US-GEO-0016"
+  ],
+  "research_scope": "미국 본토의 오크리지, 알래스카·하와이 준주의 더치하버·진주만, 괌 및 필리핀 자치령 마닐라의 전시 지명·지시 범위·현대 대응.",
+  "limitations": [
+    "괌 일본어 지도 원판과 명명 포고, 당대 현지어의 사용 범위는 미확인이다.",
+    "대마닐라의 점령기 집행과 전후 해체 시점, 오크리지의 명명 명령과 당시 세부 경계는 미확인이다.",
+    "웨이크·미드웨이 및 카리브해·운하구역의 지명 대조는 남아 있다."
+  ],
+  "evidence_checked": [
+    "필리핀 자치령 EO 400·58, 괌 공법 24-152, 1941년 루스벨트 연설 전사와 맥밀린 보고서.",
+    "1942년 해군 공보, 일본 국립국회도서관의 당대 지도 서지, 전투사 지도, 공공기관의 지리 자료."
+  ],
+  "access_attempts": [
+    "필리핀 대법원 전자도서관 EO 400 본문은 502를 반환해 Lawphil의 관보 PDF 판면을 대조했다. EO 58은 대법원 전사와 Lawphil PDF를 같은 원명령으로 취급했다.",
+    "일본 국립국회도서관 YG813-670은 종이 자료의 서지까지 열람했다. 공개 판면은 확보하지 못했다.",
+    "미 의회도서관 진주만 지도 판면 및 미 해군 일부 전투 보고는 403·시간 초과를 반환해 실제 열람한 연설 전사, 맥밀린 보고, NPS 문화경관 설명을 사용했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=70 pending=63; sources=768 questions=283. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

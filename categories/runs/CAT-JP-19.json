@@ -1,0 +1,196 @@
+{
+  "step": 95,
+  "job_id": "CAT-JP-19",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 19,
+  "category": "개전 시점 주요 해군기지와 규모(1~10)",
+  "article_path": "categories/japan/19-naval-bases-start.md",
+  "status": "partial",
+  "completed_at": "2026-11-16T21:18:16+09:00",
+  "started_at": "2026-11-16T21:08:58+09:00",
+  "base_head": "939aa5cff2288aad957faf080786f497d412b413",
+  "source_ids": [
+    "CAT-JP-SRC-0072",
+    "CAT-JP-SRC-0078",
+    "CAT-JP-SRC-0167",
+    "CAT-JP-SRC-0168",
+    "CAT-JP-SRC-0169",
+    "CAT-JP-SRC-0170",
+    "CAT-JP-SRC-0171",
+    "CAT-JP-SRC-0172",
+    "CAT-JP-SRC-0173",
+    "CAT-JP-SRC-0174",
+    "CAT-JP-SRC-0175",
+    "CAT-JP-SRC-0176",
+    "CAT-JP-SRC-0177"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0060",
+    "CAT-JP-RQ-0061",
+    "CAT-JP-RQ-0062"
+  ],
+  "entity_ids": [
+    "CAT-JP-GEO-0023",
+    "CAT-JP-GEO-0024",
+    "CAT-JP-GEO-0025"
+  ],
+  "research_scope": "1939-09-01 일본 내지의 구레·마이즈루·요코스카 군항. 기준일의 행정·시설과 전시 증설 또는 점령 전환.",
+  "limitations": [
+    "기준일의 접안·정박·도크 가동·수리·보급 정격과 비교구간이 부족하여 세 곳의 점수 및 범위는 null이다.",
+    "마이즈루의 창고 면적은 문화재 조사값이고, 요코스카의 준공 수는 1939년 운용 대수와 다르다. 다른 내지·식민지·위임통치령·점령지는 후속 범위다."
+  ],
+  "evidence_checked": [
+    "구레시와 야마토뮤지엄에서 기존 도크 개조, 건조와 준공, 시설 경계를 대조했다.",
+    "해군공보 제3373호와 기록관 해설에서 마이즈루 진수부 복귀를 대조하고 시·문화청에서 창고의 건축면적을 확인했다.",
+    "요코스카시와 시립박물관의 도크 준공 이력, 쇼와관 소장 목록의 1945-08-30 진주를 확인했다."
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-JP-GEO-0023",
+      "reference_date": "1939-09-01",
+      "territorial_status": "1939-09-01 일본 내지, 일본 정부 실효 지배.",
+      "boundary": "히로시마현 구레만, 구레진수부 및 미야하라 쪽 해군공창 조선부의 확인 범위. 전체 수역·시설 경계 미확정.",
+      "operator": "일본 해군 구레진수부·구레해군공창",
+      "operation": "야마토 공사 진행. 1937년 기공 및 1941-12-16 준공을 별도 기록.",
+      "metrics": [
+        {
+          "metric": "조선 선거 바닥 굴착 개조량",
+          "value": 1,
+          "unit": "m",
+          "date": "야마토 건조 준비기, 정확한 준공검사일 미확인",
+          "boundary": "구레해군공창 조선 선거 1기",
+          "source_id": "CAT-JP-SRC-0167",
+          "locator": "「SHIP BUILDING」 첫 문단",
+          "capacity_or_actual": "installed"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "최종 수심, 접안·도크 정격·수리 및 보급 처리량과 비교구간이 부족하다.",
+      "source_ids": [
+        "CAT-JP-SRC-0167",
+        "CAT-JP-SRC-0168",
+        "CAT-JP-SRC-0169"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-JP-GEO-0024",
+      "reference_date": "1939-09-01",
+      "territorial_status": "1939-09-01 일본 내지, 일본 정부 실효 지배.",
+      "boundary": "교토부 마이즈루만 동쪽의 요항부·해군공창 및 하마·기타스이 창고군. 전체 요항 수역·시설 경계 미확정.",
+      "operator": "일본 해군 마이즈루요항부·해군공창·해군군수부",
+      "operation": "공창은 1936년 복구. 진수부 개편은 1939-12-01. 개편에 따른 실적 변화 미확인.",
+      "metrics": [
+        {
+          "metric": "옛 어형수뢰고 건축면적",
+          "value": 424.36,
+          "unit": "m²",
+          "date": "1903-07 준공, 2021-03 보존계획 기록",
+          "boundary": "하마 옛 어형수뢰고 1동",
+          "source_id": "CAT-JP-SRC-0172",
+          "locator": "§1-2(2) 및 표 1.3.1",
+          "capacity_or_actual": "installed"
+        },
+        {
+          "metric": "옛 예비함병기고 건축면적",
+          "value": 756.05,
+          "unit": "m²",
+          "date": "1902-08 준공, 2021-03 보존계획 기록",
+          "boundary": "기타스이 옛 예비함병기고 1동",
+          "source_id": "CAT-JP-SRC-0172",
+          "locator": "§1-2(2) 및 표 1.3.2",
+          "capacity_or_actual": "installed"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "1939년 물자 처리량·정박·도크·수리 실적과 비교구간이 부족하다.",
+      "source_ids": [
+        "CAT-JP-SRC-0170",
+        "CAT-JP-SRC-0171",
+        "CAT-JP-SRC-0172",
+        "CAT-JP-SRC-0173"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-JP-GEO-0025",
+      "reference_date": "1939-09-01",
+      "territorial_status": "1939-09-01 일본 내지, 일본 정부 실효 지배.",
+      "boundary": "가나가와현 요코스카 군항의 해군공창 선거군. 오파마 항공 시설·민간 항만 별도.",
+      "operator": "일본 해군 요코스카해군공창",
+      "operation": "제1–5호 준공 이력 확인. 제6호는 기준일 공사 중. 1945-08-30 진주.",
+      "metrics": [
+        {
+          "metric": "기준일 이전 준공 이력이 확인된 선거",
+          "value": 5,
+          "unit": "기",
+          "date": "1871–1916 준공, 1939-09-01 이전",
+          "boundary": "제1–5호 번호 선거",
+          "source_id": "CAT-JP-SRC-0174",
+          "locator": "「ドライドック」 표 제1–5호 행",
+          "capacity_or_actual": "installed"
+        },
+        {
+          "metric": "기준일 이후 준공한 제6호 선거",
+          "value": 1,
+          "unit": "기",
+          "date": "1940 준공",
+          "boundary": "제6호 번호 선거",
+          "source_id": "CAT-JP-SRC-0174",
+          "locator": "「ドライドック」 표 제6호 행",
+          "capacity_or_actual": "installed"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "해당일 이용 가능 도크 수·접안·수리·보급량과 비교구간이 부족하다.",
+      "source_ids": [
+        "CAT-JP-SRC-0174",
+        "CAT-JP-SRC-0175",
+        "CAT-JP-SRC-0176"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "access_attempts": [
+    "구레 조선 선거의 공사 변경 명령 C05035232400의 문서 페이지는 HTTP 403, 이미지 주소도 접근 불가였다.",
+    "요코스카 진주 동영상은 쇼와관의 소장 목록을 열람했다. 영상 및 타임코드는 미확인이다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=95 pending=38; sources=993 questions=366. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

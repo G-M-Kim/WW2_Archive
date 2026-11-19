@@ -1,0 +1,3344 @@
+[
+  {
+    "id": "CAT-IT-SRC-0001",
+    "title": "Fallen Eagles: The Italian 10th Army in the Opening Campaign in the Western Desert, June 1940–December 1940",
+    "institution_or_author": "Howard R. Christie / U.S. Army Command and General Staff College",
+    "publication_date": "1999",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제2장 Italian Mechanized Doctrine and Its Development, Circolare 9000",
+    "url": "https://cgsc.contentdm.oclc.org/digital/api/collection/p4013coll2/id/597/download",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 회람 9000과 신속한 결전을 지향한 차량화·기계화 운용 개념."
+    ],
+    "limitations": [
+      "회람은 연구자가 인용한 문헌을 통해 확인했다. 회람 원면은 대조하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "christie-fallen-eagles"
+  },
+  {
+    "id": "CAT-IT-SRC-0002",
+    "title": "The Road to Defeat: The Reorganisation of the Italian Army after the Winter 1940-41",
+    "institution_or_author": "Pier Paolo Battistelli / Nuova Antologia Militare",
+    "publication_date": "2023-11",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 504–505쪽 및 1940년 말 보병연대 증설 논의",
+    "url": "https://www.nam-sism.org/Articoli/Articoli%202023/NAM%2016%20articoli/NAM%20N.%2016.%2016%20BATTISTELLI%20The%20Road%20to%20Defeat.%20Thed%20Reorganisation%20of%20the%20Italian%20Army.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "파리아니의 2개 보병연대 편제, 군단 중심 병참과 포병 축소, 전시 보강 제약."
+    ],
+    "limitations": [
+      "편제 목표와 실제 사단별 인원·장비 가용량은 별개다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "battistelli-italian-reorganisation"
+  },
+  {
+    "id": "CAT-IT-SRC-0003",
+    "title": "Operation COMPASS",
+    "institution_or_author": "The Cove / Australian Army",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "도입부 및 Italian·British mobility와 logistics 단락",
+    "url": "https://cove.army.gov.au/article/operation-compass",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아군의 기계화 운용 제약, 영연방군의 기동·보급과 고립된 방어 거점."
+    ],
+    "limitations": [
+      "영연방군의 시각에서 쓴 작전교육 개관이다. 전체 전역의 전과·포로 수치로 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "cove-operation-compass"
+  },
+  {
+    "id": "CAT-IT-SRC-0004",
+    "title": "‘Bardia or Bust!’",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "방어선과 1941년 1월 3~5일 공격, 소장기록 PR03058·S04342",
+    "url": "https://www.awm.gov.au/articles/blog/battle-of-bardia",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아군의 철조망·콘크리트 거점과 호주군의 돌파, 양측 참가자 자료에 대한 안내."
+    ],
+    "limitations": [
+      "박물관 해설의 본문을 확인했다. 연결된 양측 구술·일기 전문까지 대조한 것은 아니다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "awm-bardia"
+  },
+  {
+    "id": "CAT-IT-SRC-0005",
+    "title": "Indice relazioni conflitto 1940–1945",
+    "institution_or_author": "이탈리아 육군 참모부 역사실",
+    "publication_date": null,
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "Fondo N-1/11; 1160/C/11/2; 목록 항목 216·218",
+    "locator": "Folgore의 이집트 전선 보고 및 1942년 10월 23~24일 Munaqir El Dab’A 전투 보고 항목",
+    "url": "https://www.esercito.difesa.it/storia/Ufficio-Storico-SME/Documents/150312/fondoN-1-11-relazioni-repertorio.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "후기 이탈리아 육군 방어를 검증할 폴고레 관련 보고서의 존재와 목록 표기."
+    ],
+    "limitations": [
+      "보고서 소장목록이다. 폴고레의 화력 배치나 전과를 목록에서 추정하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "italian-army-n1-11-inventory"
+  },
+  {
+    "id": "CAT-IT-SRC-0006",
+    "title": "The Italian Fleet ‘in Efficienza’ (1919–43)",
+    "institution_or_author": "Fabio De Ninno / Naval Institute Press, University of Siena repository",
+    "publication_date": "2025",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "대학 저장소의 공개 초록 및 서지, 수록 본문 188–209쪽",
+    "url": "https://usiena-air.unisi.it/handle/11365/1307535",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "함대를 보존하면서 유리한 조건에 공세를 취하는 전간기 구상, 타란토 이후 변화와 리비아 항로."
+    ],
+    "limitations": [
+      "공개 초록만 대조했다. 수록 본문과 인용 사료를 직접 읽은 것으로 집계하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "deninno-efficienza"
+  },
+  {
+    "id": "CAT-IT-SRC-0007",
+    "title": "The Battle of Cape Matapan",
+    "institution_or_author": "Naval Historical Society of Australia",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "정찰·포르미더블의 공격 및 야간 교전 단락",
+    "url": "https://navyhistory.au/the-battle-of-cape-matapan/",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "항모 항공대의 추적·공격, 영국 측 레이더·야간훈련 및 이탈리아 함대의 구조 접근."
+    ],
+    "limitations": [
+      "사례 해설이다. 마타판 이후 이탈리아 해군이 더는 활동하지 않았다는 식의 서술은 채택하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nhsa-matapan"
+  },
+  {
+    "id": "CAT-IT-SRC-0008",
+    "title": "Navy commemorates 70th anniversary of Battle of Taranto",
+    "institution_or_author": "영국 국방부 / GOV.UK",
+    "publication_date": "2010-11-11",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Operation JUDGEMENT 및 피해 서술",
+    "url": "https://www.gov.uk/government/news/navy-commemorates-70th-anniversary-of-battle-of-taranto",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 11월 타란토에서 함재기가 정박 중 전함들을 공격해 손상시킨 결과."
+    ],
+    "limitations": [
+      "영국 측 기념 해설이다. 이후 전력 회복 및 통상로 통제의 지속기간은 별도 사료가 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "uk-mod-taranto"
+  },
+  {
+    "id": "CAT-IT-SRC-0009",
+    "title": "Royal Australian Navy, 1939–1942",
+    "institution_or_author": "G. Hermon Gill / Australian War Memorial",
+    "publication_date": "1957",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제11장 To the Far East, 인쇄 406–407쪽의 1941년 12월 시르테·알렉산드리아",
+    "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070346/document/5519634.PDF",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북아프리카 수송 중 이탈리아 전함·순양함·구축함 출격, 이탈리아 유인어뢰의 영국 전함 피해."
+    ],
+    "limitations": [
+      "호주 공식 전사의 영연방 측 서술이다. 이탈리아 선단의 화물별 도착률을 확정할 수 없다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "gill-ran-official-history"
+  },
+  {
+    "id": "CAT-IT-SRC-0010",
+    "title": "The History of Italian Naval Doctrine",
+    "institution_or_author": "Luigi Donolo / Naval War College Press",
+    "publication_date": "1995-12",
+    "source_type": "secondary",
+    "document_or_accession_number": "A Doctrine Reader, Newport Paper No. 9",
+    "locator": "인쇄 115–116쪽, 1940년 5월 지침과 Supermarina의 지휘",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D208_200-PURL-gpo58388/pdf/GOVPUB-D208_200-PURL-gpo58388.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "방어 태세와 기회가 있을 때의 교전 지침, 상세 명령을 내리는 Supermarina, 제한된 북아프리카 항만 수용력."
+    ],
+    "limitations": [
+      "전후 교리사다. 1940년 5월 지침 원본과 전투별 하급 지휘관의 실제 재량은 미대조다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "donolo-italian-doctrine"
+  },
+  {
+    "id": "CAT-IT-SRC-0011",
+    "title": "Giulio Douhet and the Doctrine of Air Power in Italy",
+    "institution_or_author": "Basilio Di Martino / Nacelles",
+    "publication_date": "2020-11-01",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Nacelles 9호, 두에·메코치와 1937–1938년 기동훈련 단락",
+    "url": "https://interfas.univ-tlse2.fr/nacelles/?do=_pdfgen_get&document=1038&lang=en",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "두에의 독립 폭격론, 아메데오 메코치의 공격기 운용론, 실제 전력과 운용 구상의 차이."
+    ],
+    "limitations": [
+      "당대 이론을 검토한 후대 연구다. 두에의 저술을 전시 작전명령으로 취급하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "dimartino-douhet"
+  },
+  {
+    "id": "CAT-IT-SRC-0012",
+    "title": "Building an Air Force: The Management and Mismanagement of the Regia Aeronautica, 1923–1940",
+    "institution_or_author": "Jonathan Pieri / University of Pisa repository",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "대학 저장소의 공개 초록",
+    "url": "https://arpi.unipi.it/handle/11568/1301987",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전간기 인력 부족과 1940년 준비에 관한 연구의 결론."
+    ],
+    "limitations": [
+      "공개 초록까지만 대조했다. 항공대별 인력·장비 현황은 별도 검증이 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "pieri-regia-aeronautica"
+  },
+  {
+    "id": "CAT-IT-SRC-0013",
+    "title": "Corpo Aereo Italiano",
+    "institution_or_author": "RAF Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "벨기에 기지, 하리치·딜 출격과 공세 제한",
+    "url": "https://www.rafmuseum.org.uk/our-collection/supporting-research/online-exhibitions/corpo-aero-italiano/",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 항공원정단의 1940년 말 영국 방면 출격과 운용 한계."
+    ],
+    "limitations": [
+      "영국 박물관 해설이다. 양측 전과 주장을 새로 집계하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rafm-cai"
+  },
+  {
+    "id": "CAT-IT-SRC-0014",
+    "title": "Case Studies in the Use of Land-Based Aerial Forces in Maritime Operations, 1939–1990 — The Mediterranean Maritime Air Campaign",
+    "institution_or_author": "William S. Hanable / Air Force History & Museums Program",
+    "publication_date": "1998-09",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1941년 1월 몰타 호송과 5월 크레타 철수 단락",
+    "url": "https://media.defense.gov/2013/Sep/16/2001329865/-1/-1/0/AFD-130916-005.PDF",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 육상기지의 어뢰기 공격, 독일 급강하폭격기와 구분되는 기여."
+    ],
+    "limitations": [
+      "후대의 해상항공 연구다. 연합 공격 전체를 이탈리아 단독 성과로 집계하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "hanable-maritime-air"
+  },
+  {
+    "id": "CAT-IT-SRC-0015",
+    "title": "Historical Timeline: World War II",
+    "institution_or_author": "Aeronautica Militare",
+    "publication_date": "2023-09-07",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1940년 준비와 1943년 휴전 이후 부대 소속 단락",
+    "url": "https://www.aeronautica.difesa.it/2023/09/07/historical-timeline-world-war-ii/",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전쟁 참가 시 가용성 문제와 휴전 뒤 연합군·이탈리아 사회공화국 방면 분열."
+    ],
+    "limitations": [
+      "이탈리아 공군의 기관 연표다. 정확한 가동 대수 산출에는 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ami-wwii-timeline"
+  },
+  {
+    "id": "CAT-IT-SRC-0016",
+    "title": "Military Intelligence: Identification of Foreign Armored Vehicles, German, Japanese, Russian, and Italian",
+    "institution_or_author": "U.S. War Department / Government Publishing Office, GovInfo",
+    "publication_date": "1942-10-03",
+    "source_type": "primary",
+    "document_or_accession_number": "FM 30–42 / GOVPUB-W-PURL-gpo119422",
+    "locator": "인쇄 1쪽 §1, 제V절 인쇄 133–134쪽 CV 3/33–35, 139–140쪽 M.11/39, 141–142쪽 M-13/40",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-W-PURL-gpo119422/pdf/GOVPUB-W-PURL-gpo119422.pdf",
+    "accessed_at": "2026-11-16T23:16:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "차량별 승무원, 무장 종류·배치, 교범의 엔진·속도·중량 기재를 PDF 판독문에서 대조했다."
+    ],
+    "limitations": [
+      "미군 전시 식별 편찬물이다. 차대번호, 중량의 ton 종류, 노면·하중·측정법은 확인되지 않는다.",
+      "CV 3/33–35는 여러 형식을 함께 다룬다. 이 수치를 Series II 실측으로 적용하지 않았다."
+    ],
+    "rights": "공개 GovInfo 복제본이며 표지에 비밀해제 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "US War Department FM 30-42"
+  },
+  {
+    "id": "CAT-IT-SRC-0017",
+    "title": "Preliminary Report No. 18: Italian Tank M 13/40",
+    "institution_or_author": "J. D. Barnes·P. L. Gudgin / School of Tank Technology, Military College of Science",
+    "publication_date": "1943-11 (표지), 1943-10 조사",
+    "source_type": "primary",
+    "document_or_accession_number": "STT/8/5/3 / D.T.D. No. 3012, Project V.7037 / Chassis 01473",
+    "locator": "PDF 1–2쪽 표지·Foreword·General Specification, 인쇄 2쪽 §1",
+    "url": "https://www.military-references.com/wp-content/uploads/books/tanks/italy/m13-40/Preliminary_Report_No_13_Italian_Tank_M_13-40_1943.pdf",
+    "accessed_at": "2026-11-16T23:16:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공개 스캔 표지와 표에서 보고서 번호, 차대번호, 4인 승무원과 무장, 엔진 정격, 인수 중량 및 속도계 표기를 확인했다."
+    ],
+    "limitations": [
+      "보관기관이 아닌 공개 미러다. 파일명은 No. 13이지만 본문 표지는 No. 18이다.",
+      "일부 데이터는 노획 교범에서 왔다. 개별 표본의 형식·개조 여부를 확정할 수 없고 속도계는 주행 계측이 아니다."
+    ],
+    "rights": "원본·디지털 복제본의 개별 재사용 조건 미확인. 사료 링크와 자체 요약만 사용.",
+    "independence_group": "British STT DTD 3012"
+  },
+  {
+    "id": "CAT-IT-SRC-0018",
+    "title": "Tobruk, Libya: members of the AIF with captured Italian M13/40 and M11/39 tanks",
+    "institution_or_author": "James Francis (Frank) Hurley / Australian War Memorial",
+    "publication_date": "1941-01-23",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM 005042 / C198904",
+    "locator": "이미지, Date made, Description",
+    "url": "https://www.awm.gov.au/collection/C198904",
+    "accessed_at": "2026-11-16T23:16:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "저해상도 원사진을 열어 원경과 전경 차량을 비교했고, 소장 설명으로 형식 식별·바르디아 포획·호주군 운용을 확인했다."
+    ],
+    "limitations": [
+      "촬영 장면과 후대 소장 해제를 구분했다. 저해상도 사진만으로 세부 무장 모델·차대번호·포획일·가동 대수를 판독할 수 없다."
+    ],
+    "rights": "호주전쟁기념관의 소장 기록에 저작권 만료·퍼블릭 도메인 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "Hurley Tobruk 005042"
+  },
+  {
+    "id": "CAT-IT-SRC-0019",
+    "title": "Carro Veloce L.3/33 Series II Italian tankette",
+    "institution_or_author": "Ansaldo(제작) / Australian War Memorial(목록 및 해설)",
+    "publication_date": "1934 (차량 제작), 목록 작성일 미상",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "AWM OL00665.001 / C2121188",
+    "locator": "Maker·Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C2121188",
+    "accessed_at": "2026-11-16T23:16:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Series II로 식별된 현존 차량의 2인 구성, 기관총 장착 자리, 엔진 및 전후 도색과 전시 이력의 미확인을 소장 설명에서 확인했다."
+    ],
+    "limitations": [
+      "차량 상태는 박물관 해설로 확인했다. 기관총 현물은 부재하며 8 mm Fiat 14/35라는 상세 식별은 추정이다."
+    ],
+    "rights": "공개 열람본. 자체 요약 및 링크만 사용.",
+    "independence_group": "AWM OL00665.001 curatorial description"
+  },
+  {
+    "id": "CAT-IT-SRC-0020",
+    "title": "Bardia, North Africa. An Italian Fiat-Ansaldo Carro Veloce CV33 tankette",
+    "institution_or_author": "M. B. Rogers / Australian War Memorial",
+    "publication_date": "1941-01 (소장 설명 표기)",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM 100193 / C297842",
+    "locator": "사진, Maker, Description",
+    "url": "https://www.awm.gov.au/collection/100193",
+    "accessed_at": "2026-11-16T23:16:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "원사진과 소장 설명에서 바르디아의 CV33 포획 표기를 확인했다."
+    ],
+    "limitations": [
+      "사진만으로 제작 차수·차대번호와 OL00665.001 소장품의 동일성 등을 확인할 수 없다."
+    ],
+    "rights": "호주전쟁기념관의 소장 기록에 저작권 만료·퍼블릭 도메인 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "Rogers Bardia 100193"
+  },
+  {
+    "id": "CAT-IT-SRC-0021",
+    "title": "Autoblinda Fiat-Ansaldo AB41: Scheda PSTRL",
+    "institution_or_author": "Daniele Mor / Fondazione Luigi Micheletti, SIRBeC Lombardia",
+    "publication_date": "2000 작성, 2007 개정",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "4v020-00028",
+    "locator": "PDF 5쪽 Oggetto·Trazione·Prestazioni·Notizie storico-critiche, 10쪽 Compilazione",
+    "url": "https://www.lombardiabeniculturali.it/scienza-tecnologia/schede-complete/4v020-00028/",
+    "accessed_at": "2026-11-17T00:57:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현존 장갑차의 차종·무장 구성, 4륜 구동·조향 및 완전 적재·평탄 도로의 조건부 주행거리 기재를 확인했다."
+    ],
+    "limitations": [
+      "후대 문화재 목록이다. 현재 비활성 무장을 기록한다. 전시 원시험·주행거리 측정일·조건의 적용 차수는 미확인이다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용. 소장 이미지 또는 본문을 복제하지 않았다.",
+    "independence_group": "SIRBeC Fiat-Ansaldo AB41 object catalog"
+  },
+  {
+    "id": "CAT-IT-SRC-0022",
+    "title": "Jettisoned: Italian Autoblinda AB41 in Libya",
+    "institution_or_author": "James Francis (Frank) Hurley / Australian War Memorial",
+    "publication_date": "1943-01-27 촬영",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM 014272 / C33641",
+    "locator": "원사진, Date made, Place made, Description",
+    "url": "https://www.awm.gov.au/collection/C33641",
+    "accessed_at": "2026-11-17T00:57:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "저해상도 사진 원본의 차륜 장갑차와 소장 해제의 AB41 식별·리비아 촬영 표기를 확인했다."
+    ],
+    "limitations": [
+      "형식명과 퇴각 상황은 소장 해제에 따른다. 사진 1장으로 전역의 출고·손실 대수나 해당 차량의 가동 여부를 정할 수 없다."
+    ],
+    "rights": "호주전쟁기념관은 사진을 저작권 만료·퍼블릭 도메인으로 명시한다. 링크만 사용.",
+    "independence_group": "Hurley Libya 014272 photograph"
+  },
+  {
+    "id": "CAT-IT-SRC-0023",
+    "title": "Recognition Pictorial Manual on Armored Vehicles",
+    "institution_or_author": "U.S. War Department / U.S. Government Printing Office",
+    "publication_date": "1943-11-03",
+    "source_type": "primary",
+    "document_or_accession_number": "FM 30-40 (1943년 11월판)",
+    "locator": "인쇄 103–104쪽 「75-MM SP GUN (ON M14 TANK CHASSIS)」, 제원·사진·SPEED 도판",
+    "url": "https://stephentaylorhistorian.com/wp-content/uploads/2020/02/recognition-pictorial-manual-armored-vehicles.pdf",
+    "accessed_at": "2026-11-17T00:57:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 교범의 M14 차체 분류와 형상, 75 mm 포와 3인 승무원, 도판의 19 mph를 확인했다."
+    ],
+    "limitations": [
+      "전시 식별 교범이다. 속도 시험의 하중·노면을 제시하지 않으며 다른 차대 형식의 수치로 확장할 근거가 없다. 공개 미러를 열람했다."
+    ],
+    "rights": "열람본 표지에 비밀해제 표기가 있다. 자체 요약과 링크만 사용.",
+    "independence_group": "US Army FM 30-40 Nov 1943 recognition manual"
+  },
+  {
+    "id": "CAT-IT-SRC-0024",
+    "title": "Obice da 75/18 Mod. 1934/1935: Scheda PSMRL",
+    "institution_or_author": "Luca Bonetti / Provincia di Sondrio, SIRBeC Lombardia",
+    "publication_date": "2018 목록 작성",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "SO100-00430 / 표기 MATR. 65415",
+    "locator": "PDF 6쪽 Iscrizioni와 Notizie storico-critiche, 8쪽 Compilazione",
+    "url": "https://www.lombardiabeniculturali.it/militaria/schede-complete/SO100-00430/",
+    "accessed_at": "2026-11-17T00:57:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "견인포 소장품의 성격과 별도 자주포 개발 해설에 적힌 시제품 시험·첫 인도·차대 계열을 확인했다."
+    ],
+    "limitations": [
+      "소장품은 견인 곡사포다. 자주포의 개발사는 후대 해설이며 형식별 인수·시험 원장 및 전투 기록은 확보되지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용. 소장 이미지 또는 본문을 복제하지 않았다.",
+    "independence_group": "SIRBeC towed 75-18 catalog historical commentary"
+  },
+  {
+    "id": "CAT-IT-SRC-0025",
+    "title": "Tank crewman leather jacket: Italian Army",
+    "institution_or_author": "Giusti(재킷 제작, 소장 표기) / Australian War Memorial(해설)",
+    "publication_date": "재킷 제작 약 1939–1943, 해설 작성일 미상",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "AWM REL44464 / C1278296",
+    "locator": "History / Summary의 132 Armoured Division 및 M40 Semovente",
+    "url": "https://www.awm.gov.au/collection/C1278296",
+    "accessed_at": "2026-11-17T00:57:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북아프리카의 이탈리아 제132기갑사단과 M40 Semovente를 연결한 소장 해설을 확인했다."
+    ],
+    "limitations": [
+      "재킷 자체의 소장 기록에 포함된 부대사 설명이다. 특정 차량 차대번호·운용 날짜·수치를 입증하지 않는다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용. 소장 이미지 또는 본문을 복제하지 않았다.",
+    "independence_group": "AWM REL44464 curatorial context"
+  },
+  {
+    "id": "CAT-IT-SRC-0026",
+    "title": "Il veicolo ruotato per la fanteria italiana",
+    "institution_or_author": "Fulvio Poli / Rivista Militare (Esercito Italiano)",
+    "publication_date": "2002, 제3호",
+    "source_type": "secondary",
+    "document_or_accession_number": "Rivista Militare 2002 n. 3",
+    "locator": "인쇄 92쪽, 「La seconda guerra mondiale」 Fiat 665 NM 두 문단",
+    "url": "https://www.esercito.difesa.it/assets/allegati/rivista_militare_2002_-_numero_3.2026.05.04.20.52.51.259.pdf",
+    "accessed_at": "2026-11-17T00:57:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 공동 개발, 기본형의 중량·수용·동력·속도·무장 구성, 발칸 운용과 1943-04-30 복무 현황 110대 표기를 확인했다."
+    ],
+    "limitations": [
+      "후대 연구다. 110대의 부대·형식별 원장과 58 km/h의 주행 시험 조건은 미확인이다. 병력 휴대 화기도 서술에 들어 있다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용. 소장 이미지 또는 본문을 복제하지 않았다.",
+    "independence_group": "Poli wheeled Italian infantry vehicles"
+  },
+  {
+    "id": "CAT-IT-SRC-0027",
+    "title": "Rapporti fra industria bellica ed esercito",
+    "institution_or_author": "Lucio Ceva / Commissione Italiana di Storia Militare",
+    "publication_date": "1992",
+    "source_type": "secondary",
+    "document_or_accession_number": "L’Italia in guerra, il secondo anno – 1941, 편집 R. H. Rainero·A. Biagini",
+    "locator": "인쇄 235쪽, FIAT 665 방호형 요청과 1942년 인도 문장",
+    "url": "https://www.difesa.it/assets/allegati/39410/02_convegno1991_italia_in_guerra_secondo_anno1941.pdf",
+    "accessed_at": "2026-11-17T00:57:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 FIAT 665 방호형 요청과 1942년 소량 인도의 서술을 확인했다."
+    ],
+    "limitations": [
+      "요청·인도의 연구자 서술이다. 1943년 당시의 110대 집계나 개별 부대·차량 인도일을 별도 확인해 주지 않는다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용. 소장 이미지 또는 본문을 복제하지 않았다.",
+    "independence_group": "Ceva military industry and army"
+  },
+  {
+    "id": "CAT-IT-SRC-0028",
+    "title": "Italy’s World War II Navy-Major Units (Pictorial Section)",
+    "institution_or_author": "E. H. Clark Jr. / U.S. Naval Institute, Proceedings",
+    "publication_date": "1955-07",
+    "source_type": "secondary",
+    "document_or_accession_number": "Vol. 81/7/629",
+    "locator": "공개 웹 전사본의 Italia (ex-Littorio)·Vittorio Veneto 및 Aquila 사진 해설",
+    "url": "https://www.usni.org/magazines/proceedings/1955/july/italys-world-war-ii-navy-major-units-pictorial-section",
+    "accessed_at": "2026-11-17T02:57:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Littorio·Italia의 동일 선체, 두 전함의 공통 무장·기준배수량·시운전, Aquila의 함재기 계획값을 확인했다."
+    ],
+    "limitations": [
+      "기관이 비보정 OCR로 명시한다. 전함 시운전 조건·톤의 종류와 Aquila 설계판의 상세 출전은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "USNI Clark retrospective text"
+  },
+  {
+    "id": "CAT-IT-SRC-0029",
+    "title": "Fleet Air Arm Success",
+    "institution_or_author": "Winston Churchill / UK House of Commons, Hansard",
+    "publication_date": "1940-11-13",
+    "source_type": "primary",
+    "document_or_accession_number": "HC Deb vol. 365 cc1712–1714",
+    "locator": "1712–1713열, 총리의 타란토 공격 결과 설명",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1940/nov/13/fleet-air-arm-success",
+    "accessed_at": "2026-11-17T02:57:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "11–12일 타란토에서 리토리오급 전함 한 척의 중손상을 보고한 당대 의회 기록을 확인했다."
+    ],
+    "limitations": [
+      "영국 정부의 초기 공개 발표이며 함명을 구별하지 않는다. 수리·복귀와 다른 함정의 피해를 확정하는 자료로 사용하지 않았다."
+    ],
+    "rights": "영국 의회 디지털 기록. 자체 요약 및 링크만 사용.",
+    "independence_group": "UK Commons contemporary Taranto statement"
+  },
+  {
+    "id": "CAT-IT-SRC-0030",
+    "title": "Taranto, Italy. Aerial view showing aftermath of action against the Italian fleet",
+    "institution_or_author": "촬영자 미상 / Australian War Memorial",
+    "publication_date": "1940-11 (소장 설명)",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM P00090.091 / C45139",
+    "locator": "저해상도 원사진, Accession Number 및 Description",
+    "url": "https://www.awm.gov.au/collection/C45139",
+    "accessed_at": "2026-11-17T02:57:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 항공사진과 타란토의 공격 이후를 가리키는 소장 해제를 열었다."
+    ],
+    "limitations": [
+      "흑백 필름 복제 음화다. 소장 설명에 함명·정확한 촬영일이 없다. 사진만으로 당시 피해 정도와 수리 시점을 정하지 않았다."
+    ],
+    "rights": "호주전쟁기념관의 저작권 만료·퍼블릭 도메인 표기. 링크만 사용.",
+    "independence_group": "AWM P00090.091 wartime aerial image"
+  },
+  {
+    "id": "CAT-IT-SRC-0031",
+    "title": "Strategia marittima ed operazioni navali dell’anno 1940",
+    "institution_or_author": "Alberto Santoni / Commissione Italiana di Storia Militare",
+    "publication_date": "1991",
+    "source_type": "secondary",
+    "document_or_accession_number": "L’Italia in guerra, il primo anno – 1940, 편집 R. H. Rainero·A. Biagini",
+    "locator": "인쇄 252쪽, 타란토의 피해 및 1941년 수리 단락, 주 28–29",
+    "url": "https://www.difesa.it/assets/allegati/39412/01_convegno1990_italia_in_guerra_primo_anno1940.pdf",
+    "accessed_at": "2026-11-17T02:57:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 해군사에 근거한 함명 식별과 리토리오의 1941년 3월까지 수리 서술을 본문에서 확인했다."
+    ],
+    "limitations": [
+      "인용된 조선소 원장과 개별 복귀 명령의 원문은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "Santoni Italian naval history"
+  },
+  {
+    "id": "CAT-IT-SRC-0032",
+    "title": "Museo di Bordo: Scirè (Sommergibile costiero)",
+    "institution_or_author": "Scuola Navale Militare Francesco Morosini / Il Vittoriale degli Italiani",
+    "publication_date": "2021 (기념 안내서)",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 14–15쪽, 인도 서술 및 Adua 계열 제원 표",
+    "url": "https://web.vittoriale.it/wp-content/uploads/2021/12/brochure-museo-bordo-a5-2col-rev.-def-VITTORIALE-1.pdf",
+    "accessed_at": "2026-11-17T02:57:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938-04-25 인도, 수상·잠항별 배수량·속력과 아두아 계열을 확인했다."
+    ],
+    "limitations": [
+      "전시용 함정 모형 안내서다. 시험 상태와 개조 전후의 실측치를 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "Vittoriale Museo di Bordo Scire entry"
+  },
+  {
+    "id": "CAT-IT-SRC-0033",
+    "title": "70 anni fa l’affondamento del sommergibile Scirè",
+    "institution_or_author": "Alessandro Busonero / Notiziario della Marina, Marina Militare",
+    "publication_date": "2012-09",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 30–31쪽, 도입부·La storia",
+    "url": "https://www.marina.difesa.it/media-cultura/editoria/notiziario/Documents/2012/09_set/02_avvenimenti.pdf",
+    "accessed_at": "2026-11-17T02:57:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "인도일과 전시 특수임무 운반 역할, 1941년 12월 알렉산드리아 작전 참여 및 1942-08-10 하이파만 침몰을 확인했다."
+    ],
+    "limitations": [
+      "이탈리아 해군 기관지의 기념 기사다. 임무일지나 개조 후의 시험 서류를 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "Marina Militare 2012 Scire anniversary"
+  },
+  {
+    "id": "CAT-IT-SRC-0034",
+    "title": "The last battle of the Italian submarine Scirè, in Haifa Bay, Israel, and the struggle for control of the eastern Mediterranean in world war II",
+    "institution_or_author": "Ehud Galili·Fabio Ruberti·Richard Walding / Archaeologia Maritima Mediterranea, University of Haifa 연구 포털",
+    "publication_date": "2013",
+    "source_type": "secondary",
+    "document_or_accession_number": "Vol. 10, pp. 95–124, Scopus 84902483167",
+    "locator": "대학 연구 포털 공개 초록 첫 문장과 서지",
+    "url": "https://cris.haifa.ac.il/en/publications/the-last-battle-of-the-italian-submarine-scir%C3%A8-in-haifa-bay-israe/",
+    "accessed_at": "2026-11-17T02:57:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942-08-10 영국 위임통치령 팔레스타인 하이파만 침몰의 날짜·지명을 대조했다."
+    ],
+    "limitations": [
+      "공개 초록 범위다. 논문 본문과 그 인용 문서, 전과와 침몰 경위는 이 자료로 독립 검증하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "Galili Ruberti Walding peer reviewed abstract"
+  },
+  {
+    "id": "CAT-IT-SRC-0035",
+    "title": "Dal progetto «Bonfiglietti» alla Legge Navale del 1975",
+    "institution_or_author": "Michele Cosentino / Rivista Marittima, Marina Militare",
+    "publication_date": "2013-12",
+    "source_type": "secondary",
+    "document_or_accession_number": "Supplemento: Centenario Aviazione Navale",
+    "locator": "인쇄 27–28쪽, Aquila 설계·공사·해상 시험 예정 문단과 전시 사진 설명",
+    "url": "https://www.marina.difesa.it/media-cultura/editoria/marivista/Documents/supplementi/Supplemento_Dicembre_2013.pdf",
+    "accessed_at": "2026-11-17T02:57:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "여객선 전환과 1941-11 공사 시작, 계획 배수량·속력·포·함재기 수, 1943-09-08 미완 상태와 시운전 예정 시점을 확인했다."
+    ],
+    "limitations": [
+      "후대 해설이다. 공장 장부나 최종 함재기 편성표를 직접 대조하지 않았다. 설계값을 실전 성능으로 적용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "Cosentino Rivista Marittima carrier project"
+  },
+  {
+    "id": "CAT-IT-SRC-0036",
+    "title": "Aquila (5)",
+    "institution_or_author": "Aldo Fraccaroli(촬영) / Luigi Accorsi 컬렉션, Associazione Venus",
+    "publication_date": "1943-08 (소장 표기)",
+    "source_type": "primary",
+    "document_or_accession_number": "RB 005 / AQUILA (5)",
+    "locator": "원사진과 Anno/data·Luogo·Autore·Note",
+    "url": "https://www.associazione-venus.it/galleriafotografica/index.php/COLLEZIONISTI/COLLEZIONE-ACCORSI/REGIA-MARINA/Navi-di-linea/PORTAEREI/Aquila-2/RB-005-AQUILA-VIII-1943-Aldo-Fraccaroli",
+    "accessed_at": "2026-11-17T02:57:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 8월 제노바의 아퀼라 사진을 열고 촬영자·장소·대상 선체 표기를 확인했다."
+    ],
+    "limitations": [
+      "공사 진행 장면이다. 사진만으로 설치 완료나 탑재기 출격은 알 수 없다. 0035와 촬영자 계통이 겹쳐 독립 촬영으로 세지 않는다."
+    ],
+    "rights": "사진 재사용 조건 미확인. 이미지 재업로드 없이 소장 링크만 사용.",
+    "independence_group": "Fraccaroli Aquila August 1943 photographs"
+  },
+  {
+    "id": "CAT-IT-SRC-0037",
+    "title": "Italian Civil and Military Aircraft 1930–1945",
+    "institution_or_author": "Jonathan W. Thompson / Aero Publishers",
+    "publication_date": "1963",
+    "source_type": "secondary",
+    "document_or_accession_number": "Library of Congress Catalog Card No. 63-17621",
+    "locator": "PDF 표제·판권 페이지와 인쇄 189–191쪽 MC.202, 265–269쪽 SM.79 본문·사진 설명",
+    "url": "https://www.gruppofalchi.com/files/1963-Italian_Civil_and_Military_Aircraft_1930-45.pdf",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "C.202 시제·생산·무장과 속도, S.79 시제·폭격·뇌격형의 구분과 형식별 무장·속도를 확인했다."
+    ],
+    "limitations": [
+      "후대 연구의 공개 스캔이다. 형식 또는 엔진이 다른 기체에 제원을 적용하지 않았다. 원 시험표와 하중, 무장 장착 시기별 생산표는 미확인이다."
+    ],
+    "rights": "판권 페이지에 재생산 제한이 명시돼 있다. 자체 요약과 열람 링크만 사용.",
+    "independence_group": "Thompson 1963 aircraft history"
+  },
+  {
+    "id": "CAT-IT-SRC-0038",
+    "title": "Pantelleria: recuperato in mare un Macchi C.202 della Seconda Guerra Mondiale inabissato nel 1943",
+    "institution_or_author": "Distaccamento Aeroportuale Pantelleria / Aeronautica Militare",
+    "publication_date": "2023-06-29",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「La storia del velivolo Macchi C.202」 및 인양 기사 도입부",
+    "url": "https://www.aeronautica.difesa.it/news/pantelleria-recuperato-in-mare-un-macchi-c-202-della-seconda-guerra-mondiale-inabissato-nel-1943/",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "왕립공군 C.202 생산 기간, 엔진 면허생산, 기본 및 일부 후속 계열의 기관총 구성을 확인했다."
+    ],
+    "limitations": [
+      "전시 사실은 기관의 사후 해설이다. 인양 기체를 별도 형식·엔진 조합으로 적은 부분은 인양품 식별 보고서와 대조할 때까지 일반 C.202 제원에 적용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "Aeronautica Militare Pantelleria recovery and background"
+  },
+  {
+    "id": "CAT-IT-SRC-0039",
+    "title": "Fuka, Egypt. Italian Macchi C.202 fighter plane found wrecked on Fuka airfield",
+    "institution_or_author": "촬영자 미기재 / Australian War Memorial",
+    "publication_date": "1942-11-13 (소장 해제)",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM 025280 / C9045",
+    "locator": "공개 원사진과 Accession Number·Description",
+    "url": "https://www.awm.gov.au/collection/C9045",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이집트 푸카의 파손 기체 사진과 1942-11-13 C.202로 식별한 소장 해제를 확인했다."
+    ],
+    "limitations": [
+      "정확한 생산 계열, 무장 상태, 파손 원인과 해당 기체의 시험 조건은 증명하지 않는다."
+    ],
+    "rights": "호주전쟁기념관의 저작권 만료·퍼블릭 도메인 표기를 확인했다. 소장 링크만 사용.",
+    "independence_group": "AWM 025280 wartime Fuka photo"
+  },
+  {
+    "id": "CAT-IT-SRC-0040",
+    "title": "La seconda guerra mondiale: piloti di aerosiluranti",
+    "institution_or_author": "Lorenzo Gardumi·Federica Lavagna(전시 기획) / Museo Caproni·Fondazione Museo storico del Trentino",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "전시 해설의 첫 두 단락",
+    "url": "https://mostre.museocaproni.it/sala/sottosezione/seconda-guerra-mondiale-aerosiluranti/",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "민수 개념, 중형 폭격 및 지중해 뇌격 역할을 확인했다."
+    ],
+    "limitations": [
+      "출격별 기체 형식, 수량, 어뢰 탑재와 전과는 검증하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "Museo Caproni virtual exhibition Oggi si vola"
+  },
+  {
+    "id": "CAT-IT-SRC-0041",
+    "title": "North Africa. British personnel inspecting a captured Italian Air Force Savoia Marchetti SM 79 bomber aircraft",
+    "institution_or_author": "B. Craike / Australian War Memorial, Naval Historical Collection",
+    "publication_date": "1940 (소장 해제)",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM 306709 / C261255",
+    "locator": "공개 원사진과 Accession Number·Maker·Description",
+    "url": "https://www.awm.gov.au/collection/C261255",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 북아프리카의 노획 S.79 폭격기와 영국 인원 사진 및 소장 해제를 확인했다."
+    ],
+    "limitations": [
+      "정확한 날짜·장소, 하위 형식, 촬영 시 실제 무장 탑재 상태가 명시되지 않는다."
+    ],
+    "rights": "호주전쟁기념관의 저작권 만료·퍼블릭 도메인 표기를 확인했다. 소장 링크만 사용.",
+    "independence_group": "AWM 306709 wartime North Africa photo"
+  },
+  {
+    "id": "CAT-IT-SRC-0042",
+    "title": "SIAI S.82",
+    "institution_or_author": "Aeronautica Militare",
+    "publication_date": "2026-06-11 (웹 공개 경로)",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "본문 첫 두 단락과 「Dati Tecnici」",
+    "url": "https://www.aeronautica.difesa.it/2026/06/11/siai-s-82/",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "수송용 화물칸, 1940년 운용 개시 표기, RC18 엔진, 날개폭·최대이륙중량·최대속도를 확인했다."
+    ],
+    "limitations": [
+      "현대의 기관 해설이다. 최대속도·항속거리 조건 및 전시 생산 계열을 특정하지 않는다. 주문 수량은 인수·가동 수량으로 인용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "Aeronautica Militare historical aircraft catalogue"
+  },
+  {
+    "id": "CAT-IT-SRC-0043",
+    "title": "Italian SM-82",
+    "institution_or_author": "Military Intelligence Division / U.S. War Department",
+    "publication_date": "1943-10-07",
+    "source_type": "primary",
+    "document_or_accession_number": "Tactical and Technical Trends No. 35",
+    "locator": "PDF 표지와 Section I 「1. Italian SM-82」 인쇄 1쪽",
+    "url": "https://www.bulletpicker.com/pdf/Tactical-and-Technical-Trends-35.pdf",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "RC 21 엔진 표기, 고도별 속도, 방어무장 구경·수량, 분해 CR.42 운반 가능성을 적은 당대 미군 보고서를 확인했다."
+    ],
+    "limitations": [
+      "연합군 전시 정보 판단이다. 시험 원본이나 이탈리아 제작사 문서가 없고 해당 기체의 일련번호·하중은 적혀 있지 않다. 실제 노선별 수송량은 확인할 수 없다."
+    ],
+    "rights": "미 전쟁부 보고서의 공개 스캔. 자체 요약과 해당 문서 링크만 사용.",
+    "independence_group": "US War Department contemporary Technical Trends report No 35"
+  },
+  {
+    "id": "CAT-IT-SRC-0044",
+    "title": "La seconda guerra mondiale: piloti e aerei da trasporto",
+    "institution_or_author": "Lorenzo Gardumi·Federica Lavagna(전시 기획) / Museo Caproni·Fondazione Museo storico del Trentino",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "전시 해설의 첫 두 단락",
+    "url": "https://mostre.museocaproni.it/sala/sottosezione/seconda-guerra-mondiale-trasporto/",
+    "accessed_at": "2026-11-17T04:59:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940~1941년 그리스·알바니아 전선 공수 지원, 동아프리카의 분해 CR.42 수송을 확인했다."
+    ],
+    "limitations": [
+      "항공대별 원 출항기록과 화물 명부가 제시되지 않는다. 미군 보고서와는 운반 가능 기종이 일치하며 지역별 수송 대수에 대한 독립 집계는 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "Museo Caproni virtual exhibition Oggi si vola"
+  },
+  {
+    "id": "CAT-IT-SRC-0045",
+    "title": "Carcano Model 91 Rifle",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "REL/02158 / C235828",
+    "locator": "Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C235828",
+    "accessed_at": "2026-11-17T06:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1917년으로 분류된 M91 장총의 실물 목록과 제2차 세계대전에도 같은 형식이 지급됐다는 해제를 확인했다."
+    ],
+    "limitations": [
+      "해제는 후대 서술이다. 이 유물의 1939~1945년 부대 이력과 수량은 확인하지 못했다."
+    ],
+    "rights": "공개 소장 해제. 자체 요약과 링크만 사용했으며 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "AWM REL/02158 object"
+  },
+  {
+    "id": "CAT-IT-SRC-0046",
+    "title": "Arms of the First World War — Carcano Modello 1891 Rifle",
+    "institution_or_author": "Royal Armouries",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Italy → Carcano Modello 1891 Rifle → Development·Statistics",
+    "url": "https://royalarmouries.org/objects-and-stories/stories/arms-of-the-first-world-war",
+    "accessed_at": "2026-11-17T06:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "M91 장총의 제식 연도·구경·전장·중량을 확인했다."
+    ],
+    "limitations": [
+      "제1차대전 전시 해설로, 길이와 무게는 장총 기준이다. 제2차대전형 카빈·다른 형식의 수치와 지급량을 뒷받침하지 않는다."
+    ],
+    "rights": "공개 소장 해제. 자체 요약과 링크만 사용했으며 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Royal Armouries Carcano exhibit"
+  },
+  {
+    "id": "CAT-IT-SRC-0047",
+    "title": "Road to Matruh — Italian Carcano rifles, Breda and Fiat machine guns",
+    "institution_or_author": "James Francis (Frank) Hurley / Australian War Memorial",
+    "publication_date": "1940-12-15",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM 004432 / C26345",
+    "locator": "원사진·Date made·Place made·Description",
+    "url": "https://www.awm.gov.au/collection/C26345",
+    "accessed_at": "2026-11-17T06:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이집트 메르사마트루 지역의 노획 무기 사진과 카르카노 소총·브레다 및 피아트 기관총으로 식별한 해제를 확인했다."
+    ],
+    "limitations": [
+      "사진과 해제에서 개별 하위 형식과 이탈리아 측 원소속·정확한 전체 노획 수량은 판정할 수 없다."
+    ],
+    "rights": "소장기관의 저작권 만료·퍼블릭 도메인 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "Hurley wartime photograph AWM 004432"
+  },
+  {
+    "id": "CAT-IT-SRC-0048",
+    "title": "Breda Model 30 Light Machine Gun",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "RELAWM20173 / C137747",
+    "locator": "Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C137747",
+    "accessed_at": "2026-11-17T06:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년제 브레다 Mod.30의 분류와 모델 각인, 1941년 1월 리비아 데르나에서 호주군이 노획했다는 개체 이력을 확인했다."
+    ],
+    "limitations": [
+      "전시 원소속·가동 상태·인수시험 원자료가 생략돼 있다. 노획 이력은 박물관 해제에 따른다."
+    ],
+    "rights": "공개 소장 해제. 자체 요약과 링크만 사용했으며 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "AWM RELAWM20173 object"
+  },
+  {
+    "id": "CAT-IT-SRC-0049",
+    "title": "Fucile mitragliatore — Breda Mod.30",
+    "institution_or_author": "Museo della Repubblica di Montefiorino e della Resistenza italiana / PatER, Regione Emilia-Romagna",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "_0000534 / n. 091 / matricola 68750",
+    "locator": "Misure에 해당하는 치수·구경 항목, 설명 및 Altre informazioni의 각인",
+    "url": "https://bbcc.regione.emilia-romagna.it/dettaglio-oa/?s_id=227368",
+    "accessed_at": "2026-11-17T06:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "별도 소장품의 Breda Roma 각인, Mod.30 분류, 6.5 × 52 mm 구경과 전장 120 cm를 확인했다."
+    ],
+    "limitations": [
+      "소장품 설명에 인용된 사후 문헌과 제원도 섞여 있다. 이 개체의 전시 부대, 시험 조건과 성능 원표는 확인하지 못했다."
+    ],
+    "rights": "공개 소장 해제. 자체 요약과 링크만 사용했으며 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "PatER Museo Montefiorino specimen 68750"
+  },
+  {
+    "id": "CAT-IT-SRC-0050",
+    "title": "Italian M33 steel helmet : Driver W A Evans, Australian Army",
+    "institution_or_author": "S Maggiani & Co. / Australian War Memorial",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "REL34875 / C1147868",
+    "locator": "소장품 사진·Maker·Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C1147868",
+    "accessed_at": "2026-11-17T06:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아제 M33 철모의 강철·가죽 구성, 내피의 1939년 표기 및 북아프리카 수집 이력을 확인했다."
+    ],
+    "limitations": [
+      "1939년 표기는 내피에 있으며, 최초 착용자·배속 부대·수집일과 방호 시험은 확인할 수 없다."
+    ],
+    "rights": "공개 소장 해제. 자체 요약과 링크만 사용했으며 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Evans North Africa collection AWM"
+  },
+  {
+    "id": "CAT-IT-SRC-0051",
+    "title": "Italian gas mask and canister : Driver W A Evans, Australian Army",
+    "institution_or_author": "Sacic / Australian War Memorial",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "REL34876 / C1154124",
+    "locator": "Maker·Place made·Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C1154124",
+    "accessed_at": "2026-11-17T06:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 T.35로 분류된 벨기에제 개체와 여과통의 월·연도 표기 및 북아프리카 수집 이력을 확인했다."
+    ],
+    "limitations": [
+      "M33과 수집자가 동일하다. 보급 계약·지급 규모·물자의 정확한 회수 일자와 실제 착용에 대한 증거는 확인하지 못했다."
+    ],
+    "rights": "공개 소장 해제. 자체 요약과 링크만 사용했으며 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Evans North Africa collection AWM"
+  },
+  {
+    "id": "CAT-IT-SRC-0052",
+    "title": "The Owls and the Gufo. Birth of Italian Radar",
+    "institution_or_author": "Gaspare Galati / Springer International Publishing",
+    "publication_date": "2016 (판권 연도)",
+    "source_type": "secondary",
+    "document_or_accession_number": "DOI 10.1007/978-3-319-00584-3_2",
+    "locator": "§2.3, 인쇄 38–42·46–48쪽, 표 2.1 및 그림 2.19·2.24·2.25·2.32",
+    "url": "https://ndl.ethernet.edu.et/bitstream/123456789/75574/1/519.pdf",
+    "accessed_at": "2026-11-17T08:54:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "E.C.3-bis 시험 장착과 E.C.3-ter 함정별 장착, 사진 해설 및 집계 범위를 확인했다."
+    ],
+    "limitations": [
+      "표는 선행 연구를 재구성한다. 사진 일자와 장비 판독은 그림 해설에 따랐으며 함별 수락·가동 일지와 시험 원본은 미확인이다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 사용했다. 사진과 문서 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Galati radar history and cited ship photographs"
+  },
+  {
+    "id": "CAT-IT-SRC-0053",
+    "title": "Trasmittente Fivre tipo M-213, pentola del Carrara",
+    "institution_or_author": "FIVRE(제조) / Museo Nazionale Scienza e Tecnologia Leonardo da Vinci(소장 및 목록)",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "IGB-10220 / IT-MUST-NTR001-020217 / M-213 n. 361/30",
+    "locator": "1944 circa·inventario·autori·descrizione·definizione",
+    "url": "https://collezioni-online.museoscienza.org/detail/IT-MUST-NTR001-020217/trasmittente-fivre-tipo-m-213-pentola-del-carrara",
+    "accessed_at": "2026-11-17T08:54:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "약 1944년의 이탈리아 항공 레이더용 FIVRE 송신부로 분류한 장비와 소장 번호를 확인했다."
+    ],
+    "limitations": [
+      "송신부의 목록이다. 완성 시스템의 형식명·비행시험·장착·실전 배치는 확인할 수 없다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 사용했다. 사진과 문서 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "MUST IGB-10220 inventoried transmitter"
+  },
+  {
+    "id": "CAT-IT-SRC-0054",
+    "title": "Molto rumore per nulla. La vera storia delle macchine cifranti Hagelin italiane, 1940–1943",
+    "institution_or_author": "Enrico Cernuschi / Rivista Marittima, Marina Militare",
+    "publication_date": "2020-06",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 74–76쪽 제목·소장 사진 설명, 81쪽 「… e la C 38」, 82쪽 USMM 주문 전보 영인·캡션",
+    "url": "https://www.marina.difesa.it/media-cultura/editoria/marivista/Documents/2020/Rivista_Marittima_Giugno_2020.pdf",
+    "accessed_at": "2026-11-17T08:54:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 1월 해군 C38m 도입과 행정 통신 중심 설명, 공군 C35와의 구분, 초기 주문 전보 영인 위치를 확인했다."
+    ],
+    "limitations": [
+      "인용된 Birch 자료와 전보의 문서번호·전문을 직접 대조하지 못했다. 논쟁적인 해독량은 인용하지 않았다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 사용했다. 사진과 문서 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Cernuschi Italian naval archival interpretation"
+  },
+  {
+    "id": "CAT-IT-SRC-0055",
+    "title": "At Bletchley Park",
+    "institution_or_author": "William T. Tutte / University of Waterloo 공개 사본",
+    "publication_date": "2000-08-16",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 2–3쪽, §I 말미에서 §II 시작 부분",
+    "url": "https://uwaterloo.ca/combinatorics-and-optimization/sites/default/files/uploads/documents/at_bletchley_park_pdf_0.pdf",
+    "accessed_at": "2026-11-17T08:54:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 연구부서에서 스웨덴제 하겔린으로 암호화된 이탈리아 해군 통신을 연구했다는 전시 근무자의 회고를 확인했다."
+    ],
+    "limitations": [
+      "전후 회고다. 해당 단락에 정확한 기종 접미사와 이탈리아 측 도입·지급일이 없다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 사용했다. 사진과 문서 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Tutte firsthand retrospective testimony"
+  },
+  {
+    "id": "CAT-IT-SRC-0056",
+    "title": "William Thomas 'Bill' Tutte OC FRS FRSC",
+    "institution_or_author": "Government Communications Headquarters (GCHQ)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Research Section 근무와 이탈리아 해군 C38m을 언급하는 단락",
+    "url": "https://www.gchq.gov.uk/person/bill-tutte",
+    "accessed_at": "2026-11-17T08:54:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 기관 해설이 이탈리아 해군의 기종을 C38m으로 명시함을 확인했다."
+    ],
+    "limitations": [
+      "Tutte의 회고와 관련 있는 기관 서술이다. 별개의 영국 관측으로 계산하지 않았으며 구체적인 도입월의 근거로 쓰지 않았다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 사용했다. 사진과 문서 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "GCHQ retrospective Tutte account"
+  },
+  {
+    "id": "CAT-IT-SRC-0057",
+    "title": "MESSE, Giovanni",
+    "institution_or_author": "Giorgio Memmo / Istituto della Enciclopedia Italiana (Treccani)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "항목 본문, 1940년 그리스·1941년 CSIR·1943년 튀니지 단락",
+    "url": "https://www.treccani.it/enciclopedia/giovanni-messe_(Enciclopedia-Italiana)/",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "그리스 전역과 소련 원정군 지휘, 튀니지 제1군 및 1943년 5월 13일 포로가 된 이력을 확인했다."
+    ],
+    "limitations": [
+      "약전은 정식 발령·인수 시각이나 전장별 세부 명령을 수록하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Treccani Memmo biographical entry"
+  },
+  {
+    "id": "CAT-IT-SRC-0058",
+    "title": "Formal Surrender of Marshal Messe [Allocated Title]",
+    "institution_or_author": "Imperial War Museums Film Archive",
+    "publication_date": "1943-05-13 (필름 제작일)",
+    "source_type": "primary",
+    "document_or_accession_number": "AYY 439/1 / IWM Film 10998",
+    "locator": "Summary·Description·Production Date·Technical Details",
+    "url": "https://film.iwmcollections.org.uk/record/10998",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "엔피다빌의 제10군단 사령부에서 이탈리아 제1군 지휘관과 독일 제164경아프리카사단 지휘관이 프레이버그에게 항복한 것으로 기록된 필름 목록을 확인했다."
+    ],
+    "limitations": [
+      "필름의 소장 해제만 확인했다. 재생·장면별 타임코드 및 서명 문서 원본은 검증하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "IWM wartime film AYY 439/1 catalogue"
+  },
+  {
+    "id": "CAT-IT-SRC-0059",
+    "title": "General Freyberg accepts Italian surrender",
+    "institution_or_author": "Alexander Turnbull Library(소장) / Manatū Taonga, New Zealand Ministry for Culture and Heritage(공개)",
+    "publication_date": "1943-05 (사진), 2013-07-15 (웹 해제 갱신)",
+    "source_type": "primary",
+    "document_or_accession_number": "PAColl-5547-042",
+    "locator": "공개 원사진 및 첫 설명·Reference",
+    "url": "https://nzhistory.govt.nz/media/photo/general-freyberg-accepts-italian-surrender",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "메세와 프레이버그가 항복 뒤 대화하는 튀니지의 전시 사진과 소장 번호를 확인했다."
+    ],
+    "limitations": [
+      "사진 해제는 월까지만 특정하며 항복 문서 전문·서명 시각을 보여주지 않는다."
+    ],
+    "rights": "사진 재사용은 Alexander Turnbull Library 허가가 필요하다. 자체 요약과 원문 링크만 사용했다.",
+    "independence_group": "NZ wartime still PAColl-5547-042"
+  },
+  {
+    "id": "CAT-IT-SRC-0060",
+    "title": "BERGAMINI Carlo — Medaglia d’oro al valor militare",
+    "institution_or_author": "Presidenza della Repubblica Italiana / Quirinale",
+    "publication_date": "1943-12-20 (포상 수여일)",
+    "source_type": "primary",
+    "document_or_accession_number": "Quirinale insigniti 12267",
+    "locator": "Data del conferimento·motivazione 및 사건 일자·장소",
+    "url": "https://www.quirinale.it/onorificenze/insigniti/12267",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "왕립해군 전투함대 총지휘관 베르가미니가 1943년 9월 9일 아시나라 해역에서 기함과 함께 사망했다는 당대 포상 문구를 확인했다."
+    ],
+    "limitations": [
+      "기념·포상문은 명령 전달의 상세 시각과 선상 직책을 모두 기재하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Italian wartime award citation Bergamini"
+  },
+  {
+    "id": "CAT-IT-SRC-0061",
+    "title": "La partecipazione della Marina alla Guerra di Liberazione",
+    "institution_or_author": "Giuliano Manzari / Ufficio Storico della Marina Militare",
+    "publication_date": "2015-03",
+    "source_type": "secondary",
+    "document_or_accession_number": "Bollettino d’Archivio, marzo 2015",
+    "locator": "인쇄 16–17쪽 출항 명령, 24–25쪽 로마 침몰 단락 및 주 18–19",
+    "url": "https://www.marina.difesa.it/media-cultura/editoria/bollettino/Documents/2015/70_anniversario.pdf",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "휴전 발표 직후 베르가미니의 출항 명령과 독일군 공격 당시 로마의 함장 아도네 델 치마 및 베르가미니의 사망을 확인했다."
+    ],
+    "limitations": [
+      "해군사 연구의 서술이다. 당시 명령 수신본과 당직 일지는 원문 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Manzari Italian naval historical office narrative"
+  },
+  {
+    "id": "CAT-IT-SRC-0062",
+    "title": "Ricompense al valor militare — Medaglia d’Argento (BUSCAGLIA Carlo Emanuele)",
+    "institution_or_author": "Ministero dell’Aeronautica / Gazzetta Ufficiale del Regno d’Italia",
+    "publication_date": "1942-04-09",
+    "source_type": "primary",
+    "document_or_accession_number": "N. 84 / R. decreto 18 aprile 1941 / registro n. 25, foglio n. 111",
+    "locator": "인쇄 1394쪽 MINISTERO DELL’AERONAUTICA, BUSCAGLIA 항목",
+    "url": "https://www.gazzettaufficiale.it/eli/gu/1942/04/09/84/sg/pdf",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 왕립공군 조종사·뇌격기 승무원 지휘관으로 1940년 8월 15일~9월 17일 동지중해 전투에 참여했다고 적은 포상 원문을 확인했다."
+    ],
+    "limitations": [
+      "당시 포상 문구는 개별 출격 보고서와 대조하지 못했으며 전과 집계의 독립 증거로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Italian wartime gazette No. 84"
+  },
+  {
+    "id": "CAT-IT-SRC-0063",
+    "title": "Carlo Emanuele Buscaglia",
+    "institution_or_author": "Museo Caproni / Fondazione Museo storico del Trentino",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "전시 본문의 S.79 훈련·부대·포로·1944년 사고 문단",
+    "url": "https://mostre.museocaproni.it/sala/pilota/buscaglia-carlo-emanuele/",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "S.79 훈련, 제278·281비행대, 제132뇌격비행단 지휘, 1942년 11월 포로 및 연합국 공동교전 공군 복귀 서술을 확인했다."
+    ],
+    "limitations": [
+      "사망일을 1944년 8월 23일로 적어 협회 기록과 다르다. 격침 톤수는 출격별 상대측 기록과 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Museo Caproni Oggi si vola pilot exhibit"
+  },
+  {
+    "id": "CAT-IT-SRC-0064",
+    "title": "BUSCAGLIA Carlo Emanuele",
+    "institution_or_author": "Associazione Nazionale Combattenti Guerra di Liberazione inquadrati nei Reparti Regolari delle Forze Armate",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "본문의 제132뇌격비행단 및 캄포 베수비오·나폴리 병원 단락",
+    "url": "https://www.combattentiliberazione.it/movm-dal-1935-al-7-sett-1943/buscaglia-carlo-emanuele",
+    "accessed_at": "2026-11-17T10:55:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "포로에서 복귀 뒤 제28그룹 지휘와 1944년 8월 24일 나폴리 군병원 사망 서술을 확인했다."
+    ],
+    "limitations": [
+      "의무기록이나 사고 원문이 제공되지 않는다. 전시 포상 기록과 내용이 일부 겹친다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 원문 링크만 사용했다. 이미지와 문서의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Italian liberation veterans association biographical entry"
+  },
+  {
+    "id": "CAT-IT-SRC-0065",
+    "title": "The Ambassador in Italy (Phillips) to the Secretary of State",
+    "institution_or_author": "William Phillips / U.S. Department of State",
+    "publication_date": "1940-06-01",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1940, vol. II, doc. 831; telegram 445",
+    "locator": "본문 첫 단락 및 독일 동맹 관련 문단",
+    "url": "https://history.state.gov/historicaldocuments/frus1940v02/d831",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "치아노가 무솔리니의 참전 결정과 대독 동맹에 관한 답변을 구두 전달했다는 미국 대사의 보고를 확인했다."
+    ],
+    "limitations": [
+      "보고는 전달받은 구두 답변에 근거한다. 이탈리아 내부 회의록이 아니다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "William Phillips / U.S. Department of State"
+  },
+  {
+    "id": "CAT-IT-SRC-0066",
+    "title": "The Italian Ambassador (Colonna) to the Secretary of State",
+    "institution_or_author": "Ascanio Colonna / U.S. Department of State",
+    "publication_date": "1940-06-11",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1940, vol. II, doc. 835; N. 4901; 740.0011 European War 1939/3710",
+    "locator": "공한 본문, 인쇄 716–717쪽",
+    "url": "https://history.state.gov/historicaldocuments/frus1940v02/d835",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "치아노의 6월 10일 대불·대영 통고와 프랑스에 통고한 발효 시점을 확인했다."
+    ],
+    "limitations": [
+      "이탈리아 대사가 미국에 전한 공한이다. 교전 개시 시각·각국의 현지 반응은 별도 자료가 필요하다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "Ascanio Colonna / U.S. Department of State"
+  },
+  {
+    "id": "CAT-IT-SRC-0067",
+    "title": "Legge 5 gennaio 1939, n. 274 — Conversione in legge del Regio decreto-legge n. 1728",
+    "institution_or_author": "Regno d’Italia / Normattiva",
+    "publication_date": "1939-01-05 (법률), 1939-02-27 (관보)",
+    "source_type": "primary",
+    "document_or_accession_number": "Legge n. 274; 039U0274",
+    "locator": "본조 및 Vittorio Emanuele·Mussolini·Ciano 서명 표기",
+    "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=039U0274&atto.dataPubblicazioneGazzetta=1939-02-27&qId=&tipoDettaglio=originario",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 인종차별 긴급 칙령을 법률로 전환한 본문 및 국왕·무솔리니·치아노의 명의 표기를 확인했다."
+    ],
+    "limitations": [
+      "전환법이다. 개인별 입안 과정이나 지역별 집행은 이 문서만으로 확인할 수 없다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "Regno d’Italia / Normattiva"
+  },
+  {
+    "id": "CAT-IT-SRC-0068",
+    "title": "Italy",
+    "institution_or_author": "United States Holocaust Memorial Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1938년 반유대 법제 단락, The Fall of Mussolini and the Italian Surrender 및 독일 점령 단락",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/italy",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "파시스트 독재와 반유대 법제, 무솔리니 체포·정권 교체·독일 점령과 이탈리아 사회공화국 성립을 확인했다."
+    ],
+    "limitations": [
+      "이탈리아 전체를 다룬 기관 해설이다. 개별 체포·추방 명령의 결재자는 여기서 확정할 수 없다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "USHMM Italy retrospective"
+  },
+  {
+    "id": "CAT-IT-SRC-0069",
+    "title": "President Roosevelt to the British Prime Minister (Churchill)",
+    "institution_or_author": "Franklin D. Roosevelt / U.S. Department of State",
+    "publication_date": "1943-07-26",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1943, Europe, vol. II, doc. 298; telegram 324",
+    "locator": "본문 로마 소식 및 편집자 주 3",
+    "url": "https://history.state.gov/historicaldocuments/frus1943v02/d298",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "루스벨트가 로마의 정권 교체 소식에 대응한 기록을 열었다. 편집자 주 3은 7월 25일 국왕의 발표와 바돌리오 임명을 명시한다."
+    ],
+    "limitations": [
+      "7월 25일 인사에 관한 상세 서술은 편집 주석에 해당한다. 이탈리아 임명장 사본은 아니다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "Roosevelt correspondence and FRUS editor"
+  },
+  {
+    "id": "CAT-IT-SRC-0070",
+    "title": "Regio decreto-legge 2 agosto 1943, n. 705 — Scioglimento della Camera dei fasci e delle corporazioni",
+    "institution_or_author": "Regno d’Italia / Gazzetta Ufficiale",
+    "publication_date": "1943-08-02 (제정), 1943-08-05 (관보·발효)",
+    "source_type": "primary",
+    "document_or_accession_number": "R.D.L. n. 705; GU n. 180; 043U0705",
+    "locator": "본문 제30대 회기 종료·의회 해산과 말미의 서명",
+    "url": "https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.codiceRedazionale=043U0705&atto.dataPubblicazioneGazzetta=1943-08-05&tipoSerie=serie_generale&tipoVigenza=originario",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "파시스트·협동조합 의회 해산의 법적 조치 및 국왕과 바돌리오 이름을 확인했다."
+    ],
+    "limitations": [
+      "도입 당시 법문이다. 새 대의원 선거 조항과 실제 선거 시행을 구분했다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "Regno d’Italia / Gazzetta Ufficiale"
+  },
+  {
+    "id": "CAT-IT-SRC-0071",
+    "title": "The President’s Personal Representative in North Africa (Murphy) to the President",
+    "institution_or_author": "Robert Murphy / U.S. Department of State",
+    "publication_date": "1943-09-08",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS, Conferences at Washington and Quebec, 1943, doc. 616",
+    "locator": "인쇄 1280–1282쪽, 9월 3일 승인 및 서명 단락",
+    "url": "https://history.state.gov/historicaldocuments/frus1943/d616",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "바돌리오 정부의 서명권 승인 및 카스텔라노·스미스의 휴전 서명을 기록한 참여자 보고를 확인했다."
+    ],
+    "limitations": [
+      "연합군 측 보고다. 바티칸에 전달한 이탈리아의 위임장 원문을 열지 못했다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "Robert Murphy / U.S. Department of State"
+  },
+  {
+    "id": "CAT-IT-SRC-0072",
+    "title": "Press Release Issued by the White House, October 13, 1943",
+    "institution_or_author": "미국·영국·소련 정부 / U.S. Department of State",
+    "publication_date": "1943-10-13",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1943, Europe, vol. II, doc. 357",
+    "locator": "인쇄 387–388쪽, 대독 선전포고 및 공동교전 지위 선언",
+    "url": "https://history.state.gov/historicaldocuments/frus1943v02/d357",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "왕국 정부의 대독 선전포고에 관한 3국 정부의 공동교전 인정 성명을 확인했다."
+    ],
+    "limitations": [
+      "공개 성명이다. 마드리드 외교 경로의 선전포고 수령증이나 군사 집행 기록은 포함하지 않는다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "미국·영국·소련 정부 / U.S. Department of State"
+  },
+  {
+    "id": "CAT-IT-SRC-0073",
+    "title": "Announcement and text of the German-Italian-Japanese Three Power Pact",
+    "institution_or_author": "독일 외무부 공고 / Harvard Law School Library, Nuremberg Trials Project",
+    "publication_date": "1940-09-27 (조약), 1940-11-28 (독일 관보 게재)",
+    "source_type": "primary",
+    "document_or_accession_number": "HLSL 450946; IMT PS-2643 (USA-149); Reichsgesetzblatt II, n. 41, p. 279",
+    "locator": "문서 메타데이터, 조약 말미 서명란",
+    "url": "https://nuremberg.law.harvard.edu/documents/1159-announcement-and-text-of-the-german-italian-japanese?mode=text",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "베를린 삼국동맹 조약의 날짜와 이탈리아 쪽 치아노 서명 표기를 확인했다."
+    ],
+    "limitations": [
+      "독일 관보 공고가 뉘른베르크 증거로 편집·번역된 형태다. 조약 협상 기록이나 자필본은 확인하지 않았다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "독일 외무부 공고 / Harvard Law School Library, Nuremberg Trials Project"
+  },
+  {
+    "id": "CAT-IT-SRC-0074",
+    "title": "Uffici del Capo provvisorio dello Stato",
+    "institution_or_author": "Archivio storico della Presidenza della Repubblica Italiana",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "CPF-001-000596",
+    "locator": "역사 소개 첫 단락, 1944년 6월 5일 칙령 제140호",
+    "url": "https://archivio.quirinale.it/aspr/soggetti-produttori/CPF-001-000596/uffici-del-capo-provvisorio-dello-stato",
+    "accessed_at": "2026-11-17T12:53:07+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "국왕의 움베르토 왕국 대리 임명일과 칙령 번호 및 로마 해방 후 보노미 정부 출범을 확인했다."
+    ],
+    "limitations": [
+      "기록 생산기관의 해설이다. 제140호 원문과 임명 당시의 왕실 내부 문서는 이 자료에 포함되지 않는다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약 및 원문 링크만 사용했으며 전문·사진의 재사용은 별도 확인이 필요하다.",
+    "independence_group": "Archivio storico della Presidenza della Repubblica Italiana"
+  },
+  {
+    "id": "CAT-IT-SRC-0075",
+    "title": "TIBERIO, Ugo",
+    "institution_or_author": "Marco Gemignani / Dizionario Biografico degli Italiani, Treccani",
+    "publication_date": "2019",
+    "source_type": "secondary",
+    "document_or_accession_number": "vol. 95",
+    "locator": "리보르노 RIEC 및 1941년 왕립해군사관학교·EC3-ter 연구 단락",
+    "url": "https://www.treccani.it/enciclopedia/ugo-tiberio_(Dizionario-Biografico)/",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 왕립해군 기술장교의 RIEC 연구, 1941년 전기공학 교수직 및 협력진과 구포 개발을 확인했다."
+    ],
+    "limitations": [
+      "전기 자료다. 시제품 실험일과 함정별 운용이나 구성원별 업무를 원연구 일지에서 확인하지는 못했다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Marco Gemignani / Dizionario Biografico degli Italiani, Treccani"
+  },
+  {
+    "id": "CAT-IT-SRC-0076",
+    "title": "Bibliografia di Ugo Tiberio",
+    "institution_or_author": "Università di Pisa, Sistema Bibliotecario di Ateneo",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "첫 쪽 Bibliografia degli scritti, 1939·1941 항목",
+    "url": "https://www.sba.unipi.it/sites/default/files/persona_archivio/bibliografia_di_ugo_tiberio.pdf",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 전파 측거 저술과 1941년 전파 탐지 장비 연구문헌의 제목·연도 기재를 확인했다."
+    ],
+    "limitations": [
+      "서지 목록에 해당한다. 열람한 범위는 제목·연도이며 각 저술 전문은 미확보이다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Università di Pisa, Sistema Bibliotecario di Ateneo"
+  },
+  {
+    "id": "CAT-IT-SRC-0077",
+    "title": "Carrara Nello",
+    "institution_or_author": "SIUSA / Ministero della Cultura",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "생산자 레코드 Chiave 509",
+    "locator": "Biografia, RIEC 연구·티베리오와의 협력·브린디시 이전 단락",
+    "url": "https://siusa-archivi.cultura.gov.it/cgi-bin/pagina.pl?Chiave=509&TipoPag=prodpersona",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "왕립해군사관학교 물리학 교육, 티베리오와의 전파탐지 선행 연구, 1944년 브린디시 교육 활동을 확인했다."
+    ],
+    "limitations": [
+      "기록 생산자의 약력이다. 장치 단위 담당표나 제작사 도면·시험 대장을 제공하지 않는다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "SIUSA / Ministero della Cultura"
+  },
+  {
+    "id": "CAT-IT-SRC-0078",
+    "title": "CASTOLDI, Mario",
+    "institution_or_author": "Mario Gaudiano / Dizionario Biografico degli Italiani, Treccani",
+    "publication_date": "1979",
+    "source_type": "secondary",
+    "document_or_accession_number": "vol. 22",
+    "locator": "마키 기술책임자 재임 단락 및 MC.200~MC.206 목록",
+    "url": "https://www.treccani.it/enciclopedia/mario-castoldi_(Dizionario-Biografico)/",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "마키의 전시 기술책임자와 MC.202·MC.205 설계 귀속 및 MC.206 시제품 상태를 확인했다."
+    ],
+    "limitations": [
+      "톰프슨 연구서를 참고문헌에 포함한다. 두 자료를 항공기 성능의 독립 확증으로 계산하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Mario Gaudiano / Dizionario Biografico degli Italiani, Treccani"
+  },
+  {
+    "id": "CAT-IT-SRC-0079",
+    "title": "Aeroplano Macchi MC. 205 Veltro",
+    "institution_or_author": "Museo Nazionale Scienza e Tecnologia Leonardo da Vinci",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "IGB-7560 / IT-MUST-NTR001-001310",
+    "locator": "1943 표기·inventario·autori·descrizione",
+    "url": "https://collezioni-online.museoscienza.org/detail/IT-MUST-NTR001-001310/aeroplano-macchi-mc-205-veltro",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "실물 소장 기록에서 카스톨디를 설계자로 적고 MC.202에서 발전한 기종으로 설명함을 확인했다."
+    ],
+    "limitations": [
+      "설계자 표기는 현대 소장 해제의 귀속이다. 개별 설계 변경과 전시 인도일은 다른 당대 문서 확인이 필요하다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Museo Nazionale Scienza e Tecnologia Leonardo da Vinci"
+  },
+  {
+    "id": "CAT-IT-SRC-0080",
+    "title": "Gabrielli, Giuseppe, ingegnere, docente (1903–1987)",
+    "institution_or_author": "Politecnico di Torino, Collezioni Storiche",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "인물 레코드 5973",
+    "locator": "Fiat 입사·항공 기술부서 및 G.55·G.12 단락",
+    "url": "https://collezionistoriche.polito.it/it/entita/5973-Giuseppe%20Gabrielli",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "피아트 항공 설계자로서의 경력과 1942년 G.55·전시 G.12 설계 관련 설명을 확인했다."
+    ],
+    "limitations": [
+      "대학의 소장 인물 해제다. 항공기 간 성능 순위나 초도비행의 날짜를 확정하지 않는다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Politecnico di Torino, Collezioni Storiche"
+  },
+  {
+    "id": "CAT-IT-SRC-0081",
+    "title": "GABRIELLI, Giuseppe",
+    "institution_or_author": "Enzo Pozzato / Dizionario Biografico degli Italiani, Treccani",
+    "publication_date": "1998",
+    "source_type": "secondary",
+    "document_or_accession_number": "vol. 51",
+    "locator": "G 12T·G 55 기종별 개발 단락",
+    "url": "https://www.treccani.it/enciclopedia/giuseppe-gabrielli_(Dizionario-Biografico)/",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 G.12T 수송기 개발과 G.55의 초도비행을 1942년 4월 20일로 기록한 대목을 확인했다."
+    ],
+    "limitations": [
+      "톰프슨의 4월 30일과 상충한다. 초도비행 일지와 대조하지 않았으며 기재된 엔진 수치도 인용하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Enzo Pozzato / Dizionario Biografico degli Italiani, Treccani"
+  },
+  {
+    "id": "CAT-IT-SRC-0082",
+    "title": "Fiat G.12",
+    "institution_or_author": "Aeronautica Militare",
+    "publication_date": "2023-10-10 (웹 경로)",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "기종 소개 첫 단락",
+    "url": "https://www.aeronautica.difesa.it/2023/10/10/fiat-g-12-2/",
+    "accessed_at": "2026-11-17T14:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "G.12 계열을 금속제 삼발 수송기로 분류하는 공군 해설을 확인했다."
+    ],
+    "limitations": [
+      "개별 하위형의 전시 최초 비행·생산량·수송 실적을 확정하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 요약과 링크만 사용했으며 전문·이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Aeronautica Militare"
+  },
+  {
+    "id": "CAT-IT-SRC-0083",
+    "title": "10 GIUGNO ANNO XVIII [Main Title]",
+    "institution_or_author": "Istituto Nazionale Luce / Imperial War Museums",
+    "publication_date": "1940-06-10",
+    "source_type": "primary",
+    "document_or_accession_number": "COI 574",
+    "locator": "Description, Physical Characteristics, Technical Details",
+    "url": "https://film.iwmcollections.org.uk/record/18093",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "로마 발코니 현장 및 각 도시 군중을 편집한 당대 루체 필름의 목록을 확인했다. 흑백 유성, 35㎜ 1릴 909피트, 목록상 10분이다."
+    ],
+    "limitations": [
+      "IWM 소장본은 미디지털화. 필름 재생·연설 타임코드 미확인."
+    ],
+    "rights": "IWM 목록에 © IWM (COI 574) 표기. 원본 및 복제 사용은 기관 조건 확인.",
+    "independence_group": "Istituto Luce 1940 필름"
+  },
+  {
+    "id": "CAT-IT-SRC-0084",
+    "title": "La dichiarazione di guerra",
+    "institution_or_author": "Archivio Storico Istituto Luce",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "연설 발췌문과 공개본 링크, Un cortometraggio del 2014",
+    "url": "https://www.archivioluce.com/10-giugno-1940-litalia-e-in-guerra/",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 6월 10일 로마 베네치아 광장에서 행한 참여 발표와 영·프 대사에게 선언 전달을 언급한 발췌문을 확인했다. 2014년 단편은 별도다."
+    ],
+    "limitations": [
+      "삽입 재생 주소는 요청 제한, 시청 주소도 가져오기 오류였다. 공개본과 IWM 판본의 동일성 미확인."
+    ],
+    "rights": "공개 해제·링크만 사용. 영화·음성 재사용 조건 별도.",
+    "independence_group": "Istituto Luce 1940 필름"
+  },
+  {
+    "id": "CAT-IT-SRC-0085",
+    "title": "La dichiarazione di guerra a colori",
+    "institution_or_author": "Archivio Storico Istituto Luce",
+    "publication_date": "2020-06-10",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "디지털 복원 프로젝트와 첫 1분 30초 공개 단락",
+    "url": "https://www.archivioluce.com/la-dichiarazione-di-guerra-a-colori/",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "루체가 원필름을 디지털 복원·채색했고, 8분이라고 소개한 영상에서 1분 30초의 발췌를 공개한 사실을 확인했다."
+    ],
+    "limitations": [
+      "공지와 영상 링크를 열었다. 실제 재생과 IWM 10분 판본 대조는 하지 못했다."
+    ],
+    "rights": "채색 복원판은 별도 제작물. 공개 링크만 사용.",
+    "independence_group": "Istituto Luce 1940 필름"
+  },
+  {
+    "id": "CAT-IT-SRC-0086",
+    "title": "Armistice with Italy and their declaration of war with Germany — Circular No. 88",
+    "institution_or_author": "Secretary of State for the Colonies / Falkland Islands National Archives",
+    "publication_date": "1943-09-08",
+    "source_type": "primary",
+    "document_or_accession_number": "WARW2H/8#6, telegram No. 240, Circular No. 88",
+    "locator": "PDF 6쪽, 1943-09-08 영국 식민부 전보의 바돌리오 전달문",
+    "url": "https://nationalarchives.gov.fk/jdownloads/Defence%20and%20War/WWII%20-%20General/WAR-W2H-8-6.%20Armistice%20with%20Italy%20and%20their%20declaration%20of%20war%20with%20Germany.pdf#page=6",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 전보 원문에서 바돌리오 포고의 영어 전달문을 열고 영미군 상대 적대행위 중지와 다른 공격에 대한 대응을 확인했다."
+    ],
+    "limitations": [
+      "영어 전달문이다. 최초 방송 시각, 이탈리아어 원음이나 화면을 증명하지 않는다."
+    ],
+    "rights": "공개 기록관 디지털 사본. 링크·자체 요약만 사용.",
+    "independence_group": "British Colonial Office Circular No. 88"
+  },
+  {
+    "id": "CAT-IT-SRC-0087",
+    "title": "Una radio allo sbando : l'8 settembre 1943 ai microfoni dell'Eiar",
+    "institution_or_author": "Gianni Isola / Mélanges de l’École française de Rome. Italie et Méditerranée",
+    "publication_date": "1996",
+    "source_type": "secondary",
+    "document_or_accession_number": "108(1), pp. 137–145, DOI 10.3406/mefr.1996.4427",
+    "locator": "138쪽, Via Asiago 및 포고문 전사 단락",
+    "url": "https://www.persee.fr/doc/mefr_1123-9891_1996_num_108_1_4427?pageId=T1_138",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "로마 비아 아시아고 방송국, 송출 직전 녹음이라는 저자 설명과 이탈리아어 포고문을 대조했다."
+    ],
+    "limitations": [
+      "방송국 원녹음과 운행표는 직접 확인하지 않았다."
+    ],
+    "rights": "Persée 공개 열람. 링크·자체 요약만 사용.",
+    "independence_group": "Gianni Isola"
+  },
+  {
+    "id": "CAT-IT-SRC-0088",
+    "title": "Sicily and the Surrender of Italy",
+    "institution_or_author": "Albert N. Garland and Howard McGaw Smyth / U.S. Army Center of Military History",
+    "publication_date": "1963",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 6-2",
+    "locator": "제27장, 513쪽, 특히 주 5",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/6-2.pdf",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "바돌리오 낭독 시각 19:45, 방송국의 녹음·재방송 설명과 동시대 외국 방송 감청 일보를 인용한 각주를 확인했다."
+    ],
+    "limitations": [
+      "인용한 감청 일보 원본은 미열람. 최초 송출과 녹음 순서를 방송 원장으로 확정하지 못했다."
+    ],
+    "rights": "미 육군 공개 전사 PDF. 링크·자체 요약만 사용.",
+    "independence_group": "U.S. Army official history"
+  },
+  {
+    "id": "CAT-IT-SRC-0089",
+    "title": "8 settembre 1943 - Badoglio annuncia la resa",
+    "institution_or_author": "Rai TG1, Gianni Bisiach / Archivio storico della Presidenza della Repubblica",
+    "publication_date": "2012-09-07",
+    "source_type": "secondary",
+    "document_or_accession_number": "AV-002-000305",
+    "locator": "DURATA, DATA DI TRASMISSIONE, 내용 해제",
+    "url": "https://archivio.quirinale.it/aspr/gianni-bisiach/AV-002-000305/8-settembre-1943-badoglio-annuncia-resa",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "후대 다큐멘터리 길이 1분 49초와 바돌리오 육성 사용이라는 해제를 확인했다."
+    ],
+    "limitations": [
+      "구간 재생, 원반 계보, 육성 길이, 영상의 정지화면 사용 및 1943년 직접 촬영 여부는 미확인."
+    ],
+    "rights": "포털은 문서에 CC BY-NC를 표시한다. 수록 Rai 영상·원음의 재사용은 별도 권리 확인.",
+    "independence_group": "Rai TG1 Un minuto di storia"
+  },
+  {
+    "id": "CAT-IT-SRC-0090",
+    "title": "Le giornate milanesi del Duce",
+    "institution_or_author": "Istituto Luce / Archivio storico Istituto Luce",
+    "publication_date": "1944-12-27",
+    "source_type": "primary",
+    "document_or_accession_number": "Giornale Luce C0418, C041801, IL5000021164",
+    "locator": "data, durata, sonoro, sequenze",
+    "url": "https://patrimonio.archivioluce.com/luce-web/detail/IL5000021164/2/giornate-milanesi-del-duce.html?startPage=0",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 흑백 유성 뉴스릴 9분 27초의 장면 목록에서 극장 연설, 청취자, 자료화면, 별도 장소 발언을 확인했다."
+    ],
+    "limitations": [
+      "내장 미디어 요청 제한과 시청 주소 접근 오류로 본편 타임코드·음성 동기·연설 전체 수록은 미확인."
+    ],
+    "rights": "루체 공개 목록 및 재생 링크. 재업로드나 재사용 허가 여부는 별도.",
+    "independence_group": "Istituto Luce 1944 뉴스릴"
+  },
+  {
+    "id": "CAT-IT-SRC-0091",
+    "title": "16 dicembre 1944 - Mussolini discorso al Lirico",
+    "institution_or_author": "Rai TG1, Gianni Bisiach / Archivio storico della Presidenza della Repubblica",
+    "publication_date": "2001-12-14",
+    "source_type": "secondary",
+    "document_or_accession_number": "AV-002-001199",
+    "locator": "내용 해제, 아날로그 매체, DATA DI TRASMISSIONE",
+    "url": "https://archivio.quirinale.it/aspr/gianni-bisiach/AV-002-001199/16-dicembre-1944-mussolini-discorso-al-lirico",
+    "accessed_at": "2026-11-17T17:04:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 12월 16일 밀라노 리리코 극장 연설과 발언 일부를 소개한다. 2001년 방송물의 보존 매체는 미디지털화 BETA SP다."
+    ],
+    "limitations": [
+      "목록 해제만 확인. 후대 편집물의 원소재가 C041801과 독립 촬영인지 미확인."
+    ],
+    "rights": "포털 문서의 권리 표기와 Rai 영상 권리는 별도. 링크·자체 요약만 사용.",
+    "independence_group": "Rai TG1 Un minuto di storia"
+  },
+  {
+    "id": "CAT-IT-SRC-0092",
+    "title": "Profili aziendali — Fiat",
+    "institution_or_author": "Claudio Rabaglino / Direzione generale Archivi",
+    "publication_date": "2013 (권호)",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 392쪽, 전시 생산 및 미라피오리 단락",
+    "url": "https://dgagaeta.cultura.gov.it/public/uploads/documents/Archivi%20Italiani/602d4170cff31.pdf",
+    "accessed_at": "2026-11-17T18:55:27+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미라피오리의 트럭·자동차 및 항공기 기계 부품 생산과 2교대 22,000명 설계치를 확인했다."
+    ],
+    "limitations": [
+      "공장별 당대 고용 및 군 인수 대장을 직접 확인하지 못했다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Direzione generale Archivi 기업사"
+  },
+  {
+    "id": "CAT-IT-SRC-0093",
+    "title": "L’Italia Libera — edizione piemontese, novembre 1943",
+    "institution_or_author": "Partito d’Azione / Stampa clandestina 디지털 아카이브",
+    "publication_date": "1943-11",
+    "source_type": "primary",
+    "document_or_accession_number": "피에몬테판 1943년 11월호",
+    "locator": "본문 11월 16일 Fiat 파업 및 미라피오리 노사대표단 단락",
+    "url": "https://www.stampaclandestina.it/wp-content/uploads/numeri/L_ItaliaLibera_ed_piemontese_11-43.pdf",
+    "accessed_at": "2026-11-17T18:55:27+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미라피오리와 링고토의 작업 중단 및 미라피오리 직원과 노동자 대표단을 확인했다."
+    ],
+    "limitations": [
+      "저항운동 신문 관점이며 참여 인원·손실 생산량의 공장 집계가 아니다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Partito d’Azione 당대 발행물"
+  },
+  {
+    "id": "CAT-IT-SRC-0094",
+    "title": "Littorio (R.N.) - Varo",
+    "institution_or_author": "Fondazione Ansaldo, Raccolta Lombardi",
+    "publication_date": "1937-08-22 (진수 행사)",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "LOM.000003",
+    "locator": "Raccolta Lombardi, LOM.000003 앨범 해제",
+    "url": "https://archivio.fondazioneansaldo.it/s/1/item-set/25572",
+    "accessed_at": "2026-11-17T18:55:27+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "리토리오의 안살도 세스트리 포넨테 조선소 건조 및 1937년 8월 22일 진수의 소장처 목록을 확인했다."
+    ],
+    "limitations": [
+      "개별 앨범 디지털 상세 주소는 시간 초과. 사진 프레임과 전시 인수 증서는 미열람이다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Fondazione Ansaldo Raccolta Lombardi"
+  },
+  {
+    "id": "CAT-IT-SRC-0095",
+    "title": "Primo maggio 1944 — Comando Presidio G.N.R. Sampierdarena, rapporto n. 1/10",
+    "institution_or_author": "Guardia Nazionale Repubblicana / Archivio di Stato di Genova",
+    "publication_date": "1944-05-01",
+    "source_type": "primary",
+    "document_or_accession_number": "AS GE, Prefettura di Genova, Gabinetto 1943–1945, b.35, fasc.13, prot. 1/10",
+    "locator": "전시 코너의 1944년 5월 1일 삼피에르다레나 GNR 보고서 전사",
+    "url": "https://archiviodistatogenova.cultura.gov.it/valorizzazione-mostre-ed-eventi/servizi-educativi/attivita-culturali/mostre-virtuali/primo-maggio-percorso-tra-le-fonti-sul-lavoro/primo-maggio-1944-1",
+    "accessed_at": "2026-11-17T18:55:27+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전기기술·전차·기계 사업장이 따로 열거되며 여러 사업장의 작업 중단 참가자 합계를 8,750명으로 보고한 것을 확인했다."
+    ],
+    "limitations": [
+      "국가기록관 전사를 읽었다. 스캔 이미지 주소는 시간 초과다. 치안기관 추계이며 업체별 인원은 아니다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "제노바 GNR 당대 보고서"
+  },
+  {
+    "id": "CAT-IT-SRC-0096",
+    "title": "Fabbriche e Resistenza",
+    "institution_or_author": "Istituto ligure per la storia della Resistenza e dell’età contemporanea (ILSREC)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1944년 6월 10일 운용 제한과 6월 16일 강제 이송 단락",
+    "url": "https://www.ilsrec.it/fabbriche-e-resistenza/",
+    "accessed_at": "2026-11-17T18:55:27+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "세스트리 안살도 조선소 등 여러 사업장에서 독일 당국과 RSI 병력이 노동자를 체포한 뒤 독일 강제노동으로 보낸 기록을 확인했다."
+    ],
+    "limitations": [
+      "여러 사업장 합계 약 1,500명이라는 기관 서술이며 개별 업체 인원이나 경영진 관여를 확정하지 않는다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "ILSREC 지역 저항운동 연구"
+  },
+  {
+    "id": "CAT-IT-SRC-0097",
+    "title": "Magneti Marelli (società) - Piluscio Gaetano",
+    "institution_or_author": "Fondazione ISEC",
+    "publication_date": null,
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "기록군 6261",
+    "locator": "Storia istituzionale/Biografia, 공장 A·B·C·N 설명",
+    "url": "https://archivio.fondazioneisec.it/oggetti/6261-magneti-marelli-societa-piluscio-gaetano",
+    "accessed_at": "2026-11-17T18:55:27+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 크레셴차고 N의 차량 전장품, A의 라디오, B의 전지, C의 케이블·절연재 공장별 역할을 확인했다."
+    ],
+    "limitations": [
+      "기록군 수록 연대는 1945–1995. 전시 부분은 후대 기관 연혁이며 군 납품 증서가 아니다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Fondazione ISEC"
+  },
+  {
+    "id": "CAT-IT-SRC-0098",
+    "title": "Fabbrica Italiana Magneti Marelli",
+    "institution_or_author": "Istituto Nazionale di Astrofisica (INAF), Polvere di stelle",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "법인명, 창립 및 RadioMarelli·FIVRE 관련 소개",
+    "url": "https://www.beniculturali.inaf.it/opac/autori/fabbrica-italiana-magneti-marelli",
+    "accessed_at": "2026-11-17T18:55:27+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "F.I.M.M.을 피아트·에르콜레 마렐리 공동 출자 회사로 소개하고 라디오·진공관 계열 진출을 설명한다."
+    ],
+    "limitations": [
+      "전시 회사 등기·주주명부, RadioMarelli와 FIVRE의 당시 지분·납품 구조는 미확인이다."
+    ],
+    "rights": "INAF 사이트에 CC BY-NC-SA 4.0 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "INAF 역사 해제"
+  },
+  {
+    "id": "CAT-IT-SRC-0099",
+    "title": "Inviti ai vari. Ricordi e tradizioni tra orgoglio e speranza",
+    "institution_or_author": "Rivista Marittima / Marina Militare",
+    "publication_date": "2021-05",
+    "source_type": "secondary",
+    "document_or_accession_number": "Rivista Marittima, maggio 2021",
+    "locator": "58쪽, 리토리오 진수 사진 캡션",
+    "url": "https://www.marina.difesa.it/media-cultura/editoria/marivista/Documents/2021/maggio_2021.pdf",
+    "accessed_at": "2026-11-17T18:55:27+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "사진 캡션이 리토리오의 세스트리 포넨테 안살도 조선소 진수와 1937년 8월 22일을 명시한다."
+    ],
+    "limitations": [
+      "사진이 Ansaldo 제공으로 표시돼 해당 사진은 안살도 앨범과 독립 증거로 세지 않았다. 준공·인수는 확인 범위 밖이다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Fondazione Ansaldo Raccolta Lombardi"
+  },
+  {
+    "id": "CAT-IT-SRC-0100",
+    "title": "Annuario statistico italiano 1940",
+    "institution_or_author": "Istituto Centrale di Statistica del Regno d’Italia",
+    "publication_date": "1940 (연감 표제연도)",
+    "source_type": "primary",
+    "document_or_accession_number": "ISTAT 디지털본 RAV0040597ASI1940",
+    "locator": "제II장 표 A·B 및 각주, 제VIII장 표 A.1·C.2와 각주",
+    "url": "https://lipari.istat.it/digibib/Annuario%20Statistico%20Italiano/RAV0040597ASI1940.pdf",
+    "accessed_at": "2026-11-17T20:59:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 본토 총조사 상주·현주 및 특수 집계, 1939년 본토 잠정치의 리비아 포함 범위, 1936년 리비아·사하라·에게해와 1939년 동아프리카 추계를 확인했다."
+    ],
+    "limitations": [
+      "당대 행정 단위와 지역별 민족·법적 분류다. 조사 원장과 식민 행정 범위 안의 누락은 미확인이다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 링크만 사용했다.",
+    "independence_group": "왕국 통계기관"
+  },
+  {
+    "id": "CAT-IT-SRC-0101",
+    "title": "Popolazione e movimento anagrafico dei comuni, anno 1993",
+    "institution_or_author": "Istituto Nazionale di Statistica (ISTAT)",
+    "publication_date": "1995",
+    "source_type": "secondary",
+    "document_or_accession_number": "Annuario n. 6, edizione 1995 / IST0005035",
+    "locator": "표 2.1 연말열, 1939–1947년 및 각주 (a)·(e)",
+    "url": "https://ebiblio.istat.it/digibib/Demografia/Movimentostatocivile/IST0005035Pop_mov_ana_com_1993.pdf",
+    "accessed_at": "2026-11-17T20:59:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연말 상주 인구를 당시 국경·편찬 당시 국경별로 대조했다. 단위는 천 명이고 1947년 행에서 양도 영토 인구를 제외한다."
+    ],
+    "limitations": [
+      "총조사와 인구동태 통계에 기초한 역산이다. 1939년 9월 1일 및 전쟁 종결 당일의 실측, 피란민·군인 포착률은 확인하지 못했다."
+    ],
+    "rights": "출처 표시 조건으로 이용을 허용한다는 권두 표기. 자체 요약과 링크만 사용했다.",
+    "independence_group": "ISTAT 후대 재구성"
+  },
+  {
+    "id": "CAT-IT-SRC-0102",
+    "title": "Censimenti storici",
+    "institution_or_author": "Istituto Nazionale di Statistica (ISTAT)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Censimento Popolazione, 1881년 정의·1936/1941/1951년 설명",
+    "url": "https://www.istat.it/statistiche-per-temi/censimenti/censimenti-storici/",
+    "accessed_at": "2026-11-17T20:59:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일시 부재자 포함 상주 인구 정의 및 전쟁 때문에 1941년 총조사가 열리지 않았다는 설명을 확인했다."
+    ],
+    "limitations": [
+      "기관의 통사 해제이며 개별 전시 추계값은 제공하지 않는다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 링크만 사용했다.",
+    "independence_group": "ISTAT 역사 해제"
+  },
+  {
+    "id": "CAT-IT-SRC-0103",
+    "title": "I censimenti nei domini coloniali come fonte per la storia sociale",
+    "institution_or_author": "Gian Luca Podestà / ISTAT·Società Italiana di Demografia Storica",
+    "publication_date": "2012",
+    "source_type": "secondary",
+    "document_or_accession_number": "Annali di statistica, anno 141, serie XII, vol. 2, ISBN 978-88-458-1716-8",
+    "locator": "§3.1, 표 1–2, 269쪽 표 5",
+    "url": "https://www.istat.it/it/files/2011/01/I_Censimenti_nellItalia_unita.pdf",
+    "accessed_at": "2026-11-17T20:59:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동아프리카 조사 완료 불확실성과 1940–41년 리비아 연감에서 재수록한 1939년 총계 893,774명 및 분류를 확인했다."
+    ],
+    "limitations": [
+      "정확한 리비아 조사일·분류 기준 및 트리폴리 발행 당대 연감 자체는 미확인이다."
+    ],
+    "rights": "출처 표시·비상업적 재현 허용이라는 권두 표기. 자체 요약과 링크만 사용했다.",
+    "independence_group": "Podestà가 인용한 식민지 연감"
+  },
+  {
+    "id": "CAT-IT-SRC-0104",
+    "title": "Libia",
+    "institution_or_author": "Ettore Rossi / Treccani, Enciclopedia Italiana",
+    "publication_date": "1949",
+    "source_type": "secondary",
+    "document_or_accession_number": "II Appendice",
+    "locator": "Politica e amministrazione, Dati sulla popolazione, Durante la guerra",
+    "url": "https://www.treccani.it/enciclopedia/libia_res-3aab3a42-87e6-11dc-8e9d-0016357eee51_(Enciclopedia-Italiana)/",
+    "accessed_at": "2026-11-17T20:59:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 6월 30일 리비아 약 918,000명과 전시 피란, 영국·프랑스 군정 및 4개 주 편입의 설명을 확인했다."
+    ],
+    "limitations": [
+      "기초 집계 문서가 특정되지 않았다. 1939년 다른 수치와의 집계일·경계·독립성은 미확인이다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 링크만 사용했다.",
+    "independence_group": "Rossi 종전 직후 서술"
+  },
+  {
+    "id": "CAT-IT-SRC-0105",
+    "title": "R.D. 14 aprile 1939, n. 1390 — Aggiornamento delle norme per l’applicazione in Libia delle disposizioni sulla disciplina di guerra",
+    "institution_or_author": "Regno d’Italia / Gazzetta Ufficiale",
+    "publication_date": "1939-09-28",
+    "source_type": "primary",
+    "document_or_accession_number": "Gazzetta Ufficiale n. 227, Regio decreto n. 1390",
+    "locator": "왕령 제1390호 전문과 제1조, 왕령법 1939-01-09 제70호 인용",
+    "url": "https://www.gazzettaufficiale.it/eli/gu/1939/09/28/227/sg/pdf",
+    "accessed_at": "2026-11-17T20:59:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "리비아 4개 주의 왕국 영토 편입과 특별 시민권에 관한 당시 법령 인용을 확인했다."
+    ],
+    "limitations": [
+      "제70호 본문이 아니라 후속 왕령에 인용된 제70호의 요지다. 인구 수치의 자료로 사용하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 링크만 사용했다.",
+    "independence_group": "왕국 관보"
+  },
+  {
+    "id": "CAT-IT-SRC-0106",
+    "title": "Annuario statistico italiano 1957",
+    "institution_or_author": "Istituto Centrale di Statistica",
+    "publication_date": "1957",
+    "source_type": "secondary",
+    "document_or_accession_number": "ISTAT 디지털본 RAV0040597ASI1957",
+    "locator": "제2장 표 18, 1936년 당시 국경·편찬 당시 국경 열",
+    "url": "https://ebiblio.istat.it/digibib/Annuario%20Statistico%20Italiano/RAV0040597ASI1957.pdf",
+    "accessed_at": "2026-11-17T20:59:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 상주 인구와 1936년 당시 국경 현주 열의 42,918,726을 대조했다."
+    ],
+    "limitations": [
+      "같은 1936년 조사 계통의 재수록이므로 독립 확증이 아니다. 1940년 연감은 이 현주 값을 부재자 포함 특수 집계로 설명한다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 링크만 사용했다.",
+    "independence_group": "왕국 1936년 조사 통계의 후대 재수록"
+  },
+  {
+    "id": "CAT-IT-SRC-0107",
+    "title": "Armistice with Italy; September 3, 1943",
+    "institution_or_author": "미국 국무부 조약집 / Yale Law School Avalon Project",
+    "publication_date": "1943-09-03",
+    "source_type": "primary",
+    "document_or_accession_number": "61 Stat. 2740, TIAS 1604",
+    "locator": "문서 표제 아래 FAIRFIELD CAMP / SICILY와 서명부",
+    "url": "https://avalon.law.yale.edu/wwii/italy01.asp",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "휴전 문서가 서명지를 Fairfield Camp, Sicily로 적었음을 확인했다."
+    ],
+    "limitations": [
+      "전사본이다. 캠프의 정확한 경계나 지적 위치는 기재하지 않는다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "미국 국무부 조약집 / Yale Law School Avalon Project"
+  },
+  {
+    "id": "CAT-IT-SRC-0108",
+    "title": "Giuseppe Raeli il mostro di Cassibile",
+    "institution_or_author": "Pasquale Salemme / Polizia Penitenziaria SGS Rivista On line",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "첫 3단락의 카시빌레 위치 및 휴전 설명",
+    "url": "https://www.poliziapenitenziaria.it/giuseppe-raeli-il-mostro-di-cassibile/amp/",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "카시빌레를 오늘날 시라쿠사 시 소속으로 설명하고 휴전과 연결한다."
+    ],
+    "limitations": [
+      "현대 지역 설명만 썼다. 서명지의 지적 경계, 당대 행정 경계·협정 효력 발생일의 근거로 사용하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "Pasquale Salemme / Polizia Penitenziaria SGS Rivista On line"
+  },
+  {
+    "id": "CAT-IT-SRC-0109",
+    "title": "Mr. Alexander C. Kirk to the Secretary of State, June 16, 1945",
+    "institution_or_author": "Alexander C. Kirk / U.S. Department of State, Office of the Historian",
+    "publication_date": "1945-06-16",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1945, Europe IV, 문서 1107, 전보 2643",
+    "locator": "협정안 제2·6·12항과 편집자 각주 2",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v04/d1107",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "협정안이 1939년 이탈리아의 행정구획 피우메(카르나로)·폴라(이스트리아)를 명시하고 폴라 주변 연합군 점령을 별도로 규정함을 확인했다."
+    ],
+    "limitations": [
+      "6월 16일 전보에 실린 협정안이다. 각주가 6월 20일 서명을 확인하나 부속 지도는 이 페이지에 없다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "Alexander C. Kirk / U.S. Department of State, Office of the Historian"
+  },
+  {
+    "id": "CAT-IT-SRC-0110",
+    "title": "Agreement for the Provisional Administration of Venezia Giulia; June 9, 1945",
+    "institution_or_author": "미국·영국·유고슬라비아 합의 / Yale Law School Avalon Project",
+    "publication_date": "1945-06-09",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "제2–4·7항",
+    "url": "https://avalon.law.yale.edu/wwii/venezia.asp",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "폴라 시내와 주변의 유고 정규군 철수 시한 및 연합군 군정 예정과 최종 귀속 별도 조항을 확인했다."
+    ],
+    "limitations": [
+      "협정 본문 전사다. 시행일의 현장 기록과 부속 지도는 이번 확인 범위에 없다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "미국·영국·유고슬라비아 합의 / Yale Law School Avalon Project"
+  },
+  {
+    "id": "CAT-IT-SRC-0111",
+    "title": "History of Rijeka",
+    "institution_or_author": "City of Rijeka",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1924년 편입, 1943–1945년 독일 점령, 1947년과 1948년 단락",
+    "url": "https://www.rijeka.hr/en/city-government/history-of-rijeka/?noredirect=en-GB",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현재 크로아티아어 명칭 Rijeka와 점령 연혁, 1948년 수샤크와 통합을 확인했다."
+    ],
+    "limitations": [
+      "현대 시의 연혁이다. 당시 시 경계나 크로아티아어의 공식 사용 개시일은 별도 사료가 필요하다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "City of Rijeka"
+  },
+  {
+    "id": "CAT-IT-SRC-0112",
+    "title": "Priručnik integriranog sustava upravljanja",
+    "institution_or_author": "Grad Pula / Città di Pola",
+    "publication_date": "2014-11-10 (제3판 유효일)",
+    "source_type": "primary",
+    "document_or_accession_number": "PR 5.00.00, verzija 3",
+    "locator": "표지·4쪽의 시 명칭",
+    "url": "https://www.pula.hr/site_media/media/typo3/fileadmin/sadrzaji/dokumenti/sanja/Prirucnik_integriranog_sustava_upravljanja.pdf",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "시 행정 문서에서 크로아티아어 Grad Pula와 이탈리아어 Città di Pola 병기를 확인했다."
+    ],
+    "limitations": [
+      "현대 병기의 증거다. 1940년대 언어별 사용 빈도는 보여주지 않는다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "Grad Pula / Città di Pola"
+  },
+  {
+    "id": "CAT-IT-SRC-0113",
+    "title": "Treaty of Peace with Italy",
+    "institution_or_author": "UN Treaty Series, 조약 보존·출판",
+    "publication_date": "1947-02-10 (서명), 1950 (UNTS 수록)",
+    "source_type": "primary",
+    "document_or_accession_number": "UNTS vol. 49, no. 747",
+    "locator": "제3·11·14조",
+    "url": "https://treaties.un.org/doc/publication/unts/volume%2049/v49.pdf",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "유고슬라비아 관련 국경·영토 조항과 그리스에 양도된 Rhodes (Rhodos) 표기를 확인했다."
+    ],
+    "limitations": [
+      "1945년 당시 실효지배나 각 도시의 언어 사용을 정하는 문서는 아니다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "파리 평화조약 제747호 본문 및 부속 지도"
+  },
+  {
+    "id": "CAT-IT-SRC-0114",
+    "title": "Rodi (Rhodes): Special strategic map",
+    "institution_or_author": "U.S. Army Map Service / Princeton University Library / AGSL GeoDiscovery",
+    "publication_date": "1943-05 편찬, 목록에 3/45 ED. 표기",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "A.M.S. 6201, 302029, ark:/88435/dcjq085x91h",
+    "locator": "표제·Description의 원도 서지 및 판 표시",
+    "url": "https://geodiscovery.uwm.edu/catalog/princeton-dcjq085x91h",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "지도 목록에서 Rodi (Rhodes) 표제와 1931년 이탈리아 IGM 원도의 Isola di Rodi 표기를 확인했다."
+    ],
+    "limitations": [
+      "목록과 설명만 확인했다. Princeton 원도 접근은 실패했다. 해당 지도와 별개인 NLA의 GSGS 4161 스캔도 접근 거부였다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "U.S. Army Map Service / Princeton University Library / AGSL GeoDiscovery"
+  },
+  {
+    "id": "CAT-IT-SRC-0115",
+    "title": "Νότια Ρόδος – Ιταλοκρατία",
+    "institution_or_author": "Municipality of Rhodes",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1943년 9월 휴전 이후와 1945년 5월 9일 단락",
+    "url": "https://www.rhodes.gr/notia-rodos/notia-rodos-italokratia/",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현대 그리스어 Ρόδος, 독일군 우세로 끝난 1943년 교전, 1945년 5월 9일 영국·그리스 병력 상륙 서술을 확인했다."
+    ],
+    "limitations": [
+      "남부 로도스 지역 연혁이다. 섬 전역의 정확한 인수 시각과 행정 기관별 변경일은 별도 검증이 필요하다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "Municipality of Rhodes"
+  },
+  {
+    "id": "CAT-IT-SRC-0116",
+    "title": "City Details – Tripoli",
+    "institution_or_author": "United Nations Group of Experts on Geographical Names",
+    "publication_date": null,
+    "source_type": "official_database",
+    "document_or_accession_number": "City id 48, M49 434",
+    "locator": "Capital city·Endonyms",
+    "url": "https://ungegn.un.org/dashboard/cities/details?crM49=434&id=48",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "리비아 Tripoli의 현지 아랍어 طرابلس 및 로마자 Ţarābulus를 확인했다."
+    ],
+    "limitations": [
+      "현재 지명 자료다. 전시 현지 문서의 사용이나 당시 시역의 범위는 확인할 수 없다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "United Nations Group of Experts on Geographical Names"
+  },
+  {
+    "id": "CAT-IT-SRC-0117",
+    "title": "Annex I (maps) to Treaty of Peace with Italy",
+    "institution_or_author": "UN Treaty Series, 조약 부속 지도",
+    "publication_date": "1947 (조약 부속), 1950 (UNTS 수록)",
+    "source_type": "primary",
+    "document_or_accession_number": "UNTS vol. 50, no. 747, Annex I, map E",
+    "locator": "지도 E (a), PDF 53번째 쪽, 이스트리아 남단의 Pola 표기",
+    "url": "https://treaties.un.org/doc/publication/unts/volume%2050/v50.pdf#page=53",
+    "accessed_at": "2026-11-17T22:56:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "UN 수록 지도 스캔에서 이스트리아 남단 Pola의 인쇄 표기를 확인했다."
+    ],
+    "limitations": [
+      "제11조 해역 부속도의 지명 표기다. 1945년 군정 경계 및 현재 시 경계의 근거로 쓰지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 자체 한국어 요약과 원문 링크만 사용했다. 스캔·지도 이미지의 재사용 조건은 별도 확인한다.",
+    "independence_group": "파리 평화조약 제747호 본문 및 부속 지도"
+  },
+  {
+    "id": "CAT-IT-SRC-0118",
+    "title": "The Minister in Albania (Grant) to the Secretary of State",
+    "institution_or_author": "Hugh G. Grant / U.S. Department of State, Office of the Historian",
+    "publication_date": "1939-04-13",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1939, II, 문서 354, 765.75/497, 전보 39",
+    "locator": "401–402쪽, 알바니아 외교부 회람 제1–4항",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v02/d354",
+    "accessed_at": "2026-11-18T01:00:13+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "조그 왕조 폐위, 비토리오 에마누엘레 3세에게 왕관 제안, 독립·주권 유지 선언과 별도 내각 구성을 확인했다."
+    ],
+    "limitations": [
+      "이탈리아군 개입 뒤 새 알바니아 당국의 공식 표현을 전한다. 실질적 자율성이나 미국의 승인을 입증하지 않는다."
+    ],
+    "rights": "공개 원문·기관 해제. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·지도 재사용 조건은 별도 확인한다.",
+    "independence_group": "알바니아 당국 회람 (미국 공사 전사)"
+  },
+  {
+    "id": "CAT-IT-SRC-0119",
+    "title": "R.D.L. 3 maggio 1941, n. 291 — Costituzione della provincia di Lubiana",
+    "institution_or_author": "Regno d’Italia / Gazzetta Ufficiale",
+    "publication_date": "1941-05-03",
+    "source_type": "primary",
+    "document_or_accession_number": "관보 제105호, 왕령법 제291호",
+    "locator": "1725쪽 제1조",
+    "url": "https://www.gazzettaufficiale.it/eli/gu/1941/05/03/105/sg/pdf",
+    "accessed_at": "2026-11-18T01:00:13+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "부속도로 경계를 정한 슬로베니아 지역을 왕국 영토로 선언하고 루블랴나 주를 설치한 문언을 확인했다."
+    ],
+    "limitations": [
+      "점령국 국내법 조치다. 부속도의 선형과 국제적 승인 여부는 이 자료의 확인 범위에 없다."
+    ],
+    "rights": "공개 원문·기관 해제. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·지도 재사용 조건은 별도 확인한다.",
+    "independence_group": "Regno d’Italia / Gazzetta Ufficiale"
+  },
+  {
+    "id": "CAT-IT-SRC-0120",
+    "title": "Subject File Headings for the Records of the Allied Control Commission (Italy), 1943–1947",
+    "institution_or_author": "U.S. National Archives and Records Administration",
+    "publication_date": "1982",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "NARA Microfilm Publication M1190",
+    "locator": "서론 3쪽 및 부록 G, Map 17",
+    "url": "https://www.archives.gov/files/research/microfilm/m1190.pdf",
+    "accessed_at": "2026-11-18T01:00:13+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "남부의 1944년 2월 행정 이양, 후속 이양 경과와 지도 범례의 전선·행정 경계·군정 잔류지 구분을 확인했다."
+    ],
+    "limitations": [
+      "기록군 안내서와 수록 지도다. 1945년 9월 2일 당일의 시군별 관할은 별도 문서가 필요하다."
+    ],
+    "rights": "공개 원문·기관 해제. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·지도 재사용 조건은 별도 확인한다.",
+    "independence_group": "U.S. National Archives and Records Administration"
+  },
+  {
+    "id": "CAT-IT-SRC-0121",
+    "title": "The Secretary of State to the Ambassador in the Soviet Union (Harriman)",
+    "institution_or_author": "U.S. Department of State, Office of the Historian",
+    "publication_date": "1944-03-16",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1944, III, 문서 975, 전보 602",
+    "locator": "1057–1058쪽, 연합군 총사령관·통제위원회 및 남부 행정 단락",
+    "url": "https://history.state.gov/historicaldocuments/frus1944v03/d975",
+    "accessed_at": "2026-11-18T01:00:13+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "시칠리아·사르데냐·남부에서 이탈리아 행정과 연합국 통제위원회 감독이 병존했음을 확인했다."
+    ],
+    "limitations": [
+      "대소 설명을 위한 미국 외교 지침이다. 모든 지역의 실제 권한 이양 시점을 표로 제시하지 않는다."
+    ],
+    "rights": "공개 원문·기관 해제. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·지도 재사용 조건은 별도 확인한다.",
+    "independence_group": "U.S. Department of State, Office of the Historian"
+  },
+  {
+    "id": "CAT-IT-SRC-0122",
+    "title": "Mr. Alexander C. Kirk to the Acting Secretary of State, April 29, 1945",
+    "institution_or_author": "Alexander C. Kirk / U.S. Department of State, Office of the Historian",
+    "publication_date": "1945-04-29",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1945, III, 문서 558, 전보 1806",
+    "locator": "카세르타 서명 및 5월 2일 발효 단락, 각주 1",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v03/d558",
+    "accessed_at": "2026-11-18T01:00:13+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 측 현지 항복의 서명과 효력 발생일, 이손초 동쪽 베네치아 줄리아 예외를 확인했다."
+    ],
+    "limitations": [
+      "군사 항복 전보다. 민정 이양이나 전후 국경을 정하는 문서는 아니다."
+    ],
+    "rights": "공개 원문·기관 해제. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·지도 재사용 조건은 별도 확인한다.",
+    "independence_group": "Alexander C. Kirk / U.S. Department of State, Office of the Historian"
+  },
+  {
+    "id": "CAT-IT-SRC-0123",
+    "title": "The Secretary of State to President Roosevelt",
+    "institution_or_author": "U.S. Department of State, Office of the Historian",
+    "publication_date": "1943-08-02",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1943, Near East and Africa IV, 문서 115, 884.014/7–2043",
+    "locator": "106–107쪽, 1941년 4–5월 및 1942년 1월 영·에티오피아 협정 단락",
+    "url": "https://history.state.gov/historicaldocuments/frus1943v04/d115",
+    "accessed_at": "2026-11-18T01:00:13+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 4월 영국군의 아디스아바바 점령, 5월 황제 귀환, 1942년 협정까지의 행정 통제 설명을 확인했다."
+    ],
+    "limitations": [
+      "미국 국무부의 당대 평가다. 동아프리카 전체의 지방별 통치 경계나 이탈리아의 법적 권리를 확인하는 자료는 아니다."
+    ],
+    "rights": "공개 원문·기관 해제. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·지도 재사용 조건은 별도 확인한다.",
+    "independence_group": "U.S. Department of State, Office of the Historian"
+  },
+  {
+    "id": "CAT-IT-SRC-0124",
+    "title": "Gavra Mandil and Refik Veseli",
+    "institution_or_author": "United States Holocaust Memorial Museum, Holocaust Encyclopedia",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "사진 해제의 1943년 이후 독일 점령 단락",
+    "url": "https://encyclopedia.ushmm.org/content/en/photo/gavra-mandil-and-refik-veseli",
+    "accessed_at": "2026-11-18T01:00:13+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "알바니아에서 이탈리아 휴전 이후 독일 점령으로 바뀐 맥락을 확인했다."
+    ],
+    "limitations": [
+      "사진 해제로 넓은 행정 경계 및 독일군 철수 일자를 입증하지 않는다."
+    ],
+    "rights": "공개 원문·기관 해제. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·지도 재사용 조건은 별도 확인한다.",
+    "independence_group": "United States Holocaust Memorial Museum, Holocaust Encyclopedia"
+  },
+  {
+    "id": "CAT-IT-SRC-0125",
+    "title": "The mineral industry of the British Empire and foreign countries: statistical summary (production, imports and exports) 1938–1944",
+    "institution_or_author": "Imperial Institute / HMSO / British Geological Survey, NERC Open Research Archive",
+    "publication_date": "1948",
+    "source_type": "primary",
+    "document_or_accession_number": "NORA eprint 535289",
+    "locator": "보크사이트 생산·알루미늄 추정 생산 표(11–13쪽), 강괴·주강 생산 표(152쪽), 원유 생산 표 및 각주 (c)(224–225쪽), 텅스텐 수입 표(349쪽)",
+    "url": "https://nora.nerc.ac.uk/id/eprint/535289/1/SS_1938_1944.pdf",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 보크사이트 채굴과 알루미늄 금속 생산의 별도 표, 이탈리아 강괴·주강의 국가별 집계, 이탈리아·알바니아 원유의 별도 행, 이탈리아 텅스텐 금속·페로텅스텐 수입행을 확인했다."
+    ],
+    "limitations": [
+      "당대 자료를 집계한 전후 공식 통계다. 다른 국가의 통계를 이용하므로 모든 수치가 독립 관측은 아니다. 장톤을 쓰며 수입의 (a)는 미확인이다. 이탈리아 원유행에 셰일유가 포함된다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Imperial Institute 공식 편집통계"
+  },
+  {
+    "id": "CAT-IT-SRC-0126",
+    "title": "Annuario Statistico Italiano 1939",
+    "institution_or_author": "Istituto Centrale di Statistica del Regno d’Italia",
+    "publication_date": "1939",
+    "source_type": "primary",
+    "document_or_accession_number": "RAV0040597ASI1939",
+    "locator": "101쪽 V. Industrie, F.1 Industria mineraria, Miniere e ricerche attive produttive",
+    "url": "https://ebiblio.istat.it/digibib/Annuario%20Statistico%20Italiano/RAV0040597ASI1939.pdf",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 보크사이트 채굴 360,837미터톤과 표의 품목 및 단위를 확인했다."
+    ],
+    "limitations": [
+      "1939년판 표의 이 수치는 1938년 생산이다. 1939년 이후 생산이나 출하량을 입증하지 않는다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "이탈리아 중앙통계기관 공식 통계"
+  },
+  {
+    "id": "CAT-IT-SRC-0127",
+    "title": "Zhvillimi i industrisë së naftës dhe gazit në Shqipëri",
+    "institution_or_author": "Albpetrol 공개 자료",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "13쪽, Kuçovë–Uji i Ftohtë Vlorë 송유관과 Kuçovë 생산 단락",
+    "url": "https://www.albpetrol.al/wp-content/uploads/2020/04/ZHVILLIMI-I-INDUSTRIS%C3%8B-S%C3%8B-NAFT%C3%8BS-DHE-GAZIT-N%C3%8B-SHQIP%C3%8BRI.pdf",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Kuçovë 유전의 1941년 추출량 148,000톤을 확인했다."
+    ],
+    "limitations": [
+      "후대 산업사 요약이다. 알바니아 국가 총계나 이탈리아에 실제 도착한 중량을 나타내지 않는다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Albpetrol 알바니아 석유산업사"
+  },
+  {
+    "id": "CAT-IT-SRC-0128",
+    "title": "La storia di Eni — Tutte le voci di Eni",
+    "institution_or_author": "Agostini·Favero / Università Ca’ Foscari Venezia, IRIS",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "102–103쪽, 각주 15–20과 그림 3",
+    "url": "https://iris.unive.it/retrieve/284354d2-8acb-4fa9-969e-d53a8f885077/ENI_IIIB_Agostini%20Favero.pdf",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "AIPA의 1940년 7월 AGIP 편입, 바리·리보르노의 알바니아 원유 처리, 1940년 SICS 합성연료 시설 건설, 멕시코 계약 맥락을 확인했다."
+    ],
+    "limitations": [
+      "AGIP 경영진 보고서에 근거한 원고다. 이 자료의 항목별 수치로 이탈리아 전체 수입량과 합성유 생산량을 계산할 수 없다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "AGIP 연차 보고서 재구성"
+  },
+  {
+    "id": "CAT-IT-SRC-0129",
+    "title": "Albanian chromite mines — declassified report extract",
+    "institution_or_author": "CIA Reading Room, 이탈리아 광업 보고의 영어 전재·요약",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "CIA-RDP80-00809A000600140131-1",
+    "locator": "공개 PDF 첫 페이지 INTRODUCTION, 본문 ‘A total of 160 mines…’ 단락",
+    "url": "https://www.cia.gov/readingroom/docs/CIA-RDP80-00809A000600140131-1.pdf",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 상품광 37,867톤과 평균 Cr₂O₃ 42%, 서론의 약 38,000톤, 1943년의 계획/추정 성격을 확인했다."
+    ],
+    "limitations": [
+      "비식별 공개본의 영어 보고이며 원 이탈리아어 표와 최초 작성일은 미확보했다. 1943년 추정치를 실적으로 사용하지 않았다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "이탈리아 전시 크롬 광업 보고 계열"
+  },
+  {
+    "id": "CAT-IT-SRC-0130",
+    "title": "Cromo",
+    "institution_or_author": "Istituto della Enciclopedia Italiana, Treccani",
+    "publication_date": "1948",
+    "source_type": "secondary",
+    "document_or_accession_number": "Enciclopedia Italiana, II Appendice",
+    "locator": "알바니아 AMMI 생산 단락 및 AMMI 1947 서지",
+    "url": "https://www.treccani.it/enciclopedia/cromo_res-8de381ab-87e5-11dc-8e9d-0016357eee51_%28Enciclopedia-Italiana%29/",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 AMMI 37,870톤, 1943년 31,100톤의 첫 9개월 표기를 확인했다."
+    ],
+    "limitations": [
+      "1947년 AMMI 자료에 의존한다. CIA 공개본의 배경이 된 이탈리아 자료와 계보 독립성이 입증되지 않았다. 서두 세계표의 산화물 환산 단위를 AMMI 단락에 옮겨 쓰지 않았다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "AMMI 보고 계열 가능성"
+  },
+  {
+    "id": "CAT-IT-SRC-0131",
+    "title": "Gomma elastica",
+    "institution_or_author": "Istituto della Enciclopedia Italiana, Treccani",
+    "publication_date": "1948",
+    "source_type": "secondary",
+    "document_or_accession_number": "Enciclopedia Italiana, II Appendice",
+    "locator": "Ferrara·Terni 단락",
+    "url": "https://www.treccani.it/enciclopedia/gomma-elastica_res-e789cb7b-87e5-11dc-8e9d-0016357eee51_%28Enciclopedia-Italiana%29/",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Ferrara 공업 생산 가동이 1942년 시작됐고, Terni의 연 18,000톤은 설계 능력이며 설비 반출이 완공 전에 이뤄졌다는 기록을 확인했다."
+    ],
+    "limitations": [
+      "1948년의 회고 해설이다. Ferrara의 연도별 생산 원장과 천연고무 수입량은 확인되지 않는다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Treccani 초기 전후 고무 해설"
+  },
+  {
+    "id": "CAT-IT-SRC-0132",
+    "title": "Università e grande industria per un trasferimento tecnologico di successo",
+    "institution_or_author": "La Chimica e l’Industria online / Società Chimica Italiana",
+    "publication_date": "2025-10",
+    "source_type": "secondary",
+    "document_or_accession_number": "Anno IX, n. 5",
+    "locator": "49–50쪽, Ferrara 시험·공업 가동 및 The fate of industrial plants and companies",
+    "url": "https://www.soc.chim.it/sites/default/files/chimind/pdf/2025_5_46_ca.pdf",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 10월 Ferrara 시험 시설과 1942년 4월 공업 시설 가동, 1944년 공장 폐쇄, Terni 설비 반출을 확인했다."
+    ],
+    "limitations": [
+      "후대 기술사이며 Ferrara의 13,000톤을 연간으로 표현한다. 원장과 집계 기간을 확인하기 전까지 이 수치를 실적으로 채택하지 않았다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Società Chimica Italiana 기술사"
+  },
+  {
+    "id": "CAT-IT-SRC-0133",
+    "title": "1462. [Pratiche rifiutate o abbandonate] — Società Anonima Industria Gomma Sintetica SAIGS",
+    "institution_or_author": "Archivio storico Intesa Sanpaolo / Istituto Mobiliare Italiano",
+    "publication_date": "1939–1944",
+    "source_type": "finding_aid",
+    "document_or_accession_number": "IT-ISP-AS00004-0004987, pratica 1462",
+    "locator": "기록 목록 sf. b, sf. d 및 Francesco Mauro 보고서(1942-10-27)",
+    "url": "https://asisp.intesasanpaolo.com/intesa-web/detail/IT-ISP-AS00004-0004987/1462-pratiche-rifiutate-o-abbandonate",
+    "accessed_at": "2026-11-18T02:58:43+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [
+      "Ferrara 설비 목록, Terni 배치도 및 두 공장에 관한 1942년 기술보고서가 기록 목록에 있음을 확인했다."
+    ],
+    "limitations": [
+      "첨부는 등록자 열람으로 안내된다. 소장 목록을 열람했으며 보고서의 본문이나 첨부 표는 열람하지 않았다."
+    ],
+    "rights": "기관 공개 열람본 또는 목록. 자체 한국어 요약과 링크만 사용했다. 전문·스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Istituto Mobiliare Italiano 소장 목록"
+  },
+  {
+    "id": "CAT-IT-SRC-0134",
+    "title": "Stabilimento Fiat Mirafiori",
+    "institution_or_author": "MuseoTorino / Comune di Torino",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Scheda luogo 5431e6fb4be949bfb79fc973c6576165",
+    "locator": "주소 및 §1 Storia dell’edificio, §2 Bombardamenti",
+    "url": "https://www.museotorino.it/view/s/5431e6fb4be949bfb79fc973c6576165",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Corso Giovanni Agnelli 200, Corso Tazzoli 공장동, 약 100ha, 개장 때 미완공 및 구내 철도 11km의 기술을 확인했다."
+    ],
+    "limitations": [
+      "구내 철도 총연장에 1939-09-01 완공 일자나 수송 정격은 붙어 있지 않다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "MuseoTorino / Comune di Torino"
+  },
+  {
+    "id": "CAT-IT-SRC-0135",
+    "title": "Inaugurazione dello stabilimento Fiat Mirafiori (15 Maggio 1939)",
+    "institution_or_author": "ISMEL / MuseoTorino",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Scheda evento e967d489ce784e95bfd0df9299e1e822",
+    "locator": "Data dell’evento, 건설·행사 단락과 주 1",
+    "url": "https://museotorino.it/view/s/e967d489ce784e95bfd0df9299e1e822",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-05-15 무솔리니 참석 개장 행사를 확인했다."
+    ],
+    "limitations": [
+      "행사 설명과 참석 인원은 공장 가동률이나 실제 고용 장부를 대신할 수 없다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "ISMEL / MuseoTorino"
+  },
+  {
+    "id": "CAT-IT-SRC-0136",
+    "title": "Storia di Torino. Dalla grande guerra alla liberazione, 1915–1945 — La società industriale nel ventennio fascista",
+    "institution_or_author": "MuseoTorino 디지털 도서관 / Storia di Torino",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 371쪽, 디지털 405/894",
+    "url": "https://www.museotorino.it/resources/pdf/books/149/files/assets/basic-html/page-405.html",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미라피오리 총 100만㎡와 건물 피복 30만㎡, 2교대 설계 인원 22,000명 및 1939년 11월 개장 서술을 확인했다."
+    ],
+    "limitations": [
+      "11월이라는 날짜의 행사·가동상 의미는 불명이다. 설계와 9월 기준일의 설치·인원을 동일시하지 않는다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "MuseoTorino 디지털 도서관 / Storia di Torino"
+  },
+  {
+    "id": "CAT-IT-SRC-0137",
+    "title": "Fiat Mirafiori — Come è realizzato il sistema alla Fiat-Mirafiori",
+    "institution_or_author": "Ufficio stampa Fiat / Massimo Tedesco, Università Ca’ Foscari Venezia 소장 학위논문 재수록",
+    "publication_date": "1939",
+    "source_type": "primary",
+    "document_or_accession_number": "Massimo Tedesco, Nascita e sviluppo di Fiat e Alfa Romeo: dalla divergenza all’acquisizione, 2014/2015, 그림 8.1",
+    "locator": "논문 인쇄 86쪽 그림 8.1 및 그림의 1939년 출처 표기",
+    "url": "https://unitesi.unive.it/retrieve/9e91f9e8-fa09-4ba4-ac59-78a72cbaab0b/832417-1189710.pdf",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 FIAT 홍보실 도식 재수록본에서 차체와 차대 부문을 중앙 차량 조립 흐름과 연결한 배치를 확인했다."
+    ],
+    "limitations": [
+      "1차 도식의 학위논문 수록본이며 원책 전체와 현장 준공 도면은 미확보했다. 도식은 정격이나 실가동 증명이 아니다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Ufficio stampa Fiat / Massimo Tedesco, Università Ca’ Foscari Venezia 소장 학위논문 재수록"
+  },
+  {
+    "id": "CAT-IT-SRC-0138",
+    "title": "L’economia di guerra in Umbria tra 1940 e 1944",
+    "institution_or_author": "Paolo Raspadori / Editoriale Umbra·Istituto per la storia dell’Umbria contemporanea",
+    "publication_date": "2017",
+    "source_type": "secondary",
+    "document_or_accession_number": "ISBN 978-88-88802-95-4",
+    "locator": "인쇄 22쪽 주 27, 23쪽 주 30. 생산 근거 ACS, Archivio IRI, Serie nera, b. 78, 1944-03-28 보고 6쪽",
+    "url": "https://ricerca.unicusano.it/wp-content/uploads/2021/10/Guerra-e-Resistenza.pdf",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "테르니 제철소의 1939-12-31 노동자 8,574명 및 IRI 자료에 근거한 1939년 강철 89,057톤을 확인했다."
+    ],
+    "limitations": [
+      "인용된 1차 문서의 원본은 미확보했다. 저자는 Bonelli의 별도 1939–1943 생산 계열과 차이가 있음을 주 30에서 명시한다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Paolo Raspadori / Editoriale Umbra·Istituto per la storia dell’Umbria contemporanea"
+  },
+  {
+    "id": "CAT-IT-SRC-0139",
+    "title": "Storia",
+    "institution_or_author": "Acciai Speciali Terni",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "연혁 La Terni, L’IRI, La pressa (1935), L’Italia entra in guerra, La fine della guerra",
+    "url": "https://www.acciaiterni.it/chi-siamo/storia/",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "운영 회사명과 IRI 재무 통제, 1935년 프레스 정격 12,000톤 및 전시 피해 맥락을 확인했다."
+    ],
+    "limitations": [
+      "회사 자체 회고다. 프레스 표기는 가압 정격으로 연간 강철 생산량과 비교할 수 없고 개별 설비 가동은 미확인이다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Acciai Speciali Terni"
+  },
+  {
+    "id": "CAT-IT-SRC-0140",
+    "title": "Società Italiana Acciaierie Cornigliano — SIAC",
+    "institution_or_author": "Antonella Frassinelli / SIUSA, Ministero della Cultura",
+    "publication_date": "2010-11-22",
+    "source_type": "finding_aid",
+    "document_or_accession_number": "SIUSA soggetto produttore 52688",
+    "locator": "Intestazioni와 회사 연혁",
+    "url": "https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?Chiave=52688&TipoPag=prodente",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "SIAC의 캄피 사업과 코르닐리아노 신설, 1938년 Finsider 지분 및 그 다음 해의 신설 공사 기록을 확인했다."
+    ],
+    "limitations": [
+      "운영자 연혁과 기록 목록이며 1938년 매립·착공 서술과의 차이는 일자별 원장으로 확인할 필요가 있다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Antonella Frassinelli / SIUSA, Ministero della Cultura"
+  },
+  {
+    "id": "CAT-IT-SRC-0141",
+    "title": "Archivio Ilva 1882–1994. Guida all’inventario",
+    "institution_or_author": "Claudia Cerioli 편 / Fondazione Ansaldo·Direzione generale Archivi",
+    "publication_date": "2015",
+    "source_type": "finding_aid",
+    "document_or_accession_number": "Strumenti VII",
+    "locator": "인쇄 32쪽 연표 1938 및 1943–1945 행",
+    "url": "https://dgagaeta.cultura.gov.it/public/uploads/documents/Archivi%20Italiani/61efaa9f68225.pdf",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제노바 해안 일관제철소 계획, SIAC의 매립 공사와 전쟁 중 거의 완성된 설비의 독일 측 해체·반출을 확인했다."
+    ],
+    "limitations": [
+      "연표의 1938년 행은 결정·매립·착수를 압축해 전한다. Ilva 전체 파괴 비율을 코르닐리아노 공장의 파괴율로 쓸 수 없다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Claudia Cerioli 편 / Fondazione Ansaldo·Direzione generale Archivi"
+  },
+  {
+    "id": "CAT-IT-SRC-0142",
+    "title": "La siderurgia",
+    "institution_or_author": "Istituto della Enciclopedia Italiana / Il Contributo italiano alla storia del Pensiero: Tecnica",
+    "publication_date": "2013",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Le vicende della siderurgia italiana, SIAC와 전쟁 전 일관제철 단락",
+    "url": "https://www.treccani.it/enciclopedia/la-siderurgia_%28Il-Contributo-italiano-alla-storia-del-Pensiero%3A-Tecnica%29/",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "코르닐리아노 착공 1938년 9월, 1942년 완공 기재와 생산 미개시 및 1943년 휴전 뒤 반출을 확인했다."
+    ],
+    "limitations": [
+      "착공 기재가 SIUSA 연혁과 다르다. 공사 공정별 원장과 가동 일지의 공개 원본은 미확보했다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Istituto della Enciclopedia Italiana / Il Contributo italiano alla storia del Pensiero: Tecnica"
+  },
+  {
+    "id": "CAT-IT-SRC-0143",
+    "title": "Acciai speciali Terni spa",
+    "institution_or_author": "Sistema Archivistico Nazionale / Ministero della Cultura",
+    "publication_date": "2012",
+    "source_type": "finding_aid",
+    "document_or_accession_number": "SAN 405/ca/1089011",
+    "locator": "Storia archivistica, 1942년까지 기록의 이관·손실·정리 단락",
+    "url": "https://inventari-san.cultura.gov.it/inventari/405/ca/1089011",
+    "accessed_at": "2026-11-18T04:58:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년까지의 일부 회사 기록 이관과 전쟁기 문서 손실 및 소장 체계를 확인했다."
+    ],
+    "limitations": [
+      "목록 열람이다. 1939년 공장 생산원장, 지적도 및 1945년 가동대장은 직접 확인하지 못했다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 원문 링크만 수록했다. 원문과 이미지의 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "Sistema Archivistico Nazionale / Ministero della Cultura"
+  },
+  {
+    "id": "CAT-IT-SRC-0144",
+    "title": "L’acciaieria di Terni, la ricostruzione e i “consiglieri operai”",
+    "institution_or_author": "Istituto per la storia dell’Umbria contemporanea / Editoriale Umbra",
+    "publication_date": "2014",
+    "source_type": "secondary",
+    "document_or_accession_number": "R–Esistenze. Umbria 1943–1944, ISBN 978-88-88802-67-1",
+    "locator": "말미 「L’Acciaieria di Terni tra guerra e ricostruzione」, 회사 운영위원회·1944년 9월 및 1945-09-08 두 단락",
+    "url": "https://ricerca.unicusano.it/wp-content/uploads/2021/10/R-Esistenze.pdf",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 6월 13–14일 해방, 로마 운영위원회의 복구, 1944년 9월 월 2,000톤과 노동자 약 1,600명, 1945-09-08의 1939년 대비 생산능력 18%를 확인했다."
+    ],
+    "limitations": [
+      "후대 기관 해설이며 원 회사 보고서의 동일 시점 원표는 미확보했다. 회사 전체 수력 생산능력 비율은 공장 내부 전력 정격으로 볼 수 없다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "Istituto per la storia dell’Umbria contemporanea / Editoriale Umbra"
+  },
+  {
+    "id": "CAT-IT-SRC-0145",
+    "title": "Torino in guerra",
+    "institution_or_author": "Giovanni De Luna / Storia di Torino, vol. VIII / MuseoTorino 디지털판",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Storia di Torino, vol. VIII, Parte III",
+    "locator": "인쇄 777쪽 및 주 201",
+    "url": "https://www.museotorino.it/resources/pdf/books/149/files/assets/common/downloads/publication.pdf",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 말 미라피오리 생산 수준이 해당 공장의 통상 수준의 50%라고 적힌 것을 확인했다."
+    ],
+    "limitations": [
+      "생산 기준선의 정확한 기간과 산식이 해당 단락에 없다. 9월 2일 생산량이나 건물 잔존율을 의미하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "Giovanni De Luna / Storia di Torino, vol. VIII / MuseoTorino 디지털판"
+  },
+  {
+    "id": "CAT-IT-SRC-0146",
+    "title": "Sospensioni del lavoro a Lingotto e Mirafiori — Diario dell’Ufficio Contabilità 요약 전재",
+    "institution_or_author": "FIAT 회계부 / Archivio storico Fiat / Istoreto 편집",
+    "publication_date": "2003",
+    "source_type": "primary_extract",
+    "document_or_accession_number": "La città delle fabbriche, Dati statistici 표 10",
+    "locator": "표 10, PDF 149쪽(1부터 셈), 1944-08-28과 1944-09-02~03 행 및 표 출처",
+    "url": "https://www.istoreto.it/to38-45_industria/pdf/citta_industria.pdf#page=149",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "FIAT 회계부 일지를 근거로 미라피오리의 1944년 8월 28일 및 9월 2~3일 정전 중단이 기록됐음을 확인했다."
+    ],
+    "limitations": [
+      "기관이 원 일지에서 정리한 표를 열람했다. 원본 일지 전체와 1945년 9월 전력·생산 장부는 미확보했다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "FIAT 회계부 / Archivio storico Fiat / Istoreto 편집"
+  },
+  {
+    "id": "CAT-IT-SRC-0147",
+    "title": "Civilian Disarmament: Public Order and the Restoration of State Authority in Italy’s Postwar Transition, 1944–6",
+    "institution_or_author": "Marco Maria Aterrano / Journal of Contemporary History",
+    "publication_date": "2020",
+    "source_type": "secondary",
+    "document_or_accession_number": "DOI 10.1177/0022009420909164",
+    "locator": "표 1, 테르니 1945-05-10 행 및 토리노·제노바가 든 12월 행",
+    "url": "https://ssu.elearning.unipd.it/pluginfile.php/662875/mod_folder/content/0/Primo%20dopoguerra/Articolo%20Aterrano.pdf",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "테르니주의 1945-05-10 민정 이관 및 제노바·토리노가 연말 이관군에 포함되었음을 확인했다."
+    ],
+    "limitations": [
+      "기관표의 12월 28일과 FRUS가 확인한 12월 31일 집행에는 날짜 차이가 있다. 이 둘이 따로 가리키는 절차의 원문은 미확보했다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "Marco Maria Aterrano / Journal of Contemporary History"
+  },
+  {
+    "id": "CAT-IT-SRC-0148",
+    "title": "Kirk to the Secretary of State, 17 August 1945",
+    "institution_or_author": "Alexander C. Kirk / U.S. Department of State",
+    "publication_date": "1945-08-17",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1945 IV 문서 960, 전보 2379, 740.00119 Control (Italy)/8–1745",
+    "locator": "전보 2379, 북부 이관 권고 1항 및 실행 조건 A항",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v04/d960",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북부의 연합군 군정 지역을 9월 15일 또는 승인 뒤 21일 중 늦은 날짜에 이관하자는 권고를 확인했다."
+    ],
+    "limitations": [
+      "권고 문서다. 승인과 실제 이관은 별도 문서에서 확인해야 한다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "Alexander C. Kirk / U.S. Department of State"
+  },
+  {
+    "id": "CAT-IT-SRC-0149",
+    "title": "Kirk to the Secretary of State, 18 December 1945",
+    "institution_or_author": "Alexander C. Kirk / U.S. Department of State",
+    "publication_date": "1945-12-18",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1945 IV 문서 1027, 전보 4106, 740.00119 Control (Italy)/12–1845",
+    "locator": "전보 4106, 연합국 위원회 이관 발표 및 각주 1",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v04/d1027",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "잔류 군정지의 이관 날짜가 12월 31일로 발표됐고 이후 전보가 그 날짜의 이관을 확인했음을 대조했다."
+    ],
+    "limitations": [
+      "시군·개별 공장 통치 또는 운영권의 전수 목록은 제공하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "Alexander C. Kirk / U.S. Department of State"
+  },
+  {
+    "id": "CAT-IT-SRC-0150",
+    "title": "Cornigliano S.p.A. (1948–1961)",
+    "institution_or_author": "Fondazione Ansaldo / Archimondi",
+    "publication_date": null,
+    "source_type": "finding_aid",
+    "document_or_accession_number": "Archimondi soggetti produttori item-set 26",
+    "locator": "Cornigliano S.p.A. 항목, 1951년 10월 인수와 1952–1953년 단계별 가동 단락",
+    "url": "https://archivio.fondazioneansaldo.it/s/1/item-set/26",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1951-10-09 후속 회사 인수, 1952년 말 코크스 설비 가동 준비, 1953년 4월 선철 및 6월 강철 생산 개시를 확인했다."
+    ],
+    "limitations": [
+      "기업 연혁 목록이다. 1945년 잔존 기계·토목 면적이나 반출한 설비의 개수는 밝히지 않는다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "Fondazione Ansaldo / Archimondi"
+  },
+  {
+    "id": "CAT-IT-SRC-0151",
+    "title": "L’Atto di Resa delle truppe tedesche",
+    "institution_or_author": "Musei di Genova / Museo del Risorgimento",
+    "publication_date": null,
+    "source_type": "finding_aid",
+    "document_or_accession_number": "Villa Migone 항복문서 소장 해제",
+    "locator": "1945년 4월 25일 문서 제목, 해제와 11월 박물관 이관 단락",
+    "url": "https://www.museidigenova.it/it/l-atto-di-resa-delle-truppe-tedesche",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945-04-25 제노바의 독일군 현지 항복 날짜와 소장 이력을 확인했다."
+    ],
+    "limitations": [
+      "열람한 것은 공개 문서 해제다. 산업설비 현황이나 북부 군정 종료일을 입증하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "Musei di Genova / Museo del Risorgimento"
+  },
+  {
+    "id": "CAT-IT-SRC-0152",
+    "title": "I luoghi della guerra e della Resistenza — percorso",
+    "institution_or_author": "MuseoTorino / Comune di Torino",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Scheda 57c5f30dda2847149f9281d8eae5c42c",
+    "locator": "26–28 aprile 1945 L’insurrezione e la liberazione",
+    "url": "https://www.museotorino.it/view/s/57c5f30dda2847149f9281d8eae5c42c",
+    "accessed_at": "2026-11-18T06:58:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "토리노의 4월 26~28일 봉기·해방 및 4월 28일 CLN의 새 지방 당국 임명을 확인했다."
+    ],
+    "limitations": [
+      "도시 단위 연혁이며 공장 재가동 명령이나 군정 종료문서가 아니다."
+    ],
+    "rights": "공개 열람본 또는 소장 목록. 자체 한국어 요약과 원문 링크만 수록했다.",
+    "independence_group": "MuseoTorino / Comune di Torino"
+  },
+  {
+    "id": "CAT-IT-SRC-0153",
+    "title": "Direzione Superiore Studi ed Esperienze (DSSE)",
+    "institution_or_author": "Aeronautica Militare",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Un viaggio nella storia della ricerca e sperimentazione del volo",
+    "url": "https://www.aeronautica.difesa.it/home/area-museale-aeronautica/direzione-superiore-studi-ed-esperienze-dsse/",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1927년 DSSE 설립 및 구이도니아의 풍동·수조 연구, 1943년 이후의 피해를 확인했다."
+    ],
+    "limitations": [
+      "현대 역사 전시 해설이며 1939년 활주로·항공기 정비 등의 처리량 원표는 없다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Aeronautica Militare"
+  },
+  {
+    "id": "CAT-IT-SRC-0154",
+    "title": "Piano regolatore dell’aeroporto Alfredo Barbieri di Guidonia del 1938",
+    "institution_or_author": "Comune di Guidonia Montecelio, 2023년 사업안에 재수록",
+    "publication_date": "1938",
+    "source_type": "primary_extract",
+    "document_or_accession_number": "현 소장번호 미확인. 재수록 문서 Comune prot. 0133450 (2023-12-20)",
+    "locator": "재수록 문서 5~6쪽, 1938년 계획도의 확인 가능한 텍스트·범례와 편찬자 연혁",
+    "url": "https://presidenza.governo.it/AmministrazioneTrasparente/Sovvenzioni/AttiConcessione/DocAttiConcessione/cncs_13620_13623_SCHEDA_PROGETTO_2302.pdf",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "재수록 텍스트의 1938년 계획도 범례에서 모형 공작실·발전소·로마–술모나 철도를 확인했다. 편찬 연혁에서는 1935년 시설 완공과 1943-09-12 독일군 인계를 확인했다."
+    ],
+    "limitations": [
+      "원 계획도의 실물과 축척·필지 세부 판독은 미확보다. 범례와 후대 문서의 연혁만 사용했다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Comune di Guidonia Montecelio, 2023년 사업안에 재수록"
+  },
+  {
+    "id": "CAT-IT-SRC-0155",
+    "title": "La Direzione Superiore Studi e Esperienze (DSSE) di Guidonia",
+    "institution_or_author": "Sapienza Università di Roma, Scuola di Ingegneria Aerospaziale 공개 자료",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Cenni Storici 및 Le Divisioni e le Sezioni, 연구 구역 도식 Fig. 1의 항목 1",
+    "url": "https://sia.web.uniroma1.it/sites/default/files/allegati/SitoGuidonia.pdf",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1935년 구이도니아 시험시설 이전·가동 맥락과 수력시험 갤러리 약 500m를 확인했다."
+    ],
+    "limitations": [
+      "후대 도해 및 설명이다. 수력시험 갤러리 길이는 이착륙장 치수가 아니다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Sapienza Università di Roma, Scuola di Ingegneria Aerospaziale 공개 자료"
+  },
+  {
+    "id": "CAT-IT-SRC-0156",
+    "title": "Il controllo a lungo raggio del deserto",
+    "institution_or_author": "Basilio Di Martino / Nuova Antologia Militare",
+    "publication_date": "2020",
+    "source_type": "secondary",
+    "document_or_accession_number": "NAM, anno 1, n. 4",
+    "locator": "47쪽, Super ASI 명령 64/S 및 학교 가동 단락",
+    "url": "https://www.tabedizioni.it/web/content/44385",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938-03-24 명령 64/S와 카스텔 베니토의 낙하산학교 운영, 관할 Comando Aeronautica della Libia를 확인했다."
+    ],
+    "limitations": [
+      "명령 원본 전문과 1939-09-01 항공기·시설 원부는 미확보다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Basilio Di Martino / Nuova Antologia Militare"
+  },
+  {
+    "id": "CAT-IT-SRC-0157",
+    "title": "Celebrato 75° anniversario del 50° Stormo",
+    "institution_or_author": "Michele Iacobuono / 50° Stormo, Aeronautica Militare",
+    "publication_date": "2011-06-22",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Il 50° Stormo d’Assalto… 단락",
+    "url": "https://www.aeronautica.difesa.it/news/celebrato-75-anniversario-del-50-stormo/",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-07-15 베르카 이동 및 리비아 항공사령부 관할, 제12·16그룹으로 창설된 부대 연혁을 확인했다."
+    ],
+    "limitations": [
+      "기념 연혁이다. 1939-09-01 가동 기체 수와 베르카 개별 비행장의 번호는 제시하지 않는다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Michele Iacobuono / 50° Stormo, Aeronautica Militare"
+  },
+  {
+    "id": "CAT-IT-SRC-0158",
+    "title": "L’Italia in guerra. Il primo anno 1940 — 학술회의 자료집",
+    "institution_or_author": "Commissione Italiana di Storia Militare / Ministero della Difesa",
+    "publication_date": "1990",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1940-12-09 Compass 단락, ‘riordino generale presso le SRAM’",
+    "url": "https://www.difesa.it/assets/allegati/39412/01_convegno1990_italia_in_guerra_primo_anno1940.pdf",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 12월 항공기 정비·재정비에 사용된 SRAM 가운데 베르카와 카스텔 베니토를 확인했다."
+    ],
+    "limitations": [
+      "1940년 12월의 지원 기록으로 1939년의 정비 대수·용량을 소급할 수 없다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Commissione Italiana di Storia Militare / Ministero della Difesa"
+  },
+  {
+    "id": "CAT-IT-SRC-0159",
+    "title": "Luftwaffe Airfields 1935–45: Libya (Tripolitania & Cyrenaica) & Egypt",
+    "institution_or_author": "Henry L. deZeng IV",
+    "publication_date": "2016-03",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "18–20쪽 Benghasi-Berca와 각 번호, 130–131쪽 Tripoli–Castel Benito Dimensions·Remarks",
+    "url": "https://ww2.dk/Airfields%20-%20Libya%20and%20Egypt.pdf",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "베르카가 복수 착륙장을 가리키는 편찬물의 범위를 확인했다. 카스텔 베니토의 1943-02-05 독일 항공사진 유래 이착륙장 치수 2,500×1,620m와 당시 연합군 통제 설명을 확인했다."
+    ],
+    "limitations": [
+      "후대 민간 편찬이며 원사진을 직접 판독하지 않았다. 1943년 치수는 1939년 또는 포장 활주로의 치수가 아니다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Henry L. deZeng IV"
+  },
+  {
+    "id": "CAT-IT-SRC-0160",
+    "title": "Censimento industriale e commerciale 1937–1940, vol. I, parte I, C) Libia",
+    "institution_or_author": "Istituto Centrale di Statistica del Regno d’Italia",
+    "publication_date": "1940",
+    "source_type": "primary",
+    "document_or_accession_number": "IST0007096, Vol. I, Parte I, C",
+    "locator": "Avvertenze alle tavole, R.D.L. 9 gennaio 1939 n. 70 단락",
+    "url": "https://lipari.istat.it/digibib/Censimenti%20industria/censind%201937/IST0007096Vol1P1TAVINDALIMLIBIA.pdf",
+    "accessed_at": "2026-11-18T08:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 통계청이 1939년 왕국 영토에 편입된 리비아 네 주로 트리폴리·미수라타·벵가지·데르나를 열거했음을 확인했다."
+    ],
+    "limitations": [
+      "왕국 당국의 공식 설명이다. 식민 통치의 법적·사회적 차이를 지우거나 기지 운영을 입증하지 않는다."
+    ],
+    "rights": "공개 열람본. 자체 요약과 URL만 수록했다. 이미지와 원문 재이용에는 별도 권리 확인이 필요하다.",
+    "independence_group": "Istituto Centrale di Statistica del Regno d’Italia"
+  },
+  {
+    "id": "CAT-IT-SRC-0161",
+    "title": "Attaché’s Report: Strategic Distribution of Squadrons",
+    "institution_or_author": "미 해군 로마 주재 무관 / U.S. Navy Department, Intelligence Division",
+    "publication_date": "1937-07-22",
+    "source_type": "primary",
+    "document_or_accession_number": "Report 13/812-E, serial 392, file 902-300; DPLA ea7b234eb4a2147da9cc3fe9cc2e7391",
+    "locator": "권 내 인쇄 7쪽, 1–5항",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Navy_-_Estimates_of_Potential_Military_Strength_-_Documents_D._Naval_Attache_Rome_-_Vol._I%2C_January_22%2C_1937_-June_14%2C_1939_-_DPLA_-_ea7b234eb4a2147da9cc3fe9cc2e7391.pdf",
+    "accessed_at": "2026-11-18T10:55:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "타란토 제1전대와 라스페치아 제2전대의 1937년 기지 교환 보고, 타란토의 입거·정비 기능, 아우구스타의 운용기지로서 평가를 확인했다."
+    ],
+    "limitations": [
+      "미국 측 정보 보고이며 아우구스타 평가는 당시 판단이다. 1939년 편제나 입항 실적은 제공하지 않는다. 첨부 스캔의 텍스트 판독으로 확인했다."
+    ],
+    "rights": "공개 열람본. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인한다.",
+    "independence_group": "US Naval Attaché Rome"
+  },
+  {
+    "id": "CAT-IT-SRC-0162",
+    "title": "The Ambassador in Italy (Phillips) to the Secretary of State",
+    "institution_or_author": "William Phillips / U.S. Department of State, Office of the Historian",
+    "publication_date": "1939-08-23",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1939, vol. I, doc. 345; 740.00/2109; telegram 323",
+    "locator": "본문 해군무관 정보 두 단락",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d345",
+    "accessed_at": "2026-11-18T10:55:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "라스페치아 8월 19일 순양함 1척 기록, 8월 23일자 타란토 등 집결 추정, 트리폴리 등 항만 방어 조치 보고를 확인했다."
+    ],
+    "limitations": [
+      "외교 전보에 인용된 무관 보고다. 함대 위치는 추정이며 접안 정격과 9월 1일 배치는 기재되지 않았다. 1937년 미 해군무관 보고와 같은 관측 계통이다."
+    ],
+    "rights": "공개 열람본. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인한다.",
+    "independence_group": "US Naval Attaché Rome"
+  },
+  {
+    "id": "CAT-IT-SRC-0163",
+    "title": "Ordinamento dei Servizi periferici della R. Marina (estratto)",
+    "institution_or_author": "이탈리아 왕국 / Gino Galuppini 편집·Marina Militare 재수록",
+    "publication_date": "1928-04-26",
+    "source_type": "primary_extract",
+    "document_or_accession_number": "R.D. 26 aprile 1928, art. 10; Rivista Marittima 2019년 7/8월 부록",
+    "locator": "인쇄 58쪽, 부록의 제10조 발췌",
+    "url": "https://www.marina.difesa.it/media-cultura/editoria/marivista/Documents/supplementi/Arsenale_Spezia%20_150_anni_di_storia_1869_2019.pdf",
+    "accessed_at": "2026-11-18T10:55:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "왕립 해군 조선·수리창 소재지로 라스페치아·타란토를 열거하고 관할 해군구 사령관으로 이어지는 지휘 계통을 정한 것을 확인했다."
+    ],
+    "limitations": [
+      "2019년판에 재수록된 발췌로 최초 관보 원면은 미열람이다. 1939년 현황을 모두 규정하는 문서로 사용하지 않았다."
+    ],
+    "rights": "공개 열람본. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인한다.",
+    "independence_group": "Regio Decreto territorial organization"
+  },
+  {
+    "id": "CAT-IT-SRC-0164",
+    "title": "Arsenale della Spezia – 150 anni di storia (1869–2019)",
+    "institution_or_author": "Gino Galuppini 및 Claudio Boccalatte / Rivista Marittima, Marina Militare",
+    "publication_date": "2019-07/08",
+    "source_type": "secondary",
+    "document_or_accession_number": "Rivista Marittima 2019년 7/8월 부록",
+    "locator": "인쇄 30–31쪽, 63–64쪽과 136쪽",
+    "url": "https://www.marina.difesa.it/media-cultura/editoria/marivista/Documents/supplementi/Arsenale_Spezia%20_150_anni_di_storia_1869_2019.pdf",
+    "accessed_at": "2026-11-18T10:55:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "초기 도크의 가동 시점, 석조 건선거 6기의 건설 내역과 5·6호의 건설 당시 치수, 제2차 세계대전 피해 설명 및 1945년 5월 1일 도면 캡션을 확인했다."
+    ],
+    "limitations": [
+      "시설 연혁 및 당시 도면의 후대 재수록이다. 건설 때의 길이와 바닥폭으로 1939년의 입거 한계·가동률을 확정할 수 없다."
+    ],
+    "rights": "공개 열람본. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인한다.",
+    "independence_group": "Marina Militare La Spezia installation history"
+  },
+  {
+    "id": "CAT-IT-SRC-0165",
+    "title": "Notiziario della Marina, marzo 2024: L’Arsenale Militare Marittimo di Taranto; L’Arsenale Militare Marittimo di Augusta",
+    "institution_or_author": "Antonio Ingrosso·Fabio Cacciatore / Marina Militare",
+    "publication_date": "2024-03",
+    "source_type": "secondary",
+    "document_or_accession_number": "Notiziario della Marina, 2024년 3월호",
+    "locator": "타란토 17쪽, 아우구스타 25쪽, 각각 첫 본문 단락",
+    "url": "https://www.marina.difesa.it/media-cultura/editoria/notiziario/Documents/2024/Notiziario_della_Marina_marzo_2024.pdf",
+    "accessed_at": "2026-11-18T10:55:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "타란토의 Brin·Ferrati 석조 건선거 건설연도와 아우구스타 정비 시설의 1930년대 중반 기원을 확인했다."
+    ],
+    "limitations": [
+      "최근호에서 역사 단락만 사용했다. 현대 인력·부두·정비 능력을 1939년으로 소급 적용할 수 없다."
+    ],
+    "rights": "공개 열람본. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인한다.",
+    "independence_group": "Marina Militare arsenal histories"
+  },
+  {
+    "id": "CAT-IT-SRC-0166",
+    "title": "La Regia Marina tra le due guerre mondiali",
+    "institution_or_author": "Pier Paolo Ramoino / Rivista Marittima, Marina Militare",
+    "publication_date": "2011-09",
+    "source_type": "secondary",
+    "document_or_accession_number": "Rivista Marittima 2011년 9월 부록",
+    "locator": "85쪽, 제X장 부록 2 Forze navali principali 1939 및 각주 58",
+    "url": "https://www.marina.difesa.it/media-cultura/editoria/marivista/Documents/2011/09_settembre/La_Regia_Marina.pdf",
+    "accessed_at": "2026-11-18T10:55:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 편제표의 제1·제2전대 사령부, 라스페치아와 타란토 잠수함 그룹, 아우구스타 제10그룹 창설 중 표기를 확인했다."
+    ],
+    "limitations": [
+      "저자가 전사 자료를 재구성한 편제표다. 편제표는 기준일·일별 실제 정박함 수나 창설 완료일을 제시하지 않는다."
+    ],
+    "rights": "공개 열람본. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인한다.",
+    "independence_group": "Ramoino Italian naval order of battle"
+  },
+  {
+    "id": "CAT-IT-SRC-0167",
+    "title": "La Stazione Navale del Mar Grande e il Tunnel dei Due Mari",
+    "institution_or_author": "Romano Pinelli·Claudio Rizza / Storia Militare",
+    "publication_date": "2018-05",
+    "source_type": "secondary",
+    "document_or_accession_number": "Storia Militare 296호, 제1부; AUSMM fondo MDS b. 851 및 b. 93, fasc. 897 인용",
+    "locator": "제1부 40–41쪽과 42–45쪽의 계획·예산 단락, 각주 7–13",
+    "url": "https://www.academia.edu/42215120/La_Stazione_Navale_del_Mar_Grande_e_il_Tunnel_dei_Due_Mari_",
+    "accessed_at": "2026-11-18T10:55:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "여름 1939년 추가 건선거 계획 치수와 1940년 예산·발주 절차, 별도 조성 구역임을 확인했다."
+    ],
+    "limitations": [
+      "저자 공개본 본문 전사와 각주를 열람했다. 인용 문서의 보존 원본과 1939년 당일 현장 관측은 미확인이다."
+    ],
+    "rights": "공개 열람본. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인한다.",
+    "independence_group": "Pinelli–Rizza Taranto archival research"
+  }
+]

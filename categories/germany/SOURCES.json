@@ -1,0 +1,3555 @@
+[
+  {
+    "id": "CAT-DE-SRC-0001",
+    "title": "Handbook on German Military Forces, TM-E 30-451",
+    "institution_or_author": "United States War Department; U.S. Government Printing Office",
+    "publication_date": "1945-03-15（발행문; 해당 본문 머리말 1945-03-01）",
+    "source_type": "primary: 동시대 적군 정보 교범 원문 스캔",
+    "locator": "TM-E 30-451; 제목지 PDF 2, 서문 PDF 3; Chapter VII §VI.3~4, VII-79~85 (PDF 389~395); 시각 판독 PDF 390, 392, 393, 395; CAT-DE-02 추가: VII §V.1.c VII-57(PDF 367) 텍스트; §V.2.a VII-58(PDF 368), §VI.6 VII-88(PDF 398) 시각 판독; CAT-DE-05: VII §II.5.a VII-5(PDF 315), §II.6.b VII-8(PDF 318), §II.7.b(3) VII-11(PDF 321); CAT-DE-01 후속: VII §VI.3.b–d, VII-76~79 HTML 전사본(https://www.ibiblio.org/hyperwar/Germany/HB/HB-7.html); 육군 교리 보충 조사: 제II장 인쇄 II–100쪽 §7 Veterinary Troops",
+    "url": "https://www.ibiblio.org/hyperwar/USA/ref/TM/pdfs/TME30-451.PDF",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Model G Panzer IV, Panther, Model E Tiger 및 Model B Tiger의 표상 무장·승무원·기동 수치",
+      "Tiger Model E road speed 원문 15 mph와 후대 전사본 5 mph의 불일치",
+      "발행일·정보 집계일 및 본문 머리말 날짜 구분",
+      "CAT-DE-02: 자주포 분류의 역할 중첩, StuG III L/48의 무장·승무원·최대속력·선회/고저각, Sd.Kfz.251 및 251/16의 장갑수송 계열 분류",
+      "CAT-DE-05: Kar 98k의 43½in 및 98계열 탄약·클립 공통란, MG 42의 발사속도 종류·거치 구분, Panzerfaust 60의 조준기 거리와 중량 표기",
+      "CAT-DE-01 후속: Panzer I A, II F, II L 및 III L/M의 교범상 승무원·무장·기동 수치",
+      "제II장 인쇄 II–100쪽 §7은 다수 독일군 사단이 수송에 말을 사용하고 수의중대를 두었다고 기록한다."
+    ],
+    "limitations": [
+      "독일 제조사 시험 원기록이 아닌 미군 정보자료; 실전 가동 성능으로 일반화 불가",
+      "형식별 장갑·엔진·생산대장·시험 조건의 독립 검증은 미완",
+      "전체 PDF의 모든 페이지를 검수하지 않음; PDF 교차참조 복구 경고 후 해당 페이지를 실제 렌더링·판독",
+      "CAT-DE-02: StuG III 20 mph와 박물관 Ausf G 25 mph 불일치 미해결; 교범 표에 Ausf G 명시 없음",
+      "CAT-DE-05: MG 42의 발사속도·Panzerfaust 60의 중량 및 관통 측정 조건 미제시. 98계열의 공통 중량/유효거리는 98k 단독 제원으로 채택하지 않음.",
+      "CAT-DE-01 후속은 동일 판본의 HTML 전사본 해당 절을 대조했다. Luchs의 주포 형식·승무원은 박물관과 불일치하며, 이번에 해당 스캔 페이지를 재판독하지 않았다."
+    ],
+    "rights": "미 연방정부 당대 간행물. 원문/사진 재업로드 없이 자체 한국어 요약과 링크 사용.",
+    "access_attempts": [
+      {
+        "method": "web open",
+        "result": "파일 크기 86,572,532 bytes로 열람 실패"
+      },
+      {
+        "method": "직접 HTTPS 다운로드, pdftotext 및 pdftoppm",
+        "result": "HTTP 200; 86,572,532 bytes; 해당 페이지 이미지 판독 성공"
+      }
+    ],
+    "sha256": "dfa9fd6f83d12beadcd3c10c7460ad46c189b665181809b0b77c66e532f25b36",
+    "independence_group": "TM-E-30-451",
+    "accessed_at": "2026-11-09T09:02:34+09:00",
+    "access_history": [
+      {
+        "accessed_at": "2026-11-08T18:53:10+09:00",
+        "scope": "CAT-DE-01 열람; 기존 장부에 기록한 범위 유지"
+      },
+      {
+        "accessed_at": "2026-11-09T00:46:17+09:00",
+        "scope": "동일 해시 파일 재다운로드 및 PDF 368·398 이미지 판독, 367 텍스트 확인; xref 복구 경고"
+      },
+      {
+        "accessed_at": "2026-11-09T09:02:34+09:00",
+        "scope": "CAT-DE-05: 기존 SHA-256 일치 스캔의 PDF 315·318·321 해당 인쇄면 재렌더링·시각 판독"
+      }
+    ],
+    "additional_accessed_at": [
+      "2026-11-10T17:18:19+09:00"
+    ]
+  },
+  {
+    "id": "CAT-DE-SRC-0002",
+    "title": "Panzer IV",
+    "institution_or_author": "The Tank Museum, Bovington",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 실물 이력·형식 설명",
+    "locator": "The Tank Museum’s Panzer IV; Tank facts (Main Weapon, Secondary Weapon, Crew); 공개 소장번호 미제시",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/panzer-iv?country=all&era=all",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Ausf D 전시품의 1943년 KwK 40 L/43 개장 및 운전교육 용도",
+      "현재 무장·기관총 수·승무원 수 대조"
+    ],
+    "limitations": [
+      "전시품 이력을 계열 전체 출고 사양으로 일반화하지 않음",
+      "제원란 전체 수치의 형식/집계 범위 미확인; 원 설계도·생산대장 미열람"
+    ],
+    "rights": "기관 웹 콘텐츠 저작권 적용. 자체 요약·원문 링크만 사용; 사진 재업로드 안 함.",
+    "independence_group": "Tank-Museum; 하위 원기록 계보 미확인",
+    "accessed_at": "2026-11-08T18:53:10+09:00"
+  },
+  {
+    "id": "CAT-DE-SRC-0003",
+    "title": "Panther",
+    "institution_or_author": "The Tank Museum, Bovington",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 실물 이력·형식 설명",
+    "locator": "본문 첫 실전 설명; The Tank Museum’s Panther; Tank facts; 공개 소장번호 미제시",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/panther",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시품의 연합군 점령 후 영국군 감독 조립 이력",
+      "KwK 42 L/70·기관총 2정·승무원 5명 대조",
+      "1943년 Kursk 첫 실전이라는 기관 설명의 존재"
+    ],
+    "limitations": [
+      "전시품의 독일군 실전 참가를 입증하지 않음",
+      "생산량 표기의 형식 범위·원전 미확인; 총생산량으로 채택하지 않음"
+    ],
+    "rights": "기관 웹 콘텐츠 저작권 적용. 자체 요약·링크만 사용.",
+    "independence_group": "Tank-Museum; 하위 원기록 계보 미확인",
+    "accessed_at": "2026-11-08T18:53:10+09:00"
+  },
+  {
+    "id": "CAT-DE-SRC-0004",
+    "title": "Tiger I / Tiger 131",
+    "institution_or_author": "The Tank Museum, Bovington",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 실물 이력·제원 안내",
+    "locator": "Tiger 131 문단; Tank facts; 식별명 Tiger 131, Sd Kfz 181 Panzerkampfwagen VI Ausf E; 공개 소장번호 미제시",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/tiger-i/?country=all&era=all&tname=&tpage=1",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943-04-24 튀니지 노획이라는 기관 설명",
+      "88 mm·7.92 mm 기관총 2정·승무원 5명 대조"
+    ],
+    "limitations": [
+      "관통 수치의 탄종·각도·판정기준 미제시로 성능 확정값에 미채택",
+      "해당 차량의 원래 엔진과 후기 Model E의 일반 제원을 결합하지 않음"
+    ],
+    "rights": "기관 웹 콘텐츠 저작권 적용. 자체 요약·링크만 사용.",
+    "independence_group": "Tank-Museum; 하위 원기록 계보 미확인",
+    "accessed_at": "2026-11-08T18:53:10+09:00"
+  },
+  {
+    "id": "CAT-DE-SRC-0005",
+    "title": "Tiger II",
+    "institution_or_author": "The Tank Museum, Bovington",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 실물 이력·제원 안내",
+    "locator": "본문 생산량 설명; The Tank Museum’s Tiger II (Production); Tank facts; 차대번호 280093",
+    "url": "https://tankmuseum.org/tank_collection/tiger-ii",
+    "access_status": "disputed",
+    "claims_checked": [
+      "1944년 7월 제작·차대번호 280093 기록",
+      "KwK43 L/71·MG34 2정·승무원 5명 대조",
+      "동일 페이지 본문의 489대와 요약의 492대 충돌"
+    ],
+    "limitations": [
+      "생산량 집계 범위·시제품 포함 여부 근거 미제시. 차이를 추정으로 해소하지 않음",
+      "disputed는 생산량에 해당하며 모든 소장품 이력이 반증됐다는 뜻이 아님"
+    ],
+    "rights": "기관 웹 콘텐츠 저작권 적용. 자체 요약·링크만 사용.",
+    "independence_group": "Tank-Museum; 하위 원기록 계보 미확인",
+    "accessed_at": "2026-11-08T18:53:10+09:00"
+  },
+  {
+    "id": "CAT-DE-SRC-0006",
+    "title": "TM-E 30-451, Chapter VII §VI.4 Heavy Tanks — HTML transcription",
+    "institution_or_author": "U.S. War Department 원저; Lone Sentry 전사",
+    "publication_date": "원저 1945-03-15; 전사 웹 게시일 미상",
+    "source_type": "primary-transcription: 동시대 교범의 후대 전사본",
+    "locator": "§VI.4.b(2) Performance, Road speed; Source Details; 상위 원저 CAT-DE-SRC-0001",
+    "url": "https://collection.lonesentry.com/manuals/tme30/ch7sec6sub4.html",
+    "access_status": "disputed",
+    "claims_checked": [
+      "Tiger Model E road speed를 5 mph로 옮긴 전사값 확인; 원문 스캔 15 mph와 불일치"
+    ],
+    "limitations": [
+      "교범의 독립 확증이 아닌 같은 자료의 전사. 본문 숫자에 전사 오류가 확인되어 원문 대조 필요",
+      "자료 소개가 불완전·부정확 가능성을 명시함"
+    ],
+    "rights": "미 정부 원저와 후대 사이트의 편집·전사 권리를 구분. 자체 요약·링크만 사용.",
+    "independence_group": "TM-E-30-451",
+    "accessed_at": "2026-11-08T18:53:10+09:00"
+  },
+  {
+    "id": "CAT-DE-SRC-0007",
+    "title": "StuG III",
+    "institution_or_author": "The Tank Museum, Bovington",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 실물 이력·제원 안내",
+    "locator": "The Tank Museum’s StuG III 첫 소장품 문단; Tank facts(Full Name·Main Weapon·Crew·Speed·Armour); 공개 소장번호 미제시",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/stug-iii",
+    "accessed_at": "2026-11-09T00:46:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장 Ausf G 한 대의 1943-08~1944-09 제작 범위",
+      "75 mm StuK40 1문·승무원 4명·안내 속력 40 km/h/25 mph; 교범 최대 20 mph와 불일치"
+    ],
+    "limitations": [
+      "시험조건·원전 계보 미제시; 자료간 속력 차이의 원인 미확정",
+      "생산량·최상급 전과 표현을 검증된 사실로 채택하지 않음",
+      "Tank facts의 단일 Armour를 전 방향 두께로 일반화하지 않음"
+    ],
+    "rights": "기관 웹 콘텐츠 저작권 적용. 자체 한국어 요약·원문 링크만 사용; 사진·전문 재업로드 안 함.",
+    "independence_group": "Tank-Museum; 하위 원기록 계보 미확인"
+  },
+  {
+    "id": "CAT-DE-SRC-0008",
+    "title": "Sd Kfz 234/3",
+    "institution_or_author": "The Tank Museum, Bovington",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 계열 구분·소장품 설명",
+    "locator": "본문 첫 계열별 무장 문단 및 디젤 설명; Tank facts는 /3 대상으로 식별. 공개 소장번호 미제시",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/sd-kfz-234-3/",
+    "accessed_at": "2026-11-09T00:46:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "234/1 20 mm·/2 50 mm·/3 단포신75 mm·/4 장포신75 mm의 계열 구분",
+      "234계열 디젤 사용 설명과 미군 목록 /2 공랭 디젤의 제한적 대조"
+    ],
+    "limitations": [
+      "/3의 제원·생산량·전시품 이력을 /2로 전용하지 않음",
+      "/2의 속력·장갑·생산량·실전 배치를 독립 확증하지 않음",
+      "원 독일 교범·공장기록 미열람"
+    ],
+    "rights": "기관 웹 콘텐츠 저작권 적용. 자체 요약과 링크만 사용; 이미지 재업로드 안 함.",
+    "independence_group": "Tank-Museum; 하위 원기록 계보 미확인"
+  },
+  {
+    "id": "CAT-DE-SRC-0009",
+    "title": "Catalog of Enemy Ordnance Materiel — German section: s. Pz. Sp. Wg. (5 cm) Sd. Kfz.234/2; m. Flammpanzerwagen (Sd. Kfz.251/16)",
+    "institution_or_author": "U.S. War Department, Office of the Chief of Ordnance; Internet Archive 재현 스캔",
+    "publication_date": "해당 두 낱장 1945-04-01; 전체 편집본의 모든 쪽에 같은 날짜를 적용하지 않음",
+    "source_type": "primary: 동시대 적군 병기정보 목록 원문 스캔",
+    "locator": "German section pp.42.1(PDF 27)·46.1(PDF 29); 각 낱장 머리말·본문·SPECIFICATIONS·하단 발행기관/날짜. 스캔 식별자 CatalogOfEnemyOrdnanceMateriel",
+    "url": "https://archive.org/download/CatalogOfEnemyOrdnanceMateriel/CatalogOfEnemyOrdnanceMateriel.pdf",
+    "accessed_at": "2026-11-09T00:46:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "234/2의 5 cm Kw.K.39/1·동축 기관총 존재·승무원4·최대50 mph·공랭12기통디젤·포탑 전면30mm/수직기준20°",
+      "251/16의 대형화염방사기2·휴대형1·MG34 2정·승무원4·속력30mph·전면15mm/측면8.5mm/라디에이터덮개7.5mm",
+      "두 페이지의 인쇄일 1 April 1945와 쪽번호 직접 시각 판독"
+    ],
+    "limitations": [
+      "독일 설계/생산 원기록이 아닌 적군 정보자료; TM-E30-451과 독립된 정보계보인지 미확인",
+      "251/16의 Ausf·생산시점·실전부대·개조 상태 미기재",
+      "속력 시험일·하중·노면 조건 미기재; 관통수치는 추정 및 조건부",
+      "PDF 전체를 검수하지 않음; 제목지 OCR 불량으로 전체 발행일을 추정하지 않음"
+    ],
+    "rights": "미 연방정부 당대 간행물. 스캔은 열람·판독에만 사용; 저장소에는 자체 요약과 링크만 저장.",
+    "access_attempts": [
+      {
+        "method": "web open: curioandrelic part1 mirror",
+        "result": "Content length too large: 18058888"
+      },
+      {
+        "method": "직접 HTTPS: curioandrelic mirror",
+        "result": "HTTP 406 Not Acceptable"
+      },
+      {
+        "method": "직접 HTTPS: Internet Archive 원문 스캔, pdftotext/pdftoppm",
+        "result": "HTTP 200; 50,627,397 bytes; PDF 27·29 이미지 판독 성공"
+      }
+    ],
+    "sha256": "7b5936bcb7167512554ac08f44a0d471ab85b03edc3cde82dc570b16402e9007",
+    "independence_group": "US-Ordnance-enemy-catalog; TM-E와 공통 정보 가능"
+  },
+  {
+    "id": "CAT-DE-SRC-0010",
+    "title": "Bismarck (Battleship, 1940-1941) — Construction",
+    "institution_or_author": "U.S. Naval Historical Center; HyperWar 보존본",
+    "publication_date": "2000-12-16",
+    "source_type": "secondary: 해군 역사기관 해설의 보존본",
+    "locator": "본문 제1~5문단; 사진 NH 75644·NH 83983 등 목록 설명 (이미지 자체 미판독)",
+    "url": "https://www.ibiblio.org/hyperwar/OnlineLibrary/photos/sh-fornv/germany/gersh-b/bismk-v.htm",
+    "accessed_at": "2026-11-09T05:23:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "38cm 8문·15cm 12문·10.5cm 16문 배치",
+      "함급 30knot 초과·약150,000hp 설명; 배수량 기준/만재 구분",
+      "1940년8월 취역·이후 시험"
+    ],
+    "limitations": [
+      "함급 요약 수치를 개별함의 특정 시험조건으로 확정하지 않음",
+      "tons 종류·배수량 적재조건 미확인",
+      "미 해군 원사이트 대신 기관명·게시일이 보존된 미러 열람; 독립 원전 계보 미확인"
+    ],
+    "rights": "자체 요약·링크만 저장. 원 사진별 출처/권리는 별도이며 이미지 복제 없음.",
+    "independence_group": "NHC historical explanation; underlying sources unestablished"
+  },
+  {
+    "id": "CAT-DE-SRC-0011",
+    "title": "German Battleship Bismarck: Interrogation of Survivors, C.B.4051(24)",
+    "institution_or_author": "Admiralty, Naval Intelligence Division; U-boat Archive 전사",
+    "publication_date": "1941-08 (전사된 표제 기준)",
+    "source_type": "primary-transcription: 동시대 포로심문 보고의 후대 HTML 전사",
+    "locator": "C.B.4051(24); 서두 진술검증 경고; p.5 표제; p.29 Details (3)(A); p.32 (5) Armament. 표제 N.I.D.08409/43; 기록관 소장번호 미확인",
+    "url": "https://uboatarchive.net/Int/BismarckINT.htm",
+    "accessed_at": "2026-11-09T05:23:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "38cm8문·15cm12문·10.5cm16문 배치 전사",
+      "32.5knot 시험속력 진술·축당35000~45000shp/총135000shp 가능치와 보고서의 유보",
+      "표제상 1941-05-27 침몰 및 자료 자체의 신뢰성 경고"
+    ],
+    "limitations": [
+      "원 스캔 미판독; 전사 오류 가능",
+      "포로 진술·기관 추정·확정값을 구분; 독일 원 시험기록 아님",
+      "NHC와 숫자 차이는 disputed 쟁점으로 보존; 독립 확증 없음"
+    ],
+    "rights": "원 영국 정부 보고와 후대 사이트 전사·편집 권리 구분. 자체 요약·링크만 저장.",
+    "independence_group": "Admiralty survivor interrogation; NHC와 계보 관계 미확인"
+  },
+  {
+    "id": "CAT-DE-SRC-0012",
+    "title": "Wolf Beneath the Waves: U-505 Joins the Battle of the Atlantic",
+    "institution_or_author": "Jason Dawsey, PhD / The National WWII Museum",
+    "publication_date": "2022-02-11",
+    "source_type": "secondary: 박물관 연구자 해설",
+    "locator": "초기 노획 소개; Type IXC·취역 문단; 추진기관/속력·무장 문단; 훈련 및 첫/두 번째 임무 문단. HTML 페이지 쪽번호 없음",
+    "url": "https://www.nationalww2museum.org/war/articles/u505-german-submarine-battle-of-atlantic",
+    "accessed_at": "2026-11-09T05:23:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "U-505 Type IXC·Deutsche Werft·1941년8월말 취역·훈련 및1942년 초기 임무",
+      "21inch발사관6(함수4/함미2)·어뢰22·초기 갑판포4.1inch·20/37mm각1",
+      "수상18knot/수중8knot; 1944-06-04 노획"
+    ],
+    "limitations": [
+      "독일 원 교범·시험자료·출항별 적재표 미열람",
+      "초기 무장을 노획 당시 개장 상태로 일반화하지 않음",
+      "거의17000miles 항속의 속력조건·마일 종류 미제시로 확정표 제외",
+      "원문 자동 인용창의 열람일은 사용하지 않고 실제 이번 열람일 별도 기록"
+    ],
+    "rights": "박물관 콘텐츠 저작권 적용. 자체 요약·원문 링크만 사용; 사진 재업로드 없음.",
+    "independence_group": "National WWII Museum; 하위 제원 원전 미제시"
+  },
+  {
+    "id": "CAT-DE-SRC-0013",
+    "title": "Handling the Me 262 / Pilots Notes on Me 262 by Flug Kapitan Wendel",
+    "institution_or_author": "Flugkapitän Fritz Wendel 원 메모; 영국 A.I.2.(g), H.G. Morison 서명 번역; Zeno's Warbird Video Drive-In 후대 재조판",
+    "publication_date": "번역 말미 1945-05-25; 독일어 원 작성일·웹 재조판일 미상",
+    "source_type": "primary-derived: 동시대 조종 지침의 영국 번역을 후대 재조판한 PDF",
+    "locator": "A.I.2.(g) Report No.2357; PDF p.2 §§1–2, p.3 §2, p.5 날짜·서명; 기록관 소장번호 미확인",
+    "url": "https://zenoswarbirdvideos.com/Images/Me262/ME262WendeL.pdf",
+    "claims_checked": [
+      "전투기6700kg/190–200km/h·폭격기7100kg/200–220km/h 이륙 계기속도 권고",
+      "급격한 가속 경고·특히7500rpm까지 천천히 올리는 지침",
+      "번역 경위 머리말 및1945-05-25 말미"
+    ],
+    "limitations": [
+      "원 독일어 및 영국 원 스캔 미대조; 재조판/OCR 오류 가능",
+      "세부형·엔진 하위형·시험일 미확인; 권고를 실측 최고속도로 해석하지 않음"
+    ],
+    "rights": "동시대 문서와 후대 재조판 권리를 구분. 자체 요약·원문 링크만 저장.",
+    "independence_group": "Wendel/AI2g2357; 원본 계보 미대조",
+    "accessed_at": "2026-11-09T06:58:04+09:00",
+    "access_status": "source_checked"
+  },
+  {
+    "id": "CAT-DE-SRC-0014",
+    "title": "Messerschmitt Me 262-A2 Fighter Aircraft : KG51 Luftwaffe",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 실물 기술·이력; 소장품 자체와 웹 해설 구분",
+    "locator": "REL/08385.001; Werknummer500200; Description 제1~3문단; History/Summary; HTML 무쪽번호",
+    "url": "https://www.awm.gov.au/collection/C111055",
+    "claims_checked": [
+      "500200/A-2·아마1945년2월 제작·KG51 복무라는 기관 설명",
+      "현재 MK108 30mm4문 장착·폭탄걸이2개 제거 상태",
+      "Fassberg 위치를 Netherlands로 쓴 본문과 하단 Germany 사진 설명의 불일치"
+    ],
+    "limitations": [
+      "현재 상태와 전쟁기 인도 사양의 동일성 미확인; 원 개조기록 미열람",
+      "지리 불일치는 질문으로 보존; 항복 경로를 확정 서술하지 않음",
+      "동일기관 전시 페이지와 독립 자료 아님"
+    ],
+    "rights": "기관 콘텐츠 권리 적용. 자체 요약과 링크만 저장; 이미지 복제 없음.",
+    "independence_group": "AWM-500200",
+    "accessed_at": "2026-11-09T06:58:04+09:00",
+    "access_status": "source_checked"
+  },
+  {
+    "id": "CAT-DE-SRC-0015",
+    "title": "Striking by Night — Messerschmitt Me 262",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "페이지 최종갱신 2020-02-05",
+    "source_type": "secondary: 박물관 전시 설명·제원표",
+    "locator": "Manufacturer/Type/Powerplant/Armament/Crew 표; AIR MIN81/Black X 설명; Accession link136091",
+    "url": "https://www.awm.gov.au/visit/exhibitions/striking/planes/german/me262",
+    "claims_checked": [
+      "Jumo109-004B2기·승무원1·폭장500kg1발 또는250kg2발 안내",
+      "4문30mm 표기와 소장목록 설명의 기관 내 대조"
+    ],
+    "limitations": [
+      "실제 특정 출격/하중/속력 시험기록 아님",
+      "같은 AWM 소장품에 대한 자료로 독립 확증 불가; A-2 무장 일반화 불가"
+    ],
+    "rights": "기관 콘텐츠 저작권 적용. 자체 요약·링크만 사용.",
+    "independence_group": "AWM-500200",
+    "accessed_at": "2026-11-09T06:58:04+09:00",
+    "access_status": "source_checked"
+  },
+  {
+    "id": "CAT-DE-SRC-0016",
+    "title": "German Air Force Airlift Operations (USAF Historical Studies No.167)",
+    "institution_or_author": "Generalmajor a.D. Fritz Morzik; USAF Historical Division, Research Studies Institute, Air University",
+    "publication_date": "1961-06",
+    "source_type": "retrospective participant study: 전후 참여자 연구/공식 간행물, 전시 교범 아님",
+    "locator": "Study167; 표제·Part1 §IV.A.1 인쇄p.40; 공식 스캔 AFD-090519-043; 2005 scanning 표기",
+    "url": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/151-200/AFD-090519-043.pdf",
+    "claims_checked": [
+      "Ju52의 전시 표준수송기 역할",
+      "화물 경사로·보급용기 투하·공수병 출입문·글라이더 견인 설명",
+      "표제의 저자·1961년6월·발행기관"
+    ],
+    "limitations": [
+      "전후 참여자의 서술·회고 편향 가능; 원 작전일지·세부형 교범 미대조",
+      "p40의 생산/잔존 수량은 확정 수량표에 미채택",
+      "전체 책 검수 아님; 본문 추출 열람으로 원 화상·필적 검증 주장 안 함"
+    ],
+    "rights": "미 정부 간행물 내 원 자료별 권리 별도. 자체 요약·원문 링크만 저장.",
+    "independence_group": "Morzik-USAF167",
+    "accessed_at": "2026-11-09T06:58:04+09:00",
+    "access_status": "source_checked"
+  },
+  {
+    "id": "CAT-DE-SRC-0017",
+    "title": "Mauser Kar 98k Rifle : German Army",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "document_or_accession_number": "REL28841",
+    "source_type": "secondary: 기관의 소장품 설명. 전시기 물품은 물적 1차 자료",
+    "locator": "Maker·Date made·Description·History / Summary, 무쪽번호",
+    "url": "https://www.awm.gov.au/collection/C963504",
+    "accessed_at": "2026-11-09T09:02:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 Lübeck 제작자로 기재된 1940년 소장품, 237·1940·Mod 98 각인, 볼트액션, 멜빵"
+    ],
+    "limitations": [
+      "제작일은 물품 연대이며 웹 설명의 게시일은 미상",
+      "개별 부대 배치·교전 및 실측 제원 미제시"
+    ],
+    "rights": "소장기관 웹 콘텐츠의 권리 적용. 한국어 자체 요약과 링크만 사용. 사진 미복제.",
+    "independence_group": "AWM-REL28841; 물품 기술은 미군 교범과 별도"
+  },
+  {
+    "id": "CAT-DE-SRC-0018",
+    "title": "Mauser MG 42 7.92 mm machine gun, 1943 (c)",
+    "institution_or_author": "National Army Museum, London",
+    "publication_date": null,
+    "document_or_accession_number": "NAM 1964-05-60-12",
+    "source_type": "secondary: 기관의 소장품 설명. 전시기 물품은 물적 1차 자료",
+    "locator": "제목·본문 첫 문단·NAM Accession Number·Copyright/Ownership",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1964-05-60-12",
+    "accessed_at": "2026-11-09T09:02:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "약 1943년 물품 식별, 7.92 mm, 해설의 분당 1,200~1,500발"
+    ],
+    "limitations": [
+      "해설 발사속도에 시험조건·출전 없음. 전시품 직접 시험으로 취급하지 않음."
+    ],
+    "rights": "National Army Museum Copyright 명시. 한국어 자체 요약과 링크만 사용.",
+    "independence_group": "NAM-1964-05-60-12; 발사속도 원전 계보 미확인"
+  },
+  {
+    "id": "CAT-DE-SRC-0019",
+    "title": "Non disintergrating ammunition belt : MG34 and MG42",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "document_or_accession_number": "REL31710",
+    "source_type": "secondary: 기관의 소장품 설명. 전시기 물품은 물적 1차 자료",
+    "locator": "제목·Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C1023548",
+    "accessed_at": "2026-11-09T09:02:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "비분리식 강철 탄띠 50발 단위 및 7.92×57 mm용이라는 물품 설명"
+    ],
+    "limitations": [
+      "물품 연대는 약 1930~1940년대, 개별 사용 이력 미상. 발사속도·보급량의 증거 아님."
+    ],
+    "rights": "소장기관 웹 콘텐츠의 권리 적용. 한국어 자체 요약과 링크만 사용. 사진 미복제.",
+    "independence_group": "AWM-REL31710; 물품 기술은 미군 교범과 별도"
+  },
+  {
+    "id": "CAT-DE-SRC-0020",
+    "title": "Die Panzerfaust (Pzf–60 m)",
+    "institution_or_author": "독일군 전시 안내서, 개별 저자 미표기 / djvu.online 디지털 스캔",
+    "publication_date": "1944-10 (스캔 4면 10.44 인쇄 표기)",
+    "document_or_accession_number": "D 560/3; 원 소장처 미상",
+    "source_type": "primary: 독일군 전시 인쇄 안내서의 이미지 스캔",
+    "locator": "무쪽번호, 스캔 이미지 001~004. 001 표제·탄두 도해·80m 문구, 002 조준기 눈금, 004 인쇄 표기",
+    "url": "https://djvu.online/file/xVyEqdA2dCtZi",
+    "accessed_at": "2026-11-09T09:02:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Pzf–60 m 및 성형작약 탄두, 조준기 30·60·80 m와 표지 80 m 주장, 10.44 인쇄 표기. OCR 대신 이미지 판독."
+    ],
+    "limitations": [
+      "스캔 물품의 원 소장처 미확인. 표지는 교육·선전 성격이 강하며 실제 명중·관통 시험조건을 제시하지 않음.",
+      "CAMO Bestand 500 Findbuch 12451 Akte 194의 목록은 확인했으나 해당 소장본 본문과 스캔의 동일 판본 여부는 미대조."
+    ],
+    "rights": "당대 간행물과 스캔 게시의 권리 상태 미확인. 이미지·전문 복제 없이 링크와 요약만 사용.",
+    "independence_group": "독일 D 560/3; 미군 TM-E가 참고한 독일 자료는 미확인"
+  },
+  {
+    "id": "CAT-DE-SRC-0021",
+    "title": "Panzerfaust 60 (demilitarisiert)",
+    "institution_or_author": "Celler Garnison-Museum e.V.",
+    "publication_date": null,
+    "document_or_accession_number": "CGM-03-09-0002",
+    "source_type": "secondary: 기관의 소장품 설명. 전시기 물품은 물적 1차 자료",
+    "locator": "Titel·Hersteller·Inventarnummer·Beschreibung·Quelle·Rechte",
+    "url": "https://www.celler-garnisonmuseum.de/items/show/32",
+    "accessed_at": "2026-11-09T09:02:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "비무장화 소장품 식별과 해설의 약 8.5 kg, 약 60 m, 유리한 조건의 약 200 mm 관통 표기"
+    ],
+    "limitations": [
+      "중량 계량 구성과 시험자료 미제시. 표기 출전 D 560/2는 60형 전용 D 560/3과 구별."
+    ],
+    "rights": "페이지 Rechte에 CC BY-SA 4.0 표시. 이미지 복제 없이 링크와 자체 요약만 사용.",
+    "independence_group": "CGM-03-09-0002; 해설 수치의 원기록 계보 미확인"
+  },
+  {
+    "id": "CAT-DE-SRC-0022",
+    "title": "German M 35/40 helmet : Private H Horrowitz, Cape Town Highlanders",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "document_or_accession_number": "REL32447",
+    "source_type": "secondary: 기관의 소장품 설명. 전시기 물품은 물적 1차 자료",
+    "locator": "Date made·Description·History / Summary, 무쪽번호",
+    "url": "https://www.awm.gov.au/collection/C1036245",
+    "accessed_at": "2026-11-09T09:02:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "약 1940~1942년이라는 물품 연대, 강철 외피·가죽 내피·D120·NS64 표기, 균열 및 엘알라메인 수집 이력"
+    ],
+    "limitations": [
+      "M 35/40은 기관 목록 명칭. 손상 원인·정확한 제작일·개별 착용자·방호 성능은 미확인."
+    ],
+    "rights": "소장기관 웹 콘텐츠의 권리 적용. 한국어 자체 요약과 링크만 사용. 사진 미복제.",
+    "independence_group": "AWM-REL32447"
+  },
+  {
+    "id": "CAT-DE-SRC-0023",
+    "title": "R.A.F. Narrative (First Draft): Photographic Reconnaissance, Volume II, May 1941 to August 1945",
+    "institution_or_author": "Air Historical Branch (1), Air Ministry / Royal Air Force 공식 스캔",
+    "publication_date": "초고 작성일 미표기, 수록기간 1941-05~1945-08",
+    "source_type": "official historical narrative: 동시대 정찰·작전기록을 활용한 기관 서술의 스캔",
+    "document_or_accession_number": "DS 74661/1(104) (96쪽 표기); 인용 Operation Biting Report Ops.11.4",
+    "locator": "표제, 인쇄 96쪽 C. Enemy Radio and Radar (PDF 100), 103쪽 같은 항목 (PDF 107)",
+    "url": "https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/second-world-war-thematic-studies/photographic-reconnaissance-vol-ii-may-1941-august-1945/",
+    "accessed_at": "2026-11-09T10:58:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941-12-05 정찰 및 르아브르 부근 단거리 포물면형",
+      "1942-02-27 브뤼느발 급습과 부품 회수, 대공포 사격통제"
+    ],
+    "limitations": [
+      "원 항공사진 및 Biting 원작전보고는 미열람",
+      "노획 장비의 하위형·일련번호 및 시험값 미제시"
+    ],
+    "rights": "원 자료 및 디지털 게시의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "RAF 정찰·작전 기록 계열; ADI(K) §46 독일 측 문서 발췌와 구별"
+  },
+  {
+    "id": "CAT-DE-SRC-0024",
+    "title": "Radio and Radar Equipment in the Luftwaffe – X: German early warning Ground Radar",
+    "institution_or_author": "영국 A.D.I.(K); 기술정보 보고 / CDV&T 후대 재조판 PDF",
+    "publication_date": "1945 (보고번호의 연도, 월·일 미확인)",
+    "source_type": "primary-derived: 전시 당사자 심문 및 확보 문서 기반 1945년 영국 보고의 재조판",
+    "document_or_accession_number": "A.D.I.(K) Report No. 390/1945",
+    "locator": "PDF 1쪽 경고·§1, 6쪽 §31, 9쪽 §46, 12–14쪽 §§60–68",
+    "url": "https://www.cdvandt.org/ADIK390all.pdf",
+    "accessed_at": "2026-11-09T10:58:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "§46의 1944년 6월 독일 측 문서 번역 발췌와 브뤼느발 부품 노획",
+      "Würzburg A/D와 Riese의 거리·역할, Kammhuber 구역 및 Seeburg 표시 방식"
+    ],
+    "limitations": [
+      "보고서 머리말에 심문 내용 미검증 경고",
+      "원 스캔 및 독일 측 문서 원본과 재조판 미대조",
+      "거리·정확도 수치의 표적·고도·재밍·시험조건 불충분"
+    ],
+    "rights": "원 자료 및 디지털 게시의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Martini 측 심문·확보 문서; RAF 정찰사와 계보가 다른 독일 측 자료를 §46에서 간접 열람"
+  },
+  {
+    "id": "CAT-DE-SRC-0025",
+    "title": "Wurzburg radar aerial",
+    "institution_or_author": "Science Museum Group",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 설명, 전시 실물은 물적 1차 자료",
+    "document_or_accession_number": "1982-1216",
+    "locator": "소개 본문, Details / Object Number",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co35946/wurzburg-radar-aerial",
+    "accessed_at": "2026-11-09T10:58:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "접이식 대차 안테나와 Type A 식별",
+      "브뤼느발 노획 가능성, 건지 부품을 이용한 1990년대 복원"
+    ],
+    "limitations": [
+      "기관이 제시한 브뤼느발 연계는 가능성 표기",
+      "원 인계 목록·복원 부품별 일련번호 미확보"
+    ],
+    "rights": "원 자료 및 디지털 게시의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "SMG 1982-1216 소장·복원 설명"
+  },
+  {
+    "id": "CAT-DE-SRC-0026",
+    "title": "The role of the Enigma encoding machine in World War 2",
+    "institution_or_author": "National Museums Scotland",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관의 설명, 전시 실물은 물적 1차 자료",
+    "document_or_accession_number": "T.1994.63",
+    "locator": "소장품 소개·사진 캡션·How Enigma machines worked",
+    "url": "https://www.nms.ac.uk/discover-catalogue/the-role-of-the-enigma-encoding-machine-in-world-war-2",
+    "accessed_at": "2026-11-09T10:58:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 제작 해군형 4회전자 실물 및 별도 상자의 교체용 회전자 5개",
+      "전기기계식 치환과 공유 설정, 시연 영상은 스위스형"
+    ],
+    "limitations": [
+      "1944는 물품 제작연대이며 웹 게시일은 미확인",
+      "개별 함정 탑재·사용 이력과 복호 성과 미입증"
+    ],
+    "rights": "원 자료 및 디지털 게시의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "NMS T.1994.63 소장품 계열"
+  },
+  {
+    "id": "CAT-DE-SRC-0027",
+    "title": "Contact and Action Report - capture of U-505",
+    "institution_or_author": "USS Pillsbury (DE-133) 함장 / U-boat Archive 전사",
+    "publication_date": "1944-06-08",
+    "source_type": "primary-transcription: 전시 미 해군 작전보고의 HTML 전사",
+    "document_or_accession_number": "DE133/(FMR)/A16-3/cab, Serial #001; 보존기관 소장번호 미확인",
+    "locator": "표제·1쪽 §1, 2쪽 1146, 3쪽 1425 및 §3",
+    "url": "https://www.uboatarchive.net/U-505A/U-505Pillsbury%20Report.htm",
+    "accessed_at": "2026-11-09T10:58:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944-06-04 승선 및 기밀 출판물·해도·문서·기기 회수, Guadalcanal로 자료 인계"
+    ],
+    "limitations": [
+      "원 스캔 미대조",
+      "인용 구간은 개별 암호기의 형식·수량·일련번호를 적은 인수 목록이 아님"
+    ],
+    "rights": "미 연방정부 당대 문서와 후대 웹 전사·편집의 권리를 구분. 요약과 링크만 사용.",
+    "independence_group": "USS Pillsbury 함상 기록"
+  },
+  {
+    "id": "CAT-DE-SRC-0028",
+    "title": "Ultra and the Battle of the Atlantic: 미국 측 발표 중 U-505 관련 부분",
+    "institution_or_author": "Kenneth Knowles, Naval Symposium / NSA 공개본",
+    "publication_date": "1977-10-28 (발표), 간행일 미확인, 2010-07-26 공개 승인",
+    "source_type": "retrospective participant account: 전후 당사자 회고",
+    "document_or_accession_number": "NSA DOCID 3726627, FOIA Case 62049",
+    "locator": "합본 머리말 및 Knowles 발표 인쇄 14–15쪽",
+    "url": "https://www.nsa.gov/Portals/70/documents/news-features/declassified-documents/cryptologic-spectrum/Ultra.pdf",
+    "accessed_at": "2026-11-09T10:58:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "에니그마 통신문 해독과 별도로 부호화 해도가 위치 해석에 필요했다는 설명, U-505에서 새 해도를 확보했다는 회고"
+    ],
+    "limitations": [
+      "전후 회고이며 작전별 효과의 정량 자료가 아님",
+      "암호기 인수 목록 및 일련번호 미제시"
+    ],
+    "rights": "원 자료 및 디지털 게시의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Knowles 미 해군 전투정보 부문 회고; Pillsbury 보고서와 서술자·시기 상이"
+  },
+  {
+    "id": "CAT-DE-SRC-0029",
+    "title": "LeMO Biografie: Erich von Manstein",
+    "institution_or_author": "Alexander Mühle, Oliver Schweinoch, Arnulf Scriba / Deutsches Historisches Museum",
+    "publication_date": "2023-04-21 (Stand)",
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "1887, 1940–1944, 1946, 1949, 1973년 항목",
+    "url": "https://www.dhm.de/lemo/biografie/erich-von-manstein",
+    "accessed_at": "2026-11-09T12:54:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰 및 제38군단·제11군, 1942년 원수, 프랑스 침공계획 관여",
+      "1946년 증인 및 1949년 함부르크 재판의 18년 형량"
+    ],
+    "limitations": [
+      "전기의 요약은 발령·작전 원기록이 아님",
+      "돈 집단군 인수를 1942년 7월 항목에 적어 KCL 목록의 11월과 차이"
+    ],
+    "rights": "기관이 본문 CC BY-NC-SA 4.0을 명시. 자체 요약과 링크만 사용.",
+    "independence_group": "DHM LeMO 전기. 하위 원기록 계보 미확인."
+  },
+  {
+    "id": "CAT-DE-SRC-0030",
+    "title": "Trial of the Major War Criminals, Vol. XXXIV: Document 4064-PS",
+    "institution_or_author": "독일 제11군 사령부 / International Military Tribunal 증거집 / Library of Congress 스캔",
+    "publication_date": "1941-11-20 (명령서)",
+    "source_type": "primary: 전시 문서의 공식 증거집 수록본",
+    "document_or_accession_number": "AOK 11 Abt. Ic/AO Nr. 2379/41 geh.; 4064-PS / USA-927",
+    "locator": "인쇄 129–132쪽, 표제·접수 표식 설명·본문·서명 표기",
+    "url": "https://tile.loc.gov/storage-services/service/ll/llmlp/2011525338_NT_Vol-XXXIV/2011525338_NT_Vol-XXXIV.pdf",
+    "accessed_at": "2026-11-09T12:54:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제11군 명령의 날짜·문서번호 및 제72사단 접수 표식",
+      "반유대주의적 보복 논리와 현지 조달·포로와 주민에 대한 식량 배분 지침"
+    ],
+    "limitations": [
+      "공식 증거집 인쇄본을 열람. 원 서명 필적과 지휘부별 수신·집행은 미확인."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "전시 제11군 명령 자체"
+  },
+  {
+    "id": "CAT-DE-SRC-0031",
+    "title": "IMT Proceedings, Vol. XX: One Hundred Ninety-Seventh Day, 10 August 1946",
+    "institution_or_author": "International Military Tribunal / Yale Law School Avalon Project 전사",
+    "publication_date": "1946-08-10",
+    "source_type": "primary-transcription: 법정 증언의 공식 속기록 전사",
+    "document_or_accession_number": "IMT Vol. XX, 1946-08-10",
+    "locator": "인쇄 644–645쪽, Telford Taylor의 반대신문과 만슈타인 답변",
+    "url": "https://avalon.law.yale.edu/imt/08-10-46.asp",
+    "accessed_at": "2026-11-09T12:54:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "만슈타인이 4064-PS의 직접 작성은 부인하고 초안에 서명했을 가능성이 크다고 진술"
+    ],
+    "limitations": [
+      "증인은 이 재판에서 피고인이 아님. 자기 진술은 발령·실행이나 집필자 신원에 대한 별도 확증이 아님."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "1946년 법정 당사자 증언. 명령서 자체와 다른 증거 종류."
+  },
+  {
+    "id": "CAT-DE-SRC-0032",
+    "title": "VON MANSTEIN, FM (Fritz) Erich (1887-1973)",
+    "institution_or_author": "King’s College London, Liddell Hart Centre for Military Archives / AIM25",
+    "publication_date": null,
+    "source_type": "archival finding aid: 기록관 목록과 전기",
+    "document_or_accession_number": "GB 0099 KCLMA Von Manstein",
+    "locator": "Administrative history, Archival history, Scope and content",
+    "url": "https://atom.aim25.com/index.php/von-manstein-fm-fritz-erich-1887-1973?sf_culture=en",
+    "accessed_at": "2026-11-09T12:54:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제38군단과 제11군 지휘, 돈 집단군 지휘 시작을 1942년 11월로 표기",
+      "함부르크 별도 재판 소장기록 및 17개 혐의 중 9개 유죄와 최초 18년형이라는 목록 설명"
+    ],
+    "limitations": [
+      "원 판결문·증거·형량 감경 기록 미열람",
+      "전기의 정확한 출전 계보는 미확인"
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "KCL 기록관 목록. 변호인 쪽 기증 기록이 포함된 컬렉션."
+  },
+  {
+    "id": "CAT-DE-SRC-0033",
+    "title": "LeMO Biografie: Karl Dönitz",
+    "institution_or_author": "Manfred Wichmann / Deutsches Historisches Museum",
+    "publication_date": "2014-09-14 (Stand)",
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "1891·1939·1943·1946·1980년 항목",
+    "url": "https://www.dhm.de/lemo/biografie/karl-doenitz",
+    "accessed_at": "2026-11-09T12:54:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰·BdU의 조직 및 작전 지휘, 1943년 해군 총사령관과 대제독, 전후 최초 10년형"
+    ],
+    "limitations": [
+      "기관 전기이며 개별 잠수함 명령 원본이 아님."
+    ],
+    "rights": "기관이 본문 CC BY-NC-SA 4.0을 명시. 자체 요약과 링크만 사용.",
+    "independence_group": "DHM LeMO 전기. 하위 원기록 계보 미확인."
+  },
+  {
+    "id": "CAT-DE-SRC-0034",
+    "title": "Trial of the Major War Criminals, Vol. I: Judgment on Dönitz and Sentences",
+    "institution_or_author": "International Military Tribunal / Library of Congress 스캔",
+    "publication_date": "1946-09-30~1946-10-01 (판결 낭독 및 선고)",
+    "source_type": "primary: 재판소 공식 판결·선고록",
+    "document_or_accession_number": "IMT Vol. I, Dönitz 항목",
+    "locator": "인쇄 310–315쪽, 365쪽. Yale Avalon HTML의 Doenitz 항목도 대조",
+    "url": "https://tile.loc.gov/storage-services/service/ll/llmlp/2011525338_NT_Vol-I/2011525338_NT_Vol-I.pdf",
+    "accessed_at": "2026-11-09T12:54:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943-01-30 해군 총사령관 취임, 개전 후 잠수함전 지휘 및 초기 상급 지휘부 권한",
+      "잠수함전 의정서 위반 판단·생존자 살해 명령에 관한 증명 한계·형량에서 잠수함전 국제법 위반 제외",
+      "제1항 무죄, 제2·3항 유죄와 10년형, 특공대 명령 유지의 책임 범위",
+      "CAT-DE-08: 1945-05-01 되니츠 국가원수 취임이라는 판결문 기록 재확인"
+    ],
+    "limitations": [
+      "판결은 재판소의 인정과 법적 판단을 보여 준다. 개별 작전의 발신·수신 자료가 아님.",
+      "Avalon 전사는 같은 판결을 전달하므로 별도 확증으로 집계하지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "IMT 판결 및 선고 원기록",
+    "access_history": [
+      {
+        "accessed_at": "2026-11-09T15:00:34+09:00",
+        "scope": "Yale Avalon 동일 판결의 Crimes against Peace 부분에서 국가원수 취임일 재대조"
+      }
+    ]
+  },
+  {
+    "id": "CAT-DE-SRC-0035",
+    "title": "F.d.U./B.d.U.’s War Log, 16–31 March 1943",
+    "institution_or_author": "독일 해군 잠수함 지휘부 / U-boat Archive 영어 전사",
+    "publication_date": "1943-03-16 (확인한 일지 날짜)",
+    "source_type": "primary-translation-transcription: 전시 지휘부 일지의 영어 번역 전사",
+    "document_or_accession_number": "PG30320",
+    "locator": "1943-03-16, Current Operations IV.b.2, 전사 173쪽",
+    "url": "https://www.uboatarchive.net/BDU/BDUKTB30320.htm",
+    "accessed_at": "2026-11-09T12:54:28+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제19호 호송선단에 대한 Stürmer 일부 재배치와 무선정보에 따른 Dränger 전환"
+    ],
+    "limitations": [
+      "독일어 원일지 및 발신·수신 원문 미대조",
+      "지휘부 일지는 되니츠의 개별 결재와 호송선단 손실을 독립 입증하지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "BdU 조직의 전시 전쟁일지. IMT 사후 판단과 구별."
+  },
+  {
+    "id": "CAT-DE-SRC-0036",
+    "title": "LeMO Biografie: Adolf Hitler",
+    "institution_or_author": "Daniel Wosnitzka / Deutsches Historisches Museum",
+    "publication_date": "1998-10-12 (Stand)",
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "1889·1932–1934·1945년 항목",
+    "url": "https://www.dhm.de/lemo/biografie/adolf-hitler",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "출생과 1932년 독일 국적 취득, 1933-01-30 총리 임명, 1945년 사망"
+    ],
+    "limitations": [
+      "박물관 전기. 국적·임명 원문과 개별 군사명령은 별도 증거."
+    ],
+    "rights": "기관이 본문 CC BY-NC-SA 4.0을 명시. 자체 요약과 링크만 사용.",
+    "independence_group": "DHM LeMO 전기. 하위 원기록 계보 미확인."
+  },
+  {
+    "id": "CAT-DE-SRC-0037",
+    "title": "Directive Nr. 21 Case Barbarossa (extracts)",
+    "institution_or_author": "독일 국방군 최고사령부 / Harvard Law School Library",
+    "publication_date": "1940-12-18",
+    "source_type": "primary-translation-transcription: 전시 지령의 재판용 영어 번역 전사",
+    "document_or_accession_number": "OKW/WFSt/Abt.L (I) Nr. 33 408/40; PS-446; HLSL 450606",
+    "locator": "표제, 서두, I항, IV항, 서명란",
+    "url": "https://nuremberg.law.harvard.edu/documents/496-extracts-from-directive-21?mode=text",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "준비 기한 1941-05-15와 실제 개시 미정, 군종 임무, 히틀러 서명 표기"
+    ],
+    "limitations": [
+      "영어 발췌 전사. 독일어 원본 및 실제 개시 명령 미대조. Harvard 목록은 다른 PS-446 사본을 구분한다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "독일 최고사령부 준비 지령"
+  },
+  {
+    "id": "CAT-DE-SRC-0038",
+    "title": "Operation Barbarossa",
+    "institution_or_author": "United States Holocaust Memorial Museum, Holocaust Encyclopedia",
+    "publication_date": null,
+    "source_type": "secondary: 기관 역사 해설",
+    "document_or_accession_number": null,
+    "locator": "June 22, 1941 사건 본문 두 단락",
+    "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1939-1941/operation-barbarossa",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "실제 침공일, 이동 학살부대의 뒤따른 진입 및 6월 마지막 주 집단 총살 개시"
+    ],
+    "limitations": [
+      "6월 22일은 사건 날짜. 기관 서술의 각 작전 원명령과 현장 기록은 미대조."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "USHMM 전쟁·박해 연표 해설"
+  },
+  {
+    "id": "CAT-DE-SRC-0039",
+    "title": "LeMO Biografie: Hermann Göring",
+    "institution_or_author": "Susanne Eckelmann / Deutsches Historisches Museum",
+    "publication_date": "2026-06-05 (Stand)",
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "1893·1935–1936·1940–1941·1946년 항목",
+    "url": "https://www.dhm.de/lemo/biografie/hermann-goering",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰, 공군 총사령관, 4개년계획 담당, 제국원수 계급, 1941년 위임·전후 유죄와 사망"
+    ],
+    "limitations": [
+      "기관 전기이며 개별 집행·결재 원본 아님."
+    ],
+    "rights": "기관이 본문 CC BY-NC-SA 4.0을 명시. 자체 요약과 링크만 사용.",
+    "independence_group": "DHM LeMO 전기. 하위 원기록 계보 미확인."
+  },
+  {
+    "id": "CAT-DE-SRC-0040",
+    "title": "Instructions to Heydrich to prepare organizational and financial arrangements",
+    "institution_or_author": "Hermann Göring / Harvard Law School Library",
+    "publication_date": "1941-07-31",
+    "source_type": "primary-translation-transcription: 전시 서한의 재판용 영어 번역 전사",
+    "document_or_accession_number": "PS-710 / USA-509(별도 제출본); HLSL 450494",
+    "locator": "수신란, 인쇄 525쪽 및 다음 면, 목록 Notes",
+    "url": "https://nuremberg.law.harvard.edu/documents/542-instructions-to-heydrich-to-prepare?mode=text&q=ps-710",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "서한의 명시 수신인 하이드리히, 유럽 내 독일 영향권, 준비·기관 협조·종합안 제출 요구"
+    ],
+    "limitations": [
+      "이 판본은 영어 번역 전사. 힘러 명의 별도 수신·배포 및 실행 명령을 입증하지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "괴링 발신 서한"
+  },
+  {
+    "id": "CAT-DE-SRC-0041",
+    "title": "Besprechungsprotokoll: Wannsee-Konferenz",
+    "institution_or_author": "회의 기록 작성 기관 Reichssicherheitshauptamt / Politisches Archiv des Auswärtigen Amts / Haus der Wannsee-Konferenz",
+    "publication_date": "1942-01-20 (회의일)",
+    "source_type": "primary: 당대 회의록 사본의 공개 스캔",
+    "document_or_accession_number": "R 100857, Bl. 166–188 (게시기관 안내); 16번째 사본",
+    "locator": "스캔 1쪽 표제·날짜 및 2쪽 II항",
+    "url": "https://www.ghwk.de/fileadmin/Redaktion/PDF/Konferenz/protokoll-januar1942_barrierefrei.pdf",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942-01-20 회의 및 하이드리히의 제국원수 위임 설명, 관계기관 조정과 종합안"
+    ],
+    "limitations": [
+      "회의록은 나치 당국의 완곡어를 사용. 참석자 발언의 축어록이나 모든 후속 집행 증거가 아님."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "회의록 자체. PS-710을 후속 절차에서 언급한 자료"
+  },
+  {
+    "id": "CAT-DE-SRC-0042",
+    "title": "International Military Tribunal Judgment: Göring",
+    "institution_or_author": "International Military Tribunal / Yale Law School Avalon Project",
+    "publication_date": "1946-09-30~1946-10-01 (판결 낭독)",
+    "source_type": "primary-transcription: 공식 판결 전사",
+    "document_or_accession_number": "IMT Vol. I, Göring 항목",
+    "locator": "Crimes against Peace, War Crimes and Crimes against Humanity, Conclusion. LoC 공식 판결집 인쇄 281–282쪽도 대조",
+    "url": "https://avalon.law.yale.edu/imt/judgoeri.asp",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "침략전쟁·강제노동·박해에 대한 재판소 판단, 4개 공소항목 유죄",
+      "7월 31일 지시 요약의 힘러와 하이드리히 표기"
+    ],
+    "limitations": [
+      "법정의 종합 판단이며 PS-710의 실제 수신란은 하이드리히만 명시. 공식 판결집과 Avalon은 동일 판결."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "IMT의 괴링 판결 부분"
+  },
+  {
+    "id": "CAT-DE-SRC-0043",
+    "title": "The Private and Political Testaments of Hitler, April 29, 1945",
+    "institution_or_author": "Adolf Hitler / 미국 검찰 증거집 / ibiblio 전사",
+    "publication_date": "1945-04-29",
+    "source_type": "primary-translation-transcription: 정치 유언 영어 번역 전사",
+    "document_or_accession_number": "3569-PS; Nazi Conspiracy and Aggression VI, 259–263쪽",
+    "locator": "Second Part of the Political Testament, 지명 및 날짜 문단",
+    "url": "https://www.ibiblio.org/pha/policy/1945/1945-04-29a.html",
+    "accessed_at": "2026-11-09T15:00:34+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "괴링의 후계 권리와 당적 박탈, 되니츠의 국가원수 및 군 최고지휘관 지명"
+    ],
+    "limitations": [
+      "영어 번역 전사. 전달·효력 시점과 후계정부의 실제 권한은 별도 기록 필요."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "1945년 정치 유언 자체"
+  },
+  {
+    "id": "CAT-DE-SRC-0044",
+    "title": "Über den Nachweis und das Verhalten der bei der Bestrahlung des Urans mittels Neutronen entstehenden Erdalkalimetalle",
+    "institution_or_author": "Otto Hahn·Fritz Strassmann / Die Naturwissenschaften, ChemTeam 스캔",
+    "publication_date": "1939-01-06 (접수 1938-12-22)",
+    "source_type": "primary: 당대 연구논문 스캔",
+    "document_or_accession_number": "Die Naturwissenschaften 27(1), 11–15쪽",
+    "locator": "11쪽 표제·소속·접수일 및 15쪽 결론 직접 판독",
+    "url": "https://www.chemteam.info/Chem-History/Hahn-fission-1939a-German/Hahn-1939a-fission-German.pdf",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공동 저자·베를린다렘 연구소, 이전 라듐 식별을 바륨으로 수정해야 한다는 결론과 핵물리 해석 유보"
+    ],
+    "limitations": [
+      "원 실험노트와 전시 과제 배정 문서는 아님."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "한·슈트라스만의 실험 논문"
+  },
+  {
+    "id": "CAT-DE-SRC-0045",
+    "title": "Disintegration of Uranium by Neutrons: a New Type of Nuclear Reaction",
+    "institution_or_author": "Lise Meitner·O. R. Frisch / Nature, Texas A&M University 호스팅 PDF",
+    "publication_date": "1939-02-11",
+    "source_type": "primary: 당대 해석 논문 PDF",
+    "document_or_accession_number": "Nature 143, 239–240쪽, DOI 10.1038/143239a0",
+    "locator": "239–240쪽 본문 및 저자 소속·각주 5",
+    "url": "https://people.tamu.edu/~f-narcowich/m641/m641_notes/Meitner-Frisch-1939.pdf",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "한·슈트라스만 결과를 인용한 핵분열 해석 및 스톡홀름·코펜하겐 소속 표기"
+    ],
+    "limitations": [
+      "바륨 실험을 독립 반복한 논문으로 집계하지 않음."
+    ],
+    "rights": "PDF © 1939 Nature Publishing Group 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "마이트너·프리슈 해석 논문"
+  },
+  {
+    "id": "CAT-DE-SRC-0046",
+    "title": "Otto Hahn",
+    "institution_or_author": "Max-Planck-Gesellschaft",
+    "publication_date": null,
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "Career in the KWG 문단",
+    "url": "https://www.mpg.de/8241484/otto-hahn",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "한의 1928–1945 소장직, 스웨덴 피신 중 마이트너의 공동 해석, 팜홀 수용"
+    ],
+    "limitations": [
+      "기관의 후대 전기. 전시 과제 배정·집행 원문 아님."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "MPG의 기관사 전기"
+  },
+  {
+    "id": "CAT-DE-SRC-0047",
+    "title": "Transcript of Surreptitiously Taped Conversations among German Nuclear Physicists at Farm Hall (August 6–7, 1945)",
+    "institution_or_author": "영국 측 팜홀 감시 기록 / German History in Documents and Images",
+    "publication_date": "1945-08-06~07 (대화일)",
+    "source_type": "primary-derived: 당대 영어 번역·감시 보고의 웹 전사",
+    "document_or_accession_number": "GHDI document-2320",
+    "locator": "Source, II. 6th August 1945 §§1–3",
+    "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/ghdi:document-2320",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "관찰자가 기록한 한의 첫 반응과 피수용자들의 미국 폭탄 및 연구 역량 논의"
+    ],
+    "limitations": [
+      "발화자 귀속·당사자 회고·관찰자의 서술을 분리. 녹음 원본 및 영국 문서 원본 미대조."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "팜홀 감시보고 자체"
+  },
+  {
+    "id": "CAT-DE-SRC-0048",
+    "title": "Wernher von Braun",
+    "institution_or_author": "NASA / Marshall Space Flight Center",
+    "publication_date": null,
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "독일 육군 입사, 페네뮌데 개발, 첫 발사 및 Mittelwerk 이전·방문 단락",
+    "url": "https://www.nasa.gov/people/wernher-von-braun/",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰, 독일 육군의 로켓 개발·나치당 가입과 SS 이력, 1942년 10월 시험과 1944년 9월 실전 사용",
+      "Mittelwerk의 강제노동과 NASA의 1944년 후반 생산 개시 표기"
+    ],
+    "limitations": [
+      "기관 전기이며 전시 생산 원장이 아님. 생산 개시 설명이 도라 기념관과 상충."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "NASA 기관 전기"
+  },
+  {
+    "id": "CAT-DE-SRC-0049",
+    "title": "„Lebendig begraben“",
+    "institution_or_author": "Mittelbau-Dora Memorial",
+    "publication_date": null,
+    "source_type": "secondary: 역사 현장 기념관의 연표 설명",
+    "document_or_accession_number": null,
+    "locator": "본문 1–5문단",
+    "url": "https://www.dora.de/en/geschichte/chronologie/konzentrationslager/lebendig-begraben",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 8월 말부터의 수감자 이송과 터널 강제노동, 1944년 1월 A4 생산 가동 표기"
+    ],
+    "limitations": [
+      "생산 원장·인수 조건은 미확인. 개인의 결재·명령 책임을 직접 입증하지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "미텔바우도라 기념관의 수용소 연표"
+  },
+  {
+    "id": "CAT-DE-SRC-0050",
+    "title": "Wernher von Braun, the SS, and Concentration Camp Labor: Questions of Moral, Political, and Criminal Responsibility",
+    "institution_or_author": "Michael J. Neufeld / German Studies Review",
+    "publication_date": "2002-02",
+    "source_type": "secondary: 학술논문 및 1944년 서한 인용",
+    "document_or_accession_number": "German Studies Review 25(1); 인용 서한 DM GD 638.8.2 / NASM FE 694a",
+    "locator": "58–59쪽, 67–69쪽 §3 및 주 29",
+    "url": "https://epizodsspace.airbase.ru/bibl/inostr-yazyki/german-studies/2002/neufeld_25.pdf",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "폰 브라운의 기술 지휘, 1944-08-15 알빈 자바츠키에게 보낸 서한의 인용 및 이송과 작업장 성립의 검증 한계"
+    ],
+    "limitations": [
+      "웹에서 논문 PDF 본문 열람. 독일어 서한의 기록관 원본은 미열람."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Neufeld의 기록 기반 분석과 서한 인용"
+  },
+  {
+    "id": "CAT-DE-SRC-0051",
+    "title": "Otto Hahn",
+    "institution_or_author": "Atomic Heritage Foundation / National Museum of Nuclear Science & History",
+    "publication_date": null,
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "인물 소개 첫 단락",
+    "url": "https://ahf.nuclearmuseum.org/ahf/profile/otto-hahn/",
+    "accessed_at": "2026-11-09T17:08:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "한의 독일 국적, 생몰연도와 방사화학자 신원"
+    ],
+    "limitations": [
+      "이 원고에서는 신원과 연대의 근거로 사용. 전시 연구사업 전체와의 관계는 별도 사료 필요."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "AHF 인물 전기"
+  },
+  {
+    "id": "CAT-DE-SRC-0052",
+    "title": "Wochenschauen und Dokumentarfilme 1895–1950 im Bundesarchiv-Filmarchiv",
+    "institution_or_author": "Peter Bucher / Bundesarchiv",
+    "publication_date": "1984 (2000년 재인쇄)",
+    "source_type": "secondary: 기록원 필름 소장목록",
+    "document_or_accession_number": "Findbücher Band 8, A 2770, DW 651/1943 및 UTW 470/1939",
+    "locator": "인쇄 87·130쪽, 두 뉴스릴 항목",
+    "url": "https://www.bundesarchiv.de/assets/bundesarchiv/de/Downloads/Verzeichnisse/wochenschauen-dokfilme.pdf",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제651호의 1943-02-24 표기, 201m 유성 판본, 1943-02-18 집회 수록",
+      "제470호의 1939-09-07 표기와 베를린 의회 회의 수록"
+    ],
+    "limitations": [
+      "목록은 필름 자체나 공개 사본의 정확한 계보를 보여 주지 않는다."
+    ],
+    "rights": "목록 권리 유보 명시. 기록 링크와 자체 요약만 사용.",
+    "independence_group": "Bundesarchiv-Filmarchiv 소장 판본"
+  },
+  {
+    "id": "CAT-DE-SRC-0053",
+    "title": "Die Deutsche Wochenschau Nr. 651/1943 (English-subtitled copy)",
+    "institution_or_author": "UFA / International Historic Films, Inc. 자막 / Internet Archive 공개 사본",
+    "publication_date": "1943-02-24 (호수 일자), 1993 (영문 자막판 표기)",
+    "source_type": "primary-derived: 당대 선전 뉴스릴의 후대 영문 자막 디지털 사본",
+    "document_or_accession_number": "DW 651/1943, Internet Archive grmnnr, German Newsreel 651 - February 24, 1943.mp4",
+    "locator": "00:00 부근 자막사 표기, 02:15·02:25–02:55, 05:45, ffprobe 전체 1031.031초",
+    "url": "https://archive.org/download/grmnnr/The%20German%20Newsreel%20-%20Die%20Deutsche%20Wochenschau%20%281939-1945%29/German%20Newsreel%20651%20-%20February%2024%2C%201943.mp4",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영상 프레임에서 연단·객석 전환과 영어 자막의 총력전 질문 판독, 영상·음성 스트림 확인"
+    ],
+    "limitations": [
+      "동시대 촬영분을 담은 뉴스릴의 후대 자막 사본. 독일어 음성의 청취 전사와 숏별 동기화, 원 필름 계보 미확인."
+    ],
+    "rights": "사본 도입부에 © 1993 International Historic Films 및 권리 유보 표기. 링크만 사용.",
+    "independence_group": "UFA 651호 뉴스릴"
+  },
+  {
+    "id": "CAT-DE-SRC-0054",
+    "title": "“Total War”: Excerpt from Goebbels’s Speech at the Sportpalast in Berlin",
+    "institution_or_author": "Joseph Goebbels / Frankfurter Zeitung / German History in Documents and Images",
+    "publication_date": "1943-02-18 (연설), 1943-02-20 (신문 게재)",
+    "source_type": "primary-derived: 당대 연설 신문 게재분을 재수록한 번역",
+    "document_or_accession_number": "GHDI document-1583, Frankfurter Zeitung 7쪽, Heiber 203–205쪽, Remak 91–92쪽",
+    "locator": "Source의 네 번째 질문 및 하단 출전",
+    "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/total-war-excerpt-from-goebbels-s-speech-at-the-sportpalast-in-berlin-february-18-1943",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "총력전을 요구한 네 번째 질문의 위치와 연단에서 청중을 대상으로 한 질문 구성"
+    ],
+    "limitations": [
+      "웹에 게재된 발췌를 열람. 원 신문 지면 및 연설 전체 녹음 미대조."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "신문 게재 연설 발췌 전승"
+  },
+  {
+    "id": "CAT-DE-SRC-0055",
+    "title": "Joseph Goebbels",
+    "institution_or_author": "United States Holocaust Memorial Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 인물·전시 선전 해설",
+    "document_or_accession_number": null,
+    "locator": "Goebbels as Plenipotentiary for the War Economy, 1944–45",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/joseph-goebbels-1",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 선전장관의 1943-02-18 연설, 스탈린그라드 패배 이후 총동원 및 선별된 청중"
+    ],
+    "limitations": [
+      "역사적 맥락을 위한 해설. 공개 영상 사본의 계보 증명에는 사용하지 않았다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "USHMM 해설"
+  },
+  {
+    "id": "CAT-DE-SRC-0056",
+    "title": "Auswahl der wichtigsten Tonaufnahmen vom 1.4.1945–30.6.1945",
+    "institution_or_author": "Deutsches Rundfunkarchiv",
+    "publication_date": null,
+    "source_type": "secondary: 방송 음원 소장목록 및 발췌 전사",
+    "document_or_accession_number": "DRA Ffm 45.502 / DRA Ffm 83 U 3984/12",
+    "locator": "인쇄 21쪽 135번, 26쪽 169번",
+    "url": "https://www.dra.de/fileadmin/www.dra.de/downloads/pdf/Sonderhinweisdienst_Ende_Zweiter_Weltkrieg.pdf",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "5월 1일 함부르크 방송 6분 30초와 5월 8일 플렌스부르크 방송 4분 30초의 소장번호·날짜·발췌"
+    ],
+    "limitations": [
+      "소장 목록과 발췌를 열람. DRA 음원 자체는 미청취. 영상 소장 여부를 판단할 수 없다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "DRA 방송 녹음 전승"
+  },
+  {
+    "id": "CAT-DE-SRC-0057",
+    "title": "Transkript der Rundfunkansprache von Karl Dönitz zum Tod von Adolf Hitler",
+    "institution_or_author": "Karl Dönitz / Bundesarchiv",
+    "publication_date": "1945-05-01 (방송일)",
+    "source_type": "primary-derived: 방송 전사 기록의 소장정보와 기록원 해설",
+    "document_or_accession_number": "BArch RH 26-1002/8",
+    "locator": "문서 캡션, Historischer Hintergrund, Die Ansprache",
+    "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/dokumente-zur-zeitgeschichte/rundfunkansprache-von-karl-doenitz-zum-tod-von-adolf-hitler/",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "22:30 송출 표기, 전사본 소장번호, 히틀러 자살과 방송의 전사 주장 차이"
+    ],
+    "limitations": [
+      "육군 사단 역사 자료집의 전사본으로 등재. 웹 해설과 인용을 열람했고 방송 녹음은 별도 소장 기록으로 대조했다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "BArch 전사본 및 역사 해설"
+  },
+  {
+    "id": "CAT-DE-SRC-0058",
+    "title": "08.05.1945: Die bedingungslose Kapitulation der deutschen Wehrmacht",
+    "institution_or_author": "Nikolas Jonas / Bundeszentrale für politische Bildung",
+    "publication_date": "2020-05-07 (제작)",
+    "source_type": "primary-derived: 당대 방송 발췌를 포함한다고 밝힌 후대 해설 음성",
+    "document_or_accession_number": "bpb 309496",
+    "locator": "Inhalt 및 Mehr Informationen, MP3 전체 164.780초",
+    "url": "https://www.bpb.de/mediathek/audio/309496/08-05-1945-die-bedingungslose-kapitulation-der-deutschen-wehrmacht/",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기관은 되니츠 항복 방송 발췌를 명시. 직접 내려받은 https://mediathek.bpb.de/audio/1/309496.mp3 는 영상 스트림 없는 MP3."
+    ],
+    "limitations": [
+      "해설을 포함한 전체 길이. 발췌의 음성 타임코드와 DRA 소장본과의 동일성은 미확인."
+    ],
+    "rights": "© 2020 Bundeszentrale für politische Bildung. 링크만 사용.",
+    "independence_group": "되니츠 방송의 bpb 편집 전승"
+  },
+  {
+    "id": "CAT-DE-SRC-0059",
+    "title": "Hitler’s Speech before the Reichstag 1 September 1939",
+    "institution_or_author": "Adolf Hitler / Office of United States Chief of Counsel / Harvard Law School Library",
+    "publication_date": "1939-09-01 (연설), 1946 (수록 자료집)",
+    "source_type": "primary-derived: 뉘른베르크 재판 증거 영어 문서",
+    "document_or_accession_number": "PS-2322, HLSL Item 450619",
+    "locator": "Document Summary 및 영어 본문",
+    "url": "https://nuremberg.law.harvard.edu/documents/989-speech-to-the-reichstag?mode=text",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-09-01 의회 연설의 날짜와 폴란드에 대한 발언의 문서화"
+    ],
+    "limitations": [
+      "영어 번역·전사 웹 문서. 동시대 영상과 음성 동기화의 근거로 쓰지 않았다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "IMT PS-2322 문서 전승"
+  },
+  {
+    "id": "CAT-DE-SRC-0060",
+    "title": "UFA TONWOCHE NR 470",
+    "institution_or_author": "Imperial War Museums / UFA",
+    "publication_date": "1939-09-07 (IWM 제작일 표기)",
+    "source_type": "secondary: 영상기록 소장정보",
+    "document_or_accession_number": "IWM GWY 431, record 19352",
+    "locator": "Description IV 및 Technical Details",
+    "url": "https://film.iwmcollections.org.uk/record/19352",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "크롤 오페라극장 도착·의회 발언 장면이 제IV부로 기재됨. 16mm 유성 사본."
+    ],
+    "limitations": [
+      "기관 페이지에 재생 미제공 표시. 목록의 장면 기술까지 확인했다."
+    ],
+    "rights": "Access Conditions IWM-GERMAN, Attribution IWM – GWY 431. 링크만 사용.",
+    "independence_group": "UFA 470호 뉴스릴의 IWM 소장본"
+  },
+  {
+    "id": "CAT-DE-SRC-0061",
+    "title": "Joseph Goebbels zum Totalen Krieg - Kundgebung im Berliner Sportpalast am 18.2.1943",
+    "institution_or_author": "filmportal.de / Universum-Film AG / Institut für den wissenschaftlichen Film",
+    "publication_date": "1943 (촬영), IWF 편집일 미확인",
+    "source_type": "secondary: 독일 영화 자료 목록",
+    "document_or_accession_number": null,
+    "locator": "Credits 및 Archivfassung",
+    "url": "https://www.filmportal.de/film/joseph-goebbels-zum-totalen-krieg-kundgebung-im-berliner-sportpalast-am-1821943",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "UFA 원 촬영과 IWF 편집을 명시한 흑백 유성 16mm·67m·6분 보존판 등재"
+    ],
+    "limitations": [
+      "실제 영상 미열람. 제651호 및 다른 보존판과의 쇼트 대응 미확인."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "UFA 촬영분의 IWF 편집판"
+  },
+  {
+    "id": "CAT-DE-SRC-0062",
+    "title": "Beginn des Zweiten Weltkrieges: Feldzug gegen Polen",
+    "institution_or_author": "Filmarchiv Austria / Universum-Film AG",
+    "publication_date": "1939 (뉴스릴), 2025 (복원판)",
+    "source_type": "secondary: 기록기관의 복원판 페이지",
+    "document_or_accession_number": "f_030gr3zyc50YKabJZBjNJ8, UFA Tonwoche 470/1939",
+    "locator": "Originaltitel·Quelle·Restaurierte Fassung",
+    "url": "https://www.filmarchiv.at/de/filmarchiv-on/video/f_030gr3zyc50YKabJZBjNJ8",
+    "accessed_at": "2026-11-09T19:05:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Filmarchiv Austria 컬렉션의 35mm 양화를 바탕으로 한 동일 호수 복원판의 서지"
+    ],
+    "limitations": [
+      "공개 페이지 설명과 HTML을 열람. 재생 소스가 노출되지 않아 해당 사본 장면과 길이는 미확인."
+    ],
+    "rights": "Filmarchiv Austria © 2025 복원판 표기. 링크만 사용.",
+    "independence_group": "UFA 470호 뉴스릴의 Filmarchiv Austria 소장 양화"
+  },
+  {
+    "id": "CAT-DE-SRC-0063",
+    "title": "Trials of War Criminals before the Nuernberg Military Tribunals, Vol. IX: The Krupp Case",
+    "institution_or_author": "U.S. Military Tribunal III / U.S. Government Printing Office / Law Library of Congress",
+    "publication_date": "1950 (편찬본), 1943-11-12·1944-07-06 (증거문서), 1948-07-31 (판결)",
+    "source_type": "primary: 공식 재판 판결문과 전시 증거 영어 번역 수록",
+    "document_or_accession_number": "LCCN 2011525364; 1387-PS(검찰 475), NIK-7440(검찰 1018)",
+    "locator": "인쇄 351–352, 1132–1134, 1425–1428쪽",
+    "url": "https://tile.loc.gov/storage-services/service/ll/llmlp/2011525364_NT_war-criminals_Vol-IX/2011525364_NT_war-criminals_Vol-IX.pdf",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "특별령 조항과 관보 게재일, 1944년 크루프-SS 협상 메모, 판결의 520명 선발과 압연공장 배치"
+    ],
+    "limitations": [
+      "특별령과 메모는 재판 수록 영어 번역. 판결의 사실 인정과 1944년 협상안을 구분."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "NMT 사건 10 기록"
+  },
+  {
+    "id": "CAT-DE-SRC-0064",
+    "title": "NMT Case 10: USA vs. Alfried Krupp, et al.",
+    "institution_or_author": "Harvard Law School Library",
+    "publication_date": null,
+    "source_type": "secondary: 재판 기록 해제",
+    "document_or_accession_number": "NMT Case 10",
+    "locator": "Summary 및 Subsidiaries of Krupp",
+    "url": "https://nuremberg.law.harvard.edu/nmt_10_intro",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "주식회사에서 가족기업으로의 전환, 1943년 12월 소유·지휘, Berthawerk와 Germaniawerft의 분업"
+    ],
+    "limitations": [
+      "같은 크루프 재판 자료의 후대 해제. 재판 사실의 독립 교차검증으로 세지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "NMT 사건 10 기록"
+  },
+  {
+    "id": "CAT-DE-SRC-0065",
+    "title": "Außenlager KZ Buchenwald – Humboldtstraße",
+    "institution_or_author": "Haus der Essener Geschichte/Stadtarchiv",
+    "publication_date": null,
+    "source_type": "secondary: 시립기록원 소장군 해설",
+    "document_or_accession_number": "Slg. 6013",
+    "locator": "Full view Inventory, Description",
+    "url": "https://stadtarchiv.essen.de/actaproweb/archive.xhtml?id=Best++++65f7beb4-791a-4535-9fd0-e1022de33fd8",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "520명 최초 선발·8월 이송, 9월 인력 두 명 추가, 압연공장 II 배치"
+    ],
+    "limitations": [
+      "개별 명부는 미열람. 설명문은 1944년 기업을 종전 주식회사 명칭으로도 표기. 나이·작업장까지의 거리 등은 이번에 확정하지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "에센 지역 기록·연구 해제"
+  },
+  {
+    "id": "CAT-DE-SRC-0066",
+    "title": "U 99: Interrogation of Survivors",
+    "institution_or_author": "British Admiralty, Naval Intelligence Division / U-boat Archive",
+    "publication_date": "1941-04",
+    "source_type": "primary: 당대 해군정보부 심문보고의 웹 전사",
+    "document_or_accession_number": "C.B. 04051 (20)",
+    "locator": "표지, 인쇄 7쪽 III 및 IV 첫 단락",
+    "url": "https://w.uboatarchive.net/U-99A/U-99INT.htm",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "킬 게르마니아 조선소 건조, 진수·완성·발트해 시험·첫 항해를 구분한 기록"
+    ],
+    "limitations": [
+      "포로 진술 기반 추정 포함. 독일 건조·인수 원장 미대조."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "영국 해군정보부 당대 심문"
+  },
+  {
+    "id": "CAT-DE-SRC-0067",
+    "title": "Produkte. Zwangsarbeit bei Siemens im Frauen-Konzentrationslager Ravensbrück",
+    "institution_or_author": "Mahn- und Gedenkstätte Ravensbrück / Stiftung Brandenburgische Gedenkstätten",
+    "publication_date": null,
+    "source_type": "secondary: 기념관 전시 해설",
+    "document_or_accession_number": null,
+    "locator": "전시 소개 1–4문단",
+    "url": "https://www.ravensbrueck-sbg.de/ausstellungen/wanderausstellungen/produkte-zwangsarbeit-bei-siemens-im-frauen-konzentrationslager-ravensbrueck-eine-fotoausstellung/",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Siemens & Halske 생산시설 운영 기간과 위치, 전화·계측·무선기기 부품 공정 및 수감자 강제노동"
+    ],
+    "limitations": [
+      "문서·증언·현장 잔해의 종합 해설. 품번·완제품 수령처·납품량은 미확인."
+    ],
+    "rights": "기념관 저작권 및 사진가 표시. 자체 요약·링크만 사용.",
+    "independence_group": "기념관 전시 조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0068",
+    "title": "Arbeitseinsatzlisten / Zwangsarbeit (Fragmente), u.a. bei dem Unternehmen Siemens",
+    "institution_or_author": "Arolsen Archives / 원본 소장 Instytut Pamięci Narodowej",
+    "publication_date": "1944 (목록 연대), DocID 3767903 열람면 자체 날짜 미확인",
+    "source_type": "primary: 당대 작업 배치 명단 스캔 및 기록관 소장정보",
+    "document_or_accession_number": "1.1.35.1, 2514002, DocID 3767903",
+    "locator": "Form und Inhalt, DocID 3767903 첫 면(원문 우상단 13)",
+    "url": "https://collections.arolsen-archives.org/de/document/3767903",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "시리즈의 지멘스 등 작업 배치 명단 소장정보. 첫 면에서 일련번호·수감자 번호·성명란 판독."
+    ],
+    "limitations": [
+      "명단 단편에는 다른 배치처도 포함. 해당 면으로 인원 총계와 개인별 배치 확정 불가. 인명은 재수록하지 않음."
+    ],
+    "rights": "웹 © Arolsen Archives, 2021. 소장 원본 권리 별도, 링크만 사용.",
+    "independence_group": "라벤스브뤼크 수용소 명단"
+  },
+  {
+    "id": "CAT-DE-SRC-0069",
+    "title": "Trials of War Criminals before the Nuernberg Military Tribunals, Vol. VIII: The I. G. Farben Case",
+    "institution_or_author": "U.S. Military Tribunal VI / U.S. Government Printing Office / Law Library of Congress",
+    "publication_date": "1952 (편찬본), 1941-04-07 (창립 회의), 1948 (판결)",
+    "source_type": "primary: 공식 재판 판결·증거 수록",
+    "document_or_accession_number": "LCCN 2011525364; NI-11117(검찰 1430), NI-9807(검찰 1476)",
+    "locator": "인쇄 591쪽 볼하임 선서진술, 1181–1183쪽 판결",
+    "url": "https://tile.loc.gov/storage-services/service/ll/llmlp/2011525364_NT_war-criminals_Vol-VIII/2011525364_NT_war-criminals_Vol-VIII.pdf",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "창립 회의의 SS 수감자 공사 투입 계획, 시공 계약과 인력 조달, 볼하임이 전해 들은 작업"
+    ],
+    "limitations": [
+      "창립 회의는 판결의 인용·요약으로 확인. 선서진술의 메탄올 대목은 전언으로 산출·인도 원장 미확인."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "NMT 사건 6 기록"
+  },
+  {
+    "id": "CAT-DE-SRC-0070",
+    "title": "IG Farben",
+    "institution_or_author": "Auschwitz-Birkenau State Museum",
+    "publication_date": null,
+    "source_type": "secondary: 국립박물관의 모노비체 입지와 계약 해설",
+    "document_or_accession_number": null,
+    "locator": "본문 1–4문단",
+    "url": "https://www.auschwitz.org/en/history/auschwitz-iii/ig-farben?trk=public_post_comment-text",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "합성고무·연료 공장 입지, 부지 몰수·매입, 기업과 수용소 간 인력 협의"
+    ],
+    "limitations": [
+      "기관 해설로, 부지 매매계약이나 생산 원장 원본은 미열람."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "아우슈비츠-비르케나우 박물관 연구"
+  },
+  {
+    "id": "CAT-DE-SRC-0071",
+    "title": "Auschwitz III-Monowitz camp",
+    "institution_or_author": "Auschwitz-Birkenau State Museum",
+    "publication_date": null,
+    "source_type": "secondary: 기관 연구 해설 팟캐스트 전사",
+    "document_or_accession_number": null,
+    "locator": "연합군 폭격과 1945년 생산 전망 문답",
+    "url": "https://www.auschwitz.org/en/education/e-learning/podcast/auschwitz-iii-monowitz-camp/",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 1월 말 Buna 생산 목표와 미완성 상태. 공장과 SS 수용소 구분."
+    ],
+    "limitations": [
+      "텍스트 전사 열람. 보조 공정의 시험·출하를 확인할 수 있는 원장은 아님. 0070과 같은 기관."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "아우슈비츠-비르케나우 박물관 연구"
+  },
+  {
+    "id": "CAT-DE-SRC-0072",
+    "title": "Auschwitz liberated 70 years ago today: Siemens remembers the victims of National Socialism",
+    "institution_or_author": "Siemens AG",
+    "publication_date": "2015-01-27",
+    "source_type": "secondary: 기업의 전후 공식 회고",
+    "document_or_accession_number": null,
+    "locator": "보도자료 본문",
+    "url": "https://press.siemens.com/global/en/pressrelease/auschwitz-liberated-70-years-ago-today-siemens-remembers-victims-national-socialism",
+    "accessed_at": "2026-11-09T20:56:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "보브레크 시설의 운영 주체를 Siemens-Schuckertwerke AG로 표기"
+    ],
+    "limitations": [
+      "현대 기업의 회고. 보브레크 자체의 제품·수량에 대해서는 이 원고에서 독립 확인을 하지 않음."
+    ],
+    "rights": "Siemens 웹 보도자료. 요약·링크만 사용.",
+    "independence_group": "Siemens 기업 보도자료"
+  },
+  {
+    "id": "CAT-DE-SRC-0073",
+    "title": "Die Bevölkerung des Deutschen Reichs 1939: Vorläufiges Ergebnis der Volkszählung vom 17. Mai 1939",
+    "institution_or_author": "Statistisches Reichsamt / Statistische Bibliothek",
+    "publication_date": "1939-07 (7월 첫 호)",
+    "source_type": "primary: 당대 인구조사 잠정 발표",
+    "document_or_accession_number": "Wirtschaft und Statistik, 19. Jg. Nr. 13",
+    "locator": "498–500쪽, 499쪽 하단 지역별 표, PDF 5면",
+    "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEAusgabe_derivate_00001193/Wirtschaft_und_Statistik-1939-13.pdf",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "메멜 제외 79,576,758명, 조사일 현지 체류 인구"
+    ],
+    "limitations": [
+      "상주 인구 확정치와 기준이 다르며 보호령과 메멜 관련 문단은 별도 추산."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "1939 독일 인구조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0074",
+    "title": "Die Bevölkerung des Deutschen Reichs: Endgültiges Ergebnis der Volkszählung vom 17. Mai 1939",
+    "institution_or_author": "Statistisches Reichsamt / Statistische Bibliothek",
+    "publication_date": "1940-09-21",
+    "source_type": "primary: 당대 인구조사 확정 발표",
+    "document_or_accession_number": "Wirtschaft und Statistik, 20. Jg. Nr. 17",
+    "locator": "381–382쪽과 부록 1쪽; PDF 2면의 지역별 합계·각주를 스캔에서 판독",
+    "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEAusgabe_derivate_00001172/Wirtschaft_und_Statistik-1940-17.pdf",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "상주·현지 체류·복무자 제외 기준, 79,375,281명 및 지역별 합계, 메멜과 보호령의 별도 기준"
+    ],
+    "limitations": [
+      "영토 확장 표에는 서로 다른 조사·추계 시점이 섞임. 조사값과 공식 통계의 정치적 서술은 분리."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "1939 독일 인구조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0075",
+    "title": "Civil Affairs Handbook: Germany, Section 1: Geographical and Social Background",
+    "institution_or_author": "U.S. Army Service Forces / Combined Arms Research Library",
+    "publication_date": "1944-09-16",
+    "source_type": "primary-derived: 전시 미군 편람의 독일 통계 인용",
+    "document_or_accession_number": "Army Service Forces Manual M356-1",
+    "locator": "인쇄 41쪽 B.1.a 및 주 1–2",
+    "url": "https://cgsc.contentdm.oclc.org/digital/api/collection/p4013coll8/id/2666/download",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 1939년 조사 총인구의 전시 재인용 및 1937년 제국·오스트리아·주데텐으로 설명한 범위"
+    ],
+    "limitations": [
+      "동일 원조사의 재인용이며 독립 인구조사가 아님. Wohnbevölkerung의 각주 설명은 독일 확정 보고와 다름."
+    ],
+    "rights": "미국 정부 간행물 디지털 열람본. 자체 요약·링크 사용.",
+    "independence_group": "1939 독일 인구조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0076",
+    "title": "Statistisches Jahrbuch für die Bundesrepublik Deutschland 1952",
+    "institution_or_author": "Statistisches Bundesamt / Statistische Bibliothek",
+    "publication_date": "1952",
+    "source_type": "secondary: 전후 공식 연감의 역사 통계 재편집",
+    "document_or_accession_number": "1952년 연감 I. Gebiet und Bevölkerung",
+    "locator": "12–13쪽, 표 1–2 및 경계 각주",
+    "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEHeft_derivate_00055594/1952.pdf",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1937년 말 경계의 1939년 5월 재구성 및 1939–1944년 연도 중반 인구, 1945년 공란"
+    ],
+    "limitations": [
+      "연도 중반 계열과 총조사일 수치를 분리. 개별 연도 산출 원자료와 편찬 과정은 미대조."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "연방통계청 연감 편찬"
+  },
+  {
+    "id": "CAT-DE-SRC-0077",
+    "title": "Volks- und Berufszählung vom 29. Oktober 1946 in den vier Besatzungszonen und Groß-Berlin: Deutsches Gemeindeverzeichnis",
+    "institution_or_author": "Ausschuß der Deutschen Statistiker für die Volks- und Berufszählung 1946 / Statistische Bibliothek",
+    "publication_date": "1950 (인쇄)",
+    "source_type": "primary: 전후 인구조사 공식 시정촌 명부",
+    "document_or_accession_number": "DEHeft_derivate_00096654",
+    "locator": "인쇄 1쪽 표 I 및 각주, PDF 7면",
+    "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEHeft_derivate_00096654/gemeindeverzeichnis.pdf",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "4개 점령구역·대베를린의 1939년 재집계와 1946년 총계·지역별 값 및 적용 경계일"
+    ],
+    "limitations": [
+      "1946-10-29 인구 열과 행정경계의 날짜가 다름. 1939년 값은 동일 지역을 대상으로 재구성."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "1946 점령구역 총조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0078",
+    "title": "Volks- und Berufszählung vom 29. Oktober 1946 in den vier Besatzungszonen und Groß-Berlin: Volkszählung, Textteil",
+    "institution_or_author": "Ausschuß der Deutschen Statistiker für die Volks- und Berufszählung 1946 / Statistische Bibliothek",
+    "publication_date": null,
+    "source_type": "primary: 조사 담당 위원회의 결과 및 방법 해설",
+    "document_or_accession_number": "DEHeft_derivate_00096650",
+    "locator": "서문 III–IV쪽과 조사범위·1939 비교 단락 (PDF 3–4, 9–10면)",
+    "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEHeft_derivate_00096650/volkszaehlungtextteil.pdf",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 상주 인구의 일부 추계 재집계, 자르 분리, 1946년 상주 기준표와 D.P.-Lager 포함·제외 총계"
+    ],
+    "limitations": [
+      "D.P.-Lager 열은 지정 수용소 인원만을 뜻함. 0077과 동일 조사이며 다른 기준의 표도 수록."
+    ],
+    "rights": "Duncker & Humblot 권리 유보 표기. 자체 요약·링크만 사용.",
+    "independence_group": "1946 점령구역 총조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0079",
+    "title": "Protocol of the Proceedings of the Berlin Conference",
+    "institution_or_author": "미국·영국·소련 대표단 / U.S. Department of State, Office of the Historian",
+    "publication_date": "1945-08-01 (서명)",
+    "source_type": "primary: 포츠담 의정서 공식 외교문서 수록본",
+    "document_or_accession_number": "FRUS 1945 Berlin Conference, Vol. II, document 1383",
+    "locator": "VI, IX.B (1491–1492쪽), XIII (1495–1496쪽)",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv02/d1383",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동부 영토의 잠정 행정 범위와 최종 국경 확정의 구분, 폴란드·체코슬로바키아·헝가리의 독일인 이송 결정"
+    ],
+    "limitations": [
+      "외교 결정문은 지역 인구나 이동의 실제 완료 인원을 집계한 자료가 아님."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "포츠담 합의 문서"
+  },
+  {
+    "id": "CAT-DE-SRC-0080",
+    "title": "The supplementary cards stating information about origin and educational background of the population census of 17 May 1939",
+    "institution_or_author": "Nicolai M. Zimmermann / Bundesarchiv",
+    "publication_date": null,
+    "source_type": "secondary 및 primary: 기록원 해설과 당대 조사 양식 수록",
+    "document_or_accession_number": "Bundesarchiv R 1509 (보충카드 소장군)",
+    "locator": "1–3쪽, 표 1·주 9 및 첨부 Drucksache Nr. II",
+    "url": "https://www.bundesarchiv.de/assets/bundesarchiv/en/Downloads/essay-zimmermann-supplementary-cards.pdf",
+    "accessed_at": "2026-11-09T23:14:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "인종법의 조부모 분류와 당대 양식, 공식 세 범주 318,320명과 현존 카드 277,531명, 지역별 자료 누락"
+    ],
+    "limitations": [
+      "공식 집계와 현존 보존 카드에서 파악한 인원을 구분. 개별 카드나 피해 추적을 전수 대조하지 않음."
+    ],
+    "rights": "Bundesarchiv 게시본. 양식과 개별 카드의 재게시 없이 요약·링크만 사용.",
+    "independence_group": "1939 보충카드 보존·공식 결과 비교"
+  },
+  {
+    "id": "CAT-DE-SRC-0081",
+    "title": "Treaty of Versailles, Part III, Section XI — Free City of Danzig",
+    "institution_or_author": "연합·협상국 및 독일 / 미국 국무부 Office of the Historian 수록",
+    "publication_date": "1919-06-28",
+    "source_type": "primary: 조약 본문 공식 수록본",
+    "document_or_accession_number": "FRUS Paris Peace Conference 1919, XIII, ch. XII, subch. XI",
+    "locator": "인쇄 251–255쪽, 제100·102·104조 및 제102조 주석",
+    "url": "https://history.state.gov/historicaldocuments/frus1919Parisv13/ch12subch11",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "자유시 경계와 도시·주변 영토의 구분, 국제연맹 보호, 폴란드의 조약상 권리. 1920년 발효일은 편집 주석에서 확인."
+    ],
+    "limitations": [
+      "후속 전시 실효지배나 주민 언어는 조약의 직접 확인 범위 밖."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "베르사유 조약"
+  },
+  {
+    "id": "CAT-DE-SRC-0082",
+    "title": "Gesetz über die Wiedervereinigung der Freien Stadt Danzig mit dem Deutschen Reich",
+    "institution_or_author": "Deutsches Reich / Bundesarchiv 소장",
+    "publication_date": "1939-09-01",
+    "source_type": "primary: 관보 원면",
+    "document_or_accession_number": "RGBl. I Nr. 155; BArch R 43 II/973 b, Scan 0299",
+    "locator": "인쇄 1547쪽, 제1조 및 인용 자유시 법문 I–IV",
+    "url": "https://www.bundesarchiv.de/assets/bundesarchiv/de/_processed_/5/b/csm_BArch_R_43_II_973_b_0299_Reichsgesetzblatt_Danzig_336f5203dc.jpg",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "관보 원면의 날짜, 자유시 헌법 폐지 및 영토 편입을 선언한 법문."
+    ],
+    "limitations": [
+      "나치 독일이 공표한 국내법. 국제적 승인과 실효지배의 실제 범위는 별개."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "독일 관보 1939-09-01"
+  },
+  {
+    "id": "CAT-DE-SRC-0083",
+    "title": "Die Stadt Danzig im Nationalsozialismus",
+    "institution_or_author": "Bundesarchiv",
+    "publication_date": null,
+    "source_type": "secondary: 기록원 해설",
+    "document_or_accession_number": null,
+    "locator": "Der Zweite Weltkrieg in Danzig 절 및 전후 단락",
+    "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/themenbeitraege/die-stadt-danzig-im-nationalsozialismus/",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-09-01 공격과 독일의 폴란드 시설 점거, 1945-03-30 소련군 도시 장악, 현재 폴란드어 이름."
+    ],
+    "limitations": [
+      "관보를 인용한 병합법 설명은 별도 독립 사료로 계산하지 않음. 전후 국경·행정의 법적 문구는 포츠담 원문을 따름."
+    ],
+    "rights": "Bundesarchiv 사이트 권리 표시. 사진·기록 이미지 재게시 없음.",
+    "independence_group": "Bundesarchiv 해설 및 기록 가이드"
+  },
+  {
+    "id": "CAT-DE-SRC-0084",
+    "title": "Litzmannstädter Zeitung, Jg. 18 Nr. 102",
+    "institution_or_author": "Verlagsgesellschaft Libertas / Wojewódzka Biblioteka Publiczna w Łodzi 소장",
+    "publication_date": "1940-04-12",
+    "source_type": "primary: 점령기 신문 원면",
+    "document_or_accession_number": "oai:bc.wbp.lodz.pl:27650",
+    "locator": "1면 제호·날짜·헤드라인 및 그라이저의 발표와 전보 기사 (원면 https://bc.wbp.lodz.pl/Content/27650/download/)",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/29011/edition/27650",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Lodsch와 Litzmannstadt 표기, 전날 새 이름 발표 보도."
+    ],
+    "limitations": [
+      "독일 점령기 선전 매체. 주민의 수용이나 개칭 명령 전문의 증거로 쓰지 않음."
+    ],
+    "rights": "디지털 도서관 목록의 퍼블릭 도메인 표시. 재게시 없이 요약·링크.",
+    "independence_group": "1940-04-12 신문 당대 인쇄"
+  },
+  {
+    "id": "CAT-DE-SRC-0085",
+    "title": "Plan von Litzmannstadt: mit Strassenverzeichnis",
+    "institution_or_author": "Erwin Thiem / Buchhandlung S. Seipelt / Stanford University Libraries 소장",
+    "publication_date": "1942 (소장 목록 연도)",
+    "source_type": "primary: 점령기 시가도",
+    "document_or_accession_number": "Stanford xb387zj9235",
+    "locator": "앞면 우상단 1:20,000 표제, 뒷면 색인 표제 및 목록",
+    "url": "https://purl.stanford.edu/xb387zj9235",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "원 도엽 양면의 Litzmannstadt와 앞면 축척."
+    ],
+    "limitations": [
+      "지도 간행 표기이며 행정명령과 주민 언어에는 별도 사료가 필요. 목록의 발행 연도와 지도 원면의 표기 구분."
+    ],
+    "rights": "Stanford 제공 Public Domain Mark 1.0. 재게시 없이 요약·링크.",
+    "independence_group": "Thiem 시가도"
+  },
+  {
+    "id": "CAT-DE-SRC-0086",
+    "title": "The Propaganda Exhibition “The Beautiful Town—Entschandelung and Design”: Stops in the “German East”, 1940–1942",
+    "institution_or_author": "Anja Wiese / Zeitschrift für Ostmitteleuropa-Forschung 70(4)",
+    "publication_date": "2021-12-31",
+    "source_type": "secondary: 학술논문과 당대 기록 도판",
+    "document_or_accession_number": "DOI 10.25627/202170411054; Fig. 6 BArch 146-1974-151-14; Fig. 8 Stadtarchiv Stralsund Rep. 24 Nr. 3033a fol. 249",
+    "locator": "PDF 18면 본문과 그림 6, 20면 그림 8",
+    "url": "https://www.zfo-online.de/portal/zfo/article/download/11054/10949",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-09-08 점령과 1940년 4월 개칭, 거리 표기의 현지 대응명. 신문과 다른 소장 기록의 도판."
+    ],
+    "limitations": [
+      "전시·건축 중심 연구. 도판은 논문 수록본이며 소장기관 원본 별도 열람은 미실시."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Anja Wiese의 전시기록 분석"
+  },
+  {
+    "id": "CAT-DE-SRC-0087",
+    "title": "Hołd i kwiaty od UŁ Ofiarom Radogoszcza",
+    "institution_or_author": "Uniwersytet Łódzki / Iwona Ptaszek-Zielińska, 역사 해설 Kamil Śmiechowski",
+    "publication_date": "2024-01-19",
+    "source_type": "secondary: 대학 공개 해설",
+    "document_or_accession_number": null,
+    "locator": "Zakończenie okupacji niemieckiej w Łodzi… 절 첫 문단",
+    "url": "https://www.uni.lodz.pl/aktualnosc/szczegoly/hold-i-kwiaty-od-ul-ofiarom-radogoszcza",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945-01-19 독일 점령 종료, 현대 폴란드어 표기."
+    ],
+    "limitations": [
+      "종전 현지 행정 공고의 원본은 이 해설에 수록되지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "우치대 역사학자 해설"
+  },
+  {
+    "id": "CAT-DE-SRC-0088",
+    "title": "Stadtkreis Litzmannstadt",
+    "institution_or_author": "Rolf Jehke / territorial.de",
+    "publication_date": null,
+    "source_type": "secondary: 행정 연표 편찬",
+    "document_or_accession_number": null,
+    "locator": "1939-11-09, 1939-12-29, 1940-04-11, 1945-01-01 항목과 주 1",
+    "url": "https://territorial.de/wart/litzmann/litzmstd.htm",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 행정상의 도시·도시군 표기 연쇄, 상위 행정구역, 새 명칭의 발표 시점 대조."
+    ],
+    "limitations": [
+      "행정 편찬물의 1939년 세부 날짜를 확정할 별도의 개별 개칭 법령 원문은 미확보."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Jehke 행정 연표"
+  },
+  {
+    "id": "CAT-DE-SRC-0089",
+    "title": "Königsberg, J-15",
+    "institution_or_author": "Army Map Service, U.S. Army / Biblioteka Politechniki Białostockiej 디지털 소장",
+    "publication_date": "1944 (AMS 2 개정)",
+    "source_type": "primary: 전시 미군 지도 원도엽",
+    "document_or_accession_number": "AMS M651 / GSGS 4416, J-15, 134009; oai:pbc.biaman.pl:3143",
+    "locator": "우측 상단 표제와 우측 하단 판차·지역 표시 (원도 https://pbc.biaman.pl/Content/3143/download/)",
+    "url": "https://pbc.biaman.pl/dlibra/publication/3368/edition/3143/konigsberg-j-15?language=en",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "POLAND 시리즈, 1:100,000, KÖNIGSBERG 표제 및 KONIGSBERG, GERMANY 하단 표기."
+    ],
+    "limitations": [
+      "전시 미군 제작 표기. 현대 목록의 폴란드어 키워드는 원도 표기와 구분."
+    ],
+    "rights": "미 육군 지도국 제작. 소장기관 디지털 원도 권리 안내와 별개로 이미지 재게시 없이 링크.",
+    "independence_group": "미 육군 지도국 1944 도엽"
+  },
+  {
+    "id": "CAT-DE-SRC-0090",
+    "title": "В составе РСФСР образована Кёнигсбергская (Калининградская) область",
+    "institution_or_author": "Президентская библиотека имени Б. Н. Ельцина",
+    "publication_date": null,
+    "source_type": "secondary: 국립 도서관 역사 해설",
+    "document_or_accession_number": null,
+    "locator": "1946년 4월 7일 및 7월 4일 단락",
+    "url": "https://www.prlib.ru/node/619151",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1946-04-07 주 설치, 1946-07-04 도시와 주의 개칭 및 원어 표기."
+    ],
+    "limitations": [
+      "페이지 표제 아래 날짜는 역사 사건의 날짜. 포츠담의 법적 문구는 외교문서 원문을 따르며 1946년 법령 관보는 미확보."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "러시아 대통령도서관 연혁"
+  },
+  {
+    "id": "CAT-DE-SRC-0091",
+    "title": "80 лет со дня взятия Кёнигсберга",
+    "institution_or_author": "Михаил Коваленко / Красноярский краевой краеведческий музей",
+    "publication_date": "2025-04-07",
+    "source_type": "secondary: 박물관 연구자 해설",
+    "document_or_accession_number": null,
+    "locator": "첫 문단 및 4월 공세와 수비대 항복 단락",
+    "url": "https://www.kkkm.ru/o-muzee/stati-i-publikacii/80-let-so-dnya-vzyatiya-kyonigsberga",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 동프로이센 주도, 1945년 4월 6–9일 소련군의 공세와 수비대 항복."
+    ],
+    "limitations": [
+      "기념 해설의 전과·포로 수는 조사 범위 밖. 항복문 원본은 별도 확인 필요."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "크라스노야르스크 박물관 해설"
+  },
+  {
+    "id": "CAT-DE-SRC-0092",
+    "title": "Erlass des Führers und Reichskanzlers über Gliederung und Verwaltung der Ostgebiete",
+    "institution_or_author": "Deutsches Reich / Karol Marian Pospieszalski 편, Instytut Zachodni",
+    "publication_date": "1939-10-08 (법령), 1952 (원 편찬)",
+    "source_type": "primary 및 secondary: 독일어 법령 전재와 편자 주석",
+    "document_or_accession_number": "RGBl. I 2042; Documenta Occupationis V, III-1",
+    "locator": "인쇄 122쪽 제1–2조와 주 3–5",
+    "url": "https://www.iz.poznan.pl/archiwum/wp-content/uploads/2019/10/DOCUMENTA-OCCUPATIONIS-V_ENG.pdf",
+    "accessed_at": "2026-11-10T00:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Westpreußen과 Posen의 행정 계층, Danzig 소재지, 후속 상위 명칭 변경과 Łódź로의 관청 이전에 관한 문헌번호."
+    ],
+    "limitations": [
+      "현지 시 경계와 개별 도시 개칭을 정하는 원문은 이 조항에 없음. 개정 명칭과 관청 이전은 편자 주석으로 확인."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "독일 관보 1939-10-08 법령 및 서방연구소 편집"
+  },
+  {
+    "id": "CAT-DE-SRC-0093",
+    "title": "Law concerning the Reunion of Austria with the German Reich",
+    "institution_or_author": "독일 정부·오스트리아 연방정부 / Harvard Law School Library",
+    "publication_date": "1938-03-13",
+    "source_type": "primary: 독일 관보 법문 영문 수록",
+    "document_or_accession_number": "PS-2307; RGBl. I 237",
+    "locator": "인용 오스트리아 연방헌법 제1–3조",
+    "url": "https://nuremberg.law.harvard.edu/documents/979-law-declaring-austria-to-be?mode=text",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "법 공포일과 독일의 오스트리아 편입 선언."
+    ],
+    "limitations": [
+      "법문의 주민투표 규정은 실제 자유 투표 여부의 증거가 아님."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "독일 관보 오스트리아 병합법"
+  },
+  {
+    "id": "CAT-DE-SRC-0094",
+    "title": "Declaration on Austria",
+    "institution_or_author": "영국·소련·미국 정부 / Yale Law School Avalon Project",
+    "publication_date": "1943-10 (모스크바 회의)",
+    "source_type": "primary: 연합국 공동 선언 수록",
+    "document_or_accession_number": null,
+    "locator": "The Moscow Conference 중 Declaration on Austria 전문",
+    "url": "https://avalon.law.yale.edu/wwii/moscow.asp",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연합국 세 나라가 강제 병합을 무효로 간주하고 독립 국가의 재건을 표명."
+    ],
+    "limitations": [
+      "연합국 정책 선언. 1938년 법 공포 날짜와 문서의 병합 지칭 날짜를 구분."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "모스크바 오스트리아 선언"
+  },
+  {
+    "id": "CAT-DE-SRC-0095",
+    "title": "Agreement concluded at Munich, September 29, 1938",
+    "institution_or_author": "독일·영국·프랑스·이탈리아 / Yale Law School Avalon Project",
+    "publication_date": "1938-09-29",
+    "source_type": "primary: 협정 본문 전재",
+    "document_or_accession_number": null,
+    "locator": "제1–6항과 서명란",
+    "url": "https://avalon.law.yale.edu/imt/munich1.asp",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "주데텐 지역 철수 및 10월 1–10일 단계별 독일군 진입 일정, 국제위원회 경계 결정."
+    ],
+    "limitations": [
+      "합의한 일정과 실제 지역별 점령·경계 조정을 구분. 부속 원도 미확인."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "뮌헨 협정"
+  },
+  {
+    "id": "CAT-DE-SRC-0096",
+    "title": "Decree concerning the Protectorate of Bohemia and Moravia",
+    "institution_or_author": "Deutsches Reich / Yale Law School Avalon Project",
+    "publication_date": "1939-03-16",
+    "source_type": "primary: 독일 관보 법문 영문 수록",
+    "document_or_accession_number": "2119-PS; RGBl. I 485",
+    "locator": "제1·3·5–7조",
+    "url": "https://avalon.law.yale.edu/imt/2119-ps.asp",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 점령 지역의 편입 주장, 보호령 정부·독일 보호관 및 외교·군사 권한의 분배."
+    ],
+    "limitations": [
+      "독일의 일방 칙령이며 국제 승인이나 권한의 실제 행사 빈도를 보여주지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "독일 관보 보호령 칙령"
+  },
+  {
+    "id": "CAT-DE-SRC-0097",
+    "title": "Treaty concerning the cession of the Memel Territory",
+    "institution_or_author": "독일·리투아니아 / 미국 국무부 Office of the Historian",
+    "publication_date": "1939-03-22",
+    "source_type": "primary: 당대 조약의 공식 외교문서 수록본",
+    "document_or_accession_number": "Auswärtiges Amt Documents on the Origin of the War No. 342; FRUS Paris Peace Conference XIII, ch. XII subch. X",
+    "locator": "240–241쪽의 조약 제1–2조 및 앞의 1924년 체제 해설",
+    "url": "https://history.state.gov/historicaldocuments/frus1919Parisv13/ch12subch10",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "즉시 편입 및 리투아니아 군·경 철수, 인계위원회 설치."
+    ],
+    "limitations": [
+      "독일 외무부의 영어판을 재수록. 현장 인계의 완료 시간은 별도 자료 필요."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "독일·리투아니아 메멜 조약"
+  },
+  {
+    "id": "CAT-DE-SRC-0098",
+    "title": "Treaty of Versailles, Part IV Section I — German Colonies",
+    "institution_or_author": "연합·협상국 및 독일 / 미국 국무부 Office of the Historian",
+    "publication_date": "1919-06-28",
+    "source_type": "primary: 조약 공식 수록본",
+    "document_or_accession_number": "FRUS Paris Peace Conference XIII, ch. XIII subch. I",
+    "locator": "제119조와 위임통치 주석, 276–279쪽",
+    "url": "https://history.state.gov/historicaldocuments/frus1919Parisv13/ch13subch1",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일의 해외 식민지 권리·권원 포기."
+    ],
+    "limitations": [
+      "옛 식민지의 제2차 세계대전기 개별 통치 상황을 모두 제시하지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "베르사유 조약"
+  },
+  {
+    "id": "CAT-DE-SRC-0099",
+    "title": "Decree concerning the Administration of the Occupied Polish Territories",
+    "institution_or_author": "Deutsches Reich / U.S. Office of Chief of Counsel, Library of Congress",
+    "publication_date": "1939-10-12",
+    "source_type": "primary: 독일 관보 법문 뉘른베르크 증거 번역",
+    "document_or_accession_number": "2537-PS; RGBl. I 2077; Nazi Conspiracy and Aggression V",
+    "locator": "인쇄 279–280쪽, §§1–4·9",
+    "url": "https://tile.loc.gov/storage-services/service/ll/llmlp/2011525363_NT_Nazi_Vol-V/2011525363_NT_Nazi_Vol-V.pdf",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "총독부 관할에서 독일 편입지를 제외, 프랑크 임명, 군정 명령 철회와 시행 연계."
+    ],
+    "limitations": [
+      "번역 수록본. 총독부의 시기별 경계도와 지역별 시행일은 포함되지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "독일 관보 폴란드 점령지 칙령"
+  },
+  {
+    "id": "CAT-DE-SRC-0100",
+    "title": "German Administration of Poland",
+    "institution_or_author": "United States Holocaust Memorial Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 역사 해설",
+    "document_or_accession_number": null,
+    "locator": "침공·서부 편입·총독부 조직 및 1941년 재편 문단",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/german-administration-of-poland",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "폴란드 편입 지역, 총독부의 10월 26일 조직 및 초기 구획, 갈리치아와 비아위스토크의 지위 차이."
+    ],
+    "limitations": [
+      "같은 기관의 지도와 상호보완되나 독립 문헌 두 건으로 세지 않음."
+    ],
+    "rights": "USHMM 웹 게시본. 자체 요약과 링크만 사용.",
+    "independence_group": "USHMM 폴란드 점령 행정 해설·지도"
+  },
+  {
+    "id": "CAT-DE-SRC-0101",
+    "title": "German administration of Poland, 1942",
+    "institution_or_author": "United States Holocaust Memorial Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 복원 지도",
+    "document_or_accession_number": "LCID pol61040",
+    "locator": "1942년 본도, 1938년 폴란드 국경선과 각 구역 색상",
+    "url": "https://encyclopedia.ushmm.org/content/en/map/german-administration-of-poland-1942",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전전 국경과 총독부·비아위스토크·편입지 및 동부 국가판무관부 구획."
+    ],
+    "limitations": [
+      "표제 1942년은 묘사 기준. 간행일은 미확인. 구획은 개략도이며 지적 경계로 쓸 수 없음."
+    ],
+    "rights": "USHMM 제작 지도. 원 이미지 재게시 없이 링크.",
+    "independence_group": "USHMM 폴란드 점령 행정 해설·지도"
+  },
+  {
+    "id": "CAT-DE-SRC-0102",
+    "title": "Armistice Agreement between the German High Command and French Plenipotentiaries",
+    "institution_or_author": "독일군 최고사령부·프랑스 대표 / Yale Law School Avalon Project",
+    "publication_date": "1940-06-22 (서명)",
+    "source_type": "primary: 정전협정 영문 전재",
+    "document_or_accession_number": null,
+    "locator": "제II–III조, APPENDIX 경계 설명",
+    "url": "https://avalon.law.yale.edu/wwii/frgearm.asp",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북·서부의 독일군 점령과 점령국 권한, 현지 프랑스 당국의 협력 의무."
+    ],
+    "limitations": [
+      "본문 서명일과 웹페이지 표제 날짜가 다름. 경계 설명을 읽었으며 부속 지도 원본은 미열람."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "프랑스·독일 정전협정"
+  },
+  {
+    "id": "CAT-DE-SRC-0103",
+    "title": "Enactments and Approved Papers of the Control Council and Coordinating Committee, Vol. I",
+    "institution_or_author": "Allied Control Authority / Library of Congress",
+    "publication_date": "1945-05-07–1945-06-05 (인용 문서)",
+    "source_type": "primary: 항복문과 연합국 공동선언 공식 문서집",
+    "document_or_accession_number": "LCCN 61035888, Vol. I",
+    "locator": "인쇄 6–13쪽 항복문·베를린 선언, 16–17쪽 점령구역 성명",
+    "url": "https://tile.loc.gov/storage-services/service/ll/llmlp/61035888_Volume-I/61035888_Volume-I.pdf",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "항복문 서명일, 최고권한 인수와 병합의 구분, 네 구역과 대베를린 공동 점령."
+    ],
+    "limitations": [
+      "공동 성명의 구역 설정과 지방별 병력 교대는 별개."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "연합국 통제위원회 공식 문서집"
+  },
+  {
+    "id": "CAT-DE-SRC-0104",
+    "title": "Protocol Regarding the Zones of Occupation in Germany and the Administration of Greater Berlin",
+    "institution_or_author": "미국·영국·소련 / 미국 국무부 Office of the Historian",
+    "publication_date": "1944-09-12",
+    "source_type": "primary: 런던 점령구역 의정서 공식 수록본",
+    "document_or_accession_number": "FRUS Malta and Yalta 1945, Doc. 108",
+    "locator": "119–120쪽 §§1–2",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Malta/d108",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1937년 12월 31일 기준, 3개 구역 계획과 대베를린 분리, 초기 동프로이센 포함."
+    ],
+    "limitations": [
+      "초기 의정서의 경계안. 이후 프랑스 참여와 포츠담 동부 처리로 조정."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "유럽자문위원회 런던 의정서"
+  },
+  {
+    "id": "CAT-DE-SRC-0105",
+    "title": "Report on the Work of the European Advisory Commission",
+    "institution_or_author": "M. W. Boggs, European Advisory Commission / 미국 국무부 Office of the Historian",
+    "publication_date": "1945-09-10",
+    "source_type": "primary: 당시 유럽자문위원회 최종 보고",
+    "document_or_accession_number": "FRUS 1945, Vol. III, Doc. 380",
+    "locator": "A(3), 552–553쪽 및 B(1)–(2), 554–556쪽",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v03/d380",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 프랑스 구역의 7월 26일 조정과 오스트리아에 대한 별도 통제·구역 협정."
+    ],
+    "limitations": [
+      "위원회가 정리한 외교적 합의 과정. 지역별 이행은 별도 확인 필요."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "유럽자문위원회 최종보고"
+  },
+  {
+    "id": "CAT-DE-SRC-0106",
+    "title": "Map of Germany, 1942, customised to show the borders of the different zones of occupation in 1945",
+    "institution_or_author": "National Army Museum, Marjorie Buy 소장 이력",
+    "publication_date": "1942 (바탕 지도), 1945년 점령구역 표시",
+    "source_type": "primary: 점령구역 표시가 추가된 지도 실물",
+    "document_or_accession_number": "NAM 2018-03-6-5-1",
+    "locator": "본도 구역선 및 박물관 소장품 해설",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=2018-03-6-5-1",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "실물 이미지의 덧그린 점령구역과 바탕 지도, 박물관의 4국 점령 설명."
+    ],
+    "limitations": [
+      "정밀 측량용이 아니며 주석 작성일과 동부 선의 실제 시행일을 확정할 수 없음."
+    ],
+    "rights": "박물관 목록 Crown Copyright 표기. 사진 재게시 없이 링크만 사용.",
+    "independence_group": "Marjorie Buy 지도"
+  },
+  {
+    "id": "CAT-DE-SRC-0107",
+    "title": "Germany: Territorial Expansion (1935–1939)",
+    "institution_or_author": "German Historical Institute / Cherie Norton·Mapping Solutions, 개정 Gabriel Moss",
+    "publication_date": "1990 (원 출판), 2021 (지도 개정)",
+    "source_type": "secondary: 군사사 연구서에 근거한 복원 지도",
+    "document_or_accession_number": "GHDI map-2884; Germany and the Second World War I, Map 1",
+    "locator": "PDF 1면 해설·2면 본도와 범례",
+    "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/germany-territorial-expansion-1935-1939.pdf",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "자르·오스트리아·주데텐·보호령·메멜과 슬로바키아의 독일군 주둔 구역을 분리."
+    ],
+    "limitations": [
+      "복원도이며 1935년 초 및 1939년 말 범례를 1939-09-01의 단일 경계선으로 해석하지 않음."
+    ],
+    "rights": "GHDI 및 원 지도 제작자 표기. 도판 재게시 없이 링크.",
+    "independence_group": "GHDI 연구 지도"
+  },
+  {
+    "id": "CAT-DE-SRC-0108",
+    "title": "France",
+    "institution_or_author": "United States Holocaust Memorial Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 역사 해설",
+    "document_or_accession_number": null,
+    "locator": "Key Facts 1–2 및 German Invasion",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/france",
+    "accessed_at": "2026-11-10T02:59:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "정전협정과 북·서부 독일 점령, 비점령 남부 비시 정부 출범과 협력."
+    ],
+    "limitations": [
+      "개별 점령 행정구역 및 이후 변경을 전수 검증한 자료가 아님."
+    ],
+    "rights": "USHMM 웹 게시본. 자체 요약과 링크만 사용.",
+    "independence_group": "USHMM 프랑스 점령 해설"
+  },
+  {
+    "id": "CAT-DE-SRC-0109",
+    "title": "Summary Report (European War)",
+    "institution_or_author": "United States Strategic Bombing Survey / U.S. Government Printing Office, HyperWar 전사",
+    "publication_date": "1945-09-30 (보고서), 1946 (표지 인쇄)",
+    "source_type": "primary: 전후 현장조사·독일 생산 기록 분석",
+    "document_or_accession_number": "USSBS European Report 001",
+    "locator": "The Attack on Oil, Further Dividends From the Oil Attack, Steel, 인쇄 8–11쪽",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/ETO-Summary",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "루마니아·헝가리 석유 공급과 합성유, 슈코파우 생산 차질, 개전 제강능력 및 1944년 월별 생산."
+    ],
+    "limitations": [
+      "전후 조사단의 집계·해석. 강철 월별 합계에 점령지와 전선 변동이 포함되며 단일 공장 기록과 구분."
+    ],
+    "rights": "미 연방정부 보고서. 전사본 링크와 자체 요약 사용.",
+    "independence_group": "USSBS 유럽 조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0110",
+    "title": "The Strategic Air War Against Germany 1939–1945: Report of the British Bombing Survey Unit",
+    "institution_or_author": "British Bombing Survey Unit / 49 Squadron Association 스캔 게시",
+    "publication_date": "1947년 중반 자료까지 반영 (스캔 표제 발행일 미표기)",
+    "source_type": "primary: 영국 전후 조사보고서 및 미국 조사 표 전재",
+    "document_or_accession_number": "스캔 C-20639.7, Copy No. 54; UEA 별도 소장 SZ/BBSU/25",
+    "locator": "인쇄 143–144쪽 표 45·47 (PDF 205–206면), 합성고무 본문 PDF 219면",
+    "url": "https://www.49squadron.co.uk/assets/pdf/survey.pdf",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "원유·합성 생산·수입의 구분, 정제시설 산출, 슈코파우와 로이나의 공급 연계. 표 47 스캔 직접 판독."
+    ],
+    "limitations": [
+      "표 47은 USSBS 보고서 표 37 전재로 독립 확증이 아님. 1943년 점령지 원유는 원표 미확인값."
+    ],
+    "rights": "스캔과 원 보고서의 권리를 구분. 이미지 재게시 없음.",
+    "independence_group": "BBSU 편찬 및 표 47의 USSBS 전재"
+  },
+  {
+    "id": "CAT-DE-SRC-0111",
+    "title": "Did Raw Material Shortages Decide World War Two? New Data for the Example of Nazi Rubber Supplies",
+    "institution_or_author": "Paul Ferdinand Schmelzing / Essays in Economic & Business History 35(2)",
+    "publication_date": "2017-06-17 (최종판)",
+    "source_type": "secondary: 기록 기반 학술 연구",
+    "document_or_accession_number": "Vol. XXXV(2), journal item 353",
+    "locator": "인쇄 38–39쪽 표 1–2, PDF 14–15면",
+    "url": "https://www.ebhsoc.org/journal/index.php/ebhs/article/download/353/330/693",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전후 편람·USSBS·I.G. Farben 통계의 1943·1944년 행과 점령지 유입 분류를 대조."
+    ],
+    "limitations": [
+      "표 1 원자료별 수치는 논문에서 열람. 기업 집계의 개별 원장은 별도로 열람하지 않았으며 표 2의 합산은 저자 방법에 따름."
+    ],
+    "rights": "PDF에 CC BY 4.0 표시. 한국어 요약과 링크 사용.",
+    "independence_group": "Schmelzing의 기록 비교 및 재구성"
+  },
+  {
+    "id": "CAT-DE-SRC-0112",
+    "title": "Military Government Guide: The Light Metals Industry in Germany",
+    "institution_or_author": "미국 War Department / Foreign Economic Administration 작성, Library of Congress",
+    "publication_date": "1945-05-31",
+    "source_type": "primary: 군정용 동시대 정보보고서",
+    "document_or_accession_number": "War Department Pamphlet No. 31-131",
+    "locator": "인쇄 1–2쪽 공정, 9쪽 표 2, 10쪽 표 3, 14쪽 표 9, 16쪽 표 12 (PDF 143–144·148·150면)",
+    "url": "https://tile.loc.gov/storage-services/public/gdcmassbookdig/eliminationofnaz00unit/eliminationofnaz00unit.pdf",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 본토 제련 설비와 생산 추정, 라우타베르크의 개별 추정, 보크사이트 반입 산지와 알루미나 공정 분리."
+    ],
+    "limitations": [
+      "영국 경제전쟁부 Economic Survey H의 추정 인용. 표의 지리 경계와 tons를 유지하며 실제 공장 원장과 구분."
+    ],
+    "rights": "미 연방정부 발행 보고서. 자체 요약과 소장기관 링크.",
+    "independence_group": "영국 MEW Economic Survey H를 인용한 미군 지침"
+  },
+  {
+    "id": "CAT-DE-SRC-0113",
+    "title": "Report to Congress on Operations of the Foreign Economic Administration",
+    "institution_or_author": "U.S. Foreign Economic Administration / U.S. Government Publishing Office",
+    "publication_date": "1944-09-25",
+    "source_type": "primary: 당대 의회 보고",
+    "document_or_accession_number": "GPO GOVPUB-PR32_5800-50ce07fb1b19911017ffc730395f987e",
+    "locator": "Chapter II Economic Warfare, 15–16쪽",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-PR32_5800-50ce07fb1b19911017ffc730395f987e/html/GOVPUB-PR32_5800-50ce07fb1b19911017ffc730395f987e.htm",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "튀르키예 크롬광 협정 구매 허용량과 1943년 독일 확보 추정의 차이."
+    ],
+    "limitations": [
+      "협정 원문·독일 통관 자료를 대체하지 않으며 해당 문단 tons의 기준 미표기."
+    ],
+    "rights": "미 연방정부 발행 문서. 요약과 링크.",
+    "independence_group": "미국 FEA 경제전 의회 보고"
+  },
+  {
+    "id": "CAT-DE-SRC-0114",
+    "title": "Germany (Metal Imports)",
+    "institution_or_author": "UK House of Commons / Ministry of Economic Warfare, Dingle Foot 답변",
+    "publication_date": "1944-01-18",
+    "source_type": "primary: 당대 의회 회의록",
+    "document_or_accession_number": "HC Deb vol. 396 cc. 13–15",
+    "locator": "제24문답",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1944/jan/18/germany-metal-imports",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 스웨덴 철광석 철분, 튀르키예 크롬 산화물 기준 비중, 이베리아 울프람 비중."
+    ],
+    "limitations": [
+      "영국 정부 추정. 광석 중량·금속 함량·소비 비중을 구분. FRUS 전보의 MEW 수치와 계통 일부 공유."
+    ],
+    "rights": "UK Parliament 공식 전사. 한국어 요약과 링크만 사용.",
+    "independence_group": "영국 MEW 의회 추정"
+  },
+  {
+    "id": "CAT-DE-SRC-0115",
+    "title": "The Ambassador in the United Kingdom (Winant) to the Secretary of State",
+    "institution_or_author": "John G. Winant / U.S. Department of State",
+    "publication_date": "1943-08-14",
+    "source_type": "primary: 당대 미국 외교전보에 수록된 영국 추정",
+    "document_or_accession_number": "FRUS 1943 Europe II, Doc. 574; 811.20 Defense (M) Spain/958, telegram 5347",
+    "locator": "The battle for tungsten §§1–5",
+    "url": "https://history.state.gov/historicaldocuments/frus1943v02/d574",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 상반기 울프람 미터톤의 이베리아 구매·기초 재고와 국내 생산 추정."
+    ],
+    "limitations": [
+      "영국 MEW 기반, 미국 OEW의 수치와 일부 다름을 전보가 명시. 구매와 인도를 구분."
+    ],
+    "rights": "미국 국무부 공식 외교문서 수록본. 자체 요약과 링크.",
+    "independence_group": "영국 MEW의 1943년 여름 울프람 검토, 미 대사관 전보"
+  },
+  {
+    "id": "CAT-DE-SRC-0116",
+    "title": "Germany (Metal Supplies)",
+    "institution_or_author": "UK House of Commons / Ministry of Economic Warfare, Dingle Foot 답변",
+    "publication_date": "1944-10-03",
+    "source_type": "primary: 당대 의회 회의록",
+    "document_or_accession_number": "HC Deb 3 October 1944, question 35",
+    "locator": "제35문답 Chrome·Bauxite·Wolfram",
+    "url": "https://hansard.parliament.uk/Commons/1944-10-03/debates/532e1aed-e91b-48e7-9fd2-8cf740b7c146/Germany%28MetalSupplies%29",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "튀르키예 중단 뒤 발칸 경로와 수송 단절 추정, 보크사이트와 금속 알루미늄의 분리."
+    ],
+    "limitations": [
+      "전시 공개 추정으로 국내 재고나 품위별 실적을 제시하지 않음."
+    ],
+    "rights": "UK Parliament 공식 전사. 한국어 요약과 링크만 사용.",
+    "independence_group": "영국 MEW 의회 추정"
+  },
+  {
+    "id": "CAT-DE-SRC-0117",
+    "title": "Statistische Schnellberichte zur Kriegsproduktion: Jahresheft (Manuskript), 1938 bis 1944",
+    "institution_or_author": "독일 전시 생산 통계 편찬 당국 / Bundesarchiv Berlin, University of Rochester 공개 스캔",
+    "publication_date": "1938–1944 (수록 기간), 원고 작성일 미표기",
+    "source_type": "primary: 전시 독일 생산 통계 원고 스캔",
+    "document_or_accession_number": "Bundesarchiv R 3102/3147; UR handle 1802/5956",
+    "locator": "PDF 2면 Vorbemerkungen 및 인쇄 5·8·12·13·17쪽 (PDF 9·12·16·17·21면)의 조강·알루미늄·크롬·텅스텐·Buna 행",
+    "url": "https://urresearch.rochester.edu/fileDownloadForInstitutionalItem.action?itemFileId=8502&itemId=5505",
+    "accessed_at": "2026-11-10T04:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대독일·점령지·수입 경계, 1944년 12월 조강, 1943년 월평균 고무·제련 알루미늄 및 크롬·텅스텐의 금속 함량 단위."
+    ],
+    "limitations": [
+      "월평균과 12월 실적을 구분. 수입 정의는 원고 서문에 따르며 산지별 광석 구매량과 직접 비교 불가."
+    ],
+    "rights": "University of Rochester 공개 스캔의 권리 표시 적용. 재게시 없이 자체 요약·링크.",
+    "independence_group": "독일 전시 생산 통계 원고"
+  },
+  {
+    "id": "CAT-DE-SRC-0118",
+    "title": "The Ruhr",
+    "institution_or_author": "U.S. Department of State / Office of the Historian, FRUS",
+    "publication_date": "1945-06-30",
+    "source_type": "primary: 포츠담 회담 준비용 국무부 메모",
+    "document_or_accession_number": "FRUS, The Conference of Berlin (The Potsdam Conference), 1945, vol. I, doc. 400, 740.00119 (Potsdam)/5–2446",
+    "locator": "문서 400, 인쇄 590–591쪽, §b Basic Data",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv01/d400",
+    "accessed_at": "2026-11-10T07:04:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "광역 루르와 내부 중심 공업대의 지역 면적, 라인강 서쪽 일부를 포함하는 지리 설명, 산업 집적과 철도·수운 비중의 추정."
+    ],
+    "limitations": [
+      "포함 시군의 확정 경계와 운송량의 관측 기간 미기재. 지역 전체 면적과 산업용 면적을 분리."
+    ],
+    "rights": "미 국무부 공식 문서 전사본. 자체 요약과 링크만 사용.",
+    "independence_group": "미 국무부 포츠담 회담 준비 메모"
+  },
+  {
+    "id": "CAT-DE-SRC-0119",
+    "title": "Lautawerk",
+    "institution_or_author": "Anja Prust / Landesamt für Archäologie Sachsen, KuLaDig",
+    "publication_date": "2023",
+    "source_type": "secondary: 산업유산 인벤토리",
+    "document_or_accession_number": "BKM 31100089",
+    "locator": "기술 본문, BKM·좌표·인용 안내",
+    "url": "https://www.kuladig.de/Objektansicht/BKM-31100089",
+    "accessed_at": "2026-11-10T07:04:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "라우타 공장·연결 발전소·공정, 초기 가동, 인근 광산·주거지, 전극 공장 건설 시점, 유산 대표 좌표."
+    ],
+    "limitations": [
+      "현대 유산 대표점이며 역사 필지의 측량 좌표가 아님. 동일 저자의 논문과 독립 자료로 중복 집계하지 않음."
+    ],
+    "rights": "게시 본문의 CC BY-NC 4.0 표기와 개별 이미지 권리 구분. 자체 요약과 링크만 사용.",
+    "independence_group": "Anja Prust의 라우지츠 산업유산 조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0120",
+    "title": "Kraftwerk Lauta (vor 1945)",
+    "institution_or_author": "Vinzenz Czech / Industriegeschichte Brandenburgs, brandenburgikon",
+    "publication_date": "2022-10-14",
+    "source_type": "secondary: 지역 산업사 편찬",
+    "document_or_accession_number": null,
+    "locator": "1938년 발전소 증설 문단, 문헌목록 Kahl 외(2009) 102–110쪽, EWAG 소유와 전쟁 말 점령 문단",
+    "url": "https://www.brandenburgikon.net/index.php/de/unternehmen-bis-1945/niederlausitz/lauta",
+    "accessed_at": "2026-11-10T07:04:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "EWAG의 발전소 인수·운영, 1938년 최대 명목출력 173 MW, 송전망 연계, 종전 직전 소련군 점령."
+    ],
+    "limitations": [
+      "Kahl 외의 발전소사를 인용한 정격. 원 발전기 명판과 발전·공장 송전 실적의 독립 대조 미실시."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Czech의 라우타 발전소사, Kahl 외 인용"
+  },
+  {
+    "id": "CAT-DE-SRC-0121",
+    "title": "The Archaeological Legacy of the Lignite Boom in Upper Lusatia",
+    "institution_or_author": "Anja Prust / Internet Archaeology 66",
+    "publication_date": "2024",
+    "source_type": "secondary: 산업고고학 논문, 1937년 지형도 활용",
+    "document_or_accession_number": "DOI 10.11141/ia.66.22; Messtischblatt 2618/4550 Hohenbocka",
+    "locator": "§3 Allied industries in Upper Lusatia, 그림 7 좌측 1937년 지도 패널",
+    "url": "https://www.intarch.ac.uk/journal/issue66/22/full-text.html",
+    "accessed_at": "2026-11-10T07:04:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "역사 지도 기반 도해에서 공장 윤곽·철도와 구역 외 광산·주거지의 공간 구분을 판독."
+    ],
+    "limitations": [
+      "후대 도해의 경계선이며 법정 필지나 가동 면적 측량값이 아님. 출처 0119와 연구자 공통."
+    ],
+    "rights": "논문은 별도 표기가 없는 부분 CC BY 3.0. 도해의 기초 자료별 권리를 구분하고 링크만 사용.",
+    "independence_group": "Anja Prust의 라우지츠 산업유산 조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0122",
+    "title": "Wirtschaft und Statistik, 19. Jahrgang Nr. 14, 2. Juli-Heft 1939",
+    "institution_or_author": "Statistisches Reichsamt / Statistische Bibliothek",
+    "publication_date": "1939-08-04 (발행란)",
+    "source_type": "primary: 동시대 독일 공식 통계",
+    "document_or_accession_number": "19. Jg. Nr. 14; DEAusgabe_derivate_00001194",
+    "locator": "544쪽, Kohlenförderung 표와 아래 본문, PDF 10면 / 545쪽, Deutsche Roheisen- und Rohstahlerzeugung, Erzeugung nach Bezirken, PDF 11면",
+    "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEAusgabe_derivate_00001194/Wirtschaft_und_Statistik-1939-14.pdf",
+    "accessed_at": "2026-11-10T07:04:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 6월 루르·자르란트 경질탄과 코크스, 루르 탄광과 부속 사업장 고용, 별도 라인란트·베스트팔렌 및 자르란트 제철 실적."
+    ],
+    "limitations": [
+      "1939년 6월 실적으로 설비능력이 아님. 제철 표의 집계 지역은 루르 탄광 통계의 Ruhrgebiet와 다름."
+    ],
+    "rights": "통계도서관 공개 스캔. 원면 재수록 없이 자체 요약과 링크만 사용.",
+    "independence_group": "Statistisches Reichsamt 1939년 월간 통계, 업종단체 집계 인용"
+  },
+  {
+    "id": "CAT-DE-SRC-0123",
+    "title": "Report by the Supreme Commander to the Combined Chiefs of Staff on the Operations in Europe of the Allied Expeditionary Force, 6 June 1944 to 8 May 1945",
+    "institution_or_author": "Dwight D. Eisenhower / Center of Military History, U.S. Army",
+    "publication_date": "1994 (디지털 소장본 표지의 재발행본)",
+    "source_type": "primary: 연합군 최고사령관 작전 보고",
+    "document_or_accession_number": "CMH 70-58",
+    "locator": "105쪽, Ruhr 포위망 4월 전황",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/70-58.pdf",
+    "accessed_at": "2026-11-10T07:04:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 4월 18일 루르 포위망의 독일군 저항 종결."
+    ],
+    "limitations": [
+      "군사작전 종결 기준이다. 개별 사업장 인수일과 공업지대 경계를 확정하지 않는다."
+    ],
+    "rights": "미 육군 공식 디지털판. 자체 요약과 링크만 사용.",
+    "independence_group": "연합군 최고사령부 작전 보고"
+  },
+  {
+    "id": "CAT-DE-SRC-0124",
+    "title": "The Political Adviser in Germany (Murphy) to the Secretary of State ad interim, German Coal",
+    "institution_or_author": "Robert Murphy / U.S. Department of State Office of the Historian",
+    "publication_date": "1945-06-28 (본문), 1945-06-27 (Rainey 첨부)",
+    "source_type": "primary: 점령 당국의 동시대 외교보고",
+    "document_or_accession_number": "FRUS, The Conference of Berlin, 1945, vol. I, doc. 421; 740.00112 E. W./6–2845",
+    "locator": "문서 421 본문 614–615쪽 및 첨부 1",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv01/d421",
+    "accessed_at": "2026-11-10T08:57:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북독일 석탄 통제기관의 영국 군정 소속과 군정 감독 하 독일 경영조직 사용 방침."
+    ],
+    "limitations": [
+      "6월 방침이며 9월 개별 탄광·제철소 인수 기록이 아니다. 다음 날 같은 작성자의 전문과 독립 확증으로 합산하지 않는다."
+    ],
+    "rights": "미 국무부 공식 전사본. 자체 요약과 링크만 사용.",
+    "independence_group": "미국 독일 정치고문실 1945년 6월 석탄 상황 보고"
+  },
+  {
+    "id": "CAT-DE-SRC-0125",
+    "title": "The Political Adviser in Germany (Murphy) to the Assistant Secretary of State (Clayton)",
+    "institution_or_author": "Robert Murphy / U.S. Department of State Office of the Historian",
+    "publication_date": "1945-06-29",
+    "source_type": "primary: 점령기 외교전문",
+    "document_or_accession_number": "FRUS, The Conference of Berlin, 1945, vol. I, doc. 422; 840.6363/6–2945",
+    "locator": "문서 422, 621–622쪽",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv01/d422",
+    "accessed_at": "2026-11-10T08:57:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "판매 가능 석탄 하루 60,000 tons, 독일인 광부 약 175,000명 작업, 수운 병목과 뒤스부르크항 상태."
+    ],
+    "limitations": [
+      "비공식 현황 요약. 개별 탄광 관측일, tons 정의, 9월 상태 미기재. 장래 전망치는 실제 실적과 분리."
+    ],
+    "rights": "미 국무부 공식 전사본. 자체 요약과 링크만 사용.",
+    "independence_group": "미국 독일 정치고문실 1945년 6월 석탄 상황 보고"
+  },
+  {
+    "id": "CAT-DE-SRC-0126",
+    "title": "Wirtschaft in Westdeutschland 1945–1948: Rekonstruktion und Wachstumsbedingungen in der amerikanischen und britischen Zone",
+    "institution_or_author": "Werner Abelshauser / Deutsche Verlags-Anstalt / Institut für Zeitgeschichte",
+    "publication_date": "1975",
+    "source_type": "secondary: 군정 통계를 이용한 경제사 연구",
+    "document_or_accession_number": "Schriftenreihe der Vierteljahrshefte für Zeitgeschichte Nr. 50; ISBN 3-421-01714-X",
+    "locator": "159쪽 표 36, 각주 a·c·d, PDF 139면",
+    "url": "https://open.ifz-muenchen.de/bitstreams/78011a0a-34f9-48d5-b6aa-fbf46e70acdf/download",
+    "accessed_at": "2026-11-10T08:57:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "각주가 명시한 루르·아헨·이벤뷔렌의 1945-08-04·09-29 경질탄 작업일 평균 80·127천 t/작업일."
+    ],
+    "limitations": [
+      "표 원면 열람. 출처란의 OMGUS No. 5 Coal 5쪽 등 바탕 통계는 직접 대조하지 못했다. 루르 단독 값과 9월 2일 값이 아니다."
+    ],
+    "rights": "1975년 출판본의 IfZ 공개 스캔. 표·페이지 재수록 없이 자체 요약과 링크만 사용.",
+    "independence_group": "Abelshauser가 편집한 점령기 연합국 통계"
+  },
+  {
+    "id": "CAT-DE-SRC-0127",
+    "title": "Kraftwerk Lauta (nach 1945)",
+    "institution_or_author": "Vinzenz Czech / Industriegeschichte Brandenburgs, brandenburgikon",
+    "publication_date": "2022-10-14",
+    "source_type": "secondary: 지역 산업사 편찬",
+    "document_or_accession_number": null,
+    "locator": "점령·철거·연말 복구 문단, 문헌 Kahl 외(2009) 102–110쪽",
+    "url": "https://www.brandenburgikon.net/index.php/de/betriebe-1945-1989/bezirk-cottbus/lauta2",
+    "accessed_at": "2026-11-10T08:57:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "4월 20일 소련군 점령, 폭격 손상, 부분 철거, 1945년 말 24 MW 공급 가능, 1946년 10월 재건 착수."
+    ],
+    "limitations": [
+      "9월 2일 가용·설치출력 및 발전 실적 미기재. 개전편 출처 0120과 저자 및 문헌 계열 공통."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Czech의 라우타 발전소사, Kahl 외 인용"
+  },
+  {
+    "id": "CAT-DE-SRC-0128",
+    "title": "Geschichte Lauta 1374–1989",
+    "institution_or_author": "Stadt Lauta",
+    "publication_date": null,
+    "source_type": "secondary: 지자체 역사 연표",
+    "document_or_accession_number": null,
+    "locator": "1944·1945·1946년 항목",
+    "url": "https://www.lauta.de/1374-1989.html",
+    "accessed_at": "2026-11-10T08:57:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944~1945년 공장 공습, 1945-04-20 소련군 진입, 1946년 중반 철거 완료와 재건 서술."
+    ],
+    "limitations": [
+      "일자별 철거·설비 목록과 바탕 기록 미기재. 산업사와 교차 대조하되 전승의 독립성은 미확인."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "라우타시 연표"
+  },
+  {
+    "id": "CAT-DE-SRC-0129",
+    "title": "VEB Aluminiumwerk „Albert Zimmermann“ Lauta",
+    "institution_or_author": "Katrin Verch, Vinzenz Czech 편집 / Industriegeschichte Brandenburgs",
+    "publication_date": "2022-11-16",
+    "source_type": "secondary: 기록관 편찬을 바탕으로 한 산업사",
+    "document_or_accession_number": null,
+    "locator": "첫 두 문단, Verch(2005) 337–339쪽 관련 문헌",
+    "url": "https://brandenburgikon.net/index.php/de/betriebe-1945-1989/bezirk-cottbus/aluwerk",
+    "accessed_at": "2026-11-10T08:57:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "폭격 피해, 4월 20일 점령, 소련군정 몰수와 배상 설비 반출의 경과."
+    ],
+    "limitations": [
+      "정확한 몰수 명령 일자와 9월 2일 운영자 미기재. 후대 VEB 명칭을 1945년에 소급하지 않는다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Verch의 기업사, Czech 편집"
+  },
+  {
+    "id": "CAT-DE-SRC-0130",
+    "title": "A City Amputated, a Community Regenerated: Munich During and After the Allied Air War, 1939 to 1948",
+    "institution_or_author": "Thomas J. Arnold / University of Kansas",
+    "publication_date": "2012-04-11 (박사논문 승인)",
+    "source_type": "secondary: 연합국 석탄 보고를 인용한 박사논문",
+    "document_or_accession_number": "KU ScholarWorks 1808/10394; 원 보고 인용 The National Archives PRO FO 371",
+    "locator": "121쪽, 각주 13에 인용된 1945-07-12 연합국 석탄 보고",
+    "url": "https://kuscholarworks.ku.edu/bitstream/1808/10394/1/Arnold_ku_0099D_12083_DATA_1.pdf",
+    "accessed_at": "2026-11-10T08:57:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "루르·아헨 탄광 가동 중단과 피해 분류, 잠재 연간 생산능력 추계."
+    ],
+    "limitations": [
+      "논문 본문과 인용 문헌 번호를 열람했다. 인용 원 보고 원면은 미확보이며 루르만의 9월 수치가 아니다."
+    ],
+    "rights": "University of Kansas 공개 학위논문. 자체 요약과 링크만 사용.",
+    "independence_group": "Arnold의 연합국 1945-07-12 석탄 보고 인용"
+  },
+  {
+    "id": "CAT-DE-SRC-0131",
+    "title": "Flugplätze und Fliegerhorste der deutschen Luftwaffe und deren übergeordnete Organisation im Zweiten Weltkrieg",
+    "institution_or_author": "Bundesarchiv",
+    "publication_date": null,
+    "source_type": "secondary: 연방기록원 연구 안내",
+    "document_or_accession_number": "RL 21 등 기록군",
+    "locator": "Ebene 1: Flugplatz, Quellen im Bundesarchiv",
+    "url": "https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/flugplaetze-und-fliegerhorste-der-deutschen-luftwaffe-und-deren-uebergeordnete-organisation-im-zweiten-weltkrieg/",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "상설 기지·동원기지·수상기·보조기지의 구분과 기록군 탐색 경로."
+    ],
+    "limitations": [
+      "조직 분류의 해설이며 개별 기지 1939년 수용량 원장이 아니다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "독일 연방기록원 공군 지상조직 안내"
+  },
+  {
+    "id": "CAT-DE-SRC-0132",
+    "title": "Erprobungsstelle der deutschen Luftwaffe",
+    "institution_or_author": "Luftfahrttechnisches Museum Rechlin e.V.; 본문 말미 Christoph Regel(1998) 표시",
+    "publication_date": null,
+    "source_type": "secondary: 항공기술박물관 시설 연혁",
+    "document_or_accession_number": null,
+    "locator": "1933–1945, Gruppe Nord·Süd, Flugplatz Lärz, Rollfeld Roggentin",
+    "url": "https://www.luftfahrttechnisches-museum-rechlin.de/ausstellungen/erprobungsstelle-der-deutschen-luftwaffe.html",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "네 시설군의 배치, 1936년까지의 남쪽 시험 설비, 지하 연료 저장량의 시점 차이, 라르츠 착공·로겐틴 보조 비행장."
+    ],
+    "limitations": [
+      "남쪽 저장량 관측일 미기재. 1943년 저장량과 당일 개전 수치는 별개. 개별 도면·시운전 원장 미확보."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "레힐린 항공기술박물관 시설사"
+  },
+  {
+    "id": "CAT-DE-SRC-0133",
+    "title": "Flugerprobungen in Rechlin",
+    "institution_or_author": "Luftfahrttechnisches Museum Rechlin e.V.",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 시험활동 연혁",
+    "document_or_accession_number": null,
+    "locator": "1935년 Flugzeugbestand·Starts 문단",
+    "url": "https://www.luftfahrttechnisches-museum-rechlin.de/archiv/details-zu/flugerprobungen-in-rechlin.html",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1935년 시험기관 보유 기체와 시험활동 집계."
+    ],
+    "limitations": [
+      "1939년 배치나 비행장 수용 한도가 아니며 집계 원장 미확보."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "레힐린 항공기술박물관 시험활동사"
+  },
+  {
+    "id": "CAT-DE-SRC-0134",
+    "title": "Royal Air Force Gatow (RAF Gatow)",
+    "institution_or_author": "Landesdenkmalamt Berlin",
+    "publication_date": null,
+    "source_type": "secondary: 문화재청 시설 연혁",
+    "document_or_accession_number": null,
+    "locator": "Bauzeit / Geschichte, 독일 공군·소련군·RAF 인수와 Rollbahn 문단",
+    "url": "https://www.berlin.de/landesdenkmalamt/denkmale/highlight-denkmale-der-alliierten/grossbritannien/spandau/royal-air-force-gatow-raf-gatow-648000.php",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "리터펠트 내 기지 건설 목적, 독일군 철수·점령과 영국 인수, 인수 당시 잔디면 및 1945·1947년 활주로 증설."
+    ],
+    "limitations": [
+      "1945년 잔디면에서 1939년의 길이·수용량을 확정할 수 없다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "베를린 문화재청 가토 문화유산 조사"
+  },
+  {
+    "id": "CAT-DE-SRC-0135",
+    "title": "Der Flugplatz Berlin-Gatow: Das Militärhistorische Museum ehem. Luftwaffenmuseum",
+    "institution_or_author": "Norbert Dachroth / Baukammer Berlin, konstruktiv",
+    "publication_date": "2019, 3호",
+    "source_type": "secondary: 공병·건축사 해설과 후대 배치 복원",
+    "document_or_accession_number": "konstruktiv 3/2019",
+    "locator": "인쇄 66쪽 격납고, 68쪽 배치도·개교, 69쪽 기술구역",
+    "url": "https://www.baukammerberlin.de/wp-content/uploads/2024/08/2019-03_BK-konstruktiv.pdf",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "가토의 격납고 9동 서술, 교육 개시와 1937년 명칭, 북서쪽 기술구역과 남동쪽 아카데미 구분."
+    ],
+    "limitations": [
+      "배치도는 약 1940년 상태의 Elke Dittrich 복원. 격납고별 준공일·개전 정원 미제시. MHM 제공 자료를 일부 이용."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Dachroth 공병 해설·MHM 자료"
+  },
+  {
+    "id": "CAT-DE-SRC-0136",
+    "title": "Werneuchen, Schlüsselübergabe an Theo Osterkamp",
+    "institution_or_author": "원 표제 Nau / Bundesarchiv, Bild 183",
+    "publication_date": "1937-11-27",
+    "source_type": "primary: 당대 사진과 원 표제",
+    "document_or_accession_number": "BArch Bild 183-C16644",
+    "locator": "1937년 11월 27일 촬영 이미지 및 사진 원 표제",
+    "url": "https://www.bild.bundesarchiv.de/dba/de/search/?query=124745822",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "병영 입구 열쇠 인계 장면. 연방기록원 목록과 동일 소장번호의 기록원 배포 디지털 사진을 대조."
+    ],
+    "limitations": [
+      "공식 이미지 서버 점검으로 배포 복제본에서 원 촬영물을 확인. 의식 사진은 활주로·격납고 배치를 보여주지 않는다."
+    ],
+    "rights": "연방기록원 배포 복제본 CC BY-SA 3.0 DE 표기. 이미지 복제 없이 설명·링크만 사용.",
+    "independence_group": "BArch Bild 183-C16644",
+    "alternate_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-C16644,_Werneuchen,_Schl%C3%BCssel%C3%BCbergabe_Theo_Osterkamp.jpg"
+  },
+  {
+    "id": "CAT-DE-SRC-0137",
+    "title": "Denkmalliste des Landes Brandenburg: Landkreis Barnim",
+    "institution_or_author": "Brandenburgisches Landesamt für Denkmalpflege und Archäologisches Landesmuseum",
+    "publication_date": "2026-01-01 (목록 기준)",
+    "source_type": "secondary: 주 문화재 현황 목록",
+    "document_or_accession_number": "MIDAS 09175483",
+    "locator": "40쪽, Werneuchen Jagdfliegerschule 행",
+    "url": "https://bldam-brandenburg.de/wp-content/uploads/2026/03/05_BAR_Internet-25.pdf",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "문화재 건물군 주소·항공기 격납고 7동과 관제탑."
+    ],
+    "limitations": [
+      "현대 보호 대상 목록. 기준일 전체 격납고나 정원·수용 대수와 동일시할 수 없다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "브란덴부르크 주 문화재 목록"
+  },
+  {
+    "id": "CAT-DE-SRC-0138",
+    "title": "Jagdfliegerschule Werneuchen / Jagdfliegerschule 1",
+    "institution_or_author": "Lexikon der Wehrmacht",
+    "publication_date": null,
+    "source_type": "secondary: 후대 편제 웹 편찬",
+    "document_or_accession_number": null,
+    "locator": "첫 문단 및 Staffel 주둔 표",
+    "url": "https://www.lexikon-der-wehrmacht.de/Gliederungen/Jagdfliegerschulen/JFS1-R.htm",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "편찬물의 1939년 9월 1일 슈트라우스베르크 전개 명령 서술."
+    ],
+    "limitations": [
+      "해당 명령서 원문과 비행일지 미확보. 역사적 실제 이동의 독립 확증으로 집계하지 않음."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "Lexikon der Wehrmacht 편제 편찬"
+  },
+  {
+    "id": "CAT-DE-SRC-0139",
+    "title": "Entwicklung und Erprobung von Waffen und Munition: SC 10 mit Bremsflügel, Schlußbericht, Erprobungs-Nr. 52377",
+    "institution_or_author": "Bundesarchiv / Deutsche Digitale Bibliothek, 문서 담당 Dr. Petter",
+    "publication_date": "1938-12-20 (기록 작성일)",
+    "source_type": "secondary: 1차 시험보고의 기록관 목록",
+    "document_or_accession_number": "BArch RL 36/168, 구 RLM 1267/23",
+    "locator": "Archivaliensignatur, Kontext, Laufzeit",
+    "url": "https://www.deutsche-digitale-bibliothek.de/item/PMHYF3PQSIM6TXY3BAFJYXSUP4DTTR7A",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "레힐린 시험기관 산하 항공무장 시험 보고의 계층·날짜·기록번호."
+    ],
+    "limitations": [
+      "목록 열람. Invenio의 본문 접근이 시간 초과되어 시험 결과나 시설 수치를 확인하지 못함."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "BArch RL 36/168 목록"
+  },
+  {
+    "id": "CAT-DE-SRC-0140",
+    "title": "Bestandsaufnahme von Rüstungsaltlastverdachtsstandorten in der Bundesrepublik Deutschland, Band 5: Findmittelverzeichnis Bundesarchive",
+    "institution_or_author": "Jürgen Thieme / Umweltbundesamt",
+    "publication_date": "1996-04",
+    "source_type": "secondary: 연방기록 보존자료 탐색 목록",
+    "document_or_accession_number": "TEXTE 29/96; UBA-FB 96-030/5",
+    "locator": "135쪽, RL 36/42",
+    "url": "https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/texte_1996_29_bestandsaufnahme_von_ruestungsaltlastverdachtsstandorten_band_5_findmittelverzeichnis_bundesarchive.pdf",
+    "accessed_at": "2026-11-10T10:58:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944-06-13 레힐린 시찰 관련 항공사진·배치도·축척 1:25,000 지도 목록."
+    ],
+    "limitations": [
+      "배치도 원면은 미확보. 1944년 기록이므로 개전 상태를 독립 입증하지 않는다."
+    ],
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "독일 환경청 기록 탐색 목록"
+  },
+  {
+    "id": "CAT-DE-SRC-0141",
+    "title": "Carro ligero Panzerkampfwagen I Ausf A",
+    "institution_or_author": "Ejército de Tierra, Museo de Medios Acorazados El Goloso",
+    "publication_date": "게시일 미확인",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "Panzerkampfwagen I Ausf A, Desarrollo·Características",
+    "url": "https://ejercito.defensa.gob.es/materiales/otros/museo_carros/museo-carros.html?__locale=es",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Ausf A의 MG 13 2정·승무원 2명 및 제원란의 최대 42 km/h"
+    ],
+    "limitations": [
+      "박물관 표에 측정 노면·하중과 시험 원기록 미제시"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0142",
+    "title": "Panzer II",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": "게시일 미확인",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "The Museum’s Panzer II·Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/panzer-ii?era=all",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Ausf F, 20 mm 포·7.92 mm 기관총 1정·3명",
+      "1941년 도입. 튀니지에서 영국군에 노획된 소장품의 1940년 프랑스 전역 표식은 전시용"
+    ],
+    "limitations": [
+      "주포 세부 모델과 40 km/h의 측정 조건 미제시. 요약 생산량의 집계 범위 미확인"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0143",
+    "title": "Panzer II Ausf L",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": "게시일 미확인",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "개발·발주·인도 문단 및 Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/panzer-ii-ausf-l?country=&era=WW2&tname=&tpage=1",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Luchs의 2 cm KwK 38·MG34 1정·승무원 4명",
+      "2 cm 양산형과 계획된 5 cm형 구분"
+    ],
+    "limitations": [
+      "교범 전사본의 3명 및 2 cm Kw.K.18과 상충. 독일군 장비 제식 문서와 양산대장 미확보"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0144",
+    "title": "Panzer III L",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": "게시일 미확인",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "The Tank Museum’s Panzer III L·Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/panzer-iii-l?country=all&era=all&tpage=1",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Ausf L 도입 시점과 50 mm 주포·7.92 mm 기관총 2정·승무원 5명",
+      "열대화 사양 소장품의 1942년 리비아 도착과 제8전차연대 지급"
+    ],
+    "limitations": [
+      "알람 할파 참가 가능성은 박물관 추정. 28 mph 측정조건과 653대의 공장 원장은 미확인"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0145",
+    "title": "Československý tank LT 35",
+    "institution_or_author": "Vojenský historický ústav Praha",
+    "publication_date": "2013-08-27",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "본문, 제작번호 10 112 및 체코슬로바키아 등록번호 13.962",
+    "url": "https://www.vhu.cz/lt-35/",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Škoda 개발, 소장 차량의 ČKD 생산·1937년 인수·1939년 독일군 편입"
+    ],
+    "limitations": [
+      "298대는 1936–1938년 체코슬로바키아군 인수량. 독일 인수량과 개별 차량의 전투 이력은 별도"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0146",
+    "title": "Lehký tank Praga LT vzor 38",
+    "institution_or_author": "Michal Burian, Vojenský historický ústav Praha",
+    "publication_date": "2018-12-24",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "본문 차대 008·1939년 폴란드 전역 단락 및 말미 제원",
+    "url": "https://www.vhu.cz/en/lehky-tank-praga-lt-vzor-38/",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "체코슬로바키아 개발·주문과 1939년 독일군 인수·Ausf A 폴란드 전역 운용",
+      "소장 사례의 Škoda A-7 3.7 cm 주포·기관총 2정·승무원 4명·최대 42 km/h"
+    ],
+    "limitations": [
+      "차대 008의 개별 전투 참가를 입증하는 기록 아님. 후속 형식 전체에 소장품 제원을 적용할 수 없음"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0147",
+    "title": "The Swedish King Tiger",
+    "institution_or_author": "Svensk PansarHistorisk Förening (SPHF)",
+    "publication_date": "게시일 미확인",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "Basic characteristics of the Swedish King Tiger, 차대번호 문단",
+    "url": "https://www.sphf.se/svenskt-pansar/fordon/utlandska-stridsfordon-i-sverige/en_the-swedish-king-tiger/",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "시제 V1·V2·V3와 별도의 양산 차대번호 280001–280489"
+    ],
+    "limitations": [
+      "후대 차량 식별 연구. Henschel 월별 공장 대장·인도 장부 또는 박물관 492 표기의 내부 산식은 미확보"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0148",
+    "title": "King Tiger V2",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": "게시일 미확인",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "The Tank Museum’s Tiger II (Pre-Production), Versuchs-Fahrgestell No. V2",
+    "url": "https://tankmuseum.org/tank_collection/king-tiger-v2?country=all&era=&tname=&tpage=1",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "시제 3대 중 V2의 1943년 12월 완성과 Henschel 시험 용도, 전투부대 미지급"
+    ],
+    "limitations": [
+      "보존품 안내이며 공장 전체 생산·검수·인도 장부 아님"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0149",
+    "title": "Vojenský historický ústav Praha, Výroční zpráva 2013",
+    "institution_or_author": "Vojenský historický ústav Praha",
+    "publication_date": "2013년 연차보고서",
+    "source_type": "secondary: 기관 해설 또는 소장품 기록",
+    "locator": "Lešany 전시 설명, PzKpfw 35(t) 문단",
+    "url": "https://www.vhu.cz/wp-content/uploads/2017/12/V%C3%BDro%C4%8Dn%C3%AD-zpr%C3%A1va-VH%C3%9A-Praha-2013.pdf",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "체코슬로바키아 LT vz. 35의 독일군 명칭 PzKpfw 35(t)"
+    ],
+    "limitations": [
+      "2013년 기관 해설. 독일군 배치·개장 원기록과 구분"
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 등록.",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "CAT-DE-SRC-0150",
+    "title": "Deutsche Werften in der Zwischenkriegszeit (1918–1939), Teil 3",
+    "institution_or_author": "Dirk J. Peters / Deutsches Schiffahrtsmuseum, Deutsches Schiffahrtsarchiv",
+    "publication_date": "2017",
+    "source_type": "secondary",
+    "document_or_accession_number": "Deutsches Schiffahrtsarchiv 40, 143–248쪽",
+    "locator": "인쇄 171–172쪽(그림 18–19 포함), 199–200쪽",
+    "url": "https://ww2.dsm.museum/DSA/DSA40_2017_143248_Peters.pdf",
+    "accessed_at": "2026-11-10T12:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": "빌헬름스하펜 구 조선소 수리 기능, 250 t 부유 크레인, 제4항구 입구 및 북조선소 공사. 킬의 Howaldt 시설과 해군공창 통합, DWK와 후년 KILIAN 구분.",
+    "limitations": "후대 연구. 1939-09-01의 도크·접안 총량과 당일 가동률 자료는 없음.",
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "peters-dsm-shipyards"
+  },
+  {
+    "id": "CAT-DE-SRC-0151",
+    "title": "Kriegsmarine – Neue Hafeneinfahrt Wilhelmshaven",
+    "institution_or_author": "Schleswig-Holsteinische Landesbibliothek / digiCULT",
+    "publication_date": "1918년 원자료 발행 표기, 웹 목록일 미상",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "Album 188-302",
+    "locator": "Objektbezeichnung, Datierung, Beschreibung, Rechteinformation",
+    "url": "https://www.digicult-verbund.de/item/DE-MUS-076111/lido/Album%20188-302",
+    "accessed_at": "2026-11-10T12:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": "빌헬름스하펜 제3입구 건설 1906–1909년, 1930년대 명칭 Tirpitz-Schleuse, 두 갑실의 길이 각 250 m.",
+    "limitations": "소장품 설명 본문을 확인. 원 사진의 촬영일과 측량 원부, 개전 당시의 가용 수심은 미확인.",
+    "rights": "목록의 권리 표기는 CC BY-SA 4.0. 사진 파일을 복제하지 않고 자체 요약과 링크 사용.",
+    "independence_group": "shlb-album188-catalog"
+  },
+  {
+    "id": "CAT-DE-SRC-0152",
+    "title": "Erster Weltkrieg vereitelte frühe Pläne zum Ausbau einer vierten Hafeneinfahrt",
+    "institution_or_author": "Ulrich Räcker-Wellnitz / Wilhelmshavener Zeitung, Heimat am Meer (빌헬름스하펜시 제공)",
+    "publication_date": "공개 PDF에서 발행일 확인 못함",
+    "source_type": "secondary",
+    "document_or_accession_number": "Heimat am Meer, 인쇄 82–83쪽",
+    "locator": "인쇄 82–83쪽 제4입구 공사와 Emden 통항 대목",
+    "url": "https://www.wilhelmshaven.de/PDF/Heimat-am-Meer/13-01-HaM-Hafeneinfahrt.pdf?m=1444383651",
+    "accessed_at": "2026-11-10T12:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": "1936년 공사 착수, 1942-11-07 Emden이 동쪽 갑실을 이용한 첫 통항, 전시 서쪽 갑실 미완공.",
+    "limitations": "지역사 기사. 시공 원부는 미확인. Peters와 원사료 계통의 독립성은 미확인.",
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "raecker-local-history"
+  },
+  {
+    "id": "CAT-DE-SRC-0153",
+    "title": "Kriegstagebuch Unterseeboot U 3, 1. Unternehmung",
+    "institution_or_author": "독일 해군 U 3 / U-boat Archive 영어 번역 게시",
+    "publication_date": "1939-09-04~08 기록, 번역 게시일 미상",
+    "source_type": "primary",
+    "document_or_accession_number": "U 3 KTB 제1차 순찰",
+    "locator": "2쪽 1939-09-04, 6쪽 1939-09-08 07:30 및 08:10",
+    "url": "https://www.uboatarchive.net/U-3/KTB3-1.htm",
+    "accessed_at": "2026-11-10T12:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": "U 3이 9월 4일 제1입구를 거쳐 U 4와 출항, 9월 8일 제3입구 갑실과 잠수함 기지에 각각 계류.",
+    "limitations": "번역 본문 확인. 독일어 원면은 웹 열람의 GIF 미지원으로 판독하지 못했다. 한 척의 기록으로 항만 총처리량이나 9월 1일 상태를 산출할 수 없다.",
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "kriegsmarine-u3-ktb"
+  },
+  {
+    "id": "CAT-DE-SRC-0154",
+    "title": "Marinewerften und Kriegsmarinearsenale",
+    "institution_or_author": "Bundesarchiv / Deutsche Digitale Bibliothek",
+    "publication_date": "1908–1945 소장 기록의 후대 목록",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "BArch RM 104 (RM 128 재분류 설명 포함)",
+    "locator": "Bestandsbeschreibung, Geschichte des Bestands",
+    "url": "https://www.deutsche-digitale-bibliothek.de/item/6HHEZNBJBIGIGYF3G7XPBQXUBO5V76NO",
+    "accessed_at": "2026-11-10T12:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": "빌헬름스하펜·킬 해군공창의 조직 연혁과 킬 Howaldt 인수, Friedrichsort 관련 기록의 소장 범위.",
+    "limitations": "소장군 해설 열람. 개별 문건·시설 도면은 미열람. Peters와 같은 날짜를 독립 확증하는 자료로 사용하지 않음.",
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "bundesarchiv-rm104-finding-aid"
+  },
+  {
+    "id": "CAT-DE-SRC-0155",
+    "title": "Kieler Erinnerungstag: 18. Dezember 1907 – Einweihung der Petruskirche in der Wik",
+    "institution_or_author": "Stadtarchiv Kiel",
+    "publication_date": "웹 게시일 미상",
+    "source_type": "institutional_secondary",
+    "document_or_accession_number": "Kieler Erinnerungstage 82",
+    "locator": "Neues Kasernengelände in der Wik",
+    "url": "https://www.kiel.de/de/kultur_freizeit/stadtarchiv/erinnerungstage.php/fotoarchiv_stadtarchiv_kiel.php?id=82",
+    "accessed_at": "2026-11-10T12:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": "Wik 어뢰정 항만과 인접 해군 시설의 전사, Tirpitz-·Scheerhafen 명칭의 현재 대응.",
+    "limitations": "해군항 연혁에 한정. 1939년 부두 규격이나 이용량, 킬 전체 경계를 산출하지 않음.",
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "kiel-city-archive-wik"
+  },
+  {
+    "id": "CAT-DE-SRC-0156",
+    "title": "Admiralty War Diary, August 1940",
+    "institution_or_author": "영국 해군성 / Royal Navy Naval Historical Branch 공개 스캔",
+    "publication_date": "1940-08-01 해당 기록",
+    "source_type": "primary",
+    "document_or_accession_number": "Admiralty War Diary, August 1940",
+    "locator": "1940-08-01, 인쇄 12쪽, Home Commands / Enemy Intelligence / Kiel",
+    "url": "https://sccd.royalnavy.mod.uk/-/media/rnweb/locations-and-operations/navy-historical-branch/pdfs/1940/war_diary_naval_1940_08.pdf?rev=b96ec54189cb4baaa908b88845d3c8a8",
+    "accessed_at": "2026-11-10T12:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": "킬의 도크 내 전함과 순양함, Arsenal Wharf에 있는 순양함에 관한 영국 항공정찰 판독 기록.",
+    "limitations": "영국 측 1940년 관측. 사진 원판과 독일 측 도크 명부는 미확인. 판독 보고를 1939년 용량이나 개별 군용 도크 수로 환산하지 않음.",
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "british-admiralty-recon-1940"
+  },
+  {
+    "id": "CAT-DE-SRC-0157",
+    "title": "Kriegstagebuch Unterseeboot U 48, 1. Unternehmung",
+    "institution_or_author": "독일 해군 U 48 / Jerry Mason·Andi Forster 영어 번역",
+    "publication_date": "1939-08-25~09-17 기록, 번역 게시일 미상",
+    "source_type": "primary",
+    "document_or_accession_number": "U 48 KTB 사본 4",
+    "locator": "13쪽 1939-09-17 05:50, 후속 기록 9월 19~30일",
+    "url": "https://www.uboatarchive.net/U-48/KTB48-1.htm",
+    "accessed_at": "2026-11-10T12:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": "U 48의 Tirpitz Mole 계류와 이후 Germaniawerft에서의 조선소 체류.",
+    "limitations": "웹의 KTB 영어 번역 본문 확인. 후속 조선소 체류 기록은 별도 상업 조선소를 군기지 설비로 합산하는 근거가 아니다.",
+    "rights": "원 기록과 디지털 게시·편집의 권리를 구분. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "kriegsmarine-u48-ktb"
+  },
+  {
+    "id": "CAT-DE-SRC-0158",
+    "title": "Truppenführung (T.F.), 1. Teil (Abschnitt I–XIII)",
+    "institution_or_author": "Deutsche Digitale Bibliothek / Bundesarchiv",
+    "publication_date": "1933",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "H.Dv. 300/1",
+    "locator": "표제 및 문서번호",
+    "url": "https://www.deutsche-digitale-bibliothek.de/item/4HDHHTP4RDSUZLDUJPRB3CWWYYJRWNQW",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "육군 지휘 교범 제1부의 표제·문서번호."
+    ],
+    "limitations": [
+      "서지와 소장정보를 확인했다. 독일어 원면의 조항은 직접 대조하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "de-truppenfuehrung"
+  },
+  {
+    "id": "CAT-DE-SRC-0159",
+    "title": "The Survival of Auftragstaktik During the Soviet Counterattack in the Battle for Moscow, December 1941 to January 1942",
+    "institution_or_author": "Miguel A. Lopez / Temple University",
+    "publication_date": "2015-12",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 11–13쪽, Truppenführung",
+    "url": "https://scholarshare.temple.edu/bitstreams/e2f8e3a1-6586-4454-8e63-61158ee75870/download",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1933·1934년 두 부분의 간행과 교범 §§6, 75–76의 독립 판단·상급 의도·보고 책임."
+    ],
+    "limitations": [
+      "Condell·Zabecki의 영문 번역을 인용하는 후대 연구다. 독일어 원면과 독립된 증거로 합산하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "de-truppenfuehrung"
+  },
+  {
+    "id": "CAT-DE-SRC-0160",
+    "title": "Sixteen Cases of Mission Command",
+    "institution_or_author": "Donald P. Wright 편 / U.S. Army Combat Studies Institute Press",
+    "publication_date": "2013",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 52–60쪽, 세당 도하 및 그림 3",
+    "url": "https://www.armyupress.army.mil/Portals/7/combat-studies-institute/csi-books/SixteenCasesOfMissionCommand.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도하의 사전 연습, 제1기갑사단의 보병 돌격, 공병 교량 설치 후 차량 도하."
+    ],
+    "limitations": [
+      "임무형 지휘의 교육용 성공 사례다. 다른 군단·사단의 보편적 실적은 다루지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "csi-mission-command"
+  },
+  {
+    "id": "CAT-DE-SRC-0161",
+    "title": "Kiev 1941 — Introduction",
+    "institution_or_author": "David Stahel / Cambridge University Press",
+    "publication_date": "2012",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "서론의 1941년 여름 동부군 손실·기동부대 마모 단락",
+    "url": "https://www.cambridge.org/core/books/abs/kiev-1941/introduction/B6DC068AD79EEEA6B00A40F07D22074D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "포위 성과와 전차·차량 마모, 정비 여건 및 부품 부족의 병존."
+    ],
+    "limitations": [
+      "저자의 작전 지속 가능성 평가를 참고했다. 개별 사단별 가동률을 인용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "stahel-kiev-1941"
+  },
+  {
+    "id": "CAT-DE-SRC-0162",
+    "title": "Standing Fast: German Defensive Doctrine on the Russian Front During World War II, Prewar to March 1943",
+    "institution_or_author": "Timothy A. Wray / U.S. Army Combat Studies Institute",
+    "publication_date": "1986",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제1장 The Origins of German Defensive Doctrine",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/GERMANY/GER%20Standing%20Fast%2C%20Defensive%20Doct.%20Russ%20Front%20to%201943.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일군 종심 탄력방어의 제1차 대전기 기원과 전전의 계승."
+    ],
+    "limitations": [
+      "연구의 종료 시점은 1943년 3월이다. 이후 방어에 그대로 적용하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "wray-standing-fast"
+  },
+  {
+    "id": "CAT-DE-SRC-0163",
+    "title": "Panzer Group Kleist and the Breakthrough in France, 1940",
+    "institution_or_author": "Karl-Heinz Frieser / U.S. Army Center of Military History",
+    "publication_date": "2005",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 70-89",
+    "locator": "독일군 작전술 장의 Sedan과 Operation CITADEL 비교",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/H%20Pdf/cmhPub_70-89.pdf?ver=OY1vr2V5R_70PubR44yMdw%3D%3D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기습과 취약부를 이용한 세당 공세와, 예고된 방향의 준비된 쿠르스크 방어 돌파 시도의 차이."
+    ],
+    "limitations": [
+      "두 사례에 대한 저자의 비교 해석이다. 책임 소재를 이 장 하나로 확정하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "frieser-operational-art"
+  },
+  {
+    "id": "CAT-DE-SRC-0164",
+    "title": "German Naval Strategy in World War I and World War II",
+    "institution_or_author": "Michael Epkenhans / NIDS·ZMSBw 공동연구 논집",
+    "publication_date": "2022",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 46–54쪽, Raeder and Naval Strategy 및 The Kriegsmarine at War",
+    "url": "https://www.nids.mod.go.jp/english/publication/joint_research/series19/pdf/series19.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Z 계획, 레더의 원양 통상전, 노르웨이와 프랑스 기지, 수상함과 U보트 우선순위의 변화."
+    ],
+    "limitations": [
+      "전후 전략사 연구다. 건함 목표와 전시 가용함을 구분했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nids-german-naval-strategy"
+  },
+  {
+    "id": "CAT-DE-SRC-0165",
+    "title": "War at Sea 1939–1945, I: The Defensive",
+    "institution_or_author": "S. W. Roskill / 영국 공식 전사",
+    "publication_date": "1954",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제7장 The Early Campaigns Against Enemy Raiders, Table 6",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/UK-RN-I/UK-RN-I-7.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 독일 수상 습격함의 활동에 대응한 영·프 수색 전력 편성."
+    ],
+    "limitations": [
+      "영국 측 대응 기록을 중심으로 한 서술이다. 독일 작전명령의 대체 자료가 아니다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "roskill-war-at-sea-i"
+  },
+  {
+    "id": "CAT-DE-SRC-0166",
+    "title": "Anniversary of the Navy’s greatest modern triumph – defeat of the U-boat",
+    "institution_or_author": "Royal Navy",
+    "publication_date": "2021-05-24",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "ONS 5와 1943년 5월 24일 북대서양 재배치 단락",
+    "url": "https://www.royalnavy.mod.uk/news/2021/may/24/20210524-battle-atlantic",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "ONS 5 양측 손실, 연합 대잠전 강화와 5월 U보트 철수."
+    ],
+    "limitations": [
+      "왕립해군 개관이며 손실 집계의 지역 경계를 전역 전체로 확대하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rn-black-may"
+  },
+  {
+    "id": "CAT-DE-SRC-0167",
+    "title": "Kriegstagebuch des Befehlshabers der Unterseeboote — 16–31 May 1943",
+    "institution_or_author": "독일 잠수함사령부 / U-boat Archive 영문 전사",
+    "publication_date": "1943-05",
+    "source_type": "primary",
+    "document_or_accession_number": "PG 30324",
+    "locator": "1943년 5월 24일자 재배치 명령과 §VI의 전황 판단",
+    "url": "https://ww.uboatarchive.net/BDU/BDUKTB30324.htm",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북대서양 호송 작전 중단 후 재배치, 항공 위협이 작은 해역으로의 일시 전환과 일부 잠수함 잔류."
+    ],
+    "limitations": [
+      "영문 전사본이다. 일지에 적힌 당시 판단과 전후 확인된 손실은 구분했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "bdu-ktb-pg30324"
+  },
+  {
+    "id": "CAT-DE-SRC-0168",
+    "title": "The Battle of the Atlantic, 1939 to 1945",
+    "institution_or_author": "Royal Canadian Navy / Government of Canada",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "대잠 탐지 장비와 1943~1944년 호위·지원단 단락",
+    "url": "https://www.canada.ca/en/navy/services/history/naval-service-1910-2010/battle-atlantic-1939-1945.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 호위함의 10 cm 레이더 장비, 캐나다 해군의 장비 격차와 연합 호송 지원단 참여."
+    ],
+    "limitations": [
+      "캐나다 측 기관 해설이다. 장비 도입 속도를 연합 전력 전반에 일반화하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rcn-battle-atlantic"
+  },
+  {
+    "id": "CAT-DE-SRC-0169",
+    "title": "From Biplanes to Blitzkreig: The Development of German Air Doctrine Between the Wars",
+    "institution_or_author": "James S. Corum / War in History",
+    "publication_date": "1996",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "권 3 호 1, 공개 초록",
+    "url": "https://journals.sagepub.com/doi/10.1177/096834459600300104",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일군이 개전 전 개발한 작전 항공 교리와 다양한 임무."
+    ],
+    "limitations": [
+      "출판사 초록만 확인했다. 교범의 조문을 이 논문 초록에서 복원하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "corum-german-air-doctrine"
+  },
+  {
+    "id": "CAT-DE-SRC-0170",
+    "title": "Centre of Gravity Analysis of Planning and Prosecution of the Battle of Britain?",
+    "institution_or_author": "David Bond / Royal Air Force, Air and Space Power Review",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Vol. 24, No. 2",
+    "locator": "Luftwaffe Regulation 16, Wever 및 1940년 작전목표 단락",
+    "url": "https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/aspr-vol24-iss2-7-pdf/",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전전 교범과 장거리 폭격 구상, 1940년의 목표와 수단 불일치."
+    ],
+    "limitations": [
+      "영국의 후대 사례 연구다. L.Dv. 16 독일어 원면은 직접 대조하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "raf-aspr-bob-strategy"
+  },
+  {
+    "id": "CAT-DE-SRC-0171",
+    "title": "The Army Air Forces in World War II, Vol. I",
+    "institution_or_author": "Wesley F. Craven · James L. Cate 편 / 미 육군항공군 공식 전사",
+    "publication_date": "1948",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제3장 The European War, 소련 공세와 모스크바 방면 단락",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/I/AAF-I-3.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "바르바로사에서의 독일 항공 전력 집중과 장기화에 따른 손실."
+    ],
+    "limitations": [
+      "미국 공식 전사다. 독일과 소련의 기체 손실 집계는 따로 비교해야 한다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "craven-cate-aaf-i"
+  },
+  {
+    "id": "CAT-DE-SRC-0172",
+    "title": "A fight for the skies: The Battle of Britain",
+    "institution_or_author": "영국 국방부 / GOV.UK",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "독일의 비행장 공격과 런던 폭격, 전투의 결과 단락",
+    "url": "https://www.gov.uk/government/news/a-fight-for-the-skies-the-battle-of-britain",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일의 RAF 비행장 공격과 런던을 향한 공격의 전개, 제공권 미확보."
+    ],
+    "limitations": [
+      "영국의 기념 해설이다. 표적 변화만으로 패배 원인을 설명하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "uk-mod-battle-of-britain"
+  },
+  {
+    "id": "CAT-DE-SRC-0173",
+    "title": "Case Studies in the Achievement of Air Superiority",
+    "institution_or_author": "Benjamin Franklin Cooling 편 / Center for Air Force History",
+    "publication_date": "1994",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "동부전선의 제공권 장과 독일 본토 방공 사례",
+    "url": "https://media.defense.gov/2010/Oct/12/2001330116/-1/-1/0/AFD-101012-038.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동부전선 공군의 초기 우위와 소모, 독일 본토 방공 전투의 전개."
+    ],
+    "limitations": [
+      "여러 저자의 사례 연구다. 동·서부의 손실 집계와 시기를 혼합하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "cooling-air-superiority"
+  },
+  {
+    "id": "CAT-DE-SRC-0174",
+    "title": "A Comparative Look at Air-Ground Support Doctrine and Practice in World War II",
+    "institution_or_author": "Kenneth A. Steadman / U.S. Army Combat Studies Institute",
+    "publication_date": "1982-09-01",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The German Air-Ground System in WW II, 1940년 프랑스와 공군 연락대",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D110-PURL-LPS71516/pdf/GOVPUB-D110-PURL-LPS71516.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "주공 방향 항공부대 배정과 전방 공동 계획·연락대 운용."
+    ],
+    "limitations": [
+      "후대 비교 연구다. 전술항공 지원 체계에 초점을 두며 독일 공군 전체의 교범은 별개다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "steadman-air-ground"
+  }
+]

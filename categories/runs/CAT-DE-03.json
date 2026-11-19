@@ -1,0 +1,69 @@
+{
+  "step": 3,
+  "job_id": "CAT-DE-03",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 3,
+  "category": "함선 및 함정, 무장, 성능",
+  "article_path": "categories/germany/03-naval-vessels.md",
+  "status": "partial",
+  "started_at": "2026-11-09T05:22:02+09:00",
+  "completed_at": "2026-11-09T05:23:36+09:00",
+  "source_ids": [
+    "CAT-DE-SRC-0010",
+    "CAT-DE-SRC-0011",
+    "CAT-DE-SRC-0012"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0009",
+    "CAT-DE-RQ-0010",
+    "CAT-DE-RQ-0011",
+    "CAT-DE-RQ-0012"
+  ],
+  "entity_ids": [
+    "CAT-DE-EQP-0008",
+    "CAT-DE-EQP-0009"
+  ],
+  "research_scope": "Bismarck 1941 무장·시험성능 진술과 NHC 함급 요약 대조; U-505 Type IXC 초기 무장·훈련/작전 이력·수상/수중 속력. 실제 열람한 세 자료의 한국어 원고.",
+  "limitations": [
+    "두 개별함만 조사, 전 함종/함급 전수검증 아님",
+    "심문보고는 후대 HTML 전사, 원 스캔 미열람",
+    "독일 원 설계/시험/개장/어뢰 적재기록 미확보",
+    "자료 계보 미확인으로 독립 확증 아님"
+  ],
+  "base_head": "951eece415830d36ae07fec1701fcf54155aeab0",
+  "evidence_checked": [
+    "C.B.4051(24) 전사 서두·pp5/29/32",
+    "NHC Construction HyperWar 보존본 본문1~5문단",
+    "National WWII Museum Jason Dawsey 해설의 초기 이력·제원 문단"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sinking-of-the-bismarck/the-cruise-of-the-bismarck.html",
+      "result": "web open Timeout fetching"
+    },
+    {
+      "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-064/h-064-3.html",
+      "result": "web open Timeout fetching"
+    },
+    {
+      "url": "https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nara-series/80-g/80-G-320000/80-G-324373.html",
+      "result": "web open 502 Bad Gateway"
+    },
+    {
+      "url": "https://www.uboatarchive.net/U-505/U-505.htm",
+      "result": "web open not accessible"
+    },
+    {
+      "url": "https://www.t.uboatarchive.net/U-505/KTB505-11.htm",
+      "result": "web open 502 Bad Gateway; search snippet not counted as evidence"
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "133 jobs; visited=3 pending=130; sources=12 questions=12. Structural check only.",
+    "path_check": "8 changed paths; all under categories/. Baseline content compared against latest HEAD snapshot."
+  }
+}

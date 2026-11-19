@@ -1,0 +1,53 @@
+{
+  "step": 107,
+  "job_id": "CAT-IT-12",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 12,
+  "category": "당시 인구",
+  "article_path": "categories/italy/12-population.md",
+  "status": "partial",
+  "started_at": "2026-11-17T20:54:08+09:00",
+  "completed_at": "2026-11-17T20:59:47+09:00",
+  "base_head": "6549e8976bc5d7bf3fbc4cfb45ee6efee5eaf9ad",
+  "source_ids": [
+    "CAT-IT-SRC-0100",
+    "CAT-IT-SRC-0101",
+    "CAT-IT-SRC-0102",
+    "CAT-IT-SRC-0103",
+    "CAT-IT-SRC-0104",
+    "CAT-IT-SRC-0105",
+    "CAT-IT-SRC-0106"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0043",
+    "CAT-IT-RQ-0044",
+    "CAT-IT-RQ-0045"
+  ],
+  "entity_ids": [
+    "CAT-IT-GEO-0001",
+    "CAT-IT-GEO-0002",
+    "CAT-IT-GEO-0003",
+    "CAT-IT-GEO-0004"
+  ],
+  "research_scope": "이탈리아 본토 통계권의 전전 총조사와 전시 추계, 리비아·이탈리아령 동아프리카·에게해의 수치와 집계 범위.",
+  "limitations": [
+    "정확한 개전·참전·종전일 인구 및 전시 이주·피란의 규모는 미확인이다.",
+    "리비아 두 수치의 기준일·분류 차이는 원표를 확보해 확인해야 한다. 동아프리카 1939년 수치는 추계로 확인했다.",
+    "알바니아, 다른 전시 점령지 및 해외 지역의 시계열은 후속 조사 범위다."
+  ],
+  "evidence_checked": [
+    "1940년 왕국 연감 표 A·B 및 식민지 표, 1957년 연감 표 18, 1995년 발행 ISTAT 연감 표 2.1과 역사적 인구총조사 해제를 열람했다.",
+    "포데스타의 리비아 재수록 표와 로시의 날짜가 있는 별도 수치, 왕국 관보의 리비아 편입 법령 인용을 대조했다."
+  ],
+  "access_attempts": [
+    "ISTAT Annali에서 1940–41년 리비아 원 연감의 서지와 재수록 표를 확인했다. 원 연감 스캔은 확보하지 못했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=107 pending=26; sources=1084 questions=408. Structural check only.",
+    "path_check": "변경 8개 경로는 모두 categories/ 하위."
+  }
+}

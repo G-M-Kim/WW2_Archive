@@ -1,0 +1,62 @@
+{
+  "step": 39,
+  "job_id": "CAT-GB-01",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 1,
+  "category": "전차장비, 무장, 성능",
+  "article_path": "categories/united-kingdom/01-tanks.md",
+  "status": "partial",
+  "completed_at": "2026-11-12T05:01:21+09:00",
+  "started_at": "2026-11-12T04:55:53+09:00",
+  "base_head": "65b2f02be6ca12fbe403661d945fe6a020dbd2eb",
+  "source_ids": [
+    "CAT-GB-SRC-0014",
+    "CAT-GB-SRC-0015",
+    "CAT-GB-SRC-0016",
+    "CAT-GB-SRC-0017",
+    "CAT-GB-SRC-0018",
+    "CAT-GB-SRC-0019",
+    "CAT-GB-SRC-0020",
+    "CAT-GB-SRC-0021"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0004",
+    "CAT-GB-RQ-0005",
+    "CAT-GB-RQ-0006",
+    "CAT-GB-RQ-0007"
+  ],
+  "entity_ids": [
+    "CAT-GB-EQP-0001",
+    "CAT-GB-EQP-0002",
+    "CAT-GB-EQP-0003"
+  ],
+  "research_scope": "영국 설계 보병전차 Matilda IIA·Churchill Mk IV와 순항전차 Cromwell Mk IV. 형식 제원, 개발·인도, 영국·호주·캐나다의 운용 근거.",
+  "limitations": [
+    "박물관 속도의 시험 조건과 형식별 생산 원장이 미확인. Matilda II 15/16 mph 차이 보존.",
+    "현장 사료가 식별하는 계열과 박물관 표본의 세부 Mk를 분리. 일부 원본 교범과 IWM 영상은 미열람.",
+    "Valentine·Crusader·Comet·수입 및 개조 전차는 후속 과제."
+  ],
+  "evidence_checked": [
+    "The Tank Museum 세 형식 Tank facts 및 전시 차량 이력",
+    "Postan 공식 전사 IV.10, 표 25와 장갑·속도·Meteor 문단",
+    "AWM 108957 사진 판면, 캐나다 CMHQ Report 83 본문, IWM A70 47-7 소장 설명"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.awm.gov.au/collection/C1036167",
+      "result": "웹 조회가 429를 반환해 해당 발릭파판 사진은 인용하지 않았다. 별도의 브루나이만 AWM 108957 사진을 직접 열람했다."
+    },
+    {
+      "url": "https://film.iwmcollections.org.uk/record/1216",
+      "result": "IWM 소장 설명·촬영일·제작자 정보는 열람했다. 이 실행에서는 원영상 프레임 판정 없이 계열과 상륙 사례만 기록했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=39 pending=94; sources=458 questions=162. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

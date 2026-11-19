@@ -1,0 +1,925 @@
+[
+  {
+    "id": "CAT-FR-RQ-0001",
+    "status": "open",
+    "question": "B1과 B1 bis의 생산·납품 및 장갑·기동 실측을 어떻게 분리할 수 있는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0001",
+      "CAT-FR-SRC-0001",
+      "CAT-FR-SRC-0004",
+      "CAT-FR-SRC-0006",
+      "CAT-FR-SRC-0007",
+      "CAT-FR-SRC-0008",
+      "CAT-FR-SRC-0010"
+    ],
+    "evidence": "합산 수치와 bis 단독 서술의 범위가 다르고, 당대 정비 도면은 30번만 확인했다.",
+    "completion_condition": "공장별 생산·검수·인수 원장과 형식별 정비교범·시험보고서 원문에서 기준일, 차대 번호, 시험조건을 명시."
+  },
+  {
+    "id": "CAT-FR-RQ-0002",
+    "status": "open",
+    "question": "S 35 양산형의 기관총 수와 장갑 부위, 정확한 인수 수량은 무엇인가?",
+    "related_ids": [
+      "CAT-FR-EQP-0002",
+      "CAT-FR-SRC-0002",
+      "CAT-FR-SRC-0005",
+      "CAT-FR-SRC-0010"
+    ],
+    "evidence": "두 박물관 기관총 수 표기가 2정과 1정으로 엇갈리고 영국 박물관 본문과 제원표의 생산량이 다르다.",
+    "completion_condition": "프랑스 육군 설명서와 출고·검수 대장, 소장차 개조 이력에서 장착·휴대, 생산·인수 기준을 구분."
+  },
+  {
+    "id": "CAT-FR-RQ-0003",
+    "status": "open",
+    "question": "R35의 SA 18·SA 38 전환 및 부대별 인도·전투 기록을 어디까지 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0003",
+      "CAT-FR-SRC-0003",
+      "CAT-FR-SRC-0009",
+      "CAT-FR-SRC-0010"
+    ],
+    "evidence": "후대 연구서에 두 포의 사례가 있다. 당대 사진 후보는 개별 항목 대신 일반 기록관 페이지로 이동했다.",
+    "completion_condition": "차대·포탑 번호별 인수 장부와 BCC 전투일지를 대조하고 R40·수출·가용량을 분리."
+  },
+  {
+    "id": "CAT-FR-RQ-0004",
+    "status": "open",
+    "question": "이 세 차종 외 프랑스 전차와 공여 전차의 전쟁기 운용은 어떠했는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0001",
+      "CAT-FR-EQP-0002",
+      "CAT-FR-EQP-0003",
+      "CAT-FR-SRC-0004",
+      "CAT-FR-SRC-0010"
+    ],
+    "evidence": "1940년 전역 전후 세 양산형에 집중했으며 나머지 형식, 북아프리카와 해방기 운용은 후보로 남았다.",
+    "completion_condition": "형식별 생산·부대·전구·시점을 확인하고 비시, 자유프랑스, 해방기 부대의 실제 운용과 공여·노획을 분리."
+  },
+  {
+    "id": "CAT-FR-RQ-0005",
+    "status": "open",
+    "question": "판아르 178의 프랑스 출고 상태와 노획 후 기록의 장갑·최고속도 차이는 무엇으로 설명되는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0004",
+      "CAT-FR-SRC-0009",
+      "CAT-FR-SRC-0011",
+      "CAT-FR-SRC-0014"
+    ],
+    "evidence": "미 전쟁부 식별 교범과 프랑스 연구서의 장갑·속도 수치가 상충한다.",
+    "completion_condition": "차대와 포탑의 위치별 공장 도면 및 시험표와 노획 조사표를 대조하고 차량 사양·하중·도로 조건을 밝힌다. 480대 집계의 의회 원표도 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0006",
+    "status": "open",
+    "question": "르노 UE의 보급·견인 장비와 무장 장착 사례를 UE·UE2 및 운용 주체별로 구분할 수 있는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0005",
+      "CAT-FR-SRC-0009",
+      "CAT-FR-SRC-0012",
+      "CAT-FR-SRC-0013"
+    ],
+    "evidence": "기본형과 견인포, 무장 시제 및 노획 개조의 근거 수준이 다르다. 1939년 사진은 발췌만 확인했다.",
+    "completion_condition": "프랑스 장비 설명서와 부대 기록에서 형식별 탑재량·속도·임무를 확인하고 사진 원면과 부대·촬영일을 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0007",
+    "status": "open",
+    "question": "로렌 37 L 양산차의 제원과 계약별 검수·부대 인도 규모는 어떠했는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0006",
+      "CAT-FR-SRC-0009",
+      "CAT-FR-SRC-0010"
+    ],
+    "evidence": "확인한 속도는 시제 시험 또는 수정 구동계 조건이다. 양산차의 방호·고정무장 제식표와 운용 원장은 미확보.",
+    "completion_condition": "프랑스 시험 및 검수 원본, 차대별 인수대장과 부대 원장을 확인하고 38 L 병력수송형과 독일 노획 개조를 분리한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0008",
+    "status": "open",
+    "question": "다른 비전차 기갑장비의 전시 운용을 어떻게 분류할 것인가?",
+    "related_ids": [
+      "CAT-FR-EQP-0004",
+      "CAT-FR-EQP-0005",
+      "CAT-FR-EQP-0006",
+      "CAT-FR-SRC-0009",
+      "CAT-FR-SRC-0010"
+    ],
+    "evidence": "대표 세 차량에 집중했다. 반궤도차·장갑 병력수송·자주포·공병·구난 장비는 미조사 후보.",
+    "completion_condition": "형식별 실물·교범·부대 자료를 확보해 시제·양산·공여·노획을 구분하고 프랑스 본토와 해외 전구의 운용을 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0009",
+    "status": "open",
+    "question": "1936년 지침의 화력·예비대 권한과 1940년 및 1944~1945년 프랑스 부대의 실제 재량은 어떻게 달랐는가?",
+    "related_ids": [
+      "CAT-FR-SRC-0015",
+      "CAT-FR-SRC-0016",
+      "CAT-FR-SRC-0017",
+      "CAT-FR-SRC-0018",
+      "CAT-FR-SRC-0019"
+    ],
+    "evidence": "교범은 목록으로, 사례는 후대 연구와 박물관 해설로 확인했다. 통신 복구 시간과 연합 지휘 체계의 구체적 변화는 미확인이다.",
+    "completion_condition": "1936년 교범 본문과 아뉘·장블루·세당 부대 전투일지, 콜마르의 프랑스 제1군과 미군 명령·편제 자료를 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0010",
+    "status": "open",
+    "question": "1939년 영불 해군 분담과 1943년 이후 프랑스 해군 전력의 재통합은 함정·기지·지휘권 배분을 어떻게 바꿨는가?",
+    "related_ids": [
+      "CAT-FR-SRC-0020",
+      "CAT-FR-SRC-0021",
+      "CAT-FR-SRC-0022",
+      "CAT-FR-SRC-0023",
+      "CAT-FR-SRC-0024"
+    ],
+    "evidence": "영국 공식 전사와 미 해군 연표, FNFL 함정 기록을 비교했다. 프랑스 전전 명령과 후기 재통합 지시는 미대조다.",
+    "completion_condition": "프랑스 국방역사기록원에서 1939년 영불 분담 합의와 Force de Raid 작전 명령, 툴롱·알제 및 1943년 통합 지시를 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0011",
+    "status": "open",
+    "question": "프랑스 공군의 1936·1938년 지휘 지침과 1940년 세당의 항공 요청·배정·실행은 어디에서 달랐는가?",
+    "related_ids": [
+      "CAT-FR-SRC-0025",
+      "CAT-FR-SRC-0026",
+      "CAT-FR-SRC-0027",
+      "CAT-FR-SRC-0028",
+      "CAT-FR-SRC-0029"
+    ],
+    "evidence": "지휘 구조와 전투의 명령 경로를 후대 연구로 확인했다. 전전 지침 원면·출격 원장과 1943년 재편 지시는 미대조다.",
+    "completion_condition": "프랑스 국방역사기록원의 지침과 북동부 전선 요청·공군 작전명령·폭격비행대 일지를 대조하고 후기 연합군 지휘권과 비교한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0012",
+    "status": "open",
+    "question": "장 바르의 1940년 탈출·1942년 카사블랑카 당시 개별함 추진과 사격 실적은 어느 정도였는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0007",
+      "CAT-FR-SRC-0023",
+      "CAT-FR-SRC-0030",
+      "CAT-FR-SRC-0031",
+      "CAT-FR-SRC-0032"
+    ],
+    "evidence": "가용 380 mm 포탑과 계류 사격은 확인했다. 프랑스 측 원장과 배수량·기관 시험 조건 미확보.",
+    "completion_condition": "생나제르 출항보고서, 함포 사격표와 수리보고서를 확보하고 1942년과 전후 하중별 배수량·시험 속력을 분리한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0013",
+    "status": "open",
+    "question": "뤼비의 60 m와 66 m 길이, 수상·잠항 제원 및 개장별 무장과 기뢰 불출량은 어떻게 확인되는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0008",
+      "CAT-FR-SRC-0022",
+      "CAT-FR-SRC-0033",
+      "CAT-FR-SRC-0034",
+      "CAT-FR-SRC-0035"
+    ],
+    "evidence": "길이 표기는 출처가 엇갈린다. 수상·잠항 제원은 회고 제원표, FD 14 수량은 후대 편찬표에 근거한다.",
+    "completion_condition": "함 도면·시험 성적표·개장 명세와 임무별 기뢰 불출·부설 원장을 확보해 기준과 시점을 구분한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0014",
+    "status": "open",
+    "question": "나머지 프랑스 함급과 공여 함정의 전시 무장·성능·운용은 어떠했는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0007",
+      "CAT-FR-EQP-0008",
+      "CAT-FR-SRC-0022",
+      "CAT-FR-SRC-0023"
+    ],
+    "evidence": "이번 원고는 전함과 기뢰부설 잠수함 한 척씩을 다뤘다. 항모·순양함·구축함·호위·상륙 및 지원함은 후보로 남았다.",
+    "completion_condition": "함급별 대표함의 설계와 실제 전시 구성, 연합국 개장·공여·운용을 당대 함별 기록으로 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0015",
+    "status": "open",
+    "question": "D.520 12 Y 45의 제식 탄약량·고도별 성능과 1940~1941년 부대 배치·출격 기록은 무엇인가?",
+    "related_ids": [
+      "CAT-FR-EQP-0009",
+      "CAT-FR-SRC-0036",
+      "CAT-FR-SRC-0037",
+      "CAT-FR-SRC-0038"
+    ],
+    "evidence": "박물관 제원과 영국 작전보고 및 호주 소장사진을 대조했다. 1941년 조종 지침 목록 주소 두 곳이 시간 초과였고 시험 원표·비시 측 전투일지는 미확보다.",
+    "completion_condition": "1941년 조종 지침과 시험 기록을 확보하고 탄약·고도·출력·시험 중량을 기록한다. 프랑스 부대 전투일지와 영국 교전 일자를 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0016",
+    "status": "open",
+    "question": "MB.220 좌석과 순항 제원의 차이 및 징발·민항 운항의 개별기 이력은 무엇인가?",
+    "related_ids": [
+      "CAT-FR-EQP-0010",
+      "CAT-FR-SRC-0039",
+      "CAT-FR-SRC-0040",
+      "CAT-FR-SRC-0041",
+      "CAT-FR-SRC-0042"
+    ],
+    "evidence": "다소와 에어프랑스의 좌석 표기, 1945년 기술지와 다소의 순항 수치가 다르다. BnF 브로슈어 스캔은 HTTP 403이고 국가기록 포털의 사고조사서는 열람하지 못했다.",
+    "completion_condition": "좌석 배치도, 탑재·고도·출력 조건이 있는 시험 자료, 징발 및 운항 장부와 사고조사서에서 개별기 이력을 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0017",
+    "status": "open",
+    "question": "전투기·수송기 대표 2종 외 프랑스 항공기와 공여기는 어떻게 분류되는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0009",
+      "CAT-FR-EQP-0010",
+      "CAT-FR-SRC-0036",
+      "CAT-FR-SRC-0039"
+    ],
+    "evidence": "다른 전투기와 폭격·공격·정찰·훈련·연락·수상기 및 글라이더는 미조사 후보다.",
+    "completion_condition": "당대 교범·운용 부대일지·인수 자료로 형식·용도·무장·비행 조건 및 프랑스 내 실제 운용 주체를 구분한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0018",
+    "status": "open",
+    "question": "MAS 36 기본형과 CR 39의 전시 납품·지급 규모 및 기본형의 질량 조건은 무엇인가?",
+    "related_ids": [
+      "CAT-FR-EQP-0011",
+      "CAT-FR-SRC-0043",
+      "CAT-FR-SRC-0044",
+      "CAT-FR-SRC-0049",
+      "CAT-FR-SRC-0050"
+    ],
+    "evidence": "1938년 실물과 1940년 CR 39 부록 표지를 확인했다. 소총 질량 3.78 kg과 3.720 kg의 측정 조건을 맞출 수 없고 접철형의 전시 출고·지급은 미확인이다.",
+    "completion_condition": "연도별 검수·인도 장부와 부대별 수령 기록을 대조하고 제식표에서 탄약·총검·부속품 포함 조건을 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0019",
+    "status": "open",
+    "question": "FM 24/29의 교범상 사거리·휴대량과 전시 부대별 지급·사용은 어떻게 구분되는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0012",
+      "CAT-FR-SRC-0044",
+      "CAT-FR-SRC-0045",
+      "CAT-FR-SRC-0046",
+      "CAT-FR-SRC-0047",
+      "CAT-FR-SRC-0048"
+    ],
+    "evidence": "현존 소장품의 제식 표기 및 제작사 적재 목록을 확인했다. Gallica 교범은 403, CLADE 목록은 시간 초과였고 ECPAD 사진 주소는 기록관 일반 안내로 이동했다.",
+    "completion_condition": "당대 지침의 해당 사격·편제표를 열람하고 배치 보고·지급 원장 및 ECPAD 사진 4ARMEE 26 D232, 1ARMEE 6 A22의 목록을 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0020",
+    "status": "open",
+    "question": "대표 무기·군장 이외의 프랑스 보병 장비는 시기와 운용 부대에 따라 어떻게 바뀌었는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0013",
+      "CAT-FR-EQP-0014",
+      "CAT-FR-SRC-0044",
+      "CAT-FR-SRC-0048"
+    ],
+    "evidence": "나르비크 SBSP 개인 장구를 예로 들었다. 프랑스군의 보호·통신·의무 장비, 나머지 화기와 자유프랑스·재편 부대의 후반기 공여품은 후보로 남겼다.",
+    "completion_condition": "프랑스 육군의 부대별 편제·실보급표, 자유프랑스 및 후반기 공여 장부와 소장품의 전시 이력을 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0021",
+    "status": "open",
+    "question": "다비드 경보망의 동부 실제 배치와 포르크로 펄스 레이더의 작전 효과는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-EQP-0015",
+      "CAT-FR-EQP-0016",
+      "CAT-FR-SRC-0051",
+      "CAT-FR-SRC-0052",
+      "CAT-FR-SRC-0053"
+    ],
+    "evidence": "발주 수량과 브레스트 및 남부 사례를 구분했다. 동부 연속 가동은 설치점과 경보 전달 기록이 부족하며 포르크로 탐지 거리는 개별 교전 원표가 미확보다.",
+    "completion_condition": "프랑스 부대 가동·경보 일지와 1940년 6월 8일자 지시 706bis/I.G.D.Aé/3/S, 6월 12~13일 프랑스·이탈리아 작전일지를 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0022",
+    "status": "open",
+    "question": "시트로넬 임무의 어느 전보를 B2 44072호로 송수신했으며 실제 운용 조건은 무엇이었는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0017",
+      "CAT-FR-SRC-0054",
+      "CAT-FR-SRC-0055",
+      "CAT-FR-SRC-0056",
+      "CAT-FR-SRC-0057",
+      "CAT-FR-SRC-0058"
+    ],
+    "evidence": "박물관 유물의 운용 이력, 브로의 무전 담당 및 전보철 목록을 확인했다. 전보 원문과 일련번호별 지급표는 미열람이다.",
+    "completion_condition": "GR 28 P 5 22–27의 전보와 무전 일지, 지급·회수 장부에서 시각·장비 귀속·안테나와 전원 조건을 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0023",
+    "status": "open",
+    "question": "다른 탐지·통신·암호 및 지원 장비는 어느 주체가 실제 운용했는가?",
+    "related_ids": [
+      "CAT-FR-EQP-0015",
+      "CAT-FR-EQP-0016",
+      "CAT-FR-EQP-0017",
+      "CAT-FR-SRC-0051",
+      "CAT-FR-SRC-0054"
+    ],
+    "evidence": "경보망·펄스 레이더와 가방 무전기 대표 사례를 조사했다. 암호·해독, 함정 소나, 사격통제, 항법과 병참의 나머지 항목은 미조사 후보다.",
+    "completion_condition": "각 장비의 당대 교범·시험 기록·지급 원장을 확보하고 프랑스 자체 개발과 연합국 제공, 계획·배치·운용을 구분한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0024",
+    "status": "open",
+    "question": "1944년 8월 25일 파리 항복 협정의 사본별 제목, 수정 및 서명 순서는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-PER-0001",
+      "CAT-FR-PER-0002",
+      "CAT-FR-SRC-0063",
+      "CAT-FR-SRC-0064",
+      "CAT-FR-SRC-0065",
+      "CAT-FR-SRC-0066"
+    ],
+    "evidence": "72AJ61 목록과 교육자료 캡션은 수정본을 설명한다. 2020.1.2는 별도의 레퓌블리크 광장 거점 명령이다.",
+    "completion_condition": "경찰청 서명본과 몽파르나스 수정본의 전면을 확보해 서명·수정·전달 경로를 대조하고 개별 거점 명령과 구분한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0025",
+    "status": "open",
+    "question": "1943년 5월 15일 빅긴힐의 전과 순번과 무쇼트의 8월 27일 손실 경위는 어떻게 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-FR-PER-0003",
+      "CAT-FR-SRC-0067",
+      "CAT-FR-SRC-0068",
+      "CAT-FR-SRC-0069"
+    ],
+    "evidence": "프랑스 전기는 무쇼트에 1,000번째 전과를 귀속하고 영국 기관은 잭 찰스와의 선후를 가리지 못했다고 설명한다.",
+    "completion_condition": "영국 국립기록원 AIR 27의 제341비행대 일지와 AIR 50 전투 보고, 독일 부대 손실 기록을 대조한다. 마지막 호위 임무의 작전 구역과 손실 원인을 분리한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0026",
+    "status": "open",
+    "question": "해상전·상륙전·식민지 출신 전투원과 파리 밖 레지스탕스의 대표 인물은 어떤 작전을 맡았는가?",
+    "related_ids": [
+      "CAT-FR-PER-0001",
+      "CAT-FR-PER-0002",
+      "CAT-FR-PER-0003"
+    ],
+    "evidence": "첫 조사 범위는 자유 프랑스 정규군, 파리의 FFI, RAF 편제 자유 프랑스 조종사 사례에 한정됐다.",
+    "completion_condition": "자유 프랑스 해군과 코만도, 식민지 출신 전투원이 속한 부대, 파리 밖 저항 조직의 작전기록·인사기록을 확보하고 실제 임무와 공적 귀속을 구분한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0027",
+    "status": "open",
+    "question": "페탱이 수정한 1940년 유대인 지위법 초안의 문구가 최종 조문과 각 지역의 집행에 어떻게 반영됐는가?",
+    "related_ids": [
+      "CAT-FR-PER-0004",
+      "CAT-FR-PER-0005",
+      "CAT-FR-SRC-0072",
+      "CAT-FR-SRC-0073"
+    ],
+    "evidence": "최종 관보의 조문과 서명을 확인했고, 초안 개입은 국립기록원의 전시 해설을 근거로 삼았다.",
+    "completion_condition": "초안 전면의 필적·삭제·삽입을 최종 공포문과 비교하고, 본토와 알제리 등 지역별 인사 및 시행 기록을 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0028",
+    "status": "open",
+    "question": "1942년 유대인 아동의 체포와 이송, 추방을 각각 누가 제안·승인·집행했는가?",
+    "related_ids": [
+      "CAT-FR-PER-0004",
+      "CAT-FR-PER-0005",
+      "CAT-FR-SRC-0074",
+      "CAT-FR-SRC-0075",
+      "CAT-FR-SRC-0076"
+    ],
+    "evidence": "독일 SS 보고, 비시 각료회의 발췌와 파리 경찰 회람은 작성 주체와 해당 단계가 서로 다르다.",
+    "completion_condition": "양측 전문, 독일 측 승인 문서, 수용소 및 호송 명부와 전후 재판기록을 대조해 행정 관여와 판결이 인정한 개인 책임을 구분한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0029",
+    "status": "open",
+    "question": "제3공화국 전시 내각, 알제의 정치 지도부와 국내 저항의 정치 대표는 어떤 권한을 행사했는가?",
+    "related_ids": [
+      "CAT-FR-PER-0006",
+      "CAT-FR-SRC-0070",
+      "CAT-FR-SRC-0077",
+      "CAT-FR-SRC-0081"
+    ],
+    "evidence": "이번 원고는 페탱·라발·드골의 선택된 문서로 한정했다.",
+    "completion_condition": "달라디에·레노 내각, 알제의 공동지도부와 국내 저항 대표의 회의록·명령·외교문서를 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0030",
+    "status": "open",
+    "question": "파리 연구팀의 1939년 관측·계산과 특허 초안에서 연구자별 역할은 어떻게 드러나는가?",
+    "related_ids": [
+      "CAT-FR-PER-0007",
+      "CAT-FR-PER-0008",
+      "CAT-FR-PER-0009",
+      "CAT-FR-PER-0010",
+      "CAT-FR-SRC-0082",
+      "CAT-FR-SRC-0086",
+      "CAT-FR-SRC-0088",
+      "CAT-FR-SRC-0090"
+    ],
+    "evidence": "특허 표제부는 기관 명의를 표시한다. Nature 원문과 연구노트, 할반·코바르스키의 귀화 명령 원문은 미확보.",
+    "completion_condition": "1939년 논문과 실험 원표·출원철을 비교하고 귀화 날짜를 관보 또는 귀화 명령 원본으로 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0031",
+    "status": "open",
+    "question": "케임브리지 실험의 실측과 외삽, 중수 이송 내역은 원문에서 어떻게 구분되는가?",
+    "related_ids": [
+      "CAT-FR-PER-0009",
+      "CAT-FR-PER-0010",
+      "CAT-FR-SRC-0083",
+      "CAT-FR-SRC-0085",
+      "CAT-FR-SRC-0087",
+      "CAT-FR-SRC-0091"
+    ],
+    "evidence": "영국 측 참여자 회고와 프랑스 연구사는 이송과 연구의 큰 흐름에서 일치한다. 서로 다른 단위의 중수 수치는 채택하지 않았다.",
+    "completion_condition": "당시 운송·인수 명세와 왕립학회 MS/850 및 관련 영국 위원회 실험 보고서를 대조해 실제 사용량과 실험 조건·결론을 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0032",
+    "status": "open",
+    "question": "다비드 연구의 현장 시험에서 설계·계측·채택의 책임은 어떻게 나뉘며, 다른 전시 연구 분야의 대표 사례는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-PER-0011",
+      "CAT-FR-SRC-0052",
+      "CAT-FR-SRC-0053",
+      "CAT-FR-RQ-0021"
+    ],
+    "evidence": "다비드의 고안과 폴 라바의 군 시험 참여를 구분했다. 항공공학·전시의학·암호 분야는 이번 범위 밖이다.",
+    "completion_condition": "CEAM/SHAT 7 N 3946의 시험 기록을 확인하고, 다른 분야는 동시대 논문·발주·실제 적용 기록을 연결한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0033",
+    "status": "open",
+    "question": "6월22일 보존 음반6분20초와 INA 웹5분49초 판본의 차이는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-PER-0006",
+      "CAT-FR-SRC-0092",
+      "CAT-FR-SRC-0093",
+      "CAT-FR-SRC-0094"
+    ],
+    "evidence": "음반과 웹 제공본의 명시 길이가 다르며 웹 플레이어 청취는 접근 실패.",
+    "completion_condition": "기관 원음·웹 판본을 직접 청취하고 편집·무음·속도·발언 구간과 권리·서지 일치 여부를 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0034",
+    "status": "open",
+    "question": "바외 A70 45-1·45-3의 실제 화면 구간과 발언 원문은 어떻게 대응하는가?",
+    "related_ids": [
+      "CAT-FR-PER-0006",
+      "CAT-FR-SRC-0095",
+      "CAT-FR-SRC-0096"
+    ],
+    "evidence": "Part1 공개 미리보기의 청중00:30·드골00:45 프레임과 음성 트랙 부재를 확인했다. Part2는 목록 확인 범위.",
+    "completion_condition": "두 필름을 재생해 구간·실제 길이·연설 장면을 기록하고 동시대 대본과 대조하되 무성 영상의 발언 복원 한계를 유지한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0035",
+    "status": "open",
+    "question": "파리 시청 연설 영화의 원음·편집 계통과 다른 전시 연설자의 원자료는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-PER-0006",
+      "CAT-FR-SRC-0097",
+      "CAT-FR-SRC-0098"
+    ],
+    "evidence": "INA 플레이어 HTML만 열렸고 목록의 구간만 확인했다.1분43초·7분38초 판본의 관계 미확인. 드골 이외 인사는 후속 범위.",
+    "completion_condition": "CLCF 원영화·INA 판본의 화면과 소리를 직접 확인해 동기·편집·길이·권리를 기록하고 페탱·레지스탕스 인사의 원자료를 추가한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0036",
+    "status": "open",
+    "question": "르노의 점령기 계약별 계획·생산·실제 출고 및 노획차 수리 주체는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-ORG-0001",
+      "CAT-FR-SRC-0100",
+      "CAT-FR-SRC-0104",
+      "CAT-FR-SRC-0105"
+    ],
+    "evidence": "피카르의 월간 생산과 주문액을 확인했다. 연구회 도표는 차종 가중치를 적용하며, USSBS 본문과 공장 수리 원대장은 미열람이다.",
+    "completion_condition": "USSBS 제80호의 표와 회사 월보·출고 및 독일 인수대장, 피아트아스트라 징발 명령을 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0037",
+    "status": "open",
+    "question": "르노 노동자의 독일 이송과 배치에 누가 어떤 역할을 했는가?",
+    "related_ids": [
+      "CAT-FR-ORG-0001",
+      "CAT-FR-SRC-0100"
+    ],
+    "evidence": "1942년 일기는 열차 통지와 독일 군 당국의 위협을 기술한다. 개인 명부와 사업장 인사 원부는 미확인이다.",
+    "completion_condition": "징발 위원회 자료·이송 명단·독일 배치 기록을 회사 인사기록 및 노동자 증언과 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0038",
+    "status": "open",
+    "question": "LMT·CGCT의 점령기 계약·납품과 다른 주요 산업의 전시 공급망은 어떠했는가?",
+    "related_ids": [
+      "CAT-FR-ORG-0002",
+      "CAT-FR-ORG-0003",
+      "CAT-FR-SRC-0102",
+      "CAT-FR-SRC-0103"
+    ],
+    "evidence": "CIOS가 제품과 일부 생산·미인도 상태를 보고했다. 검수증·주주명부·사업장 노동 자료는 미대조다.",
+    "completion_condition": "발주·검수·지분 원문과 노동 기록을 대조한 뒤 항공·조선·전력·화학 부문의 대표 기업을 별도로 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0039",
+    "status": "open",
+    "question": "1946년 본토 법정인구 정정 내역과 전시 각 통계의 집계 구역은 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0001",
+      "CAT-FR-SRC-0107",
+      "CAT-FR-SRC-0108",
+      "CAT-FR-SRC-0109",
+      "CAT-FR-SRC-0110",
+      "CAT-FR-SRC-0114"
+    ],
+    "evidence": "동시대 두 보고의 법정인구 차이는 15,410명이다. INSEE 전시 표는 본토 연평균이며 동시대 인구동태 보고는 일부 지역을 제외한다.",
+    "completion_condition": "관보의 부속표와 정정 문서를 확보하고 전시 지역별 집계의 날짜·누락 지역·경계를 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0040",
+    "status": "open",
+    "question": "알제리 1948년 코뮌 인구 판본 차이 5,769명은 어느 지역과 집계 조정에서 비롯됐는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0002",
+      "CAT-FR-SRC-0111",
+      "CAT-FR-SRC-0112"
+    ],
+    "evidence": "두 공식 판본의 별도 집계는 80,435명으로 같고 코뮌 인구 합계가 다르다.",
+    "completion_condition": "동일 코뮌 경계로 최초 공표표와 수정 공보·최종 표를 대조하고 차이가 나는 지역과 조정 이유를 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0041",
+    "status": "open",
+    "question": "튀니지와 다른 프랑스 해외 영토의 개전·종전 전후 인구 자료는 어떤 범위로 집계됐는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0002",
+      "CAT-FR-GEO-0003",
+      "CAT-FR-SRC-0106",
+      "CAT-FR-SRC-0111",
+      "CAT-FR-SRC-0112",
+      "CAT-FR-SRC-0113"
+    ],
+    "evidence": "튀니지 전전 민간인구와 알제리 전전·전후 조사 판본을 확인했다. 튀니지 전후 통계와 인도차이나 등 다른 영토의 전시·전후 값은 미확인이다.",
+    "completion_condition": "영토별 공식 원표를 확보하고 민간·군·별도 인구, 법적 지위·실효지배, 조사일과 경계를 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0042",
+    "status": "open",
+    "question": "스트라스부르의 광장 명칭 변경과 프랑스어 명칭 환원의 정확한 시행일과 적용 경계는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0004",
+      "CAT-FR-GEO-0005",
+      "CAT-FR-GEO-0006",
+      "CAT-FR-GEO-0007",
+      "CAT-FR-SRC-0116",
+      "CAT-FR-SRC-0117",
+      "CAT-FR-SRC-0129"
+    ],
+    "evidence": "개명 행사와 공고 일부, 해방일 사진의 프랑스어 기입을 확인했다. 기입일과 법적 시행일은 미확정이다.",
+    "completion_condition": "1940년 민정 공고 원판과 시의회·해방 후 행정기록 및 시 경계도를 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0043",
+    "status": "open",
+    "question": "전시 사이공–쩌런 구역의 관할 경계와 베트남어 당대 사용례는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0008",
+      "CAT-FR-GEO-0009",
+      "CAT-FR-GEO-0010",
+      "CAT-FR-SRC-0121",
+      "CAT-FR-SRC-0122",
+      "CAT-FR-SRC-0123",
+      "CAT-FR-SRC-0125"
+    ],
+    "evidence": "당대 지도 및 프랑스어 기사와 베트남 기록기관의 행정 연혁을 확인했다. 베트남어 표기는 기관의 현대 해설에서 대조했다.",
+    "completion_condition": "1931·1941년 법령과 1942년 하위 구획 원도, 동시대 베트남어 신문 및 1945년 현지 행정 기록을 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0044",
+    "status": "open",
+    "question": "모젤과 다른 본토·해외 지역의 프랑스어·점령당국·현지 명칭은 어떤 행정 단위에 적용됐는가?",
+    "related_ids": [
+      "CAT-FR-SRC-0106",
+      "CAT-FR-SRC-0116",
+      "CAT-FR-SRC-0124"
+    ],
+    "evidence": "이번 검사는 스트라스부르와 사이공·쩌런 대표 사례에 한정했다.",
+    "completion_condition": "모젤, 북아프리카 및 인도차이나 다른 지역의 당대 지도와 공문서에서 날짜별 명칭과 관할 단위를 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0045",
+    "status": "open",
+    "question": "본토의 휴전 점령선, 특수 군정 경계와 해방 뒤 행정 복귀의 실제 범위는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0001",
+      "CAT-FR-GEO-0004",
+      "CAT-FR-GEO-0011",
+      "CAT-FR-SRC-0077",
+      "CAT-FR-SRC-0130",
+      "CAT-FR-SRC-0131",
+      "CAT-FR-SRC-0143"
+    ],
+    "evidence": "휴전 조문, 동시대 미 육군 지도와 SHD 목록을 대조했다. SHD 지도 판면 및 1943년 이후 지역별 인계 문서는 미확인이다.",
+    "completion_condition": "DE 2017 PA 65 874와 휴전 첨부 원도 및 민정·군정 경계도를 대조하고 코르시카와 국경 인접 지역의 복귀 행정기록을 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0046",
+    "status": "open",
+    "question": "적도아프리카·카메룬의 지역별 행정 인계와 나머지 해외 영토의 전시 지위·통치 변화는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0002",
+      "CAT-FR-GEO-0003",
+      "CAT-FR-GEO-0012",
+      "CAT-FR-GEO-0013",
+      "CAT-FR-SRC-0134",
+      "CAT-FR-SRC-0135",
+      "CAT-FR-SRC-0136",
+      "CAT-FR-SRC-0137"
+    ],
+    "evidence": "카메룬 위임통치와 전후 신탁통치 및 합류 개요를 확인했다. 알제리·튀니지는 전전 지위만 확인했다.",
+    "completion_condition": "지역별 관보·이관 문서·지도와 북아프리카, 서아프리카, 레반트 및 태평양 영토의 자료를 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0047",
+    "status": "open",
+    "question": "태국 접경의 실제 인계 날짜와 1945년 인도차이나 도시·농촌의 통치 범위는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0008",
+      "CAT-FR-GEO-0014",
+      "CAT-FR-SRC-0126",
+      "CAT-FR-SRC-0138",
+      "CAT-FR-SRC-0139",
+      "CAT-FR-SRC-0140",
+      "CAT-FR-SRC-0141",
+      "CAT-FR-SRC-0142"
+    ],
+    "evidence": "국경 조약과 종전 지시 및 선언, 전후 합의를 확인했다. 부속 원도와 현장 이관대장은 확보하지 못했다.",
+    "completion_condition": "국경위원회 표주·지도 및 현지 관청 인계 문서를 확보하고, 일본군 항복 접수와 지역별 행정 기록을 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0048",
+    "status": "open",
+    "question": "1938년 프랑스 원유 수입량 두 집계는 왜 다르며 점령기 원유·정제·합성유의 흐름은 어땠는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0011",
+      "CAT-FR-GEO-0015",
+      "CAT-FR-SRC-0144",
+      "CAT-FR-SRC-0145",
+      "CAT-FR-SRC-0146",
+      "CAT-FR-SRC-0147"
+    ],
+    "evidence": "disputed: 원유 수입 6,969,000 t과 6,937,000 t. 영국 표의 1940년 생산 수치는 1~7월분이다.",
+    "completion_condition": "세관의 품목·경계·기간·반올림 규칙을 맞추고 전시 정제 실적, 반출·수입, 합성유의 별도 생산량을 찾아 대조."
+  },
+  {
+    "id": "CAT-FR-RQ-0049",
+    "status": "open",
+    "question": "알자스-로렌을 포함한 강철 및 알루미늄의 전시 생산은 어떤 경계와 품목 기준으로 집계됐는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0011",
+      "CAT-FR-SRC-0144",
+      "CAT-FR-SRC-0148",
+      "CAT-FR-SRC-0151"
+    ],
+    "evidence": "candidate: 1939년 강괴·강주물과 조강의 규모가 비슷하나 원표 계통은 미확인. 광석·알루미나·금속 생산은 서로 다른 계정이다.",
+    "completion_condition": "공장별 생산·정제·반출과 거래의 1차 표를 확보하고 경계 변화 및 품목 정의를 해소."
+  },
+  {
+    "id": "CAT-FR-RQ-0050",
+    "status": "open",
+    "question": "인도차이나 천연고무의 원표·목적지별 수출과 프랑스 합성고무 실가동 실적은 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0014",
+      "CAT-FR-SRC-0126",
+      "CAT-FR-SRC-0149",
+      "CAT-FR-SRC-0150",
+      "CAT-FR-SRC-0154"
+    ],
+    "evidence": "disputed: 1939·1941·1943·1944년 연감 기계 판독과 후대 전사 수치 불일치. candidate: RG 226 문서 18835는 목록만 확인.",
+    "completion_condition": "원표 판면의 총계·지역·품질을 확인하고 세관 및 선적표에서 목적지별 교역을 확인. 합성고무는 원 보고서와 공장 기록을 대조."
+  },
+  {
+    "id": "CAT-FR-RQ-0051",
+    "status": "open",
+    "question": "누벨칼레도니 크롬광의 1941년 생산·수출 격차와 프랑스·인도차이나 텅스텐 통계의 품목 차이는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0014",
+      "CAT-FR-GEO-0016",
+      "CAT-FR-SRC-0135",
+      "CAT-FR-SRC-0144",
+      "CAT-FR-SRC-0152",
+      "CAT-FR-SRC-0153"
+    ],
+    "evidence": "candidate: 크롬광의 수출이 당해 생산보다 크다. 프랑스의 1939년 광석량과 정광량은 가공 단계가 다르다.",
+    "completion_condition": "광산·세관 원표와 재고·도착지 기록을 대조하고, 광석·정광·함유량 및 본토 수입을 별도 표로 검증."
+  },
+  {
+    "id": "CAT-FR-RQ-0052",
+    "status": "open",
+    "question": "빌랑쿠르 르노의 개전일 부지·설치 능력·생산·인사·수송 장부는 어디에 있는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0017",
+      "CAT-FR-SRC-0099",
+      "CAT-FR-SRC-0105",
+      "CAT-FR-SRC-0156",
+      "CAT-FR-SRC-0157",
+      "CAT-FR-SRC-0158",
+      "CAT-FR-SRC-0159",
+      "CAT-FR-SRC-0160",
+      "CAT-FR-SRC-0161"
+    ],
+    "evidence": "candidate: 1939년 100 ha 및 시점 미상 전성기 72 ha. 1939년 연간 차량 58,000대와 1938~39년 실제 고용은 원표·분모 미확인.",
+    "completion_condition": "당대 지적도·건물대장과 생산·급여·철도 및 발전 장부를 확보하고 구역별 정의와 시점을 맞춘다."
+  },
+  {
+    "id": "CAT-FR-RQ-0053",
+    "status": "open",
+    "question": "르크뢰조 세 공장의 개전일 가동과 국유 작업장의 경계·운영권은 어떻게 구분되는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0018",
+      "CAT-FR-SRC-0163",
+      "CAT-FR-SRC-0164",
+      "CAT-FR-SRC-0165",
+      "CAT-FR-SRC-0166",
+      "CAT-FR-SRC-0168"
+    ],
+    "evidence": "candidate: 일부 설비 명목치와 1940년 5월 실제 고용을 확보했다. 개전일 물량과 국유 작업장 집계 범위는 미확인.",
+    "completion_condition": "1939년 공장도, 국가 인수·반환 문서, 생산·고용 원장을 대조하고 17번에서 같은 GEO와 구역을 비교한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0054",
+    "status": "open",
+    "question": "업종·공간 단위별 공통 등급 경계를 세울 동시대 설비 조사와 미조사 지역은 어디에 있는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0017",
+      "CAT-FR-GEO-0018",
+      "CAT-FR-SRC-0148",
+      "CAT-FR-SRC-0163",
+      "CAT-FR-SRC-0165",
+      "CAT-FR-SRC-0167"
+    ],
+    "evidence": "candidate: 소쇼와 샬롱의 실제 규모 지표는 일부 비교값이다. 본토의 로렌·북부와 식민지·보호령 시설은 이번 대표 사례 밖이다.",
+    "completion_condition": "동종 공업 집적의 면적·설치 능력·작업 수용·처리 시설을 동일 시점과 단위로 확보하고 16·17번의 비교 경계를 정합화한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0055",
+    "status": "open",
+    "question": "빌랑쿠르의 168에이커 분모와 1939년 면적은 어떻게 다르며, 1945-09-02 실제 가동은 어느 정도인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0017",
+      "CAT-FR-SRC-0101",
+      "CAT-FR-SRC-0156",
+      "CAT-FR-SRC-0158",
+      "CAT-FR-SRC-0169",
+      "CAT-FR-SRC-0170",
+      "CAT-FR-SRC-0176"
+    ],
+    "evidence": "candidate: USSBS 점령기 조사 원면과 1945년 고용 집계를 확보. 종전일 현장별 잔존·가동 면적과 생산·고용 집계일은 미확인.",
+    "completion_condition": "공장별 필지·건물·장비 배치도 및 1945년 RNUR 월별 생산·급여·수송 장부에서 관측 시점과 범위를 맞춘다."
+  },
+  {
+    "id": "CAT-FR-RQ-0056",
+    "status": "open",
+    "question": "르크뢰조 세 구역의 1944년 피해가 1945-09-02까지 얼마나 복구됐는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0018",
+      "CAT-FR-SRC-0163",
+      "CAT-FR-SRC-0164",
+      "CAT-FR-SRC-0166",
+      "CAT-FR-SRC-0168",
+      "CAT-FR-SRC-0171"
+    ],
+    "evidence": "candidate: 해방 시점 도면의 605,000 m² 분모와 노별 피해·수리 범위는 미확정. 전력·철도 및 일부 제강 재개일은 확보.",
+    "completion_condition": "피해도의 원본·범례와 설비별 복구대장, 앙리폴 생산·고용표 및 국유 작업장의 폐쇄·이전·반환 원문을 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0057",
+    "status": "open",
+    "question": "동일 산업·공간의 1939/1945년 비교를 뒷받침할 기준과 미조사 공업지대의 원자료는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0017",
+      "CAT-FR-GEO-0018",
+      "CAT-FR-SRC-0148",
+      "CAT-FR-SRC-0165",
+      "CAT-FR-SRC-0167",
+      "CAT-FR-SRC-0168",
+      "CAT-FR-SRC-0169",
+      "CAT-FR-SRC-0170"
+    ],
+    "evidence": "candidate: 기존 소쇼·샬롱 비교값과 새 르망 고용은 시설 규모 4차원의 등급 경계가 아니다. 로렌·북부·해외 비교는 남음.",
+    "completion_condition": "동종 부지·설치 생산능력·작업 수용·처리 능력을 양 시점에서 맞추고 업종별 공통 정량 경계의 근거를 확보한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0058",
+    "status": "open",
+    "question": "랭스–쿠르시의 9월 1일 비행면·격납·정비·연료 설비와 실제 배치는 얼마였는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0019",
+      "CAT-FR-SRC-0177",
+      "CAT-FR-SRC-0178",
+      "CAT-FR-SRC-0179",
+      "CAT-FR-SRC-0187",
+      "CAT-FR-SRC-0189"
+    ],
+    "evidence": "candidate: 1939년 사진과 특정 격납고군 6동, 전전 주둔 추산과 9월 2일 조직 해체 확인. 일자별 기체 현황·인수계와 시설 대장 미확인.",
+    "completion_condition": "AI 79 F 및 개전기 배치·인계 원장과 도면을 확보하고 분산 전후 재적·현지 배치·가동기 및 연합군 도착을 구분한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0059",
+    "status": "open",
+    "question": "디종–롱비크의 개전일 비행면과 격납·정비·연료 용량은 얼마였는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0020",
+      "CAT-FR-SRC-0180",
+      "CAT-FR-SRC-0181",
+      "CAT-FR-SRC-0182",
+      "CAT-FR-SRC-0186",
+      "CAT-FR-SRC-0188"
+    ],
+    "evidence": "candidate: 격납고 외형 및 전전 철도 지선 확인. 민항 사용 허가와 민간 시설 부가의 날짜가 자료별로 다르고, 1938년 확장안은 실현 여부 미상.",
+    "completion_condition": "AI 2 B 156 원도와 건물·정비·유류 대장, 민항 공고를 대조하고 1939년 시설과 1940년 이후 공사를 분리한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0060",
+    "status": "open",
+    "question": "디종 전투부대의 이동과 교체 부대의 8월 말~9월 초 현지 배치 일자는 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0020",
+      "CAT-FR-SRC-0180",
+      "CAT-FR-SRC-0183",
+      "CAT-FR-SRC-0184"
+    ],
+    "evidence": "candidate: 전투부대의 전시 분산과 GC III/7의 9월 2일 마르시롤 도착이 후대 자료에 기록된다. 디종 출발 시각과 9월 1일 주둔 수는 미확인.",
+    "completion_condition": "GC III/7 및 교체 폭격부대의 JMO·이동명령·정비일지를 대조해 시점·기종·재적·가동을 확인한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0061",
+    "status": "open",
+    "question": "동일 단위의 비교 경계와 미조사 본토·해외 기지의 개전 원자료는 어디에 있는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0019",
+      "CAT-FR-GEO-0020",
+      "CAT-FR-SRC-0184",
+      "CAT-FR-SRC-0185",
+      "CAT-FR-SRC-0186",
+      "CAT-FR-SRC-0187",
+      "CAT-FR-SRC-0188"
+    ],
+    "evidence": "candidate: 본토 두 상설 사례와 마르시롤 비교치만 열람. inaccessible: Gallica의 1938년 지도 원판. 기지 규모 등급 경계 미확정.",
+    "completion_condition": "원판 지도와 각 지역 당대 시설·지배 자료를 확보하고, 본토·알제리·보호령·기타 해외를 나눠 네 차원별 비교 가능한 수치와 경계를 구축한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0062",
+    "status": "open",
+    "question": "브레스트의 개전일 라니농·팡펠드 접안, 입거·수리 및 보급 처리능력은 얼마였는가?",
+    "related_ids": [
+      "CAT-FR-GEO-0021",
+      "CAT-FR-SRC-0190",
+      "CAT-FR-SRC-0191",
+      "CAT-FR-SRC-0193",
+      "CAT-FR-SRC-0199",
+      "CAT-FR-SRC-0201"
+    ],
+    "evidence": "candidate: 기존 도크 2기의 치수는 대조했다. 신설 계획의 305/365 m와 실제 개전일 공정은 분리했으며, 가동 원장은 미확인이다.",
+    "completion_condition": "SHD 브레스트 군항의 도크 건설·인수·일별 배정·유류·탄약 원장과 당대 부두 도면에서 치수와 현장 가동을 대조한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0063",
+    "status": "open",
+    "question": "툴롱의 보방 대형 도크 완공·인수 차이와 개전일 구획별 유효 치수·보급 처리능력은 무엇인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0022",
+      "CAT-FR-SRC-0194",
+      "CAT-FR-SRC-0195",
+      "CAT-FR-SRC-0196",
+      "CAT-FR-SRC-0200"
+    ],
+    "evidence": "disputed: 1927년과 1928년 완공 서술 차이. candidate: 아렌의 1938년 건설은 확인했으나 탱크 수·가동일·용량은 미확인이다.",
+    "completion_condition": "공사 완공·인수 조서, 개장 전 도면, 도크 사용 장부와 아렌·미시에시 유류 원장을 확보한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0064",
+    "status": "open",
+    "question": "1939-09-01 브레스트와 툴롱의 실제 계류 함정과 출항은 월간 편제와 어떻게 다른가?",
+    "related_ids": [
+      "CAT-FR-GEO-0021",
+      "CAT-FR-GEO-0022",
+      "CAT-FR-SRC-0192",
+      "CAT-FR-SRC-0193",
+      "CAT-FR-SRC-0197",
+      "CAT-FR-SRC-0199",
+      "CAT-FR-SRC-0200"
+    ],
+    "evidence": "candidate: 9월 월간 편제와 후속 출항 사진 설명은 확보했으나 9월 1일 실계류 함정 목록은 미확인이다.",
+    "completion_condition": "군항 당직일지·항해일지의 시각별 출입항과 접안표를 확인하고 건조 중 함정·타항 이동·모항 배속을 구분한다."
+  },
+  {
+    "id": "CAT-FR-RQ-0065",
+    "status": "open",
+    "question": "해외 군항과 본토의 나머지 후보 및 공통 1~10 등급의 정량 경계를 어떻게 검증할 것인가?",
+    "related_ids": [
+      "CAT-FR-GEO-0021",
+      "CAT-FR-GEO-0022",
+      "CAT-FR-SRC-0191",
+      "CAT-FR-SRC-0194",
+      "CAT-FR-SRC-0197",
+      "CAT-FR-SRC-0198"
+    ],
+    "evidence": "candidate: 두 본토 군항의 도크 비교값만 확보했다. 셰르부르·로리앙·비제르테·메르스엘케비르·다카르와 기타 해외 시설은 미조사.",
+    "completion_condition": "개전일 공사·인수·가동을 구분하고 본토·식민지·보호령의 법적 지위와 네 차원별 동일 단위 비교 표를 확보한다."
+  }
+]

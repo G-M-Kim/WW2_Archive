@@ -1,0 +1,256 @@
+{
+  "step": 37,
+  "job_id": "CAT-FR-18",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 18,
+  "category": "개전 시점 주요 공군기지와 규모(1~10)",
+  "article_path": "categories/france/18-air-bases-start.md",
+  "status": "partial",
+  "completed_at": "2026-11-12T01:06:23+09:00",
+  "started_at": "2026-11-12T00:57:16+09:00",
+  "base_head": "2bc139cec94581ef5fadede01c94dc9d105c481d",
+  "source_ids": [
+    "CAT-FR-SRC-0155",
+    "CAT-FR-SRC-0177",
+    "CAT-FR-SRC-0178",
+    "CAT-FR-SRC-0179",
+    "CAT-FR-SRC-0180",
+    "CAT-FR-SRC-0181",
+    "CAT-FR-SRC-0182",
+    "CAT-FR-SRC-0183",
+    "CAT-FR-SRC-0184",
+    "CAT-FR-SRC-0185",
+    "CAT-FR-SRC-0186",
+    "CAT-FR-SRC-0187",
+    "CAT-FR-SRC-0188",
+    "CAT-FR-SRC-0189"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0058",
+    "CAT-FR-RQ-0059",
+    "CAT-FR-RQ-0060",
+    "CAT-FR-RQ-0061"
+  ],
+  "entity_ids": [
+    "CAT-FR-GEO-0019",
+    "CAT-FR-GEO-0020"
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-FR-GEO-0019",
+      "reference_date": "1939-09-01",
+      "historical_name": "Aérodrome de Reims–Champagne / BA 112",
+      "modern_location": "마른주 랭스 북쪽 쿠르시·베트니·브리몽에 걸친 옛 BA 112",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "쿠르시 로아쟁 막사·격납고 구역과 베트니 방면의 본 비행면. 별도 분산 비행장 제외.",
+      "territorial_status": "1939-09-01 프랑스 공화국 본토, 프랑스 법적 관할과 실효 지배, 해당일 외국 점령 없음",
+      "operators": "Armée de l’Air, 1938년 Bataillon de l’Air 112 지원 확인",
+      "operational_status": "개전 전 상설기지. 8월 말 분산 이동과 9월 2일 기지 조직 해체가 기록된다. 9월 1일 당일 실제 배치·가동은 미확인.",
+      "source_survey_dates": [
+        "1939년 월일 미상 항공사진",
+        "전전 건설 연혁, 관측일 미상",
+        "1939년 1월까지의 민항 사용과 1939년 8월 말 분산"
+      ],
+      "metrics": [
+        {
+          "metric": "이착륙면",
+          "value": "중앙 원형 표지 및 남쪽 착륙 구역",
+          "unit": "형태",
+          "date": "전전, 1939년 1월까지 공용 항공 통행",
+          "boundary": "쿠르시 로아쟁 막사·격납고 구역과 베트니 방면의 본 비행면. 별도 분산 비행장 제외.",
+          "source_id": "CAT-FR-SRC-0187",
+          "locator": "1939년 1월과 aire d’atterrissage 문단",
+          "capacity_or_actual": "시설 형태 및 사용 규정"
+        },
+        {
+          "metric": "라파유 철근콘크리트 격납고군",
+          "value": 6,
+          "unit": "동",
+          "date": "전전 1920~1930년대 건축 단락, 실사일 미상",
+          "boundary": "로아쟁 인접의 해당 설계군",
+          "source_id": "CAT-FR-SRC-0178",
+          "locator": "인쇄 23쪽 Major air base construction periods",
+          "capacity_or_actual": "특정 격납고군 설치 수"
+        },
+        {
+          "metric": "로아쟁 구역 사진상 대형 건물",
+          "value": "복수 격납고형 지붕 확인",
+          "unit": "시각 관찰",
+          "date": "1939년 월일 미상",
+          "boundary": "로아쟁 사진 시야",
+          "source_id": "CAT-FR-SRC-0177",
+          "locator": "24쪽 FR-COURCY_GRANDREIMS-SS-AP3",
+          "capacity_or_actual": "시설 존재"
+        },
+        {
+          "metric": "분산 이동 전 주둔 항공기",
+          "value": 300,
+          "unit": "대에 가까운 후대 추산",
+          "date": "개전 직전으로 서술, 정확한 집계일 미상",
+          "boundary": "쿠르시 로아쟁 막사·격납고 구역과 베트니 방면의 본 비행면. 별도 분산 비행장 제외.",
+          "source_id": "CAT-FR-SRC-0189",
+          "locator": "1925~1939 절 말미",
+          "capacity_or_actual": "추산 배치 실적, 당일 배치 및 수용능력 아님"
+        }
+      ],
+      "anchors": [
+        {
+          "dimension": "주기·격납",
+          "facility": "Dijon–Longvic",
+          "metric_value_or_band": "뒤부아 격납고 240×40 m",
+          "source_id": "CAT-FR-SRC-0181",
+          "locator": "Dimensions",
+          "comparison_reason": "전전 군용 격납시설의 비교 사례. 랭스 격납고별 면적·정원과 직접 비교할 공통값은 미확인."
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "시설 유형과 동시대 사진을 확보했다. 이착륙 처리량, 격납 정원, 정비·연료 용량과 공통 등급 경계 미확인.",
+      "source_ids": [
+        "CAT-FR-SRC-0177",
+        "CAT-FR-SRC-0178",
+        "CAT-FR-SRC-0179",
+        "CAT-FR-SRC-0181",
+        "CAT-FR-SRC-0187",
+        "CAT-FR-SRC-0189"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-FR-GEO-0020",
+      "reference_date": "1939-09-01",
+      "historical_name": "Centre d’aviation militaire de Dijon–Longvic / BA 102",
+      "modern_location": "코트도르주 롱비크–우주, 옛 BA 102와 디종–롱비크 비행장",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "우주–롱비크 사이 본 비행면과 인접 격납시설·페르베르 구역. 외부 분산 비행장과 전후 확장부 제외.",
+      "territorial_status": "1939-09-01 프랑스 공화국 본토, 프랑스 법적 관할과 실효 지배, 해당일 외국 점령 없음",
+      "operators": "Armée de l’Air, 전전 민군 공용 이력이 있는 프랑스 군 비행장",
+      "operational_status": "전전 상설 전투부대 주둔과 8월 말부터 전시 비행장으로 이동. 9월 1일 잔류와 가동기 수 미확인.",
+      "source_survey_dates": [
+        "격납고 약 1925년 건축, 약 1930년 사진",
+        "1927년 철도 지선 지도 설명",
+        "1938년 확장안",
+        "1939년 8월 말 이동, 9월 2일 별도 현장 도착"
+      ],
+      "metrics": [
+        {
+          "metric": "뒤부아 격납고 길이",
+          "value": 240,
+          "unit": "m",
+          "date": "약 1925년 건축, 치수 측정일 미상",
+          "boundary": "기지 서쪽 뒤부아 격납고",
+          "source_id": "CAT-FR-SRC-0181",
+          "locator": "Dimensions",
+          "capacity_or_actual": "설치 외형 길이"
+        },
+        {
+          "metric": "뒤부아 격납고 폭",
+          "value": 40,
+          "unit": "m",
+          "date": "약 1925년 건축, 치수 측정일 미상",
+          "boundary": "기지 서쪽 뒤부아 격납고",
+          "source_id": "CAT-FR-SRC-0181",
+          "locator": "Dimensions",
+          "capacity_or_actual": "설치 외형 폭"
+        },
+        {
+          "metric": "철도 지선",
+          "value": "1927년 수정 도면에서 기지 인입 확인",
+          "unit": "설비 형태",
+          "date": "1927-06",
+          "boundary": "우주–롱비크 사이 본 비행면과 인접 격납시설·페르베르 구역. 외부 분산 비행장과 전후 확장부 제외.",
+          "source_id": "CAT-FR-SRC-0188",
+          "locator": "second plan modificatif 문단",
+          "capacity_or_actual": "설비 존재, 운송 처리량 미확인"
+        },
+        {
+          "metric": "전전 주둔 전투비행대",
+          "value": 10,
+          "unit": "escadrilles, 후대 서술",
+          "date": "8월 말 분산 이전, 집계일 미상",
+          "boundary": "우주–롱비크 사이 본 비행면과 인접 격납시설·페르베르 구역. 외부 분산 비행장과 전후 확장부 제외.",
+          "source_id": "CAT-FR-SRC-0180",
+          "locator": "21쪽 개전 전 편제",
+          "capacity_or_actual": "부대 배치, 기체 수와 수용 정원은 미확인"
+        }
+      ],
+      "anchors": [
+        {
+          "dimension": "활주로·착륙장",
+          "facility": "Marcilloles–Chambaran",
+          "metric_value_or_band": "1938년 확장 후 약 80 ha 비행장 부지",
+          "source_id": "CAT-FR-SRC-0184",
+          "locator": "3쪽 1938년 10월 확장 문단",
+          "comparison_reason": "GC III/7 분산 목적지. 부지 면적과 이착륙 처리량의 단위가 달라 비교값만 보존."
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "격납고 한 동의 외형과 과거 철도 지선 확인. 착륙 처리, 격납 정원, 정비·연료 용량, 공통 등급 경계 미확인.",
+      "source_ids": [
+        "CAT-FR-SRC-0180",
+        "CAT-FR-SRC-0181",
+        "CAT-FR-SRC-0182",
+        "CAT-FR-SRC-0183",
+        "CAT-FR-SRC-0184",
+        "CAT-FR-SRC-0186",
+        "CAT-FR-SRC-0188"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "research_scope": "1939-09-01 공통 기준일. 프랑스 본토 랭스–쿠르시와 디종–롱비크 두 상설 군용 시설의 개전기 격납·부지 및 부대 이동. 마르시롤은 비교 사례.",
+  "limitations": [
+    "9월 1일 이착륙·격납 수용·정비·연료의 정량 및 공통 등급 경계 부족으로 두 시설 점수·범위 null.",
+    "랭스 항공사진은 1939년 월일 미상. 디종 격납고는 시설 치수이며 기체 수용 정원은 미상.",
+    "개전일 배치 기체 수와 일일 가동 기록, 타 본토 기지 및 해외 시설은 후속 확인 대상."
+  ],
+  "evidence_checked": [
+    "Grand Reims / Europan 17 인쇄 23~24쪽, 1939년 로아쟁 구역 항공사진 판면",
+    "SHD AI 79F 상세 연혁 및 AI/8/Z/703 분석 목록, Yale French Yellow Book 368호",
+    "Anciens Aérodromes 회보 50호 19~22쪽과 32호 2~3쪽, Labeeuw의 격납고 치수·건설 절, Chiffre·Mathis 10쪽 §21",
+    "프랑스 국립도서관 FRBNF40613954 지도 서지 및 SHD의 디종 비행장 원기록 소장 목록"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://gallica.bnf.fr/ark:/12148/btv1b531985680/f1.item",
+      "result": "웹 도구에서 접근 불가. Gallica IIIF 매니페스트 및 이미지 HTTP 403. BnF의 별도 서지는 열람했으나 지도 원판은 증거에서 제외."
+    },
+    {
+      "url": "https://www.anciens-aerodromes.com/AtlasDGACOct16/html/aero502.htm",
+      "result": "웹 도구의 DGAC 전재 HTML 접근은 403. 별도 HTTP 요청으로 fiche 502와 206 HTML을 받아 본문을 열람."
+    },
+    {
+      "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/49343",
+      "result": "프랑스어 경로와 웹 도구의 후속 조회가 시간 초과. SHD 영문 경로의 프랑스어 상세 HTML을 별도 요청으로 확보. 소장된 하위 원문은 미열람."
+    },
+    {
+      "url": "https://hangars.anciens-aerodromes.com/?p=3901",
+      "result": "웹 도구의 사진 직접 열기 403. 동일 파일을 별도 HTTP 요청으로 받아 약 1930년 사진 판면을 열람."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=37 pending=96; sources=437 questions=154. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

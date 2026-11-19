@@ -1,0 +1,4116 @@
+[
+  {
+    "id": "CAT-GB-SRC-0001",
+    "title": "Field Service Regulations 1935",
+    "institution_or_author": "War Office / Australian War Memorial",
+    "publication_date": "1935",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "LIB41945",
+    "locator": "서지·권별 표제",
+    "url": "https://www.awm.gov.au/collection/LIB41945",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1935년 야전복무규정의 소장과 간행 정보."
+    ],
+    "limitations": [
+      "영국 육군 교범의 소장 목록이다. 규정 원면은 직접 확인하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "gb-fsr-1935"
+  },
+  {
+    "id": "CAT-GB-SRC-0002",
+    "title": "We Have Been Here Before: The Evolution of the Doctrine of Decentralised Command in the British Army 1905–1989",
+    "institution_or_author": "Christopher Pugsley / Royal Military Academy Sandhurst",
+    "publication_date": "2011",
+    "source_type": "secondary",
+    "document_or_accession_number": "Sandhurst Occasional Paper No. 9",
+    "locator": "전간기 FSR과 1939~1940년 BEF의 훈련·지휘를 다루는 단락",
+    "url": "https://www.westernfrontassociation.com/media/izejy5uu/royal_military_academysandhurst_occasional_paper_09.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "FSR의 제병협동 원칙과 지휘 철학, 원정군 훈련과 기갑 편제에 관한 설명."
+    ],
+    "limitations": [
+      "현대의 mission command 개념을 사용한 후대 해석이다. 공식 전시 지시문과 구별했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "sandhurst-op9"
+  },
+  {
+    "id": "CAT-GB-SRC-0003",
+    "title": "Second Battle of El Alamein",
+    "institution_or_author": "National Army Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "도입부, The armies, Lightfoot 및 Supercharge",
+    "url": "https://www.nam.ac.uk/explore/battle-alamein",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "지뢰밭 통로 개척과 제8군 공격, 재집결 후의 돌파 및 추격.",
+      "제8군의 1942년 8월 지휘 교체와 다국적 편성, 10월 23일~11월 4일 제2차 전투의 시점과 추격 평가."
+    ],
+    "limitations": [
+      "박물관 개관이다. 추격 지연의 설명은 여러 가능한 해석 중 하나다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nam-el-alamein",
+    "last_rechecked_at": "2026-11-12T18:55:40+09:00"
+  },
+  {
+    "id": "CAT-GB-SRC-0004",
+    "title": "Montgomery and His Legions: A Study of Operational Development, Innovation and Command in 21st Army Group, North-West Europe, 1944–45",
+    "institution_or_author": "C. J. Forrester / University of Leeds",
+    "publication_date": "2010-12",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 52쪽 및 85쪽 이하, 노르망디 작전과 GOODWOOD",
+    "url": "https://etheses.whiterose.ac.uk/id/eprint/1753/1/C.J.Forrester_PhD_History_Montgomery_and_his_Legions.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제21집단군의 대표 작전, 굿우드의 기갑·보병 협동과 전술 학습."
+    ],
+    "limitations": [
+      "선별 사례의 학위논문이며 굿우드의 상급 작전 목표에는 다른 해석이 있다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "forrester-normandy"
+  },
+  {
+    "id": "CAT-GB-SRC-0005",
+    "title": "War at Sea 1939–1945, I: The Defensive",
+    "institution_or_author": "S. W. Roskill / 영국 공식 전사",
+    "publication_date": "1954",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제4장, 함대 배치와 지중해 전구 분담",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/UK-RN-I/UK-RN-I-4.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "본국·지중해·대서양에서 함대와 순양함을 분배한 배경."
+    ],
+    "limitations": [
+      "영국 공식 전사다. 개전기 배치를 후기 전력 구조와 구분했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "roskill-war-at-sea-i"
+  },
+  {
+    "id": "CAT-GB-SRC-0006",
+    "title": "Anniversary of the Navy’s greatest modern triumph – defeat of the U-boat",
+    "institution_or_author": "Royal Navy",
+    "publication_date": "2021-05-24",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "ONS 5, 호위·정보·대잠 개선과 1943년 5월",
+    "url": "https://www.royalnavy.mod.uk/news/2021/may/24/20210524-battle-atlantic",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대서양 호송전의 전환과 연합국 대잠 수단."
+    ],
+    "limitations": [
+      "왕립해군의 개관이다. 다국적 호위 전력을 영국 단독 성과로 집계하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rn-black-may"
+  },
+  {
+    "id": "CAT-GB-SRC-0007",
+    "title": "Navy commemorates 70th anniversary of Battle of Taranto",
+    "institution_or_author": "영국 국방부 / GOV.UK",
+    "publication_date": "2010-11-11",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Operation JUDGEMENT와 HMS Illustrious 공습 단락",
+    "url": "https://www.gov.uk/government/news/navy-commemorates-70th-anniversary-of-battle-of-taranto",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "야간 함재기 공격과 이탈리아 주력함의 손상.",
+      "타란토 작전에서 Illustrious를 이함한 Swordfish 21대."
+    ],
+    "limitations": [
+      "기념 해설이다. ‘전략적 결정’이라는 평가는 그대로 채택하지 않았다.",
+      "당시 함장 보고와 일치하는 후대 집계이며 별도 관측 기록으로 세지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "uk-mod-taranto"
+  },
+  {
+    "id": "CAT-GB-SRC-0008",
+    "title": "Loss of H.M. Ships Prince of Wales and Repulse",
+    "institution_or_author": "British Admiralty",
+    "publication_date": "1955-03-16 개정본. 1943년 초판과 1948년 개정판은 서문에 기록.",
+    "source_type": "secondary: 전후 해군성 편찬본, 동시대 보고를 부록에 수록",
+    "document_or_accession_number": "B.R. 1736 (8)/1955, Battle Summary No. 14 (revised)",
+    "locator": "발행 지시문 ii쪽, 서문 vi쪽, §12 12~18쪽, 부록 A 21쪽, 부록 H 제453비행대 보고 39쪽",
+    "url": "https://ibiblio.org/hyperwar/UN/UK/RN/BS-14_POW%2BRepulse/index.html",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 12월 Force Z의 작전과 항공 공격, 전투기의 엄호 공백.",
+      "부록 A의 14인치 주포 10문과 §12의 피격 뒤 함속 8노트."
+    ],
+    "limitations": [
+      "열람한 링크는 1948년 판을 대체한 1955년 판이다. 일본군 진술·전후 자료를 반영했으며 일본 측 원자료 추가 대조가 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "admiralty-battle-summary-14"
+  },
+  {
+    "id": "CAT-GB-SRC-0009",
+    "title": "The Battle of the Atlantic, 1939 to 1945",
+    "institution_or_author": "Royal Canadian Navy / Government of Canada",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "대잠 탐지 장비와 1943~1944년 호위·지원단 단락",
+    "url": "https://www.canada.ca/en/navy/services/history/naval-service-1910-2010/battle-atlantic-1939-1945.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 호위함의 10 cm 레이더 장비, 캐나다 해군의 장비 격차와 연합 호송 지원단 참여."
+    ],
+    "limitations": [
+      "캐나다 측 기관 해설이다. 장비 도입 속도를 연합 전력 전반에 일반화하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rcn-battle-atlantic"
+  },
+  {
+    "id": "CAT-GB-SRC-0010",
+    "title": "Battle of Britain Despatch",
+    "institution_or_author": "Hugh Dowding / Royal Air Force Air Power Review 재수록",
+    "publication_date": "1941년 보고, 1946년 공개",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "§§54–59 레이더·관측단 및 방공 지휘 설명, §§69–71 사령부 집계와 관측단 전달",
+    "url": "https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/apr-vol18-iss2-4-pdf/",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 전투에서 전투기 통제와 경보망의 역할에 관한 지휘관 보고.",
+      "§54의 평균 유효 반경 약 80마일과 유리한 조건의 약 200마일, §55의 저공 보강 및 §§69–71 정보 전달."
+    ],
+    "limitations": [
+      "전투기사령관의 사후 보고다. RAF의 전과 판정은 독일 원장과 별도 대조가 필요하다.",
+      "지휘관의 요약값이다. 관측소별 시험 조건과 탐지 확률을 제시하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "dowding-despatch"
+  },
+  {
+    "id": "CAT-GB-SRC-0011",
+    "title": "The Battle of Britain — The Dowding System",
+    "institution_or_author": "RAF Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The Dowding System 및 Dowding: The Man and the System",
+    "url": "https://www.rafmuseum.org.uk/documents/LargePrintGuides/BoB_Guides/LPG_Battle_of_Britain_Cosford_web.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "레이더·관측단의 탐지, 정보 필터링, 전투기·대공 전력의 통제."
+    ],
+    "limitations": [
+      "박물관 해설이다. 전투일별 통신 지연과 출격률은 제시하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rafm-dowding"
+  },
+  {
+    "id": "CAT-GB-SRC-0012",
+    "title": "Learning How to Fight Together: The British Experience with Joint Air-Land Warfare",
+    "institution_or_author": "David Ian Hall / Air Force Research Institute",
+    "publication_date": "2009-03",
+    "source_type": "secondary",
+    "document_or_accession_number": "Research Paper 2009-2",
+    "locator": "Tedder·Coningham 및 Operation Crusader 단락",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo82468/pdf/GOVPUB-D301-PURL-gpo82468.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북아프리카 중앙집권적 항공지휘, 육군과 참모부 배치, 제공권·차단·직접 지원의 구분."
+    ],
+    "limitations": [
+      "북아프리카의 전시 발전을 분석한 연구다. 모든 RAF 전구에 같은 구조를 적용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "north-africa-air-land"
+  },
+  {
+    "id": "CAT-GB-SRC-0013",
+    "title": "Sir Arthur Harris and Some Myths and Controversies of the Bomber Offensive",
+    "institution_or_author": "Sebastian Cox / RAF Historical Society",
+    "publication_date": "2009년 발표",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1942년 2월 14일 지침과 5월 쾰른 공습 단락",
+    "url": "https://www.rafmuseum.org.uk/documents/Research/RAF-Historical-Society-Journals/Bomber_harris.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "지역폭격 지침의 시점과 사기 표적, 해리스 부임 및 쾰른 공습."
+    ],
+    "limitations": [
+      "공개 논문집의 관련 본문을 확인했다. 민간 피해 수치를 이 자료에서 확정하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rafhs-bomber-harris"
+  },
+  {
+    "id": "CAT-GB-SRC-0014",
+    "title": "Matilda II",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 소장 전차 설명",
+    "document_or_accession_number": null,
+    "locator": "The Tank Museum’s Matilda II 및 Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/matilda-ii/?tpage=2",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "A12 Matilda IIA 표의 2파운더·7.92 mm Besa·승무원 4명·20~78 mm·16 mph."
+    ],
+    "limitations": [
+      "시속의 노면·시험 중량·측정 방법, tons의 단위계 및 개별 형식 생산 집계는 명시되지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bovington-matilda"
+  },
+  {
+    "id": "CAT-GB-SRC-0015",
+    "title": "Churchill",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 소장 전차 설명",
+    "document_or_accession_number": "T31579",
+    "locator": "The Tank Museum’s Churchill IV 및 Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/churchill-iv?country=&era=ww2&tname=&tpage=2",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Churchill Mk IV 기준 6파운더·7.92 mm Besa 2정·승무원 5명·39 tonnes·25 km/h와 전시 표본의 개장 이력."
+    ],
+    "limitations": [
+      "복원 표본 T31579의 전시 작전 이력 미상. 시속 시험 조건 및 102 mm의 구체적 장갑 위치는 표에서 미기재."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bovington-churchill"
+  },
+  {
+    "id": "CAT-GB-SRC-0016",
+    "title": "Cromwell",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 소장 전차 설명",
+    "document_or_accession_number": null,
+    "locator": "기원 및 생산 문단, The Tank Museum’s Cromwell IV, Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/cromwell?country=all&era=&tname=&tpage=2",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "A27M Mk IV의 75 mm 주포·7.92 mm 기관총 2정·승무원 5명·35 mph, Meteor 및 Centaur 주문과 완성 구분."
+    ],
+    "limitations": [
+      "현존 차량은 훈련 차량을 폴란드 부대 표식으로 전시. 표의 속도·중량 조건과 생산량의 Mk IV 단독 분모는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bovington-cromwell"
+  },
+  {
+    "id": "CAT-GB-SRC-0017",
+    "title": "British War Production",
+    "institution_or_author": "M. M. Postan / HMSO, History of the Second World War",
+    "publication_date": "1952",
+    "source_type": "secondary: 영국 공식 전시 생산사",
+    "document_or_accession_number": "United Kingdom Civil Series",
+    "locator": "제IV장 §10 The Tank and its Gun, 인쇄 185~188쪽, 표 25",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/UK-Civil-WarProduction/UK-Civil-WarProduction-4.html",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "보병·순항 분류, 1940년 납품 구간, Matilda II 15 mph 및 전면 장갑 구분, Cromwell의 Meteor 개발."
+    ],
+    "limitations": [
+      "전후 종합서이며 원 시험지나 단일 Mk 자료가 아니다. 표 25는 형식별 생산이 아닌 유형별 인도 집계다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "postan-war-production"
+  },
+  {
+    "id": "CAT-GB-SRC-0018",
+    "title": "Matilda tanks of 2/9 Armoured Regiment being driven ashore",
+    "institution_or_author": "Robert Eric Donaldson / Australian War Memorial",
+    "publication_date": "1945-06-10",
+    "source_type": "primary: 전시 사진 음화의 디지털 복제",
+    "document_or_accession_number": "108957",
+    "locator": "첫 사진 판면과 Description, Date made",
+    "url": "https://www.awm.gov.au/collection/108957",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "호주 제2/9기갑연대의 마틸다가 브루나이만 그린 비치에서 상륙한 현장."
+    ],
+    "limitations": [
+      "사진과 소장 설명을 열람. 세부 Mk와 무장 형식의 판정은 보류."
+    ],
+    "rights": "AWM 표기 Public Domain. 링크와 자체 설명만 사용.",
+    "independence_group": "awm-108957"
+  },
+  {
+    "id": "CAT-GB-SRC-0019",
+    "title": "Preliminary Report on Operation “JUBILEE” (The Raid on DIEPPE), 19 Aug 42",
+    "institution_or_author": "C. P. Stacey / Canadian Military Headquarters",
+    "publication_date": "1942-09-19",
+    "source_type": "primary: 동시대 작전 예비 보고",
+    "document_or_accession_number": "CMHQ Report 83 / D63-4/83-1942E-PDF",
+    "locator": "보고서 1쪽 §1~2",
+    "url": "https://publications.gc.ca/collections/collection_2016/mdn-dnd/D63-4-83-1942-eng.pdf",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942-08-19 디에프 작전에 캐나다 처칠 전차 대대가 참가했다."
+    ],
+    "limitations": [
+      "보고서가 스스로 잠정성을 명시한다. 개별 Mk·개장과 손실 집계는 이 부분에서 확정하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "cmhq83-dieppe"
+  },
+  {
+    "id": "CAT-GB-SRC-0020",
+    "title": "Reinforcements Come Ashore at Juno Beach",
+    "institution_or_author": "John Norman Johnson / Army Film and Photographic Unit / Imperial War Museums",
+    "publication_date": "1944-06-13",
+    "source_type": "secondary: 전시 촬영물의 보존기관 기술",
+    "document_or_accession_number": "A70 47-7",
+    "locator": "Description 및 Production Date",
+    "url": "https://film.iwmcollections.org.uk/record/1216",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "6월 13일 저녁 제7기갑사단 증원 크롬웰이 주노 해변 Mike 구역에 상륙했다는 소장 설명."
+    ],
+    "limitations": [
+      "소장 설명을 열람했다. 영상 프레임에서 개별 Mk 또는 차대번호를 독립 판정하지 않았다."
+    ],
+    "rights": "© IWM. 소장 설명 자체 요약과 원문 링크만 사용.",
+    "independence_group": "iwm-a70-47-7"
+  },
+  {
+    "id": "CAT-GB-SRC-0021",
+    "title": "TANKFEST 2024 Star Vehicles",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": "2024-02-01",
+    "source_type": "secondary: 박물관의 전차 연혁",
+    "document_or_accession_number": null,
+    "locator": "Matilda II 소제목",
+    "url": "https://tankmuseum.org/article/tankfest-stars-2024",
+    "accessed_at": "2026-11-12T05:01:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "A12 마틸다 II와 1940년 아라스 전투의 관련성."
+    ],
+    "limitations": [
+      "기념 행사 해설. 세부 Mk별 배치와 부대별 작전일지 미대조. 소장품 페이지와 기관이 같으므로 독립 출처로 세지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bovington-matilda"
+  },
+  {
+    "id": "CAT-GB-SRC-0022",
+    "title": "Sergeant Major Jewell and Trooper Williams, 1944",
+    "institution_or_author": "Wilfred H. J. Sale / National Army Museum",
+    "publication_date": "1944",
+    "source_type": "primary: 전시 사진 및 별도 보존기관 해설",
+    "document_or_accession_number": "NAM. 1975-03-63-20-165",
+    "locator": "사진 판면·소장 설명의 B Squadron과 장비 문단",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1975-03-63-20-165",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북서유럽에서 영국 제3/4 런던 카운티 요머너리 B중대의 험버 스카우트 카. 해설상 2명, 비상 좌석 1개, No. 19 무전기, 브렌 1정."
+    ],
+    "limitations": [
+      "사진이 무전기 사양이나 계열 전체 표준 무장을 입증하지 않는다. Mk·노면별 속도·장갑 실측 자료 미확인."
+    ],
+    "rights": "National Army Museum Copyright. 사진 재수록 없이 링크만 사용.",
+    "independence_group": "sale-nam-sharpshooters"
+  },
+  {
+    "id": "CAT-GB-SRC-0023",
+    "title": "Major Toby Thwaites (in raincoat) on his scout car at Weert",
+    "institution_or_author": "Wilfred H. J. Sale / National Army Museum",
+    "publication_date": "1944",
+    "source_type": "primary: 전시 사진 및 별도 보존기관 해설",
+    "document_or_accession_number": "NAM. 1975-03-63-20-73",
+    "locator": "사진 판면·Browning 및 Weert 문단",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1975-03-63-20-73",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "네덜란드 베이르트에서 브라우닝 기관총 장착 험버 차량 한 사례. 해설이 인용하는 연대일지는 9월 26일 일대 주둔을 기록."
+    ],
+    "limitations": [
+      "기관총은 소장 설명으로 식별. 구경, 사진 촬영일, 개조 명령과 적용 범위 미확인. 22번과 같은 촬영자·소장군."
+    ],
+    "rights": "National Army Museum Copyright. 사진 재수록 없이 링크만 사용.",
+    "independence_group": "sale-nam-sharpshooters"
+  },
+  {
+    "id": "CAT-GB-SRC-0024",
+    "title": "Universal Carrier",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary: 소장 차량과 제원 해설",
+    "document_or_accession_number": null,
+    "locator": "The Tank Museum’s Universal Carrier 및 Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/universal-carrier/?country=&era=&tname=&tpage=1",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "No. 1 Mk II의 .303 브렌 1정, 4명, 4 Tons, 30 mph, 12 mm 표기. Sentinel의 1940년 제작 표본."
+    ],
+    "limitations": [
+      "시험 노면, 적재 조건, Tons 단위계와 장갑 위치는 미기재. 100,000대 표기의 지역·형식·기간별 원장 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bovington-universal"
+  },
+  {
+    "id": "CAT-GB-SRC-0025",
+    "title": "Australian-built Universal Carriers of the Australian 2nd Armoured Division",
+    "institution_or_author": "Clifford Bottomley / Australian War Memorial",
+    "publication_date": "제2차 세계대전 중, 소장 설명에 일자 미표기",
+    "source_type": "primary: 전시 사진 음화",
+    "document_or_accession_number": "AWM 150211",
+    "locator": "사진 판면 및 Description",
+    "url": "https://www.awm.gov.au/collection/150211",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "호주 빅토리아주 퍽카퍼니얼에서 호주산 유니버설 캐리어를 철도에 싣는 장면."
+    ],
+    "limitations": [
+      "사진과 소장 설명을 대조. 생산 로트, Mk와 정확한 촬영일 미확인. 전투 장면은 아니다."
+    ],
+    "rights": "AWM 표기 Public Domain. 링크와 자체 설명만 사용.",
+    "independence_group": "awm-150211"
+  },
+  {
+    "id": "CAT-GB-SRC-0026",
+    "title": "Valentine: geen rozen, maar rupsbanden",
+    "institution_or_author": "Alfred Staarman / Nationaal Militair Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 전시 해설과 소장 자료 기술",
+    "document_or_accession_number": "114924 volgnr. 000·002",
+    "locator": "두 소장 사진 설명 및 마지막 단락",
+    "url": "https://www.nmm.nl/nl/stories/valentine-geen-rozen-maar-rupsbanden/",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "아처의 밸런타인 차체와 17파운더를 소장품 기술로 확인."
+    ],
+    "limitations": [
+      "인용된 소장 사진은 박물관 자료다. 개별 전시 투입 이력·시험 속도·장갑 두께는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nmm-archer-114924"
+  },
+  {
+    "id": "CAT-GB-SRC-0027",
+    "title": "Valentine — The Tank Museum’s S-P 17pdr, Archer",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary: 소장 차량 이력",
+    "document_or_accession_number": "S280017",
+    "locator": "The Tank Museum’s S-P 17pdr, Archer",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/valentine",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "S280017은 1945년 초~중반 인도됐고 박물관 집계 665대 중 421번째."
+    ],
+    "limitations": [
+      "이 차대의 전시 운용 이력은 미상. 캐나다 부대 도색은 재현. 페이지 하단 Tank facts는 아처 전용 제원표가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bovington-archer"
+  },
+  {
+    "id": "CAT-GB-SRC-0028",
+    "title": "Operating instructions and workshop manual: carrier universal Mark 1* (Canadian)",
+    "institution_or_author": "Nationaal Militair Museum",
+    "publication_date": "1942 교범",
+    "source_type": "secondary: 동시대 교범의 소장 목록",
+    "document_or_accession_number": "00262537",
+    "locator": "Boek, Vervaardiging, Onderwerp",
+    "url": "https://collectie.nmm.nl/nl/collectie/detail/871044/",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐나다 Universal Carrier Mk I*의 별도 교범 명칭·소장번호·제작연도."
+    ],
+    "limitations": [
+      "교범 판면이 제공되지 않아 목록만 확인. 영국 No. 1 Mk II와의 제원 대조는 미실시."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nmm-carrier-manual-00262537"
+  },
+  {
+    "id": "CAT-GB-SRC-0029",
+    "title": "Bren gun and Universal Carriers of the 39th Infantry Battalion on manoeuvres",
+    "institution_or_author": "Thomas Fisher / Australian War Memorial",
+    "publication_date": "1942-08",
+    "source_type": "primary: 전시 사진",
+    "document_or_accession_number": "AWM 026134",
+    "locator": "사진 판면 및 Description",
+    "url": "https://www.awm.gov.au/collection/026134",
+    "accessed_at": "2026-11-12T06:57:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 8월 뉴기니 호주 제39보병대대 훈련에서 복수 캐리어의 존재."
+    ],
+    "limitations": [
+      "소장 설명은 Bren Gun 및 Universal을 함께 지칭한다. 사진 속 개별 차량의 Mk·제조국이나 실전을 확정하지 않았다."
+    ],
+    "rights": "AWM 표기 Public Domain. 링크와 자체 설명만 사용.",
+    "independence_group": "awm-026134"
+  },
+  {
+    "id": "CAT-GB-SRC-0030",
+    "title": "Official History of the Canadian Army in the Second World War, Vol. I: Six Years of War",
+    "institution_or_author": "C. P. Stacey / 캐나다 국방부",
+    "publication_date": "1955",
+    "source_type": "secondary: 공식 전사",
+    "document_or_accession_number": "Vol. I, Appendix G",
+    "locator": "인쇄 545~546쪽 Anti-Tank Artillery, Carriers, Miscellaneous; 인쇄 25~26쪽 Canadian Militia, John Inglis 계약 및 26쪽 각주",
+    "url": "https://www.canada.ca/content/dam/themes/defence/caf/militaryhistory/dhh/official/book-1955-army-ww2-1-en.pdf",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐나다산 Universal의 표준 사용과 견인용 미국산 T16 구분, 험버의 정찰·연락, 17파운더 자주포 범주.",
+      "토론토 잉글리스의 브렌 생산 개시 1940년 3월과 캐나다 전시 생산 186,802정 표기."
+    ],
+    "limitations": [
+      "자주 17파운더의 차대·부대·개별 투입 날짜는 해당 단락에 없다. 아처의 개별 전투 증거로 사용하지 않았다.",
+      "26쪽 각주는 186,802정을 .303인치형만의 집계로 추정한다. 다른 구경·국가의 생산은 별도 범위다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "stacey-canada-official-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0031",
+    "title": "Battleships 1936 Programme Sheer Drawing",
+    "institution_or_author": "HM Admiralty / Director of Naval Construction / Stanley Vernon Goodall, Royal Museums Greenwich 소장",
+    "publication_date": "1936",
+    "source_type": "secondary: 동시대 1차 도면 소장 기술",
+    "document_or_accession_number": "NPB5300",
+    "locator": "도면 표제, 함정 목록, Object details",
+    "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-59257",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Prince of Wales를 포함한 킹 조지 5세급의 공통 선형도임을 확인."
+    ],
+    "limitations": [
+      "함급 설계 도면. 개별 선박의 실제 무장이나 인수시험 제원은 이 기술로 확인할 수 없다."
+    ],
+    "rights": "Crown copyright, National Maritime Museum 표기. 도면 미전재.",
+    "independence_group": "admiralty-dnc-npb5300"
+  },
+  {
+    "id": "CAT-GB-SRC-0032",
+    "title": "East Coast of Malaya. 1941-12-10. The new RN battleship HMS Prince of Wales and the battle ...",
+    "institution_or_author": "촬영자 미확인 / Australian War Memorial",
+    "publication_date": "1941-12-10 (소장 설명)",
+    "source_type": "primary: 전시 사진 복제 네거티브",
+    "document_or_accession_number": "P02018.056 / C305991",
+    "locator": "사진 판면, Accession Number, Description",
+    "url": "https://www.awm.gov.au/collection/C305991",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "피격 뒤 크게 기운 선체의 모습과 소장관의 날짜·함명 식별."
+    ],
+    "limitations": [
+      "사진 판면은 해군성 서술과 별개의 시각 자료다. 판면만으로 함명·피해 원인·침몰 시각·속도·인명 손실을 확정하지 않았다."
+    ],
+    "rights": "AWM 표기 Public Domain. 자체 설명과 링크만 사용.",
+    "independence_group": "awm-p02018-056"
+  },
+  {
+    "id": "CAT-GB-SRC-0033",
+    "title": "Fleet Air Arm Operations Against Taranto on 11th November, 1940",
+    "institution_or_author": "Andrew B. Cunningham 및 HMS Illustrious 함장 / The London Gazette",
+    "publication_date": "1940-11-13 함장 보고, 1941-01-16 제출, 1947-07-24 관보 보충판 표지일",
+    "source_type": "primary: 동시대 지휘관 보고의 전후 관보 공개본",
+    "document_or_accession_number": "The London Gazette 38023",
+    "locator": "3471~3473, 3477쪽, 커닝햄 §§4·10·13, 보이드 §§1·4·8–10, 리스터 부기",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/LondonGazette/38023.pdf",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Eagle에서 이관된 Swordfish 5대, 첫 편대 이함 때 함속 28노트, 두 편대 12대와 9대의 실제 이함.",
+      "커닝햄의 총사령관 직위·항모와 호위함 분견·해군본부 제출, 리스터의 계획 지시와 상신, 보이드의 항모 실행 보고."
+    ],
+    "limitations": [
+      "함재기 정원·최고속도 자료가 아니다. GOV.UK의 후대 집계는 독립 관측으로 세지 않았다. 관보 미러의 OCR은 단 배열이 섞여 절 번호와 본문을 함께 읽었다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "admiralty-taranto-command-reports",
+    "last_rechecked_at": "2026-11-12T18:55:40+09:00"
+  },
+  {
+    "id": "CAT-GB-SRC-0034",
+    "title": "Illustrious (1939) — rig, starboard profile as fitted",
+    "institution_or_author": "Vickers-Armstrong Limited / Royal Museums Greenwich 소장",
+    "publication_date": "1940-07-30",
+    "source_type": "secondary: 동시대 1차 도면 소장 기술",
+    "document_or_accession_number": "NPN4629",
+    "locator": "도면 표제와 Object details",
+    "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-597204",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 장착 상태의 우현 배치도라는 범위와 작성일."
+    ],
+    "limitations": [
+      "기관이 제공하는 소장 기술을 확인했다. 함포 형식·수량과 적재량을 판독하지 않았다."
+    ],
+    "rights": "Crown copyright, National Maritime Museum 표기. 도면 미전재.",
+    "independence_group": "vickers-illustrious-npn4629"
+  },
+  {
+    "id": "CAT-GB-SRC-0035",
+    "title": "Evolution of Aircraft Carriers: The Wartime European Carriers",
+    "institution_or_author": "Scot MacDonald / Naval Aviation News, U.S. Naval History and Heritage Command 제공",
+    "publication_date": "1963-05",
+    "source_type": "secondary: 미국 해군 기관지 전후 연구",
+    "document_or_accession_number": "Naval Aviation News, May 1963",
+    "locator": "61쪽, 1940년 도입된 Illustrious와 Formidable 단락",
+    "url": "https://www.history.navy.mil/content/dam/nhhc/research/histories/naval-aviation/evolution-of-aircraft-carriers/car-12.pdf",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Illustrious와 Formidable 각각의 배수량으로 23,000 tons를 기재."
+    ],
+    "limitations": [
+      "해당 단락에 배수량 조건과 ton의 종류가 없다. 원자료 및 함별 독립 확인은 남아 있다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "macdonald-naval-aviation-news-1963"
+  },
+  {
+    "id": "CAT-GB-SRC-0036",
+    "title": "Sinking of the German Battle Cruiser Scharnhorst on the 26th December, 1943",
+    "institution_or_author": "Bruce A. Fraser / The London Gazette",
+    "publication_date": "1944-01 보고, 1947-08-07 관보 보충판 표지일",
+    "source_type": "primary: 동시대 지휘관 보고의 전후 관보 공개본",
+    "document_or_accession_number": "The London Gazette 38038",
+    "locator": "3703~3705쪽, §§22–27 및 표제",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/LondonGazette/38038.pdf",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "JW55B 엄호 상황, Belfast가 레이더로 35,000야드에서 접촉했다는 보고와 최초 교전 조명탄 사격."
+    ],
+    "limitations": [
+      "당시 관측에 한정. 기종·시험 최대거리와 최초 교전의 명중을 이 대목에서 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "admiralty-north-cape-fraser-dispatch"
+  },
+  {
+    "id": "CAT-GB-SRC-0037",
+    "title": "6-inch Triple Mounting Marck XXIII plan relating HMS Belfast (C35) (1938)",
+    "institution_or_author": "Vickers-Armstrongs Ltd / National Maritime Museum",
+    "publication_date": "1939-07 도면",
+    "source_type": "secondary: 동시대 1차 도면의 박물관 기술",
+    "document_or_accession_number": "J8754 (이미지 참조 번호)",
+    "locator": "B 포탑 설명 및 Image reference",
+    "url": "https://prints.rmg.co.uk/products/6-inch-triple-mounting-marck-xxiii-plan-relating-hms-belfast-c35-1938-j8754",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Belfast의 B 포탑을 6인치 3연장으로 식별하는 소장 기술."
+    ],
+    "limitations": [
+      "B 포탑 한 곳의 도면 설명이다. 다른 포탑 수와 개장 뒤 구성은 입증하지 않는다."
+    ],
+    "rights": "National Maritime Museum 권리 표기. 도면 미전재.",
+    "independence_group": "vickers-belfast-j8754"
+  },
+  {
+    "id": "CAT-GB-SRC-0038",
+    "title": "HMS Belfast",
+    "institution_or_author": "National Historic Ships UK",
+    "publication_date": null,
+    "source_type": "secondary: 국가 역사선박 등록부",
+    "document_or_accession_number": "Registration 123",
+    "locator": "History 및 Key dates",
+    "url": "https://www.nationalhistoricships.org.uk/register/123/hms-belfast",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-08-05 취역, 1939-11 기뢰 피해, 1942-11 재취역, 북극 호송과 노르카프 해전."
+    ],
+    "limitations": [
+      "전후 이력도 포함한 등록부. 노르카프 서술의 자료 계보는 명시되지 않아 전투 보고와 독립 관측으로 세지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "national-historic-ships-belfast-123"
+  },
+  {
+    "id": "CAT-GB-SRC-0039",
+    "title": "HMS Belfast (1938) Rig & W/T Rig as Fitted",
+    "institution_or_author": "HM Dockyard, Devonport / Royal Museums Greenwich 소장",
+    "publication_date": "1942-11-16",
+    "source_type": "secondary: 동시대 1차 도면 소장 기술",
+    "document_or_accession_number": "NPA6728",
+    "locator": "도면 설명 및 Object details",
+    "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-50686",
+    "accessed_at": "2026-11-12T10:56:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 기뢰 피해 수리 뒤 실제 배치에 관한 도면이라는 범위와 작성일."
+    ],
+    "limitations": [
+      "소장 기술만 확인했다. 전시의 모든 개장과 레이더 형식·성능을 이 도면 기술에서 판정하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "devonport-belfast-npa6728"
+  },
+  {
+    "id": "CAT-GB-SRC-0040",
+    "title": "Spitfire Mk I K.9787 — Performance Trials",
+    "institution_or_author": "Aeroplane and Armament Experimental Establishment, Martlesham Heath / WWII Aircraft Performance 전사본",
+    "publication_date": "1938-08-18~12-12 시험, 1939-01-06 보고(같은 사이트의 보고 표제)",
+    "source_type": "primary: 동시대 비행시험 보고 전사",
+    "document_or_accession_number": "K.9787; Spec. 16/36",
+    "locator": "Results of Trials, Summary of Trials, Speed Trials; Mk I 보고 색인의 K.9787 표제",
+    "url": "https://www.wwiiaircraftperformance.com/org/spitcom/mk1/spitmk1_K9787.html",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "초기 양산기 K9787의 Merlin II·목제 고정피치 프로펠러·5,819 lb 및 18,500 ft에서 TAS 362.5 mph. 요약표는 362 mph."
+    ],
+    "limitations": [
+      "비행시험 전사본이다. 동일 미러의 보고 표제는 독립 시험이 아니다. N3200이나 다른 전시 장착 상태에 소급하지 않았다."
+    ],
+    "rights": "공개 열람 전사본. 자체 요약과 링크만 사용.",
+    "independence_group": "aaee-spitfire-k9787"
+  },
+  {
+    "id": "CAT-GB-SRC-0041",
+    "title": "Battle of Britain, Hangar 4 — Large Print Guide",
+    "institution_or_author": "Imperial War Museums, Duxford",
+    "publication_date": null,
+    "source_type": "secondary: 소장 기체와 전시 해설",
+    "document_or_accession_number": "IWM 다운로드 13301 (웹 식별자)",
+    "locator": "Supermarine Spitfire Mk IA 및 Corporal Fred Roberts 항목",
+    "url": "https://www.iwm.org.uk/file-download/download/public/13301",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "N3200과 제19비행대의 덩케르크 임무, 언윈의 스핏파이어에 장착된 .303인치 Browning 8정."
+    ],
+    "limitations": [
+      "박물관 전시 해설이다. 언윈 기체의 무장 서술은 N3200의 당일 장착과 탄약을 확증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "iwm-duxford-battle-of-britain"
+  },
+  {
+    "id": "CAT-GB-SRC-0042",
+    "title": "Lancaster I JB127 — Climb and Level Speed Performance",
+    "institution_or_author": "Aeroplane and Armament Experimental Establishment / WWII Aircraft Performance 공개본",
+    "publication_date": "1944-05 시험",
+    "source_type": "primary: 동시대 비행시험 보고 PDF",
+    "document_or_accession_number": "A.&A.E.E. CTO/AM.62/15; M.A.P. RA.5853/RDL2(b)",
+    "locator": "§§2.1–2.5·4.2·6.1, Table II",
+    "url": "https://www.wwiiaircraftperformance.org/Lancaster/Lancaster_I_JB127_Climb_and_Level_Speed_Performance.pdf",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "JB127의 Merlin 24 4기와 A5/148 프로펠러, 63,000 lb 시험 이륙중량, 10,000 ft TAS 280 mph."
+    ],
+    "limitations": [
+      "시험 기체와 해당 구성의 수치다. 문서가 참조하는 표준 프로펠러의 별도 원보고와 전시 R5868의 시험 성적은 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "aaee-lancaster-jb127"
+  },
+  {
+    "id": "CAT-GB-SRC-0043",
+    "title": "Individual History — Avro Lancaster B.Mk.1 R5868/7325M",
+    "institution_or_author": "Royal Air Force Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 기체 이력 편찬",
+    "document_or_accession_number": "74/A/12; Section 2B; 기체 R5868",
+    "locator": "표제·제작 단락 및 1942-06-29, 1943-09, 1944-02-15~16 항목",
+    "url": "https://www.rafmuseum.org.uk/documents/collections/74-A-12_Avro_Lancaster_R5868.pdf",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Metropolitan-Vickers 제작, RAF 제83비행대 인도, 호주 제467비행대 이관 및 1944년 2월 베를린 출격의 4,000 lb 폭탄 1발 기록."
+    ],
+    "limitations": [
+      "당시 기록을 인용한 기체 이력이다. 해당 탑재는 임무 사례다. 기체별 출격 총수는 문서 내 이견이 있어 채택하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "rafm-r5868-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0044",
+    "title": "RAF armourers with a 2,000 lb bomb beneath a Lancaster of No. 467 Squadron RAAF",
+    "institution_or_author": "촬영자 미확인 / Australian War Memorial",
+    "publication_date": "1944-08경",
+    "source_type": "primary: 전시 사진",
+    "document_or_accession_number": "UK1770 / C263609",
+    "locator": "사진 판면, Accession Number, Description",
+    "url": "https://www.awm.gov.au/collection/C263609",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "워딩턴에서 랭커스터 아래에 폭탄을 준비하는 장면. 2,000 lb와 부대명은 소장 설명에서 확인."
+    ],
+    "limitations": [
+      "준비 장면의 전시 사진이다. 정확한 촬영일, Mk, 기체 일련번호와 이륙 후 사용 여부는 미확인."
+    ],
+    "rights": "AWM 표기 Public Domain. 자체 설명과 링크만 사용.",
+    "independence_group": "awm-uk1770"
+  },
+  {
+    "id": "CAT-GB-SRC-0045",
+    "title": "Pilot’s Notes — Horsa I Glider",
+    "institution_or_author": "British Air Ministry / voloavela.it 공개본",
+    "publication_date": "1944-01 (Pilot’s Notes)",
+    "source_type": "primary: 동시대 교범 PDF",
+    "document_or_accession_number": "A.P. 2097A–P.N.",
+    "locator": "Part I, §1 Introductory",
+    "url": "https://voloavela.it/museo/attachments/article/121/horsa-manual.pdf",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "장비를 갖춘 병력 25명 또는 군수품·경차량을 운반하도록 설계. 별도의 조종사 좌석 2석."
+    ],
+    "limitations": [
+      "Mk I 설계 조건이다. 노르망디 실탑승 명부나 Mk II의 조건으로 사용하지 않았다. PDF에는 서로 다른 발행 시기의 문서가 함께 들어 있다."
+    ],
+    "rights": "교범의 Crown copyright 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "air-ministry-horsa-ap2097a"
+  },
+  {
+    "id": "CAT-GB-SRC-0046",
+    "title": "Airspeed Horsa glider, 1944",
+    "institution_or_author": "National Army Museum / 사진 촬영 Wilfred Herbert James Sale",
+    "publication_date": "1944 사진, 웹 설명 발행일 미확인",
+    "source_type": "secondary: 전시 사진의 소장 설명",
+    "document_or_accession_number": "1975-03-63-18-151",
+    "locator": "Airspeed Horsa glider, 1944의 소장 설명",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1975-03-63-18-151",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "박물관 해설의 병력 30명 수치와 수송 용도."
+    ],
+    "limitations": [
+      "30명은 사진에서 확인한 탑승 인원이 아니다. 적용 Mk와 적재 조건이 명시되지 않았다. 사진의 별도 판면 확인은 미실시."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-horsa-sale"
+  },
+  {
+    "id": "CAT-GB-SRC-0047",
+    "title": "D-Day Aviators",
+    "institution_or_author": "The Army Flying Museum",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 전시 해설과 당사자 관련 기록 인용",
+    "document_or_accession_number": null,
+    "locator": "Staff Sergeant Stanley Pearson DFM GPR 단락",
+    "url": "https://armyflying.com/the-collections/online-exhibitions/d-day-aviators/",
+    "accessed_at": "2026-11-12T12:59:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944-06-05 밤 통가 작전에서 피어슨·거스리와 경보병 병력을 태운 호르사의 오른강 교량 부근 착륙."
+    ],
+    "limitations": [
+      "개별 글라이더 일련번호, Mk, 탑승 인원과 적재표는 공개 설명에서 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "army-flying-pearson-tonga"
+  },
+  {
+    "id": "CAT-GB-SRC-0048",
+    "title": "Lee Enfield No. 4 Mk I bolt action .303 inch rifle, 1942",
+    "institution_or_author": "National Army Museum",
+    "publication_date": "1942 표본",
+    "source_type": "secondary: 전시 실물의 소장 기술",
+    "document_or_accession_number": "1961-07-189-8-1",
+    "locator": "표제·소장 설명",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1961-07-189-8-1",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "No. 4 Mk I .303인치의 1942년 소장품 식별 및 양산을 위한 단순화 설명."
+    ],
+    "limitations": [
+      "개별 소장품이다. 부대별 보급 시점과 전시 사용 이력은 미확인."
+    ],
+    "rights": "National Army Museum Copyright 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-no4-1961-07-189"
+  },
+  {
+    "id": "CAT-GB-SRC-0049",
+    "title": "Lee-Enfield No 4 Mk I Rifle",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "1941 표식 및 소장 연대",
+    "source_type": "primary: 전시 실물의 공개 사진 및 소장 기술",
+    "document_or_accession_number": "REL/16298",
+    "locator": "Date made, Description, History / Summary",
+    "url": "https://www.awm.gov.au/collection/C244160",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "R.O.F.M. No4. Mk1.1941 표식과 영국 말트비 초기 생산품이라는 소장관 식별."
+    ],
+    "limitations": [
+      "현재 부품 조합은 개별 표본의 상태다. 교체 시기나 다른 생산품의 구성까지 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "awm-maltby-rel16298"
+  },
+  {
+    "id": "CAT-GB-SRC-0050",
+    "title": "Lee-Enfield No 4 Mk I* Rifle",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "1943 표식, 1960년대 개조",
+    "source_type": "primary: 실물의 공개 사진 및 소장 기술",
+    "document_or_accession_number": "REL/20343",
+    "locator": "Description, History / Summary",
+    "url": "https://www.awm.gov.au/collection/C259129",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐나다 Long Branch 1943 표식과 호주에서 이뤄진 전후 7.62 mm 시험 개조 이력."
+    ],
+    "limitations": [
+      "전시 원형과 현존 상태를 구분했다. 실제 전시 배속 부대는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "awm-long-branch-rel20343"
+  },
+  {
+    "id": "CAT-GB-SRC-0051",
+    "title": "Bren .303 inch Mk I light machine gun, 1942",
+    "institution_or_author": "National Army Museum",
+    "publication_date": "1942 표본",
+    "source_type": "secondary: 전시 실물의 소장 기술",
+    "document_or_accession_number": "1993-07-242-1",
+    "locator": "표제·소장 설명",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1993-07-242-1",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      ".303인치 Mk I 표본, 체코슬로바키아 ZB 계열과의 관계 및 1937년 엔필드 생산 개시."
+    ],
+    "limitations": [
+      "원 시험·인수 표나 공장별 생산 장부는 제공하지 않는다."
+    ],
+    "rights": "National Army Museum Copyright 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-bren-1993-07-242"
+  },
+  {
+    "id": "CAT-GB-SRC-0052",
+    "title": "A Bren gunner in the Burmese jungle, 1944",
+    "institution_or_author": "D. L. Quaid / National Army Museum",
+    "publication_date": "1944-10-18 (소장 설명)",
+    "source_type": "primary: 전시 사진, 소장 설명과 연대박물관 공개 판면 대조",
+    "document_or_accession_number": "1984-03-96-11",
+    "locator": "촬영자·날짜·부대 소장 설명, 판면은 SRC-0058 참조",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1984-03-96-11",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북부 버마 핀타에서 왕립 웰치 퓨질리어 제2대대의 브렌 휴대 사례."
+    ],
+    "limitations": [
+      "사진의 위치·날짜와 부대는 소장 설명에 따른다. Mk·일련번호·공장을 확정할 수 없다."
+    ],
+    "rights": "National Army Museum Copyright 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "quaid-pintha-photo"
+  },
+  {
+    "id": "CAT-GB-SRC-0053",
+    "title": "British steel helmet, universal pattern, Mark 3, 1943",
+    "institution_or_author": "National Army Museum",
+    "publication_date": "1943 표본",
+    "source_type": "secondary: 전시 실물의 소장 기술",
+    "document_or_accession_number": "1983-06-78-1",
+    "locator": "표제·소장 설명",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1983-06-78-1",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Mk III 철모 생산 개시 1943년 11월 및 노르망디 상륙 부대 지급 설명."
+    ],
+    "limitations": [
+      "생산 개시일은 박물관 기술이다. 공장별 생산량 및 부대별 수령일은 미확인."
+    ],
+    "rights": "National Army Museum Copyright 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-steel-helmet-1983-06-78"
+  },
+  {
+    "id": "CAT-GB-SRC-0054",
+    "title": "Combat helmet, Mark 3, Lieutenant K Baxter, Middlesex Regiment, 1944",
+    "institution_or_author": "National Army Museum",
+    "publication_date": "1944 사용 이력",
+    "source_type": "secondary: 전시 실물의 소장 기술",
+    "document_or_accession_number": "2003-09-71-1",
+    "locator": "표제·백스터의 부대 및 소장 설명",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=2003-09-71-1",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미들섹스 연대 제2대대 케네스 백스터와 관련된 Mk III 철모."
+    ],
+    "limitations": [
+      "개인 사용 이력을 담은 소장 설명이다. 전군 지급을 뜻하지 않는다."
+    ],
+    "rights": "National Army Museum Copyright 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-baxter-helmet"
+  },
+  {
+    "id": "CAT-GB-SRC-0055",
+    "title": "Military helmets - an introduction",
+    "institution_or_author": "Amanda Rebbeck / Australian War Memorial",
+    "publication_date": "2015-07-27",
+    "source_type": "secondary: 박물관 비교 해설",
+    "document_or_accession_number": null,
+    "locator": "Mark III Helmet",
+    "url": "https://www.awm.gov.au/articles/blog/introduction-military-helmets",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Mk III의 머리 측면 보호 설계 목적과 종전까지 Mk II·III 병용 설명."
+    ],
+    "limitations": [
+      "보호 시험표를 인용하지 않는다. 해당 단락 하단의 사진 캡션은 Mk II라 Mk III 판면으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "awm-rebbeck-helmets"
+  },
+  {
+    "id": "CAT-GB-SRC-0056",
+    "title": "1937 pattern waist belt",
+    "institution_or_author": "National Army Museum",
+    "publication_date": null,
+    "source_type": "secondary: 실물의 소장 기술",
+    "document_or_accession_number": "1998-02-259-1",
+    "locator": "표제·소장 설명",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1998-02-259-1",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "교체 가능한 구성의 휴대 군장과 제3육군 코만도 스탠 스콧 관련 허리띠."
+    ],
+    "limitations": [
+      "관련 인물의 전시 복무와 허리띠의 개별 제작일·사용일은 구분했다."
+    ],
+    "rights": "National Army Museum Copyright 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-scott-webbing"
+  },
+  {
+    "id": "CAT-GB-SRC-0057",
+    "title": "Pattern 1937 Pack : Private J M Bruce, 2/16 Battalion, AIF",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "1940년대경 (소장 기술)",
+    "source_type": "primary: 전시 관련 실물의 공개 사진 및 소장 기술",
+    "document_or_accession_number": "REL30983",
+    "locator": "판면, Description, History / Summary",
+    "url": "https://www.awm.gov.au/collection/C1005479",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "호주제 1937년형 면직 배낭과 제2/16대대 제임스 브루스 지급 기록."
+    ],
+    "limitations": [
+      "정확한 제작일과 지급일, 특정 임무의 군장 조합은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "awm-bruce-rel30983"
+  },
+  {
+    "id": "CAT-GB-SRC-0058",
+    "title": "Royal Welch Fusiliers — Second World War",
+    "institution_or_author": "Royal Welch Fusiliers Museum",
+    "publication_date": null,
+    "source_type": "primary: 전시 사진 재수록 및 박물관 해설",
+    "document_or_accession_number": null,
+    "locator": "Pintha 사진군의 Members of the 2nd Battalion 및 A Bren gunner in the Burmese jungle",
+    "url": "https://www.rwfmuseum.org.uk/downloads/240322-royal-welch-fusiliers-ww2-eng.pdf",
+    "accessed_at": "2026-11-12T14:56:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "핀타에서 No. 1 소총을 든 병사 사진의 표기 및 SRC-0052와 동일한 브렌 사진의 판면."
+    ],
+    "limitations": [
+      "브렌 사진은 SRC-0052와 같은 원본으로 독립 관측이 아니다. No. 1 사진은 별도 장면이며 Mk까지 특정하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "quaid-pintha-photo"
+  },
+  {
+    "id": "CAT-GB-SRC-0059",
+    "title": "RAF Bawdsey (AMES 24), Bawdsey, Suffolk",
+    "institution_or_author": "Roger J. C. Thomas / Royal Commission on the Historical Monuments of England, Historic England 공개",
+    "publication_date": "1995-10, 1999 개정",
+    "source_type": "secondary: 역사 건축 조사 보고",
+    "document_or_accession_number": "NBR 95120",
+    "locator": "3~4쪽 연표 및 Summary",
+    "url": "https://historicengland.org.uk/research/results/reports/8759/RAFBawdseyBawdseySuffolk",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 시험과 1937년 RAF 인계·9월 24일 완전 운용 기록을 구분."
+    ],
+    "limitations": [
+      "특정 관측소의 역사다. 1940년 전국 관측소의 가동률과 탐지거리는 여기서 산정할 수 없다."
+    ],
+    "rights": "Crown Copyright, RCHME 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "rchme-bawdsey-95120"
+  },
+  {
+    "id": "CAT-GB-SRC-0060",
+    "title": "General Report on Tunny — The Newmanry History",
+    "institution_or_author": "I. J. Good, Donald Michie, Geoffrey Timms / Tony Sale 전사",
+    "publication_date": "1945 원보고, 2001-03 전사 편집",
+    "source_type": "primary: 당대 실무자 보고 전사",
+    "document_or_accession_number": "TNA HW 25/4 및 HW 25/5",
+    "locator": "325쪽 §51 Introductory",
+    "url": "https://www.codesandciphers.org.uk/documents/newman/PAGE325.HTM",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "콜로서스와 로빈슨이 Tunny 분석에 쓰인 장비임을 확인."
+    ],
+    "limitations": [
+      "열람한 쪽은 기능 개요이며 날짜 연표가 아니다. 아카이브 GIF 판면은 도구에서 열리지 않아 전사본을 사용했다."
+    ],
+    "rights": "원문 Crown copyright 및 Tony Sale 전사 편집 권리 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "grt-hw25"
+  },
+  {
+    "id": "CAT-GB-SRC-0061",
+    "title": "Veterans recall D-Day at Colossus at 75 celebration",
+    "institution_or_author": "The National Museum of Computing",
+    "publication_date": "2019-05-30",
+    "source_type": "secondary: 박물관 전시 공개자료",
+    "document_or_accession_number": null,
+    "locator": "Notes to Editors, A short history of Colossus",
+    "url": "https://www.tnmoc.org/news-releases/2019/5/30/veterans-recall-d-day-at-colossus-at-75-celebration",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Mk I 1944-02-05 운용, 같은 해 6월 Mk II 추가."
+    ],
+    "limitations": [
+      "후대 박물관 연표다. 원 설치·검수 일지와 개별 전문의 분석·전달 기록은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "tnmoc-colossus-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0062",
+    "title": "GCHQ celebrates 80 years of Colossus",
+    "institution_or_author": "Government Communications Headquarters",
+    "publication_date": "2024-01-18",
+    "source_type": "secondary: 기관 역사 해설 및 공개 사진 안내",
+    "document_or_accession_number": null,
+    "locator": "콜로서스의 분석 대상과 Bombe를 비교하는 본문",
+    "url": "https://www.gchq.gov.uk/news/colossus-80",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 지휘부 전략 통신의 암호 분석과 Enigma용 Bombe의 구분."
+    ],
+    "limitations": [
+      "전시 전문 원문이나 의사결정 기록의 독립 검증으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "gchq-colossus-80"
+  },
+  {
+    "id": "CAT-GB-SRC-0063",
+    "title": "Mulberry B, D+4–D+147, 10 June to 31 October 1944",
+    "institution_or_author": "SHAEF G-4, R. W. Crawford 지휘하 편찬 / HyperWar 전사",
+    "publication_date": "1944 집계, 정확한 작성일 미확인",
+    "source_type": "primary: 당대 연합군 보급 보고 전사",
+    "document_or_accession_number": null,
+    "locator": "1~2쪽 및 17쪽 Stores Unloadings 표",
+    "url": "https://www.ibiblio.org/hyperwar/ETO/Overlord/MulberryB/index.html",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "부재와 아로망슈의 배치, 계획 일 6,000톤 및 10월 31일까지 627,719 롱톤의 물자 실적."
+    ],
+    "limitations": [
+      "10월 31일까지의 누계이며 폐쇄일까지의 총계가 아니다. 1쪽 628,000톤은 반올림 표기다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "shaef-g4-mulberry-b"
+  },
+  {
+    "id": "CAT-GB-SRC-0064",
+    "title": "Admiralty War Diary, 1–15 December 1944",
+    "institution_or_author": "British Admiralty / Royal Navy Naval Historical Branch 공개",
+    "publication_date": "1944-12-01 항목",
+    "source_type": "primary: 동시대 해군 전쟁일지",
+    "document_or_accession_number": null,
+    "locator": "1 December Situation Report, Channel 3(a)",
+    "url": "https://sccd.royalnavy.mod.uk/-/media/rnweb/locations-and-operations/navy-historical-branch/pdfs/1944/war_diary_naval_1944_12---day-1-to-day-15.pdf?rev=cbb503383a6747ffa44744d774838cb6",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Arrow라고 부른 멀베리 B가 거의 6개월 운용된 뒤 폐쇄됐다는 당일 보고."
+    ],
+    "limitations": [
+      "해군 상황보고의 운영 범위다. 폐쇄 뒤 시설의 일부 사용 여부나 마지막 하역일은 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "admiralty-diary-dec1944"
+  },
+  {
+    "id": "CAT-GB-SRC-0065",
+    "title": "Arromanches, Normandy, France — a Mulberry artificial harbour",
+    "institution_or_author": "촬영자 미확인 / Australian War Memorial",
+    "publication_date": "1944-11경 (소장 설명)",
+    "source_type": "primary: 전시 사진",
+    "document_or_accession_number": "SUK13284 / C278171",
+    "locator": "사진 판면·Description",
+    "url": "https://www.awm.gov.au/collection/C278171",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "아로망슈 항만의 방파제와 항내·외 수면을 보여 주는 전시 사진."
+    ],
+    "limitations": [
+      "촬영일은 추정이며 하역 실적이나 폐쇄일을 확인할 수 없다."
+    ],
+    "rights": "AWM 표기 Public Domain. 자체 요약과 링크만 사용.",
+    "independence_group": "awm-suk13284"
+  },
+  {
+    "id": "CAT-GB-SRC-0066",
+    "title": "Aerial view of the prefabricated port or Mulberry B at Arromanches, 1944",
+    "institution_or_author": "National Army Museum / Commando Association 사진 모음",
+    "publication_date": "1944 사진, 웹 해설 날짜 미확인",
+    "source_type": "secondary: 전시 사진의 소장 해설",
+    "document_or_accession_number": "1985-11-36-477",
+    "locator": "소장 설명 중 항만 운영 기간",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1985-11-36-477&page=1&pos=0&q=resultsDisplay%3Dlist%26searchType%3Dsimple%26simpleText%3Dwar%2Brrom&total=4",
+    "accessed_at": "2026-11-12T17:04:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "아로망슈 멀베리 B가 10개월 운영됐다는 소장 해설."
+    ],
+    "limitations": [
+      "10개월의 산정 기준이 없고 1944년 12월 해군 일지와 운영 기간이 다르다. 사진 자체는 기간을 입증하지 않는다."
+    ],
+    "rights": "National Army Museum 권리 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-mulberry-1985-11-36"
+  },
+  {
+    "id": "CAT-GB-SRC-0067",
+    "title": "The African Campaign from El Alamein to Tunis, from 10th August, 1942 to 13th May, 1943",
+    "institution_or_author": "Harold Alexander / The London Gazette",
+    "publication_date": "1947-05-23 제출, 1948-02-05 보충판 표지일",
+    "source_type": "primary: 당시 지휘관의 전후 공식 보고",
+    "document_or_accession_number": "The London Gazette 38196",
+    "locator": "839~840, 853, 857~858쪽, Part I: Situation in August 1942 및 The Battle of El Alamein",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/LondonGazette/38196.pdf",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "알렉산더의 중동군 인수와 몽고메리의 제8군 지휘, 전투 개시·종료, 군단에 내린 명령과 추격 보급 문제를 확인했다."
+    ],
+    "limitations": [
+      "전후에 정리한 상급 지휘관의 영국 측 기록. 적군 피해 추정은 이번 원고에 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-war-office-alexander-despatch"
+  },
+  {
+    "id": "CAT-GB-SRC-0068",
+    "title": "Bernard Law Montgomery: Unbeatable and unbearable",
+    "institution_or_author": "National Army Museum",
+    "publication_date": null,
+    "source_type": "secondary: 기관 전기",
+    "document_or_accession_number": null,
+    "locator": "도입부, Early career, North Africa, Viscount of Alamein",
+    "url": "https://www.nam.ac.uk/explore/bernard-montgomery",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "런던 출생, 생몰연도, 영국 육군 복무와 제8군 지휘를 확인했다."
+    ],
+    "limitations": [
+      "박물관의 인물 개관이다. 지휘 능력과 동료 관계 평가는 전재하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nam-montgomery"
+  },
+  {
+    "id": "CAT-GB-SRC-0069",
+    "title": "Photograph of Admiral Andrew Cunningham of the Royal Navy with Message and Original Signature, ca 1940s-1950s",
+    "institution_or_author": "Wilkes University Institutional Repository",
+    "publication_date": null,
+    "source_type": "secondary: 사진 소장품의 후대 인물 설명",
+    "document_or_accession_number": "디지털 목록 53327 / Admiral Harold R. Stark collection",
+    "locator": "Dublin Core, Description의 전기 두 문단",
+    "url": "https://omeka.wilkes.edu/omeka/document/53327",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "라스마인스 출생, 생몰연도, 영국 왕립해군과 지중해 함대 소속을 확인했다."
+    ],
+    "limitations": [
+      "인물 정보는 목록의 설명에서 확인했다. 사진 또는 서명으로 출생이나 타란토 당시 행위를 입증할 수 없다."
+    ],
+    "rights": "공개 목록의 자체 요약과 링크만 사용. 소장 사진은 복제하지 않았다.",
+    "independence_group": "wilkes-stark-collection-cunningham"
+  },
+  {
+    "id": "CAT-GB-SRC-0070",
+    "title": "La torpediniera Nicola Fabrizi in Adriatico e la scorta dei convogli per la Grecia",
+    "institution_or_author": "Cristiano Peluso / Ufficio Storico della Marina Militare",
+    "publication_date": "2012-06",
+    "source_type": "secondary: 이탈리아 해군 역사실 학술지 논문",
+    "document_or_accession_number": "Bollettino d’Archivio, 2012년 6월호",
+    "locator": "49~50쪽, La notte di Taranto",
+    "url": "https://www.marina.difesa.it/media-cultura/editoria/bollettino/Documents/2012/giugno/4_Peluso_La_tp_Fabrizi_pg_39_70.pdf",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공습과 호송·오트란토 해협 임무가 동시에 진행됐으며 타란토 공습을 일러스트리어스 함재기가 수행했음을 대조했다."
+    ],
+    "limitations": [
+      "이탈리아 측 역사 연구이며 영국 전력 세부에 관한 인용의 독립성은 단정하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "italian-naval-history-peluso"
+  },
+  {
+    "id": "CAT-GB-SRC-0071",
+    "title": "Air Ministry — Victoria Cross award for Flight Lieutenant James Brindley Nicolson",
+    "institution_or_author": "Air Ministry / The London Gazette",
+    "publication_date": "1940-11-15",
+    "source_type": "primary: 전시 공식 수훈 공고",
+    "document_or_accession_number": "The London Gazette 34993",
+    "locator": "6569쪽, Air Ministry, Royal Air Force",
+    "url": "https://www.thegazette.co.uk/London/issue/34993/page/6569/data.pdf",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "군번 39329, RAF 제249비행대, 1940-08-16 사우샘프턴 부근 교전과 피격·부상 뒤 격추를 서술한 수훈 사유를 확인했다."
+    ],
+    "limitations": [
+      "영국 측 수훈 공고로 상대 기종·개별 기체·손실 원장을 확인할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-air-ministry-nicolson-vc"
+  },
+  {
+    "id": "CAT-GB-SRC-0072",
+    "title": "For Valour: Flight Lieutenant James Brindley Nicolson",
+    "institution_or_author": "Norman Brice / Royal Air Force Museum",
+    "publication_date": "2024-08-15",
+    "source_type": "secondary: 박물관 전기 및 관보 인용",
+    "document_or_accession_number": "전기 본문에는 별도 번호 없음. 사진 P018589, 훈장 83/D/1062는 관련 소장품.",
+    "locator": "Who, 249 Squadron, Citation, After Nicolson 및 Credits",
+    "url": "https://www.rafmuseum.org.uk/blog/for-valour-flight-lieutenant-james-nicolson/",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰일, 제249비행대 비행편대장, 허리케인 P3576, 버마 제27비행대 지휘 서술을 확인했다."
+    ],
+    "limitations": [
+      "수훈 문구는 CAT-GB-SRC-0071을 그대로 인용한다. 다른 복무 정보는 전기 자료의 요약이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "raf-museum-brice-nicolson"
+  },
+  {
+    "id": "CAT-GB-SRC-0073",
+    "title": "Royal Air Force combat reports 1939–1945",
+    "institution_or_author": "The National Archives (UK)",
+    "publication_date": null,
+    "source_type": "secondary: 보존기관 열람 안내",
+    "document_or_accession_number": "AIR 50 시리즈 안내",
+    "locator": "What are these records? 및 What information do the records contain?",
+    "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports-1939-1945/",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "AIR 50이 작전 비행 중 적과 접촉한 조종사·공중사수의 전투보고를 보관하는 시리즈임을 확인했다."
+    ],
+    "limitations": [
+      "안내 페이지다. 특정 보고서의 소장 및 내용은 여기서 검증하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "tna-air50-guide"
+  },
+  {
+    "id": "CAT-GB-SRC-0074",
+    "title": "Nicolson, James Brindley Eric (Wing Commander)",
+    "institution_or_author": "CASPIR / Canadian Warplane Heritage Museum",
+    "publication_date": null,
+    "source_type": "secondary: 항공 인물 데이터베이스",
+    "document_or_accession_number": "CASPIR 인물 페이지 600031071",
+    "locator": "Birth Date, Born, Service, Service Numbers",
+    "url": "https://caspir.warplane.com/personnel/unit-search/p/600031071",
+    "accessed_at": "2026-11-12T18:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "햄프스테드 출생 및 생몰일, 군번 39329, RAF 소속이 적혀 있음을 확인했다."
+    ],
+    "limitations": [
+      "출생증명서 원본을 대조하지 않았다. 1940년 교전의 독립 전과 확증으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "caspir-nicolson"
+  },
+  {
+    "id": "CAT-GB-SRC-0075",
+    "title": "History of Sir Winston Churchill",
+    "institution_or_author": "UK Government / GOV.UK",
+    "publication_date": null,
+    "source_type": "secondary: 영국 정부 인물 소개",
+    "document_or_accession_number": null,
+    "locator": "Born, Died, Political party, Biography",
+    "url": "https://www.gov.uk/government/history/past-prime-ministers/winston-churchill",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "옥스퍼드셔 출생, 생몰연도, 보수당 소속, 1940년 연립정부와 총리 겸 국방장관 직책."
+    ],
+    "limitations": [
+      "후대 전기 개관. 개별 정책의 결정 과정을 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "govuk-pm-churchill"
+  },
+  {
+    "id": "CAT-GB-SRC-0076",
+    "title": "History of Clement Attlee",
+    "institution_or_author": "UK Government / GOV.UK",
+    "publication_date": null,
+    "source_type": "secondary: 영국 정부 인물 소개",
+    "document_or_accession_number": null,
+    "locator": "Born, Died, Political party, Biography",
+    "url": "https://www.gov.uk/government/history/past-prime-ministers/clement-attlee",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "런던 출생, 생몰연도, 노동당 당수, 1942~1945년 부총리 및 1945년 총리직."
+    ],
+    "limitations": [
+      "후대 전기 개관. 개별 직무 위임 문서나 회의록이 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "govuk-pm-attlee"
+  },
+  {
+    "id": "CAT-GB-SRC-0077",
+    "title": "War Cabinet",
+    "institution_or_author": "House of Commons / Hansard",
+    "publication_date": "1940-05-13",
+    "source_type": "primary: 전시내각 명단의 의회 기록",
+    "document_or_accession_number": "HC Deb vol. 360 c. 1497",
+    "locator": "1497단, 1940-05-11 표기 명단",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1940/may/13/war-cabinet",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "처칠 총리 겸 국방장관, 체임벌린, 애틀리 국새상서, 핼리팩스, 그린우드의 명단."
+    ],
+    "limitations": [
+      "시점별 명단이다. 개인별 역할이나 이후 개편을 단독으로 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hansard-1940-war-cabinet-list"
+  },
+  {
+    "id": "CAT-GB-SRC-0078",
+    "title": "His Majesty’s Government",
+    "institution_or_author": "House of Commons / Hansard",
+    "publication_date": "1940-05-13",
+    "source_type": "primary: 하원 발언 및 표결 기록",
+    "document_or_accession_number": "HC Deb vol. 360 cc. 1501–1525, Division No. 62",
+    "locator": "1501~1503단의 처칠과 리스스미스 발언, Division No. 62 표결과 결의",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1940/may/13/his-majestys-government-1",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "처칠이 설명한 국왕의 위임과 5인 전시내각, 리스스미스가 보고한 노동당 참여 과정, 찬성 381·반대 0 표결."
+    ],
+    "limitations": [
+      "처칠과 리스스미스는 같은 토론에서 각자의 관여를 공개 설명했다. 비공개 협상 경위는 추가 사료가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hansard-1940-coalition-debate"
+  },
+  {
+    "id": "CAT-GB-SRC-0079",
+    "title": "A guide to researching working-class history",
+    "institution_or_author": "Churchill Archives Centre",
+    "publication_date": null,
+    "source_type": "secondary: 소장기관 연구 안내",
+    "document_or_accession_number": "연결 소장군 BEVN, 전시 연설 BEVN II 1",
+    "locator": "Archive of Ernest Bevin, Second World War, Trade unions",
+    "url": "https://archives.chu.cam.ac.uk/collections/research-guides/working-class-history/",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "노동조합 지도자 경력과 전시 노동·국민복무장관, 이후 외무장관 경력을 확인했다."
+    ],
+    "limitations": [
+      "기관 해설만 확인했다. 연결된 소장 자료 원본은 열람하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "churchill-archives-bevin-guide"
+  },
+  {
+    "id": "CAT-GB-SRC-0080",
+    "title": "Coalmining (Compulsory Recruitment)",
+    "institution_or_author": "Ernest Bevin 및 하원의원 / Hansard",
+    "publication_date": "1943-12-02",
+    "source_type": "primary: 전시 정책 발표 및 질의",
+    "document_or_accession_number": "HC Deb vol. 395 cc. 521–529",
+    "locator": "521~529단, 대상·추첨·훈련·배치 및 북아일랜드 질의",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1943/dec/02/coalmining-compulsory-recruitment",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대상자 선정 방식, 두 부처의 훈련·배치 분담, 북아일랜드 적용 제외 설명과 하원 질의."
+    ],
+    "limitations": [
+      "발표 및 질의 기록. 당일 실제 배치나 법적 근거 원문은 별도다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hansard-bevin-coal-1943"
+  },
+  {
+    "id": "CAT-GB-SRC-0081",
+    "title": "Directed Mineworkers",
+    "institution_or_author": "Ernest Bevin / House of Commons, Hansard",
+    "publication_date": "1945-02-15",
+    "source_type": "primary: 하원 질의에 대한 전시 장관 답변",
+    "document_or_accession_number": "HC Deb vol. 408 cc. 363–364",
+    "locator": "363~364단, 제2번 질의와 장관 답변",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1945/feb/15/directed-mineworkers",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944-03-01~1945-01-27에 18,794명 근무 지시, 그중 17,293명 훈련 진입."
+    ],
+    "limitations": [
+      "장관이 밝힌 기간 집계로 전체 징발, 훈련 수료, 실제 지하 근무와 생산량은 알 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hansard-bevin-coal-1945"
+  },
+  {
+    "id": "CAT-GB-SRC-0082",
+    "title": "Voices in the Coalshed: VE Day",
+    "institution_or_author": "National Coal Mining Museum for England",
+    "publication_date": "2025-04-30",
+    "source_type": "secondary: 박물관 해설",
+    "document_or_accession_number": null,
+    "locator": "From December 14th, 1943 단락",
+    "url": "https://www.ncm.org.uk/news/voices-in-the-coalshed-ve-day/",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 12월 14일 징발 시행과 등록번호 추첨 방식의 후대 서술."
+    ],
+    "limitations": [
+      "시행일의 별도 원장과 박물관 글의 총계는 검증하지 않았다. 하원 답변의 기간 집계를 대체하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ncm-coal-conscription-overview"
+  },
+  {
+    "id": "CAT-GB-SRC-0083",
+    "title": "Thompson Minutes — Tenth Plenary Meeting, Potsdam",
+    "institution_or_author": "Llewellyn E. Thompson / U.S. Department of State",
+    "publication_date": "1945-07-28 회의",
+    "source_type": "primary: 미국 측 회의록의 공개 편찬본",
+    "document_or_accession_number": "Truman Papers / FRUS Berlin 1945 vol. II, unnumbered document following 710 (#130)",
+    "locator": "제10차 전체회의, 464~465쪽, §2 Italian Reparations",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv02/d710a-130",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 배상에서 애틀리가 설비 일회성 반출을 질의하고 베빈이 기존 지원의 우선을 언급했다."
+    ],
+    "limitations": [
+      "미국 측 회의 요약이다. 영국 내부 지시나 합의문의 개인별 기여를 확정하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "frus-thompson-minutes"
+  },
+  {
+    "id": "CAT-GB-SRC-0084",
+    "title": "Report on the Tripartite Conference of Berlin",
+    "institution_or_author": "미국·영국·소련 정부 / U.S. Department of State 편찬",
+    "publication_date": "1945-08-02 공개",
+    "source_type": "primary: 공개 공동보고의 편찬본",
+    "document_or_accession_number": "Truman Papers / FRUS Berlin 1945 vol. II, document 1384",
+    "locator": "1499~1502쪽, I. Report on the Tripartite Conference of Berlin 및 III. Germany",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv02/d1384",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "처칠과 애틀리·베빈의 회담 참석 시점 및 독일 점령의 정치·경제 원칙에 관한 공동 합의 발표."
+    ],
+    "limitations": [
+      "공개 합의 요약이다. 조항별 제안자, 비공개 토론, 이후 집행은 확인 범위 밖이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "potsdam-final-communique"
+  },
+  {
+    "id": "CAT-GB-SRC-0085",
+    "title": "Mr Ernest Bevin",
+    "institution_or_author": "UK Parliament / Historic Hansard",
+    "publication_date": null,
+    "source_type": "secondary: 의회 인물·발언 색인",
+    "document_or_accession_number": null,
+    "locator": "인물 표제 및 Constituencies",
+    "url": "https://api.parliament.uk/historic-hansard/people/mr-ernest-bevin/index.html",
+    "accessed_at": "2026-11-12T20:54:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "베빈의 생몰연도 및 1940년부터 완즈워스 센트럴 의석 기록."
+    ],
+    "limitations": [
+      "후대 색인이다. 출생 증명서나 정부 임명 문서로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hansard-bevin-person-index"
+  },
+  {
+    "id": "CAT-GB-SRC-0086",
+    "title": "Letter to Winston Churchill (1941)",
+    "institution_or_author": "Alan Turing, Gordon Welchman, Hugh Alexander, Stuart Milner-Barry / B. Jack Copeland 편",
+    "publication_date": "1941-10-21 작성, 2004 편찬",
+    "source_type": "primary: 당대 공동 서한의 출판 전사본",
+    "document_or_accession_number": "The National Archives HW 1/155 / The Essential Turing ch. 7",
+    "locator": "336~337쪽 편집자 서문과 소장번호, 338~340쪽 편지 본문 §§1~3 및 서명",
+    "url": "https://webhomes.maths.ed.ac.uk/~v1ranick/turingletter.pdf",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "네 서명자, 트래비스의 장비 조달 기여, 해군·육군·공군 암호 업무의 인력 부족과 증원 요청."
+    ],
+    "limitations": [
+      "공동 요청서가 설명한 병목이다. 실제 증원 규모나 업무 처리 개선은 인사 기록과 대조해야 한다."
+    ],
+    "rights": "편찬본은 편지·총리 메모에 Crown copyright 및 허가 재현을 표시한다. 자체 요약과 링크만 사용.",
+    "independence_group": "gc-cs-letter-hw-1-155"
+  },
+  {
+    "id": "CAT-GB-SRC-0087",
+    "title": "Alan Turing",
+    "institution_or_author": "Government Communications Headquarters (GCHQ)",
+    "publication_date": "2019-07-11",
+    "source_type": "secondary: 후신 기관의 인물 소개",
+    "document_or_accession_number": null,
+    "locator": "도입부, Bletchley Park, After the War의 생몰 정보",
+    "url": "https://www.gchq.gov.uk/information/alan-turing",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "출생지·생몰연도, 1939년 9월 GC&CS 합류, 제8실 해군 암호 업무 및 폴란드 연구와 영국 봄브의 관련성."
+    ],
+    "limitations": [
+      "기관 전기다. 개별 설계 도면과 팀별 공헌의 원기록은 별도 확인이 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "gchq-turing-profile"
+  },
+  {
+    "id": "CAT-GB-SRC-0088",
+    "title": "Joan Clarke",
+    "institution_or_author": "Government Communications Headquarters (GCHQ)",
+    "publication_date": "2019-07-15",
+    "source_type": "secondary: 후신 기관의 인물 소개",
+    "document_or_accession_number": null,
+    "locator": "PDF 1쪽 첫 문단 및 발행일",
+    "url": "https://www.gchq.gov.uk/sites/default/files/pdfs/publication/joan-clarke.pdf",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "웰치먼의 영입, 제8실 배치와 반버리즘을 적용한 분석 업무."
+    ],
+    "limitations": [
+      "수치화한 작업 절감이나 직책 임명일은 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "gchq-clarke-profile"
+  },
+  {
+    "id": "CAT-GB-SRC-0089",
+    "title": "CLARKE, Joan (1917–1996)",
+    "institution_or_author": "English Heritage",
+    "publication_date": null,
+    "source_type": "secondary: 블루 플라크 인물 해설",
+    "document_or_accession_number": "West Dulwich, 193 Rosendale Road, 2024년 설치",
+    "locator": "Early life, Bletchley code-breaking, D-Day and SOE, Later life",
+    "url": "https://www.english-heritage.org.uk/visit/blue-plaques/joan-clarke/",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "덜위치 출생, 생몰연도, 1940년 제8실 배치, 선임 업무 및 1944년 9월 부책임자라는 서술."
+    ],
+    "limitations": [
+      "임명 원문이 연결되지 않으며 MacTutor의 1944년 초와 상충한다."
+    ],
+    "rights": "English Heritage와 개별 사진 권리자 표기. 사진 없이 자체 요약과 링크만 사용.",
+    "independence_group": "english-heritage-clarke"
+  },
+  {
+    "id": "CAT-GB-SRC-0090",
+    "title": "Joan Elisabeth Lowther Clarke Murray",
+    "institution_or_author": "Lynsey Ann Lord / University of St Andrews, MacTutor",
+    "publication_date": "2008-07 최종 갱신",
+    "source_type": "secondary: 수학사 인물 전기",
+    "document_or_accession_number": null,
+    "locator": "Biography, Deputy Head in early 1944 문단 및 References",
+    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clarke_Joan/",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제8실 부책임자 시점을 1944년 초로 서술함을 확인."
+    ],
+    "limitations": [
+      "인용·참고문헌이 있는 후대 전기다. 해당 날짜의 인사 원문은 열람하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "mactutor-clarke"
+  },
+  {
+    "id": "CAT-GB-SRC-0091",
+    "title": "Radar apparatus used by R.Watson Watt in 1935",
+    "institution_or_author": "Science Museum Group",
+    "publication_date": "1935-02 사용, 웹 목록 발행일 미표기",
+    "source_type": "primary: 소장 실물 / secondary: 실험 날짜와 참여자에 관한 목록 해설",
+    "document_or_accession_number": "1957-90, 수신기 1957-90/1",
+    "locator": "Parts, 수신기 1957-90/1의 More와 Object Number",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co35028/radar-apparatus-used-by-rwatson-watt-in-1935",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장 수신기의 식별과 해설이 제시하는 1935-02-26 시연 및 왓슨와트의 관측 참여."
+    ],
+    "limitations": [
+      "물건은 당대 자료이며 시연 서술은 후대 목록이다. 현장 시험일지는 별도 미확보다."
+    ],
+    "rights": "소장품 이미지에 Science Museum Group 권리 표기. 사진 없이 자체 요약과 링크만 사용.",
+    "independence_group": "smg-receiver-1957-90"
+  },
+  {
+    "id": "CAT-GB-SRC-0092",
+    "title": "Radio Research at Ditton Park — IV Radiolocation",
+    "institution_or_author": "G. Gardiner / Radio Research Organization",
+    "publication_date": "1962-04-15",
+    "source_type": "secondary: 연구기관의 후대 역사 기사",
+    "document_or_accession_number": "Radio Research Organization Newsletter No. 12",
+    "locator": "IV Radiolocation, 1935년 2월 메모와 대번트리 시연 단락",
+    "url": "https://www.dittonpark-archive.rl.ac.uk/histarticles.html",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "윌킨스·왓슨와트의 공동 검토, 왓슨와트 메모 초안, 윌킨스의 시연 수행 및 다이어의 지원."
+    ],
+    "limitations": [
+      "1962년 기관 회고이며 당대 메모와 실험 일지의 원본은 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ditton-park-gardiner-1962"
+  },
+  {
+    "id": "CAT-GB-SRC-0093",
+    "title": "Sir Robert Watson-Watt",
+    "institution_or_author": "National Physical Laboratory (NPL)",
+    "publication_date": null,
+    "source_type": "secondary: 기관의 연구사·인물 소개",
+    "document_or_accession_number": null,
+    "locator": "Wimperis 접근, 1935년 시연과 1936년 바우드지 연구소 문단",
+    "url": "https://www.npl.co.uk/about-us/history/famous/sir-robert-watson-watt",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "NPL 무선 연구 책임자, 윌킨스와 메모 준비, 1935-02-26 시연 및 1936년 항공부 바우드지 연구소 책임자."
+    ],
+    "limitations": [
+      "기관 개관이다. 시험의 원측정값이나 부서 인사 발령 원문은 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "npl-watson-watt-profile"
+  },
+  {
+    "id": "CAT-GB-SRC-0094",
+    "title": "Sir Robert Alexander Watson-Watt, FRS (1892–1973)",
+    "institution_or_author": "UK Solar System Data Centre (UKSSDC)",
+    "publication_date": null,
+    "source_type": "secondary: 기관 인물 소개",
+    "document_or_accession_number": null,
+    "locator": "인물 소개 첫 두 문단",
+    "url": "https://www.ukssdc.ac.uk/ionosondes/history/watsonwatt.html",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "브리킨 출생, 생몰연도, 1940년 항공부 과학고문과 1941년 미국 레이더 업무 서술."
+    ],
+    "limitations": [
+      "미국 근무의 파견 명령·상대 기관 문서는 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ukssdc-watson-watt-profile"
+  },
+  {
+    "id": "CAT-GB-SRC-0095",
+    "title": "How I learned to stop worrying and love the Bombe: Machine Research and Development and Bletchley Park",
+    "institution_or_author": "Christopher Smith / History of Science, Coventry University 저자 수락본 공개",
+    "publication_date": "2014",
+    "source_type": "secondary: 학술 논문 저자 수락본",
+    "document_or_accession_number": "DOI 10.1177/0073275314529861 / 52(2), 200~222쪽",
+    "locator": "수락본 제목 Mechanising the Information War, Abstract 및 각주 42~46 주변",
+    "url": "https://pure.coventry.ac.uk/ws/portalfiles/portal/13619403/mechanising_the_information_war_4_2_.pdf",
+    "accessed_at": "2026-11-12T22:54:21+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "GC&CS의 설계·개발과 BTM 제작 계약, 제작 자원 배분과 병목을 확인했다."
+    ],
+    "limitations": [
+      "편찬본 원문과 다른 형식의 수락본을 열람했다. 인용한 발주 문서 원본은 미대조."
+    ],
+    "rights": "저자 또는 권리자 권리 보유. 자체 요약과 링크만 사용.",
+    "independence_group": "smith-bombe-history-2014"
+  },
+  {
+    "id": "CAT-GB-SRC-0096",
+    "title": "War Situation",
+    "institution_or_author": "UK House of Commons, Hansard",
+    "publication_date": "1940-06-04",
+    "source_type": "primary: 하원 당일 의사록 디지털 전사",
+    "document_or_accession_number": "HC Deb vol 361 cc787–798",
+    "locator": "열 787–789 첫 발언과 철수 경위, 열 795–796 결말",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1940/jun/04/war-situation",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "처칠 총리의 덩케르크 철수 보고와 항전 발언."
+    ],
+    "limitations": [
+      "텍스트 자료. 현장 영상·음성 보존 여부를 알려주지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-hansard-1940-06-04"
+  },
+  {
+    "id": "CAT-GB-SRC-0097",
+    "title": "Churchill Recordings: Speeches and Memoirs",
+    "institution_or_author": "Ronald I. Cohen / Hillsdale College Churchill Project",
+    "publication_date": "2016-11-18",
+    "source_type": "secondary: 상용 음반·녹음 서지",
+    "document_or_accession_number": "Decca 6, London XL.12, Decca LXT 6200 외",
+    "locator": "서문의 Commons 정의 및 The Speeches → 1940 → 4 June",
+    "url": "https://winstonchurchill.hillsdale.edu/churchill-recordings-speeches-memoirs/",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "하원 연설 이후 녹음이라는 표기와 6월 4일자 음반 목록."
+    ],
+    "limitations": [
+      "편자의 수집품 중심 목록. 각 매체의 녹음 날짜, 완전성, 미공개 방송 소장분은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "cohen-churchill-discography"
+  },
+  {
+    "id": "CAT-GB-SRC-0098",
+    "title": "Congressional Record — House, Friday, December 26, 1941",
+    "institution_or_author": "U.S. Congress / Government Printing Office",
+    "publication_date": "1941-12-26",
+    "source_type": "primary: 의회 당일 의사록",
+    "document_or_accession_number": "77th Congress, 1st Session, Part 9",
+    "locator": "10119쪽 Order of Business 및 Recess",
+    "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1941-pt9/pdf/GPO-CRECB-1941-pt9-22-2.pdf",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "오후 12시 30분으로 알린 상원 회의장 연설 일정과 하원 초청."
+    ],
+    "limitations": [
+      "공지 시각이며 실제 연설 개시 시각을 측정한 기록은 아니다. 이 부분에 연설 전문과 촬영 정보는 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-congress-record-1941-12-26"
+  },
+  {
+    "id": "CAT-GB-SRC-0099",
+    "title": "Churchill Addresses Congress",
+    "institution_or_author": "U.S. Senate Historical Office",
+    "publication_date": null,
+    "source_type": "secondary: 상원 역사 해설",
+    "document_or_accession_number": null,
+    "locator": "December 26, 1941, 첫 문단의 촬영과 마지막 문단의 연설 길이",
+    "url": "https://www.senate.gov/artandhistory/history/minute/Churchill_Addresses_Congress.htm",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "상원 회의장의 촬영과 약 30분 연설을 기술한다."
+    ],
+    "limitations": [
+      "날짜 표기는 사건일이다. 촬영분 소장번호 및 길이 산정 근거는 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-senate-historical-office"
+  },
+  {
+    "id": "CAT-GB-SRC-0100",
+    "title": "Mr Churchill’s Visit to the United States and Canada",
+    "institution_or_author": "British Movietone News / Imperial War Museums Film",
+    "publication_date": "1942 제작",
+    "source_type": "primary: 당대 뉴스릴 편집본의 기관 목록",
+    "document_or_accession_number": "COI 414",
+    "locator": "제1릴 Washington 장면, Physical Characteristics, Technical Details",
+    "url": "https://film.iwmcollections.org.uk/record/18023",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "의회 연설 발췌, 의사당 밖 군중의 중계 청취, 영어 유성 및 무자막, 전체 18분."
+    ],
+    "limitations": [
+      "목록 직접 열람. 미디지털화·온라인 미제공 표기로 원필름과 타임코드 미확인."
+    ],
+    "rights": "IWM 목록의 접근 조건 NON-IWM. 별도 권리 확인이 필요하며 원본을 복제하지 않았다.",
+    "independence_group": "coi-414"
+  },
+  {
+    "id": "CAT-GB-SRC-0101",
+    "title": "Prime Minister Winston Churchill’s Address to a Joint Session of Congress",
+    "institution_or_author": "CBS / U.S. National Archives at College Park / DocsTeach",
+    "publication_date": "1941-12-26 녹음",
+    "source_type": "primary: 당대 방송 음원 소장 기록",
+    "document_or_accession_number": "Sound Recording 200.74 / NAID 2194729",
+    "locator": "Description, Citation, Rights",
+    "url": "https://docsteach.org/document/churchill-congress/",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "CBS 컬렉션의 당일 의회 연설 음원, 기록 식별자와 권리 표기."
+    ],
+    "limitations": [
+      "음원 설명과 인용란을 열람했다. 음성 전체와 방송 편집 경계는 미확인."
+    ],
+    "rights": "Copyright Not Evaluated. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-cbs-2194729"
+  },
+  {
+    "id": "CAT-GB-SRC-0102",
+    "title": "Voices of World War II, 1937–1945",
+    "institution_or_author": "U.S. National Archives",
+    "publication_date": null,
+    "source_type": "secondary: 기관 음원 안내 목록",
+    "document_or_accession_number": "200(R)-74",
+    "locator": "1941 → December 26",
+    "url": "https://www.archives.gov/research/military/ww2/sound-recordings.html",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "처칠의 의회 연설로 등록된 소장 음원의 길이 표기 40분."
+    ],
+    "limitations": [
+      "0101과 같은 소장 계통이다. 40분은 목록에 기재된 자료 길이이며 발언 실측값은 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-cbs-2194729"
+  },
+  {
+    "id": "CAT-GB-SRC-0103",
+    "title": "The Unrelenting Struggle: from the speeches of Winston Churchill, 1940–1945",
+    "institution_or_author": "Crown Film Unit / Ministry of Information / Imperial War Museums Film",
+    "publication_date": "1945 제작",
+    "source_type": "primary: 당대 편집 영화의 기관 목록",
+    "document_or_accession_number": "COI 101 / HD COI 101-01·02",
+    "locator": "Description의 마지막 발췌, Physical Characteristics, Technical Details",
+    "url": "https://film.iwmcollections.org.uk/record/4395/media_id/12849",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "5월 8일 방송 발췌에서 처칠의 마이크 장면을 설명한다. 두 릴 전체 17분, 영어 음성·표제, 자막 없음."
+    ],
+    "limitations": [
+      "HD 비디오 항목과 장면 설명은 열람했다. 재생 프레임·음성·타임코드 및 촬영과 방송의 동시성은 미확인."
+    ],
+    "rights": "IWM Attribution: © IWM. 자체 요약과 링크만 사용.",
+    "independence_group": "coi-101"
+  },
+  {
+    "id": "CAT-GB-SRC-0104",
+    "title": "British Movietone News Issue 832 (14 May 1945)",
+    "institution_or_author": "British Movietone News / Imperial War Museums Film",
+    "publication_date": "1945-05-14 제작",
+    "source_type": "primary: 당대 뉴스릴의 기관 목록",
+    "document_or_accession_number": "NMV 832",
+    "locator": "Description → I. Victory",
+    "url": "https://film.iwmcollections.org.uk/record/33076",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "3시 방송, 거리 군중, 버킹엄궁 발코니 장면을 같은 꼭지에 수록."
+    ],
+    "limitations": [
+      "미디지털화·온라인 미제공으로 영상 원본 미확보. 보건부 발코니 연설 장면은 이 설명에서 확인되지 않는다."
+    ],
+    "rights": "IWM 목록의 접근 조건 NON-IWM. 자체 요약과 링크만 사용.",
+    "independence_group": "nmv-832"
+  },
+  {
+    "id": "CAT-GB-SRC-0105",
+    "title": "End of the second world war: 80th anniversary",
+    "institution_or_author": "Sarah Tudor / UK House of Lords Library",
+    "publication_date": "2025-04-29",
+    "source_type": "secondary: 상원 도서관 역사 해설",
+    "document_or_accession_number": null,
+    "locator": "§§1.2–1.3 및 3.1",
+    "url": "https://lordslibrary.parliament.uk/end-of-the-second-world-war-80th-anniversary/",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "5월 8일 오후 3시 방송, 이후 보건부 청사 발코니 즉석 연설, 방송에서 일본과의 전쟁 계속을 언급."
+    ],
+    "limitations": [
+      "여러 사건의 구분을 돕는 해설이다. 촬영·녹음 동기화는 판단할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "lords-library-ve-day"
+  },
+  {
+    "id": "CAT-GB-SRC-0106",
+    "title": "Winston Churchill addresses joint session of US Congress in late 1941",
+    "institution_or_author": "Sherman Grinberg Library / Getty Images",
+    "publication_date": "1941-12-26 촬영, 2017-05-16 업로드",
+    "source_type": "primary: 당대 뉴스릴 영상 클립의 소장처 메타데이터",
+    "document_or_accession_number": "681824770 / sr002439_01_06.mov",
+    "locator": "장면 설명, Editorial #, Date created, Clip length, Originally shot on",
+    "url": "https://www.gettyimages.co.nz/detail/video/tilt-down-rear-shot-standing-ovation-from-joint-session-news-footage/681824770?slot=55",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "장내 마이크 앞 연설과 박수, 35mm 흑백 원매체, 클립 길이 00:00:47:20."
+    ],
+    "limitations": [
+      "장면 설명과 매체 정보를 열람했다. 프레임 링크는 400 응답, 직접 재생과 각 장면 타임코드는 미확인. COI 414와 촬영 계통은 미대조."
+    ],
+    "rights": "Rights-ready, Not released 표시. 자체 요약과 링크만 사용.",
+    "independence_group": "grinberg-681824770"
+  },
+  {
+    "id": "CAT-GB-SRC-0107",
+    "title": "Germany (Unconditional Surrender)",
+    "institution_or_author": "UK House of Commons, Hansard",
+    "publication_date": "1945-05-08",
+    "source_type": "primary: 당일 하원 의사록 디지털 전사",
+    "document_or_accession_number": "HC Hansard, 8 May 1945, col 1869 외",
+    "locator": "Prime Minister’s Announcement 첫 문단, 일본과의 전쟁 및 방송 발언 반복 설명",
+    "url": "https://hansard.parliament.uk/commons/1945-05-08/debates/E357D31F-FB31-497E-BAD9-F85195A3A6D7/Germany%28UnconditionalSurrender%29",
+    "accessed_at": "2026-11-13T00:56:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "처칠이 방금 방송한 발표를 하원에서 반복한다고 밝혔으며 일본과의 전쟁이 계속된다고 말했다."
+    ],
+    "limitations": [
+      "하원 재진술의 텍스트이며 라디오 녹음 및 각 영상판과의 대조가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-hansard-1945-05-08"
+  },
+  {
+    "id": "CAT-GB-SRC-0108",
+    "title": "Additional Number of Royal Air Force",
+    "institution_or_author": "UK House of Commons, Hansard / Sir Kingsley Wood",
+    "publication_date": "1938-07-20",
+    "source_type": "primary: 당대 의회 의사록 전사",
+    "document_or_accession_number": "HC Deb vol 338 cc2351–2388",
+    "locator": "Vote 4, Kingsley Wood의 캐슬브로미치·크루 공장 승인 발언",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1938/jul/20/additional-number-of-royal-air-force",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "너필드의 캐슬브로미치 신공장과 롤스로이스 엔진을 만들 크루 분산 공장 건설 승인 발표."
+    ],
+    "limitations": [
+      "착공·가동·납품 실적 또는 공장별 최종 비용을 증명하지 않는다."
+    ],
+    "rights": "UK Parliament 의사록, 자체 요약 및 링크.",
+    "independence_group": "uk-hansard-1938-07-20"
+  },
+  {
+    "id": "CAT-GB-SRC-0109",
+    "title": "Records of the British Aviation Industry in the RAF Museum: A Brief Guide",
+    "institution_or_author": "Royal Air Force Museum",
+    "publication_date": null,
+    "source_type": "secondary: 소장 원기록 안내 및 기업사",
+    "document_or_accession_number": "AC 70/4, L35, B258–264 및 B266",
+    "locator": "3쪽 The British Aircraft Industry, 14–15쪽 Supermarine 및 Vickers Ltd",
+    "url": "https://www.rafmuseum.org.uk/documents/Research/Company-Papers/Guide-to-Aircraft-Industry-Records.pdf",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "국가 소유·민간 운영 분산 공장 제도의 개요, 1938년 10월 슈퍼마린의 비커스-암스트롱스 편입, 월별 생산표 소장처."
+    ],
+    "limitations": [
+      "소장 안내의 해설을 열람했다. L35 생산표 본문과 소유권·운영 계약 원본은 미열람이다."
+    ],
+    "rights": "RAF Museum 공개 PDF. 자체 요약과 링크만 사용.",
+    "independence_group": "rafm-aircraft-record-guide"
+  },
+  {
+    "id": "CAT-GB-SRC-0110",
+    "title": "Individual History: Supermarine Spitfire Mk.VB BL614/4354M",
+    "institution_or_author": "Royal Air Force Museum",
+    "publication_date": null,
+    "source_type": "secondary: 현존 기체의 개체 이력 및 당대 기록 요약",
+    "document_or_accession_number": "82/A/1716 / BL614 / B981687/39",
+    "locator": "Section 2B, 1쪽, 1940년 10월 24일 및 1941년 12월~1942년 2월 7일 항목",
+    "url": "https://www.rafmuseum.org.uk/documents/collections/82-A-1716-Spitfire-VB-BL614.pdf",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "계약번호·공장·첫 비행·RAF 정비부대 및 비행대 이동의 순서."
+    ],
+    "limitations": [
+      "기체 한 대의 이력이다. 서명된 계약과 이동 카드 원본은 미확보다."
+    ],
+    "rights": "RAF Museum 공개 PDF. 자체 요약과 링크만 사용.",
+    "independence_group": "rafm-bl614-individual-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0111",
+    "title": "Winston Churchill watches a female riveter at work on a Supermarine Spitfire at the Castle Bromwich factory in Birmingham, 28 September 1941",
+    "institution_or_author": "Captain Horton / Imperial War Museums",
+    "publication_date": "1941-09-28 촬영",
+    "source_type": "primary: 당대 현장 사진 디지털 미리보기",
+    "document_or_accession_number": "H 14259 / IWM object 205196617",
+    "locator": "IWM Prints의 사진·Description·Additional information",
+    "url": "https://www.iwmprints.org.uk/collections/photos/products/pod446234",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐슬브로미치 공장의 여성 리벳 작업 장면과 촬영일·장소·촬영자."
+    ],
+    "limitations": [
+      "방문 중 촬영한 한 장면이다. 근로자 성명·고용 형태·인원 구성은 확인되지 않는다."
+    ],
+    "rights": "© IWM. 미리보기 열람, 사진 미복제.",
+    "independence_group": "iwm-h14259"
+  },
+  {
+    "id": "CAT-GB-SRC-0112",
+    "title": "Factory, Castle Bromwich (Agreement)",
+    "institution_or_author": "UK House of Commons, Hansard / John Wilmot",
+    "publication_date": "1946-10-21",
+    "source_type": "primary: 전시 협정에 대한 전후 공급장관 답변",
+    "document_or_accession_number": "HC Deb vol 427 cc1297–1298",
+    "locator": "질문 38–39, Wilmot 답변",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1946/oct/21/factory-castle-bromwich-agreement",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 협정상 채용·조달·생산 조직을 기업이 책임지고 적정 발생 비용을 돌려받았다는 장관 설명."
+    ],
+    "limitations": [
+      "협정 원문, 운영 인계일과 회사별 실제 지급액은 이 답변에 없다."
+    ],
+    "rights": "UK Parliament 의사록, 자체 요약 및 링크.",
+    "independence_group": "uk-hansard-1946-10-21"
+  },
+  {
+    "id": "CAT-GB-SRC-0113",
+    "title": "Rolls-Royce 'Merlin III' Aero Engine",
+    "institution_or_author": "Rolls-Royce Limited / Science Museum Group",
+    "publication_date": "1939–1940 제작",
+    "source_type": "primary: 현존 엔진과 소장기록",
+    "document_or_accession_number": "1954-660 Pt10",
+    "locator": "Made, maker, Details, credit",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co30080/rolls-royce-merlin-iii-aero-engine",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "더비 제작 Merlin III와 제작 법인명, 항공부 역사부 인수 계통."
+    ],
+    "limitations": [
+      "현존 한 점이며 더비 전체 물량 또는 어느 기체에 장착됐는지 입증하지 않는다."
+    ],
+    "rights": "사진 © Science Museum 이사회. 목록 데이터 CC0, 설명 CC BY 4.0. 사진 미복제.",
+    "independence_group": "smg-merlin-iii"
+  },
+  {
+    "id": "CAT-GB-SRC-0114",
+    "title": "Merlin 45 Aeroplane Engine",
+    "institution_or_author": "Rolls-Royce Ltd / Science Museum Group",
+    "publication_date": "약 1941년 제작",
+    "source_type": "primary: 현존 엔진과 소장기록",
+    "document_or_accession_number": "Y1969.41",
+    "locator": "Made, 본문, Details·Object Number",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8404794/merlin-45-aeroplane-engine-aeroplane-engine",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "크루에서 제작한 Merlin 45 실물, 주 적용 기종 Spitfire V, 후대 교육용 절개와 모터 장착."
+    ],
+    "limitations": [
+      "이 엔진의 개별 탑재·납품 기록이나 크루 전체 생산량은 확인되지 않는다."
+    ],
+    "rights": "사진 CC BY-NC-SA 4.0, 목록 데이터 CC0, 설명 CC BY 4.0. 사진 미복제.",
+    "independence_group": "smg-merlin-45"
+  },
+  {
+    "id": "CAT-GB-SRC-0115",
+    "title": "Pyms Lane: The Story of the Pyms Lane Factory",
+    "institution_or_author": "Crewe Heritage Centre",
+    "publication_date": null,
+    "source_type": "secondary: 지역 산업 유산 해설",
+    "document_or_accession_number": null,
+    "locator": "The Story of the Pyms Lane Factory 첫 두 문단",
+    "url": "https://www.crewehc.co.uk/pyms-lane",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "더비 생산 분산 목적, 크루 Pyms Lane의 전시 항공엔진 생산과 고용에 대한 서술."
+    ],
+    "limitations": [
+      "원 생산원장과 고용 명부는 제시되지 않는다. 인원 산정 기준일과 집계 정의는 미확인이다."
+    ],
+    "rights": "공개 해설. 자체 요약과 링크만 사용.",
+    "independence_group": "crewe-heritage-centre"
+  },
+  {
+    "id": "CAT-GB-SRC-0116",
+    "title": "General Electric Company plc",
+    "institution_or_author": "Science Museum Group",
+    "publication_date": null,
+    "source_type": "secondary: 기업 권위기록 및 소장자료 안내",
+    "document_or_accession_number": "ap314 / GEC/3/1–11",
+    "locator": "법인 연혁, 제2차 세계대전 문단, Related Documents",
+    "url": "https://collection.sciencemuseumgroup.org.uk/people/ap314",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 법인명 계통, 웸블리 연구소와 코번트리 전화기 공장, 전시 통신·조명 활동."
+    ],
+    "limitations": [
+      "웹 표제에는 후대 명칭을 쓴다. 조명·통신의 공장별 생산과 구체적 납품은 미확인이다."
+    ],
+    "rights": "공개 목록. 자체 요약과 링크만 사용.",
+    "independence_group": "smg-gec-authority"
+  },
+  {
+    "id": "CAT-GB-SRC-0117",
+    "title": "GEC Wembley Laboratories and the Cavity Magnetron",
+    "institution_or_author": "Institution of Engineering and Technology Archives",
+    "publication_date": null,
+    "source_type": "secondary: 기술 기록관 해설",
+    "document_or_accession_number": null,
+    "locator": "버밍엄 실험 및 Megaw의 웸블리 연구팀, 마지막 시험 문단",
+    "url": "https://www.theiet.org/membership/library-and-archives/the-iet-archives/archives-highlights/gec-wembley-laboratories-and-the-cavity-magnetron",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "버밍엄대 원형과 GEC 웸블리의 실용형 개발 분담, 1940년 6월 29일 시제품 시험, 초기 연구소 제작."
+    ],
+    "limitations": [
+      "시험일지·계약 원문과 양산 공장별 실적은 미확보다."
+    ],
+    "rights": "공개 해설. 자체 요약과 링크만 사용.",
+    "independence_group": "iet-gec-wembley-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0118",
+    "title": "Original cavity magnetron",
+    "institution_or_author": "John Randall 및 Harry Boot / Science Museum Group",
+    "publication_date": "1940 제작",
+    "source_type": "primary: 실험 장치 실물과 소장기록",
+    "document_or_accession_number": "1946-107",
+    "locator": "Description, Details·Object Number, credit",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co34430/original-cavity-magnetron",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "버밍엄 연구팀의 실험 장치와 연구자 귀속."
+    ],
+    "limitations": [
+      "초기 실험 실물이며 GEC 초기 납품이나 공장 양산 실적의 근거로 사용하지 않았다."
+    ],
+    "rights": "사진 © Science Museum 이사회, 목록 데이터 CC0, 설명 CC BY 4.0. 사진 미복제.",
+    "independence_group": "smg-randall-boot-1946-107"
+  },
+  {
+    "id": "CAT-GB-SRC-0119",
+    "title": "Rolls Royce Factory, Crewe",
+    "institution_or_author": "National Transport Trust",
+    "publication_date": null,
+    "source_type": "secondary: 공장 유산 해설",
+    "document_or_accession_number": null,
+    "locator": "About Rolls Royce Factory, Crewe의 전시 문단",
+    "url": "https://www.nationaltransporttrust.org.uk/heritage-sites/heritage-detail/rolls-royce-factory-crewe",
+    "accessed_at": "2026-11-13T02:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 정점 고용 10,000명이라는 유산 기관 서술."
+    ],
+    "limitations": [
+      "크루 지역 해설과 공통 원자료 사용 여부 미확인. 급여대장이나 교대 명부에 의한 독립 확증은 아니다."
+    ],
+    "rights": "공개 해설. 자체 요약과 링크만 사용.",
+    "independence_group": "crewe-heritage-secondary"
+  },
+  {
+    "id": "CAT-GB-SRC-0120",
+    "title": "Statistical Digest of the War",
+    "institution_or_author": "UK Central Statistical Office / Registrars General",
+    "publication_date": "1951",
+    "source_type": "primary: 전시 정부 통계 집성 원간행물 스캔",
+    "document_or_accession_number": "History of the Second World War, United Kingdom Civil Series",
+    "locator": "표 1 Population of the United Kingdom, 표 2 1939-06-30, 1939·1943 각주 / 자원 재열람: 표 83–85(pp. 87–92), 표 92(pp. 105–106), 표 100(pp. 117–118)과 해당 설명",
+    "url": "https://www.generalstaff.org/WW2/Hist_UK/StatisticalDigestOfWar_VarA.pdf",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939–1945 본토 연중 추계, 1940–1945 민간 계열, 지역별 수치와 인구 정의.",
+      "전시 석유 해상 도착·수입유 정제·국내 원료 제품, 조강 생산, 천연·합성고무 계열을 재열람했다."
+    ],
+    "limitations": [
+      "정부 원자료를 전후에 집성했다. 1939년 현주와 1940년 이후 총인구의 집계 범위가 다르며 표 1에는 1943년 민간 계열 범위 변경이 있다.",
+      "석유 표 85는 국내 원유 채굴량과 합성유만의 생산량을 따로 제시하지 않는다. 고무 소비에는 표 설명에 따라 수출이 포함된다."
+    ],
+    "rights": "HMSO 간행물 스캔. 수치 발췌와 자체 요약, 이미지 미복제.",
+    "independence_group": "uk-registrars-general",
+    "additional_accessed_at": "2026-11-13T09:02:44+09:00"
+  },
+  {
+    "id": "CAT-GB-SRC-0121",
+    "title": "Annual Abstract of Statistics No. 85, 1937–1947",
+    "institution_or_author": "UK Central Statistical Office / Registrars-General",
+    "publication_date": "1948",
+    "source_type": "primary: 정부 통계 연감 원간행물 스캔",
+    "document_or_accession_number": "No. 85",
+    "locator": "인쇄 7쪽 표 6 Population of the United Kingdom, 1939·1945 행 및 각주",
+    "url": "https://escoe-website.s3.amazonaws.com/wp-content/uploads/2022/12/11173048/Annual-Abstract-of-Statistics-1937-1947.pdf",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 47,762천 명, 1945년 49,150천 명과 스코틀랜드 5,155천 명, 1940년 집계 정의 변경."
+    ],
+    "limitations": [
+      "120과 같은 등록기관 계열이며 독립 관측이 아니다. 1945년 스코틀랜드 32천 명 차이의 원인은 표만으로 확인되지 않는다."
+    ],
+    "rights": "HMSO 간행물 스캔. 수치 발췌와 자체 요약, 이미지 미복제.",
+    "independence_group": "uk-registrars-general"
+  },
+  {
+    "id": "CAT-GB-SRC-0122",
+    "title": "NHS Central Register: About the 1939 National Identity Register",
+    "institution_or_author": "National Records of Scotland",
+    "publication_date": null,
+    "source_type": "secondary: 등록 원기록 보존기관 해설",
+    "document_or_accession_number": "GRO7/23–56",
+    "locator": "About the 1939 National Identity Register 및 Information in the NRS catalogue",
+    "url": "https://www.nrscotland.gov.uk/statistics-and-data/nhs-central-register/",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-09-29 Great Britain과 Northern Ireland의 민간 등록, 신분증·배급 등 행정 목적."
+    ],
+    "limitations": [
+      "보존기관 해설을 열람했다. 지역별 명부 원자료와 등록 누락 인원은 미확인이다."
+    ],
+    "rights": "웹페이지 Crown copyright, 별도 명시 제외 OGL v3.0.",
+    "independence_group": "nrs-1939-register"
+  },
+  {
+    "id": "CAT-GB-SRC-0123",
+    "title": "Census of India, 1941, Volume I, Part I: India, Tables",
+    "institution_or_author": "M. W. M. Yeatts / Census Commissioner of India",
+    "publication_date": "1943",
+    "source_type": "primary: 1941년 인구조사 원보고서",
+    "document_or_accession_number": "Dspace_123456789_2585 / 21325_1941_TAB.pdf",
+    "locator": "20쪽 Operation, 표 I Area, Houses and Population의 설명·INDIA/PROVINCES/STATES AND AGENCIES 행, 표 II",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/32422/download/35603/21325_1941_TAB.pdf",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941-03-01 일출 기준 인도 합계, 직할 주 등과 번왕국·관할기관의 분리, 일부 변경지 추계와 버마·아덴 제외."
+    ],
+    "limitations": [
+      "조사 기준일은 공통이나 실제 조사일은 지역마다 달랐다. 북서 변경지 일부는 추정이고 전체가 실측값은 아니다."
+    ],
+    "rights": "소장기관 기록에 ORGI 권리 표시. 수치 발췌와 자체 요약, 페이지 미복제.",
+    "independence_group": "census-india-1941"
+  },
+  {
+    "id": "CAT-GB-SRC-0124",
+    "title": "Population Statistics",
+    "institution_or_author": "UK House of Commons / Secretary of State for India Leopold Amery",
+    "publication_date": "1943-02-04",
+    "source_type": "primary: 전시 의회 질의와 정부 답변",
+    "document_or_accession_number": "HC Deb vol 386 c1042, 질문 40",
+    "locator": "Amery의 1941 Census 총인구 답변",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1943/feb/04/population-statistics",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 인도 총인구 389,000,000명이라는 반올림 공표."
+    ],
+    "limitations": [
+      "123과 같은 인구조사 계통이다. 정치적 해석이나 인과관계는 수치의 검증에 사용하지 않았다."
+    ],
+    "rights": "의회 공개 의사록. 자체 요약 및 링크.",
+    "independence_group": "census-india-1941"
+  },
+  {
+    "id": "CAT-GB-SRC-0125",
+    "title": "Canada Year Book, 1943–44: Population",
+    "institution_or_author": "Canada Dominion Bureau of Statistics",
+    "publication_date": "1943–44판",
+    "source_type": "primary: 전시 공식 연감의 인구조사 집계",
+    "document_or_accession_number": "Canada Year Book 1943–44",
+    "locator": "85쪽 표 7 Area and Density of Population, by Counties or Census Divisions, 1941, Canada 행",
+    "url": "https://www66.statcan.gc.ca/eng/1943-44/194301550085_p.%2085.pdf",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 캐나다 인구 11,506,655명."
+    ],
+    "limitations": [
+      "집계 기준일은 126으로 확인했다. 전체 명부나 해외 복무자 포함 세칙은 별도 확인이 필요하다."
+    ],
+    "rights": "Statistics Canada 공개 스캔. 표 수치만 발췌하고 이미지 미복제.",
+    "independence_group": "census-canada-1941"
+  },
+  {
+    "id": "CAT-GB-SRC-0126",
+    "title": "Eighth census of Canada, 1941",
+    "institution_or_author": "Canada Dominion Bureau of Statistics / Government of Canada Publications",
+    "publication_date": null,
+    "source_type": "secondary: 공식 간행물 서지·권별 안내",
+    "document_or_accession_number": "CS98-1941-PDF / 9.833108",
+    "locator": "권별 요약 중 Vol. 2 Population by local subdivisions",
+    "url": "https://publications.gc.ca/site/eng/9.833108/publication.html",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제8차 인구조사 제2권의 기준일을 1941-06-02로 명시."
+    ],
+    "limitations": [
+      "원본 제2권 전체가 아닌 정부 서지의 기준일 설명을 열람했다."
+    ],
+    "rights": "정부 공개 서지. 자체 요약 및 링크.",
+    "independence_group": "census-canada-1941"
+  },
+  {
+    "id": "CAT-GB-SRC-0127",
+    "title": "Statute of Westminster, 1931",
+    "institution_or_author": "UK Parliament",
+    "publication_date": "1931-12-11",
+    "source_type": "primary: 당대 법률 제정본",
+    "document_or_accession_number": "22 Geo. 5 c. 4",
+    "locator": "서문 및 제1·4·7조",
+    "url": "https://www.legislation.gov.uk/ukpga/1931/4/pdfs/ukpga_19310004_en.pdf",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐나다 도미니언의 지위와 도미니언 법률 적용에 관한 규정."
+    ],
+    "limitations": [
+      "인구 자료가 아니다. 전시 캐나다 인구를 UK 본토 계열과 분리하는 제도 근거로 사용했다."
+    ],
+    "rights": "영국 공식 법령 스캔. 자체 요약 및 링크.",
+    "independence_group": "uk-statute-westminster"
+  },
+  {
+    "id": "CAT-GB-SRC-0128",
+    "title": "Annual Report on Hong Kong for the Year 1946",
+    "institution_or_author": "Government of Hong Kong",
+    "publication_date": "1947-03",
+    "source_type": "primary: 식민지 정부 보고서의 온라인 전사",
+    "document_or_accession_number": "Hong Kong Public Libraries 소장 표기 3 3288 03813789 1",
+    "locator": "정오표, Part II Chapter 1 Population, Chapter 8 The Military Administration",
+    "url": "https://www.histsyn.com/2023/01/EYB1946.html",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941–1945년 일본 점령, 항복 무렵 75만 명 미만 추정, 1945-09-01 영국 임시 군정 수립."
+    ],
+    "limitations": [
+      "웹 자료는 원간행물의 전사본이다. 75만 명은 상한 추정이고 해당 대목에 상세 산식은 없다."
+    ],
+    "rights": "표제면 Crown Copyright Reserved. 자체 요약과 링크만 사용.",
+    "independence_group": "hong-kong-colonial-annual-report"
+  },
+  {
+    "id": "CAT-GB-SRC-0129",
+    "title": "Hong Kong Population and Housing Census: 1971 Technical Report",
+    "institution_or_author": "Hong Kong Census and Statistics Department",
+    "publication_date": "1973-07 서문",
+    "source_type": "secondary: 1941년 조사 인용과 종전 인구 회고",
+    "document_or_accession_number": "B11290151971XXXXE0100",
+    "locator": "§1.11 The 1941 Census 및 §1.12 The period 1941–1961",
+    "url": "https://www.censtatd.gov.hk/en/data/stat_report/product/B1129015/att/B11290151971XXXXE0100.pdf",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 3월 홍콩 인원 조사 1,444,337명, 신계 추산 포함 약 164만 명, 종전 무렵 약 60만 명 추정."
+    ],
+    "limitations": [
+      "1941년 원표 자체는 미확보다. 1945년 추계의 정확한 기준일·산식과 128에서의 자료 계통은 확인되지 않았다."
+    ],
+    "rights": "홍콩 통계기관 공개 스캔. 수치 발췌와 자체 요약, 페이지 미복제.",
+    "independence_group": "hong-kong-census-technical-1971"
+  },
+  {
+    "id": "CAT-GB-SRC-0130",
+    "title": "2011 Census: Population Estimates for the United Kingdom, March 2011",
+    "institution_or_author": "Office for National Statistics",
+    "publication_date": "2012-12-17",
+    "source_type": "secondary: 공식 통계 간행물의 인구조사 연혁",
+    "document_or_accession_number": null,
+    "locator": "About the census, Figure 2 주석",
+    "url": "https://cy.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/2011censuspopulationestimatesfortheunitedkingdom/2012-12-17",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제2차 세계대전으로 1941년 UK 전역 정기 인구조사 미실시."
+    ],
+    "limitations": [
+      "2011년 간행물에서 역사적 조사 공백의 설명만 사용했다."
+    ],
+    "rights": "ONS 공개 통계. 자체 요약과 링크만 사용.",
+    "independence_group": "ons-census-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0131",
+    "title": "Canada Year Book 2012: Table 24.1, Population, by province and territory, selected years, 1861 to 2011",
+    "institution_or_author": "Statistics Canada",
+    "publication_date": "2012판",
+    "source_type": "secondary: 공식 역사 계열 재수록",
+    "document_or_accession_number": "11-402-X, Table 24.1",
+    "locator": "Canada의 1941 열 및 본문 주 1",
+    "url": "https://www150.statcan.gc.ca/n1/pub/11-402-x/2012000/chap/pop/tbl/tbl01-eng.htm",
+    "accessed_at": "2026-11-13T05:01:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 11,506,655명 재수록과 뉴펀들랜드·래브라도의 캐나다 합계 반영 범위."
+    ],
+    "limitations": [
+      "125와 같은 인구조사 계통이며 독립 인구 집계가 아니다."
+    ],
+    "rights": "Statistics Canada 공개 통계. 수치 발췌와 자체 요약.",
+    "independence_group": "census-canada-1941"
+  },
+  {
+    "id": "CAT-GB-SRC-0132",
+    "title": "Introducing the NAS Map Collection",
+    "institution_or_author": "National Archives of Singapore / Survey Department 및 Survey Production Centre Southeast Asia",
+    "publication_date": null,
+    "source_type": "secondary: 전시 지도 두 점의 기록관 해설·캡션",
+    "document_or_accession_number": "SP001565_1 / TM000984",
+    "locator": "제2차 세계대전 지도 문단 및 1943년 Town Plan·1945년 연합군 지형도 캡션",
+    "url": "https://corporate.nas.gov.sg/discover-archives/media/nasmapcollection/",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 일본 점령기 지도 왼쪽 위 Syonan 표기와 하단 일본어 명기, 1945년 연합군 Singapore 지형도 소장번호."
+    ],
+    "limitations": [
+      "기록관의 본문·캡션은 확인했다. 연결된 지도 이미지 요청은 오류가 나 범례와 경계를 직접 판독하지 못했다."
+    ],
+    "rights": "싱가포르 국립기록관 제공 자료. 자체 요약·링크만 사용하고 이미지 미복제.",
+    "independence_group": "nas-wartime-map-catalogue"
+  },
+  {
+    "id": "CAT-GB-SRC-0133",
+    "title": "The Syonan Shimbun, 12 November 1943",
+    "institution_or_author": "The Syonan Shimbun / National Library Board, Singapore",
+    "publication_date": "1943-11-12",
+    "source_type": "primary: 당대 점령기 신문 디지털 전사의 표제 및 주소",
+    "document_or_accession_number": "No. 294 / syonantimes19431112-1",
+    "locator": "1쪽 Masthead, Cecil Street의 Syonan 주소 표기",
+    "url": "https://eresources.nlb.gov.sg/newspapers/digitised/issue/syonantimes19431112-1",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943-11-12 신문 표제 및 발행처 주소의 Syonan 표기."
+    ],
+    "limitations": [
+      "페이지의 텍스트 전사를 열람했다. 주소 OCR의 번지 일부가 불명료해 인용하지 않았다. 신문 표기는 명명 법령이나 주민 일반의 호칭을 보여주지 않는다."
+    ],
+    "rights": "NLB NewspaperSG 공개 열람. 서지·지명과 링크만 사용, 이미지 및 기사 전문 미복제.",
+    "independence_group": "syonan-shimbun-294"
+  },
+  {
+    "id": "CAT-GB-SRC-0134",
+    "title": "Becoming Syonan",
+    "institution_or_author": "National Archives of Singapore",
+    "publication_date": "2026-03-18 갱신",
+    "source_type": "secondary: 점령기 전시 해설",
+    "document_or_accession_number": null,
+    "locator": "Becoming Syonan 및 Nipponisation/Surrender Room 설명",
+    "url": "https://corporate.nas.gov.sg/former-ford-factory/whatson/exhibition-syonan/",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942-02-15 영국군 항복과 그 뒤 일본 점령 당국의 Syonan-to 명칭."
+    ],
+    "limitations": [
+      "명명 법령 발효일과 시·섬 등 적용 경계는 확인되지 않는다."
+    ],
+    "rights": "© Government of Singapore. 자체 요약과 링크만 사용.",
+    "independence_group": "nas-occupation-exhibit"
+  },
+  {
+    "id": "CAT-GB-SRC-0135",
+    "title": "Air Operations in South East Asia, 3rd May, 1945 to 12th September, 1945",
+    "institution_or_author": "Air Chief Marshal Sir Keith Park / The London Gazette",
+    "publication_date": "1946-08 제출, 1951-04-19 보충호 발행",
+    "source_type": "primary: 작전 지휘관 보고의 관보 원문 스캔",
+    "document_or_accession_number": "The London Gazette No. 39202",
+    "locator": "2127쪽 제목·제출 주기·Foreword §1",
+    "url": "https://www.thegazette.co.uk/London/issue/39202/supplement/2127/data.pdf",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945-05-03 연합군의 Rangoon 진입과 1945-09-12 Singapore에서의 일본 남방군 항복을 지휘관이 기록했다."
+    ],
+    "limitations": [
+      "전후 제출 보고다. 진입일은 작전 경과를 설명한 것이며 도시 전체 행정 인계일이나 명명 법령 발효일과는 별개다."
+    ],
+    "rights": "The Gazette 공개 원문. 자체 요약·링크만 사용, 이미지 미복제.",
+    "independence_group": "park-sea-air-despatch"
+  },
+  {
+    "id": "CAT-GB-SRC-0136",
+    "title": "Toponymic factfile: Myanmar (Burma)",
+    "institution_or_author": "UK Permanent Committee on Geographical Names",
+    "publication_date": null,
+    "source_type": "secondary: 공식 지명 표준화 안내",
+    "document_or_accession_number": "Myanmar (Burma) factfile",
+    "locator": "Administrative divisions 표 Yangon Region 행의 행정 중심지, 각주 12",
+    "url": "https://assets.publishing.service.gov.uk/media/68aee1c63a052c9c504c8e7e/Myanmar__Burma__factfile.pdf",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현대 지명 Yangon 및 미얀마어 ရန်ကုန်, 1989년 영어 표기 개정과 Rangoon의 대응."
+    ],
+    "limitations": [
+      "현재 표준화 자료다. 전시 도시 경계나 각 주민 집단의 당시 표기를 소급 확정할 수 없다."
+    ],
+    "rights": "GOV.UK 공개 간행물. 자체 요약·링크만 사용.",
+    "independence_group": "uk-pcgn-myanmar"
+  },
+  {
+    "id": "CAT-GB-SRC-0137",
+    "title": "Rangoon, Burma. C. 1945-05. Aerial photograph of Rangoon after its capture",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "약 1945-05 촬영",
+    "source_type": "primary: 당시 사진의 보존기관 소장 정보",
+    "document_or_accession_number": "SUK14339 / C280942",
+    "locator": "Place, Accession Number, Description, Item copyright",
+    "url": "https://www.awm.gov.au/collection/C280942",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "별도 사진 자료의 소장 위치 표기 Rangoon, Burma 및 1945년 5월 무렵이라는 설명."
+    ],
+    "limitations": [
+      "소장기관 메타데이터를 대조했다. 촬영 원본의 당대 명문, 정확한 촬영일, 사진 속 도시 경계는 미확인이다."
+    ],
+    "rights": "보존기관 표시 저작권 만료·퍼블릭 도메인. 이미지 미복제.",
+    "independence_group": "awm-suk14339"
+  },
+  {
+    "id": "CAT-GB-SRC-0138",
+    "title": "Port of Londonderry",
+    "institution_or_author": "UK House of Commons / Minister of War Transport",
+    "publication_date": "1945-11-19",
+    "source_type": "primary: 전후 직후 의회 의사록 전사",
+    "document_or_accession_number": "HC Deb vol 416 cc30–31, 질문 80",
+    "locator": "질문 표제·본문과 Barnes의 답변",
+    "url": "https://api.parliament.uk/historic-hansard//commons/1945/nov/19/port-of-londonderry",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 이용을 묻는 의사록에서 Port of Londonderry 명칭을 확인했다."
+    ],
+    "limitations": [
+      "상업·여객 교통 전환 원인에 대한 질의자와 장관의 해석이 달라 원인을 단정하는 근거로 쓰지 않았다."
+    ],
+    "rights": "영국 의회 공개 의사록. 자체 요약·링크만 사용.",
+    "independence_group": "hansard-londonderry-port-1945"
+  },
+  {
+    "id": "CAT-GB-SRC-0139",
+    "title": "Records of Naval Districts and Shore Establishments",
+    "institution_or_author": "U.S. National Archives and Records Administration",
+    "publication_date": null,
+    "source_type": "secondary: 전시 미 해군 소장 문서군의 기록관 안내",
+    "document_or_accession_number": "Record Group 181, §181.6.5",
+    "locator": "Records of the Londonderry NOB 항목",
+    "url": "https://www.archives.gov/research/guide-fed-records/groups/181.html",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북아일랜드 Londonderry Naval Operating Base 명칭과 1942–1944년 관련 기록 계열."
+    ],
+    "limitations": [
+      "소장 안내를 확인했다. 해당 서신 원문과 기지의 법정 경계·개설일은 미확인이다."
+    ],
+    "rights": "미국 국립기록관리청 공개 목록. 자체 요약·링크만 사용.",
+    "independence_group": "nara-rg181-londonderry"
+  },
+  {
+    "id": "CAT-GB-SRC-0140",
+    "title": "Application by Derry City Council for Judicial Review",
+    "institution_or_author": "High Court of Justice in Northern Ireland / Weatherup J",
+    "publication_date": "2007-01-25",
+    "source_type": "primary: 도시명과 후대 행정구역명을 해석한 판결 원문",
+    "document_or_accession_number": "[2007] NIQB 5",
+    "locator": "¶¶8–9, 16–17, 34–35",
+    "url": "https://www.judiciaryni.uk/files/judiciaryni/decisions/Application%20by%20Derry%20City%20Council%20for%20Judicial%20Review.pdf",
+    "accessed_at": "2026-11-13T05:07:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 이전 Londonderry 도시·county borough 명칭 계보, 1984년 Derry 행정구역명 변경의 법적 효과와 도시명 구분."
+    ],
+    "limitations": [
+      "판결 당시 판단을 사용했다. 전시 민간 호칭 빈도나 현재 행정구역 경계는 판결로 확정할 수 없다."
+    ],
+    "rights": "북아일랜드 사법부 공개 판결. 자체 요약·링크만 사용.",
+    "independence_group": "niqb-2007-5"
+  },
+  {
+    "id": "CAT-GB-SRC-0141",
+    "title": "Royal and Parliamentary Titles Act, 1927",
+    "institution_or_author": "UK Parliament",
+    "publication_date": "1927-04-12",
+    "source_type": "primary: 당대 법률 제정본",
+    "document_or_accession_number": "17 Geo. 5 c. 4",
+    "locator": "제2조 제1·2항",
+    "url": "https://www.legislation.gov.uk/ukpga/1927/4/pdfs/ukpga_19270004_en.pdf",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "후속 법률과 공문에서 United Kingdom의 통상 범위를 그레이트브리튼과 북아일랜드로 규정했다."
+    ],
+    "limitations": [
+      "북아일랜드의 개별 경계 표지는 이 조문에 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-royal-parliamentary-titles-act"
+  },
+  {
+    "id": "CAT-GB-SRC-0142",
+    "title": "The Canada Gazette, Extra: Proclamation",
+    "institution_or_author": "Government of Canada / Library and Archives Canada",
+    "publication_date": "1939-09-10",
+    "source_type": "primary: 관보 특별호 스캔",
+    "document_or_accession_number": "cgc_p1-2_v073_n000_t002_000_19390910_p00000",
+    "locator": "특별호 첫 면 영문 선언 본문",
+    "url": "https://central.bac-lac.gc.ca/.item?app=cangaz&id=cgc_p1-2_v073_n000_t002_000_19390910_p00000&op=pdf",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐나다 추밀원의 조언과 9월 10일부 독일과의 전쟁 상태를 명시한다."
+    ],
+    "limitations": [
+      "OCR에 오자가 있으며 정확한 발표 시각과 국경은 이 확인 범위 밖이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "canada-gazette-war-proclamation"
+  },
+  {
+    "id": "CAT-GB-SRC-0143",
+    "title": "The Canadian Army, 1939–1945: An Official Historical Summary",
+    "institution_or_author": "C. P. Stacey / Canadian Department of National Defence",
+    "publication_date": "1948",
+    "source_type": "secondary: 캐나다 육군 공식사",
+    "document_or_accession_number": "제I장",
+    "locator": "p. 1, Canada Goes to War",
+    "url": "https://www.canada.ca/content/dam/themes/defence/caf/militaryhistory/dhh/official/book-1948-army-1939-1945-en.pdf",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국과 프랑스의 9월 3일 대독 선전, 캐나다 의회 절차와 9월 10일 관보 발표."
+    ],
+    "limitations": [
+      "캐나다 선포문 인용은 관보와 동일 원전이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "canadian-army-official-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0144",
+    "title": "Government, history and culture",
+    "institution_or_author": "Government of Jersey",
+    "publication_date": null,
+    "source_type": "secondary: 정부 헌정 안내",
+    "document_or_accession_number": null,
+    "locator": "Facts about Jersey / Government and legal system",
+    "url": "https://www.gov.je/LifeEvents/MovingToJersey/WhyChooseJersey/Pages/Government.aspx",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "저지섬의 지리 및 영국 왕실속령으로서의 지위와 자체 행정."
+    ],
+    "limitations": [
+      "현행 헌정 안내의 선거·기관 구성은 전시에 소급하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jersey-government-constitution"
+  },
+  {
+    "id": "CAT-GB-SRC-0145",
+    "title": "History of Liberation",
+    "institution_or_author": "Government of Jersey / Doug Ford, Jersey Heritage",
+    "publication_date": null,
+    "source_type": "secondary: 정부 역사 해설",
+    "document_or_accession_number": null,
+    "locator": "The start of the German Occupation / Life during The Occupation / Liberation",
+    "url": "https://www.gov.je/Leisure/Liberation/pages/liberationhistory.aspx",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "저지섬 1940-07-01 독일군 진입과 점령 중 현지 민정의 존속, 1945-05-09 해방."
+    ],
+    "limitations": [
+      "저지섬의 날짜를 채널 제도 전체에 적용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jersey-heritage-liberation"
+  },
+  {
+    "id": "CAT-GB-SRC-0146",
+    "title": "Channel Islands (Administration)",
+    "institution_or_author": "UK House of Commons / James Chuter Ede",
+    "publication_date": "1945-08-17",
+    "source_type": "primary: 종전 직후 하원 발언 전사",
+    "document_or_accession_number": "1945-08-17 Commons Chamber",
+    "locator": "Oral Answers To Questions, Channel Islands (Administration), Ede 답변",
+    "url": "https://hansard.parliament.uk/commons/1945-08-17/debates/155447dc-d96b-4361-a7db-3fbbee8c2c83/CommonsChamber",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 6월 19일 철수 결정, 점령하 민정 존속, 1945년 8월 25일 군정 종료 예정에 대한 장관 발언."
+    ],
+    "limitations": [
+      "철수 결정일과 실제 철수일은 구분된다. 군정 종료는 발표 당시 예정일이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-hansard-channel-islands-1945"
+  },
+  {
+    "id": "CAT-GB-SRC-0147",
+    "title": "Hong Kong Study, Annex A: Treaties of 1842 and 1860",
+    "institution_or_author": "Great Britain and Qing China / UK Foreign and Commonwealth Office",
+    "publication_date": "1982",
+    "source_type": "primary: 두 당대 조약의 영국 외무부 자료집 수록본",
+    "document_or_accession_number": "UK National Archives PREM 19/792",
+    "locator": "1842-08-29 난징 조약 제III조, 인쇄 p. 160 / 1860-10-24 베이징 협약 제VI조, 인쇄 p. 241",
+    "url": "https://archive.margaretthatcher.org/doc04/820912%20fco%20spc%20stdy%20PREM19-0792%20f147.pdf",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "홍콩섬과 구룡 일부의 양도 조항을 확인했다."
+    ],
+    "limitations": [
+      "양도 대상 구룡의 현지 경계선은 별도 지리 자료가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "qing-uk-cession-treaties"
+  },
+  {
+    "id": "CAT-GB-SRC-0148",
+    "title": "Convention Respecting an Extension of the Hongkong Territory",
+    "institution_or_author": "Great Britain and Qing China / The World and Japan Database",
+    "publication_date": "1898-06-09",
+    "source_type": "primary: 조약 영문 전사",
+    "document_or_accession_number": "일본 외무성 조약국 조약집 pp. 169–170",
+    "locator": "Full text, 임대 기간·측량·구룡성 관할 단락",
+    "url": "https://worldjpn.net/documents/texts/pw/18980609.T1E.html",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "99년 임대, 측량 후 경계 확정 및 구룡성 관할 예외 조항을 확인했다."
+    ],
+    "limitations": [
+      "전사 페이지에 부속 지도와 1899년 이후 현지 조치의 원문이 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "qing-uk-hong-kong-lease"
+  },
+  {
+    "id": "CAT-GB-SRC-0149",
+    "title": "Hong Kong Yearbook 2021, Chapter 22: History",
+    "institution_or_author": "Hong Kong SAR Government",
+    "publication_date": null,
+    "source_type": "secondary: 정부 연감 역사 해설",
+    "document_or_accession_number": "Hong Kong Yearbook 2021",
+    "locator": "pp. 322–323 Lease of the New Territories, pp. 324–325 The 1930s and World War II",
+    "url": "https://www.yearbook.gov.hk/2021/en/pdf/E22.pdf",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "구룡 양도 구역·신계 임대 범위·구룡성 조치, 1941년 항복과 1945년 8월 30일 영국군 도착을 확인했다."
+    ],
+    "limitations": [
+      "권원은 조약으로 대조했다. 8월 30일 군 도착과 군정 선포는 공고 원문에서 별도 확인했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hksar-yearbook-2021"
+  },
+  {
+    "id": "CAT-GB-SRC-0150",
+    "title": "British Military Administration, Hong Kong: Proclamation No. 1",
+    "institution_or_author": "C. H. J. Harcourt / F. S. V. Donnison 편",
+    "publication_date": "1945-09-01",
+    "source_type": "primary: 1956년 영국 공식사에 수록된 공고 원문",
+    "document_or_accession_number": "British Military Administration in the Far East, 1943–46, Appendix 5",
+    "locator": "pp. 454–455, 전문·제1~4조·서명일",
+    "url": "https://www.generalstaff.org/WW2/Hist_UK/BritishMilitaryAdminFarEast1943-46.pdf",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "홍콩 식민지 전역의 영국 임시 군정 설치와 관할 인수, 1945년 9월 1일 공고일을 확인했다."
+    ],
+    "limitations": [
+      "공고의 관할 범위는 마을별 행정 집행 시점을 직접 보여주지 않는다."
+    ],
+    "rights": "수록본에 Crown Copyright Reserved 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "harcourt-hong-kong-proclamation"
+  },
+  {
+    "id": "CAT-GB-SRC-0151",
+    "title": "Recording Hong Kong: 1940s",
+    "institution_or_author": "Hong Kong Government Records Service",
+    "publication_date": null,
+    "source_type": "secondary: 기록관 소장 목록",
+    "document_or_accession_number": "06-08-203",
+    "locator": "1945 Instrument of surrender 항목",
+    "url": "https://www.grs.gov.hk/ws/rhk/en/1940s.html",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "홍콩 현지 항복문서의 소장 표기와 1945년 9월 16일 날짜를 확인했다."
+    ],
+    "limitations": [
+      "목록 기록을 열람했다. 소장 문서 전문을 전사하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hong-kong-local-surrender"
+  },
+  {
+    "id": "CAT-GB-SRC-0152",
+    "title": "Text of Mandate for Palestine",
+    "institution_or_author": "League of Nations / UN Secretary-General",
+    "publication_date": "1947-04-18",
+    "source_type": "primary: 국제연맹 위임장 및 승인 각서의 유엔 공식 수록본",
+    "document_or_accession_number": "UN A/292, League of Nations C.P.M.466 외",
+    "locator": "pp. 2–4, 10–13, 위임장 전문·제1·5·25조와 트란스요르단 각서",
+    "url": "https://digitallibrary.un.org/record/829707/files/A_292-EN.pdf",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1922년 7월 24일 위임장과 9월 16일 승인 각서에서 위임국의 권한, 트란스요르단 경계 서술과 별도 행정을 확인했다."
+    ],
+    "limitations": [
+      "위임장과 각서의 규정은 지방별 실효 행정의 현장 기록과 구분했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "league-of-nations-palestine-mandate"
+  },
+  {
+    "id": "CAT-GB-SRC-0153",
+    "title": "Memorandum by the Acting Secretary of State to President Truman",
+    "institution_or_author": "Joseph C. Grew / U.S. Department of State",
+    "publication_date": "1945-05-14",
+    "source_type": "primary: 전시 외교문서 전사",
+    "document_or_accession_number": "FRUS 1945 VIII, doc. 688, 867N.01/4–1945",
+    "locator": "pp. 706–707, 첫 문단",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v08/d688",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미국 국무부 문서에서 전시 트란스요르단의 영국 위임관계와 영국 외무부를 통한 서신 전달을 확인했다."
+    ],
+    "limitations": [
+      "미국 외교 경로의 사례이며 관할의 전 영역을 설명하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-diplomatic-memo-transjordan"
+  },
+  {
+    "id": "CAT-GB-SRC-0154",
+    "title": "Map of Palestine",
+    "institution_or_author": "Survey of Palestine / Harry S. Truman Presidential Library and Museum",
+    "publication_date": "1946-04",
+    "source_type": "primary: 직접 전후 지도 스캔과 기록관 메타데이터",
+    "document_or_accession_number": "M700",
+    "locator": "지도 1매, 범례 및 동쪽 경계, 축척 1:750,000",
+    "url": "https://www.trumanlibrary.gov/maps/m700-map-palestine",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "팔레스타인과 동쪽 트란스요르단의 공간 구분과 지도에 표시된 국제·하위 행정 경계 기호를 확인했다."
+    ],
+    "limitations": [
+      "1946년 4월경 지도다. 개전·종전 당일 경계의 직접 증거로 사용하지 않았다."
+    ],
+    "rights": "기록관에 Survey of Palestine 저작권 및 복제 제한 표기. 원본 이미지 재게시 없이 링크만 사용.",
+    "independence_group": "survey-of-palestine-m700"
+  },
+  {
+    "id": "CAT-GB-SRC-0155",
+    "title": "Japanese Surrender: surrender of the Japanese forces at Hong Kong",
+    "institution_or_author": "Royal Museums Greenwich / Caird Library and Archive",
+    "publication_date": "1945-09-16",
+    "source_type": "secondary: 당대 항복문서의 소장 목록",
+    "document_or_accession_number": "HSR/V/8 (formerly FD/58)",
+    "locator": "Record details의 Item reference와 Date made",
+    "url": "https://www.rmg.co.uk/collections/archive/rmgc-object-500220",
+    "accessed_at": "2026-11-13T06:55:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "홍콩 현지 항복문서의 1945년 9월 16일 서명일과 서명자 목록을 확인했다."
+    ],
+    "limitations": [
+      "독립 기관이 보존한 같은 항복 사건의 문서 기록이다. 별개 사건의 확증으로 세지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hong-kong-local-surrender"
+  },
+  {
+    "id": "CAT-GB-SRC-0156",
+    "title": "Oil, Great Britain (Development)",
+    "institution_or_author": "UK House of Commons / Ministry of Fuel and Power",
+    "publication_date": "1945-11-13",
+    "source_type": "primary: 장관 답변 전사",
+    "document_or_accession_number": "1945-11-13 Commons, Fuel and Power",
+    "locator": "Oil, Great Britain (Development), 장관 서면 회람 답변",
+    "url": "https://api.parliament.uk/historic-hansard//commons/1945/nov/13/oil-great-britain-development",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 10만 tons 초과, 1939년부터 답변일까지 원유 약 40만 tons 및 노팅엄셔·미들로디언·랭커셔 산지."
+    ],
+    "limitations": [
+      "1945년 11월의 연환산 속도는 달력연도 실적과 다르다. 답변에서 ton 정의는 미표기."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-fuel-ministry-crude-1945"
+  },
+  {
+    "id": "CAT-GB-SRC-0157",
+    "title": "Steel (Production and Imports)",
+    "institution_or_author": "UK House of Commons / Ministry of Supply",
+    "publication_date": "1949-11-07",
+    "source_type": "primary: 전시 실적을 담은 하원 답변 전사",
+    "document_or_accession_number": "HC Deb vol. 469 c894, 질문 66",
+    "locator": "답변에 첨부된 생산·수입 표의 1939·1945행과 각주. 디지털 전사에서 표는 앞 항목 말미에 배치됐다.",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1949/nov/07/imports-low-priced-goods",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 조강 생산과 강괴·반제품 수입, 2,240 lb 기준 및 반제품 생산 통계 중단."
+    ],
+    "limitations": [
+      "CSO 강철 총량과 일치하나 원통계의 독립성은 확인되지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-board-of-trade-steel-1949"
+  },
+  {
+    "id": "CAT-GB-SRC-0158",
+    "title": "The Chargé in the United Kingdom (Johnson) to the Secretary of State",
+    "institution_or_author": "Herschel V. Johnson / U.S. Department of State",
+    "publication_date": "1940-11-07",
+    "source_type": "primary: 런던발 외교 전문 전사",
+    "document_or_accession_number": "FRUS 1940 II doc. 345, 811.20 Defense (M)/628",
+    "locator": "싱가포르발 11월 5일 보고 첫 문단",
+    "url": "https://history.state.gov/historicaldocuments/frus1940v02/d345",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 10월 말라야 고무 선적 총량과 영국·미국행 물량."
+    ],
+    "limitations": [
+      "선적의 생산지 상세, ton 환산 기준과 통관 도착량은 전문에 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-frus-malaya-shipments"
+  },
+  {
+    "id": "CAT-GB-SRC-0159",
+    "title": "Written Answers: Rubber (Supplies)",
+    "institution_or_author": "UK House of Commons / Board of Trade",
+    "publication_date": "1946-02-13",
+    "source_type": "primary: 전시 공급과 재점령 재고에 관한 의회 답변 전사",
+    "document_or_accession_number": "1946-02-13 Commons, Written Answers",
+    "locator": "Ceylon 1945년 생산·배분 표와 Malaya and Burma 관련 Belcher 답변",
+    "url": "https://hansard.parliament.uk/%E2%80%8CCommons/1946-02-13/debates/b946a8bf-5f8d-4d8b-9e1b-935587de3ec7/WrittenAnswers",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "실론 생산·목적지별 선적과 말라야·버마 재점령 고무 재고의 집계 한계."
+    ],
+    "limitations": [
+      "1946년 말라야·버마 신규 생산 예상량은 전시 실적에서 제외했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-board-of-trade-rubber-1946"
+  },
+  {
+    "id": "CAT-GB-SRC-0160",
+    "title": "Miscellaneous Metals in Canada, 1945",
+    "institution_or_author": "Dominion Bureau of Statistics, Department of Trade and Commerce",
+    "publication_date": "1947",
+    "source_type": "primary: 캐나다 공식 산업 통계",
+    "document_or_accession_number": "CS26-219-1945, A66-30-9-47",
+    "locator": "Aluminum 본문 및 표 6–7",
+    "url": "https://publications.gc.ca/collections/collection_2018/statcan/26-219/CS26-219-1945-eng.pdf",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐나다 알루미늄 괴 생산, 보크사이트 수입 합계 및 영국령 기아나 원료 조달."
+    ],
+    "limitations": [
+      "보크사이트 표는 출처별 수입량을 제시하지 않는다. 생산·수입 원단위가 다르다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "canada-dbs-misc-metals"
+  },
+  {
+    "id": "CAT-GB-SRC-0161",
+    "title": "Statistical Summary of the Mineral Industry (Production, Imports and Exports) 1944–1950",
+    "institution_or_author": "Mineral Resources Division, Colonial Geological Surveys",
+    "publication_date": "1952",
+    "source_type": "primary: 영국 정부 광업통계 집성 스캔",
+    "document_or_accession_number": "HMSO 1952, NERC 535286",
+    "locator": "p. 10 보크사이트 표 각주 (c), p. 56 크롬 광석 생산 표",
+    "url": "https://nora.nerc.ac.uk/id/eprint/535286/1/SS_1944_1950.pdf",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국령 기아나의 건조·세척 광산 출하와 크롬 표의 별도 Cr₂O₃ 함량 추정 표기."
+    ],
+    "limitations": [
+      "크롬 표 OCR 행 대응이 의심되고 페이지 이미지 요청은 용량 오류였다. 남로디지아 원광 생산치는 Bulletin 표를 사용했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "colonial-geological-surveys-1944-1950"
+  },
+  {
+    "id": "CAT-GB-SRC-0162",
+    "title": "Mineral Production of Southern Rhodesia, 1940–45",
+    "institution_or_author": "Imperial Institute",
+    "publication_date": "1946",
+    "source_type": "primary: 종전 직후 공개 광업 통계 수록본",
+    "document_or_accession_number": "Bulletin of the Imperial Institute, vol. XLIV, no. 2",
+    "locator": "p. 151 크롬 광석·텅스텐 정광 행과 앞선 광업 동향 문단",
+    "url": "https://krishikosh.egranth.ac.in/server/api/core/bitstreams/ad5e1425-89d8-4be9-ac3e-308d7b8892e2/content",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "남로디지아의 크롬 원광과 텅스텐 정광 연별 생산 수치 및 long tons 단위."
+    ],
+    "limitations": [
+      "1945년 텅스텐 정광은 대시로 표시되어 의미를 0으로 확정하지 않았다. 매장량과 구매자별 선적은 표에 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "imperial-institute-rhodesia-production"
+  },
+  {
+    "id": "CAT-GB-SRC-0163",
+    "title": "Southern Rhodesia (Native Administration)",
+    "institution_or_author": "UK House of Commons / Colonial Office",
+    "publication_date": "1925-05-11",
+    "source_type": "primary: 식민지 헌정 관련 의회 답변 전사",
+    "document_or_accession_number": "1925-05-11 Commons, 식민장관 질의",
+    "locator": "1923년 헌정 및 유보 권한에 관한 답변",
+    "url": "https://hansard.parliament.uk/Commons/1925-05-11/debates/31f0d313-1d75-44c3-bf80-5df37c9b5a2b/SouthernRhodesia%28NativeADmInistration%29",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1923년 남로디지아 책임정부와 일부 권한 유보를 확인했다."
+    ],
+    "limitations": [
+      "광산 운영 기업과 전시 광업 규제는 이 문서의 범위 밖이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "southern-rhodesia-constitutional-status"
+  },
+  {
+    "id": "CAT-GB-SRC-0164",
+    "title": "Foreign Relations of the United States, 1945, Vol. II, Document 680",
+    "institution_or_author": "U.S. Embassy in the United Kingdom / U.S. Department of State",
+    "publication_date": "1945-12-23",
+    "source_type": "primary: 영국 무역부 제공 목록을 담은 외교 전문 전사",
+    "document_or_accession_number": "FRUS 1945 II doc. 680",
+    "locator": "Board of Trade furnished following list 단락",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v02/d680",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국령 기아나·실론 및 연방·비연방 말레이주·해협식민지를 영국 무역부의 관할 분류에서 확인했다."
+    ],
+    "limitations": [
+      "종전 직후 통상협의의 명단이다. 전시 선적 집계 경계와 각 지방의 군정 인수일을 확정하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-board-of-trade-territory-list"
+  },
+  {
+    "id": "CAT-GB-SRC-0165",
+    "title": "Military Administration Proclamation, No. 1 (Malaya)",
+    "institution_or_author": "Louis Mountbatten / F. S. V. Donnison 공식사 수록",
+    "publication_date": "1945-08-15",
+    "source_type": "primary: 1956년 영국 공식사에 수록된 공고 원문",
+    "document_or_accession_number": "British Military Administration in the Far East, Appendix 3",
+    "locator": "pp. 450–451, 제1·2·5·7조와 서명일",
+    "url": "https://www.generalstaff.org/WW2/Hist_UK/BritishMilitaryAdminFarEast1943-46.pdf",
+    "accessed_at": "2026-11-13T09:02:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 군정 뒤 영국 군정 관할을 지휘하 연합군이 실제 통제하는 말라야 지역에 한정했다."
+    ],
+    "limitations": [
+      "8월 15일은 서명일이다. 지방별 실제 행정 인수일이나 고무 생산은 제시하지 않는다."
+    ],
+    "rights": "수록본에 Crown Copyright Reserved 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "mountbatten-malaya-proclamation"
+  },
+  {
+    "id": "CAT-GB-SRC-0166",
+    "title": "Prime Minister's Announcement",
+    "institution_or_author": "UK House of Commons / Neville Chamberlain",
+    "publication_date": "1939-09-03",
+    "source_type": "primary: 당대 하원 회의록 전사",
+    "document_or_accession_number": "HC Deb vol. 351 cc291–302",
+    "locator": "cc291–292, 대독 최종 통첩과 전쟁 상태 발표",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1939/sep/03/prime-ministers-announcement",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국의 대독 참전일 1939-09-03을 공통 개전일과 구분했다."
+    ],
+    "limitations": [
+      "개별 공장에 대한 자료는 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-1939-war-announcement"
+  },
+  {
+    "id": "CAT-GB-SRC-0167",
+    "title": "Royal Ordnance Factory, Euxton",
+    "institution_or_author": "UK House of Commons / Leslie Hore-Belisha",
+    "publication_date": "1939-05-05",
+    "source_type": "primary: 당대 하원 서면 답변 전사",
+    "document_or_accession_number": "HC Deb vol. 346 cc2230–2232W",
+    "locator": "1939-04-15 직접 고용표와 도급 공사 인력 문단",
+    "url": "https://api.parliament.uk/historic-hansard/written-answers/1939/may/05/royal-ordnance-factory-euxton",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전쟁부 직접 고용 392명, 공사국 30명, 도급 시공 인력 약 5,000명을 확인했다."
+    ],
+    "limitations": [
+      "1939-04-15 직군별 고용이다. 총 노동 수용력이나 9월 1일 고용이 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hansard-euxton-employment"
+  },
+  {
+    "id": "CAT-GB-SRC-0168",
+    "title": "Historic Building Recording of a World War Two Defence Installation at Lucas Green",
+    "institution_or_author": "Aaron Goode, Robin Taylor-Wilson and Guy Thompson / Pre-Construct Archaeology",
+    "publication_date": "2013-03",
+    "source_type": "secondary: 고고학 조사 및 원기록 인용",
+    "document_or_accession_number": "LWC 13 / RN11016, 인용 원기록 WORK 26/11A/1, SUPP 5/1260",
+    "locator": "pp. 7–8, §2.4.1.3–5",
+    "url": "https://chorleyhistorysociety.co.uk/pdfs/Pill_box_LWC13%20HBR%20Report.pdf",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "유스턴 예정지 약 900 acres, 1939년 초 가동 시작과 4월 공정 확대, 개전 무렵 생산 및 부지 범위를 확인했다."
+    ],
+    "limitations": [
+      "TNA 원문은 이 조사 보고서의 인용을 통해 확인했다. 900 acres는 1936년 계획 범위이며 공사 전체 도로·철도 길이의 개별 준공일은 미상이다."
+    ],
+    "rights": "© Pre-Construct Archaeology Limited. 자체 요약과 링크만 사용.",
+    "independence_group": "pca-lwc13"
+  },
+  {
+    "id": "CAT-GB-SRC-0169",
+    "title": "Royal Ordnance Factory, Chorley, Lancashire",
+    "institution_or_author": "Historic England Archive",
+    "publication_date": null,
+    "source_type": "secondary: 항공사진 교육 자료의 해설",
+    "document_or_accession_number": "NMR/12920/48",
+    "locator": "사진 설명과 Period",
+    "url": "https://historicengland.org.uk/education/schools-resources/educational-images/royal-ordnance-factory-chorley-lancashire-nmr-12920-48",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공장 부지 400 ha 초과라는 후대 해설과 공장 용도를 확인했다."
+    ],
+    "limitations": [
+      "사진 분류는 1990년대이며 면적 측량일과 정확한 경계가 없다. 1939년 면적으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "he-chorley-education"
+  },
+  {
+    "id": "CAT-GB-SRC-0170",
+    "title": "The Ford Motor Car Manufactory, Dagenham, 1937",
+    "institution_or_author": "Aerofilms Ltd / Historic England Archive",
+    "publication_date": "1937-09-03",
+    "source_type": "primary: 개전 전 항공사진",
+    "document_or_accession_number": "EPW055196",
+    "locator": "사진 본체와 소장 목록 Details",
+    "url": "https://www.britainfromabove.org.uk/en/image/EPW055196",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1937년 9월 3일 템스강변 공장군과 돌출 부두가 사진에 보인다."
+    ],
+    "limitations": [
+      "사진의 위치 핀은 공장 필지의 꼭짓점이 아니다. 생산량·처리능력·면적은 이 사진으로 확정할 수 없다."
+    ],
+    "rights": "Historic England Archive 사진. 재게시 없이 원문 링크만 사용.",
+    "independence_group": "aerofilms-epw055196"
+  },
+  {
+    "id": "CAT-GB-SRC-0171",
+    "title": "Ford Dagenham: Forging the Heart of Automotive Innovation in the UK",
+    "institution_or_author": "Leslie Armbruster / Ford Motor Company",
+    "publication_date": "2025-11-07",
+    "source_type": "secondary: 회사 연혁",
+    "document_or_accession_number": "Ford From the Road",
+    "locator": "1924년 매입, 1930년 추가 매입, 1931년 첫 차량과 초기 설비 단락",
+    "url": "https://wwwqa.fromtheroad.ford.com/us/en/articles/2025/ford-dagenham-forging-the-heart-of-automotive-innovation-in-the-",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1930년 합계 501 acres와 초기 고로·주조소·발전소·부두, 1931년 첫 차량."
+    ],
+    "limitations": [
+      "회사 회고이며 501 acres는 토지 매입 합계다. 1939년 유효 산업 면적은 이 수치로 확정할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ford-dagenham-company-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0172",
+    "title": "Research Guide: Dagenham Ford plant in England",
+    "institution_or_author": "Benson Ford Research Center / The Henry Ford",
+    "publication_date": null,
+    "source_type": "secondary: 기업 기록 소장기관의 조사 안내",
+    "document_or_accession_number": "AskUs 274730",
+    "locator": "Answer의 1929–1936년 설비와 전시 생산 단락",
+    "url": "https://askus.thehenryford.org/researchguides/faq/274730",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1932년 정상 생산, 1936년 압연·스프링 제작 부문 추가, 전시 차량 생산과 공급업체 구분."
+    ],
+    "limitations": [
+      "문서 상자 원본은 열람하지 않았다. 회사 연혁과 기초 기록의 독립성을 가정하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "benson-ford-research-guide"
+  },
+  {
+    "id": "CAT-GB-SRC-0173",
+    "title": "The Second World War 1939–1945: Royal Air Force Maintenance",
+    "institution_or_author": "Air Ministry, Air Historical Branch",
+    "publication_date": "1954",
+    "source_type": "secondary: 영국 공군 공식사",
+    "document_or_accession_number": "C.D. 1131 / AP3397",
+    "locator": "pp. 2–3, Shadow Factories",
+    "url": "https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/second-world-war-thematic-studies/ap3397-maintenance/",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 5월 너필드의 공장 조직 수락과 이후 비커스 운영 전환을 확인했다."
+    ],
+    "limitations": [
+      "개전 당일 공사 진척, 고용·설비 능력·부지 도면은 해당 장에 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "air-historical-branch-shadow-factories"
+  },
+  {
+    "id": "CAT-GB-SRC-0174",
+    "title": "Castle Bromwich history",
+    "institution_or_author": "Solihull Metropolitan Borough Council",
+    "publication_date": null,
+    "source_type": "secondary: 지방정부 역사 자료",
+    "document_or_accession_number": null,
+    "locator": "Airfield 및 Aircraft factory",
+    "url": "https://www.solihull.gov.uk/about-solihull/castle-bromwich-history",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 착공, 공장 위치, 됭케르크 시기까지 스핏파이어 미생산과 이후 운영 전환을 확인했다."
+    ],
+    "limitations": [
+      "공장 착공식과 시설별 준공, 인도 일정은 서로 다른 사건이다. 후대 최대 생산량을 1939년에 적용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "solihull-castle-bromwich-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0175",
+    "title": "London–West Midlands Environmental Statement, CFA25 Castle Bromwich and Bromford",
+    "institution_or_author": "HS2 Ltd / Department for Transport",
+    "publication_date": "2013-11",
+    "source_type": "secondary: 고고학·문화유산 평가",
+    "document_or_accession_number": "ES 3.2.1.25 / CBBo58",
+    "locator": "pp. 75–76, §6.3.21",
+    "url": "https://assets.publishing.service.gov.uk/media/5a7cfa2ae5274a2af0ae29f4/Vol_2_CFA_25_Castle_Bromwich_and_Bromford.pdf",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 항공부 토지 취득 및 공장과 인접 비행장의 공간 구분."
+    ],
+    "limitations": [
+      "사업 보고서의 유산 위치 대조이며 당대 공장 필지 도면은 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hs2-cf25-heritage"
+  },
+  {
+    "id": "CAT-GB-SRC-0176",
+    "title": "Spitfire Mk IIA P7322",
+    "institution_or_author": "Historic England Research Records / J. J. Halley 자료 인용",
+    "publication_date": null,
+    "source_type": "secondary: 공식 유산 목록의 기체 이력",
+    "document_or_accession_number": "Monument 1322010 / Contract 981687/39",
+    "locator": "Description의 제작소와 계약 인도 범위",
+    "url": "https://historicengland.org.uk/listing/heritage-gateway/results/record/0d636742-8028-4a8c-8b7c-e1f9aaf2d338/0dc559b2-463a-406c-a1e4-85f148d78447",
+    "accessed_at": "2026-11-13T11:03:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐슬브로미치 제작기와 1,000대 계약분의 1940년 6월~1941년 7월 인도 범위를 확인했다."
+    ],
+    "limitations": [
+      "기체 이력에서 인용한 계약분이다. 계약 원장·1939년 생산능력은 미확인이며 목록의 좌표는 기체 손실 지점이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "he-p7322-contract"
+  },
+  {
+    "id": "CAT-GB-SRC-0177",
+    "title": "Instrument of Surrender",
+    "institution_or_author": "일본·연합국 서명 대표 / 미국 국립문서기록관리청(NARA)",
+    "publication_date": "1945-09-02",
+    "source_type": "primary",
+    "document_or_accession_number": "RG 218, Records of the U.S. Joint Chiefs of Staff",
+    "locator": "Transcript 서명부",
+    "url": "https://www.archives.gov/milestone-documents/surrender-of-japan",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 항복문서 서명일과 영국 대표 서명을 확인했다."
+    ],
+    "limitations": [
+      "영국 공장 운영 자료는 포함하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "japan-surrender-instrument"
+  },
+  {
+    "id": "CAT-GB-SRC-0178",
+    "title": "Royal Ordnance Factories (Peacetime Products)",
+    "institution_or_author": "UK Parliament / Leonard, Ministry of Supply",
+    "publication_date": "1945-12-10",
+    "source_type": "primary",
+    "document_or_accession_number": "HC Deb vol 417 cc159–161W",
+    "locator": "Total peak strength 표 Lancashire–Chorley 행 및 평시 존치 답변",
+    "url": "https://hansard.parliament.uk/commons/1945-12-10/debates/7633fbc0-da68-4e00-a22d-5deb6f4afaea/WrittenAnswers",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "촐리 전시 최고 총원 35,600명과 평시 존치 방침을 확인했다."
+    ],
+    "limitations": [
+      "표는 해당 최고치 날짜, 성별 및 별도 시설의 포함 여부를 명시하지 않는다. 민수품 생산은 당시 정책 설명이다."
+    ],
+    "rights": "UK Parliament 공개 열람. 의사록 자체 요약과 링크만 사용.",
+    "independence_group": "uk-ministry-of-supply"
+  },
+  {
+    "id": "CAT-GB-SRC-0179",
+    "title": "Royal Ordnance Factory, Chorley",
+    "institution_or_author": "UK Parliament / J. Jones, Ministry of Supply",
+    "publication_date": "1948-01-26",
+    "source_type": "primary",
+    "document_or_accession_number": "HC Deb vol 446, 질문 117",
+    "locator": "질문 117 J. Jones 답변 첫 문단",
+    "url": "https://hansard.parliament.uk/Commons/1948-01-26/debates/52313c90-eb83-4087-abbd-f82e95246698/RoyalOrdnanceFactoryChorley",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 12월 고용 5,857 men과 1945년의 주요 작업을 확인했다."
+    ],
+    "limitations": [
+      "답변은 men으로 표기한다. 여성 포함 여부, 월 내 기준일과 품목별 작업량은 미상이다."
+    ],
+    "rights": "UK Parliament 공개 열람. 의사록 자체 요약과 링크만 사용.",
+    "independence_group": "uk-ministry-of-supply"
+  },
+  {
+    "id": "CAT-GB-SRC-0180",
+    "title": "Aerial View of Ford Motor Company. Factory, Dagenham, Essex, England, 1946",
+    "institution_or_author": "Ford Motor Company / The Henry Ford",
+    "publication_date": "1946-10",
+    "source_type": "primary",
+    "document_or_accession_number": "84.1.1660.P.O.5576; THF99020",
+    "locator": "항공사진 본체와 Artifact Details의 Subject Date",
+    "url": "https://www.thehenryford.org/collections/explore/artifact/281039",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "촬영 영상에서 대거넘 강변 부두와 공장 건물군의 잔존을 확인했다."
+    ],
+    "limitations": [
+      "1946년 10월 사진이며 1945년 9월의 개별 건물 가동, 설비 손실과 하역량은 판독할 수 없다."
+    ],
+    "rights": "The Henry Ford 소장, Ford Motor Company 기증. 원본 이미지 재게시 없이 자체 요약과 링크만 사용.",
+    "independence_group": "ford-corporate-photo"
+  },
+  {
+    "id": "CAT-GB-SRC-0181",
+    "title": "Photograph showing the interior view of bomb damage at the factory of the Ford Motor Company, Dagenham, circa. 1939-1945",
+    "institution_or_author": "London Borough of Barking and Dagenham Archives and Local Studies Library / Valence House",
+    "publication_date": "1939–1945 (사진 추정); 목록 작성일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "SB211; 복제본 DS914",
+    "locator": "Object number, Date, Conditions governing reproduction, Copies",
+    "url": "https://valencehousecollections.co.uk/object/photograph-showing-the-interior-view-of-bomb-damage-at-the-factory-of-the-ford-motor-company-dagenham-circa-1939-1945/",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대거넘 공장 폭격 피해 내부 사진의 소장 기록을 확인했다."
+    ],
+    "limitations": [
+      "웹에서 목록만 열람했다. 사진 본체, 정확한 일자·피해 구역·복구율은 미확인이다."
+    ],
+    "rights": "목록상 사진 저작권자 미상. 목록 자체 요약과 링크만 사용.",
+    "independence_group": "dagenham-local-archive-catalog"
+  },
+  {
+    "id": "CAT-GB-SRC-0182",
+    "title": "Ford Motor Co Ltd",
+    "institution_or_author": "Aviation and Aerospace Archives Initiative / Royal Aeronautical Society",
+    "publication_date": "공개일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "CID 4182647",
+    "locator": "History의 제2차 세계대전 및 전후 단락",
+    "url": "https://www.aviationarchives.uk/Portal/AAAI/en-GB/RecordView/Index/4182647",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대거넘의 전후 승용차 생산 재개와 어름스턴 별도 공장 서술을 확인했다."
+    ],
+    "limitations": [
+      "재개일과 월별 라인 실적이 없고, 전시 누계의 제품·집계 경계도 세분하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "raes-archival-survey"
+  },
+  {
+    "id": "CAT-GB-SRC-0183",
+    "title": "Ford Motor Company",
+    "institution_or_author": "UK Parliament / Reginald Maudling, Board of Trade",
+    "publication_date": "1960-05-17",
+    "source_type": "primary",
+    "document_or_accession_number": "하원 질문 21",
+    "locator": "질문 21 Dagenham 1945년 인원 질의 및 Maudling 답변",
+    "url": "https://hansard.parliament.uk/commons/1960-05-17/debates/d1cf0263-4139-4aaf-9c75-79ab82a94a7e/FordMotorCompany",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대거넘 지역 포드 1945년 인원 질의에 수치가 공개되지 않았음을 확인했다."
+    ],
+    "limitations": [
+      "질의 범위는 대거넘 지역이며 본 공장 필지와 일치하는지 불명이다."
+    ],
+    "rights": "UK Parliament 공개 열람. 의사록 자체 요약과 링크만 사용.",
+    "independence_group": "uk-board-of-trade"
+  },
+  {
+    "id": "CAT-GB-SRC-0184",
+    "title": "Reconstructing communities: the impact of regeneration on community dynamics and processes",
+    "institution_or_author": "Stacey R. Pethia / University of Birmingham",
+    "publication_date": "2011",
+    "source_type": "secondary",
+    "document_or_accession_number": "UBIRA ETheses 3118",
+    "locator": "pp. 150–151, Historical Overview",
+    "url": "https://etheses.bham.ac.uk/id/eprint/3118/1/Pethia11PhD.pdf",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐슬브로미치 공장의 1945년 11월까지 생산 및 도로 양편의 공장·비행장 구분을 확인했다."
+    ],
+    "limitations": [
+      "지역 재개발 논문의 후대 연혁이다. 이 대목은 솔리헐 구청도 인용해 별개 공장 일지로 볼 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "castle-local-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0185",
+    "title": "Individual History: Supermarine Spitfire F.24 PK724/7288M",
+    "institution_or_author": "Andrew Simpson / Royal Air Force Museum",
+    "publication_date": "2012",
+    "source_type": "secondary",
+    "document_or_accession_number": "74/A/22; PK724/7288M",
+    "locator": "p. 1, Jan 46 및 27 Feb 46 행",
+    "url": "https://www.rafmuseum.org.uk/documents/collections/74-A-22-Spitfire-24-PK724.pdf#page=1",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미완성 기체 54대의 1946년 1월 이전과 PK724의 사우스마스턴 시험비행 기록을 확인했다."
+    ],
+    "limitations": [
+      "박물관의 개별 기체 이력이다. 원 공장 9월 재공품 수량 및 이전 설비 범위는 미상이다."
+    ],
+    "rights": "© Royal Air Force Museum 2012. 자체 요약과 링크만 사용.",
+    "independence_group": "rafm-aircraft-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0186",
+    "title": "Spodden Valley Revealed Eco museum – Community Archaeology Report",
+    "institution_or_author": "Stuart Noon 편 / DigVentures",
+    "publication_date": "2021 (저작권 표기; 초안 2019-12-16)",
+    "source_type": "secondary",
+    "document_or_accession_number": "OASIS digventu1-406840",
+    "locator": "pp. 34–36, §§5.8.3, 5.8.7 및 각주 47",
+    "url": "https://digventures.com/wp-content/uploads/2026/02/DV_SpoddenValleyRevealed_CommunityArchaeologyReport_v2.0-1.pdf",
+    "accessed_at": "2026-11-13T12:54:54+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공급부 소속 및 1945-09-03 지역지의 촐리 고용 전망 인용을 확인했다."
+    ],
+    "limitations": [
+      "지역지 지면 자체는 미열람이다. 전망은 당일 고용 실적이 아니다."
+    ],
+    "rights": "© DigVentures Limited. 자체 요약과 링크만 사용.",
+    "independence_group": "digventures-local-archaeology"
+  },
+  {
+    "id": "CAT-GB-SRC-0187",
+    "title": "Duxford: Building 84 (Hangar 3)",
+    "institution_or_author": "Historic England",
+    "publication_date": "1973-02-15 최초 등재, 현 설명 개정일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "NHLE 1162959; War Office drawing 332/17",
+    "locator": "Location, Summary, History, Details/Plan",
+    "url": "https://historicengland.org.uk/listing/the-list/list-entry/1162959",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북쪽 격납고 3동의 건설 시기, 84번 건물 치수 및 후대 강판·콘크리트 활주로 연혁을 확인했다."
+    ],
+    "limitations": [
+      "격납고 3동은 같은 설계의 건물군이다. 1939-09-01 전체 격납 정원과 비행장 처리량은 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "historic-england-duxf-survey"
+  },
+  {
+    "id": "CAT-GB-SRC-0188",
+    "title": "Duxford: Building 79 (Hangar 4)",
+    "institution_or_author": "Historic England",
+    "publication_date": "1973-02-15 최초 등재, 현 설명 개정일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "NHLE 1128126; War Office drawing 332/17",
+    "locator": "History, 1935년 증축 단락",
+    "url": "https://historicengland.org.uk/listing/the-list/list-entry/1128126",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제19비행대용 부속동과 무선·전기·계기 작업장 및 장비 저장 공간의 1935년 개조를 확인했다."
+    ],
+    "limitations": [
+      "187번과 같은 건축 조사 계열이며 동일 설계 격납고를 추가로 합산할 수 없다. 작업 처리능력은 미상이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "historic-england-duxf-survey"
+  },
+  {
+    "id": "CAT-GB-SRC-0189",
+    "title": "Duxford Spitfire audio transcript",
+    "institution_or_author": "Carl Warner / Imperial War Museums",
+    "publication_date": "공개 전사본 작성일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "Duxford_Spitfire_transcript.pdf; 일부 구술 IWM SR 6799",
+    "locator": "p. 1, 첫 단락과 No. 611 Squadron 단락",
+    "url": "https://www.iwm.org.uk/sites/default/files/files/2018-07/Duxford_Spitfire_transcript.pdf",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 5월 격납고 4 앞 언론 공개와 8월 제611보조비행대 여름 훈련을 확인했다."
+    ],
+    "limitations": [
+      "전사본에 대한 확인이다. 공개 행사 및 훈련에서 기준일 배치 대수나 출격 가용 대수를 산정할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "iwm-duxf-interpretation"
+  },
+  {
+    "id": "CAT-GB-SRC-0190",
+    "title": "Revealing the new Historic Duxford exhibition",
+    "institution_or_author": "Imperial War Museums",
+    "publication_date": "2012-05-01",
+    "source_type": "secondary",
+    "document_or_accession_number": "IWMD-PR-2012-05-01",
+    "locator": "Historic Duxford 개요의 미 제8공군 인수와 잔디 위 강판 포설 단락",
+    "url": "https://www.iwm.org.uk/sites/default/files/press-release/IWMD-PR-2012-05-01-Announcing-Historic-Duxford.pdf",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 미군 인수와 후대 잔디면 위 강판 포설을 확인했다."
+    ],
+    "limitations": [
+      "1939년 착륙장 치수는 제시하지 않는다. 미군 시기 공사와 1951년 콘크리트 활주로는 개전일 범위에서 제외했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "iwm-duxf-interpretation"
+  },
+  {
+    "id": "CAT-GB-SRC-0191",
+    "title": "RAF Bicester Conservation Area Appraisal",
+    "institution_or_author": "Cherwell District Council",
+    "publication_date": "2008-10-06",
+    "source_type": "secondary",
+    "document_or_accession_number": "Cherwell 공개문서 411",
+    "locator": "pp. 11–13 §§6.2.3–6.2.4, 그림 5·6",
+    "url": "https://www.cherwell.gov.uk/download/downloads/id/411/raf-bicester-conservation-area-appraisal-october-2008.pdf",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 복원 배치도, 1930년대 증축·항공유 시설, 1939년 부대 교체 및 후대 비행장 확장을 확인했다."
+    ],
+    "limitations": [
+      "그림 5는 P. Francis의 복원도이다. 시공 계약 연도와 기준일 시설 인수·가동은 구분된다. English Heritage 조사도 활용했다."
+    ],
+    "rights": "공개 열람. 도면 권리 표기를 존중해 자체 요약과 링크만 사용.",
+    "independence_group": "bicester-survey-and-heritage"
+  },
+  {
+    "id": "CAT-GB-SRC-0192",
+    "title": "Buildings Nos 79 and 137 (Type 'A' Hangars)",
+    "institution_or_author": "Historic England",
+    "publication_date": "2005-12-01 최초 등재, 현 설명 개정일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "NHLE 1393035; Air Ministry drawing 19a/24",
+    "locator": "Location, Details/History",
+    "url": "https://historicengland.org.uk/listing/the-list/list-entry/1393035",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "A형 격납고 2동 실설치 및 C형 2동 추가, A형 치수·설계 수용 가정과 정비 부속실을 확인했다."
+    ],
+    "limitations": [
+      "A형 설계 가정은 1920년대 기종을 기준으로 하며 1939년 실제 격납 대수를 뜻하지 않는다. 지방 평가서는 관련 문화유산 조사도 인용한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bicester-survey-and-heritage"
+  },
+  {
+    "id": "CAT-GB-SRC-0193",
+    "title": "The R.A.F. in the Bombing Offensive Against Germany, Vol. II: Restricted Bombing, September 1939 to May 1941",
+    "institution_or_author": "Air Ministry, Air Historical Branch (1)",
+    "publication_date": "1948 (표지 및 부록 인쇄 식별자 기준)",
+    "source_type": "secondary",
+    "document_or_accession_number": "G.197929/EFE/8/48; Appendix C1 G.197929/JW/6/48",
+    "locator": "Appendix C1, Composition of Bomber Command, 31.8.39, 12 및 142 행",
+    "url": "https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/second-world-war-campaign-narratives/raf-in-the-bombing-offensive-against-germany-vol-ii-restricted-bombing-september-1939-may-1941/",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-08-31 비스터 편제표에 제12·142비행대, Fairey Battle 34·32대가 Strength로 기재된 것을 확인했다."
+    ],
+    "limitations": [
+      "전후 공군부 편찬 초고의 표이다. Strength와 기지 내 주기·가동 가능 대수는 별개이며 9월 1일 직접 실측이 아니다."
+    ],
+    "rights": "RAF 공개 스캔. 원문 이미지 대신 자체 요약과 링크 사용.",
+    "independence_group": "air-ministry-official-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0194",
+    "title": "RAF Bicester Chronology",
+    "institution_or_author": "Bicester Local History Society 공개본",
+    "publication_date": "작성·발행일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "RAF BICESTER CHRONOLOGY (illust)",
+    "locator": "1939 항목, 5월 배치 및 9월 1~2일 단락",
+    "url": "https://www.blhs.org.uk/uploads/documents/RAF%20BICESTER%20CHRONOLOGY%28%20illust%29.pdf",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제12·142비행대의 9월 1일 동원 준비 명령과 다음 날 프랑스 이동 서술을 확인했다."
+    ],
+    "limitations": [
+      "개별 이동일을 뒷받침하는 당일 원장 미확보. 1940년 병합 단락에 부대 번호 반복 오기가 있다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bicester-local-chronology"
+  },
+  {
+    "id": "CAT-GB-SRC-0195",
+    "title": "The Expansion of the Royal Air Force, 1934–1939",
+    "institution_or_author": "Air Ministry, Air Historical Branch (1)",
+    "publication_date": "편찬일 미확인, 전후 초고",
+    "source_type": "secondary",
+    "document_or_accession_number": "G.106,640(a)",
+    "locator": "pp. 142–143, The Alignment of 1939",
+    "url": "https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/second-world-war-thematic-studies/the-expansion-of-the-raf-1934-1939/",
+    "accessed_at": "2026-11-13T14:59:11+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 가을 케임브리지셔 덕스퍼드를 전투기 기지로 분류한 본문을 확인했다."
+    ],
+    "limitations": [
+      "사령부 차원의 후대 서술로 기지의 정격과 9월 1일 기체 일계표가 없다."
+    ],
+    "rights": "RAF 공개 스캔. 자체 요약과 링크만 사용.",
+    "independence_group": "air-ministry-official-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0196",
+    "title": "The Defence of the United Kingdom",
+    "institution_or_author": "Basil Collier / HMSO",
+    "publication_date": "1957",
+    "source_type": "secondary",
+    "document_or_accession_number": "History of the Second World War, United Kingdom Military Series",
+    "locator": "Appendix I, p. 437, Main Fleet—Scapa Flow",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/UK-Defence-UK/UK-DefenseOfUK-I.html",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-08-31 본국함대의 스캐파플로 배치표에서 주력함 7척·항공모함 1척·순양함 12척·구축함 17척을 확인했다."
+    ],
+    "limitations": [
+      "후대 공식 전사 표의 배치 분류다. 로스킬의 공식 전사와 원자료 계통이 겹칠 수 있으며 정박지 동시 수용이나 시각별 현존을 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-official-naval-disposition"
+  },
+  {
+    "id": "CAT-GB-SRC-0197",
+    "title": "Lyness, Hoy: Supplementary Guidance",
+    "institution_or_author": "Orkney Islands Council",
+    "publication_date": "2011-05-10 채택",
+    "source_type": "secondary",
+    "document_or_accession_number": "Lyness Development Brief",
+    "locator": "§§2.1–2.3, 위치도와 Site History",
+    "url": "https://www.orkney.gov.uk/documents/lyness-hoy-adopted-10-may-2011/html",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "천연 정박지 면적 약 140제곱마일, 지상 유류탱크 16기의 1939년 7월 전량 가동, 안벽 개량의 1944년 봄 완공을 확인했다."
+    ],
+    "limitations": [
+      "후대 행정 안내서다. 면적의 조사일·수심 구간 및 1939년 탱크별 정격·실재고를 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "orkney-council-site-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0198",
+    "title": "Former Pump House and Oil Storage Tank and Bund, Scapa Flow Visitor Centre and Museum, Lyness, Hoy",
+    "institution_or_author": "Historic Environment Scotland",
+    "publication_date": "2006-07-21 최초 등재, 2014년 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": "LB50533",
+    "locator": "Summary/NGR, Description 및 Statement of Special Interest",
+    "url": "https://portal.historicenvironment.scot/apex/f?p=1505:300:::::VIEWTYPE,VIEWREF:designation,LB50533",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1937년 펌프장과 지상 유류탱크의 연대 및 2013년 현장 관찰 내용을 확인했다."
+    ],
+    "limitations": [
+      "현존 시설 조사다. 지상 탱크 전체 수량, 1939년 9월 급유량 및 지하 시설 가동 시작일은 이 자료만으로 확정할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hes-fabric-survey"
+  },
+  {
+    "id": "CAT-GB-SRC-0199",
+    "title": "Admiralty War Diary, November 1939",
+    "institution_or_author": "British Admiralty / Royal Navy Naval Historical Branch",
+    "publication_date": "1939-11",
+    "source_type": "primary",
+    "document_or_accession_number": "Admiralty War Diary November 1939",
+    "locator": "1939-11-01 p. 1, Home Commands—Home Fleet Base 및 Home Fleet",
+    "url": "https://cd.royalnavy.mod.uk/-/media/rnweb/locations-and-operations/navy-historical-branch/pdfs/1939/1939/admiralty-war-diary-november-1939.pdf?rev=0a327c1771ea469d82a3475227c4c86f",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "11월 1일 스캐파 복귀가 조건부였고 기함을 포함한 일부 함대가 클라이드에 있었다는 기록을 확인했다."
+    ],
+    "limitations": [
+      "개전일 현존·시설 자료는 아니며 이후 가동 이력을 설명하는 데 사용했다."
+    ],
+    "rights": "Royal Navy 공개 스캔. 자체 요약과 링크만 사용.",
+    "independence_group": "admiralty-war-diary"
+  },
+  {
+    "id": "CAT-GB-SRC-0200",
+    "title": "Annual Report on the Social and Economic Progress of the People of the Straits Settlements, 1938",
+    "institution_or_author": "Straits Settlements Colonial Secretary / HMSO",
+    "publication_date": "1940 출판, 1939-10-07 보고서 서명",
+    "source_type": "primary",
+    "document_or_accession_number": "Colonial Reports—Annual No. 1931",
+    "locator": "p. 5 Chapter I.A, p. 90 Chapter XVII.E",
+    "url": "https://seadelt.net/Asset/Source/Document_ID-430_No-01.pdf",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "해협식민지의 행정 범위 및 1938-02-14 조지 6세 도크 개장과 미국 순양함 3척의 행사 참석을 확인했다."
+    ],
+    "limitations": [
+      "참석 기록은 1939년 현지 함대 배치나 도크 입거 실적을 나타내지 않는다."
+    ],
+    "rights": "스캔 표지에 Crown Copyright Reserved 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "straits-settlements-colonial-report"
+  },
+  {
+    "id": "CAT-GB-SRC-0201",
+    "title": "Navy Estimates, 1938",
+    "institution_or_author": "UK Parliament / Admiralty Parliamentary Secretary Geoffrey Shakespeare",
+    "publication_date": "1938-03-17",
+    "source_type": "primary",
+    "document_or_accession_number": "HC Deb vol. 333 cc623–737",
+    "locator": "cc626–627, Shakespeare의 싱가포르 도크·추가 공사 설명",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1938/mar/17/navy-estimates-1938",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "퀸 메리 크기 선박의 수용 가능성에 관한 정부 설명과 안벽·창고 등 추가 공사 예산을 확인했다."
+    ],
+    "limitations": [
+      "당대 발표의 수용 평가와 예산이다. 실제 입거 기록이나 1939-09-01 준공 검사는 아니다."
+    ],
+    "rights": "UK Parliament 공개 열람. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-admiralty-parliament"
+  },
+  {
+    "id": "CAT-GB-SRC-0202",
+    "title": "Dive into the Naval History and Stories of the Diverse Communities of Sembawang with a New Heritage Trail of the Coastal Town",
+    "institution_or_author": "Singapore National Heritage Board",
+    "publication_date": "2021-07-13",
+    "source_type": "secondary",
+    "document_or_accession_number": "Sembawang Heritage Trail 보도자료",
+    "locator": "p. 9, Sembawang Naval Base and Vicinity; p. 13, Annex C §2",
+    "url": "https://www.nhb.gov.sg/-/media/nhb/files/media/releases/2021/media-release---dive-into-the-naval-history-and-stories-of-the-diverse-communities-of-sembawang.pdf",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "조지 6세 도크 길이 305 m 및 1937년 준공·1938년 개장 구분을 확인했다."
+    ],
+    "limitations": [
+      "도크 길이는 후대 기관 표기이며 유효 입거 길이·문폭·당시 수심 전체를 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "singapore-nhb-trail"
+  },
+  {
+    "id": "CAT-GB-SRC-0203",
+    "title": "The Story of Two Shipyards: Keppel & Sembawang",
+    "institution_or_author": "Wee Beng Geok / National Library Board Singapore, BiblioAsia",
+    "publication_date": "2019-07-07",
+    "source_type": "secondary",
+    "document_or_accession_number": "BiblioAsia vol. 15 no. 2",
+    "locator": "A New Naval Base in Asia; The War Comes to Singapore",
+    "url": "https://biblioasia.nlb.gov.sg/all-sections/vol-15-issue-2-jul-sep-2019-shipyards-keppel-sembawang/",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "셈바왕 부유식 도크의 1928년 취역, 50,000 tons 인양 능력, 1942년 파괴·일본군 복구를 확인했다."
+    ],
+    "limitations": [
+      "인양량 원문의 ton 정의 및 1939년 실제 입거 횟수 미상. 고정 도크 완공 시점은 NHB와 달라 개장일과 분리했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "singapore-nlb-shipyard-history"
+  },
+  {
+    "id": "CAT-GB-SRC-0204",
+    "title": "Singapore Dockyard: The Truncated Scheme and construction of the missing wharf walls 1938–1941",
+    "institution_or_author": "Bernard Mennell / Naval Historical Society of Australia",
+    "publication_date": "2019-05 최초 발행, 2020-12-19 재게시",
+    "source_type": "secondary",
+    "document_or_accession_number": "Dockyards 24(1); TNA 사진 ADM116/3664, ADM195/116-A38",
+    "locator": "개장·추가 계약·완공 미확정 단락 및 1938·1940 사진",
+    "url": "https://navyhistory.au/singapore-dockyard-the-truncated-scheme-and-construction-of-the-missing-wharf-walls-1938-1941/",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 개장 사진과 1940-02-15 동쪽 안벽 공사 사진의 복제 이미지를 대조했다."
+    ],
+    "limitations": [
+      "사진은 해당 구역의 관측값이다. 완공일과 1939-09-01 군항 전체 접안 능력은 원문에서 확정하지 않는다."
+    ],
+    "rights": "Naval Historical Review 권리 유보 및 TNA 소장 표기. 이미지 재게시 없이 자체 요약과 링크만 사용.",
+    "independence_group": "mennell-tna-photographs"
+  },
+  {
+    "id": "CAT-GB-SRC-0205",
+    "title": "Royal Navy Ships, September 1939",
+    "institution_or_author": "Don Kindell / Naval-History.Net",
+    "publication_date": "게시일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "British and Other Navies in World War 2 Day-by-Day, September 1939",
+    "locator": "Foreign Stations—China Station, Aircraft carrier 및 21st Destroyer Flotilla",
+    "url": "https://www.naval-history.net/xDKWW2-3909-04RN.htm",
+    "accessed_at": "2026-11-13T17:06:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "9월 1일 제41구축함분대 싱가포르 도착과 9월 3일 항공모함 Eagle 출항 서술을 확인했다."
+    ],
+    "limitations": [
+      "후대 함정 이동 편찬이며 싱가포르 항역 내 개별 선석이나 기지 전체의 상주 척수는 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "kindell-ship-movement-compilation"
+  }
+]

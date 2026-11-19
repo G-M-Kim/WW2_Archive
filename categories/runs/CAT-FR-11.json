@@ -1,0 +1,66 @@
+{
+  "step": 30,
+  "job_id": "CAT-FR-11",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 11,
+  "category": "유명 군수기업",
+  "article_path": "categories/france/11-military-industry.md",
+  "status": "partial",
+  "completed_at": "2026-11-11T11:02:01+09:00",
+  "started_at": "2026-11-11T10:54:48+09:00",
+  "base_head": "3b5d9f01f1c22db0c7aead99035c27a1d0598511",
+  "source_ids": [
+    "CAT-FR-SRC-0003",
+    "CAT-FR-SRC-0053",
+    "CAT-FR-SRC-0099",
+    "CAT-FR-SRC-0100",
+    "CAT-FR-SRC-0101",
+    "CAT-FR-SRC-0102",
+    "CAT-FR-SRC-0103",
+    "CAT-FR-SRC-0104",
+    "CAT-FR-SRC-0105"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0036",
+    "CAT-FR-RQ-0037",
+    "CAT-FR-RQ-0038"
+  ],
+  "entity_ids": [
+    "CAT-FR-ORG-0001",
+    "CAT-FR-ORG-0002",
+    "CAT-FR-ORG-0003"
+  ],
+  "research_scope": "르노의 빌랑쿠르 차량 생산·독일 점령군 주문·노동자 이송·국영화와 LMT·CGCT의 통신기기 생산·전시 계약.",
+  "limitations": [
+    "르노 생산 실적과 주문액은 당대 일기 속 회사보고서 발췌에 근거한다. 원보고서와 인수증 및 USSBS 보고서 본문 미확보.",
+    "독일 이송 압력과 당사자별 책임·배치·규모를 구분했다. 이송 명부 및 현장 노동 자료 미확보.",
+    "CIOS의 면담 및 표본 검사와 계약·납품 원장을 구분했다. 항공·조선·전력·화학 부문은 후속 범위."
+  ],
+  "evidence_checked": [
+    "Picard 일기 1942년 7월24일과 10월17·22·28일의 전재본, 르노 국영화 명령 제7조, 산업유산 IA00126644",
+    "CIOS I-1 스캔 25–26·39–40쪽과 전사본, Homburg 530–531쪽, Blanchard §6.1",
+    "Hatry의 점령기 생산 도표 설명과 의회도서관 REPORTS 80 서지"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://findingaids.loc.gov/repositories/25/digital_objects/1076829",
+      "result": "개별 디지털 자료 페이지 403. PDF 소장 목록의 REPORTS 80과 청구기호만 확인."
+    },
+    {
+      "url": "https://lccn.loc.gov/54028435",
+      "result": "카탈로그로 이동한 주소가 도구에서 열리지 않음. 빌랑쿠르 보고서 표 미확보."
+    },
+    {
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000886347",
+      "result": "직접 파일 접근에서 403, 웹 조회에서 명령 표제 및 관보 안내 확인. 별도 공식 법령 페이지로 1945년 1월17일 기준 제7조 열람."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=30 pending=103; sources=353 questions=131. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

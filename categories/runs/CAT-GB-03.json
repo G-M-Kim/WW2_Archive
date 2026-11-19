@@ -1,0 +1,65 @@
+{
+  "step": 41,
+  "job_id": "CAT-GB-03",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 3,
+  "category": "함선 및 함정, 무장, 성능",
+  "article_path": "categories/united-kingdom/03-naval-vessels.md",
+  "status": "partial",
+  "completed_at": "2026-11-12T10:56:25+09:00",
+  "started_at": "2026-11-12T08:48:15+09:00",
+  "base_head": "53399228bbf9cf54c85837d9e82ccf286abfdef1",
+  "source_ids": [
+    "CAT-GB-SRC-0007",
+    "CAT-GB-SRC-0008",
+    "CAT-GB-SRC-0031",
+    "CAT-GB-SRC-0032",
+    "CAT-GB-SRC-0033",
+    "CAT-GB-SRC-0034",
+    "CAT-GB-SRC-0035",
+    "CAT-GB-SRC-0036",
+    "CAT-GB-SRC-0037",
+    "CAT-GB-SRC-0038",
+    "CAT-GB-SRC-0039"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0012",
+    "CAT-GB-RQ-0013",
+    "CAT-GB-RQ-0014",
+    "CAT-GB-RQ-0015"
+  ],
+  "entity_ids": [
+    "CAT-GB-EQP-0007",
+    "CAT-GB-EQP-0008",
+    "CAT-GB-EQP-0009"
+  ],
+  "research_scope": "왕립해군 전함 Prince of Wales, 함대항공모함 Illustrious, 경순양함 Belfast의 전시 무장·배치·운용 사례.",
+  "limitations": [
+    "세 함정의 인수 시운전 및 개장별 완전한 무장 목록을 확보하지 못했다.",
+    "타란토 이함 수와 속도, 노르카프 탐지 거리는 해당 작전의 기록이며 정원·최대 성능 수치는 미확인.",
+    "추가 주력함, 구축함, 잠수함, 호위함, 상륙함과 보조함은 후속 범위."
+  ],
+  "evidence_checked": [
+    "해군성 B.R. 1736 (8)/1955 §12·부록 A와 AWM P02018.056 사진·소장 설명",
+    "London Gazette 38023호 함장 보고 §§4·9–10 및 38038호 프레이저 보고 §§22–27",
+    "Royal Museums Greenwich NPB5300·NPN4629·J8754·NPA6728 소장 기술, Naval Aviation News 61쪽, National Historic Ships 123"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.thegazette.co.uk/London/issue/38023/supplement/3471/data.pdf",
+      "result": "직접 PDF 요청은 검색 도구에서 접근 불가를 반환했다. 동일 관보 호수의 HyperWar 스캔에서 함장 보고를 확인했다."
+    },
+    {
+      "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-597204",
+      "result": "공개 소장 기술의 작성일과 장착 상태 설명을 확인했다. 도면 판독으로 제원이나 무장 수를 확정하지 않았다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=41 pending=92; sources=476 questions=170. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

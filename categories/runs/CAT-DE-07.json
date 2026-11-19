@@ -1,0 +1,56 @@
+{
+  "step": 7,
+  "job_id": "CAT-DE-07",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 7,
+  "category": "유명한 전투 참여 인물",
+  "article_path": "categories/germany/07-combat-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-09T12:54:28+09:00",
+  "started_at": "2026-11-09T12:49:34+09:00",
+  "base_head": "9fcaacc05d3595ac9697da0287186c1582ab2fc6",
+  "source_ids": [
+    "CAT-DE-SRC-0029",
+    "CAT-DE-SRC-0030",
+    "CAT-DE-SRC-0031",
+    "CAT-DE-SRC-0032",
+    "CAT-DE-SRC-0033",
+    "CAT-DE-SRC-0034",
+    "CAT-DE-SRC-0035"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0025",
+    "CAT-DE-RQ-0026",
+    "CAT-DE-RQ-0027",
+    "CAT-DE-RQ-0028"
+  ],
+  "entity_ids": [
+    "CAT-DE-PER-0001",
+    "CAT-DE-PER-0002"
+  ],
+  "research_scope": "만슈타인 지휘 이력·제11군 4064-PS·법정 증언·1949년 별도 재판, 되니츠의 잠수함전 지휘·BdU PG30320·국제군사재판 판결.",
+  "limitations": [
+    "돈 집단군 인수월 불일치 및 1949년 혐의별 판결문 미열람.",
+    "작전일지에서 되니츠 개인 서명 및 함별 명령 수신을 확인하지 못함.",
+    "육군·해군 각 한 명의 대표 사례. 공군 등 나머지 범위 미조사."
+  ],
+  "evidence_checked": [
+    "DHM 전기 두 편 및 KCL 소장 목록 본문",
+    "IMT Vol. XXXIV 4064-PS 인쇄본과 Vol. XX 644–645쪽 증언 전사",
+    "IMT Vol. I 판결·형량 및 BdU PG30320 1943-03-16 번역 전사"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://atom.aim25.com/index.php/von-manstein-fm-fritz-erich-1887-1973?sf_culture=en",
+      "result": "소장 목록의 재판기록과 보존번호 확인. 개별 혐의별 판결문 및 감형 문서는 열람하지 못함."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=7 pending=126; sources=35 questions=28. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; pinned HEAD snapshot."
+  }
+}

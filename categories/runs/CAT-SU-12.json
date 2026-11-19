@@ -1,0 +1,53 @@
+{
+  "step": 126,
+  "job_id": "CAT-SU-12",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 12,
+  "category": "당시 인구",
+  "article_path": "categories/soviet-union/12-population.md",
+  "status": "partial",
+  "started_at": "2026-11-19T10:50:08+09:00",
+  "completed_at": "2026-11-19T10:54:19+09:00",
+  "base_head": "efc8f234905e266621190c2226b8a1f4fd5a4c20",
+  "source_ids": [
+    "CAT-SU-SRC-0101",
+    "CAT-SU-SRC-0102",
+    "CAT-SU-SRC-0103",
+    "CAT-SU-SRC-0104",
+    "CAT-SU-SRC-0105",
+    "CAT-SU-SRC-0106"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0044",
+    "CAT-SU-RQ-0045",
+    "CAT-SU-RQ-0046",
+    "CAT-SU-RQ-0047"
+  ],
+  "entity_ids": [],
+  "research_scope": "1939년 전연방 공표 집계·성별·도농, 국경을 달리한 소급 추계, 1941·1946년 복원·가상 인구를 구분해 조사했다.",
+  "limitations": [
+    "조사표·통계연감·Rosstat 표는 전사·재수록을 읽었다. 원 인쇄본과 조사표 이미지는 미대조다.",
+    "통계기관 원 PDF와 복원 원서는 시간초과·파일 크기 제한으로 확인하지 못했다. 개별 추계의 국경 조정·거주 개념·국제이주 처리는 남았다.",
+    "1939-09-01·1945-09-02 당일 인구와 공화국별 전수표는 미확보다. 총계 차이를 전쟁 사망자 수로 쓰지 않았다."
+  ],
+  "evidence_checked": [
+    "1939년 표15д의 총계·성별 전사와 РГАЭ 소장기호를 확인하고 남녀 합계가 총계와 일치함을 계산했다.",
+    "1960년 연감 전사의 인쇄 7–9쪽 안내 표에서 조사일·종전 경계·확대 영역과 도농·성별 반올림값을 읽었다.",
+    "보고야블렌스키의 1939년 과대계상·특별집계 재배분 분석을 읽었다.",
+    "Rosstat 2015년 편찬물의 Demoscope 재수록 표·각주에서 복원 추계·가상 시나리오·점령지역 표의 기준을 확인했다."
+  ],
+  "access_attempts": [
+    "Rosstat 영문 PDF를 두 차례 열었으나 TimeoutError였다. 러시아어 2020년 편찬물·통계사 PDF와 2015년 발표 페이지도 시간초과였다.",
+    "HSE의 안드레예프·다르스키·하리코바 원서 PDF 열기는 400 Content length is too large: 11397172였다.",
+    "IstMat의 www 주소는 첫 열기에 실패했으나 기본 istmat.org 주소에서 본문이 열렸다.",
+    "대상 원고는 최신 HEAD에서 404였고 이번 첫 검사로 생성했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=126 pending=7; sources=1237 questions=477. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}

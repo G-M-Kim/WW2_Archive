@@ -1,0 +1,222 @@
+{
+  "step": 19,
+  "job_id": "CAT-DE-19",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 19,
+  "category": "개전 시점 주요 해군기지와 규모(1~10)",
+  "article_path": "categories/germany/19-naval-bases-start.md",
+  "status": "partial",
+  "completed_at": "2026-11-10T12:57:38+09:00",
+  "started_at": "2026-11-10T12:49:06+09:00",
+  "base_head": "9d21aeb5f3250a56349ec43795e02acaad2a2cda",
+  "source_ids": [
+    "CAT-DE-SRC-0100",
+    "CAT-DE-SRC-0103",
+    "CAT-DE-SRC-0150",
+    "CAT-DE-SRC-0151",
+    "CAT-DE-SRC-0152",
+    "CAT-DE-SRC-0153",
+    "CAT-DE-SRC-0154",
+    "CAT-DE-SRC-0155",
+    "CAT-DE-SRC-0156",
+    "CAT-DE-SRC-0157"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0073",
+    "CAT-DE-RQ-0074",
+    "CAT-DE-RQ-0075"
+  ],
+  "entity_ids": [
+    "CAT-DE-GEO-0021",
+    "CAT-DE-GEO-0022"
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-DE-GEO-0021",
+      "reference_date": "1939-09-01",
+      "historical_name": "Wilhelmshaven / Kriegsmarinewerft Wilhelmshaven",
+      "modern_location": "니더작센주 빌헬름스하펜, 야데만 서안",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "야데만 서안 빌헬름스하펜의 군용 내항, 해군 조선소 및 기존 입구. 민간 항만과 공사 중인 제4입구·북조선소 증설분은 제외.",
+      "territorial_status": "독일 본토, 독일의 법적 관할 및 실효지배",
+      "operators": "Kriegsmarine 및 Kriegsmarinewerft",
+      "operational_status": "구 시설의 전전 수리·조선 및 1939년 9월 입출항 사례 확인. 개전 당일 가동량 미확인.",
+      "source_survey_dates": [
+        "제3입구 1906–1909년 건설, 목록 측량일 미상",
+        "1915년 부유 크레인 제원",
+        "1939-09-04 및 09-08 잠수함 전시일지",
+        "1942-11-07 제4입구 동쪽 갑실 첫 통항"
+      ],
+      "metrics": [
+        {
+          "metric": "제3입구 갑실 수",
+          "value": 2,
+          "unit": "개",
+          "date": "1906–1909년 건설, 측량일 미상",
+          "boundary": "제3항구 입구",
+          "source_id": "CAT-DE-SRC-0151",
+          "locator": "Beschreibung",
+          "capacity_or_actual": "시설 수"
+        },
+        {
+          "metric": "제3입구 갑실별 길이",
+          "value": 250,
+          "unit": "m",
+          "date": "1906–1909년 건설, 측량일 미상",
+          "boundary": "제3항구 입구",
+          "source_id": "CAT-DE-SRC-0151",
+          "locator": "Beschreibung",
+          "capacity_or_actual": "시설 길이"
+        },
+        {
+          "metric": "LANGER HEINRICH 인양 정격",
+          "value": 250,
+          "unit": "t",
+          "date": "1915년 시설 제원, 1939-09-01 가용 확인 못함",
+          "boundary": "구 해군 조선소",
+          "source_id": "CAT-DE-SRC-0150",
+          "locator": "172쪽",
+          "capacity_or_actual": "설치 장비 정격"
+        },
+        {
+          "metric": "U 3 출항·귀항",
+          "value": "제1입구 출항, 제3입구 경유 귀항",
+          "unit": "순찰 기록",
+          "date": "1939-09-04 및 09-08",
+          "boundary": "야데만 서안 빌헬름스하펜의 군용 내항, 해군 조선소 및 기존 입구. 민간 항만과 공사 중인 제4입구·북조선소 증설분은 제외.",
+          "source_id": "CAT-DE-SRC-0153",
+          "locator": "2·6쪽",
+          "capacity_or_actual": "실제 가동 사례"
+        },
+        {
+          "metric": "제4입구 동쪽 갑실 첫 통항",
+          "value": "Emden",
+          "unit": "함명",
+          "date": "1942-11-07",
+          "boundary": "제4항구 입구",
+          "source_id": "CAT-DE-SRC-0152",
+          "locator": "82–83쪽",
+          "capacity_or_actual": "후년 실제 가동, 기준일 제외"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "갑실 길이는 입거·계류 능력과 다른 지표. 군용 접안 정원과 도크 제원, 수리·보급 실적 및 공통 기준을 확보하지 못함.",
+      "source_ids": [
+        "CAT-DE-SRC-0150",
+        "CAT-DE-SRC-0151",
+        "CAT-DE-SRC-0152",
+        "CAT-DE-SRC-0153",
+        "CAT-DE-SRC-0154"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-DE-GEO-0022",
+      "reference_date": "1939-09-01",
+      "historical_name": "Kiel / Marinehafen Kiel / Kriegsmarinewerft Kiel",
+      "modern_location": "슐레스비히홀슈타인주 킬, 킬 피오르 Wik 및 Dietrichsdorf",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "킬 피오르의 Wik 서안 해군항과 해군공창 및 1939년 해군에 통합된 Dietrichsdorf 시설. 별도 운영 민간 조선소·상항은 제외.",
+      "territorial_status": "독일 본토, 독일의 법적 관할 및 실효지배",
+      "operators": "Kriegsmarine 및 Kriegsmarinewerft Kiel",
+      "operational_status": "1939년 공창 통합 및 9월 접안 사례 확인. 1940년 도크 사용 관측은 별도. 개전 당일 함정 수·가동량 미확인.",
+      "source_survey_dates": [
+        "Wik 전전 조성 시기는 시립기록관 후대 연혁",
+        "1939-04-01 공창 통합",
+        "1939-09-17 U 48 계류",
+        "1940-08-01 영국 해군성 정찰 기록"
+      ],
+      "metrics": [
+        {
+          "metric": "Howaldt 시설과 해군공창의 통합",
+          "value": "Kriegsmarinewerft Kiel",
+          "unit": "조직명",
+          "date": "1939-04-01",
+          "boundary": "Dietrichsdorf 및 해군공창",
+          "source_id": "CAT-DE-SRC-0150",
+          "locator": "199–200쪽",
+          "capacity_or_actual": "운영 주체·경계 변화"
+        },
+        {
+          "metric": "U 48 계류",
+          "value": "Tirpitz Mole",
+          "unit": "부두명",
+          "date": "1939-09-17 05:50",
+          "boundary": "Wik 군항",
+          "source_id": "CAT-DE-SRC-0157",
+          "locator": "13쪽",
+          "capacity_or_actual": "실제 가동 사례"
+        },
+        {
+          "metric": "도크 및 공창 부두 이용",
+          "value": "함정의 도크 입거와 공창 부두 계류 관측",
+          "unit": "정찰 보고",
+          "date": "1940-08-01",
+          "boundary": "보고서상 Kiel, 개별 설비 귀속 미확인",
+          "source_id": "CAT-DE-SRC-0156",
+          "locator": "12쪽",
+          "capacity_or_actual": "후년 실제 가동 관측"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "개전일 군용 접안 길이, 도크 수·규격, 수리 작업량, 연료·탄약 처리 능력과 공통 기준을 확보하지 못함.",
+      "source_ids": [
+        "CAT-DE-SRC-0150",
+        "CAT-DE-SRC-0154",
+        "CAT-DE-SRC-0155",
+        "CAT-DE-SRC-0156",
+        "CAT-DE-SRC-0157"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "research_scope": "1939-09-01 독일 본토의 빌헬름스하펜과 킬 해군기지. 당시 군용 범위, 입출항, 수리와 증설을 구분.",
+  "limitations": [
+    "개전 당일 부두 수용량, 입거 제원과 정비·보급 처리량, 공통 비교 기준 부족으로 두 기지 점수·범위는 null.",
+    "제3갑문 치수는 기록관 설명의 시설 길이. 1940년 킬 도크 사용 관측은 개전 기준일과 분리. 기타 기지는 후보 조사로 남김."
+  ],
+  "evidence_checked": [
+    "U 3 KTB 제1차 순찰 2·6쪽과 U 48 KTB 제1차 순찰 13쪽 영어 번역 본문",
+    "영국 해군성 1940-08-01 전시일지 12쪽의 킬 항공정찰 판독",
+    "독일해양박물관 학술지 Peters 171–172·199–200쪽, 빌헬름스하펜 제3갑문 기록관 목록과 제4갑문 지역사",
+    "BArch RM 104 소장군 설명과 킬 시립기록관의 Wik 해군항 연혁"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.uboatarchive.net/U-3/KTB3-1COSig.gif",
+      "result": "웹 열람에서 GIF 형식 미지원 응답. U 3의 해당 기항 근거는 KTB 번역 본문으로 제한."
+    },
+    {
+      "url": "https://www.usnwcarchives.org/repositories/2/digital_objects/800",
+      "result": "웹 열람에서 HTTP 403 응답. 해당 문서는 근거와 출처 수에서 제외."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=19 pending=114; sources=157 questions=75. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; pinned HEAD snapshot."
+  }
+}

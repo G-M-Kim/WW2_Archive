@@ -1,0 +1,67 @@
+{
+  "step": 60,
+  "job_id": "CAT-US-03",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 3,
+  "category": "함선 및 함정, 무장, 성능",
+  "article_path": "categories/united-states/03-naval-vessels.md",
+  "status": "partial",
+  "completed_at": "2026-11-13T23:00:38+09:00",
+  "started_at": "2026-11-13T22:55:08+09:00",
+  "base_head": "25e2bf77593ff75b84817fe97fa022fee8d4be6e",
+  "source_ids": [
+    "CAT-US-SRC-0033",
+    "CAT-US-SRC-0034",
+    "CAT-US-SRC-0035",
+    "CAT-US-SRC-0036",
+    "CAT-US-SRC-0037",
+    "CAT-US-SRC-0038",
+    "CAT-US-SRC-0039",
+    "CAT-US-SRC-0040",
+    "CAT-US-SRC-0041"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0012",
+    "CAT-US-RQ-0013",
+    "CAT-US-RQ-0014",
+    "CAT-US-RQ-0015"
+  ],
+  "entity_ids": [
+    "CAT-US-EQP-0007",
+    "CAT-US-EQP-0008",
+    "CAT-US-EQP-0009"
+  ],
+  "research_scope": "에식스급 항공모함 USS Essex, 아이오와급 전함 USS Missouri, 가토급 잠수함 USS Gato의 함급 제원 및 개별함 전시 운용과 장비 변동.",
+  "limitations": [
+    "ONI 함급 표와 후대 개별함 제원은 날짜·배수 상태·시험 조건이 일치하는지 미확인이다.",
+    "가토의 순찰보고는 박물관 발췌만 확인했고, 1944년 갑판포는 사진 목록의 설명에 근거했다.",
+    "순양함·구축함·호위함·상륙함정·지원함·소형 전투정의 상세 조사는 후속 과제다."
+  ],
+  "evidence_checked": [
+    "ONI 222-US 인쇄 pp. 1, 29, 113. DANFS Essex 전재본, USNI Proceedings 본문과 NHHC Nasuti 인쇄 p. 4.",
+    "NARA 항복문서 판면 1쪽과 전사문, 미주리 기념관 개별함 설명과 1992년 제원표.",
+    "가토 사진 목록의 19-N-75563·75565 설명과 잠수함 박물관의 제7차 순찰보고 발췌."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/e/essex-iv.html",
+      "result": "502 또는 시간 초과. DANFS 전재본 본문을 열람했다."
+    },
+    {
+      "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/g/gato-i.html",
+      "result": "시간 초과. 검색 요약을 본문 열람으로 처리하지 않고 사진 목록과 박물관의 순찰보고 발췌를 사용했다."
+    },
+    {
+      "url": "https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/80-G-270000/80-G-270738.html",
+      "result": "시간 초과. NHHC 간행물 인쇄 p. 4에서 같은 번호의 재수록 사진 설명을 열람했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=60 pending=73; sources=667 questions=243. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

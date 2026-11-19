@@ -1,0 +1,66 @@
+{
+  "step": 29,
+  "job_id": "CAT-FR-10",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 10,
+  "category": "유명 연설의 영상자료",
+  "article_path": "categories/france/10-speech-videos.md",
+  "status": "partial",
+  "completed_at": "2026-11-11T08:52:31+09:00",
+  "started_at": "2026-11-11T08:47:46+09:00",
+  "base_head": "b5d7bea58dd49d0ebf5959310df9b3f6b1be359b",
+  "source_ids": [
+    "CAT-FR-SRC-0092",
+    "CAT-FR-SRC-0093",
+    "CAT-FR-SRC-0094",
+    "CAT-FR-SRC-0095",
+    "CAT-FR-SRC-0096",
+    "CAT-FR-SRC-0097",
+    "CAT-FR-SRC-0098"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0033",
+    "CAT-FR-RQ-0034",
+    "CAT-FR-RQ-0035"
+  ],
+  "entity_ids": [
+    "CAT-FR-PER-0006"
+  ],
+  "research_scope": "드골의 6월18일·22일 방송 보존 구분, 바외 A70 45-1·45-3 무성 필름, 파리 시청 연설의 CLCF/INA 발췌 목록.",
+  "limitations": [
+    "6월22일 음반과 웹 제공본 길이 차이는 미해결. INA 청취·영상 재생은 미확인.",
+    "바외 Part1의 공개 미리보기는 로컬 일시 열람. 원필름 전편과 발언 대응 미확인.",
+    "파리 편집본의 원음·동기 여부 미확인. 드골 이외 인사는 후속 범위."
+  ],
+  "evidence_checked": [
+    "국립기록관 자필 원고 소장번호와 녹음 미보존 설명, INA·BBC 공동 신청서 §3.1",
+    "AERI media10277 및 IWM A70 45-1·45-3 목록; Part1 미리보기00:30·00:45 화면, ffprobe114.958333초·음성0트랙",
+    "AERI media4599의 원영화 위치와 발췌 내부 타임코드, 드골 재단 교육 해설"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://fresques.ina.fr/jalons/export/player/InaEdu00280",
+      "result": "restricted URL 오류. 음성 청취 미확인."
+    },
+    {
+      "url": "https://player.ina.fr/embed/I00007088",
+      "result": "플레이어 HTML만 반환. 영상·음성 재생 미확인."
+    },
+    {
+      "url": "https://www.iwm.org.uk/collections/item/object/1060019435",
+      "result": "403. IWM Film record/2282의 공개 목록 및 미리보기로 접근."
+    },
+    {
+      "url": "https://film.iwmcollections.org.uk/record/2282",
+      "result": "HTML200. 제공된 공개 HLS 미리보기를 일시 열람. 접근 서명과 매체 파일은 저장 커밋에서 제외."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=29 pending=104; sources=346 questions=128. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

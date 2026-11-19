@@ -1,0 +1,70 @@
+{
+  "step": 90,
+  "job_id": "CAT-JP-14",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 14,
+  "category": "당시 영토",
+  "article_path": "categories/japan/14-territory.md",
+  "status": "partial",
+  "completed_at": "2026-11-16T10:59:09+09:00",
+  "started_at": "2026-11-16T10:51:37+09:00",
+  "base_head": "45ef0736876568d047d68f7100312b9a0a845a2b",
+  "source_ids": [
+    "CAT-JP-SRC-0078",
+    "CAT-JP-SRC-0108",
+    "CAT-JP-SRC-0110",
+    "CAT-JP-SRC-0112",
+    "CAT-JP-SRC-0116",
+    "CAT-JP-SRC-0126",
+    "CAT-JP-SRC-0127",
+    "CAT-JP-SRC-0128",
+    "CAT-JP-SRC-0129",
+    "CAT-JP-SRC-0130",
+    "CAT-JP-SRC-0131",
+    "CAT-JP-SRC-0132",
+    "CAT-JP-SRC-0133",
+    "CAT-JP-SRC-0134",
+    "CAT-JP-SRC-0135",
+    "CAT-JP-SRC-0136",
+    "CAT-JP-SRC-0137",
+    "CAT-JP-SRC-0138",
+    "CAT-JP-SRC-0139"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0045",
+    "CAT-JP-RQ-0046",
+    "CAT-JP-RQ-0047"
+  ],
+  "entity_ids": [
+    "CAT-JP-GEO-0001",
+    "CAT-JP-GEO-0002",
+    "CAT-JP-GEO-0003",
+    "CAT-JP-GEO-0004",
+    "CAT-JP-GEO-0005",
+    "CAT-JP-GEO-0006",
+    "CAT-JP-GEO-0007",
+    "CAT-JP-GEO-0011",
+    "CAT-JP-GEO-0012",
+    "CAT-JP-GEO-0013",
+    "CAT-JP-GEO-0014"
+  ],
+  "research_scope": "일본 내지와 조선·대만 식민지, 관동주 조차, 가라후토·지시마, 남양군도 위임통치, 만주국과 싱가포르 대표 사례.",
+  "limitations": [
+    "1945년 9월 2일 전후의 도서별·항구별 인수, 상세 군정 경계와 조약 용어의 공간 범위는 미확인이다.",
+    "광역 지도는 시기별 군사 범위를 보여 주며 면적 환산에 사용하지 않았다. 중국·동남아·태평양 전체 군정 경계는 후속 범위다."
+  ],
+  "evidence_checked": [
+    "트루먼 도서관 M848 지도 원본과 소장 해제를 열어 1941년 11월 및 1942년 7월 범례를 확인했다.",
+    "조차와 할양, 국제연맹 위임통치, 카이로·포츠담, 일본 항복과 일반명령, 행정 분리 및 강화조약을 대조했다.",
+    "기록관과 유산기관의 조선·대만·오키나와·싱가포르 및 지시마 관련 자료를 읽어 항복 조인과 지역별 실효 통제의 차이를 정리했다."
+  ],
+  "access_attempts": [],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=90 pending=43; sources=955 questions=351. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

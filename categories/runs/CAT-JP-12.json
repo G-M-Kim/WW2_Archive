@@ -1,0 +1,62 @@
+{
+  "step": 88,
+  "job_id": "CAT-JP-12",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 12,
+  "category": "당시 인구",
+  "article_path": "categories/japan/12-population.md",
+  "status": "partial",
+  "completed_at": "2026-11-16T07:00:12+09:00",
+  "started_at": "2026-11-16T06:52:55+09:00",
+  "base_head": "1837899772e987547131975a8f1a202be59c38a9",
+  "source_ids": [
+    "CAT-JP-SRC-0108",
+    "CAT-JP-SRC-0109",
+    "CAT-JP-SRC-0110",
+    "CAT-JP-SRC-0111",
+    "CAT-JP-SRC-0112",
+    "CAT-JP-SRC-0113",
+    "CAT-JP-SRC-0114",
+    "CAT-JP-SRC-0115",
+    "CAT-JP-SRC-0116"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0039",
+    "CAT-JP-RQ-0040",
+    "CAT-JP-RQ-0041"
+  ],
+  "entity_ids": [
+    "CAT-JP-GEO-0001",
+    "CAT-JP-GEO-0002",
+    "CAT-JP-GEO-0003",
+    "CAT-JP-GEO-0004",
+    "CAT-JP-GEO-0005",
+    "CAT-JP-GEO-0006",
+    "CAT-JP-GEO-0007"
+  ],
+  "research_scope": "1940년 일본 내지 및 5개 외지 통계와 1944·1945년 일본 인구조사, 1940·1944년 한반도 인구의 기준일과 대상.",
+  "limitations": [
+    "1945년 종전 당일 수치는 확인하지 못했다. 11월 조사 실측과 SCAP 보정치의 대상과 범위가 다르다.",
+    "1945년 SCAP 실측 표와 일본 통계국 공표치의 차이, 오키나와 및 외곽 도서의 별도 조사, 외지별 원표와 점령지 인구는 후속 검증 대상이다."
+  ],
+  "evidence_checked": [
+    "동시대 연감 본문의 1940년 6개 구역 인구·주석을 확인하고 합계를 재산출했다.",
+    "일본 통계국 조사 방법 및 인구문제연구소 표와 SCAP 1946년 원본을 대조했다.",
+    "한반도 지역 인구의 1940년 총수와 1944년 별도 기준일을 ESCAP 보고서에서 확인했다."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.jacar.archives.go.jp/das/meta/A03022809000",
+      "status": "inaccessible",
+      "detail": "1943년 가라후토청 관제 개정 원문을 직접 열 수 없었다. 기록관 글로서리의 문서 번호와 설명을 확인했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=88 pending=45; sources=932 questions=345. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

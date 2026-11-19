@@ -1,0 +1,61 @@
+{
+  "step": 78,
+  "job_id": "CAT-JP-02",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 2,
+  "category": "전차 제외 기갑장비, 무장, 성능",
+  "article_path": "categories/japan/02-other-armored-vehicles.md",
+  "status": "partial",
+  "completed_at": "2026-11-15T10:59:50+09:00",
+  "started_at": "2026-11-15T10:52:00+09:00",
+  "base_head": "8b5fffde79e8cea718a0f8dd144162710b26145e",
+  "source_ids": [
+    "CAT-JP-SRC-0017",
+    "CAT-JP-SRC-0026",
+    "CAT-JP-SRC-0027",
+    "CAT-JP-SRC-0028",
+    "CAT-JP-SRC-0029",
+    "CAT-JP-SRC-0030"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0007",
+    "CAT-JP-RQ-0008",
+    "CAT-JP-RQ-0009"
+  ],
+  "entity_ids": [
+    "CAT-JP-EQP-0005",
+    "CAT-JP-EQP-0006",
+    "CAT-JP-EQP-0007",
+    "CAT-JP-EQP-0008"
+  ],
+  "research_scope": "94식·97식 경장갑차의 무장·기동성·전시 기록, 루손의 75 mm 자주포와 웨와크의 장갑구난차 노획 사례.",
+  "limitations": [
+    "94식 중량 자료와 명칭이 일치하지 않으며 계량·하중·형식 조건 미확인.",
+    "97식 무장별 생산·배치 및 자주포·구난차의 일본 측 제식 식별 미확인.",
+    "장갑 수송차·차륜 장갑차·공병차량은 후속 범위."
+  ],
+  "evidence_checked": [
+    "일본군 보고 스캔에서 94식의 중국 전선 운용과 개량 요구 확인. 타이얼좡의 별도 운용 기록과 대조.",
+    "미 육군 정보보고의 94식·97식 제원 및 루손 노획차 사진, AWM의 94식 현존품·쿠팡 사진·웨와크 사진 목록 대조."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.jacar.archives.go.jp/das/meta/C01001361800",
+      "status": "inaccessible",
+      "detail": "가제식 문서 목록의 직접 열기 실패. 논문이 지시한 문서 번호·인용 위치만 기록."
+    },
+    {
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/094312/screen/4091704.JPG",
+      "status": "inaccessible",
+      "detail": "AWM 094312 이미지의 다운로드·표시 링크 모두 Internal Error. 소장기관 텍스트 목록은 열람."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=78 pending=55; sources=846 questions=313. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

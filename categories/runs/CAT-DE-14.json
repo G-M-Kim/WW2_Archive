@@ -1,0 +1,83 @@
+{
+  "step": 14,
+  "job_id": "CAT-DE-14",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 14,
+  "category": "당시 영토",
+  "article_path": "categories/germany/14-territory.md",
+  "status": "partial",
+  "completed_at": "2026-11-10T02:59:54+09:00",
+  "started_at": "2026-11-10T02:53:23+09:00",
+  "base_head": "dd3e3b054c822cca5eb8e60b68097ab9aa8e0461",
+  "source_ids": [
+    "CAT-DE-SRC-0074",
+    "CAT-DE-SRC-0079",
+    "CAT-DE-SRC-0081",
+    "CAT-DE-SRC-0082",
+    "CAT-DE-SRC-0092",
+    "CAT-DE-SRC-0093",
+    "CAT-DE-SRC-0094",
+    "CAT-DE-SRC-0095",
+    "CAT-DE-SRC-0096",
+    "CAT-DE-SRC-0097",
+    "CAT-DE-SRC-0098",
+    "CAT-DE-SRC-0099",
+    "CAT-DE-SRC-0100",
+    "CAT-DE-SRC-0101",
+    "CAT-DE-SRC-0102",
+    "CAT-DE-SRC-0103",
+    "CAT-DE-SRC-0104",
+    "CAT-DE-SRC-0105",
+    "CAT-DE-SRC-0106",
+    "CAT-DE-SRC-0107",
+    "CAT-DE-SRC-0108"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0054",
+    "CAT-DE-RQ-0055",
+    "CAT-DE-RQ-0056",
+    "CAT-DE-RQ-0057"
+  ],
+  "entity_ids": [
+    "CAT-DE-GEO-0001",
+    "CAT-DE-GEO-0002",
+    "CAT-DE-GEO-0003",
+    "CAT-DE-GEO-0004",
+    "CAT-DE-GEO-0005",
+    "CAT-DE-GEO-0006",
+    "CAT-DE-GEO-0008",
+    "CAT-DE-GEO-0010",
+    "CAT-DE-GEO-0011",
+    "CAT-DE-GEO-0012",
+    "CAT-DE-GEO-0013"
+  ],
+  "research_scope": "1937년 경계, 개전 당시 편입·보호령, 폴란드와 프랑스 점령 사례, 1945년 항복·점령구역·동부 잠정행정.",
+  "limitations": [
+    "대표 지역의 법적 문구와 실효지배만 조사. 전선·하위 행정 경계·인수일과 면적은 미복원.",
+    "뮌헨 및 프랑스 정전협정 부속 원도 미열람. 정전협정의 경계 본문과 별도 지도·해설을 구분."
+  ],
+  "evidence_checked": [
+    "오스트리아 병합법, 모스크바 선언, 뮌헨 협정 및 메멜 조약, 보호령 칙령 본문",
+    "2537-PS 폴란드 총독부 칙령 279–280쪽, 동부 행정 칙령 122쪽, 프랑스 정전협정 제II–III조와 경계 설명",
+    "1942년 폴란드 행정 복원 지도, GHDI 전전 영토 복원 지도, NAM 소장 점령구역 표시 지도",
+    "연합국 항복·베를린 선언·점령구역 문서집, 런던 의정서, 유럽자문위원회 보고 및 포츠담 의정서"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://encyclopedia.ushmm.org/images/large/8f35830d-8a45-4b26-817f-731be8b00a4c.gif",
+      "result": "웹 뷰어가 GIF를 지원하지 않아 원 이미지를 내려받고 PNG로 변환해 범례와 구획을 판독."
+    },
+    {
+      "url": "https://mjp.univ-perp.fr/france/1940armistice.htm",
+      "result": "HTTP 502. Yale Avalon의 영문 전재에서 정전협정 조항과 부속 경계 설명을 열람."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=14 pending=119; sources=108 questions=57. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; pinned HEAD snapshot."
+  }
+}

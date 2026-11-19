@@ -1,0 +1,70 @@
+{
+  "step": 34,
+  "job_id": "CAT-FR-15",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 15,
+  "category": "영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐",
+  "article_path": "categories/france/15-resources.md",
+  "status": "partial",
+  "completed_at": "2026-11-11T18:57:38+09:00",
+  "started_at": "2026-11-11T18:48:43+09:00",
+  "base_head": "fe21374d2ea1ad855abce120ccbc65332e2e5b41",
+  "source_ids": [
+    "CAT-FR-SRC-0124",
+    "CAT-FR-SRC-0126",
+    "CAT-FR-SRC-0132",
+    "CAT-FR-SRC-0135",
+    "CAT-FR-SRC-0144",
+    "CAT-FR-SRC-0145",
+    "CAT-FR-SRC-0146",
+    "CAT-FR-SRC-0147",
+    "CAT-FR-SRC-0148",
+    "CAT-FR-SRC-0149",
+    "CAT-FR-SRC-0150",
+    "CAT-FR-SRC-0151",
+    "CAT-FR-SRC-0152",
+    "CAT-FR-SRC-0153",
+    "CAT-FR-SRC-0154"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0048",
+    "CAT-FR-RQ-0049",
+    "CAT-FR-RQ-0050",
+    "CAT-FR-RQ-0051"
+  ],
+  "entity_ids": [
+    "CAT-FR-GEO-0011",
+    "CAT-FR-GEO-0014",
+    "CAT-FR-GEO-0015",
+    "CAT-FR-GEO-0016"
+  ],
+  "research_scope": "프랑스 본토의 원유·정제·조강·알루미늄·텅스텐과 인도차이나 천연고무·텅스텐, 누벨칼레도니 크롬광 생산·수출의 전시 대표 사례.",
+  "limitations": [
+    "점령기 생산의 지역 귀속·실제 반출과 목적지별 수입은 불완전하다.",
+    "인도차이나 고무 연감의 일부 연도 판면 판독과 편찬물 간 기초자료 독립성은 미확인.",
+    "프랑스 합성유·합성고무 생산량은 미확인. 미국 소장 합성고무 보고는 목록 후보."
+  ],
+  "evidence_checked": [
+    "영국 제국연구소의 광공업 표 11~12·59·61·151·224·344~345쪽과 IBRD E 34/49 부록 표 6·7",
+    "페셸브론 1938년 회사 보고, WBG 소장 석유산업 표 1, 박물관 정유시설 연혁",
+    "인도차이나 연감 99쪽 표 IX·X의 기계 판독 및 베르나르 생산표, 카이제르 177쪽, INSEE 830쪽, 누벨칼레도니 광업 당국 해설"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://seadelt.net/Asset/Source/Document_ID-251_No-01.pdf",
+      "result": "원 PDF의 웹 판독 텍스트를 열람. 별도 다운로드 시간 초과 및 부분 파일 판독 실패. 합계가 일치하는 연도만 사용했다."
+    },
+    {
+      "url": "https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3a.html",
+      "result": "RG 226 목록의 18835를 확인. 1942년 보고 본문은 확보하지 못했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=34 pending=99; sources=402 questions=144. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

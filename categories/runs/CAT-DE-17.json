@@ -1,0 +1,353 @@
+{
+  "step": 17,
+  "job_id": "CAT-DE-17",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 17,
+  "category": "종전 시점 주요 공업단지와 규모(1~20)",
+  "article_path": "categories/germany/17-industrial-centers-end.md",
+  "status": "partial",
+  "completed_at": "2026-11-10T08:57:51+09:00",
+  "started_at": "2026-11-10T08:51:48+09:00",
+  "base_head": "6f67d5f713776c1b9f8394b33a88245229675fcd",
+  "source_ids": [
+    "CAT-DE-SRC-0100",
+    "CAT-DE-SRC-0103",
+    "CAT-DE-SRC-0109",
+    "CAT-DE-SRC-0112",
+    "CAT-DE-SRC-0118",
+    "CAT-DE-SRC-0119",
+    "CAT-DE-SRC-0120",
+    "CAT-DE-SRC-0121",
+    "CAT-DE-SRC-0122",
+    "CAT-DE-SRC-0123",
+    "CAT-DE-SRC-0124",
+    "CAT-DE-SRC-0125",
+    "CAT-DE-SRC-0126",
+    "CAT-DE-SRC-0127",
+    "CAT-DE-SRC-0128",
+    "CAT-DE-SRC-0129",
+    "CAT-DE-SRC-0130"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0064",
+    "CAT-DE-RQ-0065",
+    "CAT-DE-RQ-0066",
+    "CAT-DE-RQ-0067"
+  ],
+  "entity_ids": [
+    "CAT-DE-GEO-0014",
+    "CAT-DE-GEO-0017"
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-DE-GEO-0014",
+      "historical_name": "Ruhrgebiet",
+      "modern_location": "독일 노르트라인베스트팔렌 루르 일대",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "루르 계곡과 라인강 서안 일부를 포함한 광역 루르. 중심 공업대는 내부 부분집합이며 시군 목록은 미확인.",
+      "method_version": "infrastructure-v1",
+      "reference_date": "1945-09-02",
+      "territorial_status": "독일 본토, 영국 점령구역",
+      "operators": "6월 군정 기록상 영국 제21군집단 산하 NGCC 감독과 독일 경영조직의 탄광 운영. 제철소별 운영권 미확인.",
+      "operational_status": "탄광 부분 가동·회복. 제철 설비와 기반시설 피해, 비교일의 잔존 제강능력·가동 미확인.",
+      "source_survey_dates": [
+        "1945-06-27~29 군정·외교보고",
+        "1945-06-30 FRUS 면적 추계, 측정일 미상",
+        "1945-07-12 연합국 보고의 논문 인용",
+        "1945-08-04·09-29 군정 통계의 연구 인용",
+        "1945-09-30 USSBS 보고, 1944-06~12 제철 실적"
+      ],
+      "metrics": [
+        {
+          "metric": "광역 지역 총면적",
+          "value": 3000,
+          "unit": "mi² (약)",
+          "date": "1945-06-30 메모, 측정일 미상",
+          "boundary": "FRUS 광역 루르, 중심대는 내부 부분집합",
+          "source_id": "CAT-DE-SRC-0118",
+          "locator": "문서 400 §b",
+          "capacity_or_actual": "지리 면적 추정"
+        },
+        {
+          "metric": "중심 공업대 총면적",
+          "value": 1000,
+          "unit": "mi² (약)",
+          "date": "1945-06-30 메모, 측정일 미상",
+          "boundary": "FRUS 광역 루르, 중심대는 내부 부분집합",
+          "source_id": "CAT-DE-SRC-0118",
+          "locator": "문서 400 §b",
+          "capacity_or_actual": "지리 면적 추정"
+        },
+        {
+          "metric": "1944년 6월 대비 연말 강철 생산 변화",
+          "value": -80,
+          "unit": "% (약)",
+          "date": "1944-06~12",
+          "boundary": "USSBS Ruhr",
+          "source_id": "CAT-DE-SRC-0109",
+          "locator": "Steel, 11쪽",
+          "capacity_or_actual": "생산 실적 변화율"
+        },
+        {
+          "metric": "종전 기준일 잔존 연간 제강능력",
+          "value": null,
+          "unit": "미터톤/년",
+          "date": "1945-09-02",
+          "boundary": "FRUS 광역 루르, 중심대는 내부 부분집합",
+          "source_id": "CAT-DE-SRC-0109",
+          "locator": "Steel, 10–11쪽",
+          "capacity_or_actual": "설비능력 미확인"
+        },
+        {
+          "metric": "판매 가능 석탄 생산",
+          "value": 60000,
+          "unit": "tons/일 (원문)",
+          "date": "1945-06-29 보고",
+          "boundary": "전문상의 루르 광산, 광산 목록과 FRUS 광역 경계 대조 미완료",
+          "source_id": "CAT-DE-SRC-0125",
+          "locator": "문서 422, 621–622쪽",
+          "capacity_or_actual": "가동 실적, 광산 자체 소비 제외"
+        },
+        {
+          "metric": "작업 중인 독일인 광부",
+          "value": 175000,
+          "unit": "명 (약)",
+          "date": "1945-06-29 보고",
+          "boundary": "전문상의 루르 광산, 광산 목록과 FRUS 광역 경계 대조 미완료",
+          "source_id": "CAT-DE-SRC-0125",
+          "locator": "문서 422, 621–622쪽",
+          "capacity_or_actual": "실인원 추정"
+        },
+        {
+          "metric": "가동 중단 탄광",
+          "value": 32,
+          "unit": "개",
+          "date": "1945-07-12 보고",
+          "boundary": "루르·아헨 탄광 합계",
+          "source_id": "CAT-DE-SRC-0130",
+          "locator": "121쪽, 각주 13에 인용된 1945-07-12 연합국 석탄 보고",
+          "capacity_or_actual": "가동 중단, 철거·완파 미확인"
+        },
+        {
+          "metric": "가동 탄광",
+          "value": 135,
+          "unit": "개",
+          "date": "1945-07-12 보고",
+          "boundary": "루르·아헨 탄광 합계",
+          "source_id": "CAT-DE-SRC-0130",
+          "locator": "121쪽, 각주 13에 인용된 1945-07-12 연합국 석탄 보고",
+          "capacity_or_actual": "가동"
+        },
+        {
+          "metric": "가동 탄광 중 피해 없는 시설",
+          "value": 6,
+          "unit": "개",
+          "date": "1945-07-12 보고",
+          "boundary": "루르·아헨 탄광 합계",
+          "source_id": "CAT-DE-SRC-0130",
+          "locator": "121쪽, 각주 13에 인용된 1945-07-12 연합국 석탄 보고",
+          "capacity_or_actual": "손상 상태"
+        },
+        {
+          "metric": "중단 반영 전 잠재 채굴능력",
+          "value": 133000000,
+          "unit": "미터톤/년 (약)",
+          "date": "1945-07-12 보고의 비교 기준",
+          "boundary": "루르·아헨 탄광 합계",
+          "source_id": "CAT-DE-SRC-0130",
+          "locator": "121쪽, 각주 13에 인용된 1945-07-12 연합국 석탄 보고",
+          "capacity_or_actual": "설비 추계"
+        },
+        {
+          "metric": "중단 반영 후 잠재 채굴능력",
+          "value": 113000000,
+          "unit": "미터톤/년 (약)",
+          "date": "1945-07-12 보고",
+          "boundary": "루르·아헨 탄광 합계",
+          "source_id": "CAT-DE-SRC-0130",
+          "locator": "121쪽, 각주 13에 인용된 1945-07-12 연합국 석탄 보고",
+          "capacity_or_actual": "설비 추계"
+        },
+        {
+          "metric": "경질탄 작업일 평균",
+          "value": 80000,
+          "unit": "t/작업일",
+          "date": "1945-08-04 표 각주",
+          "boundary": "루르·아헨·이벤뷔렌 경질탄 지구 합계",
+          "source_id": "CAT-DE-SRC-0126",
+          "locator": "159쪽 표 36, 각주 a·c·d, PDF 139면",
+          "capacity_or_actual": "실적"
+        },
+        {
+          "metric": "경질탄 작업일 평균",
+          "value": 127000,
+          "unit": "t/작업일",
+          "date": "1945-09-29 표 각주",
+          "boundary": "루르·아헨·이벤뷔렌 경질탄 지구 합계",
+          "source_id": "CAT-DE-SRC-0126",
+          "locator": "159쪽 표 36, 각주 a·c·d, PDF 139면",
+          "capacity_or_actual": "실적"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "종전 당일 제강 설비·작업 수용 규모·수송 처리능력이 미확인이다. 광역 석탄 수치의 범위와 공통 정량 등급 경계가 일치하지 않는다.",
+      "source_ids": [
+        "CAT-DE-SRC-0109",
+        "CAT-DE-SRC-0118",
+        "CAT-DE-SRC-0123",
+        "CAT-DE-SRC-0124",
+        "CAT-DE-SRC-0125",
+        "CAT-DE-SRC-0126",
+        "CAT-DE-SRC-0130"
+      ]
+    },
+    {
+      "entity_id": "CAT-DE-GEO-0017",
+      "historical_name": "Lautawerk",
+      "modern_location": "독일 작센주 바우첸군 라우타",
+      "coordinates_wgs84": {
+        "latitude": 51.45456,
+        "longitude": 14.10804,
+        "role": "유산 목록의 대표점"
+      },
+      "comparison_boundary": "라우타베르크 제련·알루미나 공장 및 현장 연결 발전소. 1937년 지도 기반 도해 윤곽. 인근 광산·주거지 제외.",
+      "method_version": "infrastructure-v1",
+      "reference_date": "1945-09-02",
+      "territorial_status": "독일 본토, 소련 점령구역",
+      "operators": "전시 제련 VAW·발전 EWAG. 소련군 점령과 배상 철거를 확인했으며 9월 2일 일상 운영자와 소유권 미확인.",
+      "operational_status": "1945-03 폭격 피해로 공장 중단. 잔존·철거 설비의 9월 2일 재고 미확인. 발전소는 일부 복구 후 연말 가용출력 기록.",
+      "source_survey_dates": [
+        "1937년 기초 지형도, 2024년 논문 그림 7",
+        "1944-09~1945-03 공습 및 조업 중단, 2023년 인벤토리",
+        "1945년 말 발전소 가용출력, 2022년 산업사 편찬",
+        "1946년 중반 철거 완료, 지자체 연표"
+      ],
+      "metrics": [
+        {
+          "metric": "1939년 말 제련 설비능력 비교값",
+          "value": 70000,
+          "unit": "tons (원문)",
+          "date": "1939-12-31",
+          "boundary": "Lautawerk 제련 공장",
+          "source_id": "CAT-DE-SRC-0112",
+          "locator": "31-131, 9쪽 표 2, 각주 1",
+          "capacity_or_actual": "설비능력 추정"
+        },
+        {
+          "metric": "연결 발전소 최대 명목출력 비교값",
+          "value": 173,
+          "unit": "MW",
+          "date": "1938",
+          "boundary": "Kraftwerk Lauta, 개전편과 같은 연결 발전소",
+          "source_id": "CAT-DE-SRC-0120",
+          "locator": "1938년 증설 문단",
+          "capacity_or_actual": "최대 명목 설비능력"
+        },
+        {
+          "metric": "공습 횟수",
+          "value": 6,
+          "unit": "회",
+          "date": "1944-09~1945-03",
+          "boundary": "Lautawerk",
+          "source_id": "CAT-DE-SRC-0119",
+          "locator": "BKM 31100089 전쟁 말 문단",
+          "capacity_or_actual": "전쟁피해 맥락"
+        },
+        {
+          "metric": "종전 기준일 잔존 제련 설치능력",
+          "value": null,
+          "unit": "미확인",
+          "date": "1945-09-02",
+          "boundary": "Lautawerk 제련 공장",
+          "source_id": "CAT-DE-SRC-0119",
+          "locator": "BKM 31100089 전후 문단",
+          "capacity_or_actual": "설비능력 미확인"
+        },
+        {
+          "metric": "연결 발전소 공급 가능 출력",
+          "value": 24,
+          "unit": "MW",
+          "date": "1945년 말",
+          "boundary": "Kraftwerk Lauta, 개전편과 같은 연결 발전소",
+          "source_id": "CAT-DE-SRC-0127",
+          "locator": "점령·철거·연말 복구 문단",
+          "capacity_or_actual": "수리 후 가용출력"
+        },
+        {
+          "metric": "종전 기준일 연결 발전소 가용출력",
+          "value": null,
+          "unit": "MW",
+          "date": "1945-09-02",
+          "boundary": "Kraftwerk Lauta, 개전편과 같은 연결 발전소",
+          "source_id": "CAT-DE-SRC-0127",
+          "locator": "점령·철거·연말 복구 문단",
+          "capacity_or_actual": "종전 당일 가용출력 미확인"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "제련 설비의 종전 설치능력·수용 규모·발전과 수송능력 미확인. 연말 24 MW는 당일 값이 아니며 1938년 최대 명목치와 정의가 다르다.",
+      "source_ids": [
+        "CAT-DE-SRC-0112",
+        "CAT-DE-SRC-0119",
+        "CAT-DE-SRC-0120",
+        "CAT-DE-SRC-0121",
+        "CAT-DE-SRC-0127",
+        "CAT-DE-SRC-0128",
+        "CAT-DE-SRC-0129"
+      ]
+    }
+  ],
+  "research_scope": "1945-09-02 기준 루르 광역 집적지와 라우타베르크 개별 제련시설 및 연결 발전소. 개전편 경계·GEO ID·방법 재사용.",
+  "limitations": [
+    "루르 6월 전문, 7월 탄광 조사와 8·9월 군정 통계 인용의 지역 범위와 측정 정의가 다르다. 9월 2일 값이나 개전 대비 증감률은 미확정.",
+    "라우타의 조업 중단·점령·배상 철거를 구분. 9월 2일 공장별 소유·운영 기록과 잔존 설비 목록, 발전소의 당일 출력을 미확보.",
+    "연합국 월보·7월 석탄 보고 원면 일부 미확보. 네 차원 공통 등급 경계가 없으므로 점수와 범위는 모두 null."
+  ],
+  "evidence_checked": [
+    "FRUS 포츠담 문서 421·422와 USSBS Steel 절, 16번 원고 및 두 GEO 기록의 비교 경계",
+    "Abelshauser 159쪽 표 36 원면·각주와 Arnold 121쪽 및 각주 13",
+    "KuLaDig BKM 31100089, 라우타시 1944~1946 연표, Czech와 Verch의 전후 발전소·공장 본문"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://open.ifz-muenchen.de/bitstreams/78011a0a-34f9-48d5-b6aa-fbf46e70acdf/download",
+      "result": "웹 미리보기의 크기 제한을 확인한 뒤 PDF를 내려받아 159쪽 표 36 원면을 판독."
+    },
+    {
+      "url": "https://www.brandenburgikon.net/index.php/de/betriebe-1945-1989/bezirk-cottbus/lauta2",
+      "result": "비-www 주소가 429를 반환. www 원문 및 내려받은 HTML에서 본문을 확인."
+    },
+    {
+      "url": "https://www.trumanlibrary.gov/library/federal-record/records-u-s-occupation-headquarters-world-war-ii-office-military-government",
+      "result": "군정 월보 기록군 목록을 찾았으나 표 36의 바탕 월보 원면 미확보."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=17 pending=116; sources=130 questions=67. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; pinned HEAD snapshot."
+  }
+}

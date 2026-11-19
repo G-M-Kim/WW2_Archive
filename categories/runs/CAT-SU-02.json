@@ -1,0 +1,55 @@
+{
+  "step": 116,
+  "job_id": "CAT-SU-02",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 2,
+  "category": "전차 제외 기갑장비, 무장, 성능",
+  "article_path": "categories/soviet-union/02-other-armored-vehicles.md",
+  "status": "partial",
+  "started_at": "2026-11-18T14:52:15+09:00",
+  "completed_at": "2026-11-18T14:56:38+09:00",
+  "base_head": "b08dcdc0e108bd999c3e4304343b91ec3282c949",
+  "source_ids": [
+    "CAT-SU-SRC-0024",
+    "CAT-SU-SRC-0025",
+    "CAT-SU-SRC-0026",
+    "CAT-SU-SRC-0027",
+    "CAT-SU-SRC-0028",
+    "CAT-SU-SRC-0029",
+    "CAT-SU-SRC-0030",
+    "CAT-SU-SRC-0031",
+    "CAT-SU-SRC-0032"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0007",
+    "CAT-SU-RQ-0008",
+    "CAT-SU-RQ-0009"
+  ],
+  "entity_ids": [
+    "CAT-SU-EQP-0004",
+    "CAT-SU-EQP-0005",
+    "CAT-SU-EQP-0006"
+  ],
+  "research_scope": "차륜 장갑차 BA-64·BA-64B, 노획 차체 기반 SU-76I 및 국산 차체 계열 SU-76M.",
+  "limitations": [
+    "국가방위위원회 문서는 목록에서 결정 표제와 날짜를 확인했다. 원면 전체와 공장·부대 원장은 미확인이다.",
+    "박물관 제원은 동일 조건의 실측값이 아니다. BA-64B 출력은 표와 본문의 값이 상충한다."
+  ],
+  "evidence_checked": [
+    "국가방위위원회 제1415·2758·3184호의 표제 및 등록 정보를 확인했다.",
+    "세 박물관의 차종 해설과 하르키우·헝가리 전시 사진 공개본을 확인했다.",
+    "SU-76I의 사업 표제와 제작차 무장, SU-76M의 소장품 제작과 복원 도색을 구분했다."
+  ],
+  "access_attempts": [
+    "러시아 대통령도서관의 공개 소장 페이지는 목록을 확인했다. 결정 원면과 부속 명세서는 판독하지 않았다.",
+    "별도 SU-76M 전시 페이지는 접속 시간이 초과되어 기관 박물관의 역사 해설과 파디코보 소장 자료를 사용했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=116 pending=17; sources=1163 questions=439. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}

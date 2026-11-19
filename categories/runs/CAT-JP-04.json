@@ -1,0 +1,69 @@
+{
+  "step": 80,
+  "job_id": "CAT-JP-04",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 4,
+  "category": "항공기, 무장, 성능",
+  "article_path": "categories/japan/04-aircraft.md",
+  "status": "partial",
+  "completed_at": "2026-11-15T15:00:41+09:00",
+  "started_at": "2026-11-15T14:54:56+09:00",
+  "base_head": "8c4a7640f9f91607d133ab68cd0c01a899b92d64",
+  "source_ids": [
+    "CAT-JP-SRC-0036",
+    "CAT-JP-SRC-0038",
+    "CAT-JP-SRC-0039",
+    "CAT-JP-SRC-0040",
+    "CAT-JP-SRC-0041",
+    "CAT-JP-SRC-0042",
+    "CAT-JP-SRC-0043",
+    "CAT-JP-SRC-0044"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0014",
+    "CAT-JP-RQ-0015",
+    "CAT-JP-RQ-0016",
+    "CAT-JP-RQ-0017"
+  ],
+  "entity_ids": [
+    "CAT-JP-EQP-0013",
+    "CAT-JP-EQP-0014",
+    "CAT-JP-EQP-0015",
+    "CAT-JP-EQP-0016"
+  ],
+  "research_scope": "해군 전투기 제로 52형, 스이세이 12형 폭격기, L2D 수송기와 세이란 수상기의 제원·시험과 운용 사례.",
+  "limitations": [
+    "제로 52형 편람과 실측의 기체·조건 차이 및 세부형 무장 미확인.",
+    "L2D의 하중별 공시 시험과 실제 운항 기록, 스이세이의 개별 출격·세이란 부주 시험 원표 미확인.",
+    "육군 전투·폭격기, 정찰·훈련·연락기, 비행정·글라이더는 후속 범위."
+  ],
+  "evidence_checked": [
+    "1944년 패턱슨트리버 시험과 TAIC 비교표 및 Smithsonian 소장품 이력을 대조했다.",
+    "AWM 전시 사진을 L2D 편람과 대조했다. 일본 항공자위대 부대 자료 및 Smithsonian·HURL의 세이란 관련 기록을 검토했다."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://airandspace.si.edu/collection-objects/mitsubishi-a6m5-reisen-zero-fighter-model-52-zeke/nasm_A19600335000",
+      "status": "inaccessible",
+      "detail": "박물관 개별 페이지 403. Smithsonian Collections Search Center에서 동일 소장품 번호의 본문을 대체 열람."
+    },
+    {
+      "url": "https://www.si.edu/object/nasm_A19630308000",
+      "status": "inaccessible",
+      "detail": "단축 객체 URL 404. Smithsonian Collections Search Center의 동일 소장품 레코드 및 Long Description을 대체 열람."
+    },
+    {
+      "url": "https://ndlsearch.ndl.go.jp/en/books/R100000002-I000007744697",
+      "status": "source_checked",
+      "detail": "서지 및 소장번호 확인. 스캔은 출처 장부 링크의 해당 인쇄 페이지를 열람."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=80 pending=53; sources=860 questions=321. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

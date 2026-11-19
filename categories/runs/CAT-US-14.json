@@ -1,0 +1,84 @@
+{
+  "step": 71,
+  "job_id": "CAT-US-14",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 14,
+  "category": "당시 영토",
+  "article_path": "categories/united-states/14-territory.md",
+  "status": "partial",
+  "completed_at": "2026-11-14T21:04:31+09:00",
+  "started_at": "2026-11-14T20:56:54+09:00",
+  "base_head": "e652537a3a111f79ac9d18733f718cee1144a1c9",
+  "source_ids": [
+    "CAT-US-SRC-0039",
+    "CAT-US-SRC-0098",
+    "CAT-US-SRC-0114",
+    "CAT-US-SRC-0115",
+    "CAT-US-SRC-0122",
+    "CAT-US-SRC-0123",
+    "CAT-US-SRC-0124",
+    "CAT-US-SRC-0142",
+    "CAT-US-SRC-0143",
+    "CAT-US-SRC-0144",
+    "CAT-US-SRC-0145",
+    "CAT-US-SRC-0146",
+    "CAT-US-SRC-0147",
+    "CAT-US-SRC-0148",
+    "CAT-US-SRC-0149",
+    "CAT-US-SRC-0150",
+    "CAT-US-SRC-0151",
+    "CAT-US-SRC-0152",
+    "CAT-US-SRC-0153",
+    "CAT-US-SRC-0154",
+    "CAT-US-SRC-0155",
+    "CAT-US-SRC-0156",
+    "CAT-US-SRC-0157",
+    "CAT-US-SRC-0158",
+    "CAT-US-SRC-0159",
+    "CAT-US-SRC-0160",
+    "CAT-US-SRC-0161",
+    "CAT-US-SRC-0162",
+    "CAT-US-SRC-0163",
+    "CAT-US-SRC-0164"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0056",
+    "CAT-US-RQ-0057",
+    "CAT-US-RQ-0058",
+    "CAT-US-RQ-0059"
+  ],
+  "entity_ids": [
+    "CAT-US-GEO-0001",
+    "CAT-US-GEO-0002",
+    "CAT-US-GEO-0003",
+    "CAT-US-GEO-0004",
+    "CAT-US-GEO-0005",
+    "CAT-US-GEO-0008",
+    "CAT-US-GEO-0009",
+    "CAT-US-GEO-0017",
+    "CAT-US-GEO-0018"
+  ],
+  "research_scope": "1939-09-01과 1945-09-02의 미국 본토·준주·대표 속령 및 공동관리, 운하구역·임차권과 종전 군정의 법적 지위 및 실제 통제.",
+  "limitations": [
+    "파나마 방위부지 부속 목록과 정확한 경계, 미·영 임차 부지별 사용 기록은 미확인이다.",
+    "웨이크 항복 서명 원본과 다른 소도서, 미국령 버진아일랜드·아메리칸사모아의 상세 행정은 미대조다.",
+    "필리핀의 도서별 통제와 독일·일본 등 점령구역의 상세 경계는 남아 있다."
+  ],
+  "evidence_checked": [
+    "알래스카·하와이·푸에르토리코 기본법, 파리 조약, 필리핀 독립법·대통령 포고, 웨이크 접수 보고, 1943년 Newsmap.",
+    "파나마 조약과 미·영 각서, 베를린 선언, 일본 점령 지침, 38도선 이남 군정 포고와 상륙 기록."
+  ],
+  "access_attempts": [
+    "GovInfo의 57 Stat. 1232 개별 PDF 열람이 실패했다. FRUS 1942 문서 565의 서지와 FRUS 1948 문서 467의 설명을 확인했으며 부속 목록을 읽은 것으로 기록하지 않았다.",
+    "베를린 선언의 GovInfo 개별 PDF 열람이 실패해 Yale Avalon의 전사와 FRUS 편집 주석을 확인했다.",
+    "일부 미 해군 웨이크 자료가 시간 초과·502를 반환했다. GovInfo에 공개된 당사자 보고 전재와 LOC 소장 현장조사를 대조했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=71 pending=62; sources=790 questions=287. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

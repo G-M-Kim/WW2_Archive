@@ -1,0 +1,43 @@
+{
+  "job_id": "CAT-DE-01",
+  "step": 1,
+  "country": "독일",
+  "category": "전차장비, 무장, 성능",
+  "started_at": "2026-11-08T18:45:27+09:00",
+  "completed_at": "2026-11-08T18:53:10+09:00",
+  "status": "partial",
+  "article_path": "categories/germany/01-tanks.md",
+  "source_ids": [
+    "CAT-DE-SRC-0001",
+    "CAT-DE-SRC-0002",
+    "CAT-DE-SRC-0003",
+    "CAT-DE-SRC-0004",
+    "CAT-DE-SRC-0005",
+    "CAT-DE-SRC-0006"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0001",
+    "CAT-DE-RQ-0002",
+    "CAT-DE-RQ-0003",
+    "CAT-DE-RQ-0004"
+  ],
+  "research_scope": "Panzer IV Model G, Panther Model G, Tiger Model E, Tiger Model B의 대표 무장·승무원·교범상 성능. 동시대 원문 스캔 및 박물관 4개 안내 열람, 후대 교범 전사 오류 판독.",
+  "limitations": [
+    "전 형식/전 계열 전수 검증 아님",
+    "독일 생산·시험 원기록 미열람",
+    "박물관과 미군 교범의 하위 사료 계보 독립성 미확인",
+    "Tiger II 생산량 불일치 미해결"
+  ],
+  "execution_mode": "manual_recovery_after_failed_automation",
+  "evidence_checked": [
+    "TM-E 30-451 원문 PDF 390·392·393·395쪽 시각 판독",
+    "The Tank Museum Panzer IV·Panther·Tiger I·Tiger II 본문/제원 직접 열람",
+    "Tiger Model E road speed 전사 5 mph를 원문 15 mph와 대조"
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "133 jobs; visited=1 pending=132; sources=6 questions=4. Structural check only."
+  },
+  "failed_scheduled_run_id": "c82325b5-87b4-8332-88f9-b93464d53b45"
+}

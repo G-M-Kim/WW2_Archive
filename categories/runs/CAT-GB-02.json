@@ -1,0 +1,63 @@
+{
+  "step": 40,
+  "job_id": "CAT-GB-02",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 2,
+  "category": "전차 제외 기갑장비, 무장, 성능",
+  "article_path": "categories/united-kingdom/02-other-armored-vehicles.md",
+  "status": "partial",
+  "completed_at": "2026-11-12T06:57:17+09:00",
+  "started_at": "2026-11-12T06:51:29+09:00",
+  "base_head": "e9238056ae68c4307e9ed428acb210283948dc8b",
+  "source_ids": [
+    "CAT-GB-SRC-0022",
+    "CAT-GB-SRC-0023",
+    "CAT-GB-SRC-0024",
+    "CAT-GB-SRC-0025",
+    "CAT-GB-SRC-0026",
+    "CAT-GB-SRC-0027",
+    "CAT-GB-SRC-0028",
+    "CAT-GB-SRC-0029",
+    "CAT-GB-SRC-0030"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0008",
+    "CAT-GB-RQ-0009",
+    "CAT-GB-RQ-0010",
+    "CAT-GB-RQ-0011"
+  ],
+  "entity_ids": [
+    "CAT-GB-EQP-0004",
+    "CAT-GB-EQP-0005",
+    "CAT-GB-EQP-0006"
+  ],
+  "research_scope": "험버 스카우트 카(차륜 정찰), 유니버설 캐리어 No. 1 Mk II(궤도 운반), 아처(자주대전차포)의 형식과 전시 사진·생산 및 개별 이력.",
+  "limitations": [
+    "험버의 차체별 Mk와 기동 원시험, 아처의 기동·장갑 원자료 및 부대별 전투일지 미확인.",
+    "호주 캐리어 사진에 영국 Mk II 제원을 소급하지 않음. 캐나다 Mk I* 교범은 목록만 확인.",
+    "반궤도·장갑수송차·공병·구난·대공차량 및 기타 자주포는 후속 범위."
+  ],
+  "evidence_checked": [
+    "NAM 1975-03-63-20-165·73 사진 판면과 설명, AWM 150211·026134 사진 판면",
+    "The Tank Museum Universal Carrier 제원 및 Archer S280017 이력, NMM 114924 소장품 기술",
+    "캐나다 공식 전사 부록 G 545~546쪽, NMM 캐나다 Mk I* 교범 목록"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://collectie.nmm.nl/nl/collectie/detail/871044/",
+      "result": "공개 소장 목록에 교범 판면 링크가 없었다. 서지·형식·연도만 인용."
+    },
+    {
+      "url": "https://collection.nam.ac.uk/detail.php?acc=1975-03-63-20-165",
+      "result": "검색 도구가 화면 배경을 이미지로 선택했다. NAM 페이지의 사진 파일을 별도 열어 두 원판을 확인."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=40 pending=93; sources=467 questions=166. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "step": 127,
+  "job_id": "CAT-SU-13",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 13,
+  "category": "당시 기준 지명",
+  "article_path": "categories/soviet-union/13-historical-place-names.md",
+  "status": "partial",
+  "started_at": "2026-11-19T12:56:44+09:00",
+  "completed_at": "2026-11-19T13:04:39+09:00",
+  "base_head": "c654abcd1a473ea5db7b7ace5118c38d1614cb26",
+  "source_ids": [
+    "CAT-SU-SRC-0107",
+    "CAT-SU-SRC-0108",
+    "CAT-SU-SRC-0109",
+    "CAT-SU-SRC-0110",
+    "CAT-SU-SRC-0111",
+    "CAT-SU-SRC-0112",
+    "CAT-SU-SRC-0113",
+    "CAT-SU-SRC-0114"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0048",
+    "CAT-SU-RQ-0049",
+    "CAT-SU-RQ-0050"
+  ],
+  "entity_ids": [
+    "CAT-SU-GEO-0001",
+    "CAT-SU-GEO-0002",
+    "CAT-SU-GEO-0003"
+  ],
+  "research_scope": "레닌그라드·스탈린그라드·쿠이비셰프 세 도시의 전시 표기·개칭 결정·현대 대응을 법령집과 전시 문서 재수록 이미지 및 기관 해설로 부분 조사했다.",
+  "limitations": [
+    "대표 세 도시의 지명 대응만 조사했다. 다른 공화국·언어권·편입/점령 지역과 원 지도·지명사전의 전수 검증은 남았다.",
+    "고해상도 이미지는 원 법령집 또는 후대 재수록 지면이다. 1941·1945년 원 서명본·신문과 1924년 최초 인쇄본은 미대조다.",
+    "1939·1945 기준일의 상세 행정 소속·시역 및 날짜별 실효지배는 미검증이다. 1961·1991년 현대 대응명은 기록관/도서관 해설 또는 법령 전사로 확인했다."
+  ],
+  "evidence_checked": [
+    "1924년 개칭 결정 재수록 이미지의 말미 개칭 문구·날짜, 1925년 법령집 313쪽 ст.171, 1935년 법령집 62쪽 ст.56의 조항·날짜·공표 주기를 판독했다.",
+    "1941년 GKO802с 재수록 51쪽과 1945년 명령20 재수록 25쪽에서 실제 도시명 표기를 판독했다.",
+    "1961년 기록관 해설·1991년 도서관 해설/법령 전사의 현대 대응을 확인했다. 재인용 계통과 원본 미대조를 명시했다."
+  ],
+  "access_attempts": [
+    "최신 HEAD의 대상 원고는 404였으며 이번 첫 검사에서 생성한다.",
+    "상트페테르부르크 지명 전시·피난 전시, 러시아국립도서관 WW2 지도 전시, 사마라 기록관 개칭 해설은 웹 열기에서 TimeoutError였다.",
+    "ГАРАНТ 3946560·6146183은 403 Forbidden이었다. 현대 개칭은 확인 가능한 기관 해설·전사를 사용했다.",
+    "ЭБИД 축소 이미지와 목록을 먼저 확인했다. 파일명 크기 변형 주소로는 접근 실패했으나 공개 뷰어 JS에서 /pages/{id}/zooms/7 경로를 확인하고 urllib로 다섯 JPEG를 HTTP200으로 받아 view_image로 실제 판독했다. requests 모듈은 설치되어 있지 않아 urllib로 전환했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=127 pending=6; sources=1245 questions=480. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "step": 109,
+  "job_id": "CAT-IT-14",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 14,
+  "category": "당시 영토",
+  "article_path": "categories/italy/14-territory.md",
+  "status": "partial",
+  "started_at": "2026-11-18T00:54:53+09:00",
+  "completed_at": "2026-11-18T01:00:13+09:00",
+  "base_head": "3460476dd0b2267bb47b12a9080df8f9b8668e72",
+  "source_ids": [
+    "CAT-IT-SRC-0068",
+    "CAT-IT-SRC-0086",
+    "CAT-IT-SRC-0100",
+    "CAT-IT-SRC-0103",
+    "CAT-IT-SRC-0104",
+    "CAT-IT-SRC-0105",
+    "CAT-IT-SRC-0109",
+    "CAT-IT-SRC-0110",
+    "CAT-IT-SRC-0111",
+    "CAT-IT-SRC-0113",
+    "CAT-IT-SRC-0115",
+    "CAT-IT-SRC-0118",
+    "CAT-IT-SRC-0119",
+    "CAT-IT-SRC-0120",
+    "CAT-IT-SRC-0121",
+    "CAT-IT-SRC-0122",
+    "CAT-IT-SRC-0123",
+    "CAT-IT-SRC-0124"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0049",
+    "CAT-IT-RQ-0050",
+    "CAT-IT-RQ-0051"
+  ],
+  "entity_ids": [
+    "CAT-IT-GEO-0001",
+    "CAT-IT-GEO-0002",
+    "CAT-IT-GEO-0003",
+    "CAT-IT-GEO-0004",
+    "CAT-IT-GEO-0006",
+    "CAT-IT-GEO-0007",
+    "CAT-IT-GEO-0008",
+    "CAT-IT-GEO-0010",
+    "CAT-IT-GEO-0011"
+  ],
+  "research_scope": "왕국 본토·해외 속령과 알바니아, 루블랴나의 편입 선언, 1943년 이후 통치 변화, 1945년 군정 및 1947년 조약.",
+  "limitations": [
+    "1945년 9월 2일 모든 시군의 세부 민정·군정 관할 및 식민지·점령지 전수 경계는 미확인이다.",
+    "루블랴나 왕령의 편입 문언을 확인했으나 부속도 선형과 달마티아의 세부 행정구획은 후속 과제다."
+  ],
+  "evidence_checked": [
+    "알바니아 외교부 회람 전사, 루블랴나 설치 왕령, 에티오피아·이탈리아 민정·카세르타 관련 미국 외교문서.",
+    "NARA M1190 부록 G 지도 17 스캔, 베오그라드 협정 및 평화조약 본문을 대조했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=109 pending=24; sources=1102 questions=414. Structural check only.",
+    "path_check": "변경 8개 경로는 모두 categories/ 하위."
+  }
+}

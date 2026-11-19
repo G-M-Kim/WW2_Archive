@@ -1,0 +1,71 @@
+{
+  "step": 13,
+  "job_id": "CAT-DE-13",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 13,
+  "category": "당시 기준 지명",
+  "article_path": "categories/germany/13-historical-place-names.md",
+  "status": "partial",
+  "completed_at": "2026-11-10T00:59:11+09:00",
+  "started_at": "2026-11-10T00:52:13+09:00",
+  "base_head": "39108acdcf805ec60329e637ad168619f773a8fd",
+  "source_ids": [
+    "CAT-DE-SRC-0079",
+    "CAT-DE-SRC-0081",
+    "CAT-DE-SRC-0082",
+    "CAT-DE-SRC-0083",
+    "CAT-DE-SRC-0084",
+    "CAT-DE-SRC-0085",
+    "CAT-DE-SRC-0086",
+    "CAT-DE-SRC-0087",
+    "CAT-DE-SRC-0088",
+    "CAT-DE-SRC-0089",
+    "CAT-DE-SRC-0090",
+    "CAT-DE-SRC-0091",
+    "CAT-DE-SRC-0092"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0050",
+    "CAT-DE-RQ-0051",
+    "CAT-DE-RQ-0052",
+    "CAT-DE-RQ-0053"
+  ],
+  "entity_ids": [
+    "CAT-DE-GEO-0007",
+    "CAT-DE-GEO-0008",
+    "CAT-DE-GEO-0009",
+    "CAT-DE-GEO-0010"
+  ],
+  "research_scope": "단치히·우치·쾨니히스베르크의 전시 지명, 도시·행정구역 구분, 점령·행정 변동 및 현대 대응명.",
+  "limitations": [
+    "세 도시 표본이며 다른 지역은 추가 조사 대상.",
+    "우치 초기 개칭과 쾨니히스베르크 전후 개칭의 공포 원문 미확보. 현지 언어 사용과 경계의 완전한 대응 미검증."
+  ],
+  "evidence_checked": [
+    "베르사유 조약 제100·102·104조, 단치히 병합법 RGBl. I 1547쪽 원면 및 동부 행정 칙령 제1–2조 수록본",
+    "우치 1940-04-12 신문 원면 제호·본문, 전시 시가도 양면, Wiese 논문 그림 6·8",
+    "미 육군 지도국 J-15 도엽 원면과 포츠담 의정서 VI·IX.B, 우치대·연방기록원·러시아 도서관·박물관 본문"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://lodz.pl/artykul/kartka-z-kalendarza-wolna-lodz-gazeta-ktora-przetrwala-tylko-szesc-dni-47005/",
+      "result": "시청 페이지는 HTTP 502. 우치대의 역사학자 해설에서 점령 종료일을 별도로 확인."
+    },
+    {
+      "url": "https://purl.stanford.edu/xb387zj9235/iiif/manifest",
+      "result": "IIIF 매니페스트가 연결한 앞·뒷면 이미지 파일을 실제 열람."
+    },
+    {
+      "url": "https://pbc.biaman.pl/Content/3143/download/",
+      "result": "웹 뷰어의 직접 열기는 실패했으나 PDF 다운로드 후 원도 표제와 판차를 판독."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=13 pending=120; sources=92 questions=53. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; pinned HEAD snapshot."
+  }
+}

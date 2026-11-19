@@ -1,0 +1,68 @@
+{
+  "step": 15,
+  "job_id": "CAT-DE-15",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 15,
+  "category": "영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐",
+  "article_path": "categories/germany/15-resources.md",
+  "status": "partial",
+  "completed_at": "2026-11-10T04:58:29+09:00",
+  "started_at": "2026-11-10T04:49:40+09:00",
+  "base_head": "8d0cb58ce2730b7865dcc45f0a2ab4260e613de3",
+  "source_ids": [
+    "CAT-DE-SRC-0071",
+    "CAT-DE-SRC-0109",
+    "CAT-DE-SRC-0110",
+    "CAT-DE-SRC-0111",
+    "CAT-DE-SRC-0112",
+    "CAT-DE-SRC-0113",
+    "CAT-DE-SRC-0114",
+    "CAT-DE-SRC-0115",
+    "CAT-DE-SRC-0116",
+    "CAT-DE-SRC-0117"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0044",
+    "CAT-DE-RQ-0058",
+    "CAT-DE-RQ-0059",
+    "CAT-DE-RQ-0060",
+    "CAT-DE-RQ-0061"
+  ],
+  "entity_ids": [
+    "CAT-DE-GEO-0001",
+    "CAT-DE-GEO-0002",
+    "CAT-DE-GEO-0014",
+    "CAT-DE-GEO-0015",
+    "CAT-DE-GEO-0016",
+    "CAT-DE-GEO-0017",
+    "CAT-DE-ORG-0004"
+  ],
+  "research_scope": "석유·강철·고무·알루미늄·크롬·텅스텐의 대표 생산·외부 조달과 지리·품목·단위 구분.",
+  "limitations": [
+    "대표 통계와 공급지 사례. 매장량·수출 및 개별 생산·수송 장부의 전수 대조 미실시.",
+    "일부 연합국 자료는 같은 추정 계통을 공유. 독일 원표의 대독일 범위와 각 연합국 집계 범위는 일치 여부 미확인."
+  ],
+  "evidence_checked": [
+    "Bundesarchiv R 3102/3147 원고의 서문과 조강·알루미늄·크롬·텅스텐·Buna 스캔",
+    "USSBS 요약 및 BBSU 표 45·47, 미국 군정 지침 표 2·3·9·12 원면",
+    "Schmelzing 고무 표 1·2, 아우슈비츠 기념관 모노비체 문답, 미 해외경제청 의회 보고와 FRUS 울프람 전보, 영국 하원 답변"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://urresearch.rochester.edu/fileDownloadForInstitutionalItem.action?itemFileId=8502&itemId=5505",
+      "result": "웹 열람은 파일 크기 제한. PDF를 내려받아 해당 표의 스캔을 이미지로 판독."
+    },
+    {
+      "url": "https://findingaids.loc.gov/repositories/25/digital_objects/1076681",
+      "result": "웹 403. 비터펠트 조사 보고서를 확인 자료로 집계하지 않고, 미 육군 군정 지침의 원면을 대조."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=15 pending=118; sources=117 questions=61. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; pinned HEAD snapshot."
+  }
+}

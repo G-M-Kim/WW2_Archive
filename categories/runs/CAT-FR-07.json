@@ -1,0 +1,68 @@
+{
+  "step": 26,
+  "job_id": "CAT-FR-07",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 7,
+  "category": "유명한 전투 참여 인물",
+  "article_path": "categories/france/07-combat-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-11T03:00:18+09:00",
+  "started_at": "2026-11-11T02:54:10+09:00",
+  "base_head": "545bbdc272b8a559c437c9cc3cacf0c6ca9db95b",
+  "source_ids": [
+    "CAT-FR-SRC-0059",
+    "CAT-FR-SRC-0060",
+    "CAT-FR-SRC-0061",
+    "CAT-FR-SRC-0062",
+    "CAT-FR-SRC-0063",
+    "CAT-FR-SRC-0064",
+    "CAT-FR-SRC-0065",
+    "CAT-FR-SRC-0066",
+    "CAT-FR-SRC-0067",
+    "CAT-FR-SRC-0068",
+    "CAT-FR-SRC-0069"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0024",
+    "CAT-FR-RQ-0025",
+    "CAT-FR-RQ-0026"
+  ],
+  "entity_ids": [
+    "CAT-FR-PER-0001",
+    "CAT-FR-PER-0002",
+    "CAT-FR-PER-0003"
+  ],
+  "research_scope": "르클레르의 쿠프라·파리·스트라스부르 지휘, 롤탕기의 일드프랑스 FFI와 파리 항복 협정 사본, 무쇼트의 RAF 제341비행대 지휘와 마지막 출격.",
+  "limitations": [
+    "파리 항복 협정의 사본별 필적과 수정 순서는 원문 이미지 미확보로 미확정.",
+    "무쇼트의 전과 순번과 손실 원인에 필요한 RAF 원작전일지와 독일 기록 미확보.",
+    "해상전·상륙전·식민지 출신 전투원·파리 밖 레지스탕스는 후속 범위."
+  ],
+  "evidence_checked": [
+    "SHD GR 29 P 31 제73호 일일명령 도판의 전사, 미 육군 CMH Pub 72-30 본문 22–23쪽",
+    "Paris Musées 2020.1.2 원문 이미지·전사, 72AJ61 목록 해설, 프랑스 국방부 교육자료 39쪽 문서 6 캡션",
+    "해방훈장박물관 인물·부대 본문, 영국 Battle of Britain Memorial Trust 무쇼트 본문"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://museedelaresistanceenligne.org/musee/doc/image/recto/grande/4844.jpg",
+      "result": "72AJ61 수정본 이미지 직접 호출 시간 초과. 소장 번호 및 해설만 사용."
+    },
+    {
+      "url": "https://www.cheminsdememoire.gouv.fr/sites/default/files/2019-04/Fiches_Liberation_de_Paris_CM2.pdf#page=39",
+      "result": "39쪽 스크린샷 요청 502. PDF 텍스트 캡션만 사용."
+    },
+    {
+      "url": "https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2025-05/Dossier%20de%20presse.pdf#page=10",
+      "result": "10쪽 스크린샷 요청 시간 초과. PDF에서 반환된 도판의 판독 텍스트 사용."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=26 pending=107; sources=317 questions=119. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

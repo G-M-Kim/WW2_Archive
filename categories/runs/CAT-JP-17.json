@@ -1,0 +1,291 @@
+{
+  "step": 93,
+  "job_id": "CAT-JP-17",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 17,
+  "category": "종전 시점 주요 공업단지와 규모(1~20)",
+  "article_path": "categories/japan/17-industrial-centers-end.md",
+  "status": "partial",
+  "completed_at": "2026-11-16T17:19:26+09:00",
+  "started_at": "2026-11-16T17:12:09+09:00",
+  "base_head": "3462e98f3559ef97ecd7519f3aa1532cd0749509",
+  "source_ids": [
+    "CAT-JP-SRC-0072",
+    "CAT-JP-SRC-0078",
+    "CAT-JP-SRC-0089",
+    "CAT-JP-SRC-0132",
+    "CAT-JP-SRC-0143",
+    "CAT-JP-SRC-0146",
+    "CAT-JP-SRC-0148",
+    "CAT-JP-SRC-0149",
+    "CAT-JP-SRC-0150",
+    "CAT-JP-SRC-0153",
+    "CAT-JP-SRC-0154",
+    "CAT-JP-SRC-0155",
+    "CAT-JP-SRC-0156",
+    "CAT-JP-SRC-0157"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0054",
+    "CAT-JP-RQ-0055",
+    "CAT-JP-RQ-0056"
+  ],
+  "entity_ids": [
+    "CAT-JP-GEO-0017",
+    "CAT-JP-GEO-0018",
+    "CAT-JP-GEO-0019",
+    "CAT-JP-ORG-0005"
+  ],
+  "research_scope": "1945-09-02의 종전 비교. 개전 항목과 같은 GEO 및 경계로 야하타, 히로하타, 겸이포 제철소 자료 대조.",
+  "limitations": [
+    "종전 당일의 공정별 생산·인계, 면적·작업 수용·물류 정격과 공통 등급 경계의 확보가 부족하여 점수와 범위 모두 null이다.",
+    "야하타 국무부 표의 구역 분해, 히로하타 제2고로 연속 가동, 겸이포 계획량의 분모·원어 및 현장 인수서는 미확인이다."
+  ],
+  "evidence_checked": [
+    "미 국무부 종전 설비능력 표 2, USSBS 290호 면담 스캔과 1939·1945년 강재·종업원 재구성 표를 대조했다.",
+    "히로하타 공장사의 1945–1946년 고로 일자·평로 휴지·1945 회계연도 실적을 대조했다.",
+    "1948년 소련 민정청의 국역 조사표와 겸이포 강재 실적 및 이북 항복 접수 명령을 대조했다."
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-JP-GEO-0017",
+      "reference_date": "1945-09-02",
+      "territorial_status": "일본 내지. 연합군 점령하의 일본제철 사업장. 현장별 인수일 미확인.",
+      "boundary": "후쿠오카현 야하타시의 히가시다·구키오카 핵심 권역. 도요제철은 해당 원표가 포함할 때 별도 식별. 현대 도바타·고쿠라 합산 제외.",
+      "operator": "日本製鐵株式会社 (CAT-JP-ORG-0005)",
+      "operation": "연간 운영치와 사후 면담 확인. 기준일 처리량·동시가동 미확인.",
+      "metrics": [
+        {
+          "metric": "기재 종업원",
+          "value": 35744,
+          "unit": "명",
+          "date": "1945",
+          "boundary": "야하타제철소 통계 합계, 구역별 분해 미확인",
+          "source_id": "CAT-JP-SRC-0146",
+          "locator": "p.3 표 1",
+          "capacity_or_actual": "actual"
+        },
+        {
+          "metric": "강재 생산",
+          "value": 256305,
+          "unit": "톤",
+          "date": "1945",
+          "boundary": "야하타제철소 통계 합계, 구역별 분해 미확인",
+          "source_id": "CAT-JP-SRC-0146",
+          "locator": "p.3 표 1",
+          "capacity_or_actual": "actual"
+        },
+        {
+          "metric": "선철 능력 추계",
+          "value": 2100,
+          "unit": "천 미터톤",
+          "date": "종전 무렵(1946-05-20 보고서의 추계, 당일 실사 아님)",
+          "boundary": "표 2의 Yawata 행, 구역별 분해 미확인",
+          "source_id": "CAT-JP-SRC-0143",
+          "locator": "p.3 표 2",
+          "capacity_or_actual": "capacity"
+        },
+        {
+          "metric": "강괴 능력 추계",
+          "value": 2507,
+          "unit": "천 미터톤",
+          "date": "종전 무렵(1946-05-20 보고서의 추계, 당일 실사 아님)",
+          "boundary": "표 2의 Yawata 행, 구역별 분해 미확인",
+          "source_id": "CAT-JP-SRC-0143",
+          "locator": "p.3 표 2",
+          "capacity_or_actual": "capacity"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "개전과 같은 도시 내 구역별 값 및 잔존 면적·수용·수송과 비교 경계 미확인.",
+      "source_ids": [
+        "CAT-JP-SRC-0132",
+        "CAT-JP-SRC-0143",
+        "CAT-JP-SRC-0146",
+        "CAT-JP-SRC-0153"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-JP-GEO-0018",
+      "reference_date": "1945-09-02",
+      "territorial_status": "일본 내지. 연합군 점령하의 일본제철 사업장. 현장별 인수일 미확인.",
+      "boundary": "효고현 시카마군 히로무라 히로하타의 연안 제철소 사업장과 자체 항만·취수시설.",
+      "operator": "日本製鐵株式会社 (CAT-JP-ORG-0005)",
+      "operation": "1고로 8월 23일 뱅킹, 평로 8월 전부 휴지. 2고로 8월 14일 송풍과 1946년 1월 7일 뱅킹 사이 당일 상태 미확인.",
+      "metrics": [
+        {
+          "metric": "인원",
+          "value": 12231,
+          "unit": "명",
+          "date": "1945-07-01",
+          "boundary": "효고현 시카마군 히로무라 히로하타의 연안 제철소 사업장과 자체 항만·취수시설.",
+          "source_id": "CAT-JP-SRC-0154",
+          "locator": "웹 연표 8쪽 1945년 인원",
+          "capacity_or_actual": "actual"
+        },
+        {
+          "metric": "조강 생산",
+          "value": 51,
+          "unit": "천 톤",
+          "date": "1945회계연도",
+          "boundary": "효고현 시카마군 히로무라 히로하타의 연안 제철소 사업장과 자체 항만·취수시설.",
+          "source_id": "CAT-JP-SRC-0154",
+          "locator": "웹 연표 8쪽 1945년 조강 당소 항목",
+          "capacity_or_actual": "actual"
+        },
+        {
+          "metric": "선철 능력 추계",
+          "value": 700,
+          "unit": "천 미터톤",
+          "date": "종전 무렵(1946-05-20 보고서의 추계, 당일 실사 아님)",
+          "boundary": "표 2의 Hiroshata 행",
+          "source_id": "CAT-JP-SRC-0143",
+          "locator": "p.3 표 2",
+          "capacity_or_actual": "capacity"
+        },
+        {
+          "metric": "강괴 능력 추계",
+          "value": 600,
+          "unit": "천 미터톤",
+          "date": "종전 무렵(1946-05-20 보고서의 추계, 당일 실사 아님)",
+          "boundary": "표 2의 Hiroshata 행",
+          "source_id": "CAT-JP-SRC-0143",
+          "locator": "p.3 표 2",
+          "capacity_or_actual": "capacity"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "설비 휴지와 피해는 따로 봐야 하며 잔존 면적·수용·처리 및 정량 비교 기준 부족.",
+      "source_ids": [
+        "CAT-JP-SRC-0132",
+        "CAT-JP-SRC-0143",
+        "CAT-JP-SRC-0148",
+        "CAT-JP-SRC-0149",
+        "CAT-JP-SRC-0154"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-JP-GEO-0019",
+      "reference_date": "1945-09-02",
+      "territorial_status": "식민지 조선에서 이탈하는 전환기. 북위 38도 이북의 소련군 점령 지역. 전전 일본제철 계열. 9월 2일 현장 관리자 미확인.",
+      "boundary": "황해도 겸이포 본공장과 전용 하역 구역. 외부 철광산과 별도 조선소 계획 제외.",
+      "operator": "종전 전 일철광업(일본제철회사). 당일 현장 관리자는 미확인.",
+      "operation": "연간 실적과 후대의 설비 조사 열람. 인수 및 당일 가동 기록 미확인.",
+      "metrics": [
+        {
+          "metric": "강재 생산",
+          "value": 11641,
+          "unit": "톤",
+          "date": "1945",
+          "boundary": "황해도 겸이포 본공장과 전용 하역 구역. 외부 철광산과 별도 조선소 계획 제외.",
+          "source_id": "CAT-JP-SRC-0150",
+          "locator": "p.14 주 47",
+          "capacity_or_actual": "actual"
+        },
+        {
+          "metric": "대형 고로 목록",
+          "value": 3,
+          "unit": "기",
+          "date": "1948년 회고 조사",
+          "boundary": "황해도 겸이포 본공장과 전용 하역 구역. 외부 철광산과 별도 조선소 계획 제외.",
+          "source_id": "CAT-JP-SRC-0155",
+          "locator": "VI. 4. 고로 황해 합계",
+          "capacity_or_actual": "installed"
+        },
+        {
+          "metric": "대형 고로 이용 가능 용량 합계",
+          "value": 1428,
+          "unit": "m³",
+          "date": "1948년 회고 조사",
+          "boundary": "황해도 겸이포 본공장과 전용 하역 구역. 외부 철광산과 별도 조선소 계획 제외.",
+          "source_id": "CAT-JP-SRC-0155",
+          "locator": "VI. 4. 고로 황해 합계",
+          "capacity_or_actual": "installed"
+        },
+        {
+          "metric": "대형 고로 연간 계획 산출",
+          "value": 350000,
+          "unit": "톤/년",
+          "date": "1948년 회고 조사",
+          "boundary": "황해도 겸이포 본공장과 전용 하역 구역. 외부 철광산과 별도 조선소 계획 제외.",
+          "source_id": "CAT-JP-SRC-0155",
+          "locator": "VI. 4. 고로 황해 합계",
+          "capacity_or_actual": "planned"
+        },
+        {
+          "metric": "고로 계획 생산량",
+          "value": 400000,
+          "unit": "톤",
+          "date": "1948년 회고 조사",
+          "boundary": "황해도 겸이포 본공장과 전용 하역 구역. 외부 철광산과 별도 조선소 계획 제외.",
+          "source_id": "CAT-JP-SRC-0155",
+          "locator": "VI. 철강 기업 기본 자료",
+          "capacity_or_actual": "planned"
+        },
+        {
+          "metric": "대형 고로 실제 생산 합계",
+          "value": 112800,
+          "unit": "톤",
+          "date": "1945",
+          "boundary": "황해도 겸이포 본공장과 전용 하역 구역. 외부 철광산과 별도 조선소 계획 제외.",
+          "source_id": "CAT-JP-SRC-0155",
+          "locator": "VI. 4. 고로 황해 합계",
+          "capacity_or_actual": "actual"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "계획치 분모와 1945-09-02 실가동·하역·작업 수용 및 비교경계 미확인.",
+      "source_ids": [
+        "CAT-JP-SRC-0132",
+        "CAT-JP-SRC-0150",
+        "CAT-JP-SRC-0155",
+        "CAT-JP-SRC-0156"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "access_attempts": [
+    "USSBS PDF의 웹 본문 추출에 글자가 없어 같은 PDF를 내려받아 스캔 판면을 열고 OCR을 보조로 사용했다.",
+    "국사편찬위원회 공개 국역 본문과 출판 해제를 읽었다. 별도 파일 요청은 HTTP 400이었고 원어 판면은 이번에 확보하지 못했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=93 pending=40; sources=973 questions=360. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

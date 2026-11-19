@@ -1,0 +1,58 @@
+{
+  "step": 128,
+  "job_id": "CAT-SU-14",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 14,
+  "category": "당시 영토",
+  "article_path": "categories/soviet-union/14-territory.md",
+  "status": "partial",
+  "started_at": "2026-11-19T14:51:28+09:00",
+  "completed_at": "2026-11-19T14:55:41+09:00",
+  "base_head": "ddeb6ccf749f1fccfc0e29c6f6d482e9fecc1abd",
+  "source_ids": [
+    "CAT-SU-SRC-0115",
+    "CAT-SU-SRC-0116",
+    "CAT-SU-SRC-0117",
+    "CAT-SU-SRC-0118",
+    "CAT-SU-SRC-0119",
+    "CAT-SU-SRC-0120",
+    "CAT-SU-SRC-0121",
+    "CAT-SU-SRC-0122"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0051",
+    "CAT-SU-RQ-0052",
+    "CAT-SU-RQ-0053",
+    "CAT-SU-RQ-0054"
+  ],
+  "entity_ids": [
+    "CAT-SU-GEO-0004",
+    "CAT-SU-GEO-0005",
+    "CAT-SU-GEO-0006"
+  ],
+  "research_scope": "폴란드·발트 3국·쾨니히스베르크의 세력권·점령·편입 주장·불승인·조약 발효와 종전 처리의 유보를 당대 외교문서와 UN 조약집으로 부분 조사했다.",
+  "limitations": [
+    "전연방의 양 기준일 지도·공화국 구성·면적 및 날짜별 실효지배는 미검증이다.",
+    "협정·정책 문서는 번역/재수록 전사다. 서명 원본·원 편입 법령·첨부지도·현장 획정 기록의 대조는 남았다.",
+    "폴란드 국경조약의 라바루스카 방향에 정본과 영문 번역 차이가 있어 정밀 경계 전사를 보류했다. 나머지 영토 변경은 후속 과제다."
+  ],
+  "evidence_checked": [
+    "1939-08-23 비밀의정서 제1–3항, 9월28일 조약 제I–III·V조 및 보충의정서의 세력권 변경 문구를 읽었다.",
+    "1940-07-23 미국 성명과 1944-11-20 Durbrow 정책검토의 점령·편입 청원·불승인 설명을 읽었다.",
+    "포츠담 제II.A.1·V절과 UNTS 국경조약 제1–4조·발효 각주, UN 등록 정보를 대조했다.",
+    "UNTS 러시아어·폴란드어 정본과 영·불 번역의 라바루스카 방향 차이를 기록했다. USHMM 해설에서 침공·점령 변화의 별도 근거를 확인했다."
+  ],
+  "access_attempts": [
+    "최신 HEAD에서 대상 원고는 404였다. 이번 첫 검사로 생성한다.",
+    "공개 기관 원문 페이지와 UNTS PDF의 텍스트를 열람했다. PDF 0-based P208·209·211의 screenshot도 요청했다.",
+    "미열람 부속지도·현장 명령을 확인 완료로 처리하지 않았다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=128 pending=5; sources=1253 questions=484. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}

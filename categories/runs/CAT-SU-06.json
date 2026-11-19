@@ -1,0 +1,55 @@
+{
+  "step": 120,
+  "job_id": "CAT-SU-06",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 6,
+  "category": "WW2에서 빼놓을 수 없는 장비",
+  "article_path": "categories/soviet-union/06-essential-technology.md",
+  "status": "partial",
+  "started_at": "2026-11-18T22:56:51+09:00",
+  "completed_at": "2026-11-18T23:02:59+09:00",
+  "base_head": "46683caccbdfa2ce2580c55c4d9a0a03ac9375f8",
+  "source_ids": [
+    "CAT-SU-SRC-0058",
+    "CAT-SU-SRC-0059",
+    "CAT-SU-SRC-0060",
+    "CAT-SU-SRC-0061",
+    "CAT-SU-SRC-0062",
+    "CAT-SU-SRC-0063",
+    "CAT-SU-SRC-0064"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0021",
+    "CAT-SU-RQ-0022",
+    "CAT-SU-RQ-0023",
+    "CAT-SU-RQ-0024"
+  ],
+  "entity_ids": [
+    "CAT-SU-EQP-0016",
+    "CAT-SU-EQP-0017",
+    "CAT-SU-EQP-0018",
+    "CAT-SU-EQP-0019"
+  ],
+  "research_scope": "RUS-2 계열 레이더의 조기 경보 사례와 전시 정책 기록, M-101·K-37 암호기의 생산·군 송부·인수 기록, US6와 공여 트럭 전체 누계.",
+  "limitations": [
+    "1941년 실제 당직 일지와 암호기 부대별 배치·가동 원장은 미확보다. 당사자 회고와 후대 편찬물의 수치를 동시대 원 통계로 보지 않았다.",
+    "미 육군의 대소 트럭 집계에는 여러 차종과 종전 직후분이 포함된다. US6 단독 인도 대수는 미확인이다."
+  ],
+  "evidence_checked": [
+    "러시아 대통령도서관 GKO 3686сс·6305сс 목록과 러시아 군사사 학술지의 채택 서술, 1999년 레이더 운용자 회고를 열람했다.",
+    "전쟁사 편찬물 21–22쪽에서 M-101 발송과 K-37 생산·인수의 기준을 확인했다.",
+    "미 육군 전사 인쇄 139쪽과 오버를론 박물관 소장품 설명을 비교했다."
+  ],
+  "access_attempts": [
+    "말렌코프 전시 아카이브 페이지는 접속 시간이 초과됐다. GKO 3686сс는 대통령도서관 목록 및 별도 역사문서 목록을 열어 서지를 확인했고 원문 전문은 미확보다.",
+    "미 육군 군사사센터 도서 소개 페이지는 HTTP 403으로 열리지 않았으나 같은 기관 공개 PDF의 제8장을 열람했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=120 pending=13; sources=1195 questions=454. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "step": 6,
+  "job_id": "CAT-DE-06",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 6,
+  "category": "WW2에서 빼놓을 수 없는 장비",
+  "article_path": "categories/germany/06-essential-technology.md",
+  "status": "partial",
+  "completed_at": "2026-11-09T10:58:44+09:00",
+  "started_at": "2026-11-09T10:52:56+09:00",
+  "base_head": "e6f7421482cca50f6fdc794d5b409dab0b5fdb4a",
+  "source_ids": [
+    "CAT-DE-SRC-0023",
+    "CAT-DE-SRC-0024",
+    "CAT-DE-SRC-0025",
+    "CAT-DE-SRC-0026",
+    "CAT-DE-SRC-0027",
+    "CAT-DE-SRC-0028"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0021",
+    "CAT-DE-RQ-0022",
+    "CAT-DE-RQ-0023",
+    "CAT-DE-RQ-0024"
+  ],
+  "entity_ids": [
+    "CAT-DE-EQP-0016",
+    "CAT-DE-EQP-0017",
+    "CAT-DE-EQP-0018"
+  ],
+  "research_scope": "Würzburg A/C/D 및 Riese의 추적·대공·야간유도, 브뤼느발 부품 노획과 복원, 해군 4회전자 에니그마와 U-505 기밀자료 회수.",
+  "limitations": [
+    "레이더 범위·정확도는 1945년 심문·정보보고 수치이며 원 시험 미확보.",
+    "브뤼느발 노획품과 현재 복원품의 동일성, U-505 탑재 암호기의 형식·수량·정보 효과 미확정.",
+    "대표 사례 조사. 나머지 전쟁 지원 장비는 후속 과제로 보존."
+  ],
+  "evidence_checked": [
+    "RAF 정찰사 스캔 본문 인쇄 96·103쪽",
+    "A.D.I.(K) 390/1945 재조판 §§1, 31, 46, 60–68",
+    "SMG 1982-1216 및 NMS T.1994.63 소장 설명",
+    "Pillsbury Serial #001 전사 1–3쪽, NSA DOCID 3726627 인쇄 14–15쪽"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1944/u-505-capture.html",
+      "result": "본문 웹 열기 시간 초과, 직접 HTTPS HTTP 503. 검색 요약을 암호기 식별 근거로 채택하지 않음."
+    },
+    {
+      "url": "https://www.history.navy.mil/research/library/exhibits/documents-captured-on-german-submarine-u-505/radio-documents-captured-on-german-submarine-u-505.html",
+      "result": "U-505 무선문서 본문 웹 조회 시간 초과. 검색 요약 미채택."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=6 pending=127; sources=28 questions=24. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; pinned HEAD snapshot."
+  }
+}

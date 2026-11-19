@@ -1,0 +1,52 @@
+{
+  "step": 117,
+  "job_id": "CAT-SU-03",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 3,
+  "category": "함선 및 함정, 무장, 성능",
+  "article_path": "categories/soviet-union/03-naval-vessels.md",
+  "status": "partial",
+  "started_at": "2026-11-18T16:50:42+09:00",
+  "completed_at": "2026-11-18T16:55:37+09:00",
+  "base_head": "b7394c82a560e14c6e97ba4de3baebd817d35af2",
+  "source_ids": [
+    "CAT-SU-SRC-0033",
+    "CAT-SU-SRC-0034",
+    "CAT-SU-SRC-0035",
+    "CAT-SU-SRC-0036",
+    "CAT-SU-SRC-0037",
+    "CAT-SU-SRC-0038",
+    "CAT-SU-SRC-0039"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0010",
+    "CAT-SU-RQ-0011",
+    "CAT-SU-RQ-0012"
+  ],
+  "entity_ids": [
+    "CAT-SU-EQP-0007",
+    "CAT-SU-EQP-0008",
+    "CAT-SU-EQP-0009"
+  ],
+  "research_scope": "발트함대 전함 마라트, 순양함 키로프, 잠수함 D-2의 함급·개함 제원 및 전시 운용.",
+  "limitations": [
+    "미 해군 정보보고는 시운전 실측 원장 대신 함급 추정치를 제공한다. 개함 개장과 적재 시점의 일치를 확인하지 못했다.",
+    "D-2 첫 항해의 소련·독일 원일지와 키로프 개장 도면은 미열람이다."
+  ],
+  "evidence_checked": [
+    "1943년 미 해군 정보보고 본문 인쇄 78–85·127–128쪽의 함급 제원과 분류를 확인했다.",
+    "승리박물관과 크론시타트 기록으로 마라트의 피격 및 포대 복귀, 중앙해군박물관으로 키로프의 탈린 철수와 D-2의 항해를 확인했다.",
+    "덴마크 에너지청 공개 조사보고서 27쪽의 두 선박 피해 날짜를 대조했다."
+  ],
+  "access_attempts": [
+    "미 해군 NHHC 사진 항목 NH 79293과 NH 95506의 기관 원페이지는 접속 시간이 초과됐다. 제원과 이력은 기밀해제 해군 정보보고 및 박물관 본문을 사용했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=117 pending=16; sources=1170 questions=442. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}

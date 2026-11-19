@@ -1,0 +1,3038 @@
+[
+  {
+    "id": "CAT-SU-SRC-0001",
+    "title": "Временный полевой устав РККА 1936 (ПУ 36)",
+    "institution_or_author": "소련 국방인민위원부 / 러시아 국립도서관(RSL)",
+    "publication_date": "1937년 인쇄본",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "FB R 337/441; FB R 337/442",
+    "locator": "서지·소장기호",
+    "url": "https://search.rsl.ru/ru/record/01005176691",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 적군 임시 야전규정의 1937년 간행 및 소장 정보."
+    ],
+    "limitations": [
+      "소장 목록을 확인했다. 러시아어 원면의 각 조항은 대조하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "soviet-pu36"
+  },
+  {
+    "id": "CAT-SU-SRC-0002",
+    "title": "Soviet Operational Art Since 1936: The Triumph of Maneuver War",
+    "institution_or_author": "David M. Glantz / U.S. Army Center of Military History",
+    "publication_date": "2005",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 70-89",
+    "locator": "인쇄 247–292쪽 중 On the Eve of War, 스탈린그라드 반격과 전시 재편 단락",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/H%20Pdf/cmhPub_70-89.pdf?ver=OY1vr2V5R_70PubR44yMdw%3D%3D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전전 이론과 1941년의 괴리, 기동편제 재구축, 스탈린그라드 돌파와 포위."
+    ],
+    "limitations": [
+      "작전술 중심의 후대 종합 연구다. 전체 사단의 수행을 동일하게 보지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "glantz-soviet-operational-art"
+  },
+  {
+    "id": "CAT-SU-SRC-0003",
+    "title": "Soviet Operational Logistics, 1939–1990",
+    "institution_or_author": "Graham H. Turbiville, Jr. / U.S. Army Center of Military History",
+    "publication_date": "2005",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 70-89",
+    "locator": "인쇄 293쪽 이하 중 스탈린그라드 반격의 도로·철도 및 전진기지 단락",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/H%20Pdf/cmhPub_70-89.pdf?ver=OY1vr2V5R_70PubR44yMdw%3D%3D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "스탈린그라드 반격 준비의 전진 보급기지와 도로·철도 복구."
+    ],
+    "limitations": [
+      "같은 편저에 수록된 별도 저자의 병참 연구다. 동일 주장에 대한 반복 인용은 독립 교차검증으로 세지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "turbiville-soviet-logistics"
+  },
+  {
+    "id": "CAT-SU-SRC-0004",
+    "title": "Weaving the Tangled Web: Military Deception in Large-Scale Combat Operations — BAGRATION case",
+    "institution_or_author": "U.S. Army University Press",
+    "publication_date": "2018",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 118쪽 이하, Deception Planning 및 바그라티온의 전선군 증원",
+    "url": "https://www.armyupress.army.mil/Portals/7/Research-and-Books/Archives/2018/PDF/Sep-2018-WeavingTheTangledWeb.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "4개 전선군의 증원, 전개 은폐와 기만 계획."
+    ],
+    "limitations": [
+      "기만을 중심으로 한 사례 연구다. 작전 결과를 기만 한 가지에 귀속하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "aup-bagration-deception"
+  },
+  {
+    "id": "CAT-SU-SRC-0005",
+    "title": "Stalin’s Ocean-Going Fleet: Soviet Naval Strategy and Shipbuilding Programmes, 1935–1953",
+    "institution_or_author": "Jürgen Rohwer · Mikhail S. Monakov / Frank Cass",
+    "publication_date": "2001",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "공개 발췌의 서론 및 대양함대·1936년 계획 단락",
+    "url": "https://api.pageplace.de/preview/DT0400.9781136321917_A23819962/preview-9781136321917_A23819962.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1930년대 중반 대양함대 건설 전환과 전함 건조 계획."
+    ],
+    "limitations": [
+      "공개 발췌본이다. 건함 목표 수량을 개전 시 전력으로 집계하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "rohwer-monakov-ocean-going-fleet"
+  },
+  {
+    "id": "CAT-SU-SRC-0006",
+    "title": "Under the Surface — Stories from Vrak",
+    "institution_or_author": "Vrak – Museum of Wrecks",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Baltic mine warfare 및 Tallinn, 28 August 1941 단락",
+    "url": "https://www.vrak.se/globalassets/dokument/bocker/t_under-the-surface-engelsk-vrakbok_klar.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "탈린에서 크론시타트로 이동하는 소련 함선과 독일·핀란드의 기뢰 장애."
+    ],
+    "limitations": [
+      "해양고고학 박물관 해설이다. 선박·인명 손실 수는 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "vrak-baltic-mines"
+  },
+  {
+    "id": "CAT-SU-SRC-0007",
+    "title": "Директива № 002454 — об организации эвакуации войск Одесского оборонительного района",
+    "institution_or_author": "소련 최고사령부 / 러시아 대통령도서관",
+    "publication_date": "1941-09-30",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "ЦА МО РФ. Ф. 3. Оп. 1156. Д. 2. Л. 377–378",
+    "locator": "목록의 발신자·수신자·표제·날짜와 인증 사본 표기",
+    "url": "https://www.prlib.ru/item/1855779",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "흑해함대·오데사 방어구역·제51군 지휘관을 수신자로 한 철수 지시의 존재."
+    ],
+    "limitations": [
+      "소장 목록만 확인했다. 지시의 상세 항목과 철수 실적은 여기에서 산출하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "stavka-odessa-002454"
+  },
+  {
+    "id": "CAT-SU-SRC-0008",
+    "title": "Началась Петсамо-Киркенесская операция Великой Отечественной войны",
+    "institution_or_author": "러시아 대통령도서관",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1944년 10월 7~14일, 카렐리야 전선군과 북방함대·해군보병 상륙",
+    "url": "https://www.prlib.ru/history/619608",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "육군 공세와 북방함대 지원, 말라야 볼로코바야만과 리이나하마리 상륙."
+    ],
+    "limitations": [
+      "공공기관의 기념 해설이다. 적 손실·격침 수치는 독립 대조하지 않아 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "prlib-petsamo-kirkenes"
+  },
+  {
+    "id": "CAT-SU-SRC-0009",
+    "title": "Admiral Gorshkov and the Soviet Navy",
+    "institution_or_author": "Donald D. Chipman / Air University Review, 미국 해병대 편찬물 재수록",
+    "publication_date": "1982",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "레닌그라드 방어, 흑해 케르치, 함대별 지리 제약 단락",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D214-PURL-gpo119074/pdf/GOVPUB-D214-PURL-gpo119074.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "발트함대 인력의 지상 지원, 흑해의 케르치 상륙 사례와 좁은 출입구의 제약."
+    ],
+    "limitations": [
+      "냉전기 인물·전략 연구다. 1941년 전력 규모나 전과의 1차 통계로 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "chipman-gorshkov"
+  },
+  {
+    "id": "CAT-SU-SRC-0010",
+    "title": "Приказ НКО СССР № 0109 об итогах боевой подготовки РККА за 1937 год и задачах на 1938 год",
+    "institution_or_author": "소련 국방인민위원부 / Исторические материалы 전사본",
+    "publication_date": "1937-12-14",
+    "source_type": "primary",
+    "document_or_accession_number": "№ 0109",
+    "locator": "해군 전투훈련 평가 및 1938년 해군 과제 §1–2, БУМС-37 인용",
+    "url": "https://istmat.org/node/29094",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1937년 해군 규정을 인용한 수상함·잠수함·항공 협동과 집중 타격 요구, 육군과 함포 지원 훈련의 미비."
+    ],
+    "limitations": [
+      "당대 명령의 공개 전사본이다. 인용된 교범 전체 및 문서 원면은 직접 대조하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nko-0109-bums37"
+  },
+  {
+    "id": "CAT-SU-SRC-0011",
+    "title": "Приказ о сформировании 1-й воздушной армии",
+    "institution_or_author": "소련 국방인민위원부 / 러시아 역사문서 전자도서관",
+    "publication_date": "1942-05-06",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "ф. 4, оп. 11, д. 67, л. 244–246",
+    "locator": "제1항공군 편성 명령의 표제·날짜·기록 기호",
+    "url": "https://docs.historyrussia.org/ru/nodes/187364-prikaz-o-sformirovanii-1-y-vozdushnoy-armii-6-maya-1942-g",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 5월 제1항공군 편성 명령의 존재와 원본 위치."
+    ],
+    "limitations": [
+      "목록으로 확인했다. 원면의 상세 편제와 조문은 이 항목으로 검증하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "nko-1st-air-army"
+  },
+  {
+    "id": "CAT-SU-SRC-0012",
+    "title": "Командование и штаб ВВС Советской Армии в Великой Отечественной войне 1941–1945 гг.",
+    "institution_or_author": "М. Н. Кожевников / Воениздат, Militera 전사",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제3장, 항공군과 최고사령부 예비군단, 무선과 전선군 협동",
+    "url": "https://militera.lib.ru/h/kozhevnikov_mn/03.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "항공군과 항공 예비의 집중, 전선 간 전용과 1942년 지상군 협동·무선 지시."
+    ],
+    "limitations": [
+      "소련의 전후 연구다. 성과 평가는 독일 원장과 독립 대조해야 한다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "kozhevnikov-vvs"
+  },
+  {
+    "id": "CAT-SU-SRC-0013",
+    "title": "A Comparative Look at Air-Ground Support Doctrine and Practice in World War II",
+    "institution_or_author": "Kenneth A. Steadman / U.S. Army Combat Studies Institute",
+    "publication_date": "1982-09-01",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The Soviet Air-Ground System in WW II, 전전 규정과 1943~1945년 연락·유도",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D110-PURL-LPS71516/pdf/GOVPUB-D110-PURL-LPS71516.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전전 지상군 협동 구상, 1941년 실행 격차, 무선 유도와 표적 표시."
+    ],
+    "limitations": [
+      "비교 연구다. 1939·1940년 러시아어 교범 원면은 별도 대조가 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "steadman-air-ground"
+  },
+  {
+    "id": "CAT-SU-SRC-0014",
+    "title": "Case Studies in the Achievement of Air Superiority",
+    "institution_or_author": "Benjamin Franklin Cooling 편 / Center for Air Force History",
+    "publication_date": "1994",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "동부전선의 제공권 장, 스탈린그라드·쿠반·쿠르스크·벨라루스 공세",
+    "url": "https://media.defense.gov/2010/Oct/12/2001330116/-1/-1/0/AFD-101012-038.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "노비코프의 복수 항공군 조정, 전투기 전술 개선과 후기 공세 항공력 집중."
+    ],
+    "limitations": [
+      "사례 연구가 양측의 상이한 집계를 소개한다. 격추·출격 숫자는 채택하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "cooling-air-superiority"
+  },
+  {
+    "id": "CAT-SU-SRC-0015",
+    "title": "T-34/76",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The Tank Museum’s T-34/76 및 Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/t-34-76?era=all",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "초기 소장품의 1941년 핀란드군 노획 이력, 표의 L-11, DT, 승무원 4명, 26.5 t, 53 km/h를 확인했다."
+    ],
+    "limitations": [
+      "시험 환경·연료·적재 조건 및 박물관 제원표의 차대별 적용 범위는 명시되지 않는다. 계열 전체 생산량과 초기형 제원을 하나의 생산 형식으로 합치지 않았다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "Bovington vehicle catalogue"
+  },
+  {
+    "id": "CAT-SU-SRC-0016",
+    "title": "On the Russian Front – Spring, 1942. Soviet T-34/76 Tanks Entering a Town",
+    "institution_or_author": "영국 공식 사진가 미상 / Australian War Memorial",
+    "publication_date": "1942-05-27 (목록의 제작일)",
+    "source_type": "primary",
+    "document_or_accession_number": "AWM 012378 / C32071",
+    "locator": "소장기록 Date made·Description 및 공개 사진",
+    "url": "https://www.awm.gov.au/collection/C32071",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공개 사진과 1942년 봄 동부전선의 소련 T-34/76이라는 설명을 대조했다."
+    ],
+    "limitations": [
+      "사진과 해제만으로 도시·부대·주포 세부형과 최초 실전 여부를 확정할 수 없다."
+    ],
+    "rights": "AWM 소장 페이지에 저작권 만료·퍼블릭 도메인 표시. 링크만 사용.",
+    "independence_group": "AWM 012378 wartime photograph"
+  },
+  {
+    "id": "CAT-SU-SRC-0017",
+    "title": "Постановление ГКО СССР № 4776 сс о производстве танков Т-34-85 с 85-мм пушкой на заводе № 112",
+    "institution_or_author": "소련 국가방위위원회 / РГАСПИ, 러시아 대통령도서관",
+    "publication_date": "1943-12-15",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ Ф. 644. Оп. 1. Д. 183. Л. 22–28; Оп. 2. Д. 252. Л. 140–147об.",
+    "locator": "목록 표제·작성일·소장 기호·부속 기술제원 제목",
+    "url": "https://www.prlib.ru/item/2045242",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제112공장 T-34-85 생산에 관한 결정의 날짜와 부속 제원표의 존재를 확인했다."
+    ],
+    "limitations": [
+      "목록 열람이다. 부속 기술제원과 공장별 납품·검수 실적은 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "GKO decision 4776ss"
+  },
+  {
+    "id": "CAT-SU-SRC-0018",
+    "title": "Постановление ГКО СССР № 4873 «О вооружении танков Т-34 85-мм пушкой взамен 76-мм Ф-34»",
+    "institution_or_author": "소련 국가방위위원회 / РГАСПИ, Электронная библиотека исторических документов",
+    "publication_date": "1944-01-01",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ Ф. 644. Оп. 2. Д. 255. Л. 104–105; ЭБИД 300751",
+    "locator": "서지 설명과 2020년 공개 재록판의 26쪽 미리보기",
+    "url": "https://docs.historyrussia.org/ru/nodes/300751",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "F-34 76 mm에서 85 mm로의 주포 전환을 제목과 날짜에서 확인했다."
+    ],
+    "limitations": [
+      "재록판 첫 쪽의 저해상도 미리보기는 확보했으나 전체 원면과 부속표를 판독하지 못했다. 세부 조항과 월별 생산 수치는 채택하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "GKO decision 4873ss"
+  },
+  {
+    "id": "CAT-SU-SRC-0019",
+    "title": "T-34/85",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "E1952.44; E2022.487; E1987.85 (페이지 사진 표기)",
+    "locator": "첫 번째 The Tank Museum’s T-34/85, E1952.44·후속 소장품 이력, Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/t-34-85/?country=all&era=WW2&tname=&tpage=2",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "고리키 제112공장이 1944년 후반 제작한 E1952.44와 전후 조립·제작 표본, 85 mm 포 계열과 승무원 구성을 확인했다."
+    ],
+    "limitations": [
+      "제원표가 여러 나라·시기의 표본을 함께 설명한다. 표의 포 명칭·중량·속도·생산량을 제112공장 초기 생산분 개별 실측으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "Bovington vehicle catalogue"
+  },
+  {
+    "id": "CAT-SU-SRC-0020",
+    "title": "T34/85 Medium Tank : USSR",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "1944년 제작(해제), 목록 작성일 미표기",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "AWM REL/12389.001 / C110416",
+    "locator": "Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C110416",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "니즈니타길 제183공장 1944년 제작 표본과 소장품에 후대 교체된 주행륜의 존재를 확인했다.",
+      "군수기업 항목에서 같은 소장품의 1944년 제작·니즈니타길 제183공장 귀속 설명을 재열람했다."
+    ],
+    "limitations": [
+      "개별 표본의 생산지·개조는 소장 해제의 추적 결과다. 해제의 공장 누적 수량은 생산 원장과 대조 전까지 보류했다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "AWM REL/12389.001 physical object"
+  },
+  {
+    "id": "CAT-SU-SRC-0021",
+    "title": "Постановление ГКО СССР № 4479 сс о тяжелом танке ИС-2 со 122-мм пушкой",
+    "institution_or_author": "소련 국가방위위원회 / РГАСПИ, 러시아 대통령도서관",
+    "publication_date": "1943-10-31",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ Ф. 644. Оп. 1. Д. 171. Л. 100–105; Оп. 2. Д. 239. Л. 101–108",
+    "locator": "목록 표제·작성일·소장 기호·부속 기술제원 제목",
+    "url": "https://www.prlib.ru/item/2042880",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "122 mm 포를 쓰는 IS-2에 관한 결정의 날짜와 D-25가 부속자료 제목에 쓰였음을 확인했다."
+    ],
+    "limitations": [
+      "카탈로그 확인 범위다. 조문, 제원 원면과 공장별 배치 시점은 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "GKO decision 4479ss"
+  },
+  {
+    "id": "CAT-SU-SRC-0022",
+    "title": "IS-2 tank",
+    "institution_or_author": "Museum of Military and Labor Glory / 러시아 문화부 Artefact",
+    "publication_date": "전시품 제작 1944–1945, 목록 작성일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Creation period·Place of creation·Collection 및 해설 #3",
+    "url": "https://ar.culture.ru/en/subject/tyazhelyy-tank-is-2",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "첼랴빈스크 제작으로 기재된 1944–1945년 전시품과 당시 주포 형식에 관한 해설을 확인했다."
+    ],
+    "limitations": [
+      "후대 전시 해설이다. 전과·관통 성능 주장과 전시품 현재 치수를 전시 초기형과 등치할 근거는 채택하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "Chelyabinsk military and labor museum"
+  },
+  {
+    "id": "CAT-SU-SRC-0023",
+    "title": "Red Star — White Elephant? The Soviet Heavy Tank",
+    "institution_or_author": "Stephen L. Sewell / ARMOR, U.S. Army",
+    "publication_date": "2002-07/08",
+    "source_type": "secondary",
+    "document_or_accession_number": "PB 17-02-4",
+    "locator": "인쇄 26–28쪽, KV·IS-2 본문 및 베를린 도로 사진 설명",
+    "url": "https://www.moore.army.mil/armor/eARMOR/content/issues/2002/JUL_AUG/ArmorJulyAugust2002web.pdf",
+    "accessed_at": "2026-11-18T12:56:03+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "IS-2 주포 명칭 D-25T와 중량 46 t 언급, 1945년 봄 IS-2 종대 사진의 게재 설명을 확인했다."
+    ],
+    "limitations": [
+      "후대 연구와 사진 캡션이다. 공장·차대별 전시 시험 원자료는 제시하지 않으며 생산 총계는 박물관과 일치하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 한국어 자체 요약과 링크만 사용. 원문·이미지 재사용 조건은 별도 확인.",
+    "independence_group": "Sewell ARMOR heavy tank history"
+  },
+  {
+    "id": "CAT-SU-SRC-0024",
+    "title": "Постановление ГКО СССР № 1415 сс об организации производства бронеавтомобилей БА-64",
+    "institution_or_author": "소련 국가방위위원회 / РГАСПИ·러시아 대통령도서관",
+    "publication_date": "1942-03-09",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ Ф. 644. Оп. 1. Д. 24. Л. 16–24; Оп. 2. Д. 41. Л. 120–130",
+    "locator": "표제·날짜·소장 기호",
+    "url": "https://www.prlib.ru/item/1345448",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "고리키 몰로토프 자동차공장 BA-64 생산 조직 결정의 날짜와 대상 공장을 확인했다."
+    ],
+    "limitations": [
+      "목록 확인이다. 원면과 공장 생산·검수 수량은 미확인이다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "GKO 1415ss"
+  },
+  {
+    "id": "CAT-SU-SRC-0025",
+    "title": "Легкий бронеавтомобиль БА-64Б. СССР",
+    "institution_or_author": "러시아 승리박물관(Музей Победы)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Технические характеристики 및 추진·1942년 전선 인도 서술",
+    "url": "https://victorymuseum.ru/encyclopedia/technic/bronetankovaya-tekhnika/legkiy-broneavtomobil-ba-64b-sssr-/",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "BA-64 계열의 DT 7.62 mm, BA-64B 표의 승무원 2명과 명목 포장도로 속도, 엔진 출력의 본문·표 차이를 확인했다."
+    ],
+    "limitations": [
+      "표와 본문에 BA-64 및 BA-64B 자료가 섞인다. 포장도로 표기 외 시험 조건 및 적용 생산 로트는 미확인이다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "Victory Museum BA-64 exhibit history"
+  },
+  {
+    "id": "CAT-SU-SRC-0026",
+    "title": "Первое освобождение Харькова",
+    "institution_or_author": "아르카디 샤이헤트 / 개인 소장, История России в фотографиях",
+    "publication_date": "1943-02-14 (플랫폼의 촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "플랫폼 항목 81197, 소장 기호 미표기",
+    "locator": "공개 사진, 촬영일·장소와 차량 태그, 댓글의 태그 추가 이력",
+    "url": "https://russiainphoto.ru/photos/81197/",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "하르키우 시가지 당대 사진에서 차륜 장갑차를 확인했고, BA-64라는 태그가 이용자 제보 후 추가됐음을 확인했다."
+    ],
+    "limitations": [
+      "BA-64라는 형식 판정은 후대 태그와 외형에 따른 후보다. 차대·부대·파생형은 미확인이다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "Shaikhet Kharkiv photo"
+  },
+  {
+    "id": "CAT-SU-SRC-0027",
+    "title": "Постановление ГКО СССР № 2758 сс об организации производства самоходных артиллерийских установок СУ-76 на базе трофейных танков «Артштурм» и Т-3",
+    "institution_or_author": "소련 국가방위위원회 / РГАСПИ·러시아 대통령도서관",
+    "publication_date": "1943-01-18",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ Ф. 644. Оп. 1. Д. 83. Л. 11–14; Оп. 2. Д. 127. Л. 95–99",
+    "locator": "표제·날짜·소장 기호",
+    "url": "https://www.prlib.ru/item/1979152",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제2758호 목록이 노획 차체와 F-34 76 mm를 지정한 SU-76 생산 조직 사업임을 확인했다."
+    ],
+    "limitations": [
+      "공개 목록으로 사업의 범위만 확인했다. 첨부 명세서와 실제 제작분 무장 형식은 이 자료로 확인하지 않았다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "GKO 2758ss"
+  },
+  {
+    "id": "CAT-SU-SRC-0028",
+    "title": "Самоходная артиллерийская установка СУ-76И (С-1) образца 1943 года. СССР",
+    "institution_or_author": "러시아 승리박물관(Музей Победы)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Технические характеристики, 시제·채택·제1902연대 단락, 복원 이력",
+    "url": "https://victorymuseum.ru/encyclopedia/technic/bronetankovaya-tekhnika/samokhodnaya-artilleriyskaya-ustanovka-su-76i-s-1-obraztsa-1943-goda-sssr/",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "S-1 포와 채택 서술, 전투중량 22.5 t·승무원 4명·도로 속도 40 km/h, 제1902연대의 1943년 8월 도착 서술을 확인했다."
+    ],
+    "limitations": [
+      "박물관의 후대 설명이다. 채택 원명령, 연대 전투일지, 시험 성적표는 미대조다. 전시품은 2002년 복원 이력이 있다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "Victory Museum SU-76I exhibit history"
+  },
+  {
+    "id": "CAT-SU-SRC-0029",
+    "title": "Постановление ГКО СССР № 3184 сс о самоходных установках СУ-76",
+    "institution_or_author": "소련 국가방위위원회 / РГАСПИ·러시아 대통령도서관",
+    "publication_date": "1943-04-14",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ Ф. 644. Оп. 1. Д. 103. Л. 201–204об.; Оп. 2. Д. 155. Л. 123–127",
+    "locator": "표제·날짜·소장 기호",
+    "url": "https://www.prlib.ru/item/1991165",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 4월 문건의 표제에도 SU-76이 쓰였음을 확인했다."
+    ],
+    "limitations": [
+      "목록 제목은 차체와 대상 세부형을 명시하지 않는다. 원면 미열람이다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "GKO 3184ss"
+  },
+  {
+    "id": "CAT-SU-SRC-0030",
+    "title": "СУ-76",
+    "institution_or_author": "상트페테르부르크 포병·공병·통신병 군사역사박물관",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Историческая справка 첫 세 단락",
+    "url": "https://museum-artillery.ru/ru/su-76.html",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "T-70 기반 SU-76 계열과 ZiS-3, 초기 전선 투입, 1943년 8월 개선형 시험을 확인했다."
+    ],
+    "limitations": [
+      "후대 기관 해설이다. 초기 전선 투입형과 후속 개선형을 구분해서 서술하며 개별 차량의 출고 기록은 제공하지 않는다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "Saint Petersburg Artillery Museum SU-76 history"
+  },
+  {
+    "id": "CAT-SU-SRC-0031",
+    "title": "Самоходная артиллерийская установка СУ-76М",
+    "institution_or_author": "러시아 국내군사사박물관(Музей отечественной военной истории)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제3184·3964호 서술, 소장품 제작·복원 단락, Боевая масса·Вооружение·Максимальная скорость по шоссе",
+    "url": "https://www.kskdivniy.ru/museum/eksponaty/su-76m/",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "SU-12 초기형과 SU-76M 개량형 구분, 1945년 제40공장 제작으로 소개된 소장품, 무장·승무원·중량·도로 속도를 확인했다."
+    ],
+    "limitations": [
+      "후대 복원차이고 전시 도색은 원소속 증거가 아니다. 도로 속도는 박물관 제시값이며 시험 조건은 생략돼 있다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "Padikovo SU-76M exhibit history"
+  },
+  {
+    "id": "CAT-SU-SRC-0032",
+    "title": "Танки на марше",
+    "institution_or_author": "예브게니 할데이 / МАММ·МДФ, История России в фотографиях",
+    "publication_date": "1945-02 (플랫폼의 촬영월)",
+    "source_type": "primary",
+    "document_or_accession_number": "플랫폼 항목 183959, 소장 기호 미표기",
+    "locator": "공개 사진, 촬영월·장소, САУ Су-76 태그",
+    "url": "https://russiainphoto.ru/photos/183959/",
+    "accessed_at": "2026-11-18T14:56:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 2월 헝가리 촬영으로 기록된 공개 사진과 SU-76 태그를 확인했다."
+    ],
+    "limitations": [
+      "제목은 넓은 의미의 전차 표기다. 차량 계열의 보조 자료로 사용했으며 생산형과 부대는 확정하지 않았다."
+    ],
+    "rights": "기관 공개 열람본. 자체 요약과 링크만 사용했다. 이미지·전문 재사용 권리는 별도 확인한다.",
+    "independence_group": "Khaldei Hungary MAMM photo"
+  },
+  {
+    "id": "CAT-SU-SRC-0033",
+    "title": "Intelligence Report: U.S.S.R. Navy",
+    "institution_or_author": "U.S. Navy Department, Intelligence Division, Eastern European Division / HyperWar 공개 스캔",
+    "publication_date": "1943-11-30",
+    "source_type": "primary",
+    "document_or_accession_number": "N.N.I. 96–1943; Serial 40-43; OP-16-FA-5",
+    "locator": "인쇄 78–79쪽 전함, 84쪽 순양함 제원과 85쪽 무장 구조, 127–128쪽 D급 잠수함",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USSR/ONI%20USSR%20Navy%201943-11-30.pdf",
+    "accessed_at": "2026-11-18T16:55:37+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "세바스토폴급 전함 배수량·주포, 키로프급 분류와 설계 속도 및 주포, D급 배수량·속도·발사관을 당대 보고 본문에서 확인했다."
+    ],
+    "limitations": [
+      "미국의 전시 정보 추정이다. 함급 단위 수치에는 상세 배수량 단위, 개함·개장별 시험조건이 충분히 표시되지 않는다."
+    ],
+    "rights": "기밀해제 표시가 있는 미 해군 정부 작성 문서의 공개 스캔. 한국어 요약과 링크만 사용했다.",
+    "independence_group": "US ONI Serial 40-43"
+  },
+  {
+    "id": "CAT-SU-SRC-0034",
+    "title": "305-мм ствол орудия артиллерийской башенной установки линейного корабля типа «Севастополь». СССР",
+    "institution_or_author": "러시아 승리박물관(Музей Победы)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "마라트의 1941년 9월 피격·부상, 2번 포탑 복구, 1944년 1월 무장 단락",
+    "url": "https://victorymuseum.ru/encyclopedia/technic/voenno-morskoy-flot/305-mm-stvol-orudiya-artilleriyskoy-bashennoy-ustanovki-lineynogo-korablya-tipa-sevastopol-sssr/",
+    "accessed_at": "2026-11-18T16:55:37+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941-09-23 피격, 3·4번 및 뒤이은 2번 포탑 가동, 1943년 함명 변경과 1944년 명시 무장을 확인했다."
+    ],
+    "limitations": [
+      "함포 유물 해설은 개별 함정 일지나 피해 원보고서가 아니다. 전과 수치는 채택하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 한국어 자체 요약과 링크만 사용했다. 원문·사진 재사용 권리는 별도 확인한다.",
+    "independence_group": "Victory Museum 305 mm artifact history"
+  },
+  {
+    "id": "CAT-SU-SRC-0035",
+    "title": "В Кронштадте почтили память экипажа линкора «Марат»",
+    "institution_or_author": "크론시타트 구 자치단체",
+    "publication_date": "2025년 84주기 기념 기사",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Трагедия 23 сентября 1941 года 및 Корабль, который отказался умирать",
+    "url": "https://xn--b1aqfv.xn--p1ai/poleznaya-informaciya/novosti/v-kronshtadte-pochtili-pamyat-ekipazha-linkora-marat/",
+    "accessed_at": "2026-11-18T16:55:37+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "피격일과 1941-10-31 후방 포탑 재사용을 적은 추모 기사 본문을 확인했다."
+    ],
+    "limitations": [
+      "후대 추모 기록이며 소련의 함정 일지와 독일 측 기록은 확인하지 못했다. 공격 규모 추정과 인명 수치는 채택하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 한국어 자체 요약과 링크만 사용했다. 원문·사진 재사용 권리는 별도 확인한다.",
+    "independence_group": "Kronstadt memorial narrative"
+  },
+  {
+    "id": "CAT-SU-SRC-0036",
+    "title": "Вступил в строй КБФ первый легкий крейсер проекта 26 «Киров» советской постройки",
+    "institution_or_author": "러시아 중앙해군박물관(ЦВММ)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "표제 및 1938년 편입·1941년 탈린 철수 단락",
+    "url": "https://navalmuseum.ru/news/memorable?id=919",
+    "accessed_at": "2026-11-18T16:55:37+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "키로프를 프로젝트 26 경순양함으로 분류한 점과 1938-09-26 발트함대 편입, 1941년 8월 탈린 철수 기함을 확인했다."
+    ],
+    "limitations": [
+      "박물관 연혁이다. 실제 해상시험·무장 목록과 해당 시기 함정 일지는 미열람이다."
+    ],
+    "rights": "기관 공개 열람 자료. 한국어 자체 요약과 링크만 사용했다. 원문·사진 재사용 권리는 별도 확인한다.",
+    "independence_group": "Central Naval Museum Kirov chronology"
+  },
+  {
+    "id": "CAT-SU-SRC-0037",
+    "title": "Строительство и технические данные Д-2",
+    "institution_or_author": "러시아 중앙해군박물관 D-2 분관",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "진수·발트해 해군 편입 단락 및 Основные тактико-технические элементы",
+    "url": "https://navalmuseum.ru/filials/narodovolec/history_of_d2",
+    "accessed_at": "2026-11-18T16:55:37+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "D-2가 데카브리스트형 I계열임과 개별 함정 제원표의 배수량·속도·무장을 확인했다."
+    ],
+    "limitations": [
+      "개장일과 전시 적재·시험 조건이 붙어 있지 않다. 개별 표의 수치를 D급 전체에 적용하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 한국어 자체 요약과 링크만 사용했다. 원문·사진 재사용 권리는 별도 확인한다.",
+    "independence_group": "Central Naval Museum D-2"
+  },
+  {
+    "id": "CAT-SU-SRC-0038",
+    "title": "Боевой путь Д2 «Народоволец»",
+    "institution_or_author": "러시아 중앙해군박물관 D-2 분관",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1941–1942년 수리·첫 전투 항해 및 선박 피격 단락",
+    "url": "https://navalmuseum.ru/filials/narodovolec/battleway",
+    "accessed_at": "2026-11-18T16:55:37+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942-09-23부터 11-04까지의 첫 전투 항해, 보른홀름 인근 Jacobus Fritzen 및 철도 연락선 피격 서술을 확인했다."
+    ],
+    "limitations": [
+      "후대 함력이다. 개별 공격의 전과 총계와 인명 피해는 상대측 원장과 대조하지 않았다."
+    ],
+    "rights": "기관 공개 열람 자료. 한국어 자체 요약과 링크만 사용했다. 원문·사진 재사용 권리는 별도 확인한다.",
+    "independence_group": "Central Naval Museum D-2"
+  },
+  {
+    "id": "CAT-SU-SRC-0039",
+    "title": "UXO Desk Study Offshore Wind Farm Bornholm I West",
+    "institution_or_author": "E. van den Berg / NjordIC B.V., Energinet 의뢰, 덴마크 에너지청 공개",
+    "publication_date": "2023-10-23",
+    "source_type": "secondary",
+    "document_or_accession_number": "2021.03.214/UP0-343, v4.0",
+    "locator": "인쇄 27쪽 1942-10-14·19 및 각주 39–40",
+    "url": "https://ens.dk/media/5938/download",
+    "accessed_at": "2026-11-18T16:55:37+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Jacobus Fritzen 격침과 Deutschland 손상 및 달력 날짜를 기록한 본문을 확인했다."
+    ],
+    "limitations": [
+      "사업 해역의 후대 역사 정리다. 10월 14일 항목은 NARA 자료를 인용하나 원 기록은 직접 열람하지 않았다."
+    ],
+    "rights": "보고서 권리자는 NjordIC B.V.로 표시된다. 본문·사진을 복제하지 않고 사건 사실의 자체 요약과 링크만 사용했다.",
+    "independence_group": "NjordIC Bornholm historical review"
+  },
+  {
+    "id": "CAT-SU-SRC-0040",
+    "title": "Постановление ГКО СССР № 5526 сс о форсировании производства самолетов Як-3 … и самолетов Ил-2 с металлическим крылом",
+    "institution_or_author": "소련 국가방위위원회(GKO) 작성, РГАСПИ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1944-04-03",
+    "source_type": "primary",
+    "document_or_accession_number": "№ 5526сс. РГАСПИ Ф. 644, Оп. 1, Д. 224, Л. 170–171об.; Оп. 2, Д. 302, Л. 171–174об.",
+    "locator": "첫 장 공개 이미지 및 목록의 제목·일자·보존번호",
+    "url": "https://www.prlib.ru/item/2052372",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 4월 3일 제292공장 Yak-3와 제1·30공장 금속 날개 Il-2 생산 촉진 결정의 존재와 대상을 확인했다."
+    ],
+    "limitations": [
+      "열람한 첫 장과 목록으로 결정의 범위를 확인했다. 첨부 표 전부 및 공장별 실적은 미확인이다."
+    ],
+    "rights": "공개 사본 링크와 한국어 요약만 사용했다. 스캔 재사용 조건은 별도 확인이 필요하다.",
+    "independence_group": "GKO 5526ss · RGASPI"
+  },
+  {
+    "id": "CAT-SU-SRC-0041",
+    "title": "Yakovlev Yak-3",
+    "institution_or_author": "프랑스 항공우주박물관(Musée de l’Air et de l’Espace)",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": "기체 제작번호 2530",
+    "locator": "Le saviez-vous? 및 소장기 해설, Caractéristiques techniques",
+    "url": "https://www.museeairespace.fr/aller-plus-haut/collections/yakovlev-yak-3/",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "양산 초도 기체의 1944년 3월 8일 비행, 기체 2530의 부대 이력과 도장 변경, 웹 제원 수록값을 확인했다."
+    ],
+    "limitations": [
+      "소장기 이력과 제원 표의 증거 수준이 다르다. 웹 제원 표의 엔진·무장·속도에 대응하는 시험기록이나 제작기록은 제시되지 않는다."
+    ],
+    "rights": "박물관 페이지 본문과 사진을 복제하지 않고 요약과 링크만 인용했다.",
+    "independence_group": "Musée de l’Air et de l’Espace"
+  },
+  {
+    "id": "CAT-SU-SRC-0042",
+    "title": "Jeu-parcours Seconde Guerre mondiale — réponses",
+    "institution_or_author": "프랑스 항공우주박물관(Musée de l’Air et de l’Espace)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 10쪽, Yakovlev Yak 3 속도 답란",
+    "url": "https://www.museeairespace.fr/wp-content/uploads/sites/2/2018/03/reponses-jeu-parcours-seconde-guerre-mondiale.pdf",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "교육자료가 Yak-3의 속도로 648 km/h를 제시함을 확인했다."
+    ],
+    "limitations": [
+      "시험조건이 없는 활동지다. 소장품 페이지와 같은 기관이 작성했다."
+    ],
+    "rights": "교육 PDF의 사진과 본문은 복제하지 않고 링크만 제공했다.",
+    "independence_group": "Musée de l’Air et de l’Espace"
+  },
+  {
+    "id": "CAT-SU-SRC-0043",
+    "title": "Первый полёт совершил Як-3",
+    "institution_or_author": "러시아 중앙공군박물관(모니노)",
+    "publication_date": "2024-02-28",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "날짜 표제와 Як-1М 시제기 시험 단락",
+    "url": "https://cmvvs.ru/muzejnaya-deyatelnost/znamenatelnye-daty/pervyj-poljot-sovershil-yak-3.html",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 2월 28일을 Yak-1M 시제기 시험 시작일로 설명하는 본문을 확인했다."
+    ],
+    "limitations": [
+      "표제는 Yak-3으로 쓰여 있으나 본문에서 시험 대상은 Yak-1M이다. 시험일지 원본은 미열람이다."
+    ],
+    "rights": "본문·이미지 재게시 없이 요약과 링크만 인용했다.",
+    "independence_group": "Monino Central Air Force Museum"
+  },
+  {
+    "id": "CAT-SU-SRC-0044",
+    "title": "От «Фармана» до наших дней. К 100-летию военной авиации России",
+    "institution_or_author": "Д. А. Соболев·М. А. Маслов 편저, РУСАВИА 발행, 러시아 과학기술사연구소 PDF 공개",
+    "publication_date": "2012",
+    "source_type": "secondary",
+    "document_or_accession_number": "ISBN 5-900078-69-8",
+    "locator": "제4장 인쇄 131쪽 Il-2 생산 전환, 169쪽 Як-3 ВК-105ПФ2 제원",
+    "url": "https://ihst.ru/files/sobolev/ofdnd.pdf",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Il-2 단좌→복좌 생산 전환 및 VK-105PF2형 Yak-3의 이륙중량·최고속도와 기관포 1문·기관총 2정 구성의 편찬값을 확인했다."
+    ],
+    "limitations": [
+      "제원 칸에 시험 고도·부하와 시험보고 번호가 보이지 않는다. 일선 개별 기체에 일괄 적용할 수 없다."
+    ],
+    "rights": "© РУСАВИА 2012. 수치와 사실만 자체 요약했다.",
+    "independence_group": "Sobolev and Maslov 2012"
+  },
+  {
+    "id": "CAT-SU-SRC-0045",
+    "title": "Самолет Як-3",
+    "institution_or_author": "러시아 승리박물관(Музей Победы)",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": null,
+    "locator": "1944년 봄 양산형 인도 및 ВК-107А 시험형 단락",
+    "url": "https://victorymuseum.ru/about/museum-collection/armament/samolet-yak-3/",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "초기 양산형과 후속 무장 조합이 다르며 별도 VK-107A 시험형이 있었다는 본문을 확인했다."
+    ],
+    "limitations": [
+      "생산 블록 또는 전시 개체별 무장 원장과 인용된 국가시험 보고서 원문은 미열람이다."
+    ],
+    "rights": "기관 소장품 페이지 사진과 본문을 복제하지 않았다.",
+    "independence_group": "Victory Museum collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0046",
+    "title": "Бронированный штурмовик Ил-2",
+    "institution_or_author": "러시아 중앙공군박물관(모니노)",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": "온라인 전시 항목 431",
+    "locator": "Основные данные Ил-2 제원부 및 전시 기체 복원 단락",
+    "url": "https://cmvvs.ru/ekspozitsiya/letatelnye-apparaty.html?id=431&view=article",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Il-2M·Il-2 3형을 아우르는 엔진·중량·고도별 속도·무장 옵션과 소장기의 강제착륙·복원 이력을 확인했다."
+    ],
+    "limitations": [
+      "복수 양산형을 합쳐 서술한다. 고도는 명시되지만 시제기·생산번호와 속도시험의 하중은 확인되지 않는다."
+    ],
+    "rights": "원문과 소장품 이미지는 링크로만 제공했다.",
+    "independence_group": "Monino Central Air Force Museum"
+  },
+  {
+    "id": "CAT-SU-SRC-0047",
+    "title": "Штурмовики Ил-2 в полете",
+    "institution_or_author": "보리스 브도벤코(Борис Вдовенко) 촬영, МАММ/МДФ 소장, История России в фотографиях 공개",
+    "publication_date": "1944-08",
+    "source_type": "primary",
+    "document_or_accession_number": "온라인 사진 354302, 공개 소장번호 미표시",
+    "locator": "촬영자·1944년 8월 캡션 및 사진 원본 보기",
+    "url": "https://russiainphoto.ru/photos/354302/",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 8월로 분류된 Il-2 비행 사진과 촬영 정보를 확인했다."
+    ],
+    "limitations": [
+      "사진으로 기체 세부형과 부대, 엔진, 무장 및 당시 임무는 특정할 수 없다."
+    ],
+    "rights": "소장기관 표시가 있는 사진 원문을 링크했다. 사진 파일을 복제하지 않았다.",
+    "independence_group": "Boris Vdovenko wartime photograph"
+  },
+  {
+    "id": "CAT-SU-SRC-0048",
+    "title": "Lisunow Li-2 (lic. DC-3)",
+    "institution_or_author": "폴란드 항공박물관(Muzeum Lotnictwa Polskiego w Krakowie)",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": null,
+    "locator": "본문 생산·레닌그라드 보급·소장기 이력 단락 및 Technical data",
+    "url": "https://muzeumlotnictwa.pl/en/exhibits/lisunow-li-2-lic-dc-3-2/",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "DC-3 면허 생산, PS-84 생산과 군·민 운용, 레닌그라드 보급, 1943년 제작 소장기와 비무장 제원 표를 확인했다."
+    ],
+    "limitations": [
+      "명칭 변경을 1941년으로 적지만 명령 원문이 없다. 제원 표의 시험 고도·하중 미표기 및 전후 개조 이력을 고려해야 한다."
+    ],
+    "rights": "박물관 본문·사진은 복제 없이 요약과 링크만 인용했다.",
+    "independence_group": "Polish Aviation Museum collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0049",
+    "title": "Транспортный самолёт Ли-2",
+    "institution_or_author": "러시아 중앙공군박물관(모니노)",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": null,
+    "locator": "1941년 레닌그라드·후송 및 1942년 명칭·군용 파생형 단락",
+    "url": "https://cmvvs.ru/samoljoty-velikoj-pobedy/transportnyj-samoljot-li-2.html",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "PS-84의 1941년 보급·후송 서술과 1942년 명칭 변경 설명, 무장 군용 파생형의 존재를 확인했다."
+    ],
+    "limitations": [
+      "명칭 변경 시행 명령 및 1941년의 일자별 수송 기록은 본문에 제시되지 않는다."
+    ],
+    "rights": "박물관 사진과 본문을 복제하지 않고 요약·링크를 사용했다.",
+    "independence_group": "Monino Central Air Force Museum"
+  },
+  {
+    "id": "CAT-SU-SRC-0050",
+    "title": "Пополнение 2022 года — Вторая мировая война в архивных документах",
+    "institution_or_author": "러시아 대통령도서관",
+    "publication_date": "2022",
+    "source_type": "secondary",
+    "document_or_accession_number": "개요에 인용된 GKO № 1637сс, 1942-04-24",
+    "locator": "소련 항공 정책 단락의 1942년 4월 24일 PS-84 기재",
+    "url": "https://www.prlib.ru/section/1336922",
+    "accessed_at": "2026-11-18T18:56:53+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도서관 개요가 1942년 PS-84 여객기의 야간폭격기 사용 승인과 결정 번호를 함께 제시함을 확인했다."
+    ],
+    "limitations": [
+      "기관의 기록물 소개다. 결정 원본 전문과 개조·인도·출격 기록은 미열람이다."
+    ],
+    "rights": "기관 소개의 사실을 한국어로 요약하고 공개 링크만 제공했다.",
+    "independence_group": "Presidential Library 2022 archival overview"
+  },
+  {
+    "id": "CAT-SU-SRC-0051",
+    "title": "Постановление ГКО СССР № 954 сс об увеличении производства пистолетов-пулеметов 7,62 мм (ППШ)",
+    "institution_or_author": "소련 국가방위위원회(GKO) 작성, РГАСПИ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1941-11-23",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "№ 954сс · РГАСПИ Ф. 644, Оп. 1, Д. 14, Л. 181; Оп. 2, Д. 26, Л. 105–106",
+    "locator": "공개 목록의 제목·일자·보존번호",
+    "url": "https://www.prlib.ru/item/1339923",
+    "accessed_at": "2026-11-18T21:02:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 11월 23일 소련 국가방위위원회가 7.62 mm PPSh 증산 결정을 냈다는 제목과 날짜를 확인했다."
+    ],
+    "limitations": [
+      "열람 범위는 기록물 목록이다. 원문 이미지와 공장별 실적 자료는 확보하지 못했다."
+    ],
+    "rights": "대통령도서관 웹사이트 권리 표시. 목록의 사실을 요약했다.",
+    "independence_group": "GKO 954ss · RGASPI"
+  },
+  {
+    "id": "CAT-SU-SRC-0052",
+    "title": "Постановление ГКО СССР № 6152 сс о плане производства и поставок пистолетов-пулеметов Шпагина и ПП-43 в июле и в 3 квартале 1944 г.",
+    "institution_or_author": "소련 국가방위위원회(GKO) 작성, РГАСПИ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1944-07-11",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "№ 6152сс · РГАСПИ Ф. 644, Оп. 1, Д. 271, Л. 1–19; Оп. 2, Д. 350, Л. 40–56",
+    "locator": "공개 목록의 확장 제목·일자·보존번호",
+    "url": "https://www.prlib.ru/item/2063367",
+    "accessed_at": "2026-11-18T21:02:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 7월 11일 결정이 7월 및 3분기 시파긴 기관단총과 PP-43 생산·공급 계획을 포함한다는 목록을 확인했다."
+    ],
+    "limitations": [
+      "분기와 월을 중복 합산할 수 없다. 원문·첨부표와 완료 실적은 확인하지 못했다."
+    ],
+    "rights": "대통령도서관 웹사이트 권리 표시. 목록의 사실을 요약했다.",
+    "independence_group": "GKO 6152ss · RGASPI"
+  },
+  {
+    "id": "CAT-SU-SRC-0053",
+    "title": "Russian PPSh-41 7.62 mm sub-machine gun, 1942",
+    "institution_or_author": "영국 국립육군박물관(National Army Museum), Study Collection",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": "NAM. 1992-11-64-1",
+    "locator": "표제·첫 문단·NAM Accession Number",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=1992-11-64-1",
+    "accessed_at": "2026-11-18T21:02:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "7.62 mm PPSh-41 1942년 제작 표기와 해당 소장품의 1950년 박천 회수 이력을 확인했다."
+    ],
+    "limitations": [
+      "박물관 등록 이력이다. 해당 개체의 소련군 부대 배치나 제2차 세계대전 실전 사용을 확인할 수 없다."
+    ],
+    "rights": "National Army Museum Copyright. 소장품 해설 자체 요약과 링크만 제공했다.",
+    "independence_group": "National Army Museum collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0054",
+    "title": "Стальной шлем СШ-40",
+    "institution_or_author": "러시아 도로가 파먀티 박물관(Дорога памяти)",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": "제3전시실 공개 항목 03_exb-0108, 오디오 가이드 110",
+    "locator": "제품명과 СШ-39·СШ-40 외형 비교 단락",
+    "url": "https://1418museum.ru/eksponaty/03_exb-0108/",
+    "accessed_at": "2026-11-18T21:02:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "SSh-40의 강철제 분류와 SSh-39 대비 내피 및 외부 리벳 차이를 확인했다."
+    ],
+    "limitations": [
+      "부대별 지급량과 방호 시험조건 및 성적은 제공하지 않는다."
+    ],
+    "rights": "본문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 사용했다.",
+    "independence_group": "Doroga Pamyati collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0055",
+    "title": "Каталог предметов Великой Отечественной войны из фондов музея истории МГПУ",
+    "institution_or_author": "Н. В. Блинова·А. Д. Дементьев·Г. В. Теремецкая·Г. Н. Черных 편, 모스크바시립교육대학교 역사박물관·МГПУ 발행",
+    "publication_date": "2023",
+    "source_type": "museum_catalog",
+    "document_or_accession_number": "СШ-40 항목, 공개 소장번호 미기재",
+    "locator": "인쇄 21쪽(PDF 21번째 페이지), Стальной шлем СШ-40 및 Источник",
+    "url": "https://www.mgpu.ru/wp-content/uploads/2023/12/Katalog-predmetov-VOV-MGPU.pdf",
+    "accessed_at": "2026-11-18T21:02:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "옐냐구 모스크바 제8민병사단 전투지에서 수색단이 발견한 SSh-40으로 등록된 유물의 상태·치수·채집 위치를 확인했다."
+    ],
+    "limitations": [
+      "전후 채집·등록 기록이다. 소유자, 현장 퇴적 시점과 피해 원인은 독립 확인하지 않았다."
+    ],
+    "rights": "© 편자 및 МГПУ, 2023. 사진과 목록 원문은 복제하지 않았다.",
+    "independence_group": "MGPU museum collection · Nadezhda field recovery"
+  },
+  {
+    "id": "CAT-SU-SRC-0056",
+    "title": "Сумка санитарная",
+    "institution_or_author": "중앙전선 지휘소 역사기념박물관(Историко-мемориальный музей «КП Центрального фронта»), 러시아 문화유산 포털 Artefact 공개",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": null,
+    "locator": "Время создания·Размер·Коллекция 및 주석 #1–#3",
+    "url": "https://ar.culture.ru/ru/subject/sumka-sanitarnaya-1",
+    "accessed_at": "2026-11-18T21:02:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장 가방의 제작 범위·현존 치수와 의무병용 및 의무지도원용 설명을 확인했다."
+    ],
+    "limitations": [
+      "소장품 제작 시기가 20세기 전반으로 넓다. 1940~1950년대 재고 목록을 특정 전시 부대의 지급 기준으로 볼 수 없다."
+    ],
+    "rights": "본문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 사용했다.",
+    "independence_group": "Central Front Command Post Museum collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0057",
+    "title": "К вопросу истории развития системы комплектно-табельного оснащения медицинской службы Вооруженных Сил Российской Федерации",
+    "institution_or_author": "Ю. В. Мирошниченко, В. Н. Кононов, А. Б. Перфильев, Е. О. Родионов, И. А. Лихогра · 러시아 군사의학아카데미",
+    "publication_date": "2017",
+    "source_type": "secondary",
+    "document_or_accession_number": "Russian Military Medical Academy Reports 36(1), 59–64 · DOI 10.17816/rmmar709463",
+    "locator": "공개 PDF 내 8쪽, 표 2의 Сумка санитара 행",
+    "url": "https://journals.eco-vector.com/1682-7392/article/download/12167/9575",
+    "accessed_at": "2026-11-18T21:02:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 7월 1일 제70군 의무병 가방 기준 1,516개, 현존 1,338개, 충족률 88% 기재를 확인했다."
+    ],
+    "limitations": [
+      "후대 논문이 제시한 당시 제70군 표다. 원 집계 문서와 각 부대의 개인 지급표는 미확보이며 전군 통계가 아니다."
+    ],
+    "rights": "학술지 본문과 표를 복제하지 않고 한 행의 집계값을 자체 문장으로 요약했다.",
+    "independence_group": "Miroshnichenko et al. 2017 medical supply study"
+  },
+  {
+    "id": "CAT-SU-SRC-0058",
+    "title": "Постановление ГКО СССР № 3686 сс о радиолокации, с приложением докладной записки Маленкова Г. М. Сталину И. В.",
+    "institution_or_author": "소련 국가방위위원회(GKO) 작성, РГАСПИ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1943-07-04",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "№ 3686сс · РГАСПИ Ф. 644, Оп. 1, Д. 129, Л. 195–197об.; Оп. 2, Д. 184, Л. 130–135",
+    "locator": "기록물 목록의 제목·날짜·보존번호",
+    "url": "https://www.prlib.ru/item/2011584",
+    "accessed_at": "2026-11-18T23:02:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 7월 4일자 전시 레이더 결정 및 말렌코프의 보고서 첨부 서지를 확인했다."
+    ],
+    "limitations": [
+      "이 기록은 공개 목록 열람에 근거한다. 원문 전체와 지시별 시행 실적은 미확인이다."
+    ],
+    "rights": "원문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 제공했다.",
+    "independence_group": "GKO 3686ss · RGASPI"
+  },
+  {
+    "id": "CAT-SU-SRC-0059",
+    "title": "От «Ревеня» до «Примы». Из истории развития радиолокационных станций",
+    "institution_or_author": "А. Н. Заруцкий, Военно-исторический журнал",
+    "publication_date": "2023-08-02",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "РУС-2 «Редут» 채택 및 РУС-2с «Пегматит» 설명 단락",
+    "url": "https://history.milportal.ru/iz-istorii-razvitiya-radiolokacionnyx-stancij/",
+    "accessed_at": "2026-11-19T04:59:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 RUS-2 채택, 1941년 RUS-2s 개발 및 항공 감시·경보 체계의 장비로 활용됐다는 서술을 확인했다.",
+      "이번 실행에서 LFTI의 코브자레프 연구진과 1940년 RUS-2 채택 설명을 다시 읽어 RAS 기관사와 대조했다."
+    ],
+    "limitations": [
+      "후대 기술사 정리다. 당대 채택 명령서와 장비별 시험표 및 전과 원자료는 별도 확인이 필요하다.",
+      "두 후대 글이 원래 어느 당대 문서를 공유하는지는 미확인이다. 개인별 설계·시험 기여와 채택 결재 문서는 추가 대조가 필요하다."
+    ],
+    "rights": "원문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 제공했다.",
+    "independence_group": "Zarutskii radar history"
+  },
+  {
+    "id": "CAT-SU-SRC-0060",
+    "title": "Бой за Кронштадт",
+    "institution_or_author": "Г. И. Гельфенштейн 회고, Наука и жизнь",
+    "publication_date": "1999-05",
+    "source_type": "primary_memoir",
+    "document_or_accession_number": "Наука и жизнь № 5, 1999",
+    "locator": "‘Редут-3’ 및 1941년 9월 21일 당직 단락",
+    "url": "https://www.nkj.ru/archive/articles/9221/",
+    "accessed_at": "2026-11-18T23:02:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "레두트-3 운용자가 1941년 9월 21일 크론슈타트 방공에 공습 징후를 보고했다고 회고한 부분을 확인했다."
+    ],
+    "limitations": [
+      "전후 수십 년이 지난 참가자 증언이다. 실제 탐지 거리·경보 시간·피해 감소량은 동시대 기록으로 확증하지 못했다."
+    ],
+    "rights": "원문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 제공했다.",
+    "independence_group": "Gelfenshtein operator recollection"
+  },
+  {
+    "id": "CAT-SU-SRC-0061",
+    "title": "Великая Победа. Том 10: Война в эфире",
+    "institution_or_author": "편집위원회, 모스크바국제관계대학교(МГИМО) 출판 · 러시아역사협회 공개",
+    "publication_date": "2015",
+    "source_type": "secondary",
+    "document_or_accession_number": "ISBN 978-5-9228-1310-5",
+    "locator": "인쇄 21–22쪽 «Криптографы вступают в бой», 그림 7 및 각주 48·50·52",
+    "url": "https://historyrussia.org/images/img-knigi/pobeda/t10.pdf",
+    "accessed_at": "2026-11-18T23:02:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "M-101의 1940년 생산·1943년 군 송부와 K-37의 양산·제707공장 생산, K-37과 M-100의 인수 집계가 각각 구분됨을 확인했다."
+    ],
+    "limitations": [
+      "한 편찬물의 서술이다. 그 수치의 원 인수 장부와 독립 기록, 부대별 가동 대장은 확보하지 못했다."
+    ],
+    "rights": "원문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 제공했다.",
+    "independence_group": "Velikaya Pobeda · Voina v efire"
+  },
+  {
+    "id": "CAT-SU-SRC-0062",
+    "title": "The Persian Corridor and Aid to Russia",
+    "institution_or_author": "T. H. Vail Motter, 미 육군 군사사센터(Center of Military History)",
+    "publication_date": "1952",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 8-1",
+    "locator": "제8장 Motor Vehicle Assembly and Delivery, 인쇄 139쪽 첫 단락과 각주 1",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/8-1.pdf",
+    "accessed_at": "2026-11-18T23:02:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 9월 20일까지 미국산 트럭 409,526대와 페르시아 회랑 비중 약 45%가 전체 차종 집계로 기재됐음을 확인했다."
+    ],
+    "limitations": [
+      "전시와 직후를 아우르는 공식 전사 집계다. 본문 수치는 Studebaker US6 인도 수량이 아니다. 각주가 가리키는 1945년 11월 28일 원 보고서 직접 열람은 남았다."
+    ],
+    "rights": "미 육군 공식 발간물 공개 PDF를 링크하고 집계값을 요약했다.",
+    "independence_group": "US Army CMH · Motter"
+  },
+  {
+    "id": "CAT-SU-SRC-0063",
+    "title": "Studebaker US6",
+    "institution_or_author": "네덜란드 오버를론 전쟁박물관(Oorlogsmuseum Overloon)",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": null,
+    "locator": "Military Vehicle Collection, US6 소장품·붉은군대 공여 단락",
+    "url": "https://www.oorlogsmuseum.nl/en/the-museum/exhibitions/military-vehicle-collection-overloon/studebaker-us6/",
+    "accessed_at": "2026-11-18T23:02:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미국의 전시 US6 공급과 소장품 중 이동 정비차·견인차가 있음을 확인했다."
+    ],
+    "limitations": [
+      "차량별 소련군 인수 이력과 공여 수량을 제공하지 않는다. 해당 전시 실물을 소련에서 쓰인 개별 차량으로 단정할 수 없다."
+    ],
+    "rights": "원문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 제공했다.",
+    "independence_group": "Overloon US6 vehicle collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0064",
+    "title": "Распоряжение ГКО СССР № 6305 cc об охране Всесоюзного научно-исследовательского института радиолокации НИИ-108 и Совета по радиолокации при ГКО",
+    "institution_or_author": "소련 국가방위위원회(GKO) 작성, РГАСПИ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1944-08-01",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "№ 6305сс · РГАСПИ Ф. 644, Оп. 1, Д. 287, Л. 165–165об.; Оп. 2, Д. 368, Л. 107–108об.",
+    "locator": "공개 목록의 제목·날짜·보존번호",
+    "url": "https://www.prlib.ru/item/2064837",
+    "accessed_at": "2026-11-18T23:02:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 8월 1일 명령의 제목이 레이더 연구소 НИИ-108과 GKO 산하 레이더위원회를 함께 명시한다."
+    ],
+    "limitations": [
+      "기록물 목록의 기관 표기다. 실제 부대 배치나 기관의 연구 결과, 명령 집행 내용은 확인하지 못했다."
+    ],
+    "rights": "원문·이미지 재게시 없이 자체 요약과 공개 기록 링크만 제공했다.",
+    "independence_group": "GKO 6305ss · RGASPI"
+  },
+  {
+    "id": "CAT-SU-SRC-0065",
+    "title": "Георгий Константинович Жуков (1896–1974)",
+    "institution_or_author": "러시아 대통령도서관",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인물 표제 및 전쟁기 직책·베를린 작전 단락",
+    "url": "https://www.prlib.ru/Great_Russia/military_XX/Zhukov",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰연도, 출생지, 제1벨라루스전선군 지휘와 카를스호르스트 항복문서 관련 기관 서술을 확인했다."
+    ],
+    "limitations": [
+      "전쟁 전반의 공적을 요약한 기관 전기다. 개별 작전의 공과를 이 자료만으로 평가하기 어렵다."
+    ],
+    "rights": "한국어 자체 요약과 공개 링크만 제공했다. 원문·이미지는 재게시하지 않았다.",
+    "independence_group": "Presidential Library Zhukov biography"
+  },
+  {
+    "id": "CAT-SU-SRC-0066",
+    "title": "Донесение маршала Г. Жукова И. Сталину о развитии боев за город Берлин и установлении разграничительной линии между войсками 1-го Белорусского и 1-го Украинского фронтов",
+    "institution_or_author": "게오르기 주코프 작성, 러시아 국방부 중앙기록보관소(ЦАМО РФ) 소장, 역사문서 전자도서관 공개",
+    "publication_date": "1945-04-28",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "ЦАМО РФ. Ф. 233. Оп. 2356. Д. 574",
+    "locator": "표제·문서 설명·저자·소장번호",
+    "url": "https://docs.historyrussia.org/ru/nodes/195161-donesenie-marshala-g-zhukova-i-stalinu-o-razvitii-boev-za-gorod-berlin-i-ustanovlenii-razgranichitelnoy-linii-mezhdu-voyskami-1-go-belorusskogo-i-1-go-ukrainskogo-frontov-28-aprelya-1945-g",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 4월 28일 주코프의 스탈린 앞 베를린 전투 및 두 전선군 경계 보고의 서지를 확인했다."
+    ],
+    "limitations": [
+      "원 전문·부속지도는 미열람이다. 제목은 사령관 보고의 주제를 확인해 준다."
+    ],
+    "rights": "한국어 자체 요약과 공개 링크만 제공했다. 원문·이미지는 재게시하지 않았다.",
+    "independence_group": "TsAMO Zhukov report 1945-04-28"
+  },
+  {
+    "id": "CAT-SU-SRC-0067",
+    "title": "Act of Military Surrender Signed at Berlin on the 8th day of May, 1945",
+    "institution_or_author": "독일군 최고사령부 및 연합군 지휘부 대표, 미 국무부 편찬 영문을 예일대 로스쿨 Avalon Project에서 제공",
+    "publication_date": "1945-05-08",
+    "source_type": "primary",
+    "document_or_accession_number": "Act of Military Surrender, Berlin, 8 May 1945 · U.S. Department of State Publication 8484",
+    "locator": "영문 전사 제2조와 서명란",
+    "url": "https://avalon.law.yale.edu/wwii/gs11.asp",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "작전 중지의 문서상 기준시각과 G. Zhukov의 붉은군대 최고사령부 대표 자격을 확인했다."
+    ],
+    "limitations": [
+      "원본 사진이 아닌 편찬 영문 전사다. 문서에 적힌 날짜·효력 시각과 행사 시각은 구분한다."
+    ],
+    "rights": "한국어 자체 요약과 공개 링크만 제공했다. 원문·이미지는 재게시하지 않았다.",
+    "independence_group": "Berlin Act of Military Surrender · May 1945"
+  },
+  {
+    "id": "CAT-SU-SRC-0068",
+    "title": "The City Becomes a Symbol: The U.S. Army in the Occupation of Berlin, 1945–1949",
+    "institution_or_author": "William Stivers·Donald A. Carter, 미 육군 군사사센터(CMH)",
+    "publication_date": "2017",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 45–4, LCCN 2017027945",
+    "locator": "인쇄 34–35쪽 베를린 작전 및 카를스호르스트 항복, 35쪽 각주 1",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo88399/pdf/GOVPUB-D114-PURL-gpo88399.pdf",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "주코프의 제1벨라루스전선군 지휘, 다른 전선군의 참여, 항복 행사 장소와 참석자를 확인했다."
+    ],
+    "limitations": [
+      "미 육군 연구진의 전후 편찬이다. 실제 서명 절차와 시간대 쟁점은 당대 연합군 기록 추가 대조가 필요하다."
+    ],
+    "rights": "미 육군 공식 발간물 공개 링크와 자체 요약만 제공했다.",
+    "independence_group": "US Army CMH Berlin history"
+  },
+  {
+    "id": "CAT-SU-SRC-0069",
+    "title": "Чуйков Василий Иванович",
+    "institution_or_author": "러시아 스탈린그라드 전투 박물관(Музей-заповедник «Сталинградская битва»)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "생몰·전시 제62군 및 제8근위군 단락",
+    "url": "https://stalingrad-battle.ru/history/people-time/4375/",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰·출생지, 1942년 9월부터 제62군 지휘, 1943년 제8근위군 개편, 베를린 작전 당시 제1벨라루스전선군 내 역할을 확인했다."
+    ],
+    "limitations": [
+      "후대 박물관 전기다. 개인 발언의 재현이나 전술의 최초 고안 여부를 확인하는 자료로 사용하지 않았다."
+    ],
+    "rights": "한국어 자체 요약과 공개 링크만 제공했다. 원문·이미지는 재게시하지 않았다.",
+    "independence_group": "Stalingrad Battle Museum biography"
+  },
+  {
+    "id": "CAT-SU-SRC-0070",
+    "title": "Боевой приказ № 201 командующего 62-й армией Сталинградского фронта В. И. Чуйкова о начале уничтожения окруженной группировки противника в Сталинграде",
+    "institution_or_author": "바실리 추이코프 작성, ЦА МО РФ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1942-11-25",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "№ 201 · ЦА МО РФ. Ф. 345. Оп. 5487. Д. 5. Л. 554–555",
+    "locator": "표제의 발령자·직책·주제와 기록물 날짜·보존번호",
+    "url": "https://www.prlib.ru/item/1944736",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 11월 25일 스탈린그라드전선군 제62군 사령관 추이코프 명의로 발령된 전투 명령의 서지를 확인했다."
+    ],
+    "limitations": [
+      "목록만 열람했다. 명령 전문·하위 부대의 이행 및 실제 전과는 미확인이다."
+    ],
+    "rights": "한국어 자체 요약과 공개 링크만 제공했다. 원문·이미지는 재게시하지 않았다.",
+    "independence_group": "TsAMO Chuikov order 201"
+  },
+  {
+    "id": "CAT-SU-SRC-0071",
+    "title": "Павличенко Людмила Михайловна — Орден Ленина",
+    "institution_or_author": "북캅카스전선군 군사평의회 명령, 러시아 국방부 중앙기록보관소 소장, Память народа 공개",
+    "publication_date": "1942-07-16",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "명령 № 137 · ЦАМО. Ф. 33. Оп. 682524. Д. 612",
+    "locator": "1942년 표창문서 첫 항목의 제54소총연대·상사·명령 번호·날짜",
+    "url": "https://pamyat-naroda.ru/heroes/podvig-nagrada_kartoteka1100476289/",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 7월 16일 문서의 표제와 구조화된 계급·연대·레닌 훈장 기록을 확인했다."
+    ],
+    "limitations": [
+      "개인 페이지의 후대 표창 카드에는 소령도 표시된다. 전시 직급은 해당 날짜의 명령 항목을 기준으로 했다. 문서 사본 전문은 미열람이다."
+    ],
+    "rights": "한국어 자체 요약과 공개 링크만 제공했다. 원문·이미지는 재게시하지 않았다.",
+    "independence_group": "TsAMO Pavlichenko award order 137"
+  },
+  {
+    "id": "CAT-SU-SRC-0072",
+    "title": "Павличенко Людмила Михайловна",
+    "institution_or_author": "세바스토폴 방어·해방 박물관(Музей героической обороны и освобождения Севастополя)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "입대와 오데사·세바스토폴 방어 단락, 1942년 사진 캡션 및 사망 단락",
+    "url": "https://www.sevmuseum.ru/scientific-activity/dnevnik/sevastopolskiy-dnevnik/pavlichenko-lyudmila-mikhaylovna/",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "출생지, 제54소총연대·제25소총사단 복무, 오데사·세바스토폴 방어, 전시 훈련과 미국 대표단 활동, 사망연도를 확인했다."
+    ],
+    "limitations": [
+      "기관 전기와 사진 캡션이다. 게시된 당대 선전 전단을 개별 전과의 독립 증빙으로 세지 않았다."
+    ],
+    "rights": "한국어 자체 요약과 공개 링크만 제공했다. 원문·이미지는 재게시하지 않았다.",
+    "independence_group": "Sevastopol Museum biography and holdings"
+  },
+  {
+    "id": "CAT-SU-SRC-0073",
+    "title": "Soviet Student Delegation Arrives",
+    "institution_or_author": "주미 소련대사관 Information Bulletin, 공개 스캔은 Michael Harrison 웹사이트 보관",
+    "publication_date": "1942-08-29",
+    "source_type": "primary",
+    "document_or_accession_number": "Information Bulletin No. 104",
+    "locator": "제104호 첫 기사 «Soviet Student Delegation Arrives» 및 «Guests at White House»",
+    "url": "https://michaelharrison.org.uk/wp-content/uploads/2025/10/Embassy-Of-USSR-Information-Bulletin-1942-N79-153.pdf",
+    "accessed_at": "2026-11-19T00:56:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 8월 27일 대표단의 워싱턴 도착과 대사관이 그를 중위로 소개하고 309명 수치를 공표한 사실을 확인했다."
+    ],
+    "limitations": [
+      "외국 독자 대상 당대 소련 정부 홍보물이다. 공표 수치는 전투 일지나 상대측 자료로 독립 확증되지 않았다. 직급 표기는 보도 시점 호칭으로 사용했다."
+    ],
+    "rights": "당대 회보의 인용·복제 허용 표기가 있다. 자체 요약과 스캔 링크만 제공했다.",
+    "independence_group": "USSR Embassy Information Bulletin 104"
+  },
+  {
+    "id": "CAT-SU-SRC-0074",
+    "title": "Постановление Президиума Верховного Совета СССР, ЦК ВКП(б) и СНК СССР о создании Государственного комитета обороны",
+    "institution_or_author": "소련 최고소비에트 상임간부회·전연방공산당 중앙위원회·인민위원평의회 작성, РГАСПИ 소장, 대통령도서관 공개",
+    "publication_date": "1941-06-30",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ. Ф. 17. Оп. 163. Д. 1317. Л. 19–20",
+    "locator": "기록물 목록의 제목·날짜·서명 필적 설명·소장번호",
+    "url": "https://www.prlib.ru/item/1761941",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 6월 30일 GKO 설치 결정과 스탈린의 수정 필적을 표시한 서지를 확인했다."
+    ],
+    "limitations": [
+      "목록을 열람했다. 원문 전체와 조직의 일별 의사결정 과정은 미열람이다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "GKO founding resolution · RGASPI"
+  },
+  {
+    "id": "CAT-SU-SRC-0075",
+    "title": "Образован Государственный комитет обороны (ГКО)",
+    "institution_or_author": "러시아 대통령도서관",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1941년 6월 30일 설치 및 최초 구성원 설명",
+    "url": "https://www.prlib.ru/history/2127276",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "스탈린 위원장·몰로토프 부위원장·베리야 위원 등 최초 구성과 전시 권한을 확인했다."
+    ],
+    "limitations": [
+      "후대 제도사 해설이다. 원 결정 목록과 같은 기관의 설명이며 독립 확증으로 세지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "Presidential Library GKO institutional account"
+  },
+  {
+    "id": "CAT-SU-SRC-0076",
+    "title": "The Ambassador in the Soviet Union (Steinhardt) to the Secretary of State",
+    "institution_or_author": "Laurence A. Steinhardt, 주소련 미국대사 · 미 국무부 FRUS 편찬",
+    "publication_date": "1939-08-24",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1939, vol. I, doc. 335 · 761.6211/85 · 전보 464",
+    "locator": "전보 첫 문단·조약 요약·편집자 각주 15",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d335",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "몰로토프와 리벤트로프의 조약 서명 및 최종 회의에 스탈린이 참석했다는 동시대 대사 보고를 확인했다."
+    ],
+    "limitations": [
+      "제3국 대사의 보고다. 조약의 비밀의정서 내용은 이 본문에 전사돼 있지 않아 별도의 기관 해설로 대조했다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "US Embassy Moscow · Steinhardt telegram 464"
+  },
+  {
+    "id": "CAT-SU-SRC-0077",
+    "title": "German-Soviet Pact",
+    "institution_or_author": "미국 홀로코스트기념박물관(USHMM), Holocaust Encyclopedia",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The German-Soviet Pact 본문과 공개 협정·비밀의정서 설명",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/german-soviet-pact",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 8월 23일 협정에서 몰로토프의 외무인민위원 역할, 비밀 영향권 분할과 폴란드 침공·점령의 관계를 확인했다."
+    ],
+    "limitations": [
+      "기관의 역사 해설이다. 비밀의정서 원본과 분할 경계의 변경 조약 전문은 미열람이다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "USHMM German-Soviet Pact account"
+  },
+  {
+    "id": "CAT-SU-SRC-0078",
+    "title": "Agreement Regarding Entry of the Soviet Union Into the War Against Japan",
+    "institution_or_author": "스탈린·루스벨트·처칠 합의, 미 국무부 FRUS 편찬",
+    "publication_date": "1945-02-11",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS Conferences at Malta and Yalta, 1945, doc. 503 · Executive Agreement Series No. 498 · 59 Stat. 1823",
+    "locator": "합의 첫 문단·조건 1–3·중국 동의 단락·서명란",
+    "url": "https://history.state.gov/historicaldocuments/frus1945Malta/d503",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일 항복과 유럽전 종결 후 2~3개월 내 대일 참전 약속과 관련 조건, 세 지도자의 서명 표기를 확인했다."
+    ],
+    "limitations": [
+      "합의 원문 전사다. 실제 참전과 영토·항만 조항의 후속 이행은 별도 문서로 검증해야 한다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "Yalta agreement on Soviet entry against Japan"
+  },
+  {
+    "id": "CAT-SU-SRC-0079",
+    "title": "Decyzja Biura Politycznego WKP(b) o wymordowaniu obywateli polskich, w większości oficerów wziętych do niewoli we wrześniu 1939 r.",
+    "institution_or_author": "라브렌티 베리야의 스탈린 앞 제안 및 승인 기록 · 폴란드 국가기억연구소(IPN) 공개 폴란드어 전사",
+    "publication_date": "1940-03-05",
+    "source_type": "primary",
+    "document_or_accession_number": "Katyń. Dokumenty zbrodni, vol. 1, 편집 W. Materski, Warszawa 1995, pp. 469–470, 475",
+    "locator": "제안 I–II절·베리야 서명·승인 서명 편집 주석",
+    "url": "https://katyn.ipn.gov.pl/kat/bibliografia-i-mediatek/3643,Decyzja-Biura-Politycznego-WKPb-o-wymordowaniu-obywateli-polskich-w-wiekszosci-o.html",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "베리야가 폴란드 포로와 수감자의 총살을 제안하며 정식 소환·공소 절차를 생략하도록 한 내용과 스탈린·몰로토프 등의 승인 서명을 설명한 전사를 확인했다."
+    ],
+    "limitations": [
+      "기관이 제공하는 번역·편집 전사다. 서명 필적을 독자 감정하지 않았고 실제 집행 피해자 총수는 이 제안의 계획 수량과 구분한다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "Beria memorandum approved 1940-03-05"
+  },
+  {
+    "id": "CAT-SU-SRC-0080",
+    "title": "Translation of Crimean Tatars — Revelations from the Russian Archives",
+    "institution_or_author": "소련 GKO 작성 · 미 의회도서관 전시에서 제공하는 영문 번역",
+    "publication_date": "1944-05-11",
+    "source_type": "primary",
+    "document_or_accession_number": "GKO Decree No. 5859ss",
+    "locator": "제1항·제2항 이송 조항·I. Stalin 위원장 서명 표기",
+    "url": "https://loc.gov/exhibits/archives/trans-l2tartar.html",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "크림의 타타르인 전원을 우즈베크 SSR로 강제 이주시킨다는 지시와 NKVD·베리야의 담당, 스탈린의 위원장 서명 표기를 확인했다."
+    ],
+    "limitations": [
+      "국가기관 명령의 집단 비난 문구는 발령자의 명분이다. 실제 이주자·사망자 수 및 이행 날짜는 이 명령의 계획과 별도 검증이 필요하다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "GKO 5859ss · Crimean Tatar deportation"
+  },
+  {
+    "id": "CAT-SU-SRC-0081",
+    "title": "Постановление ГКО СССР № 5859 сс о крымских татарах, с приложением … докладной записки Берии Л. П. Сталину И. В.",
+    "institution_or_author": "소련 GKO 작성, РГАСПИ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1944-05-11",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ. Ф. 644. Оп. 1. Д. 252. Л. 137–144; Оп. 2. Д. 333. Л. 1–11",
+    "locator": "목록 제목·발령일·보존번호 및 베리야 보고서 첨부 설명",
+    "url": "https://www.prlib.ru/item/2058475",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "5859сс 결정 날짜와 베리야가 스탈린에게 제출한 보고서 첨부 기록을 확인했다."
+    ],
+    "limitations": [
+      "영문 번역과 동일 결정에 관한 목록이다. 독립된 명령으로 세지 않았고 첨부 보고서 전문은 미열람이다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "GKO 5859ss · Crimean Tatar deportation"
+  },
+  {
+    "id": "CAT-SU-SRC-0082",
+    "title": "The Ambassador in the United Kingdom (Winant) to the Secretary of State",
+    "institution_or_author": "John G. Winant, 주영국 미국대사 · 미 국무부 FRUS 편찬",
+    "publication_date": "1942-05-26",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1942, vol. III, doc. 467 · 741.6111/35 · 전보 2922",
+    "locator": "인쇄 564–566쪽, 영소 조약 협의와 몰로토프 관련 단락 및 각주",
+    "url": "https://history.state.gov/historicaldocuments/frus1942v03/d467",
+    "accessed_at": "2026-11-19T02:52:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영소 동맹조약 협의에 몰로토프가 관여하고 스탈린이 수정안을 승인했다는 동시대 대사 보고를 확인했다."
+    ],
+    "limitations": [
+      "보고는 당일 조약 서명을 예정형으로 표현한다. 서명본은 각주에 안내되며 원문 전체는 미열람이다."
+    ],
+    "rights": "자체 한국어 요약과 공개 원문 링크를 사용했다. 전문·이미지는 재게시하지 않았다.",
+    "independence_group": "US Embassy London · Winant telegram 2922"
+  },
+  {
+    "id": "CAT-SU-SRC-0083",
+    "title": "Вклад ученых в Великую Победу",
+    "institution_or_author": "А. Г. Забродский, 이오페 물리기술연구소장 · 러시아과학원(RAS)",
+    "publication_date": "2013-05-06",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "본문 «Перед войной начались…»부터 1941년 스탈린상 단락",
+    "url": "https://www.ras.ru/news/shownews.aspx?id=99594c04-ea43-40d3-854d-6cbe3d39206b",
+    "accessed_at": "2026-11-19T04:59:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "LFTI의 전쟁 관련 펄스 레이더 연구와 코브자레프의 지도 역할, 포고렐코·체르네초프와의 공동 수상 서술을 읽었다."
+    ],
+    "limitations": [
+      "후대 연구소 기념사다. 탐지거리·경보시간·폭격 피해 수치와 기술 우월성 평가는 당대 시험·운용 원자료로 검증하지 않았으며 채택하지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 원문·사진·영상은 재게시하지 않았다.",
+    "independence_group": "Ioffe Institute · Zabrodskii"
+  },
+  {
+    "id": "CAT-SU-SRC-0084",
+    "title": "18 июня — День медицинского работника",
+    "institution_or_author": "국립 티미랴제프 생물학박물관",
+    "publication_date": null,
+    "source_type": "museum_interpretation",
+    "document_or_accession_number": null,
+    "locator": "1942년 6–11월 방역·1943년 수상 단락, 1942–1944년 페니실린 단락",
+    "url": "https://gbmt.ru/ru/about/news/news/18-iyunya-den-meditsinskogo-rabotnika/",
+    "accessed_at": "2026-11-19T04:59:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "예르몰리예바와 의료진의 스탈린그라드 방역, 야콥손과의 1943년 공동 수상 설명, 페니실린 연구·생산 조직 지도 기간을 확인했다."
+    ],
+    "limitations": [
+      "원 상훈 결정·임상 기록·생산 장부는 제시하지 않는다. 예방 성공의 인과효과·구명 인원은 검증하지 않았다. 생년은 기관 자료 사이에 차이가 있어 본문에서 확정하지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 원문·사진·영상은 재게시하지 않았다.",
+    "independence_group": "Timiryazev Biological Museum"
+  },
+  {
+    "id": "CAT-SU-SRC-0085",
+    "title": "Всероссийский НИИ растениеводства им. Н.И. Вавилова и Блокада Ленинграда",
+    "institution_or_author": "И. Г. Лоскутов, 바빌로프 식물연구소(VIR)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "5쪽 PDF 중 PDF 2–4쪽, 봉쇄기의 보관·감자 컬렉션·재파종 단락",
+    "url": "https://www.vir.nw.ru/wp-content/uploads/2018/09/blokada3.pdf",
+    "accessed_at": "2026-11-19T04:59:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "레닌그라드 잔류 직원들의 종자 보관·감자 컬렉션 관리 및 1942년 봄 재파종 서술을 읽었다. 레흐노비치 회고 인용을 후대 수록문으로 확인했다."
+    ],
+    "limitations": [
+      "본문은 회고 인용과 후대 기관사다. 원 보관일지·회고 원본은 미확인이다. 웹 경로의 2018/09를 출판일로 간주하지 않았다. PDF 이미지 캡처는 도구의 형식 인식 오류로 실패했으며 텍스트 추출본을 열람했다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 원문·사진·영상은 재게시하지 않았다.",
+    "independence_group": "VIR institutional history"
+  },
+  {
+    "id": "CAT-SU-SRC-0086",
+    "title": "Vavilov, Nikolai",
+    "institution_or_author": "Canadian Institute of Ukrainian Studies, Internet Encyclopedia of Ukraine",
+    "publication_date": "1993",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Encyclopedia of Ukraine 제5권 수록 항목의 전기·1940년 체포·사라토프 감옥 사망 단락",
+    "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CV%5CA%5CVavilovNikolai.htm",
+    "accessed_at": "2026-11-19T04:59:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "러시아인 유전학자라는 인물 분류, 소련 연구기관 소속, 1940년 8월 체포와 1943년 1월 26일 사라토프 사망 및 감옥 내 영양실조 설명을 확인했다."
+    ],
+    "limitations": [
+      "후대 학술 백과다. 체포·기소·사망 원 문서와 형량 변경 문서는 미열람이다. 간첩·농업 파괴는 당시 기소 내용이며 사실로 인정하는 뜻이 아니다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 원문·사진·영상은 재게시하지 않았다.",
+    "independence_group": "Canadian Institute of Ukrainian Studies"
+  },
+  {
+    "id": "CAT-SU-SRC-0087",
+    "title": "Мемориальный кабинет Н.И. Вавилова",
+    "institution_or_author": "바빌로프 식물연구소(VIR) 기념관",
+    "publication_date": null,
+    "source_type": "museum_interpretation",
+    "document_or_accession_number": null,
+    "locator": "관장 재직기간 단락, «Жизненный путь» 마지막 시기·사망문서 전시 설명, «Блокадный период работы ВИР»",
+    "url": "https://www.vir.nw.ru/muzej-n-i-vavilova/",
+    "accessed_at": "2026-11-19T04:59:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "바빌로프의 연구소장 재직 종료가 1940년 8월로 제시됨을 확인했다. 감옥 사진·사망문서와 봉쇄기 직원의 보존 활동을 별도 전시한다는 기관 설명을 읽었다."
+    ],
+    "limitations": [
+      "전시물 자체의 원본 판독을 수행하지 않았다. 소장번호가 페이지에 제시되지 않는다. 같은 기관의 0085와 독립 확증으로 세지 않는다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 원문·사진·영상은 재게시하지 않았다.",
+    "independence_group": "VIR institutional history"
+  },
+  {
+    "id": "CAT-SU-SRC-0088",
+    "title": "Госпожа Пенициллин: виртуальная выставка",
+    "institution_or_author": "티미랴제프 생물학박물관·JSCC 전시 사이트",
+    "publication_date": null,
+    "source_type": "museum_exhibition",
+    "document_or_accession_number": null,
+    "locator": "박물관 기사 링크의 전시 진입 주소, 내부 전시 문서는 미열람",
+    "url": "https://exibitions.jscc.ru/ermoleva/",
+    "accessed_at": "2026-11-19T04:59:10+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "박물관 링크 클릭과 URL 직접 열기 모두 HTTP 502 Bad Gateway. 전시물·당대 기록은 확인하지 못했다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 원문·사진·영상은 재게시하지 않았다.",
+    "independence_group": "Timiryazev Biological Museum"
+  },
+  {
+    "id": "CAT-SU-SRC-0089",
+    "title": "Выступление по радио … В. М. Молотова … о … нападении … Германии на СССР",
+    "institution_or_author": "В. М. Молотов 발언 · РГАФД 소장 · 러시아 대통령도서관 공개",
+    "publication_date": "1941-06-22",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАФД. Ф. 1. Оп. 15 ш/ф. Ед. уч. 398",
+    "locator": "목록의 제목·날짜·Примечания·Шифр хранения",
+    "url": "https://www.prlib.ru/item/1354995",
+    "accessed_at": "2026-11-19T06:58:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "목록에서 1941년 6월 22일 음성문서(Фонодокумент), 러시아어, 길이 8분 34초로 확인했다."
+    ],
+    "limitations": [
+      "음성 자체를 재생·청취하지 못했다. 영상 소장·존재를 입증하는 목록이 아니다. 표제의 председатель СНК 직함은 별도 직책 대조가 필요해 본문에 그대로 채택하지 않았다."
+    ],
+    "rights": "자체 한국어 요약·원문 링크만 제공했다. 원본 음성·영상·이미지를 복제하거나 재업로드하지 않았다.",
+    "independence_group": "RGAFD 1/15/398"
+  },
+  {
+    "id": "CAT-SU-SRC-0090",
+    "title": "Выступление по радио И. В. Сталина с обращением к советскому народу в связи с нападением Германии на СССР",
+    "institution_or_author": "И. В. Сталин 발언 · РГАФД 소장 · 러시아 대통령도서관 공개",
+    "publication_date": "1941-07-03",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАФД. Ф. 1. Оп. 16 т/ф. Ед. уч. 254",
+    "locator": "목록의 날짜·Примечания·Шифр хранения",
+    "url": "https://www.prlib.ru/item/1355388",
+    "accessed_at": "2026-11-19T06:58:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 7월 3일 음성문서, 러시아어, 길이 21분 26초라는 서지를 확인했다."
+    ],
+    "limitations": [
+      "음성 자체는 미청취다. 영상 미확보는 모든 영상의 부존재를 뜻하지 않는다."
+    ],
+    "rights": "자체 한국어 요약·원문 링크만 제공했다. 원본 음성·영상·이미지를 복제하거나 재업로드하지 않았다.",
+    "independence_group": "RGAFD 1/16/254"
+  },
+  {
+    "id": "CAT-SU-SRC-0091",
+    "title": "Речь И. В. Сталина на параде войск Красной армии, посвященном 24-й годовщине Великой Октябрьской социалистической революции",
+    "institution_or_author": "И. В. Сталин 발언 · РГАФД 소장 · 러시아 대통령도서관 공개",
+    "publication_date": "1941-11-07",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАФД. Ф. 1. Ед. уч. 066",
+    "locator": "목록의 날짜·녹음장소·길이·소장번호",
+    "url": "https://www.prlib.ru/item/1355409",
+    "accessed_at": "2026-11-19T06:58:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "목록에서 녹음일 1941년 11월 7일, 모스크바 붉은광장, 길이 6분 58초, 음성문서로 확인했다."
+    ],
+    "limitations": [
+      "음성 미청취다. 이 녹음일을 별도 영화장면의 촬영일로 적용할 수 없다."
+    ],
+    "rights": "자체 한국어 요약·원문 링크만 제공했다. 원본 음성·영상·이미지를 복제하거나 재업로드하지 않았다.",
+    "independence_group": "RGAFD 1/066"
+  },
+  {
+    "id": "CAT-SU-SRC-0092",
+    "title": "Празднование 24-й годовщины Октябрьской революции в Москве и Куйбышеве (1941)",
+    "institution_or_author": "Net-Film 영상자료 유통·목록 서비스",
+    "publication_date": "1941",
+    "source_type": "film_catalog",
+    "document_or_accession_number": "Net-Film №59960 · сюжет 1",
+    "locator": "Сюжет №1 장면 설명 첫 단락, 전체 목록 길이 00:08:40, календарь",
+    "url": "https://www.net-film.ru/film-59960/",
+    "accessed_at": "2026-11-19T06:58:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "스탈린 연설 장면과 모스크바·쿠이비셰프 행진을 포함한다는 목록 설명, 한 сюжет와 전체 길이 8분 40초를 확인했다.",
+      "실제 브라우저 재생기에 Unable to play media.가 표시되었고 한 차례 새로고침 뒤에도 같은 오류였다."
+    ],
+    "limitations": [
+      "실제 동영상 시청·음성·자막·립싱크·프레임별 촬영일·장면 타임코드는 미검증이다. 전체 길이는 연설 단독 길이가 아니다. 공급사 번호를 원 소장기관의 소장번호로 쓰지 않는다."
+    ],
+    "rights": "사이트가 영상 제공·라이선스를 별도로 안내한다. 이용 허락이나 퍼블릭도메인으로 추정하지 않고 링크·자체 요약만 사용했다.",
+    "independence_group": "Net-Film 59960"
+  },
+  {
+    "id": "CAT-SU-SRC-0093",
+    "title": "Парад 7 ноября 1941 года. Как это было...",
+    "institution_or_author": "А. М. Трояновский 작성 · 중앙기록영화스튜디오 역사 가상박물관(CSDF Museum) 게재",
+    "publication_date": "2017-12-09",
+    "source_type": "primary_excerpt_and_commentary",
+    "document_or_accession_number": "М. Трояновский, …С веком наравне (РОССПЭН, 2004) 일기 재수록. 원본 소장번호·인쇄쪽 미확인",
+    "locator": "본문의 28 ноября 1941 г. 표제 아래 17·20·27 ноября 촬영 준비·촬영 일기 인용",
+    "url": "https://csdfmuseum.ru/blog/27-Парад-7-ноября-1941-года-Как-это-было",
+    "accessed_at": "2026-11-19T06:58:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "재수록 일기에서 11월 17일 촬영 결정, 20일 표시된 연설문 전달, 27일 크렘린 게오르기 홀에서 촬영했다는 기록을 읽었다.",
+      "웹 게재일 2017-12-09와 원 온라인 발표일 2011-11-04의 표기를 구분했다."
+    ],
+    "limitations": [
+      "원 일기·2004년 출판본은 직접 대조하지 못했다. 7일 연설의 재촬영 설명이며 모든 영상 판본의 특정 장면을 식별하는 기록은 아니다. 다른 CSDF 글도 이 일기를 인용하므로 독립 원사료로 세지 않았다."
+    ],
+    "rights": "자체 한국어 요약·원문 링크만 제공했다. 원본 음성·영상·이미지를 복제하거나 재업로드하지 않았다.",
+    "independence_group": "Mark Troyanovskii diary lineage"
+  },
+  {
+    "id": "CAT-SU-SRC-0094",
+    "title": "Приказ Народного комиссара танковой промышленности СССР № 4",
+    "institution_or_author": "В. А. Малышев / НКТП СССР 작성 · Макаров А. Ю., Желтов И. Г.의 Т-34 Информ 전사",
+    "publication_date": "1941-09-13",
+    "source_type": "primary_transcription",
+    "document_or_accession_number": "РГАЭ Ф. 8752. Оп. 4. Д. 2. Л. 7–10 (공식 목록은 역순 Л. 10–7)",
+    "locator": "명령 본문 1·2·3а항, 8·10항은 계획·동원 지시로 읽음",
+    "url": "https://t34inform.ru/doc/1941-09-13_Ord_NKTP_4cc.html",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제183공장 설비·인력을 니즈니타길 우랄바곤자보드 부지로 이전하라는 명령을 읽었다.",
+      "2항의 가동설비 50%씩 두 단계와 첫 단계 10월 10일 완료 목표, 3а항의 이전 중 일 7대·완전 이전 두 달 뒤 일 15대 T-34 생산 목표를 확인했다."
+    ],
+    "limitations": [
+      "웹 전사와 공식 목록의 문서번호·날짜·소장번호를 맞췄다. 원 문서 이미지 전체의 직접 판독과 명령 이행·군 검수량은 미확인이다. 목표를 실적으로 세지 않는다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
+    "independence_group": "NKTP order 4 · RGAE"
+  },
+  {
+    "id": "CAT-SU-SRC-0095",
+    "title": "Приказ № 4 Наркомата танковой промышленности СССР об эвакуации завода № 183 и Мариупольского завода в г. Нижний Тагил и выпуске танков Т-34 и бронедеталей",
+    "institution_or_author": "НКТП СССР / РГАЭ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1941-09-13",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАЭ. Ф. 8752. Оп. 4. Д. 2. Л. 10–7",
+    "locator": "표제·날짜·Примечания·소장번호",
+    "url": "https://www.prlib.ru/item/1354542",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "명령 4호의 원본 소장과 역순 페이지 표시 및 날짜·대상 공장을 확인했다."
+    ],
+    "limitations": [
+      "목록 대조다. 0094와 동일 명령이므로 독립된 정책 결정·실적 증거로 세지 않는다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
+    "independence_group": "NKTP order 4 · RGAE"
+  },
+  {
+    "id": "CAT-SU-SRC-0096",
+    "title": "Постановление ГКО СССР № 1877 о дополнительной эвакуации оборудования завода «Красная заря» Наркомата электропромышленности",
+    "institution_or_author": "GKO СССР / РГАСПИ 소장, 러시아 대통령도서관 공개",
+    "publication_date": "1942-06-05",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "РГАСПИ. Ф. 644. Оп. 1. Д. 38. Л. 259; Оп. 2. Д. 69. Л. 68–70",
+    "locator": "목록 제목·날짜·소장번호·첨부문서 안내",
+    "url": "https://www.prlib.ru/item/1347301",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 6월 5일 크라스나야 자리야의 추가 설비 이전에 관한 결정과 전기공업인민위원부 소속 표기를 확인했다."
+    ],
+    "limitations": [
+      "원 전문·설비 목록은 미열람이다. 추가 이전의 목적지·이전 완료량·실제 전화기 납품은 확정하지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
+    "independence_group": "GKO 1877 · RGASPI"
+  },
+  {
+    "id": "CAT-SU-SRC-0097",
+    "title": "Телефонный аппарат «ТАУ 1 МБ» (настольный)",
+    "institution_or_author": "Ю. К. Рассамахин, 톰스크주 M. B. 샤틸로프 향토박물관",
+    "publication_date": null,
+    "source_type": "museum_interpretation",
+    "document_or_accession_number": null,
+    "locator": "말미의 페름 전화공장 기원 설명과 소장품의 1950년대 사용 단락",
+    "url": "https://tomskmuseum.ru/nmps/narim_virt/telephone-apparat-tau/",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "박물관은 페름 전화공장의 기원을 1941년 레닌그라드 크라스나야 자리야의 소개와 연결한다. 소장 전화기는 1950년대 나림 사용품으로 설명한다."
+    ],
+    "limitations": [
+      "후대 지역박물관 해설이다. 이 물품을 전시 제작품·전선 지급품으로 소급할 수 없다. 페름 설립·분리 원명령과 전시 전화기 생산은 미검증이다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
+    "independence_group": "Tomsk regional museum · Rassamakhin"
+  },
+  {
+    "id": "CAT-SU-SRC-0098",
+    "title": "История — Завод «Электросила»",
+    "institution_or_author": "실로비예 마시니(Power Machines) 역사박물관",
+    "publication_date": null,
+    "source_type": "museum_interpretation",
+    "document_or_accession_number": null,
+    "locator": "«Великая Отечественная война», 1941–1945 항목",
+    "url": "https://museum.power-m.ru/plants/elektrosila/history/",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 전차 부품·지뢰·포탄 제작 및 군용 전기장비 수리, 1942년 본업 생산 재개와 볼호프 수력발전기 복구 서술을 읽었다.",
+      "1942년 9월 23일 레닌그라드로 전력이 공급됐다는 기관사를 확인했다."
+    ],
+    "limitations": [
+      "후계 기업의 기관사다. 생산·수리 원장·검수 기록은 미열람이다. 현대 Power Machines라는 법인을 전시 기업명으로 쓰지 않는다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
+    "independence_group": "Power Machines corporate history"
+  },
+  {
+    "id": "CAT-SU-SRC-0099",
+    "title": "Свет Волхова",
+    "institution_or_author": "РусГидро·LifeNews 공동 역사 프로젝트",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "본문의 케이블 설치와 1942년 9월 23일 송전 설명 단락",
+    "url": "https://hydro1945.rushydro.ru/sobytiya/svet-volhova/",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "볼호프 수력발전소의 전력이 1942년 9월 23일 라도가 케이블로 레닌그라드에 도달했다는 설명을 대조했다."
+    ],
+    "limitations": [
+      "별도 기관의 후대 설명이지만 원자료 계통은 미확인이다. 엘렉트로실라의 단독 기여나 모든 시내 시설의 정상가동을 입증하지 않는다. 영상 시청이 아닌 페이지 본문 열람이다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
+    "independence_group": "RusHydro · LifeNews"
+  },
+  {
+    "id": "CAT-SU-SRC-0100",
+    "title": "ЦГАЛС СПб. Фонд Р-403 — Завод «Красная Заря»",
+    "institution_or_author": "상트페테르부르크 기록관",
+    "publication_date": null,
+    "source_type": "archive_finding_aid",
+    "document_or_accession_number": "ЦГАЛС СПб. Ф. Р-403",
+    "locator": "기금 페이지 접근 시도, 본문 미확인",
+    "url": "https://spbarchives.ru/infres/-/archive/cgals/R-403",
+    "accessed_at": "2026-11-19T08:51:04+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "검색 결과의 상세 주소와 쿼리 없는 기금 주소를 각각 열었으나 두 번 모두 TimeoutError였다. 검색 요약을 원문 열람이나 직제 확증으로 세지 않았다."
+    ],
+    "rights": "자체 한국어 요약과 원문 링크만 사용했다. 문서 전문·사진은 복제하지 않았다. 전사문은 원 소장기호와 편집 사이트를 병기했다.",
+    "independence_group": "St Petersburg archives R-403"
+  },
+  {
+    "id": "CAT-SU-SRC-0101",
+    "title": "Всесоюзная перепись населения 1939 г. Распределение городского и сельского населения СССР и союзных республик по национальности и полу",
+    "institution_or_author": "1939년 전연방 인구조사 · РГАЭ 자료, Демоскоп Weekly 전사",
+    "publication_date": "1939",
+    "source_type": "primary_table_transcription",
+    "document_or_accession_number": "Таблица 15д. Национальный состав населения. РГАЭ Ф. 1562. Оп. 336. Д. 966",
+    "locator": "표 머리말·Всего 행·페이지 하단 Источник",
+    "url": "https://www.demoscope.ru/weekly/ssp/sng_nac_39_gs.php",
+    "accessed_at": "2026-11-19T10:52:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "총계 170,557,093명, 남성 81,694,889명, 여성 88,862,204명을 원문 표 전사에서 확인했다."
+    ],
+    "limitations": [
+      "원 기록물 이미지·조사표 전장 미대조다. 숫자는 공표·편집된 집계로 보존하고 무오류 실인구로 승인하지 않는다. 거주 개념의 세부 지침도 후속 확인이 필요하다."
+    ],
+    "rights": "한국어 자체 요약·선별 수치와 원문 링크만 사용했다. 원문·도표 이미지·PDF 전문을 재게시하지 않았다.",
+    "independence_group": "1939 census table 15d · RGAE"
+  },
+  {
+    "id": "CAT-SU-SRC-0102",
+    "title": "Территория и население СССР. Часть I — Народное хозяйство СССР в 1960 году",
+    "institution_or_author": "소련 통계연감 · Исторические Материалы 재수록",
+    "publication_date": null,
+    "source_type": "official_statistics_transcription",
+    "document_or_accession_number": "Народное хозяйство СССР в 1960 году, 인쇄 7–9쪽",
+    "locator": "7쪽 영토·인구 표, 8쪽 남녀 표, 9쪽 도시·농촌 표",
+    "url": "https://istmat.org/node/207",
+    "accessed_at": "2026-11-19T10:52:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 1월 17일 조사·1939년 9월 17일 이전 경계 기준 170.6백만 명과 확대 영역 추계 190.7백만 명을 구분한 표를 읽었다.",
+      "같은 기준의 도시 56.1백만·농촌 114.5백만 명과 남성 81.7백만·여성 88.9백만 명을 확인했다."
+    ],
+    "limitations": [
+      "후대 공식 연감의 웹 전사다. 인쇄본 자체와 원 조사 문서는 미대조다. 확대 영역 추계를 1939년 당시 조사 영역이나 병합의 법적 승인으로 보지 않는다."
+    ],
+    "rights": "한국어 자체 요약·선별 수치와 원문 링크만 사용했다. 원문·도표 이미지·PDF 전문을 재게시하지 않았다.",
+    "independence_group": "Soviet 1960 statistical yearbook"
+  },
+  {
+    "id": "CAT-SU-SRC-0103",
+    "title": "О приписках в переписи 1939 г.",
+    "institution_or_author": "Дмитрий Богоявленский, Демоскоп Weekly",
+    "publication_date": "2013-10-14/2013-10-31",
+    "source_type": "secondary",
+    "document_or_accession_number": "Демоскоп Weekly №571–572",
+    "locator": "본문 «Техника подделки и ее количественная оценка» 전후, 보정·중앙집계 인원 설명",
+    "url": "https://www.demoscope.ru/weekly/2013/0571/arxiv01.php",
+    "accessed_at": "2026-11-19T10:52:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 집계의 의도적 과대계상과 군·NKVD 특별집계의 지역 재배분을 논하는 문헌·기록 인용을 읽었다."
+    ],
+    "limitations": [
+      "연구자의 해석과 인용문을 확인했다. 원 비밀 회람·서신 전체를 직접 판독하지 않았다. 이 글과 0101은 같은 웹 플랫폼이며 별개의 독립 인구조사가 아니다."
+    ],
+    "rights": "한국어 자체 요약·선별 수치와 원문 링크만 사용했다. 원문·도표 이미지·PDF 전문을 재게시하지 않았다.",
+    "independence_group": "Bogoyavlensky census critique"
+  },
+  {
+    "id": "CAT-SU-SRC-0104",
+    "title": "Великая Отечественная война. Юбилейный статистический сборник — Демоскоп 소개·표 재수록",
+    "institution_or_author": "Росстат(원 편찬) · Демоскоп Weekly(재수록)",
+    "publication_date": "2015",
+    "source_type": "official_statistics_reproduction",
+    "document_or_accession_number": "원서 Москва, Росстат, 2015, 190쪽 · 재수록 안내 22·24·31·32쪽",
+    "locator": "24쪽 인구 변화 표와 각주, 31쪽 점령지역 인구 표의 기준 영역 각주, 소개 마지막의 경계 원칙",
+    "url": "https://www.demoscope.ru/weekly/2015/0639/biblio01.php",
+    "accessed_at": "2026-11-19T10:52:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 초 추계 195.4백만, 1946년 초 추계 170.5백만, 같은 시점 가상 인구 209.9백만 명을 구분한 표와 각주를 읽었다.",
+      "1939년 초를 기준으로 전쟁 직전 영역에 소급한 190,678천 명의 별도 표와 지역 범위 각주를 확인했다."
+    ],
+    "limitations": [
+      "통계기관 원 PDF는 접근 실패로 직접 대조하지 못했다. 전사 표의 원서 쪽 번호를 인용했으며 PDF 페이지를 확인한 뜻이 아니다. 안드레예프·다르스키·하리코바의 복원 추계와 Rosstat 가상 시나리오를 독립된 인구센서스로 보지 않는다. 추계별 영토 조정의 세부 원문은 미확인이다."
+    ],
+    "rights": "한국어 자체 요약·선별 수치와 원문 링크만 사용했다. 원문·도표 이미지·PDF 전문을 재게시하지 않았다.",
+    "independence_group": "Rosstat 2015 · ADKh reconstruction"
+  },
+  {
+    "id": "CAT-SU-SRC-0105",
+    "title": "The Great Patriotic War — statistical handbook (English PDF)",
+    "institution_or_author": "Rosstat",
+    "publication_date": null,
+    "source_type": "official_statistics",
+    "document_or_accession_number": "VOV_ENG(2).pdf",
+    "locator": "공식 PDF 접근 시도, 본문 미열람",
+    "url": "https://eng.rosstat.gov.ru/storage/mediabank/VOV_ENG%282%29.pdf",
+    "accessed_at": "2026-11-19T10:52:29+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "같은 PDF를 두 차례 열었으나 TimeoutError로 원문 대조 실패. 러시아어 2020년 자료·통계사 2012년 자료·2015년 발표 페이지도 시간초과였다. 검색 요약을 원 PDF 열람으로 세지 않았다."
+    ],
+    "rights": "한국어 자체 요약·선별 수치와 원문 링크만 사용했다. 원문·도표 이미지·PDF 전문을 재게시하지 않았다.",
+    "independence_group": "Rosstat official PDF"
+  },
+  {
+    "id": "CAT-SU-SRC-0106",
+    "title": "Население Советского Союза: 1922–1991",
+    "institution_or_author": "Е. М. Андреев, Л. Е. Дарский, Т. Л. Харькова",
+    "publication_date": "1993",
+    "source_type": "scholarly_reconstruction",
+    "document_or_accession_number": "Москва: Наука, 1993 · ISBN 5-02-013479-1(탐색 서지, 원본 표지 미대조)",
+    "locator": "HSE 공개 PDF 진입 시도, 본문 미열람",
+    "url": "https://www.hse.ru/data/2013/07/31/1288282799/naselenie_1922-1991.pdf",
+    "accessed_at": "2026-11-19T10:52:29+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "열기 결과 400 Content length is too large: 11397172. 원서의 추계 방법과 표를 읽은 것으로 세지 않았다."
+    ],
+    "rights": "한국어 자체 요약·선별 수치와 원문 링크만 사용했다. 원문·도표 이미지·PDF 전문을 재게시하지 않았다.",
+    "independence_group": "ADKh reconstruction"
+  },
+  {
+    "id": "CAT-SU-SRC-0107",
+    "title": "Санкт-Петербург переименован в Петроград",
+    "institution_or_author": "Президентская библиотека имени Б. Н. Ельцина",
+    "publication_date": null,
+    "source_type": "institutional_secondary",
+    "document_or_accession_number": "도서관 역사 해설 1983280",
+    "locator": "마지막 본문 문단: 1924-01-26 개칭 및 1991-09-06 환원; 날짜 표제는 역사적 사건일",
+    "url": "https://www.prlib.ru/history/1983280",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "레닌그라드 명칭의 시작과 상트페테르부르크 환원 날짜를 해설 본문에서 확인했다."
+    ],
+    "limitations": [
+      "후대 도서관 해설이며 게시일은 미확인이다. 1914년 전반사는 WW2 지명 대응에 필요한 선행 명칭 설명에만 사용한다. 1991년 원 개칭령은 미대조다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "Presidential Library city-name history"
+  },
+  {
+    "id": "CAT-SU-SRC-0108",
+    "title": "Царицын에서 Сталинград으로 개칭하는 1925년 결정",
+    "institution_or_author": "Президиум ЦИК СССР · ЭБИД 재수록",
+    "publication_date": "1925-04-10",
+    "source_type": "primary_law_collection_scan",
+    "document_or_accession_number": "Собрание законов СССР, 1925, №25, ст.171; Известия №87, 1925-04-16",
+    "locator": "인쇄 313쪽 하단 ст.171 전문·서명·날짜; ЭБИД page1505520",
+    "url": "https://docs.historyrussia.org/ru/nodes/394740",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "고해상도 법령집 이미지에서 도시·구베르니야·우예즈드·볼로스트·철도역을 각각 개칭하는 본문과 1925-04-10 날짜 및 4월16일 공표 주기를 읽었다."
+    ],
+    "limitations": [
+      "법령집 재수록 이미지이며 서명 원본은 아니다. 1925년 행정단위를 1939년이나 1945년 행정체계로 소급하지 않는다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "1925 CIK decree · law collection article171"
+  },
+  {
+    "id": "CAT-SU-SRC-0109",
+    "title": "Самара에서 Куйбышев으로 개칭하는 1935년 결정",
+    "institution_or_author": "ЦИК СССР · ЭБИД 재수록",
+    "publication_date": "1935-01-27",
+    "source_type": "primary_law_collection_scan",
+    "document_or_accession_number": "Собрание законов СССР за 1935 г., Отдел первый, М., 1947; №7, ст.56; Известия №23, 1935-01-28",
+    "locator": "인쇄 62쪽 상단 ст.56, а) 도시·б) край 및 서명·날짜; ЭБИД page1316219",
+    "url": "https://docs.historyrussia.org/ru/nodes/353522",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도시는 Самара→Куйбышев, край는 Средне-Волжский→Куйбышевский로 따로 지정한 조항과 1935-01-27 결정·1월28일 공표 주기를 이미지에서 읽었다."
+    ],
+    "limitations": [
+      "1947년 편찬 법령집에 실린 1935년 결정이다. 원 신문·서명본과 전시 oblast 재편 법령은 미대조다. 도시명과 광역 행정구역을 동일 공간으로 취급하지 않는다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "1935 CIK decree · law collection article56"
+  },
+  {
+    "id": "CAT-SU-SRC-0110",
+    "title": "Постановление ГКО СССР №802с о комиссии текущих дел в Куйбышеве",
+    "institution_or_author": "ГКО СССР · Росархив 관련 문서집/ЭБИД 재수록",
+    "publication_date": "1941-10-15",
+    "source_type": "primary_document_edited_scan",
+    "document_or_accession_number": "РГАСПИ. Ф.644. Оп.1. Д.12. Л.156; 문서집 Советское военно-политическое руководство..., 2020, №12",
+    "locator": "인쇄 51쪽 №12 표제·본문·날짜 및 출전 주기; ЭБИД page1185334",
+    "url": "https://docs.historyrussia.org/ru/nodes/327912-postanovlenie-gko-sssr-locale-nil-802s-locale-nil-o-komissii-tekuschih-del-v-kuybysheve-locale-nil-sekretno-15-oktyabrya-1941-g",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "문서집 이미지에서 Куйбышеве의 도시 표기와 1941-10-15 날짜, 몰로토프를 위원장으로 하는 현안위원회 승인 본문을 읽었다."
+    ],
+    "limitations": [
+      "읽은 것은 2020년 문서집의 활자 재수록 51쪽이다. 소장기호가 가리키는 원 타자문서 이미지를 읽은 것이 아니다. 이 결정만으로 수도의 법적 이전·기관의 실제 도착·가동이나 위원회 실적을 확정하지 않는다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "GKO802s · RGASPI644-1-12-156"
+  },
+  {
+    "id": "CAT-SU-SRC-0111",
+    "title": "Приказ Верховного Главнокомандующего №20, 1 мая 1945 г.",
+    "institution_or_author": "И. В. Сталин · Мосгорархив 문서집/ЭБИД 재수록",
+    "publication_date": "1945-05-01",
+    "source_type": "primary_document_edited_scan",
+    "document_or_accession_number": "Правда, 1945-05-01; Москва послевоенная. 1945–1947, М., Мосгорархив, 2000, №5",
+    "locator": "인쇄 25쪽 №5 표제·명령번호·날짜 및 오른쪽 본문 상단의 도시명; ЭБИД page1091111",
+    "url": "https://docs.historyrussia.org/ru/nodes/297636-prikaz-verhovnogo-glavnokomanduyuschego-i-v-stalina-o-provedenii-v-oznamenovanie-mezhdunarodnogo-prazdnika-trudyaschihsya-1-maya-salyuta-v-stolitsah-soyuznyh-respublik-i-v-gorodah-geroyah-leningrade-stalingrade-sevastopole-i-odesse-1-maya-1945-g",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "문서집 25쪽 이미지의 날짜·№20과 본문에서 Ленинградом·Сталинградом 표기를 읽었다."
+    ],
+    "limitations": [
+      "당시 신문을 출전으로 삼는 후대 활자 재수록이다. 원 신문 지면·명령 서명본·뒤쪽 계속면은 미대조다. 전시 선전문서의 손실·전과 수치는 채택하지 않는다. 표제의 영웅도시 표현을 후대 상훈 제도·수여일 전체의 증거로 확대하지 않는다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "1945 May1 order20 · Pravda reproduction"
+  },
+  {
+    "id": "CAT-SU-SRC-0112",
+    "title": "Указ Президиума Верховного Совета РСФСР №526-I",
+    "institution_or_author": "Президиум Верховного Совета РСФСР · Сборник законов 재전사",
+    "publication_date": "1991-01-25",
+    "source_type": "primary_legal_text_transcription",
+    "document_or_accession_number": "№526-I, 1991-01-25",
+    "locator": "표제·단일 개칭 조항·서명·날짜·번호",
+    "url": "https://sbornik-zakonov.ru/272736.html?id=272736",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도시 Куйбышев→Самара와 oblast Куйбышевская→Самарская의 개칭 조항 및 날짜·번호를 전사 본문에서 확인했다."
+    ],
+    "limitations": [
+      "민간 법령 사이트의 원 법령 전사이며 서명 원본·당대 관보 스캔은 미대조다. 다른 법령 사이트의 403과 사마라 기록관 해설의 시간초과로 독립 원문 대조를 완료하지 못했다. 현대 대응명 식별에 필요한 범위만 사용한다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "1991 RSFSR decree526-I transcription"
+  },
+  {
+    "id": "CAT-SU-SRC-0113",
+    "title": "Указ Президиума Верховного Совета РСФСР от 10 ноября 1961 года",
+    "institution_or_author": "ГБУ Волгоградской области «Центр документации новейшей истории Волгоградской области»",
+    "publication_date": "2025-11-10",
+    "source_type": "archival_institution_secondary",
+    "document_or_accession_number": "1961-11-10 개칭령에 대한 기록관 해설",
+    "locator": "본문 첫 두 문단: 도시·oblast 개칭과 법령 인용; 뒤의 11월12·15일 신문 설명",
+    "url": "https://cdnivo.ru/main/news/ukaz-prezidiuma-verhovnogo-soveta-rsfsr-ot-10-noyabrya-1961-goda",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기록관 해설에서 1961-11-10 스탈린그라드 도시와 주의 볼고그라드 개칭 및 조항의 재인용을 읽었다."
+    ],
+    "limitations": [
+      "후대 기록관 해설이다. 개칭령 서명본과 인용 신문을 직접 읽지 않았다. 같은 기관의 2025-04-10 글도 확인했으나 독립 출처로 추가 집계하지 않았다. 1961년 정치사 전체와 최근 기념 명칭 제도는 범위 밖이다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "Volgograd regional archive rename history"
+  },
+  {
+    "id": "CAT-SU-SRC-0114",
+    "title": "Петроград에서 Ленинград으로 개칭하는 제2차 소비에트대회 결정",
+    "institution_or_author": "2-й съезд Советов СССР · ЭБИД 재수록",
+    "publication_date": "1924-01-26",
+    "source_type": "primary_document_edited_scan",
+    "document_or_accession_number": "원 출전 Постановления 2 съезда Советов Союза ССР, ЦИК СССР, 1924, 9–10쪽; 재수록 Ленинград дважды орденоносный, Госполитиздат, 1946",
+    "locator": "ЭБИД page1048586: 제목·본문 말미 개칭 부분·하단 날짜; 재수록 이미지의 인쇄 쪽 번호는 보이지 않음",
+    "url": "https://docs.historyrussia.org/ru/nodes/282492-postanovlenie-2-go-sezda-sovetov-sssr-o-pereimenovanii-goroda-petrograda-v-leningrad-moskva-26-yanvarya-1924-g",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "고해상도 재수록 이미지에서 도시 Петроград→Ленинград 개칭 문구와 하단 1924-01-26 날짜를 읽었다. 도서관 해설 0107의 날짜와 일치한다."
+    ],
+    "limitations": [
+      "1924년 원 인쇄 9–10쪽이나 서명 원본을 직접 대조한 것이 아니다. 자료를 재수록한 1946년 책의 한 이미지다. 문서의 정치적 찬양과 역사 평가를 사실 설명으로 채택하지 않는다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "1924 second Congress renaming decree"
+  },
+  {
+    "id": "CAT-SU-SRC-0115",
+    "title": "Secret Additional Protocol",
+    "institution_or_author": "독일·소련 전권대표 · Yale Avalon 재수록",
+    "publication_date": "1939-08-23",
+    "source_type": "primary_diplomatic_text_translation",
+    "document_or_accession_number": "1939-08-23 비밀 추가의정서",
+    "locator": "전문 중 제1–3항과 날짜",
+    "url": "https://avalon.law.yale.edu/20th_century/addsepro.asp",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "발트·핀란드·폴란드·베사라비아 관련 세력권 문구와 나레프·비스와·산강 기준을 영문 전사에서 확인했다."
+    ],
+    "limitations": [
+      "서명본·독일어/러시아어 정본과 미대조인 영문 번역 전사다. 세력권 합의를 해당국의 적법한 양도·현장 점령 증거로 보지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Nazi-Soviet Relations diplomatic edition"
+  },
+  {
+    "id": "CAT-SU-SRC-0116",
+    "title": "German-Soviet Boundary and Friendship Treaty",
+    "institution_or_author": "독일·소련 정부 · Yale Avalon 재수록",
+    "publication_date": "1939-09-28",
+    "source_type": "primary_diplomatic_text_translation",
+    "document_or_accession_number": "1939-09-28 국경·우호조약",
+    "locator": "제I·II·III·V조",
+    "url": "https://avalon.law.yale.edu/20th_century/gsbound.asp",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "첨부지도에 따른 이해관계 경계와 동서 행정 재조직의 양국 분담, 서명 즉시 발효 조항을 읽었다."
+    ],
+    "limitations": [
+      "첨부지도·경계 세부의정서·서명 정본 미대조다. 문서가 폴란드 소멸을 주장하는 것은 체결국의 주장이며 연구자의 승인이나 제3국 인정으로 바꾸지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Nazi-Soviet Relations diplomatic edition"
+  },
+  {
+    "id": "CAT-SU-SRC-0117",
+    "title": "Secret Supplementary Protocol",
+    "institution_or_author": "독일·소련 전권대표 · Yale Avalon 재수록",
+    "publication_date": "1939-09-28",
+    "source_type": "primary_diplomatic_text_translation",
+    "document_or_accession_number": "1939-09-28 비밀 보충의정서",
+    "locator": "첫 본문 문단·리투아니아 남서부 유보 문단·날짜",
+    "url": "https://avalon.law.yale.edu/20th_century/sesupp.asp",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "리투아니아를 소련 세력권으로, 루블린·바르샤바 일부를 독일 세력권으로 조정하는 문구와 리투아니아 남서부 관련 별도 조건을 확인했다."
+    ],
+    "limitations": [
+      "0115·0116과 같은 편찬 계통이다. 세 개 페이지를 서로 독립된 역사 확증으로 세지 않는다. 첨부지도와 이후 추가 변경은 미검증이다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Nazi-Soviet Relations diplomatic edition"
+  },
+  {
+    "id": "CAT-SU-SRC-0118",
+    "title": "Press Release Issued by the Department of State on July 23, 1940",
+    "institution_or_author": "미 국무부 · Sumner Welles",
+    "publication_date": "1940-07-23",
+    "source_type": "primary_official_statement",
+    "document_or_accession_number": "FRUS 1940, General, vol.I, doc.412, pp.401–402; Department of State Bulletin 1940-07-27 p.48 재수록",
+    "locator": "성명 전문·각주93",
+    "url": "https://history.state.gov/historicaldocuments/frus1940v01/d412",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "에스토니아·라트비아·리투아니아의 독립·영토 보전 침해와 강제·위협에 의한 조치에 반대하는 동시대 미국 성명을 읽었다."
+    ],
+    "limitations": [
+      "미국의 외교 입장을 입증한다. 모든 국가의 승인 태도나 국제재판 판결을 대표하지 않는다. 문서의 평가 표현은 발행 주체의 입장으로 구분한다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "US State Department Baltic nonrecognition"
+  },
+  {
+    "id": "CAT-SU-SRC-0119",
+    "title": "Memorandum by Durbrow to Stettinius: United States Policy Regarding the Baltic States",
+    "institution_or_author": "Elbridge Durbrow · 미 국무부",
+    "publication_date": "1944-11-20",
+    "source_type": "primary_diplomatic_memorandum",
+    "document_or_accession_number": "711.60n/11–2044; FRUS 1944, Europe, vol.IV, doc.843, pp.933–936",
+    "locator": "Historic 및 Political Aspects of the Question 항목",
+    "url": "https://history.state.gov/historicaldocuments/frus1944v04/d843",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 주둔 협정, 1940년 최후통첩·추가 진주·선거·편입 청원에 대한 미국 관리의 정리와 불승인·외교대표 인정 지속 설명을 읽었다."
+    ],
+    "limitations": [
+      "미국 관리의 1944년 정책 검토 문서다. 소련·발트 원 행정명령과 독립 현장자료를 대조한 것이 아니며 0118과 같은 미국 정책 계통이다. 1945-09-02 군 배치의 직접 증거는 아니다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "US State Department Baltic nonrecognition"
+  },
+  {
+    "id": "CAT-SU-SRC-0120",
+    "title": "Potsdam Conference — Protocol of the Proceedings",
+    "institution_or_author": "소련·미국·영국 정부 · 미 외교문서 편찬/Yale Avalon 재수록",
+    "publication_date": "1945-08-01",
+    "source_type": "primary_conference_protocol_translation",
+    "document_or_accession_number": "A Decade of American Foreign Policy 1941–1949; 포츠담 의사록",
+    "locator": "제II.A.1항 및 제V절 City of Koenigsberg and the Adjacent Area",
+    "url": "https://avalon.law.yale.edu/20th_century/decade17.asp",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "쾨니히스베르크와 인접 지역의 궁극적 소련 이전에 대한 원칙적 동의, 전문가 경계 심사 및 평화 처리 유보를 읽었다.",
+      "독일 점령지별 군 총사령관 권한과 공동 통제 조항을 확인했다."
+    ],
+    "limitations": [
+      "당대 의사록의 후대 전사다. 웹 표제의 회의 기간 7월17일–8월2일과 의사록 날짜 8월1일을 구분했다. 실제 현장 점령선·최종 주권 이전의 완료 증거로 확대하지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Potsdam proceedings"
+  },
+  {
+    "id": "CAT-SU-SRC-0121",
+    "title": "Treaty concerning the Polish-Soviet State Frontier",
+    "institution_or_author": "폴란드·소련 · United Nations Treaty Series",
+    "publication_date": "1945-08-16",
+    "source_type": "primary_treaty_official_publication",
+    "document_or_accession_number": "UNTS vol.10 (1947), II–61, pp.193–201; 1945-08-16 모스크바 서명",
+    "locator": "폴란드어·러시아어 pp.194–197; 영문 pp.198·200 제1–4조와 p.198 발효 각주; PDF 0-based P208·209·211",
+    "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%2010/v10.pdf",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "커즌선과 폴란드 측 조정·국경 기술, 혼합위원회, 발트해 인접 구간 유보, 비준서 교환 발효 조항과 1946-02-05 발효 각주를 읽었다.",
+      "제2조 라바루스카 방향은 러시아어·폴란드어 정본의 서쪽 표기와 영문 번역의 남쪽 표기가 달라 정밀 경계선의 영문 단독 전사를 보류했다. 프랑스어 번역도 서쪽이다.",
+      "UN 등록 상세의 서명·발효일이 원문 각주와 일치함을 확인했다."
+    ],
+    "limitations": [
+      "영·불문은 번역이고 폴란드어·러시아어가 정본이다. 지도 삽지는 미판독이며 지도에서 좌표·면적을 추출하지 않았다. 번역 방향 차이는 후속 과제로 보존한다. 서명일과 1946년 발효일·1947년 등록일을 혼동하지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "1945 Polish-Soviet frontier treaty official publication",
+    "catalog_url": "https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280164b0a"
+  },
+  {
+    "id": "CAT-SU-SRC-0122",
+    "title": "Invasion of Poland, Fall 1939",
+    "institution_or_author": "United States Holocaust Memorial Museum",
+    "publication_date": "2021-08-25",
+    "source_type": "museum_secondary",
+    "document_or_accession_number": "Holocaust Encyclopedia; Last Edited Aug25 2021",
+    "locator": "Key Facts 2–3; Invasion and Partition of Poland; The German Occupation of Poland 마지막 문단",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939",
+    "accessed_at": "2026-11-19T14:55:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-09-17 소련의 동부 폴란드 침공과 분할, 1941년 독일의 소련 점령 동부 폴란드 침공, 1944·1945년 소련군 진격에 대한 박물관 설명을 확인했다."
+    ],
+    "limitations": [
+      "박물관의 후대 해설이며 날짜별 전선·행정구역 경계의 직접 원자료는 아니다. 해설의 분할 날짜 9월29일을 조약의 서명일 9월28일과 합쳐 쓰지 않았다."
+    ],
+    "rights": "자체 한국어 요약·선별 사실·원문 링크만 사용한다. 원문·지도·PDF 전문을 재업로드하지 않는다. 개별 이미지와 재수록의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "USHMM Poland invasion historical synthesis"
+  },
+  {
+    "id": "CAT-SU-SRC-0123",
+    "title": "Народное хозяйство СССР в Великой Отечественной войне 1941–1945 гг. — Черная металлургия",
+    "institution_or_author": "소련 통계집 · Исторические Материалы 전사",
+    "publication_date": null,
+    "source_type": "official_statistics_transcription",
+    "document_or_accession_number": "통계집 제3절; 원 인쇄본 서지·쪽 미대조",
+    "locator": "웹 표 «Выплавка стали по видам»와 «Выплавка стали по союзным республикам»",
+    "url": "https://istmat.org/node/353",
+    "accessed_at": "2026-11-19T17:01:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "강철 총계 1940년 18,317.2·1945년 12,251.7천 톤과 공화국별 RSFSR·우크라이나 수치를 전사 표에서 읽었다.",
+      "강철·선철·압연제품 표가 구분됨을 확인했다."
+    ],
+    "limitations": [
+      "전사이며 원 통계집 인쇄본과 일차 생산 장부는 미대조다. 편찬연도·행정경계 조정 원칙·집계 누락은 미확인이다. 다른 연도 표에서 불일치 가능성이 있어 이번에는 명시한 1940·1945년 행만 사용한다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 개별 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Soviet wartime economic statistical collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0124",
+    "title": "Народное хозяйство СССР в Великой Отечественной войне 1941–1945 гг. — Сводный раздел",
+    "institution_or_author": "소련 통계집 · Исторические Материалы 전사",
+    "publication_date": null,
+    "source_type": "official_statistics_transcription",
+    "document_or_accession_number": "통계집 제1절; 원 인쇄본 서지·쪽 미대조",
+    "locator": "첫 표 «Основные показатели развития народного хозяйства СССР в годы Великой Отечественной войны», 석유 행",
+    "url": "https://istmat.org/node/351",
+    "accessed_at": "2026-11-19T17:01:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "석유(가스 콘덴세이트 포함)의 1940년 31.1·1945년 19.4백만 톤을 열람했다. 표의 표제·단위를 확인했다."
+    ],
+    "limitations": [
+      "연간 전연방 집계의 전사다. 별도 연료 절 node354는 열기에 실패했으며 그 검색 요약의 열량 환산값을 실물 톤으로 채택하지 않았다. 원유 단독·정유·합성유·수입의 개별 계열은 미검증이다. 0123과 같은 편찬 계통이다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 개별 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Soviet wartime economic statistical collection"
+  },
+  {
+    "id": "CAT-SU-SRC-0125",
+    "title": "The Chromium Industry of the U.S.S.R.",
+    "institution_or_author": "Vasilii V. Strishkov · Walter G. Steblez / United States Bureau of Mines",
+    "publication_date": "1985",
+    "source_type": "official_historical_estimates",
+    "document_or_accession_number": "SuDoc I28.156:C46; OCLC681459774; UNT ark:/67531/metadc40313",
+    "locator": "인쇄 23쪽 표15, 1940·1945년 행과 표 하단 각주1·2; UNT m1/28 고해상도 이미지",
+    "url": "https://digital.library.unt.edu/ark:/67531/metadc40313/m1/28/",
+    "accessed_at": "2026-11-19T17:01:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "고해상도 표 이미지에서 1940년 원광 290·판매 가능 광석 260·페로크롬 24천 metric tons, 1945년 각각 400·361.2·20을 확인했다.",
+      "표 각주1의 1938–1983년 추정치 표시와 각주2의 전기로 페로크롬 범위를 읽었다."
+    ],
+    "limitations": [
+      "1985년 보고서의 과거 추정이며 전시 실측 생산 원장은 아니다. 소장목록의 primary 분류를 WW2 동시대 1차 사료라는 뜻으로 사용하지 않는다. 원광·제품 광석·페로크롬을 금속 Cr 함유량으로 환산하지 않는다. 참고문헌 원 계통과 전시 광산별 경계는 미대조다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 개별 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "US Bureau of Mines chromium retrospective estimates"
+  },
+  {
+    "id": "CAT-SU-SRC-0126",
+    "title": "The Secretary of State to the Ambassador in the Soviet Union (Harriman)",
+    "institution_or_author": "Cordell Hull 명의 · Harry Hopkins 전달 / 미 국무부",
+    "publication_date": "1944-01-12",
+    "source_type": "primary_diplomatic_telegram",
+    "document_or_accession_number": "861.24/1721a; FRUS 1944, Europe, vol.IV, doc.944, pp.1037–1038",
+    "locator": "첫 문단 및 추가 ingot aluminum 공급 가능성 문단",
+    "url": "https://history.state.gov/historicaldocuments/frus1944v04/d944",
+    "accessed_at": "2026-11-19T17:01:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "추가 알루미늄 잉곳의 대소 공급 가능성과 요청 근거 자료 문제를 다룬 전문을 읽었다."
+    ],
+    "limitations": [
+      "가능한 공급·정책 협의다. 실제 계약·선적·소련 인수량·국내 제련량의 수치로 쓰지 않는다. 원광·알루미나·잉곳을 별도 단계로 유지한다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 개별 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "US State Department Soviet aluminum supply"
+  },
+  {
+    "id": "CAT-SU-SRC-0127",
+    "title": "Memorandum by Auguste Richard — Interchange of Technical Information with USSR on Synthetic Rubber",
+    "institution_or_author": "Auguste Richard / Office of Wartime Economic Affairs, 미 국무부",
+    "publication_date": "1944-07-15",
+    "source_type": "primary_policy_memorandum",
+    "document_or_accession_number": "861.20211 Amtorg/7–2844; FRUS 1944, vol.IV, doc.993, pp.1101–1105",
+    "locator": "합성고무 본문 및 Annex Exhibit A, 특히 1104–1105쪽",
+    "url": "https://history.state.gov/historicaldocuments/frus1944v04/d993",
+    "accessed_at": "2026-11-19T17:01:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "합성고무 기술 교환 협상과 알코올로부터 부타디엔을 생산하는 소련 기술에 관한 설명을 읽었다."
+    ],
+    "limitations": [
+      "미국 관리가 정리한 협상 보고이며 소련 공장 생산일지는 아니다. 기술 요청·공장 방문·설비 요구를 실제 신규 생산·인도·기술 이전 완료와 동일시하지 않는다. 천연고무 생산·수입량의 근거가 아니다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 개별 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "US State Department synthetic-rubber negotiations"
+  },
+  {
+    "id": "CAT-SU-SRC-0128",
+    "title": "Industrial potential of the Kazakh SSR during the Great Patriotic War (1941–1945)",
+    "institution_or_author": "A. K. Akkuzinov / Vestnik of Samara University. History, pedagogics, philology",
+    "publication_date": "2023",
+    "source_type": "scholarly_secondary",
+    "document_or_accession_number": "Vol.29 No.4 pp.45–52; DOI10.18287/2542-0445-2023-29-4-45-52",
+    "locator": "Full Text의 «Цветная металлургия Казахстана в годы войны» 첫 집계 문단; АП РК Ф.708. Оп.9. Д.114. Л.7 인용",
+    "url": "https://journals.rcsi.science/2542-0445/article/view/312279/en_US",
+    "accessed_at": "2026-11-19T17:01:25+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941–1944년 카자흐 SSR 텅스텐 정광 2,943톤으로 제시된 집계와 기록 소장기호를 논문 본문에서 확인했다."
+    ],
+    "limitations": [
+      "인용된 카자흐스탄 기록 원본을 열람한 것은 아니다. 정광 품위·WO3/금속 W 함유량·연도별 분해는 미확인이다. 카자흐 SSR의 기간 합계를 소련 전체 연간 생산량으로 확대하지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 개별 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Akkuzinov Kazakhstan archive-based study"
+  },
+  {
+    "id": "CAT-SU-SRC-0129",
+    "title": "Из обращения сталеваров-стахановцев ММК к трудящимся области… 27 июля 1939 г.",
+    "institution_or_author": "MMK 제강 노동자들의 호소문 / Челябинский рабочий; ЭБИД 재수록",
+    "publication_date": "1939-07-27",
+    "source_type": "primary_newspaper_reproduced",
+    "document_or_accession_number": "Челябинский рабочий.1939.27 июля.№170.С.3; Челябинская область.1917–1945 гг. (1998), 문서252, p.179",
+    "locator": "문서252 전체, 재수록 인쇄179쪽 상단; 원신문3쪽은 별도 미열람",
+    "url": "https://docs.historyrussia.org/ru/nodes/208521-iz-obrascheniya-stalevarov-stahanovtsev-mmk-k-trudyaschimsya-oblasti-s-prizyvom-shire-razvernut-sotssorevnovanie-i-krepit-oboronosposobnost-strany-27-iyulya-1939-g",
+    "accessed_at": "2026-11-19T19:01:13+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "ЭБИД 서지와 실제 179쪽 스캔을 읽었다. 1939-07-27 제강·속도 제련과 국방 강화 호소를 확인했다."
+    ],
+    "limitations": [
+      "정량 생산 장부가 아닌 공개 선전·노동경쟁 호소문이다. 포탄에 뚫리지 않을 강철이라는 수사는 장갑강 성능 시험이나 양산 증명이 아니다.",
+      "부지·설비 정격·총고용·출하량은 제시하지 않는다. 1939-09-01보다 36일 앞선 자료이며 당일 가동을 확정하지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 재수록 이미지의 별도 이용조건은 미확인이다.",
+    "independence_group": "Chelyabinsky Rabochy MMK appeal 1939"
+  },
+  {
+    "id": "CAT-SU-SRC-0130",
+    "title": "На таких земля держится — Петр Гоманков стоял у истоков славных традиций доменного цеха",
+    "institution_or_author": "Евгений Стоянкин / Магнитогорский металл",
+    "publication_date": "2010-07-06",
+    "source_type": "local_industrial_history_retrospective",
+    "document_or_accession_number": "№73(12170), p.6",
+    "locator": "인쇄6쪽 중앙 기사, 고로 작업장 4기 및 1939·1941년 선철 생산량 문단",
+    "url": "https://magmetall.ru/upload/archive_cache/2010-07-06.pdf",
+    "accessed_at": "2026-11-19T19:01:13+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "PDF 텍스트와 6쪽 이미지를 대조해 1939년 선철 1,567,000톤, 고로4기라는 후대 기사의 서술을 읽었다."
+    ],
+    "limitations": [
+      "1939년 원 생산 장부나 당시 설비대장은 아니다. 저자가 보았다는 개인 인사기록을 직접 열람하지 않았다.",
+      "연간 선철 실적을 강철 생산량·연간 정격·9월1일 가동량으로 바꾸지 않는다. 고로4기의 정확한 기준일·유효용적·정비 상태는 미확인이다.",
+      "기사 내 인물 연령·1937/1939년 선출 서술에 내부 불일치가 있어 수치를 독립 확증으로 처리하지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 재수록 이미지의 별도 이용조건은 미확인이다.",
+    "independence_group": "Magnitogorsky Metall retrospective 2010"
+  },
+  {
+    "id": "CAT-SU-SRC-0131",
+    "title": "Роль Кузнецкого металлургического комбината в формировании градостроительной структуры г.Новокузнецка (1930–50-е годы)",
+    "institution_or_author": "Ю.М.Журавков / 노보쿠즈네츠크 시청 역사 자료",
+    "publication_date": "1997",
+    "source_type": "municipal_republished_secondary",
+    "document_or_accession_number": "Ретроспективная художественная выставка «65-летию КМК».Новокузнецк.1997.С.22–26",
+    "locator": "초기 공장 계획 문단(505천톤·7천명); 1930년 건설 인원 문단; 1939년 스탈린스크 문단",
+    "url": "https://old.admnkz.info/web/guest/city/history/-/asset_publisher/kZ3DaG5aaUio/content/rol-kuzneckogo-metallurgiceskogo-kombina-1",
+    "accessed_at": "2026-11-19T19:01:13+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "초기 구상에 선철505천톤·노동자7천명이 제시되며 그 구상이 전면 실현되지 않았다는 설명을 읽었다.",
+      "1939년 지명이 스탈린스크라는 설명과 도시 인구·건설 인원을 별도로 읽었다."
+    ],
+    "limitations": [
+      "1920–1930년대 원 계획서·설비 원장은 아니다. 초기 구상의 정확한 작성일과 선철 계획의 집계기간은 해당 문단에 명시되지 않는다.",
+      "505천톤·7천명은 1939년 실제 생산·고용이 아니다. 동일 저자의 다른 시청 재수록문과 독립 통계로 세지 않는다.",
+      "원책22–26쪽 범위는 서지로 확인했으며 개별 문단의 정확한 인쇄 쪽은 미확인이다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 재수록 이미지의 별도 이용조건은 미확인이다.",
+    "independence_group": "Zhuravkov Novokuznetsk urban-history studies"
+  },
+  {
+    "id": "CAT-SU-SRC-0132",
+    "title": "Как строился Новый Кузнецк: История районов города: архитектура и благоустройство",
+    "institution_or_author": "Ю.М.Журавков / 노보쿠즈네츠크 시청 역사 자료",
+    "publication_date": "1998",
+    "source_type": "municipal_republished_secondary",
+    "document_or_accession_number": "Новокузнецк,380.Новокузнецк.1998.С.30–78; Центральный район С.30–65",
+    "locator": "Центральный район: 1930년 건설 현장 인원·1939년 스탈린스크·1956년 Запсиб 건설 문단; 페이지 서두의 전시 장갑강 해설",
+    "url": "https://old.admnkz.info/web/guest/city/history/-/asset_publisher/kZ3DaG5aaUio/content/kak-stroilsa-novyj-kuzneck",
+    "accessed_at": "2026-11-19T19:01:13+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 스탈린스크 도시 인구17만명과 별도 건설현장 인원을 공장 노동력과 구분했다.",
+      "서시베리아 제철소의 본격 건설은1956년이라는 설명을 읽어 원 쿠즈네츠크 공장과 구별했다. 시청 서두에서 전시 장갑강·압연의 관련 맥락을 확인했다."
+    ],
+    "limitations": [
+      "1939년 공장 부지·가동 설비·정격을 제공하지 않는다. 도시 인구는 본 항목 규모 환산에 사용하지 않는다.",
+      "0131과 같은 저자의 도시사여서 서로 독립 확증이 아니다. 전시 생산 관련 시청 서두는 공정별 원 생산 기록이 아니다.",
+      "원책의 상세 인쇄 쪽 대응과 당시 지적 외곽선은 미확인이다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 저장한다. 원문·사진·PDF 전문은 재업로드하지 않는다. 재수록 이미지의 별도 이용조건은 미확인이다.",
+    "independence_group": "Zhuravkov Novokuznetsk urban-history studies"
+  },
+  {
+    "id": "CAT-SU-SRC-0133",
+    "title": "Из информации Управления Магнитогорского металлургического комбината…11 августа 1945 г.",
+    "institution_or_author": "MMK 관리부 → 마그니토고르스크 시당위원회; ЭБИД",
+    "publication_date": "1945-08-11",
+    "source_type": "primary_management_report_reproduced",
+    "document_or_accession_number": "Партархив Челябинского обкома КПСС.Ф.234.Оп.19.Д.53.Лл.144–146; 재수록1967년 문서143",
+    "locator": "Партийная организация Челябинской области в Великой Отечественной войне.1941–1945 (1967), 인쇄330–331쪽 문서143",
+    "url": "https://docs.historyrussia.org/ru/nodes/311138-iz-informatsii-upravleniya-magnitogorskogo-metallurgicheskogo-kombinata-v-gorkom-vkp-b-o-rabote-ratsionalizatorov-i-izobretateley-v-gody-otechestvennoy-voyny-11-avgusta-1945-g",
+    "accessed_at": "2026-11-19T20:54:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945-08-11 관리 보고 재수록330–331쪽을 판독했다. 생산 개선 서술과1945년 상반기 제안 접수790건·도입472건, 접수 계획1018건 미달을 확인했다."
+    ],
+    "limitations": [
+      "원기록144–146장은 미열람이다. 제안 건수를 설비수·생산능력으로 환산하지 않는다. 자기 보고는 독립 생산 감사가 아니다.9월2일보다22일 전 보고이며 보고 대상 상반기와 구분한다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 사용한다. 원문·사진·PDF 전문을 저장소에 재업로드하지 않는다. 개별 재수록 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "MMK management 1945"
+  },
+  {
+    "id": "CAT-SU-SRC-0134",
+    "title": "ММК в годы войны",
+    "institution_or_author": "마그니토고르스크 시의회",
+    "publication_date": null,
+    "source_type": "municipal_secondary",
+    "document_or_accession_number": null,
+    "locator": "고로5·6호 가동 및 전시 신설 설비 문단; 압연기4500 이전 문단",
+    "url": "https://sobranie74.ru/ммк-в-годы-войны.html",
+    "accessed_at": "2026-11-19T20:54:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "5호 고로1942-12-05,6호1943-12-25 가동과 전시 설비 증설, 이전 압연기1941-10-15 가동 설명을 읽었다."
+    ],
+    "limitations": [
+      "당시 인수증·배치도·정비대장은 아니다. 원자료 출전이 개별 제시되지 않는다. 증설 설비의1939 원구역 내외와1945-09-02 잔존·가동은 미확인이다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 사용한다. 원문·사진·PDF 전문을 저장소에 재업로드하지 않는다. 개별 재수록 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "MMK municipal retrospective"
+  },
+  {
+    "id": "CAT-SU-SRC-0135",
+    "title": "История Магнитогорского металлургического комбината и города Магнитогорска — Тематический перечень документов",
+    "institution_or_author": "Объединённый государственный архив Челябинской области; С.А.Кусков",
+    "publication_date": "2022",
+    "source_type": "archive_finding_aid",
+    "document_or_accession_number": null,
+    "locator": "PDF22·24쪽 목록163·180·182 및26쪽 목록194",
+    "url": "https://archive74.ru/sites/default/files/istoriya_magnitogorskogo_metallurgicheskogo_kombinata_i_goroda_magnitogorska_tematicheskiy_perechen._ch._2022.pdf",
+    "accessed_at": "2026-11-19T20:54:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "6호 고로 첫 선철의1943-12-25 사진 목록과1945-08-09 제7코크스 배터리·화학 작업장 가동 축하문 목록의 소장기호를 읽었다."
+    ],
+    "limitations": [
+      "목록 자체만 열람했다. 사진·축하문 원문과 현장 인수증은 열람하지 않았다. 목록 제목이 가동 정격·당일 가동률의 직접 증거는 아니다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 사용한다. 원문·사진·PDF 전문을 저장소에 재업로드하지 않는다. 개별 재수록 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "OGACHO archival finding aid"
+  },
+  {
+    "id": "CAT-SU-SRC-0136",
+    "title": "Новокузнецк — Города трудовой доблести",
+    "institution_or_author": "승전80주년 기념 조직위원회 may9.ru; Российское военно-историческое общество 지원",
+    "publication_date": null,
+    "source_type": "commemorative_secondary",
+    "document_or_accession_number": null,
+    "locator": "§Победоносная броня,1941년 이전·1942년 전기로·1943년 압연·1941-06-22~1945-05-08 누계 문단",
+    "url": "https://www.may9.ru/our-victory/gorodatrudovoydoblesti/Novokuzneck",
+    "accessed_at": "2026-11-19T20:54:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년4월 전기제강 작업장·1943년 여름 압연 설비 가동과 기간 누계 강철800만톤·압연500만톤 서술을 읽었다."
+    ],
+    "limitations": [
+      "원 생산장부 미제시. 같은 문단의 알루미늄28천톤을 뒤에서는 별개 СтАЗ 공장에 귀속해 시설 경계 혼선이 있다. 알루미늄은 원 쿠즈네츠크 사업장에 합산하지 않는다. 누계를9월2일 정격으로 환산하지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 사용한다. 원문·사진·PDF 전문을 저장소에 재업로드하지 않는다. 개별 재수록 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Novokuznetsk commemorative narratives"
+  },
+  {
+    "id": "CAT-SU-SRC-0137",
+    "title": "Кузнецкий металлургический комбинат",
+    "institution_or_author": "А.Э.Шпрингер; 노보쿠즈네츠크 가상 노동박물관·시 행정/АНО Информационно-Аналитический Центр; EVRAZ 지원",
+    "publication_date": "2023",
+    "source_type": "virtual_museum_secondary",
+    "document_or_accession_number": null,
+    "locator": "본문 «С22июня1941года по8мая1945года…» 누계·전시 이전 설비 문단",
+    "url": "https://gorodnvkz.ru/kmk",
+    "accessed_at": "2026-11-19T20:54:00+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기간 누계 선철6173.4천톤·강철8215.1천톤·압연5625.0천톤과 이전 설비 수용·6개 특수작업장 가동 서술을 읽었다."
+    ],
+    "limitations": [
+      "원표·소장기호·연간 분해·공간 경계가 미제시다. may9의 반올림 집계와 대체로 같은 설명 계통일 수 있어 독립 확증으로 세지 않는다. 인원 표기의 «6000 тысяч» 등 명백한 표기 문제도 있어 본문을 무비판적으로 채택하지 않는다."
+    ],
+    "rights": "자체 한국어 요약·선별 수치·원문 링크만 사용한다. 원문·사진·PDF 전문을 저장소에 재업로드하지 않는다. 개별 재수록 자료의 이용조건은 별도 확인 대상이다.",
+    "independence_group": "Novokuznetsk commemorative narratives"
+  },
+  {
+    "id": "CAT-SU-SRC-0138",
+    "title": "История Центрального музея Военно-воздушных сил",
+    "institution_or_author": "Центральный музей ВВС",
+    "publication_date": null,
+    "source_type": "museum_secondary",
+    "document_or_accession_number": null,
+    "locator": "비행장 건설·초기 TB-3·1940년 아카데미 선정·1958년 박물관 인수 문단",
+    "url": "https://cmvvs.ru/home/istoriya.html",
+    "accessed_at": "2026-11-19T23:55:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "각 850m 활주로 2개, 1932년 첫 TB-3 착륙, 박물관 인수 건물에 포함된 1935년 난방식 목조 격납고를 확인했다."
+    ],
+    "limitations": [
+      "회고 연혁이다. 기준일 활주로 가용·배치·정비·연료 원장과 당시 격납 정원은 미제시."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Центральный музей ВВС"
+  },
+  {
+    "id": "CAT-SU-SRC-0139",
+    "title": "Военно-воздушная академия командного и штурманского состава ВВС Красной Армии",
+    "institution_or_author": "Yak-reg 항공사 아카이브",
+    "publication_date": null,
+    "source_type": "secondary_with_document_excerpt",
+    "document_or_accession_number": null,
+    "locator": "첫 단락의 1940-03-29 명령 발췌와 입지 설명",
+    "url": "https://www.yak-reg.ru/yak-piston/yak-7/yak-7.school/yak-7.school.vva/yak-7.school.vva-text.html",
+    "accessed_at": "2026-11-19T23:55:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940-03-29 아카데미 조직 명령 두 항목의 전재와 모니노 입지 서술을 확인했다."
+    ],
+    "limitations": [
+      "원 명령의 소장기호·원본 스캔 미제시. 1939년 운영 주체 확인에는 사용하지 않았다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Yak-reg 항공사 아카이브"
+  },
+  {
+    "id": "CAT-SU-SRC-0140",
+    "title": "Липецк крылатый — Авиационная история Липецка",
+    "institution_or_author": "리페츠크 시립 중앙도서관 시스템",
+    "publication_date": null,
+    "source_type": "library_exhibit_secondary",
+    "document_or_accession_number": null,
+    "locator": "1933–1938 гг. Высшая лётно-тактическая школа ВВС 절",
+    "url": "https://liplib.ru/virt/lipetsk-krylatyi/aviatsionnaya-istoria-lipetska.php",
+    "accessed_at": "2026-11-19T23:55:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "카멘니 로그 좌안의 교육단지와 인접 비행장, 1938-04-01 ЛВАКУ 명칭과 1940년 재편을 확인했다."
+    ],
+    "limitations": [
+      "코발료프 2017년 책도 인용한다. 격납고 수량이나 수용량의 독립 확증으로 세지 않았다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "리페츠크 항공 지역사, 코발료프 저술과 일부 중첩"
+  },
+  {
+    "id": "CAT-SU-SRC-0141",
+    "title": "Высшая летно-тактическая школа",
+    "institution_or_author": "Сергей Юрьевич Ковалев",
+    "publication_date": "2018-07-13",
+    "source_type": "local_history_secondary",
+    "document_or_accession_number": null,
+    "locator": "«К началу 1939 года…» 및 뒤의 비행장·주기장 문단",
+    "url": "https://www.klassika.ru/2018/07/13/1541",
+    "accessed_at": "2026-11-19T23:55:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "신규 격납고 3동과 전투기 100대 초과 수용, 미완공 네 번째 동, 기술 건물 2동, 콘크리트 주기장과 잔디 비행장 설명을 확인했다."
+    ],
+    "limitations": [
+      "웹 공개 후대 저술이다. 세 동의 수용 계산 기준, 원도면, 1939-09-01 실가동 기록 확인이 남았다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "리페츠크 항공 지역사, 코발료프 저술과 일부 중첩"
+  },
+  {
+    "id": "CAT-SU-SRC-0142",
+    "title": "Краснокутское летное училище Аэрофлота — наследник авиационных школ императорской России и Красной Армии",
+    "institution_or_author": "Владимир Алексеевич Хороших",
+    "publication_date": "2015",
+    "source_type": "scholarly_secondary",
+    "document_or_accession_number": null,
+    "locator": "Educatio VII (14), p.105",
+    "url": "https://edu-science.ru/wp-content/uploads/2016/03/edu-14_p2_6-154.pdf",
+    "accessed_at": "2026-11-19T23:55:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938-05-13 카차 명칭 부여와 1941년 7월 7개 비행대 이동 서술을 확인했다."
+    ],
+    "limitations": [
+      "학교사 재구성이다. 1941년 비행대 수를 1939년 기준일 배치 또는 물리 수용량에 사용하지 않았다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Владимир Алексеевич Хороших"
+  },
+  {
+    "id": "CAT-SU-SRC-0143",
+    "title": "Казачий след в Курске, или заметки о прошлом курской слободы Казацкой и об её героях",
+    "institution_or_author": "Юрий Дегтярёв; 쿠르스크 지역 도서관 PDF",
+    "publication_date": "2016",
+    "source_type": "local_history_secondary_with_primary_transcription",
+    "document_or_accession_number": "ISBN 978-5-9909193-2-7",
+    "locator": "p.124, 1939–1940년 사진 문구와 주 257",
+    "url": "https://kray.kurskonb.ru/degterev/kazak.pdf",
+    "accessed_at": "2026-11-19T23:55:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "카차 군 비행학교 교육생의 사진에 적힌 1939-03-18, 1939-06-12 카차라는 위치·날짜 전재를 확인했다."
+    ],
+    "limitations": [
+      "원 사진이나 촬영 지점은 직접 확인하지 않았다. 뒷면의 город 표기를 공식 도시 지위 근거로 쓰지 않았다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Юрий Дегтярёв; 쿠르스크 지역 도서관 PDF"
+  },
+  {
+    "id": "CAT-SU-SRC-0144",
+    "title": "Исполнилось сто лет Алексеевскому доку (ныне им. П. И. Велещинского) на Кронштадтском Морском заводе",
+    "institution_or_author": "Кронштадтский вестник",
+    "publication_date": "2014",
+    "source_type": "local_press_retrospective",
+    "document_or_accession_number": null,
+    "locator": "1914년 개장·치수, 1941년 Максим Горький 수리 문단",
+    "url": "https://kronvestnik.ru/history/14876",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1914년 개장 시 선박 설치부 750ft·평균 입구 폭 120ft·기준 수면에서 문턱까지 35ft와 1941년 입거 수리 기록을 확인했다."
+    ],
+    "limitations": [
+      "1939년 인수 도면과 기준일 실가동 기록이 없다. 조선공사 2024년 수치와 정의 차이가 미해결이다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Кронштадтский вестник"
+  },
+  {
+    "id": "CAT-SU-SRC-0145",
+    "title": "110 лет непрерывной службы",
+    "institution_or_author": "Объединённая судостроительная корпорация, ОСК 제1호",
+    "publication_date": "2024",
+    "source_type": "institutional_magazine_secondary",
+    "document_or_accession_number": null,
+    "locator": "pp.40–41, 첫 문단과 전시 운영 문단",
+    "url": "https://kmolz.ru/f/110_let_doku_veleshchinskogo.pdf",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기관지는 길이 236m·평균 입구 폭 46m·문턱 수심 11m를 적었다. 1914년 개장, 1920년대 개칭, 전시 운영도 서술했다."
+    ],
+    "limitations": [
+      "치수 측정일·측정 기준선 및 개수 도면 미제시. 기사 작성 시점과 1939년을 구분했다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Объединённая судостроительная корпорация, ОСК 제1호"
+  },
+  {
+    "id": "CAT-SU-SRC-0146",
+    "title": "Полярный — Города воинской славы",
+    "institution_or_author": "Банк России",
+    "publication_date": "2012",
+    "source_type": "official_commemorative_secondary",
+    "document_or_accession_number": null,
+    "locator": "기념주화 5714-0014, 역사 해설의 1931–1939년 문단",
+    "url": "https://www.cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0014",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Полярное 명칭, 1933년 예카테리닌스카야 항만 공사 착수, 1937-05-11 해군 개편 및 1939-09-19 도시 지위 회복을 확인했다."
+    ],
+    "limitations": [
+      "기념주화 역사 해설이다. 1939년 항만 용량은 미제시. 명칭과 포괄적인 기지 이력을 확인하는 데만 사용했다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Банк России"
+  },
+  {
+    "id": "CAT-SU-SRC-0147",
+    "title": "На берегах Екатерининской гавани",
+    "institution_or_author": "Городской историко-краеведческий музей г. Полярного",
+    "publication_date": null,
+    "source_type": "municipal_museum_exhibit_secondary",
+    "document_or_accession_number": null,
+    "locator": "전시 해설 #5",
+    "url": "https://ar.culture.ru/tt/exhibition/na-beregah-ekaterininskoy-gavani",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1935년 군함 상설 모항화와 1935–1947년 주기지 운영이라는 전시 해설을 확인했다."
+    ],
+    "limitations": [
+      "1935년 지휘 조직은 소함대이고 북방 함대 개편은 1937년이다. 물리 규모 수치는 없다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Городской историко-краеведческий музей г. Полярного"
+  },
+  {
+    "id": "CAT-SU-SRC-0148",
+    "title": "Важнейшие даты, связанные с освоением Северного Ледовитого океана",
+    "institution_or_author": "Вестник. Зодчий. 21 век",
+    "publication_date": "2021",
+    "source_type": "published_chronology_secondary",
+    "document_or_accession_number": null,
+    "locator": "p.32부터, 1935·1937·1938년 항목",
+    "url": "https://sroboi.ru/i/uploads/%D0%B7%D0%BE%D0%B4%D1%87%D0%B8%D0%B9_%D1%80%D0%B0%D0%B7%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D1%8B.pdf",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1935년 상설 모항 이관, 1937-05-11 북방 함대 개편, 1938년 1월 잠수함 여단의 예카테리닌스카야 항만 배치를 확인했다."
+    ],
+    "limitations": [
+      "회고 연표로 1939년 당일 함정 재고, 부두 공사표 또는 수용 정원을 제공하지 않는다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Вестник. Зодчий. 21 век"
+  },
+  {
+    "id": "CAT-SU-SRC-0149",
+    "title": "Государственный архив города Севастополя. Краткий справочник",
+    "institution_or_author": "세바스토폴 시 국가기록관; В. В. Крестьянников 편, 우크라이나 국가기록원 사이트 판본",
+    "publication_date": "1999",
+    "source_type": "official_archive_finding_aid",
+    "document_or_accession_number": "ф. р-253",
+    "locator": "pp.43–44 조선·수리시설 항목",
+    "url": "https://old.archives.gov.ua/Publicat/Guidebooks/Sevastopol.pdf",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1930년~1940-05-15 남부 조선 트러스트 산하 공장 명칭 및 1940-05-15 이후 제201호 명칭, 관련 기록군을 확인했다."
+    ],
+    "limitations": [
+      "기록군의 개요를 열람했다. 시설의 관리대장 및 당시 도면 개별 원문은 미열람."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "세바스토폴 시 국가기록관; В. В. Крестьянников 편, 우크라이나 국가기록원 사이트 판본"
+  },
+  {
+    "id": "CAT-SU-SRC-0150",
+    "title": "Севастополь и Севастопольский регион — Севморзавод",
+    "institution_or_author": "Інститут історії України НАН України 보관 지역사 자료집",
+    "publication_date": "2014",
+    "source_type": "historical_inventory_secondary",
+    "document_or_accession_number": null,
+    "locator": "항목 36.6, 북안 도크 1911–1915년 및 2·3차 5개년계획 문단",
+    "url": "https://history.org.ua/LiberUA/MatZvidSevast_2014/MatZvidSevast_2014.pdf",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북안 도크의 1915년 첫 주수, 파리 코뮌 등 전전 도크 수리 및 기계·주조 작업장 설치 설명을 확인했다."
+    ],
+    "limitations": [
+      "지역사 설명은 건설 연혁과 수리 사례를 제공한다. 1939년 기준일 도크 명부·용량 및 군항과 조선소의 관리 경계는 미제시."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Інститут історії України НАН України 보관 지역사 자료집"
+  },
+  {
+    "id": "CAT-SU-SRC-0151",
+    "title": "Приказ начальника гарнизона г. Севастополя «Об организации обороны Главной базы…». 12 июля 1941 г.",
+    "institution_or_author": "세바스토폴 수비대장; Электронная библиотека исторических документов(ЭБИД)",
+    "publication_date": "1941-07-12",
+    "source_type": "primary_document_catalog_only",
+    "document_or_accession_number": "ЭБИД 265516, 원문서 기호 미기재",
+    "locator": "문서명·작성일·조직·2004년 자료집 서지",
+    "url": "https://docs.historyrussia.org/ru/nodes/265516-prikaz-nachalnika-garnizona-g-sevastopolya-locale-nil-ob-organizatsii-oborony-glavnoy-bazy-i-otrazhenii-napadeniya-desanta-protivnika-s-sushi-i-s-vozduha-locale-nil-12-iyulya-1941-g",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941-07-12 세바스토폴 수비대 명령 제목과 흑해 함대 주기지 조직 분류를 확인했다."
+    ],
+    "limitations": [
+      "서지와 표제만 대조했다. 1939년 시설 규모나 명령문 전반의 열람으로 세지 않았다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "세바스토폴 수비대장; Электронная библиотека исторических документов(ЭБИД)"
+  }
+]

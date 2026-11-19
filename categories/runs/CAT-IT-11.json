@@ -1,0 +1,56 @@
+{
+  "step": 106,
+  "job_id": "CAT-IT-11",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 11,
+  "category": "유명 군수기업",
+  "article_path": "categories/italy/11-military-industry.md",
+  "status": "partial",
+  "completed_at": "2026-11-17T18:55:27+09:00",
+  "started_at": "2026-11-17T18:50:21+09:00",
+  "base_head": "8302f5094d791335ff3313fa991f7a0295b2dd8d",
+  "source_ids": [
+    "CAT-IT-SRC-0053",
+    "CAT-IT-SRC-0092",
+    "CAT-IT-SRC-0093",
+    "CAT-IT-SRC-0094",
+    "CAT-IT-SRC-0095",
+    "CAT-IT-SRC-0096",
+    "CAT-IT-SRC-0097",
+    "CAT-IT-SRC-0098",
+    "CAT-IT-SRC-0099"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0040",
+    "CAT-IT-RQ-0041",
+    "CAT-IT-RQ-0042"
+  ],
+  "entity_ids": [
+    "CAT-IT-ORG-0001",
+    "CAT-IT-ORG-0002",
+    "CAT-IT-ORG-0003",
+    "CAT-IT-ORG-0004"
+  ],
+  "research_scope": "피아트의 차량·기계 생산, 안살도의 조선·기계·전기기술 사업장과 노동 탄압, 마녜티 마렐리와 FIVRE의 전장품·라디오·전자부품.",
+  "limitations": [
+    "기업 및 공장별 생산량·군 납품 대장과 전시 법인 등기는 미확인이다.",
+    "제노바 강제 이송의 개별 사업장 인원 및 기업 경영진의 관여는 확인하지 못했다.",
+    "브레다, 기타 항공·광학·화학·전력 공급업체는 후속 범위다."
+  ],
+  "evidence_checked": [
+    "피아트 기업사 본문과 1943년 피에몬테 저항운동 신문 디지털본.",
+    "제노바 GNR 1944년 5월 1일 보고서의 국가기록관 전사, ILSREC 6월 강제 이송 설명, 리토리오 앨범 해제 및 해군 잡지 사진 캡션.",
+    "마렐리 ISEC 기록군 연혁, INAF의 F.I.M.M. 해제, 국립과학기술박물관의 FIVRE 실물 목록."
+  ],
+  "access_attempts": [
+    "제노바 GNR 보고서의 개별 스캔과 안살도 앨범 개별 상세는 시간 초과였다. 기관 전사와 앨범 컬렉션 설명을 열람했다. 해군 리토리오 함정 페이지도 시간 초과로 해군 잡지와 앨범 해제를 대조했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=106 pending=27; sources=1077 questions=405. Structural check only.",
+    "path_check": "변경 8개 경로는 모두 categories/ 하위."
+  }
+}

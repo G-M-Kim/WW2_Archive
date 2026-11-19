@@ -1,0 +1,52 @@
+{
+  "step": 101,
+  "job_id": "CAT-IT-06",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 6,
+  "category": "WW2에서 빼놓을 수 없는 장비",
+  "article_path": "categories/italy/06-essential-technology.md",
+  "status": "partial",
+  "completed_at": "2026-11-17T08:54:22+09:00",
+  "started_at": "2026-11-17T08:49:18+09:00",
+  "base_head": "ee5270bccbfda1fc195cc57bee2fa0bc0ecb01aa",
+  "source_ids": [
+    "CAT-IT-SRC-0052",
+    "CAT-IT-SRC-0053",
+    "CAT-IT-SRC-0054",
+    "CAT-IT-SRC-0055",
+    "CAT-IT-SRC-0056"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0021",
+    "CAT-IT-RQ-0022",
+    "CAT-IT-RQ-0023",
+    "CAT-IT-RQ-0024"
+  ],
+  "entity_ids": [
+    "CAT-IT-EQP-0017",
+    "CAT-IT-EQP-0018",
+    "CAT-IT-EQP-0019"
+  ],
+  "research_scope": "왕립해군 E.C.3-ter 구포 함정 레이더와 하겔린 C38m 통신 암호기, FIVRE M-213 항공 레이더 송신부.",
+  "evidence_checked": [
+    "갈라티의 함정별 설치 표와 리토리오·이탈리아 및 푸칠리에레 사진 설명.",
+    "이탈리아 해군 기관지의 도입 서술·주문 전보 영인 위치 및 영국 측 당사자 회고·기관 해설.",
+    "밀라노 국립과학기술박물관의 FIVRE 송신부 소장 목록."
+  ],
+  "access_attempts": [
+    "이탈리아 해군 Mariteleradar Livorno의 Cenni storici와 이탈리아 국방부 전쟁사 회의록 HTML은 원문 로딩 시간 초과였다. 검색 요약의 수치는 인용하지 않았다.",
+    "OAPEN 수록 PDF는 502를 반환했다. 열람 가능한 갈라티 PDF와 소장 목록을 사용했다."
+  ],
+  "limitations": [
+    "함별 가동일과 기준일별 실제 가동 수량, C38m 도입월의 원자료와 지급 기록은 미확인이다.",
+    "FIVRE M-213 소장품에서 항공기에 실제 장착하거나 실전에 배치했는지는 확인할 수 없다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "not_run",
+    "result": "실행 환경이 제공되지 않아 Python 구조 검사를 실행하지 못했다. 이번 변경의 장부 필드, ID·대기열·진도와 경로 범위를 별도 확인했다.",
+    "path_check": "변경 8개 경로는 모두 categories/ 하위."
+  }
+}

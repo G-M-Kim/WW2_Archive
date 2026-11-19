@@ -1,0 +1,63 @@
+{
+  "step": 53,
+  "job_id": "CAT-GB-15",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 15,
+  "category": "영토의 자원: 석유·강철·고무·알루미늄·크롬·텅스텐",
+  "article_path": "categories/united-kingdom/15-resources.md",
+  "status": "partial",
+  "completed_at": "2026-11-13T09:02:44+09:00",
+  "started_at": "2026-11-13T08:54:58+09:00",
+  "base_head": "16b73ce20be5fddc00ded429d47a3e0f832fb3fe",
+  "source_ids": [
+    "CAT-GB-SRC-0120",
+    "CAT-GB-SRC-0156",
+    "CAT-GB-SRC-0157",
+    "CAT-GB-SRC-0158",
+    "CAT-GB-SRC-0159",
+    "CAT-GB-SRC-0160",
+    "CAT-GB-SRC-0161",
+    "CAT-GB-SRC-0162",
+    "CAT-GB-SRC-0163",
+    "CAT-GB-SRC-0164",
+    "CAT-GB-SRC-0165"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0059",
+    "CAT-GB-RQ-0060",
+    "CAT-GB-RQ-0061",
+    "CAT-GB-RQ-0062"
+  ],
+  "entity_ids": [
+    "CAT-GB-GEO-0001",
+    "CAT-GB-GEO-0002",
+    "CAT-GB-GEO-0010",
+    "CAT-GB-GEO-0011",
+    "CAT-GB-GEO-0012"
+  ],
+  "research_scope": "영국 본토의 원유·정제품·조강·고무와 말라야·실론 고무, 캐나다·영국령 기아나 알루미늄 공급, 남로디지아 크롬·텅스텐을 대조했다.",
+  "limitations": [
+    "원유·정제품·대체품 통계의 범위가 다르며 합성유 단독량과 합성고무 국내 생산·수입량은 미확인이다.",
+    "말라야 선적의 재배지별 범위, 점령기 생산·반출량, 캐나다의 보크사이트 산지별 수입 및 영국행 제품 물량은 미확인이다.",
+    "남로디지아 광산별 출하와 영국 반입량, 1945년 텅스텐 정광 대시의 의미 및 제국 전역의 매장량은 미확인이다."
+  ],
+  "evidence_checked": [
+    "영국 CSO 표 83–85·92·100 및 하원 석유·철강·고무 답변",
+    "FRUS 1940 II 문서 345와 FRUS 1945 II 문서 680, 캐나다 통계국 Miscellaneous Metals 표 6–7",
+    "Imperial Institute Bulletin 제44권 pp. 150–151과 Colonial Geological Surveys 1944–1950 집성표 p. 10"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://nora.nerc.ac.uk/id/eprint/535286/1/SS_1944_1950.pdf",
+      "result": "PDF 텍스트와 보크사이트 각주는 확인했다. 크롬 표 이미지 요청은 400(콘텐츠 용량 초과)이었으며, 행 대응이 의심되는 OCR 대신 별도 Imperial Institute 표에서 생산 수치를 확인했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=53 pending=80; sources=602 questions=217. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

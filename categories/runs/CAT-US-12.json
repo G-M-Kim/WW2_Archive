@@ -1,0 +1,67 @@
+{
+  "step": 69,
+  "job_id": "CAT-US-12",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 12,
+  "category": "당시 인구",
+  "article_path": "categories/united-states/12-population.md",
+  "status": "partial",
+  "completed_at": "2026-11-14T17:05:47+09:00",
+  "started_at": "2026-11-14T16:56:57+09:00",
+  "base_head": "329a0c1b147564d6e50e1eef5776f21549779d51",
+  "source_ids": [
+    "CAT-US-SRC-0114",
+    "CAT-US-SRC-0115",
+    "CAT-US-SRC-0116",
+    "CAT-US-SRC-0117",
+    "CAT-US-SRC-0118",
+    "CAT-US-SRC-0119",
+    "CAT-US-SRC-0120",
+    "CAT-US-SRC-0121",
+    "CAT-US-SRC-0122",
+    "CAT-US-SRC-0123",
+    "CAT-US-SRC-0124",
+    "CAT-US-SRC-0125",
+    "CAT-US-SRC-0126"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0048",
+    "CAT-US-RQ-0049",
+    "CAT-US-RQ-0050",
+    "CAT-US-RQ-0051"
+  ],
+  "entity_ids": [
+    "CAT-US-GEO-0001",
+    "CAT-US-GEO-0002",
+    "CAT-US-GEO-0003",
+    "CAT-US-GEO-0004",
+    "CAT-US-GEO-0005",
+    "CAT-US-GEO-0006",
+    "CAT-US-GEO-0007",
+    "CAT-US-GEO-0008",
+    "CAT-US-GEO-0009"
+  ],
+  "research_scope": "본토 48개 주와 D.C.의 상주 인구, 전시 해외군 포함·제외 추계, 준주·속령 및 운하구역의 총조사, 필리핀 자치령의 별도 집계.",
+  "limitations": [
+    "1939년 9월 1일과 1945년 9월 2일의 동일 기준 당일 인구는 미확인이다.",
+    "하와이 준주 경계와 원표의 도서 합산, 전시 군인 귀속은 분리했다. 지역별 조사 누락은 미검증이다.",
+    "괌·필리핀 점령기 현지 인구와 필리핀 원총조사 제2권은 미확보다."
+  ],
+  "evidence_checked": [
+    "제16차 총조사 제1권 총괄 및 지역편, 1939년 상주 추계, P-25 No.3·29·48 및 1964년 통계연감의 지리별 표.",
+    "필리핀 1939·1948 재수록 수치, 필리핀 독립법, 괌 항복 보고와 전투사."
+  ],
+  "access_attempts": [
+    "1940년 제1권 표 1과 P-25 No. 29 표의 스캔 판면을 열람해 OCR과 대조했다.",
+    "미 해군 역사유산사령부의 괌 1944년 페이지는 시간 초과 및 502를 반환했다. 국립공원관리청의 전투사와 맥밀린 보고서 전사를 열었다.",
+    "필리핀 1939년 수치는 미국 통계연감과 필리핀 통계청의 재수록 표에서 확인했다. 원 총조사 제2권은 직접 열람하지 않았다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=69 pending=64; sources=752 questions=279. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

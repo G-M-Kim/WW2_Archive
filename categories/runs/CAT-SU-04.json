@@ -1,0 +1,58 @@
+{
+  "step": 118,
+  "job_id": "CAT-SU-04",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 4,
+  "category": "항공기, 무장, 성능",
+  "article_path": "categories/soviet-union/04-aircraft.md",
+  "status": "partial",
+  "started_at": "2026-11-18T18:50:39+09:00",
+  "completed_at": "2026-11-18T18:56:53+09:00",
+  "base_head": "a9358545fecf6bb87c4a19cdb3b03d2fd42685b7",
+  "source_ids": [
+    "CAT-SU-SRC-0040",
+    "CAT-SU-SRC-0041",
+    "CAT-SU-SRC-0042",
+    "CAT-SU-SRC-0043",
+    "CAT-SU-SRC-0044",
+    "CAT-SU-SRC-0045",
+    "CAT-SU-SRC-0046",
+    "CAT-SU-SRC-0047",
+    "CAT-SU-SRC-0048",
+    "CAT-SU-SRC-0049",
+    "CAT-SU-SRC-0050"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0013",
+    "CAT-SU-RQ-0014",
+    "CAT-SU-RQ-0015",
+    "CAT-SU-RQ-0016"
+  ],
+  "entity_ids": [
+    "CAT-SU-EQP-0010",
+    "CAT-SU-EQP-0011",
+    "CAT-SU-EQP-0012"
+  ],
+  "research_scope": "Yak-3 전투기, Il-2 공격기, PS-84/Li-2 수송기 계열의 시제·양산·전시 배치, 출처가 형식을 식별하는 제원 및 무장.",
+  "limitations": [
+    "공장별 실제 인수 원장과 원 비행시험표를 확보하지 못했다. Yak-3 최고속도·소장기 구성, Li-2 명칭 변경 시점에 자료 차이가 남는다.",
+    "대표 기종 3종의 첫 조사다. 독립 폭격기·정찰·훈련·해군기·글라이더·공여기 및 추가 전투기 형식은 후속 조사다."
+  ],
+  "evidence_checked": [
+    "GKO 5526сс 서지와 공개 첫 장의 Yak-3·금속 날개 Il-2 생산 결정, 1944년 8월 Il-2 사진을 열람했다.",
+    "프랑스 소장품 이력 및 교육 PDF, 러시아 박물관 설명과 항공사 편찬본 인쇄 131·169쪽을 대조했다.",
+    "모니노·크라쿠프 박물관의 수송기 해설과 GKO 1637сс에 대한 대통령도서관 공개 개요를 확인했다."
+  ],
+  "access_attempts": [
+    "스미스소니언 Il-2 소장품 페이지 첫 접근은 HTTP 403, 대체 기관 URL은 HTTP 404였다. 모니노 소장기 해설과 별도의 전시 사진을 대조했다.",
+    "GKO 1637сс 전문은 미확보여서 공개 개요의 문서번호·일자·승인 범위만 사용했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=118 pending=15; sources=1181 questions=446. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}

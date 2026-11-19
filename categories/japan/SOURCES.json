@@ -1,0 +1,3711 @@
+[
+  {
+    "id": "CAT-JP-SRC-0001",
+    "title": "作戦要務令：綱領、総則及第1部 第2部",
+    "institution_or_author": "일본 국립국회도서관",
+    "publication_date": "1938(국립국회도서관 서지)",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "특210-640 / NDL 1439842",
+    "locator": "서지와 디지털 컬렉션 연결",
+    "url": "https://ndlsearch.ndl.go.jp/books/R100000039-I1439842",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "《작전요무령》 제1·2부의 기록."
+    ],
+    "limitations": [
+      "목록을 확인했다. 디지털 뷰어에서 원문 조항은 대조하지 못했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "jp-field-service-regulations"
+  },
+  {
+    "id": "CAT-JP-SRC-0002",
+    "title": "Handbook on Japanese Military Forces",
+    "institution_or_author": "U.S. War Department",
+    "publication_date": "1944-10-01",
+    "source_type": "primary",
+    "document_or_accession_number": "TM-E 30-480",
+    "locator": "제VII장 도입 및 Part I §I–II, 전술 원칙과 공격",
+    "url": "https://www.ibiblio.org/hyperwar/Japan/IJA/HB/HB-7.html",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "정찰·침투·기습·포위 및 공격 중시를 기술한 미군 전시 관측."
+    ],
+    "limitations": [
+      "일본군 자체 교범이 아닌 적군 정보 자료다. 저자의 국민성 관련 해석을 채택하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "us-war-department-jp-handbook",
+    "additional_locators": [
+      {
+        "locator": "제IX장 §VI 3c·4d–e, pp. 245–246, 248–249 및 그림 244·248·249",
+        "url": "https://www.ibiblio.org/hyperwar/Japan/IJA/HB/HB-9.html",
+        "accessed_at": "2026-11-15T08:57:15+09:00",
+        "claims_checked": [
+          "95식과 97식 기본형의 당시 미군 제원값 및 47 mm 추정 차량의 미식별 표기를 확인했다."
+        ],
+        "limitations": [
+          "당시 미군 조사 차량의 식별·측정 조건이 불완전하다. 1945년 자료와 독립인 시험으로 세지 않았다."
+        ]
+      },
+      {
+        "job_id": "CAT-JP-05",
+        "locator": "제IX장 §II 1.f, 1.h, 2.c, 인쇄 pp. 189–191, 194–195, 그림 171·173·179",
+        "url": "https://www.ibiblio.org/hyperwar/Japan/IJA/HB/HB-9.html",
+        "accessed_at": "2026-11-15T16:59:44+09:00",
+        "claims_checked": [
+          "38식·99식 소총과 96식 경기관총의 구경, 편람상 분류 및 명시된 길이·중량 조건을 읽었다."
+        ],
+        "limitations": [
+          "미군 전시 정보 자료이며 일본군 공장별 사양과 시대별 부대 수령 기록을 대신하지 않는다."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0003",
+    "title": "Cross-Domain Concepts of the Malaya Campaign",
+    "institution_or_author": "Robert W. Lamont / U.S. Army ARMOR",
+    "publication_date": "2014",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Preparation과 Malaya Campaign의 전진 배치·도로·우회 단락",
+    "url": "https://www.benning.army.mil/armor/earmor/content/issues/2014/JAN_FEB/Articles/Lamont.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "말라야 투입부대의 보병·전차·포병·공병 결합, 도로 기동과 측방 침투."
+    ],
+    "limitations": [
+      "선택한 전역에 특화된 연구다. 중국·태평양의 일반 편제로 확대하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "lamont-malaya"
+  },
+  {
+    "id": "CAT-JP-SRC-0004",
+    "title": "Guadalcanal: The First Offensive",
+    "institution_or_author": "John Miller, Jr. / U.S. Army Center of Military History",
+    "publication_date": "1949",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 5-3",
+    "locator": "일루강 전투 및 제XIII장 인쇄 311–313쪽",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/G%20Pdf/CMH_Pub_5-3.pdf?ver=cZWR0mMJARWo2fa9ke_qGA%3D%3D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이치키 부대 공격, 미군의 사전 조준 화력, 일본군 포병 집중과 보급의 한계."
+    ],
+    "limitations": [
+      "미군 공식 전사다. 일본군 전투일지의 독립 대조와 손실 수치 비교는 남았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "miller-guadalcanal"
+  },
+  {
+    "id": "CAT-JP-SRC-0005",
+    "title": "Investigating Iwo: The Flag Raisings in Myth, Memory, and Esprit de Corps",
+    "institution_or_author": "Charles P. Neimeyer 외 / Marine Corps History Division",
+    "publication_date": "2019",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Neimeyer의 서두, 인쇄 8쪽 및 그림 1.2",
+    "url": "https://www.usmcu.edu/Portals/218/Investigating%20Iwo_WEB3.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "구리바야시의 상호 지원 거점·동굴·갱도에 기반한 방어와 대규모 돌격 억제."
+    ],
+    "limitations": [
+      "미 해병대 역사 연구다. 일본 육·해군의 지휘 계통과 개별 진지별 명령은 추가 확인이 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "neimeyer-investigating-iwo"
+  },
+  {
+    "id": "CAT-JP-SRC-0006",
+    "title": "Crucible at Sea",
+    "institution_or_author": "U.S. Naval Institute, Naval History",
+    "publication_date": "2007-08",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "전전 미·일 함대결전 구상, 잠수함·항공·야간 어뢰전 단락",
+    "url": "https://www.usni.org/magazines/naval-history-magazine/2007/august/crucible-sea",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본의 사전 소모 구상, 구축함·순양함 야간 어뢰 공격과 훈련."
+    ],
+    "limitations": [
+      "솔로몬 전역 중심의 후대 해설이다. 해군 전체의 시기별 교범으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "usni-crucible-at-sea"
+  },
+  {
+    "id": "CAT-JP-SRC-0007",
+    "title": "Japanese Monograph No. 97: Pearl Harbor Operations — General Outline of Orders and Plans",
+    "institution_or_author": "미군의 전후 일본 전사 편찬 및 번역",
+    "publication_date": "전후 편찬",
+    "source_type": "primary",
+    "document_or_accession_number": "Japanese Monograph No. 97",
+    "locator": "1941년 11월 연합함대 명령·지시의 영문 수록 부분",
+    "url": "https://www.ibiblio.org/pha/myths/jm-097.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연합함대에 전달된 1941년 전시 준비 및 작전 지시와 항모기동부대 계획."
+    ],
+    "limitations": [
+      "전후 편찬물에 수록된 영문 명령문을 당대 문서의 번역으로 사용했다. 일본어 원본의 구절과는 미대조다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "jm-97-orders",
+    "additional_locators": [
+      {
+        "job_id": "CAT-JP-07",
+        "locator": "Combined Fleet Operations Order No. 2, p. 4; Carrier Striking Task Force Operations Order No. 1, p. 7 이하",
+        "url": "https://www.ibiblio.org/pha/myths/jm-097.html",
+        "accessed_at": "2026-11-15T20:58:29+09:00",
+        "claims_checked": [
+          "1941-11-07 연합함대 작전명령의 발령자와 기동부대 별도 작전명령."
+        ],
+        "limitations": [
+          "전후 편찬본의 영어 번역을 열람했다. 해당 일본어 원본과 작성·승인 분담은 미확인이다."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0008",
+    "title": "The Campaigns of the Pacific War — Japanese Attack on Pearl Harbor",
+    "institution_or_author": "United States Strategic Bombing Survey, Naval Analysis Division",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "제II장 인쇄 13–25쪽, 목표·편제·공격",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-2.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미 태평양 함대를 일시 무력화해 남방작전 시간을 확보하려던 목적과 항모 집중."
+    ],
+    "limitations": [
+      "전후 조사 보고의 목적 설명이다. 항모 전력이 모든 전구를 동시에 제압했다는 의미는 아니다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-pacific-campaigns"
+  },
+  {
+    "id": "CAT-JP-SRC-0009",
+    "title": "The Campaigns of the Pacific War — The Battle of Midway",
+    "institution_or_author": "United States Strategic Bombing Survey, Naval Analysis Division",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "제V장 인쇄 58–77쪽, 일본 측 계획과 항모 교전",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-5.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미드웨이 점령·미 함대 유인 계획, 일본 항모 4척의 손실과 전력의 분리."
+    ],
+    "limitations": [
+      "전후 편찬의 동일 보고서에서 장만 나누었다. 진주만 장과 독립 교차검증으로 세지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-pacific-campaigns",
+    "additional_locators": [
+      {
+        "job_id": "CAT-JP-03",
+        "locator": "Chapter V 본문, Appendix 23-3 p. 67, Appendix 24 Forces Involved",
+        "accessed_at": "2026-11-15T12:59:31+09:00",
+        "claims_checked": [
+          "아카기 기함 표기, 피격 당시 함상 기체 수, 피격과 자침 기재."
+        ],
+        "limitations": [
+          "전후 조사단 집계이며 NOAA 해설과 피격 수의 서술이 다르다."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0010",
+    "title": "Interrogations of Japanese Officials — Captain Oi, Atsushi",
+    "institution_or_author": "United States Strategic Bombing Survey, Naval Analysis Division",
+    "publication_date": "1945",
+    "source_type": "primary",
+    "document_or_accession_number": "Nav. No. 11; USSBS No. 61",
+    "locator": "Summary 및 Combined Escort Fleet 창설·임무 문답",
+    "url": "https://ibiblio.org/hyperwar/AAF/USSBS/IJO/IJO-11.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 11월 해상호위총사령부 창설, 기존 분산 관리와 호위 전력의 구성."
+    ],
+    "limitations": [
+      "패전 직후 담당 참모의 증언이다. 이후 상급 지휘 관계의 변경 시점은 다른 증언과 달라 채택하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-oi-interrogation"
+  },
+  {
+    "id": "CAT-JP-SRC-0011",
+    "title": "The United States Strategic Bombing Survey: Summary Report (Pacific War)",
+    "institution_or_author": "United States Strategic Bombing Survey",
+    "publication_date": "1946",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "Destruction of the Japanese Merchant Fleet; 공군 교리 보충 조사: Japanese Overextension, 솔로몬·뉴기니 및 항공기·조종사 보충 단락",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Summary.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 해상수송에 가한 잠수함·항공기·기뢰의 상호 보완적 압박, 유조선 손실과 함대 기동 제약.",
+      "솔로몬 전역의 라바울 방면 항공 작전과 전쟁 초반 숙련 조종사 손실, 연료·훈련 및 보충 제약."
+    ],
+    "limitations": [
+      "미국의 전후 직후 종합 보고다. 각 수단의 공로를 저자의 집계 조건 밖으로 확대하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-pacific-summary",
+    "additional_accessed_at": [
+      "2026-11-10T17:53:55+09:00"
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0012",
+    "title": "Handbook on Japanese Military Forces — Chapter IV: Japanese Air Service",
+    "institution_or_author": "U.S. War Department",
+    "publication_date": "1944-10-01",
+    "source_type": "primary",
+    "document_or_accession_number": "TM-E 30-480",
+    "locator": "제IV장 §III Strategic Doctrine, 육군·해군 항공의 임무",
+    "url": "https://www.lonesentry.com/manuals/handbook-japanese-military/strategic-doctrine.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "육군의 적 항공력 제압·지상군 지원, 해군의 기습과 함대·상륙 지원."
+    ],
+    "limitations": [
+      "미군의 전시 적군 정보 교범이다. 일본 자체 교범 조문이나 소속 변경 날짜로 사용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "us-war-department-jp-handbook"
+  },
+  {
+    "id": "CAT-JP-SRC-0013",
+    "title": "A Comparative Look at Air-Ground Support Doctrine and Practice in World War II",
+    "institution_or_author": "Kenneth A. Steadman / U.S. Army Combat Studies Institute",
+    "publication_date": "1982-09-01",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "The Japanese Air-Ground System in WW II",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D110-PURL-LPS71516/pdf/GOVPUB-D110-PURL-LPS71516.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 육군 항공의 적 항공력 제압 우선과 지상 정찰·지원의 관계."
+    ],
+    "limitations": [
+      "비교 연구다. 해군 항공의 전술 규정은 이 절의 범위 밖이다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "steadman-air-ground"
+  },
+  {
+    "id": "CAT-JP-SRC-0014",
+    "title": "The Fall of the Philippines",
+    "institution_or_author": "Louis Morton / U.S. Army Center of Military History",
+    "publication_date": "1953",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제4장 The Japanese Plan, 항공 작전 구역·전진 기지 계획",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-4.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제5비행집단과 제11항공함대의 작전 분담, 비행장 점령과 후속 항공 이동 계획."
+    ],
+    "limitations": [
+      "미 육군의 후대 공식 전사다. 계획상 확보 목표와 실제 사용 가능 여부를 구분했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "morton-fall-philippines"
+  },
+  {
+    "id": "CAT-JP-SRC-0015",
+    "title": "The Fall of the Philippines — The First Days of War",
+    "institution_or_author": "Louis Morton / U.S. Army Center of Military History",
+    "publication_date": "1953",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제5장 The Attack on Clark Field",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-5.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 12월 클라크 비행장에 대한 일본 해군 항공의 공격."
+    ],
+    "limitations": [
+      "제4장과 같은 공식 전사의 다른 장이다. 독립적인 교차검증으로 세지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "morton-fall-philippines"
+  },
+  {
+    "id": "CAT-JP-SRC-0016",
+    "title": "Interrogations of Japanese Officials — Captain Sonokawa, Kameo",
+    "institution_or_author": "United States Strategic Bombing Survey",
+    "publication_date": "1945-11-14",
+    "source_type": "primary",
+    "document_or_accession_number": "USSBS Naval Analysis Division, Nav. No. 77",
+    "locator": "겐잔 항공대 훈련과 대함 공격에 관한 문답",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/IJO/IJO-77.html",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 해군 육상 항공대의 폭격·어뢰 및 야간 훈련에 관한 참가자 설명."
+    ],
+    "limitations": [
+      "패전 직후 구술이다. 해당 항공대의 진술을 일본 항공 전체에 적용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ussbs-sonokawa-interrogation"
+  },
+  {
+    "id": "CAT-JP-SRC-0017",
+    "title": "Japanese Tank and Antitank Warfare",
+    "institution_or_author": "U.S. War Department, Military Intelligence Division",
+    "publication_date": "1945-08-01",
+    "source_type": "primary",
+    "document_or_accession_number": "Special Series No. 34, MID 461",
+    "locator": "표제·발행 안내, pp. 18–32, 43–62",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/JAPAN/JPN%20Tank%20and%20Antitank%20Warfare.pdf",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "95식의 적재 조건별 중량과 3인 표기, 97식 기본형의 제원과 신포탑형 주포, 2식 수륙양용 형식을 확인했다."
+    ],
+    "limitations": [
+      "1945년 7월 15일까지 취합한 미군 전시 정보다. 차량별 시험 조건과 일본 제조·수령 장부는 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. War Department wartime Japanese equipment intelligence",
+    "additional_locators": [
+      {
+        "job_id": "CAT-JP-02",
+        "locator": "Chapter I pp. 6–10, 70–72, 그림 7–8, 85–88",
+        "accessed_at": "2026-11-15T10:59:50+09:00",
+        "claims_checked": [
+          "94식·97식 경장갑차의 분류, 제원표와 무장 대체 사양, 루손 노획 및 배치 사진 설명."
+        ],
+        "limitations": [
+          "두 경장갑차의 톤 종류·적재 조건과 기동 시험 조건 미기재. 자주포의 부품 기원과 제식 명칭은 미군의 당시 식별."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0018",
+    "title": "Type 95 Ha Go Light Tank, Milne Bay",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": "REL32684; C1067568",
+    "locator": "Description 및 History / Summary",
+    "url": "https://www.awm.gov.au/collection/C1067568",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "밀른만 회수 실물의 장갑 범위, 기관총 배치 설명, 개체별 4명 서술과 전투·회수 이력을 확인했다."
+    ],
+    "limitations": [
+      "소장 해설의 승무원 서술은 개별 차량 대상이다. 당시 편제 원표와 계측 원장 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM REL32684 collection and conservation"
+  },
+  {
+    "id": "CAT-JP-SRC-0019",
+    "title": "Ha-Go",
+    "institution_or_author": "The Tank Museum",
+    "publication_date": null,
+    "source_type": "museum_catalog",
+    "document_or_accession_number": "전시 차량 일련번호 1303",
+    "locator": "The Tank Museum’s Ha-Go 및 Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/ha-go/?tpage=2",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "3명, 7.4 Tons, 28 mph를 제시한 소장기관 설명을 확인했다."
+    ],
+    "limitations": [
+      "Tons의 단위·적재 기준과 속도 시험 조건이 없다. 소장차의 밀른만 회수 경위는 추정으로 표기돼 있다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Tank Museum specimen 1303 and exhibit interpretation"
+  },
+  {
+    "id": "CAT-JP-SRC-0020",
+    "title": "Fact Sheet – Type 95 Ha-go light tank",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "2017-03-20; 2021-03-30 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": "REL32684 관련 팩트시트",
+    "locator": "Description and Characteristics·Crew·Speed",
+    "url": "https://www.awm.gov.au/media/press-releases/fact-sheet-type-95-ha-go-light-tank",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "해설의 4명, 7.4 tons, 25 mph 표기를 확인했다."
+    ],
+    "limitations": [
+      "실물 소장 설명과 같은 기관의 관련 해설이며 독립 교차 검증으로 계산하지 않는다. 속도 시험 조건·중량 단위 정의가 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM REL32684 collection and conservation"
+  },
+  {
+    "id": "CAT-JP-SRC-0021",
+    "title": "Australian soldiers inspecting two disabled Type 95 Ha-Go tanks at Milne Bay",
+    "institution_or_author": "촬영자 미상; Australian War Memorial",
+    "publication_date": "1942-08 (목록 촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "P05216.004; C1144477",
+    "locator": "사진 디지털 판면, Date made 및 Description",
+    "url": "https://www.awm.gov.au/collection/C1144477",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "사진에 전차 두 대와 병사들이 보인다. 소장 캡션은 장소·차종과 전투 맥락을 설명한다."
+    ],
+    "limitations": [
+      "전투 후 장면으로 당일 투입 시간과 상세 손실을 사진 자체에서 판독할 수 없다."
+    ],
+    "rights": "AWM 목록상 퍼블릭 도메인. 자체 설명과 원문 링크만 사용.",
+    "independence_group": "AWM photographic negative P05216.004"
+  },
+  {
+    "id": "CAT-JP-SRC-0022",
+    "title": "Central Pacific Drive: The Conquest of Southern Saipan",
+    "institution_or_author": "Henry I. Shaw Jr., Bernard C. Nalty, Edwin T. Turnbladh; Historical Branch, U.S. Marine Corps",
+    "publication_date": "1966",
+    "source_type": "secondary",
+    "document_or_accession_number": "History of U.S. Marine Corps Operations in World War II, vol. III, PCN 19000262600",
+    "locator": "제IV부 제4장 pp. 284–285",
+    "url": "https://www.ibiblio.org/hyperwar/USMC/III/USMC-III-IV-4.html",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "사이판 제9전차연대에 47 mm 주포 장착 중전차와 구형 경전차가 포함됐다는 공식 전사 서술을 확인했다."
+    ],
+    "limitations": [
+      "일본군 편제표나 개별 차량 확인 목록은 없으므로 투입 수를 신포탑형 전체로 환산하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. Marine Corps official historical synthesis"
+  },
+  {
+    "id": "CAT-JP-SRC-0023",
+    "title": "Rapopo Airstrip: Japanese crew handing over a Type 97 Chi-Ha",
+    "institution_or_author": "촬영자 미확인; Australian War Memorial",
+    "publication_date": "1945-09-28 (촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "097335; C75342",
+    "locator": "사진 디지털 판면 및 Description",
+    "url": "https://www.awm.gov.au/collection/C75342",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "사진의 인계 장면 및 소장 캡션의 치하 형식·날짜를 확인했다."
+    ],
+    "limitations": [
+      "직접 전후 인계 자료다. 전투 참가, 형식별 생산·배치 수치를 판단하는 사료로 사용하지 않는다."
+    ],
+    "rights": "AWM 목록상 퍼블릭 도메인. 자체 설명과 원문 링크만 사용.",
+    "independence_group": "AWM photograph 097335"
+  },
+  {
+    "id": "CAT-JP-SRC-0024",
+    "title": "Rabaul: Type 2 Ka-Mi amphibious tank without flotation pods",
+    "institution_or_author": "촬영자 미확인; Australian War Memorial",
+    "publication_date": "1945-09-14 (촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "096635; C74763",
+    "locator": "사진 디지털 판면 및 Description",
+    "url": "https://www.awm.gov.au/collection/C74763",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "라바울에서 기록된 부력체 없는 수륙양용전차의 모습과 소장기관 식별을 확인했다."
+    ],
+    "limitations": [
+      "항복 후 촬영이며 해당 차량의 전시 전투 참여와 수상 시험 성적을 확인할 수 없다."
+    ],
+    "rights": "AWM 목록상 퍼블릭 도메인. 자체 설명과 원문 링크만 사용.",
+    "independence_group": "AWM photograph 096635"
+  },
+  {
+    "id": "CAT-JP-SRC-0025",
+    "title": "１９３１～４０年　兵器生産状況調査表　（装軌車輌）",
+    "institution_or_author": "일본 방위성 방위연구소 소장; 일본 아시아역사자료센터(JACAR)",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "JACAR Ref. C15011259400",
+    "locator": "문서 번호·일본어/영어 목록 경로 접근 시도",
+    "url": "https://www.jacar.archives.go.jp/das/meta/C15011259400",
+    "accessed_at": "2026-11-15T08:57:15+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "일본어 페이지 403, 영어 페이지는 열기 실패. 검색에서 확인한 서지는 원표 열람을 대신하지 않는다."
+    ],
+    "rights": "문서 복제 없음. 접근용 링크만 기록.",
+    "independence_group": "JACAR C15011259400 archival record"
+  },
+  {
+    "id": "CAT-JP-SRC-0026",
+    "title": "馬具車輌 十一 九四式軽装甲車",
+    "institution_or_author": "일본 육군 현장 보고, 작성 부대 미확인; 일본 아시아역사자료센터(JACAR)",
+    "publication_date": "작성일 미확인 (1937년 상하이·난징 전투 경험을 서술)",
+    "source_type": "primary",
+    "document_or_accession_number": "JACAR Ref. C14010843100",
+    "locator": "원본 스캔 표기 1220–1223, 내부 (133)–(136), 十一 九四式軽装甲車",
+    "url": "https://www.jacar.archives.go.jp/acv/contents/pub/pdf/C14/C14010843100.c11224a0002.riku_heiki_002.1211_01.pdf",
+    "accessed_at": "2026-11-15T10:59:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "다창전·난징에서 확인한 94식의 지형별 운용과 당시 무장 개선 요구를 확인했다."
+    ],
+    "limitations": [
+      "일본군의 현장 소견이며 일정한 조건에서 측정된 성능 시험 및 개량 채택 기록은 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Japanese Army wartime field observations C14010843100"
+  },
+  {
+    "id": "CAT-JP-SRC-0027",
+    "title": "台児庄の戦場における日本軍の装甲部隊",
+    "institution_or_author": "姜克實; 岡山大学大学院社会文化科学研究科, 文化共生学研究 15, pp. 53–68",
+    "publication_date": "2016-03",
+    "source_type": "secondary",
+    "document_or_accession_number": "岡山大学機関リポジトリ 54216",
+    "locator": "pp. 54–55 및 각주 13–16, pp. 57–58 및 60, 각주 25–27 및 31",
+    "url": "https://ousar.lib.okayama-u.ac.jp/files/public/5/54216/20160528124052424269/scs_015_053_068.pdf",
+    "accessed_at": "2026-11-15T10:59:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "94식 제원 서술과 1938년 3월 27일 타이얼좡 전투의 임시전차중대 경장갑차 투입과 고장 기록을 확인했다."
+    ],
+    "limitations": [
+      "논문이 인용한 가제식 제정 원문과 전투상세보고의 해당 이미지는 미확인. 미군 보고와 중량값이 다르다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "姜克實 independent historical analysis of Japanese records"
+  },
+  {
+    "id": "CAT-JP-SRC-0028",
+    "title": "Type 94 Tankette Model 2594 : Imperial Japanese Army",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "1934 (소장품 제작연도), 목록 작성일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": "REL/16287; C110503",
+    "locator": "Description 및 History / Summary, 차량번호 88과 노획 이력",
+    "url": "https://www.awm.gov.au/collection/C110503",
+    "accessed_at": "2026-11-15T10:59:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현존 차량번호 및 포탑 기관총 결손 상태, 제원 설명과 1945-07-01 보르네오 노획 이력을 확인했다."
+    ],
+    "limitations": [
+      "소장기관의 현존품 설명과 역사 해설. 명칭 대응 및 일본 측 부대나 교전 이력은 확정할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM object REL/16287 and provenance"
+  },
+  {
+    "id": "CAT-JP-SRC-0029",
+    "title": "Koepang, Timor: Japanese tankettes and light tanks",
+    "institution_or_author": "촬영자 미확인; Australian War Memorial",
+    "publication_date": "1945-09-14 (촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "115682; C219942",
+    "locator": "사진 디지털 판면 및 Description",
+    "url": "https://www.awm.gov.au/collection/C219942",
+    "accessed_at": "2026-11-15T10:59:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "훼손된 차량이 담긴 사진과 94식에 TE-KE를 병기한 목록 캡션을 확인했다."
+    ],
+    "limitations": [
+      "항복 후 촬영. 캡션의 별칭만으로 각 차량의 형식이나 전시 소속 부대를 확정할 수 없다."
+    ],
+    "rights": "AWM 목록상 퍼블릭 도메인. 자체 설명과 원문 링크만 사용.",
+    "independence_group": "AWM photograph 115682"
+  },
+  {
+    "id": "CAT-JP-SRC-0030",
+    "title": "Cape Boram, Wewak area, New Guinea: Japanese armoured recovery vehicle",
+    "institution_or_author": "촬영자 미확인; Australian War Memorial",
+    "publication_date": "1945-07-23 (목록상 촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "094312",
+    "locator": "사진 메타데이터 및 Description, 이미지 파일 접근 실패",
+    "url": "https://www.awm.gov.au/collection/094312",
+    "accessed_at": "2026-11-15T10:59:50+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "치하 차체 장갑구난차의 노획과 조사라는 소장기관 메타데이터를 확인했다."
+    ],
+    "limitations": [
+      "이미지 파일과 일본 측 명칭·제작·운용 기록을 확인하지 못했다. 이 기록에서 소장기관 기술만 사용했다."
+    ],
+    "rights": "AWM 목록상 퍼블릭 도메인. 사진 복제 없이 목록 링크만 사용.",
+    "independence_group": "AWM photograph 094312 catalogue"
+  },
+  {
+    "id": "CAT-JP-SRC-0031",
+    "title": "数字で見る戦艦「大和」",
+    "institution_or_author": "呉市海事歴史科学館（大和ミュージアム）",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "データまとめ 및 기준배수량·주포·최대속력 항목",
+    "url": "https://yamato-museum.com/yamato-data/",
+    "accessed_at": "2026-11-15T12:59:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "야마토 준공·침몰일, 전장, 기준배수량, 최대속력 및 주포 수량을 표에서 확인했다."
+    ],
+    "limitations": [
+      "시험 시점·시험배수량·만재배수량과 개장별 대공 무장 표는 제시되지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Yamato Museum curatorial data"
+  },
+  {
+    "id": "CAT-JP-SRC-0032",
+    "title": "The Attack on the Yamato Group, 7 April 1945",
+    "institution_or_author": "U.S. Strategic Bombing Survey, Naval Analysis Division; 진술 미야모토(T. Miyamoto), 면담 T. J. Hedding",
+    "publication_date": "1945-10-25 (도쿄 면담)",
+    "source_type": "primary",
+    "document_or_accession_number": "Interrogation NAV No. 32; USSBS No. 133",
+    "locator": "Summary·Transcript, 인쇄 pp. 136, 139",
+    "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/IJO/IJO-32.html",
+    "accessed_at": "2026-11-15T12:59:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "야마토 승함 포술참모가 진술한 출항일, 최종 전투·침몰 날짜와 편대 기동속력을 확인했다."
+    ],
+    "limitations": [
+      "당사자의 전후 회고다. 속력은 편대의 값을 말한 것으로 공시운전 계측 자료가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Miyamoto eyewitness interview"
+  },
+  {
+    "id": "CAT-JP-SRC-0033",
+    "title": "Evolution of Aircraft Carriers",
+    "institution_or_author": "Scot MacDonald; Naval Aviation News, U.S. Navy",
+    "publication_date": "1962-10 (일본 항모 연재), 1964-02-01 (합본 서문)",
+    "source_type": "secondary",
+    "document_or_accession_number": "GovInfo GOVPUB-D221-PURL-gpo67727",
+    "locator": "일본 항모 연재 인쇄 pp. 40–42",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo67727/pdf/GOVPUB-D221-PURL-gpo67727.pdf",
+    "accessed_at": "2026-11-15T12:59:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "개장 전후 아카기 비행갑판 구성, 8인치포의 수와 개장 후 속력 서술을 확인했다."
+    ],
+    "limitations": [
+      "해군사 연재 해설이며 당시 공시운전 원표나 해당 수치의 적재 기준은 제시되지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "MacDonald Naval Aviation News historical synthesis"
+  },
+  {
+    "id": "CAT-JP-SRC-0034",
+    "title": "Akagi 赤城",
+    "institution_or_author": "NOAA Ocean Exploration",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Background, Shipwreck Site",
+    "url": "https://oceanexplorer.noaa.gov/photogrammetry/akagi/",
+    "accessed_at": "2026-11-15T12:59:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "함종 전환, 최대속력과 항공기 수 표기, 미드웨이 공습·자침 서술 및 조사 경위를 확인했다."
+    ],
+    "limitations": [
+      "역사 소개의 최대속력 및 기체 수에 시험·집계 조건은 명시되지 않는다. 선체 조사와 전투 해설의 확인 범위도 다르다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "NOAA Ocean Exploration Akagi site and historical overview"
+  },
+  {
+    "id": "CAT-JP-SRC-0035",
+    "title": "Characteristics of Japanese Naval Vessels, Article 7: Submarines, Supplement II",
+    "institution_or_author": "U.S. Naval Technical Mission to Japan",
+    "publication_date": "1946-01",
+    "source_type": "primary",
+    "document_or_accession_number": "S-01-7; NTJ·L·S-01-7",
+    "locator": "Part III A, pp. 18–21, 그림 14·16 및 General Characteristics·Propulsion·Armament",
+    "url": "https://www.fischer-tropsch.org/primary_documents/gvt_reports/USNAVY/USNTMJ%20Reports/USNTMJ-200G-0695-0924%20Report%20S-01-7.pdf",
+    "accessed_at": "2026-11-15T12:59:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "종전 직후 실함 사진과 이-400급 수상 배수량·수상 및 잠항 속력, 무장 및 기체 보관 표를 확인했다."
+    ],
+    "limitations": [
+      "수상배수량에 포로 진술이라는 단서가 붙는다. 각 속력의 실측 조건과 개별함 작전 탑재를 확정할 수 없다."
+    ],
+    "rights": "공개된 미 해군 기밀 해제 보고서. 자체 요약과 스캔 링크만 사용.",
+    "independence_group": "US Naval Technical Mission inspection and POW data"
+  },
+  {
+    "id": "CAT-JP-SRC-0036",
+    "title": "SUB-7a: IJN I-401 (bow)",
+    "institution_or_author": "University of Hawaiʻi at Mānoa, Hawaiʻi Undersea Research Laboratory",
+    "publication_date": "2019-03-18 (목록 개정)",
+    "source_type": "secondary",
+    "document_or_accession_number": "HURL SUB-7a; Dive PIV-136",
+    "locator": "Artifact History·Additional Information",
+    "url": "https://www.soest.hawaii.edu/HURL/HURLarchive/maritime_tmp.php?category=SUB-7a",
+    "accessed_at": "2026-11-15T12:59:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이-401 잔해 식별과 항복 무렵 나포 경위, 격납고 수용량 및 수상·잠항 속력 표기를 확인했다."
+    ],
+    "limitations": [
+      "잔해 목록의 역사 해설은 항해 일지 원문이 아니다. 배수 상태와 톤 기준은 미표기이며 대공포 구경도 목록 내부에서 불일치한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "HURL I-401 investigation and catalogue",
+    "additional_locators": [
+      {
+        "job_id": "CAT-JP-04",
+        "locator": "SUB-7a, Artifact History·Additional Information",
+        "accessed_at": "2026-11-15T15:00:41+09:00",
+        "claims_checked": [
+          "이-401의 항공 공격이 종전 전에 실행되지 않았다는 함정 이력과 세이란 수용 기록."
+        ],
+        "limitations": [
+          "잔해 조사기관의 이력 해설이며 항공대 출격·격납 기록 원문은 아니다."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0037",
+    "title": "昭和２０年４月６日～昭２０年４月７日　軍艦大和戦闘詳報",
+    "institution_or_author": "일본 해군 군함 야마토; 방위성 방위연구소 소장, JACAR",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "JACAR Ref. C08030566400",
+    "locator": "JACAR 안내의 표지 1, 전투 경과 이미지 2–8, 도면 12–13",
+    "url": "https://www.jacar.archives.go.jp/das/meta/C08030566400",
+    "accessed_at": "2026-11-15T12:59:31+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "직접 열기 403. JACAR의 별도 안내에서 문서 코드와 판면 범위만 확인했다."
+    ],
+    "rights": "기록물 복제 없이 접근용 링크만 사용.",
+    "independence_group": "Imperial Japanese Navy Yamato action report"
+  },
+  {
+    "id": "CAT-JP-SRC-0038",
+    "title": "Comparative Combat Evaluation Trials of Japanese Zeke 52 Fighter",
+    "institution_or_author": "U.S. Naval Air Station, Patuxent River; M. H. Tuttle 등",
+    "publication_date": "1944-10-26",
+    "source_type": "primary",
+    "document_or_accession_number": "Project TED No. PTR-1111; C-0090",
+    "locator": "Introduction, 인쇄 pp. 1–2 시험 조건과 SPEEDS",
+    "url": "https://www.wwiiaircraftperformance.org/japan/ptr-1111.pdf",
+    "accessed_at": "2026-11-15T15:00:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "노획 시험기 TAIC #5의 엔진과 출력·중량 조건, 속력과 고도 및 사이판 입수 서술을 확인했다."
+    ],
+    "limitations": [
+      "특정 노획·수리 기체의 실측이고 일본군 양산형 전체의 공시 성능이나 전시 운용값이 아니다. 스미스소니언 소장품과의 동일성 미확인."
+    ],
+    "rights": "공개된 미국 해군 전시 보고서 스캔. 자체 요약과 링크만 사용.",
+    "independence_group": "US Navy Patuxent River flight trials"
+  },
+  {
+    "id": "CAT-JP-SRC-0039",
+    "title": "Manual on Japanese Aircraft, TAIC No. 2: Representative Enemy and Allied Aircraft, Comparative Performance and Characteristics, Third Edition",
+    "institution_or_author": "Technical Air Intelligence Center, 미·영 합동 인력, U.S. Division of Naval Intelligence 발행",
+    "publication_date": "1944-10 (문서 제목 표기); NDL 목록은 1945-06",
+    "source_type": "primary",
+    "document_or_accession_number": "TAIC No. 2 / OPNAV-ONI-161; NDL PID 4009756, USB-10 R036: 0813–0841, 원소장 NARA RG 243",
+    "locator": "Introduction, 인쇄 p. 14 ZEKE 52 및 출력 각주, p. 40 TABBY 22",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/NDL4009756_Manual_on_Japanese_aircraft%2C_TAIC_No._2%2C_October_1944._%28Representative_Enemy_and_Allied_A....pdf",
+    "accessed_at": "2026-11-15T15:00:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "NDL 소장 스캔에서 ZEKE 52의 표기 조건과 TABBY 22의 엔진·총중량·순항속력·통상 화물·무장 기재를 확인했다."
+    ],
+    "limitations": [
+      "편람이 시험·제작사 보증·계산을 함께 사용한다. 비교표 각 수치의 근거 시험기와 이 페이지에서 공란인 하중·속력 조건은 미확인이다. 서지는 NDL Search 000007744697과 대조했다."
+    ],
+    "rights": "NDL 소장 원문 스캔 공개본. 자체 요약과 링크만 사용.",
+    "independence_group": "TAIC combined aircraft intelligence tables"
+  },
+  {
+    "id": "CAT-JP-SRC-0040",
+    "title": "Mitsubishi A6M5 Reisen (Zero Fighter) Model 52 ZEKE",
+    "institution_or_author": "Smithsonian National Air and Space Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "A19600335000",
+    "locator": "Catalog Data, Summary, Long Description과 이동 이력",
+    "url": "https://collections.si.edu/search/detail/edanmdm:nasm_A19600335000",
+    "accessed_at": "2026-11-15T15:00:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 나카지마 제작 표기, 사이판 회수·평가 이력과 요약 및 상세 기술 사이의 날짜 차이를 확인했다."
+    ],
+    "limitations": [
+      "기체 식별 및 행정기록을 토대로 정리한 후대 설명이며 상세 회수일과 시험기 TAIC #5의 동일성은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Smithsonian A6M5 aircraft and curatorial file"
+  },
+  {
+    "id": "CAT-JP-SRC-0041",
+    "title": "BEO, TALAND ISLAND. 1945-03-24. Wreck of a Japanese transport aircraft, Allied code name Tabby",
+    "institution_or_author": "Australian War Memorial 소장, 촬영자 미표기",
+    "publication_date": "1945-03-24 (촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "P01167.044; C232795",
+    "locator": "흑백 사진 원판의 디지털 영상과 Description",
+    "url": "https://www.awm.gov.au/collection/C232795",
+    "accessed_at": "2026-11-15T15:00:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "해변의 수송기 잔해를 사진에서 확인했고 목록은 쇼와 제작 L2D로 식별한다."
+    ],
+    "limitations": [
+      "잔해 사진은 기체의 세부형·임무·탑재량 및 손실 경위를 확인할 수 없다."
+    ],
+    "rights": "AWM 목록상 퍼블릭 도메인. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM wartime photograph P01167.044"
+  },
+  {
+    "id": "CAT-JP-SRC-0042",
+    "title": "Aichi M6A1 Seiran (Clear Sky Storm)",
+    "institution_or_author": "Smithsonian National Air and Space Museum",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "A19630308000",
+    "locator": "Summary·Long Description, 현존품 28번 및 개발 요구와 부대 운용 단락",
+    "url": "https://collections.si.edu/search/detail/edanmdm%3Anasm_A19630308000?fq=-topic%3A%22World+War%2C+1939-1945%22&hlterm=set_name%3A%26quot%3BWorld+War+II+Aviation%26quot%3B&q=set_name%3A%22World+War+II+Aviation%22&record=18",
+    "accessed_at": "2026-11-15T15:00:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "부주 유무에 따른 요구 속력, 무장 요구, 소장기관의 생산 집계와 항복 직후 기체 인계 기록을 확인했다."
+    ],
+    "limitations": [
+      "요구 제원은 공시 실측이 아니다. 생산 집계의 개별 공장 원표 미확인. 원문의 kg·lb 병기값이 맞지 않아 kg만 인용했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Smithsonian Seiran aircraft and curatorial file"
+  },
+  {
+    "id": "CAT-JP-SRC-0043",
+    "title": "芙蓉部隊",
+    "institution_or_author": "일본 항공자위대 시즈하마 기지（航空自衛隊静浜基地）",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "문서 서두의 오키나와 출격 단락, I 当時の藤枝海軍航空基地의 彗星一二型 사진, V 使用した航空機",
+    "url": "https://www.mod.go.jp/asdf/shizuhama/kichishoukai/huyoR6.4.11.pdf.pdf",
+    "accessed_at": "2026-11-15T15:00:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "후요 부대의 스이세이 12형 기체 사진 및 출격 이력과 제원표의 무장·엔진·속력을 대조하고, 52병형은 별도 형식으로 확인했다."
+    ],
+    "limitations": [
+      "전시 성능시험이나 출격일지 원문이 아니다. 표의 총중량과 속력 측정 당시 하중의 관계, 야간 개조 기체 전체의 제원은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JASDF Shizuhama Fuyo historical unit summary"
+  },
+  {
+    "id": "CAT-JP-SRC-0044",
+    "title": "防衛研究所 軍事史史料目録：海軍一般史料（技術・飛行機）",
+    "institution_or_author": "일본 방위성 방위연구소",
+    "publication_date": "2024-12-13 (목록판 표기)",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "⑥技術-飛行機-22, ⑥技術-飛行機-23",
+    "url": "https://www.nids.mod.go.jp/military_archives/pdf/catalog/n3.pdf",
+    "accessed_at": "2026-11-15T15:00:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제로 52형 취급참고서 및 0식 수송기·화물수송기 22형 취급설명서의 기록물 번호를 확인했다."
+    ],
+    "limitations": [
+      "소장 목록만 열람했다. 두 취급자료의 본문, 기술 수치 및 승인을 뜻하는 문서 상태 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "NIDS archival catalogue"
+  },
+  {
+    "id": "CAT-JP-SRC-0045",
+    "title": "Arisaka Type 38 Rifle",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "RELAWM27365; C142149",
+    "locator": "Description 및 소장품번호",
+    "url": "https://collection.awm.gov.au/C142149",
+    "accessed_at": "2026-11-15T16:59:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장기관의 38식 소총 분류와 제2차 세계대전기 일본 육군 사용에 관한 해설을 확인했다."
+    ],
+    "limitations": [
+      "개별 소장품 제작·수집 이력은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM object RELAWM27365"
+  },
+  {
+    "id": "CAT-JP-SRC-0046",
+    "title": "Arisaka Type 99 Rifle : Japanese Military Forces",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "약 1944 (개별품 제작 추정)",
+    "source_type": "secondary",
+    "document_or_accession_number": "RELAWM24865; C141600",
+    "locator": "Maker·Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C141600",
+    "accessed_at": "2026-11-15T16:59:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "99식 소장품의 제조처·연대 표기와 접이식 지지대 및 38식 교체에 대한 기관 해설을 확인했다."
+    ],
+    "limitations": [
+      "부대별 소총 보급 장부가 아니며 소장품 설명을 전체 생산분으로 일반화할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM object RELAWM24865"
+  },
+  {
+    "id": "CAT-JP-SRC-0047",
+    "title": "Type 96 Light Machine Gun",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": "1942 (개별품 제작연도 표기)",
+    "source_type": "secondary",
+    "document_or_accession_number": "REL24898; C315588",
+    "locator": "Physical description·Date made·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C315588",
+    "accessed_at": "2026-11-15T16:59:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "96식으로 분류된 1942년 일본 제작 소장품과 재질, 전시 표준 경기관총이라는 기관 해설을 확인했다."
+    ],
+    "limitations": [
+      "개별 전투 이력과 보급 부대 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM object REL24898"
+  },
+  {
+    "id": "CAT-JP-SRC-0048",
+    "title": "Papua. 1942-08-19. An Australian soldier examines a damaged Japanese steel helmet",
+    "institution_or_author": "Thomas Fisher; Australian War Memorial 소장",
+    "publication_date": "1942-08-19 (촬영일)",
+    "source_type": "primary",
+    "document_or_accession_number": "026285A; C9944",
+    "locator": "사진 디지털 판면 및 Description",
+    "url": "https://www.awm.gov.au/collection/C9944",
+    "accessed_at": "2026-11-15T16:59:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "병사가 망이 달린 철모를 살피는 사진과 일본군 철모라는 소장기관 식별을 읽었다."
+    ],
+    "limitations": [
+      "세부 제식·사용자 및 손상 조건은 확정하지 않았다."
+    ],
+    "rights": "AWM 목록상 퍼블릭 도메인. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM wartime photograph 026285A"
+  },
+  {
+    "id": "CAT-JP-SRC-0049",
+    "title": "Body Armour : WWII : Japan",
+    "institution_or_author": "Australian War Memorial; 제작자 미상",
+    "publication_date": "1945년 이전 (목록 표기)",
+    "source_type": "secondary",
+    "document_or_accession_number": "REL/01153; C112272",
+    "locator": "Date made·Description·History / Summary",
+    "url": "https://www.awm.gov.au/collection/C112272",
+    "accessed_at": "2026-11-15T16:59:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "두 부분의 철판과 직물 구성에 대한 소장기관의 기술을 확인했다."
+    ],
+    "limitations": [
+      "제식, 제작자, 개별품의 입수 경위와 보급 규모는 미상이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "AWM object REL/01153"
+  },
+  {
+    "id": "CAT-JP-SRC-0050",
+    "title": "９９式短小銃",
+    "institution_or_author": "일본 육군 기록; 방위성 방위연구소 소장, JACAR",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "JACAR Ref. C13010760800",
+    "locator": "목록·이미지 직접 접근 시도",
+    "url": "https://www.jacar.archives.go.jp/das/meta/C13010760800",
+    "accessed_at": "2026-11-15T16:59:44+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "목록과 이미지 접근 시 403. 소장번호는 검색에서 식별했으며 문서 내용을 확인하지 못했다."
+    ],
+    "rights": "원문 링크만 사용.",
+    "independence_group": "Imperial Japanese Army short rifle record C13010760800"
+  },
+  {
+    "id": "CAT-JP-SRC-0051",
+    "title": "九六式軽機関銃外３点仮制式制定の件",
+    "institution_or_author": "일본 육군 기록; 방위성 방위연구소 소장, JACAR",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "JACAR Ref. C01001629700",
+    "locator": "일본어·영어 목록 직접 접근 시도",
+    "url": "https://www.jacar.archives.go.jp/das/meta/C01001629700",
+    "accessed_at": "2026-11-15T16:59:44+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "일본어와 영어 목록 모두 403. 문서의 결재일과 본문을 확인하지 못했다."
+    ],
+    "rights": "원문 링크만 사용.",
+    "independence_group": "Imperial Japanese Army standardization record C01001629700"
+  },
+  {
+    "id": "CAT-JP-SRC-0052",
+    "title": "Japanese Submarine and Shipborne Radar",
+    "institution_or_author": "U.S. Naval Technical Mission to Japan",
+    "publication_date": "1945-12-28 (송부문 날짜)",
+    "source_type": "primary",
+    "document_or_accession_number": "E-01; NTT-I-E-01",
+    "locator": "Part III A·B.2, 인쇄 pp. 20–21, Enclosures A–C pp. 27–29",
+    "url": "https://www.fischer-tropsch.org/primary_documents/gvt_reports/USNAVY/USNTMJ%20Reports/USNTMJ-200B-0023-0110%20Report%20E-01.pdf",
+    "accessed_at": "2026-11-15T18:54:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "21호·22호 용도, 하나즈키·가쓰라기의 사진 표기와 21호 세부형 관련 본문·부록의 차이를 확인했다."
+    ],
+    "limitations": [
+      "항복 직후 기술조사는 전시 함정별 가동·교전 성과를 직접 입증하지 않는다. 21호 사진과 본문의 기준 시점 불명."
+    ],
+    "rights": "공개된 미 해군 조사보고서 스캔. 자체 요약과 링크만 사용.",
+    "independence_group": "US Naval Technical Mission E-01 survey and photographs"
+  },
+  {
+    "id": "CAT-JP-SRC-0053",
+    "title": "Japanese Radar Development in World War II",
+    "institution_or_author": "Shigeru Nakajima; The Radioscientist, vol. 3 no. 2",
+    "publication_date": "1992-06",
+    "source_type": "primary",
+    "document_or_accession_number": "vol. 3 no. 2",
+    "locator": "인쇄 p. 34의 21호·22호 및 이세·휴가 단락, 저자 소개",
+    "url": "https://www.ursi.org/content/RSB/RSB_vol3no2_1992.pdf",
+    "accessed_at": "2026-11-15T18:54:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본무선 출신 저자의 회고에서 1942년 이세·휴가 장착 서술과 21호 대공·22호 수상 탐색 용도를 확인했다."
+    ],
+    "limitations": [
+      "전후 수십 년 뒤의 기술자 회고로 분류했다. 함별 설치 일자 및 탐지 조건을 별도 시험 원표로 대조하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Shigeru Nakajima participant recollection"
+  },
+  {
+    "id": "CAT-JP-SRC-0054",
+    "title": "Jade and Purple",
+    "institution_or_author": "NSA National Cryptologic Museum",
+    "publication_date": "2021-08-04",
+    "source_type": "secondary",
+    "document_or_accession_number": "전시 페이지 2719172",
+    "locator": "본문 2–3번째 문단",
+    "url": "https://www.nsa.gov/History/National-Cryptologic-Museum/Exhibits-Artifacts/Exhibit-View/Article/2719172/jade-and-purple/",
+    "accessed_at": "2026-11-15T18:54:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "JADE의 해군 가타카나 통신 용도와 PURPLE의 외교 통신, 14부 전문 사례를 확인했다."
+    ],
+    "limitations": [
+      "배치 총수·개별 설치 지점·일본군 문서 원문은 제시되지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "NSA National Cryptologic Museum exhibits"
+  },
+  {
+    "id": "CAT-JP-SRC-0055",
+    "title": "Top-View of the PURPLE machine",
+    "institution_or_author": "NSA Photo; National Cryptologic Museum",
+    "publication_date": "2021-04-12 (사진 게시)",
+    "source_type": "secondary",
+    "document_or_accession_number": "210412-D-IM742-1001; 2002618653",
+    "locator": "사진 목록과 캡션",
+    "url": "https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/Historical-Releases-List/igphoto/2002618653/",
+    "accessed_at": "2026-11-15T18:54:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장기관이 1945년 베를린 일본대사관 잔해에서 회수된 실제 일본 측 부품으로 식별한 것을 확인했다."
+    ],
+    "limitations": [
+      "현재의 유물 기록으로 완전한 원형 기계나 해당 공관의 전시 가동일지를 확인하지 못했다."
+    ],
+    "rights": "NSA는 사진을 퍼블릭 도메인으로 표시하고 재게시 시 출처 표시를 요청한다. 사진 복제 없이 링크만 사용.",
+    "independence_group": "NSA National Cryptologic Museum exhibits"
+  },
+  {
+    "id": "CAT-JP-SRC-0056",
+    "title": "Memorandum Handed by the Japanese Ambassador (Nomura) to the Secretary of State at 2:20 P.M. on December 7, 1941",
+    "institution_or_author": "일본 대사 노무라가 전달; U.S. Department of State Office of the Historian 편집",
+    "publication_date": "1941-12-07 (전달)",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS, Japan, 1931–1941, vol. II, doc. 420",
+    "locator": "문서 제목, 워싱턴 발신 날짜 및 마지막 주석 p. 787",
+    "url": "https://history.state.gov/historicaldocuments/frus1931-41v02/d420",
+    "accessed_at": "2026-11-15T18:54:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 각서 원문과 전달 시각, 예정 시각에 관한 문서 편집 주석을 확인했다."
+    ],
+    "limitations": [
+      "배포된 외교문서의 원문과 회담 기록 관련 주석이며 사용한 암호기의 기계적·전기적 식별은 하지 않는다."
+    ],
+    "rights": "미 국무부가 공개한 외교문서. 자체 요약 및 링크만 사용.",
+    "independence_group": "Japanese memorandum and US diplomatic record"
+  },
+  {
+    "id": "CAT-JP-SRC-0057",
+    "title": "The Magic of Purple",
+    "institution_or_author": "NSA National Cryptologic Museum",
+    "publication_date": "2021-08-04",
+    "source_type": "secondary",
+    "document_or_accession_number": "전시 페이지 2718925",
+    "locator": "History of Purple 및 Cracking the Purple Code",
+    "url": "https://www.nsa.gov/history/national-cryptologic-museum/exhibits-artifacts/exhibit-view/article/2718925/the-magic-of-purple/",
+    "accessed_at": "2026-11-15T18:54:42+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 일본의 외교용 기계식 암호 전환과 미 육군의 해독용 모사장치라는 별도 역할을 확인했다."
+    ],
+    "limitations": [
+      "NSA의 같은 박물관 전시군으로 독립 기관의 교차확증으로 집계하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "NSA National Cryptologic Museum exhibits"
+  },
+  {
+    "id": "CAT-JP-SRC-0058",
+    "title": "山本五十六｜近代日本人の肖像",
+    "institution_or_author": "일본 국립국회도서관",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": "인물 344",
+    "locator": "生没年·解説",
+    "url": "https://www.ndl.go.jp/portrait/datas/344/index.html",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰, 1939년 연합함대 사령장관 취임, 1940년 해군 대장 진급, 1943-04-18 전사와 사후 원수 칭호."
+    ],
+    "limitations": [
+      "기관의 인물 해설이다. 인사 발령 원문이나 전사 보고서 자체는 열람하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ndl-yamamoto-biography"
+  },
+  {
+    "id": "CAT-JP-SRC-0059",
+    "title": "Singapore, 1942-02-15. Lieutenant General Tomoyuki Yamashita (left), Japanese commander ...",
+    "institution_or_author": "Australian War Memorial 소장, 촬영자 미표기",
+    "publication_date": "1942-02-15",
+    "source_type": "primary",
+    "document_or_accession_number": "127903",
+    "locator": "사진 및 Description",
+    "url": "https://www.awm.gov.au/collection/127903",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "싱가포르 항복 회담에서 야마시타와 퍼시벌의 참석을 보여 주는 사진 및 인물 식별."
+    ],
+    "limitations": [
+      "필름 복제 네거티브 소장품이다. 회담에서 오간 발언과 세부 명령은 사진으로 확인할 수 없다."
+    ],
+    "rights": "호주전쟁기념관 목록상 Public Domain. 자체 요약과 링크만 사용.",
+    "independence_group": "awm-surrender-photo-127903"
+  },
+  {
+    "id": "CAT-JP-SRC-0060",
+    "title": "In re Yamashita, 327 U.S. 1",
+    "institution_or_author": "미 연방대법원, 미국 의회도서관 공개본",
+    "publication_date": "1946-02-04",
+    "source_type": "primary",
+    "document_or_accession_number": "327 U.S. 1",
+    "locator": "pp. 1–5, 13–17, 25–26 및 머피·러틀리지 반대의견",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep327/usrep327001/usrep327001.pdf",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제14방면군 지휘권과 기소 요지, 군사위원회 권한과 구금에 대한 다수의견, 절차와 증거에 관한 반대의견."
+    ],
+    "limitations": [
+      "연방대법원 심사 기록이다. 사건별 사실관계와 직접 명령을 확인할 전체 공판 기록은 확보하지 않았다."
+    ],
+    "rights": "미 연방대법원 판결문 공개본. 자체 요약과 링크만 사용.",
+    "independence_group": "yamashita-us-judicial-record"
+  },
+  {
+    "id": "CAT-JP-SRC-0061",
+    "title": "小笠原兵団（膽）",
+    "institution_or_author": "일본 아시아역사자료센터(JACAR)",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": "공개 용어 해설 0100-0040-0030-0010-0010, 인용 편성 명령 大陸命第1038号",
+    "locator": "解説",
+    "url": "https://www.jacar.go.jp/exhibition/glossary/term/0100-0040-0030-0010-0010.html",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944-06-25 오가사와라 병단 편성, 제109사단장 구리바야시의 겸임 및 1945년 3월 전사."
+    ],
+    "limitations": [
+      "기관 해설을 열람했다. 편성 명령 원문과 사망 일자·경위는 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jacar-ogasawara-glossary"
+  },
+  {
+    "id": "CAT-JP-SRC-0062",
+    "title": "Closing In: Marines in the Seizure of Iwo Jima",
+    "institution_or_author": "Joseph H. Alexander, USMC History and Museums Division",
+    "publication_date": "1994",
+    "source_type": "secondary",
+    "document_or_accession_number": "Marines in World War II Commemorative Series",
+    "locator": "The Japanese Commander",
+    "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Iwo/",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "구리바야시의 육군 중장 계급, 제109사단장과 오가사와라 병단장 겸임에 관한 미 해병대 전사 서술."
+    ],
+    "limitations": [
+      "3월 23일 사망 경위는 일본 측 자료에 의거한 후대 서술이다. 그 인용 원전과 독립 사망 기록은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "usmc-iwo-jima-official-history"
+  },
+  {
+    "id": "CAT-JP-SRC-0063",
+    "title": "Review of the Record of Trial by a Military Commission of Tomoyuki Yamashita, General, Imperial Japanese Army",
+    "institution_or_author": "미군 법무부서, 미국 의회도서관 공개본",
+    "publication_date": "1945-12-26",
+    "source_type": "primary",
+    "document_or_accession_number": "JA 201",
+    "locator": "Case of General Yamashita: A Memorandum 수록 검토각서, p. 60 a. Charge, c. Findings, d. Sentence",
+    "url": "https://tile.loc.gov/storage-services/service/ll/llmlp/Yamashita/Yamashita.pdf",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "군사위원회 기소 내용과 유죄 판단, 사형 선고가 법무 검토각서에 기록되어 있다."
+    ],
+    "limitations": [
+      "같은 군사재판 기록 계열이다. 개별 범죄의 독립 확증 또는 전체 공판 속기록으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "yamashita-us-judicial-record"
+  },
+  {
+    "id": "CAT-JP-SRC-0064",
+    "title": "山下, 奉文, 1885–1946",
+    "institution_or_author": "일본 국립국회도서관",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "00623547",
+    "locator": "전거 레코드의 표목·생몰년",
+    "url": "https://id.ndl.go.jp/auth/ndlna/00623547",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "인명 한자 표기 및 생몰년."
+    ],
+    "limitations": [
+      "인명 서지 전거로, 전투와 재판의 사실관계는 다른 출처에 의거했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ndl-yamashita-authority"
+  },
+  {
+    "id": "CAT-JP-SRC-0065",
+    "title": "栗林忠道",
+    "institution_or_author": "일본 방위연구소 사료실",
+    "publication_date": "2016년 하반기 제211호",
+    "source_type": "secondary",
+    "document_or_accession_number": "防衛研究所ニュース 제211호; 인용 사료 中央-作戦指導その他-48",
+    "locator": "「栗林忠道」 및 「幕僚参考資料綴」, 胆参電第三五一号",
+    "url": "https://www.nids.mod.go.jp/publication/nids_news/pdf/2016/news201608-12.pdf",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1891–1945, 1944-05-27 제109사단장 임명, 06-08 이오지마 부임, 1945-03-07 보고 전보의 날짜와 요지."
+    ],
+    "limitations": [
+      "사료실의 설명과 발췌를 열람했다. 전보 원본 전체와 수신 기록은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nids-kuribayashi-archival-note"
+  },
+  {
+    "id": "CAT-JP-SRC-0066",
+    "title": "About Former Ford Factory",
+    "institution_or_author": "National Archives of Singapore",
+    "publication_date": "웹 페이지 최종 갱신 2026-03-18",
+    "source_type": "secondary",
+    "document_or_accession_number": "Former Ford Factory 전시 개요",
+    "locator": "전시 개요 중 1942-02-13 및 1942-02-15 서술",
+    "url": "https://corporate.nas.gov.sg/former-ford-factory/overview/",
+    "accessed_at": "2026-11-15T20:58:29+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제25군 지휘관 야마시타 중장의 포드 공장 사령부 설치와 퍼시벌의 항복 접수."
+    ],
+    "limitations": [
+      "기관의 공개 장소 해설이다. 항복 서명 원문 또는 이후 점령기 개별 기록은 이 페이지에서 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nas-former-ford-factory-history"
+  },
+  {
+    "id": "CAT-JP-SRC-0067",
+    "title": "公文書に見る日米交渉 — 人物（元首／閣僚）",
+    "institution_or_author": "일본 아시아역사자료센터(JACAR)",
+    "publication_date": "웹 전시 ©2005",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「近衛文麿」·「東条英機」 항목",
+    "url": "https://www.jacar.go.jp/exhibition/nichibei/person/index.html",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "고노에 생몰·제1~3차 내각·대정익찬회 출범과 도조의 육군대신·총리 경력."
+    ],
+    "limitations": [
+      "전시 해설이다. 개별 각의 의사록과 인사 원문은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jacar-jp-us-biographical-exhibition"
+  },
+  {
+    "id": "CAT-JP-SRC-0068",
+    "title": "The Ambassador in Japan (Grew) to the Secretary of State",
+    "institution_or_author": "주일 미국대사 Joseph C. Grew, 미 국무부 역사실 공개본",
+    "publication_date": "1940-09-28 도쿄 발신",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS Japan, 1931–1941, II, 문서 103; 762.9411/26; 전보 912",
+    "locator": "pp. 168–169, Message of the Prime Minister",
+    "url": "https://history.state.gov/historicaldocuments/frus1931-41v02/d103",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "삼국조약 체결을 동아시아 질서 구축과 연결한 일본 총리 담화의 당시 전달문."
+    ],
+    "limitations": [
+      "외교 전보로 전한 영어 번역이다. 공개 담화의 명분을 보여 주며 일본어 원본과 협상 과정은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "konoe-pact-public-statement"
+  },
+  {
+    "id": "CAT-JP-SRC-0069",
+    "title": "Three-Power Pact Between Germany, Italy, and Japan",
+    "institution_or_author": "독일·이탈리아·일본 정부, Yale Law School Avalon Project 공개본",
+    "publication_date": "1940-09-27",
+    "source_type": "primary",
+    "document_or_accession_number": "삼국조약 제1~6조",
+    "locator": "제1~3조 및 베를린 체결 날짜가 기록된 말미",
+    "url": "https://avalon.law.yale.edu/wwii/triparti.asp",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "지역별 지도권의 상호 인정, 특정 조건 아래의 정치·경제·군사적 상호 지원, 체결 일자·장소."
+    ],
+    "limitations": [
+      "조약 본문의 영어 공개본으로 자필 서명 이미지는 제공하지 않는다. 서명자 식별은 별도 출처에 근거했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "tripartite-pact-text"
+  },
+  {
+    "id": "CAT-JP-SRC-0070",
+    "title": "東条英機｜近代日本人の肖像",
+    "institution_or_author": "일본 국립국회도서관",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": "인물 142",
+    "locator": "生没年·解説",
+    "url": "https://www.ndl.go.jp/portrait/datas/142",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도조의 생몰·총리 임명과 겸직, 1944년 참모총장 겸직 및 내각 총사직."
+    ],
+    "limitations": [
+      "인물 해설이다. 재판 개별 공소사실과 판결문은 이번 범위에서 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ndl-tojo-biography"
+  },
+  {
+    "id": "CAT-JP-SRC-0071",
+    "title": "第８回御前会議（議題：対米英蘭開戦決定）",
+    "institution_or_author": "일본 아시아역사자료센터(JACAR)",
+    "publication_date": "웹 전시 ©2005, 해설 대상 1941-12-01",
+    "source_type": "secondary",
+    "document_or_accession_number": "전시 자료 2 B02032967200, 자료 3 B02032967300, 자료 4 B02032959500",
+    "locator": "자료 2·3·4 해설, 자료 4 표지 사진",
+    "url": "https://www.jacar.go.jp/exhibition/nichibei/popup/pop_27.html",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제8회 어전회의의 개전 결정, 도조 총리 설명안의 논거와 결정 대상국."
+    ],
+    "limitations": [
+      "기관 해설과 표지 사진을 확인했다. 설명안·결정문 개별 원본은 별도 열람하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jacar-eighth-imperial-conference"
+  },
+  {
+    "id": "CAT-JP-SRC-0072",
+    "title": "米国及英国ニ対スル宣戦ノ件・御署名原本・昭和十六年・詔書一二月八日",
+    "institution_or_author": "일본 내각, 일본 국립공문서관 전사본",
+    "publication_date": "1941-12-08",
+    "source_type": "primary",
+    "document_or_accession_number": "御24374100",
+    "locator": "상설 전시 12번 전사 PDF 1쪽 본문, 2쪽 일자 및 부서란",
+    "url": "https://www.archives.go.jp/exhibition/permanent_exhibition/pdf/doc121.pdf",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "천황 명의 조서의 선전 대상이 미국·영국이고 도조가 총리 겸 육군대신 및 내무대신으로 기재됨."
+    ],
+    "limitations": [
+      "기관이 공개한 전사본의 본문·부서란을 확인했다. 회의 기록이나 다른 대상국에 대한 외교 통고는 별개다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jp-1941-declaration-rescript",
+    "additional_locators": [
+      {
+        "job_id": "CAT-JP-10",
+        "locator": "전사본 1~2쪽",
+        "url": "https://www.archives.go.jp/exhibition/permanent_exhibition/pdf/doc121.pdf",
+        "accessed_at": "2026-11-16T02:55:45+09:00",
+        "claims_checked": [
+          "1941년 선전 조서와 도조 부서란."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0073",
+    "title": "鈴木貫太郎｜近代日本人の肖像",
+    "institution_or_author": "일본 국립국회도서관",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": "인물 113",
+    "locator": "生没年·解説",
+    "url": "https://www.ndl.go.jp/portrait/datas/113/index.html",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생몰, 1944년 추밀원 의장, 1945년 총리, 포츠담 선언 수락 후 총사직."
+    ],
+    "limitations": [
+      "생년은 이 인물 해설에 병기된 양력 표기를 사용했다. 각의 내부 절차는 해설 범위 밖이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ndl-suzuki-biography"
+  },
+  {
+    "id": "CAT-JP-SRC-0074",
+    "title": "大東亜戦争終結ニ関スル詔書・御署名原本・昭和二十年・詔書八月十四日",
+    "institution_or_author": "일본 내각, 일본 국립공문서관 전사본",
+    "publication_date": "1945-08-14",
+    "source_type": "primary",
+    "document_or_accession_number": "御28610100",
+    "locator": "상설 전시 13번 전사 PDF 1쪽 수락 통보·2쪽 날짜와 부서란; 별도 해설 「終戦の詔書」",
+    "url": "https://www.archives.go.jp/exhibition/permanent_exhibition/pdf/doc131.pdf",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "포츠담 선언 수락을 통보하도록 했다는 조서 본문, 8월 14일자 날짜와 스즈키 총리 부서."
+    ],
+    "limitations": [
+      "공개 전사본을 열람했다. 전사 PDF 첫머리의 청구번호 표기가 정본 목록 御28610100과 달라 목록 번호로 기재했다. 회의 중 발언은 조서가 직접 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jp-1945-termination-rescript",
+    "additional_locators": [
+      {
+        "job_id": "CAT-JP-08",
+        "locator": "일본 국립공문서관 전시 「終戦の詔書」",
+        "url": "https://www.archives.go.jp/owning/mini_img/2-4.html",
+        "accessed_at": "2026-11-15T22:53:52+09:00",
+        "claims_checked": [
+          "1945-08-15 정오 방송과 스즈키 내각 국무대신 부서."
+        ],
+        "limitations": [
+          "전시 설명 및 예시 이미지다. 방송 음원이나 영상은 별도 조사 항목이다."
+        ]
+      },
+      {
+        "job_id": "CAT-JP-10",
+        "locator": "전사본 1쪽 첫 문단",
+        "url": "https://www.archives.go.jp/exhibition/permanent_exhibition/pdf/doc131.pdf",
+        "accessed_at": "2026-11-16T02:55:45+09:00",
+        "claims_checked": [
+          "종전 조서의 연합국 통고 서술."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0075",
+    "title": "The Swiss Chargé (Grässli) to the Secretary of State",
+    "institution_or_author": "스위스 대리공사 Max Grässli, 미 국무부 역사실 공개본",
+    "publication_date": "1945-08-14",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1945 VI 문서 440; 740.00119 PW/8–1445",
+    "locator": "8월 14일 일본 정부 통보문 1~2항",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v06/d440",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "포츠담 선언 수락 조서 발령과 항복 이행 관련 준비를 연합국에 알린 외교 통보."
+    ],
+    "limitations": [
+      "일본 정부의 통보를 전한 외교 문서다. 어전회의 내부 판단의 독립 증거는 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "swiss-transmission-japanese-acceptance"
+  },
+  {
+    "id": "CAT-JP-SRC-0076",
+    "title": "The Acting Political Adviser in Japan (Atcheson) to the Secretary of State",
+    "institution_or_author": "George Atcheson Jr. 및 Max W. Bishop, 미 국무부 역사실 공개본",
+    "publication_date": "1945-11-23 발송, 첨부 면담 1945-11-09",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1945 VI 문서 488; 740.00119 P.W./11–2345; No. 67",
+    "locator": "첨부 1, pp. 706–707, 사코미즈 히사쓰네 면담의 8월 14일 전후 서술",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v06/d488",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "스즈키의 연합국 회답 수용 입장·천황과의 협의 및 종전 조서 작성 지시에 관한 전후 증언."
+    ],
+    "limitations": [
+      "참여자 회고를 채록한 문서다. 발언 속기록이 아니며 문서의 서기관장 임기 연도 표기에 오기가 있어 그 부분은 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "sakomizu-1945-postwar-interview"
+  },
+  {
+    "id": "CAT-JP-SRC-0077",
+    "title": "宮内庁関係年表（慶応3年以後）",
+    "institution_or_author": "일본 궁내청",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1901-04-29 및 1989-01-07 행",
+    "url": "https://www.kunaicho.go.jp/kunaicho/kunaicho/kunaicho-nenpyo.html",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "히로히토의 이름과 쇼와 천황이라는 표기, 생몰년."
+    ],
+    "limitations": [
+      "궁중 기관의 연표이며 실질적인 전시 의사결정의 근거로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "imperial-household-chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0078",
+    "title": "Instrument of Surrender",
+    "institution_or_author": "미국 국립문서기록관리청(NARA), 미 합동참모본부 기록",
+    "publication_date": "1945-09-02",
+    "source_type": "primary",
+    "document_or_accession_number": "RG 218",
+    "locator": "Transcript 첫 두 단락 및 시게미쓰·우메즈 서명란",
+    "url": "https://www.archives.gov/milestone-documents/surrender-of-japan",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "포츠담 선언 수용, 일본군의 무조건 항복, 일본 측 두 대표의 서명과 각 대표 범위."
+    ],
+    "limitations": [
+      "정식 항복문서다. 지역별 현지 항복이나 실제 전투 중지 시점은 다루지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "japan-formal-surrender-instrument"
+  },
+  {
+    "id": "CAT-JP-SRC-0079",
+    "title": "公文書に見る日米交渉 — 用語解説",
+    "institution_or_author": "일본 아시아역사자료센터(JACAR)",
+    "publication_date": "웹 전시 ©2005",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「日独伊三国同盟」 항목",
+    "url": "https://www.jacar.go.jp/exhibition/nichibei/word/index7.html",
+    "accessed_at": "2026-11-15T22:53:52+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 측 삼국조약 서명자 구루스 사부로의 직책과 성명."
+    ],
+    "limitations": [
+      "기관 해설로 자필 서명본은 이번 조사에서 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jacar-tripartite-pact-glossary"
+  },
+  {
+    "id": "CAT-JP-SRC-0080",
+    "title": "略年譜 著書目録 — 中谷宇吉郎",
+    "institution_or_author": "나카야 우키치로 눈의 과학관",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "연표 1900·1932·1941·1943~1944년 행",
+    "url": "https://yukinokagakukan.kagashi-ss.com/ukichiro/biography/",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "나카야의 출신지와 홋카이도제국대학 교수 경력, 저온과학연구소 출범, 니세코 관측소와 네무로 연구."
+    ],
+    "limitations": [
+      "인물 연표다. 연구 발주서와 항공기 개별 기체 이력은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nakaya-museum-chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0081",
+    "title": "樹氷の科学",
+    "institution_or_author": "나카야 우키치로, 이와나미서점, 아오조라문고 전자 전사",
+    "publication_date": "1950-03, 모본 『霧退治―科学物語』 1950-03-15",
+    "source_type": "primary",
+    "document_or_accession_number": "아오조라문고 파일 57305_60826",
+    "locator": "제12~14절, 제13절 그림 7 아래; 권말 저본 정보",
+    "url": "https://www.aozora.gr.jp/cards/001569/files/57305_60826.html",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "니세코안누푸리 관측소에서의 자연 착빙 관찰과 현미경 관찰·촬영에 관한 참여 연구자의 서술."
+    ],
+    "limitations": [
+      "전후에 쓴 과학 해설 겸 회고다. 전시 현장 기록이나 촬영물 자체는 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nakaya-participant-account"
+  },
+  {
+    "id": "CAT-JP-SRC-0082",
+    "title": "中谷宇吉郎と戦時研究",
+    "institution_or_author": "기쿠치 가쓰히로 강연, 홋카이도대학 종합박물관 공동 주최",
+    "publication_date": "2012-10-27 강연, 안내 PDF 게시일 미확인",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "PDF 1쪽 강연 요지",
+    "url": "https://www.museum.hokudai.ac.jp/wp-content/uploads/2012/04/NakayaUkichiro_2012_AutumnSeminar.pdf",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "해군성 주도 1943년 착빙 연구와 육군성 주도 1944년 네무로 안개 연구의 분담."
+    ],
+    "limitations": [
+      "강연 안내에 실린 연구사 요지다. 강연에서 소개한 당대 사진과 보고서 전체를 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "hokudai-kikuchi-wartime-research"
+  },
+  {
+    "id": "CAT-JP-SRC-0083",
+    "title": "Nobel Prize in Physics 1965 — Sin-itiro Tomonaga",
+    "institution_or_author": "교토대학",
+    "publication_date": "자료 제작일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "PDF 1쪽 Achievements·Timeline",
+    "url": "https://www.kyoto-u.ac.jp/sites/default/files/embed/enabouthonorsinternational_awardsdocumentsnobel_laureatestomonaga_laureates.pdf",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도모나가의 생몰년, 1941년 대학 교수 임용과 1943년 상대론적 양자장 이론 연구."
+    ],
+    "limitations": [
+      "대학 인물 해설이다. 1943년 당시 원고나 해군 연구소 보고서의 저자 정보는 별도 확인이 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "kyoto-tomonaga-profile"
+  },
+  {
+    "id": "CAT-JP-SRC-0084",
+    "title": "A Survey of the Origins and Evolution of the Microwave Circuit Devices in Japan from the 1920s up until 1945",
+    "institution_or_author": "Tosiro Koga, IEICE Transactions on Fundamentals",
+    "publication_date": "2010-12-01",
+    "source_type": "secondary",
+    "document_or_accession_number": "DOI 10.1587/transfun.E93.A.2354",
+    "locator": "Vol. E93.A No. 12 pp. 2354–2370 중 공개 초록",
+    "url": "https://www.jstage.jst.go.jp/article/transfun/E93.A/12/E93.A_12_2354/_article/-char/en",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 해군 시마다 연구소에서 물리학자와 기술진이 협력한 배경, 도모나가의 마이크로파 회로 이론 기여."
+    ],
+    "limitations": [
+      "학술지 공개 초록을 읽었다. 본문 PDF는 구독 로그인으로 연결돼 담당 시기와 원자료를 대조하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "koga-japanese-microwave-history"
+  },
+  {
+    "id": "CAT-JP-SRC-0085",
+    "title": "On a Relativistically Invariant Formulation of the Quantum Theory of Wave Fields",
+    "institution_or_author": "S. Tomonaga, Progress of Theoretical Physics",
+    "publication_date": "1946",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "DOI 10.1143/PTP.1.27",
+    "locator": "Vol. 1 No. 2 pp. 27–42의 저널 서지 및 저자 소속",
+    "url": "https://www.jstage.jst.go.jp/article/ptp1946/1/2/1_2_27/_article/-char/en",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전후 논문 게재 연도 및 Physics Department, Tokyo Bunrika University 저자 소속 표기."
+    ],
+    "limitations": [
+      "1차 논문의 공식 출판 정보를 확인했다. 논문 본문이나 1943년 판본을 별도로 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "tomonaga-1946-publication-record"
+  },
+  {
+    "id": "CAT-JP-SRC-0086",
+    "title": "仁科芳雄博士の略年譜",
+    "institution_or_author": "사토쇼정 니시나회관",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "연표 1890년, 1931-07-01, 1945-08-08, 1951-01-10 행",
+    "url": "https://www.kagaku.nishina.town.satosho.okayama.jp/about/profile/",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "니시나의 출신 및 이화학연구소 주임연구원 경력, 1945년 8월 8일자 히로시마 조사 기록."
+    ],
+    "limitations": [
+      "기념관 연표다. 현지 방문 일자는 일지·이동 원기록으로 독립 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "satosho-nishina-chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0087",
+    "title": "広島・長崎の原子爆弾に関する初期調査",
+    "institution_or_author": "마쓰무라 다카오, 게이오기주쿠 경제학회",
+    "publication_date": "1996-04, 자료 A는 1945년 8월 전후 원문 전사",
+    "source_type": "secondary_with_primary_excerpt",
+    "document_or_accession_number": "DOI 10.14991/001.19960401-0108; 三田学会雑誌 89(1), pp. 108–126",
+    "locator": "III절 pp. 114–116, 주 17–18; 자료 A 「広島戦災（放射能ニ関スル）調査報告」의 「判決」·「調査責任者」",
+    "url": "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN00234610-19960401-0108.pdf?file_id=87095",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "니시나 조사 설명의 신문 보도 인용 경로와 제2차 조사반의 조사일·책임자·당시 판단의 범위."
+    ],
+    "limitations": [
+      "학술지에서 별도로 인용한 신문 지면과 조사 보고서 원본은 미열람이다. 보고서의 관측 시점은 폭발 직후와 구별한다."
+    ],
+    "rights": "KOARA 안내에 따라 저작권은 저자·학회·출판기관 등에 귀속. 한국어 요약과 링크만 사용.",
+    "independence_group": "matsumura-early-survey-japanese-report"
+  },
+  {
+    "id": "CAT-JP-SRC-0088",
+    "title": "仁科芳雄",
+    "institution_or_author": "니시나기념재단",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「旧『仁科記念室』」·「仁科芳雄博士略歴」",
+    "url": "https://www.nishina-mf.or.jp/doctor/",
+    "accessed_at": "2026-11-16T00:54:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "출생지 및 이화학연구소 니시나연구실 주임연구원 임용과 전후 경력."
+    ],
+    "limitations": [
+      "기념재단의 인물 해설이다. 히로시마 이동·현지 조사 일자 검증에 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nishina-foundation-biography"
+  },
+  {
+    "id": "CAT-JP-SRC-0089",
+    "title": "当庁が管理する先の大戦関係の資料について／終戦の玉音放送",
+    "institution_or_author": "일본 궁내청",
+    "publication_date": "1945-08-14 밤 녹음, 1945-08-15 방송, 2015-08-01 공개",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": null,
+    "locator": "「終戦の玉音放送関係」 및 재생기·원반 사진",
+    "url": "https://www.kunaicho.go.jp/kunaicho/koho/taisenkankei/index.html",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "두 번째 녹음의 방송 사용 및 원반 재생을 통한 음성 공개."
+    ],
+    "limitations": [
+      "공개 설명과 사진을 확인했다. 재생기는 미디어 재생 불가 상태였고 원영상·음원 길이 미확인."
+    ],
+    "rights": "궁내청 페이지 저작권 고지. 미디어 복제 없이 링크만 사용.",
+    "independence_group": "imperial-household-gyokuon",
+    "additional_locators": [
+      {
+        "job_id": "CAT-JP-10",
+        "locator": "재생기 및 원반 사진",
+        "url": "https://www.kunaicho.go.jp/kunaicho/koho/taisenkankei/syusen/syusen.html",
+        "accessed_at": "2026-11-16T02:55:45+09:00",
+        "claims_checked": [
+          "공개 페이지와 원반 사진을 확인했다. 재생기는 미디어 재생 불가였다."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0090",
+    "title": "玉音放送とラジオ",
+    "institution_or_author": "일본 라디오박물관",
+    "publication_date": "웹 게시일 미확인",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「玉音の録音」 및 원반의 전후 공개·복원 설명",
+    "url": "https://www.japanradiomuseum.com/gyokuon",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "궁내성 정무실 녹음 위치, 녹음이 자정을 넘겼다는 설명과 복원 음원 공개일."
+    ],
+    "limitations": [
+      "방송사 자료와 회고 등을 토대로 한 해설이다. 2015년 공개 자체는 궁내청과 같은 자료에 근거한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "japan-radio-museum-history"
+  },
+  {
+    "id": "CAT-JP-SRC-0091",
+    "title": "勝利の記録 大詔を拜し奉りて（上）",
+    "institution_or_author": "쇼와관 디지털 아카이브, 발행 닛치쿠 공업",
+    "publication_date": "1941-12-08 방송(라벨), 음반 발매일 미확인",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "SPH2360300025A; 니치쿠 53003 A면; NDL pid 3573341",
+    "locator": "盤面情報 및 演奏時間",
+    "url": "https://search.showakan.go.jp/search/record/detail.php?id=90013281",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도조의 개전 방송 라벨 날짜 및 A면 목록 길이 3분 31초."
+    ],
+    "limitations": [
+      "소장기관이 전사한 라벨 정보다. 직접 청취 및 전체 방송 비교는 미실시."
+    ],
+    "rights": "쇼와관 자료 이용 안내 적용. 음반 파일을 복제하지 않음.",
+    "independence_group": "showakan-tojo-war-disc-53003"
+  },
+  {
+    "id": "CAT-JP-SRC-0092",
+    "title": "勝利の記録 大詔を拜し奉りて（下）",
+    "institution_or_author": "쇼와관 디지털 아카이브, 발행 닛치쿠 공업",
+    "publication_date": "1941-12-08 방송(라벨), 음반 발매일 미확인",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "니치쿠 53003 B면; NDL pid 3573342",
+    "locator": "盤面情報 및 演奏時間",
+    "url": "https://search.showakan.go.jp/search/record/detail.php?id=90013282",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "같은 음반 B면의 목록 길이 3분 50초."
+    ],
+    "limitations": [
+      "같은 음반의 반대 면으로 독립 근거가 아니다. 직접 청취 및 전체 방송 비교는 미실시."
+    ],
+    "rights": "쇼와관 자료 이용 안내 적용. 음반 파일을 복제하지 않음.",
+    "independence_group": "showakan-tojo-war-disc-53003"
+  },
+  {
+    "id": "CAT-JP-SRC-0093",
+    "title": "「対米英 宣戦布告」（No.CFSK-0240）",
+    "institution_or_author": "중일영화사(中日映画社) 공개 채널",
+    "publication_date": "2020-12-07 게시, 소개 사건 1941-12-08",
+    "source_type": "later_edited_media",
+    "document_or_accession_number": "CFSK-0240",
+    "locator": "재생기 00:00 제목 화면, 전체 07:49 및 게시자 개요",
+    "url": "https://www.youtube.com/watch?v=CLiLkoHhgC8",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "후대 편집 고지와 관저 성명 장면에 대한 게시자 설명. 첫 화면과 전체 길이를 화면에서 확인."
+    ],
+    "limitations": [
+      "영상이 00:00에서 진행하지 않아 도조 발언 구간·원필름·음성 동기 여부를 검증하지 못했다."
+    ],
+    "rights": "공개 채널의 시청 페이지. 영상·화면을 복제하지 않음.",
+    "independence_group": "chunichi-edited-film-cfsk0240"
+  },
+  {
+    "id": "CAT-JP-SRC-0094",
+    "title": "Timeline — A Window into the Early Showa Period: Greater East Asia Conference",
+    "institution_or_author": "일본 아시아역사자료센터(JACAR)",
+    "publication_date": "전시일 미확인; 인용 잡지 1943-11-17",
+    "source_type": "secondary",
+    "document_or_accession_number": "인용 『写真週報』 第298号, A06031089300",
+    "locator": "1943-11-06 항목 및 Document 1",
+    "url": "https://www.jacar.go.jp/english/exhibition/shuhou-english/timeline/nenpyo19431106.html",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "5일 의사당 회의, 6일 선언 발표, 7일 히비야 국민대회의 행사 날짜 및 장소."
+    ],
+    "limitations": [
+      "기관 전시 해설과 연결된 잡지 이미지다. 영화 속 개별 발언의 식별 자료로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "jacar-shashin-shuho-298-timeline"
+  },
+  {
+    "id": "CAT-JP-SRC-0095",
+    "title": "日本ニュース第179号-1",
+    "institution_or_author": "쇼와관 디지털 아카이브, 제작·발행 일본영화사",
+    "publication_date": "1943년 11월 무렵 촬영(목록)",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "V1H1314003106",
+    "locator": "時間·館内限定公開·内容 2~3",
+    "url": "https://search.showakan.go.jp/search/video/detail.php?id=90063030",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 뉴스릴 분할본의 흑백·유성, 11분 12초 및 회의 장면 목록."
+    ],
+    "limitations": [
+      "관내 열람 전용이다. 실제 발언의 촬영일, 자막·타임코드·음성 동기 여부는 미확인."
+    ],
+    "rights": "관내 한정, 대출 불가. 이용 문의는 쇼와관.",
+    "independence_group": "nippon-news-179-holdings"
+  },
+  {
+    "id": "CAT-JP-SRC-0096",
+    "title": "返還映画コレクション（4）-12 — 日本ニュース 第179號",
+    "institution_or_author": "일본 국립영화아카이브, 제작 일본영화사",
+    "publication_date": "1943년 제작, 2026년 8월 상영 프로그램",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "상영 프로그램 60026",
+    "locator": "「日本ニュース 第179號」 항목",
+    "url": "https://www.nfaj.go.jp/program/repatriated_film4_202607-12/",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "16㎜ 흑백 23분 반환 상영본과 회의·국민대회 수록 설명."
+    ],
+    "limitations": [
+      "상영 목록만 열람했다. 쇼와관 분할본과 동일 장면의 편집 여부는 대조하지 않았다."
+    ],
+    "rights": "상영 자료. 별도 영상 이용 조건 미확인.",
+    "independence_group": "nippon-news-179-holdings"
+  },
+  {
+    "id": "CAT-JP-SRC-0097",
+    "title": "大東亜共同宣言",
+    "institution_or_author": "쇼와관 디지털 아카이브, 발행 닛치쿠 공업",
+    "publication_date": "1943-11-06 실황 녹음(라벨)",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "M1H16MK900195; 니치쿠 53014; NDL pid 3573363",
+    "locator": "盤面情報 및 演奏時間",
+    "url": "https://search.showakan.go.jp/search/record/detail.php?id=90011632",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "회의 실황 음원의 도조 표기·날짜 및 목록 길이 3분 31초."
+    ],
+    "limitations": [
+      "소장 목록을 열람했다. 음원 재생과 뉴스릴과의 동기화는 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "showakan-pact-disc-53014"
+  },
+  {
+    "id": "CAT-JP-SRC-0098",
+    "title": "日本国代表演説（一）",
+    "institution_or_author": "쇼와관 디지털 아카이브, 녹음 일본방송협회, 발행 닛치쿠 공업",
+    "publication_date": "1943-11-07 녹음(라벨)",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": "M1H16MK900201; 니치쿠 53015; NDL pid 3573365",
+    "locator": "盤面情報·演奏時間·ジャンル名称",
+    "url": "https://search.showakan.go.jp/search/record/detail.php?id=90011638",
+    "accessed_at": "2026-11-16T02:55:45+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "히비야 공원 국민대회 도조 연설의 별도 음원, 첫 면 목록 길이 4분 21초."
+    ],
+    "limitations": [
+      "음반 목록을 열람했다. 연설 전체 길이와 음성의 영상 동기 여부 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "showakan-hibiya-disc-53015"
+  },
+  {
+    "id": "CAT-JP-SRC-0099",
+    "title": "沿革: 名古屋誘導推進システム製作所",
+    "institution_or_author": "三菱重工業株式会社",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1934년·1938년 항목",
+    "url": "https://www.mhi.com/jp/company/location/nagoyaguidew/history",
+    "accessed_at": "2026-11-16T05:00:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "나고야 항공기제작소의 전시 명칭, 발동기제작소 분리, 두 제작소의 제품과 종전까지의 사사 집계를 확인했다."
+    ],
+    "limitations": [
+      "회사의 회고 연혁. 합계의 시작일, 포함 공장과 군 인수량이 명시되지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "MHI Nagoya corporate chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0100",
+    "title": "The Japanese Aircraft Industry",
+    "institution_or_author": "United States Strategic Bombing Survey, Aircraft Division",
+    "publication_date": "1947-05",
+    "source_type": "primary",
+    "document_or_accession_number": "Boston Public Library 3 9999 06317 336 1",
+    "locator": "Table II-1·II-11 Mitsubishi Heavy Industries 행과 연도별 부록 표",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Japanese%20Aircraf%20Industry.pdf",
+    "accessed_at": "2026-11-16T05:00:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전후 조사 원본 스캔에서 1941~1945년 제조사별 항공기와 엔진 생산 집계를 대조했다."
+    ],
+    "limitations": [
+      "미국의 전후 조사 표다. 생산과 군 인수량은 구분되며, 회사 연혁의 나고야 제작소 통계와 집계 범위가 일치하는지는 확인이 필요하다."
+    ],
+    "rights": "공개 열람 가능한 미 정부 보고서 스캔. 자체 요약과 링크만 사용.",
+    "independence_group": "USSBS Aircraft Division national survey"
+  },
+  {
+    "id": "CAT-JP-SRC-0101",
+    "title": "Chronology of History",
+    "institution_or_author": "Toshiba Corporation",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1932–1939 및 1940–1956 구간",
+    "url": "https://www.global.toshiba/ww/outline/corporate/history/chronology.html",
+    "accessed_at": "2026-11-16T05:00:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 두 전신 회사 합병, 전시 발전기 생산과 관급 무선기·진공관 주문을 확인했다."
+    ],
+    "limitations": [
+      "회사 연혁은 전시 공장별 생산과 납품 인수증, 발전기 수요처를 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Toshiba corporate chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0102",
+    "title": "Electronics, Japan",
+    "institution_or_author": "미 해군 정보부 (Office of Naval Intelligence)",
+    "publication_date": "1944-10-21",
+    "source_type": "primary",
+    "document_or_accession_number": "OPNAV-16-V No. A77, NDL PID 4009719",
+    "locator": "Appendix B, Background Material on Tokyo Shibaura Electric Company 첫 문단",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/NDL4009719_OPNAV-16-V_No._A77%2C_21_October_1944._electronics%2C_Japan._Report_No._9-a%286%29%2C_USSBS_Index_Section_6.pdf",
+    "accessed_at": "2026-11-16T05:00:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 합병과 중전기·전자 분야가 각각 시바우라·마쓰다 부문에 집중됐다는 동시대 평가를 확인했다."
+    ],
+    "limitations": [
+      "전시 미 해군 정보보고서로서 기업의 생산대장이나 납품 검수기록과는 성격이 다르다."
+    ],
+    "rights": "공개 열람 가능한 미 정부 보고서 스캔. 자체 요약과 링크만 사용.",
+    "independence_group": "US Navy wartime intelligence",
+    "archive_url": "https://dl.ndl.go.jp/pid/4009719"
+  },
+  {
+    "id": "CAT-JP-SRC-0103",
+    "title": "Addition of Tokyo-Shibaura Electric Company, Ltd.; Japan Radio Company, Ltd.; Oki Electric Company, Ltd.; and Their Subsidiaries and Affiliates to the Schedule of Restricted Concerns",
+    "institution_or_author": "General Headquarters, Supreme Commander for the Allied Powers",
+    "publication_date": "1946-03-14",
+    "source_type": "primary",
+    "document_or_accession_number": "SCAPIN-813",
+    "locator": "Memo for Record (1946-03-05), §§2.a.(1)(b), 2.b.(1)(b)",
+    "url": "https://jahis.law.nagoya-u.ac.jp/scapindb/docs/scapin-813",
+    "accessed_at": "2026-11-16T05:00:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본무선의 무선 부품 및 1942년 육·해군용 전파탐지 장비 제조 개시 서술과 도쿄시바우라전기의 상호 연도 불일치를 확인했다."
+    ],
+    "limitations": [
+      "점령기 제한기업 지정에 관한 원문 전사본이다. 전시 제조 서술은 회고 조사이고 본토 공장 현황은 메모 작성 무렵의 진술이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "GHQ SCAP restricted concerns investigation"
+  },
+  {
+    "id": "CAT-JP-SRC-0104",
+    "title": "JRCのあゆみ（沿革）",
+    "institution_or_author": "日本無線株式会社",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "沿革情報, 1920년 2월·1938년 7월·1942년 12월·1949년 10월 항목",
+    "url": "https://www.jrc.co.jp/company/history",
+    "accessed_at": "2026-11-16T05:00:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본무선의 전신 명칭, 미타카 공장 이전, 전시 상호 변경과 동명 제2회사 재출범을 확인했다."
+    ],
+    "limitations": [
+      "후신의 연혁. 전시 형식별 생산·인수 수량과 기업 분할의 계약 문서를 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JRC corporate chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0105",
+    "title": "Mitsubishi Materials Reaches Settlement with Chinese Wartime Laborers",
+    "institution_or_author": "Mitsubishi Materials Corporation",
+    "publication_date": "2016-06-01",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "본문 첫 두 문단, 첨부 §3의 Osarizawa mine 행과 표의 출처 주석",
+    "url": "https://www.mmc.co.jp/corporate/en/news/2016/news20160601.pdf",
+    "accessed_at": "2026-11-16T05:00:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "후신 회사가 발표한 중국인 피해자 3명과의 화해와 사과, 첨부 표의 오사리자와 광산 배치 기록을 확인했다."
+    ],
+    "limitations": [
+      "2016년 사과·화해에 대한 당사자 기록이다. 역사 수치는 일본 외무성 조사에 근거하며, 전시 명부 원본이나 연합군 포로 수치는 이 문서에서 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Mitsubishi Materials settlement and Japanese foreign ministry tabulation"
+  },
+  {
+    "id": "CAT-JP-SRC-0106",
+    "title": "During Visit to Japan: Wiesenthal Center Official Commends Mitsubishi Materials President for Public Apology to Former Allied POW Forced Laborers During WWII",
+    "institution_or_author": "Simon Wiesenthal Center",
+    "publication_date": "2015-08-03",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "본문 첫 문단",
+    "url": "https://wiesenthal.org/news-archive-prior-to-2020/during-visit-to-japan",
+    "accessed_at": "2026-11-16T05:00:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "센터의 박물관에서 진행된 연합군 포로 강제노동 관련 미쓰비시머티리얼의 공개 사과를 확인했다."
+    ],
+    "limitations": [
+      "2015년 행사에 관한 참여 기관 기록이다. 전시 포로 인원이나 개별 광산별 인수·배치 자료는 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Simon Wiesenthal Center apology event"
+  },
+  {
+    "id": "CAT-JP-SRC-0107",
+    "title": "Osarisawa (Hanawa) Branch Camp (Sendai 6-B)",
+    "institution_or_author": "COFEPOW",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제목 아래 본문과 수용소 관할 이관 단락",
+    "url": "https://www.cofepow.org.uk/armed-forces-stories-list/osarisawa-hanawa-branch-camp-sendai-6-b",
+    "accessed_at": "2026-11-16T05:00:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "오사리자와 구리 광산의 운영 기업과 하나와 수용소 포로 노동을 확인했다."
+    ],
+    "limitations": [
+      "포로 가족단체의 후대 기록이며 공개 페이지에서 배치 인원의 원장 근거는 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "COFEPOW Hanawa memorial research"
+  },
+  {
+    "id": "CAT-JP-SRC-0108",
+    "title": "The Japan Year Book 1941–42",
+    "institution_or_author": "Foreign Affairs Association of Japan / The Japan Times Press",
+    "publication_date": "1941-10",
+    "source_type": "primary",
+    "document_or_accession_number": "NDL PID 12921681; Pros. Doc. No. 1756, part 1",
+    "locator": "34쪽 「Population of the Empire」1940년 표·주석; 제43장 발췌 「Geographical Features」",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/NDL12921681_Pros._Doc._No._1756-_%22Jap_Year_Book%22_part1.pdf",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동시대 연감의 1940년 10월 1일 6개 구역별 총수·합계와 해외 복무자 포함 주석을 확인했다."
+    ],
+    "limitations": [
+      "내각통계국 결과를 수록한 당대 연감이다. 각 지역 조사 원표 및 상세 분류는 미열람이다."
+    ],
+    "rights": "공개 원본 스캔. 집계 사실을 한국어로 요약하고 링크만 사용.",
+    "independence_group": "1940 Japanese Cabinet Statistics Bureau census",
+    "archive_url": "https://dl.ndl.go.jp/pid/12921681",
+    "additional_locators": [
+      {
+        "locator": "83쪽 「The Peace」",
+        "accessed_at": "2026-11-16T08:55:40+09:00",
+        "claims_checked": [
+          "당시 연감의 Changchung과 Hsinking 병기, 만주국 수도 설명을 확인했다."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0109",
+    "title": "昭和25年国勢調査報告 第1巻 人口総数 / Population Census of 1950, Volume I: Total Population",
+    "institution_or_author": "일본 총리부 통계국 (総理府統計局)",
+    "publication_date": "1951-11",
+    "source_type": "primary",
+    "document_or_accession_number": "e-Stat 000007914579",
+    "locator": "14–16쪽 「Area of Enumeration」 및 「Population Enumerated in Each Census」",
+    "url": "https://www.e-stat.go.jp/en/stat-search/file-download?fileKind=2&statInfId=000007914579",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 민간인·군인의 다른 귀속 방식, 1944년 가족 동거 군인 예외 및 1945년 조사 대상·71,998,104명 실측치를 확인했다."
+    ],
+    "limitations": [
+      "1950년 국세조사 보고서가 앞선 조사를 정리한다. 1940년 일부 본토 과거 표는 오키나와를 제외하는 등 연감과 공간 범위가 다르다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Japanese Statistics Bureau enumeration methods and 1945 returns"
+  },
+  {
+    "id": "CAT-JP-SRC-0110",
+    "title": "人口統計資料集",
+    "institution_or_author": "일본 후생성 인구문제연구소 (厚生省人口問題研究所)",
+    "publication_date": "1983-02-15",
+    "source_type": "secondary",
+    "document_or_accession_number": "연구자료 제230호",
+    "locator": "20쪽, 표 10(1)과 조사 구역 주석",
+    "url": "https://www.ipss.go.jp/syoushika/bunken/data/pdf/J08412.pdf",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940·1944·1945년 실측 총수, 조사 기준일, 오키나와 등의 조사·집계 제외 범위를 확인했다."
+    ],
+    "limitations": [
+      "원조사의 숫자를 모은 후대 자료집. 부기된 별도 오키나와 계열은 표에 기준일이 없어 전국 수치에 합산하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Japanese survey returns collated by Institute of Population Problems"
+  },
+  {
+    "id": "CAT-JP-SRC-0111",
+    "title": "Summation of Non-Military Activities in Japan, No. 8, Part IV: Social",
+    "institution_or_author": "General Headquarters, Supreme Commander for the Allied Powers",
+    "publication_date": "1946-05",
+    "source_type": "primary",
+    "document_or_accession_number": "No. 8 / 일본 내각부 공개 파일 b0604002_02_11",
+    "locator": "226쪽, Population Statistics §§60–62와 두 표",
+    "url": "https://www8.cao.go.jp/okinawa/okinawasen/pdf/b0604002_02/b0604002_02_11.pdf",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 11월 조사 성별 합계 71,996,477명, 누락 추정의 두 범주와 보정 7,290만 명을 확인했다."
+    ],
+    "limitations": [
+      "같은 일본 인구조사를 사용하면서 점령당국이 별도로 누락을 추정했다. 본문은 1940 기준일을 10월 5일, 표는 10월 1일로 써서 본문 날짜를 채택하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "SCAP population audit of Japanese survey returns"
+  },
+  {
+    "id": "CAT-JP-SRC-0112",
+    "title": "樺太庁",
+    "institution_or_author": "일본 아시아역사자료센터 (JACAR)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "관련 원문 A03022809000",
+    "locator": "「解説」1943년 3월 관제 개정, 「参考資料」",
+    "url": "https://www.jacar.go.jp/exhibition/glossary/term2/0050-0040-0030.html",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "가라후토의 내지 편입을 위해 1943년 3월 가라후토청 관제를 개정했다는 기록관 설명을 확인했다."
+    ],
+    "limitations": [
+      "기록관 해설을 확인했다. 링크된 관제 개정 원문은 이번 열람에서 접근하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JACAR Karafuto administrative glossary"
+  },
+  {
+    "id": "CAT-JP-SRC-0113",
+    "title": "Population of the Republic of Korea",
+    "institution_or_author": "United Nations ESCAP / 대한민국 경제기획원 조사통계국 협력",
+    "publication_date": "1975",
+    "source_type": "secondary",
+    "document_or_accession_number": "E/CN.11/1241; Country Monograph Series No. 2",
+    "locator": "제1장 A절, Table 3, 1940·1944년 행 및 Sources",
+    "url": "https://repository.unescap.org/server/api/core/bitstreams/a9d7ef46-d913-443f-bbf2-d84d60c4f618/content",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940·1944년 한반도 조사 총수와 조선인 수, 기준일을 구분했다."
+    ],
+    "limitations": [
+      "총독부 계열 조사와 한국 통계연감에 근거한 후대 종합이다. 1940년 총수를 별도 독립 실측으로 볼 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Korean census series compiled by ESCAP and EPB"
+  },
+  {
+    "id": "CAT-JP-SRC-0114",
+    "title": "令和2年国勢調査 最終報告書「日本の人口・世帯」第2部 第1章",
+    "institution_or_author": "일본 총무성 통계국",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「付表 各回調査における調査地域の人口」その1, 沖縄県·全国 행",
+    "url": "https://www.stat.go.jp/data/kokusei/2020/kekka/pdf/02-01.pdf",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "오키나와현의 1940년 574,579명과 1945년 칸 공란을 확인했다."
+    ],
+    "limitations": [
+      "역사 조사 수치를 다시 수록한 부표로서 1945년 별도 오키나와 인구를 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Statistics Bureau prefectural historical census tables"
+  },
+  {
+    "id": "CAT-JP-SRC-0115",
+    "title": "動態積上による日本人生年別人口の再構成と静態統計との比較―1944/45年の死亡構造推計をふまえて―",
+    "institution_or_author": "林 玲子 / 국립사회보장·인구문제연구소",
+    "publication_date": "2025-06",
+    "source_type": "secondary",
+    "document_or_accession_number": "人口問題研究 81(2), 147–166쪽",
+    "locator": "표 4 및 앞 문단, 1940년 외지와 만주국 관련 통계 서술",
+    "url": "https://ipss.repo.nii.ac.jp/record/2000512/files/j333.pdf",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "내지·외지 조사와 만주국의 별도 임시국세조사 및 외지별 통계 연보 목록을 확인했다."
+    ],
+    "limitations": [
+      "연구의 재구성 추계에는 다른 연도의 연령분포가 사용되기도 한다. 이 원고는 재구성 연령·사망 추계값을 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Hayashi research on Japanese population reconstruction"
+  },
+  {
+    "id": "CAT-JP-SRC-0116",
+    "title": "公文書に見る外地と内地：表から検索（年表：台湾／朝鮮）",
+    "institution_or_author": "일본 아시아역사자료센터 (JACAR)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1895년 4·6월 대만 행, 1910년 조선 행 및 전시기 행",
+    "url": "https://www.jacar.go.jp/exhibition/glossary/gaichitonaichi/table/history1.html",
+    "accessed_at": "2026-11-16T07:00:12+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대만·펑후의 일본 식민통치 및 조선의 별도 총독부 통치 범위를 확인했다."
+    ],
+    "limitations": [
+      "행정사 연표이며 인구 수치나 조사구의 미세한 경계는 주지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JACAR Taiwan and Korea administrative chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0117",
+    "title": "東京都制ヲ定メ〇府県制中〇市制中〇大正十一年法律第一号中〇地方税法中〇地方分与税法中ヲ改正ス",
+    "institution_or_author": "일본 내각 / 일본 국립공문서관 소장",
+    "publication_date": "1943",
+    "source_type": "primary",
+    "document_or_accession_number": "類02671100",
+    "locator": "「17. 東京都制」 첫 이미지·해설 및 「昭和7年 東京市35区」 도해와 범례",
+    "url": "https://www.archives.go.jp/exhibition/digital/henbou/contents/17.html",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "내각 문서의 東京都制 제목을 이미지에서 확인하고, 전시 해설의 시행일·부/시 폐지와 도해의 경계 구분을 대조했다."
+    ],
+    "limitations": [
+      "도해는 1932년의 행정 범위를 설명하는 후대 삽화이며 전시 각 구의 상세 경계를 인용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Japanese Cabinet Tokyo metropolitan reorganization"
+  },
+  {
+    "id": "CAT-JP-SRC-0118",
+    "title": "東京都制 昭和18年6月1日法律第89号",
+    "institution_or_author": "일본 국립국회도서관 일본법령색인",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "법령 ID 0000034715 / 昭和18年法律第89号",
+    "locator": "「法令の情報」 법률 번호·공포일과 「法案の情報」",
+    "url": "https://hourei.ndl.go.jp/simple/detail?current=-1&lawId=0000034715",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "법률 제89호와 1943년 6월 1일 공포를 확인했다."
+    ],
+    "limitations": [
+      "서지와 법령색인을 열람했다. 공포일은 시행일과 구별한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "NDL legal index Tokyo metropolitan law"
+  },
+  {
+    "id": "CAT-JP-SRC-0119",
+    "title": "京城市街全圖 / Keijo, Chosen Prefecture",
+    "institution_or_author": "일본어 바탕 지도 / 미 육군 지도국(AMS) 가필판 / 미국 의회도서관 지리·지도부",
+    "publication_date": "1942",
+    "source_type": "primary",
+    "document_or_accession_number": "LOC 공개 이미지 Figure5-web; 바탕 지도 1934",
+    "locator": "지도 이미지 우측 상단 한자 표제; 소장기관 글의 Figure 5 설명",
+    "url": "https://blogs.loc.gov/maps/files/2018/05/Figure5-web.jpg",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "지도 이미지에서 京城 표제를 직접 읽고 미측 사용본 연도와 바탕 지도 연도를 기관 설명에서 대조했다."
+    ],
+    "limitations": [
+      "영문 Keijo는 기관 설명의 표기다. 이 지도만으로 조선인 주민의 지명 사용이나 1942년 법정 경계를 알 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "LOC Seoul Japanese base map and 1942 American overlay",
+    "context_url": "https://blogs.loc.gov/maps/2018/05/maps-of-seoul-south-korea-under-japanese-occupation/"
+  },
+  {
+    "id": "CAT-JP-SRC-0120",
+    "title": "경성부 기록",
+    "institution_or_author": "서울기록원",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "OC-0001",
+    "locator": "「기록군 내용」의 관할과 명칭 전환 설명",
+    "url": "https://archives.seoul.go.kr/class/OC-0001",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "식민지기 경기도 경성부와 1946년 9월 28일의 지위 변화에 대한 기록원 설명을 확인했다."
+    ],
+    "limitations": [
+      "기록군 소개이며 1945~1946년 각 기관의 일상 용례를 전수 조사한 기록은 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Seoul Metropolitan Archives Kyongsong-bu record group"
+  },
+  {
+    "id": "CAT-JP-SRC-0121",
+    "title": "서울特別市의 設置 / The Establishment of the Special City of Seoul",
+    "institution_or_author": "재조선미국육군사령부군정청 / 국사편찬위원회 한국 현대 사료 DB",
+    "publication_date": "1946-09-18",
+    "source_type": "primary",
+    "document_or_accession_number": "군정법령 제106호 / gbmg_1946_09_18_a0012",
+    "locator": "국문 제1·2·4·5조, 문서 말미와 영문 대응 조항",
+    "url": "https://db.history.go.kr/contemp/gb/level.do?levelId=gbmg_1946_09_18_a0012",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "서울시의 경기도 분리·특별시 설치·8개 구 및 공포 후 10일 시행 규정을 확인했다."
+    ],
+    "limitations": [
+      "전사본의 문서 말미와 목록·해설의 전환일은 서로 다른 성격의 날짜다. 법령은 이미 서울시라는 명칭을 사용한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "USAMGIK ordinance 106"
+  },
+  {
+    "id": "CAT-JP-SRC-0122",
+    "title": "Taihoku-Matsuyama, Formosa City Plans",
+    "institution_or_author": "U.S. Army Map Service / University of Texas Libraries",
+    "publication_date": "1945-09",
+    "source_type": "primary",
+    "document_or_accession_number": "A.M.S. L991, First Edition AMS 1; txu-oclc-6565483",
+    "locator": "도엽 상단 제목과 시리즈·축척 표기; 제작·행정 세부는 CAT-JP-SRC-0123",
+    "url": "https://maps.lib.utexas.edu/maps/ams/formosa_city_plans/txu-oclc-6565483.jpg",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "스캔에서 TAIHOKU-MATSUYAMA 제목과 1:10,000 축척 표기를 확인했다."
+    ],
+    "limitations": [
+      "도엽과 현대 행정경계는 동일하지 않다. 인쇄월은 지도 해설의 도곽 판독에서 확인했다."
+    ],
+    "rights": "미 육군 제작 지도, 대학 도서관 공개 복제본. 인용은 표제·자체 요약·링크로 한정.",
+    "independence_group": "U.S. Army Map Service Taihoku city plan"
+  },
+  {
+    "id": "CAT-JP-SRC-0123",
+    "title": "二戰末期美軍所繪製臺灣相關地圖",
+    "institution_or_author": "대만 중앙연구원 인문사회과학연구센터 지리정보과학연구 전문센터",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Formosa City Plans A.M.S. L991 도엽 해제",
+    "locator": "제4절 그림 6, 도곽 자료 (1) 1–4 및 (2) 2·10·12",
+    "url": "https://gis.rchss.sinica.edu.tw/mapclub_202400808/",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도엽 해설에서 Taihoku shu, 지명 로마자 기준, 1944년 항공사진, 臺北市 등 행정구역, 1945년 9월 인쇄월을 대조했다."
+    ],
+    "limitations": [
+      "CAT-JP-SRC-0122와 같은 도엽을 분석한 해설이므로 별도의 독립 지도로 집계하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "U.S. Army Map Service Taihoku city plan"
+  },
+  {
+    "id": "CAT-JP-SRC-0124",
+    "title": "臺北歷史概述：歷史發展探源",
+    "institution_or_author": "臺北市政府",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "II 「日治時期」, III 「省轄市時期及直轄市時期」",
+    "url": "https://www.gov.taipei/cp.aspx?n=14D2637CBC4AAEC2",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "타이베이주와 도시의 관계를 설명하는 연혁 및 1945년 성 관할시 전환과 후속 편입을 확인했다."
+    ],
+    "limitations": [
+      "후대 행정 연혁이며 1945년 개편의 정확한 시행일이나 당일 경계는 원 법령에서 재확인해야 한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Taipei City Government municipal history"
+  },
+  {
+    "id": "CAT-JP-SRC-0125",
+    "title": "新京概觀",
+    "institution_or_author": "新京特別市公署·滿洲事情案內所 / 國立臺灣歷史博物館 소장",
+    "publication_date": "1936-06",
+    "source_type": "primary",
+    "document_or_accession_number": "2011.012.0342",
+    "locator": "첫 이미지 표제 및 소장 해설의 앞면 지도와 부속도 단락",
+    "url": "https://collections.culture.tw/Object?RNO=MjAxMS4wMTIuMDM0Mg%3D%3D&SYSUID=11",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "앞면 스캔의 新京概觀 표제, 소장 해설의 편찬 주체와 新京特別市 구역·수도계획 부속도 정보를 확인했다."
+    ],
+    "limitations": [
+      "전쟁에 이어진 행정명의 배경 자료다. 관광·계획용 도판으로 1939~1945년의 실제 경계는 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Hsinking Special Municipality contemporary map brochure"
+  },
+  {
+    "id": "CAT-JP-SRC-0126",
+    "title": "国都建設局",
+    "institution_or_author": "일본 국립공문서관 아시아역사자료센터 (JACAR)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "관련 사료 国都建設局官制 教令第88号",
+    "locator": "「解説」 수도 新京 및 1937년 신징특별시 산하 이관 단락",
+    "url": "https://www.jacar.go.jp/exhibition/glossary/term2/0050-0030-0040-0040-0100.html",
+    "accessed_at": "2026-11-16T08:55:40+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "만주국 수도로서 신징과 1937년 신징특별시 산하 기관의 업무 인계를 확인했다."
+    ],
+    "limitations": [
+      "행정기관 해설이다. 창춘에서 신징으로의 개칭 및 전후 환원의 시행일 근거는 아직 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JACAR Manchukuo capital construction institutional history"
+  },
+  {
+    "id": "CAT-JP-SRC-0127",
+    "title": "Japanese Expansion",
+    "institution_or_author": "작성자 미확인 / Harry S. Truman Library & Museum 소장",
+    "publication_date": "1945",
+    "source_type": "primary",
+    "document_or_accession_number": "M848 / Official File 651",
+    "locator": "지도 좌상단 범례, 1941년 11월·1942년 7월의 범위 표기와 소장 해제",
+    "url": "https://www.trumanlibrary.gov/maps/m848-map-japanese-expansion",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "스캔을 열어 서로 다른 시점의 선과 계획선·점령 표식이 분리됐음을 확인했다."
+    ],
+    "limitations": [
+      "소장 기록의 연도는 1945년이다. 광역 회고 지도이며 외곽선은 법적 국경이나 지역별 행정구가 아니다."
+    ],
+    "rights": "소장기관이 제한 여부 미확정으로 안내한다. 이미지 재게시 없이 링크만 사용.",
+    "independence_group": "Truman Library M848 expansion map"
+  },
+  {
+    "id": "CAT-JP-SRC-0128",
+    "title": "Treaty of Peace Between Japan and Russia / Portsmouth Treaty",
+    "institution_or_author": "일본·러시아 / 미국 국무부 FRUS 수록",
+    "publication_date": "1905-09-05",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1905, document 915",
+    "locator": "제5·6·9조",
+    "url": "https://history.state.gov/historicaldocuments/frus1905/d915",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "뤼순·다롄과 인접지의 조차권 승계, 철도 관련 권리 및 북위 50도 이남 사할린의 할양을 분리 확인했다."
+    ],
+    "limitations": [
+      "전쟁 전의 법적 배경이다. 이 조약으로 1945년 인계가 언제 이루어졌는지는 알 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Portsmouth treaty"
+  },
+  {
+    "id": "CAT-JP-SRC-0129",
+    "title": "Mandate for the German Possessions in the Pacific Ocean Lying North of the Equator",
+    "institution_or_author": "국제연맹 이사회 / 유엔 디지털도서관",
+    "publication_date": "1920",
+    "source_type": "primary",
+    "document_or_accession_number": "A.70",
+    "locator": "해당 위임문서 영문 표제와 제1·2조",
+    "url": "https://digitallibrary.un.org/record/837510/files/A_70-EN.pdf",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "적도 이북 옛 독일령 섬을 대상으로 일본에 위임된 통치 권한과 조건을 확인했다."
+    ],
+    "limitations": [
+      "문서의 지리 범위는 위임통치 당시 기준이다. 전시의 섬별 통제 변화나 신탁통치 시행은 다른 자료가 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "League of Nations Japanese Pacific mandate"
+  },
+  {
+    "id": "CAT-JP-SRC-0130",
+    "title": "Cairo Communiqué",
+    "institution_or_author": "미국·영국·중화민국 / 일본 국립국회도서관",
+    "publication_date": "1943-12-01",
+    "source_type": "primary",
+    "document_or_accession_number": "NDL 헌법 전시 1-1 / 002_46",
+    "locator": "영문 공개 안내와 대만·펑후·만주·한국 관련 문단",
+    "url": "https://www.ndl.go.jp/constitution/shiryo/01/002_46/002_46tx.html",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대만·펑후 등의 반환과 한국 독립에 관한 연합국의 발표 내용을 확인했다."
+    ],
+    "limitations": [
+      "공동성명의 전후 목표를 보여 준다. 지역별 군사 항복, 행정 인수, 조약 조문은 따로 확인했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Allied Cairo Communiqué"
+  },
+  {
+    "id": "CAT-JP-SRC-0131",
+    "title": "Potsdam Declaration",
+    "institution_or_author": "미국·영국·중화민국 / 일본 국립국회도서관",
+    "publication_date": "1945-07-26",
+    "source_type": "primary",
+    "document_or_accession_number": "NDL 헌법 전시 c06",
+    "locator": "제8항과 발행일",
+    "url": "https://www.ndl.go.jp/constitution/e/etc/c06.html",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "카이로 조건과 4대 섬 및 별도로 정해질 작은 섬에 관한 조건을 확인했다."
+    ],
+    "limitations": [
+      "제8항 자체에는 모든 작은 섬의 목록이 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Allied Potsdam proclamation"
+  },
+  {
+    "id": "CAT-JP-SRC-0132",
+    "title": "General Order No. 1 (Directive No. 1)",
+    "institution_or_author": "연합군최고사령부 / 나고야대 SCAPIN-DB",
+    "publication_date": "1945-09-02",
+    "source_type": "primary",
+    "document_or_accession_number": "SCAPIN-1",
+    "locator": "첨부 General Order Number 1 제1항 (a)–(e)",
+    "url": "https://jahis.law.nagoya-u.ac.jp/scapindb/docs/scapin-1",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대만, 만주, 한반도 북위 38도선 이북·이남, 가라후토, 지시마와 본토의 항복 접수 주체를 확인했다."
+    ],
+    "limitations": [
+      "항복 명령의 수령자 배정이다. 지역별 실제 서명일과 주권 처분은 다른 자료에 근거한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "SCAP General Order 1",
+    "additional_verified_passages": [
+      {
+        "accessed_at": "2026-11-16T17:19:26+09:00",
+        "locator": "제1항 (a)–(b) 및 제6·10항",
+        "claim": "1945-09-02 본토와 38선 이북의 항복 접수 주체 및 점령 협조 조항 확인."
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0133",
+    "title": "Governmental and Administrative Separation of Certain Outlying Areas from Japan",
+    "institution_or_author": "연합군최고사령부 / 나고야대 SCAPIN-DB",
+    "publication_date": "1946-01-29",
+    "source_type": "primary",
+    "document_or_accession_number": "SCAPIN-677",
+    "locator": "제3–6항",
+    "url": "https://jahis.law.nagoya-u.ac.jp/scapindb/docs/scapin-677",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 정부의 점령기 행정 범위와 제외 지명 및 제6항의 최종처분 유보를 확인했다."
+    ],
+    "limitations": [
+      "제3–4항에 적힌 지리 범위는 이 지령의 행정 목적에 적용했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "SCAP administrative separation directive"
+  },
+  {
+    "id": "CAT-JP-SRC-0134",
+    "title": "Treaty of Peace with Japan",
+    "institution_or_author": "샌프란시스코 강화조약 당사국 / 미국 국무부 판본·국사편찬위원회",
+    "publication_date": "1951-09-08",
+    "source_type": "primary",
+    "document_or_accession_number": "UNTS vol. 136, p.45, No.1832",
+    "locator": "제2조 (a)–(d), 제3·23조 및 유엔 조약 등록의 발효란",
+    "url": "https://db.history.go.kr/contemp/hihd/level.do?levelId=hihd_1951_09_08_0010",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "지역별 권리 포기, 류큐 등의 행정 관련 조문, 1951년 서명과 1952년 발효를 확인했다."
+    ],
+    "limitations": [
+      "제2조의 포기 문언을 지역별 인계일이나 수령국 조항으로 확대하지 않았다. 당사국·유보 등의 별도 검토는 남았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "San Francisco Treaty of Peace with Japan",
+    "registry_url": "https://treaties.un.org/pages/showDetails.aspx?objid=08000002801528c2"
+  },
+  {
+    "id": "CAT-JP-SRC-0135",
+    "title": "Post-World War Two Demobilization and Repatriation: Chronological Timeline",
+    "institution_or_author": "일본 아시아역사자료센터",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1945년 9월 9일 및 10월 25일 행",
+    "url": "https://www.jacar.go.jp/english/exhibition/glossary_en/fukuin-hikiage/table/history.html",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "서울과 타이베이의 지역별 항복 서명 날짜를 확인했다."
+    ],
+    "limitations": [
+      "기관의 전후 연표다. 지역별 서명문 내용이나 그날 모든 관청의 통제 범위는 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JACAR postwar surrender chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0136",
+    "title": "World War II Trail",
+    "institution_or_author": "싱가포르 국가유산위원회 (NHB)",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Introduction",
+    "url": "https://www.nhb.gov.sg/~/media/nhb/files/places/trails/world%20war%20ii/wwii-text.pdf",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "싱가포르 함락, 일본의 점령기 표기 Syonan-To와 1945년 9월 12일 현지 항복 서명을 확인했다."
+    ],
+    "limitations": [
+      "공식 역사 안내서다. 말라야 등 인접 점령지의 전체 군정 경계로 일반화하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Singapore National Heritage Board wartime heritage trail"
+  },
+  {
+    "id": "CAT-JP-SRC-0137",
+    "title": "千島列島・樺太",
+    "institution_or_author": "일본 아시아역사자료센터",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「解説」 지시마 행정과 1945년 사할린·지시마 군사 점령 문장",
+    "url": "https://www.jacar.go.jp/exhibition/glossary/term/0100-0040-0020.html",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "홋카이도청 네무로 지청 소속과 사할린 남부 8월, 지시마 8–9월의 점령 시기를 확인했다."
+    ],
+    "limitations": [
+      "일본 기관의 해설 중 전시 행정과 점령 시기를 이용했다. 현대 주권 판단이나 섬별 날짜는 확정하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JACAR Kuriles and Sakhalin wartime overview"
+  },
+  {
+    "id": "CAT-JP-SRC-0138",
+    "title": "公文書に見る外地と内地：表から検索（年表：関東州・満洲／樺太）",
+    "institution_or_author": "일본 아시아역사자료센터",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1932년 3·9월, 1933년 8월 및 관동주·만주국의 별도 열",
+    "url": "https://www.jacar.go.jp/exhibition/glossary/gaichitonaichi/table/history2.html",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "만주국 성립과 일본의 승인, 일본 정부의 지도 방침, 관동주와 별개인 행정 분류를 확인했다."
+    ],
+    "limitations": [
+      "연표 자료로는 1945년 각 도서와 조차지의 인계 시간 및 구역별 행정 연속성을 확정할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JACAR Kwantung Manchuria Karafuto administrative chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0139",
+    "title": "戦後沖縄の主な出来事",
+    "institution_or_author": "오키나와현 공문서관",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "관련 소장 자료 「米国海軍軍政府布告第1号」",
+    "locator": "1945년 미군의 오키나와 점령 항목",
+    "url": "https://www.archives.pref.okinawa.jp/ryukyu_government/5495",
+    "accessed_at": "2026-11-16T10:59:09+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미군 상륙 무렵 일본 행정권 정지와 미군 군정 개시에 대한 기록관 해설을 확인했다."
+    ],
+    "limitations": [
+      "오키나와 전후 행정 해설이며 류큐 전 도서에 동일한 날짜를 적용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Okinawa Prefectural Archives military government overview"
+  },
+  {
+    "id": "CAT-JP-SRC-0140",
+    "title": "The Effects of Strategic Bombing on Japan’s War Economy",
+    "institution_or_author": "U.S. Strategic Bombing Survey, Over-All Economic Effects Division",
+    "publication_date": "1946-12",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "p.28 표 16, 부표 C-30, pp.135, 140–144, 152–153 부표 C-50, C-54–55, C-65–66",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Effects%20of%20Strategic%20Bombing%20Japanese%20War%20Economy.pdf",
+    "accessed_at": "2026-11-16T12:56:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전체 PDF와 표 이미지를 열어 내지 강괴·완성강·알루미나·잉곳, Inner Zone 원유, 역년 생고무 반입·소비 및 합성고무 생산을 대조했다."
+    ],
+    "limitations": [
+      "종전 직후에 일본 기관 자료를 재편집했다. 고무 원표에는 미터톤 여부가 명기되지 않으며, 원유 표의 Inner Zone과 다른 표의 내지 경계를 동일시하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "USSBS Pacific"
+  },
+  {
+    "id": "CAT-JP-SRC-0141",
+    "title": "The War Against Japanese Transportation 1941–1945",
+    "institution_or_author": "U.S. Strategic Bombing Survey, Transportation Division",
+    "publication_date": "1947-05",
+    "source_type": "primary",
+    "document_or_accession_number": null,
+    "locator": "p.20, Self-Sufficiency Through the “Co-Prosperity Sphere” 절 및 Figure 18 참조 문장",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20War%20Against%20Japanese%20Transportation%201941-1945.pdf",
+    "accessed_at": "2026-11-16T12:56:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "원문에서 동남아 점령지 고무와 네덜란드령 동인도 석유 및 말라야·네덜란드령 동인도 보크사이트 반입의 지리적 맥락을 확인했다."
+    ],
+    "limitations": [
+      "남방 수송의 종전 후 재구성이며 산지별 채굴량·통계 경계는 이 절이 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "USSBS Pacific"
+  },
+  {
+    "id": "CAT-JP-SRC-0142",
+    "title": "Basic Materials Division, Report No. 1c(9), USSBS Index Section 2, part 3",
+    "institution_or_author": "U.S. Strategic Bombing Survey, Basic Materials Division / 일본 국립국회도서관 소장",
+    "publication_date": null,
+    "source_type": "primary",
+    "document_or_accession_number": "NDL PID 8318180 / Report No. 1c(9)",
+    "locator": "TABLE I 및 각주 (a)–(c)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/NDL8318180_Basic_Materials_Division._Report_No._1c%289%29%2C_USSBS_Index_Section_2_part3.pdf",
+    "accessed_at": "2026-11-16T12:56:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "회계연도 생산 집계에 일본·조선·대만이 포함되며 1942–1945년 잉곳 반입분은 만주에서 왔다는 각주를 대조했다."
+    ],
+    "limitations": [
+      "스캔의 표 I과 각주 범위만 사용했다. 장부의 지역별 수치를 분해하거나 최종 경제부 집계와 중복 합산하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "USSBS Pacific"
+  },
+  {
+    "id": "CAT-JP-SRC-0143",
+    "title": "The Japanese Iron and Steel Industry: A Study of the Magnitude of the Disarmament Problem",
+    "institution_or_author": "U.S. Department of State, Office of Research and Intelligence",
+    "publication_date": "1946-05-20",
+    "source_type": "primary",
+    "document_or_accession_number": "ORI No. 3300 / NDL PID 4010665",
+    "locator": "p.1 표 1과 각주, pp.6–7 §I.E.3–4와 p.6 각주 2",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/NDL4010665_No._3300%2C_20_May_1946%2C_Japanese_iron_and_steel_industry-_Study_of_magnitude_of_disarmamen....pdf",
+    "accessed_at": "2026-11-16T12:56:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "내지 강괴 설비 추계, 크롬광 생산·반입 및 상충치, 텅스텐광 평균 생산·반입을 대조했다."
+    ],
+    "limitations": [
+      "USSBS·폴리 조사단 등과 일부 근거를 공유한다. 1943년 크롬광 반입 수치의 두 원집계 범위와 광석의 품위는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "State Department ORI No. 3300",
+    "additional_verified_passages": [
+      {
+        "accessed_at": "2026-11-16T17:19:26+09:00",
+        "locator": "p.2 §I.B 및 p.3 표 2",
+        "claim": "종전 무렵 야하타·히로하타 선철과 강괴 능력 추계 및 일부 집계 범위 한계를 확인."
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0144",
+    "title": "More Valuable than Gold: Korean Tungsten and the Japanese War Economy, 1910 to 1945",
+    "institution_or_author": "Chad Denton / Seoul Journal of Korean Studies, 서울대학교 규장각한국학연구원",
+    "publication_date": "2013",
+    "source_type": "secondary",
+    "document_or_accession_number": "DOI 10.1353/seo.2013.0023 / KCI ART001849041",
+    "locator": "26(2), pp.361–395 서지와 KCI 공개 초록",
+    "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001849041",
+    "accessed_at": "2026-11-16T12:56:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공개 초록에서 식민지 조선산 텅스텐의 전쟁 말기 기여와 연구에 사용된 광업 보고·통계의 종류를 확인했다."
+    ],
+    "limitations": [
+      "열람 범위는 초록이다. 본문 표와 일본 내지 도착량은 확인하지 않았다."
+    ],
+    "rights": "KCI 공개 서지·초록. 자체 요약과 링크만 사용.",
+    "independence_group": "Denton Korean tungsten study"
+  },
+  {
+    "id": "CAT-JP-SRC-0145",
+    "title": "戦時期日本におけるクロロプレンゴムの国産化",
+    "institution_or_author": "安田裕 (Yutaka Yasuda) / 日本産業技術史学会",
+    "publication_date": "2017-03-30",
+    "source_type": "secondary",
+    "document_or_accession_number": "DOI 10.57381/jshit.21.1_45",
+    "locator": "技術と文明 21(1), pp.45–57, 특히 pp.56–57 결론과 영문 초록",
+    "url": "https://www.jstage.jst.go.jp/article/jshit/21/1/21_45/_pdf/-char/en",
+    "accessed_at": "2026-11-16T12:56:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공장 생산의 실현과 이를 뒷받침하는 동시대 공적 조사·기업 기록을 확인했다."
+    ],
+    "limitations": [
+      "클로로프렌 고무 연구로 합성고무 전체의 연간 생산량 또는 천연고무 반입량을 확증하지 않는다."
+    ],
+    "rights": "© 2017 日本産業技術史学会. 공개 열람 자료의 자체 요약과 링크만 사용.",
+    "independence_group": "Yasuda chloroprene study"
+  },
+  {
+    "id": "CAT-JP-SRC-0146",
+    "title": "官営企業都市八幡の財政構造（Ⅰ）―1896–1934年―",
+    "institution_or_author": "時里奉明 (Noriaki Tokisato) / 筑紫女学園大学研究紀要 17",
+    "publication_date": "2022",
+    "source_type": "secondary",
+    "document_or_accession_number": "대학 기관리포지터리 1094 / NDL I033040544",
+    "locator": "pp.2–3, 표 1 1938·1939년 행 및 출전",
+    "url": "https://chikushi-u.repo.nii.ac.jp/record/1094/files/kiyou_P01-17.pdf",
+    "accessed_at": "2026-11-16T15:01:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연구의 표 1에서 야하타제철소 종업원과 강재 생산 연도별 값을 대조했다."
+    ],
+    "limitations": [
+      "시사·현 통계·제철소 사사에서 재구성한 계열이다. 시설별 분해, 연도 내 인원 기준일, 도요제철 포함 여부는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Tokisato Yawata statistical synthesis",
+    "additional_verified_passages": [
+      {
+        "accessed_at": "2026-11-16T17:19:26+09:00",
+        "locator": "p.3 표 1, 1945년 행",
+        "claim": "개전 조사와 동일한 표의 야하타 1945년 강재 생산·종업원 수를 추가 대조."
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0147",
+    "title": "九州製鉄所",
+    "institution_or_author": "日本製鉄株式会社",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「九州製鉄所 沿革」 八幡 지구 1930·1934·1938년 행",
+    "url": "https://www.nipponsteel.com/company/publications/works_brochure/kyushu.pdf",
+    "accessed_at": "2026-11-16T15:01:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "히가시다·구키오카·도요제철을 나누어 제시한 1938년 고로 구성과 설립 연혁을 확인했다."
+    ],
+    "limitations": [
+      "현 기업의 회고 연혁이다. 1939년 당일의 가동이나 제철소 면적과 구역별 작업 능력은 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Nippon Steel Kyushu corporate history"
+  },
+  {
+    "id": "CAT-JP-SRC-0148",
+    "title": "広畑製鉄所30年史",
+    "institution_or_author": "広畑製鉄所創業30周年記念事業推進委員会 / 渋沢栄一記念財団",
+    "publication_date": "1970-09",
+    "source_type": "secondary",
+    "document_or_accession_number": "渋沢社史DB 4720 / A251",
+    "locator": "기본정보 및 디지털 전사 연표 p.6 1939년 5–8월, p.7 1939년 9–10월",
+    "url": "https://shashi.shibusawa.or.jp/details_nenpyo.php?class=&d=all&page=6&query=&sid=4720",
+    "accessed_at": "2026-11-16T15:01:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공사 장소와 처음 입항·부속설비 가동·고로 건조 및 10월 첫 화입·출선을 날짜별로 확인했다."
+    ],
+    "limitations": [
+      "자료는 전후 공장사의 공개 연표 전사다. 내역을 뒷받침한 공사일지와 원책 접지 도면은 열람하지 못했다."
+    ],
+    "rights": "© 渋沢栄一記念財団의 공개 전사. 한국어 요약과 링크만 사용.",
+    "independence_group": "Hirohata works 30-year chronology",
+    "additional_urls": [
+      "https://shashi.shibusawa.or.jp/details_basic.php?sid=4720",
+      "https://shashi.shibusawa.or.jp/details_nenpyo.php?class=&d=all&page=7&query=&sid=4720",
+      "https://www.nipponsteel.com/works/setouchi/hirohata/outline/"
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0149",
+    "title": "高炉技術の系統化",
+    "institution_or_author": "彼島秀雄 (Hideo Kanoshima) / 国立科学博物館 産業技術史資料情報センター",
+    "publication_date": "2010-03",
+    "source_type": "secondary",
+    "document_or_accession_number": "技術の系統化調査報告 第15集",
+    "locator": "pp.104–105 §5.1, 제철사업법·일본제철 설비 확충 단락",
+    "url": "https://sts.kahaku.go.jp/albums/abm.php?d=6689&f=abm00010767.pdf&n=061.pdf",
+    "accessed_at": "2026-11-16T15:01:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "히로하타의 건설계획 선철 규모와 제1고로 1939년 10월 가동을 확인했다."
+    ],
+    "limitations": [
+      "설비 계획과 후대 기술사 정리다. 첫 출선량은 공장사 자료에서 따로 읽었다. 다른 제철소의 연호-서기 병기 오기는 본문 수치에 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "National Museum of Nature and Science blast furnace history"
+  },
+  {
+    "id": "CAT-JP-SRC-0150",
+    "title": "태평양전쟁기 計劃造船과 식민지 造船工業",
+    "institution_or_author": "배석만 / 국사편찬위원회 國史館論叢 107",
+    "publication_date": "2005",
+    "source_type": "secondary",
+    "document_or_accession_number": "한국사DB kn_107_0110",
+    "locator": "pp.14–15 본문 및 p.14 주 44·47 표",
+    "url": "https://db.history.go.kr/download.do?fileName=kn_107_0110.pdf&levelId=kn_107_0110",
+    "accessed_at": "2026-11-16T15:01:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "겸이포의 가동·일본제철 편입·전시 조선용 강재 공급 및 1938·1939년 강재 실적표를 확인했다."
+    ],
+    "limitations": [
+      "표는 1959년 회사사 p.570을 인용한다. 이 연간 계열을 개전일의 가동이나 설비능력으로 환산하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Bae colonial shipbuilding and Kenjiho research",
+    "additional_verified_passages": [
+      {
+        "accessed_at": "2026-11-16T17:19:26+09:00",
+        "locator": "p.14 주 47 표, 1945년 열",
+        "claim": "겸이포의 1945년 강재 실적 11,641톤을 대조. 원 회사 통계는 직접 대조하지 못함."
+      }
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0151",
+    "title": "겸이포제철소 (兼二浦製鐵所)",
+    "institution_or_author": "배석만 / 한국학중앙연구원 한국민족문화대백과사전",
+    "publication_date": "2023-11-06 최종수정",
+    "source_type": "secondary",
+    "document_or_accession_number": "E0077988",
+    "locator": "설립목적·연원 및 변천·기능과 역할·현황",
+    "url": "https://encykorea.aks.ac.kr/Article/E0077988",
+    "accessed_at": "2026-11-16T15:01:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "식민지 황해도의 공장과 1934년 일본제철 분공장 편입, 전시 조선용 공급 및 현대 대응 명칭을 확인했다."
+    ],
+    "limitations": [
+      "같은 연구자의 논문과 독립된 생산통계로 세지 않았다. 초기 설비를 1939년 가동 설비로 적용하지 않았다."
+    ],
+    "rights": "한국학중앙연구원 공개 해제. 자체 요약과 링크만 사용.",
+    "independence_group": "Bae colonial shipbuilding and Kenjiho research"
+  },
+  {
+    "id": "CAT-JP-SRC-0152",
+    "title": "日本製鐵株式會社史：1934–1950",
+    "institution_or_author": "日本製鐵株式會社史編集委員会 / 渋沢栄一記念財団",
+    "publication_date": "1959-04",
+    "source_type": "secondary",
+    "document_or_accession_number": "渋沢社史DB 4940",
+    "locator": "디지털 전사 연표 p.14, 1936년 9월 행, 원책 p.636 참조",
+    "url": "https://shashi.shibusawa.or.jp/details_nenpyo.php?class=&d=all&page=14&query=&sid=4940",
+    "accessed_at": "2026-11-16T15:01:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "겸이포 공장의 강변 매립과 하역설비 준공 행을 확인했다."
+    ],
+    "limitations": [
+      "공개 연표를 대조했다. 원책 p.636의 현장 내역·하역 정격, p.570의 강재 실적 원표는 직접 읽지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Nippon Seitetsu 1934–1950 corporate history"
+  },
+  {
+    "id": "CAT-JP-SRC-0153",
+    "title": "Japan Iron Works (Nippon Seitetsu), Yawata Plant Operations During War Years",
+    "institution_or_author": "U.S. Strategic Bombing Survey, Basic Materials Division / 미국 NARA 원소장, 일본 국립국회도서관 마이크로필름",
+    "publication_date": "1945-11-03",
+    "source_type": "primary",
+    "document_or_accession_number": "Interrogation 290 / Report 2-t / RG 243 / USB-12 R8: 1000–1003 / NDL PID 4012538",
+    "locator": "스캔 1–4면. 1면 표제·면담 장소·요약 및 3–4면 가동 관련 문답",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/NDL4012538_Japan_Iron_Works%28Nippon_Seitetsu%29Yawata_Plant_Operations_during_War_Years%2C_Serial_No._290._Report_No._2-t%2C_USSBS_Index_Section_8.pdf",
+    "accessed_at": "2026-11-16T17:19:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "야하타 회사 사무소 면담 원문을 열어 종전 뒤 진술된 수송 병목 및 원료 부족과 실제 가동의 관계를 확인했다."
+    ],
+    "limitations": [
+      "관리·현장 관계자의 사후 구술이다. 1945-09-02의 가동일지와 동일하지 않으며 ORI가 인용한 자료군과 일부 공유될 수 있다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "USSBS Pacific"
+  },
+  {
+    "id": "CAT-JP-SRC-0154",
+    "title": "広畑製鉄所50年史：創造と挑戦・総合史",
+    "institution_or_author": "新日本製鉄 広畑製鉄所 / 渋沢栄一記念財団 공개 연표",
+    "publication_date": "1990-07",
+    "source_type": "secondary",
+    "document_or_accession_number": "渋沢社史DB 4730",
+    "locator": "연표 웹 7–8쪽, 1945년 7–9월·1946년 1월 및 1945년 인원·조강 집계",
+    "url": "https://shashi.shibusawa.or.jp/details_nenpyo.php?class=&d=all&page=7&query=&sid=4730",
+    "accessed_at": "2026-11-16T17:19:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "두 고로의 뱅킹과 송풍, 평로 전부 휴지, 1945년 인력과 조강 표기를 대조했다."
+    ],
+    "limitations": [
+      "후대 기업 연표다. 날짜 사이 연속 가동, 9월 2일 당일 생산과 원본 작업일지는 미확인이다. 30년사와 기업 기록을 공유할 수 있다."
+    ],
+    "rights": "© 渋沢栄一記念財団 공개 연표. 자체 요약과 링크만 사용.",
+    "independence_group": "Hirohata works corporate chronology",
+    "additional_urls": [
+      "https://shashi.shibusawa.or.jp/details_nenpyo.php?class=&d=all&page=8&query=&sid=4730"
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0155",
+    "title": "해방 직후 한반도 북부 공업 상황에 대한 소련 민정청의 조사 보고 / Д. 40 - Ⅵ. 흑색금속공업",
+    "institution_or_author": "북한주재 소련 민정청 / 러시아 외무부 대외정책문서보관소 원소장 / 국사편찬위원회 국역",
+    "publication_date": "1948",
+    "source_type": "primary",
+    "document_or_accession_number": "АВПРФ Ф.0480 Оп.4 П.13 Д.40 / 한국현대사료DB fs_036_0020",
+    "locator": "VI. 철강 기업에 관한 기본 자료 겸이포 행 및 「4. 고로」 황해 합계 행",
+    "url": "https://db.history.go.kr/contemp/level.do?levelId=fs_036_0020&types=o",
+    "accessed_at": "2026-11-16T17:19:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "고로 3기와 1,428m³ 합계, 1945년 고로 생산과 계획 산출을 원자료 공개 국역에서 확인했다."
+    ],
+    "limitations": [
+      "1948년 회고 조사다. 기본 표의 계획량과 고로 표의 계획량은 서로 다르며 동일 범위인지 불명이다. 원어 이미지, 1945-09-02 실사나 인계 장부는 미확인이다."
+    ],
+    "rights": "국사편찬위원회 공개 번역. 자체 요약과 링크만 사용.",
+    "independence_group": "Soviet Civil Administration industrial survey 1948",
+    "additional_urls": [
+      "https://db.history.go.kr/contemp/level.do?levelId=fs_036"
+    ]
+  },
+  {
+    "id": "CAT-JP-SRC-0156",
+    "title": "해방 후 북한 각 지역의 인민위원회 수립과 소련군 주둔",
+    "institution_or_author": "국사편찬위원회, 신편 한국사 제52권 대한민국의 성립",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "우리역사넷 nh_052_0050_0020",
+    "locator": "Ⅳ.2.1, 주 689 관련 경무사령부 문단",
+    "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_052_0050_0020",
+    "accessed_at": "2026-11-16T17:19:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "8월 26일 평양의 총사령부와 황해도 해주 등을 포함한 지역 주둔 및 일본인 소유 기업 관리의 맥락을 확인했다."
+    ],
+    "limitations": [
+      "지역 단위 점령·관리의 서술이다. 겸이포 공장 당일의 인수 시각이나 현장 관리자를 특정할 수 없다."
+    ],
+    "rights": "국사편찬위원회 공개 본문. 자체 요약과 링크만 사용.",
+    "independence_group": "NIKH Modern History vol.52"
+  },
+  {
+    "id": "CAT-JP-SRC-0157",
+    "title": "Chronology, 1941–1945",
+    "institution_or_author": "Mary H. Williams 편 / U.S. Army Center of Military History",
+    "publication_date": "1989 (초판 1960)",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 11-1 / LC 59-60002",
+    "locator": "p.551, 1945-08-28 및 08-30 행",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/11-1.pdf",
+    "accessed_at": "2026-11-16T17:19:26+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 본토 점령의 선발대 진주와 본격 진주 날짜를 대조했다."
+    ],
+    "limitations": [
+      "공식 군사 연표다. 야하타·히로하타 개별 공장 인계일을 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "US Army official chronology"
+  },
+  {
+    "id": "CAT-JP-SRC-0158",
+    "title": "所沢飛行場ものがたり年表",
+    "institution_or_author": "所沢航空発祥記念館",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "전시 패널 TAP11",
+    "locator": "다이쇼 10년, 쇼와 8–19년의 제3·4차 확장 및 학교 연표, 쇼와 53년 행",
+    "url": "https://tam-web.jsf.or.jp/wp-content/uploads/TAP11.pdf",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "확장 단계별 총면적, 창고 준공, 정비학교 신설과 항공기술학교 이전 행을 열어 확인했다."
+    ],
+    "limitations": [
+      "후대 연표이며 총부지 면적이다. 1939년 필지·활주로·가동 장부와는 해상도가 다르다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Tokorozawa Aviation Museum timeline"
+  },
+  {
+    "id": "CAT-JP-SRC-0159",
+    "title": "米軍所沢通信基地 返還運動のあゆみ（基地対策2022）",
+    "institution_or_author": "所沢市・所沢市基地対策協議会",
+    "publication_date": "2022",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "p.1 「所沢飛行場の歴史」의 개설 부지와 항공교육 문단",
+    "url": "https://www.city.tokorozawa.saitama.jp/kurashi/dourokoutsuu/begunkichi/kichi-shiryo.files/tokorozawashikitikyopanf2022kaitei.pdf",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1911년 4월 개설 당시 부지 약 76만 m², 활주로 1본 및 400×50m와 비행·정비교육 맥락을 확인했다."
+    ],
+    "limitations": [
+      "현 시의 후대 연혁이다. 개설 면적은 1939년의 착륙장 면적에 적용할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Tokorozawa municipal land history"
+  },
+  {
+    "id": "CAT-JP-SRC-0160",
+    "title": "陸軍航空整備学校令 (일본법령색인)",
+    "institution_or_author": "일본 국립국회도서관 일본법령색인",
+    "publication_date": "1938-07-01 (공포)",
+    "source_type": "secondary",
+    "document_or_accession_number": "勅令第470号 / lawId 0000027855",
+    "locator": "§1 공포 정보, §5 본문 배포처",
+    "url": "https://hourei.ndl.go.jp/simple/detail?current=-1&lawId=0000027855",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "색인에서 공포일과 문서번호를 확인했다."
+    ],
+    "limitations": [
+      "원문 아카이브 링크가 403을 반환했다. 법령 내용이나 현지 개교일은 색인으로 확정하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "NDL Japanese Laws Index"
+  },
+  {
+    "id": "CAT-JP-SRC-0161",
+    "title": "立川飛行場のあゆみ",
+    "institution_or_author": "立川市歴史民俗資料館",
+    "publication_date": "2006-07 개정",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「立川飛行場年表」 1922·1939·1945년 행 및 「基地跡地の利用」",
+    "url": "https://www.city.tachikawa.lg.jp/_res/projects/default_project/_page_/001/004/905/7tatikawahikoujou.pdf",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제5비행대대 이전, 1939년 4월 항공기술학교 설치 항목과 옛 부지의 공원화를 확인했다."
+    ],
+    "limitations": [
+      "전시 해제는 설치와 실제 교사별 사용을 나누어 제시하지 않는다. 사진 시기와 통계 범위는 개별 확인이 필요하다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Tachikawa municipal museum"
+  },
+  {
+    "id": "CAT-JP-SRC-0162",
+    "title": "昭和初期における多摩地域の工業化",
+    "institution_or_author": "星野朗 / 駿台史学会, 駿台史学 105",
+    "publication_date": "1998-12",
+    "source_type": "secondary",
+    "document_or_accession_number": "Meiji repository 4242 / handle 10291/13372",
+    "locator": "다치카와 항공기 공업과 비행장 서술, 1939년 이전과 1942년 활주로 확장 단락",
+    "url": "https://meiji.repo.nii.ac.jp/record/4242/files/sundaishigaku_105_117.pdf",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "항공기술학교 이전, 항공창의 정비·보급 역할, 활주로 2,000m의 1942년 확장 시점을 본문에서 대조했다."
+    ],
+    "limitations": [
+      "지역 공업화 연구로 비행장 당일 편제와 원도면·측정치를 제공하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Hoshino regional industrial history"
+  },
+  {
+    "id": "CAT-JP-SRC-0163",
+    "title": "土浦海軍航空隊、誕生 前編",
+    "institution_or_author": "予科練平和記念館 / 阿見町 『広報あみ』",
+    "publication_date": "2020-09-25",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "10월호 p.17 「予科練平和記念館だより」",
+    "url": "https://www.town.ami.lg.jp/cmsfiles/contents/0000007/7026/web200925all.pdf",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "육상·수상반 구분, 가시마 이전, 예과연습부의 1939년 이전 및 쓰치우라의 1940년 독립을 확인했다."
+    ],
+    "limitations": [
+      "후대 전시 해설이다. 옛 수상반과 이후 독립 부대의 행정 경계·1939년 기체 배치는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Ami museum Yokaren history"
+  },
+  {
+    "id": "CAT-JP-SRC-0164",
+    "title": "飛行豫科練習生志願者入隊時検査並ニ第二次検査ニ関スル件",
+    "institution_or_author": "三重縣 學務部長 / 미에현 공보 PDF",
+    "publication_date": "1939-02-08",
+    "source_type": "primary",
+    "document_or_accession_number": "社兵第324号",
+    "locator": "공보 수록 통지 제II–III항, 검사 장소와 기간",
+    "url": "https://www.pref.mie.lg.jp/common/content/000364403.pdf",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동시대 통지의 가스미가우라 검사 장소와 두 예정 기간을 읽었다."
+    ],
+    "limitations": [
+      "입대 검사 일정의 사전 공지다. 실시 여부·응시자 수·기지 시설 수용능력은 적혀 있지 않다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Mie prefectural gazette 1939"
+  },
+  {
+    "id": "CAT-JP-SRC-0165",
+    "title": "参議院議員池田恒雄君提出土浦飛行場等に関する質問に対する答弁書",
+    "institution_or_author": "일본 내각총리대신 吉田茂 / 参議院",
+    "publication_date": "1949-02-23",
+    "source_type": "primary",
+    "document_or_accession_number": "第5回国会 答弁書第11号・内閣参甲第14号",
+    "locator": "一甲 1–3 및 一乙, 종전 당시의 시설 재산 집계",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/005/touh/t005011.htm",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "가스미가우라의 종전 당시 부지, 건물 및 격납시설, 분리된 쓰치우라의 별도 집계를 확인했다."
+    ],
+    "limitations": [
+      "종전 당시를 회고한 정부 답변이다. 1939년 부지의 경계와 격납 대수를 재현하는 수치로 사용할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Japanese Cabinet parliamentary reply no.11"
+  },
+  {
+    "id": "CAT-JP-SRC-0166",
+    "title": "所沢の足跡 ～航空編～",
+    "institution_or_author": "所沢市立図書館",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「所沢陸軍航空整備学校」, 쇼와 16년 항공기술학교 이전 문장",
+    "url": "https://www.tokorozawa-library.jp/contents/history/history_hikougakko.html",
+    "accessed_at": "2026-11-16T19:13:59+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "다치카와 이전을 1941년으로 서술하는 해설을 확인했다."
+    ],
+    "limitations": [
+      "전시 연표·다치카와 지역 학술연구의 1939년과 상충한다. 단계별 이전과 기록 출전은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Tokorozawa City Library historical essay"
+  },
+  {
+    "id": "CAT-JP-SRC-0167",
+    "title": "特別企画展 大和戦艦大和展 —新発見による艦橋復元—",
+    "institution_or_author": "呉市海事歴史科学館（大和ミュージアム）",
+    "publication_date": "2013–2014 전시",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「SHIP BUILDING　ものづくりをたどる」 첫 문단",
+    "url": "https://yamato-museum.com/press/wp-content/uploads/tk_2013.pdf",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공창 설비, 기존 도크 개조와 바닥 굴착 1 m, 1937년 야마토 기공을 확인했다."
+    ],
+    "limitations": [
+      "후대 전시 해설. 도크 최종 수심·군항 총 처리능력 및 당일 작업일지는 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Kure Maritime Museum"
+  },
+  {
+    "id": "CAT-JP-SRC-0168",
+    "title": "呉のおはなし❽ 戦艦「大和」の建造",
+    "institution_or_author": "呉市海事歴史科学館（大和ミュージアム）",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「大和」 및 「ひみつの戦艦『大和』」",
+    "url": "https://yamatomuseum.securesite.jp/annex/?page_id=3169",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "구레공창에서 1941-12-16 준공과 조선 선거 이용 서술을 확인했다."
+    ],
+    "limitations": [
+      "0167과 같은 박물관 계통이다. 1939년 실측·운영량에 대한 독립 증거로 간주하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Kure Maritime Museum"
+  },
+  {
+    "id": "CAT-JP-SRC-0169",
+    "title": "歴史の見える丘",
+    "institution_or_author": "呉市",
+    "publication_date": "2018-04-01 갱신",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「歴史の見える丘」 및 「造船船渠記念碑」",
+    "url": "https://www.city.kure.lg.jp/soshiki/67/m000050.html?iref=pc_extlink",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "옛 진수부 청사와 야마토 조선 선거의 구분, 선거 매립과 기념물 조성을 확인했다."
+    ],
+    "limitations": [
+      "후대 유적 해설이다. 옛 군항의 법적 경계나 전시 도크 가동 수치는 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Kure municipal heritage"
+  },
+  {
+    "id": "CAT-JP-SRC-0170",
+    "title": "舞鶴鎮守府",
+    "institution_or_author": "国立公文書館 アジア歴史資料センター",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「解説」 및 「参考資料」",
+    "url": "https://www.jacar.go.jp/exhibition/glossary/term3/0010-0080-0110-0110.html",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936-07-01 공창 복구, 1939-12-01 진수부 복귀를 확인했다."
+    ],
+    "limitations": [
+      "후대 기록관 해제이며 인용 문헌의 페이지 위치가 있다. 개편 시점은 해군공보와 대조했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "JACAR glossary citing Iizuka"
+  },
+  {
+    "id": "CAT-JP-SRC-0171",
+    "title": "海軍公報（部内限）第三千三百七十三號",
+    "institution_or_author": "日本 海軍省 / JACAR",
+    "publication_date": "1939-12-01",
+    "source_type": "primary",
+    "document_or_accession_number": "제3373호 / JACAR C12070382200",
+    "locator": "인쇄 pp. 1191·1194–1195, 官房機密第6765號ノ二 및 군수·회계 규정 개정",
+    "url": "https://www.jacar.archives.go.jp/acv/contents/pub/pdf/C12/C12070382200.c1060e00009.0hourei_14_024.1191_01.pdf",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "해군공보 PDF 판독문에서 진수부 표기와 요항부 관련 문구의 삭제·개정을 확인했다."
+    ],
+    "limitations": [
+      "개정 문서이며 9월의 도크·보급 실적과 개편 전후 시설 경계의 실측은 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Imperial Japanese Navy internal gazette"
+  },
+  {
+    "id": "CAT-JP-SRC-0172",
+    "title": "国指定重要文化財建造物 舞鶴旧鎮守府倉庫施設 保存活用計画",
+    "institution_or_author": "舞鶴市",
+    "publication_date": "2021-03",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제1장 §1-2(2) 및 표 1.3.1–2",
+    "url": "https://www.city.maizuru.kyoto.jp/cmsfiles/contents/0000008/8823/sankou_3.pdf",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "창고 두 동의 건축면적·준공·1923년 소관 변경을 확인했다."
+    ],
+    "limitations": [
+      "문화재 실태 조사와 연혁의 정리다. 1939년 실측·저장능력·입출고량은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Maizuru conservation plan"
+  },
+  {
+    "id": "CAT-JP-SRC-0173",
+    "title": "舞鶴旧鎮守府倉庫施設 舞鶴海軍兵器廠魚形水雷庫",
+    "institution_or_author": "文化庁 国指定文化財等データベース",
+    "publication_date": "2008-06-09 지정",
+    "source_type": "secondary",
+    "document_or_accession_number": "지정번호 02528 / 102/00004276",
+    "locator": "각 동 정보, 연대·구조 및 형식·해설",
+    "url": "https://kunishitei.bunka.go.jp/heritage/detail/102/00004276",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "어형수뢰고의 1903년 및 건축면적 424.36 m²를 시 계획과 대조했다."
+    ],
+    "limitations": [
+      "두 기관 자료 모두 문화재 지정 기록과 관련된다. 독립 실측 여부는 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Agency for Cultural Affairs heritage designation"
+  },
+  {
+    "id": "CAT-JP-SRC-0174",
+    "title": "横須賀製鉄所（造船所）と近代横須賀のゆかりの場所",
+    "institution_or_author": "横須賀市",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "「ドライドック」 일람표 제1–6호 및 제6호 해설",
+    "url": "https://www.city.yokosuka.kanagawa.jp/2120/seitetsuzyo/documents/yokosuka_arsenal_ver20161220.pdf",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제1–5호 준공 연도, 제6호의 1935년 착공·1940년 준공과 시나노 건조를 표 및 해설에서 확인했다."
+    ],
+    "limitations": [
+      "일람표는 미 해군 제공 자료를 바탕으로 정리했다. 치수의 측정 시점과 1939년 가동은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Yokosuka municipal survey brochure"
+  },
+  {
+    "id": "CAT-JP-SRC-0175",
+    "title": "実物と図面が日本遺産－横須賀製鉄所の石造ドック",
+    "institution_or_author": "菊地 / 横須賀市自然・人文博物館",
+    "publication_date": "2017-09-28",
+    "source_type": "secondary",
+    "document_or_accession_number": "石井穎一郎氏寄贈近代造船所建築図面資料(소장군)",
+    "locator": "본문 석조 도크 및 소장 도면 단락",
+    "url": "https://www.museum.yokosuka.kanagawa.jp/archives/nature-history/24890",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제1·3·2호의 1871·1874·1884년 준공과 원도면 소장 정보를 확인했다."
+    ],
+    "limitations": [
+      "도면은 소장 정보까지만 확인했다. 공창 전체의 1939년 제원과 개수 기록은 미확인이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "Yokosuka museum architectural history"
+  },
+  {
+    "id": "CAT-JP-SRC-0176",
+    "title": "本州の横須賀への最初の占領軍の到着　1945年8月 (소장 목록)",
+    "institution_or_author": "昭和館 / 원촬영 미 해병대, NARA",
+    "publication_date": "1945-08-30 촬영일 표기, 목록 작성일 미상",
+    "source_type": "secondary",
+    "document_or_accession_number": "V1R0101201540 / NARA 127-R-2513",
+    "locator": "목록 「撮影年月」 및 「内容」의 8월 30일과 9월 2일 구분",
+    "url": "https://search.showakan.go.jp/search/video/detail.php?id=90148851",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "8월 30일 요코스카 군항 진주를 적은 소장 목록을 열었다."
+    ],
+    "limitations": [
+      "웹의 자료 해제만 확인했다. 필름 프레임·타임코드는 미확인이다."
+    ],
+    "rights": "자료 이용은 쇼와관의 영상·음향 이용 안내를 따른다. 소장 목록 링크만 사용.",
+    "independence_group": "Showakan catalog of USMC film"
+  },
+  {
+    "id": "CAT-JP-SRC-0177",
+    "title": "第1059号 11.4.20 呉海軍工廠造船部造船船渠改設工事要領変更の件",
+    "institution_or_author": "日本 海軍省 / 防衛省防衛研究所・JACAR",
+    "publication_date": "1936-04-20 (색인 표기)",
+    "source_type": "primary",
+    "document_or_accession_number": "官房機密第1059号 / JACAR C05035232400",
+    "locator": "검색 색인의 제목·문서번호까지만 식별, 본문 위치 미확인",
+    "url": "https://www.jacar.archives.go.jp/das/meta/C05035232400",
+    "accessed_at": "2026-11-16T21:18:16+09:00",
+    "access_status": "inaccessible",
+    "claims_checked": [],
+    "limitations": [
+      "JACAR 문서 주소 HTTP 403 및 이미지 보기 주소 접근 불가. 명령 본문·별지는 미열람이다."
+    ],
+    "rights": "원문 이미지 미열람으로 개별 이용조건 미확인. 기록 주소만 연결.",
+    "independence_group": "Imperial Japanese Navy construction order"
+  }
+]

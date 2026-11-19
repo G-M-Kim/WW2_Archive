@@ -1,0 +1,68 @@
+{
+  "step": 51,
+  "job_id": "CAT-GB-13",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 13,
+  "category": "당시 기준 지명",
+  "article_path": "categories/united-kingdom/13-historical-place-names.md",
+  "status": "partial",
+  "completed_at": "2026-11-13T05:07:44+09:00",
+  "started_at": "2026-11-13T05:02:26+09:00",
+  "base_head": "f79cacd23c9224a4a602dbbff0dd32e0ec25a36a",
+  "source_ids": [
+    "CAT-GB-SRC-0123",
+    "CAT-GB-SRC-0132",
+    "CAT-GB-SRC-0133",
+    "CAT-GB-SRC-0134",
+    "CAT-GB-SRC-0135",
+    "CAT-GB-SRC-0136",
+    "CAT-GB-SRC-0137",
+    "CAT-GB-SRC-0138",
+    "CAT-GB-SRC-0139",
+    "CAT-GB-SRC-0140"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0052",
+    "CAT-GB-RQ-0053",
+    "CAT-GB-RQ-0054"
+  ],
+  "entity_ids": [
+    "CAT-GB-GEO-0001",
+    "CAT-GB-GEO-0005",
+    "CAT-GB-GEO-0006",
+    "CAT-GB-GEO-0007"
+  ],
+  "research_scope": "런던데리 항구 도시, 싱가포르의 점령기 지명, 랑군의 전시 영어 표기를 영국과 연합군 문서·신문 및 지도 목록과 대조했다.",
+  "limitations": [
+    "싱가포르 전시 지도 두 점의 범례와 경계는 이미지 접근 오류로 직접 판독하지 못했다.",
+    "일본 군정 명명 법령의 정확한 발효일·일본어 원문, 런던데리·랑군의 전시 현지어와 도시 경계는 미확인이다.",
+    "본토·도미니언·식민지 및 위임통치 지역의 대표 세 사례 이후 범위가 남았다."
+  ],
+  "evidence_checked": [
+    "1945년 Hansard 제416권 열 30–31, NARA RG 181 §181.6.5, 북아일랜드 고등법원 [2007] NIQB 5",
+    "NAS SP001565_1·TM000984 캡션, NewspaperSG 제294호 1쪽 전사, NAS 점령기 전시 해설",
+    "The London Gazette No. 39202 p. 2127, AWM SUK14339 소장 정보, UK PCGN Myanmar 각주 12 및 Yangon 행, 인도 인구조사 표 I 설명"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://corporate.nas.gov.sg/discover-archives/media/nasmapcollection/",
+      "result": "SP001565_1과 TM000984 연결 이미지 요청은 오류가 났다. 보존기관의 캡션을 읽고 별도 점령기 신문 전사·연합군 보고를 대조했다."
+    },
+    {
+      "url": "https://biblioasia.nlb.gov.sg/files/pdf/vol-10/issue-4/v10-issue4_NASMaps.pdf",
+      "result": "텍스트는 열람했으나 PDF 페이지 이미지 요청은 404였다. 원도 이미지 판독은 미확인으로 남겼다."
+    },
+    {
+      "url": "https://calmview.derbyshire.gov.uk/calmview/Record.aspx?id=D6022%2F9%2F7&src=CalmView.Catalog",
+      "result": "기록관 상세 조회가 502로 실패했다. 랑군 표기는 관보의 지휘관 보고 원문에서 확인했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=51 pending=82; sources=577 questions=209. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

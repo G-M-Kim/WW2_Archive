@@ -1,0 +1,63 @@
+{
+  "step": 65,
+  "job_id": "CAT-US-08",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 8,
+  "category": "유명한 정치 인물",
+  "article_path": "categories/united-states/08-political-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-14T08:55:34+09:00",
+  "started_at": "2026-11-14T08:51:01+09:00",
+  "base_head": "dded3189a6c801fce6254e23e8aa0d14be003b5a",
+  "source_ids": [
+    "CAT-US-SRC-0039",
+    "CAT-US-SRC-0075",
+    "CAT-US-SRC-0076",
+    "CAT-US-SRC-0077",
+    "CAT-US-SRC-0078",
+    "CAT-US-SRC-0079",
+    "CAT-US-SRC-0080",
+    "CAT-US-SRC-0081",
+    "CAT-US-SRC-0082",
+    "CAT-US-SRC-0083",
+    "CAT-US-SRC-0084",
+    "CAT-US-SRC-0085",
+    "CAT-US-SRC-0086"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0032",
+    "CAT-US-RQ-0033",
+    "CAT-US-RQ-0034",
+    "CAT-US-RQ-0035"
+  ],
+  "entity_ids": [
+    "CAT-US-PER-0004",
+    "CAT-US-PER-0005",
+    "CAT-US-PER-0006"
+  ],
+  "research_scope": "루스벨트·트루먼·헐의 전시 직책과 정책 결정, 행정명령 9066호, 연합국 정상외교, 포츠담 선언과 국제기구 구상.",
+  "limitations": [
+    "지역별 군 배제 명령과 의회 위원회 보고서 전체는 미열람이다.",
+    "포츠담 선언의 참가국별 내부 협상·일본 측 기록은 미대조다.",
+    "헐의 임명 종료는 국무부 인사표를 사용했다. 도입부의 상이한 날짜와 다른 정치 인물은 후속 과제다."
+  ],
+  "evidence_checked": [
+    "행정명령 9066호 판면·전사, Public Law 100-383 §§1–2, 얄타 공동 발표문 No. 1417.",
+    "트루먼의 7월 25일 서한, 주중 대사 7월 26일 전문, 포츠담 선언과 항복문서.",
+    "모스크바 의정서·부속서, 헐의 국제기구 메모와 사임 서한 및 국무부 인사표."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.archives.gov/research/japanese-americans/justice-denied/summary.pdf",
+      "result": "보고서 요약 PDF가 응답 크기 한도를 초과했다. 위원회 원문 대신 별도로 열람한 1988년 의회 법문으로 사후 판단을 확인했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=65 pending=68; sources=712 questions=263. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

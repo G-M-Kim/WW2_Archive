@@ -1,0 +1,67 @@
+{
+  "step": 58,
+  "job_id": "CAT-US-01",
+  "country_code": "US",
+  "country": "미국",
+  "country_folder": "united-states",
+  "category_number": 1,
+  "category": "전차장비, 무장, 성능",
+  "article_path": "categories/united-states/01-tanks.md",
+  "status": "partial",
+  "completed_at": "2026-11-13T19:03:04+09:00",
+  "started_at": "2026-11-13T18:56:52+09:00",
+  "base_head": "d4abf73bb3248433534dba8c4fd82970c441a9b1",
+  "source_ids": [
+    "CAT-US-SRC-0017",
+    "CAT-US-SRC-0018",
+    "CAT-US-SRC-0019",
+    "CAT-US-SRC-0020",
+    "CAT-US-SRC-0021",
+    "CAT-US-SRC-0022",
+    "CAT-US-SRC-0023",
+    "CAT-US-SRC-0024",
+    "CAT-US-SRC-0025"
+  ],
+  "question_ids": [
+    "CAT-US-RQ-0004",
+    "CAT-US-RQ-0005",
+    "CAT-US-RQ-0006",
+    "CAT-US-RQ-0007"
+  ],
+  "entity_ids": [
+    "CAT-US-EQP-0001",
+    "CAT-US-EQP-0002",
+    "CAT-US-EQP-0003"
+  ],
+  "research_scope": "M3A1 Stuart 경전차, 초기 M4A3 Sherman 중형전차, T26E3/M26 Pershing의 전시 형식·무장·기동 제원과 배치 사례를 부분 조사했다.",
+  "limitations": [
+    "박물관 제원과 전시 군 간행물은 공통 조건의 기동 시험자료가 아니다.",
+    "사진과 전사에서 식별된 계열과 복원 표본의 세부 형식을 구분했다. 형식별 인수 및 실전 대수는 미확인이다.",
+    "M5·M24 경전차, M3 중형전차 및 추가 셔먼 변형의 세부 조사는 후속 과제다."
+  ],
+  "evidence_checked": [
+    "박물관 제원표 4건과 복원 소장 이력. Morton CMH 5-2-1 인쇄 pp. 32–33.",
+    "LoC LC-DIG-fsac-1a35226 사진 판면, ASF 최종보고 CMH 70-29 인쇄 p. 91.",
+    "군수국 공식 전사 CMH 10-9 인쇄 p. 238, Yank 4권 1호 Pershing 기사 텍스트."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.loc.gov/pictures/item/2017878432/",
+      "result": "403. 검색 색인의 소장 표기와 실제 열람한 LoC 컬러 판면을 구분했다."
+    },
+    {
+      "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D",
+      "result": "403. 같은 기관의 별도 공개 PDF에서 인쇄 pp. 32–33 본문을 열람했다."
+    },
+    {
+      "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USArmy/Yank%20Magazine/Yank%20Vol.%204%20no.%2001%201945-06-22.pdf",
+      "result": "기사 PDF 텍스트 열람 성공. 판면 캡처는 파일 크기 제한으로 실패했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=58 pending=75; sources=651 questions=235. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

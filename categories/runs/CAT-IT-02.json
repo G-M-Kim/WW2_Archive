@@ -1,0 +1,52 @@
+{
+  "step": 97,
+  "job_id": "CAT-IT-02",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 2,
+  "category": "전차 제외 기갑장비, 무장, 성능",
+  "article_path": "categories/italy/02-other-armored-vehicles.md",
+  "status": "partial",
+  "completed_at": "2026-11-17T00:57:26+09:00",
+  "started_at": "2026-11-17T00:53:01+09:00",
+  "base_head": "874b7d20b0d777e5b0338cb62df23cc64a3ca86c",
+  "source_ids": [
+    "CAT-IT-SRC-0021",
+    "CAT-IT-SRC-0022",
+    "CAT-IT-SRC-0023",
+    "CAT-IT-SRC-0024",
+    "CAT-IT-SRC-0025",
+    "CAT-IT-SRC-0026",
+    "CAT-IT-SRC-0027"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0007",
+    "CAT-IT-RQ-0008",
+    "CAT-IT-RQ-0009"
+  ],
+  "entity_ids": [
+    "CAT-IT-EQP-0004",
+    "CAT-IT-EQP-0005",
+    "CAT-IT-EQP-0006"
+  ],
+  "research_scope": "AB41 차륜 정찰장갑차, Semovente da 75/18 궤도 자주포, Fiat 665 NM 방호 병력수송 트럭의 대표 제원과 전시 기록.",
+  "limitations": [
+    "AB41 유물 목록의 거리와 M14 차체 교범 속도는 원시험 미확인이다.",
+    "665 NM의 복무 110대 원장 및 부대·형식별 가동과 차종별 총생산은 미확인이다."
+  ],
+  "evidence_checked": [
+    "롬바르디아 AB41 소장품 PDF와 AWM 리비아 사진 014272의 이미지·소장 설명.",
+    "FM 30-40 M14 차체 도판과 롬바르디아 75/18 견인포 문화재 해설, AWM 아리에테 부대사 해설.",
+    "풀비오 폴리와 루초 체바의 Fiat 665 NM 개발·요청·인도·복무 자료."
+  ],
+  "access_attempts": [
+    "롬바르디아 일반 AB41 페이지는 HTTP 502, 75/18 페이지는 시간 초과였으나 두 건 모두 전체 목록 PDF를 열람했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=97 pending=36; sources=1005 questions=372. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

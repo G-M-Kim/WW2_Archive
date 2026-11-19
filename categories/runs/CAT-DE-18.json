@@ -1,0 +1,321 @@
+{
+  "step": 18,
+  "job_id": "CAT-DE-18",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 18,
+  "category": "개전 시점 주요 공군기지와 규모(1~10)",
+  "article_path": "categories/germany/18-air-bases-start.md",
+  "status": "partial",
+  "completed_at": "2026-11-10T10:58:54+09:00",
+  "started_at": "2026-11-10T10:52:44+09:00",
+  "base_head": "02b6ed700386fc125ca243729d6d089dd6871088",
+  "source_ids": [
+    "CAT-DE-SRC-0100",
+    "CAT-DE-SRC-0103",
+    "CAT-DE-SRC-0131",
+    "CAT-DE-SRC-0132",
+    "CAT-DE-SRC-0133",
+    "CAT-DE-SRC-0134",
+    "CAT-DE-SRC-0135",
+    "CAT-DE-SRC-0136",
+    "CAT-DE-SRC-0137",
+    "CAT-DE-SRC-0138",
+    "CAT-DE-SRC-0139",
+    "CAT-DE-SRC-0140"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0068",
+    "CAT-DE-RQ-0069",
+    "CAT-DE-RQ-0070",
+    "CAT-DE-RQ-0071"
+  ],
+  "entity_ids": [
+    "CAT-DE-GEO-0018",
+    "CAT-DE-GEO-0019",
+    "CAT-DE-GEO-0020"
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-DE-GEO-0018",
+      "reference_date": "1939-09-01",
+      "historical_name": "Erprobungsstelle Rechlin",
+      "modern_location": "메클렌부르크포어포메른주 레힐린, 뮈리츠호 남동쪽",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "레힐린 본 시험 비행장과 주위 네 시설군. 라르츠·로겐틴 비행면과 원거리 탱크는 별도.",
+      "territorial_status": "독일 본토, 독일 실효 지배",
+      "operators": "독일 공군 시험기관",
+      "operational_status": "본 시험장의 개전 전 운영 확인. 개전일 배치 대수·가동 미확인.",
+      "source_survey_dates": [
+        "1935년 보유·이륙 집계, 박물관 후대 서술",
+        "1936년 말 남쪽 시설 확장 완료",
+        "1938-12-20 보고의 기록관 목록",
+        "남쪽 탱크 관측일 미상, 1943년 전체 저장시설의 별도 추정"
+      ],
+      "metrics": [
+        {
+          "metric": "본 이착륙면 형태",
+          "value": "거의 둥근 비행면",
+          "unit": "형태",
+          "date": "1933년 이후 배치 서술, 측정일 미상",
+          "boundary": "레힐린 본 시험 비행장과 주위 네 시설군. 라르츠·로겐틴 비행면과 원거리 탱크는 별도.",
+          "source_id": "CAT-DE-SRC-0132",
+          "locator": "1933–1945",
+          "capacity_or_actual": "시설 형태"
+        },
+        {
+          "metric": "본 시험장 주변 시설군",
+          "value": 4,
+          "unit": "시설군",
+          "date": "1933년 이후 배치 서술",
+          "boundary": "레힐린 본 시험 비행장과 주위 네 시설군. 라르츠·로겐틴 비행면과 원거리 탱크는 별도.",
+          "source_id": "CAT-DE-SRC-0132",
+          "locator": "1933–1945",
+          "capacity_or_actual": "시설 배치"
+        },
+        {
+          "metric": "남쪽 시설군 추가 이중 엔진 시험대",
+          "value": 4,
+          "unit": "기",
+          "date": "1936년 말까지의 확장",
+          "boundary": "레힐린 Gruppe Süd",
+          "source_id": "CAT-DE-SRC-0132",
+          "locator": "Gruppe Süd",
+          "capacity_or_actual": "설치 수, 정비 정원과 별개"
+        },
+        {
+          "metric": "시험기관 보유 항공기",
+          "value": 182,
+          "unit": "대",
+          "date": "1935년",
+          "boundary": "E-Stelle 시험기관 집계",
+          "source_id": "CAT-DE-SRC-0133",
+          "locator": "1935년 Flugzeugbestand 문단",
+          "capacity_or_actual": "보유 실적"
+        },
+        {
+          "metric": "시험 이륙",
+          "value": 2500,
+          "unit": "회 미만 근삿값",
+          "date": "1935년",
+          "boundary": "E-Stelle 시험기관 집계",
+          "source_id": "CAT-DE-SRC-0133",
+          "locator": "1935년 Starts 문단",
+          "capacity_or_actual": "실제 활동"
+        },
+        {
+          "metric": "남쪽 연료 탱크",
+          "value": 150000,
+          "unit": "L 초과",
+          "date": "측정일 미상",
+          "boundary": "레힐린 Gruppe Süd",
+          "source_id": "CAT-DE-SRC-0132",
+          "locator": "1933–1945 지하 탱크 문단",
+          "capacity_or_actual": "설치 용량, 개전 적용 보류"
+        },
+        {
+          "metric": "주 저장시설",
+          "value": 800000,
+          "unit": "L 약",
+          "date": "1943년",
+          "boundary": "레힐린 E-Stelle 주 저장시설",
+          "source_id": "CAT-DE-SRC-0132",
+          "locator": "1933–1945 지하 탱크 문단",
+          "capacity_or_actual": "후년 설비 용량"
+        },
+        {
+          "metric": "원거리 탱크",
+          "value": 1300000,
+          "unit": "L",
+          "date": "1943년",
+          "boundary": "레힐린 E-Stelle 원거리 저장시설",
+          "source_id": "CAT-DE-SRC-0132",
+          "locator": "1933–1945 지하 탱크 문단",
+          "capacity_or_actual": "후년 설비 용량, 별도 구역"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "동시 수용과 1939년 유효 착륙면, 정비 작업량 및 연료·보급 처리능력의 공통 등급 경계 미확인.",
+      "source_ids": [
+        "CAT-DE-SRC-0132",
+        "CAT-DE-SRC-0133",
+        "CAT-DE-SRC-0139",
+        "CAT-DE-SRC-0140"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-DE-GEO-0019",
+      "reference_date": "1939-09-01",
+      "historical_name": "Fliegerhorst Gatow",
+      "modern_location": "베를린 슈판다우 가토·클라도",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "베를린 가토·클라도, 클라도어 담 북서쪽 비행장과 교육·격납 구역. 남동쪽 별도 아카데미 제외.",
+      "territorial_status": "독일 본토, 독일 실효 지배",
+      "operators": "독일 항공부 건설, 독일 공군 운용",
+      "operational_status": "1935-11-01 개교. 개전일 배치·출격 미확인. 1945년 영국 인수와 이후 포장 공사는 비교일 밖.",
+      "source_survey_dates": [
+        "1934년 착공·1935년 개교, 공병 해설",
+        "1935~1936년 건설, 베를린 문화재청",
+        "약 1940년 상태 후대 배치 복원",
+        "1945-07-02 영국 인수 당시 잔디, 1945년 8월·1947년 포장 증설"
+      ],
+      "metrics": [
+        {
+          "metric": "가토 건설사 격납고 수",
+          "value": 9,
+          "unit": "동",
+          "date": "전전·전쟁기 서술, 개별 준공일 미확인",
+          "boundary": "베를린 가토·클라도, 클라도어 담 북서쪽 비행장과 교육·격납 구역. 남동쪽 별도 아카데미 제외.",
+          "source_id": "CAT-DE-SRC-0135",
+          "locator": "66쪽",
+          "capacity_or_actual": "건물 집계"
+        },
+        {
+          "metric": "RAF 인수 시 이착륙면",
+          "value": "잔디",
+          "unit": "표면",
+          "date": "1945-07-02",
+          "boundary": "베를린 가토·클라도, 클라도어 담 북서쪽 비행장과 교육·격납 구역. 남동쪽 별도 아카데미 제외.",
+          "source_id": "CAT-DE-SRC-0134",
+          "locator": "RAF 인수와 Rollbahn 문단",
+          "capacity_or_actual": "인수 시 물리 상태"
+        },
+        {
+          "metric": "영국 철판 포설 활주로",
+          "value": 1450,
+          "unit": "yd",
+          "date": "1945-08 공사 시작",
+          "boundary": "베를린 가토·클라도, 클라도어 담 북서쪽 비행장과 교육·격납 구역. 남동쪽 별도 아카데미 제외.",
+          "source_id": "CAT-DE-SRC-0134",
+          "locator": "Rollbahn 문단",
+          "capacity_or_actual": "후년 시공, 개전 제외"
+        },
+        {
+          "metric": "영국 추가 콘크리트 활주로",
+          "value": 2000,
+          "unit": "yd",
+          "date": "1947년",
+          "boundary": "베를린 가토·클라도, 클라도어 담 북서쪽 비행장과 교육·격납 구역. 남동쪽 별도 아카데미 제외.",
+          "source_id": "CAT-DE-SRC-0134",
+          "locator": "Rollbahn 문단",
+          "capacity_or_actual": "후년 증설, 개전 제외"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "역사상 격납고 수와 개전일 동시 수용량의 관계, 1939년 활주로·정비·연료 처리능력 및 공통 등급 경계가 미확인.",
+      "source_ids": [
+        "CAT-DE-SRC-0134",
+        "CAT-DE-SRC-0135"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-DE-GEO-0020",
+      "reference_date": "1939-09-01",
+      "historical_name": "Fliegerhorst Werneuchen",
+      "modern_location": "브란덴부르크주 바르님군 베르노이헨",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "브란덴부르크주 바르님군 베르노이헨, 아네모넨슈트라세 일대 전투기 학교·격납 구역과 비행장.",
+      "territorial_status": "독일 본토, 독일 실효 지배",
+      "operators": "독일 공군 Jagdfliegerschule Werneuchen",
+      "operational_status": "1937년 시설 인계 확인. 1939-09-01 두 중대의 이동은 편찬물 서술로 실제 실행 미확인.",
+      "source_survey_dates": [
+        "1937-11-27 인계 촬영",
+        "1939-09-01 전개 명령의 후대 편제 서술",
+        "2026-01-01 문화재 목록 기준"
+      ],
+      "metrics": [
+        {
+          "metric": "현대 보호 목록 등재 격납고",
+          "value": 7,
+          "unit": "동",
+          "date": "2026-01-01 목록 기준",
+          "boundary": "ID 09175483 문화재 구역",
+          "source_id": "CAT-DE-SRC-0137",
+          "locator": "40쪽",
+          "capacity_or_actual": "보호 대상 집계, 개전일 총수 미확인"
+        },
+        {
+          "metric": "편찬물의 전개 명령 대상",
+          "value": 2,
+          "unit": "비행중대",
+          "date": "1939-09-01",
+          "boundary": "베르노이헨에서 슈트라우스베르크",
+          "source_id": "CAT-DE-SRC-0138",
+          "locator": "첫 문단과 Staffel 표",
+          "capacity_or_actual": "배치 명령 서술, 실행 미확인"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "1939년 착륙면·동시 격납·정비·급유 능력과 공통 등급 경계 미확인. 문화재 목록에 등록된 격납고를 총 용량으로 전환하지 않음.",
+      "source_ids": [
+        "CAT-DE-SRC-0136",
+        "CAT-DE-SRC-0137",
+        "CAT-DE-SRC-0138"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "research_scope": "1939-09-01 독일 본토의 레힐린 시험장, 가토와 베르노이헨 훈련기지. 착륙장·격납·정비·보급과 실제 활동을 구분.",
+  "limitations": [
+    "1939년 당일 시설도와 제원, 배치·출격 원장 미확보. 다른 기준일의 건물·연료·활주로 기록은 별도 기재.",
+    "전투 전진기지 및 수상기 기지는 첫 조사 범위 밖. 당대 공통 비교 경계와 네 차원 근거 부족으로 점수·범위는 모두 null."
+  ],
+  "evidence_checked": [
+    "연방기록원 지상조직 분류 및 DDB 레힐린 시험 목록, 환경청 135쪽 RL 36/42 목록",
+    "레힐린 박물관 시설·시험활동 해설, 가토 문화재청 연혁과 konstruktiv 3/2019 인쇄 66–69쪽",
+    "1937년 Werneuchen 인계 사진의 기록원 목록·배포 복제본, Barnim 문화재 목록 40쪽 및 후대 편제"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://bild.bundesarchiv.de/device_barch/dev1/2022/11-25/b4/e0/file7nrxzi25qrrekk621pwl.jpg",
+      "result": "공식 이미지 링크는 점검 화면을 반환했다. 같은 소장번호의 연방기록원 배포 복제본 이미지를 직접 확인."
+    },
+    {
+      "url": "https://invenio.bundesarchiv.de/basys2-invenio/direktlink/e06f2d95-89a5-4834-9d2a-a6c48be8e6f9/",
+      "result": "시간 초과. DDB의 BArch RL 36/168 목록만 확인하고 문서 원면으로 집계하지 않음."
+    },
+    {
+      "url": "https://invenio.bundesarchiv.de/invenio/direktlink/b3e5982a-5f5e-4511-b349-b1f53aec1aca/",
+      "result": "RL 21 직접 링크 시간 초과. Bundesarchiv의 분류·사료 안내 본문을 이용."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=18 pending=115; sources=140 questions=71. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; pinned HEAD snapshot."
+  }
+}

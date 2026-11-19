@@ -1,0 +1,950 @@
+[
+  {
+    "id": "CAT-IT-RQ-0001",
+    "status": "open",
+    "question": "회람 9000이 요구한 기동·병과 협동과 전시 이탈리아 사단의 실제 전투 편성은 어떻게 달랐는가?",
+    "related_ids": [
+      "CAT-IT-SRC-0001",
+      "CAT-IT-SRC-0002",
+      "CAT-IT-SRC-0003",
+      "CAT-IT-SRC-0004",
+      "CAT-IT-SRC-0005"
+    ],
+    "evidence": "회람은 후대 연구를 통해 확인했다. 폴고레의 엘알라메인 전투 보고는 목록만 확보했다.",
+    "completion_condition": "회람 원문과 군단·사단별 차량·포병 현황, 폴고레 전투 보고의 진지·화력·예비대 기록을 확보해 콤파스 및 1942년 사례를 비교한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0002",
+    "status": "open",
+    "question": "이탈리아 해군은 1940~1943년 북아프리카 선단에 직접 호위와 전함 원거리 엄호를 어떤 조건에서 배정했는가?",
+    "related_ids": [
+      "CAT-IT-SRC-0006",
+      "CAT-IT-SRC-0007",
+      "CAT-IT-SRC-0008",
+      "CAT-IT-SRC-0009",
+      "CAT-IT-SRC-0010"
+    ],
+    "evidence": "교리 연구 초록과 대표 교전을 대조했다. 선단별 배정 명령과 화물별 실제 도착량은 미확인이다.",
+    "completion_condition": "Supermarina의 명령·전투일지와 선단 출항·도착 원장에서 날짜·항로·직접 호위·원거리 엄호·항공엄호를 함께 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0003",
+    "status": "open",
+    "question": "왕립공군의 독립 폭격 구상과 지중해 공군·해군 협동은 실제 우선순위와 출격 편성에서 얼마나 달랐는가?",
+    "related_ids": [
+      "CAT-IT-SRC-0011",
+      "CAT-IT-SRC-0012",
+      "CAT-IT-SRC-0013",
+      "CAT-IT-SRC-0014",
+      "CAT-IT-SRC-0015"
+    ],
+    "evidence": "교리사와 영국 방면·지중해 대표 사례를 확인했다. 공군·해군의 당대 연락 기록과 항로별 호위·공격 배정은 미대조다.",
+    "completion_condition": "이탈리아 항공 교범과 공군 지휘부·Supermarina의 임무명령, 대함 항공대 일지를 동일 작전 기준으로 비교한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0004",
+    "status": "open",
+    "question": "영국 조사 차량 01473의 등록 형식 및 장착 엔진은 무엇이며 다른 M13/40 차량에 어느 범위까지 적용되는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0003",
+      "CAT-IT-SRC-0016",
+      "CAT-IT-SRC-0017"
+    ],
+    "evidence": "1942년 미군 교범과 1943년 영국 조사표의 출력 및 속도 표기가 다르다. 영국 문서의 속도는 속도계 표기다.",
+    "completion_condition": "이탈리아 제작·인수 원장과 차대·엔진 명판을 대조하고, 개조 및 장착 상태와 주행 시험 조건을 각각 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0005",
+    "status": "open",
+    "question": "CV33·M11/39·M13/40의 생산·군 인수·배치와 전선별 가동 대수는 무엇인가?",
+    "related_ids": [
+      "CAT-IT-EQP-0001",
+      "CAT-IT-EQP-0002",
+      "CAT-IT-EQP-0003",
+      "CAT-IT-SRC-0004",
+      "CAT-IT-SRC-0016",
+      "CAT-IT-SRC-0018",
+      "CAT-IT-SRC-0019",
+      "CAT-IT-SRC-0020"
+    ],
+    "evidence": "사진·소장 해제와 연합군 식별문서에서 북아프리카 운용 및 포획 사례와 일부 제원을 확인했다.",
+    "completion_condition": "제조사 생산표·육군 인수증·선적부·부대 차량 일지에서 주문·출고·인수·장부상 보유·가동·포획을 시기·형식별로 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0006",
+    "status": "open",
+    "question": "다른 경·중형 및 P계열 전차의 개발·생산·운용과 1943년 휴전 뒤 장비 귀속은 무엇인가?",
+    "related_ids": [
+      "CAT-IT-EQP-0001",
+      "CAT-IT-EQP-0003",
+      "CAT-IT-SRC-0016",
+      "CAT-IT-SRC-0017"
+    ],
+    "evidence": "첫 검사는 L3/33과 M11/39·M13/40에 집중했다. L3/35·L6/40·M14/41·M15/42·P26/40은 후속 조사 범위다.",
+    "completion_condition": "이탈리아 전시 공장·부대 기록과 휴전 이후 이탈리아 및 독일 측 문서에서 계획·시제·생산·인도·실제 운용을 구분한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0007",
+    "status": "open",
+    "question": "AB41의 차수별 정격 주행거리와 북아프리카 배치·가동·손실 대수는 무엇인가?",
+    "related_ids": [
+      "CAT-IT-EQP-0004",
+      "CAT-IT-SRC-0021",
+      "CAT-IT-SRC-0022"
+    ],
+    "evidence": "현존 AB41의 목록과 1943년 리비아 사진을 확인했다. 조건부 거리만 확보했다.",
+    "completion_condition": "당대 성능시험의 노면·하중과 원본 제원표, 인수·가동·손실 보고를 확보해 AB40·AB41 및 전후 개수를 구분한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0008",
+    "status": "open",
+    "question": "Semovente da 75/18의 M40·M41·M42별 생산과 인도·실전 배치, 휴전 이후 운용 주체는 누구인가?",
+    "related_ids": [
+      "CAT-IT-EQP-0005",
+      "CAT-IT-SRC-0023",
+      "CAT-IT-SRC-0024",
+      "CAT-IT-SRC-0025"
+    ],
+    "evidence": "교범의 M14 차체 도판, 후대 견인포 목록의 차대 계열, 기념관의 M40 부대 해설을 대조했다.",
+    "completion_condition": "차대별 시험·제조·인수·부대 장부를 교차 대조하고 1943년 휴전 이후 운용 주체별로 배치를 기록한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0009",
+    "status": "open",
+    "question": "1943년 4월 30일 665 NM 복무 수치의 집계 단위와 발칸 배치는 무엇인가?",
+    "related_ids": [
+      "CAT-IT-EQP-0006",
+      "CAT-IT-SRC-0026",
+      "CAT-IT-SRC-0027"
+    ],
+    "evidence": "1941년 요청과 1942년 개발·인도를 대조했다. 110대의 원표와 부대별 가동 실적은 미확인이다.",
+    "completion_condition": "날짜와 부대가 적힌 인도서·차량 원장을 확인해 기본형·개량형과 가동·장부 보유를 구분한다. S.37·지휘·구난차 및 나머지 자주포는 후속 조사한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0010",
+    "status": "open",
+    "question": "리토리오 개별 시운전 수치와 타란토 수리·전력 복귀 날짜는 무엇인가?",
+    "related_ids": [
+      "CAT-IT-EQP-0007",
+      "CAT-IT-SRC-0028",
+      "CAT-IT-SRC-0029",
+      "CAT-IT-SRC-0030",
+      "CAT-IT-SRC-0031"
+    ],
+    "evidence": "1940년 시운전 요약, 피격과 이탈리아 연구의 수리 시점은 확인했다.",
+    "completion_condition": "함별 인수·시험 일지와 조선소 수리·복귀 명령을 대조하여 기준배수량 단위와 최대 속력 시험의 하중·조건을 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0011",
+    "status": "open",
+    "question": "시레의 개조 전후 무장·동력·배수량과 하이파 침몰 기록은 어떻게 대조되는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0008",
+      "CAT-IT-SRC-0032",
+      "CAT-IT-SRC-0033",
+      "CAT-IT-SRC-0034"
+    ],
+    "evidence": "인도일, 공개 제원표, 전시 역할 및 침몰일을 대조했다. 개조 검사 원본·영국 측 보고서는 미확인이다.",
+    "completion_condition": "함의 개조·검사 문서와 항해일지, 하이파 침몰 관련 이탈리아·영국 당대 기록으로 사료의 일치 범위를 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0012",
+    "status": "open",
+    "question": "아퀼라의 함재기 설계 수 차이와 휴전 당시 설치·시험 상태는 무엇인가?",
+    "related_ids": [
+      "CAT-IT-EQP-0009",
+      "CAT-IT-SRC-0028",
+      "CAT-IT-SRC-0035",
+      "CAT-IT-SRC-0036"
+    ],
+    "evidence": "두 출판본의 함재기 계획값이 다르며 사진은 개조 선체를 보여준다.",
+    "completion_condition": "안살도와 해군의 개정 도면·편성표·공사·검사 장부를 대조한다. 순양함·구축함·호위함·어뢰정과 다른 잠수함·항모 개조안의 첫 확인을 별도 진행한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0013",
+    "status": "open",
+    "question": "C.202 생산 계열별 무장과 시제·생산기의 성능 조건 및 판텔레리아 인양품의 식별 근거는 무엇인가?",
+    "related_ids": [
+      "CAT-IT-EQP-0010",
+      "CAT-IT-SRC-0037",
+      "CAT-IT-SRC-0038",
+      "CAT-IT-SRC-0039"
+    ],
+    "evidence": "기본 무장과 일부 후기 날개 무장, 푸카에 있던 전시 개체를 확인했다. 시험 기체와 판텔레리아의 개별 엔진은 사료 대조가 필요하다.",
+    "completion_condition": "공장 납품·장착 장부, 시험 원표, 판텔레리아 인양품의 각인·확인 보고서를 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0014",
+    "status": "open",
+    "question": "S.79의 폭격형과 뇌격형 제원 및 실제 배치·출격은 어떻게 구분되는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0011",
+      "CAT-IT-SRC-0037",
+      "CAT-IT-SRC-0040",
+      "CAT-IT-SRC-0041"
+    ],
+    "evidence": "Thompson의 I·II 표기별 제원과 박물관의 임무 구분을 확인했다. 사진의 세부 형식과 시험 당시 탑재 상태는 미상이다.",
+    "completion_condition": "이탈리아 제작사·공군 인수 문서의 형식명 및 시험 조건과 부대별 기체·출격 일지를 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0015",
+    "status": "open",
+    "question": "S.82의 RC 21·RC18 엔진 표기와 속도 차이 및 실제 공수 규모는 무엇으로 설명되는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0012",
+      "CAT-IT-SRC-0042",
+      "CAT-IT-SRC-0043",
+      "CAT-IT-SRC-0044"
+    ],
+    "evidence": "두 제원 자료의 수치와 조건 표기가 다르다. 분해 CR.42 수송 기록과 보고된 적재 능력을 대조했다.",
+    "completion_condition": "제작 명부와 엔진 형식·시험 성적표, 그리스·알바니아와 동아프리카 공수 운항·화물 명부를 찾아 차이의 원인과 수송 범위를 판정한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0016",
+    "status": "open",
+    "question": "다른 대표 항공기 및 휴전 이후의 기체별 운용 주체는 어떻게 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0010",
+      "CAT-IT-EQP-0011",
+      "CAT-IT-EQP-0012",
+      "CAT-IT-SRC-0037",
+      "CAT-IT-SRC-0040",
+      "CAT-IT-SRC-0044"
+    ],
+    "evidence": "전투기·폭격기·뇌격기·수송기의 대표 세 계열을 확인했다.",
+    "completion_condition": "다른 전투·폭격·정찰·수상·훈련·연락·구조·수송기의 당대 인수표와 배치 기록을 찾고, 휴전 이후 왕국군과 이탈리아 사회공화국 등 운용 주체를 구분한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0017",
+    "status": "open",
+    "question": "M91 장총과 후속 단축형의 전시 지급 비중 및 부대별 구성은 어떠했는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0013",
+      "CAT-IT-SRC-0045",
+      "CAT-IT-SRC-0046",
+      "CAT-IT-SRC-0047"
+    ],
+    "evidence": "장총의 소장 제원과 카르카노 계열의 북아프리카 존재를 확인했다. 사진은 세부 형식을 구별하지 않는다.",
+    "completion_condition": "이탈리아군 보급·재고표와 북아프리카 노획 목록을 대조해 형식·구경·기준일을 고정한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0018",
+    "status": "open",
+    "question": "브레다 Mod.30의 시기별 제원 차이와 군 인수시험 조건은 무엇인가?",
+    "related_ids": [
+      "CAT-IT-EQP-0014",
+      "CAT-IT-SRC-0047",
+      "CAT-IT-SRC-0048",
+      "CAT-IT-SRC-0049"
+    ],
+    "evidence": "데르나 노획 개체와 몬테피오리노 소장 개체를 확인했다. 제조·운용의 평균 성능은 자료에서 확인하지 못했다.",
+    "completion_condition": "제작사 자료와 전시 인수·검사표를 찾아 해당 형식과 조사 조건을 구분한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0019",
+    "status": "open",
+    "question": "M33과 T.35의 지급 및 수입 경로는 부대·연도별로 어떻게 달랐는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0015",
+      "CAT-IT-EQP-0016",
+      "CAT-IT-SRC-0050",
+      "CAT-IT-SRC-0051"
+    ],
+    "evidence": "같은 수집자에게서 들어온 두 소장품의 물적 표기와 북아프리카 수집 이력을 확인했다.",
+    "completion_condition": "이탈리아군 조달·지급 장부, 항목별 인수 규격과 수집자 기록을 대조해 M33·T.35 지급 규모와 T.35 공급 경로를 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0020",
+    "status": "open",
+    "question": "다른 보병 무기·휴대 장비의 대표 형식과 실제 지급은 어떠했는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0013",
+      "CAT-IT-EQP-0014",
+      "CAT-IT-EQP-0015",
+      "CAT-IT-EQP-0016",
+      "CAT-IT-SRC-0047"
+    ],
+    "evidence": "소총·경기관총·두 종류의 개인 보호 장비를 우선 조사했다.",
+    "completion_condition": "기관단총·권총·중기관총·박격포·수류탄과 복장·휴대품을 박물관 및 편제·보급 자료에서 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0021",
+    "status": "open",
+    "question": "E.C.3-bis 시험기와 E.C.3-ter 구포의 함별 설치일과 가동일은 언제인가?",
+    "related_ids": [
+      "CAT-IT-EQP-0017",
+      "CAT-IT-EQP-0007",
+      "CAT-IT-SRC-0052"
+    ],
+    "evidence": "갈라티의 표와 리토리오·이탈리아 사진 해설에서 두 단계를 구분했다. 표는 시제 장비를 포함한다.",
+    "completion_condition": "함별 개장 명세서·인수 검사표·항해일지를 대조하여 동일 날짜의 장착 함정 수와 가동 장비 수를 구한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0022",
+    "status": "open",
+    "question": "Hagelin C38m의 인도·도입·지급 일정과 이탈리아 해군의 사용 범위는 무엇인가?",
+    "related_ids": [
+      "CAT-IT-EQP-0018",
+      "CAT-IT-SRC-0054",
+      "CAT-IT-SRC-0055",
+      "CAT-IT-SRC-0056"
+    ],
+    "evidence": "해군 기관지의 도입월 서술과 영국 측의 사용 기록을 대조했다. 도입월 원자료와 해독 통계 분류는 미확인이다.",
+    "completion_condition": "USMM의 주문·인수·지급 원부와 Birch 자료에서 공군 C35와 해군 C38m에 해당하는 기록을 구분한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0023",
+    "status": "open",
+    "question": "FIVRE M-213 송신부는 어느 항공 레이더 체계에 통합됐고 어느 단계까지 진행됐는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0019",
+      "CAT-IT-SRC-0053"
+    ],
+    "evidence": "IGB-10220의 물적 목록이 있지만 완성 체계, 비행시험, 항공대 지급은 확인되지 않았다.",
+    "completion_condition": "제작사 자료와 항공기 개조·시험 기록에서 송신부 식별 번호를 대응시킨다."
+  },
+  {
+    "id": "CAT-IT-RQ-0024",
+    "status": "open",
+    "question": "전시 무전기·지상 감시 레이더·기타 통신 지원 장비의 대표 형식과 배치는 어떠했는가?",
+    "related_ids": [
+      "CAT-IT-EQP-0017",
+      "CAT-IT-EQP-0018",
+      "CAT-IT-EQP-0019",
+      "CAT-IT-SRC-0052",
+      "CAT-IT-SRC-0053",
+      "CAT-IT-SRC-0054"
+    ],
+    "evidence": "함정 레이더, 해군 암호기와 항공 레이더 부품을 우선 조사했다.",
+    "completion_condition": "육군 무선국 장비, 지상 감시 레이더, 방향탐지기와 유선 통신 장비의 조달·배치 기록을 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0025",
+    "status": "open",
+    "question": "메세의 CSIR·제1군 지휘권 인수와 엔피다빌 항복 절차는 어느 시각에 성립했는가?",
+    "related_ids": [
+      "CAT-IT-PER-0001",
+      "CAT-IT-SRC-0057",
+      "CAT-IT-SRC-0058",
+      "CAT-IT-SRC-0059"
+    ],
+    "evidence": "이탈리아 약전과 연합군 사진·필름 해제는 제1군 지휘 및 1943년 5월 항복의 맥락을 뒷받침한다.",
+    "completion_condition": "정식 발령·인수 명령과 항복 원문, 양측 군단 일지를 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0026",
+    "status": "open",
+    "question": "베르가미니의 출항과 기항지 변경에 관한 상급 지시·현장 명령은 각각 언제 내려졌는가?",
+    "related_ids": [
+      "CAT-IT-PER-0002",
+      "CAT-IT-SRC-0060",
+      "CAT-IT-SRC-0061"
+    ],
+    "evidence": "포상 기록과 해군사 문헌에서 전투함대 지휘·출항·사망을 확인했다. 원지시의 수신 시각은 미확인이다.",
+    "completion_condition": "해군 총사령부 신호문, 송수신부와 개별 함정의 당직 일지를 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0027",
+    "status": "open",
+    "question": "부스칼리아의 1944년 비행사고일과 사망일은 언제인가?",
+    "related_ids": [
+      "CAT-IT-PER-0003",
+      "CAT-IT-SRC-0063",
+      "CAT-IT-SRC-0064"
+    ],
+    "evidence": "카프로니 박물관은 8월 23일, 참전협회는 8월 24일을 사망일로 기록한다.",
+    "completion_condition": "비행사고 조사서와 나폴리 군병원 의무기록 또는 사망등록을 찾아 사고·사망 일시를 구분한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0028",
+    "status": "open",
+    "question": "다른 전구·계급과 휴전 이후의 전투 참가자는 어떤 사료에서 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-IT-PER-0001",
+      "CAT-IT-PER-0002",
+      "CAT-IT-PER-0003"
+    ],
+    "evidence": "육군 야전 지휘관, 해군 함대 지휘관, 공군 조종사를 대표 사례로 조사했다.",
+    "completion_condition": "추가 인물은 부대 기록과 독립 사료로 확인하고, 왕국군·사회공화국·저항세력 소속과 개별 책임을 시간순으로 기록한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0029",
+    "status": "open",
+    "question": "무솔리니의 참전 결정과 치아노의 외교 통고에 이르기까지 내부 결재와 협의는 어떻게 이루어졌는가?",
+    "related_ids": [
+      "CAT-IT-PER-0004",
+      "CAT-IT-PER-0007",
+      "CAT-IT-SRC-0065",
+      "CAT-IT-SRC-0066",
+      "CAT-IT-SRC-0073"
+    ],
+    "evidence": "외교 답변·공한과 이후 조약 서명은 확인했다. 결정 과정과 각자의 이견은 이 자료로 확정할 수 없다.",
+    "completion_condition": "이탈리아 외무부·왕실의 결재본과 내각 기록을 찾아 일자별로 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0030",
+    "status": "open",
+    "question": "1943년 7월 국왕의 무솔리니 해임·체포 및 바돌리오 임명에 관한 원문과 절차는 무엇인가?",
+    "related_ids": [
+      "CAT-IT-PER-0004",
+      "CAT-IT-PER-0005",
+      "CAT-IT-PER-0006",
+      "CAT-IT-SRC-0068",
+      "CAT-IT-SRC-0069",
+      "CAT-IT-SRC-0070"
+    ],
+    "evidence": "대평의회 표결과 국왕 조치, 바돌리오 내각의 의회 해산을 구분했다.",
+    "completion_condition": "대평의회 의안 원본, 왕실의 인사 문서와 체포 지시를 찾아 각각의 권한과 시점을 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0031",
+    "status": "open",
+    "question": "휴전 서명과 대독 선전포고에서 정부 수반의 위임이 현장에 어떻게 전달됐는가?",
+    "related_ids": [
+      "CAT-IT-PER-0005",
+      "CAT-IT-PER-0006",
+      "CAT-IT-SRC-0071",
+      "CAT-IT-SRC-0072",
+      "CAT-IT-SRC-0074"
+    ],
+    "evidence": "정부 위임 보고와 3국 공개 성명을 읽었다. 위임장과 외교 통고 수령증은 미확인이다.",
+    "completion_condition": "바티칸에 전달한 위임장·마드리드 통고 원문 및 수령 기록을 양쪽 기록관에서 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0032",
+    "status": "open",
+    "question": "반유대인 박해의 중앙정부 결정과 각 지역의 집행 책임을 어떻게 구분할 수 있는가?",
+    "related_ids": [
+      "CAT-IT-PER-0004",
+      "CAT-IT-PER-0005",
+      "CAT-IT-PER-0007",
+      "CAT-IT-SRC-0067",
+      "CAT-IT-SRC-0068"
+    ],
+    "evidence": "왕국 시기의 차별 법제와 독일 점령 이후 이탈리아 사회공화국의 성립을 확인했다.",
+    "completion_condition": "왕국 법령과 사회공화국·독일 당국의 지시·집행 기록을 분리해 비교하고 관련 정치 인물을 추가 검증한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0033",
+    "status": "open",
+    "question": "티베리오와 협업 연구진은 1941년 이후 구포 설계·시험·생산 인계에서 각각 무엇을 담당했는가?",
+    "related_ids": [
+      "CAT-IT-PER-0008",
+      "CAT-IT-PER-0009",
+      "CAT-IT-EQP-0017",
+      "CAT-IT-SRC-0052",
+      "CAT-IT-SRC-0075",
+      "CAT-IT-SRC-0076",
+      "CAT-IT-SRC-0077"
+    ],
+    "evidence": "전전 연구 제안의 번역과 전시 RIEC·해군사관학교 경력을 확인했다. 일부 저술은 서지만 확인했다.",
+    "completion_condition": "해군 연구 일지·공동 서명 보고·생산 인수기록을 직접 대조하고, 선행 제안과 전시 제품 개발의 책임을 나눈다."
+  },
+  {
+    "id": "CAT-IT-RQ-0034",
+    "status": "open",
+    "question": "카라라가 FIVRE M-213 개발에서 맡은 구체적 역할은 무엇인가?",
+    "related_ids": [
+      "CAT-IT-PER-0009",
+      "CAT-IT-EQP-0019",
+      "CAT-IT-SRC-0053",
+      "CAT-IT-SRC-0077"
+    ],
+    "evidence": "카라라의 전파탐지 연구와 송신부 목록의 별칭을 확인했다. 목록에는 개인별 설계 책임이 없다.",
+    "completion_condition": "카라라 문서군의 보고서와 FIVRE 도면의 발행·결재 기록을 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0035",
+    "status": "open",
+    "question": "카스톨디와 마키 설계팀의 MC.202·MC.205 변경 설계 및 시험 책임은 어떻게 나뉘었는가?",
+    "related_ids": [
+      "CAT-IT-PER-0010",
+      "CAT-IT-EQP-0010",
+      "CAT-IT-SRC-0037",
+      "CAT-IT-SRC-0078",
+      "CAT-IT-SRC-0079"
+    ],
+    "evidence": "설계자와 제조사 귀속은 확인했다. 제작사·시험 담당자의 원 기록은 미확인이다.",
+    "completion_condition": "개정 도면 승인란, 시험일지와 제작사별 공장 기록을 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0036",
+    "status": "open",
+    "question": "G.55의 초도비행일과 당시 가브리엘리 설계팀의 역할은 무엇인가?",
+    "related_ids": [
+      "CAT-IT-PER-0011",
+      "CAT-IT-SRC-0037",
+      "CAT-IT-SRC-0080",
+      "CAT-IT-SRC-0081",
+      "CAT-IT-SRC-0082"
+    ],
+    "evidence": "후대 문헌의 초도비행일이 1942년 4월 20일과 30일로 나뉜다.",
+    "completion_condition": "피아트 시제기 출고·시험일지와 조종사 기록으로 최초 비행과 공식 시험을 구분한다. 다른 전시 연구 분야의 인물도 추가 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0037",
+    "status": "open",
+    "question": "1940년 6월 10일 연설에서 IWM 흑백본과 루체 공개·채색판의 발언 범위는 어떻게 다른가?",
+    "related_ids": [
+      "CAT-IT-PER-0004",
+      "CAT-IT-SRC-0083",
+      "CAT-IT-SRC-0084",
+      "CAT-IT-SRC-0085"
+    ],
+    "evidence": "IWM은 10분, 루체 복원 공지는 8분으로 표기하고 1분 30초 분량을 공개했다.",
+    "completion_condition": "판본별 컷과 재생 속도, 발언 시작·끝·음성 동기화 구간을 실측하고 길이 차이의 이유를 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0038",
+    "status": "open",
+    "question": "바돌리오의 휴전 포고 최초 송출 및 후대 공개 음원의 계보는 무엇인가?",
+    "related_ids": [
+      "CAT-IT-PER-0006",
+      "CAT-IT-SRC-0086",
+      "CAT-IT-SRC-0087",
+      "CAT-IT-SRC-0088",
+      "CAT-IT-SRC-0089"
+    ],
+    "evidence": "포고의 영어 전달문과 이탈리아어 전사를 대조했다. 문헌의 녹음·송출 순서 기술이 다르고, 당일 원영상은 미확보다.",
+    "completion_condition": "EIAR 운행일지와 원녹음 매체, Rai 사용 음원을 대조해 첫 방송·재방송·후대 편집을 식별하고 당일 원촬영 여부를 조사한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0039",
+    "status": "open",
+    "question": "1944년 리리코 극장 연설 대목은 뉴스릴과 후대 편집본에서 각각 어느 구간인가?",
+    "related_ids": [
+      "CAT-IT-PER-0004",
+      "CAT-IT-SRC-0090",
+      "CAT-IT-SRC-0091"
+    ],
+    "evidence": "극장 연설은 12월 16일, 뉴스릴은 12월 27일이다. 뉴스릴은 다른 장소 발언과 군사 자료화면을 함께 편집했다.",
+    "completion_condition": "C041801 및 TG1 보존본을 대조해 장소별 발언의 시작·끝·음성 종류를 기록하고 연설 전체본 및 다른 전시 방송을 찾는다."
+  },
+  {
+    "id": "CAT-IT-RQ-0040",
+    "status": "open",
+    "question": "미라피오리의 전시 실제 고용·차량 및 부품 생산·군 인수는 월별로 어떻게 변했는가?",
+    "related_ids": [
+      "CAT-IT-ORG-0001",
+      "CAT-IT-SRC-0092",
+      "CAT-IT-SRC-0093"
+    ],
+    "evidence": "설계상의 2교대 22,000명과 공장의 제품군 및 당대 작업 중단 보도를 대조했다.",
+    "completion_condition": "전시 고용·생산 집계와 수령 기관의 계약·인수 장부를 맞추고 설비 수용인원과 실제 인원을 분리한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0041",
+    "status": "open",
+    "question": "안살도의 사업장별 발주·납품, 1944년 6월 강제 이송 피해자 및 지시 계통은 무엇인가?",
+    "related_ids": [
+      "CAT-IT-ORG-0002",
+      "CAT-IT-SRC-0094",
+      "CAT-IT-SRC-0095",
+      "CAT-IT-SRC-0096",
+      "CAT-IT-SRC-0099"
+    ],
+    "evidence": "리토리오 진수와 안살도 사업장 명칭을 확인했다. 5월 작업 중단 보고와 6월 강제 이송은 날짜와 집계 범위가 다르다.",
+    "completion_condition": "회사 주문·인수 자료와 독일·RSI의 명령, 이송 명단을 확인해 사업장별 인원과 경영진 관여를 검증한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0042",
+    "status": "open",
+    "question": "F.I.M.M.·RadioMarelli·FIVRE의 전시 법인 관계와 군·민간 납품은 어떻게 구분되는가?",
+    "related_ids": [
+      "CAT-IT-ORG-0003",
+      "CAT-IT-ORG-0004",
+      "CAT-IT-SRC-0053",
+      "CAT-IT-SRC-0097",
+      "CAT-IT-SRC-0098"
+    ],
+    "evidence": "기관 연혁의 분업과 FIVRE 제작 송신부 목록을 확인했다. 지분·계약·납품 기록은 확보하지 못했다.",
+    "completion_condition": "전시 등기·주주명부와 전기·통신 기자재 발주서 및 공장별 납품 대장을 대조한다. 다른 전시 공급업체도 후속 조사한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0043",
+    "status": "open",
+    "question": "1939–1945년 본토 인구는 동일 경계에서 어떻게 변했고 전시 이동 인구는 어떻게 집계됐는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0001",
+      "CAT-IT-SRC-0100",
+      "CAT-IT-SRC-0101",
+      "CAT-IT-SRC-0102",
+      "CAT-IT-SRC-0106"
+    ],
+    "evidence": "전전 총조사, 연감 잠정치와 후대 역산의 경계·현주·상주 기준이 다르다. 1941년 총조사는 취소됐다.",
+    "completion_condition": "당대 등록 자료와 전후 역산 방법, 국경별 포함 지자체, 군인·피란민·실종자·귀환자의 집계 규칙을 비교한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0044",
+    "status": "open",
+    "question": "1939년 리비아 893,774명과 약 918,000명의 공간·기준일·분류는 일치하는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0002",
+      "CAT-IT-SRC-0100",
+      "CAT-IT-SRC-0103",
+      "CAT-IT-SRC-0104",
+      "CAT-IT-SRC-0105"
+    ],
+    "evidence": "재수록된 표 5에는 정확한 기준일이 없고 로시는 1939년 6월 30일을 명시했다. 4개 주와 사하라, 국적별 선별 집계가 혼재한다.",
+    "completion_condition": "1940–41년 리비아 연감 원표와 1936년 원총조사 표, 영·프 군정의 전시 추계·철수 기록을 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0045",
+    "status": "open",
+    "question": "동아프리카·에게해·알바니아·점령지에서 전쟁 전후 인구와 집계 누락은 어떻게 확인할 수 있는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0003",
+      "CAT-IT-GEO-0004",
+      "CAT-IT-SRC-0100",
+      "CAT-IT-SRC-0103"
+    ],
+    "evidence": "동아프리카의 1939년 추계와 에게해의 1936년 현주 인구를 확인했다. 동아프리카 전역의 조사 완료 여부는 불명이다.",
+    "completion_condition": "행정구역별 원표와 후속 통치 기관 자료를 대조하고 법적 귀속·실효 지배·국적별 모집단을 따로 표시한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0046",
+    "status": "open",
+    "question": "Fairfield Camp의 정확한 서명 구역은 1943년 카시빌레의 행정구역과 어떻게 대응하는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0005",
+      "CAT-IT-SRC-0088",
+      "CAT-IT-SRC-0107",
+      "CAT-IT-SRC-0108"
+    ],
+    "evidence": "미 육군 전사와 휴전문서의 지명·캠프명은 대조했다. 현대 카시빌레는 시라쿠사 소속이다.",
+    "completion_condition": "1943년 캠프 배치도·시라쿠사 지적도와 전시 사령부 기록으로 지점을 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0047",
+    "status": "open",
+    "question": "북아드리아해의 Fiume·Pola는 1939년 시·주 경계 및 1945년 군정하에서 어떻게 쓰였는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0006",
+      "CAT-IT-GEO-0007",
+      "CAT-IT-SRC-0109",
+      "CAT-IT-SRC-0110",
+      "CAT-IT-SRC-0111",
+      "CAT-IT-SRC-0112",
+      "CAT-IT-SRC-0117"
+    ],
+    "evidence": "1939년 주 명칭의 1945년 문서 재현, 폴라 군정 규정과 근현대 대응명을 확인했다. 리예카는 1948년 수샤크와 합쳐졌다.",
+    "completion_condition": "1939년 지적·행정지도와 1945년 부속 지도·시행 기록을 확인하고 전시 이탈리아어·크로아티아어 지명을 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0048",
+    "status": "open",
+    "question": "로도스 섬과 트리폴리 도시·주의 이름은 각 통치기관과 현지 자료에서 어떻게 확인되는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0002",
+      "CAT-IT-GEO-0004",
+      "CAT-IT-GEO-0008",
+      "CAT-IT-GEO-0009",
+      "CAT-IT-SRC-0100",
+      "CAT-IT-SRC-0104",
+      "CAT-IT-SRC-0113",
+      "CAT-IT-SRC-0114",
+      "CAT-IT-SRC-0115",
+      "CAT-IT-SRC-0116"
+    ],
+    "evidence": "로도스는 동시대 지도 소장 목록과 전후 조약, 트리폴리는 당대 통계연감과 현대 유엔 지명 자료를 대조했다.",
+    "completion_condition": "이탈리아·연합군의 원도와 영·프 군정 지명집, 전시 그리스어·아랍어 자료를 확인한다. 나머지 북아프리카·아드리아해 사례를 보완한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0049",
+    "status": "open",
+    "question": "1945년 9월 2일 이탈리아 본토의 군정 잔류지와 북아드리아해의 임시 관할은 어디였는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0001",
+      "CAT-IT-GEO-0006",
+      "CAT-IT-GEO-0007",
+      "CAT-IT-SRC-0109",
+      "CAT-IT-SRC-0110",
+      "CAT-IT-SRC-0120",
+      "CAT-IT-SRC-0121",
+      "CAT-IT-SRC-0122"
+    ],
+    "evidence": "이양 지도와 임시 군정 조항을 확인했다. 카세르타 군사 항복 범위와 전후 양도 조항은 서로 다른 기준이다.",
+    "completion_condition": "1945년 6월 부속 지도와 지역별 이양, 군정 종료 문서의 시군·기준일을 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0050",
+    "status": "open",
+    "question": "알바니아·루블랴나·달마티아의 법령상 귀속과 프랑스·그리스 점령의 실제 경계는 어떻게 달랐는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0010",
+      "CAT-IT-GEO-0011",
+      "CAT-IT-SRC-0068",
+      "CAT-IT-SRC-0118",
+      "CAT-IT-SRC-0119",
+      "CAT-IT-SRC-0124"
+    ],
+    "evidence": "알바니아의 별도 왕관과 내각, 루블랴나의 이탈리아 국내 편입 선언, 일반 점령의 차이를 확인했다.",
+    "completion_condition": "이탈리아 관보 부속도, 달마티아의 협정·법령, 프랑스·그리스 군정 지도를 수집해 시점별 경계를 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0051",
+    "status": "open",
+    "question": "리비아·동아프리카·에게해의 개별 통치 인계 범위와 날짜는 무엇인가?",
+    "related_ids": [
+      "CAT-IT-GEO-0002",
+      "CAT-IT-GEO-0003",
+      "CAT-IT-GEO-0004",
+      "CAT-IT-GEO-0008",
+      "CAT-IT-SRC-0104",
+      "CAT-IT-SRC-0113",
+      "CAT-IT-SRC-0115",
+      "CAT-IT-SRC-0123"
+    ],
+    "evidence": "리비아 군정, 아디스아바바·로도스에서 통치 전환의 대표 시점, 1947년의 권원 처리를 분리했다.",
+    "completion_condition": "에리트레아·이탈리아령 소말릴란드와 에게해 각 섬의 군정 명령·행정 인수 기록을 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0052",
+    "status": "open",
+    "question": "이탈리아 본토와 알바니아의 원유 채굴, 본토 반입·제유·합성연료 생산의 연도별 중량은 각각 얼마인가?",
+    "related_ids": [
+      "CAT-IT-GEO-0001",
+      "CAT-IT-GEO-0010",
+      "CAT-IT-SRC-0125",
+      "CAT-IT-SRC-0127",
+      "CAT-IT-SRC-0128"
+    ],
+    "evidence": "1941년 알바니아 전국치와 Kuçovë 유전치의 범위 및 단위가 다르다. 영국 통계의 이탈리아 행은 셰일유를 포함한다.",
+    "completion_condition": "AIPA·AGIP 출하·입항 장부, ANIC 처리 및 SICS 합성연료 생산 원장, 세관 표를 대조해 품목별 단위·생산지·도착지를 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0053",
+    "status": "open",
+    "question": "1943–1945년 본토 철강·알루미늄 생산과 공급은 공장별 통제 변화에 따라 어떻게 달라졌는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0001",
+      "CAT-IT-SRC-0125",
+      "CAT-IT-SRC-0126"
+    ],
+    "evidence": "이탈리아 국가행의 강괴·주강 및 보크사이트·금속 알루미늄은 확인했다. 원표는 시설별 통제 주체와 연도별 통계 경계를 모두 밝혀주지 않는다.",
+    "completion_condition": "동일한 산업 정의의 이탈리아 생산 원장과 점령 당국 조사표, 수입·재고를 대조하고 광석·알루미나·금속 및 강괴·주강·압연을 분리한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0054",
+    "status": "open",
+    "question": "Ferrara 합성고무의 연산능력과 실제 누계·연간 실적, 이탈리아의 천연고무 수입 및 해외 속령 생산은 얼마인가?",
+    "related_ids": [
+      "CAT-IT-GEO-0013",
+      "CAT-IT-GEO-0014",
+      "CAT-IT-SRC-0131",
+      "CAT-IT-SRC-0132",
+      "CAT-IT-SRC-0133"
+    ],
+    "evidence": "Ferrara의 1942년 가동과 Terni 미완공은 대조했다. Ferrara 13,000톤의 분모를 원장으로 확인하지 못했다. IMI 목록에 기술보고서가 있으며 첨부는 등록자 열람이다.",
+    "completion_condition": "SAIGS 공장 원장과 IMI 기술보고서의 능력·실적 기간을 맞추고 세관·식민지 원표에서 천연고무와 재생고무를 가려낸다."
+  },
+  {
+    "id": "CAT-IT-RQ-0055",
+    "status": "open",
+    "question": "알바니아 크롬의 AMMI 포괄 범위·품위·본토 반입량과 이탈리아 텅스텐 광산·수입·합금의 전시 실적은 무엇인가?",
+    "related_ids": [
+      "CAT-IT-GEO-0010",
+      "CAT-IT-SRC-0125",
+      "CAT-IT-SRC-0129",
+      "CAT-IT-SRC-0130"
+    ],
+    "evidence": "크롬의 1942년 상품광과 1943년 생산 계획을 분리했고, 이탈리아 텅스텐 수입 표의 전시 셀은 (a)다.",
+    "completion_condition": "AMMI·알바니아 출하와 이탈리아 통관 원표, 광산·제련 보고서를 확보해 회사별 분모, 광석 중량·산화물 함량과 수입·합금 품목을 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0056",
+    "status": "open",
+    "question": "미라피오리의 1939년 5월 행사와 11월 개장 서술은 어떤 준공·생산 단계를 가리키며 원 공장의 면적·정격은 언제 확보됐는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0015",
+      "CAT-IT-SRC-0134",
+      "CAT-IT-SRC-0135",
+      "CAT-IT-SRC-0136",
+      "CAT-IT-SRC-0137"
+    ],
+    "evidence": "두 개장 서술과 FIAT 도식을 확인했다. 9월 1일 철도 완공과 생산 가동은 미확인이다.",
+    "completion_condition": "FIAT의 1939년 공사 인수·가동·교대·철도 장부 및 1945년의 동일 경계 도면과 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0057",
+    "status": "open",
+    "question": "테르니 본공장의 1939년 실제 고용·생산 원표, 물리 규모와 1945년 잔존·재가동은 어떠했는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0016",
+      "CAT-IT-SRC-0138",
+      "CAT-IT-SRC-0139",
+      "CAT-IT-SRC-0143"
+    ],
+    "evidence": "IRI 수치의 논문 전재와 회사 연혁을 읽었다. 해당 연구는 Bonelli 생산 계열과의 차이를 지적한다.",
+    "completion_condition": "ACS IRI Serie nera b. 78의 생산 범위, 인원 장부·부지·물류·전력 자료 및 1945년 원장·피해도를 확보해 같은 본공장 경계로 비교한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0058",
+    "status": "open",
+    "question": "코르닐리아노 신설 부지에서 1938년 매립, 1939년 본공사 및 뒤이은 설치·해체가 각각 언제 어디까지 진행됐는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0017",
+      "CAT-IT-SRC-0140",
+      "CAT-IT-SRC-0141",
+      "CAT-IT-SRC-0142"
+    ],
+    "evidence": "착공 시점의 기관별 표기가 다르다. 기존 캄피 사업장과 신설 부지는 자료상 별개다.",
+    "completion_condition": "SIAC 공사일지·매립도·설비 인수·반출 원표로 각 공정의 경계와 날짜 및 1945년 잔존 범위를 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0059",
+    "status": "open",
+    "question": "바뇰리·피옴비노·포르토페라이오 등 본토와 해외 속령 주요 시설에는 어떤 공업 규모 자료와 비교 기준이 남아 있는가?",
+    "related_ids": [
+      "CAT-IT-SRC-0141",
+      "CAT-IT-SRC-0142"
+    ],
+    "evidence": "첫 조사에서 자동차·철강 시설 3곳을 대조했다. 추가 후보와 비교 등급의 공통 경계는 미확인이다.",
+    "completion_condition": "동일 경계의 공업조사·도면과 업종별 정격·작업 수용·물류 자료를 확보하고 실재 비교 시설에 따라 네 차원 기준을 마련한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0060",
+    "status": "open",
+    "question": "종전 기준일 미라피오리 원 공장의 잔존 작업장과 가동 라인·생산·고용은 얼마였는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0015",
+      "CAT-IT-SRC-0134",
+      "CAT-IT-SRC-0145",
+      "CAT-IT-SRC-0146",
+      "CAT-IT-RQ-0056"
+    ],
+    "evidence": "공습 횟수와 전시 정전, 연말 통상 수준 대비 50% 기록은 있으나 기준일 실적·피해 면적·통상치 산식은 미확인이다.",
+    "completion_condition": "FIAT 가동·고용·피해 원장 및 전력·운송 일지를 확보하고 1945년 9월과 연말을 분리한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0061",
+    "status": "open",
+    "question": "테르니 1945년 9월 8일의 생산능력 18%를 산출한 기준은 무엇이며 9월 2일의 실제 가동과는 어떻게 다른가?",
+    "related_ids": [
+      "CAT-IT-GEO-0016",
+      "CAT-IT-SRC-0138",
+      "CAT-IT-SRC-0139",
+      "CAT-IT-SRC-0144",
+      "CAT-IT-RQ-0057"
+    ],
+    "evidence": "기관 해설의 생산능력과 1944년 가동 기록을 확인했다. 외부 수력계통 비율은 제철 본공장 수치와 경계가 다르다.",
+    "completion_condition": "회사 및 IRI 보고와 설비·월간 생산·고용 장부를 대조하고 전력 원자료를 사업장 식별 후 연결한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0062",
+    "status": "open",
+    "question": "코르닐리아노 신설 구역의 반출지, 남은 면적·설비·처리 능력과 전후 반환 품목은 무엇인가?",
+    "related_ids": [
+      "CAT-IT-GEO-0017",
+      "CAT-IT-SRC-0141",
+      "CAT-IT-SRC-0142",
+      "CAT-IT-SRC-0150",
+      "CAT-IT-RQ-0058"
+    ],
+    "evidence": "공장 미가동·대부분 반출과 후속 회사의 1950년대 가동을 확인했다. 종전 조사표·개별 설비 대장은 미확보했다.",
+    "completion_condition": "SIAC 재산·공사·반출 장부와 1945년 연합군 조사표, 전후 자산반환 문서를 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0063",
+    "status": "open",
+    "question": "토리노·제노바의 군정 이관일 차이와 본토·해외 다른 산업시설의 종전 규모를 어떻게 검증할 수 있는가?",
+    "related_ids": [
+      "CAT-IT-SRC-0147",
+      "CAT-IT-SRC-0148",
+      "CAT-IT-SRC-0149",
+      "CAT-IT-RQ-0059"
+    ],
+    "evidence": "연구표의 12월 28일과 미 외교전보의 12월 31일을 확인했다. 공업시설은 본토 세 곳을 조사했다.",
+    "completion_condition": "지역별 군정 인수인계 서명·효력 문서, 추가 후보의 피해·잔존 조사와 동일 업종의 네 차원 비교 기준을 확보한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0064",
+    "status": "open",
+    "question": "구이도니아 군 비행장과 DSSE의 개전일 경계·활주로·격납·정비·보급 규모는 얼마인가?",
+    "related_ids": [
+      "CAT-IT-GEO-0018",
+      "CAT-IT-SRC-0153",
+      "CAT-IT-SRC-0154",
+      "CAT-IT-SRC-0155"
+    ],
+    "evidence": "1938년 배치도 범례와 시험 설비를 확인했다. 축척·준공도 및 항공기 정비 정격은 미확인이다.",
+    "completion_condition": "1938년 원도와 준공도, 비행장 대장과 DSSE 항공기 정비·급유 장부를 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0065",
+    "status": "open",
+    "question": "카스텔 베니토의 1939년 낙하산학교와 비행장 정격은 1943년 조사와 어떻게 달랐는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0019",
+      "CAT-IT-SRC-0156",
+      "CAT-IT-SRC-0158",
+      "CAT-IT-SRC-0159"
+    ],
+    "evidence": "1938년 명령 인용과 1943년 치수의 후대 전재를 확인했다. 1939년 수용력·고정 배치는 미확인이다.",
+    "completion_condition": "Super ASI 명령 원문, 1939년 공항 지적·운용기록과 전시 확장 도면을 대조한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0066",
+    "status": "open",
+    "question": "1939년 제50공격항공단이 옮겨 간 베르카 비행장의 정확한 공간 범위와 시설 정격은 얼마인가?",
+    "related_ids": [
+      "CAT-IT-GEO-0020",
+      "CAT-IT-SRC-0157",
+      "CAT-IT-SRC-0158",
+      "CAT-IT-SRC-0159"
+    ],
+    "evidence": "부대 연혁은 Berka라고만 쓰며, 후대 편찬물은 복수 번호를 구분한다.",
+    "completion_condition": "항공단 일지·지도와 당시 시설 대장에서 착륙장 번호, 배치 및 시설 용량을 분리한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0067",
+    "status": "open",
+    "question": "개전일 시암피노 및 도데카네스 등 다른 대표 기지의 운영과 네 차원 비교 기준은 무엇인가?",
+    "related_ids": [
+      "CAT-IT-SRC-0157",
+      "CAT-IT-SRC-0158"
+    ],
+    "evidence": "선정한 세 곳의 기준일 정격이 부족하며 기타 지역과 기능은 미검사 상태다.",
+    "completion_condition": "1939년 시설 목록·원 도면과 정비·보급 대장에 따라 사례를 추가하고 같은 시점과 단위의 비교 경계를 확보한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0068",
+    "status": "open",
+    "question": "1937년 미 해군무관 보고와 1939년 이탈리아 해군 편제표 사이에 제1·2전대 사령부 및 모항 지정이 언제 변경됐는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0021",
+      "CAT-IT-GEO-0022",
+      "CAT-IT-SRC-0161",
+      "CAT-IT-SRC-0162",
+      "CAT-IT-SRC-0166"
+    ],
+    "evidence": "1937-07-22 보고에는 제1전대 타란토, 제2전대 라스페치아가 나오고, 후대의 1939년 편제표에는 사령부가 그 반대로 기재된다. 1939-08-19 라스페치아 실제 접안 기록은 1척이다.",
+    "completion_condition": "해군 명령과 두 기지의 1939년 8~9월 항무일지에서 사령부·모항·일별 실제 정박을 별도 필드로 확인한다."
+  },
+  {
+    "id": "CAT-IT-RQ-0069",
+    "status": "open",
+    "question": "타란토·라스페치아·아우구스타의 1939년 개전 시점 네 차원 시설 정격은 어느 수준이었는가?",
+    "related_ids": [
+      "CAT-IT-GEO-0021",
+      "CAT-IT-GEO-0022",
+      "CAT-IT-GEO-0023",
+      "CAT-IT-SRC-0164",
+      "CAT-IT-SRC-0165",
+      "CAT-IT-SRC-0167"
+    ],
+    "evidence": "건설기 도크 수·치수와 마르 그란데 별도 계획, 아우구스타의 정비시설 조성 이력을 확인했다. 기준일 설치·가동 구분 및 공통 비교 기준이 남았다.",
+    "completion_condition": "같은 공간 단위의 1939년 시설 도면·도크 일지·작업장·수송 및 보급 통계를 확보하고, 다른 나라 군항과 같은 용량 단위로 비교 등급 경계를 만든다."
+  },
+  {
+    "id": "CAT-IT-RQ-0070",
+    "status": "open",
+    "question": "이탈리아 왕국의 다른 본토 군항과 식민지·해외 기지의 군용 범위는 어떻게 구별됐는가?",
+    "related_ids": [
+      "CAT-IT-SRC-0162",
+      "CAT-IT-SRC-0166"
+    ],
+    "evidence": "미 외교 전보의 나폴리·트리폴리와 1939년 편제표의 토브루크·레로·마사우아 등은 후속 후보이며 각 시설 기준일 경계·규모를 확인하지 못했다.",
+    "completion_condition": "항구별 1939년 행정 지위·실효지배·해군 운영권·군용 시설 경계를 확인하고 민간 안벽과 수리시설을 분리한 목록·치수·위치 근거를 확보한다."
+  }
+]

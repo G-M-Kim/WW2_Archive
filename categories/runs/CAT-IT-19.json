@@ -1,0 +1,266 @@
+{
+  "job_id": "CAT-IT-19",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 19,
+  "category": "개전 시점 주요 해군기지와 규모(1~10)",
+  "article_path": "categories/italy/19-naval-bases-start.md",
+  "status": "partial",
+  "step": 114,
+  "started_at": "2026-11-18T10:49:04+09:00",
+  "completed_at": "2026-11-18T10:55:59+09:00",
+  "base_head": "7337ae6595239fce2318fd39ce9edd3f02e672ab",
+  "source_ids": [
+    "CAT-IT-SRC-0030",
+    "CAT-IT-SRC-0066",
+    "CAT-IT-SRC-0107",
+    "CAT-IT-SRC-0122",
+    "CAT-IT-SRC-0161",
+    "CAT-IT-SRC-0162",
+    "CAT-IT-SRC-0163",
+    "CAT-IT-SRC-0164",
+    "CAT-IT-SRC-0165",
+    "CAT-IT-SRC-0166",
+    "CAT-IT-SRC-0167"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0068",
+    "CAT-IT-RQ-0069",
+    "CAT-IT-RQ-0070"
+  ],
+  "entity_ids": [
+    "CAT-IT-GEO-0021",
+    "CAT-IT-GEO-0022",
+    "CAT-IT-GEO-0023"
+  ],
+  "research_scope": "1939-09-01 본토의 타란토·라스페치아·시칠리아 아우구스타를 대표 사례로 확인했다. 조선·수리창, 기지 편제·정박 기록, 마르 그란데 추가 시설 계획을 대조했다.",
+  "limitations": [
+    "기준일 가동 수치와 국가 간 비교 경계가 부족해 3개 시설의 점수와 범위를 null로 남겼다.",
+    "미 해군무관 보고와 이탈리아 편제표 사이의 명령·실제 정박 시점이 남았다. 해외 군항과 그 밖의 본토 군항은 다음 검증 쟁점으로 등록했다."
+  ],
+  "evidence_checked": [
+    "1937년 미 해군무관 보고 일련번호 392와 1939년 8월 FRUS 전보 323을 열람하고 1939년 이탈리아 해군 편제표의 사령부·창설 중인 그룹과 대조했다.",
+    "1928년 왕령 제10조 재수록에서 왕립 해군 조선·수리창의 소재·지휘 구조를 확인했다.",
+    "공식 해군 시설 연혁에서 도크 수·건설년·건설 당시 치수를 읽고 타란토의 1939년 별도 신설 계획과 구분했다."
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-IT-GEO-0021",
+      "reference_date": "1939-09-01",
+      "period_name": "Base navale di Taranto / Regio Arsenale",
+      "modern_name": "타란토",
+      "territorial_status": "이탈리아 왕국 유럽 본토 풀리아. 이탈리아 왕국 실효 지배.",
+      "boundary": "타란토의 마르 피콜로 쪽 당대 왕립 해군 조선·수리창과 함대가 이용한 항만 수역. 상항과 마르 그란데 신설 해군기지 계획 구역은 집계에서 제외. 정확한 1939년 필지 미확인.",
+      "operator": "Regia Marina / Regio Arsenale di Taranto",
+      "operation": "1937년 미 해군무관 보고의 제1전대 모항 및 정비 거점. 1939년 재구성 편제의 제2전대 사령부 소재지. 1939-08-23 미국 측이 함대 배치지로 추정. 개전 당일 정박함 수와 수리 실적은 미확인.",
+      "metrics": [
+        {
+          "metric": "건설 이력이 확인된 석조 건선거",
+          "value": 2,
+          "unit": "기",
+          "date": "1889년 Brin, 1916년 Ferrati",
+          "boundary": "타란토의 마르 피콜로 쪽 당대 왕립 해군 조선·수리창과 함대가 이용한 항만 수역. 상항과 마르 그란데 신설 해군기지 계획 구역은 집계에서 제외. 정확한 1939년 필지 미확인.",
+          "source_id": "CAT-IT-SRC-0165",
+          "locator": "17쪽, 첫 단락",
+          "capacity_or_actual": "historical_installed_facilities"
+        },
+        {
+          "metric": "마르 그란데 신설 건선거 설계 길이",
+          "value": 404,
+          "unit": "m",
+          "date": "1939년 여름",
+          "boundary": "마르 그란데 신설 기지 계획 구역. 당대 마르 피콜로 운영 구역의 규모와 별도.",
+          "source_id": "CAT-IT-SRC-0167",
+          "locator": "42–45쪽, 우선 건설 결정과 1940년 예산 단락",
+          "capacity_or_actual": "plan_not_in_service"
+        },
+        {
+          "metric": "마르 그란데 신설 건선거 설계 상단 폭",
+          "value": 51,
+          "unit": "m",
+          "date": "1939년 여름",
+          "boundary": "마르 그란데 신설 기지 계획 구역. 당대 마르 피콜로 운영 구역의 규모와 별도.",
+          "source_id": "CAT-IT-SRC-0167",
+          "locator": "42–45쪽, 우선 건설 결정과 1940년 예산 단락",
+          "capacity_or_actual": "plan_not_in_service"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "준공 이력이 확인되는 석조 건선거 2기와 증설 계획을 확인했다. 기준일 가동 도크, 정박 정격, 수리·보급 처리량 및 비교 경계가 미확인이다.",
+      "method_version": "infrastructure-v1",
+      "source_ids": [
+        "CAT-IT-SRC-0161",
+        "CAT-IT-SRC-0162",
+        "CAT-IT-SRC-0163",
+        "CAT-IT-SRC-0165",
+        "CAT-IT-SRC-0166",
+        "CAT-IT-SRC-0167",
+        "CAT-IT-SRC-0030"
+      ]
+    },
+    {
+      "entity_id": "CAT-IT-GEO-0022",
+      "reference_date": "1939-09-01",
+      "period_name": "Base navale della Spezia / Regio Arsenale",
+      "modern_name": "라스페치아",
+      "territorial_status": "이탈리아 왕국 유럽 본토 리구리아. 이탈리아 왕국 실효 지배.",
+      "boundary": "라스페치아만 안쪽의 당대 왕립 해군 조선·수리창, 군용 도크 및 그 접안 수역. 상항·민간조선소 제외. 1945년 도면은 시설 경계의 참고만 가능.",
+      "operator": "Regia Marina / Regio Arsenale della Spezia",
+      "operation": "1937년 미 해군무관 보고의 제2전대 모항. 1939년 재구성 편제의 제1전대 사령부 소재지. 1939-08-19 미국 측 보고에 접안 순양함 1척. 1939-09-01의 실제 배치·수리량은 미확인.",
+      "metrics": [
+        {
+          "metric": "19세기 설치 석조 건선거",
+          "value": 6,
+          "unit": "기",
+          "date": "19세기 후반 건설 이력",
+          "boundary": "라스페치아만 안쪽의 당대 왕립 해군 조선·수리창, 군용 도크 및 그 접안 수역. 상항·민간조선소 제외. 1945년 도면은 시설 경계의 참고만 가능.",
+          "source_id": "CAT-IT-SRC-0164",
+          "locator": "136쪽 Le modifiche, manutenzioni e riparazioni dei bacini",
+          "capacity_or_actual": "historical_installed_facilities"
+        },
+        {
+          "metric": "5호 건선거 길이",
+          "value": 211.4,
+          "unit": "m",
+          "date": "19세기 후반 건설 당시",
+          "boundary": "라스페치아만 안쪽의 당대 왕립 해군 조선·수리창, 군용 도크 및 그 접안 수역. 상항·민간조선소 제외. 1945년 도면은 시설 경계의 참고만 가능.",
+          "source_id": "CAT-IT-SRC-0164",
+          "locator": "136쪽, 5·6호 도크 건설 당시 치수",
+          "capacity_or_actual": "historical_construction_dimension"
+        },
+        {
+          "metric": "5호 건선거 바닥 폭",
+          "value": 24.8,
+          "unit": "m",
+          "date": "19세기 후반 건설 당시",
+          "boundary": "라스페치아만 안쪽의 당대 왕립 해군 조선·수리창, 군용 도크 및 그 접안 수역. 상항·민간조선소 제외. 1945년 도면은 시설 경계의 참고만 가능.",
+          "source_id": "CAT-IT-SRC-0164",
+          "locator": "136쪽, 5·6호 도크 건설 당시 치수",
+          "capacity_or_actual": "historical_construction_dimension"
+        },
+        {
+          "metric": "6호 건선거 길이",
+          "value": 210.04,
+          "unit": "m",
+          "date": "19세기 후반 건설 당시",
+          "boundary": "라스페치아만 안쪽의 당대 왕립 해군 조선·수리창, 군용 도크 및 그 접안 수역. 상항·민간조선소 제외. 1945년 도면은 시설 경계의 참고만 가능.",
+          "source_id": "CAT-IT-SRC-0164",
+          "locator": "136쪽, 5·6호 도크 건설 당시 치수",
+          "capacity_or_actual": "historical_construction_dimension"
+        },
+        {
+          "metric": "6호 건선거 바닥 폭",
+          "value": 21.5,
+          "unit": "m",
+          "date": "19세기 후반 건설 당시",
+          "boundary": "라스페치아만 안쪽의 당대 왕립 해군 조선·수리창, 군용 도크 및 그 접안 수역. 상항·민간조선소 제외. 1945년 도면은 시설 경계의 참고만 가능.",
+          "source_id": "CAT-IT-SRC-0164",
+          "locator": "136쪽, 5·6호 도크 건설 당시 치수",
+          "capacity_or_actual": "historical_construction_dimension"
+        },
+        {
+          "metric": "부두에 있던 순양함",
+          "value": 1,
+          "unit": "척",
+          "date": "1939-08-19",
+          "boundary": "라스페치아만 안쪽의 당대 왕립 해군 조선·수리창, 군용 도크 및 그 접안 수역. 상항·민간조선소 제외. 1945년 도면은 시설 경계의 참고만 가능.",
+          "source_id": "CAT-IT-SRC-0162",
+          "locator": "문서 345 해군무관 정보 첫 단락",
+          "capacity_or_actual": "actual_reported_near_reference"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "건설기 도크 수와 5·6호 치수가 확인된다. 1939년 당시 입거·가동 한계와 접안·작업장·보급 정격 및 비교 경계가 미확인이다.",
+      "method_version": "infrastructure-v1",
+      "source_ids": [
+        "CAT-IT-SRC-0161",
+        "CAT-IT-SRC-0162",
+        "CAT-IT-SRC-0163",
+        "CAT-IT-SRC-0164",
+        "CAT-IT-SRC-0166"
+      ]
+    },
+    {
+      "entity_id": "CAT-IT-GEO-0023",
+      "reference_date": "1939-09-01",
+      "period_name": "Base navale di Augusta",
+      "modern_name": "아우구스타",
+      "territorial_status": "이탈리아 왕국 유럽 본토 범주 시칠리아섬. 이탈리아 왕국 실효 지배.",
+      "boundary": "시칠리아 동해안 아우구스타 만의 당대 해군 정박·정비 구역. 상항 및 후대 시설 제외. 당대 시설의 필지·안벽 범위 미확인.",
+      "operator": "Regia Marina",
+      "operation": "1937년 미 해군무관의 함대 운용 거점 평가. 왕립 해군 정비시설의 전전 조성 이력과 1939년 잠수함 제10그룹의 창설 중 표기 확인. 기준일 부대 실제 배치와 접안·정비 처리량 미확인.",
+      "metrics": [
+        {
+          "metric": "제10잠수함그룹의 당시 배치 척수",
+          "value": null,
+          "unit": null,
+          "date": "1939년 편제표",
+          "boundary": "시칠리아 동해안 아우구스타 만의 당대 해군 정박·정비 구역. 상항 및 후대 시설 제외. 당대 시설의 필지·안벽 범위 미확인.",
+          "source_id": "CAT-IT-SRC-0166",
+          "locator": "85쪽 부록 2 Gruppi in costituzione",
+          "capacity_or_actual": "formation_in_progress"
+        },
+        {
+          "metric": "정비 시설의 1939년 처리 정격",
+          "value": null,
+          "unit": null,
+          "date": "1930년대 중반부터 조성",
+          "boundary": "시칠리아 동해안 아우구스타 만의 당대 해군 정박·정비 구역. 상항 및 후대 시설 제외. 당대 시설의 필지·안벽 범위 미확인.",
+          "source_id": "CAT-IT-SRC-0165",
+          "locator": "25쪽 아우구스타 첫 단락",
+          "capacity_or_actual": "facility_origin_only"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "운용기지와 정비시설 조성은 확인했다. 네 차원을 평가할 1939년 정량 정격과 비교 경계가 미확인이다.",
+      "method_version": "infrastructure-v1",
+      "source_ids": [
+        "CAT-IT-SRC-0161",
+        "CAT-IT-SRC-0165",
+        "CAT-IT-SRC-0166"
+      ]
+    }
+  ],
+  "access_attempts": [
+    "Marina Militare의 타란토·아우구스타 일부 HTML은 시간 초과로 동일 기관의 공식 간행물 PDF 역사 단락을 열람했다.",
+    "DPLA 항목 페이지에 접근할 수 없어 공개된 당대 미 해군무관 스캔의 텍스트로 7쪽 본문을 열람했다. 왕령 최초 관보면은 미열람이고 공식 간행물의 제10조 발췌를 확인했다.",
+    "호주전쟁기념관 소장 해제를 열람했다. 미국 NHHC의 리토리오 사진 항목은 502로 본문에 사용하지 않았다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=114 pending=19; sources=1145 questions=433. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}

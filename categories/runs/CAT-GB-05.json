@@ -1,0 +1,67 @@
+{
+  "step": 43,
+  "job_id": "CAT-GB-05",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 5,
+  "category": "보병 무기 및 장비",
+  "article_path": "categories/united-kingdom/05-infantry-equipment.md",
+  "status": "partial",
+  "completed_at": "2026-11-12T14:56:29+09:00",
+  "started_at": "2026-11-12T14:50:10+09:00",
+  "base_head": "a0ad5627fc882e5de67bfaebf1349cc41ff92e6e",
+  "source_ids": [
+    "CAT-GB-SRC-0030",
+    "CAT-GB-SRC-0048",
+    "CAT-GB-SRC-0049",
+    "CAT-GB-SRC-0050",
+    "CAT-GB-SRC-0051",
+    "CAT-GB-SRC-0052",
+    "CAT-GB-SRC-0053",
+    "CAT-GB-SRC-0054",
+    "CAT-GB-SRC-0055",
+    "CAT-GB-SRC-0056",
+    "CAT-GB-SRC-0057",
+    "CAT-GB-SRC-0058"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0020",
+    "CAT-GB-RQ-0021",
+    "CAT-GB-RQ-0022",
+    "CAT-GB-RQ-0023"
+  ],
+  "entity_ids": [
+    "CAT-GB-EQP-0013",
+    "CAT-GB-EQP-0014",
+    "CAT-GB-EQP-0015",
+    "CAT-GB-EQP-0016"
+  ],
+  "research_scope": "리엔필드 No. 4와 브렌 Mk I, Mk III 철모, 1937년형 휴대 군장의 소장 실물·생산 및 전시 운용 사례.",
+  "limitations": [
+    "개별 소장품의 제작·개조·사용 이력은 전구별 보급 범위와 구분했다.",
+    "브렌의 186,802정은 캐나다 공식 전사의 구경 한정 추정치이며, 영국 공장별 생산 및 핀타 사진의 Mk는 미확인.",
+    "철모 보호 시험과 부대별 지급, 기타 보병 무기·군장·의무·통신 장비는 후속 범위."
+  ],
+  "evidence_checked": [
+    "NAM 1961-07-189-8-1 및 AWM REL/16298·REL/20343의 사진과 기술(사진은 AWM 두 표본)",
+    "NAM 1993-07-242-1·1984-03-96-11, 연대박물관 핀타 사진군, 캐나다 공식 전사 25~26쪽",
+    "NAM 철모·허리띠 소장 기술, AWM 철모 해설 및 REL30983 사진·소장 설명"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://collection.nam.ac.uk/detail.php?acc=1998-02-259--1",
+      "result": "검색 색인의 주소가 404를 반환했다. 정확한 소장번호 주소 1998-02-259-1에서 설명을 확인했다."
+    },
+    {
+      "url": "https://collection.nam.ac.uk/detail.php?acc=1984-03-96-11",
+      "result": "소장 설명을 열고 연대박물관 PDF의 동일 사진 판면을 대조했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=43 pending=90; sources=495 questions=178. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

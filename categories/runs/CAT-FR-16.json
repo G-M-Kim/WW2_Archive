@@ -1,0 +1,340 @@
+{
+  "step": 35,
+  "job_id": "CAT-FR-16",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 16,
+  "category": "개전 시점 주요 공업단지와 규모(1~20)",
+  "article_path": "categories/france/16-industrial-centers-start.md",
+  "status": "partial",
+  "completed_at": "2026-11-11T20:58:18+09:00",
+  "started_at": "2026-11-11T20:48:53+09:00",
+  "base_head": "63bd1935ee7be1ac18db8d29666e5b74147c985e",
+  "source_ids": [
+    "CAT-FR-SRC-0099",
+    "CAT-FR-SRC-0130",
+    "CAT-FR-SRC-0131",
+    "CAT-FR-SRC-0155",
+    "CAT-FR-SRC-0156",
+    "CAT-FR-SRC-0157",
+    "CAT-FR-SRC-0158",
+    "CAT-FR-SRC-0159",
+    "CAT-FR-SRC-0160",
+    "CAT-FR-SRC-0161",
+    "CAT-FR-SRC-0162",
+    "CAT-FR-SRC-0163",
+    "CAT-FR-SRC-0164",
+    "CAT-FR-SRC-0165",
+    "CAT-FR-SRC-0166",
+    "CAT-FR-SRC-0167",
+    "CAT-FR-SRC-0168"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0052",
+    "CAT-FR-RQ-0053",
+    "CAT-FR-RQ-0054"
+  ],
+  "entity_ids": [
+    "CAT-FR-GEO-0017",
+    "CAT-FR-GEO-0018",
+    "CAT-FR-ORG-0001"
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-FR-GEO-0017",
+      "reference_date": "1939-09-01",
+      "historical_name": "Usines Renault de Billancourt",
+      "modern_location": "불로뉴빌랑쿠르와 뫼동·세브르 접경 센강 일대 (오드센)",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "빌랑쿠르 센강 우안 트라페즈와 연결 작업장, 세갱섬 및 바뫼동의 르노 산업 필지. 외지 공장과 주거지 제외. 1939년 정확한 필지 경계 미확인.",
+      "territorial_status": "1939-09-01 프랑스 공화국 본토, 프랑스 실효 지배. 식민지 및 점령지에 해당하지 않음.",
+      "operators": "Société anonyme des usines Renault (SAUR), CAT-FR-ORG-0001",
+      "operational_status": "개전 전 조립·전력·교량 설치와 차량 생산 확인. 1939-09-01 설비별 가동은 미확인. 갈리스 매입과 1947~1950 작업장 설치는 별개.",
+      "source_survey_dates": [
+        "1938년 고용·차종 생산 시작, 관측 월 미상",
+        "1939년 고용·부지, 관측일 미상; 차량 생산 1939년 연간",
+        "1990년 유산 조사, 시설 설치 시기는 1927~1934년으로 소급; 1997년 산업유산 연구서의 전성기 면적 조사일 미상"
+      ],
+      "metrics": [
+        {
+          "metric": "산업 부지 면적",
+          "value": 100,
+          "unit": "ha",
+          "date": "1939, 정확한 관측일 미상",
+          "boundary": "개발기관 연혁의 Meudon–Boulogne-Billancourt",
+          "source_id": "CAT-FR-SRC-0156",
+          "locator": "Les usines Renault",
+          "capacity_or_actual": "소급 면적 집계, 경계 미확인"
+        },
+        {
+          "metric": "전성기 산업 부지 면적",
+          "value": 72,
+          "unit": "ha (약)",
+          "date": "전성기, 기준 연도 미상",
+          "boundary": "우안·세갱섬, 세브르·뫼동 일부",
+          "source_id": "CAT-FR-SRC-0157",
+          "locator": "101쪽 Les usines Renault",
+          "capacity_or_actual": "소급 면적 집계, 1939년 대체값 제외"
+        },
+        {
+          "metric": "차량 생산",
+          "value": 58000,
+          "unit": "대/년",
+          "date": "1939",
+          "boundary": "Renault Histoire의 Billancourt, 세부 작업장 미상",
+          "source_id": "CAT-FR-SRC-0161",
+          "locator": "Production annuelle, 1939 행",
+          "capacity_or_actual": "연간 생산 실적, 원장 미확인"
+        },
+        {
+          "metric": "공장 종업원",
+          "value": 38000,
+          "unit": "명",
+          "date": "1938, 관측일 미상",
+          "boundary": "Paris 1 강의의 Billancourt usine",
+          "source_id": "CAT-FR-SRC-0159",
+          "locator": "§2.3",
+          "capacity_or_actual": "실제 고용"
+        },
+        {
+          "metric": "공장 종업원",
+          "value": 37000,
+          "unit": "명",
+          "date": "1939, 관측일 미상",
+          "boundary": "Le Monde 회고의 Billancourt",
+          "source_id": "CAT-FR-SRC-0160",
+          "locator": "En 1939 단락",
+          "capacity_or_actual": "실제 고용"
+        },
+        {
+          "metric": "알스톰 터보발전기",
+          "value": 3,
+          "unit": "기",
+          "date": "1929·1933년형, 1990년 유산조사",
+          "boundary": "세갱섬 발전소",
+          "source_id": "CAT-FR-SRC-0158",
+          "locator": "1쪽 Historique",
+          "capacity_or_actual": "설치 목록, 발전용량·당일 가동 미확인"
+        },
+        {
+          "metric": "철도망 접근 교량",
+          "value": 2,
+          "unit": "개",
+          "date": "1928·1932년 개통, 1990년 유산조사",
+          "boundary": "다이데교 및 뫼동교",
+          "source_id": "CAT-FR-SRC-0158",
+          "locator": "1쪽 Historique",
+          "capacity_or_actual": "설치 목록, 수송 처리량 미확인"
+        }
+      ],
+      "anchors": [
+        {
+          "dimension": 1,
+          "facility": "Peugeot, Grand Sochaux",
+          "metric_value_or_band": "1928~1932년 재편 문맥에서 부지 50 ha",
+          "source_id": "CAT-FR-SRC-0167",
+          "locator": "IA25001029 1쪽",
+          "comparison_reason": "전전 자동차 공장군의 토지 면적. 필지 기준과 조사일이 달라 등급 경계에는 미사용."
+        },
+        {
+          "dimension": 3,
+          "facility": "Peugeot, Grand Sochaux",
+          "metric_value_or_band": "1937년 노동자 15,000명",
+          "source_id": "CAT-FR-SRC-0167",
+          "locator": "IA25001029 1쪽",
+          "comparison_reason": "자동차 공장의 실제 고용 비교. 종업원 전체나 작업 수용 정원과 직접 비교 불가."
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "부지 분모, 설치 생산능력, 작업 수용, 전력·수송 처리량 및 네 차원의 공통 등급 경계가 미확인이다.",
+      "source_ids": [
+        "CAT-FR-SRC-0099",
+        "CAT-FR-SRC-0131",
+        "CAT-FR-SRC-0156",
+        "CAT-FR-SRC-0157",
+        "CAT-FR-SRC-0158",
+        "CAT-FR-SRC-0159",
+        "CAT-FR-SRC-0160",
+        "CAT-FR-SRC-0161",
+        "CAT-FR-SRC-0162",
+        "CAT-FR-SRC-0167"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-FR-GEO-0018",
+      "reference_date": "1939-09-01",
+      "historical_name": "Usines du Creusot, du Breuil et Henri-Paul",
+      "modern_location": "르크뢰조, 르브뢰유·토르시, 몽샤냉 일대 (손에루아르)",
+      "coordinates_wgs84": null,
+      "comparison_boundary": "르크뢰조 본공장(국유 작업장 운영 별도), 르브뢰유 제강소 및 앙리폴 주조소의 세 구역. 샬롱 조선소·보르도·외지 광산 제외. 1939년 정확한 필지 경계 미확인.",
+      "territorial_status": "1939-09-01 프랑스 공화국 본토, 프랑스 실효 지배. 식민지 및 점령지에 해당하지 않음.",
+      "operators": "Schneider et Cie. 1937년 일부 국유화된 Atelier de construction du Creusot는 프랑스 포병 행정 소속.",
+      "operational_status": "제강소·주조소 개전 전 설치 확인. 개전 당일 가동 및 생산량 미확인. 1940년 생퐁 이전은 국유 작업장. 르브뢰유 1호로는 1944년 파괴.",
+      "source_survey_dates": [
+        "르브뢰유 1918년 완공 및 1944년 1호로 파괴, 2000년 유산조사",
+        "앙리폴 1920년 개소 및 약 1934년 용해설비 갱신, 1999년 유산조사",
+        "1940-05-31 실제 고용, 2021년 연구 PDF 표 1"
+      ],
+      "metrics": [
+        {
+          "metric": "마르탱로 설치",
+          "value": 8,
+          "unit": "기",
+          "date": "1918 설치, 2000년 유산조사",
+          "boundary": "르브뢰유 제강소",
+          "source_id": "CAT-FR-SRC-0163",
+          "locator": "1쪽 Historique",
+          "capacity_or_actual": "설치 능력: 25~30 t급 2기, 50~60 t급 6기, 개전일 실제 가동 미확인"
+        },
+        {
+          "metric": "소형 마르탱로 기별 명목 용량",
+          "value": [
+            25,
+            30
+          ],
+          "unit": "t/기",
+          "date": "1918 설치, 2000년 유산조사",
+          "boundary": "르브뢰유 제강소 소형로 2기",
+          "source_id": "CAT-FR-SRC-0163",
+          "locator": "1쪽 Historique",
+          "capacity_or_actual": "기별 설비 용량, 연간 생산과 별개"
+        },
+        {
+          "metric": "대형 마르탱로 기별 명목 용량",
+          "value": [
+            50,
+            60
+          ],
+          "unit": "t/기",
+          "date": "1918 설치, 2000년 유산조사",
+          "boundary": "르브뢰유 제강소 대형로 6기",
+          "source_id": "CAT-FR-SRC-0163",
+          "locator": "1쪽 Historique",
+          "capacity_or_actual": "기별 설비 용량, 연간 생산과 별개"
+        },
+        {
+          "metric": "주철 개소 명목 능력",
+          "value": 30000,
+          "unit": "t/년",
+          "date": "1920 개소, 1999년 유산조사",
+          "boundary": "앙리폴 주조소",
+          "source_id": "CAT-FR-SRC-0164",
+          "locator": "1쪽 Historique",
+          "capacity_or_actual": "개소 설비능력. 1934년경 갱신 후 같은 능력인지 미확인"
+        },
+        {
+          "metric": "현장 노동자",
+          "value": 12956,
+          "unit": "명",
+          "date": "1940-05-31",
+          "boundary": "르크뢰조·르브뢰유·앙리폴, 국유 직원 포함 여부 미상",
+          "source_id": "CAT-FR-SRC-0165",
+          "locator": "11~12쪽 표 1",
+          "capacity_or_actual": "실제 고용"
+        },
+        {
+          "metric": "사무직 등 직원",
+          "value": 1828,
+          "unit": "명",
+          "date": "1940-05-31",
+          "boundary": "르크뢰조·르브뢰유·앙리폴, 국유 직원 포함 여부 미상",
+          "source_id": "CAT-FR-SRC-0165",
+          "locator": "11~12쪽 표 1",
+          "capacity_or_actual": "실제 고용"
+        },
+        {
+          "metric": "세 구역 통합 산업용 면적",
+          "value": null,
+          "unit": "ha",
+          "date": "1939-09-01 기준 미확인",
+          "boundary": "르크뢰조 본공장(국유 작업장 운영 별도), 르브뢰유 제강소 및 앙리폴 주조소의 세 구역. 샬롱 조선소·보르도·외지 광산 제외. 1939년 정확한 필지 경계 미확인.",
+          "source_id": "CAT-FR-SRC-0163",
+          "locator": "1~2쪽 지리·시설",
+          "capacity_or_actual": "개별 위치 확인, 통합 면적 미계측"
+        },
+        {
+          "metric": "변전소 수전 용량과 운하 처리량",
+          "value": null,
+          "unit": "미확인",
+          "date": "1939-09-01 기준 미확인",
+          "boundary": "르브뢰유 제강소와 상트르 운하 접경",
+          "source_id": "CAT-FR-SRC-0163",
+          "locator": "1~2쪽 Historique·Hydrographie",
+          "capacity_or_actual": "변전소 및 운하 인접 확인, 처리능력 미확인"
+        }
+      ],
+      "anchors": [
+        {
+          "dimension": 3,
+          "facility": "Chantiers de Chalon, Schneider et Cie",
+          "metric_value_or_band": "1940-05-31 노동자 1,364명, 직원 140명",
+          "source_id": "CAT-FR-SRC-0165",
+          "locator": "11~12쪽 표 1",
+          "comparison_reason": "같은 회사·날짜의 실제 고용 비교. 조선소로 업종이 다르고 수용 정원을 뜻하지 않음."
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "개전일 통합 면적·생산·작업 수용 및 전력·수송 처리량, 네 차원의 등급 경계가 미확인이다.",
+      "source_ids": [
+        "CAT-FR-SRC-0131",
+        "CAT-FR-SRC-0163",
+        "CAT-FR-SRC-0164",
+        "CAT-FR-SRC-0165",
+        "CAT-FR-SRC-0166",
+        "CAT-FR-SRC-0168"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "research_scope": "1939-09-01 프랑스 본토의 빌랑쿠르 르노와 르크뢰조 슈나이더 세 공장군. 공장 경계·운영권·설치 설비·실제 생산 및 고용의 분리.",
+  "limitations": [
+    "개전일 가동·작업 수용·전력·수송 처리능력과 공통 정량 등급 경계는 미확인. 두 시설 점수·범위는 모두 null.",
+    "빌랑쿠르 면적·고용은 판본별 범위와 조사일이 불완전하다. 르크뢰조 고용은 1940년 5월 자료.",
+    "로렌·북부 공업지대와 해외 시설의 동등 단위 비교는 후속 과제로 남겼다."
+  ],
+  "evidence_checked": [
+    "프랑스 황서 368호 통보 본문과 산업유산 목록 IA00126644·IA00126647, 지역 연구서 101~102쪽",
+    "빌랑쿠르 생산표의 1939년 행, 제조사 La Juvaquatre, Paris 1 §2.3 및 Le Monde 본문",
+    "IA71000142·IA71000109 설비 연혁과 IA25001029 비교값, Dingli 표 1, SHD DE/2017/ZO/8 기관 연혁, AFB n°8 3~4쪽"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://louisrenault.com/wp-content/uploads/2021/09/Schneider-a%CC%80-le%CC%81te%CC%81-1940-de-lexode-a%CC%80-la-collaboration-07-09-2021.pdf",
+      "result": "저자 HTML 원문은 403. 같은 저자의 2021-09-07 PDF 본문·표를 열람했다."
+    },
+    {
+      "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/956530",
+      "result": "웹 열람 도구 시간 초과 뒤 직접 받은 HTML에서 청구기호·기관 연혁을 확인했다. 개별 원장은 현장 열람 대상이다."
+    },
+    {
+      "url": "https://www.originalsources.com/Document.aspx?DocID=MN49INZMTSM6TE2",
+      "result": "1937년 수용 명령 번역 링크는 로그인 화면으로 이동했다. 국유 작업장의 기관 연혁은 SHD와 AFB 자료로 대조했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=35 pending=98; sources=416 questions=147. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "step": 105,
+  "job_id": "CAT-IT-10",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 10,
+  "category": "유명 연설의 영상자료",
+  "article_path": "categories/italy/10-speech-videos.md",
+  "status": "partial",
+  "completed_at": "2026-11-17T17:04:47+09:00",
+  "started_at": "2026-11-17T17:00:10+09:00",
+  "base_head": "f84c90d22e6e2246903f07d5062a0711e92258fb",
+  "source_ids": [
+    "CAT-IT-SRC-0071",
+    "CAT-IT-SRC-0083",
+    "CAT-IT-SRC-0084",
+    "CAT-IT-SRC-0085",
+    "CAT-IT-SRC-0086",
+    "CAT-IT-SRC-0087",
+    "CAT-IT-SRC-0088",
+    "CAT-IT-SRC-0089",
+    "CAT-IT-SRC-0090",
+    "CAT-IT-SRC-0091"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0037",
+    "CAT-IT-RQ-0038",
+    "CAT-IT-RQ-0039"
+  ],
+  "entity_ids": [
+    "CAT-IT-PER-0004",
+    "CAT-IT-PER-0006"
+  ],
+  "research_scope": "1940년 무솔리니 참전 연설, 1943년 바돌리오 휴전 방송, 1944년 무솔리니 리리코 극장 연설의 당대 기록과 공개 판본.",
+  "limitations": [
+    "IWM과 루체 복원 공지의 길이 차이의 원인 및 두 당대 필름의 연설 타임코드·완전성·음성 동기화는 미확인이다.",
+    "바돌리오 당시 원영상은 확보하지 못했고 최초 송출 방식과 원음 계보는 미확인이다.",
+    "레지스탕스 및 그 밖의 왕국·사회공화국 방송은 후속 조사 범위다."
+  ],
+  "evidence_checked": [
+    "IWM COI 574와 루체 참전 연설·채색본 공지 및 C041801 뉴스릴 장면 목록을 열람했다.",
+    "FRUS 문서 616과 1943년 영국 식민부 전보 Circular No. 88 원문, 이솔라 논문 138쪽, 미 육군 전사 513쪽과 주 5를 대조했다.",
+    "이탈리아 대통령실 시청각 목록 AV-002-000305 및 AV-002-001199에서 후대 방송의 매체와 보존 상태를 확인했다."
+  ],
+  "access_attempts": [
+    "루체 세 삽입 플레이어는 요청 제한, 시청 페이지는 가져오기 오류였다. IWM은 미디지털화, 대통령실의 리리코 후대 편집본도 미디지털화로 표시됐다. 루체의 리리코 사진 상세 페이지와 이탈리아 육군 휴전 음원 페이지는 시간 초과였다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=105 pending=28; sources=1069 questions=402. Structural check only.",
+    "path_check": "변경 8개 경로는 모두 categories/ 하위."
+  }
+}

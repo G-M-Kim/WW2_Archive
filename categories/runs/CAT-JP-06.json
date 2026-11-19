@@ -1,0 +1,56 @@
+{
+  "step": 82,
+  "job_id": "CAT-JP-06",
+  "country_code": "JP",
+  "country": "일본",
+  "country_folder": "japan",
+  "category_number": 6,
+  "category": "WW2에서 빼놓을 수 없는 장비",
+  "article_path": "categories/japan/06-essential-technology.md",
+  "status": "partial",
+  "completed_at": "2026-11-15T18:54:42+09:00",
+  "started_at": "2026-11-15T18:49:51+09:00",
+  "base_head": "0f42afe01be9037018e47ff459b0695a5e39b318",
+  "source_ids": [
+    "CAT-JP-SRC-0052",
+    "CAT-JP-SRC-0053",
+    "CAT-JP-SRC-0054",
+    "CAT-JP-SRC-0055",
+    "CAT-JP-SRC-0056",
+    "CAT-JP-SRC-0057"
+  ],
+  "question_ids": [
+    "CAT-JP-RQ-0021",
+    "CAT-JP-RQ-0022",
+    "CAT-JP-RQ-0023"
+  ],
+  "entity_ids": [
+    "CAT-JP-EQP-0022",
+    "CAT-JP-EQP-0023",
+    "CAT-JP-EQP-0024",
+    "CAT-JP-EQP-0025"
+  ],
+  "research_scope": "21호·22호 함상 레이더, 외교용 PURPLE 및 해군용 JADE 암호 장비의 역할과 설치·운용 기록.",
+  "limitations": [
+    "21호 제3개량형의 설치·가동 상태에 관한 조사단 본문과 사진 표기가 다르다.",
+    "함별 시험·실전 가동 기록과 일본 측 암호기 보급·배치 자료를 확보하지 못했다.",
+    "지상·항공 레이더, 무선·소나·항법·병참은 후속 범위."
+  ],
+  "evidence_checked": [
+    "종전 직후 미 해군 기술조사단 보고서와 일본무선 기술자의 전후 회고를 대조했다.",
+    "미 국가암호박물관의 장비 및 유물 기록과 미 국무부 공개 외교문서를 확인했다."
+  ],
+  "access_attempts": [
+    {
+      "url": "https://yamato-museum.jp/annex/?page_id=787",
+      "status": "inaccessible",
+      "detail": "야마토 박물관의 레이더 소개 직접 열기 HTTP 502. 증거로 인용하지 않았다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=82 pending=51; sources=873 questions=327. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

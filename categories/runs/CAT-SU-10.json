@@ -1,0 +1,51 @@
+{
+  "step": 124,
+  "job_id": "CAT-SU-10",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 10,
+  "category": "유명 연설의 영상자료",
+  "article_path": "categories/soviet-union/10-speech-videos.md",
+  "status": "partial",
+  "started_at": "2026-11-19T06:56:48+09:00",
+  "completed_at": "2026-11-19T07:01:06+09:00",
+  "base_head": "3ea2c303f496290cb73abc6dfba7c05c927ce6c5",
+  "source_ids": [
+    "CAT-SU-SRC-0089",
+    "CAT-SU-SRC-0090",
+    "CAT-SU-SRC-0091",
+    "CAT-SU-SRC-0092",
+    "CAT-SU-SRC-0093"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0037",
+    "CAT-SU-RQ-0038",
+    "CAT-SU-RQ-0039"
+  ],
+  "entity_ids": [
+    "CAT-SU-PER-0004",
+    "CAT-SU-PER-0005"
+  ],
+  "research_scope": "1941년 몰로토프 6월 22일, 스탈린 7월 3일과 11월 7일 연설의 음성 소장기록 및 열병식 영상 후보·전시 재촬영 계통을 조사했다.",
+  "limitations": [
+    "실제 동영상 시청과 원음 청취는 미완료다. 세 음성문서의 목록과 영상 후보의 장면 설명을 확인했다.",
+    "재촬영 촬영자의 일기는 웹 재수록문으로 확인했다. 원본 소장번호·인쇄쪽과 판본별 프레임·타임코드는 미확인이다."
+  ],
+  "evidence_checked": [
+    "대통령도서관의 RGAFD 음성 목록 3건에서 날짜·길이·소장번호를 읽었다.",
+    "Net-Film №59960의 장면 설명과 전체 길이를 읽고 브라우저 재생기의 오류를 확인했다.",
+    "CSDF Museum이 재수록한 촬영 일기의 17·20·27일 촬영 준비·실행 기록을 읽었다."
+  ],
+  "access_attempts": [
+    "Net-Film №59960 페이지의 실제 브라우저 재생기에 Unable to play media.가 표시됐다. 한 차례 새로고침 후에도 같았다. 원인은 미확인이다.",
+    "연설 원고 파일은 최신 HEAD에서 404여서 이번 첫 조사로 생성했다.",
+    "IWM·USHMM·대통령도서관·Net-Film을 검색했다. 검색 결과나 다른 후대 편집물을 시청한 것으로 세지 않았다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=124 pending=9; sources=1224 questions=469. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "step": 121,
+  "job_id": "CAT-SU-07",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 7,
+  "category": "유명한 전투 참여 인물",
+  "article_path": "categories/soviet-union/07-combat-personnel.md",
+  "status": "partial",
+  "started_at": "2026-11-19T00:51:13+09:00",
+  "completed_at": "2026-11-19T00:56:41+09:00",
+  "base_head": "188dd2a8f0ea0c963a1a8c782c9eb8ff468329fd",
+  "source_ids": [
+    "CAT-SU-SRC-0065",
+    "CAT-SU-SRC-0066",
+    "CAT-SU-SRC-0067",
+    "CAT-SU-SRC-0068",
+    "CAT-SU-SRC-0069",
+    "CAT-SU-SRC-0070",
+    "CAT-SU-SRC-0071",
+    "CAT-SU-SRC-0072",
+    "CAT-SU-SRC-0073"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0025",
+    "CAT-SU-RQ-0026",
+    "CAT-SU-RQ-0027",
+    "CAT-SU-RQ-0028"
+  ],
+  "entity_ids": [
+    "CAT-SU-PER-0001",
+    "CAT-SU-PER-0002",
+    "CAT-SU-PER-0003"
+  ],
+  "research_scope": "주코프의 베를린 지휘·항복 대표 자격, 추이코프의 스탈린그라드 제62군 지휘, 파블리첸코의 전시 복무·표창·학생대표단 보도.",
+  "limitations": [
+    "소련 지휘 문서는 해당 목록까지 확인했다. 원문 전체와 작전 집행·책임은 별도 대조가 필요하다.",
+    "파블리첸코의 309명 수치는 전시 정부 회보의 공표값이다. 독립 전과대장과 정확한 승급일은 확인하지 못했다."
+  ],
+  "evidence_checked": [
+    "베를린 항복문서 영문 전사의 제2조·서명란을 미 육군 군사사센터 편찬물과 대조하고 주코프 보고의 기록물 목록을 열었다.",
+    "스탈린그라드 전투 박물관 인물 전기와 추이코프 명령 201의 보존 정보를 대조했다.",
+    "파블리첸코의 제137호 표창 기록과 세바스토폴 박물관 기록, 1942년 주미 소련대사관 회보 스캔을 확인했다."
+  ],
+  "access_attempts": [
+    "러시아 연방 기록청의 추이코프 구술 기록 URL은 접근 불가였다. 대통령도서관 전투명령 목록을 사용했다.",
+    "미 의회도서관 사진 카탈로그는 HTTP 403이었다. 별도 원본 이미지 서비스에서 사진은 열렸으나, 원고의 워싱턴 방문 근거는 실제 열람한 전시 회보다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=121 pending=12; sources=1204 questions=458. Structural check only.",
+    "path_check": "변경 대상 8개 경로는 모두 categories/ 하위."
+  }
+}

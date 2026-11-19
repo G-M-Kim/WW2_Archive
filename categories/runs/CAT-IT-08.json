@@ -1,0 +1,56 @@
+{
+  "step": 103,
+  "job_id": "CAT-IT-08",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 8,
+  "category": "유명한 정치 인물",
+  "article_path": "categories/italy/08-political-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-17T12:53:07+09:00",
+  "started_at": "2026-11-17T12:48:24+09:00",
+  "base_head": "583c9fe31e8560ca83bb829aa9eab29e1fcd3484",
+  "source_ids": [
+    "CAT-IT-SRC-0065",
+    "CAT-IT-SRC-0066",
+    "CAT-IT-SRC-0067",
+    "CAT-IT-SRC-0068",
+    "CAT-IT-SRC-0069",
+    "CAT-IT-SRC-0070",
+    "CAT-IT-SRC-0071",
+    "CAT-IT-SRC-0072",
+    "CAT-IT-SRC-0073",
+    "CAT-IT-SRC-0074"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0029",
+    "CAT-IT-RQ-0030",
+    "CAT-IT-RQ-0031",
+    "CAT-IT-RQ-0032"
+  ],
+  "entity_ids": [
+    "CAT-IT-PER-0004",
+    "CAT-IT-PER-0005",
+    "CAT-IT-PER-0006",
+    "CAT-IT-PER-0007"
+  ],
+  "research_scope": "무솔리니·비토리오 에마누엘레 3세·바돌리오·치아노의 소속, 참전 결정과 외교, 인종차별 법제, 정권 교체 및 공동교전 책임.",
+  "limitations": [
+    "이탈리아 정부의 내부 결재와 왕실 인사 문서, 휴전 위임장·선전포고 수령 기록은 미확인이다.",
+    "독일 점령 이후 박해의 지역별 집행과 개별 결재 경로는 별도 검증이 필요하다."
+  ],
+  "evidence_checked": [
+    "이탈리아 법령 원문, 미국·이탈리아 외교 공한과 연합군 휴전 서명 보고.",
+    "미영소 공동성명, 삼국동맹 조약 서명 전사본, USHMM 및 이탈리아 대통령실 역사기록관 본문."
+  ],
+  "access_attempts": [
+    "1943년 7월 26일 관보의 목록 화면을 열었으나 왕실 인사 원문은 확인하지 못했다. 정권 교체는 루스벨트 전보의 편집 주석과 USHMM 해설을 구분해 기록했다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=103 pending=30; sources=1052 questions=395. Structural check only.",
+    "path_check": "변경 8개 경로는 모두 categories/ 하위."
+  }
+}

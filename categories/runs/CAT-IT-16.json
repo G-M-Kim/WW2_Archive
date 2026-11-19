@@ -1,0 +1,253 @@
+{
+  "job_id": "CAT-IT-16",
+  "country_code": "IT",
+  "country": "이탈리아",
+  "country_folder": "italy",
+  "category_number": 16,
+  "category": "개전 시점 주요 공업단지와 규모(1~20)",
+  "article_path": "categories/italy/16-industrial-centers-start.md",
+  "status": "partial",
+  "step": 111,
+  "started_at": "2026-11-18T04:54:51+09:00",
+  "completed_at": "2026-11-18T04:58:42+09:00",
+  "base_head": "7c7fe5fff466254ce56206596d508afcd22ec118",
+  "source_ids": [
+    "CAT-IT-SRC-0066",
+    "CAT-IT-SRC-0107",
+    "CAT-IT-SRC-0122",
+    "CAT-IT-SRC-0134",
+    "CAT-IT-SRC-0135",
+    "CAT-IT-SRC-0136",
+    "CAT-IT-SRC-0137",
+    "CAT-IT-SRC-0138",
+    "CAT-IT-SRC-0139",
+    "CAT-IT-SRC-0140",
+    "CAT-IT-SRC-0141",
+    "CAT-IT-SRC-0142",
+    "CAT-IT-SRC-0143"
+  ],
+  "question_ids": [
+    "CAT-IT-RQ-0056",
+    "CAT-IT-RQ-0057",
+    "CAT-IT-RQ-0058",
+    "CAT-IT-RQ-0059"
+  ],
+  "entity_ids": [
+    "CAT-IT-GEO-0015",
+    "CAT-IT-GEO-0016",
+    "CAT-IT-GEO-0017",
+    "CAT-IT-ORG-0001"
+  ],
+  "research_scope": "1939-09-01 이탈리아 왕국 본토의 토리노 미라피오리 원 공장, 테르니 제철 본공장, 제노바 코르닐리아노 일관제철 신설 구역의 대표 사례.",
+  "limitations": [
+    "3개 사업장의 당일 가동·정격과 공통 비교 기준이 부족하여 규모 점수와 범위는 모두 null이다.",
+    "미라피오리의 개장 용례와 코르닐리아노의 착공 시점에 차이가 있고, 이탈리아 전역·해외 속령을 전수 조사하지 않았다."
+  ],
+  "evidence_checked": [
+    "1939년 FIAT 조립 도식 재수록본과 박물관의 개장·부지 설명 및 토리노 시사의 면적과 설계 인원을 확인했다.",
+    "테르니의 IRI 기반 생산 및 연말 인원 수치와 회사 설비 연혁, SIAC·Ilva 기록 목록 및 기술사를 대조했다."
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-IT-GEO-0015",
+      "reference_date": "1939-09-01",
+      "period_name": "Stabilimento FIAT Mirafiori",
+      "modern_name": "토리노 Fiat Mirafiori 원 공장 구역",
+      "territorial_status": "이탈리아 왕국 본토, 이탈리아 왕국 정부의 실효 지배. 군정·식민지 구역 아님.",
+      "boundary": "토리노 남서부 미라피오리의 1930년대 원 공장. Corso Giovanni Agnelli 200의 업무동과 Corso Tazzoli 연변 본 공장동·구내 부대설비. 링고토와 전후 Mirafiori Sud 제외. 당시 필지 경계는 미확인.",
+      "operator": "FIAT (CAT-IT-ORG-0001)",
+      "operation": "1939-05-15 개장 행사. 당시 미완공이었다는 기관 해설과 11월 개장 서술이 함께 남아 있다. 1939-09-01 공정별 가동과 실적은 미확인.",
+      "metrics": [
+        {
+          "metric": "원 공장 부지 전체",
+          "value": 1000000,
+          "unit": "㎡",
+          "date": "1939년 무렵",
+          "boundary": "토리노 남서부 미라피오리의 1930년대 원 공장. Corso Giovanni Agnelli 200의 업무동과 Corso Tazzoli 연변 본 공장동·구내 부대설비. 링고토와 전후 Mirafiori Sud 제외. 당시 필지 경계는 미확인.",
+          "source_id": "CAT-IT-SRC-0136",
+          "locator": "인쇄 371쪽",
+          "capacity_or_actual": "physical_footprint"
+        },
+        {
+          "metric": "건물 피복 면적",
+          "value": 300000,
+          "unit": "㎡",
+          "date": "1939년 무렵",
+          "boundary": "토리노 남서부 미라피오리의 1930년대 원 공장. Corso Giovanni Agnelli 200의 업무동과 Corso Tazzoli 연변 본 공장동·구내 부대설비. 링고토와 전후 Mirafiori Sud 제외. 당시 필지 경계는 미확인.",
+          "source_id": "CAT-IT-SRC-0136",
+          "locator": "인쇄 371쪽",
+          "capacity_or_actual": "physical_footprint"
+        },
+        {
+          "metric": "2교대 설계 인원",
+          "value": 22000,
+          "unit": "명",
+          "date": "1930년대 말 설계",
+          "boundary": "토리노 남서부 미라피오리의 1930년대 원 공장. Corso Giovanni Agnelli 200의 업무동과 Corso Tazzoli 연변 본 공장동·구내 부대설비. 링고토와 전후 Mirafiori Sud 제외. 당시 필지 경계는 미확인.",
+          "source_id": "CAT-IT-SRC-0136",
+          "locator": "인쇄 371쪽",
+          "capacity_or_actual": "planned"
+        },
+        {
+          "metric": "구내 철도 총연장",
+          "value": 11,
+          "unit": "km",
+          "date": "원 공장 시설 해설, 설치 완료일 미상",
+          "boundary": "토리노 남서부 미라피오리의 1930년대 원 공장. Corso Giovanni Agnelli 200의 업무동과 Corso Tazzoli 연변 본 공장동·구내 부대설비. 링고토와 전후 Mirafiori Sud 제외. 당시 필지 경계는 미확인.",
+          "source_id": "CAT-IT-SRC-0134",
+          "locator": "§1 Storia dell’edificio",
+          "capacity_or_actual": "installed_date_unknown"
+        },
+        {
+          "metric": "자동차 조립 공정 정격",
+          "value": null,
+          "unit": null,
+          "date": "1939",
+          "boundary": "토리노 남서부 미라피오리의 1930년대 원 공장. Corso Giovanni Agnelli 200의 업무동과 Corso Tazzoli 연변 본 공장동·구내 부대설비. 링고토와 전후 Mirafiori Sud 제외. 당시 필지 경계는 미확인.",
+          "source_id": "CAT-IT-SRC-0137",
+          "locator": "논문 86쪽, 그림 8.1",
+          "capacity_or_actual": "planned"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "제시된 면적과 설계 인원은 원 공장 규모의 근거다. 공정별 정격, 철도 설치 완료 시점·일일 처리량 및 공통 등급 경계 미확인.",
+      "source_ids": [
+        "CAT-IT-SRC-0134",
+        "CAT-IT-SRC-0135",
+        "CAT-IT-SRC-0136",
+        "CAT-IT-SRC-0137"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-IT-GEO-0016",
+      "reference_date": "1939-09-01",
+      "period_name": "Stabilimento siderurgico della Società Terni",
+      "modern_name": "테르니 Acciai Speciali Terni 제철 사업장",
+      "territorial_status": "이탈리아 왕국 본토, 이탈리아 왕국 정부의 실효 지배. 군정·식민지 구역 아님.",
+      "boundary": "움브리아 테르니 시의 Società Terni 제철·단조 본공장. 외부 수력발전소·화학사업장·육군 조병창·별개 SAIGS 합성고무 공장(CAT-IT-GEO-0014) 제외. 당시 필지 경계는 미확인.",
+      "operator": "Terni Società per l’Industria e l’Elettricità, IRI 재무 통제",
+      "operation": "1935년 프레스 설치 및 1939년 강철 생산 확인. 기준일 당일 가동 설비·생산량은 미확인.",
+      "metrics": [
+        {
+          "metric": "단조 프레스 정격",
+          "value": 12000,
+          "unit": "톤(가압 표기)",
+          "date": "1935",
+          "boundary": "움브리아 테르니 시의 Società Terni 제철·단조 본공장. 외부 수력발전소·화학사업장·육군 조병창·별개 SAIGS 합성고무 공장(CAT-IT-GEO-0014) 제외. 당시 필지 경계는 미확인.",
+          "source_id": "CAT-IT-SRC-0139",
+          "locator": "La pressa",
+          "capacity_or_actual": "installed"
+        },
+        {
+          "metric": "강철 생산량",
+          "value": 89057,
+          "unit": "톤",
+          "date": "1939년 연간",
+          "boundary": "움브리아 테르니 시의 Società Terni 제철·단조 본공장. 외부 수력발전소·화학사업장·육군 조병창·별개 SAIGS 합성고무 공장(CAT-IT-GEO-0014) 제외. 당시 필지 경계는 미확인.",
+          "source_id": "CAT-IT-SRC-0138",
+          "locator": "23쪽 주 30",
+          "capacity_or_actual": "actual"
+        },
+        {
+          "metric": "제철소 노동자",
+          "value": 8574,
+          "unit": "명",
+          "date": "1939-12-31",
+          "boundary": "움브리아 테르니 시의 Società Terni 제철·단조 본공장. 외부 수력발전소·화학사업장·육군 조병창·별개 SAIGS 합성고무 공장(CAT-IT-GEO-0014) 제외. 당시 필지 경계는 미확인.",
+          "source_id": "CAT-IT-SRC-0138",
+          "locator": "22쪽 주 27",
+          "capacity_or_actual": "actual"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "연간 생산·연말 고용은 실적이고 프레스 정격은 단일 공정 수치다. 부지 면적·공장 정격·작업 수용·전력 및 물류 정격과 공통 등급 경계 미확인.",
+      "source_ids": [
+        "CAT-IT-SRC-0138",
+        "CAT-IT-SRC-0139",
+        "CAT-IT-SRC-0143"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-IT-GEO-0017",
+      "reference_date": "1939-09-01",
+      "period_name": "Nuovo stabilimento a ciclo integrale di Cornigliano",
+      "modern_name": "제노바 코르닐리아노의 후대 Oscar Sinigaglia 제철소 구역",
+      "territorial_status": "이탈리아 왕국 본토, 이탈리아 왕국 정부의 실효 지배. 군정·식민지 구역 아님.",
+      "boundary": "리구리아 제노바의 코르닐리아노 해안 매립지 신설 일관제철소 공사 구역. SIAC 캄피 기존 공장과 전후 증설지 제외. 1939년 매립 외곽선과 면적은 미확인.",
+      "operator": "Società Italiana Acciaierie Cornigliano (SIAC), Finsider 지배",
+      "operation": "1938년 신설 결정 후 1938–1939년 착공 서술이 병존한다. 기준일 전후에는 공사 단계이며 전시 상업 생산 개시 근거를 확인하지 못했다.",
+      "metrics": [
+        {
+          "metric": "일관제철 신설 계획의 정격",
+          "value": null,
+          "unit": null,
+          "date": "1938",
+          "boundary": "리구리아 제노바의 코르닐리아노 해안 매립지 신설 일관제철소 공사 구역. SIAC 캄피 기존 공장과 전후 증설지 제외. 1939년 매립 외곽선과 면적은 미확인.",
+          "source_id": "CAT-IT-SRC-0141",
+          "locator": "인쇄 32쪽, 1938년 연표",
+          "capacity_or_actual": "planned"
+        },
+        {
+          "metric": "해안 매립의 완료 면적",
+          "value": null,
+          "unit": null,
+          "date": "1939-09-01",
+          "boundary": "리구리아 제노바의 코르닐리아노 해안 매립지 신설 일관제철소 공사 구역. SIAC 캄피 기존 공장과 전후 증설지 제외. 1939년 매립 외곽선과 면적은 미확인.",
+          "source_id": "CAT-IT-SRC-0141",
+          "locator": "인쇄 32쪽, 1938년 연표",
+          "capacity_or_actual": "unconfirmed"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "공사 중인 계획 시설이다. 기준일 매립 완료 면적·설치 설비·작업 수용·수송 정격 및 공통 등급 경계 미확인.",
+      "source_ids": [
+        "CAT-IT-SRC-0140",
+        "CAT-IT-SRC-0141",
+        "CAT-IT-SRC-0142"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "access_attempts": [
+    "FIAT 도식은 학위논문의 그림 8.1로 열람했다. 1939년 FIAT 홍보 원책 전체와 테르니 IRI 생산 원표는 직접 확보하지 못했다.",
+    "테르니의 SAN 목록과 코르닐리아노의 SIUSA·Ilva 목록을 열람했다. 당시 지적도와 설비 인수 원장은 미확보 상태다."
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=111 pending=22; sources=1121 questions=422. Structural check only.",
+    "path_check": "변경 대상 8개 경로를 categories/ 하위로 한정했다."
+  }
+}

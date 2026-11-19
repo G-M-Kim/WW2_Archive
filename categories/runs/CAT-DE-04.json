@@ -1,0 +1,61 @@
+{
+  "step": 4,
+  "job_id": "CAT-DE-04",
+  "country_code": "DE",
+  "country": "독일",
+  "country_folder": "germany",
+  "category_number": 4,
+  "category": "항공기, 무장, 성능",
+  "article_path": "categories/germany/04-aircraft.md",
+  "status": "partial",
+  "completed_at": "2026-11-09T06:58:04+09:00",
+  "started_at": "2026-11-09T06:54:47+09:00",
+  "source_ids": [
+    "CAT-DE-SRC-0013",
+    "CAT-DE-SRC-0014",
+    "CAT-DE-SRC-0015",
+    "CAT-DE-SRC-0016"
+  ],
+  "question_ids": [
+    "CAT-DE-RQ-0013",
+    "CAT-DE-RQ-0014",
+    "CAT-DE-RQ-0015",
+    "CAT-DE-RQ-0016"
+  ],
+  "entity_ids": [
+    "CAT-DE-EQP-0010",
+    "CAT-DE-EQP-0011"
+  ],
+  "research_scope": "Me262 Wendel 조종 지침 영국 번역 후대 재조판의 이륙권고/운용제약; AWM500200 소장품·전시표의 무장/엔진; Ju52 전후 연구p40의 수송·공수·견인 역할.",
+  "limitations": [
+    "두 계열만 부분 조사; 전수목록 아님",
+    "독일어 원본·영국 번역 원스캔 미대조; 후대 재조판",
+    "AWM두 문서는 같은기관/소장품 계보; 독립확증 아님",
+    "Ju52 원교범/형식별 성능·무장 미확인; 전후참여자연구",
+    "NARA해설 열람했으나 형식별 성능표 확증으로 채택 안함"
+  ],
+  "base_head": "171af5608cffa53ef62df4dfb6ac3d2cf6c142bb",
+  "evidence_checked": [
+    "AI2g Report2357 PDFpp2–3·5 본문 추출 대조",
+    "AWM REL/08385.001 Description·History/Summary",
+    "AWM Striking by Night Powerplant/Armament/Crew",
+    "USAF Historical Study167 표제·인쇄p40 IV.A.1 본문 추출 대조"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195965/junkers-ju-52/",
+      "result": "web open 403 Forbidden; 검색요약 증거 미채택"
+    },
+    {
+      "url": "https://airandspace.si.edu/collection-objects/messerschmitt-me-262-a-1a-schwalbe-swallow/nasm_A19600328000",
+      "result": "web open 403 Forbidden; 검색요약 증거 미채택"
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "133 jobs; visited=4 pending=129; sources=16 questions=16. Structural check only.",
+    "path_check": "8 changed paths, all under categories/; compared to latest HEAD snapshot.",
+    "initial_command_error": "Initial invocation from parent directory failed: no such file; rerun from snapshot root passed."
+  }
+}

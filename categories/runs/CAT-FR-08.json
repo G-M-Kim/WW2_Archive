@@ -1,0 +1,65 @@
+{
+  "step": 27,
+  "job_id": "CAT-FR-08",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 8,
+  "category": "유명한 정치 인물",
+  "article_path": "categories/france/08-political-personnel.md",
+  "status": "partial",
+  "completed_at": "2026-11-11T04:59:36+09:00",
+  "started_at": "2026-11-11T04:54:52+09:00",
+  "base_head": "911ef54a80ae6b36ae1f7670a15aa792adeb0b2b",
+  "source_ids": [
+    "CAT-FR-SRC-0070",
+    "CAT-FR-SRC-0071",
+    "CAT-FR-SRC-0072",
+    "CAT-FR-SRC-0073",
+    "CAT-FR-SRC-0074",
+    "CAT-FR-SRC-0075",
+    "CAT-FR-SRC-0076",
+    "CAT-FR-SRC-0077",
+    "CAT-FR-SRC-0078",
+    "CAT-FR-SRC-0079",
+    "CAT-FR-SRC-0080",
+    "CAT-FR-SRC-0081"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0027",
+    "CAT-FR-RQ-0028",
+    "CAT-FR-RQ-0029"
+  ],
+  "entity_ids": [
+    "CAT-FR-PER-0004",
+    "CAT-FR-PER-0005",
+    "CAT-FR-PER-0006"
+  ],
+  "research_scope": "페탱의 비시 권한과 유대인 지위법, 라발의 정부 수반 권한과 1942년 아동 추방 협의, 드골의 공화국 법질서 회복과 임시정부 외교 승인.",
+  "limitations": [
+    "페탱의 초안 수정은 전시 해설 범위이며 필적과 지역별 집행 미대조.",
+    "1942년 독일 보고·비시 회의록·경찰 회람은 발췌 범위. 호송 기록, 독일의 최종 승인과 전후 재판의 개인 책임 판결 미대조.",
+    "제3공화국의 전시 내각, 알제 지도부와 국내 저항 정치 대표는 후속 범위."
+  ],
+  "evidence_checked": [
+    "1940년 10월 18일 관보 5323쪽의 원판면과 본문, 헌정행위 제1·2·11·12호 전사, 르 페이 니베르네 제90호",
+    "XLIX 35 독일 보고, 비시 각료회의 7월 10일 발췌, XX-14a 파리 경찰 회람",
+    "1944년 8월 9일 명령의 프랑스 문화부 전사, FRUS 문서 836 및 영국 하원 10월 27일 회의록"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000320215/",
+      "result": "직접 열람 403. 프랑스 문화부 PDF 전사로 제1~3·7·11조를 확인."
+    },
+    {
+      "url": "https://mjp.univ-perp.fr/france/co1940.htm",
+      "result": "원문 전사 페이지 요청 502 및 재시도 타임아웃. Nomos 전사와 제12호의 당대 신문 전재를 사용."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=27 pending=106; sources=329 questions=122. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

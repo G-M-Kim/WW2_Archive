@@ -1,0 +1,4057 @@
+[
+  {
+    "id": "CAT-FR-SRC-0001",
+    "title": "B1 BIS",
+    "institution_or_author": "Musée des Blindés, Saumur",
+    "publication_date": "2024-12-05",
+    "source_type": "secondary: 박물관 소장차 해설",
+    "document_or_accession_number": null,
+    "locator": "B1 BIS 본문 및 제원 목록",
+    "url": "https://museedesblindes.fr/les_chars/b1-bis/",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "무장 배치와 유압 조향, 중량·출력·속도·장갑 표기."
+    ],
+    "limitations": [
+      "시험 하중·노면·장갑 측정 위치 미제시."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "saumur-collections"
+  },
+  {
+    "id": "CAT-FR-SRC-0002",
+    "title": "Somua S 35",
+    "institution_or_author": "Musée des Blindés, Saumur",
+    "publication_date": "2024-06-25",
+    "source_type": "secondary: 박물관 소장차 해설",
+    "document_or_accession_number": null,
+    "locator": "Somua S 35 본문 및 Armement 등 제원 목록",
+    "url": "https://museedesblindes.fr/les_chars/somua-s35/",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스 기병 운용, 소장차 제2흉갑기병연대 이력, 무장과 기동·장갑 제원 표기."
+    ],
+    "limitations": [
+      "기관총 수는 Bovington 자료와 상충. 기동 시험조건 및 장갑 부위 미제시."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "saumur-collections"
+  },
+  {
+    "id": "CAT-FR-SRC-0003",
+    "title": "Renault R35",
+    "institution_or_author": "Musée des Blindés, Saumur",
+    "publication_date": "2024-06-25",
+    "source_type": "secondary: 박물관 소장차 해설",
+    "document_or_accession_number": null,
+    "locator": "Renault R35 도입·복원 본문 및 제원 목록",
+    "url": "https://museedesblindes.fr/les_chars/renault-r35/",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1935년 채택과 보병지원 용도, 중량·속도·출력·장갑·무장 표기."
+    ],
+    "limitations": [
+      "시험 조건과 포의 세부 형식은 미제시. 전시 위장 도색은 복원이라고 명시."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "saumur-collections"
+  },
+  {
+    "id": "CAT-FR-SRC-0004",
+    "title": "Le Char B 1 bis",
+    "institution_or_author": "Pierre Garnier de Labareyre / Chemins de mémoire, 프랑스 국방부",
+    "publication_date": null,
+    "source_type": "secondary: 국방부 역사 해설",
+    "document_or_accession_number": null,
+    "locator": "인쇄 14–15쪽, 사진 제원과 Son utilisation au combat",
+    "url": "https://www.cheminsdememoire.gouv.fr/sites/default/files/2019-06/char%20B1%20bis.pdf",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "B1과 B1 bis의 형식 차이, 두 포의 모델과 MAC 31 수, 승무원 4명, DCR 운용 및 차체포 조준."
+    ],
+    "limitations": [
+      "생산량은 B1과 B1 bis 합산. 기계 성능의 세부 시험조건과 전투별 손실 원부 미제시. 일부 제원 사진은 Saumur 제공."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "garnier-chemins-de-memoire"
+  },
+  {
+    "id": "CAT-FR-SRC-0005",
+    "title": "SOMUA S35",
+    "institution_or_author": "The Tank Museum, Bovington",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 소장차 해설",
+    "document_or_accession_number": null,
+    "locator": "The Tank Museum’s SOMUA S35, Tank facts",
+    "url": "https://tankmuseum.org/tank-nuts/tank-collection/somua-s35",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "47 mm SA 35, 기관총 한 정 표기, 승무원 3명과 1인 포탑, 독일 노획 후 개조 흔적, 제원."
+    ],
+    "limitations": [
+      "본문 약 500대와 제원란 440대의 집계 범위 불명. 기관총 수는 Saumur와 상충. 전시 표식과 실제 프랑스군 개별차 이력은 별개."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bovington-collections"
+  },
+  {
+    "id": "CAT-FR-SRC-0006",
+    "title": "A Technical Examination of the Main Armament of the French Char B1 bis Tank, the Best Armed Series-Produced Tank in Service in 1939",
+    "institution_or_author": "William S. Andrews, Royal Military College of Canada / ISoMS",
+    "publication_date": null,
+    "source_type": "secondary: 기술 발표 초록",
+    "document_or_accession_number": null,
+    "locator": "1쪽, 75 mm·47 mm 및 승무원 조작 문단",
+    "url": "https://www.isofms.org/resource/dm/438500250147557394.pdf?n=Andrews.pdf",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "75 mm SA35 차체 장착, 47 mm SA35 포탑 장착, 조종수와 전차장의 조준·사격 역할."
+    ],
+    "limitations": [
+      "공개 초록만 열람. 369대의 공장별 원부와 세부 집계 조건은 확인되지 않아 확정값으로 사용하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "andrews-isofms-abstract"
+  },
+  {
+    "id": "CAT-FR-SRC-0007",
+    "title": "Char B1 bis. Appareil « Naëder » – Ensemble. Coupe longitudinale",
+    "institution_or_author": "Ateliers de Construction de Rueil, Service des Études(게시처 표기)",
+    "publication_date": "1939년 설명서로 목록화, 도판 자체 날짜 미표기",
+    "source_type": "primary: 당대 정비 도판의 디지털 발췌",
+    "document_or_accession_number": "Notice sur la description et l’entretien du matériel, planche 30",
+    "locator": "PL. N°30, Générateur / Récepteur / Différentiel",
+    "url": "https://tanks-encyclopedia.com/wp-content/uploads/imported/ww2_france_char_b1_bis_php/KYCOSlz.png",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Naëder 장치의 종단면, 발전부·수신부·차동기 연결 표기."
+    ],
+    "limitations": [
+      "정비 도판 30번 이미지만 직접 열람. 전체 교범 판본과 소장번호는 미확인. 조준 절차는 별도 해설과 대조."
+    ],
+    "rights": "공개된 도판 복제의 권리 조건 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "rueil-b1bis-manual"
+  },
+  {
+    "id": "CAT-FR-SRC-0008",
+    "title": "Im Westen, zerstörter französischer Panzer Char B1",
+    "institution_or_author": "Heinz Fremke / Bundesarchiv",
+    "publication_date": "1940-05",
+    "source_type": "primary: 당대 사진, 기록관 배포 디지털 복제본",
+    "document_or_accession_number": "Bild 101I-125-0277-09, PK 689",
+    "locator": "사진 전체, 차체와 포탑 및 BEARN II 차량 표식",
+    "url": "https://www.bild.bundesarchiv.de/dba/de/search/?query=Bild+101I-125-0277-09",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기록관의 800×540 배포 복제본을 직접 열람. 포탑과 차체에 각각 포신이 보이며 차량 전면에 BEARN II 표식이 있다."
+    ],
+    "limitations": [
+      "선전부대 촬영. 사진으로 구경·장갑·파괴 원인 또는 정확한 촬영지와 부대 이력을 확정하지 않음."
+    ],
+    "rights": "기록관 배포 복제는 Bundesarchiv / Heinz Fremke / CC BY-SA 3.0 DE 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "fremke-pk689"
+  },
+  {
+    "id": "CAT-FR-SRC-0009",
+    "title": "Les véhicules blindés français 1900–1944",
+    "institution_or_author": "Pierre Touzin",
+    "publication_date": "1979",
+    "source_type": "secondary: 군용차량사 연구서의 디지털 본문",
+    "document_or_accession_number": "Les chars légers Renault R 35 et R 40",
+    "locator": "인쇄 152–154쪽, 포탑 무장·1935년 주문·1936년 시험 및 증속 장치 실험 / CAT-FR-02 추가 대조: 인쇄 65–67쪽(AMD), 195–197쪽(UE), 205–206쪽(Lorraine).",
+    "url": "https://djvu.online/file/jjoqDQwILFiHF",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "37 mm SA 18 modifié 34 및 SA 38 사례, 첫 주문 300대, 첫 양산차 시험 평균 19.471 km/h.",
+      "AMD Panhard 양산형 포탑 무장과 제원표, UE 기본형과 견인·무장시험 구분, Lorraine 1937년 트레일러 시험 조건과 계약·검수 서술."
+    ],
+    "limitations": [
+      "후대 연구서 디지털 본문. Vincennes 위원회의 시험 원본 미열람. R35와 R40, 발주·생산·인도를 합산하지 않음.",
+      "AMD 전후 의회 집계 원표와 Lorraine 검수 원장, 세 장비의 빈센 시험 원문은 미확보."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "touzin-french-armour",
+    "additional_accessed_at": [
+      "2026-11-10T16:55:57+09:00"
+    ]
+  },
+  {
+    "id": "CAT-FR-SRC-0010",
+    "title": "Inventaire des archives de la Guerre, sous-séries 7 N à 9 N, tome II",
+    "institution_or_author": "Service historique de la Défense",
+    "publication_date": null,
+    "source_type": "archive_catalog: 프랑스 국방역사기록원 소장목록",
+    "document_or_accession_number": "GR 7 N 4204",
+    "locator": "dossiers 2–3, E.M.A. Section de l’armement",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2019-10/SHDGR_INV_7N_9N_1920_1940_T2_0.pdf",
+    "accessed_at": "2026-11-10T15:00:47+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 기병 전투장비 설명서, 1937–1939년 전차·장갑차 제원표와 생산 보고서의 접근 단서."
+    ],
+    "limitations": [
+      "기록원 목록 본문만 확인. 설명서의 정확한 차종 및 문건 본문·수치는 미열람."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "shd-gr7n-finding-aid"
+  },
+  {
+    "id": "CAT-FR-SRC-0011",
+    "title": "Military Intelligence: Identification of Foreign Armored Vehicles, German, Japanese, Russian, and Italian",
+    "institution_or_author": "U.S. War Department / U.S. Government Printing Office / GovInfo",
+    "publication_date": "1942-10-03",
+    "source_type": "primary: 전시 식별 교범",
+    "document_or_accession_number": "FM 30-42; GOVPUB-W-PURL-gpo119422",
+    "locator": "인쇄 16–17쪽(PDF 20–21쪽), Panhard 178 A.M.D. 35, 제원표 1·2·4·12·13·20번 및 식별도",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-W-PURL-gpo119422/pdf/GOVPUB-W-PURL-gpo119422.pdf",
+    "accessed_at": "2026-11-10T16:55:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "인쇄 16쪽 원면에서 독일군 사용 표기, 승무원 4명, 4륜구동, 2.5 cm포와 기관총, 부위별 장갑 및 도로 최고속도 확인."
+    ],
+    "limitations": [
+      "제1절의 한계 고지처럼 식별용 편찬이며 측정 차량, 개조 상태, 시험조건 불명. 프랑스 양산형과 수치가 엇갈린다."
+    ],
+    "rights": "미 전쟁부 간행물의 GovInfo 공개본. 문서·사진은 복제하지 않고 자체 요약과 링크 사용.",
+    "independence_group": "us-war-department-fm30-42"
+  },
+  {
+    "id": "CAT-FR-SRC-0012",
+    "title": "Objekt: Renault Panzer",
+    "institution_or_author": "Bayerisches Armeemuseum",
+    "publication_date": null,
+    "source_type": "secondary: 소장품 해설",
+    "document_or_accession_number": "Inv. Nr. 0812-1984",
+    "locator": "Renault UE Chenillette 본문, Technische Daten",
+    "url": "https://armeemuseum.de/de/aktuell/objekt-des-monats/1048-objekt-renault-panzer.html",
+    "accessed_at": "2026-11-10T16:55:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소장품 번호, 보급·견인 및 독일군 노획 개조 설명, 2인·9 mm·30 km/h 제원 표기."
+    ],
+    "limitations": [
+      "장갑 위치와 시험 노면·하중이 미제시되어 소장품 페이지의 제원으로 제한. 프랑스군의 형식별 생산 집계 미확정."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bavarian-army-museum"
+  },
+  {
+    "id": "CAT-FR-SRC-0013",
+    "title": "Le Miroir, 22 octobre 1939: sentinelle et chenillettes",
+    "institution_or_author": "촬영자 미상 / Le Miroir / Bibliothèque nationale de France",
+    "publication_date": "1939-10-22(간행일)",
+    "source_type": "primary: 당대 사진의 디지털 발췌",
+    "document_or_accession_number": "BnF Gallica bpt6k9797971b",
+    "locator": "2쪽 사진 발췌, 궤도차와 말이 나란히 놓인 장면",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9797971b/f2.item",
+    "accessed_at": "2026-11-10T16:55:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "직접 열람한 발췌 이미지에서 낮은 궤도 차량이 말과 함께 나타남. 발췌의 서지 정보는 Le Miroir 자르 장면으로 연결."
+    ],
+    "limitations": [
+      "Gallica 원면과 IIIF 요청은 접근 차단. 발췌에서 세부 형식·부대·촬영일·작전 결과는 식별 불가."
+    ],
+    "rights": "복제본 게시처는 프랑스 퍼블릭 도메인으로 표기. 원면의 별도 이용 조건은 미확인. 사진을 재업로드하지 않음.",
+    "independence_group": "le-miroir-1939-10-22",
+    "accessed_copy_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sentinelle%2C_chenillettes_Renault_UE_et_chevaux_pendant_l%27offensive_de_la_Sarre%2C_octobre_1939.jpg"
+  },
+  {
+    "id": "CAT-FR-SRC-0014",
+    "title": "Belgien, französische Panzer Panhard 178",
+    "institution_or_author": "Bundesarchiv",
+    "publication_date": "1940-05(촬영 목록 표기)",
+    "source_type": "archive_catalog: 당대 사진의 목록 메타데이터",
+    "document_or_accession_number": "Bild 101I-383-0301-24A",
+    "locator": "Digitales Bildarchiv 항목 제목, 소장번호, 촬영월",
+    "url": "https://www.bild.bundesarchiv.de/dba/en/search/?topicid=dcx-thes_klassifikation_7755gbmm4t232d00dbv",
+    "accessed_at": "2026-11-10T16:55:57+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "판아르 178이 기재된 1940년 5월 벨기에 사진의 개별 식별번호와 목록 설명."
+    ],
+    "limitations": [
+      "이미지 주소는 점검 페이지를 반환하여 원면 미열람. 목록의 차종·날짜·장소 이상의 판독을 하지 않음."
+    ],
+    "rights": "독일 연방기록원 웹 목록. 사진 이용권 미확인. 목록에 링크만 연결.",
+    "independence_group": "bundesarchiv-bild101i"
+  },
+  {
+    "id": "CAT-FR-SRC-0015",
+    "title": "Instruction (du 12 août 1936) sur l’emploi tactique des Grandes Unités",
+    "institution_or_author": "프랑스 육군 참모부 / 프랑스 국방부 CLADE.net",
+    "publication_date": "1936-08-12",
+    "source_type": "archive_catalog",
+    "document_or_accession_number": null,
+    "locator": "표제·간행일·간행기관 및 물리적 서지",
+    "url": "https://bibliotheques-numeriques.defense.gouv.fr/chetom/document/e84cc5e4-c19d-482c-86a5-dec36c65d16c",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 대부대 전술 운용 지침의 소장 및 서지."
+    ],
+    "limitations": [
+      "공식 목록의 검색 색인과 Doughty에 나타나는 1936년 지침의 서지."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "기록관 목록 및 본문 직접 열람에 실패했다. 검색 색인은 원문 열람으로 집계하지 않았다."
+  },
+  {
+    "id": "CAT-FR-SRC-0016",
+    "title": "French Operational Art: 1888–1940",
+    "institution_or_author": "Robert A. Doughty / U.S. Army Center of Military History",
+    "publication_date": "2005",
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 70-89",
+    "locator": "인쇄 91–101쪽, The Methodical Battle, France in 1940, Sedan",
+    "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/H%20Pdf/cmhPub_70-89.pdf?ver=OY1vr2V5R_70PubR44yMdw%3D%3D",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "단계별·시간표에 따른 전투, 포병 통제, 딜선 전진 및 세당의 전개."
+    ],
+    "limitations": [
+      "프랑스 작전술의 연속성과 실패에 초점을 둔 해석이다. 1944년의 제1군에는 적용하지 않는다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "doughty-french-operational-art"
+  },
+  {
+    "id": "CAT-FR-SRC-0017",
+    "title": "The Twenty Years Armistice and the “Mechanical Force”: French Interwar Defense Policy and the Debacle of 1940",
+    "institution_or_author": "Kang Jie Ng / U.S. Military Academy Athena",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 82–84쪽, Dyle–Breda·Hannut·Gembloux",
+    "url": "https://athena.westpoint.edu/bitstreams/4010f9e6-66c8-430a-b113-1a978394bfbd/download",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "벨기에 전진과 기동 기병의 아뉘 방어, 후속 장블루 교전."
+    ],
+    "limitations": [
+      "전술 세부는 Gunsburg 연구에 의존한다. 인용된 손실 수치나 평가를 별도 사료로 집계하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "usma-mechanical-arm"
+  },
+  {
+    "id": "CAT-FR-SRC-0018",
+    "title": "L’histoire de la Poche de Colmar",
+    "institution_or_author": "Musée Mémorial des Combats de la Poche de Colmar",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1944~1945년 프랑스 제1군·콜마르 포위지 서술",
+    "url": "https://musee.turckheim-alsace.com/lhistoire-de-la-poche-de-colmar/",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스 제1군의 콜마르 전투와 미군 증원·협동."
+    ],
+    "limitations": [
+      "전투 개관이다. 프랑스군 재무장과 보급의 전반적 운영을 설명하는 사료는 아니다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "colmar-memorial-museum"
+  },
+  {
+    "id": "CAT-FR-SRC-0019",
+    "title": "Scouts Out! The Development of Reconnaissance Units in Modern Armies",
+    "institution_or_author": "John J. McGrath / U.S. Army Combat Studies Institute Press",
+    "publication_date": "2008",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 67–70쪽, 프랑스의 DLM·DCR 편제와 1940년 정찰",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D110-PURL-LPS113722/pdf/GOVPUB-D110-PURL-LPS113722.pdf",
+    "accessed_at": "2026-11-10T17:18:19+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "DLM의 정찰·엄호와 DCR의 집중 전차 지원 임무, 독립 보병지원 전차의 병존."
+    ],
+    "limitations": [
+      "편제 및 정찰 중심의 후대 연구다. 부대별 실전 가동률은 인용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "mcgrath-scouts-out"
+  },
+  {
+    "id": "CAT-FR-SRC-0020",
+    "title": "War at Sea 1939–1945, I: The Defensive",
+    "institution_or_author": "S. W. Roskill / 영국 공식 전사",
+    "publication_date": "1954",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "제4장 인쇄 50–51쪽, Force de Raid 및 Table 3",
+    "url": "https://www.ibiblio.org/hyperwar/UN/UK/UK-RN-I/UK-RN-I-4.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "서지중해 분담과 브레스트 Force de Raid의 방면·편제."
+    ],
+    "limitations": [
+      "영국 측 전사다. 편성 합의와 실제 배치 표의 숫자가 달라 공통 역할만 채택했다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "roskill-war-at-sea-i"
+  },
+  {
+    "id": "CAT-FR-SRC-0021",
+    "title": "The Road to Oran: Anglo-French Naval Relations, September 1939–July 1940",
+    "institution_or_author": "David Brown / Frank Cass",
+    "publication_date": "2004",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "공개 발췌의 Dramatis Personae, Darlan 및 Gensoul 항목",
+    "url": "https://api.pageplace.de/preview/DT0400.9781135771638_A23808252/preview-9781135771638_A23808252.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "장술(Gensoul)의 Force de Raid 지휘와 브레스트에서 지중해로 옮긴 배치 기록."
+    ],
+    "limitations": [
+      "공개 발췌 범위만 사용했다. 영불 협상과 메르스엘케비르 전투의 전 장을 열람하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "brown-road-to-oran"
+  },
+  {
+    "id": "CAT-FR-SRC-0022",
+    "title": "La Marine nationale",
+    "institution_or_author": "Ordre de la Libération et son Musée",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Corvette Aconit 및 FNFL 소개 / CAT-FR-03: Sous-marin Rubis, 탑재량·1940년 지휘 전환",
+    "url": "https://www.ordredelaliberation.fr/fr/la-marine-nationale",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Aconit의 영국 공여, 호위단 편입, 대서양 호송과 노르망디기 호위.",
+      "뤼비의 기뢰 탑재 32발, 1940년 영국 지휘 및 7월 중순 FNFL 합류."
+    ],
+    "limitations": [
+      "훈장 수여와 함정 이력 중심이다. 프랑스 함대 전체 성과로 확대하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "ordre-liberation-naval",
+    "additional_accessed_at": [
+      "2026-11-10T19:00:44+09:00"
+    ]
+  },
+  {
+    "id": "CAT-FR-SRC-0023",
+    "title": "The Official Chronology of the U.S. Navy in World War II — 1942",
+    "institution_or_author": "Robert J. Cressman / U.S. Navy",
+    "publication_date": "1999",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1942년 11월 8일 북아프리카와 11월 27일 툴롱 항목 / CAT-FR-03: 1942년 11월 8일 카사블랑카, 손상 함정 집계",
+    "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "토치 상륙 당시 프랑스 측의 교전, 11월 독일의 툴롱 접근과 프랑스 함정의 자침.",
+      "USS Massachusetts 포격으로 장 바르가 피해를 입었다는 공식 연표 서술."
+    ],
+    "limitations": [
+      "미 해군 공식 연표다. 비시 정부와 개별 부대의 명령 관계는 별도 확인이 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "cressman-usn-chronology",
+    "additional_accessed_at": [
+      "2026-11-10T19:00:44+09:00"
+    ]
+  },
+  {
+    "id": "CAT-FR-SRC-0024",
+    "title": "Navy and Military Doctrine in France",
+    "institution_or_author": "James J. Tritten / Naval War College Press",
+    "publication_date": "1995-12",
+    "source_type": "secondary",
+    "document_or_accession_number": "A Doctrine Reader, Newport Paper No. 9",
+    "locator": "프랑스 장의 전간기 및 제2차 세계대전 준비 단락",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D208_200-PURL-gpo58388/pdf/GOVPUB-D208_200-PURL-gpo58388.pdf",
+    "accessed_at": "2026-11-10T17:37:14+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "함대 건설과 해군 항공·대공·대잠 준비의 불균형에 대한 저자의 평가."
+    ],
+    "limitations": [
+      "후대 교리사 연구의 해석이다. 함정별 전시 대잠·대공 능력은 이 자료에서 산출하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "tritten-french-doctrine"
+  },
+  {
+    "id": "CAT-FR-SRC-0025",
+    "title": "Un débat méconnu : l’organisation de l’armée de l’Air sur le front du Nord-Est en 1939–1940",
+    "institution_or_author": "Patrick Facon / Revue historique des Armées",
+    "publication_date": "2001",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 91–100쪽, 1936·1938년 체제와 전방·후방 지휘",
+    "url": "https://www.persee.fr/doc/rharm_0035-3299_2001_num_223_2_5193?pageId=T1_92",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동원·편제 개편의 이행, 뷔유맹의 작전 권한과 후방 참모부의 분리."
+    ],
+    "limitations": [
+      "북동부 전선과 1940년 전후 지휘 논쟁을 다룬다. 다른 전구에 일률 적용하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "facon-air-command"
+  },
+  {
+    "id": "CAT-FR-SRC-0026",
+    "title": "Le bombardement français sur la Meuse, le 14 mai 1940",
+    "institution_or_author": "Philippe de Laubier / Revue historique des Armées",
+    "publication_date": "1985",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "인쇄 96–109쪽, 세당과 뫼즈 도하점 폭격 명령 및 실행",
+    "url": "https://www.persee.fr/doc/rharm_0035-3299_1985_num_160_3_7443?pageId=T1_98",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "육군의 요청, 프랑스 폭격부대의 집결·표적 변경·도하 차단 시도."
+    ],
+    "limitations": [
+      "전투 사례 연구다. 양측 보고의 출격·명중·손실 수치를 새로 합산하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "laubier-meuse"
+  },
+  {
+    "id": "CAT-FR-SRC-0027",
+    "title": "L’Armée de l’Air française face aux armistices de juin 1940",
+    "institution_or_author": "Patrick Facon / Airpower in 20th Century, 이탈리아 국방부 공개 논집",
+    "publication_date": "2011",
+    "source_type": "secondary",
+    "document_or_accession_number": "N. 89, Roma 2011",
+    "locator": "인쇄 79쪽 이하, 1940년 6월 휴전 전후 부대·예비 기체",
+    "url": "https://www.difesa.it/assets/allegati/44064/airpower_in_20th_century_nov11.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "휴전 전후 기체와 부대의 장부 규모, 전방·비전방·북아프리카 위치가 다른 문제."
+    ],
+    "limitations": [
+      "논집에 수록된 본문이다. 장부 수량을 같은 날 출격할 수 있는 전력으로 해석하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "facon-armistice-air"
+  },
+  {
+    "id": "CAT-FR-SRC-0028",
+    "title": "Refaire l’Armée française (1943–1945) : des deux rives de la Méditerranée à l’Allemagne",
+    "institution_or_author": "Tristan Lecoq / Chemins de mémoire",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "L’Armée de l’air, 영국 훈련, 미제 재무장과 연합군 작전 통제",
+    "url": "https://www.cheminsdememoire.gouv.fr/sites/default/files/2023-05/Refaire_lArmee_francaise_2023.pdf",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "자유프랑스 항공부대와 북아프리카 부대의 재무장, 연합 편입과 프랑스 제1군 항공지원."
+    ],
+    "limitations": [
+      "재편 개관이다. 전대별 훈련 일정·장비 보유·출격은 별도 확인이 필요하다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "chemins-refaire-armee"
+  },
+  {
+    "id": "CAT-FR-SRC-0029",
+    "title": "Histoire de l’armée de l’Air et de l’Espace",
+    "institution_or_author": "프랑스 항공우주군",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1934년 항목, 1933년 독립 허용 법령과 1934년 조직법",
+    "url": "https://boutique.airespace.defense.gouv.fr/content/10-histoire-armee-air-espace",
+    "accessed_at": "2026-11-10T17:53:55+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스 공군의 독립 조직 허용과 법제화가 두 시점으로 나뉨."
+    ],
+    "limitations": [
+      "공군 공식 연혁이다. 법령·법률 원문의 세부 조문은 대조하지 않았다."
+    ],
+    "rights": "공개 열람본 또는 목록 링크. 자체 한국어 요약만 사용.",
+    "independence_group": "fr-aae-chronology"
+  },
+  {
+    "id": "CAT-FR-SRC-0030",
+    "title": "Operational Experience of Fast Battleships: World War II, Korea, Vietnam",
+    "institution_or_author": "U.S. Navy, USS Massachusetts / John C. Reilly, Jr. 편 / Naval Historical Center",
+    "publication_date": "1942-11-08 교전 보고서 발췌, 1989년 편찬판",
+    "source_type": "mixed: 전시 전투보고서 발췌 및 후대 해군사 편찬",
+    "document_or_accession_number": "Landing at Casablanca, Massachusetts Action Report",
+    "locator": "인쇄 1–2쪽 Landing at Casablanca의 전투보고 발췌와 피격 해설",
+    "url": "https://www.ibiblio.org/hyperwar/NHC/OpExpFastBBs/OpExpFastBBs.htm",
+    "accessed_at": "2026-11-10T19:00:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "미완성 장 바르의 가동 포탑 한 기, 피격 후 선회 장애, USS Massachusetts의 일제사격 횟수 추정 및 관측 한계."
+    ],
+    "limitations": [
+      "전투보고서 전문 미확보. 관측 추정과 1989년 편찬자의 피격 설명을 구분. 프랑스 함 일지와 대조하지 못했다."
+    ],
+    "rights": "미 해군사 기관 편찬물의 공개 전사. 자체 한국어 요약 및 링크만 사용.",
+    "independence_group": "massachusetts-action-report"
+  },
+  {
+    "id": "CAT-FR-SRC-0031",
+    "title": "Meeting The Jean Bart’s Commander",
+    "institution_or_author": "H. Kent Hewitt / U.S. Naval Institute Proceedings",
+    "publication_date": "1957-09",
+    "source_type": "primary: 참전 지휘관의 후대 회고",
+    "document_or_accession_number": "Proceedings Vol. 83/9/655",
+    "locator": "Discussions, Comments and Notes 중 Meeting The Jean Bart’s Commander",
+    "url": "https://www.usni.org/magazines/proceedings/1957/september/discussions-comments-and-notes",
+    "accessed_at": "2026-11-10T19:00:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "카사블랑카의 완성된 380 mm 4연장 포탑 하나와 계류 사격, 1942-11-10 Augusta 주변 낙탄."
+    ],
+    "limitations": [
+      "약 15년 뒤 회고. 포탑 수리는 프랑스 지휘관의 구술을 재전달했다. 당대 사격일지나 수리보고서와 별개."
+    ],
+    "rights": "USNI 공개 열람 회고. 자체 요약과 링크만 사용.",
+    "independence_group": "hewitt-casablanca-recollection"
+  },
+  {
+    "id": "CAT-FR-SRC-0032",
+    "title": "Jean Bart – Cuirassé",
+    "institution_or_author": "Mémorial national des marins morts pour la France",
+    "publication_date": null,
+    "source_type": "secondary: 프랑스 해군 전몰자 추모기관의 개별함 이력",
+    "document_or_accession_number": null,
+    "locator": "1940년 6월 출항, Caractéristiques, 1945년 귀환과 현역 편입 단락",
+    "url": "https://memorial-national-des-marins.fr/crypte-hf/9565-jean-bart",
+    "accessed_at": "2026-11-10T19:00:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "생나제르 출항 및 카사블랑카 도착 경위, 전시 공사·교전과 전후 완성 구분, 제원표 표기."
+    ],
+    "limitations": [
+      "제원표의 배수량 하중 및 속력 시험 조건 불명. 완성함 표기를 1942년 가동 사양으로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "french-mariners-memorial-jean-bart"
+  },
+  {
+    "id": "CAT-FR-SRC-0033",
+    "title": "War Diary of Submarines: Home Fleet Submarines, April to May 1940",
+    "institution_or_author": "Vice Admiral (Submarines) Max Horton / 영국 해군성 / Don Kindell 전사",
+    "publication_date": "1940-06-12",
+    "source_type": "primary: 전시일지의 디지털 전사",
+    "document_or_accession_number": "No. 598/SM.1004",
+    "locator": "표제 제출서 및 May 1940, 10th May",
+    "url": "https://www.naval-history.net/xDKWD-HF1940SS.htm",
+    "accessed_at": "2026-11-10T19:00:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940-05-10 뤼비의 에게르순 기뢰부설 보고."
+    ],
+    "limitations": [
+      "전사 본문 열람. 원면과 개별 잠수함 일지는 미열람. 해당 날짜의 기뢰 수량은 전시일지 문장에서 확인되지 않는다."
+    ],
+    "rights": "영국 당대 문서와 후대 전사의 권리 조건은 별도. 요약과 링크만 사용.",
+    "independence_group": "admiralty-horton-war-diary"
+  },
+  {
+    "id": "CAT-FR-SRC-0034",
+    "title": "L’Épopée du Rubis",
+    "institution_or_author": "Henri Rousselot / Fondation de la France Libre",
+    "publication_date": "2016-03-24(프랑스어 번역 웹 게시)",
+    "source_type": "primary: 승조원·후임 함장의 전후 회고 번역",
+    "document_or_accession_number": null,
+    "locator": "Opérations de guerre avant l’armistice, 1943년 5월 2일 정비, Caractéristiques du Rubis",
+    "url": "https://francelibre.net/lepopee-du-rubis/",
+    "accessed_at": "2026-11-10T19:00:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "에게르순 1940-05-10 작전, 1943년 무장과 레이더 개장, 수상·잠항 제원 및 탑재 무장."
+    ],
+    "limitations": [
+      "회고의 번역으로 당대 일지 및 제원 시험 원표가 아니다. 길이와 배수량·속력의 세부 측정 기준은 미확인."
+    ],
+    "rights": "재단 공개 번역본. 자체 요약과 링크만 사용.",
+    "independence_group": "rousselot-rubis-recollection"
+  },
+  {
+    "id": "CAT-FR-SRC-0035",
+    "title": "British Naval Minelaying in World War 2",
+    "institution_or_author": "Geoffrey B. Mason / Naval-History.Net",
+    "publication_date": "2006",
+    "source_type": "secondary: 기뢰전 작전 편찬",
+    "document_or_accession_number": "§4, FD 14",
+    "locator": "Chronological Sequence of Submarine Minelaying Operations 1939–45, FD 14, 10 May 1940",
+    "url": "https://www.naval-history.net/xGM-Ops-Minelaying.htm",
+    "accessed_at": "2026-11-10T19:00:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "FD 14의 뤼비 부설 32발과 프랑스제 SH4 표기."
+    ],
+    "limitations": [
+      "후대 편찬표다. 원본 불출표나 부설 원장을 직접 보지 않았으며 영국 기록 계통과 완전한 독립성은 확정하지 않았다."
+    ],
+    "rights": "저자 © 2006 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "mason-british-minelaying"
+  },
+  {
+    "id": "CAT-FR-SRC-0036",
+    "title": "Dewoitine D 520",
+    "institution_or_author": "Musée de l’Air et de l’Espace",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 소장기 및 기종 해설",
+    "document_or_accession_number": "전시 기체 n°862",
+    "locator": "제목 아래 제원 목록, Trop tard…, L’exemplaire du musée, Les victoires des D 520 durant la Bataille de France",
+    "url": "https://www.museeairespace.fr/aller-plus-haut/collections/dewoitine-d-520/",
+    "accessed_at": "2026-11-10T20:58:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "12 Y 45 엔진·기관포와 기관총 구성, 표의 질량·속도·상승한도·거리, 첫 비행과 부대 배치, 862호의 이력과 도색."
+    ],
+    "limitations": [
+      "비행시험 조건·시험기 번호가 제시되지 않으며 전시기 도색은 다른 기체를 재현한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "프랑스 항공우주박물관"
+  },
+  {
+    "id": "CAT-FR-SRC-0037",
+    "title": "Report on Royal Air Force Operations in Syria, between 8th June and 11th July, 1941",
+    "institution_or_author": "Air Commodore L. O. Brown / Royal Air Force, Air Historical Branch",
+    "publication_date": "1941년 작전 보고(표지 작성일 미확인)",
+    "source_type": "primary: 당대 지휘관 작전보고",
+    "document_or_accession_number": "Copy No. 3(표지)",
+    "locator": "§60(iv)–(v), 1941-07-11, 인쇄 39쪽",
+    "url": "https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/ahb-despatches-and-reports/report-on-raf-operations-in-syria-8jun-11jul1941/",
+    "accessed_at": "2026-11-10T20:58:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "하마에서 기총소사 중인 토마호크 1기의 D.520에 의한 격추를 보고한다."
+    ],
+    "limitations": [
+      "영국군의 교전 기록과 상대 기종 식별이다. 비시 측 기체 번호나 전과 판정과 대조하지 못했다."
+    ],
+    "rights": "영국 공군이 공개한 기밀 해제 스캔. 권리의 추가 확인이 필요한 원문은 링크만 사용.",
+    "independence_group": "영국 공군 레반트 작전보고"
+  },
+  {
+    "id": "CAT-FR-SRC-0038",
+    "title": "Three unidentified Australian ground crew members from No 3 Squadron RAAF, standing on the starboard wing of a damaged Vichy French aircraft",
+    "institution_or_author": "촬영자 미상 / Australian War Memorial",
+    "publication_date": "1941-06경(소장처 추정)",
+    "source_type": "primary: 당대 사진 및 후대 목록 설명",
+    "document_or_accession_number": "P02541.001",
+    "locator": "소장 이미지의 전경과 좌측 배경, Description, Place made",
+    "url": "https://www.awm.gov.au/collection/C333209",
+    "accessed_at": "2026-11-10T20:58:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "라야크 비행장 손상 기체 사진과 박물관이 D.520으로 식별한 좌측 배경 잔해."
+    ],
+    "limitations": [
+      "정확한 촬영일과 개별 기체 번호 미확인. 잔해 기종 식별은 소장처 설명에 의존."
+    ],
+    "rights": "소장처 표기 Public Domain. 자체 요약과 링크만 사용.",
+    "independence_group": "호주군 사진 기록"
+  },
+  {
+    "id": "CAT-FR-SRC-0039",
+    "title": "MB 220-221 : origines, caractéristiques et performances",
+    "institution_or_author": "Dassault Aviation",
+    "publication_date": null,
+    "source_type": "secondary: 후대 제조사 역사·제원",
+    "document_or_accession_number": null,
+    "locator": "Origines et prototypes, Production et utilisation opérationnelle, Fiche technique",
+    "url": "https://www.dassault-aviation.com/fr/passion/avions/bloch-civils/mb-220-221/",
+    "accessed_at": "2026-11-10T20:58:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "MB.220 초도비행·정기편·1939년 징발 수량, 기체 및 엔진·속도·거리·승객 제원, MB.221 엔진 형식."
+    ],
+    "limitations": [
+      "징발 원장, 노획 명부, 시험표 및 항속 조건을 게시하지 않는다. 양산형과 시제형 제원은 분리했다."
+    ],
+    "rights": "다소 항공 및 각 사진의 별도 권리 표기를 따른다. 자체 요약과 링크만 사용.",
+    "independence_group": "다소 항공의 기종 연혁"
+  },
+  {
+    "id": "CAT-FR-SRC-0040",
+    "title": "Une flotte de légende",
+    "institution_or_author": "Air France",
+    "publication_date": null,
+    "source_type": "secondary: 항공사 기단 연혁",
+    "document_or_accession_number": null,
+    "locator": "Dewoitine 338, le fleuron d’avant-guerre 첫 문단",
+    "url": "https://corporate.airfrance.com/fr/une-flotte-de-legende",
+    "accessed_at": "2026-11-10T20:58:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "MB.220의 유럽 중거리 노선 도입과 19석·복엽기 표기."
+    ],
+    "limitations": [
+      "좌석 기준을 명시하지 않는다. 복엽기·좌석 표기는 다소 제원과 대조 대상이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "에어프랑스 기단 연혁"
+  },
+  {
+    "id": "CAT-FR-SRC-0041",
+    "title": "La vitesse des avions : ses progrès, ses limites",
+    "institution_or_author": "Pierre Sarlac / La Science et la Vie / Cnum (Cnam)",
+    "publication_date": "1945-02",
+    "source_type": "primary: 전쟁 중 기술지에 실린 제원 비교 서술",
+    "document_or_accession_number": "제67권 제329호, Cnum SCVIE.329",
+    "locator": "인쇄 72–73쪽, Comment accroître la vitesse des avions ?",
+    "url": "https://cnum.cnam.fr/pgi/redir.php?ident=SCVIE.329&onglet=c",
+    "accessed_at": "2026-11-10T20:58:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 기술지의 MB.220 순항 300 km/h 표기."
+    ],
+    "limitations": [
+      "성능 시험보고가 아니며 해당 순항 수치의 고도, 중량과 출력을 명시하지 않는다."
+    ],
+    "rights": "Cnum이 공개한 본문 전사. 자체 요약과 링크만 사용.",
+    "independence_group": "1945년 기술지"
+  },
+  {
+    "id": "CAT-FR-SRC-0042",
+    "title": "Air France — Crash of a Bloch MB.220 off Marseille",
+    "institution_or_author": "Bureau of Aircraft Accidents Archives",
+    "publication_date": null,
+    "source_type": "secondary: 후대 항공사고 편찬",
+    "document_or_accession_number": "F-AQNL, MSN 12",
+    "locator": "Air France 사고 목록, 1941-09-01 항목, Registration·Flight Type·Schedule·Circumstances",
+    "url": "https://www.baaa-acro.com/operator/air-france?page=60",
+    "accessed_at": "2026-11-10T20:58:41+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "MB.220 12호기 F-AQNL의 1941-09-01 마르세유–툴루즈 정기편 및 볼몽 연못 사고."
+    ],
+    "limitations": [
+      "사고 조사 원문이 아니다. 개별기 운항 사례 확인에만 사용하며 사고 원인과 징발 소속 변동을 확정하지 않는다."
+    ],
+    "rights": "사이트 저작권 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "항공사고 편찬"
+  },
+  {
+    "id": "CAT-FR-SRC-0043",
+    "title": "MAS 36 Rifle : French Army",
+    "institution_or_author": "Australian War Memorial",
+    "publication_date": null,
+    "source_type": "primary: 1938년 제작 소장품의 후대 목록",
+    "document_or_accession_number": "REL/19291",
+    "locator": "Date made, Description, History / Summary",
+    "url": "https://www.awm.gov.au/collection/C246072",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 제작 표기, 수동 볼트 구조 및 앞덮개 내 십자형 총검 수납."
+    ],
+    "limitations": [
+      "전시 지급 부대와 개별 운용 이력은 목록에 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "호주 전쟁기념관 소장품"
+  },
+  {
+    "id": "CAT-FR-SRC-0044",
+    "title": "Atak sił sojuszniczych na Narwik",
+    "institution_or_author": "Tomasz Kozakiewicz / Muzeum Wojska Polskiego",
+    "publication_date": "2026-05-28",
+    "source_type": "secondary: 전역 해설, 소장 군장 및 당대 사진의 설명",
+    "document_or_accession_number": null,
+    "locator": "글 말미의 SBSP FM 사진 설명, SBSP 병사 군복·장구 및 MAS wz. 36 항목",
+    "url": "https://muzeumwp.pl/2026/05/28/atak-sil-sojuszniczych-na-narwik/",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "SBSP의 MAS 36 지급 서술, FM 24/29의 나르비크 사진 식별·제원, 아드리앵 26형과 35형 배낭의 전시 구성."
+    ],
+    "limitations": [
+      "FM 사진 원파일은 시간 초과로 본문 설명만 확인했다. 제원의 시험·계량 조건, 사진·장구의 개별 소장번호는 페이지에 명시되지 않았다."
+    ],
+    "rights": "박물관 및 사진 권리자의 권리 표기를 따른다. 본문 요약과 원문 링크만 사용.",
+    "independence_group": "폴란드군 박물관"
+  },
+  {
+    "id": "CAT-FR-SRC-0045",
+    "title": "Fusil-mitrailleur MAC 24/29",
+    "institution_or_author": "Musées de Reims / Musée de la Reddition du 7 mai 1945",
+    "publication_date": null,
+    "source_type": "secondary: 박물관 소장품 및 개발·생산 해설",
+    "document_or_accession_number": "AA.19, 각인 D 49363",
+    "locator": "Création, Technique, Contexte, Inscription",
+    "url": "https://musees-reims.fr/oeuvre/fusil-mitrailleur-mac-24-29",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "초기 1924형의 7.5 × 58에서 개량형 24/29의 7.5 × 54로 변경, 개량 부위, 소장품의 시기와 각인."
+    ],
+    "limitations": [
+      "소장품 제작 연대는 1945–1957년으로 분류된다. 전시 부대별 지급 수량은 없다."
+    ],
+    "rights": "소장처와 사진 권리 표기 준수. 자체 요약과 링크만 사용.",
+    "independence_group": "랭스 박물관 소장품"
+  },
+  {
+    "id": "CAT-FR-SRC-0046",
+    "title": "Geweermitrailleur Frans model Châtellerault Mle 24 M29, kaliber 7.5 x 54",
+    "institution_or_author": "Nationaal Militair Museum",
+    "publication_date": null,
+    "source_type": "primary: 소장품의 후대 목록",
+    "document_or_accession_number": "001759",
+    "locator": "Object 및 Vervaardiging",
+    "url": "https://collectie.nmm.nl/nl/collectie/detail/262687/",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "샤텔로 제조, Mle 24 M29, 7.5 × 54 mm 표기와 소장품 제작 연대 범위 1929–1940년."
+    ],
+    "limitations": [
+      "개별 제작일, 지급처와 실제 교전은 목록에 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "네덜란드 국립군사박물관 소장품"
+  },
+  {
+    "id": "CAT-FR-SRC-0047",
+    "title": "Description, conduite, entretien et graissage — Moto tous terrains Terrot 750 cm³ type VAtt avec side-car D P",
+    "institution_or_author": "Établissements Terrot / 디지털 복제 terrot.eu",
+    "publication_date": "미상(본문에 1936-05-01자 요구조건 인용)",
+    "source_type": "primary: 제조사 기술 설명서의 디지털 복제",
+    "document_or_accession_number": null,
+    "locator": "표지와 인쇄 43–45쪽, Carrosserie",
+    "url": "https://terrot.eu/images/terrot/doc_technique/terrot/Description_conduite_entretien_750_VAtt_DP.pdf",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Dragons portés 사이드카에 FM Mle 1924-M.29 1정과 탄창 가방을 넣도록 한 설계."
+    ],
+    "limitations": [
+      "발행일과 소장번호 미표기. 실제 배치·적재 실적을 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "테로 제조사 설명서"
+  },
+  {
+    "id": "CAT-FR-SRC-0048",
+    "title": "Notice sur le fusil-mitrailleur, modèle 1924-M. 29",
+    "institution_or_author": "프랑스 국방·전쟁부 / Imprimerie nationale / Bibliothèque nationale de France",
+    "publication_date": "1940(1939-09-13 승인)",
+    "source_type": "archive_catalog: 당대 교범의 후대 서지",
+    "document_or_accession_number": "FRBNF44225446, 8-V-54579, NUMM-9738490",
+    "locator": "제목, 발행, 물리 형태 및 소장란",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb44225446d",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "승인일과 국립인쇄소 발행연도 및 소장번호."
+    ],
+    "limitations": [
+      "Gallica 본문이 HTTP 403이어서 서지만 확인했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "프랑스국립도서관 서지"
+  },
+  {
+    "id": "CAT-FR-SRC-0049",
+    "title": "Sources d’archives pour l’histoire de la Manufacture d’Armes de St-Etienne",
+    "institution_or_author": "Service historique de la Défense, Centre des archives de l’armement et du personnel civil",
+    "publication_date": "2016-10(공개 슬라이드)",
+    "source_type": "primary_excerpt: 후대 기록원 발표에 실린 당대 시험 문서 표지·사진",
+    "document_or_accession_number": "SHDAA 2H3 n° 431 carton 5, Question n° 452, Note n° 1",
+    "locator": "같은 소장번호의 슬라이드, 문서 표지와 Photographie n° 2",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2019-04/20161012-armement_mas_der.pdf",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936-04-20자 지시를 인용한 접철식 개머리판 시험 문서 표지 및 접은 상태의 사진."
+    ],
+    "limitations": [
+      "시험 문서의 본문과 채택·납품·실전 기록은 발췌에 없다."
+    ],
+    "rights": "발표 말미 CC BY-NC 표기. 발췌 이미지 재배포 없이 링크와 자체 요약만 사용.",
+    "independence_group": "부르주 시험위원회"
+  },
+  {
+    "id": "CAT-FR-SRC-0050",
+    "title": "F.R. M.A.S. 36 — Fusil à répétition de la Manufacture d’Armes de Saint Etienne modèle 1936 et ses dérivés",
+    "institution_or_author": "Alain Tomëï / Monsieur Légionnaire 공개 PDF",
+    "publication_date": null,
+    "source_type": "secondary: 형식별 기술 편찬, 당대 지침 표지 발췌 포함",
+    "document_or_accession_number": "1940-04 임시 지침 표지 n° 488 42 T",
+    "locator": "기본형 Renseignements numériques, Documentation의 1940년 4월 표지",
+    "url": "https://www.monsieur-legionnaire.org/pdf/FR-MAS-36.pdf",
+    "accessed_at": "2026-11-10T23:01:44+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기본형 길이·탄창·Mle 1929 C 탄종 및 질량 조건, 1940년 임시 지침의 CR 39 부록 표기."
+    ],
+    "limitations": [
+      "기술 제원은 후대 편찬이며 지침은 표지만 확인했다. 시험 성적과 생산·지급 수량의 근거로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "톰에이 형식별 편찬"
+  },
+  {
+    "id": "CAT-FR-SRC-0051",
+    "title": "The Second World War 1939–1945: Royal Air Force Signals, Volume IV, Radar in Raid Reporting",
+    "institution_or_author": "Air Ministry, Air Historical Branch",
+    "publication_date": "1950",
+    "source_type": "secondary: 작전 문서를 인용한 영국 공군 공식 전사",
+    "document_or_accession_number": "제4권, Air Ministry File S.2538 Encl. 6A 인용",
+    "locator": "제7장 91쪽과 주 1",
+    "url": "https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/second-world-war-thematic-studies/signals-vol-iv-radar-in-raid-reporting-chapters1-17/",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스 감시초소망과 DEM의 보조 관계, 간섭 탐지 원리 및 영국 측 성능 평가."
+    ],
+    "limitations": [
+      "영국 쪽 편찬이며 원 인클로저와 프랑스 시험기록은 미열람. 특정 E-62 조건을 밝히지 않는다."
+    ],
+    "rights": "RAF 공개 스캔. 원문 링크와 자체 요약만 사용.",
+    "independence_group": "영국 공군 공식 전사"
+  },
+  {
+    "id": "CAT-FR-SRC-0052",
+    "title": "Électronique et Armement",
+    "institution_or_author": "Revue historique des Armées / Persée",
+    "publication_date": "1964",
+    "source_type": "secondary: 군사사 학술지 논문",
+    "document_or_accession_number": "20권 2호, DOI 10.3406/rharm.1964.9565",
+    "locator": "184쪽, Des transmissions à l’électronique",
+    "url": "https://www.persee.fr/doc/rharm_0035-3299_1964_num_20_2_9565?pageId=T1_184",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1934년 다비드의 르부르제 시험, 1940년 6월 해안 탐지 사례."
+    ],
+    "limitations": [
+      "60–125 km는 세 지역을 함께 제시한 범위다. 개별 교전의 관측 원표는 제시되지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "프랑스 군사사 학술지"
+  },
+  {
+    "id": "CAT-FR-SRC-0053",
+    "title": "A French pre-WW II attempt at Air-Warning Radar: Pierre David's Electromagnetic Barrier",
+    "institution_or_author": "Yves Blanchard / The Radio Science Bulletin",
+    "publication_date": "2016-09",
+    "source_type": "secondary: 프랑스 기술·부대 기록을 인용한 연구 논문",
+    "document_or_accession_number": "The Radio Science Bulletin n° 358",
+    "locator": "27–31쪽, §6.1 및 그림 11·13, 주 18·26–31",
+    "url": "https://www.researchgate.net/publication/335202734_A_French_pre-WW_II_attempt_at_Air-Warning_Radar_Pierre_David%27s_Electromagnetic_Barrier",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동부 계획·발주와 배치 불확실성, 남부 E-62/R-62 경보선, 브레스트 가동/건설 구분과 포르크로 LMT 펄스 장비."
+    ],
+    "limitations": [
+      "연구 논문 본문을 열람했다. 인용된 프랑스 배치표·교전일지와 이탈리아 작전 원자료는 확보하지 않았다."
+    ],
+    "rights": "저널 및 도판 권리자의 권리 표기를 따른다. 자체 요약과 링크만 사용.",
+    "independence_group": "블랑샤르 기술사 연구"
+  },
+  {
+    "id": "CAT-FR-SRC-0054",
+    "title": "Émetteur-récepteur valise anglais type B 2 (3 MK II), n° de série : 44072",
+    "institution_or_author": "Musée de l’Ordre de la Libération",
+    "publication_date": null,
+    "source_type": "primary_object_catalog: 당대 유물의 후대 소장 설명",
+    "document_or_accession_number": "N2574, 일련번호 44072",
+    "locator": "Mesures 및 Informations complémentaires",
+    "url": "https://www.ordredelaliberation.fr/fr/collection/6320863e06bf26bb27b723d7",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "닫은 가방의 치수·전체 질량, 구성과 시트로넬 임무의 브로 사용 이력."
+    ],
+    "limitations": [
+      "개별 유물 설명이며 보급 원장과 당시 송신 기록은 첨부되지 않았다."
+    ],
+    "rights": "박물관 및 이미지 권리자 표기를 따른다. 링크와 자체 요약만 사용.",
+    "independence_group": "프랑스 해방훈장박물관"
+  },
+  {
+    "id": "CAT-FR-SRC-0055",
+    "title": "Radio Transceiver - SOE Suitcase, B2 Type 3, Mk II, Stonebridge Park, England, circa 1943",
+    "institution_or_author": "Museums Victoria",
+    "publication_date": null,
+    "source_type": "primary_object_catalog: 별도 당대 장비의 후대 소장 설명",
+    "document_or_accession_number": "ST 30097, 세트 44183으로 기재",
+    "locator": "Summary, Physical Description, Inscriptions",
+    "url": "https://collections.museumsvictoria.com.au/items/412143",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "송수신 모듈, 전원부 표기, 암호화된 메시지의 전송 용도와 설계상 최대 거리 설명."
+    ],
+    "limitations": [
+      "44072와 다른 소장품이며 일부 부품은 원품이 아니다. 최대 거리의 시험 조건과 시트로넬 실적은 제시되지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "빅토리아박물관 B2 장비·지침"
+  },
+  {
+    "id": "CAT-FR-SRC-0056",
+    "title": "Collection de messages envoyés et reçus par le BCRA, 1942–1944",
+    "institution_or_author": "Jérôme Blondet / Service historique de la Défense",
+    "publication_date": "2014",
+    "source_type": "archive_catalog: 전보철 상세 목록",
+    "document_or_accession_number": "SHDGR_INV_28P5_BCRA_COLLECTION_MESSAGES, GR 28 P 5 27",
+    "locator": "표지, 3쪽 및 7쪽, Région C",
+    "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/137.pdf",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "시트로넬 및 Prisme 등의 1944년 전보철 존재와 청구기호."
+    ],
+    "limitations": [
+      "전보철 목록만 열람했다. 개별 전보의 본문과 무전기 번호를 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "프랑스 국방역사기록원 BCRA 장부"
+  },
+  {
+    "id": "CAT-FR-SRC-0057",
+    "title": "Insigne du maquis des Ardennes",
+    "institution_or_author": "Philippe Lecler / Musée de la Résistance en ligne",
+    "publication_date": null,
+    "source_type": "secondary: 레지스탕스 재단의 소장품·임무 해설",
+    "document_or_accession_number": "온라인 항목 3017",
+    "locator": "Contexte historique",
+    "url": "https://museedelaresistanceenligne.org/media3017-Insigne-du-maquis-des-Ardennes",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "시트로넬의 무전 담당자 브로, 런던과 연결된 임무의 무선 연락."
+    ],
+    "limitations": [
+      "해설과 참고문헌을 열람했다. 44072호 일련번호나 실제 송수신량을 검증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "필리프 르클레르 아르덴 해설"
+  },
+  {
+    "id": "CAT-FR-SRC-0058",
+    "title": "Portable Transmitting and Receiving Equipment Type 3 Mk.II, Description and Operating Instructions",
+    "institution_or_author": "Special Operations Executive / Museums Victoria",
+    "publication_date": "약 1943년(소장처 추정)",
+    "source_type": "archive_catalog: 당대 운용지침의 소장 목록과 일부 이미지",
+    "document_or_accession_number": "TL 34729, 세트 44183용",
+    "locator": "Title 및 More Information, 공개 발췌 이미지",
+    "url": "https://collections.museumsvictoria.com.au/items/1410726",
+    "accessed_at": "2026-11-11T00:54:51+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "SOE 지침의 세트 번호, 제작기관, 목차 및 소장 범위."
+    ],
+    "limitations": [
+      "38쪽 전부를 열람하지 않았다. ST 30097과 같은 유물군이므로 독립 교차 근거로 중복 계산하지 않는다."
+    ],
+    "rights": "소장처 발췌 이미지에 All Rights Reserved 표기. 링크만 사용.",
+    "independence_group": "빅토리아박물관 B2 장비·지침"
+  },
+  {
+    "id": "CAT-FR-SRC-0059",
+    "title": "Philippe LECLERC de HAUTECLOCQUE",
+    "institution_or_author": "Musée de l’Ordre de la Libération",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "웹 전기, Fort-Lamy·Normandie·Paris·Vosges 단락",
+    "url": "https://www.ordredelaliberation.fr/fr/compagnons/philippe-leclerc-de-hauteclocque",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "자유 프랑스 차드 지휘, 1941년 3월 1일 쿠프라 점령, 1944년 2e DB의 파리 및 스트라스부르 작전."
+    ],
+    "limitations": [
+      "기관 전기이며 1941년 서약의 정확한 문구나 포로 수를 확증하는 당대 기록은 아님."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ordre-liberation"
+  },
+  {
+    "id": "CAT-FR-SRC-0060",
+    "title": "Ordre du jour no 73",
+    "institution_or_author": "Philippe Leclerc de Hauteclocque / Service historique de la Défense",
+    "publication_date": "1944-11-24",
+    "source_type": "primary",
+    "document_or_accession_number": "GR 29 P 31, ordre du jour no 73",
+    "locator": "SHD 전시 보도자료 PDF 10쪽 왼쪽 상단 도판의 전사, 표제·본문·날짜·발신 직위",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2025-05/Dossier%20de%20presse.pdf#page=10",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "2e DB 사단장이 스트라스부르 해방과 쿠프라 서약의 이행을 연결한 당대 일일명령."
+    ],
+    "limitations": [
+      "공개 PDF 도판의 판독 텍스트를 열람. 이미지 직접 호출은 시간 초과. 지휘관의 전과 주장은 독립 집계 미확보."
+    ],
+    "rights": "SHD 공개 도판. 재사용 조건 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "shd-ordre-73"
+  },
+  {
+    "id": "CAT-FR-SRC-0061",
+    "title": "Northern France: 25 July–14 September 1944",
+    "institution_or_author": "David W. Hogan / U.S. Army Center of Military History",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "CMH Pub 72-30",
+    "locator": "본문 22–23쪽, 파리 진입과 항복 접수 단락",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/72-30.pdf",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제2기갑사단과 미 제4보병사단의 진입 계획, 르클레르의 항복 접수와 잔류 독일군."
+    ],
+    "limitations": [
+      "미군 공식 전사 관점. FFI 내부 지휘 또는 협정 사본별 서명 확인에는 쓰지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-army-cmh"
+  },
+  {
+    "id": "CAT-FR-SRC-0062",
+    "title": "Henri ROL-TANGUY",
+    "institution_or_author": "Musée de l’Ordre de la Libération",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "웹 전기, FTP 활동·1944년 6월 임명·파리 봉기 단락",
+    "url": "https://www.ordredelaliberation.fr/fr/compagnons/henri-rol-tanguy",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "롤탕기의 FTP 경력, 일드프랑스 FFI 지휘 및 파리 봉기 동원·바리케이드 명령."
+    ],
+    "limitations": [
+      "기관 전기. 개별 구역의 작전 일지와 봉기 병력 집계는 미확보."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ordre-liberation"
+  },
+  {
+    "id": "CAT-FR-SRC-0063",
+    "title": "Paris, Compagnon de la Libération",
+    "institution_or_author": "Christine Levisse-Touzé, Vladimir Trouplin / Comité d’histoire de la Ville de Paris",
+    "publication_date": "2010 (재판)",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "48–49쪽, La reddition de von Choltitz",
+    "url": "https://archives.paris.fr/fichier/303352/886",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "개별 거점의 항복 명령과 롤탕기가 협정 사본 한 부에 서명한 일의 구분."
+    ],
+    "limitations": [
+      "기관 해설. 사본 전체나 자필 서명의 대조는 제공하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "chemins-memoire"
+  },
+  {
+    "id": "CAT-FR-SRC-0064",
+    "title": "Ordre (Befehl) de reddition aux points d’appui allemands du Gross Paris (ici, celui de la Place de la République)",
+    "institution_or_author": "Dietrich von Choltitz / Paris Musées",
+    "publication_date": "1944-08-25",
+    "source_type": "primary",
+    "document_or_accession_number": "2020.1.2",
+    "locator": "소장품 상세의 Marques, inscriptions, poinçons 전사 및 서명 표기",
+    "url": "https://www.parismuseescollections.paris.fr/fr/musee-jean-moulin/oeuvres/ordre-befehl-de-reddition-aux-points-d-appui-allemands-du-gross-paris-ici",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "레퓌블리크 광장 독일군 거점에 전투 중지를 지시한 개별 명령의 날짜·수신 거점·서명."
+    ],
+    "limitations": [
+      "디지털 이미지와 기관 전사를 대조. 개별 거점 명령은 협정 본문이나 명령 이행을 입증하지 않음."
+    ],
+    "rights": "Paris Musées 소장품 이미지 CC0 표시. 자체 요약과 링크만 사용.",
+    "independence_group": "choltitz-place-republique"
+  },
+  {
+    "id": "CAT-FR-SRC-0065",
+    "title": "Convention de reddition de Von Choltitz",
+    "institution_or_author": "Gilles Primout / Fondation de la Résistance",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": "Archives nationales 72AJ61 (소개된 사본)",
+    "locator": "Légende 및 Contexte historique",
+    "url": "https://museedelaresistanceenligne.org/media4844-Convention-de-reddition-de-Von-Choltitz",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "롤탕기가 추가된 협정 수정본 사본의 소재와 협정 제목 수정에 관한 기관 해설."
+    ],
+    "limitations": [
+      "목록과 해설을 열람. 고해상도 이미지 직접 호출 시간 초과로 자필과 수정 흔적 미확인."
+    ],
+    "rights": "Archives nationales, droits réservés 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "paris-surrender-copy"
+  },
+  {
+    "id": "CAT-FR-SRC-0066",
+    "title": "La libération de Paris",
+    "institution_or_author": "Chemins de mémoire / 프랑스 국방부",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "32–33쪽 동원·바리케이드, 39쪽 문서 6의 캡션",
+    "url": "https://www.cheminsdememoire.gouv.fr/sites/default/files/2019-04/Fiches_Liberation_de_Paris_CM2.pdf",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동원·봉기 지휘 해설과 경찰청의 제6조 수정 및 몽파르나스의 제목·서명 수정에 대한 캡션."
+    ],
+    "limitations": [
+      "롤탕기 전기 부분은 해방훈장박물관 서술과 중복. 39쪽의 원문 이미지는 502로 열리지 않아 캡션만 사용."
+    ],
+    "rights": "문서 6 이미지 © Mémorial Leclerc - Musée Jean Moulin / Roger-Viollet 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "ordre-liberation"
+  },
+  {
+    "id": "CAT-FR-SRC-0067",
+    "title": "René MOUCHOTTE",
+    "institution_or_author": "Musée de l’Ordre de la Libération",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "웹 전기, 영국 도착·알자스 지휘·1943년 5월 15일과 8월 27일 단락",
+    "url": "https://www.ordredelaliberation.fr/fr/compagnons/rene-mouchotte",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스 공군 경력, 영국 공군 편제 작전, 알자스 지휘, 폭격기 호위 출격 및 빅긴힐 전과 서술."
+    ],
+    "limitations": [
+      "격추 순번과 손실 원인을 당대 작전 기록이나 상대 손실 자료로 입증하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ordre-liberation"
+  },
+  {
+    "id": "CAT-FR-SRC-0068",
+    "title": "Armée de l’air",
+    "institution_or_author": "Musée de l’Ordre de la Libération",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Le groupe de chasse Alsace 절, 1943년 1–4월 단락",
+    "url": "https://www.ordredelaliberation.fr/fr/armee-de-lair",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "알자스 전투비행단의 RAF 제341비행대 편제, 무쇼트 지휘, 빅긴힐 이동과 폭격기 호위."
+    ],
+    "limitations": [
+      "같은 기관의 무쇼트 전기와 독립 근거로 중복 집계하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ordre-liberation"
+  },
+  {
+    "id": "CAT-FR-SRC-0069",
+    "title": "Adjudant Rene Gaston Octave Jean Mouchotte",
+    "institution_or_author": "Battle of Britain Memorial Trust",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Stories of The Few, 제341비행대·1943년 5월 빅긴힐 및 8월 27일 실종 단락",
+    "url": "https://www.battleofbritainmemorial.org/stories/adjudant-rene-gaston-octave-jean-mouchotte/",
+    "accessed_at": "2026-11-11T03:00:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "무쇼트의 제341비행대 지휘와 마지막 출격의 미귀환, 잭 찰스와 빅긴힐 격추 순번을 가릴 수 없었다는 설명."
+    ],
+    "limitations": [
+      "후대 영국 기관 설명. 두 기관의 바탕이 된 전과 인정 문서와 독일 손실 기록은 미열람."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "battle-of-britain-memorial"
+  },
+  {
+    "id": "CAT-FR-SRC-0070",
+    "title": "Des décrets-lois du Gouvernement Daladier au vote par la Chambre des députés et le Sénat des pleins pouvoirs au maréchal Pétain",
+    "institution_or_author": "Assemblée nationale",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "1940년 6월 16일 및 7월 10~11일 단락",
+    "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-guerre-mondiale/des-decrets-lois-du-gouvernement-daladier-au-vote-par-la-chambre-des-deputes-et-le-senat-des-pleins-pouvoirs-au-marechal-petain",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "페탱의 각료회의 의장 임명, 7월 10일 헌정법 단일 조항, 새 의회 미구성."
+    ],
+    "limitations": [
+      "프랑스 하원의 후대 해설. 헌정법은 해당 본문에 인용된 조항으로 확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "assemblee-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0071",
+    "title": "Actes constitutionnels du Gouvernement de Vichy (transcriptions dans Documenti costituzionali francesi, IV parte)",
+    "institution_or_author": "Philippe Pétain / Nomos–Parlalex",
+    "publication_date": "1940-07-11 / 1942-04-18 / 1942-11-17",
+    "source_type": "primary",
+    "document_or_accession_number": "Actes constitutionnels nos 1, 2, 11 et 12",
+    "locator": "제1호 본문, 제2호 제1조 §§1–3, 제11·12호의 단일 조항, 제4 quinquies호 제1조",
+    "url": "https://www.nomos-leattualitaneldiritto.it/parlalex/documenti-costituzionali-francesi-iv-partedalle-leggi-costituzionali-del-1875-alla-iv-repubblica/",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "페탱의 국가원수 취임 선언과 장관 임면·입법, 정부 수반의 정책 지휘와 단독 서명 공포."
+    ],
+    "limitations": [
+      "후대 학술 사이트의 원문 전사. 당시 관보 판면 및 원서명은 이 자료에서 대조하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "vichy-constitutional-acts"
+  },
+  {
+    "id": "CAT-FR-SRC-0072",
+    "title": "Loi portant statut des juifs",
+    "institution_or_author": "Philippe Pétain 등 / Journal officiel de la République française / IREL–EPHE",
+    "publication_date": "1940-10-03",
+    "source_type": "primary",
+    "document_or_accession_number": "JORF, 18 octobre 1940, p. 5323",
+    "locator": "관보 5323쪽, PDF 4쪽, 제1·2·9조와 날짜 및 서명란",
+    "url": "https://irel.ephe.psl.eu/sites/default/files/2026-09/laicite-1940-1003-journal-officiel.pdf#page=4",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "조상에 따른 분류, 특정 공직 제한, 알제리 등 적용 범위, 페탱 서명과 라발 부서."
+    ],
+    "limitations": [
+      "공포문은 지역별 시행 기록이나 초안의 작성 경위를 담지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "vichy-official-gazette"
+  },
+  {
+    "id": "CAT-FR-SRC-0073",
+    "title": "La Collaboration (1940–1945), livret de visite",
+    "institution_or_author": "Archives nationales",
+    "publication_date": "2014–2015 (전시)",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "항목 21, 페탱이 주석을 단 유대인 지위법 초안. 항목 22, 제2호 헌정행위",
+    "url": "https://www.archives-nationales.culture.gouv.fr/documents/10157/11399/Livret_de_l%27exposition_La_Collaboration_%281940-1945%29.pdf",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "사법·교육의 배제 범위를 넓히는 페탱의 초안 수정에 대한 기록원 해설."
+    ],
+    "limitations": [
+      "전시 해설 본문을 열람. 초안 전체의 필적과 문구별 채택 여부는 확인하지 못함."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "archives-nationales-exhibit"
+  },
+  {
+    "id": "CAT-FR-SRC-0074",
+    "title": "Lettre de Theodor Dannecker au Reichssicherheitshauptamt",
+    "institution_or_author": "Theodor Dannecker / Mémorial de la Shoah / Réseau Canopé",
+    "publication_date": "1942-07-06",
+    "source_type": "primary",
+    "document_or_accession_number": "XLIX 35",
+    "locator": "80e anniversaire de la rafle du Vél’d’Hiv, 17쪽, 7월 6일자 프랑스어 발췌",
+    "url": "https://www.reseau-canope.fr/fileadmin/user_upload/Projets/Valeurs_de_la_republique/veldhiv.pdf#page=17",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "비점령지에서 추방되는 유대인 가족의 16세 미만 아동 포함 제안을 라발에게 귀속한 독일 보고."
+    ],
+    "limitations": [
+      "SS 내부 보고의 프랑스어 발췌. 발언 녹취, 프랑스 경찰의 지시, 베를린의 최종 승인은 별개."
+    ],
+    "rights": "Réseau Canopé 공개 교육자료 내 사료 발췌. 원기록 및 번역 재사용 조건 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "ss-dannecker-19420706"
+  },
+  {
+    "id": "CAT-FR-SRC-0075",
+    "title": "Compte rendu du conseil des ministres du 10 juillet 1942 (extrait)",
+    "institution_or_author": "비시 각료회의 / Serge Klarsfeld(전재) / Réseau Canopé",
+    "publication_date": "1942-07-10",
+    "source_type": "primary",
+    "document_or_accession_number": "Vichy-Auschwitz, Fayard, 1983, p. 242 경유",
+    "locator": "80e anniversaire de la rafle du Vél’d’Hiv, 18쪽, Négociations entre Karl Oberg et Pierre Laval",
+    "url": "https://www.reseau-canope.fr/fileadmin/user_upload/Projets/Valeurs_de_la_republique/veldhiv.pdf#page=18",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "각료회의가 라발의 아동 동행 협의를 보고한 사실과 그 정당화 표현."
+    ],
+    "limitations": [
+      "프랑스 행정기록으로 SS 보고와 작성 주체가 다름. 교육자료가 인용한 발췌만 확인했으며 회의록 전문과 소장번호는 미확보."
+    ],
+    "rights": "Réseau Canopé 공개 교육자료 내 사료 발췌. 원기록 및 번역 재사용 조건 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "vichy-cabinet-19420710"
+  },
+  {
+    "id": "CAT-FR-SRC-0076",
+    "title": "Circulaire n° 173-42 organisant la rafle du Vél’d’Hiv (extrait)",
+    "institution_or_author": "Émile Hennequin / Préfecture de police de Paris / Mémorial de la Shoah",
+    "publication_date": "1942-07-13",
+    "source_type": "primary",
+    "document_or_accession_number": "173-42 / XX-14a",
+    "locator": "80e anniversaire de la rafle du Vél’d’Hiv, 18–19쪽, 대상과 아동 체포·수용처 지시",
+    "url": "https://www.reseau-canope.fr/fileadmin/user_upload/Projets/Valeurs_de_la_republique/veldhiv.pdf#page=18",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "파리 경찰 지시가 부모를 체포할 때 16세 미만 아동도 함께 데려가도록 규정함."
+    ],
+    "limitations": [
+      "회람의 발췌로 실제 체포·수용·국외 이송의 완료나 인원수는 따로 검증해야 함."
+    ],
+    "rights": "Réseau Canopé 공개 교육자료 내 사료 발췌. 원기록 및 번역 재사용 조건 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "paris-police-19420713"
+  },
+  {
+    "id": "CAT-FR-SRC-0077",
+    "title": "Ordonnance du 9 août 1944 relative au rétablissement de la légalité républicaine sur le territoire continental",
+    "institution_or_author": "Gouvernement provisoire de la République française / Ministère de la Culture",
+    "publication_date": "1944-08-09",
+    "source_type": "primary",
+    "document_or_accession_number": "JORFTEXT000000320215 / JORF 10 août 1944",
+    "locator": "문화부 PDF 제1~3·7·11조 및 말미 드골·드 망통 서명 표기",
+    "url": "https://www.culture.gouv.fr/Media/Thematiques/Musees/MNR/Ordonnance-du-9-aout-1944",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공화국의 법적 연속성, 명시 무효와 잠정 적용 구분, 해방에 따른 본토 적용."
+    ],
+    "limitations": [
+      "1944년 8월 10일 기준 정리본 전사이며 별표가 생략돼 개별 법령 처리 전수 확인에 부적합."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "gprf-ordinance-19440809"
+  },
+  {
+    "id": "CAT-FR-SRC-0078",
+    "title": "The Chargé in the Soviet Union (Kennan) to the Secretary of State",
+    "institution_or_author": "George F. Kennan / U.S. Department of State, Office of the Historian",
+    "publication_date": "1944-10-23",
+    "source_type": "primary",
+    "document_or_accession_number": "FRUS 1944, Europe IV, doc. 836 / 851.01/10–2344 / telegram 4050",
+    "locator": "전보 본문과 주 3",
+    "url": "https://history.state.gov/historicaldocuments/frus1944v04/d836",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "몰로토프가 보낸 소련 승인 결정의 요지 및 미국의 같은 날 승인 발표에 대한 편집 주."
+    ],
+    "limitations": [
+      "소련 선언은 케넌의 전달 보고로 확인. 미국 발표문 전체는 이 항목에 수록되지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "moscow-telegram-19441023"
+  },
+  {
+    "id": "CAT-FR-SRC-0079",
+    "title": "War And International Situation",
+    "institution_or_author": "Winston Churchill / UK Parliament, Hansard",
+    "publication_date": "1944-10-27",
+    "source_type": "primary",
+    "document_or_accession_number": "HC Deb 27 October 1944",
+    "locator": "하원 정부 발언, French Consultative Assembly·Interior Zone·23rd October 단락",
+    "url": "https://hansard.parliament.uk/commons/1944-10-27/debates/ba131f0a-de32-4352-ac14-4bea805a087a/WarAndInternationalSituation",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 대사에 대한 10월 23일 승인 통보 지시, 미국·소련의 동시 조치."
+    ],
+    "limitations": [
+      "영국 정부가 의회에서 설명한 내용. 프랑스 전체의 정치적 지지에 대한 평가에는 사용하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "uk-hansard-19441027"
+  },
+  {
+    "id": "CAT-FR-SRC-0080",
+    "title": "M. Pierre LAVAL reçoit les pleins pouvoirs",
+    "institution_or_author": "Le Pays Nivernais / Archives départementales de la Nièvre",
+    "publication_date": "1942-11-22",
+    "source_type": "primary",
+    "document_or_accession_number": "2e année, no 90",
+    "locator": "권한 확대 기사와 11월 17일 제12호 단일 조항 전재",
+    "url": "https://archives.nievre.fr/media/573a46cf-0e50-4fb6-9aec-81d6bdfa1ec4.pdf",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "제12호의 비헌정 법률·명령 단독 서명 공포 및 라발에 대한 권한 확대를 전한 당대 보도."
+    ],
+    "limitations": [
+      "당대 신문의 관보 조문 재전재는 원조문과 독립된 법적 증거가 아님. 보도 논조와 조문을 구분."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "vichy-constitutional-acts"
+  },
+  {
+    "id": "CAT-FR-SRC-0081",
+    "title": "France — A Guide to the United States’ History of Recognition, Diplomatic, and Consular Relations",
+    "institution_or_author": "U.S. Department of State, Office of the Historian",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Limited U.S. Recognition of the French Committee of National Liberation, 1943 및 U.S. Recognition of the Provisional Government of the French Republic, 1944",
+    "url": "https://history.state.gov/countries/france",
+    "accessed_at": "2026-11-11T04:59:36+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "알제 CFLN 공동위원장, 1943년 미국의 제한적 인정과 1944년 10월 23일 임시정부 승인."
+    ],
+    "limitations": [
+      "미국 외교사 편집 요약. 연합국 전체의 내부 승인 과정이나 식민지별 통치 상태는 다루지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-diplomatic-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0082",
+    "title": "Brevets nos 976.541, 976.542 et 971.324 (fac-similés des cartouches)",
+    "institution_or_author": "Caisse nationale de la recherche scientifique / Service de la propriété industrielle / 재현 Paul Reuss·SFEN",
+    "publication_date": "1939-05-01 / 1939-05-02 / 1939-05-04 (출원), 1951 (공개)",
+    "source_type": "primary",
+    "document_or_accession_number": "FR 976.541, FR 976.542, FR 971.324",
+    "locator": "La fabuleuse histoire de l’énergie nucléaire, Partie 1, Les brevets de l’équipe Joliot 슬라이드 오른쪽 표제부",
+    "url": "https://alpes.sfen-regions.org/wp-content/uploads/sites/2/2022/03/2021-11-30_Presentation_Histoire_Energie_nucle%CC%81airePartie1.pdf",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "표제부의 출원인, 세 출원 날짜, 각각의 기술 주제와 1951년 공개 날짜."
+    ],
+    "limitations": [
+      "슬라이드의 관청 문서 표제부로 확인. 청구항 전문, 발명자별 역할, 제작·시험을 입증하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "french-nuclear-patent-facsimiles"
+  },
+  {
+    "id": "CAT-FR-SRC-0083",
+    "title": "Aux origines du programme atomique militaire français",
+    "institution_or_author": "Dominique Mongin / Matériaux pour l’histoire de notre temps",
+    "publication_date": "1993",
+    "source_type": "secondary",
+    "document_or_accession_number": "doi:10.3406/mat.1993.404097",
+    "locator": "31호, 13쪽, 전전 특허·도트리·1940년 중수 이송 단락",
+    "url": "https://www.persee.fr/doc/mat_0769-3206_1993_num_31_1_404097",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "졸리오가 이끈 팀의 구성과 특허, 군수부 지원, 할반과 코바르스키의 영국행."
+    ],
+    "limitations": [
+      "연구사 서술. 중수 총량은 자료마다 단위와 수치가 달라 본문에서 확정하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "mongin"
+  },
+  {
+    "id": "CAT-FR-SRC-0084",
+    "title": "Les origines françaises de la bombe atomique",
+    "institution_or_author": "Mathieu Grousson / CNRS Le journal",
+    "publication_date": "2025-10-13",
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "핵분열과 중성자 단락, Brevets français 및 La crainte d’une bombe nazie 절",
+    "url": "https://lejournal.cnrs.fr/articles/les-origines-francaises-de-la-bombe-atomique",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 파리 팀의 중성자 연구, 특허 준비에 참여한 연구자와 프랑스에 남은 졸리오."
+    ],
+    "limitations": [
+      "후대 기관 해설. 실험 수치와 특허 날짜는 원문과 따로 대조해야 함."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "cnrs-grousson"
+  },
+  {
+    "id": "CAT-FR-SRC-0085",
+    "title": "The Early Days of the Canadian and British Atomic Energy Projects",
+    "institution_or_author": "John Cockcroft / IAEA Bulletin",
+    "publication_date": "1962",
+    "source_type": "primary",
+    "document_or_accession_number": "IAEA Bulletin, 04004701820su",
+    "locator": "18–19쪽, 1940년 케임브리지 실험, 몬트리올 이동과 ZEEP 단락",
+    "url": "https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull4-0/04004701820su.pdf",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐번디시에서 중수 연구를 지원한 참여자의 회고, 몬트리올 연구팀 이동, 코바르스키의 ZEEP 책임과 NRC 협업."
+    ],
+    "limitations": [
+      "전후 참여자 회고. 당시 실험 장치의 임계 여부와 실험 결론의 표현은 원보고서로 구분해야 함."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "cockcroft-recollection"
+  },
+  {
+    "id": "CAT-FR-SRC-0086",
+    "title": "Les chercheurs français dans les projets Manhattan et Tube Alloys, 1939–1945",
+    "institution_or_author": "Hervé Delime / Université de Strasbourg",
+    "publication_date": "2022-11-25",
+    "source_type": "secondary",
+    "document_or_accession_number": "ED 221",
+    "locator": "서론의 시기 구분, §1.2.1.1, §1.2.2.1, §1.8.1–1.8.2, §2.3.8",
+    "url": "https://publication-theses.unistra.fr/public/theses_doctorat/2022/DELIME_Herve_2022_ED221.pdf",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "할반과 코바르스키의 출생·귀화, 전시 인력 배치, 영국과 캐나다의 소속·업무 변화."
+    ],
+    "limitations": [
+      "인용한 기록에 근거한 박사논문. 귀화 명령 원문과 개별 연구노트는 이 원고에서 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "delime"
+  },
+  {
+    "id": "CAT-FR-SRC-0087",
+    "title": "1946–1964",
+    "institution_or_author": "National Research Council Canada",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "From nuclear pioneers to leaders / Nuclear energy for peaceful purposes",
+    "url": "https://nrc.canada.ca/en/corporate/history/1946-1964",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "캐나다 초크리버 ZEEP의 1945년 9월 5일 첫 임계, 캐나다·영국·프랑스 협업."
+    ],
+    "limitations": [
+      "기관 연혁이며 운전 일지 원본이나 각 연구자의 개별 역할을 제시하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "canada-nrc"
+  },
+  {
+    "id": "CAT-FR-SRC-0088",
+    "title": "Calcul relatif aux conditions éventuelles de transmutation en chaîne de l’uranium",
+    "institution_or_author": "Francis Perrin / Académie des sciences",
+    "publication_date": "1939-05-01",
+    "source_type": "primary",
+    "document_or_accession_number": "Comptes rendus, t. 208, no 18, pp. 1394–1396",
+    "locator": "첫 페이지 1394쪽, DjVu 1482, 제목·저자·첫 모델 가정",
+    "url": "https://fr.wikisource.org/wiki/Page:Comptes_rendus_hebdomadaires_des_s%C3%A9ances_de_l%E2%80%99Acad%C3%A9mie_des_sciences,_tome_208,_1939.djvu/1482",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "원판면의 페랭 저자명과 빠른 중성자, 구형 물질의 가정."
+    ],
+    "limitations": [
+      "Gallica 직접 호출 403. Wikimedia에 호스팅된 당대 원판 스캔 첫 쪽을 사용하고 미교정 전사 수치에는 의존하지 않음."
+    ],
+    "rights": "공개 스캔의 재사용 조건은 별도 확인. 자체 요약과 링크만 사용.",
+    "independence_group": "perrin-cras-1939"
+  },
+  {
+    "id": "CAT-FR-SRC-0089",
+    "title": "Francis Perrin",
+    "institution_or_author": "Collège de France",
+    "publication_date": null,
+    "source_type": "secondary",
+    "document_or_accession_number": null,
+    "locator": "Biographie의 1939–1943년 항목",
+    "url": "https://www.college-de-france.fr/fr/personne/francis-perrin",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "방공포병 장교 동원과 컬럼비아대학교 초빙교수 근무."
+    ],
+    "limitations": [
+      "기관 이력 요약이며 전시 업무 전체나 연구 결과를 다루지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "college-de-france"
+  },
+  {
+    "id": "CAT-FR-SRC-0090",
+    "title": "Lew Kowarski’s Interview – Part 2",
+    "institution_or_author": "Lew Kowarski, Stéphane Groueff / National Museum of Nuclear Science & History",
+    "publication_date": "1964-11-29",
+    "source_type": "primary",
+    "document_or_accession_number": "Stéphane Groueff collection",
+    "locator": "인터뷰 전사, 프랑스 시민권과 시카고 방문 대목",
+    "url": "https://ahf.nuclearmuseum.org/voices/oral-histories/lew-kowarskis-interview-part-2/",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "코바르스키가 직접 회고한 1939년 11월 프랑스 귀화와 캐나다 연구 맥락."
+    ],
+    "limitations": [
+      "참여자의 전후 구술. 녹음 전체와 귀화 명령 원문은 미대조."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "kowarski-groueff"
+  },
+  {
+    "id": "CAT-FR-SRC-0091",
+    "title": "Report by MAUD Committee on the Use of Uranium for a Bomb",
+    "institution_or_author": "MAUD Committee / Margaret Gowing 전재 / Atomic Archive 웹 전사",
+    "publication_date": "1941-07",
+    "source_type": "primary",
+    "document_or_accession_number": "MAUD Committee Report (폭탄 보고서)",
+    "locator": "Outline of Present Knowledge, §1 General Statement",
+    "url": "https://www.atomicarchive.com/resources/documents/beginnings/maud.html",
+    "accessed_at": "2026-11-11T06:57:35+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "폭탄 보고서가 중수 경로의 즉각적인 군사적 가치를 낮게 평가한 당시 판단."
+    ],
+    "limitations": [
+      "폭탄 보고서의 후대 전사본. 별도 동력 보고서나 원본의 부록은 이 페이지에서 확인하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "maud-bomb-report"
+  },
+  {
+    "id": "CAT-FR-SRC-0092",
+    "title": "L’Appel du 18 juin 1940. Le manuscrit du général de Gaulle entre aux Archives nationales",
+    "institution_or_author": "Archives nationales",
+    "publication_date": "2025-06-04",
+    "source_type": "secondary: 보존기관 전시·소장 해설",
+    "document_or_accession_number": "AE/I/25/9 [AG/3(1)/290]",
+    "locator": "L’Appel 절, 이미지 소장번호",
+    "url": "https://www.archives-nationales.culture.gouv.fr/evenements/lappel-du-18-juin-1940-le-manuscrit-du-general-de-gaulle-entre-aux-archives-nationales",
+    "accessed_at": "2026-11-11T08:52:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "18일 방송 녹음 미보존과 자필 원고의 소장번호."
+    ],
+    "limitations": [
+      "보존기관 해설 열람. 방송 실황 영상·음성은 확보하지 못함."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "archives-nationales"
+  },
+  {
+    "id": "CAT-FR-SRC-0093",
+    "title": "L’Appel du 18 juin 1940 — Proposition d’inscription au registre Mémoire du Monde",
+    "institution_or_author": "INA·BBC / UNESCO",
+    "publication_date": "2004-06-21",
+    "source_type": "primary: 보존기관 공동 신청서",
+    "document_or_accession_number": "PHD86064726; BBC 2509 C; AN 3334 BBC",
+    "locator": "§3.1, 소장서지 및 §5 권리",
+    "url": "https://media.unesco.org/sites/default/files/webform/mow001/france_and_uk_appeal_18_june_1940_fr.pdf",
+    "accessed_at": "2026-11-11T08:52:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "22일 음반의 6분20초 길이, 소장번호, 두 기관 사본의 동일성."
+    ],
+    "limitations": [
+      "음반 보존·식별에 관한 1차 기록. 직접 청취하지 않았고 2004년의 소장 정보를 현재 원고 소재지로 일반화하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "ina-bbc-1940-recording"
+  },
+  {
+    "id": "CAT-FR-SRC-0094",
+    "title": "Appel du 22 juin 1940 du général de Gaulle après la signature de l’armistice",
+    "institution_or_author": "Fondation de la Résistance, AERI / INA",
+    "publication_date": null,
+    "source_type": "secondary: 음성 자료 목록",
+    "document_or_accession_number": "media10277; InaEdu00280",
+    "locator": "Genre, Détails techniques, Analyse média",
+    "url": "https://museedelaresistanceenligne.org/media10277-Appel-du-22-juin-1940-du-gnral-de-Gaulle-aprs-la-signature-de-larmistice",
+    "accessed_at": "2026-11-11T08:52:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "음성 분류, 프랑스어 런던 방송의 웹 길이 5분49초와 플레이어 링크."
+    ],
+    "limitations": [
+      "INA 본문 재생 접근 실패. 음반과 길이 차이 미해결. INA 음반의 재제공이므로 별도 독립 녹음으로 세지 않음."
+    ],
+    "rights": "© INA, Droits réservés. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "ina-bbc-1940-recording"
+  },
+  {
+    "id": "CAT-FR-SRC-0095",
+    "title": "GENERAL DE GAULLE ADDRESSES THE PEOPLE OF BAYEUX (PART 1) [Allocated Title]",
+    "institution_or_author": "IWM / War Office; Army Film and Photographic Unit; Sergeant Parkinson",
+    "publication_date": "1944-06-14",
+    "source_type": "primary: 동시대 필름의 보존기관 목록",
+    "document_or_accession_number": "A70 45-1; record 2282; object 1060019435",
+    "locator": "Description, Production Details, Physical Characteristics, Technical Details",
+    "url": "https://film.iwmcollections.org.uk/record/2282",
+    "accessed_at": "2026-11-11T08:52:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "바외 중앙 공원 연설 촬영, 무성·흑백·35mm·166ft·약2분."
+    ],
+    "limitations": [
+      "목록과 공개 HLS 미리보기 표본 프레임 00:30·00:45 확인. 로컬 ffprobe 길이114.958333초, 영상1트랙·음성0트랙. 원필름 전편 대조 미완료."
+    ],
+    "rights": "© IWM. 목록상 권리 표기를 따르며 요약과 링크만 제공.",
+    "independence_group": "afpu-bayeux-1944"
+  },
+  {
+    "id": "CAT-FR-SRC-0096",
+    "title": "GENERAL DE GAULLE ADDRESSES THE PEOPLE OF BAYEUX (PART 2) [Allocated Title]",
+    "institution_or_author": "IWM / War Office; Army Film and Photographic Unit; L. J. Evans",
+    "publication_date": "1944-06-14",
+    "source_type": "primary: 동시대 필름의 보존기관 목록",
+    "document_or_accession_number": "A70 45-3; record 2560",
+    "locator": "Description, Physical Characteristics, Technical Details",
+    "url": "https://film.iwmcollections.org.uk/record/2560",
+    "accessed_at": "2026-11-11T08:52:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "같은 바외 연설의 추가 무성 촬영, 35mm·59ft·약1분."
+    ],
+    "limitations": [
+      "목록 확인. 재생·음성 발언 대조 미확인. 같은 AFPU 촬영 자료군."
+    ],
+    "rights": "© IWM. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "afpu-bayeux-1944"
+  },
+  {
+    "id": "CAT-FR-SRC-0097",
+    "title": "Discours du général de Gaulle à l’Hôtel de Ville",
+    "institution_or_author": "Fabrice Bourrée / Fondation de la Résistance, AERI / INA; film CLCF",
+    "publication_date": "1944-08 (원영화)",
+    "source_type": "primary: 동시대 편집 영화의 보존 목록·구간 설명",
+    "document_or_accession_number": "media4599; INA I00007088",
+    "locator": "Légende, Détails techniques, Analyse média 00:00:18–00:06:23",
+    "url": "https://museedelaresistanceenligne.org/media.php?expo=0&media=4599",
+    "accessed_at": "2026-11-11T08:52:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "원영화 시작 위치 23:56, 발췌7:38, 연설 시작23초와 다음 날 장면의 구분."
+    ],
+    "limitations": [
+      "플레이어 HTML만 열렸고 실재생 불확인. 동시녹음 여부·완전성 미확인. 원영화 제작과 후대 목록 해설을 구분함."
+    ],
+    "rights": "© INA, Droits réservés. 자체 요약과 원문 링크만 사용.",
+    "independence_group": "clcf-ina-liberation-paris"
+  },
+  {
+    "id": "CAT-FR-SRC-0098",
+    "title": "La libération de Paris",
+    "institution_or_author": "Tiphanie Louis·Évelyne Masson-Viardot / Fondation Charles de Gaulle",
+    "publication_date": null,
+    "source_type": "secondary: 교육 해설",
+    "document_or_accession_number": null,
+    "locator": "Documentaire, Présentation, Analyse",
+    "url": "https://enseigner.charles-de-gaulle.org/la-liberation-de-paris/",
+    "accessed_at": "2026-11-11T08:52:31+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "25일 시청 연설의 장면·정치적 맥락 및1분43초 편집본 안내."
+    ],
+    "limitations": [
+      "INA 자료의 교육적 재소개로 독립 촬영 증거가 아님. 플레이어 실재생 및 AERI7분38초 판본과 관계는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "clcf-ina-liberation-paris"
+  },
+  {
+    "id": "CAT-FR-SRC-0099",
+    "title": "Ensemble de construction automobile dite société Renault frères puis Société des Automobiles Louis Renault puis SA des Usines Renault",
+    "institution_or_author": "Hélène Jantzen·Paul Smith / Inventaire général, Île-de-France",
+    "publication_date": "1991 (notice 작성), 2019-07-09 (갱신)",
+    "source_type": "secondary: 산업유산 목록",
+    "document_or_accession_number": "IA00126644",
+    "locator": "Historique, Références documentaires",
+    "url": "https://pop.culture.gouv.fr/notice/merimee/IA00126644",
+    "accessed_at": "2026-11-11T11:02:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "빌랑쿠르와 세갱섬의 공장군, 1942년 폭격·재건, 1945년 국영화."
+    ],
+    "limitations": [
+      "현대 유산 목록이며 공장별 전시 생산·인도 장부는 없음."
+    ],
+    "rights": "© Inventaire général. 자체 요약과 링크만 사용.",
+    "independence_group": "merimee-renault"
+  },
+  {
+    "id": "CAT-FR-SRC-0100",
+    "title": "Journal Clandestin (Mars à Décembre 1942)",
+    "institution_or_author": "Fernand Picard / Section d’Histoire des Usines Renault",
+    "publication_date": "1942 (일기), 1978-06 (전재)",
+    "source_type": "primary: 당대 일기와 인용 회사보고서의 후대 전재",
+    "document_or_accession_number": "Bulletin de la Section d’Histoire des Usines Renault n°16",
+    "locator": "168–169쪽 7월24일, 172–173쪽 10월17·22·28일",
+    "url": "https://docs.les-renault-d-avant-guerre.com/DRF16_optim.pdf",
+    "accessed_at": "2026-11-11T11:02:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연간 생산 전망, 1942년 9월 차종별 생산 및 주문 등록액, 노동자 독일 이송 압력."
+    ],
+    "limitations": [
+      "1978년 전재본을 열람했다. 일기 원고·활동보고서 전체·징발자 명부·트럭 인수증 미확보."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "picard-diary"
+  },
+  {
+    "id": "CAT-FR-SRC-0101",
+    "title": "Ordonnance n°45-68 du 16 janvier 1945 portant nationalisation des usines Renault",
+    "institution_or_author": "Gouvernement provisoire de la République française / Légifrance",
+    "publication_date": "1945-01-16",
+    "source_type": "primary: 당대 명령의 공식 법령 본문",
+    "document_or_accession_number": "JORFTEXT000000886347; LEGIARTI000006314836",
+    "locator": "1945-01-17 기준 제7조",
+    "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006314836/1945-01-17",
+    "accessed_at": "2026-11-11T11:02:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "국영 공사의 설치, 독립 법인격 및 해산된 회사 사업 승계."
+    ],
+    "limitations": [
+      "공식 전자본 제7조 확인. 관보 스캔은 대조하지 않았고 7월 수정 제1조와 초기판을 구분했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "gprf-ordinance"
+  },
+  {
+    "id": "CAT-FR-SRC-0102",
+    "title": "Radar and Controlled Missiles, Paris Area",
+    "institution_or_author": "N. D. Crane 및 조사단 / Combined Intelligence Objectives Sub-Committee, SHAEF",
+    "publication_date": "1944-08~09 (현장 조사), 발행일 미확인",
+    "source_type": "primary: 당대 연합군 조사보고서 스캔",
+    "document_or_accession_number": "CIOS Item 1, File I-1; LMT C.I.P.C. Target 1/95",
+    "locator": "산업 개관 §8, CGCT 25–26쪽, LMT 39–40쪽",
+    "url": "https://www.cdvandt.org/CIOS-I-1.pdf",
+    "accessed_at": "2026-11-11T11:02:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "LMT 소재지·민수 사업·독일 계약과 미인도 표기, CGCT의 300대 제조 보고와 표본 검사."
+    ],
+    "limitations": [
+      "원판면과 별도 전사본을 대조했다. 면담 기반 제조·인도 진술은 원계약·인수증과 미대조. 두 파일은 같은 보고서."
+    ],
+    "rights": "원문·디지털 스캔의 재이용 조건은 별도 확인. 자체 요약과 링크만 사용.",
+    "independence_group": "cios-i-1"
+  },
+  {
+    "id": "CAT-FR-SRC-0103",
+    "title": "Aspects économiques de l’occupation allemande en France, 1940–1944: l’exemple de l’industrie électrotechnique",
+    "institution_or_author": "Heidrun Homburg / Histoire, économie & société",
+    "publication_date": "2005",
+    "source_type": "secondary: 기록을 이용한 경제사 논문",
+    "document_or_accession_number": "24권 4호, DOI 10.3406/hes.2005.2569",
+    "locator": "530–531쪽, 프랑스 전기기기 산업과 국제 기업 관계",
+    "url": "https://www.persee.fr/doc/hes_0752-5702_2005_num_24_4_2569?pageId=T1_530",
+    "accessed_at": "2026-11-11T11:02:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "LMT의 산업 내 위상과 기업 간 국제 기술·사업 관계의 맥락."
+    ],
+    "limitations": [
+      "산업 맥락에 사용. CIOS의 계약별 수치나 인도는 별도 확인 필요."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "homburg-electrotechnical"
+  },
+  {
+    "id": "CAT-FR-SRC-0104",
+    "title": "Billancourt sous les bombes",
+    "institution_or_author": "Gilbert Hatry / De Renault frères à Renault Régie Nationale",
+    "publication_date": "1984-12",
+    "source_type": "secondary: 사사 연구회 회보 전사",
+    "document_or_accession_number": "n°29",
+    "locator": "「Les pertes de production」, 계획·실적 도표 설명 및 주 1–3, 5–7",
+    "url": "https://sites.google.com/view/revuesdrf/de-renault-freres-a-n-29---decembre-1984/01---billancourt-sous-les-bombes",
+    "accessed_at": "2026-11-11T11:02:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일행 트럭 공급, 계획·실적 도표의 차종 가중치, 노획차 수리 작업장 귀속 주장."
+    ],
+    "limitations": [
+      "회사 역사 연구회 글. 원 USSBS·징발 서류와 수리 원대장을 열람하지 않아 세부 귀속과 수치를 확정하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "renault-history-section-ussbs"
+  },
+  {
+    "id": "CAT-FR-SRC-0105",
+    "title": "United States Strategic Bombing Survey: [Reports] (European War) [finding aid]",
+    "institution_or_author": "Science Section / Library of Congress",
+    "publication_date": "2013, 2023-11 개정",
+    "source_type": "secondary: 기관 소장 목록",
+    "document_or_accession_number": "REPORTS 80; D785.U58M62 no. 2; D785.U6 no. 80a",
+    "locator": "Munitions Division, REPORTS 80",
+    "url": "https://tile.loc.gov/storage-services/service/gdc/gdcfindingaidpdfs/gc013002/gc013002.pdf",
+    "accessed_at": "2026-11-11T11:02:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "빌랑쿠르 공장 보고서의 1945년 11월 초판과 1947년 1월 재판, 서가번호."
+    ],
+    "limitations": [
+      "목록만 확인했다. 개별 디지털 열람 항목 403 및 서지 링크 열람 실패. 보고서의 표·수치는 미검증."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "loc-ussbs-finding-aid"
+  },
+  {
+    "id": "CAT-FR-SRC-0106",
+    "title": "Résultats statistiques du recensement général de la population effectué le 8 mars 1936. Tome I, première partie: Population légale ou de résidence habituelle",
+    "institution_or_author": "Direction de la Statistique Générale et de la Documentation / Imprimerie nationale",
+    "publication_date": "1938",
+    "source_type": "primary: 총조사 간행물 스캔",
+    "document_or_accession_number": "BNSP bc6p06z2rd0; 인쇄번호 J.39241-38",
+    "locator": "Population légale aux divers recensements depuis 1801, 1936년 행; 96쪽 표 II, 97쪽 표 IV; 56쪽 표 II Strasbourg 행",
+    "url": "https://www.bnsp.insee.fr/ark:/12148/bc6p06z2rd0.pdf",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "본토 법정인구의 최초·정정 값과 해외 별도 집계. 알제리·튀니지 별도 표의 조사일과 범위.",
+      "1936년 도시 표의 Strasbourg와 Bas-Rhin 표기."
+    ],
+    "limitations": [
+      "전전 총조사. OCR 숫자가 본문·표에서 불일치하므로 정정치는 요약표를 기준으로 확인했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "sgf-1936-census"
+  },
+  {
+    "id": "CAT-FR-SRC-0107",
+    "title": "Données nationales – Population, T1. Évolution générale de la situation démographique",
+    "institution_or_author": "Institut national de la statistique et des études économiques (INSEE)",
+    "publication_date": "2024-07-15",
+    "source_type": "primary: 공식 통계 계열과 소급 추계",
+    "document_or_accession_number": "INSEE 8210070; T1.xlsx",
+    "locator": "FM!B43:C49, B50, 131·133–134행",
+    "url": "https://www.insee.fr/fr/statistiques/fichier/8210070/T1.xlsx",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939~1945년 본토 연평균 추계, 1946년 1월 1일 추계, 전시 사망 열의 제외 범위."
+    ],
+    "limitations": [
+      "워크북 실물을 열람했다. 전시 1월 1일 수치 미제공. 연평균을 특정 날짜·점령 구역 값으로 해석할 수 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "insee-t1-metropolitan-series"
+  },
+  {
+    "id": "CAT-FR-SRC-0108",
+    "title": "Statistiques récentes: Premières données sur le recensement de la population française du 10 mars 1946 et sur l’évolution de la population totale de la France de 1938 à 1945",
+    "institution_or_author": "M. G. / Annales de géographie",
+    "publication_date": "1946",
+    "source_type": "secondary: 동시대 인구통계 보고",
+    "document_or_accession_number": "55권 300호; Persée 12578",
+    "locator": "317쪽 본문 및 인구동태 표",
+    "url": "https://www.persee.fr/doc/geo_0003-4010_1946_num_55_300_12578",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1946년 3월 10일 법정인구 40,517,923명과 전시 일부 통계의 86·87개 데파르트망 범위."
+    ],
+    "limitations": [
+      "총조사 원표의 독립 재계측이 아니다. 당시 보고에 인용된 값이다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "fr-1946-census-reports"
+  },
+  {
+    "id": "CAT-FR-SRC-0109",
+    "title": "Chronique de démographie",
+    "institution_or_author": "Paul Gasc / Journal de la Société de statistique de Paris",
+    "publication_date": "1948",
+    "source_type": "secondary: 동시대 인구통계 논평",
+    "document_or_accession_number": "89권 119–128쪽; NUMDAM JSFS_1948__89__119_0",
+    "locator": "119쪽 주 3",
+    "url": "https://www.numdam.org/article/JSFS_1948__89__119_0.pdf",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "정정 법정인구 40,502,513명과 제외된 해외 인구 약 31만 명."
+    ],
+    "limitations": [
+      "정정된 합계의 인용이다. 원 정정표와 지역별 변경 내역은 미대조."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "fr-1946-census-reports"
+  },
+  {
+    "id": "CAT-FR-SRC-0110",
+    "title": "La situation démographique",
+    "institution_or_author": "Jean Bourgeois / Population",
+    "publication_date": "1947",
+    "source_type": "secondary: 동시대 인구학 분석",
+    "document_or_accession_number": "2권 2호 329–347쪽; Persée 1778",
+    "locator": "330쪽 표 I과 본문",
+    "url": "https://www.persee.fr/doc/pop_0032-4663_1947_num_2_2_1778?pageId=T1_330",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "총조사 편의를 보정한 1936·1946년 상주인구와 분석상 감소분."
+    ],
+    "limitations": [
+      "동일 총조사에 기반한 별도 보정 분석이며 법정인구의 독립 계측이 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bourgeois-1947-adjusted-censuses"
+  },
+  {
+    "id": "CAT-FR-SRC-0111",
+    "title": "Le recensement du 31 octobre 1948 en Algérie",
+    "institution_or_author": "Service d’Information du Cabinet du Gouverneur Général de l’Algérie",
+    "publication_date": "1949-08-01",
+    "source_type": "primary: 동시대 총독부 공보 스캔",
+    "document_or_accession_number": "Documents Algériens, série sociale n°26",
+    "locator": "1쪽 표 I·II",
+    "url": "https://alger-roi.fr/Alger/documents_algeriens/social/pages/26_recensement_1948_1.pdf",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1948년 조사에서 총 8,676,016명, 코뮌 집계 8,595,581명 및 별도 집계 80,435명."
+    ],
+    "limitations": [
+      "표 I의 검색 OCR은 총계를 오독한다. 판면과 표 II를 대조했다. 1945년 인구가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "algeria-1948-census-editions"
+  },
+  {
+    "id": "CAT-FR-SRC-0112",
+    "title": "Résultats statistiques du dénombrement de la population effectué le 31 octobre 1954. Volume I: Population légale ou de résidence habituelle, Répertoire statistique des communes d’Algérie",
+    "institution_or_author": "Gouvernement général de l’Algérie / Direction générale des finances, Service de statistique générale",
+    "publication_date": null,
+    "source_type": "primary: 공식 총조사 간행물 스캔",
+    "document_or_accession_number": "Volume I; 1954-10-31 조사",
+    "locator": "서문 XV쪽, 4쪽 표 I",
+    "url": "https://paris8-omekas.s3.nl-ams.scw.cloud/original/dfb67babe96a86b8432d9ace80ec254842929ac4.pdf",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936·1948년 소급 표의 코뮌·별도 집계와 각각 7,234,684명 및 8,681,785명."
+    ],
+    "limitations": [
+      "1954년 조사 간행물의 소급 표로 1948년 공보와 같은 조사를 재수록했다. 판본 차이의 이유와 발행일은 확인하지 못했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "algeria-1948-census-editions"
+  },
+  {
+    "id": "CAT-FR-SRC-0113",
+    "title": "Le recensement de 1936 dans l’Afrique du nord",
+    "institution_or_author": "Augustin Bernard / Annales de géographie",
+    "publication_date": "1937",
+    "source_type": "secondary: 동시대 총조사 해설",
+    "document_or_accession_number": "46권 259호 84–88쪽; DOI 10.3406/geo.1937.12245",
+    "locator": "85쪽 튀니지 절과 출처 주",
+    "url": "https://www.persee.fr/doc/geo_0003-4010_1937_num_46_259_12245?pageId=T1_85",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "튀니지 보호령의 1936년 3월 12일 민간인구 2,608,313명과 인용 조사 간행물 표제."
+    ],
+    "limitations": [
+      "본토 부록과 동일한 튀니지 조사를 인용했다. 전시 인구를 보여주지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "tunisia-1936-census-reports"
+  },
+  {
+    "id": "CAT-FR-SRC-0114",
+    "title": "Décret n°46-2948 du 30 décembre 1946 recensement de la population du 10 mars 1946",
+    "institution_or_author": "Journal officiel de la République française / Légifrance",
+    "publication_date": "1946-12-30",
+    "source_type": "primary: 당대 명령 공식 서지",
+    "document_or_accession_number": "JORFTEXT000000685968",
+    "locator": "명령 표제 및 관보 안내",
+    "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000685968",
+    "accessed_at": "2026-11-11T12:58:10+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "본토 법정인구를 정하는 명령의 서지."
+    ],
+    "limitations": [
+      "공식 페이지의 표제와 관보 안내 확인. 부속표의 수치 및 정정 문서는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "fr-1946-census-decree"
+  },
+  {
+    "id": "CAT-FR-SRC-0115",
+    "title": "Amtlicher Plan der Stadt Strassburg (Massstab 1: 15 000)",
+    "institution_or_author": "Städtisches Vermessungsamt / J. Finck (인쇄) / Paris Musées",
+    "publication_date": "1940–1945 (소장처 추정)",
+    "source_type": "primary: 독일 민정기 공식 시가지도 및 사후 기입",
+    "document_or_accession_number": "2015.3.1.249; IIIF 600005477",
+    "locator": "표지, 축척, Marques et inscriptions",
+    "url": "https://www.parismuseescollections.paris.fr/fr/musee-jean-moulin/oeuvres/prise-de-guerre-du-4rbfm-amtlicher-plan-der-stadt-strassburg-massstab-1-15",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일어 지도 표기 Strassburg, 시 측량부 명의, 프랑스어 기입 Strasbourg 및 1944-11-23."
+    ],
+    "limitations": [
+      "표지와 지도 이미지를 열었다. 기입 전체는 기관 전사를 대조했다. 인쇄·기입 시점은 각각 미확인."
+    ],
+    "rights": "디지털 이미지에 Paris Musées CC0 표기. 이미지 재수록 없이 링크만 사용.",
+    "independence_group": "strasbourg-municipal-survey-map"
+  },
+  {
+    "id": "CAT-FR-SRC-0116",
+    "title": "Die „Germanisierung“ Straßburgs am Beispiel der Umbenennung von Straßen und Plätzen",
+    "institution_or_author": "Moritz Faist / Universität Freiburg 연구 프로젝트",
+    "publication_date": "2017-04-21",
+    "source_type": "secondary: 기록과 당대 신문을 이용한 연구",
+    "document_or_accession_number": "연구 프로젝트 온라인 글; 인용 사진 Archives de Strasbourg 1 Fi 128/19",
+    "locator": "개명 절, 1940-08-21 신문 사진 및 출처 목록",
+    "url": "https://ns-ministerien-bw.de/2017/04/franzoesische-schminke-weicht-altem-deutschem-kulturgut-die-germanisierung-strassburgs-am-beispiel-der-umbenennung-von-strassen-und-plaetzen/",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일의 사실상 병합 아래 1940-08-21 광장 3곳 개명 행사와 프랑스어·독일어 대응."
+    ],
+    "limitations": [
+      "당시 신문과 공고에 근거한 해설로 공고의 독립 확증으로 계산하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "strasbourg-renaming-1940"
+  },
+  {
+    "id": "CAT-FR-SRC-0117",
+    "title": "Umbenennung von Strassen und Plätzen [신문 공고 스캔 묶음]",
+    "institution_or_author": "Straßburger Neueste Nachrichten / Freiburg 연구 프로젝트 제공",
+    "publication_date": "1940-08 (두 번째 이미지 공고 말미 1940-08-30)",
+    "source_type": "primary: 개명 공고의 스캔",
+    "document_or_accession_number": "Umbenennung_Strassen.pdf, 2면",
+    "locator": "PDF 두 번째 이미지의 Kléber·Broglie 대응 행 및 하단 날짜",
+    "url": "https://ns-ministerien-bw.de/wp-content/uploads/2017/04/Umbenennung_Strassen.pdf",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Place Kléber—Karl-Roos-Platz와 Place Broglie—Adolf-Hitler-Platz 대응."
+    ],
+    "limitations": [
+      "두 번째 이미지의 하단 날짜는 기사에 붙은 8월 24일 출처 표기와 구분했다. 두 번째 이미지의 발행 호수 및 개별 시행일은 미확정."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "strasbourg-renaming-1940"
+  },
+  {
+    "id": "CAT-FR-SRC-0118",
+    "title": "Libération de Strasbourg",
+    "institution_or_author": "Armée de Terre / Ministère des Armées",
+    "publication_date": null,
+    "source_type": "secondary: 공식 해방사 해설",
+    "document_or_accession_number": "liberation-2",
+    "locator": "「23 novembre 1944, la libération de Strasbourg」",
+    "url": "https://www.defense.gouv.fr/terre/mieux-nous-connaitre/histoire-larmee-terre/lengagement-larmee-terre-seconde-guerre-mondiale/liberation-2",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944-11-23 제2기갑사단의 도시 진입과 클레베르 광장 명칭."
+    ],
+    "limitations": [
+      "직접 내려받은 기관 HTML 본문을 확인했다. 현대의 사건 설명이며 광장명 환원 법령은 아니다."
+    ],
+    "rights": "본문 요약 및 링크만 사용. 사진에 ECPAD/Défense 권리 표기.",
+    "independence_group": "armee-terre-strasbourg-liberation"
+  },
+  {
+    "id": "CAT-FR-SRC-0119",
+    "title": "Commune de Strasbourg",
+    "institution_or_author": "INSEE",
+    "publication_date": "2026-01-01 (지리 코드 기준일)",
+    "source_type": "primary: 현행 공식 지리 식별자",
+    "document_or_accession_number": "COG 67482",
+    "locator": "Code officiel géographique au 1er janvier 2026",
+    "url": "https://www.insee.fr/fr/metadonnees/geographie/commune/67482-strasbourg",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현대 Strasbourg와 Bas-Rhin 대응."
+    ],
+    "limitations": [
+      "현대 행정 코드는 전시 경계를 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "insee-strasbourg-cog"
+  },
+  {
+    "id": "CAT-FR-SRC-0120",
+    "title": "Strasbourg capitale de Noël – Plan d’accès automobile",
+    "institution_or_author": "Ville de Strasbourg",
+    "publication_date": "2026 (판면 행사 기준)",
+    "source_type": "primary: 현대 시 지도",
+    "document_or_accession_number": "공개 PDF 1면",
+    "locator": "지도 중앙 광장 3곳 표기",
+    "url": "https://ete.strasbourg.eu/documents/d/strasbourg.eu/plan_noel2024_secu",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "현재 Place Kléber·Place Broglie·Place de la République 표기."
+    ],
+    "limitations": [
+      "현재 대응명만 인용. URL 파일명의 숫자와 달리 열람한 판면은 2026년 행사판."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "strasbourg-current-city-map"
+  },
+  {
+    "id": "CAT-FR-SRC-0121",
+    "title": "Plan de Saïgon",
+    "institution_or_author": "Service géographique de l’Indochine / Bibliothèque nationale de France",
+    "publication_date": "1942",
+    "source_type": "primary: 당대 지도 스캔 복제본",
+    "document_or_accession_number": "BnF GE C-17229; Gallica btv1b53197000p",
+    "locator": "단일 도엽 표제와 축척",
+    "url": "https://commons.wikimedia.org/wiki/File:Plan_de_Sa%C3%AFgon_(1942).jpg",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 Saïgon 지도 표제와 1:10,000 도엽."
+    ],
+    "limitations": [
+      "Gallica 제공 스캔의 공개 축소판을 열람했다. 지도의 도시 표제가 법령상 행정 경계를 뜻하지 않는다."
+    ],
+    "rights": "복제본에 Public Domain Mark 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "sgi-1942-city-maps"
+  },
+  {
+    "id": "CAT-FR-SRC-0122",
+    "title": "Plan de Cholon",
+    "institution_or_author": "Service géographique de l’Indochine / Bibliothèque nationale de France",
+    "publication_date": "1942",
+    "source_type": "primary: 당대 지도 스캔 복제본",
+    "document_or_accession_number": "BnF GE C-17230; Gallica btv1b53189369q",
+    "locator": "단일 도엽 표제와 축척",
+    "url": "https://commons.wikimedia.org/wiki/File:Plan_de_Cholon_(1942).jpg",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942년 Cholon 지도 표제와 1:10,000 도엽."
+    ],
+    "limitations": [
+      "Gallica 직접 접근 403, 공개 축소판의 표제를 열람했다. 같은 기관의 Saïgon 지도와 독립 계열로 계산하지 않는다."
+    ],
+    "rights": "복제본에 Public Domain Mark 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "sgi-1942-city-maps"
+  },
+  {
+    "id": "CAT-FR-SRC-0123",
+    "title": "Họa đồ Đô thành Sài Gòn – Chợ Lớn (1956), tỷ lệ 1/20.000",
+    "institution_or_author": "Trung tâm Lưu trữ quốc gia II (베트남 국가기록원 제2센터)",
+    "publication_date": null,
+    "source_type": "secondary: 기관 소장 지도 해설",
+    "document_or_accession_number": "온라인 전시 지도 제37번",
+    "locator": "첫 문단, 연혁 [1]–[5]",
+    "url": "https://www.nac2.gov.vn/csdl/bando/37.html",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Sài Gòn, Chợ Lớn 및 Région de Saigon-Cholon 대응, 1931년 구역 설치, 1941년 권한 이전."
+    ],
+    "limitations": [
+      "1956년 도면 설명이 인용한 연혁이다. 1931년·1941년 법령 원문과 전시 경계도는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nac2-saigon-cholon-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0124",
+    "title": "Indochine",
+    "institution_or_author": "Archives nationales d’outre-mer",
+    "publication_date": null,
+    "source_type": "secondary: 공식 기록군 해설",
+    "document_or_accession_number": "GGI; colonial administration before 1945",
+    "locator": "Archives de l’administration coloniale jusqu’en 1945",
+    "url": "https://archives-nationales-outre-mer.culture.gouv.fr/faire-une-recherche/indochine",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "코친차이나의 직할 식민지 행정과 인도차이나 연방 내 위치."
+    ],
+    "limitations": [
+      "기관 기록 안내. 개별 도시의 관할 경계와 실효지배는 확인 대상이 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "anom-indochina-guide"
+  },
+  {
+    "id": "CAT-FR-SRC-0125",
+    "title": "Nouveau conseil de la région de Saïgon-Cholon",
+    "institution_or_author": "Le Nouvelliste d’Indochine",
+    "publication_date": "1942-01-25",
+    "source_type": "primary: 당대 신문 보도의 후대 전재",
+    "document_or_accession_number": "SFDIC-Cholon.pdf 내 신문 발췌",
+    "locator": "1942-01-25 기사 표제·첫 문단",
+    "url": "https://www.entreprises-coloniales.fr/inde-indochine/SFDIC-Cholon.pdf",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "구역 이름의 실제 사용, 새 평의회 첫 회의가 사이공 시청에서 열렸다는 당대 보도."
+    ],
+    "limitations": [
+      "현대 편집본에 전재된 기사 발췌를 열람했다. 신문 원판면과 관보 원문은 미대조."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nouvelliste-indochine-1942"
+  },
+  {
+    "id": "CAT-FR-SRC-0126",
+    "title": "Inventaire des archives de l’Indochine. Sous-série 10 H (1867–1956), tome I",
+    "institution_or_author": "Jean-Claude Devos, Jean Nicot, Philippe Schillinger / Service historique de l’armée de Terre",
+    "publication_date": "1990",
+    "source_type": "secondary: 기록물 목록의 역사 서문",
+    "document_or_accession_number": "10 H; ISBN 2-86323-055-7",
+    "locator": "22쪽; 10 H 79–80 목록",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/notices_files/SHDGR_INV_10H_T1.pdf",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945-03-09 사이공 총독 관저의 드쿠 체포와 일본군 공격."
+    ],
+    "limitations": [
+      "프랑스 육군 기록기관의 서문을 열람했다. 해당 기록군 개별 문서 원문과 시가지 지배 경계는 미확인."
+    ],
+    "rights": "© Service historique de l’armée de Terre. 요약과 링크만 사용.",
+    "independence_group": "shat-10h-inventory"
+  },
+  {
+    "id": "CAT-FR-SRC-0127",
+    "title": "Memorandum of Conversation, by the Director of the Office of Far Eastern Affairs (Vincent)",
+    "institution_or_author": "John Carter Vincent / U.S. Department of State",
+    "publication_date": "1945-09-24",
+    "source_type": "primary: 미 국무부 외교 메모 공식 전사",
+    "document_or_accession_number": "851G.00/9–2445; FRUS 1945 VI, doc. 189",
+    "locator": "본문 첫 단락",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v06/d189",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 9월 하순 미국 외교 메모의 Saigon 표기."
+    ],
+    "limitations": [
+      "메모의 영국 외교관 진술은 당시 입장을 기록하며, 9월 2일의 통치 상태는 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "us-state-851g-092445"
+  },
+  {
+    "id": "CAT-FR-SRC-0128",
+    "title": "Nghị quyết về việc chính thức đặt tên thành phố Sài Gòn - Gia Định là thành phố Hồ Chí Minh",
+    "institution_or_author": "베트남 국회 / Trường Chinh 서명",
+    "publication_date": "1976-07-02",
+    "source_type": "primary: 국회 결의의 온라인 전사",
+    "document_or_accession_number": "무번호 국회 결의; 국회 도서관 11742/17813",
+    "locator": "날짜 및 QUYẾT NGHỊ 본문",
+    "url": "https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-quyet-chinh-thuc-dat-ten-thanh-pho-sai-gon-gia-dinh-la-thanh-pho-ho-chi-minh-42737.aspx",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Sài Gòn–Gia Định의 현대 도시명 변경."
+    ],
+    "limitations": [
+      "국회 도서관 직접 접근 403. 공개 법령 데이터베이스의 전문을 열람했다. 현대명 식별에만 사용했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "vn-assembly-1976-hcmc"
+  },
+  {
+    "id": "CAT-FR-SRC-0129",
+    "title": "Libération de Strasbourg, la place Kléber",
+    "institution_or_author": "촬영자 미상 / Eastman Kodak Company (제조) / Paris Musées",
+    "publication_date": "1944-11-23 (사진 소장기관 연대)",
+    "source_type": "primary: 해방 당시 사진 및 소장기관의 뒷면 기입 전사",
+    "document_or_accession_number": "2015.3.1.122",
+    "locator": "Marques, inscriptions, poinçons, 뒷면 기입",
+    "url": "https://www.parismuseescollections.paris.fr/fr/musee-jean-moulin/oeuvres/liberation-de-strasbourg-la-place-kleber",
+    "accessed_at": "2026-11-11T15:03:24+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "사진 뒷면에 기록된 프랑스어 Place Kléber와 촬영 장면의 날짜."
+    ],
+    "limitations": [
+      "소장기관의 기입 전사를 확인했다. 기입 작성일이나 법정 명칭의 시행일은 미확인."
+    ],
+    "rights": "기관에 Reproduction 표기. 이미지 재수록 없이 링크만 사용.",
+    "independence_group": "paris-musees-kleber-print"
+  },
+  {
+    "id": "CAT-FR-SRC-0130",
+    "title": "Armistice Agreement between the German High Command and French Plenipotentiaries",
+    "institution_or_author": "Wilhelm Keitel·Charles Huntziger / U.S. Department of State / Yale Avalon Project",
+    "publication_date": "1940-06-22 (서명), 1956 (영문 편찬)",
+    "source_type": "primary: 휴전협정 영문 전사",
+    "document_or_accession_number": "Documents on German Foreign Policy, Series D IX, 671–676쪽; Department of State Publication 6312",
+    "locator": "제2·3·23조, 서명란, 부록",
+    "url": "https://avalon.law.yale.edu/wwii/frgearm.asp",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북·서쪽 점령, 점령국 권한과 프랑스 행정의 역할, 경계선 설명, 6월 22일 서명."
+    ],
+    "limitations": [
+      "웹 표제의 6월 25일과 문서 서명일을 구분했다. 첨부 원도 판면은 없음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "franco-german-armistice"
+  },
+  {
+    "id": "CAT-FR-SRC-0131",
+    "title": "The Conquest and Liberation of France",
+    "institution_or_author": "Army Information Branch, Army Service Forces, U.S. War Department / Truman Library",
+    "publication_date": "1944-09-18",
+    "source_type": "primary: 전시 지도 스캔",
+    "document_or_accession_number": "M1772-01",
+    "locator": "1939년 9월 및 1940년 6월 패널과 범례",
+    "url": "https://www.trumanlibrary.gov/maps/m1772-01-map-conquest-and-liberation-france",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "개전기 국제 경계와 1940년 6월 독일군 진출선의 표기."
+    ],
+    "limitations": [
+      "1944년 제작된 전쟁 경과 지도. 군사 진출선과 휴전협정상의 점령선 및 현장 군정 경계를 구분한다."
+    ],
+    "rights": "소장기관 public domain 표기. 재수록 없이 링크만 사용.",
+    "independence_group": "us-war-department-m1772"
+  },
+  {
+    "id": "CAT-FR-SRC-0132",
+    "title": "Chronologie : Répression et persécution en France occupée 1940–1944",
+    "institution_or_author": "Sciences Po / Violence de masse et Résistance",
+    "publication_date": "2009-12-07",
+    "source_type": "secondary: 연구기관 연혁",
+    "document_or_accession_number": "공개 온라인 연혁",
+    "locator": "Introduction, 1940년 행정 분할 및 1942년 11월 단락",
+    "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/fr/actualites/chronologie-repression-et-persecution-en-france-occupee-1940-1944/",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "비시 소재, 점령기 군정 구역, 알자스·모젤 사실상 병합, 1942년 남부 및 코르시카 점령."
+    ],
+    "limitations": [
+      "제도와 구역의 개요다. 개별 코뮌의 경계 시행일과 점령기 원도는 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "sciencespo-occupation-chronology"
+  },
+  {
+    "id": "CAT-FR-SRC-0133",
+    "title": "Reddition, capitulation, libération des poches et reconstruction : retour sur les événements historiques",
+    "institution_or_author": "Conseil scientifique et d’orientation de la Mission Libération / Ministère des Armées",
+    "publication_date": "2025-04-24",
+    "source_type": "secondary: 기관 역사 연혁",
+    "document_or_accession_number": "Mission Libération, reddition",
+    "locator": "대서양 거점 해방 연혁 및 독일 항복 단락",
+    "url": "https://www.defense.gouv.fr/mission-liberation/vivre-liberation/liberation-via-ses-historiens/regards-dhistoriens-liberation/reddition",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 5월 로리앙·생나제르 등의 해방 시점."
+    ],
+    "limitations": [
+      "국방부 HTML 본문을 직접 열람했다. 해방일은 개별 항복문 서명·발효일과 구분한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "mission-liberation-1945"
+  },
+  {
+    "id": "CAT-FR-SRC-0134",
+    "title": "Mandat français sur le Cameroun / French Mandate for the Cameroons",
+    "institution_or_author": "국제연맹 이사회",
+    "publication_date": "1922-07-20 (위임 문서), 1922-08-01 (인쇄본 표지)",
+    "source_type": "primary: 국제연맹 인쇄본의 스캔",
+    "document_or_accession_number": "M. 345 (e). 1922. VI.",
+    "locator": "프랑스어본 제1·9조와 1919-07-10 부속 선언",
+    "url": "https://m.bigenc.ru/vault/d511ae278ab3fde2deedbd75240450c7.pdf",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1919년 영불 선언선 동쪽의 프랑스 위임통치와 위임 조건."
+    ],
+    "limitations": [
+      "제3자 호스팅의 당대 인쇄본. 지상 경계위원회 최종 보고서와 도면은 미확인. 1940년 현지 통제는 별도 사료로 확인."
+    ],
+    "rights": "권리 세부 미확인. 자체 요약과 링크만 사용.",
+    "independence_group": "league-french-cameroons-mandate"
+  },
+  {
+    "id": "CAT-FR-SRC-0135",
+    "title": "1940. Ralliements de l’Empire à la France Libre",
+    "institution_or_author": "Direction du patrimoine, de la mémoire et des archives / Ministère des Armées",
+    "publication_date": "2026-08-10 (웹 메타데이터)",
+    "source_type": "secondary: 기관 역사 해설",
+    "document_or_accession_number": "France Libre, 1940-0",
+    "locator": "Historique, Chronologie, Le ralliement du Gabon",
+    "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/seconde-guerre-mondiale/resister/france-libre/1940-0",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "차드·카메룬·중콩고·우방기샤리의 합류와 가봉의 무력 장악."
+    ],
+    "limitations": [
+      "국방부 HTML 본문을 직접 열람했다. 연혁의 날짜를 인용했으며 지역별 이관 문서와 외곽 통제는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "dpma-free-france-ralliements"
+  },
+  {
+    "id": "CAT-FR-SRC-0136",
+    "title": "Manifeste de Brazzaville",
+    "institution_or_author": "Charles de Gaulle / Fondation de la France Libre",
+    "publication_date": "1940-10-27 (선언), 2008-12-02 (웹 전사)",
+    "source_type": "primary: 선언문 전사",
+    "document_or_accession_number": "Manifeste de Brazzaville, 27 octobre 1940",
+    "locator": "제국방위평의회 창설 및 합류 영토 관련 단락",
+    "url": "https://francelibre.net/manifeste-brazzaville/",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "브라자빌에서 발표한 자유프랑스의 제국방위평의회 설치와 관할 주장."
+    ],
+    "limitations": [
+      "당사자의 정치적 선언이며 개별 영토의 행정권 이관일을 증명하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "de-gaulle-brazzaville-manifesto"
+  },
+  {
+    "id": "CAT-FR-SRC-0137",
+    "title": "Trusteeship Agreement for the Territory of the Cameroons under French Administration",
+    "institution_or_author": "UN Trusteeship Council / 프랑스 정부·유엔 총회",
+    "publication_date": "1946-12-13 (승인), 1947-06-09 (UN 발행)",
+    "source_type": "primary: 유엔 신탁통치협정 공식본",
+    "document_or_accession_number": "T/Agreement/5; A/RES/63(I)",
+    "locator": "서문, 제1·2조",
+    "url": "https://digitallibrary.un.org/nanna/record/3995998/files/T_Agreement_5-FR.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1922년 위임통치의 공간적 범위 및 1946년 신탁통치 승인."
+    ],
+    "limitations": [
+      "전후 처리의 공식 근거. 신탁통치 지위를 1945년에 소급하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "un-cameroons-trusteeship"
+  },
+  {
+    "id": "CAT-FR-SRC-0138",
+    "title": "Convention de paix entre la France et la Thaïlande",
+    "institution_or_author": "프랑스국·태국, 일본 중재 / British and Foreign State Papers",
+    "publication_date": "1941-05-09 (체결)",
+    "source_type": "primary: 조약집 프랑스어 스캔",
+    "document_or_accession_number": "British and Foreign State Papers, vol. 144, 805–812쪽",
+    "locator": "805–807쪽 제2·3·5조",
+    "url": "https://documentsdedroitinternational.fr/ressources/TdP/1941-05-09-ConventiondeTokyo.pdf",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "메콩·캄보디아 국경 변경, 철수·이관, 태국 편입 조항."
+    ],
+    "limitations": [
+      "조약집 판면은 이관 규정을 보여준다. 조약이 참조하는 측량 원도와 현장 이관표는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "tokyo-franco-thai-convention"
+  },
+  {
+    "id": "CAT-FR-SRC-0139",
+    "title": "The French Embassy to the Department of State",
+    "institution_or_author": "주미 프랑스 대사관 / U.S. Department of State",
+    "publication_date": "1945-08-22",
+    "source_type": "primary: 프랑스 공한 공식 영문 번역",
+    "document_or_accession_number": "No. 621; FRUS 1945 VI, doc. 956, 1292–1293쪽",
+    "locator": "본문, 협약 무효 주장 및 앞선 반환 요구",
+    "url": "https://history.state.gov/historicaldocuments/frus1945v06/d956",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 프랑스 정부의 도쿄 협약 부인 및 영토 반환 주장."
+    ],
+    "limitations": [
+      "당사자 입장으로 제시한다. 국제 판결이나 현장 반환 확인 문서는 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "french-embassy-1945-621"
+  },
+  {
+    "id": "CAT-FR-SRC-0140",
+    "title": "General Order No. 1 (Directive No. 1)",
+    "institution_or_author": "Supreme Commander for the Allied Powers / Nagoya University SCAPIN-DB",
+    "publication_date": "1945-09-02",
+    "source_type": "primary: 항복 명령의 전사",
+    "document_or_accession_number": "SCAPIN-1",
+    "locator": "별첨 Military and Naval, I(a), I(c)(1)",
+    "url": "https://jahis.law.nagoya-u.ac.jp/scapindb/docs/scapin-1",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북위 16도 기준 일본군 항복 접수 주체."
+    ],
+    "limitations": [
+      "항복 지시이며 국경 조약이나 현지에서 지시가 집행된 날짜의 증거가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "scapin-order-1"
+  },
+  {
+    "id": "CAT-FR-SRC-0141",
+    "title": "Declaration of Independence",
+    "institution_or_author": "Hồ Chí Minh / 베트남 민주공화국 임시정부 / 주미 베트남 대사관",
+    "publication_date": "1945-09-02",
+    "source_type": "primary: 독립선언의 기관 영문 번역",
+    "document_or_accession_number": "대사관 공개 기록 node/57",
+    "locator": "표제 날짜와 마지막 선언 단락",
+    "url": "https://vietnamembassy-usa.org/node/57",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스와 식민 관계 단절 및 베트남 민주공화국 독립 선언."
+    ],
+    "limitations": [
+      "선언자의 정치·법적 입장이며 전 지역의 동일한 행정 통제나 타국의 승인 여부를 입증하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "vietnam-declaration-independence-1945"
+  },
+  {
+    "id": "CAT-FR-SRC-0142",
+    "title": "Settlement Agreement between France and Siam, with Protocol",
+    "institution_or_author": "프랑스 공화국 임시정부·시암 정부 / United Nations Treaty Series",
+    "publication_date": "1946-11-17 (서명·발효), 1959 (UNTS 수록)",
+    "source_type": "primary: 국제 조약 등록본",
+    "document_or_accession_number": "UNTS vol. 344, No. 4943",
+    "locator": "68–71쪽 제1·5조, 이관 의정서 I–IV",
+    "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%20344/v344.pdf",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 협약 폐기 및 이전 상태 회복, 행정·재산·기록 이관 규정."
+    ],
+    "limitations": [
+      "법적 합의와 이관 방법을 확인했다. 개별 지역의 현장 인계 완료일은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "washington-franco-siamese-settlement"
+  },
+  {
+    "id": "CAT-FR-SRC-0143",
+    "title": "Carte de France présentant la ligne de démarcation [notice]",
+    "institution_or_author": "Service historique de la Défense / Fonds Claude Boudey",
+    "publication_date": "1940 (목록의 지도 연대)",
+    "source_type": "secondary: 군사기록원 소장 목록",
+    "document_or_accession_number": "DE 2017 PA 65 874; ARK 1493250",
+    "locator": "목록의 표제·연대·조건",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/1493250",
+    "accessed_at": "2026-11-11T17:00:01+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 점령선 지도 소장번호와 열람 조건."
+    ],
+    "limitations": [
+      "기관 HTML 목록을 확인했다. 이 항목은 지도 판면 또는 휴전 원도 일치 여부를 증명하지 않는다."
+    ],
+    "rights": "소장 목록에 이용 조건 Sous réserve 표기. 링크만 사용.",
+    "independence_group": "shd-boudey-map-catalog"
+  },
+  {
+    "id": "CAT-FR-SRC-0144",
+    "title": "The Mineral Industry of the British Empire and Foreign Countries: Statistical Summary (Production, Imports and Exports), 1938–1944",
+    "institution_or_author": "Imperial Institute, Mineral Resources Department / HMSO, NERC Open Research Archive",
+    "publication_date": "1948",
+    "source_type": "primary: 전후 초기의 공식 국제 통계 편찬본",
+    "document_or_accession_number": "NORA 535289",
+    "locator": "11~12쪽 보크사이트·알루미늄 생산, 59·61쪽 크롬광 생산·수출, 151쪽 강괴·강주물, 224쪽 원유, 344~345쪽 텅스텐 정광",
+    "url": "https://nora.nerc.ac.uk/id/eprint/535289/1/SS_1938_1944.pdf",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스·인도차이나·누벨칼레도니의 해당 표 행, 연도, 롱톤과 품목 구분을 대조."
+    ],
+    "limitations": [
+      "각국 원통계의 전시 행정 귀속과 독립성은 미확인. 금속 및 산화물 함유량 일부는 편찬자 추계."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "imperial-institute-mineral-summary"
+  },
+  {
+    "id": "CAT-FR-SRC-0145",
+    "title": "Assemblée générale ordinaire. Rapport annuel – exercice 1938",
+    "institution_or_author": "Société anonyme d’exploitations minières de Pechelbronn / Archives Worms & Cie",
+    "publication_date": "1939-06-21",
+    "source_type": "primary: 당대 회사 이사회 보고",
+    "document_or_accession_number": "Worms, 1939.06.21.De Pechelbronn",
+    "locator": "Rapport du conseil d’administration, 원유 생산 및 프랑스 원유 수입 단락",
+    "url": "https://www.wormsetcie.com/fr/archives/1939/19390621de-pechelbronnassemblee-generale-ordinairerapport-annuel-exercice-1938",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 알자스 유전 생산 71,807 t과 프랑스 원유 수입 6,969,000 t."
+    ],
+    "limitations": [
+      "회사 기록에 인용된 전국 수입 집계의 원 세관표는 미확인. 전전 기준으로만 사용."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "pechelbronn-board-report-1938"
+  },
+  {
+    "id": "CAT-FR-SRC-0146",
+    "title": "Évolution de l’industrie du pétrole en France (표 1)",
+    "institution_or_author": "World Bank Group Archives 소장 문건 / 표 출처 Comité Professionnel du Pétrole, Bureau de Recherches de Pétrole",
+    "publication_date": "1957–1958 (소장철 범위, 개별 문건 작성일 미상)",
+    "source_type": "secondary: 공식 산업 자료를 편찬한 후대 표",
+    "document_or_accession_number": "WBG Archives Folder 1849841, Leonard B. Rist – French Oil Exploration",
+    "locator": "문건 2~3쪽, Tableau 1, 1938 행 및 주 (1)",
+    "url": "https://thedocs.worldbank.org/en/doc/41271443760640822-0560011958/original/WorldBankGroupArchivesFolder1849841.pdf",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 원유 생산·수입·정제 처리 구분과 생산의 본토 범위."
+    ],
+    "limitations": [
+      "전전 통계의 회고 자료. 1944–45 묶음의 기간 정의가 분명하지 않아 이번 수치 비교에서는 제외."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "french-petroleum-industry-retrospective"
+  },
+  {
+    "id": "CAT-FR-SRC-0147",
+    "title": "Historique",
+    "institution_or_author": "Musée Français du Pétrole",
+    "publication_date": "미상",
+    "source_type": "secondary: 현지 박물관 연혁",
+    "document_or_accession_number": "웹 연혁",
+    "locator": "Raffinage, Seconde Guerre mondiale 단락",
+    "url": "https://www.musee-du-petrole.com/historique/",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "페셸브론 정유시설의 1944-08-03 폭격."
+    ],
+    "limitations": [
+      "폭격의 당대 피해조서와 가동률·처리량은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "musee-pechelbronn-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0148",
+    "title": "The French Iron and Steel Industry",
+    "institution_or_author": "J. Grauman·E. W. Rembert / IBRD Economic Department",
+    "publication_date": "1949-04-20",
+    "source_type": "primary: 전후 복구기의 기관 조사보고서 및 집계",
+    "document_or_accession_number": "E 34/49; World Bank 66879",
+    "locator": "본문 14쪽 §IV, 부록 표 6·7 (PDF 38~39쪽)",
+    "url": "https://documents1.worldbank.org/curated/en/581841468281387936/pdf/NonAsciiFileName0.pdf",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 및 1945년 프랑스 조강·완제품 강철 연간 생산, 천 미터톤 단위."
+    ],
+    "limitations": [
+      "IBRD 작업문서의 집계. 영국 통계와 원자료 계통의 독립성은 미확인. 1939·1945년 수출 공란은 미확인으로 처리."
+    ],
+    "rights": "공개 열람 승인 표기. 자체 한국어 요약과 링크만 사용.",
+    "independence_group": "ibrd-france-steel-1949"
+  },
+  {
+    "id": "CAT-FR-SRC-0149",
+    "title": "Annuaire statistique de l’Indochine, XI, 1943–1946",
+    "institution_or_author": "Haut-Commissariat de France pour l’Indochine, Statistique générale",
+    "publication_date": "1948",
+    "source_type": "primary: 식민 행정 공식 통계연감",
+    "document_or_accession_number": "Tome XI; Sea-Delt Document ID 251",
+    "locator": "99쪽 표 IX·X",
+    "url": "https://seadelt.net/Asset/Source/Document_ID-251_No-01.pdf",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940·1942·1945년 천연고무 생산 총량과 품목·지역 항목의 존재."
+    ],
+    "limitations": [
+      "PDF 기계 판독 텍스트에서 총계와 일부 세부 합이 불일치. 판면 재확인 전에는 비교 자료와 일치하는 연도 총계만 사용."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "indochina-statistique-generale-xi"
+  },
+  {
+    "id": "CAT-FR-SRC-0150",
+    "title": "L’avenir économique de l’Indochine",
+    "institution_or_author": "Paul Bernard / France-Illustration",
+    "publication_date": "1949-06-04",
+    "source_type": "secondary: 전후 산업계 기고의 생산 집계",
+    "document_or_accession_number": "France-Illustration n° 190, spécial Indochine",
+    "locator": "CAOUTCHOUC, Production indochinoise en tonnes 표",
+    "url": "https://www.entreprises-coloniales.fr/inde-indochine/Bernard-Avenir_eco_IC.pdf",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940·1942·1945년 천연고무 생산 총량을 통계연감과 대조."
+    ],
+    "limitations": [
+      "재전사본 열람. 식민지 경제개발을 옹호하는 기고이며 공식 연감과 기초자료가 독립인지 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bernard-indochina-1949"
+  },
+  {
+    "id": "CAT-FR-SRC-0151",
+    "title": "Problèmes de l’industrie de l’aluminium en France",
+    "institution_or_author": "Bernard Kayser / L’Information Géographique",
+    "publication_date": "1949",
+    "source_type": "secondary: 산업지리 연구",
+    "document_or_accession_number": "13(5), 176–184쪽; DOI 10.3406/ingeo.1949.5482",
+    "locator": "177쪽 §II.A, L’alumine",
+    "url": "https://www.persee.fr/doc/ingeo_0020-0093_1949_num_13_5_5482?pageId=T1_177",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년과 1944년 본토 알루미나 생산량."
+    ],
+    "limitations": [
+      "원 공장별 생산장부는 미확인. 전후 조사 당시의 설비 규모는 전시 규모에 대입하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "kayser-aluminium-1949"
+  },
+  {
+    "id": "CAT-FR-SRC-0152",
+    "title": "Les ressources minérales",
+    "institution_or_author": "Direction de l’industrie, des mines et de l’énergie de la Nouvelle-Calédonie",
+    "publication_date": "미상",
+    "source_type": "secondary: 광업 당국의 지질 해설",
+    "document_or_accession_number": "DIMENC 웹 자료",
+    "locator": "La chromite",
+    "url": "https://dimenc.gouv.nc/geologie/evaluer-les-ressources/les-ressources-minerales",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "쿠마크 티에바기의 크로마이트 산지 식별."
+    ],
+    "limitations": [
+      "지질 해설과 장기 누계. 광산별 전쟁 연도 생산량·운영권을 확인하는 자료로 사용하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "dimenc-chromite"
+  },
+  {
+    "id": "CAT-FR-SRC-0153",
+    "title": "Le tungstène produit conjoncturel (étude succincte du marché mondial)",
+    "institution_or_author": "M. Clairin / INSEE",
+    "publication_date": "1954",
+    "source_type": "secondary: 전후 공식 시장 연구",
+    "document_or_accession_number": "Études et conjoncture 9(9), 820–839쪽; DOI 10.3406/estat.1954.8592",
+    "locator": "830쪽, 2° France 및 인도차이나 공급 단락",
+    "url": "https://www.bnsp.insee.fr/ark%3A/12148/bc6p06z07mv.pdf",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 프랑스 광석 생산 284 t과 1938년 인도차이나 공급 553 t의 품목·기간."
+    ],
+    "limitations": [
+      "품위와 생산·수입의 원통계 계통이 확인되지 않아 영국 통계의 정광량과 통합하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "insee-clairin-tungsten-1954"
+  },
+  {
+    "id": "CAT-FR-SRC-0154",
+    "title": "Military Agency Records RG 226: Records of the Office of Strategic Services",
+    "institution_or_author": "U.S. National Archives and Records Administration",
+    "publication_date": "웹 목록 작성일 미상; 대상 기록 1942-02",
+    "source_type": "secondary: 소장기록 검색도구",
+    "document_or_accession_number": "RG 226, 18835",
+    "locator": "18835행, F.A.M. Noelting 사본 보고 4쪽",
+    "url": "https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3a.html",
+    "accessed_at": "2026-11-11T18:57:38+09:00",
+    "access_status": "candidate",
+    "claims_checked": [
+      "프랑스 합성고무 산업에 관한 동시대 보고의 서지·청구 단서."
+    ],
+    "limitations": [
+      "목록만 열람했다. 본문·가동 여부·생산량은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-rg226-index"
+  },
+  {
+    "id": "CAT-FR-SRC-0155",
+    "title": "Notification relative à l’état de guerre entre la France et l’Allemagne",
+    "institution_or_author": "Georges Bonnet / 프랑스 외무부, Yale Law School Avalon Project 전재",
+    "publication_date": "1939-09-03",
+    "source_type": "primary: 당대 외교 통보의 영어판",
+    "document_or_accession_number": "French Yellow Book no. 368",
+    "locator": "제368호 통보 본문",
+    "url": "https://avalon.law.yale.edu/wwii/ylbk368.asp",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일과의 전쟁 상태 발효일 1939-09-03 17시."
+    ],
+    "limitations": [
+      "당대 외교 문서 영어판의 전재본. 원본 필사 서명은 미열람."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "french-yellow-book-1939"
+  },
+  {
+    "id": "CAT-FR-SRC-0156",
+    "title": "Histoire et chronologie",
+    "institution_or_author": "SPL Val de Seine Aménagement",
+    "publication_date": "미상",
+    "source_type": "secondary: 공공 개발기관 연혁",
+    "document_or_accession_number": "Île Seguin–Rives de Seine 웹 연혁",
+    "locator": "Les usines Renault",
+    "url": "https://www.ileseguin-rivesdeseine.fr/fr/histoire-et-chronologie",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 뫼동~불로뉴빌랑쿠르 공장 면적 100 ha."
+    ],
+    "limitations": [
+      "정확한 조사일, 포함 필지, 토지와 건물 면적 구분을 밝히지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "val-de-seine-development"
+  },
+  {
+    "id": "CAT-FR-SRC-0157",
+    "title": "Boulogne-Billancourt, ville d’art et d’essai, 1800–2000",
+    "institution_or_author": "Antoine Le Bas / Région Île-de-France, Inventaire général; Dominique Hervier 편",
+    "publication_date": "1997-11",
+    "source_type": "secondary: 지역 문화유산 연구서",
+    "document_or_accession_number": "Images du Patrimoine 166; ISBN 2-905913-21-5",
+    "locator": "101~102쪽 Les usines Renault",
+    "url": "https://www.iledefrance.fr/sites/default/files/2023-09/Boulogne-Billancourt%2C%20ville%20d%E2%80%99art%20et%20d%E2%80%99essai%2C%201800-2000.pdf",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전성기 약 72 ha, 우안 트라페즈·세갱섬·바뫼동 기능과 공간 관계."
+    ],
+    "limitations": [
+      "전성기의 연도가 미상. 수록 항공사진은 1955년으로 개전 배치의 직접 자료가 아님."
+    ],
+    "rights": "Inventaire général ADAGP 권리 표기. 자체 요약과 링크만 사용.",
+    "independence_group": "idf-inventaire-renault"
+  },
+  {
+    "id": "CAT-FR-SRC-0158",
+    "title": "Usine de construction automobile dite Régie nationale des usines Renault, ou Île Seguin, Bas-Meudon",
+    "institution_or_author": "Région Île-de-France, Inventaire général du patrimoine culturel",
+    "publication_date": "1991 (1990 조사; 2023 갱신, 2024 PDF)",
+    "source_type": "secondary: 산업유산 실사 및 연혁",
+    "document_or_accession_number": "IA00126647",
+    "locator": "1쪽 Historique·Description",
+    "url": "https://inventaire.iledefrance.fr/dossier/pdf/2f8cec2e-245f-447e-b838-8ea9ab1ff21e/usine-de-construction-automobile-dite-regie-nationale-des-usines-renault-ou-ile-seguin-bas-meudon-detruit-apres-inventaire.pdf",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "M6 최종조립, 1927년 발전소, 1929·1933년 터보발전기 3기, 1928·1932년 교량과 철도망 연결, 갈리스 부지 매입과 전후 공사."
+    ],
+    "limitations": [
+      "조사 당시 잔존 자료와 소급 연혁. 1939년 발전량, 설비 동시 가동 및 수송량은 확인 불가."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "idf-inventaire-renault"
+  },
+  {
+    "id": "CAT-FR-SRC-0159",
+    "title": "Leçon 2, §2.3 Boulogne-Billancourt, banlieue automobile",
+    "institution_or_author": "Université Paris 1 Panthéon-Sorbonne / Université ouverte des humanités",
+    "publication_date": "미상",
+    "source_type": "secondary: 대학 역사 강의",
+    "document_or_accession_number": "Paris et ses banlieues, §2.3",
+    "locator": "세갱섬 프레스·조립 및 1938년 고용 단락",
+    "url": "https://e-cours.univ-paris1.fr/modules/uoh/paris-banlieues/u2/co/2_3.html",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 공장 종업원 38,000명."
+    ],
+    "limitations": [
+      "관측 월, 인원 범주 및 근거 장부는 이 절에 없음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "paris1-urban-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0160",
+    "title": "Adieu Billancourt…",
+    "institution_or_author": "Le Monde",
+    "publication_date": "1992-03-29",
+    "source_type": "secondary: 신문 산업사 회고",
+    "document_or_accession_number": "Le Monde 1992-03-29 아카이브",
+    "locator": "En 1939 단락",
+    "url": "https://www.lemonde.fr/archives/article/1992/03/29/perspectives-retrospective-adieu-billancourt-apres-quatre-vingt-dix-ans-d-activite-ce-qui-fut-la-plus-grande-usine-francaise-d-automobiles-le-coeur-de-renault-s-arrete-la-modernisa_3873307_1819218.html",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 고용 37,000명. 생산 집중과 경쟁 공장에 대한 서술."
+    ],
+    "limitations": [
+      "고용의 관측 월과 원 인사표 미확인. 1938년 통계와 경계·범주가 같은지 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "le-monde-billancourt-1992"
+  },
+  {
+    "id": "CAT-FR-SRC-0161",
+    "title": "France: Billancourt",
+    "institution_or_author": "Association Renault Histoire",
+    "publication_date": "미상",
+    "source_type": "secondary: 회사사 연구회 사이트",
+    "document_or_accession_number": "Histoire des sites Renault, Billancourt",
+    "locator": "Production annuelle (quelques chiffres), 1939 행",
+    "url": "https://sites.google.com/view/associationrenaulthistoire/un-peu-d-histoire/histoire-des-sites-renault/billancourt",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 빌랑쿠르 차량 58,000대 연간 생산 수치."
+    ],
+    "limitations": [
+      "원 생산장부, 차종과 각 작업장 분모를 확인하지 못했다. 설비능력 및 개전일 생산은 별도."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "renault-histoire-sites"
+  },
+  {
+    "id": "CAT-FR-SRC-0162",
+    "title": "Le break, 1890 à 2008",
+    "institution_or_author": "Renault Classic",
+    "publication_date": "미상 (제목상 수록 범위 1890~2008)",
+    "source_type": "secondary: 제조사 역사 자료",
+    "document_or_accession_number": "Renault Classic LeBreak1890a2008",
+    "locator": "1950 à nos jours : le break contemporain, La Juvaquatre",
+    "url": "https://cdn.group.renault.com/ren/master/renault-classic/tools-and-services/LeBreak1890a2008.pdf",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "빌랑쿠르 쥐바카트 생산 시작 1938년, 소형 화물차의 1939년 3월 판매 시작."
+    ],
+    "limitations": [
+      "전시 생산의 정확한 대수 및 당일 가동을 제공하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "renault-classic-break"
+  },
+  {
+    "id": "CAT-FR-SRC-0163",
+    "title": "Aciérie du Breuil ; actuellement Industeel France",
+    "institution_or_author": "Frédéric Pillet / Région Bourgogne-Franche-Comté",
+    "publication_date": "2000 (PDF 2026-06-12 출력)",
+    "source_type": "secondary: 산업유산 실사 및 연혁",
+    "document_or_accession_number": "IA71000142",
+    "locator": "1~2쪽 Historique, complément de localisation 및 hydrographie",
+    "url": "https://patrimoine.bourgognefranchecomte.fr/dossier/pdf/IA71000142",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1918년 설치 마르탱로 8기와 기별 용량, 1944년 1호로 파괴, 변전소 및 운하 인접."
+    ],
+    "limitations": [
+      "개별 로의 명목 용량과 설비 존속을 제공. 일일·연간 생산이나 전력·운하의 처리 실적은 미확인."
+    ],
+    "rights": "지역 문화유산 목록의 이미지 복제 허가 표기. 본문은 자체 요약과 링크만 사용.",
+    "independence_group": "bfc-inventaire-industrial"
+  },
+  {
+    "id": "CAT-FR-SRC-0164",
+    "title": "Fonderie Henri-Paul",
+    "institution_or_author": "Frédéric Pillet / Région Bourgogne-Franche-Comté",
+    "publication_date": "1999 (조사·기록)",
+    "source_type": "secondary: 산업유산 실사 및 연혁",
+    "document_or_accession_number": "IA71000109",
+    "locator": "1쪽 Historique",
+    "url": "https://patrimoine.bourgognefranchecomte.fr/dossier/pdf/IA71000109",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "몽샤냉 주조소, 1920년 개소 당시 주철 능력 30,000 t/년과 1934년 무렵 용해설비 갱신."
+    ],
+    "limitations": [
+      "개소 명목치의 1939년 유효성, 실가동·생산은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bfc-inventaire-industrial"
+  },
+  {
+    "id": "CAT-FR-SRC-0165",
+    "title": "Schneider : de l’exode à la collaboration (été 1940)",
+    "institution_or_author": "Laurent Dingli; 독일 자료 번역 Jacky Ehrhardt",
+    "publication_date": "2021-09-07 (열람 PDF 판본)",
+    "source_type": "secondary: 기록관 자료에 기초한 기업사 연구",
+    "document_or_accession_number": "저자 공개 PDF, 2021-09-07 판",
+    "locator": "10~12쪽 국유화·표 1, 30쪽 L’invasion",
+    "url": "https://louisrenault.com/wp-content/uploads/2021/09/Schneider-a%CC%80-le%CC%81te%CC%81-1940-de-lexode-a%CC%80-la-collaboration-07-09-2021.pdf",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1937년 일부 작업장 국유화, 1940-05-31 세 공장군 고용 및 샬롱 비교 행, 1940-06-17 독일군 진입."
+    ],
+    "limitations": [
+      "집계 원표와 국유 작업장 인원 포함 여부는 미확인. 1940년 고용은 1939년 기준일에 대입하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "dingli-schneider-1940"
+  },
+  {
+    "id": "CAT-FR-SRC-0166",
+    "title": "Gestion du personnel de l’atelier de construction de Creusot (1937–1945)",
+    "institution_or_author": "Service historique de la Défense / CAAPC Châtellerault",
+    "publication_date": "미상 (기록군 1937~1945)",
+    "source_type": "secondary: 국방 기록관의 소장목록과 기관 연혁",
+    "document_or_accession_number": "DE/2017/ZO/8; ark 956530",
+    "locator": "Biographie et histoire; Historique de la conservation; Conditions d’accès",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/956530",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "국유 작업장의 포병 행정 소속, 1940년 폐쇄·생퐁 이전, 원 급여 자료 보존 단서."
+    ],
+    "limitations": [
+      "HTML 원문 열람. 개별 급여·인사 원장과 이전 설비 목록은 미열람."
+    ],
+    "rights": "공공기록, 개별 자료는 열람실의 법정 공개 조건 적용. 자체 요약과 링크만 사용.",
+    "independence_group": "shd-creusot-atelier"
+  },
+  {
+    "id": "CAT-FR-SRC-0167",
+    "title": "Usine de construction automobile PSA Peugeot Citroën",
+    "institution_or_author": "Raphaël Favereaux / Région Bourgogne-Franche-Comté",
+    "publication_date": "2012 (조사·기록)",
+    "source_type": "secondary: 산업유산 목록과 연혁",
+    "document_or_accession_number": "IA25001029",
+    "locator": "1쪽 Historique",
+    "url": "https://patrimoine.bourgognefranchecomte.fr/dossier/pdf/IA25001029",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소쇼 1928~1932년 재편 무렵 부지 50 ha, 1937년 노동자 15,000명."
+    ],
+    "limitations": [
+      "연도와 인원 범주가 빌랑쿠르 수치와 다름. 비교값만 사용하고 개전 등급 경계에 대입하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bfc-inventaire-industrial"
+  },
+  {
+    "id": "CAT-FR-SRC-0168",
+    "title": "Le Creusot 1939–1948",
+    "institution_or_author": "André Prost / Académie François Bourdon",
+    "publication_date": "2007-02",
+    "source_type": "secondary: 산업 기록관 회보의 지역 산업사",
+    "document_or_accession_number": "Bulletin de l’Académie François Bourdon n°8",
+    "locator": "3~4쪽 L’avant guerre",
+    "url": "https://afbourdon.com/wp-content/uploads/2014/11/Bulletin_8.pdf",
+    "accessed_at": "2026-11-11T20:58:18+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일부 작업장의 1937년 국유화와 1939년 11월 반환 서술."
+    ],
+    "limitations": [
+      "법인 설립·물리적 인수·직원 이동을 같은 사건으로 보지 않음. 인계 원문과 범위 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "afb-prost-creusot"
+  },
+  {
+    "id": "CAT-FR-SRC-0169",
+    "title": "Renault Motor Vehicles Plant, Billancourt, Paris",
+    "institution_or_author": "United States Strategic Bombing Survey, Munitions Division / National Diet Library 디지털 복제",
+    "publication_date": "1945-11 초판; 1947-01 재판 열람",
+    "source_type": "primary: 전시 피해 현장조사와 공장 기록 분석",
+    "document_or_accession_number": "USSBS Report 80, D785.U6 no. 80a; NARA M-1013 R07, NDL YD-208",
+    "locator": "NDL 프레임 210(표제), 213~215(인쇄 1~5쪽), 223(1943-04-04 부록 도면)",
+    "url": "https://dl.ndl.go.jp/pid/14051965/1/214",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 11월 현장조사 계열, 조사단 면적 168 acres, 해당 공습 구조피해 7.2%, 트럭 실적·가정 능력·현장 공정 이동."
+    ],
+    "limitations": [
+      "마이크로필름에서 원면과 도면 열람. 점령기 지표와 폭격 피해를 다루며 1945-09-02 실사는 아님. 168 acres의 필지 경계는 별도 검증 대상."
+    ],
+    "rights": "NDL 서지 PDM 표기. 한국어 자체 요약 및 원문 링크만 사용.",
+    "independence_group": "ussbs-renault-survey"
+  },
+  {
+    "id": "CAT-FR-SRC-0170",
+    "title": "Division du travail et mobilisation quotidienne de la main-d’œuvre. Les cas Renault et Fiat",
+    "institution_or_author": "Michel Freyssenet / CSU",
+    "publication_date": "1979; 디지털판 2006",
+    "source_type": "secondary: 사회사·산업 연구, 르노 회사표 재록",
+    "document_or_accession_number": "CSU Paris, 431쪽, 디지털 완전판",
+    "locator": "§3.2.2.8 근처 Carte 1 et Tableau 7, Effectif des usines Renault et filiales",
+    "url": "https://freyssenet.com/files/Division%20du%20travail%20et%20mobilisation%20quotidienne%20de%20la%20main%20d%20oeuvre.%20Les%20cas%20Renault%20et%20Fiat.%20Volume%20complet.pdf",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1944년 17,063명, 1945년 23,375명 빌랑쿠르 고용 및 1945년 르망 1,311명."
+    ],
+    "limitations": [
+      "회사 수치를 재록한 표다. 1945년 개별 관측일·고용 범주·작업 수용 정원은 미상."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "freyssenet-renault-company-series"
+  },
+  {
+    "id": "CAT-FR-SRC-0171",
+    "title": "Exposé de Monsieur Charles Schneider devant les délégués du personnel le 14 septembre 1944",
+    "institution_or_author": "Charles Schneider / André Prost 편집, Académie François Bourdon",
+    "publication_date": "1944-09-14 연설; 2008-02 재록",
+    "source_type": "primary: 기업 경영자의 동시대 직원 대상 보고 전사",
+    "document_or_accession_number": "Bulletin de l’Académie François Bourdon n°9",
+    "locator": "6~10쪽 연설, 특히 9~10쪽 피해·복구 절",
+    "url": "https://www.afbourdon.com/wp-content/uploads/2014/11/Bulletin_9.pdf",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "르크뢰조 해방 직후 잔존 중앙 변전 설비와 르브뢰유 변전소·연결교량의 피해."
+    ],
+    "limitations": [
+      "이해당사자의 발언이며 실사 보고서가 아니다. 1945년 용량 및 종전일 실가동은 미상."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "schneider-speech-1944"
+  },
+  {
+    "id": "CAT-FR-SRC-0172",
+    "title": "Instrument of Surrender",
+    "institution_or_author": "일본·연합국 서명자 / U.S. National Archives",
+    "publication_date": "1945-09-02",
+    "source_type": "primary: 항복문서 전사",
+    "document_or_accession_number": "Records of the U.S. Joint Chiefs of Staff, RG 218",
+    "locator": "Transcript, 도쿄만 서명 일시",
+    "url": "https://www.archives.gov/milestone-documents/surrender-of-japan",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공통 비교일 1945-09-02 일본 항복문서 서명."
+    ],
+    "limitations": [
+      "산업시설 관측 자료와 날짜의 역할이 다름."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-surrender-japan"
+  },
+  {
+    "id": "CAT-FR-SRC-0173",
+    "title": "Act of Military Surrender",
+    "institution_or_author": "SHAEF·독일군 최고사령부 등 / U.S. National Archives",
+    "publication_date": "1945-05-07",
+    "source_type": "primary: 랭스 독일군 항복문서 전사",
+    "document_or_accession_number": "Instruments of German Surrender, RG 218",
+    "locator": "Transcript, 제2조 및 서명란",
+    "url": "https://www.archives.gov/milestone-documents/surrender-of-germany",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "랭스 서명 및 1945-05-08 23:01 중부유럽 시각 전투 중지 명령."
+    ],
+    "limitations": [
+      "랭스 문서의 규정으로 현장별 전투 종료일은 다를 수 있음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "nara-surrender-germany"
+  },
+  {
+    "id": "CAT-FR-SRC-0174",
+    "title": "Boulogne-Billancourt Information, septembre 2020",
+    "institution_or_author": "Ville de Boulogne-Billancourt",
+    "publication_date": "2020-09",
+    "source_type": "secondary: 시립 기록관·시보의 지역 연혁",
+    "document_or_accession_number": "BBI 2020-09",
+    "locator": "30~31쪽 Notre Ville, Libération, le 25 août 1944",
+    "url": "https://www.boulognebillancourt.com/fileadmin/medias/Publications/BBI/BBI_2020/BBI_Sept_2020_.pdf",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "불로뉴빌랑쿠르 1944-08-25 해방."
+    ],
+    "limitations": [
+      "시점은 시 행정구역 연혁. 공장별 조업재개는 별도."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "boulogne-municipal-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0175",
+    "title": "Le Creusot Magazine, n°208",
+    "institution_or_author": "Ville du Creusot",
+    "publication_date": "2024-08 (80주년호)",
+    "source_type": "secondary: 시보의 지역 연혁",
+    "document_or_accession_number": "LCM n°208",
+    "locator": "14쪽 80ème anniversaire de la libération du Creusot",
+    "url": "https://www.le-creusot.fr/app/uploads/2024/08/LCM-208okk.pdf",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "르크뢰조 1944-09-07 해방과 1942·1943년 공습 날짜."
+    ],
+    "limitations": [
+      "시역의 해방 연혁이며 주변 구역의 시간별 통제나 공장 실적은 다루지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "creusot-municipal-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0176",
+    "title": "Annexe statistique 1945–1998, Renault, chapitre 14",
+    "institution_or_author": "Michel Freyssenet",
+    "publication_date": "미상 (표 범위 1945~1998)",
+    "source_type": "secondary: 회사·국가별 산업통계 편찬",
+    "document_or_accession_number": "Freyssenet Renault chapitre 14 annexe",
+    "locator": "1쪽 Production, 국내 열 1945년 행",
+    "url": "https://freyssenet.com/files/Annexe%20statistique%201945-1998%2C%20Renault%2C%20chapitre%2014.pdf",
+    "accessed_at": "2026-11-11T23:00:22+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 프랑스 국내 르노 승용·소형 상용차 12,036대."
+    ],
+    "limitations": [
+      "프랑스 전체이며 빌랑쿠르 개별 공장·대형 트럭 실적을 제공하지 않음."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "freyssenet-renault-company-series"
+  },
+  {
+    "id": "CAT-FR-SRC-0177",
+    "title": "Aerial picture, quartier Roisin 1939",
+    "institution_or_author": "촬영자 미표기 / Grand Reims·Europan 17 재록",
+    "publication_date": "1939 (월일 미표기)",
+    "source_type": "primary: 동시대 항공사진의 재록",
+    "document_or_accession_number": "FR-COURCY_GRANDREIMS-SS-AP3",
+    "locator": "Site Brief 인쇄 24쪽 아래 사진 및 첨부 목록",
+    "url": "https://www.europan-europe.eu/media/default/0001/27/e17_fr_courcy_grand_reims_en_pdf.pdf#page=24",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "랭스–쿠르시 로아쟁 구역에 막사 건물군과 여러 대형 격납고 지붕이 나타난다."
+    ],
+    "limitations": [
+      "사진 판면을 직접 열람. 촬영 월일, 촬영자, 절대 축척, 각 건물 기능과 전체 비행장 경계 미확인."
+    ],
+    "rights": "개별 사진 권리 미확인. 복제 없이 한국어 설명과 출처 링크만 사용.",
+    "independence_group": "europan-roisin-photo"
+  },
+  {
+    "id": "CAT-FR-SRC-0178",
+    "title": "Europan 17 — Living Cities 2, Courcy–Grand Reims Site Brief",
+    "institution_or_author": "Grand Reims / Europan France",
+    "publication_date": "2023 공모 자료",
+    "source_type": "secondary: 기지 재생을 위한 현장·건축 연혁",
+    "document_or_accession_number": "FR-COURCY-GRANDREIMS-PS-M1",
+    "locator": "인쇄 23쪽 The evolution of Air Force Base 112, 24쪽 사진 및 현대 중첩 지도",
+    "url": "https://www.europan-europe.eu/media/default/0001/27/e17_fr_courcy_grand_reims_en_pdf.pdf#page=23",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1928-10-01 가동 시작, 전전 라파유 철근콘크리트 격납고군 6동 서술과 현재 대상 부지의 범위."
+    ],
+    "limitations": [
+      "격납고 6동은 특정 설계 집단이다. 65 ha와 55,000 m²는 현대 공모 대상 구역이다. 1939-09-01 실측 아님."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "europan-site-brief"
+  },
+  {
+    "id": "CAT-FR-SRC-0179",
+    "title": "Base aérienne 112 Reims",
+    "institution_or_author": "Service historique de la Défense",
+    "publication_date": "온라인 목록 발행일 미표기",
+    "source_type": "secondary: 기록관 연혁·소장 목록",
+    "document_or_accession_number": "AI 79 F / notice 49343",
+    "locator": "Présentation du contenu 및 하위 Journal de marche et d’opérations",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/en/node/49343",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1925년 쿠르시 정비, 1938년 제112항공대대 지원, 1939-09-02 기지 조직 해체, 1944-10-16 재설치."
+    ],
+    "limitations": [
+      "영문 경로의 프랑스어 HTML을 직접 열람. 행정 해체 기록이며 비행면 폐쇄를 뜻하는지와 개전일 배치 원장은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "shd-reims-ba112"
+  },
+  {
+    "id": "CAT-FR-SRC-0180",
+    "title": "La BA 102 de Dijon a 100 ans !",
+    "institution_or_author": "Frédéric Lafarge / Anciens Aérodromes",
+    "publication_date": "2014-09",
+    "source_type": "secondary: 기지 연혁",
+    "document_or_accession_number": "Bulletin n° 50",
+    "locator": "19~22쪽, 부지·격납고 및 1939~1940년 동원·피해",
+    "url": "https://www.anciens-aerodromes.com/upload/magN50sept2014.pdf#page=21",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "뒤부아 격납고 240×40 m, 전전 전투부대와 8월 말 이동, 폭격부대 수용, 1940년 피해·점령 및 포장 활주로 공사."
+    ],
+    "limitations": [
+      "일일 배치·가동 원장 미확인. 1914년 약 100 ha는 1939년 관측치가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "lafarge-airfield-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0181",
+    "title": "“Dubois Lepeu” / Dijon – Longvic",
+    "institution_or_author": "G. Labeeuw / Hangars aéronautiques",
+    "publication_date": "2026-08-22 게시; 사진 약 1930년",
+    "source_type": "secondary: 격납고 건축 조사와 동시대 사진 재록",
+    "document_or_accession_number": "notice 3901; 사진 Coll. MAE via Association des Amis de la 102",
+    "locator": "Type & description, Dimensions, Construction, État actuel 및 첫 사진",
+    "url": "https://hangars.anciens-aerodromes.com/?p=3901",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기지 서쪽의 격납고 외형 240×40 m. 약 1930년 사진에서 현수 지붕 구조가 보인다."
+    ],
+    "limitations": [
+      "사진 파일 직접 열람. 치수 실측 원장, 유효 높이와 수용 정원은 미확인. Lafarge와 치수 표기는 일치하나 원자료 독립성 미확인."
+    ],
+    "rights": "격납고 사진은 소장처 표기를 따르며 재사용 조건 미확인. 원문 링크만 사용.",
+    "independence_group": "labeeuw-dijon-hangar"
+  },
+  {
+    "id": "CAT-FR-SRC-0182",
+    "title": "De la mise en défense au déclassement d’un territoire : vers une réappropriation de l’empreinte militaire dans la région de Dijon-Langres",
+    "institution_or_author": "Emmanuel Chiffre·Denis Mathis / Revue de géographie historique",
+    "publication_date": "2017-05-20",
+    "source_type": "secondary: 역사 지리 연구",
+    "document_or_accession_number": "DOI 10.4000/geohist.941",
+    "locator": "인쇄 10쪽 §21 및 11쪽 §23",
+    "url": "https://journals.openedition.org/geohist/pdf/941#page=11",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "디종 군 비행장의 전전 사용, 인접 민간 시설과 현대 대응, 약 500 ha는 전후 확장에 걸친 값."
+    ],
+    "limitations": [
+      "민간 비행장 부가를 1930년으로 서술. DGAC 연혁의 1920년대 민간 사용과 같은 행정 사건인지 미확인."
+    ],
+    "rights": "CC BY-NC-ND 4.0. 자체 요약 및 링크만 사용.",
+    "independence_group": "chiffre-mathis-dijon"
+  },
+  {
+    "id": "CAT-FR-SRC-0183",
+    "title": "Général Victor TANGUY — Entretien réalisé au SHAA le 9 juin 1993",
+    "institution_or_author": "Victor Tanguy·Françoise de Ruffray / SHD",
+    "publication_date": "1993-06-09 구술 채록",
+    "source_type": "secondary: 구술 1차 자료의 기록관 분석 목록",
+    "document_or_accession_number": "AI/8/Z/703",
+    "locator": "Compte rendu analytique, Bande 1 – Face 1 및 Biographie et histoire",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/924480",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당사자의 디종 GC I/7 근무, 1939년 III/7 전속과 새 비행장 배치가 목록에 요약된다."
+    ],
+    "limitations": [
+      "녹음 원본은 미청취. 분석 목록에는 출발·도착 날짜나 기체 수가 없다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "shd-tanguy-interview"
+  },
+  {
+    "id": "CAT-FR-SRC-0184",
+    "title": "Historique du terrain d’aviation de Marcilloles-Chambaran ou de Penol-Les Burettes",
+    "institution_or_author": "Paul Mathevet / Anciens Aérodromes",
+    "publication_date": "2011-12 원고; 2012 회보",
+    "source_type": "secondary: 지역 비행장사",
+    "document_or_accession_number": "Le Magazine 2A n° 32",
+    "locator": "2~3쪽, 1934·1938 부지 및 1939-08-30·09-02 항목",
+    "url": "https://www.anciens-aerodromes.com/upload/magazine2An32.pdf#page=3",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 확장 후 약 80 ha, 8월 30일 지원 중대의 정비 시작과 9월 2일 디종 출발 계통 GC III/7 도착."
+    ],
+    "limitations": [
+      "약 80 ha는 비행장 부지이고 일일 처리량은 미상. 도착 부대 규모는 디종 9월 1일 실적으로 환산 불가. 구술 정보 일부는 Tanguy와 겹칠 수 있다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "mathevet-marcilloles"
+  },
+  {
+    "id": "CAT-FR-SRC-0185",
+    "title": "Carte des terrains d’atterrisage de France au 1. 000. 000e",
+    "institution_or_author": "Fédération aéronautique de France / BnF",
+    "publication_date": "1938-03-01",
+    "source_type": "secondary: 당대 1차 지도의 BnF 목록",
+    "document_or_accession_number": "FRBNF40613954; GE C-18816; IFN-53198568",
+    "locator": "Notice bibliographique 및 Localiser ce document",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb40613954v",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당대 본토 항공지도 판본의 발행일, 축척 1:1,000,000, 소장번호."
+    ],
+    "limitations": [
+      "서지 직접 열람. Gallica 원판과 IIIF 응답은 열람 불가였으며 기지 표식은 증거로 채택하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "bnf-airfield-map"
+  },
+  {
+    "id": "CAT-FR-SRC-0186",
+    "title": "Dossiers de terrains d’aviation",
+    "institution_or_author": "Service historique de la Défense",
+    "publication_date": "수록 기간 1926~1940",
+    "source_type": "secondary: 당대 시설기록의 소장 목록",
+    "document_or_accession_number": "AI 2 B 156",
+    "locator": "Terrains de DAG à GO, Dijon - Longvic, Côte-d’Or",
+    "url": "https://www.servicehistorique.sga.defense.gouv.fr/en/node/681374",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "디종–롱비크가 당대 비행장 문서의 소장 범위에 포함된다."
+    ],
+    "limitations": [
+      "영문 경로의 프랑스어 목록을 직접 열람. 개별 원문 도면과 기지 시설 수치는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "shd-dijon-holdings"
+  },
+  {
+    "id": "CAT-FR-SRC-0187",
+    "title": "Aérodrome de Reims–Champagne (Marne)",
+    "institution_or_author": "Jean Sauter / DGAC",
+    "publication_date": "2005 CD-ROM, 웹 전재판",
+    "source_type": "secondary: 민간항공 역사 지도집과 시설 연혁",
+    "document_or_accession_number": "Atlas DGAC, fiche 502 / plan e042",
+    "locator": "1930~1939 사용 규정 문단, 1940년 점령 및 후기 미군 시설 문단, IGN 바탕 도면",
+    "url": "https://www.anciens-aerodromes.com/AtlasDGACOct16/html/aero502.htm",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스 공군 관할, 1939년 1월까지 공용 항공 교통, 중앙 표지 부근 착륙면 규정 및 점령기 시설 분리."
+    ],
+    "limitations": [
+      "재구성 지도이며 현지 개전일 실측 자료가 아니다. 42개 격납고는 제1차 세계대전 이전 민간 시설에 해당한다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "dgac-sauter-atlas"
+  },
+  {
+    "id": "CAT-FR-SRC-0188",
+    "title": "Centre d’aviation militaire de Dijon–Longvic (Côte-d’Or)",
+    "institution_or_author": "Jean Sauter / DGAC",
+    "publication_date": "2005 CD-ROM, 웹 전재판",
+    "source_type": "secondary: 민간항공 역사 지도집과 시설 연혁",
+    "document_or_accession_number": "Atlas DGAC, fiche 206 / plan e018",
+    "locator": "1927년 수정 도면, 1936·1938년 페르베르, 1938년 계획, 독일 점령기 공사 및 IGN 바탕 도면",
+    "url": "https://www.anciens-aerodromes.com/AtlasDGACOct16/html/aero206.htm",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1927년 철도 지선 기록, 1938년 확장안과 점령기 1,050 m 활주로를 구분한다."
+    ],
+    "limitations": [
+      "개전일 지선 운송실적·설비 용량 미확인. 확장안과 점령기 활주로를 1939년 규모에 포함하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "dgac-sauter-atlas"
+  },
+  {
+    "id": "CAT-FR-SRC-0189",
+    "title": "La Base Aérienne 112 : vitrine de l’Armée de l’air / La Seconde Guerre mondiale et ses suites",
+    "institution_or_author": "Frédéric Lafarge / Anciens Aérodromes 전재",
+    "publication_date": "본문 발행일 미표기",
+    "source_type": "secondary: 기지 연혁",
+    "document_or_accession_number": "Reims.htm, Lafarge 기고",
+    "locator": "1925~1939 절 말미 및 1939~1949 절 첫 문단",
+    "url": "https://www.anciens-aerodromes.com/illustrationsterrains/Reims.htm",
+    "accessed_at": "2026-11-12T01:06:23+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "잔디 비행면, 개전 전 기체 약 300대라는 추산, 8월 말 분산 전개와 뒤이은 RAF 사용."
+    ],
+    "limitations": [
+      "약 300대의 집계일·원표·가동 구분이 없다. 9월 1일 배치나 시설 정원으로 쓰지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "lafarge-airfield-history"
+  },
+  {
+    "id": "CAT-FR-SRC-0190",
+    "title": "Formes de construction, bassins de radoub actuellement bassins n° 8, 9 et 10, Laninon, Arsenal (Brest)",
+    "institution_or_author": "Guillaume Lécuillier / Inventaire général du patrimoine culturel, Bretagne",
+    "publication_date": "2005 조사, 2023 갱신, 부록 1은 1996",
+    "source_type": "secondary: 문화유산 조사와 해군 시설사 재록",
+    "document_or_accession_number": "IA29001878",
+    "locator": "Annexe 1, Pierres de mer, Les bassins de Lanninon",
+    "url": "https://www.patrimoine.bzh/gertrude-diffusion/dossier/IA29001878",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "라니농 기존 도크 2기, 1916년 사용 개시, 길이 250 m·폭 36 m와 전후 연장."
+    ],
+    "limitations": [
+      "부록 1은 후대 시설사. 부록 2는 위키 재록이어서 근거로 사용하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "brest-inventaire-pierres-de-mer"
+  },
+  {
+    "id": "CAT-FR-SRC-0191",
+    "title": "La construction d’un troisième bassin à La Ninon est commencée",
+    "institution_or_author": "La Dépêche de Brest / Retro29 재록",
+    "publication_date": "1939-02-18",
+    "source_type": "primary: 동시대 신문의 제목 판면과 본문 전사",
+    "document_or_accession_number": "La Dépêche de Brest 1939-02-18자",
+    "locator": "제목 판면과 Les deux bassins actuels 및 Le bassin qui vient d’être entrepris 문단",
+    "url": "https://www.retro29.fr/1939-construction-bassin-3",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기존 250 m·입구 36 m, 제3도크 2월 7일 공사 시작 보도, 305 m에서 365 m로 연장하는 계획 및 입구 46 m."
+    ],
+    "limitations": [
+      "표제 이미지와 전사 본문 열람. BnF 지면 전체 및 공사기록 미열람. 착공일과 계획은 언론 보도."
+    ],
+    "rights": "당대 신문의 권리 상태 미확인. 이미지·본문을 재수록하지 않고 링크와 자체 요약만 사용.",
+    "independence_group": "brest-depeche-19390218"
+  },
+  {
+    "id": "CAT-FR-SRC-0192",
+    "title": "Lancement du Richelieu à Brest, 17 janvier 1939",
+    "institution_or_author": "Musée de la Marine 소장 / Monique Michaux·J. Chantriot 재록",
+    "publication_date": "1939-01-17 촬영, 1979 재록",
+    "source_type": "primary: 당대 사진의 재록",
+    "document_or_accession_number": "Revue historique des Armées 6-4, DOI 10.3406/rharm.1979.7680",
+    "locator": "인쇄 71쪽 상단 진수 사진과 설명",
+    "url": "https://www.persee.fr/doc/rharm_0035-3299_1979_num_6_4_7680",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "브레스트에서 리슐리외가 1939-01-17 진수된 장면."
+    ],
+    "limitations": [
+      "판면 직접 열람. 사진 설명은 위치를 브레스트로만 특정하고 후속 도크 사용은 알려 주지 않는다."
+    ],
+    "rights": "원 사진 Musée de la Marine 표기. 링크와 자체 요약만 사용.",
+    "independence_group": "musee-marine-richelieu-photo"
+  },
+  {
+    "id": "CAT-FR-SRC-0193",
+    "title": "Richelieu — Carrière / Service career",
+    "institution_or_author": "Naval Monographies / Avions-Bateaux 공개 발췌",
+    "publication_date": "발행일 미표기",
+    "source_type": "secondary: 함정 건조·운용 연혁",
+    "document_or_accession_number": "Naval Monographies 01, 발췌 인쇄 18쪽",
+    "locator": "18쪽 Carrière, 1939년 1월 진수와 도크 조립 및 9월 기관시험 문단",
+    "url": "https://www.avions-bateaux.com/uploads/attachment/produit/produit_1981_b562eaeb27b1931fb2ddd1f2a3c87dc2.pdf",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "진수는 선체 중앙부였으며 라니농 9번 도크에서 선수·선미를 부착했다는 기록. 첫 기관시험은 9월 14일."
+    ],
+    "limitations": [
+      "공개 발췌에서 확인. 접안 및 건조일지 원자료를 직접 대조하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "naval-monographs-richelieu"
+  },
+  {
+    "id": "CAT-FR-SRC-0194",
+    "title": "Bassin de radoub dit grands bassins Vauban",
+    "institution_or_author": "Sophie Carteron / Région Provence-Alpes-Côte d’Azur, Inventaire général",
+    "publication_date": "2015 조사 및 작성, 2017 갱신",
+    "source_type": "secondary: 문화유산 조사",
+    "document_or_accession_number": "IA83001867",
+    "locator": "Historique, Description",
+    "url": "https://dossiersinventaire.maregionsud.fr/dossier/IA83001867",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1927년 완공 서술, 평행 도크 두 줄의 각 442×40 m와 네 구획 분할 구조, 전후 남서 도크 확폭."
+    ],
+    "limitations": [
+      "폭 측정 지점 및 1939년 입거 기록 미확인. 442 m는 도크 한 줄 전체 수치다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "paca-inventaire-vauban"
+  },
+  {
+    "id": "CAT-FR-SRC-0195",
+    "title": "Le patrimoine militaire de la rade de Toulon : histoire, territorialité et gestion patrimoniale",
+    "institution_or_author": "Bernard Cros / In Situ",
+    "publication_date": "2011",
+    "source_type": "secondary: 해군 항만과 군용 시설 연구",
+    "document_or_accession_number": "In Situ 16, DOI 10.4000/insitu.275",
+    "locator": "§12·16~17, 카스티뇨 공작장, 보방 도크, 밀로 보급 및 개전 전 군항 수역",
+    "url": "https://www.researchgate.net/publication/272436047_Le_patrimoine_militaire_de_la_rade_de_Toulon_histoire_territorialite_et_gestion_patrimoniale",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "대형 도크 1928년 완공 서술, 15 ha 매립지, 군항 수역 관할, 카스티뇨 공작장과 밀로·라구브랑의 보급 시설 연혁."
+    ],
+    "limitations": [
+      "논문 본문을 공개 저자 페이지의 재록에서 열람. 개전일 개별 시설 운영표가 아니며 완공 연도는 IA83001867과 차이."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "cros-toulon-study"
+  },
+  {
+    "id": "CAT-FR-SRC-0196",
+    "title": "Avis de l’autorité environnementale sur le dossier de demande d’autorisation d’exploiter du dépôt d’hydrocarbures des Arènes",
+    "institution_or_author": "프랑스 환경당국 / Conseil général de l’environnement et du développement durable",
+    "publication_date": "2010",
+    "source_type": "primary: 2010년 시설 인허가 의견서와 과거 이력 기재",
+    "document_or_accession_number": "10150-IDPP2-10-09-972 AO",
+    "locator": "1쪽 Contexte et description du projet",
+    "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Avis%20AE%20100906.pdf#page=1",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "툴롱 해군 지원용 아렌 지하 저장소 1938년 건설, 군항 담장 밖 별도 부속 부지."
+    ],
+    "limitations": [
+      "탱크 10기는 2010년 기술이다. 1939년 가동 개시, 저장량·이송량 및 탱크 수는 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "environment-arenes-2010"
+  },
+  {
+    "id": "CAT-FR-SRC-0197",
+    "title": "French, Polish, German, United States Navy Ship Dispositions, September 1939",
+    "institution_or_author": "Don Kindell / Naval-History.Net",
+    "publication_date": "웹 게시일 미표기",
+    "source_type": "secondary: 월간 해군 배치·편제 편찬",
+    "document_or_accession_number": "xDKWW2-3909-05OtherNavies",
+    "locator": "1. French Navy, Major Squadrons, Brest / Oran / Toulon",
+    "url": "https://www.naval-history.net/xDKWW2-3909-05OtherNavies.htm",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "브레스트 Force de Raid와 툴롱 제3전대의 편제, 툴롱 출발 제2전대의 9월 2일 오랑 도착."
+    ],
+    "limitations": [
+      "9월 편제·이동을 포함하며 9월 1일 전 함정의 실계류 명부가 아니다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "kindell-sept1939"
+  },
+  {
+    "id": "CAT-FR-SRC-0198",
+    "title": "La Marine — Été 1939",
+    "institution_or_author": "Atlas de la France en guerre / atlasfrance.hypotheses.org",
+    "publication_date": "PDF 작성일 미표기, 웹 경로 2023-05",
+    "source_type": "secondary: 해군 관할 역사 지도",
+    "document_or_accession_number": "carte_regions-maritimes_1939.pdf",
+    "locator": "단일 지도, Brest·Toulon 및 해군관구 범례",
+    "url": "https://atlasfrance.hypotheses.org/files/2023/05/carte_regions-maritimes_1939.pdf",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 여름 브레스트·툴롱의 프랑스 해군 관구 중심지 및 본토·북아프리카 관할 구분."
+    ],
+    "limitations": [
+      "후대 재구성. 배치의 시각과 군항 시설의 정량 수치는 제시하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "atlasfrance-regions-maritimes"
+  },
+  {
+    "id": "CAT-FR-SRC-0199",
+    "title": "Vue de trois quarts arrière bâbord du contre-torpilleur Volta qui appareille du port de Brest",
+    "institution_or_author": "ECPAD / ImagesDéfense",
+    "publication_date": "1939-10-03",
+    "source_type": "secondary: 동시대 해군 사진의 기록관 설명",
+    "document_or_accession_number": "MARINE 1-7",
+    "locator": "Description, Propriétés 및 reportage",
+    "url": "https://imagesdefense.gouv.fr/fr/vue-de-trois-quarts-arriere-babord-du-contre-torpilleur-volta-qui-appareille-du-port-de-brest.html",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939-10-03 볼타의 브레스트 출항이라는 사진 설명과 당시 군항 활동."
+    ],
+    "limitations": [
+      "개별 HTML 소장 정보를 열람했다. 개전일 계류 위치나 항만 정원은 알 수 없다."
+    ],
+    "rights": "ECPAD 소장. 원문 링크와 자체 요약만 사용.",
+    "independence_group": "ecpad-marine-1"
+  },
+  {
+    "id": "CAT-FR-SRC-0200",
+    "title": "Sabordage de la flotte française. Vue aérienne",
+    "institution_or_author": "촬영자 미상 / Bildarchiv Preussischer Kulturbesitz, Histoire par l’image",
+    "publication_date": "1942-11-27",
+    "source_type": "primary: 동시대 항공사진의 공개 복제",
+    "document_or_accession_number": "16-580440",
+    "locator": "첫 항공사진과 소장정보",
+    "url": "https://histoire-image.org/etudes/sabordage-flotte-francaise-toulon",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "툴롱 군항의 수역·부두·함정이 1942년 자침 시점 사진에 보인다."
+    ],
+    "limitations": [
+      "사진 파일 직접 열람. 개전일 상태, 치수, 입거 정원과 다른 시점이다."
+    ],
+    "rights": "© BPK, Berlin, Dist. RMN-Grand Palais / image BPK. 링크만 사용.",
+    "independence_group": "bpk-toulon-photo-1942"
+  },
+  {
+    "id": "CAT-FR-SRC-0201",
+    "title": "Arsenal (Brest)",
+    "institution_or_author": "Guillaume Lécuillier / Inventaire général du patrimoine culturel, Bretagne",
+    "publication_date": "온라인 조사 기록, 본문 개정일 미확정",
+    "source_type": "secondary: 문화유산 종합 조사",
+    "document_or_accession_number": "IA29001847",
+    "locator": "Localisation, Description 및 Laninon·Salou 연계 목록",
+    "url": "https://www.patrimoine.bzh/gertrude-diffusion/dossier/IA29001847",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "브레스트 군항 조선·수리 구역과 팡펠드·라니농 도크 공간의 관계."
+    ],
+    "limitations": [
+      "현대 유산 조사로 시대별 경계가 포함된다. 개전일 전체 처리량이나 법정 필지의 원장은 미확인."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "brest-inventaire-arsenal"
+  },
+  {
+    "id": "CAT-FR-SRC-0202",
+    "title": "Lecture d’archives — Le début de l’Occupation à Brest",
+    "institution_or_author": "Archives municipales et communautaires de Brest",
+    "publication_date": "2026-10-21 갱신",
+    "source_type": "secondary: 기록관 역사 목록",
+    "document_or_accession_number": "Lecture d’archives, Deuxième Guerre Mondiale",
+    "locator": "Le début de l’Occupation 및 Arrivée des troupes allemandes 항목",
+    "url": "https://archives.brest.fr/decouvrir/lecture-darchives",
+    "accessed_at": "2026-11-12T02:55:17+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "브레스트의 독일군 진입과 점령 시작을 1940-06-19로 기록한다."
+    ],
+    "limitations": [
+      "온라인 안내 본문과 날짜 확인. 당일 군항 각 부두의 인계 시간은 확인하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
+    "independence_group": "brest-municipal-occupation"
+  }
+]

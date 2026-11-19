@@ -1,0 +1,62 @@
+{
+  "step": 31,
+  "job_id": "CAT-FR-12",
+  "country_code": "FR",
+  "country": "프랑스",
+  "country_folder": "france",
+  "category_number": 12,
+  "category": "당시 인구",
+  "article_path": "categories/france/12-population.md",
+  "status": "partial",
+  "completed_at": "2026-11-11T12:58:10+09:00",
+  "started_at": "2026-11-11T12:51:15+09:00",
+  "base_head": "0bc0858cc00c447903ef264370e2822b33ed97a6",
+  "source_ids": [
+    "CAT-FR-SRC-0106",
+    "CAT-FR-SRC-0107",
+    "CAT-FR-SRC-0108",
+    "CAT-FR-SRC-0109",
+    "CAT-FR-SRC-0110",
+    "CAT-FR-SRC-0111",
+    "CAT-FR-SRC-0112",
+    "CAT-FR-SRC-0113",
+    "CAT-FR-SRC-0114"
+  ],
+  "question_ids": [
+    "CAT-FR-RQ-0039",
+    "CAT-FR-RQ-0040",
+    "CAT-FR-RQ-0041"
+  ],
+  "entity_ids": [
+    "CAT-FR-GEO-0001",
+    "CAT-FR-GEO-0002",
+    "CAT-FR-GEO-0003"
+  ],
+  "research_scope": "본토 전전·전후 총조사와 전시 연평균 추계, 알제리의 1936·1948년 집계 및 튀니지의 1936년 민간인구.",
+  "limitations": [
+    "공통 비교일의 정확한 인구와 점령 구역별 인구는 미확인이다.",
+    "1946년 본토와 1948년 알제리의 판본 차이를 확인했고 정정 근거 및 지역별 증감은 미확인이다.",
+    "알제리와 튀니지 일부 자료를 확인했다. 나머지 해외 영토와 제국 총계는 후속 범위다."
+  ],
+  "evidence_checked": [
+    "1936년 본토 총조사 요약표 및 96–97쪽 별도 영토 통계, INSEE T1.xlsx 본토 시트",
+    "1946년 인구 통계 보고 317쪽, Gasc 119쪽 주 3, Bourgeois 330쪽 표 I, 1946년 명령 공식 표제",
+    "알제리 총독부 공보 1쪽 스캔 및 1954년 결과집 4쪽 표 I, Bernard 85쪽"
+  ],
+  "access_attempts": [
+    {
+      "url": "https://www.insee.fr/fr/statistiques/fichier/8210070/T1.xlsx",
+      "result": "웹 추출기가 XLSX 형식을 지원하지 않아 직접 내려받아 본토 시트 셀을 열람했다."
+    },
+    {
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000685968",
+      "result": "공식 명령의 표제와 관보 안내를 열람했다. 관보 부속표와 정정 문서는 미확보."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=31 pending=102; sources=362 questions=134. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}

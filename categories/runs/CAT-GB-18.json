@@ -1,0 +1,263 @@
+{
+  "step": 56,
+  "job_id": "CAT-GB-18",
+  "country_code": "GB",
+  "country": "영국",
+  "country_folder": "united-kingdom",
+  "category_number": 18,
+  "category": "개전 시점 주요 공군기지와 규모(1~10)",
+  "article_path": "categories/united-kingdom/18-air-bases-start.md",
+  "status": "partial",
+  "completed_at": "2026-11-13T14:59:11+09:00",
+  "started_at": "2026-11-13T14:52:56+09:00",
+  "base_head": "adc004b13bc19f4bcf5a402c16e3808e176a722f",
+  "source_ids": [
+    "CAT-GB-SRC-0166",
+    "CAT-GB-SRC-0187",
+    "CAT-GB-SRC-0188",
+    "CAT-GB-SRC-0189",
+    "CAT-GB-SRC-0190",
+    "CAT-GB-SRC-0191",
+    "CAT-GB-SRC-0192",
+    "CAT-GB-SRC-0193",
+    "CAT-GB-SRC-0194",
+    "CAT-GB-SRC-0195"
+  ],
+  "question_ids": [
+    "CAT-GB-RQ-0071",
+    "CAT-GB-RQ-0072",
+    "CAT-GB-RQ-0073"
+  ],
+  "entity_ids": [
+    "CAT-GB-GEO-0016",
+    "CAT-GB-GEO-0017"
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-GB-GEO-0016",
+      "reference_date": "1939-09-01",
+      "historical_name": "RAF Duxford",
+      "modern_location": "케임브리지셔 덕스퍼드, 현 IWM Duxford 부지",
+      "coordinates_wgs84": null,
+      "location_national_grid": "TL 46078 46208 (Building 84 기준점)",
+      "comparison_boundary": "덕스퍼드 본 비행장 착륙면과 북측 격납고·부속 작업장 등 본 기지 시설. 포울미어 위성 비행장 및 후대 확장 제외.",
+      "territorial_status": "1939-09-01 영국 본토 잉글랜드, 영국 실효 지배",
+      "operators": "영국 왕립공군(RAF)",
+      "operational_status": "전투기 기지. 개전 전 제19비행대 스핏파이어 배치 및 제611보조비행대 8월 임시 훈련 확인. 기준일 현지 정수·가동 대수 미확인.",
+      "source_survey_dates": [
+        "1917–1918 격납고 건설",
+        "1935 부속동 개조",
+        "1938-08 제19비행대 스핏파이어 도입",
+        "1939-05 언론 공개",
+        "1939-08 여름 훈련"
+      ],
+      "metrics": [
+        {
+          "metric": "북쪽 동일 설계 격납고군",
+          "value": 3,
+          "unit": "동",
+          "date": "1917–1918",
+          "boundary": "북쪽 332/17 설계 건물군",
+          "source_id": "CAT-GB-SRC-0187",
+          "locator": "History 첫 두 단락",
+          "capacity_or_actual": "건설 실적, 기지 총수 제외"
+        },
+        {
+          "metric": "84번 격납고 길이",
+          "value": 170,
+          "unit": "ft",
+          "date": "1917–1918 건설, 후대 목록 치수",
+          "boundary": "Building 84",
+          "source_id": "CAT-GB-SRC-0187",
+          "locator": "Details/Plan",
+          "capacity_or_actual": "건축 치수"
+        },
+        {
+          "metric": "84번 격납고 각 반쪽의 지붕 경간",
+          "value": 100,
+          "unit": "ft",
+          "date": "1917–1918 건설, 후대 목록 치수",
+          "boundary": "Building 84의 각 반쪽",
+          "source_id": "CAT-GB-SRC-0187",
+          "locator": "Details/Plan",
+          "capacity_or_actual": "건축 치수"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "주기장·격납 수용 능력",
+          "facility": "RAF Bicester A형",
+          "metric_value_or_band": "249 ft 길이, 122 ft 5 in 경간",
+          "source_id": "CAT-GB-SRC-0192",
+          "locator": "Details/History",
+          "rationale": "당대에 존재한 격납고 치수 비교. 공통 기종·정원으로 환산하지 않았다."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "건축 치수·정비실 용도는 확인했다. 실제 격납 정원과 착륙·정비·급유 처리량 및 등급 경계 미확인.",
+      "source_ids": [
+        "CAT-GB-SRC-0187",
+        "CAT-GB-SRC-0188",
+        "CAT-GB-SRC-0189",
+        "CAT-GB-SRC-0190",
+        "CAT-GB-SRC-0192",
+        "CAT-GB-SRC-0195"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-GB-GEO-0017",
+      "reference_date": "1939-09-01",
+      "historical_name": "RAF Bicester",
+      "modern_location": "옥스퍼드셔 비스터 북북동, 론턴·캐버스필드 일대",
+      "coordinates_wgs84": null,
+      "location_national_grid": "SP 59202 24564 / SP 59247 24313 (A형 격납고)",
+      "comparison_boundary": "비스터 1939년 배치도 범위 내 잔디 비행장·기술 구역 및 본 기지 보급시설. 후대 확장과 외부 위성 비행장 제외.",
+      "territorial_status": "1939-09-01 영국 본토 잉글랜드, 영국 실효 지배",
+      "operators": "영국 왕립공군(RAF)",
+      "operational_status": "폭격기 기지. 8월 31일 제12·142비행대 편제표, 9월 초 동원·이동 확인. 일부 확장 공사는 개전 무렵 진행 중.",
+      "source_survey_dates": [
+        "1926 A형 건설",
+        "1936 무렵 C형 추가",
+        "1938 항공유 설비 계약",
+        "1939-08-31 편제표",
+        "1939-09-01~02 동원·이동에 관한 후대 연혁"
+      ],
+      "metrics": [
+        {
+          "metric": "실제 설치 A형 격납고",
+          "value": 2,
+          "unit": "동",
+          "date": "1926",
+          "boundary": "본 기지 기술 구역",
+          "source_id": "CAT-GB-SRC-0192",
+          "locator": "Details/History",
+          "capacity_or_actual": "설치 실적"
+        },
+        {
+          "metric": "추가 설치 C형 격납고",
+          "value": 2,
+          "unit": "동",
+          "date": "1936 무렵",
+          "boundary": "본 기지 기술 구역",
+          "source_id": "CAT-GB-SRC-0192",
+          "locator": "Details/History",
+          "capacity_or_actual": "설치 실적"
+        },
+        {
+          "metric": "A형 격납고 길이",
+          "value": 249,
+          "unit": "ft",
+          "date": "1924 설계; 비스터 1926 건설",
+          "boundary": "A형 설계",
+          "source_id": "CAT-GB-SRC-0192",
+          "locator": "Details/History",
+          "capacity_or_actual": "건축 치수"
+        },
+        {
+          "metric": "A형 격납고 경간",
+          "value": 122.41666666666667,
+          "unit": "ft (122 ft 5 in)",
+          "date": "1924 설계; 비스터 1926 건설",
+          "boundary": "A형 설계",
+          "source_id": "CAT-GB-SRC-0192",
+          "locator": "Details/History",
+          "capacity_or_actual": "건축 치수"
+        },
+        {
+          "metric": "A형 한 동 설계 수용 가정",
+          "value": 12,
+          "unit": "대",
+          "date": "1923-11 논의; 1924 설계",
+          "boundary": "당시 설계 기준 기종",
+          "source_id": "CAT-GB-SRC-0192",
+          "locator": "Details/History",
+          "capacity_or_actual": "설계 가정, 1939년 수용 정원 미상"
+        },
+        {
+          "metric": "제12비행대 Battle Strength",
+          "value": 34,
+          "unit": "대",
+          "date": "1939-08-31",
+          "boundary": "편제표 Bicester 제12비행대 행",
+          "source_id": "CAT-GB-SRC-0193",
+          "locator": "Appendix C1",
+          "capacity_or_actual": "보고 보유, 당일 주기·가동 미상"
+        },
+        {
+          "metric": "제142비행대 Battle Strength",
+          "value": 32,
+          "unit": "대",
+          "date": "1939-08-31",
+          "boundary": "편제표 Bicester 제142비행대 행",
+          "source_id": "CAT-GB-SRC-0193",
+          "locator": "Appendix C1",
+          "capacity_or_actual": "보고 보유, 당일 주기·가동 미상"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [
+        {
+          "dimension": "주기장·격납 수용 능력",
+          "facility": "RAF Duxford Building 84",
+          "metric_value_or_band": "170 ft 길이, 각 반쪽 100 ft 경간",
+          "source_id": "CAT-GB-SRC-0187",
+          "locator": "Details/Plan",
+          "rationale": "당대에 존재한 격납고 치수 비교. 이중 격납동과 A형의 경간·운용 기종 차이를 고려했다."
+        }
+      ],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "잔디 비행장과 격납고·작업장·유류 설비 근거는 있으나 1939년 기준 정원, 처리량 및 공통 등급 경계 미확인.",
+      "source_ids": [
+        "CAT-GB-SRC-0187",
+        "CAT-GB-SRC-0191",
+        "CAT-GB-SRC-0192",
+        "CAT-GB-SRC-0193",
+        "CAT-GB-SRC-0194"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "research_scope": "덕스퍼드 전투기 기지와 비스터 폭격기 기지의 개전 전 시설·배치·전시 증설을 조사했다.",
+  "limitations": [
+    "비스터 편제표의 8월 31일 보유 수와 개전일 현지 주기·가동 수는 구별했다.",
+    "덕스퍼드의 기체 일계표 및 양 기지의 착륙·정비·급유 처리량과 공통 등급 경계가 미확인이다. 본토 다른 기지와 해외 관할은 미조사다."
+  ],
+  "evidence_checked": [
+    "Historic England 1162959·1128126·1393035 목록, IWM 전사와 전시 연혁",
+    "Cherwell pp. 11–13 및 1939년 배치도 그림 5, 공군부 Appendix C1 1939-08-31 편제표"
+  ],
+  "access_attempts": [
+    {
+      "target": "비스터 보존구역 평가 보고서의 그림 5",
+      "result": "계획등록부 PDF의 페이지 이미지에서 403 응답을 받았다. 구청의 직접 공개 PDF에서 p. 12의 1939년 복원 배치도를 열람했다."
+    },
+    {
+      "target": "덕스퍼드 제19비행대 일지 원문",
+      "result": "TNA 검색 페이지에서 AIR 27/252 질의가 열리지 않았다. 기체 일계표는 확보하지 못해 박물관 전사와 공군부 편찬 자료의 관측 범위만 사용했다."
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=56 pending=77; sources=632 questions=228. Structural check only.",
+    "path_check": "8 changed paths under categories/; pinned HEAD snapshot."
+  }
+}
