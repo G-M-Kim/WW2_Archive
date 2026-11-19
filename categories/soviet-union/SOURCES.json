@@ -2119,5 +2119,165 @@
     ],
     "rights": "한국어 자체 요약·선별 수치와 원문 링크만 사용했다. 원문·도표 이미지·PDF 전문을 재게시하지 않았다.",
     "independence_group": "ADKh reconstruction"
+  },
+  {
+    "id": "CAT-SU-SRC-0107",
+    "title": "Санкт-Петербург переименован в Петроград",
+    "institution_or_author": "Президентская библиотека имени Б. Н. Ельцина",
+    "publication_date": null,
+    "source_type": "institutional_secondary",
+    "document_or_accession_number": "도서관 역사 해설 1983280",
+    "locator": "마지막 본문 문단: 1924-01-26 개칭 및 1991-09-06 환원; 날짜 표제는 역사적 사건일",
+    "url": "https://www.prlib.ru/history/1983280",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "레닌그라드 명칭의 시작과 상트페테르부르크 환원 날짜를 해설 본문에서 확인했다."
+    ],
+    "limitations": [
+      "후대 도서관 해설이며 게시일은 미확인이다. 1914년 전반사는 WW2 지명 대응에 필요한 선행 명칭 설명에만 사용한다. 1991년 원 개칭령은 미대조다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "Presidential Library city-name history"
+  },
+  {
+    "id": "CAT-SU-SRC-0108",
+    "title": "Царицын에서 Сталинград으로 개칭하는 1925년 결정",
+    "institution_or_author": "Президиум ЦИК СССР · ЭБИД 재수록",
+    "publication_date": "1925-04-10",
+    "source_type": "primary_law_collection_scan",
+    "document_or_accession_number": "Собрание законов СССР, 1925, №25, ст.171; Известия №87, 1925-04-16",
+    "locator": "인쇄 313쪽 하단 ст.171 전문·서명·날짜; ЭБИД page1505520",
+    "url": "https://docs.historyrussia.org/ru/nodes/394740",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "고해상도 법령집 이미지에서 도시·구베르니야·우예즈드·볼로스트·철도역을 각각 개칭하는 본문과 1925-04-10 날짜 및 4월16일 공표 주기를 읽었다."
+    ],
+    "limitations": [
+      "법령집 재수록 이미지이며 서명 원본은 아니다. 1925년 행정단위를 1939년이나 1945년 행정체계로 소급하지 않는다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "1925 CIK decree · law collection article171"
+  },
+  {
+    "id": "CAT-SU-SRC-0109",
+    "title": "Самара에서 Куйбышев으로 개칭하는 1935년 결정",
+    "institution_or_author": "ЦИК СССР · ЭБИД 재수록",
+    "publication_date": "1935-01-27",
+    "source_type": "primary_law_collection_scan",
+    "document_or_accession_number": "Собрание законов СССР за 1935 г., Отдел первый, М., 1947; №7, ст.56; Известия №23, 1935-01-28",
+    "locator": "인쇄 62쪽 상단 ст.56, а) 도시·б) край 및 서명·날짜; ЭБИД page1316219",
+    "url": "https://docs.historyrussia.org/ru/nodes/353522",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도시는 Самара→Куйбышев, край는 Средне-Волжский→Куйбышевский로 따로 지정한 조항과 1935-01-27 결정·1월28일 공표 주기를 이미지에서 읽었다."
+    ],
+    "limitations": [
+      "1947년 편찬 법령집에 실린 1935년 결정이다. 원 신문·서명본과 전시 oblast 재편 법령은 미대조다. 도시명과 광역 행정구역을 동일 공간으로 취급하지 않는다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "1935 CIK decree · law collection article56"
+  },
+  {
+    "id": "CAT-SU-SRC-0110",
+    "title": "Постановление ГКО СССР №802с о комиссии текущих дел в Куйбышеве",
+    "institution_or_author": "ГКО СССР · Росархив 관련 문서집/ЭБИД 재수록",
+    "publication_date": "1941-10-15",
+    "source_type": "primary_document_edited_scan",
+    "document_or_accession_number": "РГАСПИ. Ф.644. Оп.1. Д.12. Л.156; 문서집 Советское военно-политическое руководство..., 2020, №12",
+    "locator": "인쇄 51쪽 №12 표제·본문·날짜 및 출전 주기; ЭБИД page1185334",
+    "url": "https://docs.historyrussia.org/ru/nodes/327912-postanovlenie-gko-sssr-locale-nil-802s-locale-nil-o-komissii-tekuschih-del-v-kuybysheve-locale-nil-sekretno-15-oktyabrya-1941-g",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "문서집 이미지에서 Куйбышеве의 도시 표기와 1941-10-15 날짜, 몰로토프를 위원장으로 하는 현안위원회 승인 본문을 읽었다."
+    ],
+    "limitations": [
+      "읽은 것은 2020년 문서집의 활자 재수록 51쪽이다. 소장기호가 가리키는 원 타자문서 이미지를 읽은 것이 아니다. 이 결정만으로 수도의 법적 이전·기관의 실제 도착·가동이나 위원회 실적을 확정하지 않는다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "GKO802s · RGASPI644-1-12-156"
+  },
+  {
+    "id": "CAT-SU-SRC-0111",
+    "title": "Приказ Верховного Главнокомандующего №20, 1 мая 1945 г.",
+    "institution_or_author": "И. В. Сталин · Мосгорархив 문서집/ЭБИД 재수록",
+    "publication_date": "1945-05-01",
+    "source_type": "primary_document_edited_scan",
+    "document_or_accession_number": "Правда, 1945-05-01; Москва послевоенная. 1945–1947, М., Мосгорархив, 2000, №5",
+    "locator": "인쇄 25쪽 №5 표제·명령번호·날짜 및 오른쪽 본문 상단의 도시명; ЭБИД page1091111",
+    "url": "https://docs.historyrussia.org/ru/nodes/297636-prikaz-verhovnogo-glavnokomanduyuschego-i-v-stalina-o-provedenii-v-oznamenovanie-mezhdunarodnogo-prazdnika-trudyaschihsya-1-maya-salyuta-v-stolitsah-soyuznyh-respublik-i-v-gorodah-geroyah-leningrade-stalingrade-sevastopole-i-odesse-1-maya-1945-g",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "문서집 25쪽 이미지의 날짜·№20과 본문에서 Ленинградом·Сталинградом 표기를 읽었다."
+    ],
+    "limitations": [
+      "당시 신문을 출전으로 삼는 후대 활자 재수록이다. 원 신문 지면·명령 서명본·뒤쪽 계속면은 미대조다. 전시 선전문서의 손실·전과 수치는 채택하지 않는다. 표제의 영웅도시 표현을 후대 상훈 제도·수여일 전체의 증거로 확대하지 않는다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "1945 May1 order20 · Pravda reproduction"
+  },
+  {
+    "id": "CAT-SU-SRC-0112",
+    "title": "Указ Президиума Верховного Совета РСФСР №526-I",
+    "institution_or_author": "Президиум Верховного Совета РСФСР · Сборник законов 재전사",
+    "publication_date": "1991-01-25",
+    "source_type": "primary_legal_text_transcription",
+    "document_or_accession_number": "№526-I, 1991-01-25",
+    "locator": "표제·단일 개칭 조항·서명·날짜·번호",
+    "url": "https://sbornik-zakonov.ru/272736.html?id=272736",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "도시 Куйбышев→Самара와 oblast Куйбышевская→Самарская의 개칭 조항 및 날짜·번호를 전사 본문에서 확인했다."
+    ],
+    "limitations": [
+      "민간 법령 사이트의 원 법령 전사이며 서명 원본·당대 관보 스캔은 미대조다. 다른 법령 사이트의 403과 사마라 기록관 해설의 시간초과로 독립 원문 대조를 완료하지 못했다. 현대 대응명 식별에 필요한 범위만 사용한다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "1991 RSFSR decree526-I transcription"
+  },
+  {
+    "id": "CAT-SU-SRC-0113",
+    "title": "Указ Президиума Верховного Совета РСФСР от 10 ноября 1961 года",
+    "institution_or_author": "ГБУ Волгоградской области «Центр документации новейшей истории Волгоградской области»",
+    "publication_date": "2025-11-10",
+    "source_type": "archival_institution_secondary",
+    "document_or_accession_number": "1961-11-10 개칭령에 대한 기록관 해설",
+    "locator": "본문 첫 두 문단: 도시·oblast 개칭과 법령 인용; 뒤의 11월12·15일 신문 설명",
+    "url": "https://cdnivo.ru/main/news/ukaz-prezidiuma-verhovnogo-soveta-rsfsr-ot-10-noyabrya-1961-goda",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기록관 해설에서 1961-11-10 스탈린그라드 도시와 주의 볼고그라드 개칭 및 조항의 재인용을 읽었다."
+    ],
+    "limitations": [
+      "후대 기록관 해설이다. 개칭령 서명본과 인용 신문을 직접 읽지 않았다. 같은 기관의 2025-04-10 글도 확인했으나 독립 출처로 추가 집계하지 않았다. 1961년 정치사 전체와 최근 기념 명칭 제도는 범위 밖이다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "Volgograd regional archive rename history"
+  },
+  {
+    "id": "CAT-SU-SRC-0114",
+    "title": "Петроград에서 Ленинград으로 개칭하는 제2차 소비에트대회 결정",
+    "institution_or_author": "2-й съезд Советов СССР · ЭБИД 재수록",
+    "publication_date": "1924-01-26",
+    "source_type": "primary_document_edited_scan",
+    "document_or_accession_number": "원 출전 Постановления 2 съезда Советов Союза ССР, ЦИК СССР, 1924, 9–10쪽; 재수록 Ленинград дважды орденоносный, Госполитиздат, 1946",
+    "locator": "ЭБИД page1048586: 제목·본문 말미 개칭 부분·하단 날짜; 재수록 이미지의 인쇄 쪽 번호는 보이지 않음",
+    "url": "https://docs.historyrussia.org/ru/nodes/282492-postanovlenie-2-go-sezda-sovetov-sssr-o-pereimenovanii-goroda-petrograda-v-leningrad-moskva-26-yanvarya-1924-g",
+    "accessed_at": "2026-11-19T13:04:39+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "고해상도 재수록 이미지에서 도시 Петроград→Ленинград 개칭 문구와 하단 1924-01-26 날짜를 읽었다. 도서관 해설 0107의 날짜와 일치한다."
+    ],
+    "limitations": [
+      "1924년 원 인쇄 9–10쪽이나 서명 원본을 직접 대조한 것이 아니다. 자료를 재수록한 1946년 책의 한 이미지다. 문서의 정치적 찬양과 역사 평가를 사실 설명으로 채택하지 않는다."
+    ],
+    "rights": "한국어 자체 요약과 원문 링크만 저장한다. 원문·지도·사진 이미지·전문은 재게시하지 않는다. 보존기관·재수록 사이트의 이용조건과 개별 권리는 별도 확인 대상이다.",
+    "independence_group": "1924 second Congress renaming decree"
   }
 ]
