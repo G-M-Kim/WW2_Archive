@@ -1852,9 +1852,10 @@
     "category_number": 19,
     "category": "개전 시점 주요 해군기지와 규모(1~10)",
     "article_path": "categories/soviet-union/19-naval-bases-start.md",
-    "status": "pending",
-    "run_record": null,
+    "status": "partial",
+    "run_record": "categories/runs/CAT-SU-19.json",
     "step": 133,
-    "planned_at": "2026-11-19T21:30:00+09:00"
+    "planned_at": "2026-11-19T21:30:00+09:00",
+    "completed_at": "2026-11-20T00:05:11+09:00"
   }
 ]

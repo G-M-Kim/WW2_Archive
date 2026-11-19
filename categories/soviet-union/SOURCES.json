@@ -2857,11 +2857,11 @@
   },
   {
     "id": "CAT-SU-SRC-0143",
-    "title": "Казачий след в Курске, или заметки об истории курского казачества",
+    "title": "Казачий след в Курске, или заметки о прошлом курской слободы Казацкой и об её героях",
     "institution_or_author": "Юрий Дегтярёв; 쿠르스크 지역 도서관 PDF",
-    "publication_date": null,
+    "publication_date": "2016",
     "source_type": "local_history_secondary_with_primary_transcription",
-    "document_or_accession_number": null,
+    "document_or_accession_number": "ISBN 978-5-9909193-2-7",
     "locator": "p.124, 1939–1940년 사진 문구와 주 257",
     "url": "https://kray.kurskonb.ru/degterev/kazak.pdf",
     "accessed_at": "2026-11-19T23:55:38+09:00",
@@ -2874,5 +2874,165 @@
     ],
     "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
     "independence_group": "Юрий Дегтярёв; 쿠르스크 지역 도서관 PDF"
+  },
+  {
+    "id": "CAT-SU-SRC-0144",
+    "title": "Исполнилось сто лет Алексеевскому доку (ныне им. П. И. Велещинского) на Кронштадтском Морском заводе",
+    "institution_or_author": "Кронштадтский вестник",
+    "publication_date": "2014",
+    "source_type": "local_press_retrospective",
+    "document_or_accession_number": null,
+    "locator": "1914년 개장·치수, 1941년 Максим Горький 수리 문단",
+    "url": "https://kronvestnik.ru/history/14876",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1914년 개장 시 선박 설치부 750ft·평균 입구 폭 120ft·기준 수면에서 문턱까지 35ft와 1941년 입거 수리 기록을 확인했다."
+    ],
+    "limitations": [
+      "1939년 인수 도면과 기준일 실가동 기록이 없다. 조선공사 2024년 수치와 정의 차이가 미해결이다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Кронштадтский вестник"
+  },
+  {
+    "id": "CAT-SU-SRC-0145",
+    "title": "110 лет непрерывной службы",
+    "institution_or_author": "Объединённая судостроительная корпорация, ОСК 제1호",
+    "publication_date": "2024",
+    "source_type": "institutional_magazine_secondary",
+    "document_or_accession_number": null,
+    "locator": "pp.40–41, 첫 문단과 전시 운영 문단",
+    "url": "https://kmolz.ru/f/110_let_doku_veleshchinskogo.pdf",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "기관지는 길이 236m·평균 입구 폭 46m·문턱 수심 11m를 적었다. 1914년 개장, 1920년대 개칭, 전시 운영도 서술했다."
+    ],
+    "limitations": [
+      "치수 측정일·측정 기준선 및 개수 도면 미제시. 기사 작성 시점과 1939년을 구분했다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Объединённая судостроительная корпорация, ОСК 제1호"
+  },
+  {
+    "id": "CAT-SU-SRC-0146",
+    "title": "Полярный — Города воинской славы",
+    "institution_or_author": "Банк России",
+    "publication_date": "2012",
+    "source_type": "official_commemorative_secondary",
+    "document_or_accession_number": null,
+    "locator": "기념주화 5714-0014, 역사 해설의 1931–1939년 문단",
+    "url": "https://www.cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0014",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Полярное 명칭, 1933년 예카테리닌스카야 항만 공사 착수, 1937-05-11 해군 개편 및 1939-09-19 도시 지위 회복을 확인했다."
+    ],
+    "limitations": [
+      "기념주화 역사 해설이다. 1939년 항만 용량은 미제시. 명칭과 포괄적인 기지 이력을 확인하는 데만 사용했다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Банк России"
+  },
+  {
+    "id": "CAT-SU-SRC-0147",
+    "title": "На берегах Екатерининской гавани",
+    "institution_or_author": "Городской историко-краеведческий музей г. Полярного",
+    "publication_date": null,
+    "source_type": "municipal_museum_exhibit_secondary",
+    "document_or_accession_number": null,
+    "locator": "전시 해설 #5",
+    "url": "https://ar.culture.ru/tt/exhibition/na-beregah-ekaterininskoy-gavani",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1935년 군함 상설 모항화와 1935–1947년 주기지 운영이라는 전시 해설을 확인했다."
+    ],
+    "limitations": [
+      "1935년 지휘 조직은 소함대이고 북방 함대 개편은 1937년이다. 물리 규모 수치는 없다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Городской историко-краеведческий музей г. Полярного"
+  },
+  {
+    "id": "CAT-SU-SRC-0148",
+    "title": "Важнейшие даты, связанные с освоением Северного Ледовитого океана",
+    "institution_or_author": "Вестник. Зодчий. 21 век",
+    "publication_date": "2021",
+    "source_type": "published_chronology_secondary",
+    "document_or_accession_number": null,
+    "locator": "p.32부터, 1935·1937·1938년 항목",
+    "url": "https://sroboi.ru/i/uploads/%D0%B7%D0%BE%D0%B4%D1%87%D0%B8%D0%B9_%D1%80%D0%B0%D0%B7%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D1%8B.pdf",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1935년 상설 모항 이관, 1937-05-11 북방 함대 개편, 1938년 1월 잠수함 여단의 예카테리닌스카야 항만 배치를 확인했다."
+    ],
+    "limitations": [
+      "회고 연표로 1939년 당일 함정 재고, 부두 공사표 또는 수용 정원을 제공하지 않는다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Вестник. Зодчий. 21 век"
+  },
+  {
+    "id": "CAT-SU-SRC-0149",
+    "title": "Государственный архив города Севастополя. Краткий справочник",
+    "institution_or_author": "세바스토폴 시 국가기록관; В. В. Крестьянников 편, 우크라이나 국가기록원 사이트 판본",
+    "publication_date": "1999",
+    "source_type": "official_archive_finding_aid",
+    "document_or_accession_number": "ф. р-253",
+    "locator": "pp.43–44 조선·수리시설 항목",
+    "url": "https://old.archives.gov.ua/Publicat/Guidebooks/Sevastopol.pdf",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1930년~1940-05-15 남부 조선 트러스트 산하 공장 명칭 및 1940-05-15 이후 제201호 명칭, 관련 기록군을 확인했다."
+    ],
+    "limitations": [
+      "기록군의 개요를 열람했다. 시설의 관리대장 및 당시 도면 개별 원문은 미열람."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "세바스토폴 시 국가기록관; В. В. Крестьянников 편, 우크라이나 국가기록원 사이트 판본"
+  },
+  {
+    "id": "CAT-SU-SRC-0150",
+    "title": "Севастополь и Севастопольский регион — Севморзавод",
+    "institution_or_author": "Інститут історії України НАН України 보관 지역사 자료집",
+    "publication_date": "2014",
+    "source_type": "historical_inventory_secondary",
+    "document_or_accession_number": null,
+    "locator": "항목 36.6, 북안 도크 1911–1915년 및 2·3차 5개년계획 문단",
+    "url": "https://history.org.ua/LiberUA/MatZvidSevast_2014/MatZvidSevast_2014.pdf",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북안 도크의 1915년 첫 주수, 파리 코뮌 등 전전 도크 수리 및 기계·주조 작업장 설치 설명을 확인했다."
+    ],
+    "limitations": [
+      "지역사 설명은 건설 연혁과 수리 사례를 제공한다. 1939년 기준일 도크 명부·용량 및 군항과 조선소의 관리 경계는 미제시."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Інститут історії України НАН України 보관 지역사 자료집"
+  },
+  {
+    "id": "CAT-SU-SRC-0151",
+    "title": "Приказ начальника гарнизона г. Севастополя «Об организации обороны Главной базы…». 12 июля 1941 г.",
+    "institution_or_author": "세바스토폴 수비대장; Электронная библиотека исторических документов(ЭБИД)",
+    "publication_date": "1941-07-12",
+    "source_type": "primary_document_catalog_only",
+    "document_or_accession_number": "ЭБИД 265516, 원문서 기호 미기재",
+    "locator": "문서명·작성일·조직·2004년 자료집 서지",
+    "url": "https://docs.historyrussia.org/ru/nodes/265516-prikaz-nachalnika-garnizona-g-sevastopolya-locale-nil-ob-organizatsii-oborony-glavnoy-bazy-i-otrazhenii-napadeniya-desanta-protivnika-s-sushi-i-s-vozduha-locale-nil-12-iyulya-1941-g",
+    "accessed_at": "2026-11-19T23:57:56+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941-07-12 세바스토폴 수비대 명령 제목과 흑해 함대 주기지 조직 분류를 확인했다."
+    ],
+    "limitations": [
+      "서지와 표제만 대조했다. 1939년 시설 규모나 명령문 전반의 열람으로 세지 않았다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "세바스토폴 수비대장; Электронная библиотека исторических документов(ЭБИД)"
   }
 ]
