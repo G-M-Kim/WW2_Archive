@@ -2584,3 +2584,6 @@ as_of: 2026-11-04
 
 | SRC-2234 | *Gamble at Los Negros: The Admiralty Islands Campaign* / 미 해군 역사유산사령부 NHHC (2019) | 2차(미 해군 공식 역사해설) | 1944-02-29 브루어 작전 정찰강습 상륙·모모테 비행장 접근 및 후속 전투 구분 | https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1944/admiralty-islands.html | 2019년 후대 편찬 해설. 일본군 실제 병력·피해·교두보 세부 시각은 당대 원문 대조 필요 |
 | SRC-2235 | *Seventh Amphibious Force - Command History 1945* / 미 해군 제7상륙부대 지휘 연혁 | 1차(전시 작전 당사자 지휘부가 1945년 작성한 회고성 공식 기록) | 1944-02-29 정찰강습 의도와 초기 상륙, 후속 일본군 저항의 시점 | https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/seventh-amphibious-force-command-history1945.html | 1945년 작성된 당사자 공식 전사로 당일 원시 작전일지와 구별. 예정 4월 본상륙과 실제 2월 정찰강습 분리 |
+
+| SRC-2236 | *Battles of Imphal and Kohima* / 영국 National Army Museum, 공식 역사 해설 | 2차(박물관 역사해설) | 1944-03-08~07-18 작전 개관 | https://www.nam.ac.uk/explore/battle-imphal | 3/8 공세 개시와 3/29 임팔-코히마 도로 차단 구분. 세부 일본군 당대 작전명령·날짜 원전 별도 검증 |
+| SRC-2237 | *Stilwell's Command Problems* / 미 육군 군사사센터 공식 전사 | 2차(공식 군사사) | p.174: 1944-03-08 일본 공세 개시 | https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/S%20PDF/CMH_Pub_9-2.pdf?ver=voydvZkqUj6q2TQlar5CNA%3D%3D | 미 육군 관점 전후 편찬사. 당시 일본군 명령 원문 및 현장 부대별 실제 공격시각 미대조 |
