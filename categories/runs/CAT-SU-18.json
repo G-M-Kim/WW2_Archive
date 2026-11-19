@@ -1,0 +1,205 @@
+{
+  "job_id": "CAT-SU-18",
+  "country_code": "SU",
+  "country": "소련",
+  "country_folder": "soviet-union",
+  "category_number": 18,
+  "category": "개전 시점 주요 공군기지와 규모(1~10)",
+  "article_path": "categories/soviet-union/18-air-bases-start.md",
+  "status": "partial",
+  "step": 132,
+  "execution_mode": "manual",
+  "started_at": "2026-11-19T23:55:38+09:00",
+  "completed_at": "2026-11-20T00:03:30+09:00",
+  "base_head": "b4b072d2e90a82f63509c4d363a21b36ca8eacae",
+  "source_ids": [
+    "CAT-SU-SRC-0138",
+    "CAT-SU-SRC-0139",
+    "CAT-SU-SRC-0140",
+    "CAT-SU-SRC-0141",
+    "CAT-SU-SRC-0142",
+    "CAT-SU-SRC-0143"
+  ],
+  "question_ids": [
+    "CAT-SU-RQ-0066",
+    "CAT-SU-RQ-0067",
+    "CAT-SU-RQ-0068"
+  ],
+  "entity_ids": [
+    "CAT-SU-GEO-0010",
+    "CAT-SU-GEO-0011",
+    "CAT-SU-GEO-0012"
+  ],
+  "research_scope": "1939-09-01 소련 공군의 모니노·리페츠크·카차 전전 비행장 3곳에서 물리 시설과 실제 훈련·배치의 확인 범위를 조사했다.",
+  "limitations": [
+    "당일 배치 명부와 비행장별 시설·정비·급유 원장을 확보하지 못했다. 세 기지 모두 1~10 점수와 범위는 null이다.",
+    "리페츠크 격납 정원은 단일 후대 저술에서 직접 확인했다. 이 저술을 인용하는 시립도서관 전시를 동일 수치의 독립 확증으로 세지 않았다.",
+    "1939년 카차 사진은 문헌에 전재된 뒷면 문구를 확인했다. 원사진이나 개별 착륙장 설계도, 소련 전역 시설 목록은 미확보다."
+  ],
+  "evidence_checked": [
+    "중앙 공군박물관의 건설 문단에서 850m 활주로 2개와 1932년 TB-3 착륙을, 박물관 인수 문단에서 1935년 격납고를 확인했다.",
+    "코발료프의 1939년 초 리페츠크 건설 결산에서 신규 격납고 3동·전투기 100대 초과 수용·콘크리트 주기장·잔디 비행장·기술동 두 동의 설명을 확인했다. 도서관 전시에서 1938년 운영 과정 명칭과 부지를 확인했다.",
+    "Хороших p.105에서 카차 학교의 1938년 명칭과 1941년 이동을, Дегтярёв p.124 및 주 257에서 1939년 사진 문구 전재와 학교 위치를 확인했다."
+  ],
+  "rating_records": [
+    {
+      "entity_id": "CAT-SU-GEO-0010",
+      "period_name": "Монинский аэродром",
+      "modern_name": "모니노 전전 비행장",
+      "reference_date": "1939-09-01",
+      "territorial_status": "소련 본토, 러시아 SFSR, 당시 소련 실효지배",
+      "coordinates": null,
+      "polygon": null,
+      "boundary": "모스크바주 모니노의 전전 활주로·유도로·부속 격납 및 기술 구역. 마을과 외부 철도 지선은 제외. 필지 경계 미확인.",
+      "operator": "적군 공군 관련 항공부대. 1939-09-01 시설 관리 부대 및 배치 명부 미확인.",
+      "operation": "TB-3 착륙은 1932년부터 확인. 1940년 아카데미 입지 선정은 후속 사건.",
+      "metrics": [
+        {
+          "metric": "활주로 수",
+          "value": 2,
+          "unit": "개",
+          "date": "전전 건설기, 기준일 인수·가동 원장 미확보",
+          "boundary": "모니노 전전 비행장",
+          "source_id": "CAT-SU-SRC-0138",
+          "locator": "건설 문단",
+          "capacity_or_actual": "retrospective_installed"
+        },
+        {
+          "metric": "활주로 개별 길이",
+          "value": 850,
+          "unit": "m",
+          "date": "전전 건설기, 기준일 인수·가동 원장 미확보",
+          "boundary": "모니노 전전 비행장",
+          "source_id": "CAT-SU-SRC-0138",
+          "locator": "건설 문단",
+          "capacity_or_actual": "retrospective_installed"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "박물관은 활주로 수·길이와 격납 관련 연혁을 제공한다. 나머지 차원과 비교 기준의 근거가 부족하다.",
+      "source_ids": [
+        "CAT-SU-SRC-0138",
+        "CAT-SU-SRC-0139"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-SU-GEO-0011",
+      "period_name": "Липецкий аэродром ЛВАКУ",
+      "modern_name": "리페츠크 카멘니 로그 인접 전전 비행장",
+      "reference_date": "1939-09-01",
+      "territorial_status": "소련 본토, 러시아 SFSR, 당시 소련 실효지배",
+      "coordinates": null,
+      "polygon": null,
+      "boundary": "전전 군 비행장 및 같은 교육단지의 기술 구역. 당시 경계, 다른 비행장 및 민간 항공클럽과의 공용 관계 미확인.",
+      "operator": "적군 공군 리페츠크 고등 항공 보수교육 과정(ЛВАКУ)",
+      "operation": "1938년 명칭 변경을 거친 1939년 지휘관 교육 시설. 당일 가동 기체 수 미확인.",
+      "metrics": [
+        {
+          "metric": "신규 완공 격납고",
+          "value": 3,
+          "unit": "동",
+          "date": "1939년 초까지",
+          "boundary": "전전 군 비행장 신규 건물만",
+          "source_id": "CAT-SU-SRC-0141",
+          "locator": "1939년 초 건설 결산",
+          "capacity_or_actual": "retrospective_installed"
+        },
+        {
+          "metric": "신규 격납고 합산 수용 하한(초과)",
+          "value": 100,
+          "unit": "전투기 대",
+          "date": "1939년 초까지",
+          "boundary": "세 신규 격납고 합계, 기종·배치 기준 미상",
+          "source_id": "CAT-SU-SRC-0141",
+          "locator": "1939년 초 건설 결산",
+          "capacity_or_actual": "reported_capacity_strictly_greater"
+        },
+        {
+          "metric": "신규 기술 건물",
+          "value": 2,
+          "unit": "동",
+          "date": "1939년 초까지",
+          "boundary": "신규 격납고 인접 구역",
+          "source_id": "CAT-SU-SRC-0141",
+          "locator": "1939년 초 건설 결산",
+          "capacity_or_actual": "retrospective_installed"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "격납 정원 외 잔디 착륙장 면적, 정비 처리량, 연료 용량 및 비교 기준을 확인하지 못했다.",
+      "source_ids": [
+        "CAT-SU-SRC-0140",
+        "CAT-SU-SRC-0141"
+      ],
+      "method_version": "infrastructure-v1"
+    },
+    {
+      "entity_id": "CAT-SU-GEO-0012",
+      "period_name": "Качинская военная авиационная школа",
+      "modern_name": "카차 전전 군 비행학교 및 비행장 구역",
+      "reference_date": "1939-09-01",
+      "territorial_status": "소련 본토, 러시아 SFSR, 당시 소련 실효지배, 크림 ASSR",
+      "coordinates": null,
+      "polygon": null,
+      "boundary": "세바스토폴 인근 카차 학교와 당시 훈련 비행장 구역. 복수 착륙장 및 시설별 경계 미확인.",
+      "operator": "적군 공군, 카차 군 비행학교(А. Ф. Мясников 명칭)",
+      "operation": "1938년 학교명과 1939년 카차에서의 교육생 사진 문구가 전재돼 있다. 당일 부대·기체 배치 미확인.",
+      "metrics": [
+        {
+          "metric": "착륙장 수",
+          "value": null,
+          "unit": null,
+          "date": "1939-09-01",
+          "boundary": "카차 전전 훈련 비행장 구역",
+          "source_id": "CAT-SU-SRC-0142",
+          "locator": "p.105에 미제시",
+          "capacity_or_actual": "unconfirmed"
+        }
+      ],
+      "dimension_ratings": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "anchors": [],
+      "score": null,
+      "score_range": null,
+      "score_status": "candidate",
+      "confidence": "low",
+      "rationale": "학교의 1939년 주둔 근거는 확인했으나 네 차원의 수치가 없다.",
+      "source_ids": [
+        "CAT-SU-SRC-0142",
+        "CAT-SU-SRC-0143"
+      ],
+      "method_version": "infrastructure-v1"
+    }
+  ],
+  "validation": {
+    "command": "python categories/tools/validate.py",
+    "status": "passed",
+    "result": "PASS: 133 jobs; visited=132 pending=1; sources=1274 questions=498. Structural check only.",
+    "path_check": "변경 8개 경로가 모두 categories/에 속하며 원고·국가 장부/README·실행 기록·QUEUE/STATE/RUN_LOG다."
+  }
+}

@@ -2754,5 +2754,125 @@
     ],
     "rights": "자체 한국어 요약·선별 수치·원문 링크만 사용한다. 원문·사진·PDF 전문을 저장소에 재업로드하지 않는다. 개별 재수록 자료의 이용조건은 별도 확인 대상이다.",
     "independence_group": "Novokuznetsk commemorative narratives"
+  },
+  {
+    "id": "CAT-SU-SRC-0138",
+    "title": "История Центрального музея Военно-воздушных сил",
+    "institution_or_author": "Центральный музей ВВС",
+    "publication_date": null,
+    "source_type": "museum_secondary",
+    "document_or_accession_number": null,
+    "locator": "비행장 건설·초기 TB-3·1940년 아카데미 선정·1958년 박물관 인수 문단",
+    "url": "https://cmvvs.ru/home/istoriya.html",
+    "accessed_at": "2026-11-19T23:55:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "각 850m 활주로 2개, 1932년 첫 TB-3 착륙, 박물관 인수 건물에 포함된 1935년 난방식 목조 격납고를 확인했다."
+    ],
+    "limitations": [
+      "회고 연혁이다. 기준일 활주로 가용·배치·정비·연료 원장과 당시 격납 정원은 미제시."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Центральный музей ВВС"
+  },
+  {
+    "id": "CAT-SU-SRC-0139",
+    "title": "Военно-воздушная академия командного и штурманского состава ВВС Красной Армии",
+    "institution_or_author": "Yak-reg 항공사 아카이브",
+    "publication_date": null,
+    "source_type": "secondary_with_document_excerpt",
+    "document_or_accession_number": null,
+    "locator": "첫 단락의 1940-03-29 명령 발췌와 입지 설명",
+    "url": "https://www.yak-reg.ru/yak-piston/yak-7/yak-7.school/yak-7.school.vva/yak-7.school.vva-text.html",
+    "accessed_at": "2026-11-19T23:55:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940-03-29 아카데미 조직 명령 두 항목의 전재와 모니노 입지 서술을 확인했다."
+    ],
+    "limitations": [
+      "원 명령의 소장기호·원본 스캔 미제시. 1939년 운영 주체 확인에는 사용하지 않았다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Yak-reg 항공사 아카이브"
+  },
+  {
+    "id": "CAT-SU-SRC-0140",
+    "title": "Липецк крылатый — Авиационная история Липецка",
+    "institution_or_author": "리페츠크 시립 중앙도서관 시스템",
+    "publication_date": null,
+    "source_type": "library_exhibit_secondary",
+    "document_or_accession_number": null,
+    "locator": "1933–1938 гг. Высшая лётно-тактическая школа ВВС 절",
+    "url": "https://liplib.ru/virt/lipetsk-krylatyi/aviatsionnaya-istoria-lipetska.php",
+    "accessed_at": "2026-11-19T23:55:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "카멘니 로그 좌안의 교육단지와 인접 비행장, 1938-04-01 ЛВАКУ 명칭과 1940년 재편을 확인했다."
+    ],
+    "limitations": [
+      "코발료프 2017년 책도 인용한다. 격납고 수량이나 수용량의 독립 확증으로 세지 않았다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "리페츠크 항공 지역사, 코발료프 저술과 일부 중첩"
+  },
+  {
+    "id": "CAT-SU-SRC-0141",
+    "title": "Высшая летно-тактическая школа",
+    "institution_or_author": "Сергей Юрьевич Ковалев",
+    "publication_date": "2018-07-13",
+    "source_type": "local_history_secondary",
+    "document_or_accession_number": null,
+    "locator": "«К началу 1939 года…» 및 뒤의 비행장·주기장 문단",
+    "url": "https://www.klassika.ru/2018/07/13/1541",
+    "accessed_at": "2026-11-19T23:55:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "신규 격납고 3동과 전투기 100대 초과 수용, 미완공 네 번째 동, 기술 건물 2동, 콘크리트 주기장과 잔디 비행장 설명을 확인했다."
+    ],
+    "limitations": [
+      "웹 공개 후대 저술이다. 세 동의 수용 계산 기준, 원도면, 1939-09-01 실가동 기록 확인이 남았다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "리페츠크 항공 지역사, 코발료프 저술과 일부 중첩"
+  },
+  {
+    "id": "CAT-SU-SRC-0142",
+    "title": "Краснокутское летное училище Аэрофлота — наследник авиационных школ императорской России и Красной Армии",
+    "institution_or_author": "Владимир Алексеевич Хороших",
+    "publication_date": "2015",
+    "source_type": "scholarly_secondary",
+    "document_or_accession_number": null,
+    "locator": "Educatio VII (14), p.105",
+    "url": "https://edu-science.ru/wp-content/uploads/2016/03/edu-14_p2_6-154.pdf",
+    "accessed_at": "2026-11-19T23:55:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938-05-13 카차 명칭 부여와 1941년 7월 7개 비행대 이동 서술을 확인했다."
+    ],
+    "limitations": [
+      "학교사 재구성이다. 1941년 비행대 수를 1939년 기준일 배치 또는 물리 수용량에 사용하지 않았다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Владимир Алексеевич Хороших"
+  },
+  {
+    "id": "CAT-SU-SRC-0143",
+    "title": "Казачий след в Курске, или заметки об истории курского казачества",
+    "institution_or_author": "Юрий Дегтярёв; 쿠르스크 지역 도서관 PDF",
+    "publication_date": null,
+    "source_type": "local_history_secondary_with_primary_transcription",
+    "document_or_accession_number": null,
+    "locator": "p.124, 1939–1940년 사진 문구와 주 257",
+    "url": "https://kray.kurskonb.ru/degterev/kazak.pdf",
+    "accessed_at": "2026-11-19T23:55:38+09:00",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "카차 군 비행학교 교육생의 사진에 적힌 1939-03-18, 1939-06-12 카차라는 위치·날짜 전재를 확인했다."
+    ],
+    "limitations": [
+      "원 사진이나 촬영 지점은 직접 확인하지 않았다. 뒷면의 город 표기를 공식 도시 지위 근거로 쓰지 않았다."
+    ],
+    "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
+    "independence_group": "Юрий Дегтярёв; 쿠르스크 지역 도서관 PDF"
   }
 ]
