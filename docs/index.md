@@ -1,8 +1,11 @@
 # 제2차 세계대전 백과사전
 
-제2차 세계대전 관련 사료와 연구를 바탕으로 지식을 축적하는 프로젝트입니다.
+[**인터랙티브 타임라인 열기**](timeline/index.html) · 원고에 등록된 사건을 주별로 살펴보고, 날짜와 출처 상태로 연구 공백을 확인합니다.
 
-- [7개국 카테고리 조사](categories/index.md)
-- [문서 목록](articles/index.md)
-- [출처 목록](sources/index.md)
-- [편집 및 검증 원칙](editorial-policy.md)
+| 찾아보기 | 수록 내용 |
+| --- | --- |
+| [인터랙티브 타임라인](timeline/index.html) | 1905년 전사부터 전후까지 주별 사건·출처·기록 사진 |
+| [7개국 카테고리 조사](categories/index.md) | 장비, 인물, 교리, 산업, 인구, 영토와 시설 |
+| [문서 목록](articles/index.md) | 시기별 연표 원고와 검토 초안 |
+| [출처 목록](sources/index.md) | 사료 등록부와 조사 장부 |
+| [편집 및 검증 원칙](editorial-policy.md) | 출처 기준과 기록의 한계 |
