@@ -1,6 +1,6 @@
 # 독일 01 Panzer I 검토 범위
 
-배치 `DE-01-PZI-001` · 2026-11-21 · [전차 원고](../germany/01-tanks.md#panzer-i-a-b)
+배치 `DE-01-PZI-001`, `DE-01-PZI-002` · 2026-11-21 · [전차 원고](../germany/01-tanks.md#panzer-i-a-b)
 
 독일군의 1939~1945년 전차 운용을 중심으로 계열의 전전 개발과 스페인 공급·현지 개조까지 포함한다. 기본형, 훈련 차대, 시험 개조, 소량 제작형, 지휘전차, 현지 개조와 비전차 파생 차량을 구분한다. 전후 복원은 소장품 이력으로 기록한다.
 
@@ -8,15 +8,18 @@ Lüdeke(CAT-DE-SRC-0175) 목차 pp.12–17, Spielberger·Doyle(CAT-DE-SRC-0191) 
 
 | 형식·후보 | 판정과 확인 위치 | 남은 검증 셀 |
 |---|---|---|
-| Ausf. A · CAT-DE-EQP-0020 | MG 13 2정·승무원 2명의 기존 근거는 충족하여 유지했다(CAT-DE-SRC-0001 VII-76~77과 0141 Características). 두 항목은 재검색 대상으로 삼지 않았다. CAT-DE-SRC-0194 Technical data의 제작사·연도·1,160대와 최대 50 km/h, CAT-DE-SRC-0141의 최대 42 km/h와 스페인 운용을 원고에 반영했다. | 개별 공장·인수 원장, 1,160대의 완성차·훈련 차대 포함 기준, 속도 하중·노면, 채택일·첫 교전일, 기관 사진 소장번호. |
-| Ausf. B · CAT-DE-EQP-0026 | 이름만 있던 형식에 원명, 별칭, 차체 변화, 제원, 세비야 도착 기록과 소장처를 추가했다. CAT-DE-SRC-0192 PDF 1~2쪽과 CAT-DE-SRC-0193 PDF 1쪽의 변속기·항속 표기가 다르다. | 생산 종료·공장별 제작·인수 대수, 두 기관 기록의 변속기·측정 조건, 독일군 채택·첫 교전, 스페인 B형 첫 교전·총 인도, 사진 소장번호. |
+| Ausf. A · CAT-DE-EQP-0020 | 상충. MG 13 2정·승무원 2명은 CAT-DE-SRC-0001 VII-76~77 및 CAT-DE-SRC-0141 Características 근거를 유지했다. 두 주장 재검색 생략. 제작사·제작 시기를 보강했고, 무장전차 818·완성 1,075·박물관 생산 1,160 및 1936-10-01 보유 1,160을 원고에서 구분했다(CAT-DE-SRC-0194·0199·0200·0201·0202). | 공장별 완성·인수 원장과 보유 보고의 집계 범위, 제원 시험의 하중·노면, 채택·첫 교전일, 기관 사진 소장번호. |
+| Ausf. B · CAT-DE-EQP-0026 | 상충. CAT-DE-SRC-0199·0200 제작표의 공장, 399대 양산분 및 CAT-DE-SRC-0201의 675대, CAT-DE-SRC-0202 납품·미납과 제작 시작일의 차이를 반영했다. CAT-DE-SRC-0192·0193·0199의 항속 정의를 대조했다. | 생산 종료·공장별 완성·인수 대수, 제원 측정 조건과 변속기 자료, 독일군 채택·첫 교전, 스페인 B형 첫 교전·총 인도, 사진 소장번호. |
 | Ausf. A, Breda Mod. 35 장착형 · CAT-DE-EQP-0027 | 누락 형식 추가. CAT-DE-SRC-0141 Historia의 실제 개조 서술과 CAT-DE-SRC-0191 목차의 본문 p.49를 대조했다. 소대별 배치 구상과 제작 인정 범위가 다르다. | 개조 주체·작업장·연도 및 완성 수량, 부대 인수·최초 실전, 실제 개조차 원사진의 소장번호·캡션·권리. |
 | Kleiner Panzerbefehlswagen A·B·C | 필수 필드 부족. CAT-DE-SRC-0191 목차의 본문 pp.66·68 명칭과 CAT-DE-SRC-0195의 폴란드에서 촬영한 B형 지휘차 사진을 확인했다. CAT-DE-SRC-0183은 다른 개별 지휘차 소장 기록이다. | 형식별 제작사·공장·수량·제원, 초기 채택, 최초 전투, 운용국과 지급 원기록, A·C 식별 사진. |
-| Ausf. C · VK 6.01 | 필수 필드 부족. CAT-DE-SRC-0175 목차 pp.16–17와 CAT-DE-SRC-0191 목차의 본문 p.55에서 명칭과 범위를 확인했다. | 시제·소량 제작의 구분과 발주/인수 수량, 생산·공장·제원·실전·소장 사진. |
-| Ausf. F · VK 18.01 | 필수 필드 부족. CAT-DE-SRC-0191 목차의 본문 p.55와 CAT-DE-SRC-0196의 큐레이터 해설에서 명칭과 베오그라드 전시 기록을 확인했다. 30대는 단일 해설 수치다. | 생산 시작/종료·공장·인수 수량, 30대에 시제차 포함 여부, 계약 수량과 이행 구분, 제원·최초 배치/실전, 박물관 소장번호. |
-| A/B 디젤 M 601·열대 Tp·Fahrschulfahrzeug, A형 Flammenwerfer | 범위 후보. CAT-DE-SRC-0191 목차의 본문 pp.38·41·54·57·65. 명칭 외 필수 내용 미검토. | 개발·완성·개조 상태, 수량·시기·용도·실전과 원사진. |
+| Ausf. C · VK 6.01 | 필수 필드 부족. CAT-DE-SRC-0199 pp.12–14와 CAT-DE-SRC-0200 p.23-9 및 C형 캡션에서 차대 40대 계약과 완성 40대, 제작 기업을 확인했다. 두 도감의 원자료 관계는 미확인이다. | 시제분 포함 여부, 군 인수·부대 배치·제원 측정 조건·최초 실전·소장번호. |
+| Ausf. F · VK 18.01 | 필수 필드 부족. CAT-DE-SRC-0199 p.14와 CAT-DE-SRC-0200 p.23-9 및 F형 캡션이 30대 발주와 1942년 완성을 기록한다. 큐레이터 해설 CAT-DE-SRC-0196도 제작 30대 및 베오그라드 전시를 기록한다. | 30대에 시제차 포함 여부·군 인수, 제원 측정 조건·최초 배치/실전, 박물관 소장번호. |
+| 1./La.S. Krupp-Traktor · CAT-DE-EQP-0028 | 누락 추가. CAT-DE-SRC-0199 pp.5·7 및 CAT-DE-SRC-0200 p.23-8에서 개별 회사 배정과 차대 총 150대, 무장 전차와 구분을 확인했다. | 최초 인수·운전교육 부대·제원·형식 식별 기관 사진. |
+| Panzer-Schulfahrgestell Ausf. B · CAT-DE-EQP-0029 | 누락 추가. CAT-DE-SRC-0199 p.9의 발주 295대와 CAT-DE-SRC-0200 pp.23-8–23-9 및 훈련차 캡션의 조립 295대를 구분했다. | 공장 확정·제작월·군 인수·운용국과 부대·제원·소장번호. |
+| Fahrgestell für Umsetz-Fahrzeug · CAT-DE-EQP-0030 | 누락 추가. CAT-DE-SRC-0199 pp.9·12와 CAT-DE-SRC-0200 p.23-9 및 개조차 캡션에 따라 개조용 차대 147대, 제작사·차수를 명시했다. | 최종 개조 수량·인수 및 부대 지급·제원·소장번호. |
+| A/B 디젤 M 601·열대 Tp, A형 Flammenwerfer | 범위 후보. CAT-DE-SRC-0191 목차의 본문 pp.38·41·54·57·65. 명칭 외 필수 내용 미검토. | 개발·완성·개조 상태, 수량·시기·용도·실전과 원사진. |
 | 초기 개발·계획 | CAT-DE-SRC-0191 목차의 본문 pp.26·33·68에 LaS Krupp LKA/LKB, 5 t 제안·시제, VK 301·VK 501 설계가 있다. | 계통, 별칭·개발 단계, 실제 제작 여부·연도, LKA/LKB의 수출 제안/실제 인도 구분. |
-| 독일·스페인 이외 국가 | 미검토. 스페인 도착·운용은 위의 A·B와 개조형 행에 기록했다. | 문서로 남은 수출·공여·노획 후보와 형식·수량·도착/운용 구분. |
+| 독일·스페인 이외 국가 | 필수 필드 부족. CAT-DE-SRC-0200의 A형 캡션에 중국 수출분 15대가 들어 있다. 이 수치는 완성차 집계의 조건으로 원고에 반영했다. | 중국 측 수령·인도일·실전 부대와 나머지 수출·공여·노획 후보. |
 
 ## 독일 02 첫 조사에 넘길 Panzer I 차대
 
@@ -30,4 +33,6 @@ Lüdeke(CAT-DE-SRC-0175) 목차 pp.12–17, Spielberger·Doyle(CAT-DE-SRC-0191) 
 
 ## 재개
 
-`DE-01/Panzer-I/A-B/production-acceptance`부터 이어간다. 독일국립도서관에서는 전문도감의 목차까지 확인했다. Bundesarchiv의 [RH 8 안내](https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/technische-zeichnungen-militaerischer-herkunft-bis-1945/)에서 연결된 invenio 직링크는 상세 내용을 제공하지 않았다. A·B의 인수표와 공장별 차대 장부, 스페인 교전일을 기록한 상급부대·스페인 측 원일지가 필요하다. CAT-DE-SRC-0197의 미전승 안내는 Imker·Drohne의 자체 문서에 해당한다.
+`DE-01/Panzer-I/A-B/factory-rolls-and-army-returns`부터 이어간다. CAT-DE-SRC-0203에서 Krupp의 WA 1·WA 4와 Grusonwerk 마그데부르크 WA 105, 사진군 WA 16 p의 기록군 번호를 확인했다. NRW 검색 포털의 세부 목록은 접근 확인 화면을 반환했다. 이 번호는 공장 원장의 개별 청구기호가 아니다. 군 원기록은 Bundesarchiv [RH 8 안내](https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/technische-zeichnungen-militaerischer-herkunft-bis-1945/)의 발주·인수 기능과 Heereswaffenamt Wa Prüf 6 및 육군 전차 보유 보고를 확인한다. 기존 invenio 직링크는 상세 내용을 제공하지 않았다. 보조 대조 대상인 RH 10/380·381·382는 [기록원 검색 출력본](https://www.deutsches-wehrkundearchiv.de/app/download/5818158323/Findbuch%2BBA-MA%2B-%2BRH10.04%2B-%2BGeneralinspekteur%2Bder%2BPanzertruppen.pdf)의 1935~1937년 전차부대 의견·훈련 항목에서 번호를 확인했으며 원면은 미열람이다. RH 10/67의 제작·지급 대상 연도는 [목록](https://www.deutsches-wehrkundearchiv.de/app/download/5818158321/Findbuch%2BBA-MA%2B-%2BRH10.03%2B-%2BPanzeroffizier%2Bbeim%2BChef%2BGeneralstab.pdf)에 1943~1944년으로 나와 이 셀에서 제외한다.
+
+독일국립도서관의 Spielberger·Doyle 공개본은 목차까지다(CAT-DE-SRC-0191). Jentz·Hilary Doyle의 *Panzer Tracts* 1-1은 공개 서지(ISBN 9780970840769)와 재인용(CAT-DE-SRC-0202)을 열었으며 인수표 원면을 확보하지 못했다. *Panzer Tracts* 23 초판 공개 OCR은 시리즈 표 및 사진 캡션까지 열었고, 업체별 소계는 OCR 오류와 표 정렬 문제로 보류했다(CAT-DE-SRC-0200). 같은 저술 계통을 교차확인 수에 더하지 않았다. RQ-0079에서 1936-10-01 A형 보유 보고와 1937-05-08 B형 미납 보고의 실제 표제·서명·수량 범위를 대조한다. 원문이 확보되면 A·B 및 훈련·개조 차대를 분리해 계약, 제작, 인수, 부대 지급을 확정한다. 확인할 수 있는 같은 문서의 다른 셀로 이어갈 때에도 이 미확인 원장과 재개 조건을 보존한다.

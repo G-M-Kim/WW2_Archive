@@ -4031,5 +4031,107 @@
     ],
     "translation": "영어 사진 설명의 공급·운용 서술을 한국어로 요약했다.",
     "rights": "자체 한국어 요약 및 기사 링크만 제공. Candil의 사진은 재배포하지 않았다."
+  },
+  {
+    "id": "CAT-DE-SRC-0199",
+    "title": "Německá obrněná vozidla druhé světové války: Kompletní průvodce",
+    "institution_or_author": "David Doyle; Stanislav Mareš(체코어 번역); Grada Publishing",
+    "publication_date": "2023-04-25 (체코어판); 영어 원판 2019",
+    "source_type": "secondary: 전문 도감 공개 미리보기",
+    "document_or_accession_number": "ISBN 978-80-271-6908-5 (PDF)",
+    "locator": "인쇄 pp.5–7 A형 제작표·캡션과 1./La.S., pp.7–9 B형 및 차대 발주, pp.12–14 B형 제원표·C/F 제작",
+    "url": "https://cdn.palmknihy.cz/prod-media-assets/01HJ14J20WV0E0X8M90XQZWV3W/book_377863_51.pdf",
+    "claims_checked": [
+      "A형의 제작 기간·제작사·서술상 완성 수량, 초기 150대 차대의 배정과 완료, B형 제작사와 시리즈, 별도 훈련·개조 차대, C/F 본문과 제작표"
+    ],
+    "limitations": [
+      "인용한 업체별 차대번호의 연속성을 가정하지 않았다. A형 p.6 캡션의 818대와 본문에 나온 발주·차대 수는 집계 기준을 원장으로 대조해야 한다.",
+      "사진 캡션에 Patton Museum 및 NARA 명칭이 있지만 확인된 쪽에는 개별 소장번호가 없다. Jentz·Hilary Doyle의 자료와 공유한 기록은 미확인이다."
+    ],
+    "translation": "Stanislav Mareš의 체코어 번역판에서 해당 대목을 한국어로 요약했다. 영어판을 별도 근거로 세지 않았다.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "판권면의 © David Doyle 2019 및 © Grada Publishing 2023 확인. 공개 미리보기에 링크하고 지면·도면·사진을 복제하지 않았다."
+  },
+  {
+    "id": "CAT-DE-SRC-0200",
+    "title": "Panzer Tracts No. 23: Panzer Production from 1933 to 1945",
+    "institution_or_author": "Thomas L. Jentz·Hilary Louis Doyle; Panzer Tracts, Boyds",
+    "publication_date": "2011 (초판)",
+    "source_type": "secondary: 공장·군 기록을 대조한 생산 연구의 OCR",
+    "document_or_accession_number": "Panzer Tracts No.23",
+    "locator": "인쇄 pp.23-8–23-9 Pz.Kpfw.I Series 제작표와 이어지는 A·B/C·F·차대 캡션",
+    "url": "https://www.scribd.com/document/833976350/23-0-Panzer-Production-from-1933-to-1945",
+    "claims_checked": [
+      "A형 캡션의 중국분 포함 완성 수량, B형 5a·6a 양산분, 1./La.S. 차대·훈련 차대·개조용 차대 분리, C·F 발주와 완성 수량·연도"
+    ],
+    "limitations": [
+      "초판의 제3자 공개 OCR에서 판독 가능한 표 항목과 문장 단위 캡션을 열람했다. 일부 열과 숫자가 훼손돼 업체별 개별 수량을 채택하지 않았다. 개별 원장과 인수 서명은 미열람이다.",
+      "https://www.panzerwrecks.com/product/panzer-tracts-no-23-panzer-production-1933-to-1945/ 는 증보판 예정 안내이며 열람 시 생산표 견본을 제공하지 않았다."
+    ],
+    "translation": "영어 표제와 수량 정의를 한국어로 요약하고 독일어 발주 계열명은 원어를 남겼다.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "문장과 표·사진은 복제하지 않았다. 열람본과 발행사 안내 링크를 제공한다."
+  },
+  {
+    "id": "CAT-DE-SRC-0201",
+    "title": "Panzer I and II: The Birth of Hitler’s Panzerwaffe",
+    "institution_or_author": "Anthony Tucker-Jones; Pen & Sword Military",
+    "publication_date": "2018",
+    "source_type": "secondary: 군사사 단행본 공개 발췌",
+    "document_or_accession_number": "ISBN 9781526701633 (인쇄), 9781526701657 (전자책)",
+    "locator": "Chapter One 「Panzer I – Ausf A and B」 도입부의 생산 수량·기간 문단",
+    "url": "https://www.perlego.com/book/2447087/panzer-i-and-ii-the-birth-of-hitlers-panzerwaffe-pdf",
+    "claims_checked": [
+      "A형 무장 전차 818대와 1934년 7월~1936년 6월, B형 675대와 1935년 8월~1937년 6월이라는 저자의 집계"
+    ],
+    "limitations": [
+      "미리보기 해당 문단은 B형의 훈련·개조 차대 포함 범위나 생산월을 정한 원장의 식별자를 제시하지 않는다. 다른 저술과 동일한 자료를 썼는지 확인되지 않았다."
+    ],
+    "translation": "영어 발췌문에서 기간과 수량만 한국어로 요약했다.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "전자책 미리보기 링크와 자체 한국어 요약만 제공. 본문과 이미지 복제 없음."
+  },
+  {
+    "id": "CAT-DE-SRC-0202",
+    "title": "German WW2 Tank Monthly Acceptances",
+    "institution_or_author": "GeneralStaff.org 편집자(대상 절의 작성자 이름 미표기); Thomas L. Jentz의 Panzer Tracts 1-1 인용",
+    "publication_date": "2016-08경 작성, 2019-12-06 갱신(페이지 머리말)",
+    "source_type": "secondary: 출판 연구 재인용 및 편집자 추산",
+    "document_or_accession_number": null,
+    "locator": "첫 절 「Production of the Pz.Kpfw.I Series」의 첫 A형 보유표와 B형 납품 서술(월평균표 직전)",
+    "url": "https://generalstaff.org/WW2/PEDIA/Prod/WW2_GER_Tank_Monthly.htm",
+    "claims_checked": [
+      "1936-10-01 A형 보유 1,160대, 같은 날 B형 계약 403대 중 납품 52대, 1937-05-08 미납 58대 및 납품 약 345대의 재인용"
+    ],
+    "limitations": [
+      "Jentz 계통 문헌의 별도 독립 근거가 아니다. 육군 원보고서의 제목·번호·쪽수가 없고 첫 인수월과 월평균은 추정이어서 채택하지 않았다."
+    ],
+    "translation": "영어 서술에서 보유·계약·납품을 구별하고 저자의 추산을 표시했다.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "자체 한국어 요약 및 링크만 제공."
+  },
+  {
+    "id": "CAT-DE-SRC-0203",
+    "title": "Kurzübersicht der Bestände",
+    "institution_or_author": "Historisches Archiv Krupp; Alfried Krupp von Bohlen und Halbach-Stiftung",
+    "publication_date": "발행일 미표기(재단 공개 PDF)",
+    "source_type": "secondary: 기관 기록군 목록",
+    "document_or_accession_number": "WA 1, WA 4, WA 105, WA 16 p",
+    "locator": "인쇄 p.248 Werksarchiv의 Geschäftsbücher·Akten, p.251 Grusonwerk(WA 105), p.254 Grusonwerk 사진군(WA 16 p)",
+    "url": "https://www.krupp-stiftung.de/app/uploads/2022/09/HAK-Kurzuebersicht-der-Bestaende-.pdf",
+    "claims_checked": [
+      "사업 장부·기업 문서와 마그데부르크 Grusonwerk 문서·사진 기록군의 소장 식별자 및 다루는 기간"
+    ],
+    "limitations": [
+      "기록군 수준 목록이며 Panzer I 장부와 사진이 해당 기록군의 특정 건에 편철됐다는 확인은 없다. https://www.archive.nrw.de/archivsuche?link=ARCHIV-DE-2162 의 개별 검색은 접근 인증 화면만 반환했다."
+    ],
+    "translation": "독일어 기록군 제목과 소재지·기간을 한국어로 요약했다.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "기관 목록 링크만 제공. https://www.archive.nrw.de/historisches-archiv-krupp 는 사전 서면 신청 및 허가 절차를 안내한다."
   }
 ]

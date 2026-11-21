@@ -6,28 +6,53 @@
   "document_status": "in_progress",
   "current_subcategory": "Panzer I 계열",
   "scope_path": "categories/review-v2/DE-01-Panzer-I.md",
-  "last_saved_batch": "DE-01-PZI-001",
+  "last_saved_batch": "DE-01-PZI-002",
   "last_review_date": "2026-11-21",
   "result": {
     "retained_claims_without_repeat_search": 2,
-    "new_entities": ["CAT-DE-EQP-0027"],
-    "new_detail_records_for_indexed_forms": ["CAT-DE-EQP-0026"],
-    "open_question_ids": ["CAT-DE-RQ-0004", "CAT-DE-RQ-0079"],
-    "summary": "Panzer I A·B 및 스페인 현지 개조형을 원고에 반영했다. C·F와 지휘형은 범위·근거를 보강했으며 생산·배치 등 필수 셀이 남아 있다."
+    "retained_entities_without_repeat_search": 0,
+    "new_entities": [
+      "CAT-DE-EQP-0028",
+      "CAT-DE-EQP-0029",
+      "CAT-DE-EQP-0030"
+    ],
+    "revised_entities": [
+      "CAT-DE-EQP-0020",
+      "CAT-DE-EQP-0026"
+    ],
+    "revised_indexed_forms": [
+      "Ausf. C (VK 6.01)",
+      "Ausf. F (VK 18.01)"
+    ],
+    "open_question_ids": [
+      "CAT-DE-RQ-0004",
+      "CAT-DE-RQ-0079"
+    ],
+    "summary": "A·B형의 업체·제작 시기·생산/보유/납품 범위를 대조하고, 훈련·개조 차대 3종을 원고에 추가했다. C·F의 계약 및 완성 시기를 보강했다. A·B의 개별 공장·군 원장과 수치 상충은 미해결이다."
   },
   "next_verification_cell": {
-    "key": "DE-01/Panzer-I/A-B/production-acceptance",
-    "entities": ["CAT-DE-EQP-0020", "CAT-DE-EQP-0026"],
-    "fields": ["공장별 형식·생산 시작/종료", "완성 전차·훈련 차대·개조 차대·군 인수 수량"],
-    "source_leads": [
-      "Panzer Tracts 1-1 (Jentz·Doyle, ISBN 9780970840769)의 A·B 생산 계열과 인수표",
-      "Spielberger·Doyle, Panzer I + II und ihre Abarten, 본문 pp.33–54의 생산·차대 근거",
-      "Bundesarchiv RH 8 / Heereswaffenamt에서 1 A LaS Krupp·1 B LaS May의 발주·인수 원기록"
+    "key": "DE-01/Panzer-I/A-B/factory-rolls-and-army-returns",
+    "entities": [
+      "CAT-DE-EQP-0020",
+      "CAT-DE-EQP-0026",
+      "CAT-DE-EQP-0028",
+      "CAT-DE-EQP-0029",
+      "CAT-DE-EQP-0030"
     ],
-    "previous_access": "독일국립도서관에서는 도감 목차를 열람했다(CAT-DE-SRC-0191). Bundesarchiv RH 8 안내의 invenio 직링크는 해당 내용을 제공하지 않았다. 이 결과는 소장 문서의 부재를 뜻하지 않는다."
+    "fields": [
+      "공장별 계약·완성·군 인수와 차대/완성 전차의 정의",
+      "1936-10-01 A형 보유 보고 및 1937-05-08 B형 납품·미납 보고의 원문"
+    ],
+    "source_leads": [
+      "Historisches Archiv Krupp WA 105(Grusonwerk), WA 1(사업 장부), WA 4(기업 문서)에서 La.S. 2~6계열의 기록 건 식별(CAT-DE-SRC-0203)",
+      "Bundesarchiv RH 8·Wa Prüf 6의 발주 및 인수 기록, RH 10/380–382의 당대 부대 의견·훈련 기록은 보유·운용 보조 확인",
+      "Panzer Tracts 1-1 ISBN 9780970840769의 보고 인용·인수표와 Panzer Tracts 23 초판 pp.23-8–23-9 제작표의 정상 판면"
+    ],
+    "previous_access": "Krupp 기관 PDF에는 기록군까지만 있고 NRW 세부 검색은 접근 확인 화면을 반환했다. 이전 Bundesarchiv의 RH 8 직링크는 본문을 제공하지 않았다. Panzer Tracts 1-1 인수표 미확보. 23권 공개 OCR에서 업체별 세부 수치를 판독하지 못했다.",
+    "next_open_cell_if_originals_remain_unavailable": "DE-01/Panzer-I/A-B/adoption-first-combat-and-deliveries"
   },
   "outstanding_subcategories": [
-    "Panzer I A·B 생산·인수·채택·최초 전투 및 사용국, 지휘 A·B·C, 정찰 C와 강화 F, 훈련·열대·디젤·화염방사·스페인 개조, 개발·계획",
+    "Panzer I A·B 공장 원장·군 인수·채택·최초 전투 및 사용국, 지휘 A·B·C, C·F 인수·제원·실전, 훈련/개조 차대 지급 및 사진, 열대·디젤·화염방사·스페인 개조, 개발·계획",
     "Panzer II·III·IV, Panther, Tiger I·II, 35(t)·38(t)의 기본형과 파생형",
     "Neubaufahrzeug·Porsche Tiger·Panther II·Maus·E-100 등 개발 사업과 노획·공여 전차 전반",
     "계열별 01/02 분류·중복 대조와 02 인계 범위 보강"
