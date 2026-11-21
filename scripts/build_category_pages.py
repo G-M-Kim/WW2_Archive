@@ -1,10 +1,12 @@
-"""Stage the seven-power research articles for the Zensical site build."""
+"""Stage the research pages and timeline for the Zensical site build."""
 
 import json
 import posixpath
 import re
 from collections import defaultdict
 from pathlib import Path
+
+from build_timeline import main as build_timeline
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
@@ -126,3 +128,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    build_timeline()
