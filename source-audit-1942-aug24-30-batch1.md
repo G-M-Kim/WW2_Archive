@@ -1,0 +1,7 @@
+# 사료감사 — 1942-08-24~30 (forward, 미게시 배치 복구)
+
+- 원격 PR #1 HEAD 0f45b002254d1e0735f8ef8cd6bab01c516672ff; 시작 커서 1942-08-24, 원장 마지막 커서와 일치. 이전 미게시 후보를 먼저 확인하고 정본 1942 연표 EVT-0157 및 기존 SRC-2086까지 중복 ID/사건/URL 검사. 신규 EVT-3645/3646, SRC-2087/2088은 기존 미등록. 후보 원래 NHHC URL은 접근 실패하여 직접 열람 가능한 1943년 ONI 전투서술 원문으로 SRC-2087을 교체함.
+- **8/24 동부 솔로몬 해전:** 미국 해군 정보국 1943년 전투서술 https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/solomon-islands-campaign-ii-savoisland-III-easternsolomons.html 및 NHHC 박물관 설명 https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/wwii/wwii-pacific/wwii-pacific-guadalancanal/naval-battles/eastern-solomons.html 은 8/24 미 항모 사라토가 함재기의 류조 공격·침몰, 일본 항공기의 엔터프라이즈 손상을 설명. 8/23~25 전투 기간과 8/24 항모 교전 구분. 전시 미군 보고의 일본 함정 손실 추정은 실제 손실과 다를 수 있으므로 확정 피해 집계로 사용하지 않음. 일본 측 전투일지 미대조.
+- **8/25 밀른만:** 호주 전쟁기념관 https://www.awm.gov.au/collection/E84334 에서 8/25 밤 일본 해군 육전대 약 2,000명 최초 상륙, 전체 8/25~9/7 전투, 총 상륙 병력 약 2,800명과 연합군 약 9,000명 수비 구분 확인. 호주 참전용사부 https://www.dva.gov.au/media/media-backgrounders/battle-milne-bay 자료는 보조 교차 대상이나 독립 일본군 원전 확인은 미완료. 전체 기간 손실을 최초 상륙 병력에 혼용하지 않음.
+- **미검증·누락:** 8/26~30 중국·동부전선·북아프리카·점령지 민간인·경제 사건은 이번 선별조사에서 독립 확인하지 못함. 기존 RQ-0007/RQ-0003과 WORK_STATE BACKFILL_QUEUE로 후속 추적. 0 신규 RQ는 기존 과제 범위에 포함되기 때문이며 새로운 과제를 수량 확보 목적으로 만들지 않음.
+- **정합성:** 1942 정본·research 미러 동일, 출처 정본·research 미러 동일. 신규 2 EVT / 2 SRC / 0 RQ, 누적 3646/2088/1240. 감사 파일 경로 하나만 원장에 기록. 원문·이미지 대량 복제 없음.
