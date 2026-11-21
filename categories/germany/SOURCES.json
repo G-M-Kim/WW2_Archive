@@ -4133,5 +4133,129 @@
     "accessed_at": "2026-11-21",
     "access_status": "source_checked",
     "rights": "기관 목록 링크만 제공. https://www.archive.nrw.de/historisches-archiv-krupp 는 사전 서면 신청 및 허가 절차를 안내한다."
+  },
+  {
+    "id": "CAT-DE-SRC-0204",
+    "title": "Die Wehrmacht im Dritten Reich. Band III: 3. August 1934 bis 4. Februar 1938",
+    "institution_or_author": "Rudolf Absolon, Schriften des Bundesarchivs 16/III, Harald Boldt Verlag",
+    "publication_date": "1975",
+    "source_type": "secondary: 연방기록원 총서, 당대 육군 공고·인사 공보 인용",
+    "document_or_accession_number": "ISBN 3-7646-1567-2",
+    "locator": "인쇄 pp.153–154 「Heereswaffenamt」, 주 647·656–657, AN 1935 Nr.648 및 HM 1935 p.67",
+    "url": "https://www.bundesarchiv.de/assets/bundesarchiv/de/Publikationen/BArch/Publikation_Schriften_Wehrmacht_Band_III.pdf",
+    "claims_checked": [
+      "1935년 군용 차량 조달부서 Wa B 6의 조직과 군 인수 감독·인수처의 구분"
+    ],
+    "limitations": [
+      "AN·HM 공보 인용과 조직 관계를 열람했다. La.S. 계약서·인수 원장 또는 1936·1937년 통계 원면은 이 절에서 확인되지 않는다."
+    ],
+    "translation": "독일어 조직·공고명을 한국어로 풀고 원문 약칭을 표시했다.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "1975년 발행본 판권 표기. 한국어 사실 요약과 기관 PDF 링크만 제공."
+  },
+  {
+    "id": "CAT-DE-SRC-0205",
+    "title": "Nacimiento y consolidación de las Unidades Acorazadas del Ejército de Tierra español (1921–2022)",
+    "institution_or_author": "Raúl José Martín Palma, Universidad San Pablo-CEU, 박사학위논문",
+    "publication_date": "2023(논문 표지)",
+    "source_type": "secondary: 학위논문, 군 기록과 지역 연구 인용",
+    "document_or_accession_number": "CEU 공개 저장소 bitstream 8d891e30-4424-4471-8e32-2be05ebc4eb9",
+    "locator": "인쇄 pp.206–207, 231–237, 주 309–312·380–381·386–388, Panzer I A/B 선적표 및 p.234 BNE 사진 캡션",
+    "url": "https://dspace.ceu.es/server/api/core/bitstreams/8d891e30-4424-4471-8e32-2be05ebc4eb9/content",
+    "claims_checked": [
+      "1936년 10월의 41대, 11월 선적분 21대의 지휘차 포함, 다섯 선적분 122대 및 운송 경로",
+      "스페인 국민파 전차대대의 11월 1일 교전·12월 1일 제3중대 편성 서술",
+      "스페인 국립도서관 A형 사진 소장번호 GC-CAJA/56/4 21r/1"
+    ],
+    "limitations": [
+      "첫 교전은 브루냐 로요 연구에, 공급 집계는 칸딜과 몰리나 프랑코 등에 의존한다. 지휘차 포함은 스페인 육군 카드와 자료 계통이 겹친다. 사진 장소·일자와 개별 허용 조건은 미확인."
+    ],
+    "translation": "스페인어 본문·캡션의 명칭, 대수 및 날짜를 한국어로 요약했다.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "학위논문 링크만 제공. 사진은 복제하지 않았다."
+  },
+  {
+    "id": "CAT-DE-SRC-0206",
+    "title": "Tanques y blindados en la Guerra Civil española",
+    "institution_or_author": "Lucas Molina Franco, Instituto de Historia y Cultura Militar, Revista de Historia Militar",
+    "publication_date": "2022-07-01, 특별호 I",
+    "source_type": "secondary: 스페인 군사사 기관 학술지",
+    "document_or_accession_number": "ISSN 0482-5748, Biblioteca Virtual de Defensa 레코드 264454",
+    "locator": "인쇄 pp.71–75 §1.A, p.97 「El combate de Seseña」",
+    "url": "https://publicaciones.defensa.gob.es/media/downloadable/files/links/r/h/rhm_extra_i_2022.pdf",
+    "claims_checked": [
+      "초기 A형 41대와 두 번째 선적분 21대, 11월 중순의 Urania 도착 서술",
+      "스페인 국민파 전차대대의 11월 전선 투입, 세세냐 교전의 차량 식별"
+    ],
+    "limitations": [
+      "동일 저자의 연구를 인용하는 학위논문 및 지역 논문과 출처 계통이 겹친다. 항구 원장·차대 목록은 이 부분에서 확인하지 않았다."
+    ],
+    "translation": "스페인어 본문에서 도착, 부대 편성, 전선 투입을 나눠 한국어 요약.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "국방부 가상도서관 레코드 264454의 디지털 사본 표기는 CC BY-NC-ND 4.0. 링크와 한국어 사실 요약만 제공."
+  },
+  {
+    "id": "CAT-DE-SRC-0207",
+    "title": "盧溝橋事變前德國對華軍援與影響",
+    "institution_or_author": "宋啟成(Chi-Chen Sung), 중화민국 국방부 《國防雜誌》 제27권 제3호",
+    "publication_date": "2012, 제27권 제3호",
+    "source_type": "secondary: 국방부 공개 연구지, 후대 종합표",
+    "document_or_accession_number": "국방부 파일 15626",
+    "locator": "인쇄 p.47 본문 주 56·58, 표 4 「Sd.Kfz101 ausf A戰車」 행 및 p.48 표 출처",
+    "url": "https://www.mnd.gov.tw/en/File/15626",
+    "claims_checked": [
+      "중국 국민정부의 독일 A형 36대 주문 서술과 1936년 10월 도착 수량 16대 및 전차대대 제3중대 기재"
+    ],
+    "limitations": [
+      "주문은 《國民革命建軍史》 제2부 pp.1552–1553 인용이다. 표 4는 여러 연구를 병합하며 차대번호·통관·선적 단위 및 해당 행의 독립 원문이 확인되지 않았다."
+    ],
+    "translation": "중국어 訂購·抵華時間·部署를 주문·중국 도착·배치로 구분해 한국어 요약.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "국방부 공개 PDF 링크만 제공. 원표와 삽화는 복제하지 않았다."
+  },
+  {
+    "id": "CAT-DE-SRC-0208",
+    "title": "我武維揚——南屏障的少康部隊",
+    "institution_or_author": "黃盈福·吳慧綺, 중화민국 국방부 《陸軍學術雙月刊》 제58권 제583호",
+    "publication_date": "2022-06",
+    "source_type": "secondary: 기관 부대사",
+    "document_or_accession_number": "DOI 10.6892/AB.202206_58(583).0009",
+    "locator": "인쇄 pp.119–120, 「裝甲兵第1師組織遞嬗」 표의 민국 25년 3월~26년 6월 및 26년 7월~27년 1월 행",
+    "url": "https://www.mnd.gov.tw/NewUpload/202206/p119-128_323055.pdf",
+    "claims_checked": [
+      "난징 팡산 전차교도대대와 독일에서 들여온 크루프 소형 전차가 1937년 7월 장갑병단 확대 개편에 포함"
+    ],
+    "limitations": [
+      "부대사 편성표는 크루프 소형 전차 표기만 제공하며 개별 형식·차대번호·도착 수량·최초 전투를 확정할 수 없다."
+    ],
+    "translation": "중국어 편성표를 국문 요약하고 민국 기년을 양력 연도로 환산했다.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "국방부 공개 PDF 링크와 사실 요약만 제공."
+  },
+  {
+    "id": "CAT-DE-SRC-0209",
+    "title": "La base alemana de carros de combate en las Arguijuelas, Cáceres (1936–1937)",
+    "institution_or_author": "Antonio Rodríguez González, XXXVII Coloquios Históricos de Extremadura 제2권",
+    "publication_date": "2009(2008년 학술대회 발표)",
+    "source_type": "secondary: 지역사 논문, 군사기록 인용",
+    "document_or_accession_number": "ISBN 978-84-692-4898-0; 주 15 및 20의 기록 참조",
+    "locator": "인쇄 pp.666–667 주 15·그림 7, pp.670–671 주 20, pp.679·683",
+    "url": "https://www.chdetrujillo.com/wp-content/uploads/2008/29_la_base_alemana_de_carros_de_combate.pdf",
+    "claims_checked": [
+      "A형 선적 41대·1936년 10월 7일 영해 진입, 카세레스 철도 도착, B계 두 번째 선적의 11월 25일 세비야 도착과 Urania",
+      "도착 자료를 인용한 기록의 구 청구기호 및 11월 마드리드 전선의 독일 분견대 서술"
+    ],
+    "limitations": [
+      "10월 선적은 몰리나·만리케와 곤살레스 알바레스의 인용을 따르며 BA/MA RL 2/v.3187 IV p.8은 원면 미확인. 11월 AGMA 주 20의 원기록도 미열람. 그림 7의 개별 사진 소장번호·권리는 미확인."
+    ],
+    "translation": "스페인어 논문의 탑재·영해 진입·하역·철도 도착을 나눠 국문 요약.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "학술대회 발행처 공개 PDF 링크만 제공."
   }
 ]
