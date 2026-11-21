@@ -1,7 +1,7 @@
 ---
 title: 세계대전 전사(前史) 연표 1905–1938
 status: review-draft
-as_of: 2026-10-25
+as_of: 2026-11-21
 ---
 
 # 백과사전 사건 연표 — 1905~1938
@@ -14,6 +14,10 @@ as_of: 2026-10-25
 
 | ID | 시작일 | 항목 | 분류 | 상태 | 출처 상태 | 출처 |
 |---|---|---|---|---|---|---|
+| EVT-3747 | 1905-01-01 | [경부철도 경성–초량 계통 영업 개시](research/chronology-review-v2/1905-01-01-to-03-events.md#evt-3747) | 교통·전쟁 물류 | 발생 | 문헌대조 | [SRC-2254](chronology-sources-v1.md) 45권 5월 25일 3번째 기사 · [SRC-2255](chronology-sources-v1.md) 해설 · [SRC-2256](chronology-sources-v1.md) 메이지 38년 1월 1일 |
+| EVT-3748 | 1905-01-01 | [일본의 랴오둥반도 해상 봉쇄구역 변경](research/chronology-review-v2/1905-01-01-to-03-events.md#evt-3748) | 해상 봉쇄·외교 | 발표 | 문헌대조 | [SRC-2257](chronology-sources-v1.md) FRUS 1905 문서 539, p.581 · [SRC-2258](chronology-sources-v1.md) 1월 4일 관보 특별호 고시 1호 |
+| EVT-3749 | 1905-01-02 | [러일전쟁 뤼순 요새 항복 규약 성립](research/chronology-review-v2/1905-01-01-to-03-events.md#evt-3749) | 육전·항복 | 발생 | 문헌대조 | [SRC-2250](chronology-sources-v1.md) 관련 자료 9–11 · [SRC-2251](chronology-sources-v1.md) pp.39–42 · [SRC-2253](chronology-sources-v1.md) 1월 2일 · [SRC-2261](chronology-sources-v1.md) 1월 3일 도쿄발 기사 |
+| EVT-3750 | 1905-01-02 | [뤼순의 러시아 구축함이 옌타이·칭다오로 피항](research/chronology-review-v2/1905-01-01-to-03-events.md#evt-3750) | 해전·중립 항구 | 발생 | 문헌대조 | [SRC-2251](chronology-sources-v1.md) p.156 · [SRC-2259](chronology-sources-v1.md) p.10, 1월 2일 일기 · [SRC-2260](chronology-sources-v1.md) 제8장 pp.319–320 부근 |
 | EVT-0001 | 1905-09-05 | 포츠머스 조약과 남사할린(가라후토) 할양 | 조약 | 발생 | 문헌대조 | [SRC-001](chronology-sources-v1.md) · [SRC-036](chronology-sources-v1.md) |
 
 ## 1914년
@@ -156,6 +160,14 @@ as_of: 2026-10-25
 
 | ID | 시작일 | 항목 | 분류 | 상태 | 출처 상태 | 출처 |
 |---|---|---|---|---|---|---|
+| EVT-3751 | 1936-01-01 | [독일 혈통보호법 제3조 시행](research/chronology-review-v2/1936-01-01-to-03-events.md#evt-3751). 나치 인종 기준에 따라 유대인의 45세 미만 여성 가사 고용을 제한 | 박해·법률 | 발생 | 문헌대조 | [SRC-2264](chronology-sources-v1.md) 관보 pp.1146–1147 §§3·7 · [SRC-055](chronology-sources-v1.md) 영문 §§3·7 |
+| EVT-3752 | 1936-01-01 | [에티오피아 황제의 스웨덴 적십자 야전병원 피폭 항의 전보](research/chronology-review-v2/1936-01-01-to-03-events.md#evt-3752). 스웨덴의 초기 대응은 연결 초안 참조 | 외교·전쟁과 의료 | 발생 | 문헌대조 | [SRC-2266](chronology-sources-v1.md) pp.75·94 · [SRC-2267](chronology-sources-v1.md) C.8.M.7.1936.VII · [SRC-2268](chronology-sources-v1.md) 스웨덴 적십자 절 · [SRC-2281](chronology-sources-v1.md) p.25, 주 69–72 |
+| EVT-3755 | 1936-01-01 | [이탈리아-에티오피아 전쟁 남부 전선의 아레리(Areri·Arera) 교전](research/chronology-review-v2/1936-01-01-to-03-events.md#evt-3755). 이탈리아 문서는 1~2일, 니콜의 후대 연표는 5일로 기록 | 전투·식민지 | 발생 | 문헌대조 | [SRC-2273](chronology-sources-v1.md) p.11, Scacchiere somalo · [SRC-2274](chronology-sources-v1.md) 제268호 PDF 2쪽 · [SRC-2275](chronology-sources-v1.md) 발표 89호 및 둘로발 기사 · [SRC-2276](chronology-sources-v1.md) p.52, JBJ.. Areri · [SRC-2277](chronology-sources-v1.md) Chronology, Southern Front |
+| EVT-3757 | 1936-01-01 | [일본 외무성의 화북 경제계획 보도](research/chronology-review-v2/1936-01-01-to-03-events.md#evt-3757). 대중국 문화사업 특별회계법 개정 구상과 농업 사업 제안 | 외교·산업경제 | 보도 | 문헌대조 | [SRC-2285](chronology-sources-v1.md) 1일자 해당 표제 · [SRC-2286](chronology-sources-v1.md) pp.1·153 · [SRC-2287](chronology-sources-v1.md) 쇼와 11년 법률 제13호 부칙 |
+| EVT-3756 | 1936-01-02 | [베이핑·톈진 학생이 남하 항일 선전단 결성](research/chronology-review-v2/1936-01-01-to-03-events.md#evt-3756). 2일 결성 기록, 3일 남하 개시 기록과 분단별 출발일 차이 | 민간인·항일운동 | 발생 | 문헌대조 | [SRC-2278](chronology-sources-v1.md) p.227, §I(3) 및 주 29–32 · [SRC-2279](chronology-sources-v1.md) 「南下扩大宣传」 · [SRC-2280](chronology-sources-v1.md) 1월 초 결성·3일 출발 단락 · [SRC-2288](chronology-sources-v1.md) 문서 474, 1935년 12월 시위 배경 |
+| EVT-3758 | 1936-01-02 | [타이베이–일본 본토 정기 여객 항로 첫 운항](research/chronology-review-v2/1936-01-01-to-03-events.md#evt-3758). 2일 타이베이에서 나하, 3일 후쿠오카 다치아라이에 도착 | 항공·식민지 | 발생 | 문헌대조 | [SRC-2285](chronology-sources-v1.md) 1일자 「台北暹京間」 · [SRC-2289](chronology-sources-v1.md) pp.87·90·93–94 · [SRC-2290](chronology-sources-v1.md) 「內台航線」 및 주 20 · [SRC-2291](chronology-sources-v1.md) §3·C05034292500 |
+| EVT-3753 | 1936-01-03 | [에티오피아, 국제연맹에 양측 전쟁 수행에 대한 중립 조사 요청](research/chronology-review-v2/1936-01-01-to-03-events.md#evt-3753) | 외교·전쟁과 의료 | 요청 | 문헌대조 | [SRC-2266](chronology-sources-v1.md) pp.75·94 · [SRC-2270](chronology-sources-v1.md) 문서 92, p.85 · [SRC-2282](chronology-sources-v1.md) 1월호 pp.6–7, III.1 |
+| EVT-3754 | 1936-01-03 | [루스벨트, 의회 연설에서 중립 정책의 무기 금수와 전쟁 지원 물자의 평시 수출 수준 제시](research/chronology-review-v2/1936-01-01-to-03-events.md#evt-3754) | 외교·산업경제 | 발표 | 문헌대조 | [SRC-2271](chronology-sources-v1.md) H. Doc. 382, p.4 · [SRC-2272](chronology-sources-v1.md) 문서 156, pp.166–168 |
 | EVT-0298 | 1936-02-26 | 일본 육군 청년 장교들의 2·26 사건(쿠데타 시도, 26~29일) | 군사반란 | 발생 | 문헌대조 | [SRC-088](chronology-sources-v1.md) |
 | EVT-0038 | 1936-03-07 | 독일군 라인란트 재무장 진주 | 군사·외교 | 발생 | 문헌대조 | [SRC-004](chronology-sources-v1.md) |
 | EVT-0039 | 1936-07-17 | 스페인 공화국을 상대로 한 군부 반란 시작(스페인 내전 개시) | 전쟁 | 발생 | 문헌대조 | [SRC-079](chronology-sources-v1.md) |

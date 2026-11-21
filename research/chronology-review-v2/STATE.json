@@ -1,0 +1,251 @@
+{
+  "version": 2,
+  "study_range": {
+    "start": "1936-01-01",
+    "end": "1945-12-31",
+    "calendar": "Gregorian"
+  },
+  "window": {
+    "start": "1936-01-01",
+    "end": "1936-01-03",
+    "calendar": "Gregorian",
+    "days": 3,
+    "status": "in_progress",
+    "initial_window_end": "1936-01-07",
+    "selection": "예비 7일에 정본 0건. 1월 1~3일에 세 주제의 정본 후보 및 정부 공문 대조 후보 다섯 건이 집중되었고 4~7일에도 별도 후보가 여러 건 있어 3일로 축소."
+  },
+  "canonical": "chronology-1905-1938.md",
+  "event_draft": "research/chronology-review-v2/1936-01-01-to-03-events.md",
+  "coverage": "research/chronology-review-v2/1936-01-01-to-03-scope.md",
+  "last_saved_batch": "CHR-1936-01-01_03-003",
+  "last_review_date": "2026-11-21",
+  "counts": {
+    "candidates": 14,
+    "new_events": 8,
+    "revised_events": 3,
+    "existing_skipped": 7,
+    "new_sources": 31,
+    "reused_sources": 1,
+    "new_backlog": 10
+  },
+  "events": [
+    "EVT-3751",
+    "EVT-3752",
+    "EVT-3755",
+    "EVT-3757",
+    "EVT-3756",
+    "EVT-3758",
+    "EVT-3753",
+    "EVT-3754"
+  ],
+  "reviewed_cells": [
+    {
+      "theater": "유럽 중부",
+      "topic": "박해·행정",
+      "outcome": "EVT-3751 근거 유지·재검색 생략; 인접 행정·군사 미검사"
+    },
+    {
+      "theater": "동아프리카",
+      "topic": "전쟁과 의료·외교",
+      "outcome": "EVT-3752·3753 보강. RQ-1300·1301은 원면 취득 시 재개"
+    },
+    {
+      "theater": "동아프리카",
+      "topic": "남부 지상전·식민지 병력",
+      "outcome": "EVT-3755 신규; 1~2일 당대 기록과 5일 후대 연표의 차이 RQ-1302"
+    },
+    {
+      "theater": "북미·유럽",
+      "topic": "중립 외교·산업경제",
+      "outcome": "EVT-3754 근거 유지·재검색 생략; 다른 산업 정책 범위 미검사"
+    },
+    {
+      "theater": "유럽 서부·중부",
+      "topic": "외교·해군 군축·국내 정치",
+      "outcome": "독불 회담 후속 확인 RQ-1303; 당대 공보의 1~3일 대조 남음"
+    },
+    {
+      "theater": "중국·동아시아",
+      "topic": "민간 항일운동·외교·군사",
+      "outcome": "EVT-3756 신규 후 12월 시위 배경 보강. RQ-1304 유지. 화북 경제 EVT-3757 신규, 외교·통화 RQ-1305~1307. 중국 지방 공보·군사 문서는 추가 대조 필요."
+    },
+    {
+      "theater": "태평양·동아시아",
+      "topic": "식민지 정기 항공",
+      "outcome": "EVT-3758 신규, 정기 여객과 시험 우편 구분. 이륙 시각 충돌 RQ-1308."
+    },
+    {
+      "theater": "유럽 동·서부",
+      "topic": "산업 외교",
+      "outcome": "3일 프랑스–소련 통상협정 연장 가서명 확인, 전쟁 직접 관련성 RQ-1309."
+    }
+  ],
+  "unverified_candidates": [
+    {
+      "id": "RQ-1300",
+      "candidate_date": "1936-01-02",
+      "status": "근거 부족",
+      "limit": "영국 중개는 런던발 보도, 스웨덴 호외 연구는 다른 연락 경로. 실제 대영 조회 발송·접수일 원공문 미확인",
+      "sources": [
+        "SRC-2269",
+        "SRC-2281"
+      ]
+    },
+    {
+      "id": "RQ-1301",
+      "related_events": [
+        "EVT-3752",
+        "EVT-3753"
+      ],
+      "status": "보완 필요",
+      "limit": "월보 pp.6–7까지 대조. 2월호 원면, 두 서신의 문서번호 대응 및 1월 6일 정오표는 미열람",
+      "sources": [
+        "SRC-2266",
+        "SRC-2267",
+        "SRC-2270",
+        "SRC-2282"
+      ]
+    },
+    {
+      "id": "RQ-1302",
+      "related_events": [
+        "EVT-3755"
+      ],
+      "status": "상충",
+      "limit": "1~2일 당대 기록과 후대 5일자 연표의 대응 및 양측 병력·손실 원장 미확인",
+      "sources": [
+        "SRC-2273",
+        "SRC-2274",
+        "SRC-2275",
+        "SRC-2276",
+        "SRC-2277"
+      ]
+    },
+    {
+      "id": "RQ-1303",
+      "status": "근거 부족",
+      "limit": "1월 3일은 미국 대사 보고 발신일. 프랑스 대사와 히틀러 면담일 미확인",
+      "sources": [
+        "SRC-2283",
+        "SRC-2284"
+      ]
+    },
+    {
+      "id": "RQ-1304",
+      "related_events": [
+        "EVT-3756"
+      ],
+      "status": "보완 필요",
+      "limit": "2일 결성과 3일 남하 개시의 후대 기록 대조. 분단별 출발·인원 기준의 동시대 명부는 미확인",
+      "sources": [
+        "SRC-2278",
+        "SRC-2279",
+        "SRC-2280"
+      ]
+    },
+    {
+      "id": "RQ-1305",
+      "candidate_date": "1936-01-01",
+      "related_events": [
+        "EVT-3757"
+      ],
+      "status": "근거 부족",
+      "limit": "1일자 계획 보도 및 별도 5월 개정법 대조. 외무성 원안·사업별 실제 지출과 착공 미확인.",
+      "sources": [
+        "SRC-2285",
+        "SRC-2286",
+        "SRC-2287",
+        "SRC-2288"
+      ]
+    },
+    {
+      "id": "RQ-1306",
+      "candidate_date": "1936-01-01",
+      "status": "근거 부족",
+      "limit": "상하이 일본 화폐 유통 예정과 12월 31일 반대 진정. 실제 유통 개시 원자료 미확인.",
+      "sources": [
+        "SRC-2285",
+        "SRC-2286"
+      ]
+    },
+    {
+      "id": "RQ-1307",
+      "candidate_date": "1936-01-01",
+      "status": "근거 부족",
+      "limit": "후대 소련–몽골 협정 부인 표기의 당대 원발표 미확인. JACAR B02031801000 원면 403.",
+      "sources": [
+        "SRC-2285",
+        "SRC-2292",
+        "SRC-2293"
+      ]
+    },
+    {
+      "id": "RQ-1308",
+      "candidate_date": "1936-01-02",
+      "related_events": [
+        "EVT-3758"
+      ],
+      "status": "상충",
+      "limit": "타이베이 첫 정기편 현지 이륙 시각 오전 9시·10시 상충. 당시 기사 원면 및 운항일지 필요.",
+      "sources": [
+        "SRC-2289",
+        "SRC-2290",
+        "SRC-2291"
+      ]
+    },
+    {
+      "id": "RQ-1309",
+      "candidate_date": "1936-01-03",
+      "status": "근거 부족",
+      "limit": "프랑스–소련 통상협정 연장 가서명은 확인. 군수·전비와 직접 이어지는 조항·집행 미확인.",
+      "sources": [
+        "SRC-2293",
+        "SRC-2294"
+      ]
+    }
+  ],
+  "next_verification_cell": {
+    "key": "1936-01-01/유럽-서부·중부/관보-외교-산업",
+    "targets": [
+      "프랑스·독일 외교 원문과 영국·스페인 공보의 1~3일 목록을 좁힌 뒤 신문·기존 EVT와 대조",
+      "같은 창에서 동아프리카 북부·중동, 중국 지방 공보·군사, 북미 산업, 대서양·태평양·동남아의 미검사 범위를 이어서 검토",
+      "RQ-1305~1309는 범위표에 적은 원문·운항일지·조달 기록이 확보되면 재개"
+    ]
+  },
+  "later_windows": [
+    {
+      "start": "1936-01-04",
+      "end": "1936-01-07",
+      "status": "예비 선별, 조사 창 미확정",
+      "candidates": [
+        "다게부르 적십자 의료시설 피폭",
+        "베이핑·톈진 일대 일본군 사건",
+        "런던 해군회의",
+        "에티오피아 관련 국제연맹 회람·ICRC 서신",
+        "동아시아 외교",
+        "스페인 의회 해산",
+        "1월 4일 차하얼의 리서우신 부대 관련 주장",
+        "1월 4~6일 송저위안 회담 관련 도착·면담·발신의 구분",
+        "1월 6일 프랑스–소련 통상협정 연장서(군수·전비 관련성 RQ-1309 조건부)"
+      ]
+    }
+  ],
+  "out_of_scope_batches": [
+    {
+      "batch": "CHR-1905-01-01_03-001",
+      "window_start": "1905-01-01",
+      "window_end": "1905-01-03",
+      "coverage": "research/chronology-review-v2/1905-01-01-to-03-scope.md",
+      "reason": "사용자가 조사 범위를 1936-01-01~1945-12-31로 한정함. 저장된 원고와 ID는 보존하고 이 배치에서 재개하지 않는다."
+    }
+  ],
+  "last_batch_counts": {
+    "candidates": 6,
+    "new_events": 2,
+    "revised_events": 1,
+    "existing_skipped": 5,
+    "new_sources": 10,
+    "new_backlog": 5,
+    "revised_backlog": 0
+  }
+}
