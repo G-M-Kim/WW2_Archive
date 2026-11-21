@@ -6,15 +6,15 @@
 
 | 번호 | 항목 | 첫 검사 상태 | 예정 원고 파일 |
 |---|---|---|---|
-| 1 | 전차장비, 무장, 성능 | partial | [01-tanks.md](01-tanks.md) |
-| 2 | 전차 제외 기갑장비, 무장, 성능 | partial | [02-other-armored-vehicles.md](02-other-armored-vehicles.md) |
-| 3 | 함선 및 함정, 무장, 성능 | partial | [03-naval-vessels.md](03-naval-vessels.md) |
-| 4 | 항공기, 무장, 성능 | partial | [04-aircraft.md](04-aircraft.md) |
-| 5 | 보병 무기 및 장비 | partial | [05-infantry-equipment.md](05-infantry-equipment.md) |
-| 6 | WW2에서 빼놓을 수 없는 장비 | partial | [06-essential-technology.md](06-essential-technology.md) |
-| 7 | 유명한 전투 참여 인물 | partial | [07-combat-personnel.md](07-combat-personnel.md) |
-| 8 | 유명한 정치 인물 | partial | [08-political-personnel.md](08-political-personnel.md) |
-| 9 | 유명한 학자·연구자 | partial | [09-scientific-personnel.md](09-scientific-personnel.md) |
+| 01 | 전차장비, 무장, 성능 | partial | [01-tanks.md](01-tanks.md) |
+| 02 | 전차 제외 기갑장비, 무장, 성능 | partial | [02-other-armored-vehicles.md](02-other-armored-vehicles.md) |
+| 03 | 함선 및 함정, 무장, 성능 | partial | [03-naval-vessels.md](03-naval-vessels.md) |
+| 04 | 항공기, 무장, 성능 | partial | [04-aircraft.md](04-aircraft.md) |
+| 05 | 보병 무기 및 장비 | partial | [05-infantry-equipment.md](05-infantry-equipment.md) |
+| 06 | WW2에서 빼놓을 수 없는 장비 | partial | [06-essential-technology.md](06-essential-technology.md) |
+| 07 | 유명한 전투 참여 인물 | partial | [07-combat-personnel.md](07-combat-personnel.md) |
+| 08 | 유명한 정치 인물 | partial | [08-political-personnel.md](08-political-personnel.md) |
+| 09 | 유명한 학자·연구자 | partial | [09-scientific-personnel.md](09-scientific-personnel.md) |
 | 10 | 유명 연설의 영상자료 | partial | [10-speech-videos.md](10-speech-videos.md) |
 | 11 | 유명 군수기업 | partial | [11-military-industry.md](11-military-industry.md) |
 | 12 | 당시 인구 | partial | [12-population.md](12-population.md) |
@@ -30,4 +30,12 @@
 
 16~19번의 기준일·원자료·규모 환산은 [시설 평가 기준](../INFRASTRUCTURE_RATING.md)을 따른다. 점수는 사료 자체가 아닌 출처 기반 분석치다.
 
-**보충 조사** · [제2차 세계대전 육군 교리](army-doctrine.md) · [제2차 세계대전 해군 교리](naval-doctrine.md) · [제2차 세계대전 공군 교리](air-doctrine.md)
+## 보충 조사
+
+| 번호 | 항목 |
+| --- | --- |
+| 20 | [육군 교리](army-doctrine.md) |
+| 21 | [해군 교리](naval-doctrine.md) |
+| 22 | [공군 교리](air-doctrine.md) |
+
+[01번 전차 보충 검토 · Panzer I](../review-v2/DE-01-Panzer-I.md)

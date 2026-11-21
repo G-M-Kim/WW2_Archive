@@ -6,15 +6,15 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
-from build_timeline import main as build_timeline
+from build_timeline import OUTSIDE, chronology_bucket, chronology_files, main as build_timeline
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
 REPO_URL = "https://github.com/G-M-Kim/WW2_Archive/blob/main"
 DOCTRINES = {
-    "army-doctrine.md": "육군 교리",
-    "naval-doctrine.md": "해군 교리",
-    "air-doctrine.md": "공군 교리",
+    "army-doctrine.md": (20, "육군 교리"),
+    "naval-doctrine.md": (21, "해군 교리"),
+    "air-doctrine.md": (22, "공군 교리"),
 }
 STATUS_LABELS = {"reviewed": "첫 조사 검토", "partial": "부분 조사", "blocked": "자료 확인 제한"}
 LOCAL_LINK = re.compile(r"\]\(((?:[\w.-]+/)*[\w.-]+\.(?:md|json))(#[^\s)]+)?\)")
@@ -49,10 +49,46 @@ def derive_page(source, destination, pages, banner):
     return rendered
 
 
+def stage_chronology(events):
+    pages = {
+        "chronology/README.md": Path("chronology/index.md"),
+        "chronology/references.md": Path("chronology/references.md"),
+    }
+    pages.update({
+        path.relative_to(ROOT).as_posix(): path.relative_to(ROOT)
+        for path in chronology_files(ROOT)
+    })
+    counts = defaultdict(int)
+    for when, *_ in events.values():
+        counts[chronology_bucket(when)] += 1
+
+    for source, destination in pages.items():
+        markdown = derive_page(Path(source), destination, pages, None)
+        if destination.name == "index.md":
+            markdown = re.sub(
+                r"\[(\d+월)\]\((\d{4}-\d{2})\.md\)",
+                lambda match: f"[{match[1]} ({counts[match[2]]:,})]({match[2]}.md)",
+                markdown,
+            )
+            markdown = markdown.replace("[기간 밖 사건]", f"[기간 밖 사건 ({counts[OUTSIDE]:,}건)]")
+        elif destination.name != "references.md":
+            markdown = re.sub(r"(?m)^\| (EVT-\d{4}) \|",
+                              r"| [\1](../timeline/index.html#\1) |", markdown)
+        target = DOCS / destination
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_text(markdown, encoding="utf-8")
+    print(f"Staged {len(pages)} Markdown pages under docs/chronology.")
+
+
 def main():
     queue = json.loads((ROOT / "categories/QUEUE.json").read_text(encoding="utf-8"))
     countries = defaultdict(list)
-    pages = {"categories/INFRASTRUCTURE_RATING.md": Path("categories/facility-rating.md")}
+    pages = {
+        "categories/README.md": Path("categories/index.md"),
+        "categories/INDEX.md": Path("categories/by-number.md"),
+        "categories/INFRASTRUCTURE_RATING.md": Path("categories/facility-rating.md"),
+        "categories/review-v2/DE-01-Panzer-I.md": Path("categories/review-v2/DE-01-Panzer-I.md"),
+    }
     banners = {}
     for job in queue:
         status = job["status"]
@@ -82,15 +118,16 @@ def main():
         for job in jobs:
             name = Path(job["article_path"]).name
             status = STATUS_LABELS[job["status"]]
-            index.append(f"| {job['category_number']} | [{job['category']}]({name}) | {status} |")
+            index.append(f"| {job['category_number']:02d} | [{job['category']}]({name}) | {status} |")
 
         doctrines = [name for name in DOCTRINES if (ROOT / path / name).is_file()]
-        if doctrines:
-            index.extend(["", "## 보충 조사", ""])
         for name in doctrines:
+            number, title = DOCTRINES[name]
             article = path / name
             pages[article.as_posix()] = article
-            index.append(f"- [{DOCTRINES[name]}]({name})")
+            index.append(f"| {number:02d} | [{title}]({name}) | 보충 교리 |")
+        if folder == "germany":
+            index.extend(["", "[01번 전차 보충 검토 · Panzer I](../review-v2/DE-01-Panzer-I.md)"])
         doctrine_count += len(doctrines)
         index.extend([
             "",
@@ -105,13 +142,13 @@ def main():
         "장비, 인물, 산업, 인구, 영토와 주요 시설을 국가별로 찾아볼 수 있습니다.",
         "원고는 첫 조사에서 확인한 범위를 담고 있으며, 남은 확인 과제는 각 문서에 표시했습니다.",
         "",
-        "| 국가 | 카테고리 원고 |",
+        "[번호별 7개국 자료 비교](by-number.md) · [시설 규모 평가 기준](facility-rating.md)",
+        "",
+        "| 국가 | 01~19번 원고 |",
         "| --- | --- |",
         *country_rows,
         "",
         f"카테고리 원고 **{sum(map(len, countries.values()))}개**와 보충 교리 문서 **{doctrine_count}개**를 수록했습니다.",
-        "",
-        "[시설 규모 평가 기준](facility-rating.md)",
     ]
     output[Path("categories/index.md")] = "\n".join(descriptions) + "\n"
 
@@ -128,4 +165,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    build_timeline()
+    stage_chronology(build_timeline()["events"])

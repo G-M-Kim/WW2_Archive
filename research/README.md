@@ -1,5 +1,7 @@
 # 현재 연구 안내
 
+[월별 사건 연표 정본](../chronology/README.md) · [출처 정본](../chronology-sources-v1.md) · [백로그 정본](../research-backlog.md)
+
 [작업 상태 정본](../WORK_STATE.md) · [진행 원장](PROGRESS_LEDGER.md) · [운영 수칙](RESEARCH_PROTOCOL.md) · [병합 검토 이력](../merge-readiness.md)
 
 아래 내용은 과거 조사 기록이다.

@@ -84,7 +84,11 @@ function button(parent, label, work) {
 }
 
 function canonical(path, line) {
-  return REPO + data.revision + "/" + encodeURIComponent(path) + "#L" + line;
+  return REPO + data.revision + "/" + path.split("/").map(encodeURIComponent).join("/") + "#L" + line;
+}
+
+function monthRecord(page) {
+  return "../chronology/" + encodeURIComponent(page) + "/";
 }
 
 function selectDay(day, eventId) {
@@ -159,7 +163,15 @@ function eventRow(id, approximate = false) {
   } else {
     body.append(node("p", "현재 원고에 연결된 출처가 없습니다."));
   }
-  body.append(link("GitHub 연표 원고에서 보기 ↗", canonical(file, line), true));
+  const links = node("p");
+  const page = file.split("/").at(-1).replace(/\.md$/, "");
+  const within = /^\d{4}-\d{2}$/.test(page);
+  links.append(
+    link(within ? "위키 월별 연표" : "위키 범위 밖 연표", monthRecord(page)),
+    document.createTextNode(" · "),
+    link("GitHub 연표 원고에서 보기 ↗", canonical(file, line), true)
+  );
+  body.append(links);
   details.append(summary, body);
   if (state.selected === id) details.open = true;
   return details;
@@ -263,6 +275,11 @@ function render() {
   const year = state.day.slice(0, 4);
   ui.year.value = year;
   ui.date.value = state.day;
+  const month = state.day.slice(0, 7);
+  ui.month.value = month.slice(5);
+  const page = data.monthlyPages.includes(month) ? month : data.monthlyPages.at(-1);
+  ui["month-record"].href = monthRecord(page);
+  ui["month-record"].textContent = page === month ? year + "년 " + Number(ui.month.value) + "월 연표 보기" : "범위 밖 연표 보기";
   showYear(year, first);
   ui["week-heading"].textContent = weekLabel(first);
   const raw = data.weeks[first] || [];
@@ -334,6 +351,9 @@ function setup(index) {
   ui.date.min = firstYear + "-01-01";
   ui.date.max = lastYear + "-12-31";
   for (const year of years) ui.year.append(new Option(year + "년", year));
+  for (let month = 1; month <= 12; month++) {
+    ui.month.append(new Option(month + "월", String(month).padStart(2, "0")));
+  }
   ui["total-events"].textContent = COUNT.format(entries.length);
   ui["total-weeks"].textContent = COUNT.format(Object.keys(data.weeks).length);
   ui["total-checked"].textContent = COUNT.format(stats(entries)[0]);
@@ -342,6 +362,7 @@ function setup(index) {
     const populated = Object.keys(data.weeks).find(key => key.startsWith(year));
     selectDay(populated || year + "-01-01");
   });
+  ui.month.addEventListener("change", () => selectDay(ui.year.value + "-" + ui.month.value + "-01"));
   ui.date.addEventListener("change", () => {
     if (ui.date.value && ui.date.validity.valid) selectDay(ui.date.value);
   });
@@ -387,5 +408,5 @@ fetch("data.json")
   .catch(() => {
     ui.interactive.hidden = true;
     ui.loading.hidden = false;
-    ui.loading.replaceChildren(document.createTextNode("연표 데이터를 불러올 수 없습니다. "), link("시기별 연표 원고 열기", "../articles/"));
+    ui.loading.replaceChildren(document.createTextNode("연표 데이터를 불러올 수 없습니다. "), link("월별 연표 열기", "../chronology/"));
   });

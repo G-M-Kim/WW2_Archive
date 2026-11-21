@@ -20,5 +20,5 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Validate IDs, dates, references and mirrored tables
+      - name: Validate dates, IDs, references and research mirrors
         run: python validate_index.py

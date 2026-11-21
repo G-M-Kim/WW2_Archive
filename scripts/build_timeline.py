@@ -11,6 +11,10 @@ from urllib.parse import urlsplit
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "docs" / "timeline"
 SOURCE_FILE = "chronology-sources-v1.md"
+FIRST_YEAR, LAST_YEAR = 1936, 1945
+MONTHS = tuple(f"{year}-{month:02d}" for year in range(FIRST_YEAR, LAST_YEAR + 1)
+               for month in range(1, 13))
+OUTSIDE = f"outside-{MONTHS[0]}_{MONTHS[-1]}"
 RECORD = re.compile(r"^\|\s*((?:EVT|SRC)-\d+)\s*\|")
 LINK = re.compile(r"https://[^\s<>|]+")
 SOURCES = re.compile(r"\bSRC-\d{3,}\b")
@@ -52,23 +56,40 @@ def load_sources(root):
     return entries
 
 
+def chronology_bucket(when):
+    if not FIRST_YEAR <= int(when[:4]) <= LAST_YEAR:
+        return OUTSIDE
+    # Year-only dates belong to the January document and retain their precision.
+    return (when + "-01")[:7]
+
+
+def chronology_files(root):
+    directory = root / "chronology"
+    expected = {f"{name}.md" for name in (*MONTHS, OUTSIDE)}
+    actual = {path.name for path in directory.glob("*.md")} - {"README.md", "references.md"}
+    if expected != actual:
+        raise ValueError(
+            f"Chronology files: missing {sorted(expected - actual)}, unexpected {sorted(actual - expected)}"
+        )
+    return [directory / f"{name}.md" for name in (*MONTHS, OUTSIDE)]
+
+
 def read_events(root, available_sources):
-    paths = sorted(root.glob("chronology-[0-9]*.md"))
-    if not paths:
-        raise ValueError("No canonical chronology files")
     events = {}
-    for path in paths:
+    for path in chronology_files(root):
         for line, (key, when, title, category, state, evidence, source_text) in table_rows(path, "EVT-", 7):
             if key in events:
                 raise ValueError(f"{path.name}:{line}: duplicate {key}")
             date_key(when)
+            if chronology_bucket(when) != path.stem:
+                raise ValueError(f"{path.name}:{line}: date {when} belongs to {chronology_bucket(when)}")
             if evidence not in EVIDENCE:
                 raise ValueError(f"{path.name}:{line}: unrecognized evidence status {evidence}")
             sources = list(dict.fromkeys(SOURCES.findall(source_text)))
             unknown = set(sources) - available_sources.keys()
             if unknown:
                 raise ValueError(f"{path.name}:{line}: missing registered sources {sorted(unknown)}")
-            events[key] = [when, plain(title), plain(category), plain(state), EVIDENCE[evidence], sources, path.name, line]
+            events[key] = [when, plain(title), plain(category), plain(state), EVIDENCE[evidence], sources, path.relative_to(root).as_posix(), line]
     if not events:
         raise ValueError("No chronology events")
     return dict(sorted(events.items(), key=lambda record: (record[1][0], record[1][7])))
@@ -106,6 +127,7 @@ def make_index(root, output):
     return {
         "events": events, "weeks": weeks, "approximate": approximate, "years": years,
         "sources": sources, "sourceFile": SOURCE_FILE, "media": media, "revision": revision,
+        "monthlyPages": [*MONTHS, OUTSIDE],
     }
 
 
@@ -114,6 +136,7 @@ def main():
     target = OUT / "data.json"
     target.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     print(f"Staged timeline: {len(data['events'])} events, {len(data['weeks'])} occupied weeks, {len(data['media'])} media records.")
+    return data
 
 
 if __name__ == "__main__":

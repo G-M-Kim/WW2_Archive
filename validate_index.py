@@ -3,17 +3,19 @@
 from __future__ import annotations
 
 from collections import Counter
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 import re
 import sys
+
+from scripts.build_timeline import chronology_bucket, chronology_files
 
 ROOT = Path(__file__).resolve().parent
 SOURCES = ROOT / "chronology-sources-v1.md"
 DATE_RE = re.compile(r"^\d{4}(?:-\d{2}(?:-\d{2})?)?$")
 EVENT_RE = re.compile(r"^EVT-\d{4}$")
 SOURCE_RE = re.compile(r"^SRC-\d{3,}$")
-LINK_RE = re.compile(r"\[(SRC-\d{3,})\]\(chronology-sources-v1\.md\)")
+LINK_RE = re.compile(r"\[(SRC-\d{3,})\]\(\.\./chronology-sources-v1\.md\)")
 STATUSES = {"문헌대조", "링크등록", "미등록"}
 
 
@@ -47,9 +49,11 @@ def main() -> int:
     if len(set(source_ids)) != len(source_ids):
         errors.append(f"duplicate source IDs: {dict((k,v) for k,v in Counter(source_ids).items() if v>1)}")
 
-    event_files = sorted(ROOT.glob("chronology-[0-9]*.md"))
-    if not event_files:
-        errors.append("no chronology files found")
+    try:
+        event_files = chronology_files(ROOT)
+    except ValueError as issue:
+        errors.append(str(issue))
+        event_files = []
 
     stats = Counter()
     for file in event_files:
@@ -60,7 +64,6 @@ def main() -> int:
             year_match = re.fullmatch(r"## (\d{4})년", line.strip())
             if year_match:
                 current_year = year_match.group(1)
-                prev_date = None
                 seen_table_header = False
             if line.startswith("| ID |"):
                 seen_table_header = True
@@ -88,6 +91,8 @@ def main() -> int:
                 date.fromisoformat(normalized(when))
             except ValueError:
                 errors.append(f"{file.name}:{n}: impossible calendar date {when}")
+            if chronology_bucket(when) != file.stem:
+                errors.append(f"{file.name}:{n}: {when} belongs in {chronology_bucket(when)}.md")
             if current_year != when[:4]:
                 errors.append(f"{file.name}:{n}: year heading mismatch {when}")
             if prev_date is not None and normalized(when) < prev_date:
@@ -140,10 +145,8 @@ def main() -> int:
         if not backlog_ids:
             errors.append("research backlog contains no tasks")
 
-    # Root tables are canonical; research/ copies must not diverge silently.
-    # The 2026-11-07 audit found different recent IDs in each location.
+    # Event data lives in chronology/. The source and backlog mirrors remain in research/.
     mirror_files = (
-        "chronology-1939-1941.md",
         "chronology-sources-v1.md",
         "research-backlog.md",
     )
@@ -186,7 +189,7 @@ def main() -> int:
                         date.fromisoformat(value)
                     except ValueError:
                         errors.append(f"PROGRESS_LEDGER.md:{n}: bad {name} date {value}")
-                if mode not in {"forward", "backfill", "recovery"}:
+                if mode not in {"forward", "backfill", "recovery", "reconcile"}:
                     errors.append(f"PROGRESS_LEDGER.md:{n}: bad mode {mode}")
                 match = re.fullmatch(r"(\d{4}-\d{2}-\d{2})\.\.(\d{4}-\d{2}-\d{2})", period)
                 if not match:
@@ -202,14 +205,13 @@ def main() -> int:
                         errors.append(f"PROGRESS_LEDGER.md:{n}: forward period must start at cursor")
                     if match:
                         try:
-                            from datetime import timedelta
                             next_date = (date.fromisoformat(match.group(2)) + timedelta(days=1)).isoformat()
                             if after != next_date:
                                 errors.append(f"PROGRESS_LEDGER.md:{n}: after cursor must equal period end + 1")
                         except ValueError:
                             pass
-                elif mode == "backfill" and before != after:
-                    errors.append(f"PROGRESS_LEDGER.md:{n}: backfill must not move forward cursor")
+                elif mode in {"backfill", "reconcile"} and before != after:
+                    errors.append(f"PROGRESS_LEDGER.md:{n}: {mode} must preserve the forward cursor")
                 if not re.fullmatch(r"\d+/\d+/\d+", delta):
                     errors.append(f"PROGRESS_LEDGER.md:{n}: bad new-EVT/SRC/RQ triple")
                 if not re.fullmatch(r"\d+/\d+/\d+", totals):
@@ -252,6 +254,9 @@ def main() -> int:
             if len(re.findall(r"(?m)^FORWARD_CURSOR:", state_text)) != 1:
                 errors.append("WORK_STATE.md: duplicate active FORWARD_CURSOR lines")
             ledger_total = rows[-1][7]
+            state_total = re.findall(r"(?m)^TOTAL_EVT_SRC_RQ:\s*(\d+/\d+/\d+)\s*$", state_text)
+            if state_total != [ledger_total]:
+                errors.append(f"WORK_STATE.md: totals differ from ledger latest {ledger_total}")
             if ledger_total != f"{len(event_ids)}/{len(source_ids)}/{len(backlog_ids)}":
                 errors.append(f"PROGRESS_LEDGER.md: totals mismatch: {ledger_total} vs actual {len(event_ids)}/{len(source_ids)}/{len(backlog_ids)}")
             if any(rows[i][2] == "backfill" and rows[i-1][2] == "backfill" for i in range(1, len(rows))):
