@@ -1,7 +1,7 @@
 ---
 title: 세계대전 전사(前史) 연표 1905–1938
 status: review-draft
-as_of: 2026-10-25
+as_of: 2026-11-21
 ---
 
 # 백과사전 사건 연표 — 1905~1938
@@ -14,6 +14,10 @@ as_of: 2026-10-25
 
 | ID | 시작일 | 항목 | 분류 | 상태 | 출처 상태 | 출처 |
 |---|---|---|---|---|---|---|
+| EVT-3747 | 1905-01-01 | [경부철도 경성–초량 계통 영업 개시](research/chronology-review-v2/1905-01-01-to-03-events.md#evt-3747) | 교통·전쟁 물류 | 발생 | 문헌대조 | [SRC-2254](chronology-sources-v1.md) 45권 5월 25일 3번째 기사 · [SRC-2255](chronology-sources-v1.md) 해설 · [SRC-2256](chronology-sources-v1.md) 메이지 38년 1월 1일 |
+| EVT-3748 | 1905-01-01 | [일본의 랴오둥반도 해상 봉쇄구역 변경](research/chronology-review-v2/1905-01-01-to-03-events.md#evt-3748) | 해상 봉쇄·외교 | 발표 | 문헌대조 | [SRC-2257](chronology-sources-v1.md) FRUS 1905 문서 539, p.581 · [SRC-2258](chronology-sources-v1.md) 1월 4일 관보 특별호 고시 1호 |
+| EVT-3749 | 1905-01-02 | [러일전쟁 뤼순 요새 항복 규약 성립](research/chronology-review-v2/1905-01-01-to-03-events.md#evt-3749) | 육전·항복 | 발생 | 문헌대조 | [SRC-2250](chronology-sources-v1.md) 관련 자료 9–11 · [SRC-2251](chronology-sources-v1.md) pp.39–42 · [SRC-2253](chronology-sources-v1.md) 1월 2일 · [SRC-2261](chronology-sources-v1.md) 1월 3일 도쿄발 기사 |
+| EVT-3750 | 1905-01-02 | [뤼순의 러시아 구축함이 옌타이·칭다오로 피항](research/chronology-review-v2/1905-01-01-to-03-events.md#evt-3750) | 해전·중립 항구 | 발생 | 문헌대조 | [SRC-2251](chronology-sources-v1.md) p.156 · [SRC-2259](chronology-sources-v1.md) p.10, 1월 2일 일기 · [SRC-2260](chronology-sources-v1.md) 제8장 pp.319–320 부근 |
 | EVT-0001 | 1905-09-05 | 포츠머스 조약과 남사할린(가라후토) 할양 | 조약 | 발생 | 문헌대조 | [SRC-001](chronology-sources-v1.md) · [SRC-036](chronology-sources-v1.md) |
 
 ## 1914년
