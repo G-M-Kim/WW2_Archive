@@ -2603,3 +2603,5 @@ as_of: 2026-11-04
 
 | SRC-2247 | *Приказ Верховного Главнокомандующего об освобождении Одессы. 10 апреля 1944 г.* / 소련 최고사령관 1944-04-10 명령; 프라우다 제88호 1944-04-12 게재 서지 | 1차(당대 공식 발표문 서지) | 프라우다 제88호 | https://www.newspapers.historyrussia.org/ru/nodes/276946-prikaz-verhovnogo-glavnokomanduyuschego-ob-osvobozhdenii-odessy-10-aprelya-1944-g | 명령일·신문 게재일 구분. 현장 시각 독립 미확인, 이미지 재배포 금지 |
 | SRC-2248 | *Orders of the Day, April 11–17, 1944* / 소련 최고사령관 1944-04-11 케르치 점령 명령의 영어 번역 재수록 | 1차 번역 전재(공식 발표) | 1944-04-11 케르치 명령 | https://www.revolutionarydemocracy.org/Stalin/od0411to041744.htm | 소련 발표의 번역 전재이며 독립된 현장 검증 아님. 독일군 작전일지·원본 미대조 |
+
+| SRC-2249 | *China Defensive* / U.S. Army Center of Military History, WWII Campaigns / 후대 공식 전사 | 2차(미 육군 공식 전사) | CMH Pub 72-38, 이치고 작전 개시일 1944-04-19 기술(웹 검색 발췌로 확인) | https://history.army.mil/portals/143/Images/Publications/catalog/72-38.pdf | 미 육군 공식 역사서이지만 본 PDF 원문 서버 403으로 전체 페이지 직접 열람 불가. 발췌의 4/19 서술만 확인, 4/17의 현장 이동·일본군 원시 작전일지 및 중국 당대 기록 미확인. 원문·사진 재배포 금지 |
