@@ -17,20 +17,22 @@
   "canonical": "chronology-1905-1938.md",
   "event_draft": "research/chronology-review-v2/1936-01-01-to-03-events.md",
   "coverage": "research/chronology-review-v2/1936-01-01-to-03-scope.md",
-  "last_saved_batch": "CHR-1936-01-01_03-001",
+  "last_saved_batch": "CHR-1936-01-01_03-002",
   "last_review_date": "2026-11-21",
   "counts": {
-    "candidates": 5,
-    "new_events": 4,
-    "revised_events": 0,
-    "existing_skipped": 0,
-    "new_sources": 9,
+    "candidates": 8,
+    "new_events": 6,
+    "revised_events": 2,
+    "existing_skipped": 2,
+    "new_sources": 21,
     "reused_sources": 1,
-    "new_backlog": 2
+    "new_backlog": 5
   },
   "events": [
     "EVT-3751",
     "EVT-3752",
+    "EVT-3755",
+    "EVT-3756",
     "EVT-3753",
     "EVT-3754"
   ],
@@ -38,27 +40,32 @@
     {
       "theater": "유럽 중부",
       "topic": "박해·행정",
-      "outcome": "EVT-3751 신규; 같은 창의 다른 행정·군사 후보는 확인 필요"
+      "outcome": "EVT-3751 근거 유지·재검색 생략; 인접 행정·군사 미검사"
     },
     {
       "theater": "동아프리카",
       "topic": "전쟁과 의료·외교",
-      "outcome": "EVT-3752·3753 신규; RQ-1300·1301 대조 대기"
+      "outcome": "EVT-3752·3753 보강. RQ-1300·1301은 원면 취득 시 재개"
+    },
+    {
+      "theater": "동아프리카",
+      "topic": "남부 지상전·식민지 병력",
+      "outcome": "EVT-3755 신규; 1~2일 당대 기록과 5일 후대 연표의 차이 RQ-1302"
     },
     {
       "theater": "북미·유럽",
       "topic": "중립 외교·산업경제",
-      "outcome": "EVT-3754 신규; 다른 산업 정책 공고 범위를 추가 확인"
+      "outcome": "EVT-3754 근거 유지·재검색 생략; 다른 산업 정책 범위 미검사"
     },
     {
-      "theater": "유럽 서부",
-      "topic": "해군 군축·국내 정치",
-      "outcome": "예비 선별; 당대 공보·기록의 1~3일 대조 남음"
+      "theater": "유럽 서부·중부",
+      "topic": "외교·해군 군축·국내 정치",
+      "outcome": "독불 회담 후속 확인 RQ-1303; 당대 공보의 1~3일 대조 남음"
     },
     {
       "theater": "중국·동아시아",
-      "topic": "외교·군사",
-      "outcome": "예비 선별; 중국·일본 당대 기록과 지역 전사의 1~3일 대조 남음"
+      "topic": "민간 항일운동·외교·군사",
+      "outcome": "EVT-3756 신규; 분단별 기록 RQ-1304, 당대 화북·만몽 기록 대조 남음"
     }
   ],
   "unverified_candidates": [
@@ -66,9 +73,10 @@
       "id": "RQ-1300",
       "candidate_date": "1936-01-02",
       "status": "근거 부족",
-      "limit": "런던발 보도일과 조회 공문의 발송·접수일을 분리해야 함",
+      "limit": "영국 중개는 런던발 보도, 스웨덴 호외 연구는 다른 연락 경로. 실제 대영 조회 발송·접수일 원공문 미확인",
       "sources": [
-        "SRC-2269"
+        "SRC-2269",
+        "SRC-2281"
       ]
     },
     {
@@ -78,20 +86,58 @@
         "EVT-3753"
       ],
       "status": "보완 필요",
-      "limit": "국제연맹 2월호 원면 및 1월 6일 정오표의 수정 내역 미확인",
+      "limit": "월보 pp.6–7까지 대조. 2월호 원면, 두 서신의 문서번호 대응 및 1월 6일 정오표는 미열람",
       "sources": [
         "SRC-2266",
         "SRC-2267",
-        "SRC-2270"
+        "SRC-2270",
+        "SRC-2282"
+      ]
+    },
+    {
+      "id": "RQ-1302",
+      "related_events": [
+        "EVT-3755"
+      ],
+      "status": "상충",
+      "limit": "1~2일 당대 기록과 후대 5일자 연표의 대응 및 양측 병력·손실 원장 미확인",
+      "sources": [
+        "SRC-2273",
+        "SRC-2274",
+        "SRC-2275",
+        "SRC-2276",
+        "SRC-2277"
+      ]
+    },
+    {
+      "id": "RQ-1303",
+      "status": "근거 부족",
+      "limit": "1월 3일은 미국 대사 보고 발신일. 프랑스 대사와 히틀러 면담일 미확인",
+      "sources": [
+        "SRC-2283",
+        "SRC-2284"
+      ]
+    },
+    {
+      "id": "RQ-1304",
+      "related_events": [
+        "EVT-3756"
+      ],
+      "status": "보완 필요",
+      "limit": "2일 결성과 3일 남하 개시의 후대 기록 대조. 분단별 출발·인원 기준의 동시대 명부는 미확인",
+      "sources": [
+        "SRC-2278",
+        "SRC-2279",
+        "SRC-2280"
       ]
     }
   ],
   "next_verification_cell": {
-    "key": "1936-01-02/동아프리카/스웨덴-영국-공문",
+    "key": "1936-01-01/중국·동아시아/화북-만몽-당대문서",
     "targets": [
-      "RQ-1300: 영국 국립기록원 FO 371 Abyssinia 1936년 1월과 스웨덴 Riksarkivet 외무부의 번호·발신일·접수일 확인",
-      "RQ-1301: 국제연맹 Official Journal 1936년 2월호 pp.240·242, C.8.M.7.1936.VII 및 C.12.M.11.1936.VII와 정오표 확인",
-      "동일 창의 미검사 전역·주제는 범위표에서 이어서 확인"
+      "1~3일의 일본 외무성 대중국 관계 문서 상권 화북 문제 절과 중국 측 공보 및 당일자 자료에서 외교·군사 후보부터 대조",
+      "JACAR B02031801000 직접 링크가 403을 반환했다. 공개 대체판에서 같은 날짜의 개별 문서가 확인되는지 점검",
+      "유럽 공보, 동아프리카 북부·중동 및 그 밖의 미검사 주제는 같은 날짜 창에서 이어서 검토"
     ]
   },
   "later_windows": [
@@ -101,6 +147,7 @@
       "status": "예비 선별, 조사 창 미확정",
       "candidates": [
         "다게부르 적십자 의료시설 피폭",
+        "베이핑·톈진 일대 일본군 사건",
         "런던 해군회의",
         "에티오피아 관련 국제연맹 회람·ICRC 서신",
         "동아시아 외교",
@@ -116,5 +163,13 @@
       "coverage": "research/chronology-review-v2/1905-01-01-to-03-scope.md",
       "reason": "사용자가 조사 범위를 1936-01-01~1945-12-31로 한정함. 저장된 원고와 ID는 보존하고 이 배치에서 재개하지 않는다."
     }
-  ]
+  ],
+  "last_batch_counts": {
+    "new_events": 2,
+    "revised_events": 2,
+    "existing_skipped": 2,
+    "new_sources": 12,
+    "new_backlog": 3,
+    "revised_backlog": 2
+  }
 }
