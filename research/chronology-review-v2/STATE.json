@@ -17,22 +17,24 @@
   "canonical": "chronology-1905-1938.md",
   "event_draft": "research/chronology-review-v2/1936-01-01-to-03-events.md",
   "coverage": "research/chronology-review-v2/1936-01-01-to-03-scope.md",
-  "last_saved_batch": "CHR-1936-01-01_03-002",
+  "last_saved_batch": "CHR-1936-01-01_03-003",
   "last_review_date": "2026-11-21",
   "counts": {
-    "candidates": 8,
-    "new_events": 6,
-    "revised_events": 2,
-    "existing_skipped": 2,
-    "new_sources": 21,
+    "candidates": 14,
+    "new_events": 8,
+    "revised_events": 3,
+    "existing_skipped": 7,
+    "new_sources": 31,
     "reused_sources": 1,
-    "new_backlog": 5
+    "new_backlog": 10
   },
   "events": [
     "EVT-3751",
     "EVT-3752",
     "EVT-3755",
+    "EVT-3757",
     "EVT-3756",
+    "EVT-3758",
     "EVT-3753",
     "EVT-3754"
   ],
@@ -65,7 +67,17 @@
     {
       "theater": "중국·동아시아",
       "topic": "민간 항일운동·외교·군사",
-      "outcome": "EVT-3756 신규; 분단별 기록 RQ-1304, 당대 화북·만몽 기록 대조 남음"
+      "outcome": "EVT-3756 신규 후 12월 시위 배경 보강. RQ-1304 유지. 화북 경제 EVT-3757 신규, 외교·통화 RQ-1305~1307. 중국 지방 공보·군사 문서는 추가 대조 필요."
+    },
+    {
+      "theater": "태평양·동아시아",
+      "topic": "식민지 정기 항공",
+      "outcome": "EVT-3758 신규, 정기 여객과 시험 우편 구분. 이륙 시각 충돌 RQ-1308."
+    },
+    {
+      "theater": "유럽 동·서부",
+      "topic": "산업 외교",
+      "outcome": "3일 프랑스–소련 통상협정 연장 가서명 확인, 전쟁 직접 관련성 RQ-1309."
     }
   ],
   "unverified_candidates": [
@@ -130,14 +142,74 @@
         "SRC-2279",
         "SRC-2280"
       ]
+    },
+    {
+      "id": "RQ-1305",
+      "candidate_date": "1936-01-01",
+      "related_events": [
+        "EVT-3757"
+      ],
+      "status": "근거 부족",
+      "limit": "1일자 계획 보도 및 별도 5월 개정법 대조. 외무성 원안·사업별 실제 지출과 착공 미확인.",
+      "sources": [
+        "SRC-2285",
+        "SRC-2286",
+        "SRC-2287",
+        "SRC-2288"
+      ]
+    },
+    {
+      "id": "RQ-1306",
+      "candidate_date": "1936-01-01",
+      "status": "근거 부족",
+      "limit": "상하이 일본 화폐 유통 예정과 12월 31일 반대 진정. 실제 유통 개시 원자료 미확인.",
+      "sources": [
+        "SRC-2285",
+        "SRC-2286"
+      ]
+    },
+    {
+      "id": "RQ-1307",
+      "candidate_date": "1936-01-01",
+      "status": "근거 부족",
+      "limit": "후대 소련–몽골 협정 부인 표기의 당대 원발표 미확인. JACAR B02031801000 원면 403.",
+      "sources": [
+        "SRC-2285",
+        "SRC-2292",
+        "SRC-2293"
+      ]
+    },
+    {
+      "id": "RQ-1308",
+      "candidate_date": "1936-01-02",
+      "related_events": [
+        "EVT-3758"
+      ],
+      "status": "상충",
+      "limit": "타이베이 첫 정기편 현지 이륙 시각 오전 9시·10시 상충. 당시 기사 원면 및 운항일지 필요.",
+      "sources": [
+        "SRC-2289",
+        "SRC-2290",
+        "SRC-2291"
+      ]
+    },
+    {
+      "id": "RQ-1309",
+      "candidate_date": "1936-01-03",
+      "status": "근거 부족",
+      "limit": "프랑스–소련 통상협정 연장 가서명은 확인. 군수·전비와 직접 이어지는 조항·집행 미확인.",
+      "sources": [
+        "SRC-2293",
+        "SRC-2294"
+      ]
     }
   ],
   "next_verification_cell": {
-    "key": "1936-01-01/중국·동아시아/화북-만몽-당대문서",
+    "key": "1936-01-01/유럽-서부·중부/관보-외교-산업",
     "targets": [
-      "1~3일의 일본 외무성 대중국 관계 문서 상권 화북 문제 절과 중국 측 공보 및 당일자 자료에서 외교·군사 후보부터 대조",
-      "JACAR B02031801000 직접 링크가 403을 반환했다. 공개 대체판에서 같은 날짜의 개별 문서가 확인되는지 점검",
-      "유럽 공보, 동아프리카 북부·중동 및 그 밖의 미검사 주제는 같은 날짜 창에서 이어서 검토"
+      "프랑스·독일 외교 원문과 영국·스페인 공보의 1~3일 목록을 좁힌 뒤 신문·기존 EVT와 대조",
+      "같은 창에서 동아프리카 북부·중동, 중국 지방 공보·군사, 북미 산업, 대서양·태평양·동남아의 미검사 범위를 이어서 검토",
+      "RQ-1305~1309는 범위표에 적은 원문·운항일지·조달 기록이 확보되면 재개"
     ]
   },
   "later_windows": [
@@ -151,7 +223,10 @@
         "런던 해군회의",
         "에티오피아 관련 국제연맹 회람·ICRC 서신",
         "동아시아 외교",
-        "스페인 의회 해산"
+        "스페인 의회 해산",
+        "1월 4일 차하얼의 리서우신 부대 관련 주장",
+        "1월 4~6일 송저위안 회담 관련 도착·면담·발신의 구분",
+        "1월 6일 프랑스–소련 통상협정 연장서(군수·전비 관련성 RQ-1309 조건부)"
       ]
     }
   ],
@@ -165,11 +240,12 @@
     }
   ],
   "last_batch_counts": {
+    "candidates": 6,
     "new_events": 2,
-    "revised_events": 2,
-    "existing_skipped": 2,
-    "new_sources": 12,
-    "new_backlog": 3,
-    "revised_backlog": 2
+    "revised_events": 1,
+    "existing_skipped": 5,
+    "new_sources": 10,
+    "new_backlog": 5,
+    "revised_backlog": 0
   }
 }
