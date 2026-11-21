@@ -2,10 +2,14 @@
 FORWARD_CURSOR: 1944-04-24
 FORWARD_INSPECTED_THROUGH: 1944-04-23
 CURRENT_FORWARD_BATCH: 1944-04-24..1944-04-30
-TOTAL_EVT_SRC_RQ: 3758/2294/1309
-AS_OF: 2026-11-21
+TOTAL_EVT_SRC_RQ: 3758/2392/1309
+AS_OF: 2026-11-22
 
 [월별 사건 연표 정본](../chronology/README.md) · [PR #7 병합 집계 및 원고 이전](chronology-review-v2/monthly-migration.md)
+
+## 기존 미등록 사건 출처 조사 — 2026-11-22
+
+- [사료 감사](source-audits/cross-period/source-audit-unregistered-events-2026-11-22.md)에서 73건의 날짜와 근거를 확인했다. 새로 등록한 출처는 98건이다.
 
 ## 최신 전진 실행 — 2026-11-21 (1944년 4월 17~23일)
 - 기존 EVT-0210 이치고 작전 개시일 4/17·4/19 이견 보강, SRC-2249/RQ-1294 등록. [감사](source-audits/1944/source-audit-1944-apr17-23-batch1.md). 신규 0/1/1 누적 3746/2249/1294 다음 1944-04-24. 전체 로컬 validator 미실행.

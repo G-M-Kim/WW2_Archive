@@ -288,3 +288,5 @@
 | 2026-11-21 | forward | 1944-04-17..1944-04-23 | 1944-04-17 | 1944-04-24 | 0/1/1 | 3746/2249/1294 | research/source-audits/1944/source-audit-1944-apr17-23-batch1.md | 미게시 배치 복구: 기존 EVT-0210 날짜 이견 보강, SRC-2249/RQ-1294 및 RQ-0003/0007 BACKFILL_QUEUE. 전체 로컬 validator 미실행; merge-readiness.md 갱신 |
 
 | 2026-11-21 | reconcile | 1905-01-01..1936-01-03 | 1944-04-24 | 1944-04-24 | 12/45/15 | 3758/2294/1309 | research/chronology-review-v2/monthly-migration.md | PR #7 기존 병합분을 원장에 반영하고 사건 원고를 월별로 이전. 조사 커서 전진 없음. |
+
+| 2026-11-22 | backfill | 1939-10-01..1947-08-15 | 1944-04-24 | 1944-04-24 | 0/98/0 | 3758/2392/1309 | research/source-audits/cross-period/source-audit-unregistered-events-2026-11-22.md | 기존 미등록 73건 문헌대조. 사건 ID와 전진 커서 유지. |
