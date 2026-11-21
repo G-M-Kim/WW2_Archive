@@ -475,7 +475,7 @@ updated: 2026-11-03
 | RQ-0425 | P0 | open | 23일 Hölmön tölväys 피해 원명부/사단편제 | Yle 5개사단 참여 vs 군사학술6개사단 작전, 피해 361KIA+777WIA+190MIA=1328; 편제/집계 기준 분리 | 1939-12-23/SRC-948,951 | 핀 II군단 23일 원작전명령·Puolustusvoimat 병력명부 |
 | RQ-0426 | P1 | open | 23일 Raate 소련44사단 선두 접촉 | 소련44사단 일부 23일 핀 위치 접촉, 주요 motti 전투는 1940/1/1~6일·선행접촉과 대전투 구별 | 1939-12-23/SRC-948 | 핀 ErP17/JR27 원군일지·소련44사단 원이동상황 |
 | RQ-0427 | P1 | open | 23일 세 영해군 함정 기뢰피해 승조원 | HMS Dolphin 7전원생존 U22 20일기뢰, Promotive/Glen Albyn은 U31 10/27기뢰·인명 DB 물음표 | 1939-12-23/SRC-943~945 | 영 Admiralty 징발승조원 명부·Loch Ewe 소해원일지 |
-| RQ-0428 | P0 | done | 다음 1939년12월24~26일 단기집중조사 | 24일 크리스마스 이브·25일 Lake Suvanto Kelja 소련 공격·26일 핀 방어·24~26일 기뢰선과 실종선, 독소축전 신문 공개 | 1939-12-24~26 |핀 Yle 전사일지·독잠수함 손실DB·FRUS·러외교문서 · [12/24~26 사건·출처 감사](source-audit-1939-dec24-26-batch1.md) |
+| RQ-0428 | P0 | done | 다음 1939년12월24~26일 단기집중조사 | 24일 크리스마스 이브·25일 Lake Suvanto Kelja 소련 공격·26일 핀 방어·24~26일 기뢰선과 실종선, 독소축전 신문 공개 | 1939-12-24~26 |핀 Yle 전사일지·독잠수함 손실DB·FRUS·러외교문서 · [12/24~26 사건·출처 감사](source-audits/1939/source-audit-1939-dec24-26-batch1.md) |
 
 | RQ-0429 | P0 | open | Kelja 25~28일 도하·전투종결 일시와 군편제 | Yle 25일 3교두보·26일 Kelja 증원/핀 역습실패,27/28 최종격퇴 표현차; 소련4사단·핀10사단 부대원일지 미검 | 1939-12-24~28/SRC-955,960 | 핀 III군단/ErP6/소련4사단 원명령·시간대별 전사확인 |
 | RQ-0430 | P0 | open | 핀 발트해 24일 기뢰계획과 실제부설·중립국 해역 | 핀 당대 24일 Paldiski·Liepāja·Tallinn 주변 작전결정 확인, 실제 출항·부설좌표·사망 피해 아님 | 1939-12-24/SRC-954 | 핀 해군 기뢰함 항해일지·에스토니아/라트비아 중립해역 항의기록 |
@@ -487,7 +487,7 @@ updated: 2026-11-03
 | RQ-0436 | P0 | open | Pravda 25일 스탈린 답신 게재문 전문과 실제 발신일 | 러 기록관 서지에서 1939/12/25 Pravda 원신문 게재 확인, 12/21 히틀러축전 및 12/23 독축전신문과 구분 | 1939-12-21~25/SRC-935,958 | 프라우다 당일 지면스캔 대조·러 대외전보 발신원본과 수신인 분리 |
 | RQ-0437 | P1 | open | ErP25 12/26 스키병 50명 피아식별 | 핀 ErP25 일지 26일 Kuusamo도로 스키병 약50명 횡단, 일지 자체가 '아군 초계일 가능성'이라 유보 | 1939-12-26/SRC-950 | 27일 진지 일지와 초계 귀환보고·소련 측 일지 확인 |
 | RQ-0438 | P1 | open | Sinkevitsch 23일 부상 26일 사망 원문신원·집계 | Yle 2020이 핀 Sotasurmat DB 인용해 정확사망일·정체 확인; 23일 군단 피해수치와 후일사망 집계분리 | 1939-12-23~26/SRC-961 | 핀 Kansallisarkisto 전사자등록원부·군병원 후송카드·군단 casualty 결산 |
-| RQ-0439 | P0 | done | 다음 1939년12월27~29일 집중연구 | Kelja 결전27일·지역완전확보28일, Suomussalmi 163사단 후퇴와 28일 마을재점령, HMS Barham 등 28일 독Uboat 공격 | 1939-12-27~29 | 핀 Yle·Viakarelia·핀원군일지·uboat.net·FRUS 및 중국전선 공보  · [12/27~29 감사](source-audit-1939-dec27-29-batch1.md) |
+| RQ-0439 | P0 | done | 다음 1939년12월27~29일 집중연구 | Kelja 결전27일·지역완전확보28일, Suomussalmi 163사단 후퇴와 28일 마을재점령, HMS Barham 등 28일 독Uboat 공격 | 1939-12-27~29 | 핀 Yle·Viakarelia·핀원군일지·uboat.net·FRUS 및 중국전선 공보  · [12/27~29 감사](source-audits/1939/source-audit-1939-dec27-29-batch1.md) |
 
 | RQ-0440 | P0 | open | Kelja 25~27일 원소련4사단 전투손실·핀516명 | Yle 3일간 소련 약2000명 손실/핀 전사516명; Kelja 당일 손실·소련4사단 집계 불명 | 1939-12-25~27/SRC-965 | 핀 제3군단 원전사·핀 전사자DB·소련4사단 일일손실 보고 |
 | RQ-0441 | P0 | open | Suomussalmi 28일 마을·29일 잔여거점 단계확정 | Via Karelia 28일 정오 마을재점령 vs 29일 최후진지; 일부 29일 '탈환' 단일표기 | 1939-12-27~29/SRC-965~967 | 핀9사단/ErP16·소련163사단 원군일지와 현장기록 시각대조 |
@@ -502,7 +502,7 @@ updated: 2026-11-03
 | RQ-0450 | P1 | open | Raate 27~29일 SissiP1·II/JR27·53.Pst.J 배속 원문 | 핀 Juha Hollanti 2015 페이지15: 27 위협감지,28 저지,29 53대전차소대 배속·44사단 1대대 28 공격 | 1939-12-27~29/SRC-969 | 핀9사단 병참기록·Mäkinen 분견대 원전·소련44사단 1개대대 전과 |
 | RQ-0451 | P1 | open | 중국 쿤룬관 28일 주력공세 일본·중국 당일명령 | 중국 선전기록 18일 최초공세·28일 집중공세·31일 최종탈환, 28일 피해수 독립 미확증 | 1939-12-18~31/SRC-980 | 중국 제5군 원일지·일군 제5사단/21여단 일지·중국 국가당안관 원자료 |
 | RQ-0452 | P1 | open | FRUS Avenol 12/28 발송·Harrison 12/29 보고와 미국답신 1940/1/5 | FRUS1939v01/d1153 명확·실제 미국 공식회신은 1940/1/5 d1157, 수신시간 표기모순 미대조 | 1939-12-28~1940-01-05/SRC-981 | 국제연맹 통신문 발송부·FRUS d1157·스위스대사관 일지 |
-| RQ-0453 | P0 | done | 다음 1939/12/30~1940/01/01 연말연초 집중조사 | 30 Suomussalmi 163사단 전과발표 vs 실제철수,31 중국 쿤룬관 탈환·노르웨이 Luna,40/1/1 Raate준비 및 외교 | 1939-12-30~1940-01-01 | 핀 Yle·핀원전사·중국기록관·uboat.net·FRUS·선원원장  · [12/30~1/1 사료감사](source-audit-1939-dec30-1940-jan01-batch1.md) |
+| RQ-0453 | P0 | done | 다음 1939/12/30~1940/01/01 연말연초 집중조사 | 30 Suomussalmi 163사단 전과발표 vs 실제철수,31 중국 쿤룬관 탈환·노르웨이 Luna,40/1/1 Raate준비 및 외교 | 1939-12-30~1940-01-01 | 핀 Yle·핀원전사·중국기록관·uboat.net·FRUS·선원원장  · [12/30~1/1 사료감사](source-audits/1939/source-audit-1939-dec30-1940-jan01-batch1.md) |
 
 | RQ-0454 | P0 | open | 수오무살미 소련163사단 6500명(35%) 손실·핀350전사600부상 집계단위 | Yle 30일자 회고적 전투전체 수치·당일인명 아니며 포25·전차11·트럭150·말250 노획량도 기간전체 | 1939-12-27~30/SRC-983 | 핀9사단 포로명부/피아 전몰자 원명부·소련163사단 당대 손실원장·전리품 원수령장 |
 | RQ-0455 | P0 | open | 12/30 Siilasvuo 44사단 공격명령·1/1 결심·1/3 vs 1/5 개전 날짜 | Yle 30일 공격명령, 1/1 계획결심, Sotapolku JR64 3~7일 작전기간, 다른 전사 본격공세 1/5 | 1939-12-30~1940-01-07/SRC-983,985,992 | 핀9사단 명령대장·JR64 매일 초계/공격시각·소련44사단 원작전일지 |
@@ -515,7 +515,7 @@ updated: 2026-11-03
 | RQ-0462 | P1 | open | 지협 1월1일 기만용 사단번호 재편과 5/6사단 교대 | Yle 5사단→6사단 진지교대시작, Joukkosi 10→7,11→2,6→3 숫자변경. 다른 절차·시점 가능 | 1940-01-01/SRC-985,993 | 핀 총사령부 재명령 원문·사단편제표·현지 참모 원일지 |
 | RQ-0463 | P2 | open | 12월31일 암스테르담 소련 상선 Josef Stalin 핀란드국기 사건 원사진 | Yle 단일2차 자료, 신원미상 사람들이 배의 마스트에 핀 국기 게양했다는 내용 | 1939-12-31/SRC-984 | 네덜란드 항만경찰 보고·당시 신문사진·소련 선적명부 |
 | RQ-0464 | P1 | open | 12월30일 ErP17 Kummunjärvi 아군 전사자 인식표 주인·사망일 | 핀 ErP17 3중대 Misikangas 초계귀환 후 아군 전몰자 인식표 발견기록, 신원미상 | 1939-12-30/SRC-991 | 핀 ErP17 전사자원명부·Kummunjärvi 순찰원일지·Sotasurmat DB |
-| RQ-0465 | P0 | done | 다음 1940/1/2~4일 날짜별 다전역 조사 | Raate 44사단 포위 진행·핀13사단 전선·1월3일 U58 Svarton 중립상선·중국 쿤룬관 1월2일 전보 | 1940-01-02~04 | Yle 국방군 일별전사·핀 원군일지·스웨덴 상선원부·중국 국가당안국·FRUS  · [1/2~4 사건 감사](source-audit-1940-jan02-04-batch1.md) |
+| RQ-0465 | P0 | done | 다음 1940/1/2~4일 날짜별 다전역 조사 | Raate 44사단 포위 진행·핀13사단 전선·1월3일 U58 Svarton 중립상선·중국 쿤룬관 1월2일 전보 | 1940-01-02~04 | Yle 국방군 일별전사·핀 원군일지·스웨덴 상선원부·중국 국가당안국·FRUS  · [1/2~4 사건 감사](source-audits/1940/source-audit-1940-jan02-04-batch1.md) |
 
 | RQ-0466 | P0 | open | S-2 실제 침몰일 1940/1/2 vs1/3 | Yle+uboat.net 1/3, 다른 소련함사 1/2, 유실선 내 기록 및 Märket 등대보고 시각 | 1940-01-02~03/SRC-997,1003 | 소련발트함대 최종교신·스웨덴/핀 기뢰해도·Märket등대지기원일지 |
 | RQ-0467 | P0 | open | S-2 기뢰 부설국·발견위치 핀 Louhi vs 스웨덴 기뢰 | 핀 Yle Louhi 핀기뢰설, Sveriges Radio 2009 스웨덴군원기록 스웨덴기뢰 및 영해설 | 1940-01-02~03/SRC-997,1002,1003 | Finnish archive Louhi war diary와 Swedish Krigsarkivet 기뢰부설원장 |
@@ -531,7 +531,7 @@ updated: 2026-11-03
 | RQ-0477 | P1 | open | 점령폴란드 1940/1/1 이동 제한령 효력 vs1/11 다른 연표 | 1939/12/11 작성된 총독부 법령의 1/1 시행, 후대 일부 문헌 1/11 집행일 표기 | 1939-12-11~1940-01-11/SRC-1005 | 독 원시행령 Verordnungsblatt·폴란드 현지행정명령 |
 | RQ-0478 | P1 | open | 쿤룬관 후속 1/2 白崇禧 전보 속 三木吉之助 실제 전사날짜 | 중국 국가당안국 기록은 1/2 전보 작성일만 확증, 일본 연대장 미키의 전사일 별개 | 1940-01-02/SRC-1006 | 중국 두위밍 12/31·백숭희1/2 원전문 및 일본 육군 전사 명단 |
 | RQ-0479 | P1 | open | 1/4 핀 민간 항공폭격피해촬영금지·묘지지시 원 법령번호 | Yle 1/4 연표에 교육부 영웅묘역 확보와 민간사진금지 보도, 발령원문·처벌수준 미확인 | 1940-01-04/SRC-998 | 핀 교육부 원공문·검열당국 긴급명령·당대 관보 |
-| RQ-0480 | P0 | done | 다음 1940/1/5~7일 Raate 최종교전과 민간공습 해난 | 5일 Raate 08:30 본공세·Haukila Likoharju 차단·Mikkeli29사망, 6일 Sarvanto, 7일 소련44사단 붕괴; 중립 Fenris 선박 | 1940-01-05~07/SRC-999 | 핀 9사단·JR64 전사원본·소련 제44사단 탈출자명부·Yle·uboat.net·중국·FRUS  · [1/5~7 사료감사](source-audit-1940-jan05-07-batch1.md) |
+| RQ-0480 | P0 | done | 다음 1940/1/5~7일 Raate 최종교전과 민간공습 해난 | 5일 Raate 08:30 본공세·Haukila Likoharju 차단·Mikkeli29사망, 6일 Sarvanto, 7일 소련44사단 붕괴; 중립 Fenris 선박 | 1940-01-05~07/SRC-999 | 핀 9사단·JR64 전사원본·소련 제44사단 탈출자명부·Yle·uboat.net·중국·FRUS  · [1/5~7 사료감사](source-audits/1940/source-audit-1940-jan05-07-batch1.md) |
 
 | RQ-0481 | P0 | open | Raate 소련 제44사단 전사·부상·실종·동사 총수와 타배속부대 포함범위 | 핀7~9천 전사추정 vs Stavka44사단 총손실4674=1001전사1430부상2243실종 vs Bozhko4756 동사82 추가 | 1940-01-05~07/SRC-1013,1014 | 소련 Stavka1월조사위원회 총원문·우 Bozhko44사단 인원명부·핀9사단 전리품/포로명부 |
 | RQ-0482 | P0 | open | Raate 제44사단 후퇴·돌파 명령 1/6 밤 vs1/7 철수시각 | Yle 1/6 패배확정·마지막돌파, 7일 오전 교전 종료; 소련 병력 일부1월10일까지 귀환 | 1940-01-05~10/SRC-1011~1014 | 소련44사단 Vinogradov 원작전일지·핀JR64 JR27 일지·포로원부 |
@@ -547,7 +547,7 @@ updated: 2026-11-03
 | RQ-0492 | P0 | open | HMS Seahorse 실제 침몰일·원인(독 폭뢰설 vs 기뢰) | 영 해군 추모기록1/7 사망39, 최근 독군 기뢰소해전대 일지조사 종래 폭뢰설 부정, 1939/12/29~30일 가능성 | 1939-12-29~1940-01-07/SRC-1023,1024 | 영 잠수함 순찰명령·독 M5 폭뢰공격 일지·해상 기뢰해도·난파선 발견기록 |
 | RQ-0493 | P1 | open | HMS Undine 1/7 승조원 구조·포로명부 및 독 M1201 사고 | 영 RN 전사 1/7 자침·독소해정 구조후 포로, 실제 승선 수 30 vs31 기재혼재 | 1940-01-07/SRC-1021,1022 | 독 M1201/M1204/M1207 KTB·영 해군 포로인적기록·Red Cross POW |
 | RQ-0494 | P1 | open | ErP25 3~5 Jan Salla 14전사30부상과 ErP17 1/5 아군실수 Kettunen 기록 대조 | 핀 Yle ErP25 3일기간 전사14부상30, ErP17 1/5 개인3부상 중 자기무기 오발1, 원명부·후유증 확인 | 1940-01-03~05/SRC-1007,1008 | 핀 ErP25 병력명부·ErP17 Kettunen 병상기록·Sotasurmat |
-| RQ-0495 | P0 | done | 다음 1940/1/8~10 후속 Raate 정리·외교·영잠수함과 1/11 전후 | 1/8 Tanner 비공식 평화탐색·Raate 잔당/포로·1/9 HMS Starfish·독Uboat 상선피해·1/11 Vinogradov 사형원문 | 1940-01-08~11/SRC-1013,1023,1030 | FRUS·핀 외무부원전·유럽 해군 ADM53·소련44사단 군법회의 원기록  · [1/8~10 사료감사](source-audit-1940-jan08-10-batch1.md) |
+| RQ-0495 | P0 | done | 다음 1940/1/8~10 후속 Raate 정리·외교·영잠수함과 1/11 전후 | 1/8 Tanner 비공식 평화탐색·Raate 잔당/포로·1/9 HMS Starfish·독Uboat 상선피해·1/11 Vinogradov 사형원문 | 1940-01-08~11/SRC-1013,1023,1030 | FRUS·핀 외무부원전·유럽 해군 ADM53·소련44사단 군법회의 원기록  · [1/8~10 사료감사](source-audits/1940/source-audit-1940-jan08-10-batch1.md) |
 
 | RQ-0496 | P0 | open | Wuolijoki 1/10 Stockholm 출발·소련 Kollontai 첫 대면 1/10 vs1/14 | Paasikivi전기 1/8 의뢰·1/10 출발 명시, 학술전기 도착후 만남, 핀 후대연구 14일 첫정식회담 | 1940-01-08~14/SRC-1034,1035 | 핀 Tanner 외무일지·Wuolijoki 편지·스웨덴 Kollontai/Erik Boheman 기록·소련접견일지 |
 | RQ-0497 | P1 | open | FRUS 1/8 Tanner 독 Ribbentrop/Göring 정책견해와 독상선 핀 운항재개 실체 | 미 Schoenfeld 1/8 전보는 Tanner 전언·외무장관 추정, 실제 독 정부 내부 정식명령 여부 미확인 | 1940-01-08/SRC-1033 | 독 Auswärtiges Amt·독상선 입항원부·Schoenfeld 다음 전문 |
@@ -561,7 +561,7 @@ updated: 2026-11-03
 | RQ-0505 | P1 | open | HMS Starfish 1/9 전체 승무원·어뢰발사실패 원인과 M7 폭뢰수/포로명부 | 영 Chatham RN협회·함장사후보고 M7 공격과 구조, 독 Kriegsmarine 최초탐지·비밀전술유지 | 1940-01-09/SRC-1036~1039 | 영 Turner 전후진술 원본·독 M7 KTB·적십자 POW 등록 |
 | RQ-0506 | P1 | open | 1940/1/9 독 해군항공 X Fliegerkorps Cowrie/Gowrie Ivan Kondrup Feddy 해난 | 독해군참모당대일지 주장 독항공기가 1/9 상선10척+ 공격·Cowrie/Gowrie 등3척 격침; 영·덴마크 원해난일지 미대조 | 1940-01-09~10/SRC-1039 | 영 Admiralty Naval-History East Coast 수난일지·Lloyd Register·덴마크 해사원명부 |
 | RQ-0507 | P1 | open | Raate 1/7 정규종결 vs 1/10 잔여포위집단 마무리 날짜 | 핀 Yle 1/7 조직전투 잦아듦·현지연구자 1/10 motti종결, 전투와 소탕을 분리해 입증 | 1940-01-07~10/SRC-1013,1048 | 핀 JR64/9사단 8~10일 전사일지·소련 제44사단 잔여부대 귀환원장 |
-| RQ-0508 | P0 | done | 다음 1940/1/11~13 사단장 처형과 중립선 해난·국제외교 | 1/11 소련44사단 Vinogradov 군재판/총살 날짜, 노 Fredville·영 El Oso 기뢰·덴 Danmark 어뢰·스웨덴 Sylvia | 1940-01-11~13/SRC-1030 | 러 군사재판 원문/소련부대기록·uboat.net·영 ADM·FRUS 및 전시중국기록  · [1/11~13 사료감사](source-audit-1940-jan11-13-batch1.md) |
+| RQ-0508 | P0 | done | 다음 1940/1/11~13 사단장 처형과 중립선 해난·국제외교 | 1/11 소련44사단 Vinogradov 군재판/총살 날짜, 노 Fredville·영 El Oso 기뢰·덴 Danmark 어뢰·스웨덴 Sylvia | 1940-01-11~13/SRC-1030 | 러 군사재판 원문/소련부대기록·uboat.net·영 ADM·FRUS 및 전시중국기록  · [1/11~13 사료감사](source-audits/1940/source-audit-1940-jan11-13-batch1.md) |
 
 | RQ-0509 | P0 | open | 1940/1/11 소련44사단장 Vinogradov 및 정치장교 재판·총살 원전내용 | RGVA F33987 Op3 D1386 L124 11일21:41 재판/판결집행 보고 메타와 TsAMO 인사카드 비노그라도프 11일총살·다른 동료명/재판시각 불명 | 1940-01-11/SRC-1052,1053 | RGVA L124 원영상 전문판독·9군 군사법원 판결서·TsAMO 부대수령장 |
 | RQ-0510 | P1 | open | 11일07:35 소련 9군 정치장교 징계관련 원보고 내용 | RGVA L139-140 서지 11일07:35 보고일만 확인, 누가 어떤 처분받았는지 미확인 | 1940-01-11/SRC-1054 | RGVA F33987 Op3 D1386 L139-140 원영상/원텍스트 |
@@ -578,7 +578,7 @@ updated: 2026-11-03
 | RQ-0521 | P0 | open | 13일 Aura II 26전몰 원명부·ShCh324 공격 및 자국 폭뢰 폭발정확기전 | Yle 5폭뢰 투하 뒤 다음 폭뢰 갑판폭발·5분침몰26명사망, ShCh324 어뢰 자체피격아님 | 1940-01-13/SRC-1051 | 핀 해군 Aura II 해난조사·국가전몰자명부·소련 ShCh324 원항해일지 |
 | RQ-0522 | P0 | open | 13일 Hämeenlinna 공습 사망12 부상21 vs23·헬싱키 사망6부상21 원부 | Yle 당일기사21 부상·핀 지방기록관 원전시 회고자료23 부상, 본 사건 원경찰 및 병원동원자 명부 미확인 | 1940-01-13/SRC-1051,1066 | 핀 Hämeenlinna 당대 보건소/지방기록관 공습원보고·Helsinki Hietalahti 소방원일지 |
 | RQ-0523 | P1 | open | 13일 Kuusamo Hossa112명+말20 및 Junttila50 소개·Bazhanov 13일 Mannerheim 접견 | 현지 Korpisota 주민 이동개시수와 Valpo후대 보도 Mannerheim 면담일; 실제 도착·공문원전 부족 | 1940-01-13/SRC-1069,1070 | 핀 마을 피난/임시집결명부·핀 Mikkeli 최고사령부 1/13 접견일지 |
-| RQ-0524 | P0 | done | 다음 1940/1/14~16 다전역 조사 | 1/14 소핀 Stockholm 비공식첫면담일, 15 U44 Arendskerk/Fagerheim,16 Gracia Inverdargle Panachrandos Cairnross 및 중국·점령지 | 1940-01-14~16/SRC-1063 | 핀·소 외교원전·uboat.net 및 독KTB·중국 국가당안관·영 Admiralty  · [1/14~16 사료감사](source-audit-1940-jan14-16-batch1.md) |
+| RQ-0524 | P0 | done | 다음 1940/1/14~16 다전역 조사 | 1/14 소핀 Stockholm 비공식첫면담일, 15 U44 Arendskerk/Fagerheim,16 Gracia Inverdargle Panachrandos Cairnross 및 중국·점령지 | 1940-01-14~16/SRC-1063 | 핀·소 외교원전·uboat.net 및 독KTB·중국 국가당안관·영 Admiralty  · [1/14~16 사료감사](source-audits/1940/source-audit-1940-jan14-16-batch1.md) |
 
 | RQ-0525 | P0 | open | Fagerheim 1/14 23:40 vs1/15 00:13 침몰일·선측시각·승무원수 | 노 법정 해난조사19명·14사망5생존 vs UboatDB20명·15사망5생존, 법정증언 14일23:40 vs 함보고15일00:13 | 1940-01-14~15/SRC-1074~1077 | 노 RA Justisdepartementet Politikontoret P O/Ob/L0296 journal1476-6457/1940 pp4–8,242–249 원스캔·U44 KTB 원시각/선위·Iris 구조일지 |
 | RQ-0526 | P1 | open | Fagerheim 그리스 Iris 1/15 15:15 구조된 생존5명 전원실명 | 생존항해사 Harald Berg 전재기록, 구조까지 저체온사망 일부 있었음·노해원법정기록 사망14 | 1940-01-14~15/SRC-1074~1076 | Iris 그리스선박 항해원일지·노 생존자 출입국증명·선원19명 전몰명부 |
@@ -594,7 +594,7 @@ updated: 2026-11-03
 | RQ-0536 | P1 | open | 1/16 그리스 Panachrandos 전원사망31명 중 27명 개인명부만 확인 | uboat.net 31명 중27명 개인신원 보유, 잔여4명 사망원명부 미확인 | 1940-01-16/SRC-1080 | 그리스 해원선적원장·선원 인원등록·U44 KTB |
 | RQ-0537 | P1 | open | 1/16 Inverdargle 기뢰 전몰49명·1939/11/9 U33 부설지점 및 Gracia 생존47명 | 두 해난 모두 과거 부설기뢰, 선박명부 및 Gracia 1941년 재침몰 사건과 분리필요 | 1939-11-09~1940-01-16/SRC-1081,1082 | 영 Admiralty 기뢰해도·U33/U30 KTB·Inverdargle Crew 49명 이름·Gracia 인양원부 |
 | RQ-0538 | P1 | open | Łódź 1/16 유대인 공장기업 재산몰수 예비논의 RG-63.02.56 원문·소유주 | LA Holocaust Museum finding aid는 1/16 몰수계획 예비논의문서 식별, 구체공장·계획 시행내용 원전미열람 | 1940-01-16/SRC-1084,1085 | LA Museum RG-63.02.56 실제스캔·폴 IPN 우치 기업 국유화재산명세·역사관 |
-| RQ-0539 | P0 | done | 다음 1940/1/17~19 중립선 대량피해·Salla·점령지 | 17일 Cairnross 기뢰, Enid·Polzella, 18일 Flandria·Foxen·Pajala 등, 19일 Kaija·Patria·다른점령지역, 16일 Josephine Charlotte 미기록 조사 | 1940-01-17~19/SRC-1083 | uboat.net 선박DB·영 ADM 당대해난기록·핀 ErP17/25·노국립원명부·영 1940 해군참모일지  · [1/17~19 사료감사](source-audit-1940-jan17-19-batch1.md) |
+| RQ-0539 | P0 | done | 다음 1940/1/17~19 중립선 대량피해·Salla·점령지 | 17일 Cairnross 기뢰, Enid·Polzella, 18일 Flandria·Foxen·Pajala 등, 19일 Kaija·Patria·다른점령지역, 16일 Josephine Charlotte 미기록 조사 | 1940-01-17~19/SRC-1083 | uboat.net 선박DB·영 ADM 당대해난기록·핀 ErP17/25·노국립원명부·영 1940 해군참모일지  · [1/17~19 사료감사](source-audits/1940/source-audit-1940-jan17-19-batch1.md) |
 
 | RQ-0540 | P0 | open | Tarmo 18일 Kotka 항 폭격 사망39 부상11 vs13 원명부 | 핀Yle 국방군일별11 부상 대 핀 국립해양박물관13, 같은 사건의 범위/사후이송차 가능 | 1940-01-18/SRC-1091,1093,1094 | Tarmo 함내 전몰자·전상자 장부, Kotka 항무국/군의무병원 18일사고원문 |
 | RQ-0541 | P0 | open | Flandria 18일 독 U9 어뢰 vs 스웨덴 1940당대 연감 기뢰 | UboatDB 23:53 U9 어뢰 대 Svenska Dagbladets Årsbok p73 'minsprängd' | 1940-01-18/SRC-1095,1101 | 독 U9 원 KTB·스웨덴 Flandria 생존자4명 해난조사원부·영 왕립해군 일일상선보고 |
@@ -614,7 +614,7 @@ updated: 2026-11-03
 | RQ-0555 | P0 | open | 영 HMS Grenville 19일 기뢰부설 원출격·77/118 인명조사 | 영 구축함 H03 12:50 Thames Estuary 독 구축함3척 부설기뢰 77전몰118구조, 초기출처 승무기준의견차 가능 | 1940-01-19/SRC-1110,1111 | 영 ADM Grenville 군법회의·독 Erich Steinbrinck/Friedrich Ihn/Friedrich Eckoldt KTB·CWGC77명 |
 | RQ-0556 | P1 | open | 19일 프랑스 Quiberon 생존0이나 승무원 총수·사망자수 미기재 | U59 21:09 Great Yarmouth동쪽 침몰, 전문해난DB crew count '?' | 1940-01-19/SRC-1109 | 프랑스 해운사 Union Industrielle et Maritime 1940crewlist·전몰원명부·U59 KTB |
 | RQ-0557 | P0 | open | 19일 Kaija 침몰 소련 항공기종 Pe-2 주장 시대착오·17일 영 Enigma 첫해독설 | 개인해난DB Kaija 398GRT 19일 Koivisto 공습·Pe-2로 표기하나 실전배치일 검증 필요; Korpisota 17일 최초 Enigma설 vs GCHQ/IEEE 20일/봄 후속해독 | 1940-01-17~19/SRC-1112,1114,1115,1116 | 핀 Kaija 선적/전손원부·소련 공군연대 출격원본·영 GC&CS Bletchley Park Key Green 원진행장부 |
-| RQ-0558 | P0 | done | 다음 1940/1/20~22 유럽·북부전선·해상전 추가 | 20일 U34 Caroni River 기뢰·21일 영 구축함 Exmouth 전원실종/U22, 21일 Oulu 대규모폭격 및 소련항공, 22일 중립선 및 Salla 원일지 | 1940-01-20~22/SRC-1092,1110 | 영해군 작전일지·핀 Yle 군전사·노 Minnehallen·uboat.net·FRUS·중국 당대전보  · [1/20~22 사료감사](source-audit-1940-jan20-22-batch1.md) |
+| RQ-0558 | P0 | done | 다음 1940/1/20~22 유럽·북부전선·해상전 추가 | 20일 U34 Caroni River 기뢰·21일 영 구축함 Exmouth 전원실종/U22, 21일 Oulu 대규모폭격 및 소련항공, 22일 중립선 및 Salla 원일지 | 1940-01-20~22/SRC-1092,1110 | 영해군 작전일지·핀 Yle 군전사·노 Minnehallen·uboat.net·FRUS·중국 당대전보  · [1/20~22 사료감사](source-audits/1940/source-audit-1940-jan20-22-batch1.md) |
 
 | RQ-0559 | P0 | open | HMS Exmouth 21일 승조원190(RN공식) vs189(Scotland heritage), 시각04:44vs05:35 | RN2025/Exmouth Crew List/UboatDB 190명 전몰 vs HES 난파유산 189, Cyprian Prince 견시 04:44 vs 독 U22 05:35 | 1940-01-21/SRC-1126~1129 | CWGC 해군원명부190명 개별식별·Exmouth 갑판당번자료·독 U22 KTB·Cyprian Prince 선장선언·영 GMT/CET 기준 |
 | RQ-0560 | P0 | open | Oulu 1월21일 폭발폭탄150/소이탄400 vs 폭발100+/소이500 및 실제공습목적 | Yle 인용 방공원일지150+400 vs Kaleva 민간전사100+500, 스탈린 F19보복설은 후대해석 | 1940-01-21/SRC-1119,1120 | Oulu Viestikeskus sotapäiväkirja 9.10.39-19.4.40 국립기록원·소련 항공군목표원부·Stavka 명령서·지역당일사진 |
@@ -921,36 +921,36 @@ updated: 2026-11-03
 
 ## 조사기록·원전으로의 역참조
 
-- [편집 원칙·통합 색인](README.md)
+- [편집 원칙·통합 색인](../README.md)
 - [출처 등록부](chronology-sources-v1.md)
-- [1905~38 배치1 감사](source-audit-1905-1938-batch1.md) · [1905~38 배치2 감사](source-audit-1905-1938-batch2.md)
-- [출처 URL 표본 감사](source-url-audit-batch1.md)
-- [1939년 1~4월 감사](source-audit-1939-jan-apr-batch1.md)
-- [1939년 5월 감사](source-audit-1939-may-batch1.md) · [1939년 6월 감사](source-audit-1939-june-batch1.md) · [1939년 7월 감사](source-audit-1939-july-batch1.md)
-- [1939년 8월 1~10일 감사](source-audit-1939-aug01-10-batch1.md)
-- [1939년 8월 11~20일 감사](source-audit-1939-aug11-20-batch1.md)
-- [1939년 8월 21~31일 감사](source-audit-1939-aug21-31-batch1.md)
-- [1939년 9월 1~3일 감사](source-audit-1939-sep01-03-batch1.md)
-- [1939년 9월 4~7일 감사](source-audit-1939-sep04-07-batch1.md)
-- [1939년 9월 8~10일 감사](source-audit-1939-sep08-10-batch1.md)
-- [1939년 9월 11~14일 감사](source-audit-1939-sep11-14-batch1.md)
-- [1939년 9월 15~17일 감사](source-audit-1939-sep15-17-batch1.md)
-- [1939년 9월 18~21일 감사 / 9월22일 범위 정정](source-audit-1939-sep18-21-batch1.md)
-- [1939년 9월 22~25일 감사](source-audit-1939-sep22-25-batch1.md)
-- [1939년 9월 26~28일 감사](source-audit-1939-sep26-28-batch1.md)
-- [1939년 9월 29~30일 감사/9월27일 중국 민간인사건 보강](source-audit-1939-sep29-30-batch1.md)
-- [1939년 10월 1~3일 감사](source-audit-1939-oct01-03-batch1.md)
-- [1939년 10월 4~6일 감사](source-audit-1939-oct04-06-batch1.md)
-- [1939년 10월 7~10일 감사](source-audit-1939-oct07-10-batch1.md)
-- [1939년 10월 11~14일 감사 및 9~10일 보강](source-audit-1939-oct11-14-batch1.md)
-- [1939년 10월 15~18일 감사 및 11~12일 선행보강](source-audit-1939-oct15-18-batch1.md)
-- [1939년 10월 19~22일 외교·홀로코스트·폴란드 공포3일·기뢰전 감사](source-audit-1939-oct19-22-batch1.md)
-- [1939년 10월 23~26일 사료·피해자 감사](source-audit-1939-oct23-26-batch1.md)
-- [1939년 10월 27~31일·18·25일 누락 보강 감사](source-audit-1939-oct27-31-batch1.md)
-- [1939년 11월 1~4일 독소 병합·핀소 외교·미국 중립법·피아시니차 감사](source-audit-1939-nov01-04-batch1.md)
-- [1939년 11월 5~8일 지하언론·교수체포·Elser·지역학살 감사](source-audit-1939-nov05-08-batch1.md)
-- [1939년 11월 9~12일 Venlo·Piaśnica·Łódź·중립상선·오빈스카 감사](source-audit-1939-nov09-12-batch1.md)
-- [1939년 11월 13~16일 핀소외교·광시일군상륙·기뢰지대·인도양 격침 감사](source-audit-1939-nov13-16-batch1.md)
+- [1905~38 배치1 감사](source-audits/cross-period/source-audit-1905-1938-batch1.md) · [1905~38 배치2 감사](source-audits/cross-period/source-audit-1905-1938-batch2.md)
+- [출처 URL 표본 감사](source-audits/cross-period/source-url-audit-batch1.md)
+- [1939년 1~4월 감사](source-audits/1939/source-audit-1939-jan-apr-batch1.md)
+- [1939년 5월 감사](source-audits/1939/source-audit-1939-may-batch1.md) · [1939년 6월 감사](source-audits/1939/source-audit-1939-june-batch1.md) · [1939년 7월 감사](source-audits/1939/source-audit-1939-july-batch1.md)
+- [1939년 8월 1~10일 감사](source-audits/1939/source-audit-1939-aug01-10-batch1.md)
+- [1939년 8월 11~20일 감사](source-audits/1939/source-audit-1939-aug11-20-batch1.md)
+- [1939년 8월 21~31일 감사](source-audits/1939/source-audit-1939-aug21-31-batch1.md)
+- [1939년 9월 1~3일 감사](source-audits/1939/source-audit-1939-sep01-03-batch1.md)
+- [1939년 9월 4~7일 감사](source-audits/1939/source-audit-1939-sep04-07-batch1.md)
+- [1939년 9월 8~10일 감사](source-audits/1939/source-audit-1939-sep08-10-batch1.md)
+- [1939년 9월 11~14일 감사](source-audits/1939/source-audit-1939-sep11-14-batch1.md)
+- [1939년 9월 15~17일 감사](source-audits/1939/source-audit-1939-sep15-17-batch1.md)
+- [1939년 9월 18~21일 감사 / 9월22일 범위 정정](source-audits/1939/source-audit-1939-sep18-21-batch1.md)
+- [1939년 9월 22~25일 감사](source-audits/1939/source-audit-1939-sep22-25-batch1.md)
+- [1939년 9월 26~28일 감사](source-audits/1939/source-audit-1939-sep26-28-batch1.md)
+- [1939년 9월 29~30일 감사/9월27일 중국 민간인사건 보강](source-audits/1939/source-audit-1939-sep29-30-batch1.md)
+- [1939년 10월 1~3일 감사](source-audits/1939/source-audit-1939-oct01-03-batch1.md)
+- [1939년 10월 4~6일 감사](source-audits/1939/source-audit-1939-oct04-06-batch1.md)
+- [1939년 10월 7~10일 감사](source-audits/1939/source-audit-1939-oct07-10-batch1.md)
+- [1939년 10월 11~14일 감사 및 9~10일 보강](source-audits/1939/source-audit-1939-oct11-14-batch1.md)
+- [1939년 10월 15~18일 감사 및 11~12일 선행보강](source-audits/1939/source-audit-1939-oct15-18-batch1.md)
+- [1939년 10월 19~22일 외교·홀로코스트·폴란드 공포3일·기뢰전 감사](source-audits/1939/source-audit-1939-oct19-22-batch1.md)
+- [1939년 10월 23~26일 사료·피해자 감사](source-audits/1939/source-audit-1939-oct23-26-batch1.md)
+- [1939년 10월 27~31일·18·25일 누락 보강 감사](source-audits/1939/source-audit-1939-oct27-31-batch1.md)
+- [1939년 11월 1~4일 독소 병합·핀소 외교·미국 중립법·피아시니차 감사](source-audits/1939/source-audit-1939-nov01-04-batch1.md)
+- [1939년 11월 5~8일 지하언론·교수체포·Elser·지역학살 감사](source-audits/1939/source-audit-1939-nov05-08-batch1.md)
+- [1939년 11월 9~12일 Venlo·Piaśnica·Łódź·중립상선·오빈스카 감사](source-audits/1939/source-audit-1939-nov09-12-batch1.md)
+- [1939년 11월 13~16일 핀소외교·광시일군상륙·기뢰지대·인도양 격침 감사](source-audits/1939/source-audit-1939-nov13-16-batch1.md)
 
 ## 중요 통제
 
@@ -1312,7 +1312,7 @@ updated: 2026-11-03
 
 | RQ-1128 | P1 | open | 1941-05-06 지부티 봉쇄·항만/철도 이용 구상 | EVT-3469 SRC-1904 | FRUS II doc.529의 커크 간접보고를 영국 전시내각·외무부·해군 원결정, 지부티 프랑스 당국 교섭기록, 실제 해상봉쇄·철도 운행기록과 대조 | 런던 검토와 실제 시행·프랑스 당국 동의·후속 봉쇄 날짜를 구분; 원지시 확보 전 실행 확정 금지 |
 
-**RQ-1128 후속감사 (2026-11-05, 기존 ID 유지):** [5/2~11 지부티 사료감사](source-audit-1941-may02-11-djibouti-followup-batch1.md)에서 SRC-1905(5/2 조건부 제안), SRC-1904(5/6 선택지), SRC-1906(5/11 접촉 승인 전언)를 연결했다. 원 영국·프랑스 명령, 실제 접촉·항만·철도 이용·봉쇄 시행 미확인. RQ-1128은 open 유지.
+**RQ-1128 후속감사 (2026-11-05, 기존 ID 유지):** [5/2~11 지부티 사료감사](source-audits/1941/source-audit-1941-may02-11-djibouti-followup-batch1.md)에서 SRC-1905(5/2 조건부 제안), SRC-1904(5/6 선택지), SRC-1906(5/11 접촉 승인 전언)를 연결했다. 원 영국·프랑스 명령, 실제 접촉·항만·철도 이용·봉쇄 시행 미확인. RQ-1128은 open 유지.
 
 | RQ-1129 | P1 | open | 1941-05-07 헐·핼리팩스 인도정책 회담·인도 여론 주장 | SRC-1907 | FRUS 1941 III doc.129과 영국 외무부·인도부 회담록, 인도 정치조직·간디 원발언을 대조하여 5/7 대사 평가와 실제 여론·자치정책 결정을 구분 | 회담 발언은 확인되지만 영국 대사의 여론평가와 정책 실행은 독립 확증 전 EVT 등록·완료 금지 |
 
@@ -1340,7 +1340,7 @@ updated: 2026-11-03
 
 | 과제 ID | 우선 | 상태 | 영역 | 보강해야 할 내용 | 연관 색인·출처 | 완료 조건 |
 |---|---|---|---|---|---|---|
-| RQ-1147 | P0 | done | 기록 정합성 | 루트와 research/에 분산된 사건·출처·백로그의 합집합 복구; 공통 ID 내용 충돌 없음 | EVT-3472~3485 SRC-1911~1925 RQ-1133~1146 | 2026-11-07 복구·검증 완료: [source-audit-1941-may14-20-batch1.md](source-audit-1941-may14-20-batch1.md); 정본/사본 일치 검사 추가. 역사적 진위 확증 완료를 뜻하지 않음 |
+| RQ-1147 | P0 | done | 기록 정합성 | 루트와 research/에 분산된 사건·출처·백로그의 합집합 복구; 공통 ID 내용 충돌 없음 | EVT-3472~3485 SRC-1911~1925 RQ-1133~1146 | 2026-11-07 복구·검증 완료: [source-audit-1941-may14-20-batch1.md](source-audits/1941/source-audit-1941-may14-20-batch1.md); 정본/사본 일치 검사 추가. 역사적 진위 확증 완료를 뜻하지 않음 |
 | RQ-1148 | P1 | open | 브레비티 전투서열·손실 | 5/15~16 제2·4왕립전차연대·제22근위여단·Herff집단의 배속·현원·가동/수리/전손 대조 | EVT-3491 EVT-3497 SRC-1928 SRC-1929 | 양측 원부대일지·당일 전차상태표 확보; 29/24와 약30/25의 집계기준 구분 |
 | RQ-1149 | P1 | open | 크레타 현원·편제 | Wavell28,600의 국적범위와 기간 중 도착자 포함 영연방32,000여·그리스10,000여를 실제 일별 명부와 교차 | EVT-0105 EVT-3510~3514 SRC-1928 SRC-1941 | 제22대대 등 실제 현원·지원부대·장비 가동량을 확인; 사단 표준 정원으로 대입 금지 |
 | RQ-1150 | P1 | open | 크레타 첫날·피해 통계 | 107고지 철수20~21일 시간대·전차 고장유형·German 약7000 사망 대6000여 사상 등 후대 집계 충돌 | EVT-0105 EVT-3514 SRC-1941~1943 | 당대 통신·차량일지·독일 손실명부로 개별 주장 및 집계분모 구분; AWM5/29를 전체 종결일로 사용 금지 |
@@ -1541,7 +1541,7 @@ updated: 2026-11-03
 
 ## 2026-11-10: 기존 전진 조사 사료 색인 보완
 
-- RQ-0001·RQ-0003: EVT-0112·0117·0118·0119의 근거와 EVT-3613 교부 사건을 정본에 반영했다. 전수 과제는 계속 열려 있다. [검증 범위와 남은 자료](source-audit-1941-aug-nov-backfill-2026-11-10.md)
+- RQ-0001·RQ-0003: EVT-0112·0117·0118·0119의 근거와 EVT-3613 교부 사건을 정본에 반영했다. 전수 과제는 계속 열려 있다. [검증 범위와 남은 자료](source-audits/1941/source-audit-1941-aug-nov-backfill-2026-11-10.md)
 - RQ-0007: 오데사 희생자 명부와 루마니아 원문, 룸불라 12월 9일 포함 여부·집계 대상, 북아프리카 양측 작전일지 및 미일 교섭의 일본 측 접수·내부 판단 기록이 남아 있다.
 ## 2026-11-13: 1942-06-01~03 선별조사 및 색인 증분 복구
 

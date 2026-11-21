@@ -8,14 +8,14 @@ from pathlib import Path
 import re
 import sys
 
-from scripts.build_timeline import chronology_bucket, chronology_files
+from scripts.build_timeline import SOURCE_FILE, chronology_bucket, chronology_files
 
 ROOT = Path(__file__).resolve().parent
-SOURCES = ROOT / "chronology-sources-v1.md"
+SOURCES = ROOT / SOURCE_FILE
 DATE_RE = re.compile(r"^\d{4}(?:-\d{2}(?:-\d{2})?)?$")
 EVENT_RE = re.compile(r"^EVT-\d{4}$")
 SOURCE_RE = re.compile(r"^SRC-\d{3,}$")
-LINK_RE = re.compile(r"\[(SRC-\d{3,})\]\(\.\./chronology-sources-v1\.md\)")
+LINK_RE = re.compile(rf"\[(SRC-\d{{3,}})\]\(\.\./{re.escape(SOURCE_FILE)}\)")
 STATUSES = {"문헌대조", "링크등록", "미등록"}
 
 
@@ -114,9 +114,9 @@ def main() -> int:
         errors.append(f"duplicate event IDs: {duplicates}")
 
     # Persistent research backlog is required for every future chronology change.
-    backlog = ROOT / "research-backlog.md"
+    backlog = ROOT / "research" / "research-backlog.md"
     if not backlog.is_file():
-        errors.append("persistent research-backlog.md is missing")
+        errors.append("persistent research/research-backlog.md is missing")
         backlog_ids: list[str] = []
     else:
         backlog_ids = []
@@ -145,28 +145,15 @@ def main() -> int:
         if not backlog_ids:
             errors.append("research backlog contains no tasks")
 
-    # Event data lives in chronology/. The source and backlog mirrors remain in research/.
-    mirror_files = (
-        "chronology-sources-v1.md",
-        "research-backlog.md",
-    )
-    for name in mirror_files:
-        canonical = ROOT / name
-        mirror = ROOT / "research" / name
-        if not mirror.is_file():
-            errors.append(f"missing research mirror: research/{name}")
-        elif canonical.read_bytes() != mirror.read_bytes():
-            errors.append(f"research/{name} differs from canonical root file")
-
     # Continuous-research guard: a selective period is completed on first pass,
     # while missing events and source verification stay in BACKFILL_QUEUE/RQ.
     # This checks workflow integrity, NOT historical correctness.
     ledger = ROOT / "research" / "PROGRESS_LEDGER.md"
-    work_state = ROOT / "WORK_STATE.md"
+    work_state = ROOT / "research" / "WORK_STATE.md"
     if not ledger.is_file():
         errors.append("missing research/PROGRESS_LEDGER.md")
     elif not work_state.is_file():
-        errors.append("missing authoritative WORK_STATE.md")
+        errors.append("missing authoritative research/WORK_STATE.md")
     else:
         text = ledger.read_text(encoding="utf-8")
         rows = []
@@ -268,7 +255,7 @@ def main() -> int:
         for issue in errors:
             print("ERROR:", issue)
         return 1
-    print("PASS: structure, references, dates, IDs and research mirrors (NOT independent historical verification)")
+    print("PASS: structure, references, dates, IDs and research ledger (NOT independent historical verification)")
     return 0
 
 

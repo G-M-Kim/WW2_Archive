@@ -7,9 +7,11 @@ const DAYS = ["월", "화", "수", "목", "금", "토", "일"];
 const REPO = "https://github.com/G-M-Kim/WW2_Archive/blob/";
 const PAGE_SIZE = 16;
 const DAY = 86400000;
-const state = { day: "", activeDay: "", evidence: "", limit: PAGE_SIZE };
+const state = { period: "", day: "", activeDay: "", evidence: "", limit: PAGE_SIZE };
 let data;
-let years;
+let periods;
+let firstDay;
+let lastDay;
 let lookup;
 
 function node(tag, text, className) {
@@ -91,26 +93,57 @@ function monthRecord(page) {
   return "../chronology/" + encodeURIComponent(page) + "/";
 }
 
-function selectDay(day, eventId) {
+function periodLabel(period) {
+  if (period === "prologue") return "프롤로그 · 1936년 이전";
+  if (period === "epilogue") return "에필로그 · 1945년 이후";
+  return period.slice(0, 4) + "년 " + Number(period.slice(5)) + "월";
+}
+
+function updateView(period, day, eventId) {
+  state.period = period;
   state.day = day;
-  state.activeDay = eventId && day.length === 10 ? day : "";
+  state.activeDay = "";
   state.limit = PAGE_SIZE;
   state.selected = eventId;
-  const hash = eventId || day;
+  const hash = eventId || day || period;
   if (location.hash.slice(1) !== hash) history.replaceState(null, "", "#" + hash);
   render();
+}
+
+function selectPeriod(period, eventId) {
+  updateView(period, "", eventId);
+}
+
+function selectDay(day) {
+  if (day < firstDay) {
+    selectPeriod("prologue");
+    return;
+  }
+  if (day > lastDay) {
+    selectPeriod("epilogue");
+    return;
+  }
+  updateView(day.slice(0, 7), day);
 }
 
 function setFromHash() {
   const anchor = location.hash.slice(1);
   if (Object.hasOwn(data.events, anchor)) {
-    const date = data.events[anchor][0];
-    if (date.length === 10) selectDay(date, anchor);
-    else revealEvent(anchor);
-    return;
+    revealEvent(anchor);
+  } else if (Object.hasOwn(data.periods, anchor)) {
+    selectPeriod(anchor);
+  } else if (/^\d{4}-\d{2}-\d{2}$/.test(anchor) && Number.isFinite(dateAt(anchor).getTime())) {
+    selectDay(formatDate(dateAt(anchor)));
+  } else {
+    selectPeriod(periods[0]);
   }
-  const allowed = /^\d{4}-\d{2}-\d{2}$/.test(anchor) && anchor >= ui.date.min && anchor <= ui.date.max;
-  selectDay(allowed && Number.isFinite(dateAt(anchor).getTime()) ? formatDate(dateAt(anchor)) : (years.includes(1939) ? "1939-09-01" : ui.date.min));
+}
+
+function weekEvents(first) {
+  return (data.weeks[first] || []).filter(id => {
+    const day = data.events[id][0];
+    return day >= firstDay && day <= lastDay;
+  });
 }
 
 function showYear(year, week) {
@@ -123,7 +156,7 @@ function showYear(year, week) {
   const fragment = document.createDocumentFragment();
   for (let first = start; first <= end; first = shift(first, 7)) {
     const key = first;
-    const size = matched(data.weeks[key]).length;
+    const size = matched(weekEvents(key)).length;
     const yearStart = year + "-01-01";
     const day = key < yearStart ? yearStart : key;
     const text = day.endsWith("-01") || day === yearStart || Number(day.slice(8)) <= 7 ? Number(day.slice(5, 7)) + "월" : "";
@@ -139,12 +172,12 @@ function showYear(year, week) {
   ui["year-grid"].replaceChildren(fragment);
 }
 
-function eventRow(id, approximate = false) {
+function eventRow(id, fullDate) {
   const [when, title, category, stateText, evidence, sources, file, line] = data.events[id];
   const details = node("details", undefined, "event s" + evidence);
   details.id = id;
   const summary = node("summary");
-  const stamp = node("time", approximate ? when : formatShort(when));
+  const stamp = node("time", fullDate ? when : formatShort(when));
   stamp.dateTime = when;
   summary.append(stamp, node("strong", title), node("span", LABELS[evidence], "flag"));
   const body = node("div", undefined, "event-data");
@@ -167,7 +200,7 @@ function eventRow(id, approximate = false) {
   const page = file.split("/").at(-1).replace(/\.md$/, "");
   const within = /^\d{4}-\d{2}$/.test(page);
   links.append(
-    link(within ? "위키 월별 연표" : "위키 범위 밖 연표", monthRecord(page)),
+    link(within ? "위키 월별 연표" : "위키 " + periodLabel(page), monthRecord(page)),
     document.createTextNode(" · "),
     link("GitHub 연표 원고에서 보기 ↗", canonical(file, line), true)
   );
@@ -195,7 +228,12 @@ function drawVisual(first, ids, daily) {
   const figure = ui.visual;
   figure.replaceChildren();
   const representative = ids.find(id => Object.hasOwn(data.media, id));
+  figure.hidden = !first && !representative;
   function drawChart() {
+    if (!first) {
+      figure.hidden = true;
+      return;
+    }
     figure.className = "graphic";
     const title = node("h3", "요일별 수록량");
     const bars = node("div", undefined, "bars");
@@ -257,48 +295,55 @@ function drawEvents(first, ids, daily) {
   DAYS.forEach((day, i) => drawDay(day, daily[i], shift(first, i)));
   ui.days.replaceChildren(days);
   const filtered = state.activeDay ? ids.filter(id => data.events[id][0] === state.activeDay) : ids;
-  const count = filtered.length;
+  drawRecordList(filtered, false);
+}
+
+function drawRecordList(ids, fullDate) {
+  ui.events.classList.toggle("full-dates", fullDate);
+  const count = ids.length;
   ui["event-summary"].textContent = count
     ? (state.activeDay ? state.activeDay + " · " : "") + "사건 " + COUNT.format(count) + "건"
     : "선택한 기간과 조건에 등록된 사건이 없습니다.";
-  const pieces = filtered.slice(0, state.limit).map(id => eventRow(id));
-  if (state.selected && filtered.includes(state.selected) && !pieces.some(item => item.id === state.selected)) {
-    pieces.push(eventRow(state.selected));
+  const shown = ids.slice(0, state.limit);
+  if (state.selected && ids.includes(state.selected) && !shown.includes(state.selected)) {
+    shown.push(state.selected);
   }
-  ui.events.replaceChildren(...pieces);
+  ui.events.replaceChildren(...shown.map(id => eventRow(id, fullDate)));
   ui.more.hidden = state.limit >= count;
   ui.more.textContent = "사건 " + Math.min(PAGE_SIZE, count - state.limit) + "개 더 보기";
 }
 
 function render() {
-  const first = monday(state.day);
-  const year = state.day.slice(0, 4);
-  ui.year.value = year;
-  ui.date.value = state.day;
-  const month = state.day.slice(0, 7);
-  ui.month.value = month.slice(5);
-  const page = data.monthlyPages.includes(month) ? month : data.monthlyPages.at(-1);
-  ui["month-record"].href = monthRecord(page);
-  ui["month-record"].textContent = page === month ? year + "년 " + Number(ui.month.value) + "월 연표 보기" : "범위 밖 연표 보기";
-  showYear(year, first);
-  ui["week-heading"].textContent = weekLabel(first);
-  const raw = data.weeks[first] || [];
+  const period = state.period;
+  const index = periods.indexOf(period);
+  const monthly = index > 0 && index < periods.length - 1;
+  const first = state.day ? monday(state.day) : null;
+  const raw = first ? weekEvents(first) : data.periods[period];
   const ids = matched(raw);
-  const daily = Array(7).fill(0);
-  for (const id of ids) daily[(dateAt(data.events[id][0]).getUTCDay() + 6) % 7]++;
-  const count = ids.length;
   const suffix = ids.length !== raw.length ? " · 필터 적용 전 " + COUNT.format(raw.length) + "건" : "";
-  ui["week-stats"].textContent = count ? COUNT.format(count) + "건 · 기록이 있는 날짜 " + daily.filter(Boolean).length + "/7일" + suffix : "등록된 사건 0건" + suffix;
-  ui.prev.disabled = shift(first, -1) < ui.date.min;
-  ui.next.disabled = shift(first, 7) > ui.date.max;
+
+  ui.period.value = period;
+  ui.date.value = state.day;
+  ui["month-record"].href = monthRecord(period);
+  ui["month-record"].textContent = periodLabel(period) + " 원고 보기";
+  ui["period-prev"].disabled = index === 0;
+  ui["period-next"].disabled = index === periods.length - 1;
+  ui["year-panel"].hidden = !monthly;
+  if (monthly) showYear(period.slice(0, 4), first);
+  ui["view-caption"].textContent = first ? periodLabel(period) + " · 주간 기록" : "기간별 기록";
+  ui["week-heading"].textContent = first ? weekLabel(first) : periodLabel(period);
+  ui["week-stats"].textContent = "등록 사건 " + COUNT.format(ids.length) + "건" + suffix;
+  ui["week-nav"].hidden = !first;
+  ui.days.hidden = !first;
+
+  const daily = Array(7).fill(0);
+  if (first) {
+    for (const id of ids) daily[(dateAt(data.events[id][0]).getUTCDay() + 6) % 7]++;
+  }
   drawVisual(first, ids, daily);
   drawEvidence(ids);
-  drawEvents(first, ids, daily);
-  const approximate = matched(data.approximate[year]);
-  ui.approximate.hidden = !approximate.length;
-  ui.approximate.open = false;
-  ui["approximate-title"].textContent = "월·연도까지만 확인된 기록 " + COUNT.format(approximate.length) + "건";
-  ui["approximate-events"].replaceChildren(...approximate.map(id => eventRow(id, true)));
+  if (first) drawEvents(first, ids, daily);
+  else drawRecordList(ids, true);
 }
 
 function revealEvent(id) {
@@ -307,13 +352,11 @@ function revealEvent(id) {
     state.evidence = "";
     ui.status.value = "";
   }
-  selectDay((event[0] + "-01-01").slice(0, 10), id);
+  const page = event[6].split("/").at(-1).replace(/\.md$/, "");
+  selectPeriod(page, id);
   const row = document.getElementById(id);
   if (!row) return;
-  if (event[0].length < 10) ui.approximate.open = true;
-  row.open = true;
-  const heading = row.querySelector("summary");
-  heading.focus({preventScroll:true});
+  row.querySelector("summary").focus({preventScroll:true});
   row.scrollIntoView({block:"nearest"});
 }
 
@@ -345,24 +388,33 @@ function setup(index) {
   data = index;
   const entries = Object.keys(data.events);
   lookup = entries.map(id => ({id, text:[id, ...data.events[id].slice(0, 4)].join(" ").toLowerCase()}));
-  const firstYear = Number(data.events[entries[0]][0].slice(0, 4));
-  const lastYear = Number(data.events[entries.at(-1)][0].slice(0, 4));
-  years = Array.from({length:lastYear-firstYear+1}, (_, i) => firstYear+i);
-  ui.date.min = firstYear + "-01-01";
-  ui.date.max = lastYear + "-12-31";
-  for (const year of years) ui.year.append(new Option(year + "년", year));
-  for (let month = 1; month <= 12; month++) {
-    ui.month.append(new Option(month + "월", String(month).padStart(2, "0")));
+  periods = Object.keys(data.periods);
+  firstDay = periods[1] + "-01";
+  lastDay = periods.at(-2) + "-31";
+  ui.date.min = firstDay;
+  ui.date.max = lastDay;
+  let group;
+  for (const period of periods) {
+    const option = new Option(periodLabel(period) + " · " + COUNT.format(data.periods[period].length) + "건", period);
+    if (period === "prologue" || period === "epilogue") {
+      ui.period.append(option);
+      continue;
+    }
+    const label = period.slice(0, 4) + "년";
+    if (!group || group.label !== label) {
+      group = node("optgroup");
+      group.label = label;
+      ui.period.append(group);
+    }
+    group.append(option);
   }
   ui["total-events"].textContent = COUNT.format(entries.length);
   ui["total-weeks"].textContent = COUNT.format(Object.keys(data.weeks).length);
   ui["total-checked"].textContent = COUNT.format(stats(entries)[0]);
-  ui.year.addEventListener("change", () => {
-    const year = ui.year.value;
-    const populated = Object.keys(data.weeks).find(key => key.startsWith(year));
-    selectDay(populated || year + "-01-01");
-  });
-  ui.month.addEventListener("change", () => selectDay(ui.year.value + "-" + ui.month.value + "-01"));
+  ui.period.addEventListener("change", () => selectPeriod(ui.period.value));
+  ui["period-prev"].addEventListener("click", () => selectPeriod(periods[periods.indexOf(state.period) - 1]));
+  ui["period-next"].addEventListener("click", () => selectPeriod(periods[periods.indexOf(state.period) + 1]));
+  ui["month-view"].addEventListener("click", () => selectPeriod(state.period));
   ui.date.addEventListener("change", () => {
     if (ui.date.value && ui.date.validity.valid) selectDay(ui.date.value);
   });
@@ -385,13 +437,15 @@ function setup(index) {
   document.addEventListener("pointerdown", event => {
     if (!ui.results.contains(event.target) && event.target !== ui.query) ui.results.hidden = true;
   });
-  ui.prev.addEventListener("click", () => selectDay([shift(monday(state.day), -7), ui.date.min].sort().at(-1)));
+  ui.prev.addEventListener("click", () => {
+    const previous = shift(monday(state.day), -7);
+    const startingWeek = monday(firstDay);
+    selectDay(previous === startingWeek ? firstDay : previous);
+  });
   ui.next.addEventListener("click", () => selectDay(shift(monday(state.day), 7)));
   ui.more.addEventListener("click", () => {
     state.limit += PAGE_SIZE;
-    const first = monday(state.day);
-    const ids = matched(data.weeks[first]);
-    drawEvents(first, ids, DAYS.map((_, i) => ids.filter(id => data.events[id][0] === shift(first, i)).length));
+    render();
   });
   window.addEventListener("hashchange", setFromHash);
   ui.loading.hidden = true;

@@ -10,11 +10,13 @@ from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "docs" / "timeline"
-SOURCE_FILE = "chronology-sources-v1.md"
+SOURCE_FILE = "research/chronology-sources-v1.md"
 FIRST_YEAR, LAST_YEAR = 1936, 1945
 MONTHS = tuple(f"{year}-{month:02d}" for year in range(FIRST_YEAR, LAST_YEAR + 1)
                for month in range(1, 13))
-OUTSIDE = f"outside-{MONTHS[0]}_{MONTHS[-1]}"
+PROLOGUE, EPILOGUE = "prologue", "epilogue"
+PERIODS = (PROLOGUE, *MONTHS, EPILOGUE)
+LEGACY_OUTSIDE = f"outside-{MONTHS[0]}_{MONTHS[-1]}"
 RECORD = re.compile(r"^\|\s*((?:EVT|SRC)-\d+)\s*\|")
 LINK = re.compile(r"https://[^\s<>|]+")
 SOURCES = re.compile(r"\bSRC-\d{3,}\b")
@@ -57,21 +59,24 @@ def load_sources(root):
 
 
 def chronology_bucket(when):
-    if not FIRST_YEAR <= int(when[:4]) <= LAST_YEAR:
-        return OUTSIDE
+    year = int(when[:4])
+    if year < FIRST_YEAR:
+        return PROLOGUE
+    if year > LAST_YEAR:
+        return EPILOGUE
     # Year-only dates belong to the January document and retain their precision.
     return (when + "-01")[:7]
 
 
 def chronology_files(root):
     directory = root / "chronology"
-    expected = {f"{name}.md" for name in (*MONTHS, OUTSIDE)}
-    actual = {path.name for path in directory.glob("*.md")} - {"README.md", "references.md"}
+    expected = {f"{name}.md" for name in PERIODS}
+    actual = {path.name for path in directory.glob("*.md")} - {"README.md", "references.md", f"{LEGACY_OUTSIDE}.md"}
     if expected != actual:
         raise ValueError(
             f"Chronology files: missing {sorted(expected - actual)}, unexpected {sorted(actual - expected)}"
         )
-    return [directory / f"{name}.md" for name in (*MONTHS, OUTSIDE)]
+    return [directory / f"{name}.md" for name in PERIODS]
 
 
 def read_events(root, available_sources):
@@ -98,17 +103,17 @@ def read_events(root, available_sources):
 def make_index(root, output):
     sources = load_sources(root)
     events = read_events(root, sources)
-    weeks, approximate = defaultdict(list), defaultdict(list)
+    weeks = defaultdict(list)
+    periods = {period: [] for period in PERIODS}
     years = defaultdict(Counter)
     for key, event in events.items():
-        when, *_, evidence, src, file, line = event
+        when, _, _, _, evidence, *_ = event
+        periods[chronology_bucket(when)].append(key)
         year = when[:4]
         years[year][str(evidence)] += 1
         if len(when) == 10:
             day = date_key(when)
             weeks[(day - timedelta(days=day.weekday())).isoformat()].append(key)
-        else:
-            approximate[year].append(key)
     gallery = json.loads((root / "scripts" / "timeline_media.json").read_text(encoding="utf-8"))
     media = {}
     for key, item in gallery.items():
@@ -125,9 +130,8 @@ def make_index(root, output):
     if not re.fullmatch(r"[0-9a-f]{40}", revision):
         revision = "main"
     return {
-        "events": events, "weeks": weeks, "approximate": approximate, "years": years,
+        "events": events, "weeks": weeks, "periods": periods, "years": years,
         "sources": sources, "sourceFile": SOURCE_FILE, "media": media, "revision": revision,
-        "monthlyPages": [*MONTHS, OUTSIDE],
     }
 
 

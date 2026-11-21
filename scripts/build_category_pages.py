@@ -6,7 +6,7 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
-from build_timeline import OUTSIDE, chronology_bucket, chronology_files, main as build_timeline
+from build_timeline import LEGACY_OUTSIDE, chronology_files, main as build_timeline
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
@@ -49,18 +49,17 @@ def derive_page(source, destination, pages, banner):
     return rendered
 
 
-def stage_chronology(events):
+def stage_chronology(periods):
     pages = {
         "chronology/README.md": Path("chronology/index.md"),
         "chronology/references.md": Path("chronology/references.md"),
+        f"chronology/{LEGACY_OUTSIDE}.md": Path(f"chronology/{LEGACY_OUTSIDE}.md"),
     }
     pages.update({
         path.relative_to(ROOT).as_posix(): path.relative_to(ROOT)
         for path in chronology_files(ROOT)
     })
-    counts = defaultdict(int)
-    for when, *_ in events.values():
-        counts[chronology_bucket(when)] += 1
+    counts = {key: len(ids) for key, ids in periods.items()}
 
     for source, destination in pages.items():
         markdown = derive_page(Path(source), destination, pages, None)
@@ -70,7 +69,8 @@ def stage_chronology(events):
                 lambda match: f"[{match[1]} ({counts[match[2]]:,})]({match[2]}.md)",
                 markdown,
             )
-            markdown = markdown.replace("[기간 밖 사건]", f"[기간 밖 사건 ({counts[OUTSIDE]:,}건)]")
+            for page, label in (("prologue", "프롤로그 · 1936년 이전"), ("epilogue", "에필로그 · 1945년 이후")):
+                markdown = markdown.replace(f"[{label}]", f"[{label} ({counts[page]:,}건)]")
         elif destination.name != "references.md":
             markdown = re.sub(r"(?m)^\| (EVT-\d{4}) \|",
                               r"| [\1](../timeline/index.html#\1) |", markdown)
@@ -165,4 +165,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    stage_chronology(build_timeline()["events"])
+    stage_chronology(build_timeline()["periods"])

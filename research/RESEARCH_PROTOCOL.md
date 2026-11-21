@@ -1,10 +1,10 @@
 # WW2 Archive — 자동 연속조사 운영 수칙
 
-월별 원고와 범위 밖 사건은 [연표 목차](../chronology/README.md)에서 찾는다. 기존 연도 범위 파일은 월별 원고로 연결한다. 출처와 백로그는 루트 정본과 `research/` 사본을 함께 관리한다.
+월별 원고와 범위 밖 사건은 [연표 목차](../chronology/README.md)에서 찾는다. 기존 연도 범위 파일은 [보관 목록](archive/chronology/README.md)에 있다. 출처와 백로그는 `research/`에서 관리하며, 개별 [사료 감사](source-audits/)와 [사건별 초안](event-drafts/)은 해당 연도의 하위 폴더에 저장한다.
 
 ## 2026-11-13 운영 결함 수정: '감사만 작성' 금지 및 재시도 규칙
 
-- 이전 수십 회의 1942년 forward 실행은 사료감사만 작성하고 EVT/SRC/RQ를 **0/0/0**으로 계속 기록해 지식 색인이 정체되었다. 검증 가능한 새 사건은 해당 월의 `chronology/YYYY-MM.md`에, 신규 출처는 정본 `chronology-sources-v1.md`, 미해결된 독립 검증 이슈는 `research-backlog.md`에 추적한다. 기존 EVT 중복 생성 대신 해당 행을 **보강**한다. 새 EVT의 SRC 링크, 기존 ID 중복, 시간대·보고 시각 및 법적 기준일을 반드시 점검한다.
+- 이전 수십 회의 1942년 forward 실행은 사료감사만 작성하고 EVT/SRC/RQ를 **0/0/0**으로 계속 기록해 지식 색인이 정체되었다. 검증 가능한 새 사건은 해당 월의 `chronology/YYYY-MM.md`에, 신규 출처는 정본 `research/chronology-sources-v1.md`, 미해결된 독립 검증 이슈는 `research/research-backlog.md`에 추적한다. 기존 EVT 중복 생성 대신 해당 행을 **보강**한다. 새 EVT의 SRC 링크, 기존 ID 중복, 시간대·보고 시각 및 법적 기준일을 반드시 점검한다.
 - **증분의 진실성**: 억지로 숫자를 만들지 않는다. 정본에 등록하지 않은 사료는 SRC로 산정하지 않는다. 0/0/0 자체는 근거 부재 시 가능하지만 연속된 두 번의 forward 0/0/0은 작업 성과가 아니라 **조사·편집·저장 프로세스 이상**으로 간주한다. 다음 실행에서 누락 색인 회수/신규 출처 수집을 우선하고 정상 forward 종료로 보고하지 않는다. `validate_index.py`에서 최신 두 배치의 연속 무증분 및 마지막 원장 증분-누적 수 불일치를 차단한다.
 - **쓰기 실패 복구**: 저장·DNS 오류 후 동일한 날짜를 처음부터 연구하지 않는다. 미게시 변경 파일명·확인 URL·신규 ID 후보·예정 커서와 패치 내용을 잃지 않도록 보존한 뒤, 다음 실행에서 원격 HEAD/ledger에 게시 여부를 먼저 확인하고 미반영 내용의 검증·단일 커밋만 재시도한다. 복구 불가 시 연구 재수행이 아니라 오류를 명확히 보고한다.
 - **검증 우선**: 로컬 GitHub DNS만 고장이고 GitHub 연결 도구는 되면 Git Data API의 `create_tree`/`create_commit`/`update_ref(expected_sha)` 원자 경로를 사용한다. 게시 전 전체 변경 구조를 검사하고 로컬 `python validate_index.py` 미실행 사실을 숨기지 않는다. 병합 금지; 게시 뒤 정확한 HEAD에 대응하는 Actions 결론을 확인한다.
@@ -13,7 +13,7 @@
 ## 재개 지점 우선순위
 
 1. GitHub `draft/chronology-index-v1` **현 PR #1 HEAD**를 읽는다. 다른 실행/자동화가 이미 새 커밋을 추가했다면 현재 HEAD에 다시 맞춘다.
-2. [WORK_STATE.md](../WORK_STATE.md)에서 단일 `FORWARD_CURSOR`를, [PROGRESS_LEDGER.md](PROGRESS_LEDGER.md) 마지막 행의 `다음 커서`와 비교한다. 불일치하면 수정 후 조사 시작.
+2. [WORK_STATE.md](WORK_STATE.md)에서 단일 `FORWARD_CURSOR`를, [PROGRESS_LEDGER.md](PROGRESS_LEDGER.md) 마지막 행의 `다음 커서`와 비교한다. 불일치하면 수정 후 조사 시작.
 3. 과거 채팅 메시지, 예약 프롬프트의 과거 초기값, [WORK_STATE_HISTORY_2026-11-07.md](WORK_STATE_HISTORY_2026-11-07.md)의 이전 FORWARD_CURSOR는 **절대로 사용하지 않는다**.
 
 ## 진도 / 누락 구분
@@ -26,8 +26,8 @@
 ## 커밋 원자성
 
 1. 먼저 기존 사건/출처/백로그와 중복 여부 확인. 양측 원문·날짜·발표/실행·편제정원/실현원·가동/총 보유/손실 구분. 자료에 없는 숫자를 절대 추정하지 않는다.
-2. 원장 각 행의 `감사 파일` 칸에는 실제로 존재하는 조사 문서의 저장소 루트 기준 상대 경로 하나만 적는다. 예시는 `source-audit-1942-apr23-25-batch1.md`다. `merge-readiness.md`를 함께 갱신했다는 내용은 필요하면 메모 칸에 기록한다.
-3. 사료감사, `WORK_STATE.md`, `PROGRESS_LEDGER.md`, `merge-readiness.md`와 변경된 정본·미러를 한 커밋에 담아 브랜치를 한 번 갱신한다. Git을 사용하면 전체 변경을 한꺼번에 stage해 커밋한다. GitHub Git Data API를 사용하면 현재 HEAD의 트리를 `base_tree`로 지정하고 전체 변경으로 트리와 커밋을 하나씩 만든 뒤, 기대한 HEAD에서만 fast-forward로 ref를 갱신한다. 파일별 커밋으로 분할하면 검증이 불완전한 상태를 검사한다.
+2. 원장 각 행의 `감사 파일` 칸에는 실제로 존재하는 조사 문서의 저장소 루트 기준 상대 경로 하나만 적는다. 예시는 `research/source-audits/1942/source-audit-1942-apr23-25-batch1.md`다. `merge-readiness.md`를 함께 갱신했다는 내용은 필요하면 메모 칸에 기록한다.
+3. 사료감사, `WORK_STATE.md`, `PROGRESS_LEDGER.md`, `merge-readiness.md`와 변경된 정본을 한 커밋에 담아 브랜치를 한 번 갱신한다. Git을 사용하면 전체 변경을 한꺼번에 stage해 커밋한다. GitHub Git Data API를 사용하면 현재 HEAD의 트리를 `base_tree`로 지정하고 전체 변경으로 트리와 커밋을 하나씩 만든 뒤, 기대한 HEAD에서만 fast-forward로 ref를 갱신한다. 파일별 커밋으로 분할하면 검증이 불완전한 상태를 검사한다.
 4. 게시 전에 변경 목록에 예상 밖 삭제가 없는지 확인하고, 전체 변경을 적용한 상태에서 `python validate_index.py`를 실행한다. 검증 오류는 수정 후 재검사한다. 게시 뒤 정확한 원격 커밋의 Actions 상태를 확인한다. 실행이 아직 조회되지 않으면 대기 중으로 보고한다. 단순 CI 통과는 사료 독립검증 완료를 뜻하지 않는다.
 5. Draft PR #1을 업데이트한다. 수정 범위는 조사 브랜치이며 `main`, `docs/`, Pages 및 PR 병합은 건드리지 않는다. 저장 실패나 HEAD 충돌이 나면 최신 원격 상태를 다시 읽고 검증된 단일 커밋으로 재시도한다.
 

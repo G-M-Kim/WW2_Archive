@@ -4,7 +4,8 @@
 
 - [월별 사건 연표](../chronology/index.md)
 - [인터랙티브 타임라인](../timeline/index.html)
-- [1936~1945년 범위 밖 사건](../chronology/outside-1936-01_1945-12.md)
+- [프롤로그 · 1936년 이전](../chronology/prologue.md)
+- [에필로그 · 1945년 이후](../chronology/epilogue.md)
 
 ## 주제별 조사
 
