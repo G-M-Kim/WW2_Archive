@@ -160,6 +160,10 @@ as_of: 2026-11-21
 
 | ID | 시작일 | 항목 | 분류 | 상태 | 출처 상태 | 출처 |
 |---|---|---|---|---|---|---|
+| EVT-3751 | 1936-01-01 | [독일 혈통보호법 제3조 시행](research/chronology-review-v2/1936-01-01-to-03-events.md#evt-3751). 나치 인종 기준에 따라 유대인의 45세 미만 여성 가사 고용을 제한 | 박해·법률 | 발생 | 문헌대조 | [SRC-2264](chronology-sources-v1.md) 관보 pp.1146–1147 §§3·7 · [SRC-055](chronology-sources-v1.md) 영문 §§3·7 |
+| EVT-3752 | 1936-01-01 | [에티오피아 황제의 스웨덴 적십자 야전병원 피폭 항의 전보](research/chronology-review-v2/1936-01-01-to-03-events.md#evt-3752). 국제연맹 사무총장에게 전달 | 외교·전쟁과 의료 | 발생 | 문헌대조 | [SRC-2266](chronology-sources-v1.md) pp.75·94 · [SRC-2267](chronology-sources-v1.md) C.8.M.7.1936.VII · [SRC-2268](chronology-sources-v1.md) 스웨덴 적십자 절 |
+| EVT-3753 | 1936-01-03 | [에티오피아, 국제연맹에 양측 전쟁 수행에 대한 중립 조사 요청](research/chronology-review-v2/1936-01-01-to-03-events.md#evt-3753) | 외교·전쟁과 의료 | 요청 | 문헌대조 | [SRC-2266](chronology-sources-v1.md) pp.75·94 · [SRC-2270](chronology-sources-v1.md) 문서 92, p.85 |
+| EVT-3754 | 1936-01-03 | [루스벨트, 의회 연설에서 중립 정책의 무기 금수와 전쟁 지원 물자의 평시 수출 수준 제시](research/chronology-review-v2/1936-01-01-to-03-events.md#evt-3754) | 외교·산업경제 | 발표 | 문헌대조 | [SRC-2271](chronology-sources-v1.md) H. Doc. 382, p.4 · [SRC-2272](chronology-sources-v1.md) 문서 156, pp.166–168 |
 | EVT-0298 | 1936-02-26 | 일본 육군 청년 장교들의 2·26 사건(쿠데타 시도, 26~29일) | 군사반란 | 발생 | 문헌대조 | [SRC-088](chronology-sources-v1.md) |
 | EVT-0038 | 1936-03-07 | 독일군 라인란트 재무장 진주 | 군사·외교 | 발생 | 문헌대조 | [SRC-004](chronology-sources-v1.md) |
 | EVT-0039 | 1936-07-17 | 스페인 공화국을 상대로 한 군부 반란 시작(스페인 내전 개시) | 전쟁 | 발생 | 문헌대조 | [SRC-079](chronology-sources-v1.md) |
