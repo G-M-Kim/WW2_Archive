@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "country": "독일",
+  "document_path": "categories/germany/01-tanks.md",
+  "document_id": "CAT-DE-01",
+  "document_status": "in_progress",
+  "current_subcategory": "Panzer I 계열",
+  "scope_path": "categories/review-v2/DE-01-Panzer-I.md",
+  "last_saved_batch": "DE-01-PZI-001",
+  "last_review_date": "2026-11-21",
+  "result": {
+    "retained_claims_without_repeat_search": 2,
+    "new_entities": ["CAT-DE-EQP-0027"],
+    "new_detail_records_for_indexed_forms": ["CAT-DE-EQP-0026"],
+    "open_question_ids": ["CAT-DE-RQ-0004", "CAT-DE-RQ-0079"],
+    "summary": "Panzer I A·B 및 스페인 현지 개조형을 원고에 반영했다. C·F와 지휘형은 범위·근거를 보강했으며 생산·배치 등 필수 셀이 남아 있다."
+  },
+  "next_verification_cell": {
+    "key": "DE-01/Panzer-I/A-B/production-acceptance",
+    "entities": ["CAT-DE-EQP-0020", "CAT-DE-EQP-0026"],
+    "fields": ["공장별 형식·생산 시작/종료", "완성 전차·훈련 차대·개조 차대·군 인수 수량"],
+    "source_leads": [
+      "Panzer Tracts 1-1 (Jentz·Doyle, ISBN 9780970840769)의 A·B 생산 계열과 인수표",
+      "Spielberger·Doyle, Panzer I + II und ihre Abarten, 본문 pp.33–54의 생산·차대 근거",
+      "Bundesarchiv RH 8 / Heereswaffenamt에서 1 A LaS Krupp·1 B LaS May의 발주·인수 원기록"
+    ],
+    "previous_access": "독일국립도서관에서는 도감 목차를 열람했다(CAT-DE-SRC-0191). Bundesarchiv RH 8 안내의 invenio 직링크는 해당 내용을 제공하지 않았다. 이 결과는 소장 문서의 부재를 뜻하지 않는다."
+  },
+  "outstanding_subcategories": [
+    "Panzer I A·B 생산·인수·채택·최초 전투 및 사용국, 지휘 A·B·C, 정찰 C와 강화 F, 훈련·열대·디젤·화염방사·스페인 개조, 개발·계획",
+    "Panzer II·III·IV, Panther, Tiger I·II, 35(t)·38(t)의 기본형과 파생형",
+    "Neubaufahrzeug·Porsche Tiger·Panther II·Maus·E-100 등 개발 사업과 노획·공여 전차 전반",
+    "계열별 01/02 분류·중복 대조와 02 인계 범위 보강"
+  ],
+  "next_document_after_completion": "categories/germany/02-other-armored-vehicles.md"
+}

@@ -2924,17 +2924,25 @@
     "institution_or_author": "Ejército de Tierra, Museo de Medios Acorazados El Goloso",
     "publication_date": "게시일 미확인",
     "source_type": "secondary: 기관 해설 또는 소장품 기록",
-    "locator": "Panzerkampfwagen I Ausf A, Desarrollo·Características",
+    "locator": "Panzerkampfwagen I Ausf A, Desarrollo·Historia·Características·El del museo",
     "url": "https://ejercito.defensa.gob.es/materiales/otros/museo_carros/museo-carros.html?__locale=es",
     "access_status": "source_checked",
     "claims_checked": [
-      "Ausf A의 MG 13 2정·승무원 2명 및 제원란의 최대 42 km/h"
+      "Ausf A의 MG 13 2정·승무원 2명 및 제원란의 최대 42 km/h",
+      "스페인 내전의 A형 운용과 Krupp/Maybach 별칭, Breda Mod. 35 장착 현지 개조 및 별도 배치 구상",
+      "A형 전시품의 차체·포탑 상태와 M113 궤도를 이용한 복원"
     ],
     "limitations": [
-      "박물관 표에 측정 노면·하중과 시험 원기록 미제시"
+      "박물관 표에 측정 노면·하중과 시험 원기록 미제시",
+      "스페인 측의 형식별 총 인도 수량과 현지 개조 제작 수 및 기관 사진 소장번호를 확정할 수 없다.",
+      "Desarrollo의 공개 HTML에서 생산 수량·차대번호 문구가 끊겨 있어 해당 숫자를 채택하지 않았다."
     ],
     "rights": "자체 한국어 요약과 원문 링크만 등록.",
-    "accessed_at": "2026-11-10"
+    "accessed_at": "2026-11-10",
+    "translation": "스페인어 본문을 한국어로 요약했다. 별칭과 기관 절 명칭은 원어 표기.",
+    "additional_accessed_at": [
+      "2026-11-21"
+    ]
   },
   {
     "id": "CAT-DE-SRC-0142",
@@ -3673,17 +3681,22 @@
     "publication_date": null,
     "source_type": "museum_catalog",
     "document_or_accession_number": null,
-    "locator": "전시 목록 14·15·25·32–57번",
+    "locator": "전시 목록 8·14·15·25·32–57번",
     "url": "https://daspanzermuseum.de/en/large-exhibits/",
     "accessed_at": "2026-11-20T01:25:52+09:00",
     "access_status": "source_checked",
     "claims_checked": [
-      "Panzer III M, IV G, Panther A, Tiger II B, 그리고 StuG·Jagdpanzer·Wespe·Hummel의 별도 명칭을 확인했다."
+      "Panzer III M, IV G, Panther A, Tiger II B, 그리고 StuG·Jagdpanzer·Wespe·Hummel의 별도 명칭을 확인했다.",
+      "전시 목록 8번은 Panzerkampfwagen I Ausführung A를 기재한다. 표의 목록 번호는 소장등록번호로 간주하지 않았다."
     ],
     "limitations": [
       "전시물 목록은 역사적 총생산량이나 실전 배치의 증거가 아니다."
     ],
-    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+    "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다.",
+    "additional_accessed_at": [
+      "2026-11-21"
+    ],
+    "translation": "독일어 형식명은 원어 그대로 표기하고 국문 설명을 덧붙였다."
   },
   {
     "id": "CAT-DE-SRC-0182",
@@ -3855,5 +3868,168 @@
       "해당 전역의 후대 연구다. 독일 전역의 목록과 개별 차량 전투 기록은 범위 밖이다."
     ],
     "rights": "자체 한국어 요약과 원문 링크를 제공한다. 원문·사진은 재배포하지 않는다."
+  },
+  {
+    "id": "CAT-DE-SRC-0191",
+    "title": "Panzer I + II und ihre Abarten: Technik, Varianten, Einsatz",
+    "institution_or_author": "Walter J. Spielberger; L. Hilary Doyle; Motorbuch Verlag. 공개 목차 제공 Deutsche Nationalbibliothek",
+    "publication_date": "2014",
+    "source_type": "secondary: 전문 도감의 공개 목차",
+    "document_or_accession_number": "DNB 1045691127; ISBN 978-3-613-03651-2",
+    "locator": "목차 PDF 1~2쪽. LaS p.26; Panzerkampfwagen I und Abarten의 본문 pp.33·38·41·49·54·55·57·60·62·65·66·68에 대응하는 목차 항목",
+    "url": "https://d-nb.info/1045691127/04",
+    "claims_checked": [
+      "Panzer I A·B와 C·F, 지휘형 명칭, 스페인 20 mm형, 훈련·특수형과 별도 차대 파생형의 수록을 확인했다."
+    ],
+    "limitations": [
+      "검토한 것은 목차다. 목차에 인쇄된 회사명 표기만 확보했다. 본문의 공장·수량·운용 근거와 다른 도감과의 원자료 공유 여부는 미확인이다."
+    ],
+    "translation": "독일어 목차를 한국어로 요약했다. 형식명은 원어 병기.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "자체 한국어 요약 및 원문 링크만 제공. 원문·사진 재배포 조건은 확인되지 않았다."
+  },
+  {
+    "id": "CAT-DE-SRC-0192",
+    "title": "Carro ligero Panzerkampfwagen I Ausf B",
+    "institution_or_author": "Ejército de Tierra, Regimiento de Infantería Acorazada Alcázar de Toledo n.º 61 / Museo de Medios Acorazados",
+    "publication_date": "PDF 작성·발행일 미표기",
+    "source_type": "secondary: 스페인 육군 박물관 해설",
+    "document_or_accession_number": null,
+    "locator": "PDF 1쪽 Desarrollo·Características generales; PDF 2쪽 Mecánicas·Tácticas; 다음 El del museo 절",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/rac61/Enlaces/CARRO_LIGERO_PANZERKAMPFWAGEN_I_AUSF_B.pdf",
+    "claims_checked": [
+      "1 B LaS May 표기, 1935년 제작 시작이라는 서술, 엔진과 차체의 변화, 전투중량과 최대속도, 도로·야지 항속과 변속기 표기, B형 소장품 이력"
+    ],
+    "limitations": [
+      "생산 원장과 차대번호별 인수 조건은 제공하지 않는다. 기록된 항속·변속기가 같은 기관 제원 카드와 대조되지 않는다. 원 시험 조건 및 소장등록번호 미기재."
+    ],
+    "independence_group": "Ejercito-de-Tierra-MUMA",
+    "translation": "스페인어를 한국어로 요약했고 CV와 모델번호는 원표기 및 단위를 보존했다.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "자체 한국어 요약 및 원문 링크만 제공. 원문·사진 재배포 조건은 확인되지 않았다."
+  },
+  {
+    "id": "CAT-DE-SRC-0193",
+    "title": "Carro ligero Panzer I B",
+    "institution_or_author": "Ejército de Tierra, Museo de Medios Acorazados (MUMA)",
+    "publication_date": "제원 카드 작성·발행일 미표기",
+    "source_type": "secondary: 스페인 육군 박물관 제원·소장품 카드",
+    "document_or_accession_number": null,
+    "locator": "PDF 1쪽 표제·전시품 사진과 제원란 Transmisión·Autonomía, 1936-11-25 세비야 도착 문단",
+    "url": "https://ejercito.defensa.gob.es/Galerias/Descarga_pdf/Unidades/Madrid/muma/PzIB_NUEVO.pdf",
+    "claims_checked": [
+      "B형의 이름과 사진, 2인·MG 13 두 정·중량 6,000 kg·최대속도 40 km/h, 변속기 FG-31·항속 170 km, 세비야 도착 21대 중 지휘형 4대라는 카드 기록"
+    ],
+    "limitations": [
+      "사진의 개별 등록번호와 재배포 권리 미기재. 운송 명세와 최초 교전 원기록 미제시. 항속은 노면이 기재되지 않았고 같은 기관의 장문 해설과 값이 다르다."
+    ],
+    "independence_group": "Ejercito-de-Tierra-MUMA",
+    "translation": "스페인어 제원 카드 문구를 한국어로 요약했다. 수치는 원단위.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "자체 한국어 요약 및 원문 링크만 제공. 원문·사진 재배포 조건은 확인되지 않았다."
+  },
+  {
+    "id": "CAT-DE-SRC-0194",
+    "title": "Panzerkampfwagen (Panzer) I",
+    "institution_or_author": "Arsenalen, Sveriges Försvarsfordonsmuseum",
+    "publication_date": "게시일 미표기",
+    "source_type": "secondary: 박물관 제원·소장품 안내",
+    "document_or_accession_number": null,
+    "locator": "도입부와 Technical data의 Manufacturer, Years of manufacture, Number manufactured, Max speed",
+    "url": "https://www.arsenalen.se/vehiclecollection/panzerkampfwagen-panzer-i/",
+    "claims_checked": [
+      "A형 관련 Krupp 설계 계열·제작사 목록, 1934~1936년 및 1,160대라는 기관 수치, 최대 50 km/h"
+    ],
+    "limitations": [
+      "1,160대의 완성차·훈련 차대·인수 포함 기준, 공장별 수량 및 속도 측정 조건 미제시. 기관 소장차의 전후 이력을 독일군 사용 시점과 구별했다."
+    ],
+    "translation": "영어 페이지와 스웨덴어 괄호의 수량 범위를 한국어로 요약했다.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "자체 한국어 요약 및 원문 링크만 제공. 원문·사진 재배포 조건은 확인되지 않았다."
+  },
+  {
+    "id": "CAT-DE-SRC-0195",
+    "title": "Polen, Befehlspanzer I",
+    "institution_or_author": "Rascheit 촬영; Deutsches Bundesarchiv, Propagandakompanien der Wehrmacht – Heer und Luftwaffe. 기록원 제공 디지털 복제본은 Wikimedia Commons 공개",
+    "publication_date": "1939-09 (촬영)",
+    "source_type": "primary: 동시대 사진; 형식·장소 표기는 기록원 캡션",
+    "document_or_accession_number": "Bild 101I-318-0083-29",
+    "locator": "기관 기증본의 Summary → Archive description, Date, Accession number, Licensing",
+    "url": "https://www.bild.bundesarchiv.de/dba/de/search/?query=Bild+101I-318-0083-29",
+    "surrogate_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-318-0083-29,_Polen,_Befehlspanzer_I.jpg",
+    "claims_checked": [
+      "기관 메타데이터가 1939년 9월 폴란드에서 앞 차량을 Panzer I 기반 B형 지휘차로 식별한다."
+    ],
+    "limitations": [
+      "사진은 현지 존재의 자료다. 제작 수량이나 최초 전투를 입증하지 못한다. 상세 캡션과 권리는 기관 기증본에서 확인했으며 기록원 검색창은 목록까지만 확인했다."
+    ],
+    "rights": "기관 기증 디지털 복제본은 CC BY-SA 3.0 DE. 표기 Bundesarchiv, Bild 101I-318-0083-29 / Rascheit / CC-BY-SA 3.0. 이용 시 라이선스·변경 여부를 밝혀야 하며 2차 저작물은 동일·호환 조건 적용. 외부 공개 복제본을 수정 없이 표시하고 출처·라이선스를 연결했다.",
+    "translation": "독일어 기관 캡션을 한국어로 요약했다. 사용자 추가 캡션은 증거로 계산하지 않았다.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked"
+  },
+  {
+    "id": "CAT-DE-SRC-0196",
+    "title": "Гвоздени и неми чувари (Збирка наоружања у екстеријеру)",
+    "institution_or_author": "Mirko Peković, 베오그라드 군사박물관 선임 큐레이터; 세르비아 국방부 Odbrana",
+    "publication_date": "2008-08-01",
+    "source_type": "secondary: 기관 소장품·전시 해설",
+    "document_or_accession_number": "Одбрана 69호",
+    "locator": "고유 절 제목 Гвоздени и неми чувари, PzKpfw I Ausf F VK 1801과 30대를 적은 단락",
+    "url": "https://www.odbrana.mod.gov.rs/odbrana/69/069%20Odbrana.pdf",
+    "claims_checked": [
+      "2008년 기사에서 베오그라드 군사박물관 야외 F형 전시품과 제작 30대라고 기록했다."
+    ],
+    "limitations": [
+      "해당 문단에 개별 소장번호나 독일 제조·인수 원장이 없다. 제작 30대에 시제차를 포함하는지 불명이며 현재의 전시 상태는 확인하지 않았다."
+    ],
+    "translation": "세르비아어 원문에서 소장품 상태와 수량 서술만 한국어로 옮겼다.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "자체 한국어 요약 및 원문 링크만 제공. 원문·사진 재배포 조건은 확인되지 않았다."
+  },
+  {
+    "id": "CAT-DE-SRC-0197",
+    "title": "Das deutsche militärische Engagement im Spanischen Bürgerkrieg 1936–1939",
+    "institution_or_author": "Thomas Menzel; Deutsches Bundesarchiv, Abteilung Militärarchiv",
+    "publication_date": "2026-07 (Stand)",
+    "source_type": "secondary: 기록군 안내",
+    "document_or_accession_number": null,
+    "locator": "Gruppe Imker·Gruppe Drohne의 부대 및 기록 전승 문단, N 2 Thoma 항목",
+    "url": "https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/das-deutsche-militaerische-engagement-im-spanischen-buergerkrieg-1936-1939/",
+    "claims_checked": [
+      "Imker와 Drohne의 관계, 자체 문서의 미전승 및 일부 상급기관·개인 자료의 존재, Thoma 유고 N 2의 스페인 자료 부재에 대한 안내"
+    ],
+    "limitations": [
+      "부대 구성과 기록군 범위 안내다. 형식별 도착일, 전쟁일지와 개별 차량 실전까지 증명하지 못한다."
+    ],
+    "translation": "독일어 전승과 부대 설명을 한국어로 요약했다.",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "rights": "자체 한국어 요약 및 원문 링크만 제공. 원문·사진 재배포 조건은 확인되지 않았다."
+  },
+  {
+    "id": "CAT-DE-SRC-0198",
+    "title": "Armored Warfare during the Spanish Civil War (1936-1939): The Experience Reconsidered",
+    "institution_or_author": "Anthony J. Candil; U.S. Army eARMOR",
+    "publication_date": "2020 Fall (eARMOR 수록판)",
+    "source_type": "secondary: 후대 군사사 연구",
+    "document_or_accession_number": null,
+    "locator": "Figure 3 캡션, 첫 공급과 Panzer I A·B의 스페인 운용",
+    "url": "https://www.benning.army.mil/armor/eARMOR/content/issues/2020/Fall/4Candill20.pdf",
+    "accessed_at": "2026-11-21",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "독일이 스페인 국민파에 Panzer I A·B를 각각 공급했다고 기록했다."
+    ],
+    "limitations": [
+      "캡션의 전체 공급 합계는 형식별·지휘차 포함 범위를 밝히지 않아 총계의 확인 근거로 사용하지 않았다. 박물관 해설과 공유한 원기록은 확인되지 않았다."
+    ],
+    "translation": "영어 사진 설명의 공급·운용 서술을 한국어로 요약했다.",
+    "rights": "자체 한국어 요약 및 기사 링크만 제공. Candil의 사진은 재배포하지 않았다."
   }
 ]
