@@ -4,7 +4,7 @@ country: 독일
 category_number: 1
 status: partial
 research_scope: 독일군 주요 9개 전차 계열의 형식 색인과 지휘·정찰·화염방사·시제·노획 운용 확인, 기존 상세 제원 대조
-updated_at: 2026-11-20
+updated_at: 2026-11-21
 ---
 
 # 독일 · 전차장비, 무장, 성능
@@ -17,7 +17,7 @@ updated_at: 2026-11-20
 
 | 계열 | 확인한 형식·명칭 | 확인 범위와 근거 |
 |---|---|---|
-| **Panzer I** | **A, B** | A·B는 초기 기본형이다. C·F와 지휘전차는 아래 별도 표에 있다. A형 개별 자료는 [상세 대조](#detail-comparison)에 있다. [CAT-DE-SRC-0001](https://www.ibiblio.org/hyperwar/Germany/HB/HB-7.html) VII §VI.3.b · [CAT-DE-SRC-0175](https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf) 목차 pp.12–17에 해당하는 항목. |
+| **Panzer I** | **A, B** | A·B는 초기 기본형이다. [Panzer I 기본형과 스페인 개조형](#panzer-i-a-b)에서 제원·생산·스페인 운용을, [훈련·개조용 차대](#panzer-i-training-chassis)에서 초기 La.S. 및 B형 기반 차대를 찾을 수 있다. C·F와 지휘전차는 아래 표에 있다. [CAT-DE-SRC-0001](https://www.ibiblio.org/hyperwar/Germany/HB/HB-7.html) VII §VI.3.b · [CAT-DE-SRC-0175](https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf) 목차 pp.12–17. |
 | **Panzer II** | **a/1, a/2, a/3, b, c** · **A, B, C, D, E, F** · **L (Luchs)** | 소문자 초기형과 대문자 형식은 구별한다. D·E는 이 목록에 따로 표기하고, F 개별 전차와 L 정찰전차는 [상세 대조](#detail-comparison)에서 확인할 수 있다. G·H·J·M은 아래 개발군 표에 있다. [CAT-DE-SRC-0176](https://www.panzerwrecks.com/product/panzer-tractsno-2-1-panzerkampfwagen-ii-ausf-a-1-a-2-a-3-b-c-a-b-c/) 제목 및 설명 · [CAT-DE-SRC-0175](https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf) 목차 pp.18–25 해당 항목 · [CAT-DE-SRC-0143](https://tankmuseum.org/tank-nuts/tank-collection/panzer-ii-ausf-l?country=&era=WW2&tname=&tpage=1) L형 개발 설명. |
 | **Panzer III** | **A, B, C, D** · **E, F, G, H** · **J, L, M, N** | A–D 초기형과 후기 J·L·M·N을 구분했다. J에는 무장 변경이 있었고 N은 단포신 75 mm 지원형으로 기록된다. 각 형식이 동일한 규모로 양산·배치됐다는 의미는 아니다. [CAT-DE-SRC-0175](https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf) 목차 pp.34–42 해당 항목 · [CAT-DE-SRC-0177](https://www.historyofwar.org/articles/weapons_panzer_III.html) E–H 절 · [CAT-DE-SRC-0178](https://www.panzerwrecks.com/product/panzer-tracts-no-3-3-panzerkampfwagen-iii-ausf-j-l-m-n/) 목차 2–7절. |
 | **Panzer IV** | **A, B, C, D, E, F(후칭 F1), G, H, J** · **F2** 표기 | F2는 초기 장포신형 명칭이며 1942년 G 명칭과 연결된다. 두 이름의 생산량을 독립 합계로 더하면 초기 장포신형이 중복될 수 있다. [CAT-DE-SRC-0179](https://www.panzerwrecks.com/product/panzer-iv-ausf-a-j-technical-and-operational-history-vol-1/) 세 권 통합 목차 · [CAT-DE-SRC-0180](https://api.pageplace.de/preview/DT0400.9781780964966_A26610662/preview-9781780964966_A26610662.pdf) 서론의 1942년 명칭 변경 설명. |
@@ -31,16 +31,20 @@ updated_at: 2026-11-20
 
 | 형식 | 확인한 구분과 현재 근거 |
 |---|---|
-| **Kleiner Panzerbefehlswagen (Sd.Kfz. 265)** | Panzer I 계열 지휘차다. 영국 전차박물관에 실제 노획 차량이 보존되어 있다. [CAT-DE-SRC-0183](https://tankmuseum.org/tank-nuts/tank-collection/panzer-i-command-tank?country=all&era=WW2&tname=&tpage=1) 소장품 절. |
+| **Kleiner Panzerbefehlswagen (Sd.Kfz. 265)** | Panzer I 계열 지휘차다. 전문 도감 목차는 지휘형 A·B·C를 각각 **1 kl A, 2 kl B, 3 kl B**로 표기한다. 앞의 기본 전차 형식이나 정찰 개발형 Ausf. C와 집계를 합치지 않는다. 독일 연방기록원이 제공한 1939년 9월 폴란드 사진의 기관 캡션은 앞 차량을 Panzer I 기반 B형 지휘차로 식별한다. 영국 전차박물관에는 북아프리카에서 노획한 지휘차가 보존되어 있다. [CAT-DE-SRC-0191](https://d-nb.info/1045691127/04#page=2) 목차의 본문 pp.66·68 · [CAT-DE-SRC-0195](https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-318-0083-29,_Polen,_Befehlspanzer_I.jpg) Bild 101I-318-0083-29 · [CAT-DE-SRC-0183](https://tankmuseum.org/tank-nuts/tank-collection/panzer-i-command-tank?country=all&era=WW2&tname=&tpage=1) 소장품 절. |
 | **Panzerbefehlswagen III D1, E, H, J, K** | 지휘형으로 분류된 이름이다. D1은 기본 전차 D와, K는 기본 전차 형식 표와 구분했다. 전문서 출판사 소개에서 명칭을 확인했으며 각 형식의 실제 지급 수량은 미확인이다. [CAT-DE-SRC-0184](https://www.panzerwrecks.com/product/panzer-tracts-no-3-4-panzerbefehlswagen-ausf-d1-e-h-j-k/) 제목·수록 범위. |
 | **Panzer II (Flamm), Panzer III (Flamm)** | 각각 Panzer II와 III의 화염방사형이다. II의 **Ausf. F** 전차와 교범의 **II (F)** 화염방사형 표기를 분리한다. [CAT-DE-SRC-0175](https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf) 목차 pp.23·42 해당 항목 · [CAT-DE-SRC-0001](https://www.ibiblio.org/hyperwar/Germany/HB/HB-7.html) VII §VI.3.c–d. |
 | **Aufklärungspanzer 38(t)** | 38(t) 계열 차대를 사용한 정찰 개조형이다. 기본형 38(t)와 생산·편제 집계가 다르다. [CAT-DE-SRC-0175](https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf) 목차 p.33 해당 항목 · [CAT-DE-SRC-0182](https://www.historyofwar.org/articles/weapons_panzerkampfwagen_38t.html) 차대 파생형 절. |
+
+![1939년 9월 폴란드의 Panzer I 기반 B형 지휘차와 뒤쪽 Panzer II](https://upload.wikimedia.org/wikipedia/commons/5/54/Bundesarchiv_Bild_101I-318-0083-29%2C_Polen%2C_Befehlspanzer_I.jpg)
+
+사진 앞쪽은 B형 지휘차다. 뒤에는 Panzer II가 보인다. Bundesarchiv, Bild 101I-318-0083-29 / Rascheit / CC-BY-SA 3.0. 공개 복제본을 수정 없이 표시했다. [CAT-DE-SRC-0195 원본 설명](https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-318-0083-29,_Polen,_Befehlspanzer_I.jpg) · [CC BY-SA 3.0 DE](https://creativecommons.org/licenses/by-sa/3.0/de/).
 
 ### 초기 소량 제작형, 시제차 및 개발 사업
 
 | 형식·사업 | 생산·운용에 관해 확인한 범위 |
 |---|---|
-| **Panzer I C (VK 601), F (VK 1801)** | 기본 A·B와 별개인 개발형이다. 이름과 형식 구분을 확인했다. 생산 대장과 배치·실전은 추가 검증이 필요하다. [CAT-DE-SRC-0175](https://api.pageplace.de/preview/DT0400.9783613312883_A48758177/preview-9783613312883_A48758177.pdf) 목차 pp.16–17 해당 항목. |
+| **Panzer I C (VK 6.01), F (VK 18.01)** | 기본 A·B와 별개인 소량 제작형이다. C는 **Panzerkampfwagen I n. A.** 정찰전차, F는 **Panzerkampfwagen I n. A. verstärkt** 강화형이다. 전문서는 두 형식 모두 Krauss-Maffei 차대·조립과 Daimler-Benz 상부 구조·포탑을 기록한다. C는 1939년 9월 차대 40대를 계약했고, 옌츠·힐러리 도일의 집계는 1942~1943년 완성 전차 40대다. F는 1939년 12월 30대 제작을 승인했고, 데이비드 도일은 1942년 4~12월 최종 조립 30대를 기록한다. 베오그라드 군사박물관 큐레이터도 F 30대 제작과 2008년 실물 전시를 기록했다. 두 형식의 시제분 산입, 군 인수, 부대 배치와 최초 실전은 미확인이다. [CAT-DE-SRC-0191](https://d-nb.info/1045691127/04#page=2) 목차의 본문 p.55 · [CAT-DE-SRC-0199](https://cdn.palmknihy.cz/prod-media-assets/01HJ14J20WV0E0X8M90XQZWV3W/book_377863_51.pdf) 인쇄 pp.12–14 · [CAT-DE-SRC-0200](https://www.scribd.com/document/833976350/23-0-Panzer-Production-from-1933-to-1945) p.23-9 제작표 및 C·F 캡션 · [CAT-DE-SRC-0196](https://www.odbrana.mod.gov.rs/odbrana/69/069%20Odbrana.pdf) 69호 「Гвоздени и неми чувари」 F형 문단. |
 | **Panzer II G, H, J, M** | 전문서 서지에서 확인되는 개발형 명칭이다. 출판물 본문의 형식별 생산·부대 지급 원자료는 미대조다. 정찰전차 L은 별도 실물 근거가 있어 주 계열 표에 포함했다. [CAT-DE-SRC-0185](https://www.panzernet.net/panzernet/en/panzernet/zdroje.php) Panzer Tracts 2-2 서지. |
 | **Neubaufahrzeug** | 시험형 계열이다. 독일 연방기록원은 1940년 4~5월 노르웨이 사진을 보존하고 있다. 사진은 현지 존재의 근거이며, 그 한 장으로 생산량이나 실전 교전 기록을 확정하지 않았다. [CAT-DE-SRC-0186](https://www.bild.bundesarchiv.de/dba/en/search/?query=Bild+101I-761-221N-06) Bild 101I-761-0221N-06. |
 | **VK 45.01(P) / Porsche Tiger** | Tiger 개발의 Porsche 경쟁차다. 일반 Tiger I 양산형과 구별했다. 같은 계열 차대를 활용한 Ferdinand/Elefant는 [02번 기갑장비](02-other-armored-vehicles.md) 범위다. [CAT-DE-SRC-0187](https://porschecarshistory.com/wp-content/old/biblio3/67/Panzer%20Tracts%206.pdf) Porsche Typ 101 및 VK 45.01(P) 절. |
@@ -58,7 +62,58 @@ updated_at: 2026-11-20
 | **Somua S35** | **Pz.Kpfw. 35-S 739(f)**. 원형 전차 배정과 교육용 개조, 분리 포탑 이용은 같은 집계에 넣지 않는다. [CAT-DE-SRC-0190](https://electronicsandbooks.com/edt/manual/Publischer/G/German%20Miltary%20WW2/Panzers%20In%20Normandy-Then%20And%20Now%20c20080815%20%5B214%5D.pdf) pp.58–59. |
 | **Char B1 bis** | **Pz.Kpfw. B-2 740(f)**. 기본 노획 전차와 화염방사 개조형을 별도 운용 형태로 기록한다. [CAT-DE-SRC-0190](https://electronicsandbooks.com/edt/manual/Publischer/G/German%20Miltary%20WW2/Panzers%20In%20Normandy-Then%20And%20Now%20c20080815%20%5B214%5D.pdf) pp.58–59. |
 
-돌격포 **StuG III**, 구축전차 **Jagdpanther·Jagdpanzer 38**, 자주포 **Wespe·Hummel** 등은 전차 차대를 공유해도 [02번 기갑장비](02-other-armored-vehicles.md)의 조사 대상이다. 소련·이탈리아 등 기타 노획 전차, 전 형식의 생산량과 실전 배치, 출처 사이의 명칭 차이는 [후속 검증 과제](QUESTIONS.json) CAT-DE-RQ-0004에서 추적한다. [CAT-DE-SRC-0181](https://daspanzermuseum.de/en/large-exhibits/) 전시물 목록 32–57번.
+<a id="tanks-and-derivatives"></a>
+
+### 01 전차와 02 기갑장비 분류표
+
+[02번 원고](02-other-armored-vehicles.md)의 「조사 범위와 분류」에서 이 문서로 돌아올 수 있다. 아래 표는 원고의 위치와 추가로 확인할 형식을 보여준다.
+
+| 분류 | 원고·후보 | 확인 범위 |
+|---|---|---|
+| 전차·지휘·정찰·화염방사 전차 | 01의 위 계열표, 지휘·정찰·화염방사형 표, [Panzer I 기본형과 스페인 개조형](#panzer-i-a-b) | Panzer I의 차대 기반 지휘형·포탑을 유지한 스페인 개조형은 여기서 찾을 수 있다. 후속 검증 셀은 [Panzer I 범위표](../review-v2/DE-01-Panzer-I.md)에 있다. |
+| 돌격포·대전차 자주포·구축전차 | [02번 원고](02-other-armored-vehicles.md)의 StuG III 및 Panzerjäger I, Ferdinand/Elefant, Jagdpanther, Jagdpanzer 38 후보 | StuG III의 기존 개체 행은 CAT-DE-EQP-0005다. 다른 후보의 형식·생산·배치는 02에서 개별 조사한다. [CAT-DE-SRC-0001](https://www.ibiblio.org/hyperwar/USA/ref/TM/pdfs/TME30-451.PDF#page=367) VII-57 · [CAT-DE-SRC-0191](https://d-nb.info/1045691127/04#page=2) 목차의 본문 p.60 · [CAT-DE-SRC-0187](https://porschecarshistory.com/wp-content/old/biblio3/67/Panzer%20Tracts%206.pdf) VK 45.01(P) 절 · [CAT-DE-SRC-0181](https://daspanzermuseum.de/en/large-exhibits/) 목록 48·57번. |
+| 자주포·대공전차 | [02번 원고](02-other-armored-vehicles.md)의 분류. 15 cm sIG 33 탑재 Panzer I 차대, Wespe·Hummel은 개별 조사 후보 | 카테고리를 먼저 배정했다. 대공전차의 개별 형식 목록은 후속 계열 조사에서 보강한다. [CAT-DE-SRC-0001](https://www.ibiblio.org/hyperwar/USA/ref/TM/pdfs/TME30-451.PDF#page=367) VII-57 · [CAT-DE-SRC-0191](https://d-nb.info/1045691127/04#page=2) 목차의 본문 p.62 · [CAT-DE-SRC-0181](https://daspanzermuseum.de/en/large-exhibits/) 목록 46·47번. |
+| 탄약운반·정비·공병차 | [02번 원고](02-other-armored-vehicles.md)의 추가 조사 범위. Panzer I 차대 Munitionsschlepper·Instandsetzungskraftwagen I·Pionier-Kampfwagen I·Ladungsleger I | 도감 목차에 이름이 있는 후보들이다. 실차 제작 여부와 운용·수량은 02에서 확인한다. [CAT-DE-SRC-0191](https://d-nb.info/1045691127/04#page=2) 목차의 본문 pp.57·65. |
+
+소련·이탈리아 등 기타 노획 전차와 형식별 생산·실전 배치, 자료별 명칭 차이는 [후속 검증 과제](QUESTIONS.json)의 CAT-DE-RQ-0004에서 추적한다.
+
+<a id="panzer-i-a-b"></a>
+
+### Panzer I 기본형과 스페인 개조형
+
+| 개체 ID·형식 | 개발·생산과 개체 구분 | 제원과 소장품 |
+|---|---|---|
+| CAT-DE-EQP-0020 · **Panzerkampfwagen I Ausf. A** · LaS Krupp · 스페인 별칭 Krupp | Krupp-Essen이 차대 설계를 맡았다. 아르세날렌과 데이비드 도일은 Henschel·MAN·Krupp-Gruson·Daimler-Benz를 제작사로 든다. 도일의 p.5 차대번호 표 및 옌츠·힐러리 도일의 생산표에는 Rheinmetall도 있다. 도일은 완성 전차 기간을 **1934년 7월~1936년 6월**로 제시한다. 원장이 확인되기 전에는 아래 출처별 수량을 병기한다. [CAT-DE-SRC-0194](https://www.arsenalen.se/vehiclecollection/panzerkampfwagen-panzer-i/) Technical data · [CAT-DE-SRC-0199](https://cdn.palmknihy.cz/prod-media-assets/01HJ14J20WV0E0X8M90XQZWV3W/book_377863_51.pdf) pp.5–6 · [CAT-DE-SRC-0200](https://www.scribd.com/document/833976350/23-0-Panzer-Production-from-1933-to-1945) p.23-8 제작표. | MG 13 2정·승무원 2명은 아래 상세 대조의 기존 근거를 유지한다. 스페인 육군 박물관은 5.4 t, Krupp M 305, 최대 42 km/h를 제시하고 아르세날렌 박물관은 최대 50 km/h로 표기한다. 각 표의 시험 조건을 확인하지 못했다. El Goloso 소장 A형은 M113 궤도를 이용해 복원했다. 뮌스터 전차박물관 전시 목록에도 A형이 있다. [CAT-DE-SRC-0141](https://ejercito.defensa.gob.es/materiales/otros/museo_carros/museo-carros.html?__locale=es) Características·El del museo · [CAT-DE-SRC-0194](https://www.arsenalen.se/vehiclecollection/panzerkampfwagen-panzer-i/) Technical data · [CAT-DE-SRC-0181](https://daspanzermuseum.de/en/large-exhibits/) 목록 8번. |
+| CAT-DE-EQP-0026 · **Panzerkampfwagen I Ausf. B** · 1 B LaS May · 스페인 별칭 Maybach | 두 제작표에서 Daimler-Benz·Henschel·MAN·Krupp-Gruson이 확인된다. 스페인 육군 박물관은 제작 시작을 **1935년**, 터커존스는 제작 기간을 **1935년 8월~1937년 6월**로 제시한다. 옌츠의 연구를 인용한 납품 집계에서는 첫 완성월이 미확인이고 1936년 7~8월은 추정이다. 종료·정식 채택과 공장별 인수일은 미확인이다. Maybach NL 38 TR 채용과 함께 차체가 약 40 cm 길어지고 주행륜이 한 개 늘었다. [CAT-DE-SRC-0192](https://ejercito.defensa.gob.es/unidades/Madrid/rac61/Enlaces/CARRO_LIGERO_PANZERKAMPFWAGEN_I_AUSF_B.pdf#page=1) p.1 Desarrollo · [CAT-DE-SRC-0199](https://cdn.palmknihy.cz/prod-media-assets/01HJ14J20WV0E0X8M90XQZWV3W/book_377863_51.pdf) pp.7–8·12 · [CAT-DE-SRC-0200](https://www.scribd.com/document/833976350/23-0-Panzer-Production-from-1933-to-1945) p.23-8 · [CAT-DE-SRC-0201](https://www.perlego.com/book/2447087/panzer-i-and-ii-the-birth-of-hitlers-panzerwaffe-pdf) 제1장 도입부 · [CAT-DE-SRC-0202](https://generalstaff.org/WW2/PEDIA/Prod/WW2_GER_Tank_Monthly.htm) 첫 절 B형 문단. | 스페인 육군 박물관 자료의 공통 표기는 MG 13 2정, 중량 약 6 t, 최대 40 km/h다. 장문 해설만 그 중량을 전투중량으로 명시한다. 제원 카드의 승무원은 2명이며 기동 시험의 하중·노면은 미제시다. MUMA 제원 카드의 사진과 장문 해설의 El del museo에서 소장 B형을 확인할 수 있다. 사진 소장번호와 재배포 조건은 확인하지 못했다. [CAT-DE-SRC-0192](https://ejercito.defensa.gob.es/unidades/Madrid/rac61/Enlaces/CARRO_LIGERO_PANZERKAMPFWAGEN_I_AUSF_B.pdf#page=2) PDF 1~2쪽 Características·El del museo · [CAT-DE-SRC-0193](https://ejercito.defensa.gob.es/Galerias/Descarga_pdf/Unidades/Madrid/muma/PzIB_NUEVO.pdf#page=1) 한 장짜리 MUMA 카드. |
+| CAT-DE-EQP-0027 · **Panzer I Ausf. A, Breda Mod. 35 장착형** | 스페인 내전 중 일부 Panzer I 전차의 포탑을 개조해 Breda Mod. 35 20 mm 포를 장착한 현지 개조다. 도감 목차에도 스페인 20 mm 개조형이 별도로 실려 있다. 스페인 육군 박물관이 언급하는 사진은 A형을 가리킨다. | 개조 수량·작업장·최초 교전일·개별 원사진의 소장번호는 미확인이다. 박물관 해설에 나오는 소대별 지급은 계획으로 기록한다. [CAT-DE-SRC-0141](https://ejercito.defensa.gob.es/materiales/otros/museo_carros/museo-carros.html?__locale=es) A형 해설의 Historia · [CAT-DE-SRC-0191](https://d-nb.info/1045691127/04#page=2) 목차의 본문 p.49. |
+
+**독일 육군의 조달·인수.** 연방기록원 총서가 인용한 당시 공고에 따르면 군용 차량 조달조직 Wa B 6가 1935년 5월 설치됐고 같은 해 12월 조달부로 개편됐다. 납품 물자의 군 인수는 관할 인수처가 담당했다. 발주, 업체 완성, 군 인수, 부대 보유는 각각 증빙이 필요한 단계다. 아래 수치의 형식별 원장과 A·B형의 정식 채택일은 확인되지 않았다. [CAT-DE-SRC-0204](https://www.bundesarchiv.de/assets/bundesarchiv/de/Publikationen/BArch/Publikation_Schriften_Wehrmacht_Band_III.pdf) pp.153–154, 주 647·656–657.
+
+**제작·보유·납품 수량.** A형에 대해 데이비드 도일과 터커존스는 무장 전차 **818대**, 옌츠·힐러리 도일은 완성 **1,075대**(중국 수출분 15대 포함)로 적었다. 아르세날렌은 생산 **1,160대**로 표시한다. 옌츠의 앞선 연구를 인용한 별도 집계에는 같은 **1,160대**가 1936년 10월 1일 육군 보유량으로 나온다. 인용한 두 연구가 사용한 원장의 범위와 박물관의 집계 근거는 확인되지 않았다. [CAT-DE-SRC-0199](https://cdn.palmknihy.cz/prod-media-assets/01HJ14J20WV0E0X8M90XQZWV3W/book_377863_51.pdf) p.6 A형 캡션 · [CAT-DE-SRC-0201](https://www.perlego.com/book/2447087/panzer-i-and-ii-the-birth-of-hitlers-panzerwaffe-pdf) 제1장 도입부 · [CAT-DE-SRC-0200](https://www.scribd.com/document/833976350/23-0-Panzer-Production-from-1933-to-1945) p.23-10 A형 캡션 · [CAT-DE-SRC-0194](https://www.arsenalen.se/vehiclecollection/panzerkampfwagen-panzer-i/) Technical data · [CAT-DE-SRC-0202](https://generalstaff.org/WW2/PEDIA/Prod/WW2_GER_Tank_Monthly.htm) A형 재고표.
+
+옌츠·힐러리 도일은 B형 **5a·6a/La.S. 양산분 399대**를 잡고, 터커존스는 B형 **675대**를 제시하지만 포함 차대의 범위를 밝히지 않는다. 옌츠의 앞선 연구를 인용한 납품 집계는 **1936년 10월 1일 계약 403대 중 납품 52대**, **1937년 5월 8일 미납 58대**라고 전한다. 이에 따른 약 345대는 그날까지의 납품 추산이다. 계약 종료 시점의 총인수는 별도 증빙이 필요하다. [CAT-DE-SRC-0200](https://www.scribd.com/document/833976350/23-0-Panzer-Production-from-1933-to-1945) pp.23-8·23-11 · [CAT-DE-SRC-0201](https://www.perlego.com/book/2447087/panzer-i-and-ii-the-birth-of-hitlers-panzerwaffe-pdf) 제1장 도입부 · [CAT-DE-SRC-0202](https://generalstaff.org/WW2/PEDIA/Prod/WW2_GER_Tank_Monthly.htm) B형 납품 문단.
+
+**스페인 도착과 초기 운용.** 후대 연구는 독일의 첫 선적분을 A형 **41대**로 집계한다. 마르틴 팔마는 1936년 10월 7일 세비야 도착으로, 로드리게스 곤살레스와 스페인 육군 박물관은 같은 날 스페인 영해 진입으로 적었다. 로드리게스 곤살레스가 확인한 8~10일 카세레스 일대의 철도 이동은 별도 단계다. 박물관에 따르면 독일 교관은 카세레스에서 스페인 승무원을 교육했다. 박물관의 10월 18일 교육부대 **32대**는 해당 시점의 부대 규모다. 두 수치는 집계 대상이 다르며 항만 하역일과 개체별 배정은 하역표·지급표 대조가 필요하다. [CAT-DE-SRC-0205](https://dspace.ceu.es/server/api/core/bitstreams/8d891e30-4424-4471-8e32-2be05ebc4eb9/content) pp.231–233·236, 주 380–381·388 · [CAT-DE-SRC-0206](https://publicaciones.defensa.gob.es/media/downloadable/files/links/r/h/rhm_extra_i_2022.pdf) pp.71–72 · [CAT-DE-SRC-0209](https://www.chdetrujillo.com/wp-content/uploads/2008/29_la_base_alemana_de_carros_de_combate.pdf) pp.666–667, 주 15 및 그림 7 · [CAT-DE-SRC-0141](https://ejercito.defensa.gob.es/materiales/otros/museo_carros/museo-carros.html?__locale=es) A형 Historia.
+
+스페인 육군 박물관은 A형의 10월 교전을 기록한다. 마르틴 팔마는 국민파 전차대대의 첫 교전을 11월 1일로, 몰리나 프랑코는 대대의 전선 투입을 11월로 잡았다. 스페인 측 대대의 첫 교전과 독일 교관·별도 분견대의 참가일이 같았는지는 확인되지 않았다. 10월 29일 세세냐(Seseña)의 전차 교전에서 몰리나 프랑코가 확인한 양측 차량은 이탈리아제 Fiat-Ansaldo와 소련제 T-26B다. 이 기록만으로 그날 A형의 참가를 입증할 수 없다. 스페인 국립도서관의 A형 사진은 마르틴 팔마의 p.234에 소장번호 **GC-CAJA/56/4 21r/1**와 함께 실려 있다. 논문 캡션은 촬영 장소와 날짜를 미상으로 두며, 원본 화면·개별 이용 조건은 확인되지 않아 사진은 복제하지 않았다. [CAT-DE-SRC-0141](https://ejercito.defensa.gob.es/materiales/otros/museo_carros/museo-carros.html?__locale=es) A형 Historia · [CAT-DE-SRC-0205](https://dspace.ceu.es/server/api/core/bitstreams/8d891e30-4424-4471-8e32-2be05ebc4eb9/content) pp.206·234, 주 309 및 A형 사진 캡션 · [CAT-DE-SRC-0206](https://publicaciones.defensa.gob.es/media/downloadable/files/links/r/h/rhm_extra_i_2022.pdf) pp.75·97.
+
+11월 두 번째 선적분은 **21대**다. 스페인 육군 제원 카드와 로드리게스 곤살레스는 1936년 11월 25일 세비야 도착으로, 몰리나 프랑코는 11월 중순 **Urania** 도착으로 적었다. 스페인 육군과 마르틴 팔마는 21대에 **지휘차 4대**가 포함됐다고 기록한다. 이 자료들은 21대를 기본 B형 전차만의 인도 수량으로 뒷받침하지 않는다. 마르틴 팔마는 12월 1일 쿠바스데라사그라에서 제3중대가 편성됐다고 적었으나 기본 B형 차량의 단독 첫 교전일은 확인되지 않았다. 그의 1936~1939년 **총 122대**는 다섯 선적분의 Panzer I A·B계 합계이며, 첫 세 차례는 콘도르 군단, 마지막 두 차례는 중개업체 H.I.S.M.A.를 거쳤다. 형식·지휘차별 총계는 별도 원장이 필요하다. [CAT-DE-SRC-0193](https://ejercito.defensa.gob.es/Galerias/Descarga_pdf/Unidades/Madrid/muma/PzIB_NUEVO.pdf#page=1) 도착 문단 · [CAT-DE-SRC-0205](https://dspace.ceu.es/server/api/core/bitstreams/8d891e30-4424-4471-8e32-2be05ebc4eb9/content) pp.206·234–237 · [CAT-DE-SRC-0206](https://publicaciones.defensa.gob.es/media/downloadable/files/links/r/h/rhm_extra_i_2022.pdf) pp.72–73 · [CAT-DE-SRC-0209](https://www.chdetrujillo.com/wp-content/uploads/2008/29_la_base_alemana_de_carros_de_combate.pdf) pp.670–671, 주 20.
+
+독일 연방기록원은 전차부대를 Gruppe Imker, 그 참모부를 Gruppe Drohne로 설명한다. 두 조직의 자체 기록은 전해지지 않고 일부 상급기관 문서와 개인 기록에 활동이 남아 있다. 스페인 국민파에 A·B형이 모두 공급됐다는 점은 칸딜의 연구에도 나온다. [CAT-DE-SRC-0197](https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/das-deutsche-militaerische-engagement-im-spanischen-buergerkrieg-1936-1939/) Gruppe Imker/Drohne 문단 · [CAT-DE-SRC-0198](https://www.benning.army.mil/armor/eARMOR/content/issues/2020/Fall/4Candill20.pdf) Fig. 3 캡션.
+
+**중국 국민정부 도입.** 쑹치청은 A형 **36대 주문**과 1936년 10월 중국 **도착 16대**를 각각 기록하고 전차대대 제3중대 배치를 제시한다. 옌츠·힐러리 도일의 제작표 해설은 중국 **수출 15대**를 A형 완성 수량에 포함한다. 중국 측 후대 부대사에는 1937년 7월 난징 팡산에서 전차교도대대와 독일에서 들여온 크루프 소형 전차를 포함해 장갑병단으로 확대 개편했다고 나오지만, 그 행에는 형식 접미사나 대수가 없다. 주문·수출·도착 사이의 차이와 최초 전투는 양측의 계약서·선적표·부대 일지에서 확인할 과제다. [CAT-DE-SRC-0207](https://www.mnd.gov.tw/en/File/15626) p.47 본문·표 4 및 p.48 표 출처 · [CAT-DE-SRC-0200](https://www.scribd.com/document/833976350/23-0-Panzer-Production-from-1933-to-1945) p.23-10 A형 캡션 · [CAT-DE-SRC-0208](https://www.mnd.gov.tw/NewUpload/202206/p119-128_323055.pdf) p.120 조직표의 1936년 3월~1937년 6월 및 1937년 7월~1938년 1월 행.
+
+**B형 제원 기록의 차이.** 같은 스페인 육군 자료인 장문 해설은 ZF Aphon FG 35와 도로 140 km·야지 115 km를 기록하고, 제원 카드는 ZF FG-31과 노면 구분 없는 170 km를 적었다. 데이비드 도일의 B형 제원표는 도로 170 km·야지 115 km로 구분한다. 표별 시험 하중·노면 및 차대번호를 확인할 때까지 항속과 변속기의 대표값은 보류한다. [CAT-DE-SRC-0192](https://ejercito.defensa.gob.es/unidades/Madrid/rac61/Enlaces/CARRO_LIGERO_PANZERKAMPFWAGEN_I_AUSF_B.pdf#page=2) PDF 2쪽 Mecánicas·Tácticas · [CAT-DE-SRC-0193](https://ejercito.defensa.gob.es/Galerias/Descarga_pdf/Unidades/Madrid/muma/PzIB_NUEVO.pdf#page=1) Transmisión·Autonomía · [CAT-DE-SRC-0199](https://cdn.palmknihy.cz/prod-media-assets/01HJ14J20WV0E0X8M90XQZWV3W/book_377863_51.pdf) p.12 B형 제원표.
+
+<a id="panzer-i-training-chassis"></a>
+
+### Panzer I 훈련·개조용 차대
+
+| 개체 ID·원명 | 제작·용도와 수량 정의 | 미확인 근거 |
+|---|---|---|
+| CAT-DE-EQP-0028 · **1./La.S. Krupp-Traktor** | 초기 무포탑 훈련용 차대. 데이비드 도일은 Krupp 135대와 Daimler-Benz·Henschel·MAN·Krupp-Grusonwerk·Rheinmetall 각 3대의 배정을 1933년 7월 14일에 기록하며 1934년 10월까지 해당 수량을 완료했다고 적었다. 옌츠·힐러리 도일의 1./La.S. 표도 **차대 150대**를 제시한다. 처음 구상한 무장 전차로의 일괄 완성은 철회됐다. [CAT-DE-SRC-0199](https://cdn.palmknihy.cz/prod-media-assets/01HJ14J20WV0E0X8M90XQZWV3W/book_377863_51.pdf) pp.5·7 · [CAT-DE-SRC-0200](https://www.scribd.com/document/833976350/23-0-Panzer-Production-from-1933-to-1945) p.23-8. | 1./La.S. 차대의 최초 인수 및 부대별 지급, 형식 전용 제원과 소장번호가 붙은 기관 원사진. |
+| CAT-DE-EQP-0029 · **Panzer-Schulfahrgestell Ausf. B** · Schulfahrzeug | Maybach 차대를 사용한 포탑 없는 운전 훈련형. 데이비드 도일은 **295대 발주**, 옌츠·힐러리 도일은 **295대 조립**을 기록한다. 후자의 제작표는 5b·6b·7b·8b/La.S.를 구분한다. [CAT-DE-SRC-0199](https://cdn.palmknihy.cz/prod-media-assets/01HJ14J20WV0E0X8M90XQZWV3W/book_377863_51.pdf) p.9 · [CAT-DE-SRC-0200](https://www.scribd.com/document/833976350/23-0-Panzer-Production-from-1933-to-1945) pp.23-8–23-10. | 공장 확정 및 제작월·인수, 훈련부대·운용국 범위, 형식용 제원과 기관 원사진. |
+| CAT-DE-EQP-0030 · **Fahrgestell für Umsetz-Fahrzeug** · Umsetz-Fahrzeuge | 데이비드 도일은 1937년에 구형 상부 구조를 전용하는 구상이 다시 등장했다고 적었다. 옌츠·힐러리 도일은 **개조용 차대 147대**를 Krupp-Grusonwerk·Henschel 제작으로 집계했다(7c·8c/La.S.). 차대 제작과 상부 구조를 옮겨 완성한 전차의 수량은 별도 확인 대상이다. [CAT-DE-SRC-0199](https://cdn.palmknihy.cz/prod-media-assets/01HJ14J20WV0E0X8M90XQZWV3W/book_377863_51.pdf) pp.9·12 · [CAT-DE-SRC-0200](https://www.scribd.com/document/833976350/23-0-Panzer-Production-from-1933-to-1945) pp.23-9·23-11. | 공장별 인수·완성 전차로의 개조 수와 부대 지급, 형식용 제원과 기관 원사진. |
 
 ## 개별 형식 상세 대조 { #detail-comparison }
 
@@ -126,10 +181,10 @@ Panzer I·II·III는 미 육군성 TM-E 30-451의 Chapter VII §VI.3.b–d HTML 
 
 ## 출처와 재현 범위
 
-첫 조사 열람일은 2026-11-08이다. 상세 대조 보완과 형식 색인 보완은 각각 2026-11-10과 2026-11-20에 했다. 상세 서지·문서 위치·권리·확인 주장·한계는 [SOURCES.json](SOURCES.json)에 등록했다. CAT-DE-SRC-0001은 원문 스캔, 0002~0005는 박물관 소장품 안내, 0006은 동일 교범의 후대 전사본이다. 기관 자료들이 어떤 독일 원기록을 공통 사용했는지는 미확인이다. 전문·사진·영상은 저장소에 재업로드하지 않고 자체 요약과 링크만 사용했다.
+첫 조사 열람일은 2026-11-08이다. 상세 대조와 형식 색인은 각각 2026-11-10과 2026-11-20에 보강했다. Panzer I 검토에 사용한 자료는 2026-11-21에 열람했다. [SOURCES.json](SOURCES.json)에 서지·확인 위치·권리·번역·한계가 있다. CAT-DE-SRC-0001은 원문 스캔, 0002~0005는 박물관 소장품 안내, 0006은 동일 교범의 후대 전사본이다. 기관 자료가 공유한 독일 원기록의 범위는 미확인이다.
 
 원문 PDF SHA-256: `dfa9fd6f83d12beadcd3c10c7460ad46c189b665181809b0b77c66e532f25b36`. 웹 열람 도구는 파일 크기로 실패했으나 직접 다운로드(86,572,532 bytes)와 해당 페이지 렌더링은 성공했다. PDF 교차참조표 복구 경고가 있었으며 화면으로 판독 가능한 위 쪽을 확인했다. 전체 PDF를 검수했다고 주장하지 않는다.
 
 ## 다음 검증 과제
 
-[QUESTIONS.json](QUESTIONS.json)의 CAT-DE-RQ-0001(형식·무장·생산), CAT-DE-RQ-0002(기동 성능의 시험 조건), CAT-DE-RQ-0003(Tiger II 생산량 집계), CAT-DE-RQ-0004(남은 전차 범위), CAT-DE-RQ-0072(Luchs 주포·승무원 충돌)를 참조한다. 첫 방문 상태는 partial이다. 후속 보완은 첫 방문 진도와 별도로 기록하며 다음 정규 항목은 [STATE.json](../STATE.json)을 따른다.
+[QUESTIONS.json](QUESTIONS.json)의 CAT-DE-RQ-0001(형식·무장·생산), CAT-DE-RQ-0002(기동 성능의 시험 조건), CAT-DE-RQ-0003(Tiger II 생산량 집계), CAT-DE-RQ-0004(남은 전차 범위), CAT-DE-RQ-0072(Luchs 주포·승무원 충돌), CAT-DE-RQ-0079(Panzer I 형식별 제작·배치와 제원 충돌)를 참조한다. [검토 진행 파일](../review-v2/STATE.json)과 [Panzer I 범위표](../review-v2/DE-01-Panzer-I.md)에 개체별 확인 수준과 다음 검증 셀이 있다.
