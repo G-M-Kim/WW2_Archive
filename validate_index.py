@@ -176,7 +176,7 @@ def main() -> int:
                         date.fromisoformat(value)
                     except ValueError:
                         errors.append(f"PROGRESS_LEDGER.md:{n}: bad {name} date {value}")
-                if mode not in {"forward", "backfill", "recovery", "reconcile"}:
+                if mode not in {"forward", "backfill", "recovery", "reconcile", "requested"}:
                     errors.append(f"PROGRESS_LEDGER.md:{n}: bad mode {mode}")
                 match = re.fullmatch(r"(\d{4}-\d{2}-\d{2})\.\.(\d{4}-\d{2}-\d{2})", period)
                 if not match:
@@ -197,7 +197,7 @@ def main() -> int:
                                 errors.append(f"PROGRESS_LEDGER.md:{n}: after cursor must equal period end + 1")
                         except ValueError:
                             pass
-                elif mode in {"backfill", "reconcile"} and before != after:
+                elif mode in {"backfill", "reconcile", "requested"} and before != after:
                     errors.append(f"PROGRESS_LEDGER.md:{n}: {mode} must preserve the forward cursor")
                 if not re.fullmatch(r"\d+/\d+/\d+", delta):
                     errors.append(f"PROGRESS_LEDGER.md:{n}: bad new-EVT/SRC/RQ triple")

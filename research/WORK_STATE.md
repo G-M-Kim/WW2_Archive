@@ -2,10 +2,14 @@
 FORWARD_CURSOR: 1944-04-24
 FORWARD_INSPECTED_THROUGH: 1944-04-23
 CURRENT_FORWARD_BATCH: 1944-04-24..1944-04-30
-TOTAL_EVT_SRC_RQ: 3758/2392/1309
+TOTAL_EVT_SRC_RQ: 3951/2534/1309
 AS_OF: 2026-11-22
 
 [월별 사건 연표 정본](../chronology/README.md) · [PR #7 병합 집계 및 원고 이전](chronology-review-v2/monthly-migration.md)
+
+## 사용자 요청 주요 사건 조사 — 2026-11-22
+
+- [사료 감사](source-audits/cross-period/source-audit-major-events-2026-11-22.md)에 주요 사건 신규 193건과 기존 보강 15건을 기록했다.
 
 ## 기존 미등록 사건 출처 조사 — 2026-11-22
 

@@ -86,7 +86,8 @@ function button(parent, label, work) {
 }
 
 function canonical(path, line) {
-  return REPO + data.revision + "/" + path.split("/").map(encodeURIComponent).join("/") + "#L" + line;
+  const fileUrl = REPO + data.revision + "/" + path.split("/").map(encodeURIComponent).join("/");
+  return line ? fileUrl + "#L" + line : fileUrl;
 }
 
 function monthRecord(page) {
@@ -173,7 +174,7 @@ function showYear(year, week) {
 }
 
 function eventRow(id, fullDate) {
-  const [when, title, category, stateText, evidence, sources, file, line] = data.events[id];
+  const [when, title, category, stateText, evidence, sources, file, line, detail] = data.events[id];
   const details = node("details", undefined, "event s" + evidence);
   details.id = id;
   const summary = node("summary");
@@ -204,6 +205,11 @@ function eventRow(id, fullDate) {
     document.createTextNode(" · "),
     link("GitHub 연표 원고에서 보기 ↗", canonical(file, line), true)
   );
+  if (detail) {
+    const [detailFile, fragment] = detail;
+    links.append(document.createTextNode(" · "),
+      link("사건 상세·사료 해설 ↗", canonical(detailFile) + fragment, true));
+  }
   body.append(links);
   details.append(summary, body);
   if (state.selected === id) details.open = true;

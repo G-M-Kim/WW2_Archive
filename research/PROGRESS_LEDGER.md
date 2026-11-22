@@ -1,6 +1,6 @@
 # 조사 진행 원장 — append-only
 
-이 원장이 자동조사의 진행 이력 단일 정본이다. 순서대로 한 행씩 **추가**하고 기존 행을 덮어쓰거나 삭제하지 않는다. `WORK_STATE.md`의 커서는 마지막 행의 `다음 커서`와 같아야 한다. `backfill`과 병합 집계 정정(`reconcile`)은 커서 불변; `forward`와 `recovery`는 선별 조사 배치 끝 다음날로 전진. 과거 날짜 검증 미완료는 별도 BACKFILL_QUEUE와 RQ에 남긴다.
+이 원장이 자동조사의 진행 이력 단일 정본이다. 순서대로 한 행씩 **추가**하고 기존 행을 덮어쓰거나 삭제하지 않는다. `WORK_STATE.md`의 커서는 마지막 행의 `다음 커서`와 같아야 한다. `backfill`과 병합 집계 정정(`reconcile`), 사용자 요청에 따른 별도 조사(`requested`)는 커서 불변; `forward`와 `recovery`는 선별 조사 배치 끝 다음날로 전진. 과거 날짜 검증 미완료는 별도 BACKFILL_QUEUE와 RQ에 남긴다.
 
 | 기록일(KST) | 작업 모드 | 조사 날짜 범위 | 이전 커서 | 다음 커서 | 신규 EVT/SRC/RQ | 누적 EVT/SRC/RQ | 감사/실행 기록 경로 | 비고 |
 |---|---|---|---|---|---|---|---|---|
@@ -290,3 +290,5 @@
 | 2026-11-21 | reconcile | 1905-01-01..1936-01-03 | 1944-04-24 | 1944-04-24 | 12/45/15 | 3758/2294/1309 | research/chronology-review-v2/monthly-migration.md | PR #7 기존 병합분을 원장에 반영하고 사건 원고를 월별로 이전. 조사 커서 전진 없음. |
 
 | 2026-11-22 | backfill | 1939-10-01..1947-08-15 | 1944-04-24 | 1944-04-24 | 0/98/0 | 3758/2392/1309 | research/source-audits/cross-period/source-audit-unregistered-events-2026-11-22.md | 기존 미등록 73건 문헌대조. 사건 ID와 전진 커서 유지. |
+
+| 2026-11-22 | requested | 1895-04-17..1955-05-15 | 1944-04-24 | 1944-04-24 | 193/142/0 | 3951/2534/1309 | research/source-audits/cross-period/source-audit-major-events-2026-11-22.md | 전쟁 전후 및 본편 주요 사건 사료 대조. 기존 15건 보강. |

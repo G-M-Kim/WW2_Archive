@@ -20,6 +20,7 @@ LEGACY_OUTSIDE = f"outside-{MONTHS[0]}_{MONTHS[-1]}"
 RECORD = re.compile(r"^\|\s*((?:EVT|SRC)-\d+)\s*\|")
 LINK = re.compile(r"https://[^\s<>|]+")
 SOURCES = re.compile(r"\bSRC-\d{3,}\b")
+DETAIL_LINK = re.compile(r"\]\(\.\./(research/[\w./-]+\.md)(#[\w-]+)?\)")
 EVIDENCE = {"문헌대조": 0, "링크등록": 1, "미등록": 2}
 
 
@@ -94,7 +95,12 @@ def read_events(root, available_sources):
             unknown = set(sources) - available_sources.keys()
             if unknown:
                 raise ValueError(f"{path.name}:{line}: missing registered sources {sorted(unknown)}")
-            events[key] = [when, plain(title), plain(category), plain(state), EVIDENCE[evidence], sources, path.relative_to(root).as_posix(), line]
+            event = [when, plain(title), plain(category), plain(state), EVIDENCE[evidence], sources,
+                     path.relative_to(root).as_posix(), line]
+            detail = DETAIL_LINK.search(title)
+            if detail and (root / detail[1]).is_file():
+                event.append([detail[1], detail[2] or ""])
+            events[key] = event
     if not events:
         raise ValueError("No chronology events")
     return dict(sorted(events.items(), key=lambda record: (record[1][0], record[1][7])))

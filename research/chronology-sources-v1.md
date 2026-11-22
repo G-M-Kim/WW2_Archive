@@ -2753,3 +2753,145 @@ as_of: 2026-11-04
 | SRC-2390 | George C. Marshall Speech at Harvard: Marshall Plan / 트루먼 대통령도서관 | 1차(연설 기록과 소장 정보) | 마셜 재단 연설문·트루먼 도서관 소장 기록 | https://www.trumanlibrary.gov/soundrecording-records/sr2000-4-george-c-marshall-speech-harvard-marshall-plan | 사건의 날짜와 핵심 내용 대조에 사용. 원문 링크 제공. |
 | SRC-2391 | Indian Independence Act 1947, §1 / 영국 법령 데이터베이스 | 1차(법률 원문) | Indian Independence Act 1947 제1조 제1항·영국 의회 해설 | https://www.legislation.gov.uk/ukpga/Geo6/10-11/30 | 제1조는 두 자치령의 법률상 성립일을 규정함. |
 | SRC-2392 | The Raj and independence 1914-47 - UK Parliament / 영국 의회 | 2차(기관 해설·전사) | Indian Independence Act 1947 제1조 제1항·영국 의회 해설 | https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/the-raj-and-independence-1914-47/ | 사건의 날짜와 핵심 내용 대조에 사용. 원문 링크 제공. |
+| SRC-2393 | Enactments of the Allied Control Council Vol. I / 미국 의회도서관 | 1차 법령 | CONL/P(45)40, 1945년 9월 20일, 101쪽 | https://tile.loc.gov/storage-services/service/ll/llmlp/61035888_Volume-I/61035888_Volume-I.pdf | 연합국 통제이사회 법령 |
+| SRC-2394 | Chronology 1941–1945, 1942년 / Mary H. Williams, 미 육군 군사사센터 | 2차 공식 전사 | 1942년 일자별 항목 | https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html | 미 육군 관점의 전역 요약, 원본 전사는 미 육군 군사사센터 간행 |
+| SRC-2395 | Chronology 1941–1945, 1943년 / Mary H. Williams, 미 육군 군사사센터 | 2차 공식 전사 | 1943년 일자별 항목 | https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-3.html | 미 육군 관점의 전역 요약, 원본 전사는 미 육군 군사사센터 간행 |
+| SRC-2396 | Chronology 1941–1945, 1944년 / Mary H. Williams, 미 육군 군사사센터 | 2차 공식 전사 | 1944년 일자별 항목 | https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-4.html | 미 육군 관점의 전역 요약, 원본 전사는 미 육군 군사사센터 간행 |
+| SRC-2397 | Chronology 1941–1945, 1945년 / Mary H. Williams, 미 육군 군사사센터 | 2차 공식 전사 | 1945년 일자별 항목 | https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-5.html | 미 육군 관점의 전역 요약, 원본 전사는 미 육군 군사사센터 간행 |
+| SRC-2398 | Liberation of Greece / 헬레닉 월드 재단 | 2차 | 1944년 10월 12일 아테네·피레아스 | https://www.fhw.gr/Chronos/14/en/1940_1945/liberation/index.html | 그리스 해방 과정 개관 |
+| SRC-2399 | Berchtesgadener Abkommen / 오스트리아 국가문서보관소 | 1차 협정 소장 기록 | AT-OeStA/AdR UrkR, 1938년 2월 12일 | https://www.archivinformationsystem.at/detail.aspx?ID=322984 | 회담과 협정 메타데이터 |
+| SRC-2400 | 오스트리아 국가조약 서명 기록 / 미국 국무부 FRUS | 1차 문서집 | FRUS 1955–1957 V, d76 | https://history.state.gov/historicaldocuments/frus1955-57v05/d76 | 서명 기록으로 발효·철군 시점은 별도 |
+| SRC-2401 | Hitler’s Confidential Memo on Autarky / GHDI | 1차 메모 전사 | 1936년 8월, 4개년 목표 단락 | https://germanhistorydocs.org/en/nazi-germany-1933-1945/hitler-s-confidential-memo-on-autarky-august-1936 | 히틀러의 정책 의도 |
+| SRC-2402 | 이탈리아의 방공협정 가입 의정서 / 예일대 Avalon Project | 1차 조약 | 1937년 11월 6일 의정서 | https://avalon.law.yale.edu/wwii/tri3.asp | 가맹을 규정한 문서 |
+| SRC-2403 | Mass Shootings at Babyn Yar / USHMM | 2차 | 1941년 9월 29~30일 학살 절 | https://encyclopedia.ushmm.org/content/en/article/kiev-and-babi-yar | 후속 학살과 구분 |
+| SRC-2404 | 벨기에 국왕 외교정책 연설 보고 / 미국 국무부 FRUS | 1차 문서집 | FRUS 1936 I, d286 및 부록 | https://history.state.gov/historicaldocuments/frus1936v01/d286 | 미국 공사 보고와 연설 전사 |
+| SRC-2405 | The Berlin Airlift, 1948–1949 / 미국 국무부 역사국 | 2차 | 봉쇄 개시와 1949년 5월 해제 | https://history.state.gov/milestones/1945-1952/berlin-airlift | 미국 외교사 관점 |
+| SRC-2406 | 독일연방공화국 기본법 / 독일 연방정부 | 1차 문서 해설 | 1949년 5월 23일과 기본법 원문 연결 | https://www.bundesregierung.de/breg-en/federal-government/basic-law-for-the-federal-republic-of-germany-482266 | 헌정 단계 개관 |
+| SRC-2407 | Brazil’s Involvement in World War II / 미 육군 Army History | 2차 | 1942년 8월 22일 브라질 참전 단락 | https://history.army.mil/Portals/143/Images/Publications/ArmyHistoryMag/pdf/19901999/AH26newOCR.pdf | 미국 전사 관점 |
+| SRC-2408 | Brazil in World War II / 미국 의회도서관 | 2차 | Brazil enters the war | https://guides.loc.gov/brazil-us-relations/brazil-world-war-ii | 서지 및 개관 |
+| SRC-2409 | Armistice With Bulgaria / 미국 국무부 FRUS | 1차 협정문 | FRUS 1944 III, d340, 서명란 | https://history.state.gov/historicaldocuments/frus1944v03/d340 | 휴전 조건과 서명 |
+| SRC-2410 | Cairo Conference communiqué / 예일대 Avalon Project | 1차 공동성명 | 대일전·중국 영토·한국 독립 관련 문단 | https://avalon.law.yale.edu/wwii/cairo.asp | 합의 선언, 전후 적용은 별개 |
+| SRC-2411 | Australian–New Zealand Agreement 1944 / 호주 외교통상부 | 1차 협정문 | 서명란 및 태평양 관련 조항 | https://www.dfat.gov.au/about-us/publications/historical-documents/Pages/volume-07/26-australian-new-zealand-agreement-1944 | 전후 구상의 문안 |
+| SRC-2412 | 광저우 점령 관련 미국 외교전보 / 미국 국무부 FRUS | 1차 문서집 | FRUS 1938 IV, d686 | https://history.state.gov/historicaldocuments/frus1938v04/d686 | 영사 보고 시점과 도시 점령 구분 |
+| SRC-2413 | The National Diet of Japan / 일본 중의원 | 2차 공식 목록 | 역대 총리 명단, 1936년 3월 9일 히로타 | https://www.shugiin.go.jp/Internet/itdb_english.nsf/html/statics/english/kokkaiannai_e2312.pdf/$File/kokkaiannai_e2312.pdf | 취임 날짜와 순서 |
+| SRC-2414 | Chinese Interpreters in the Second Sino-Japanese War 부록 / Ting Guo | 2차 학술 연표 | Appendix, Chronology of the Second Sino-Japanese War | https://ndl.ethernet.edu.et/bitstream/123456789/24610/1/82.pdf | 주요 날짜 색인 |
+| SRC-2415 | 중소 불가침조약 / 국제연맹 조약집 | 1차 조약 | L.N.T.S. 181권, 중소 불가침조약 | https://treaties.un.org/doc/Publication/UNTS/LON/Volume%20181/v181.pdf | 서명과 발효 조건 |
+| SRC-2416 | Treaty of Friendship and Alliance / 유엔 조약 등록부 | 1차 조약 등록 | 1945년 8월 14일 모스크바 서명, 조약집 링크 | https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280164a72 | 부속 협정은 연결 원문에 수록 |
+| SRC-2417 | 중국공산당 1936년 연표 / 중국공산당 자료센터 | 2차 | 10월 장정 주요 부대 회합 | https://cpc.people.com.cn/GB/64162/64164/4415984.html | 중국공산당 기관 관점 |
+| SRC-2418 | Declaration Regarding the Defeat of Germany / 예일대 Avalon Project | 1차 공동선언 | 1945년 6월 5일, 통치권 인수 서문 | https://avalon.law.yale.edu/wwii/ger01.asp | 최고권 인수에 관한 법적 선언 |
+| SRC-2419 | 베트남 독립 선언문 / UNHCR Refworld | 1차 원문 번역 | 1945년 9월 2일 표제와 선언문 | https://www.refworld.org/legal/legislation/natlegbod/1945/en/14459 | 선언 당시 정치적 입장 |
+| SRC-2420 | Czechoslovakia / USHMM | 2차 | 뮌헨 협정 이후 영토 변화 | https://encyclopedia.ushmm.org/content/en/article/czechoslovakia | 체코슬로바키아 관련 개관 |
+| SRC-2421 | UN Journal of the General Assembly No. 1 / 유엔 | 1차 회의 일지 | 1946년 1월 10일 첫 회기 | https://www.un.org/en/pdfs/UN%20Journal%20GA%20no.1.pdf | 당일 일정 및 개회 |
+| SRC-2422 | Chronology 1944–2010 / 폴란드 기업개발청 | 2차 | 1944년 7월 22일 항목 | https://www.parp.gov.pl/storage/publications/pdf/2011_enterprise_en.pdf | 해당 선언의 날짜와 작성 배경 |
+| SRC-2423 | Pages from our History / 이탈리아 문화원 | 2차 | 1945년 4월 25일 북이탈리아 봉기 | https://iicnairobi.esteri.it/en/gli_eventi/calendario/anniversario-della-liberazione-2/ | 기념일 해설 |
+| SRC-2424 | The Dumbarton Oaks Conversations / 미국 국무부 FRUS | 1차 문서집 | FRUS 1944 I, 제8장 개관 | https://history.state.gov/historicaldocuments/frus1944v01/ch8 | 회담 시작과 단계 |
+| SRC-2425 | Public Resolution No. 1 / 미국 관보 Statutes at Large | 1차 법령 | 50 Stat. 3, 스페인 무기 금수 결의 | https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg3.pdf | 결의 적용 범위 |
+| SRC-2426 | The Spanish Civil War / Julián Casanova, Cambridge University Press | 2차 학술 연구 | 연표, 1938년 7월 25일~11월 16일 | https://assets.cambridge.org/97811070/02265/frontmatter/9781107002265_frontmatter.pdf | 날짜는 책 앞 연표 |
+| SRC-2427 | Rigged elections – 19 January 1947 / 폴란드 국가기억연구원 | 2차 | 투표일·얄타 선거 합의·야권탄압 | https://eng.ipn.gov.pl/en/digital-resources/articles/7193%2CRigged-elections-19-January-1947.html | 후대 기록기관 평가 |
+| SRC-2428 | Ethiopia: A Country Study / 미국 의회도서관 | 2차 | The Italo-Ethiopian War, 1935–36 | https://tile.loc.gov/storage-services/master/frd/frdcstdy/et/ethiopiacountrys00ofca_0/ethiopiacountrys00ofca_0.pdf | 전쟁 개관, 세부 작전은 별도 |
+| SRC-2429 | 이탈리아의 에티오피아 병합과 외교 반응 / 미국 국무부 FRUS | 1차 문서집 | FRUS 1936 III, d136–185 | https://history.state.gov/historicaldocuments/frus1936v03/comp3 | 선언과 타국 승인 구분 |
+| SRC-2430 | 하일레 셀라시에의 국제연맹 연설 / Epoch Institute 전사 | 1차 연설 전사 | 1936년 6월 30일 연설 | https://the-epoch-institute.org/speeches/haile-selassie-at-the-league-of-nations | 연설자의 당대 입장 |
+| SRC-2431 | Sanctions and Security / George W. Baer, International Organization | 2차 학술논문 | 27권 2호, 국제연맹 제재 | https://www.cambridge.org/core/journals/international-organization/article/abs/sanctions-and-security-the-league-of-nations-and-the-italianethiopian-war-19351936/D180D67FC6A59A66919130634F7FD392 | 제재 범위와 한계에 관한 연구 |
+| SRC-2432 | Evian Conference / USHMM | 2차 | 1938년 7월 6일 항목 | https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/evian-conference | 난민 정책 개관 |
+| SRC-2433 | Drowned Earth / Diana Lary, War in History | 2차 학술논문 | 8권 2호, 1938년 6월 제방 파괴 | https://journals.sagepub.com/doi/10.1177/096834450100800204 | 피해 및 세부 시점은 자료마다 차이 |
+| SRC-2434 | The Forgotten Floods / 워싱턴대 디지털 도서관 | 2차 연구 | 화위안커우 제방 파괴와 6월 9일 서술 | https://digital.lib.washington.edu/server/api/core/bitstreams/cd51bbad-cbf4-445d-b7bf-7e164146250e/content | 인용한 사건 날짜의 정밀도 유의 |
+| SRC-2435 | Vierjahresplan / 독일 역사박물관 LeMO | 2차 | 1936년 10월 괴링 위임 | https://www.dhm.de/lemo/kapitel/ns-regime/industrie-und-wirtschaft/vierjahresplan | 경제·재무장 정책 개관 |
+| SRC-2436 | Les élections législatives des 26 avril et 3 mai 1936 / 프랑스 하원 | 2차 | 1·2차 투표와 인민전선 다수 | https://www.assemblee-nationale.fr/dyn/histoire/il-y-a-90-ans-le-front-populaire-et-les-lois-sociales-de-la-republique/les-elections-legislatives-des-26-avril-et-3-mai-1936 | 프랑스 의회 정치·선거사 |
+| SRC-2437 | The Founding of the German Democratic Republic / GHDI | 1차 자료와 해설 | 1949년 10월 7일 문서 | https://germanhistorydocs.org/en/occupation-and-the-emergence-of-two-states-1945-1961/the-founding-of-the-german-democratic-republic-october-7-1949 | 동독 건국 측 자료 |
+| SRC-2438 | 독일 점령구역과 대베를린 행정 의정서 / GHDI | 1차 조약 전사 | 1945년 7월 26일 수정 문안, 1~2항 | https://germanhistorydocs.org/en/occupation-and-the-emergence-of-two-states-1945-1961/ghdi:document-2293 | 독일과 베를린의 점령 구분 |
+| SRC-2439 | 75 Years of the Federal Republic of Germany / 콘라트 아데나워 재단 | 2차 | 독일 기본법·국가 수립 | https://www.kas.de/en/75-years-of-the-federal-republic-of-germany | 헌정사 개관 |
+| SRC-2440 | 유럽자문위원회 점령 의정서 / 미국 국무부 FRUS | 1차 문서집 | FRUS Quebec 1944, d215 및 주 4 | https://history.state.gov/historicaldocuments/frus1944Quebec/d215 | 작성안과 서명본 날짜 구분 |
+| SRC-2441 | Zeittafel 1933–1945 / 작센주 정치교육기관 | 2차 | 1936~1938년 해당 날짜 항목 | https://www.slpb.de/themen/geschichte/1933-bis-1945/zeittafel-1933-1945 | 독일 중심 역사 연표 |
+| SRC-2442 | The Greek Civil War, 1944–1949 / 미국 국립 제2차 세계대전 박물관 | 2차 | 아테네 충돌과 바르키자 합의 | https://www.nationalww2museum.org/war/articles/greek-civil-war-1944-1949 | 후대 개관 |
+| SRC-2443 | El patrimonio de la Guerra Civil española / Edith Viver Sabaté, 마드리드 자치대 | 2차 학술 연구 | 과달라하라 전투 도판 37과 본문 | https://repositorio.uam.es/bitstream/handle/10486/691879/viver_sabate_edith.pdf?isAllowed=y&sequence=1 | 지역사 서술 |
+| SRC-2444 | The Bombing of Gernika / 게르니카 평화박물관 | 2차 | 1937년 4월 26일 공습 해설 | https://www.museodelapaz.eus/en/the-bombing-of-gernika/ | 민간인 피해 집계는 별도 |
+| SRC-2445 | 하이난 상륙 보고 / 미국 국무부 FRUS | 1차 문서집 | FRUS 1939 III, d95 | https://history.state.gov/historicaldocuments/frus1939v03/d95 | 미국 대사 보고 |
+| SRC-2446 | China’s Lonely Revolution / Jeremy A. Murray | 2차 학술 단행본 | 1939년 2월 10일 하이난 상륙 | https://www.jstor.org/stable/jj.18254075 | 지역사 연구 |
+| SRC-2447 | Neville Chamberlain Takes Office / USHMM | 2차 | 1937년 5월 28일 | https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/neville-chamberlain-takes-office | 취임과 후일 유화정책의 해설 |
+| SRC-2448 | 호스바흐 기록 / 하버드 로스쿨 뉘른베르크 아카이브 | 1차 회의 기록 | 문서 386-PS, 회의 1937년 11월 5일 | https://nuremberg.law.harvard.edu/documents/482-minutes-of-a-conference?mode=text | 회의 뒤 작성한 메모 |
+| SRC-2449 | Indonesian Independence / 호주 국립문서보관소 | 2차 | 1945년 8월 17일 독립 선포 | https://www.naa.gov.au/help-your-research/fact-sheets/indonesian-independence | 호주 외교사 관점의 해설 |
+| SRC-2450 | Bretton Woods / 미국 국무부 역사국 | 2차 | 1944년 7월 브레턴우즈 회의 | https://history.state.gov/milestones/1937-1945/bretton-woods | 미국 주도 전후 제도 개관 |
+| SRC-2451 | Articles of Agreement of the IMF / 국제통화기금 | 1차 협정 정보 | 1944년 7월 22일 채택·1945년 12월 27일 발효 | https://www.imf.org/en/publications/articles-of-agreement/issues/2016/12/30/articles-of-agreement-of-the-international-monetary-fund-adopted-at-the-united-nations-357 | 협정 연혁과 발효일 |
+| SRC-2452 | Anglo-Iranian Relations III / Encyclopaedia Iranica | 2차 연구 | 1941년 9월 16일 레자 샤 퇴위 | https://www.iranicaonline.org/articles/anglo-iranian-relations-iii/ | 외교관계 개관 |
+| SRC-2453 | The Long Telegram / 조지워싱턴대 National Security Archive | 1차 외교 전보 | 1946년 2월 22일 전보 원본 | https://nsarchive.gwu.edu/document/21042-long-telegram-original | 미국 외교관의 당대 분석 |
+| SRC-2454 | The Sinews of Peace / International Churchill Society | 1차 연설 전사 | 풀턴, 1946년 3월 5일 | https://winstonchurchill.org/resources/speeches/1946-1963-elder-statesman/the-sinews-of-peace/ | 처칠의 당대 견해 |
+| SRC-2455 | Tokyo war crimes trial findings and sentences / 호주 전쟁기념관 | 1차 판결 자료 | C87753, 1948년 11월 12일 | https://collection.awm.gov.au/C87753 | 선고 기록 |
+| SRC-2456 | Occupation and Reconstruction of Japan / 미국 국무부 역사국 | 2차 | 1945~1952년 점령·개혁·강화 | https://history.state.gov/milestones/1945-1952/japan-reconstruction | 미국 외교사 관점 |
+| SRC-2457 | 일본 헌법 제정사 연표 / 일본 국립국회도서관 | 2차 | 1945년 8월 28일·30일 및 9월 2일 | https://www.ndl.go.jp/constitution/e/etc/history01.html | 일본 본토 점령 개시 관련 |
+| SRC-2458 | Treaty of Peace with Japan / 유엔 조약 등록부 | 1차 조약 등록 | I-1832·제2조, 서명일·발효일 | https://treaties.un.org/pages/showDetails.aspx?objid=08000002801528c2 | 권리 포기 조항과 발효 정보 |
+| SRC-2459 | The Second Jassy–Kishinev Offensive / 미국 국립 제2차 세계대전 박물관 | 2차 | 1944년 8월 20일 공세 개시 | https://www.nationalww2museum.org/war/articles/forgotten-fights-second-jassy-kishinev-offensive-and-destruction-german-sixth-army | 전역 개관 |
+| SRC-2460 | The Constitution of Japan / 일본 국립국회도서관 | 1차 헌법 | 공포·시행일, 제1·9조 | https://www.ndl.go.jp/constitution/e/etc/c01.html | 헌법의 제정 시점과 조문 |
+| SRC-2461 | 주한미군사 / 국사편찬위원회 한국 현대 사료 DB | 1차 군정 기록 | 제1차 공동위원회 첫 본회의, 1946년 3월 20일 | https://db.history.go.kr/contemp/level.do?levelId=husa_002_0030_0100_0040 | 미군정 측 당대 기록 |
+| SRC-2462 | A Window into the Early Showa Period / 일본 아시아역사자료센터 | 2차 기관 연표 | 1937~1945년 해당 날짜 항목 | https://www.jacar.go.jp/english/exhibition/shuhou-english/nenpyo.html | 일본 정책·기관 활동 중심 |
+| SRC-2463 | SCAPIN-93 / 나고야대 점령기 지령 데이터베이스 | 1차 점령 지령 | 1945년 10월 4일, 자유 제한 철폐 | https://jahis.law.nagoya-u.ac.jp/scapindb/docs/scapin-93 | 일본 정부에 보낸 지령 |
+| SRC-2464 | Security Treaty Between Japan and the United States / 일본 외무성 | 1차 조약 | 서명·발효 정보 및 제1조 | https://www.mofa.go.jp/mofaj/gaiko/treaty/pdfs/B-S38-P2-795_1.pdf | 1951년 체결 원조약 |
+| SRC-2465 | Japan–Manchoukuo Protocol / 미국 국무부 FRUS | 1차 협정 전사 | FRUS 1932 IV, d271, 1932년 9월 15일 | https://history.state.gov/historicaldocuments/frus1932v04/d271 | 점령국이 맺은 의정서 |
+| SRC-2466 | 극동국제군사재판 판결문 / 미국 의회도서관 | 1차 판결문 | Part B, Chapter V, 푸이 즉위 | https://wwws.loc.gov/law/mlr/pdf/Judgment-IMTFE-Vol-I-PartB-Chapter-V.pdf | 재판에서 정리한 사건 경과 |
+| SRC-2467 | Korean Armistice Agreement / 미국 국립문서기록관리청 | 1차 정전협정 | 1953년 7월 27일 문서·군사분계선 조항 | https://www.archives.gov/milestone-documents/armistice-agreement-restoration-south-korean-state | 정전 문서 |
+| SRC-2468 | 미국 주소련대사 전보 / 미국 국무부 FRUS | 1차 외교 전보 | FRUS 1938 III, d451 | https://history.state.gov/historicaldocuments/frus1938v03/d451 | 타스의 초기 국경 충돌 보도 |
+| SRC-2469 | 주한미군사 / 국사편찬위원회 한국 현대 사료 DB | 1차 군정 기록 | 미군 진주와 38선 점령 구역 | https://db.history.go.kr/contemp/level.do?levelId=husa_001_0040_0040&types=o | 미군 측 집행 기록 |
+| SRC-2470 | 대한민국 정부 수립 / 국사편찬위원회 우리역사넷 | 2차 | 5·10 선거, 제헌헌법과 8월 15일 정부 수립 | https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i502100 | 한국사 개관 |
+| SRC-2471 | North Korea: A Country Study / 미국 의회도서관 | 2차 | 연표·1948년 9월 9일 정부 수립 | https://tile.loc.gov/storage-services/master/frd/frdcstdy/no/northkoreacountr00word/northkoreacountr00word.pdf | 후대 국가연구 |
+| SRC-2472 | 대한제국의 국권 피탈 / 국사편찬위원회 우리역사넷 역대 국사교과서 | 2차 | 을사늑약과 강제병합 해설 | https://contents.history.go.kr/front/ta/view.do?levelId=ta_h52_0050_0010_0010 | 식민지화 전개 개관 |
+| SRC-2473 | 대한제국 병합 조약 / 도쿄대 The World and Japan | 1차 조약 전사 | 제1·2·8조, 1910년 8월 22일 | https://worldjpn.net/documents/texts/pw/19100822.T1E.html | 당시 일본 정부의 공식 문안 |
+| SRC-2474 | 일반명령 제1호 문안 / 국사편찬위원회 한국 현대 사료 DB | 1차 군사 명령 | 주한미군사 Part I, General Order Number 1, 한반도 항목 | https://db.history.go.kr/contemp/level.do?levelId=husa_001_0010_0090 | 항복 접수 지시, 경계의 법적 지위는 별도 |
+| SRC-2475 | 맥아더 포고령 제1호 / 국사편찬위원회 미군정 관보 | 1차 군정 포고문 | 1945년 9월 7일, 38도 이남에서의 군정 | https://db.history.go.kr/contemp/gb/level.do?levelId=gbmg_1945_09_07_a0001 | 명령과 현지 집행은 별개 |
+| SRC-2476 | 대한제국 병합 공포 / 도쿄대 The World and Japan | 1차 공포 전사 | 1910년 8월 29일 선언문 | https://worldjpn.net/documents/texts/pw/19100829.D1E.html | 당시 일본 정부의 공식 문안 |
+| SRC-2477 | 1905년 을사늑약의 성립과 문제 / Korea Journal | 2차 학술논문 | 56권 4호, 5–32쪽 | https://www.accesson.kr/kj/assets/pdf/8410/journal-56-4-5.pdf | 조약 체결 과정과 적법성 논의 |
+| SRC-2478 | Japanese Instruments of Surrender / 호주 전쟁기념관 | 1차 항복문서 | C92174, 항목 7, 서울 1945년 9월 9일 | https://www.awm.gov.au/collection/C92174 | 장소별 별도 수락 문서 |
+| SRC-2479 | US Enters the Korean Conflict / 미국 국립문서기록관리청 | 2차 및 1차 자료 | 1950년 6월 25일 한국전쟁 발발 해설 | https://www.archives.gov/education/lessons/korean-conflict | 미국 참전 관련 기록 중심 |
+| SRC-2480 | Intensification of Mass Killings / USHMM | 2차 | 1945년 4월 11일 부헨발트, 15일 베르겐벨젠 | https://encyclopedia.ushmm.org/content/en/timeline-group/holocaust/1942-1945 | 수용소별 해방일 |
+| SRC-2481 | 만주국 수립 관련 다섯 나라 외교 보고 / 미국 국무부 FRUS | 1차 외교 전보 | FRUS 1932 III, d520, 3월 1일자 무크덴 전보 인용 | https://history.state.gov/historicaldocuments/frus1932v03/d520 | 당대 보고, 일본의 승인 외교는 별도 |
+| SRC-2482 | Food from Heaven / 호주 전쟁기념관 | 2차 | Operation Manna, 1945년 4월 29일 | https://www.awm.gov.au/articles/blog/food-from-heaven-460-squadron-and-operation-manna-1945 | 호주 승무원 관련 자료 포함 |
+| SRC-2483 | Le Front populaire et les lois sociales / 프랑스 하원 | 2차 | 1936년 총선 및 6월 7~8일 마티뇽 협약 | https://www.assemblee-nationale.fr/dyn/histoire/il-y-a-90-ans-le-front-populaire-et-les-lois-sociales-de-la-republique | 협약과 후속 입법 구별 |
+| SRC-2484 | 모스크바 3국 외상회의 공동성명 / 미국 국무부 FRUS | 1차 공동성명 전사 | FRUS 1945 VI, d845, III. Korea | https://history.state.gov/historicaldocuments/frus1945v06/d845 | 공개 문안과 공표 시각 |
+| SRC-2485 | 모스크바 3국 외상회의 결정서 / 국사편찬위원회 | 1차 번역 및 2차 해설 | 한국 조항 제1~4항 | https://contents.history.go.kr/front/hm/print.do?levelId=hm_144_0100&tabId=01&treeId=010801&whereStr= | 신탁통치 논의와 실제 시행 구분 |
+| SRC-2486 | Japanese Surrender Ceremony Proceedings / Densho Digital Repository | 1차 행사 문서 | ddr-densho-127-5, 난징 1945년 9월 9일 | https://ddr.densho.org/ddr-densho-127-5/ | 중국 전역 항복 행사 |
+| SRC-2487 | North Atlantic Treaty / NATO | 1차 조약 | 1949년 4월 4일·제5조 | https://www.nato.int/en/about-us/organization/founding-treaty | 조약문과 공식 해설 |
+| SRC-2488 | Anglo-German Naval Agreement / 미국 국무부 FRUS | 1차 외교문서 | FRUS 1935 I, 제3장, 1935년 6월 18일 | https://history.state.gov/historicaldocuments/frus1935v01/ch3 | 협정과 외교적 평가 구분 |
+| SRC-2489 | Ardennes–Alsace / 미국 육군 의무사 역사센터 | 2차 공식 전사 | 1944년 12월 31일 Nordwind 단락 | https://achh.army.mil/history/book-ameddardennes-etoardennes/ | 미군 전선 중심 |
+| SRC-2490 | 유고슬라비아 왕정 폐지 보고 / 미국 국무부 FRUS | 1차 외교 전보 | FRUS 1945 V, d1046 | https://history.state.gov/historicaldocuments/frus1945v05/d1046 | 당일 의결의 다음날 보고 |
+| SRC-2491 | Zones of Occupation in Austria and Administration of Vienna / 영국 외무부 | 1차 조약 | Treaty Series No. 49, 1946, 1945년 7월 9일 문안 | https://treaties.fcdo.gov.uk/data/Library2/pdf/1946-TS0049.pdf | 서명과 집행의 시점 구분 |
+| SRC-2492 | Quit India Resolution / 인도 Gandhi Heritage Portal | 2차 기관 연표 | 1942년 8월 8일 결의 항목 | https://gandhiheritageportal.org/eventcontentdetail/OA%3D%3D/NzQxOQ%3D%3D | 인도 독립운동사 관점 |
+| SRC-2493 | A New Modern History of East Asia / Eckhardt Fuchs 외 편 | 2차 학술 단행본 | 핑싱관 전투 본문과 도판 42, 1937년 9월 25일 | https://pure.gei.de/ws/portalfiles/portal/258401/9783847107088_fuchs_etal_history_wz_030255.pdf | 한·중·일 연구자 공동 서술 |
+| SRC-2494 | Poland’s Peace Initiatives / 주유엔 폴란드 대표부 | 2차 | 1945년 6월 28일 국민통합임시정부 | https://www.gov.pl/web/un/polands-peace-initiatives-history | 폴란드 외교사 해설 |
+| SRC-2495 | 트루먼과 폴란드 총리의 서신 교환 / 트루먼 대통령도서관 | 1차 외교 문서 | 1945년 7월 5일, 임시정부 발족과 승인 | https://www.trumanlibrary.gov/library/public-papers/78/exchange-messages-prime-minister-polish-provisional-government-national | 협상 당사자의 발표 |
+| SRC-2496 | 포츠머스 조약 / 국사편찬위원회 조선시대 사료 DB | 1차 조약 전사 | 제2·5·6·9조 | https://db.history.go.kr/joseon/level.do?levelId=jh_025_0010_0610 | 청 동의를 전제로 한 조차권 이전 |
+| SRC-2497 | 포츠담 회담 공동발표 / 미국 국무부 FRUS | 1차 외교문서 | FRUS Potsdam II, d1384, 독일·폴란드 부분 | https://history.state.gov/historicaldocuments/frus1945Berlinv02/d1384 | 합의와 각 구역의 집행을 구분 |
+| SRC-2498 | Franco-German Declaration / 예일대 Avalon Project | 1차 공동선언 | 프랑스 황서 문서 29, 파리 1938년 12월 6일 | https://avalon.law.yale.edu/wwii/ylbk029.asp | 양국 정부의 공식 문안 |
+| SRC-2499 | Prague Uprising / Radio Prague International | 2차 | 1945년 5월 5~9일 프라하 봉기 | https://english.radio.cz/prague-uprising-how-last-german-held-capital-fought-freedom-8131751 | 체코 역사기관과 당시 기록 인용 |
+| SRC-2500 | The Battle of the Airwaves / Radio Prague International | 2차 | 1945년 5월 9일 소련군 진입 | https://english.radio.cz/battle-airwaves-extraordinary-story-czechoslovak-radio-and-1945-prague-uprising-8073626 | 체코슬로바키아 방송사 중심 해설 |
+| SRC-2501 | NKVD Mass Secret Operation No. 00447 / Sciences Po | 2차 학술 해설 | 1937년 7월 30일 서명·8월 집행 | https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/nkvd-mass-secret-operation-n-00447-august-1937-november-1938.html | 명령 발령과 지역별 집행 구분 |
+| SRC-2502 | Tsingtao collection / 영국 국립육군박물관 | 2차 및 1차 사진 자료 | 소장품 번호 1992-08-139-13 해제, 1914년 11월 7일 수비대 항복 | https://collection.nam.ac.uk/detail.php?acc=1992-08-139-13 | 당대 사진과 기관 설명을 구분 |
+| SRC-2503 | Treaties and Agreements with and Concerning China / John V. A. MacMurray 편 | 1차 협약 전사 | 협약 1895/10, pp.51–53, 제1조 | https://upload.wikimedia.org/wikipedia/commons/c/c5/Treaties_and_agreements_with_and_concerning_China%2C_1894-1919_%28IA_cu31924017545231%29.pdf | 반환 협약과 적용 범위 |
+| SRC-2504 | Clearing the Scheldt Estuary and Opening the Port of Antwerp / 캐나다 국방부 | 2차 공식 전사 | CMHQ Report No. 188, 1944년 10월 1일~11월 8일 | https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/reports/military-headquarters-1940-1948/clearing-scheldt-estuary-opening-port-of-antwerp-operations-1st-canadian-army-north-west-europe.html | 제1캐나다군 작전 기간 |
+| SRC-2505 | Treaty for the Settlement of Outstanding Questions Relative to Shantung / 도쿄대 The World and Japan | 1차 조약 전사 | 제1조, 1922년 2월 4일 | https://worldjpn.net/documents/texts/pw/19220204.T1E.html | 반환 의무와 현장 인계 구분 |
+| SRC-2506 | 상하이 전투 관련 미국 공사 전보 / 미국 국무부 FRUS | 1차 전보 | FRUS 1932 III, d376 | https://history.state.gov/historicaldocuments/frus1932v03/d376 | 현지 당대 전보 |
+| SRC-2507 | Treaty of Shimonoseki / 도쿄대 The World and Japan | 1차 조약 전사 | 제1·2조, 1895년 4월 17일 | https://worldjpn.net/documents/texts/pw/18950417.T1E.html | 랴오둥 반환 협약은 별도 |
+| SRC-2508 | Slovak National Uprising of 1944 / 미국 국립 제2차 세계대전 박물관 | 2차 | 1944년 8월 29일 봉기 개시 | https://www.nationalww2museum.org/war/articles/slovak-national-uprising-1944 | 전후 평가 포함 |
+| SRC-2509 | Spanish Civil War timeline / International Brigade Memorial Trust | 2차 기관 연표 | 1936~1938년 해당 날짜 항목 | https://international-brigades.org.uk/uncategorized/spanish-civil-war-timeline/ | 국제여단 활동 중심 |
+| SRC-2510 | Treaty of Saint-Germain-en-Laye / 영국 외무부 | 1차 조약 | Treaty Series No. 11, 1919, 제27·88·120조 | https://treaties.fcdo.gov.uk/data/Library2/pdf/TS0011.pdf | 국경·독립·군비 조문 |
+| SRC-2511 | Staatsvertrag von Saint-Germain-en-Laye / 오스트리아 공식 법령 시스템 RIS | 1차 공식 법령 정보 | 16.07.1920 발효 표기 | https://ris.bka.gv.at/Dokumente/Bundesnormen/NOR11000044/NOR11000044.pdf | 오스트리아 공포 법령 연혁 |
+| SRC-2512 | Stresa Conference / 영국 하원 Hansard | 1차 의회 속기록 | 1935년 4월 17일, 총리 보고와 공동 결의 | https://hansard.parliament.uk/Commons/1935-04-17/debates/726a45b7-b68e-4f99-b83b-ca0ae226f738/StresaConference | 회의 결론의 의회 보고 |
+| SRC-2513 | 스트레사 공동 결의문 / Zeitschrift für ausländisches öffentliches Recht und Völkerrecht | 1차 문서 전사 | 1935년 4월 14일 공동결의, 352쪽 부근 | https://www.zaoerv.de/05_1935/5_1935_1_b_333_355_1.pdf | 동시대 조약 전문지 수록 |
+| SRC-2514 | Surrender of Japan / 미국 국립문서기록관리청 | 1차 항복문서 | 1945년 9월 2일 서명본 | https://www.archives.gov/milestone-documents/surrender-of-japan | 조인과 현지 접수 구분 |
+| SRC-2515 | 타이얼좡 전투 전시 기록 / 중국 국가박물관 | 2차 기관 해설 | 1938년 3월 24일 공격 기록 | https://www.chnmuseum.cn/zp/zpml/gmww/202209/t20220907_257289.shtml | 중국 측 전시 해설 |
+| SRC-2516 | 탕구 정전 협정 보고 / 미국 국무부 FRUS | 1차 협정문 및 외교 보고 | FRUS 1933 III, d391, 1933년 5월 31일 | https://history.state.gov/historicaldocuments/frus1933v03/d391 | 영문 전사와 미국 공사 보고 |
+| SRC-2517 | Umezu-He Agreement / 일본 아시아역사자료센터 | 2차 문서 해설 | 1935년 5~7월 요구와 7월 서면 응답 | https://www.jacar.archives.go.jp/das/term-en/00000612 | 당대 일본 측 문서 보관 정보 |
+| SRC-2518 | Tinian Landings / 미국 해군 역사유산사령부 | 2차 공식 전사 | H-Gram 033-3, 1944년 7월 24일 | https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-033/H-033-3.html | 미 해군 관점 |
+| SRC-2519 | The Truman Doctrine and the Marshall Plan / 미국 국무부 역사국 | 2차 | 1947년 3월 12일 의회 연설 해설 | https://history.state.gov/departmenthistory/short-history/truman | 미국 외교 정책 관점 |
+| SRC-2520 | 튀르키예와 이집트 참전 관련 미국 외교전보 / 미국 국무부 FRUS | 1차 전보 및 편집주 | FRUS 1945 I, d35, 주 53 | https://history.state.gov/historicaldocuments/frus1945v01/d35 | 선전포고 정보는 편집주에 명시 |
+| SRC-2521 | The Japanese Period in Indochina and the Coup of 9 March 1945 / Ralph B. Smith | 2차 학술논문 | Journal of Southeast Asian Studies, 9 March 1945 | https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/abs/japanese-period-in-indochina-and-the-coup-of-9-march-1945/275B1ABEED60A9B95F85297F68603286 | 프랑스령 인도차이나 점령사 |
+| SRC-2522 | United Nations Charter / 미국 국립문서기록관리청 | 1차 헌장 | 1945년 6월 26일 서명본, RG 11 | https://www.archives.gov/milestone-documents/united-nations-charter | 서명과 발효를 구분 |
+| SRC-2523 | 75th Anniversary of the UN Charter / 미국 국립문서기록관리청 | 2차 및 1차 소장자료 | 1945년 4월 25일 회의 개막 | https://visit.archives.gov/whats-on/explore-exhibits/75th-anniversary-united-nations-charter | 문서와 회의 기능 해설 |
+| SRC-2524 | 1936: Key Dates / USHMM | 2차 | 1936년 7월 16일 및 8월 1일 | https://encyclopedia.ushmm.org/content/en/article/1936-key-dates | 홀로코스트사 연표 |
+| SRC-2525 | 1937: Key Dates / USHMM | 2차 | 1937년 7월 15일 부헨발트 | https://encyclopedia.ushmm.org/content/en/article/1937-key-dates | 홀로코스트사 연표 |
+| SRC-2526 | 1938: Key Dates / USHMM | 2차 | 해당 날짜별 박해·외교·난민 항목 | https://encyclopedia.ushmm.org/content/en/article/1938-key-dates | 홀로코스트사 연표 |
+| SRC-2527 | The Second Front of Cooperation between the KMT and CPC / 중국 국무원 신문판공실 | 2차 | 1937년 9월 공동선언 및 장제스 발언 | https://english.scio.gov.cn/featured/chinakeywords/2018-03/16/content_50715087.htm | 중국 정부의 역사 서술 |
+| SRC-2528 | Varkiza Agreement / 그리스 문학역사아카이브 ELIA | 1차 협정문 전사 | 1945년 2월 12일 체결, 미 대사관 발송문 635 부록 | https://www.elia.org.gr/userfiles/pdf_archieve/1945%203-645%20Varkiza%2C%20Greek%20Government%2C%20EAM-ELAS%2C%20%5B19%20pgs%5D%20226-CID-121210%20%28State%29.pdf | 당대 외교번역 |
+| SRC-2529 | 베르사유 조약 제5편 / 예일대 Avalon Project | 1차 조약 전사 | 제159·160조 육군 제한 | https://avalon.law.yale.edu/imt/partv.asp | 군비 조항 |
+| SRC-2530 | 베르사유 조약 제42~44조 / 하버드 로스쿨 뉘른베르크 아카이브 | 1차 조약 전사 | 제42·43조, 라인란트 | https://nuremberg.law.harvard.edu/documents/2394-articles-42-44-of-the-versailles?mode=text | 재판 제출 자료의 조약 발췌 |
+| SRC-2531 | 베르사유 조약 제8편 / 미국 국무부 FRUS | 1차 조약 전사 | FRUS Paris XIII, 제231·232조 | https://history.state.gov/historicaldocuments/frus1919Parisv13/ch17subch1 | 배상 조항과 해설 |
+| SRC-2532 | 베르사유 조약 산둥 조항 / 미국 국무부 FRUS | 1차 조약 전사 | FRUS Paris XIII, 제156~158조 | https://history.state.gov/historicaldocuments/frus1919Parisv13/ch13subch8 | 기존 독일 권리의 귀속 문안 |
+| SRC-2533 | Wang Jingwei Nanjing Regime / China Missionary and China Archive | 2차 | 1940년 3월 30일 난징 정권 해설 | https://www.cmcarchive.org/events/wang-jingwei-nanjing-regime-1940 | JACAR 및 기존 출처와 함께 확인 |
+| SRC-2534 | Yalta (Crimea) Conference / 예일대 Avalon Project | 1차 의정서·협정 | 의정서 I·II·IV·VI 및 대일 비밀협정 | https://avalon.law.yale.edu/wwii/yalta.asp | 합의 사항과 이행은 별도 |
