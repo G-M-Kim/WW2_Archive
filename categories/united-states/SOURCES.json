@@ -4314,5 +4314,23 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "DANFS ship history, transcribed by Destroyer History Foundation"
+  },
+  {
+    "id": "CAT-US-SRC-0207",
+    "title": "1940 Census of Population, Volume 1: Number of Inhabitants",
+    "institution_or_author": "U.S. Bureau of the Census",
+    "publication_date": "1942",
+    "source_type": "primary: 동시대 공식 간행물",
+    "locator": "권 I, 각 주의 Cities and Other Incorporated Places 표와 준주 장",
+    "url": "https://www.census.gov/library/publications/1942/dec/population-vol-1.html",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년의 48개 주, 연방구와 도시·타운 표기. 알래스카·하와이 등 준주는 별도 집계."
+    ],
+    "limitations": [
+      "법인화된 도시와 타운의 종류는 주마다 다르고 이후 전시 신설 도시는 포함하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
   }
 ]

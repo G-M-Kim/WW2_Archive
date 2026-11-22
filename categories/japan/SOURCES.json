@@ -3916,5 +3916,113 @@
     ],
     "rights": "원문 이미지 미열람으로 개별 이용조건 미확인. 기록 주소만 연결.",
     "independence_group": "Imperial Japanese Navy construction order"
+  },
+  {
+    "id": "CAT-JP-SRC-0178",
+    "title": "昭和15年国勢調査 — 人口総数・男女の別・年令・配偶の関係・民籍または国籍",
+    "institution_or_author": "내각통계국 / 일본 정부 통계 e-Stat",
+    "publication_date": "1940년 조사",
+    "source_type": "primary: 동시대 공식 간행물",
+    "locator": "표 1, 世帯および男女別人口（全人口）－全国，道府県，郡，市区町村의 도도부현별 4개 파일",
+    "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&tclass1=000001037102&toukei=00200521&tstat=000001036871",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "내지의 부·현과 시·구·정·촌 표 제목 및 분권 목록."
+    ],
+    "limitations": [
+      "정부 포털의 원표 접근 경로이며 1940년 조사 뒤 변경은 시청 연혁과 별도 대조."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0179",
+    "title": "昭和15年（1940年）国勢調査報告 第一巻(1)",
+    "institution_or_author": "일본 국세조사 / 内閣府 沖縄戦関係資料閲覧室",
+    "publication_date": "1940년 조사",
+    "source_type": "primary: 동시대 공식 간행물",
+    "locator": "첫 권 전국·도부현 표 및 해당 공개 스캔",
+    "url": "https://www8.cao.go.jp/okinawa/okinawasen/pdf/b0401001/b0401001.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1940년 일본 총조사에서 도쿄부 등 지역별 집계의 표기."
+    ],
+    "limitations": [
+      "공개 스캔 한 분권이고 내지 모든 도시 행은 정부 통계 포털 파일에도 분산돼 있다."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0180",
+    "title": "舞鶴市の変遷",
+    "institution_or_author": "舞鶴市",
+    "publication_date": null,
+    "source_type": "secondary: 기관 해설",
+    "locator": "昭和13年–昭和18年 연혁",
+    "url": "https://www.city.maizuru.kyoto.jp/kyouiku/0000000038.html",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1943년 마이즈루와 히가시마이즈루 합병."
+    ],
+    "limitations": [
+      "현대 시청 편찬."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0181",
+    "title": "第2期能代市中心市街地活性化ビジョン",
+    "institution_or_author": "能代市",
+    "publication_date": null,
+    "source_type": "secondary: 기관 해설",
+    "locator": "시가지 연혁과 昭和15.10.1 항목",
+    "url": "https://www.city.noshiro.lg.jp/up/files/www/sangyo/chushinchi/plan/phase-2/archives/254184download.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "노시로시의 1940-10-01 시제 시행."
+    ],
+    "limitations": [
+      "현대 시청 편찬."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0182",
+    "title": "令和5年度 鹿屋市議会の概況",
+    "institution_or_author": "鹿屋市議会事務局",
+    "publication_date": "2023 회계연도",
+    "source_type": "secondary: 기관 해설",
+    "locator": "1 市の概要 (2) 変遷",
+    "url": "https://www.city.kanoya.lg.jp/documents/9364/shigikainogaikyour5.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "가노야시의 1941-05-27 시제 시행."
+    ],
+    "limitations": [
+      "현대 시의회 편찬."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0183",
+    "title": "薩摩川内市市町村合併関連計画 — 序論",
+    "institution_or_author": "薩摩川内市",
+    "publication_date": null,
+    "source_type": "secondary: 기관 해설",
+    "locator": "川内 지역 연혁, 昭和15.2.11 항목",
+    "url": "https://www.city.satsumasendai.lg.jp/material/files/group/3/keikaku.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "가와우치시의 1940-02-11 시제 시행과 현재 사쓰마센다이시의 성립 경위."
+    ],
+    "limitations": [
+      "현대 시청 편찬."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
   }
 ]

@@ -4167,5 +4167,41 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "brest-municipal-occupation"
+  },
+  {
+    "id": "CAT-FR-SRC-0203",
+    "title": "Loi du 4 septembre 1941 relative au changement de nom du département de la Charente-Inférieure",
+    "institution_or_author": "Journal officiel / Légifrance",
+    "publication_date": "1941-09-04",
+    "source_type": "primary: 법령 서지·표제",
+    "locator": "법률 표제와 공포 정보",
+    "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000868642",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Charente-Inférieure에서 Charente-Maritime로 바꾼 1941년 법률."
+    ],
+    "limitations": [
+      "해당 데파르트망 명칭을 확인하는 자료."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-FR-SRC-0204",
+    "title": "Le XXe siècle de 1914 à 1990",
+    "institution_or_author": "Département des Alpes-Maritimes",
+    "publication_date": null,
+    "source_type": "secondary: 기관 해설",
+    "locator": "제2차 세계대전과 Menton 단락",
+    "url": "https://www.departement06.fr/en/node/3001",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "망통의 이탈리아 점령과 당국의 이탈리아어 지명 사용 맥락."
+    ],
+    "limitations": [
+      "당대 개명 포고의 원문이 아니라 데파르트망의 역사 해설."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
   }
 ]
