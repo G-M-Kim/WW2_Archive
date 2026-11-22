@@ -3340,5 +3340,77 @@
     ],
     "rights": "공개 열람본. 자체 한국어 요약과 원문 링크만 사용했다. 이미지·전문 재사용 조건은 별도 확인한다.",
     "independence_group": "Pinelli–Rizza Taranto archival research"
+  },
+  {
+    "id": "CAT-IT-SRC-0168",
+    "title": "VIII Censimento generale della popolazione — Elenco dei comuni del Regno e loro popolazione residente legale al 21 aprile 1936",
+    "institution_or_author": "Istituto Centrale di Statistica del Regno d’Italia / ISTAT",
+    "publication_date": "1937",
+    "source_type": "primary: 동시대 공식 간행물",
+    "locator": "21 aprile 1936. Elenco dei comuni, 도별 장 및 Compartimenti 집계",
+    "url": "https://ebiblio.istat.it/digibib/Censimenti%20popolazione/censpop1936/IST0005666ElencocomuniRegnoepopres21Apr936.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1936년 주·통계권과 코무네의 명칭. Roma, Torino, Udine, Littoria 등."
+    ],
+    "limitations": [
+      "1936년 기준이므로 이후 코무네 신설·변동은 후속 자료에서 기록."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-IT-SRC-0169",
+    "title": "Struttura e dinamica delle unità amministrative territoriali italiane",
+    "institution_or_author": "ISTAT",
+    "publication_date": "2018",
+    "source_type": "secondary: 기관 해설",
+    "locator": "4장 La geografia amministrativa dal fascismo al secondo conflitto mondiale, Caserta·Apuania 등",
+    "url": "https://www.istat.it/wp-content/uploads/2018/07/Struttura-e-dinamica-delle-unit%C3%A0-amministrative.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 전후 도·코무네 변경과 카세르타 도 폐지·복구."
+    ],
+    "limitations": [
+      "현대 후대 편찬이며 기준일마다 경계가 다르다."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-IT-SRC-0170",
+    "title": "Istituto — Archivio di Stato di Latina",
+    "institution_or_author": "Ministero della Cultura / Archivio di Stato di Latina",
+    "publication_date": null,
+    "source_type": "secondary: 기관 해설",
+    "locator": "기관과 지역 연혁에서 Littoria와 Latina 표기",
+    "url": "https://archiviodistatolatina.cultura.gov.it/istituto",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "식민개척 도시의 당시 Littoria와 현대 Latina 관계."
+    ],
+    "limitations": [
+      "기록관 후대 해설."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-IT-SRC-0171",
+    "title": "Decreto legislativo luogotenenziale 1 marzo 1946, n. 48 — Ricostituzione dei comuni di Massa, Carrara e Montignoso",
+    "institution_or_author": "Repubblica Italiana, Gazzetta Ufficiale",
+    "publication_date": "1946-03-01",
+    "source_type": "primary: 관보",
+    "locator": "n. 53, 4 marzo 1946, 046U0048",
+    "url": "https://www.gazzettaufficiale.it/eli/id/1946/03/04/046U0048/sg",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 통합 코무네 Apuania를 해체하고 Massa, Carrara, Montignoso를 다시 분리."
+    ],
+    "limitations": [
+      "1946년 개편을 확인하는 법령. 전시 코무네의 구역 면적은 별도."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
   }
 ]

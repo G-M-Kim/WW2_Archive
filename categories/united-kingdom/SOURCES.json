@@ -4112,5 +4112,95 @@
     ],
     "rights": "공개 열람 자료. 자체 요약과 링크만 사용.",
     "independence_group": "kindell-ship-movement-compilation"
+  },
+  {
+    "id": "CAT-GB-SRC-0206",
+    "title": "The Architects’ Journal, 1 June 1939 — Civil Defence Bill",
+    "institution_or_author": "F. J. Samuely, C. W. Hamann 외 / The Architects’ Journal",
+    "publication_date": "1939-06-01",
+    "source_type": "primary: 동시대 전문지",
+    "locator": "Vol. 89, Civil Defence Bill과 행정 카운티별 County Boroughs, Municipal Boroughs, Urban Districts 명단",
+    "url": "https://www.usmodernist.org/AJUK/AJUK-1939-06-01.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "동시대 잉글랜드·웨일스의 카운티, 카운티 버러, 타운 표기와 단위 차이."
+    ],
+    "limitations": [
+      "법안 적용 대상 일부를 열거한 목록이다. 도시나 정주지를 전수 열거하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-GB-SRC-0207",
+    "title": "1931 Census of England and Wales, General Report — Table 34",
+    "institution_or_author": "General Register Office / A Vision of Britain Through Time",
+    "publication_date": "1931년 조사",
+    "source_type": "primary: 동시대 통계의 전산 재수록",
+    "locator": "표 34, 1929년 Local Government Act 후의 카운티와 지방 행정 단위",
+    "url": "https://visionofbritain.org/census/table/EW1931GEN_M34",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "행정 카운티의 이름과 카운티 버러·메트로폴리탄 버러·도시구 등의 구분."
+    ],
+    "limitations": [
+      "공개 표의 구조와 집계 범위를 확인. 인구와 각 도시의 법적 지위를 별도 수치로 채록하지 않았다."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-GB-SRC-0208",
+    "title": "1931 Census of Scotland: Preliminary Report — Table 1",
+    "institution_or_author": "General Register Office for Scotland / A Vision of Britain Through Time",
+    "publication_date": "1931",
+    "source_type": "primary: 동시대 통계의 전산 재수록",
+    "locator": "Table 1, Population of Scotland and of the Counties in 1931 and in 1921",
+    "url": "https://www.visionofbritain.org.uk/census/table/S1931PRE_M1",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "스코틀랜드의 카운티 명칭과 카운티·대형 버러 집계 구분."
+    ],
+    "limitations": [
+      "전전 통계이며 버러·타운 및 당시 관할은 상세 카운티표를 함께 본다."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-GB-SRC-0209",
+    "title": "1931 Census of Scotland: County Report — Table 1",
+    "institution_or_author": "General Register Office for Scotland / A Vision of Britain Through Time",
+    "publication_date": "1931년 조사",
+    "source_type": "primary: 동시대 통계의 전산 재수록",
+    "locator": "Table 1, Population of Burghs, Districts of Counties, and Civil Parishes",
+    "url": "https://www.visionofbritain.org.uk/census/table/S1931COU_M1",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "스코틀랜드 도시·버러와 카운티, 교구의 원표 구조."
+    ],
+    "limitations": [
+      "공개 색인과 읽을 수 있는 집계 범위만 대조. 개별 카운티표의 직접 연결은 시간초과였다."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-GB-SRC-0210",
+    "title": "1937 Census — Reports",
+    "institution_or_author": "General Register Office for Northern Ireland / Northern Ireland Statistics and Research Agency",
+    "publication_date": "1937년 조사",
+    "source_type": "primary: 동시대 공식 간행물",
+    "locator": "General Summary, 개별 카운티 및 카운티 버러 보고서, Topographical Index",
+    "url": "https://www.nisra.gov.uk/publications/1937-census-reports",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "당시 북아일랜드 여섯 카운티와 벨파스트·런던데리 카운티 버러의 보고서 구분."
+    ],
+    "limitations": [
+      "1937년 통계와 지명 색인이며 모든 전시 관할 변경을 포괄하지 않는다."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
   }
 ]

@@ -4257,5 +4257,77 @@
     "accessed_at": "2026-11-21",
     "access_status": "source_checked",
     "rights": "학술대회 발행처 공개 PDF 링크만 제공."
+  },
+  {
+    "id": "CAT-DE-SRC-0210",
+    "title": "Die Bevölkerung des Deutschen Reichs nach den Ergebnissen der Volkszählung vom 17. Mai 1939",
+    "institution_or_author": "Statistisches Reichsamt",
+    "publication_date": "1940",
+    "source_type": "primary: 동시대 공식 간행물",
+    "locator": "Wirtschaft und Statistik 1940, 17호 특별부록. 도입부와 Reichsteile, Verwaltungsbezirke, Gemeinden 표",
+    "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEHeft_derivate_00032916/WiSta-Sonderbeilage-1940-17.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 5월 행정구역과 도시 표기. 라인주 및 하노버주, 뷔르템베르크주의 행정 계층."
+    ],
+    "limitations": [
+      "일부 후속 행정 변경이 통계 주석에 반영된다."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-DE-SRC-0211",
+    "title": "Gesetz über Groß-Hamburg und andere Gebietsbereinigungen",
+    "institution_or_author": "Deutsches Reich / Stadt Wilhelmshaven",
+    "publication_date": "1937-01-26",
+    "source_type": "primary: 법률 전사",
+    "locator": "RGBl. I S. 91, §§1–4",
+    "url": "https://www.wilhelmshaven.de/PDF/Stadtrecht/Sr10-01_Gross_Hamburg_Gesetz.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "함부르크 확대와 쿡스하펜·뤼베크·빌헬름스하펜의 관할 이동."
+    ],
+    "limitations": [
+      "해당 법령의 적용 시기와 적용 구역에 한정."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-DE-SRC-0212",
+    "title": "Denkmalbereichssatzung Historischer Stadtkern Krefeld-Uerdingen",
+    "institution_or_author": "Stadt Krefeld",
+    "publication_date": "2023",
+    "source_type": "secondary: 기관 해설",
+    "locator": "일련번호 230116, historische Entwicklung des Stadtkerns",
+    "url": "https://ris.krefeld.de/sdnetrim/UGhVM0hpd2NXNFdFcExjZaNwhRc_WEojFJwqiow9wP1E0j1ETni8iI9RLoJTeX3x/230116_Denkmalbereichssatzung.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "Krefeld-Uerdingen am Rhein 표기와 1940년 Krefeld 개칭."
+    ],
+    "limitations": [
+      "시의회 열람용 문서."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-DE-SRC-0213",
+    "title": "Stadtkreis Elbing",
+    "institution_or_author": "Rolf Jehke / Territoriale Veränderungen in Deutschland und deutsch verwalteten Gebieten",
+    "publication_date": null,
+    "source_type": "secondary: 사료 인용 행정사 연표",
+    "locator": "1931–1940년 행정 변천 항목",
+    "url": "https://territorial.de/dawp/elbing/elbstkr.htm",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 동프로이센에서 단치히-서프로이센으로 행정구 이동."
+    ],
+    "limitations": [
+      "후대 편찬이고 해당 도시와 도시군을 다룬다."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
   }
 ]

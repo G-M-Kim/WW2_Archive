@@ -1,8 +1,253 @@
-# 제2차 세계대전기 미국 관련 지명
+# 미국 13 — 제2차 세계대전기의 지명
 
-작업 ID `CAT-US-13` · 첫 조사 상태 `partial` · 조사일 2026-11-14
+작업 `CAT-US-13` · 도시 지명 추가 조사 2026-11-22
 
-전쟁기 미국 본토, 알래스카·하와이 준주, 괌, 필리핀 자치령에서 전시 문서의 지명과 현대 대응명을 대조했다. 같은 문서에서도 항구·섬·시가지·행정구역의 범위가 다를 수 있다. 아래 날짜는 해당 표기를 확인한 시점 또는 법령의 시행 시점이다.
+1940년 4월 1일 인구총조사를 기준으로 당시 본토 **48개 주와 컬럼비아 특별구**를 모두 넣었다. 당시 주가 아니었던 알래스카·하와이 준주와 기타 해외 지역은 별도 표에 놓았다. 주도와 주요 도시·타운을 골랐으며 전쟁 중 형성된 오크리지에는 시기 주석을 달았다.
+
+워싱턴주는 서부에, 연방 수도 워싱턴은 컬럼비아 특별구에 있다. 하와이의 호놀룰루와 그 인근 진주만, 알래스카의 어널래스카와 그 인근 더치하버처럼 도시와 시설·항구는 상세 사료에서 공간 단위를 구별한다.
+
+이 색인에는 주요 도시·타운 202건을 수록했다. 지도 검색명은 같은 장소를 찾기 위한 이름이며 시가지와 행정 경계는 시기별로 달라질 수 있다. 항구·섬·광장 등 별도 지명은 상세 사료에 실었다. 국경과 통치 범위는 [14번 영토·지도 자료](14-territory.md)에서 확인할 수 있다.
+
+## 도시별 지명 색인
+
+### 북동부
+
+근거 자료 [CAT-US-SRC-0207](<https://www.census.gov/library/publications/1942/dec/population-vol-1.html>)
+
+| 당시 지방·행정구역 | 당시 도시·타운 이름 | 현재 지도 검색명 | 시기·관할 비고 |
+| --- | --- | --- | --- |
+| 메인 Maine | 포틀랜드 Portland | 동일 지명 | — |
+| 메인 Maine | 뱅고어 Bangor | 동일 지명 | — |
+| 메인 Maine | 오거스타 Augusta | 동일 지명 | — |
+| 뉴햄프셔 New Hampshire | 맨체스터 Manchester | 동일 지명 | — |
+| 뉴햄프셔 New Hampshire | 콩코드 Concord | 동일 지명 | — |
+| 뉴햄프셔 New Hampshire | 포츠머스 Portsmouth | 동일 지명 | — |
+| 버몬트 Vermont | 벌링턴 Burlington | 동일 지명 | — |
+| 버몬트 Vermont | 몬트필리어 Montpelier | 동일 지명 | — |
+| 버몬트 Vermont | 러틀랜드 Rutland | 동일 지명 | — |
+| 매사추세츠 Massachusetts | 보스턴 Boston | 동일 지명 | — |
+| 매사추세츠 Massachusetts | 우스터 Worcester | 동일 지명 | — |
+| 매사추세츠 Massachusetts | 스프링필드 Springfield | 동일 지명 | — |
+| 매사추세츠 Massachusetts | 케임브리지 Cambridge | 동일 지명 | — |
+| 매사추세츠 Massachusetts | 로웰 Lowell | 동일 지명 | — |
+| 매사추세츠 Massachusetts | 뉴베드퍼드 New Bedford | 동일 지명 | — |
+| 로드아일랜드 Rhode Island | 프로비던스 Providence | 동일 지명 | — |
+| 로드아일랜드 Rhode Island | 뉴포트 Newport | 동일 지명 | — |
+| 로드아일랜드 Rhode Island | 포터킷 Pawtucket | 동일 지명 | — |
+| 코네티컷 Connecticut | 하트퍼드 Hartford | 동일 지명 | — |
+| 코네티컷 Connecticut | 뉴헤이븐 New Haven | 동일 지명 | — |
+| 코네티컷 Connecticut | 브리지포트 Bridgeport | 동일 지명 | — |
+| 코네티컷 Connecticut | 뉴런던 New London | 동일 지명 | — |
+| 뉴욕 New York | 뉴욕 New York City | 동일 지명 | — |
+| 뉴욕 New York | 버펄로 Buffalo | 동일 지명 | — |
+| 뉴욕 New York | 로체스터 Rochester | 동일 지명 | — |
+| 뉴욕 New York | 시러큐스 Syracuse | 동일 지명 | — |
+| 뉴욕 New York | 올버니 Albany | 동일 지명 | — |
+| 뉴욕 New York | 유티카 Utica | 동일 지명 | — |
+| 뉴저지 New Jersey | 뉴어크 Newark | 동일 지명 | — |
+| 뉴저지 New Jersey | 저지시티 Jersey City | 동일 지명 | — |
+| 뉴저지 New Jersey | 트렌턴 Trenton | 동일 지명 | — |
+| 뉴저지 New Jersey | 캠던 Camden | 동일 지명 | — |
+| 펜실베이니아 Pennsylvania | 필라델피아 Philadelphia | 동일 지명 | — |
+| 펜실베이니아 Pennsylvania | 피츠버그 Pittsburgh | 동일 지명 | — |
+| 펜실베이니아 Pennsylvania | 해리스버그 Harrisburg | 동일 지명 | — |
+| 펜실베이니아 Pennsylvania | 이리 Erie | 동일 지명 | — |
+| 펜실베이니아 Pennsylvania | 앨런타운 Allentown | 동일 지명 | — |
+| 펜실베이니아 Pennsylvania | 스크랜턴 Scranton | 동일 지명 | — |
+
+### 중서부
+
+근거 자료 [CAT-US-SRC-0207](<https://www.census.gov/library/publications/1942/dec/population-vol-1.html>)
+
+| 당시 지방·행정구역 | 당시 도시·타운 이름 | 현재 지도 검색명 | 시기·관할 비고 |
+| --- | --- | --- | --- |
+| 오하이오 Ohio | 클리블랜드 Cleveland | 동일 지명 | — |
+| 오하이오 Ohio | 신시내티 Cincinnati | 동일 지명 | — |
+| 오하이오 Ohio | 콜럼버스 Columbus | 동일 지명 | — |
+| 오하이오 Ohio | 털리도 Toledo | 동일 지명 | — |
+| 오하이오 Ohio | 애크런 Akron | 동일 지명 | — |
+| 오하이오 Ohio | 데이턴 Dayton | 동일 지명 | — |
+| 오하이오 Ohio | 영스타운 Youngstown | 동일 지명 | — |
+| 인디애나 Indiana | 인디애나폴리스 Indianapolis | 동일 지명 | — |
+| 인디애나 Indiana | 개리 Gary | 동일 지명 | — |
+| 인디애나 Indiana | 사우스벤드 South Bend | 동일 지명 | — |
+| 인디애나 Indiana | 포트웨인 Fort Wayne | 동일 지명 | — |
+| 인디애나 Indiana | 에번즈빌 Evansville | 동일 지명 | — |
+| 일리노이 Illinois | 시카고 Chicago | 동일 지명 | — |
+| 일리노이 Illinois | 스프링필드 Springfield | 동일 지명 | — |
+| 일리노이 Illinois | 록퍼드 Rockford | 동일 지명 | — |
+| 일리노이 Illinois | 피오리아 Peoria | 동일 지명 | — |
+| 일리노이 Illinois | 이스트세인트루이스 East St. Louis | 동일 지명 | — |
+| 미시간 Michigan | 디트로이트 Detroit | 동일 지명 | — |
+| 미시간 Michigan | 플린트 Flint | 동일 지명 | — |
+| 미시간 Michigan | 그랜드래피즈 Grand Rapids | 동일 지명 | — |
+| 미시간 Michigan | 랜싱 Lansing | 동일 지명 | — |
+| 미시간 Michigan | 새기노 Saginaw | 동일 지명 | — |
+| 위스콘신 Wisconsin | 밀워키 Milwaukee | 동일 지명 | — |
+| 위스콘신 Wisconsin | 매디슨 Madison | 동일 지명 | — |
+| 위스콘신 Wisconsin | 그린베이 Green Bay | 동일 지명 | — |
+| 위스콘신 Wisconsin | 커노샤 Kenosha | 동일 지명 | — |
+| 위스콘신 Wisconsin | 러신 Racine | 동일 지명 | — |
+| 미네소타 Minnesota | 미니애폴리스 Minneapolis | 동일 지명 | — |
+| 미네소타 Minnesota | 세인트폴 St. Paul | 동일 지명 | — |
+| 미네소타 Minnesota | 덜루스 Duluth | 동일 지명 | — |
+| 아이오와 Iowa | 디모인 Des Moines | 동일 지명 | — |
+| 아이오와 Iowa | 시더래피즈 Cedar Rapids | 동일 지명 | — |
+| 아이오와 Iowa | 대븐포트 Davenport | 동일 지명 | — |
+| 미주리 Missouri | 세인트루이스 St. Louis | 동일 지명 | — |
+| 미주리 Missouri | 캔자스시티 Kansas City | 동일 지명 | — |
+| 미주리 Missouri | 제퍼슨시티 Jefferson City | 동일 지명 | — |
+| 미주리 Missouri | 스프링필드 Springfield | 동일 지명 | — |
+| 노스다코타 North Dakota | 파고 Fargo | 동일 지명 | — |
+| 노스다코타 North Dakota | 비즈마크 Bismarck | 동일 지명 | — |
+| 노스다코타 North Dakota | 그랜드포크스 Grand Forks | 동일 지명 | — |
+| 사우스다코타 South Dakota | 수폴스 Sioux Falls | 동일 지명 | — |
+| 사우스다코타 South Dakota | 래피드시티 Rapid City | 동일 지명 | — |
+| 사우스다코타 South Dakota | 피어 Pierre | 동일 지명 | — |
+| 네브래스카 Nebraska | 오마하 Omaha | 동일 지명 | — |
+| 네브래스카 Nebraska | 링컨 Lincoln | 동일 지명 | — |
+| 네브래스카 Nebraska | 그랜드아일랜드 Grand Island | 동일 지명 | — |
+| 캔자스 Kansas | 위치토 Wichita | 동일 지명 | — |
+| 캔자스 Kansas | 토피카 Topeka | 동일 지명 | — |
+| 캔자스 Kansas | 캔자스시티 Kansas City | 동일 지명 | 미주리주의 동명 도시와 별개 |
+
+### 남부와 연방구
+
+근거 자료 [CAT-US-SRC-0207](<https://www.census.gov/library/publications/1942/dec/population-vol-1.html>) · [CAT-US-SRC-0114](<https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch02.pdf>)
+
+| 당시 지방·행정구역 | 당시 도시·타운 이름 | 현재 지도 검색명 | 시기·관할 비고 |
+| --- | --- | --- | --- |
+| 델라웨어 Delaware | 윌밍턴 Wilmington | 동일 지명 | — |
+| 델라웨어 Delaware | 도버 Dover | 동일 지명 | — |
+| 메릴랜드 Maryland | 볼티모어 Baltimore | 동일 지명 | — |
+| 메릴랜드 Maryland | 애너폴리스 Annapolis | 동일 지명 | — |
+| 메릴랜드 Maryland | 컴벌랜드 Cumberland | 동일 지명 | — |
+| 컬럼비아 특별구 District of Columbia | 워싱턴 Washington | 동일 지명 | 워싱턴주와 별개인 연방구 |
+| 버지니아 Virginia | 리치먼드 Richmond | 동일 지명 | — |
+| 버지니아 Virginia | 노퍽 Norfolk | 동일 지명 | — |
+| 버지니아 Virginia | 포츠머스 Portsmouth | 동일 지명 | — |
+| 버지니아 Virginia | 뉴포트뉴스 Newport News | 동일 지명 | — |
+| 버지니아 Virginia | 로어노크 Roanoke | 동일 지명 | — |
+| 웨스트버지니아 West Virginia | 찰스턴 Charleston | 동일 지명 | — |
+| 웨스트버지니아 West Virginia | 헌팅턴 Huntington | 동일 지명 | — |
+| 웨스트버지니아 West Virginia | 휠링 Wheeling | 동일 지명 | — |
+| 노스캐롤라이나 North Carolina | 샬럿 Charlotte | 동일 지명 | — |
+| 노스캐롤라이나 North Carolina | 롤리 Raleigh | 동일 지명 | — |
+| 노스캐롤라이나 North Carolina | 더럼 Durham | 동일 지명 | — |
+| 노스캐롤라이나 North Carolina | 그린즈버러 Greensboro | 동일 지명 | — |
+| 노스캐롤라이나 North Carolina | 윌밍턴 Wilmington | 동일 지명 | — |
+| 사우스캐롤라이나 South Carolina | 찰스턴 Charleston | 동일 지명 | — |
+| 사우스캐롤라이나 South Carolina | 컬럼비아 Columbia | 동일 지명 | — |
+| 사우스캐롤라이나 South Carolina | 그린빌 Greenville | 동일 지명 | — |
+| 조지아 Georgia | 애틀랜타 Atlanta | 동일 지명 | — |
+| 조지아 Georgia | 서배너 Savannah | 동일 지명 | — |
+| 조지아 Georgia | 오거스타 Augusta | 동일 지명 | — |
+| 조지아 Georgia | 메이컨 Macon | 동일 지명 | — |
+| 플로리다 Florida | 잭슨빌 Jacksonville | 동일 지명 | — |
+| 플로리다 Florida | 마이애미 Miami | 동일 지명 | — |
+| 플로리다 Florida | 탬파 Tampa | 동일 지명 | — |
+| 플로리다 Florida | 탤러해시 Tallahassee | 동일 지명 | — |
+| 플로리다 Florida | 펜서콜라 Pensacola | 동일 지명 | — |
+| 켄터키 Kentucky | 루이빌 Louisville | 동일 지명 | — |
+| 켄터키 Kentucky | 렉싱턴 Lexington | 동일 지명 | — |
+| 켄터키 Kentucky | 프랭크퍼트 Frankfort | 동일 지명 | — |
+| 테네시 Tennessee | 내슈빌 Nashville | 동일 지명 | — |
+| 테네시 Tennessee | 멤피스 Memphis | 동일 지명 | — |
+| 테네시 Tennessee | 녹스빌 Knoxville | 동일 지명 | — |
+| 테네시 Tennessee | 채터누가 Chattanooga | 동일 지명 | — |
+| 테네시 Tennessee | 오크리지 Oak Ridge | 동일 지명 | 1942년 이후 조성된 전시 주거지. 1940년 총조사 도시 행이 아닌 기존 사료 대조 사례 |
+| 앨라배마 Alabama | 버밍햄 Birmingham | 동일 지명 | — |
+| 앨라배마 Alabama | 모빌 Mobile | 동일 지명 | — |
+| 앨라배마 Alabama | 몽고메리 Montgomery | 동일 지명 | — |
+| 미시시피 Mississippi | 잭슨 Jackson | 동일 지명 | — |
+| 미시시피 Mississippi | 걸프포트 Gulfport | 동일 지명 | — |
+| 미시시피 Mississippi | 빅스버그 Vicksburg | 동일 지명 | — |
+| 아칸소 Arkansas | 리틀록 Little Rock | 동일 지명 | — |
+| 아칸소 Arkansas | 포트스미스 Fort Smith | 동일 지명 | — |
+| 아칸소 Arkansas | 파인블러프 Pine Bluff | 동일 지명 | — |
+| 루이지애나 Louisiana | 뉴올리언스 New Orleans | 동일 지명 | — |
+| 루이지애나 Louisiana | 배턴루지 Baton Rouge | 동일 지명 | — |
+| 루이지애나 Louisiana | 슈리브포트 Shreveport | 동일 지명 | — |
+| 오클라호마 Oklahoma | 오클라호마시티 Oklahoma City | 동일 지명 | — |
+| 오클라호마 Oklahoma | 털사 Tulsa | 동일 지명 | — |
+| 오클라호마 Oklahoma | 머스코기 Muskogee | 동일 지명 | — |
+| 텍사스 Texas | 휴스턴 Houston | 동일 지명 | — |
+| 텍사스 Texas | 댈러스 Dallas | 동일 지명 | — |
+| 텍사스 Texas | 샌안토니오 San Antonio | 동일 지명 | — |
+| 텍사스 Texas | 포트워스 Fort Worth | 동일 지명 | — |
+| 텍사스 Texas | 오스틴 Austin | 동일 지명 | — |
+| 텍사스 Texas | 엘패소 El Paso | 동일 지명 | — |
+| 텍사스 Texas | 보몬트 Beaumont | 동일 지명 | — |
+| 텍사스 Texas | 코퍼스크리스티 Corpus Christi | 동일 지명 | — |
+
+### 서부
+
+근거 자료 [CAT-US-SRC-0207](<https://www.census.gov/library/publications/1942/dec/population-vol-1.html>)
+
+| 당시 지방·행정구역 | 당시 도시·타운 이름 | 현재 지도 검색명 | 시기·관할 비고 |
+| --- | --- | --- | --- |
+| 몬태나 Montana | 빌링스 Billings | 동일 지명 | — |
+| 몬태나 Montana | 헬레나 Helena | 동일 지명 | — |
+| 몬태나 Montana | 그레이트폴스 Great Falls | 동일 지명 | — |
+| 몬태나 Montana | 뷰트 Butte | 동일 지명 | — |
+| 아이다호 Idaho | 보이시 Boise | 동일 지명 | — |
+| 아이다호 Idaho | 포커텔로 Pocatello | 동일 지명 | — |
+| 아이다호 Idaho | 아이다호폴스 Idaho Falls | 동일 지명 | — |
+| 와이오밍 Wyoming | 샤이엔 Cheyenne | 동일 지명 | — |
+| 와이오밍 Wyoming | 캐스퍼 Casper | 동일 지명 | — |
+| 와이오밍 Wyoming | 래러미 Laramie | 동일 지명 | — |
+| 콜로라도 Colorado | 덴버 Denver | 동일 지명 | — |
+| 콜로라도 Colorado | 콜로라도스프링스 Colorado Springs | 동일 지명 | — |
+| 콜로라도 Colorado | 푸에블로 Pueblo | 동일 지명 | — |
+| 뉴멕시코 New Mexico | 앨버커키 Albuquerque | 동일 지명 | — |
+| 뉴멕시코 New Mexico | 샌타페이 Santa Fe | 동일 지명 | — |
+| 뉴멕시코 New Mexico | 로즈웰 Roswell | 동일 지명 | — |
+| 애리조나 Arizona | 피닉스 Phoenix | 동일 지명 | — |
+| 애리조나 Arizona | 투손 Tucson | 동일 지명 | — |
+| 애리조나 Arizona | 플래그스태프 Flagstaff | 동일 지명 | — |
+| 유타 Utah | 솔트레이크시티 Salt Lake City | 동일 지명 | — |
+| 유타 Utah | 오그던 Ogden | 동일 지명 | — |
+| 유타 Utah | 프로보 Provo | 동일 지명 | — |
+| 네바다 Nevada | 리노 Reno | 동일 지명 | — |
+| 네바다 Nevada | 라스베이거스 Las Vegas | 동일 지명 | — |
+| 네바다 Nevada | 카슨시티 Carson City | 동일 지명 | — |
+| 워싱턴 Washington | 시애틀 Seattle | 동일 지명 | — |
+| 워싱턴 Washington | 터코마 Tacoma | 동일 지명 | — |
+| 워싱턴 Washington | 스포캔 Spokane | 동일 지명 | — |
+| 워싱턴 Washington | 올림피아 Olympia | 동일 지명 | — |
+| 워싱턴 Washington | 브레머턴 Bremerton | 동일 지명 | — |
+| 오리건 Oregon | 포틀랜드 Portland | 동일 지명 | — |
+| 오리건 Oregon | 세일럼 Salem | 동일 지명 | — |
+| 오리건 Oregon | 유진 Eugene | 동일 지명 | — |
+| 오리건 Oregon | 애스토리아 Astoria | 동일 지명 | — |
+| 캘리포니아 California | 로스앤젤레스 Los Angeles | 동일 지명 | — |
+| 캘리포니아 California | 샌프란시스코 San Francisco | 동일 지명 | — |
+| 캘리포니아 California | 샌디에이고 San Diego | 동일 지명 | — |
+| 캘리포니아 California | 오클랜드 Oakland | 동일 지명 | — |
+| 캘리포니아 California | 새크라멘토 Sacramento | 동일 지명 | — |
+| 캘리포니아 California | 롱비치 Long Beach | 동일 지명 | — |
+| 캘리포니아 California | 샌호제이 San Jose | 동일 지명 | — |
+| 캘리포니아 California | 프레즈노 Fresno | 동일 지명 | — |
+| 캘리포니아 California | 리치먼드 Richmond | 동일 지명 | — |
+
+### 준주·해외 지명
+
+근거 자료 [CAT-US-SRC-0207](<https://www.census.gov/library/publications/1942/dec/population-vol-1.html>) · [CAT-US-SRC-0115](<https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch11.pdf>) · [CAT-US-SRC-0140](<https://psa.gov.ph/classification/psgc/citimuni/1300000000>)
+
+| 당시 지방·행정구역 | 당시 도시·타운 이름 | 현재 지도 검색명 | 시기·관할 비고 |
+| --- | --- | --- | --- |
+| 알래스카 준주 Territory of Alaska | 주노 Juneau | 미국 알래스카주 주노 | — |
+| 알래스카 준주 Territory of Alaska | 앵커리지 Anchorage | 미국 알래스카주 앵커리지 | — |
+| 알래스카 준주 Territory of Alaska | 페어뱅크스 Fairbanks | 미국 알래스카주 페어뱅크스 | — |
+| 알래스카 준주 Territory of Alaska | 어널래스카 Unalaska | 미국 알래스카주 어널래스카 | 더치하버는 같은 시역의 항구 지명. 기존 상세 기록 참조 |
+| 하와이 준주 Territory of Hawaii | 호놀룰루 Honolulu | 미국 하와이주 호놀룰루 | — |
+| 하와이 준주 Territory of Hawaii | 힐로 Hilo | 미국 하와이주 힐로 | 1940년 총조사의 도시 지역. 호놀룰루와 동일한 자치 형태로 보지 않는다 |
+| 푸에르토리코 Puerto Rico | 산후안 San Juan | 푸에르토리코 산후안 | — |
+| 푸에르토리코 Puerto Rico | 폰세 Ponce | 푸에르토리코 폰세 | — |
+| 미국령 괌 Guam | 아가나 Agana | 괌 하갓냐 Hagåtña | 1941–1944년 일본 점령. 섬의 일본어 점령기 명칭 大宮島는 도시명과 구별 |
+| 필리핀 자치령 Commonwealth of the Philippines | 마닐라 Manila | 필리핀 마닐라 | 전시 광역 City of Greater Manila, 시가지 Manila와 성곽 지구 Intramuros는 기존 상세 기록 참조 |
+
+## 기존 상세 사료 대조
 
 | 개체 | 당시 명칭과 적용 범위 | 당시 행정·실효 지배 | 현대 대응 |
 |---|---|---|---|
@@ -41,6 +286,6 @@
 - `CAT-US-RQ-0052` · 괌 점령기 명명 포고, 일본 지도 원판, 차모로어 당대 용례.
 - `CAT-US-RQ-0053` · 대마닐라 점령기 문서, 1945년 경찰 관할과 이후 해체, 당대 현지어 용례.
 - `CAT-US-RQ-0054` · 오크리지 원 명명 문서, 더치하버·진주만 일대의 당대 지도와 현지어 표기.
-- `CAT-US-RQ-0055` · 미드웨이·웨이크, 푸에르토리코·파나마 운하구역 등 미조사 지역.
+- `CAT-US-RQ-0055` · 미드웨이·웨이크, 파나마 운하구역 및 푸에르토리코의 작은 도시와 전시 지역별 명칭.
 
 [출처 장부](SOURCES.json) · [검증 장부](QUESTIONS.json)

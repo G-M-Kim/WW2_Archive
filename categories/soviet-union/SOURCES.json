@@ -3034,5 +3034,77 @@
     ],
     "rights": "한국어 요약과 필요한 수치·원문 링크만 사용한다. 원문·자료 이미지의 재배포 권리는 별도 확인한다.",
     "independence_group": "세바스토폴 수비대장; Электронная библиотека исторических документов(ЭБИД)"
+  },
+  {
+    "id": "CAT-SU-SRC-0152",
+    "title": "Всесоюзная перепись населения 1939 г. — Численность наличного населения СССР по районам и городам",
+    "institution_or_author": "소련 인구총조사 / Демоскоп Weekly",
+    "publication_date": "1939년 조사, 후대 전산 재수록",
+    "source_type": "primary: 동시대 공식 통계의 전산 재수록",
+    "locator": "1939년 총조사, 공화국·주와 도시별 표",
+    "url": "https://www.demoscope.ru/weekly/ssp/rus_pop_39_2.php",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 소련 공화국과 도시의 러시아어 표기 및 주별 집계."
+    ],
+    "limitations": [
+      "개전 무렵 이후 편입된 지역은 1941년 행정편람으로 별도 대조."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-SU-SRC-0153",
+    "title": "Административно-территориальное деление союзных республик СССР на 1 января 1941 года — Сводная таблица",
+    "institution_or_author": "소련 최고회의 간부회 정보통계부 / Исторические Материалы",
+    "publication_date": "1941",
+    "source_type": "primary: 동시대 공식 간행물",
+    "locator": "Сводная таблица, 연방 구성 공화국과 주·변경주 및 행정 중심지",
+    "url": "https://istmat.org/files/uploads/17632/sssr_ad-ter_delenie_1941_svodnaya_tablica.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941-01-01 소련 국내 행정상의 연방 구성과 지역 명칭, 카렐리야핀란드 등 추가 공화국의 구분."
+    ],
+    "limitations": [
+      "소련 정부의 관할 표기이며 외국의 승인과 전시 실효 지배는 별도 자료로 본다."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-SU-SRC-0154",
+    "title": "Äänislinnan (Petroskoin) rautatieasema",
+    "institution_or_author": "Suomen Rautatiemuseo / Finna",
+    "publication_date": null,
+    "source_type": "secondary: 기관 해설",
+    "locator": "사진 기록 SRMV1:4627, 설명 첫 문단",
+    "url": "https://www.finna.fi/Record/srm.166934559951600",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941–1944년 핀란드 점령기에 Äänislinna로 불린 페트로자보츠크."
+    ],
+    "limitations": [
+      "철도역 사진에 붙인 후대 지명 설명."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-SU-SRC-0155",
+    "title": "История",
+    "institution_or_author": "Администрация Северодвинска",
+    "publication_date": null,
+    "source_type": "secondary: 기관 해설",
+    "locator": "도시 연혁, 1938년 구절",
+    "url": "https://old.severodvinsk.info/?idmenu=9",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1938년 몰로톱스크와 현대 세베로드빈스크의 대응."
+    ],
+    "limitations": [
+      "현대 시청의 회고적 정리."
+    ],
+    "rights": "공개 열람 자료. 요약과 링크만 사용."
   }
 ]
