@@ -1,5 +1,214 @@
 [
   {
+    "id": "CAT-JP-SRC-0301",
+    "title": "Petroleum Facilities of Japan — Crude Production in Japan Proper",
+    "institution_or_author": "연합군 점령기 조사 / 일본 내각부 보존 컬렉션",
+    "publication_date": null,
+    "source_type": "research_or_archival_publication",
+    "document_or_accession_number": null,
+    "locator": "Crude Production in Japan Proper, Niigata·Akita 표",
+    "url": "https://www8.cao.go.jp/okinawa/okinawasen/pdf/b0604002_01/b0604002_01_11.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1942–45년 내지 유전별 원유 생산과 역년·kL 단위."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0302",
+    "title": "Assessment of undiscovered oil and gas resources in the Akita Basin Province, Japan, 2018",
+    "institution_or_author": "U.S. Geological Survey",
+    "publication_date": "2018",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "USGS Fact Sheet 2018-3047",
+    "url": "https://pubs.usgs.gov/publication/fs20183047",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "아키타 분지 미발견 기술 회수 가능 원유 평균 추정량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0303",
+    "title": "Petroleum data, Sumatra — Summary of crude oil charged: Sumatra and Borneo",
+    "institution_or_author": "U.S. Strategic Bombing Survey / 일본 국립국회도서관 보존",
+    "publication_date": "1945년 이후 편찬",
+    "source_type": "research_or_archival_publication",
+    "document_or_accession_number": null,
+    "locator": "NDL 8819676, Crude Production — Dutch East Indies의 Total Sumatra 소계",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/NDL8819676_Petroleum_data-Sumatra-_Summary_of_crude_oil_charged-Sumatra_and_Borneo._Report_No._51b%2838%29%28c%29%2C_USSBS_Index_Section_2.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "일본 점령기 수마트라의 역년 원유 생산 계열."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0304",
+    "title": "History of the Kamaishi Mine",
+    "institution_or_author": "Nittetsu Mining Co., Ltd.",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "1939년 가마이시 광산 연혁",
+    "url": "https://www.nittetsukou.co.jp/eng/karematuzawa/2.html",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "가마이시 철광산의 당시 조업·사업자."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0305",
+    "title": "Iron Ore Requirements of Japan",
+    "institution_or_author": "미 정보기관 공개 해제 문서",
+    "publication_date": "1949년 이후",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Discussion, p. 2",
+    "url": "https://www.cia.gov/readingroom/docs/CIA-RDP79-01082A000100030005-2.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전후 일본 국내 철광석 잔존량에 대한 당시 추정."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0306",
+    "title": "The Japanese Occupation of Malaya and Singapore — Estate and Mining Industries",
+    "institution_or_author": "Paul H. Kratoska",
+    "publication_date": "1998",
+    "source_type": "research_or_archival_publication",
+    "document_or_accession_number": null,
+    "locator": "표 8.2–8.3 및 OSS R&A 2589 출전",
+    "url": "https://www.scribd.com/document/765882193/Paul-H-Kratoska-the-Japanese-Occupation-of-Malaya-and-Singapore",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "말라야의 주별 고무 식재 면적 및 점령기의 연도별 생산 추정."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0307",
+    "title": "Bauxite Deposits at P. Bintan in Riouw Archipelago, Netherland East Indies",
+    "institution_or_author": "Journal of the Mining Institute of Japan",
+    "publication_date": "1940",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Vol. 56, pp. 255–268, abstract",
+    "url": "https://www.jstage.jst.go.jp/article/shigentosozai1885/56/661/56_661_255/_article/-char/en",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "빈탄 광상 당시 보크사이트량 지질 추정."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0308",
+    "title": "北海道日高・胆振のクロム鉱床 조사",
+    "institution_or_author": "일본 지질조사소",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "히다카·이부리 광상군, 사루강·무카와 지질",
+    "url": "https://www.gsj.jp/data/openfile/no0775/03048_1953/index.html",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "홋카이도 크롬철석 산지의 당시·후대 조사 기록."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0309",
+    "title": "Chromite deposits of the north-central Zambales Range, Luzon, Philippines",
+    "institution_or_author": "U.S. Geological Survey",
+    "publication_date": "1970",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "원보고서 및 공개 초록",
+    "url": "https://www.usgs.gov/publications/chromite-deposits-north-central-zambales-range-luzon-philippines",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "잠발레스의 기채굴·잔존 광석 합계."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0310",
+    "title": "大谷鉱山・鹿谷鉱山",
+    "institution_or_author": "일본 지질조사종합센터",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Location와 Product",
+    "url": "https://gbank.gsj.jp/ld/resource/musee/D26002-2.html",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "교토부 가메오카의 텅스텐 광산 위치."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-JP-SRC-0311",
+    "title": "NI 43-101 and JORC Technical Report on the Mineral Resources and Reserves of the Sangdong Project",
+    "institution_or_author": "Almonty / 독립 기술보고서",
+    "publication_date": "2025",
+    "source_type": "research_or_archival_publication",
+    "document_or_accession_number": null,
+    "locator": "2025-02-28 Probable Mineral Reserves 표",
+    "url": "https://almonty.com/wp-content/uploads/2025/07/Sangdong_43-101_Tech_Report_2025.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영월 상동에서 평가한 추정 가채광석·품위·WO₃ 함유량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
     "id": "CAT-JP-SRC-0001",
     "title": "作戦要務令：綱領、総則及第1部 第2部",
     "institution_or_author": "일본 국립국회도서관",

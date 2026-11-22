@@ -1,5 +1,195 @@
 [
   {
+    "id": "CAT-SU-SRC-0301",
+    "title": "Operations — Azeri–Chirag–Gunashli",
+    "institution_or_author": "Equinor Azerbaijan",
+    "publication_date": null,
+    "source_type": "corporate_report",
+    "document_or_accession_number": null,
+    "locator": "ACG 단락",
+    "url": "https://www.statoiyl-az.com/Our-Operations/index.html",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "바쿠 동쪽 해상 광구의 계약기간 회수 가능량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-SU-SRC-0302",
+    "title": "A Study of the Soviet Economy, Vol. 3",
+    "institution_or_author": "IMF·World Bank·OECD·EBRD",
+    "publication_date": "1991",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Iron Ore, V.7.10–11",
+    "url": "https://documents1.worldbank.org/curated/en/379991468134386346/pdf/777730v30Box370f0the0soviet0economy.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "쿠르스크 광역 철광석량과 크리보이로크의 지역 집중."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-SU-SRC-0303",
+    "title": "Innovation in the USSR: The Case of Synthetic Rubber",
+    "institution_or_author": "Slavic Review",
+    "publication_date": null,
+    "source_type": "research_or_archival_publication",
+    "document_or_accession_number": null,
+    "locator": "야로슬라블 SK-1 단락",
+    "url": "https://www.cambridge.org/core/journals/slavic-review/article/abs/innovation-in-the-ussr-the-case-of-synthetic-rubber/7E837783EEA58885E5D0E4DC86BAE5C1",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "야로슬라블 합성고무 공장의 초기 설계능력."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-SU-SRC-0304",
+    "title": "The Great Patriotic War of the Soviet Union, 1941–45: A Documentary Reader",
+    "institution_or_author": "Alexander Hill",
+    "publication_date": "2008",
+    "source_type": "research_or_archival_publication",
+    "document_or_accession_number": null,
+    "locator": "표 8.7과 동년 본문",
+    "url": "https://fr.scribd.com/document/875277382/The-Great-Patriotic-War-of-the-Soviet-Union-1941-45-A-Alexander-Hill-1-edition-August-29-2008-Routledge-9780203886373-ad61bb1edeace",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1941년 및 1942년 소련 금속 알루미늄 생산."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-SU-SRC-0305",
+    "title": "RUSAL Annual Report 2024",
+    "institution_or_author": "United Company RUSAL",
+    "publication_date": "2025",
+    "source_type": "corporate_report",
+    "document_or_accession_number": null,
+    "locator": "Bauxite 매장량 표",
+    "url": "https://financialfilings.com/filings/united-company-rusal-international-public-joint-stock-company/annual-report/2025/18716335/",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "북우랄·중부 티만 광산의 회사 공시 분류별 광석량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-SU-SRC-0306",
+    "title": "Kazchrome Annual Report 2018",
+    "institution_or_author": "Kazchrome",
+    "publication_date": "2019",
+    "source_type": "corporate_report",
+    "document_or_accession_number": null,
+    "locator": "Chrome ore 및 Donskoy GOK",
+    "url": "https://kazchrome.com/files/pdf/annual-report-2018-en.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "돈스코이 크롬철석 광석량과 자원 분류."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-SU-SRC-0307",
+    "title": "History",
+    "institution_or_author": "Kazchrome",
+    "publication_date": null,
+    "source_type": "corporate_report",
+    "document_or_accession_number": null,
+    "locator": "1938–1943년 행",
+    "url": "https://www.kazchrome.com/en/about-us/history/",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "돈스코이 채굴과 악튜빈스크 페로크롬 가동 시기."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-SU-SRC-0308",
+    "title": "Jiaxin International Resources Investment Limited Annual Report 2025",
+    "institution_or_author": "Jiaxin International Resources Investment Limited",
+    "publication_date": "2026",
+    "source_type": "corporate_report",
+    "document_or_accession_number": null,
+    "locator": "Boguty, Mineral Resources and Ore Reserves",
+    "url": "https://financialfilings.com/filings/jiaxin-international-resources-investment-limited/annual-report/2026/37367794/",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "보구티의 현대 광석 매장량·산화물 품위."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-SU-SRC-0309",
+    "title": "History of development of oil industry",
+    "institution_or_author": "Azerbaijan.az, 아제르바이잔 국가 포털",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Second stage, 1941년 실적",
+    "url": "https://azerbaijan.az/en/related-information/130",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "아제르바이잔 SSR의 1941년 석유 생산 및 주요 신규 유전."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-SU-SRC-0310",
+    "title": "National Innovation System and Disruptive Innovations in Synthetic Rubber and Tire Technology",
+    "institution_or_author": "산업사 연구, Barlow·Jayasuriya·Tan 통계 재수록",
+    "publication_date": null,
+    "source_type": "research_or_archival_publication",
+    "document_or_accession_number": null,
+    "locator": "Table 2, Worldwide Production of Synthetic Rubber",
+    "url": "https://www.academia.edu/56946038/National_Innovation_System_and_Disruptive_Innovations_in_Synthetic_Rubber_and_Tire_Technology",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "소련 1939–1941년 생산과 1942–1945년의 자료 공백."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
     "id": "CAT-SU-SRC-0001",
     "title": "Временный полевой устав РККА 1936 (ПУ 36)",
     "institution_or_author": "소련 국방인민위원부 / 러시아 국립도서관(RSL)",

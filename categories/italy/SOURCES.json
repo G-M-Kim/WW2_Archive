@@ -1,5 +1,157 @@
 [
   {
+    "id": "CAT-IT-SRC-0301",
+    "title": "Riserve nazionali di idrocarburi",
+    "institution_or_author": "Ministero dell’Ambiente e della Sicurezza Energetica",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "2024-12-31 원유 표",
+    "url": "https://unmig.mase.gov.it/ricerca-e-coltivazione-di-idrocarburi/riserve-nazionali-di-idrocarburi/",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이탈리아 남부 및 전국의 원유 확인·추정 매장량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-IT-SRC-0302",
+    "title": "Bankers Petroleum Announces 2015 Year-End Reserves",
+    "institution_or_author": "Bankers Petroleum Ltd.",
+    "publication_date": "2016",
+    "source_type": "corporate_report",
+    "document_or_accession_number": null,
+    "locator": "2P, Patos-Marinza와 Kuçova 열",
+    "url": "https://www.newswire.ca/news-releases/bankers-petroleum-announces-2015-year-end-reserves-570771601.html",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "알바니아 유전별 확인·추정 합산 석유 매장량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-IT-SRC-0303",
+    "title": "Rapporto della Commissione economica — Industria",
+    "institution_or_author": "Ministero per la Costituente",
+    "publication_date": "1946",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "광업과 철광석, Cogne·Elba 단락",
+    "url": "https://legislature.camera.it/_dati/costituente/documenti/ministerocostituente/p7_Vol2-1.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "코녜·엘바 전전 철광석 채굴 가능 추정량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-IT-SRC-0304",
+    "title": "Alle origini dell’organizzazione operaia del Polo chimico di Ferrara",
+    "institution_or_author": "Marx21 공개 산업사 기사",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "SAIGS 설계능력과 공업 가동 단락",
+    "url": "https://www.marx21.it/archivio/rivista-archivio/alle-origini-dellorganizzazione-operaia-del-polo-chimico-di-ferrara/",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "공업 가동 및 공장 설계 연산 8,000톤."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-IT-SRC-0305",
+    "title": "Struttura demografico-economica della provincia di Foggia",
+    "institution_or_author": "Camera dei deputati 보존 보고서",
+    "publication_date": null,
+    "source_type": "research_or_archival_publication",
+    "document_or_accession_number": null,
+    "locator": "§20, San Giovanni Rotondo 및 San Marco in Lamis",
+    "url": "https://legislature.camera.it/_dati/leg01/lavori/stampati/PDF/AR_LEG01_CB02_CAT034_VOL03_IV_Monografie%20regionali%20-%20Statistiche%20regionali.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "포자도의 보크사이트 전시 직전 채굴."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-IT-SRC-0306",
+    "title": "Carta geologica d’Italia — Foglio Sassari, Note illustrative",
+    "institution_or_author": "ISPRA / Servizio Geologico d’Italia",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Olmedo, Figura 71–72",
+    "url": "https://www.isprambiente.gov.it/Media/carg/note_illustrative/459_Sassari.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "올메도 보크사이트 광산의 후대 추정 가채량 및 품위."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-IT-SRC-0307",
+    "title": "The Study for the Master Plan for Promoting the Mining Industry of Albania",
+    "institution_or_author": "JICA",
+    "publication_date": "2010",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "크롬 광체별 생산·자원량 표",
+    "url": "https://openjicareport.jica.go.jp/pdf/12010120.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "불치저·쿠커스의 2005년 근거 광석 자원량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-IT-SRC-0308",
+    "title": "Programma Nazionale di Esplorazione Mineraria",
+    "institution_or_author": "ISPRA",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "§13, Sardegna sud-occidentale",
+    "url": "https://www.isprambiente.gov.it/files2025/attivita/pne_finale.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "사르데냐 남서부 텅스텐 광화대의 위치."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
     "id": "CAT-IT-SRC-0001",
     "title": "Fallen Eagles: The Italian 10th Army in the Opening Campaign in the Western Desert, June 1940–December 1940",
     "institution_or_author": "Howard R. Christie / U.S. Army Command and General Staff College",
