@@ -1,5 +1,119 @@
 [
   {
+    "id": "CAT-FR-SRC-0301",
+    "title": "Le gisement de Pechelbronn",
+    "institution_or_author": "DREAL Grand Est",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "296 km² 광상 범위",
+    "url": "https://www.grand-est.developpement-durable.gouv.fr/bassin-petrolier-d-alsace-dit-pechelbronn-a23587.html",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "페셸브론 광상의 지리 범위."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-FR-SRC-0302",
+    "title": "Le champ de Parentis",
+    "institution_or_author": "Vermilion Energy",
+    "publication_date": null,
+    "source_type": "corporate_report",
+    "document_or_accession_number": null,
+    "locator": "Parentis 유전 연혁",
+    "url": "https://www.vermilionenergy.com/fr/wp-content/uploads/sites/5/2023/02/BA-C_Rapport_Loi_Hulot_Parentis.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1954년 발견과 후대 누적 원유량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-FR-SRC-0303",
+    "title": "The Iron-Ore Resources of Europe",
+    "institution_or_author": "Max Roesler / USGS Bulletin 706",
+    "publication_date": "1921",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Iron ores in the Lorraine Basin in 1911; Figure 17",
+    "url": "https://pubs.usgs.gov/bul/0706/report.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "로렌의 1911년 분지별 철광석 추정과 위치."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-FR-SRC-0304",
+    "title": "World Bauxite Reserves and Aluminum Resources",
+    "institution_or_author": "Sam H. Patterson / USGS Bulletin 1228",
+    "publication_date": "1967",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "France, p. 61",
+    "url": "https://pubs.usgs.gov/bul/1228/report.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "바르 등 가동 광산의 추정 기간과 부슈뒤론의 품위별 보크사이트 자원량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-FR-SRC-0305",
+    "title": "Nouvelle-Calédonie — chrome, massif de Tiébaghi",
+    "institution_or_author": "프랑스 해외 광업 조사 자료",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Massif de Tiébaghi, pp. 29–30",
+    "url": "https://core.ac.uk/download/39895412.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1953년 말까지 산괴 전체와 개별 광산의 누적 실적."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-FR-SRC-0306",
+    "title": "Mémento roches et minéraux industriels — Tungstène",
+    "institution_or_author": "BRGM",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Tableau Tungstène France 및 Salau–Anglade 설명",
+    "url": "https://infoterre.brgm.fr/rapports/RR-41430-FR-01.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "프랑스 텅스텐 광상의 후대 평가, 코스타본 광석량과 품위."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
     "id": "CAT-FR-SRC-0001",
     "title": "B1 BIS",
     "institution_or_author": "Musée des Blindés, Saumur",

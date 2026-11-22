@@ -1,48 +1,48 @@
-# 일본 15. 전시 자원 — 석유·강철·고무·알루미늄·크롬·텅스텐
+# 일본 15 — 제2차 세계대전기의 영토와 자원
 
-**작업** `CAT-JP-15`. **첫 조사 상태 `partial`**. 전시 일본 경제의 여섯 품목을 생산·반입·소비 단계로 나누어 확인했다. 연도는 원표의 회계연도 또는 역년 표기를 따랐다. 지역 명칭과 법적 지위는 [당시 영토](14-territory.md)를 따른다.
+작업 `CAT-JP-15` · 자원과 생산지 재조사 2026-11-22
 
-## 통계의 지역 범위
+일본 내지, 식민 통치하 조선·대만, 일본이 세운 만주국 및 군사 점령 아래 산지를 구분했다. 자료의 ‘Inner Zone’은 내지와 항상 일치하지 않아 별도로 표시한다. 네덜란드령 동인도와 말라야의 산출은 해당 지역 실적이다.
 
-| 지역 | 이 원고에서의 범위 |
-|---|---|
-| 일본 내지 `CAT-JP-GEO-0001` | 원표가 *Japan proper*라고 한 내지 집계. 원유 표의 *Inner Zone*은 해당 자료의 별도 집계명으로 유지한다. |
-| 조선 `CAT-JP-GEO-0002`, 대만 `CAT-JP-GEO-0003` | 일본의 식민지. 알루미늄 자료 중 일부는 내지와 두 식민지를 합산한다. |
-| 만주국 `CAT-JP-GEO-0012` | 일본이 지배한 괴뢰국. 원자료의 만주산 반입을 내지 생산에서 구분한다. |
-| 말라야 `CAT-JP-GEO-0015`, 네덜란드령 동인도 `CAT-JP-GEO-0016` | 전쟁 전 영국·네덜란드의 식민 지배권 아래 있던 지역으로, 아래 전시 반입은 일본군 점령하의 공급을 가리킨다. 지역별 점령 시기와 실제 조업 범위는 달랐다. |
+대상은 **석유·강철·고무·알루미늄·크롬·텅스텐**이다. 나라별 수입·수출은 이번 조사 범위에서 제외했다. 지방명과 도시명은 [13번 지명 색인](13-historical-place-names.md), 당시 지배와 통치 시기는 [14번 영토](14-territory.md)와 연결한다. 산지의 시·군 전체와 유전·광산 단위는 자료가 지지하는 범위로 표시했다.
 
-## 석유
+## 전시 생산과 당시 확인량
 
-- **원유**. 일본 육해군 석유위원회 통계를 인용한 USSBS 표에서 1939회계연도 *Inner Zone*의 유입은 18,843천 배럴, 역내 산출은 2,332천 배럴이다. 같은 표의 1943회계연도 분기 합계는 각각 9,848천 배럴과 1,794천 배럴이다. 반입은 원표의 *imports* 열을 그대로 읽었고 항구별 발행 장부나 선적량은 이 수치에 대입하지 않았다. [CAT-JP-SRC-0140, p.135 부표 C-50](https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Effects%20of%20Strategic%20Bombing%20Japanese%20War%20Economy.pdf#page=151)
-- **산지·다른 생산 단계**. USSBS 수송부는 전시 남방 수송의 주요 물량 중 하나로 네덜란드령 동인도의 석유를 기록했다. 위 원유 표는 산지별 유입량을 제시하지 않아 그 총량에서 동인도 몫을 산정하지 않았다. 정제유와 합성유는 경제부 부표 C-54 및 C-55의 별도 계열이다. [CAT-JP-SRC-0141, p.20](https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20War%20Against%20Japanese%20Transportation%201941-1945.pdf#page=36) · [CAT-JP-SRC-0140, pp.140–144 부표 C-54–55](https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Effects%20of%20Strategic%20Bombing%20Japanese%20War%20Economy.pdf#page=156)
+1945년 연간 통계에는 종전 뒤 실적도 들어갈 수 있다. **t**은 미터톤, **롱톤**은 2,240파운드, **쇼트톤**은 2,000파운드다. 원문만으로 중량 체계를 확인하기 어려운 수치는 **원문 tons**로 남겼다. 원유·합성유, 철광석·강철, 보크사이트·알루미나·금속, 광석·정광·함유량은 각각의 생산 단계에 적었다.
 
-## 강철
+| 자원 | 집계 지표 | 전시 실적 및 확인량 | 집계 범위와 출처 |
+| --- | --- | --- | --- |
+| 석유 | USSBS Inner Zone의 역내 원유 | 1939회계연도 233.2만 배럴, 1943회계연도 179.4만 배럴 | 내지 산지별 역년 표와 기준이 다르다. [CAT-JP-SRC-0140 · C-50](<https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Effects%20of%20Strategic%20Bombing%20Japanese%20War%20Economy.pdf>) |
+| 강철 | 일본 내지 강괴·완성강 | 1943회계연도 강괴 782.1만 t·완성강 560.9만 t, 1944회계연도 591.1만 t·432만 t | 공정별 별도 계열. 철광석과 합산하지 않는다. [CAT-JP-SRC-0140 · 표 16](<https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Effects%20of%20Strategic%20Bombing%20Japanese%20War%20Economy.pdf>) |
+| 고무 | 내지 합성고무·말라야 천연고무 | 내지 1943년 39.2 tons. 점령기 말라야 천연고무 추정 1942년 10.9만 t, 1943년 9.79만 t, 1944년 13.65만 t | USSBS 합성고무와 OSS 추정의 별도 산지·제품. [CAT-JP-SRC-0140 · C-66](<https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Effects%20of%20Strategic%20Bombing%20Japanese%20War%20Economy.pdf>) [CAT-JP-SRC-0306 · 표 8.3](<https://www.scribd.com/document/765882193/Paul-H-Kratoska-the-Japanese-Occupation-of-Malaya-and-Singapore>) |
+| 알루미늄 | 일본 내지 알루미나·알루미늄 잉곳 | 1944회계연도 22.5만 t·11만 t | 일본·조선·대만 합산을 쓰는 별도 USSBS 표와 범위가 다르다. [CAT-JP-SRC-0140 · 표 16](<https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Effects%20of%20Strategic%20Bombing%20Japanese%20War%20Economy.pdf>) [CAT-JP-SRC-0142 · 표 I](<https://upload.wikimedia.org/wikipedia/commons/0/0e/NDL8318180_Basic_Materials_Division._Report_No._1c%289%29%2C_USSBS_Index_Section_2_part3.pdf>) |
+| 크롬 | 일본 국내 크롬광 | 1939년 44,638 tons, 1944년 81,481 tons | 미 국무부의 광석 중량. 다른 문헌의 광산 생산 정의와 일치 여부는 미상. [CAT-JP-SRC-0143 · § I.E.3](<https://upload.wikimedia.org/wikipedia/commons/8/80/NDL4010665_No._3300%2C_20_May_1946%2C_Japanese_iron_and_steel_industry-_Study_of_magnitude_of_disarmamen....pdf>) |
+| 텅스텐 | 일본 국내 텅스텐광 | 1940–1944년 연평균 818 tons | 미 국무부 광석 계열. 식민지 조선과 내지는 수치가 따로 필요하다. [CAT-JP-SRC-0143 · § I.E.4](<https://upload.wikimedia.org/wikipedia/commons/8/80/NDL4010665_No._3300%2C_20_May_1946%2C_Japanese_iron_and_steel_industry-_Study_of_magnitude_of_disarmamen....pdf>) |
 
-- 일본 내지의 강괴 생산은 1943회계연도 7,821천 미터톤에서 1944회계연도 5,911천 미터톤으로, 완성강은 각각 5,609천 미터톤에서 4,320천 미터톤으로 줄었다. 두 품목은 제강과 이후 가공 단계의 별도 계열이다. 같은 표의 철광석 및 선철 행에는 반입분도 포함된다. [CAT-JP-SRC-0140, p.28 표 16 및 각주 1–2](https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Effects%20of%20Strategic%20Bombing%20Japanese%20War%20Economy.pdf#page=44)
-- 미국 국무부 보고서는 1944년 내지 강괴 생산능력을 13,700천 미터톤으로 추정했다. 실제 생산량과 구별되며, 보고서가 능력 추정에 USSBS와 폴리 배상조사단 자료를 함께 썼으므로 위 생산량의 독립 확증으로 세지 않았다. [CAT-JP-SRC-0143, p.1 표 1 및 주석](https://upload.wikimedia.org/wikipedia/commons/8/80/NDL4010665_No._3300%2C_20_May_1946%2C_Japanese_iron_and_steel_industry-_Study_of_magnitude_of_disarmamen....pdf)
+## 지역별 매장량·지질 자원량
 
-## 고무
+기준일별 **확인·추정 매장량**, 탐사에서 산정한 **지질 자원량**, 과거 채굴과 잔존량을 합산한 조사값은 각 행의 자료 정의를 따른다. 후대 수치를 1939–1945년 가채량으로 소급하지 않는다. 강철은 철광석, 알루미늄은 보크사이트를 산지에서 비교한다. 고무는 재배 면적·생산량을 사용한다.
 
-- **천연 생고무 반입·소비**. 일본 고무통제협회 자료를 옮긴 USSBS 부표에 따르면 1943역년 생고무 반입은 83,800톤(민간경로 37,400톤, 육해군 경로 46,400톤), 소비는 52,900톤이었다. 단위는 원표의 `tons`다. 전시 동남아의 고무 산지 통제와 실제 일본 반입량은 별개의 지표다. [CAT-JP-SRC-0140, p.152 부표 C-65, 1943년 행](https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Effects%20of%20Strategic%20Bombing%20Japanese%20War%20Economy.pdf#page=168) · [CAT-JP-SRC-0141, p.20](https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20War%20Against%20Japanese%20Transportation%201941-1945.pdf#page=36)
-- **합성고무 공장 생산**. 1943역년 일본 내지의 합성고무 생산 합계는 39.2톤(`tons`)이다. 야스다의 산업사 연구는 동시대 공적 조사와 기업 기록을 이용해 전시 클로로프렌 고무가 공장 생산에 이른 사실을 뒷받침한다. 39.2톤은 부표의 합계로, 이 연구가 그 수치를 별도로 재계산한 것은 아니다. [CAT-JP-SRC-0140, p.153 부표 C-66](https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Effects%20of%20Strategic%20Bombing%20Japanese%20War%20Economy.pdf#page=169) · [CAT-JP-SRC-0145, pp.56–57 결론 및 영문 초록](https://www.jstage.jst.go.jp/article/jshit/21/1/21_45/_pdf/-char/en#page=12)
+| 자원 | 지방·행정구역과 당시 지위 | 도시·광구·재배지 | 수치와 기준일 | 범위·해석 및 출처 |
+| --- | --- | --- | --- | --- |
+| 석유 | 내지 · 아키타현 | 아키타시 야바세 八橋·오모노가와 雄物川 | 1944년 전시 생산 각각 36,339 kL·67,332 kL. 2018년 아키타 분지 평균 미발견 기술 회수 자원 1억 1,100만 배럴 | 현대 분지 추정은 유전별 확인 매장량이 아니다. 같은 자료의 아키타 지구 1944년 생산 177,134 kL. [CAT-JP-SRC-0301 · Crude Production](<https://www8.cao.go.jp/okinawa/okinawasen/pdf/b0604002_01/b0604002_01_11.pdf>) [CAT-JP-SRC-0302 · Fact Sheet](<https://pubs.usgs.gov/publication/fs20183047>) |
+| 알루미늄 | 네덜란드령 동인도 → 일본군 점령 지역 | 리아우 제도 빈탄섬 Bintan | 1940년 전전 조사에서 개발 광상 추정 보크사이트 2,000만 t 이상 | 당시 지질 추정. 일본 내지 매장량과 분리한다. [CAT-JP-SRC-0307 · 기술 논문](<https://www.jstage.jst.go.jp/article/shigentosozai1885/56/661/56_661_255/_article/-char/en>) |
+| 크롬 | 일본군 점령하 필리핀 · 잠발레스주 | 루손 잠발레스 산지 | 1970년 공개 USGS 평가 기채굴과 잔존 합계 약 1,500만 t | 미국 문서의 동일 광체와 같은 값이다. 전시 점령기의 가채량으로 소급할 수 없다. [CAT-JP-SRC-0309 · 공개 초록](<https://www.usgs.gov/publications/chromite-deposits-north-central-zambales-range-luzon-philippines>) |
+| 텅스텐 | 일본 식민통치하 조선 · 강원도 영월군 | 상동 上東 → 상동읍 | 2025-02-28 추정 가채 광석 857.9만 t, 품위 WO₃ 0.42%, 함유 WO₃ 36,140 t | 광석 중량과 함유량을 따로 표기했다. 전시 조선 전체 산출량과 별도. [CAT-JP-SRC-0311 · Probable Mineral Reserves](<https://almonty.com/wp-content/uploads/2025/07/Sangdong_43-101_Tech_Report_2025.pdf>) |
 
-## 알루미늄
+## 지역별 생산·재배·산지 기록
 
-- **보크사이트 원광**. USSBS 요약은 태평양전쟁 직전 네덜란드령 동인도산 보크사이트에 대한 의존을 기록했다. 전시 수송부 보고서는 말라야와 네덜란드령 동인도를 주요 보크사이트 반입지로 기록했다. 경제부 부표 C-30의 제목에서 원산지별 집계의 수령지는 일본 내지와 대만이다. 광산 채굴량과 수령지 반입량은 별도다. [CAT-JP-SRC-0011, pp.13–14 산업생산 서술](https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Summary.html) · [CAT-JP-SRC-0141, p.20](https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20War%20Against%20Japanese%20Transportation%201941-1945.pdf#page=36) · [CAT-JP-SRC-0140, 부표 C-30](https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Effects%20of%20Strategic%20Bombing%20Japanese%20War%20Economy.pdf#page=137)
-- **알루미나와 제련 잉곳**. USSBS 최종 경제보고서 표 16은 1944회계연도 일본 내지의 알루미나 225천 미터톤, 알루미늄 잉곳 110천 미터톤을 제시한다. 별도 USSBS 기초자재부 표 I 각주 (b)는 생산의 집계 범위를 일본·조선·대만으로 표시하며, 각주 (c)는 1942–1945년 잉곳 반입분의 산지를 만주로 표시한다. 두 보고서의 수치가 비슷해도 내지와 식민지의 동일계열로 합치지 않았다. [CAT-JP-SRC-0140, p.28 표 16](https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Effects%20of%20Strategic%20Bombing%20Japanese%20War%20Economy.pdf#page=44) · [CAT-JP-SRC-0142, 표 I 각주 (a)–(c)](https://upload.wikimedia.org/wikipedia/commons/0/0e/NDL8318180_Basic_Materials_Division._Report_No._1c%289%29%2C_USSBS_Index_Section_2_part3.pdf)
+| 자원 | 지방·행정구역과 당시 지위 | 도시·광구·재배지 | 수치와 기준일 | 범위·해석 및 출처 |
+| --- | --- | --- | --- | --- |
+| 석유 | 내지 · 니가타현 | 니시야마 西山(현 가시와자키 일대)·히가시야마 東山(나가오카 일대) | 1944년 생산 각각 17,746 kL·14,040 kL | 광구의 당시 생산. 니가타 지구 전체는 66,547 kL. 잔존량 미확인. [CAT-JP-SRC-0301 · Niigata District](<https://www8.cao.go.jp/okinawa/okinawasen/pdf/b0604002_01/b0604002_01_11.pdf>) |
+| 석유 | 일본군 점령하 네덜란드령 동인도 | 수마트라 Sumatra | USSBS 상세표 1943년 원유 27,343,319배럴·1944년 20,690,868배럴 | 상세표의 수마트라 소계. 북보르네오를 더한 별도 합계 및 팔렘방 시설 실적과 구분한다. [CAT-JP-SRC-0303 · Summary of Crude Oil](<https://upload.wikimedia.org/wikipedia/commons/7/77/NDL8819676_Petroleum_data-Sumatra-_Summary_of_crude_oil_charged-Sumatra_and_Borneo._Report_No._51b%2838%29%28c%29%2C_USSBS_Index_Section_2.pdf>) |
+| 강철 | 내지 · 이와테현 | 가마이시 釜石 광산 | 1939년 가동 확인. 광산 잔존 매장량 미확인 | 가마이시·도노·스미타에 걸친 광산. 미 정보 문서의 내지 철광석 전체 추정 850만 t은 전후 수치로 광산별 배분이 없다. [CAT-JP-SRC-0304 · 연혁](<https://www.nittetsukou.co.jp/eng/karematuzawa/2.html>) [CAT-JP-SRC-0305 · Discussion](<https://www.cia.gov/readingroom/docs/CIA-RDP79-01082A000100030005-2.pdf>) |
+| 고무 | 일본군 점령하 말라야 | 조호르 Johore, 페라크 Perak 및 셀랑고르 Selangor | 전전 식재 면적 각각 89만·56.3만·49.6만 에이커 | 1938년 재배 지표. 점령기의 조호르 단독 생산 및 고무나무 수령별 자료는 미확인. 영국 문서에도 동일 산지를 연결했다. [CAT-JP-SRC-0306 · 표 8.2–8.3](<https://www.scribd.com/document/765882193/Paul-H-Kratoska-the-Japanese-Occupation-of-Malaya-and-Singapore>) |
+| 크롬 | 내지 · 홋카이도 | 히다카 日高·이부리 胆振, 사루강 沙流川·무카와 鵡川 일대 | 광상군 확인. 채굴 가능 잔존량 미확인 | 구 지질조사에 고품위 크롬철석 산지가 나온다. [CAT-JP-SRC-0308 · 홋카이도 산지](<https://www.gsj.jp/data/openfile/no0775/03048_1953/index.html>) |
+| 텅스텐 | 내지 · 교토부 | 가메오카 亀岡·오타니 大谷 광산 | 광상 위치 확인. 가채 잔존량 미확인 | 일본 지질조사소 등록 산지. [CAT-JP-SRC-0310 · 광상 명세](<https://gbank.gsj.jp/ld/resource/musee/D26002-2.html>) |
 
-## 크롬
+## 확인이 남은 수치
 
-- 미국 국무부 보고서의 **크롬광** 국내 생산은 1939년 44,638톤, 1944년 81,481톤(`tons`)이다. 금속 크롬 함량은 확인하지 못했다. **반입량 `disputed`**. 1943년 본문은 33,000톤, 같은 쪽 각주가 인용한 폴리 배상조사단은 50,000톤이다. 두 원집계의 범위와 기간이 확인될 때까지 두 수치를 함께 둔다. [CAT-JP-SRC-0143, p.6 §I.E.3 및 각주 2](https://upload.wikimedia.org/wikipedia/commons/8/80/NDL4010665_No._3300%2C_20_May_1946%2C_Japanese_iron_and_steel_industry-_Study_of_magnitude_of_disarmamen....pdf)
+가마이시·히다카·교토 오타니의 광산별 가채량, 일본 내지의 개별 유전 잔존량과 조선 광산별 전시 텅스텐 생산은 미확인이다. 여기서 확인하지 못한 값을 0으로 넣지 않았다.
 
-## 텅스텐
-
-- 같은 보고서는 1940–1944년 **텅스텐광** 국내 생산 연평균 818톤과 반입 연평균 약 2,862톤(`tons`)을 제시한다. 덴튼은 일본과 조선의 식민지기 광업기록 등을 이용해 조선산 텅스텐이 전쟁 말기 일본에 공급된 맥락을 연구했다. 이번에 대조한 학술 근거는 공개 초록이며, 국무부 반입량 전체에서 조선산이 차지한 몫은 미확인이다. [CAT-JP-SRC-0143, pp.6–7 §I.E.4](https://upload.wikimedia.org/wikipedia/commons/8/80/NDL4010665_No._3300%2C_20_May_1946%2C_Japanese_iron_and_steel_industry-_Study_of_magnitude_of_disarmamen....pdf) · [CAT-JP-SRC-0144, 공개 초록](https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001849041)
-
-## 남은 검증
-
-- `CAT-JP-RQ-0048` — 원유 *Inner Zone*의 정확한 경계 및 산지별 유입, 강괴·완성강의 원통계와 집계 범위 비교.
-- `CAT-JP-RQ-0049` — 남방 점령지의 생고무·보크사이트 산지별 산출·선적·도착, 내지·조선·대만의 알루미나·잉곳 개별 생산표.
-- `CAT-JP-RQ-0050` — 1943년 크롬광 반입 수치의 원출전, 조선산 텅스텐광의 생산·반출·내지 도착 및 신고 단위.
-
-수치의 기본 판정은 `source_checked`다. USSBS의 복수 보고서는 같은 조사 사업의 자료이므로 서로를 독립 확증으로 세지 않았다. 조사하지 않은 품목별 지역 전수표는 [검증 과제 장부](QUESTIONS.json)에 남겼다. [출처 장부](SOURCES.json)
+[국가별 출처 장부](SOURCES.json) · [검증 쟁점 장부](QUESTIONS.json)

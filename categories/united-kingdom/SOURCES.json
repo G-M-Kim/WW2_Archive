@@ -1,5 +1,195 @@
 [
   {
+    "id": "CAT-GB-SRC-0301",
+    "title": "Hydrocarbon prospectivity of the East Midlands Oil Province",
+    "institution_or_author": "British Geological Survey",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Eakring–Duke’s Wood 설명 및 최종 생산",
+    "url": "https://webapps.bgs.ac.uk/memoirs/docs/B06182.html",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "이크링·듀크스우드의 최종 생산 누계와 전시 발견·개발."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-GB-SRC-0302",
+    "title": "The Iron-Ore Resources of Europe",
+    "institution_or_author": "Max Roesler / USGS Bulletin 706",
+    "publication_date": "1921",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Northampton 표 및 Plate V",
+    "url": "https://pubs.usgs.gov/bul/0706/report.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "노샘프턴셔 지역의 구 분류별 철광석량과 지도."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-GB-SRC-0303",
+    "title": "Rubber Area in Malaya, 1938",
+    "institution_or_author": "Universiti Malaya, Sejarah 수록 연구",
+    "publication_date": null,
+    "source_type": "research_or_archival_publication",
+    "document_or_accession_number": null,
+    "locator": "Rubber Area in Malaya, 1938 표",
+    "url": "https://ejournal.um.edu.my/index.php/SEJARAH/article/download/9124/6449/18633",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "조호르·페라크·셀랑고르의 고무 식재 면적."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-GB-SRC-0304",
+    "title": "The Mineral Industry of the British Empire and Foreign Countries, 1938–1944",
+    "institution_or_author": "Imperial Institute / HMSO",
+    "publication_date": "1948",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Estimated Production of Aluminium, United Kingdom 행",
+    "url": "https://nora.nerc.ac.uk/id/eprint/535289/1/SS_1938_1944.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "영국 금속 알루미늄 생산 추계."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-GB-SRC-0305",
+    "title": "World Bauxite Reserves and Aluminum Resources",
+    "institution_or_author": "Sam H. Patterson / USGS Bulletin 1228",
+    "publication_date": "1967",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "British Guiana, p. 54",
+    "url": "https://pubs.usgs.gov/bul/1228/report.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "코렌타인 일대 잠정 자원량과 추정의 한계."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-GB-SRC-0306",
+    "title": "Engineering and Metals Value Chain Analysis Country Report",
+    "institution_or_author": "Zimbabwe Economic Policy Analysis and Research Unit",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Chromium, Great Dyke 단락",
+    "url": "https://zepari.co.zw/sites/default/files/2018-03/ENGINEERING%20AND%20METALS%20VALUE%20CHAIN%20ANALYSIS%20COUNTRY%20REPORT%20web%20file.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "그레이트다이크 광역 크롬철석 추정량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-GB-SRC-0307",
+    "title": "Monograph on Chromite",
+    "institution_or_author": "Indian Bureau of Mines",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "World Deposits, Selukwe",
+    "url": "https://ibm.gov.in/writereaddata/files/09162014114959Monograph_Chromite.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "셀루크웨 광체와 그레이트다이크의 지질 분류."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-GB-SRC-0308",
+    "title": "Unst — Chromite",
+    "institution_or_author": "British Geological Survey",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Hagdale와 Baltasound",
+    "url": "https://webapps.bgs.ac.uk/memoirs/docs/B01315.html",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "셰틀랜드 언스트섬 크롬철석 채굴 지점."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-GB-SRC-0309",
+    "title": "Hemerdon Feasibility Study",
+    "institution_or_author": "AMC Consultants for Tungsten West Plc",
+    "publication_date": "2025",
+    "source_type": "corporate_report",
+    "document_or_accession_number": null,
+    "locator": "표 1.4, 2025년 5월 기준",
+    "url": "https://minedocs.com/29/Hemerdon-FS-06302025.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "데번 헤머던 광석의 확인·추정 매장량과 WO₃ 품위."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-GB-SRC-0310",
+    "title": "The Japanese Occupation of Malaya and Singapore — Estate and Mining Industries",
+    "institution_or_author": "Paul H. Kratoska",
+    "publication_date": "1998",
+    "source_type": "research_or_archival_publication",
+    "document_or_accession_number": null,
+    "locator": "표 8.3, Pre-war average 1935–41",
+    "url": "https://www.scribd.com/document/765882193/Paul-H-Kratoska-the-Japanese-Occupation-of-Malaya-and-Singapore",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "말라야 연평균 현지 천연고무 산출."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
     "id": "CAT-GB-SRC-0001",
     "title": "Field Service Regulations 1935",
     "institution_or_author": "War Office / Australian War Memorial",

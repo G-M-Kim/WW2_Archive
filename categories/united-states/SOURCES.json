@@ -1,5 +1,195 @@
 [
   {
+    "id": "CAT-US-SRC-0301",
+    "title": "Congressional Record, 5 February 1948 — Petroleum reserves",
+    "institution_or_author": "U.S. Congress. American Petroleum Institute 추정 인용",
+    "publication_date": "1948",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Proved reserves within continental United States",
+    "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1948-pt1/pdf/GPO-CRECB-1948-pt1-23-1.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1945년 말 대륙부의 확인·회수 가능 원유 매장량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-US-SRC-0302",
+    "title": "Texas Almanac — History of Texas Crude Oil",
+    "institution_or_author": "The Dallas Morning News / University of North Texas 보존본",
+    "publication_date": null,
+    "source_type": "research_or_archival_publication",
+    "document_or_accession_number": null,
+    "locator": "History of Texas Crude Oil, 1939–1946 행",
+    "url": "https://texashistory.unt.edu/ark:/67531/metapth1544456/m2/1/high_res_d/UNT-0001-0019.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939·1945년 1월 1일 텍사스 확인 매장량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-US-SRC-0303",
+    "title": "U.S. Crude Oil and Natural Gas Proved Reserves, Year-end 2023",
+    "institution_or_author": "U.S. Energy Information Administration",
+    "publication_date": "2025",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "표 6, Alaska 행",
+    "url": "https://www.eia.gov/naturalgas/crudeoilreserves/pdf/ARR_2023_TABLE_6.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "알래스카 주의 2023년 원유·리스 콘덴세이트 확인 매장량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-US-SRC-0304",
+    "title": "Cleveland-Cliffs Form 10-K",
+    "institution_or_author": "Cleveland-Cliffs Inc. / U.S. Securities and Exchange Commission",
+    "publication_date": "2026",
+    "source_type": "corporate_report",
+    "document_or_accession_number": null,
+    "locator": "Iron Ore Mineral Reserves as of December 31, 2024",
+    "url": "https://www.sec.gov/Archives/edgar/data/764065/000076406526000025/clf-20251231.htm",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "히빙·United·틸든 철광석의 2024년 확인·추정 매장량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-US-SRC-0305",
+    "title": "Iron Ore Facilities",
+    "institution_or_author": "Cleveland-Cliffs Inc.",
+    "publication_date": null,
+    "source_type": "corporate_report",
+    "document_or_accession_number": null,
+    "locator": "Hibbing Taconite, United Taconite, Tilden",
+    "url": "https://www.clevelandcliffs.com/operations/steelmaking/iron-ore-facilities",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "광산의 인근 도시와 철광대."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-US-SRC-0306",
+    "title": "The United States Synthetic Rubber Program",
+    "institution_or_author": "American Chemical Society",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "U.S. Synthetic Rubber Program와 Rubber Reserve Company",
+    "url": "https://www.acs.org/education/whatischemistry/landmarks/syntheticrubber.html",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 합성고무 사업과 애크런 기업·시설의 참여."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-US-SRC-0307",
+    "title": "World Bauxite Resources — U.S. Geological Survey Professional Paper 1076-B",
+    "institution_or_author": "S. H. Patterson 외 / USGS",
+    "publication_date": "1986",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "B47, 표 16",
+    "url": "https://pubs.usgs.gov/pp/1076b/report.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1963년 아칸소의 금속용 및 한계 보크사이트 자원·매장량 평가."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-US-SRC-0308",
+    "title": "Chromite Deposits of the Stillwater Complex, Stillwater and Sweetgrass Counties, Montana",
+    "institution_or_author": "U.S. Geological Survey",
+    "publication_date": "1941",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Bulletin 922-N, Reserves 및 Benbow 절",
+    "url": "https://pubs.usgs.gov/bul/0922n/report.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "몬태나 스틸워터의 벤보 광체와 당시 평가."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-US-SRC-0309",
+    "title": "Chromite deposits of the north-central Zambales Range, Luzon, Philippines",
+    "institution_or_author": "U.S. Geological Survey",
+    "publication_date": "1970",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "공개 초록 및 원보고서",
+    "url": "https://www.usgs.gov/publications/chromite-deposits-north-central-zambales-range-luzon-philippines",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "잠발레스 크롬철석 기채굴과 잔존 합계, 광산 위치."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-US-SRC-0310",
+    "title": "The IMA Mine Project — Amended and Restated NI 43-101 Technical Report",
+    "institution_or_author": "American Tungsten Corp. 기술보고서",
+    "publication_date": "2026",
+    "source_type": "corporate_report",
+    "document_or_accession_number": null,
+    "locator": "표 6.2와 Historical Mineral Resource",
+    "url": "https://ceo.ca/api/sedar-document/TUNG-2026-05-27-amended-restated-technical-report-ni-43-101-english-1871.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "아이다호 IMA 광산의 전시 광석 생산과 후대 역사적 추정의 제한."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
     "id": "CAT-US-SRC-0001",
     "title": "FM 100-5, Field Service Regulations, Operations",
     "institution_or_author": "U.S. War Department",

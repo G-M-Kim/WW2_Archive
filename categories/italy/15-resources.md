@@ -1,33 +1,47 @@
-# 제2차 세계대전기 이탈리아의 석유·강철·고무·알루미늄·크롬·텅스텐
+# 이탈리아 15 — 제2차 세계대전기의 영토와 자원
 
-첫 조사 `CAT-IT-15` · `partial` · 열람일 2026-11-18
+작업 `CAT-IT-15` · 자원과 생산지 재조사 2026-11-22
 
-## 집계 범위
+이탈리아 왕국 본토와 섬을 기본으로 한다. 알바니아는 1939년 이후 이탈리아 국왕 아래 별도 정부가 있었고 1943년 이탈리아 휴전 뒤 독일군 점령하에 들어갔다. 아래 알바니아 산출은 현지 생산이다. [CAT-IT-SRC-0118 · pp. 401–402](<https://history.state.gov/historicaldocuments/frus1939v02/d354>) [CAT-IT-SRC-0124 · 독일 점령 해설](<https://encyclopedia.ushmm.org/content/en/photo/gavra-mandil-and-refik-veseli>)
 
-이탈리아 왕국 본토(`CAT-IT-GEO-0001`)와 알바니아(`CAT-IT-GEO-0010`)를 따로 집계한다. 이탈리아군의 1939년 개입 뒤 새 알바니아 당국은 이탈리아 국왕에게 알바니아 왕관을 제안하고 별도 내각을 구성했다. 1943년 9월 이탈리아 휴전 이후 알바니아는 독일군 점령하에 들어갔다. 알바니아 광산의 생산량은 이탈리아 회사 운영 여부와 별개로 생산지에 귀속했다. 식민지와 다른 점령지의 생산·반입 및 지역별 실제 통치 시점은 [당시 영토](14-territory.md)와 후속 과제를 참조한다. [CAT-IT-SRC-0118, FRUS 문서 354, 401–402쪽](https://history.state.gov/historicaldocuments/frus1939v02/d354) · [CAT-IT-SRC-0124, 사진 해제의 독일 점령 설명](https://encyclopedia.ushmm.org/content/en/photo/gavra-mandil-and-refik-veseli)
+대상은 **석유·강철·고무·알루미늄·크롬·텅스텐**이다. 나라별 수입·수출은 이번 조사 범위에서 제외했다. 지방명과 도시명은 [13번 지명 색인](13-historical-place-names.md), 당시 지배와 통치 시기는 [14번 영토](14-territory.md)와 연결한다. 산지의 시·군 전체와 유전·광산 단위는 자료가 지지하는 범위로 표시했다.
 
-영국 제국연구소 표의 장톤은 2,240파운드(약 1.01605미터톤)다. 아래 연도는 통계의 보고 연도이며, 채굴량·금속 생산량·수입량은 서로 다른 지표다. 표의 `(a)`는 자료 미확보를 뜻한다. [CAT-IT-SRC-0125, 서문·각 표 주석](<https://nora.nerc.ac.uk/id/eprint/535289/1/SS_1938_1944.pdf>)
+## 전시 생산과 당시 확인량
 
-## 여섯 자원의 첫 조사
+1945년 연간 통계에는 종전 뒤 실적도 들어갈 수 있다. **t**은 미터톤, **롱톤**은 2,240파운드, **쇼트톤**은 2,000파운드다. 원문만으로 중량 체계를 확인하기 어려운 수치는 **원문 tons**로 남겼다. 원유·합성유, 철광석·강철, 보크사이트·알루미나·금속, 광석·정광·함유량은 각각의 생산 단계에 적었다.
 
-| 품목 | 확인한 생산·공급 | 검증 범위 |
-|---|---|---|
-| 석유 | 제국연구소의 이탈리아 생산행은 1939년 **12,000장톤**, 1941년 **11,000장톤**이며 셰일유를 포함한다. 별도 알바니아 원유행은 1939년 **137,277장톤**, 1941년 **150,104장톤**이다. Albpetrol 산업사에는 알바니아의 쿠초버 유전(`CAT-IT-GEO-0012`, Kuçovë)에서 1941년 **148,000톤**을 채굴했다고 적혀 있다. [CAT-IT-SRC-0125, 224–225쪽 원유 생산의 Italy·Albania 행과 각주 (c)](<https://nora.nerc.ac.uk/id/eprint/535289/1/SS_1938_1944.pdf>) · [CAT-IT-SRC-0127, 13쪽 쿠초버 단락](<https://www.albpetrol.al/wp-content/uploads/2020/04/ZHVILLIMI-I-INDUSTRIS%C3%8B-S%C3%8B-NAFT%C3%8BS-DHE-GAZIT-N%C3%8B-SHQIP%C3%8BRI.pdf>) | 알바니아 수치는 국가와 유전의 공간 범위가 다르다. 각각 생산지에서의 채굴량이며 이탈리아 본토 입항량은 별도 확인이 필요하다. |
-| 강철 | 이탈리아의 강괴·주강 합계는 1939년 **2,284,000장톤**, 1940년 **2,201,359장톤**, 1942년 **1,879,047장톤**으로 집계됐다. [CAT-IT-SRC-0125, 152쪽 강괴·주강 생산 표, Italy 행](<https://nora.nerc.ac.uk/id/eprint/535289/1/SS_1938_1944.pdf>) | 공업 생산물이다. 철광석 채굴·선철·압연·철강 수입은 각각 별도 계열이며, 전쟁 후반 공장별 지배와 연간 통계 경계는 추가 확인이 필요하다. |
-| 고무 | 페라라(`CAT-IT-GEO-0013`, Ferrara) SAIGS는 1941년 10월 시험 시설에 이어 1942년 4월 공업 시설을 가동했고 1944년 폐쇄됐다. 테르니(`CAT-IT-GEO-0014`, Terni) 시설의 **연 18,000톤**은 전후 해설에 적힌 예정 능력이다. 독일군이 완공 전 설비를 반출했다. [CAT-IT-SRC-0131, Ferrara·Terni 단락](<https://www.treccani.it/enciclopedia/gomma-elastica_res-e789cb7b-87e5-11dc-8e9d-0016357eee51_%28Enciclopedia-Italiana%29/>) · [CAT-IT-SRC-0132, 49–50쪽 시험·공업 가동과 공장 폐쇄 단락](<https://www.soc.chim.it/sites/default/files/chimind/pdf/2025_5_46_ca.pdf>) | Ferrara의 전시 합성고무 실적은 원장 확인까지 보류한다. 천연고무의 국내·속령 생산과 수입은 미확인이다. 대조할 IMI 자료의 소장 목록과 등록 열람 조건을 확인했다. [CAT-IT-SRC-0133, 기록 1462, sf. b 및 1942-10-27 보고서](<https://asisp.intesasanpaolo.com/intesa-web/detail/IT-ISP-AS00004-0004987/1462-pratiche-rifiutate-o-abbandonate>) |
-| 알루미늄 | 보크사이트 채굴은 이탈리아 중앙통계기관의 1938년 **360,837미터톤**과 제국연구소의 같은 해 **355,138장톤**(환산 약 **360,837미터톤**)이 반올림 범위에서 일치한다. 제국연구소의 1940년 이탈리아 행은 보크사이트 **540,000장톤**, 금속 알루미늄 **38,100장톤**이다. [CAT-IT-SRC-0126, 101쪽 V.F.1, Minerali di alum. (bauxite)](<https://ebiblio.istat.it/digibib/Annuario%20Statistico%20Italiano/RAV0040597ASI1939.pdf>) · [CAT-IT-SRC-0125, 11–13쪽, 보크사이트 및 알루미늄 추정 생산 표](<https://nora.nerc.ac.uk/id/eprint/535289/1/SS_1938_1944.pdf>) | 1938년 수치는 비교 기준이며 1939년판의 발행연도와 구분한다. 기관 간 1938년 수치의 일치는 단위 교차 확인으로 썼고 원자료 계보의 독립성은 미확인이다. 원광·알루미나·제련 금속·수입은 별도 계열이다. |
-| 크롬 | 알바니아의 1942년 기록은 상품화된 크롬철석 광석 **37,867톤**, 평균 **Cr₂O₃ 42%**를 제시한다. 전후 Treccani의 AMMI 생산 기록은 **37,870톤**이다. 같은 영어 공개본 서론에 실린 1943년 **66,000톤**은 추정치다. [CAT-IT-SRC-0129, 서론과 160개 광산·1942년 상품광 단락](<https://www.cia.gov/readingroom/docs/CIA-RDP80-00809A000600140131-1.pdf>) · [CAT-IT-SRC-0130, AMMI 생산 단락과 서지](<https://www.treccani.it/enciclopedia/cromo_res-8de381ab-87e5-11dc-8e9d-0016357eee51_%28Enciclopedia-Italiana%29/>) | 광석 총중량과 산화물 함량을 분리했다. 두 1942년 수치가 근접하나 같은 이탈리아 광업 보고 계열일 수 있다. 광산별 경계·이탈리아 도착량과 1943년 실제 생산 범위는 미확인이다. |
-| 텅스텐 | 제국연구소는 이탈리아의 수입을 텅스텐 금속 및 페로텅스텐으로 별도 분류했다. 1938년에는 각각 **7장톤**, **88장톤**이며 1939–1944년의 해당 이탈리아 셀은 미확인 표기다. [CAT-IT-SRC-0125, 349쪽, 순수입 표의 Italy 행](<https://nora.nerc.ac.uk/id/eprint/535289/1/SS_1938_1944.pdf>) | 1938년 전전 수입 비교치다. 전시 국내 광산 생산량, 광석 수입, 제련·합금 생산과 공급국은 미확인이다. |
+| 자원 | 집계 지표 | 전시 실적 및 확인량 | 집계 범위와 출처 |
+| --- | --- | --- | --- |
+| 석유 | 이탈리아 국내 집계 원유 및 셰일유 | 1939년 1.2만 롱톤, 1941년 1.1만 롱톤 | 별도 알바니아 원유: 1939년 13.7277만, 1941년 15.0104만 롱톤. [CAT-IT-SRC-0125 · pp. 224–225](<https://nora.nerc.ac.uk/id/eprint/535289/1/SS_1938_1944.pdf>) |
+| 강철 | 강괴·주강 생산 | 1939년 228.4만, 1940년 220.1359만, 1942년 187.9047만 롱톤 | 시설이나 철광석이 아닌 연간 제강 실적. [CAT-IT-SRC-0125 · p. 152](<https://nora.nerc.ac.uk/id/eprint/535289/1/SS_1938_1944.pdf>) |
+| 고무 | 합성고무 생산시설 | 페라라 1942년 공업 가동, 설계 연 8,000 t. 테르니 예정 연 1.8만 t | 페라라의 연간 채록 실적 미확인. 테르니는 완공 전 반출돼 설비로만 기록. 천연고무 생산량 미확인. [CAT-IT-SRC-0304 · 페라라 시설](<https://www.marx21.it/archivio/rivista-archivio/alle-origini-dellorganizzazione-operaia-del-polo-chimico-di-ferrara/>) [CAT-IT-SRC-0131 · 테르니](<https://www.treccani.it/enciclopedia/gomma-elastica_res-e789cb7b-87e5-11dc-8e9d-0016357eee51_%28Enciclopedia-Italiana%29/>) |
+| 알루미늄 | 보크사이트 원광 및 금속 | 1940년 원광 54만 롱톤, 금속 3.81만 롱톤 | 광석과 제련 추계의 별도 단계. 1938년 이탈리아 공식 채굴 36.0837만 t. [CAT-IT-SRC-0125 · pp. 11–13](<https://nora.nerc.ac.uk/id/eprint/535289/1/SS_1938_1944.pdf>) [CAT-IT-SRC-0126 · V.F.1](<https://ebiblio.istat.it/digibib/Annuario%20Statistico%20Italiano/RAV0040597ASI1939.pdf>) |
+| 크롬 | 알바니아 상품 크롬철석광 | 1942년 3.7867만 t, 평균 Cr₂O₃ 42%. 1943년 6.6만 t는 추정 | 알바니아 별도 통계. 이탈리아 본토 광산 연간량 미확인. [CAT-IT-SRC-0129 · 상품광 단락](<https://www.cia.gov/readingroom/docs/CIA-RDP80-00809A000600140131-1.pdf>) [CAT-IT-SRC-0130 · AMMI](<https://www.treccani.it/enciclopedia/cromo_res-8de381ab-87e5-11dc-8e9d-0016357eee51_%28Enciclopedia-Italiana%29/>) |
+| 텅스텐 | 이탈리아 국내 광산·가공 | 전시 연간 실생산 미확인 | 사르데냐의 탐사 확인 지역을 아래에 기록했다. [CAT-IT-SRC-0308 · §13](<https://www.isprambiente.gov.it/files2025/attivita/pne_finale.pdf>) |
 
-## 알바니아 원유의 본토 처리
+## 지역별 매장량·지질 자원량
 
-AGIP 경영진 보고를 분석한 산업사에 따르면 알바니아 석유 사업의 AIPA는 1940년 7월 AGIP에 편입됐다. 알바니아산 원유는 바리의 ANIC 수소화 공장과 리보르노의 석유제품 공장에 공급됐다. 리보르노에서는 SICS가 1940년 합성연료 생산 시설을 건설했으며, 이 기록으로 확인한 것은 시설 건설이다. AGIP의 멕시코 공급 계약은 별도의 역외 조달 사례다. 원유 추출, 본토 반입, 정제·수소화 생산, 합성연료 실적을 각각 확인해야 전시 공급량을 산정할 수 있다. [CAT-IT-SRC-0128, 102–103쪽, 각주 15–20](<https://iris.unive.it/retrieve/284354d2-8acb-4fa9-969e-d53a8f885077/ENI_IIIB_Agostini%20Favero.pdf>)
+기준일별 **확인·추정 매장량**, 탐사에서 산정한 **지질 자원량**, 과거 채굴과 잔존량을 합산한 조사값은 각 행의 자료 정의를 따른다. 후대 수치를 1939–1945년 가채량으로 소급하지 않는다. 강철은 철광석, 알루미늄은 보크사이트를 산지에서 비교한다. 고무는 재배 면적·생산량을 사용한다.
 
-## 남은 검증
+| 자원 | 지방·행정구역과 당시 지위 | 도시·광구·재배지 | 수치와 기준일 | 범위·해석 및 출처 |
+| --- | --- | --- | --- | --- |
+| 석유 | 이탈리아 남부 · 현재 바실리카타주 등 | 발다그리 Val d’Agri(포텐차도) 식별. 수치는 남부 전체 | 2024-12-31 남부 확인 7,099.3만 t, 추정 4,310.6만 t | 부처 표는 남부 총량으로 발다그리 개별 광구에 전체를 할당할 수 없다. 현대 이탈리아 확인 총계 8,205.7만 t. [CAT-IT-SRC-0301 · 현재 원유 표](<https://unmig.mase.gov.it/ricerca-e-coltivazione-di-idrocarburi/riserve-nazionali-di-idrocarburi/>) |
+| 석유 | 당시 알바니아 · 쿠초버 및 피에르 일대 | 쿠초버 Kuçovë·파토스마린저 Patos–Marinza | 2015-12-31 확인+추정 각각 1,200만·1억 9,030만 배럴 | 회사 현대 공시. 쿠초버 유전의 1941년 채굴은 Albpetrol에 따르면 14.8만 t. [CAT-IT-SRC-0302 · 2P 표](<https://www.newswire.ca/news-releases/bankers-petroleum-announces-2015-year-end-reserves-570771601.html>) [CAT-IT-SRC-0127 · p. 13](<https://www.albpetrol.al/wp-content/uploads/2020/04/ZHVILLIMI-I-INDUSTRIS%C3%8B-S%C3%8B-NAFT%C3%8BS-DHE-GAZIT-N%C3%8B-SHQIP%C3%8BRI.pdf>) |
+| 강철 | 이탈리아 본토 · 피에몬테 통계권, 당시 아오스타도 → 발레다오스타 | 코녜 Cogne | 개전 전 철광석 채굴 가능 추정 약 1,000만 t | 제헌기 정부 산업조사에 실린 역사적 추정. [CAT-IT-SRC-0303 · 철광업 단락](<https://legislature.camera.it/_dati/costituente/documenti/ministerocostituente/p7_Vol2-1.pdf>) |
+| 강철 | 이탈리아 본토 · 토스카나, 리보르노도 | 엘바섬 Elba | 개전 전 고품위 250만 t·저품위 500만 t 철광석 추정 | 두 품위의 구분과 평가 시점을 유지했다. [CAT-IT-SRC-0303 · 철광업 단락](<https://legislature.camera.it/_dati/costituente/documenti/ministerocostituente/p7_Vol2-1.pdf>) |
+| 알루미늄 | 사르데냐 · 사사리도 | 올메도 Olmedo·누라 Nurra | 후대 지질도 설명서 가채 광석 270만 t, 평균 Al₂O₃ 63.81% | 1979년 이후의 후대 탐사·가채 평가. 전시 산출로 배분하지 않는다. [CAT-IT-SRC-0306 · 올메도 절](<https://www.isprambiente.gov.it/Media/carg/note_illustrative/459_Sassari.pdf>) |
+| 크롬 | 당시 알바니아 · 불치저·쿠커스 일대 | 불치저 Bulqizë 및 쿠커스 Kukës 초염기성 광체 | JICA 보고서의 2005년 기초자료 자원량 각각 1,829.2만·682.8만 t | B+C₁+C₂ 분류의 광석 자원량. 경제적으로 회수할 수 있는 양과 다르다. [CAT-IT-SRC-0307 · 자원량 표](<https://openjicareport.jica.go.jp/pdf/12010120.pdf>) |
 
-- `CAT-IT-RQ-0052` 원유 생산지·본토 도착량·정제 및 합성연료 생산량 대조.
-- `CAT-IT-RQ-0053` 공장별 강철·보크사이트·알루미늄 데이터와 1943–1945년 집계 범위 확인.
-- `CAT-IT-RQ-0054` 천연고무의 생산과 수입, Ferrara 합성고무의 연간·누계 실적 및 설비 능력 확인.
-- `CAT-IT-RQ-0055` 알바니아 크롬철석의 사업자별 생산·출하 및 텅스텐의 전시 광산·통관·제련 자료 확인.
+## 지역별 생산·재배·산지 기록
 
-[출처 장부](SOURCES.json) · [검증 쟁점](QUESTIONS.json)
+| 자원 | 지방·행정구역과 당시 지위 | 도시·광구·재배지 | 수치와 기준일 | 범위·해석 및 출처 |
+| --- | --- | --- | --- | --- |
+| 고무 | 이탈리아 본토 · 에밀리아, 페라라도 | 페라라 Ferrara SAIGS | 1942년 공업 가동, 설계 연 8,000 t | 설계량을 연간 실제 생산으로 적용하지 않는다. [CAT-IT-SRC-0304 · 공업 가동](<https://www.marx21.it/archivio/rivista-archivio/alle-origini-dellorganizzazione-operaia-del-polo-chimico-di-ferrara/>) |
+| 알루미늄 | 이탈리아 본토 · 풀리에, 포자도 | 산조반니로톤도·산마르코인라미스 | 1939년 보크사이트 채굴 94,629 t, 1940년 166,451 t, 1942년 170,774 t | 당시 채굴량. 도시별 분할·잔존 매장량 미확인. [CAT-IT-SRC-0305 · 보크사이트 보고](<https://legislature.camera.it/_dati/leg01/lavori/stampati/PDF/AR_LEG01_CB02_CAT034_VOL03_IV_Monografie%20regionali%20-%20Statistiche%20regionali.pdf>) |
+| 텅스텐 | 사르데냐 남서부 | 몬테리나스 Monte Linas · 고노스파나디가 Gonnosfanadiga·빌라치드로 Villacidro | 수치 없는 광화대. 가채량 미확인 | ISPRA는 Nuraghe Togoro와 Rio Narti 광화대를 확인했다. [CAT-IT-SRC-0308 · §13](<https://www.isprambiente.gov.it/files2025/attivita/pne_finale.pdf>) |
+
+## 확인이 남은 수치
+
+포자도 보크사이트의 당시 잔존량, 발다그리 개별 광구의 잔존량, 이탈리아 본토의 전시 크롬·텅스텐 생산과 페라라의 연간 실적은 미확인이다. 여기서 확인하지 못한 값을 0으로 넣지 않았다.
+
+[국가별 출처 장부](SOURCES.json) · [검증 쟁점 장부](QUESTIONS.json)

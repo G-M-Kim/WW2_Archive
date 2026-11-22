@@ -1,5 +1,157 @@
 [
   {
+    "id": "CAT-DE-SRC-0301",
+    "title": "Erdöl und Erdgas in der Bundesrepublik Deutschland 2023",
+    "institution_or_author": "LBEG",
+    "publication_date": "2024",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "표 16, Mittelplate/Dieksand 설명",
+    "url": "https://nibis.lbeg.de/DOI/dateien/GB_49_2024_Text_1_web.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "연방주별 확인·추정 원유 매장량과 유전 조업 개시."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-DE-SRC-0302",
+    "title": "Wirtschaft und Statistik 1939, Heft 14",
+    "institution_or_author": "Statistisches Reichsamt",
+    "publication_date": "1939",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Die Erdölförderung im Juni 1939",
+    "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEAusgabe_derivate_00001194/Wirtschaft_und_Statistik-1939-14.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "하노버 방면 니엔하겐 유전의 당시 생산."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-DE-SRC-0303",
+    "title": "Plan Konrad — Geologie und Eisenerzlagerstätte",
+    "institution_or_author": "Bundesgesellschaft für Endlagerung 공개본",
+    "publication_date": "1980년대 자료",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Eisenerzlagerstätte, 잘츠기터·기프호른·포어호프 단락",
+    "url": "https://www.bge.de/fileadmin/user_upload/Konrad/Wesentliche_Unterlagen/Bergbau/EU_477_geschwaerzt_opt_nicht_barrierefrei.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "광상 잠재 광석량과 콘라트 확인 광석량."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-DE-SRC-0304",
+    "title": "Bauxitgrube Lich",
+    "institution_or_author": "Geopark Vulkanregion Vogelsberg",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "리히 동쪽 지질유산",
+    "url": "https://www.geopark-vogelsberg.de/detail/id=65d5e7d9841b7cb91f8386cd",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "리히의 보크사이트 광상 위치."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-DE-SRC-0305",
+    "title": "Die Bodenschätze Österreichs",
+    "institution_or_author": "B. Granigg / GeoSphere Austria 보존",
+    "publication_date": "1947",
+    "source_type": "research_or_archival_publication",
+    "document_or_accession_number": null,
+    "locator": "Chrom und Chromerze, Mitterberg bei Kraubath",
+    "url": "https://opac.geologie.ac.at/ais312/dokumente/Granigg_1947_Bodenschaetze_Oesterreichs.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "크라우바트의 소규모 크롬철석 산지."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-DE-SRC-0306",
+    "title": "Neubewertung von Spat- und Erzvorkommen im Freistaat Sachsen",
+    "institution_or_author": "Sächsisches Landesamt für Umwelt, Landwirtschaft und Geologie",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Pöhla–Globenstein, Vorräte und Gehalte",
+    "url": "https://www.geologie.sachsen.de/download/Steckbriefkatalog.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "과거 광상 장부상의 텅스텐 함유량·품위."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-DE-SRC-0307",
+    "title": "Lauta (1) — Historisches Ortsverzeichnis von Sachsen",
+    "institution_or_author": "Institut für Sächsische Geschichte und Volkskunde",
+    "publication_date": null,
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "Verwaltungszugehörigkeit 및 1928년 지명 목록",
+    "url": "https://hov.isgv.de/Lauta_%281%29",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "전시 라우타·라우타베르크의 지방 행정 항목."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
+    "id": "CAT-DE-SRC-0308",
+    "title": "The Strategic Air Offensive Against Germany 1939–1945, Vol. I",
+    "institution_or_author": "Charles Webster·Noble Frankland / HMSO",
+    "publication_date": "1961",
+    "source_type": "official_statistics_or_geological_report",
+    "document_or_accession_number": null,
+    "locator": "German steel industry, 1939 생산과 편입 범위",
+    "url": "https://www.generalstaff.org/WW2/Hist_UK/StratAirOffGermVol1.pdf",
+    "accessed_at": "2026-11-22",
+    "access_status": "source_checked",
+    "claims_checked": [
+      "1939년 간행물 정의의 독일 조강 생산량과 오스트리아·주데텐·상실레지아 반영."
+    ],
+    "limitations": [
+      "기준일과 지리 범위, 광석·함유량 및 원자료의 분류를 해당 문서의 표에서 별도로 명시했다."
+    ],
+    "rights": "공개 열람 자료. 자체 요약과 링크만 사용."
+  },
+  {
     "id": "CAT-DE-SRC-0001",
     "title": "Handbook on German Military Forces, TM-E 30-451",
     "institution_or_author": "United States War Department; U.S. Government Printing Office",
