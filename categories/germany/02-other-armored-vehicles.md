@@ -3,7 +3,7 @@ job_id: CAT-DE-02
 country: 독일
 category_number: 2
 status: partial
-research_scope: StuG III 장포신형, Sd.Kfz.251/16, Sd.Kfz.234/2의 대표 무장·성능 및 장갑수송차 분류
+research_scope: StuG III 장포신형, Sd.Kfz.251/16, Sd.Kfz.234/2 대표 제원과 Panzer I 차대 파생형 조사 후보
 updated_at: 2026-11-09
 ---
 
@@ -11,7 +11,7 @@ updated_at: 2026-11-09
 
 ## 조사 범위와 분류
 
-첫 검사는 **돌격포, 장갑 화염방사 반궤도차, 정찰 장갑차의 세 대표 사례**다. 전차 계열은 [01번 원고](01-tanks.md)와 구분한다. 미군 교범은 자주포를 근접지원·돌격포, 야전·중포, 구축전차, 자주대공포로 나누면서 역할의 경계가 겹친다고 설명한다. 따라서 같은 장비를 돌격포와 대전차 역할에 중복 집계하지 않는다. [CAT-DE-SRC-0001, VII §V.1.c, VII-57, PDF 367](https://www.ibiblio.org/hyperwar/USA/ref/TM/pdfs/TME30-451.PDF#page=367)
+첫 검사는 **돌격포, 장갑 화염방사 반궤도차, 정찰 장갑차의 세 대표 사례**다. [Panzer I 차대를 사용한 구축전차·자주포·지원차량](#panzer-i-derivatives)의 조사 후보도 수록했다. 전차 계열은 [01번 원고](01-tanks.md)와 구분한다. 미군 교범은 자주포를 근접지원·돌격포, 야전·중포, 구축전차, 자주대공포로 나누면서 역할의 경계가 겹친다고 설명한다. 따라서 같은 장비를 돌격포와 대전차 역할에 중복 집계하지 않는다. [CAT-DE-SRC-0001, VII §V.1.c, VII-57, PDF 367](https://www.ibiblio.org/hyperwar/USA/ref/TM/pdfs/TME30-451.PDF#page=367)
 
 장갑수송차에서는 Sd.Kfz.250을 1톤급 반궤도 견인차 차대 계열, Sd.Kfz.251을 3톤급 계열로 구분하고 251/16을 화염방사 차량으로 별도 열거한 당대 분류를 확인했다. 여기서 **1톤·3톤은 차대의 견인차 분류**이며 장갑차 완성 중량이 아니다. [CAT-DE-SRC-0001, VII §VI.6, VII-88, PDF 398](https://www.ibiblio.org/hyperwar/USA/ref/TM/pdfs/TME30-451.PDF#page=398)
 
@@ -43,6 +43,20 @@ updated_at: 2026-11-09
 박물관의 234/3 페이지는 계열 설명에서 /1의 20 mm, /2의 50 mm, /3의 단포신 75 mm, /4의 장포신 75 mm를 구분한다. 이 가운데 /2의 50 mm 포라는 구분은 미군 목록과 일치한다. 다만 박물관 **Tank facts는 /3의 제원**이므로 중량·생산량·장갑을 /2에 옮기지 않았다. [CAT-DE-SRC-0008, 계열 설명 첫 문단·Tank facts](https://tankmuseum.org/tank-nuts/tank-collection/sd-kfz-234-3/)
 
 미군 원목록은 /2의 포탑 전면 장갑을 30 mm, 수직 기준 20°로 기록하고 측후면 10 mm와 구분한다. 이는 전체 장갑의 단일 두께가 아니다. 관통 수치는 원문부터 estimated라고 하며 탄종·사거리·각도가 붙는 정보이므로 이번 대표 성능표에서 확정 관통값으로 채택하지 않았다. [CAT-DE-SRC-0009, 독일편 42.1, 주포·장갑 문단](https://archive.org/download/CatalogOfEnemyOrdnanceMateriel/CatalogOfEnemyOrdnanceMateriel.pdf#page=27)
+
+<a id="panzer-i-derivatives"></a>
+
+### Panzer I 차대 파생 기갑장비
+
+Panzer I 차대를 사용한 구축전차·자주포·지원차량의 조사 후보를 아래에 정리했다. 형식명과 일부 업체 표기는 [CAT-DE-SRC-0191의 목차](https://d-nb.info/1045691127/04#page=2)에서 확인했다. 업체별 개조, 생산·인수 대수와 부대 운용은 본문과 원기록을 대조할 항목이다.
+
+| 후보 | 범위 근거 | 추가 확인 |
+|---|---|---|
+| Panzerjäger I · 4,7-cm-Pak (t) auf Panzerkampfwagen I ohne Turm | CAT-DE-SRC-0191 목차의 본문 p.60, Alkett·I B LaS May 표기 | 차대 및 부대 문서에서 명칭·개조 차수부터 확인. |
+| 15 cm sIG 33 auf Panzerkampfwagen I Ausf. B · Geschützwagen I | CAT-DE-SRC-0191 목차의 본문 p.62, Alkett 표기 | 같은 차량의 별칭 여부, 개조·인수 수량 및 실물/동시대 사진 확인. |
+| Munitionsschlepper I (A), Instandsetzungskraftwagen I, Pionier-Kampfwagen I, Ladungsleger I | CAT-DE-SRC-0191 목차의 본문 pp.57·65 | 각 형식의 차대, 실제 제작·개조 및 발주·도입 수준 확인. |
+
+기본 전차형·지휘형·훈련용 차대는 [01번 전차의 Panzer I 검증 현황](01-tanks.md#panzer-i-verification)에 있다.
 
 ## 증거 수준·열람 이력
 

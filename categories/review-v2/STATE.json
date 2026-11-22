@@ -5,7 +5,8 @@
   "document_id": "CAT-DE-01",
   "document_status": "in_progress",
   "current_subcategory": "Panzer I 계열",
-  "scope_path": "categories/review-v2/DE-01-Panzer-I.md",
+  "scope_path": "categories/germany/01-tanks.md",
+  "scope_anchor": "panzer-i-verification",
   "last_saved_batch": "DE-01-PZI-003",
   "last_review_date": "2026-11-21",
   "result": {

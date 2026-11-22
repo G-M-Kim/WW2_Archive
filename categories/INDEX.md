@@ -27,4 +27,4 @@
 | 21 | 해군 교리 | [독일](germany/naval-doctrine.md) | [프랑스](france/naval-doctrine.md) | [영국](united-kingdom/naval-doctrine.md) | [미국](united-states/naval-doctrine.md) | [일본](japan/naval-doctrine.md) | [이탈리아](italy/naval-doctrine.md) | [소련](soviet-union/naval-doctrine.md) |
 | 22 | 공군 교리 | [독일](germany/air-doctrine.md) | [프랑스](france/air-doctrine.md) | [영국](united-kingdom/air-doctrine.md) | [미국](united-states/air-doctrine.md) | [일본](japan/air-doctrine.md) | [이탈리아](italy/air-doctrine.md) | [소련](soviet-union/air-doctrine.md) |
 
-[국가별 문서와 조사 장부](README.md) · [시설 규모 평가 기준](INFRASTRUCTURE_RATING.md) · [독일 01번 Panzer I 보충 검토](review-v2/DE-01-Panzer-I.md)
+[국가별 문서와 조사 장부](README.md) · [시설 규모 평가 기준](INFRASTRUCTURE_RATING.md) · [독일 Panzer I 검증 현황](germany/01-tanks.md#panzer-i-verification) · [Panzer I 차대 파생형](germany/02-other-armored-vehicles.md#panzer-i-derivatives)

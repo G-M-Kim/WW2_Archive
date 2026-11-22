@@ -87,7 +87,6 @@ def main():
         "categories/README.md": Path("categories/index.md"),
         "categories/INDEX.md": Path("categories/by-number.md"),
         "categories/INFRASTRUCTURE_RATING.md": Path("categories/facility-rating.md"),
-        "categories/review-v2/DE-01-Panzer-I.md": Path("categories/review-v2/DE-01-Panzer-I.md"),
     }
     banners = {}
     for job in queue:
@@ -127,7 +126,8 @@ def main():
             pages[article.as_posix()] = article
             index.append(f"| {number:02d} | [{title}]({name}) | 보충 교리 |")
         if folder == "germany":
-            index.extend(["", "[01번 전차 보충 검토 · Panzer I](../review-v2/DE-01-Panzer-I.md)"])
+            index.extend(["", "[Panzer I 검증 현황](01-tanks.md#panzer-i-verification) · "
+                          "[Panzer I 차대 파생형](02-other-armored-vehicles.md#panzer-i-derivatives)"])
         doctrine_count += len(doctrines)
         index.extend([
             "",
@@ -160,6 +160,8 @@ def main():
         target = DOCS / destination
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(markdown, encoding="utf-8")
+    # Clean up the retired article in worktrees with an earlier staged build.
+    (DOCS / "categories/review-v2/DE-01-Panzer-I.md").unlink(missing_ok=True)
     print(f"Staged {len(output)} Markdown pages under docs/categories.")
 
 
