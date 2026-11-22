@@ -8,6 +8,15 @@
     "source": "https://commons.wikimedia.org/wiki/File:Postcard_celebrating_the_signing_of_the_Portsmouth_Peace_Treaty_LCCN2005680020.tif",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:Postcard_celebrating_the_signing_of_the_Portsmouth_Peace_Treaty_LCCN2005680020.tif#Licensing"
   },
+  "EVT-0003": {
+    "file": "photos/context-russian-revolution.webp",
+    "caption": "1917년 러시아 혁명 당시 점령 직후의 겨울궁전.",
+    "credit": "Pyotr Novitsky",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:After_the_capture_of_the_Winter_Palace_26_October_1917.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:After_the_capture_of_the_Winter_Palace_26_October_1917.jpg#Licensing"
+  },
   "EVT-0005": {
     "file": "photos/evt-0005.webp",
     "caption": "1918년 11월 휴전협정에 쓰인 콩피에뉴의 객차 앞 연합국 대표들.",
@@ -16,6 +25,15 @@
     "license": "퍼블릭 도메인",
     "source": "https://commons.wikimedia.org/wiki/File:Armisticetrain.jpg",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:Armisticetrain.jpg#Licensing"
+  },
+  "EVT-0006": {
+    "file": "photos/context-paris-peace.webp",
+    "caption": "1919년 파리 강화회의에 참석한 연합국 대표들.",
+    "credit": "Noël Dorville",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_Peace_Conference.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Paris_Peace_Conference.jpg#Licensing"
   },
   "EVT-0007": {
     "file": "photos/evt-0007.webp",
@@ -26,6 +44,51 @@
     "source": "https://commons.wikimedia.org/wiki/File:Versailles_1919.jpg",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:Versailles_1919.jpg#Licensing"
   },
+  "EVT-0012": {
+    "file": "photos/context-trianon.webp",
+    "caption": "1920년 트리아농 조약 서명식을 찾은 헝가리 대표단.",
+    "credit": "Agence Rol Description French English: photo agency Français : Agence de photographie Work period from 1904 until 1937 date QS:P,+1950-00-00T0…",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Signature_de_la_Paix_avec_la_Hongrie,_en_t%C3%AAte_Ben%C3%A1rd_%C3%81gost_hongrois(passant_devant_un_piquet_d'honneur_%C3%A0_Versailles).jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Signature_de_la_Paix_avec_la_Hongrie,_en_t%C3%AAte_Ben%C3%A1rd_%C3%81gost_hongrois(passant_devant_un_piquet_d'honneur_%C3%A0_Versailles).jpg#Licensing"
+  },
+  "EVT-0018": {
+    "file": "photos/context-beer-hall.webp",
+    "caption": "1923년 11월 뮌헨 폭동 당시 마리엔 광장.",
+    "credit": "Unknown Unknown",
+    "kind": "기록 사진",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_119-1486,_Hitler-Putsch,_M%C3%BCnchen,_Marienplatz.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  "EVT-0022": {
+    "file": "photos/context-kellogg.webp",
+    "caption": "서명과 인장이 담긴 1928년 켈로그·브리앙 조약 문서.",
+    "credit": "Unknown photographer possibly Erich Salomon",
+    "kind": "당대 문서",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Kellogg%E2%80%93Briand_Pact_(1928).jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Kellogg%E2%80%93Briand_Pact_(1928).jpg#Licensing"
+  },
+  "EVT-0025": {
+    "file": "photos/context-manchuria.webp",
+    "caption": "1931년 만주사변 당시 선양의 일본군.",
+    "credit": "Wikimedia Commons · 원본 저자 정보 참조",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Mukden_1931_japan_shenyang.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mukden_1931_japan_shenyang.jpg#Licensing"
+  },
+  "EVT-0029": {
+    "file": "photos/context-reichstag.webp",
+    "caption": "1933년 불이 난 독일 국회의사당.",
+    "credit": "Wikimedia Commons · 원본 저자 정보 참조",
+    "kind": "기록 사진",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Reichstagsbrand.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
   "EVT-0047": {
     "file": "photos/evt-0047.webp",
     "caption": "30일 헤스턴 비행장에서 별도의 영독 공동선언문을 보여주는 체임벌린.",
@@ -34,6 +97,15 @@
     "license": "퍼블릭 도메인",
     "source": "https://commons.wikimedia.org/wiki/File:MunichAgreement.jpg",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:MunichAgreement.jpg#Licensing"
+  },
+  "EVT-0049": {
+    "file": "photos/context-kristallnacht.webp",
+    "caption": "1938년 11월 포그롬으로 파괴된 베를린 파자넨슈트라세 회당 내부.",
+    "credit": "Center for Jewish History, NYC",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_view_of_the_destroyed_Fasanenstrasse_Synagogue,_Berlin.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Interior_view_of_the_destroyed_Fasanenstrasse_Synagogue,_Berlin.jpg#Licensing"
   },
   "EVT-0060": {
     "file": "photos/evt-0060.webp",
@@ -44,6 +116,33 @@
     "source": "https://commons.wikimedia.org/wiki/File:Polish_border_1939.jpg",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:Polish_border_1939.jpg#Licensing"
   },
+  "EVT-0070": {
+    "file": "photos/context-altmark.webp",
+    "caption": "알트마르크 사건으로 숨진 독일인들의 관이 노르웨이 해안으로 옮겨지는 모습.",
+    "credit": "Wikimedia Commons · 원본 저자 정보 참조",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Altmark_Incident.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Altmark_Incident.jpg#Licensing"
+  },
+  "EVT-0091": {
+    "file": "photos/context-japan-axis.webp",
+    "caption": "1940년 9월 27일 독일·이탈리아·일본 삼국동맹 조약.",
+    "credit": "World Imaging",
+    "kind": "당대 문서",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tripartite_Pact_27_September_1940.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "EVT-0109": {
+    "file": "photos/context-barbarossa.webp",
+    "caption": "바르바로사 작전 초기에 소련 국경을 넘는 독일군.",
+    "credit": "Johannes Hähle",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:German_troops_crossing_the_Soviet_border-original.png",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:German_troops_crossing_the_Soviet_border-original.png#Licensing"
+  },
   "EVT-0121": {
     "file": "photos/evt-0121.webp",
     "caption": "진주만 공격 당시 불타는 전함 웨스트버지니아.",
@@ -52,6 +151,15 @@
     "license": "퍼블릭 도메인",
     "source": "https://commons.wikimedia.org/wiki/File:Attack_on_Pearl_Harbor.jpg",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:Attack_on_Pearl_Harbor.jpg#Licensing"
+  },
+  "EVT-0132": {
+    "file": "photos/context-singapore.webp",
+    "caption": "1942년 2월 15일 싱가포르 항복을 위해 이동하는 아서 퍼시벌과 일행.",
+    "credit": "Photographer not identified. \"Official photograph\". Post-Work: User:W.wolny",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Surrender_Singapore.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Surrender_Singapore.jpg#Licensing"
   },
   "EVT-0141": {
     "file": "photos/evt-0141.webp",
@@ -62,6 +170,42 @@
     "source": "https://commons.wikimedia.org/wiki/File:April_18_1942_USS_Hornet_CV8_Doolittle.jpg",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:April_18_1942_USS_Hornet_CV8_Doolittle.jpg#Licensing"
   },
+  "EVT-0155": {
+    "file": "photos/context-guadalcanal.webp",
+    "caption": "1942년 무렵 과달카날 해안에 상륙하는 미 해병대.",
+    "credit": "Archives Branch, USMC History Division",
+    "kind": "기록 사진",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marines_Landing_on_Beach_at_Guadalcanal,_circa_1942.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "EVT-0167": {
+    "file": "photos/context-casablanca.webp",
+    "caption": "1943년 카사블랑카 회담의 프랭클린 루스벨트, 샤를 드골, 윈스턴 처칠.",
+    "credit": "Unknown U.S. Office of War Information (OWI) photographer",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:La_rencontre_de_Casablanca.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:La_rencontre_de_Casablanca.jpg#Licensing"
+  },
+  "EVT-0176": {
+    "file": "photos/context-mincemeat.webp",
+    "caption": "민스미트 작전을 위해 작성한 가상의 윌리엄 마틴 소령 신분증.",
+    "credit": "Ewen Montagu Team",
+    "kind": "당대 문서",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Major_Martin.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Major_Martin.jpg#Licensing"
+  },
+  "EVT-0189": {
+    "file": "photos/context-gran-sasso.webp",
+    "caption": "1943년 그란사소에서 독일 공수부대에 둘러싸인 무솔리니.",
+    "credit": "Toni Schneiders",
+    "kind": "기록 사진",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-567-1503A-07,_Gran_Sasso,_Mussolini_mit_deutschen_Fallschirmj%C3%A4gern.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
   "EVT-0213": {
     "file": "photos/evt-0213.webp",
     "caption": "1944년 6월 6일 노르망디 오마하 해변에 상륙하는 미군.",
@@ -70,6 +214,15 @@
     "license": "퍼블릭 도메인",
     "source": "https://commons.wikimedia.org/wiki/File:Into_the_Jaws_of_Death_23-0455M_edit.jpg",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:Into_the_Jaws_of_Death_23-0455M_edit.jpg#Licensing"
+  },
+  "EVT-0218": {
+    "file": "photos/context-valkyrie.webp",
+    "caption": "1944년 7월 20일 폭발 직후 회의실.",
+    "credit": ". Original uploader was Yuri at he.wikipedia",
+    "kind": "기록 사진",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:July_20_bomb_room.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   },
   "EVT-0221": {
     "file": "photos/evt-0221.webp",
@@ -116,6 +269,15 @@
     "source": "https://commons.wikimedia.org/wiki/File:Yalta_Conference_1945_Churchill%2C_Stalin%2C_Roosevelt.jpg",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:Yalta_Conference_1945_Churchill%2C_Stalin%2C_Roosevelt.jpg#Licensing"
   },
+  "EVT-0245": {
+    "file": "photos/context-dresden.webp",
+    "caption": "폭격 뒤 폐허가 된 드레스덴. 리하르트 페터 촬영.",
+    "credit": "Richard Peter (1895–1977) Description German photographer, journalist, photojournalist and editing staff Date of birth/death 10 May 1895 3 Oct…",
+    "kind": "기록 사진",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Fotothek_df_ps_0000179_Kriege_%5E_Kriegsfolgen_%5E_Zerst%C3%B6rungen_-_Tr%C3%BCmmer_-_Ruinen.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
   "EVT-0246": {
     "file": "photos/evt-0246.webp",
     "caption": "1945년 2월 19일 이오지마 해안으로 향하는 첫 상륙 부대.",
@@ -125,6 +287,15 @@
     "source": "https://commons.wikimedia.org/wiki/File:Initial_waves_of_amphibious_tractors_head_for_the_landing_beaches_on_Iwo_Jima%2C_19_February_1945_%2880-G-310951%29.jpg",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:Initial_waves_of_amphibious_tractors_head_for_the_landing_beaches_on_Iwo_Jima%2C_19_February_1945_%2880-G-310951%29.jpg#Licensing"
   },
+  "EVT-0249": {
+    "file": "photos/context-tokyo-damage.webp",
+    "caption": "1945년 3월 대공습 뒤 파괴된 도쿄.",
+    "credit": "Wikimedia Commons · 원본 저자 정보 참조",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Tokyo_after_the_1945_air_raid.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_after_the_1945_air_raid.jpg#Licensing"
+  },
   "EVT-0260": {
     "file": "photos/evt-0260.webp",
     "caption": "유럽 전쟁 종전 당일 런던의 전승 기념 인파.",
@@ -133,6 +304,15 @@
     "license": "퍼블릭 도메인",
     "source": "https://commons.wikimedia.org/wiki/File:Ve_Day_Celebrations_in_London%2C_8_May_1945_EA65884.jpg",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:Ve_Day_Celebrations_in_London%2C_8_May_1945_EA65884.jpg#Licensing"
+  },
+  "EVT-0262": {
+    "file": "photos/context-trinity.webp",
+    "caption": "1945년 트리니티 핵실험의 폭발 장면.",
+    "credit": "Federal government of the United States",
+    "kind": "기록 사진",
+    "license": "Attribution",
+    "source": "https://commons.wikimedia.org/wiki/File:Trinity_test_(LANL).jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Trinity_test_(LANL).jpg#Licensing"
   },
   "EVT-0263": {
     "file": "photos/evt-0263.webp",
@@ -152,6 +332,15 @@
     "source": "https://commons.wikimedia.org/wiki/File:Pyrocumulonimbus_cloud_over_Hiroshima%2C_near_local_noon._Aug_6_1945.jpg",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pyrocumulonimbus_cloud_over_Hiroshima%2C_near_local_noon._Aug_6_1945.jpg#Licensing"
   },
+  "EVT-0268": {
+    "file": "photos/context-nagasaki.webp",
+    "caption": "1945년 8월 9일 나가사키 상공의 원자폭탄 버섯구름.",
+    "credit": "Charles Levy",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Atomic_Cloud_Rises_Over_Nagasaki,_HD.4F.002_(11873155226).jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Atomic_Cloud_Rises_Over_Nagasaki,_HD.4F.002_(11873155226).jpg#Licensing"
+  },
   "EVT-0273": {
     "file": "photos/evt-0273.webp",
     "caption": "미주리함에서 항복문서에 서명하는 시게미쓰 마모루.",
@@ -170,6 +359,60 @@
     "source": "https://commons.wikimedia.org/wiki/File:Nuremberg_Trials_defendants_in_the_dock_1945.jpeg",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:Nuremberg_Trials_defendants_in_the_dock_1945.jpeg#Licensing"
   },
+  "EVT-0279": {
+    "file": "photos/context-kielce.webp",
+    "caption": "1946년 7월 폴란드 키엘체 포그롬 희생자들의 장례.",
+    "credit": "Wikimedia Commons · 원본 저자 정보 참조",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Burial_of_the_victims_of_the_Kielce_pogrom_in_July_1946.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Burial_of_the_victims_of_the_Kielce_pogrom_in_July_1946.jpg#Licensing"
+  },
+  "EVT-0281": {
+    "file": "photos/context-paris-1947.webp",
+    "caption": "1947년 2월 10일 파리에서 강화조약에 서명하는 루마니아 대표 두미트루 더머체아누.",
+    "credit": "Vistor Damaceanu",
+    "kind": "기록 사진",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gen_Dumitru_Damaceanu_Peace_Conference_1947.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "EVT-0283": {
+    "file": "photos/context-india-independence.webp",
+    "caption": "인도 독립 당시 자정 의회 회의에 참석한 라젠드라 프라사드, 자와할랄 네루, 마운트배튼.",
+    "credit": "Wikimedia Commons · 원본 저자 정보 참조",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Dr._Rajendra_Prasad,_Jawaharlal_Nehru_and_Lord_Mountbatten_at_Midnight_Session_of_Parliament.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Dr._Rajendra_Prasad,_Jawaharlal_Nehru_and_Lord_Mountbatten_at_Midnight_Session_of_Parliament.jpg#Licensing"
+  },
+  "EVT-0284": {
+    "file": "photos/context-korean-independence.webp",
+    "caption": "1919년 대한민국 임시정부 수립기의 독립운동 지도자들.",
+    "credit": "Wikimedia Commons · 원본 저자 정보 참조",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Provisional_Government_of_the_Republic_of_Korea.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Provisional_Government_of_the_Republic_of_Korea.jpg#Licensing"
+  },
+  "EVT-0298": {
+    "file": "photos/context-japan-226.webp",
+    "caption": "1936년 2월 26일 일본 2·26 사건 당시 도쿄.",
+    "credit": "影山光洋",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Outbreak_of_the_February_26th_Incident.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Outbreak_of_the_February_26th_Incident.jpg#Licensing"
+  },
+  "EVT-0393": {
+    "file": "photos/context-einstein.webp",
+    "caption": "1939년 8월 2일자 아인슈타인·실라르드의 루스벨트 앞 편지.",
+    "credit": "Albert Einstein",
+    "kind": "당대 문서",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Einstein-Roosevelt-letter.png",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Einstein-Roosevelt-letter.png#Licensing"
+  },
   "EVT-1293": {
     "file": "photos/evt-1293.webp",
     "caption": "몬테비데오 앞바다에서 자침 뒤 불타는 그라프 슈페.",
@@ -179,6 +422,15 @@
     "source": "https://commons.wikimedia.org/wiki/File:Admiral-graf-spee.jpg",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:Admiral-graf-spee.jpg#Licensing"
   },
+  "EVT-2785": {
+    "file": "photos/context-denmark.webp",
+    "caption": "1940년 덴마크 침공에 투입된 독일 기갑부대.",
+    "credit": "Wikimedia Commons · 원본 저자 정보 참조",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Weser%C3%BCbung-S%C3%BCd_Panzers.PNG",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Weser%C3%BCbung-S%C3%BCd_Panzers.PNG#Licensing"
+  },
   "EVT-3617": {
     "file": "photos/evt-3617.webp",
     "caption": "미드웨이 해전에서 피격된 항공모함 요크타운.",
@@ -187,5 +439,185 @@
     "license": "퍼블릭 도메인",
     "source": "https://commons.wikimedia.org/wiki/File:USS_Yorktown_%28CV-5%29_burning_and_listing_on_4_June_1942.jpg",
     "licenseUrl": "https://commons.wikimedia.org/wiki/File:USS_Yorktown_%28CV-5%29_burning_and_listing_on_4_June_1942.jpg#Licensing"
+  },
+  "EVT-3620": {
+    "file": "photos/context-lidice.webp",
+    "caption": "1942년 6월 10일 리디체 학살을 알리는 당대 포고문.",
+    "credit": "Ocke Rickertsen",
+    "kind": "당대 문서",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prag_11.6.42.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "EVT-3639": {
+    "file": "photos/context-guadalcanal.webp",
+    "caption": "1942년 무렵 과달카날 해안에 상륙하는 미 해병대.",
+    "credit": "Archives Branch, USMC History Division",
+    "kind": "기록 사진",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marines_Landing_on_Beach_at_Guadalcanal,_circa_1942.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "EVT-3648": {
+    "file": "photos/context-fujita.webp",
+    "caption": "1942년 오리건 공습을 보도한 일본 신문.",
+    "credit": "朝日新聞",
+    "kind": "당대 문서",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:%E7%B1%B3%E6%9C%AC%E5%9C%9F%E3%81%AB%E5%88%9D%E7%A9%BA%E8%A5%B2%E6%95%A2%E8%A1%8C.png",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:%E7%B1%B3%E6%9C%AC%E5%9C%9F%E3%81%AB%E5%88%9D%E7%A9%BA%E8%A5%B2%E6%95%A2%E8%A1%8C.png#Licensing"
+  },
+  "EVT-3759": {
+    "file": "photos/context-shimonoseki.webp",
+    "caption": "1895년 시모노세키 조약의 문서 원본.",
+    "credit": "World Imaging",
+    "kind": "당대 문서",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Japan_China_Peace_Treaty_17_April_1895.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "EVT-3762": {
+    "file": "photos/context-korea-treaty.webp",
+    "caption": "1910년 대한제국 병합 과정의 이완용 전권 위임장.",
+    "credit": "Sunjong of Korean Empire",
+    "kind": "당대 문서",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:General_power_of_attorney_to_Lee_Wan-Yong_signed_and_sealed_by_Sunjong.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:General_power_of_attorney_to_Lee_Wan-Yong_signed_and_sealed_by_Sunjong.jpg#Licensing"
+  },
+  "EVT-3767": {
+    "file": "photos/context-shanghai-1932.webp",
+    "caption": "1932년 제1차 상하이 사변 당시 자베이에서 싸우는 중국 제19로군.",
+    "credit": "Wikimedia Commons · 원본 저자 정보 참조",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Chinese_soldiers_of_the_19th_Army_fighting_in_Chabei_district.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Chinese_soldiers_of_the_19th_Army_fighting_in_Chabei_district.jpg#Licensing"
+  },
+  "EVT-3769": {
+    "file": "photos/context-tanggu.webp",
+    "caption": "1933년 탕구 정전 협정 서명식.",
+    "credit": "Wikimedia Commons · 원본 저자 정보 참조",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Tanggu_Truce.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tanggu_Truce.jpg#Licensing"
+  },
+  "EVT-3787": {
+    "file": "photos/context-olympics.webp",
+    "caption": "1936년 베를린 올림픽 개회식에서 성화를 든 프리츠 실겐.",
+    "credit": "Anonymous Unknown author",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Fritz_Schilgen_1936_Summer_Olympics.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fritz_Schilgen_1936_Summer_Olympics.jpg#Licensing"
+  },
+  "EVT-3808": {
+    "file": "photos/context-nkvd.webp",
+    "caption": "1937년 소련 내무인민위원부 명령 제00447호의 일부.",
+    "credit": "NKVD of USSR",
+    "kind": "당대 문서",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:NKVD_Order_No._00447.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:NKVD_Order_No._00447.jpg#Licensing"
+  },
+  "EVT-3846": {
+    "file": "photos/context-gandhi.webp",
+    "caption": "1942년 8월 8일 인도 국민회의에서 만난 네루와 간디.",
+    "credit": "Wikimedia Commons · 원본 저자 정보 참조",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Nehru_Gandhi_1942.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Nehru_Gandhi_1942.jpg#Licensing"
+  },
+  "EVT-3899": {
+    "file": "photos/context-buchenwald.webp",
+    "caption": "1945년 부헨발트 강제수용소의 생존자들.",
+    "credit": "US Army",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:P31_SURVIVORS_OF_BUCHENWALD.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:P31_SURVIVORS_OF_BUCHENWALD.jpg#Licensing"
+  },
+  "EVT-3905": {
+    "file": "photos/context-manna.webp",
+    "caption": "1945년 4월 29일 네덜란드에 투하할 식량을 랭커스터에 싣는 영국 공군 지상 요원들.",
+    "credit": "Penfold (Fg Off) : Royal Air Force official photographer",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Loading_Lancaster_at_RAF_Waterbeach_for_Operation_Manna_1945_IWM_CL_2490.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Loading_Lancaster_at_RAF_Waterbeach_for_Operation_Manna_1945_IWM_CL_2490.jpg#Licensing"
+  },
+  "EVT-3911": {
+    "file": "photos/context-un.webp",
+    "caption": "1945년 샌프란시스코 회의에서 유엔 헌장에 서명하는 이란 대표 모스타파 아들.",
+    "credit": "Wikimedia Commons · 원본 저자 정보 참조",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Mostafa_Adl,_UN.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mostafa_Adl,_UN.jpg#Licensing"
+  },
+  "EVT-3918": {
+    "file": "photos/context-indonesia.webp",
+    "caption": "1945년 8월 17일 인도네시아 독립을 선언하는 수카르노.",
+    "credit": "Frans Mendur (also Frans Mendoer) (1913 – 1971)",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Indonesia_declaration_of_independence_17_August_1945.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Indonesia_declaration_of_independence_17_August_1945.jpg#Licensing"
+  },
+  "EVT-3924": {
+    "file": "photos/context-korea-surrender.webp",
+    "caption": "1945년 9월 9일 서울 조선총독부의 일본군 항복식에서 내려오는 일본 국기.",
+    "credit": "Official US Navy photo 80-G-391464",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:80-G-391464.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:80-G-391464.jpg#Licensing"
+  },
+  "EVT-3934": {
+    "file": "photos/context-constitution-japan.webp",
+    "caption": "1946년 공포된 일본 헌법 원본.",
+    "credit": "Japanese government",
+    "kind": "당대 문서",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Nihon_Kenpo01.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Nihon_Kenpo01.jpg#Licensing"
+  },
+  "EVT-3939": {
+    "file": "photos/context-south-korea.webp",
+    "caption": "1948년 8월 15일 대한민국 정부 수립 기념식의 이승만과 더글러스 맥아더.",
+    "credit": "Wikimedia Commons · 원본 저자 정보 참조",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Syngman_Rhee_and_Douglas_MacArthur.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Syngman_Rhee_and_Douglas_MacArthur.jpg#Licensing"
+  },
+  "EVT-3947": {
+    "file": "photos/context-san-francisco.webp",
+    "caption": "1951년 9월 8일 샌프란시스코 대일평화조약에 서명하는 요시다 시게루.",
+    "credit": "Wikimedia Commons · 원본 저자 정보 참조",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Yoshida_signs_San_Francisco_Peace_Treaty.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Yoshida_signs_San_Francisco_Peace_Treaty.jpg#Licensing"
+  },
+  "EVT-3950": {
+    "file": "photos/context-korea-armistice.webp",
+    "caption": "1953년 7월 27일 판문점에서 정전협정에 서명하는 남일.",
+    "credit": "U.S. Department of Defense (F. Kazukaitis. U.S. Navy)",
+    "kind": "기록 사진",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Korean_War_armistice_agreement_1953.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Korean_War_armistice_agreement_1953.jpg#Licensing"
+  },
+  "EVT-3951": {
+    "file": "photos/context-austria.webp",
+    "caption": "1955년 오스트리아 국가조약의 서명부. 2005년 전시에서 촬영.",
+    "credit": "Karl Gruber",
+    "kind": "당대 문서",
+    "license": "퍼블릭 도메인",
+    "source": "https://commons.wikimedia.org/wiki/File:Staatsvertragsunterschriften.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Staatsvertragsunterschriften.jpg#Licensing"
   }
 }

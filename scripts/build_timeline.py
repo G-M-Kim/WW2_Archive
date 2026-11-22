@@ -3,8 +3,7 @@
 import json
 import os
 import re
-from collections import Counter, defaultdict
-from datetime import date, timedelta
+from datetime import date
 from pathlib import Path
 from urllib.parse import urlsplit
 
@@ -106,38 +105,48 @@ def read_events(root, available_sources):
     return dict(sorted(events.items(), key=lambda record: (record[1][0], record[1][7])))
 
 
+def validate_media(item, output):
+    file = Path(item["file"])
+    if file.parent != Path("photos") or not (output / file).is_file():
+        raise ValueError(f"Missing timeline media: {file}")
+    for field in ("source", "licenseUrl"):
+        url = urlsplit(item[field])
+        if url.scheme != "https" or not url.netloc:
+            raise ValueError(f"Missing media attribution URL for {file}: {field}")
+
+
+def load_media(root, output, events):
+    media = json.loads((root / "scripts" / "timeline_media.json").read_text(encoding="utf-8"))
+    context = json.loads((root / "scripts" / "timeline_context.json").read_text(encoding="utf-8"))
+    photos = {}
+    assignments = {}
+    for key, item in media.items():
+        if key not in events:
+            raise ValueError(f"Timeline photo refers to an unknown event: {key}")
+        validate_media(item, output)
+    for key, group in context.items():
+        validate_media(group["photo"], output)
+        photos[key] = group["photo"]
+        for event in group["events"]:
+            if event not in events or event in assignments or event in media:
+                raise ValueError(f"Duplicate or unknown timeline photo assignment: {event}")
+            assignments[event] = key
+    return media, photos, assignments
+
+
 def make_index(root, output):
     sources = load_sources(root)
     events = read_events(root, sources)
-    weeks = defaultdict(list)
     periods = {period: [] for period in PERIODS}
-    years = defaultdict(Counter)
-    for key, event in events.items():
-        when, _, _, _, evidence, *_ = event
+    for key, (when, *_) in events.items():
         periods[chronology_bucket(when)].append(key)
-        year = when[:4]
-        years[year][str(evidence)] += 1
-        if len(when) == 10:
-            day = date_key(when)
-            weeks[(day - timedelta(days=day.weekday())).isoformat()].append(key)
-    gallery = json.loads((root / "scripts" / "timeline_media.json").read_text(encoding="utf-8"))
-    media = {}
-    for key, item in gallery.items():
-        if key not in events:
-            print(f"Timeline media omitted because {key} is absent from the chronology.")
-            continue
-        file = Path(item["file"])
-        if file.parent != Path("photos") or not (output / file).is_file():
-            raise ValueError(f"Missing timeline media: {file}")
-        if any(urlsplit(item[field]).scheme != "https" for field in ("source", "licenseUrl")):
-            raise ValueError(f"Missing media attribution URL: {key}")
-        media[key] = item
+    media, context, assignments = load_media(root, output, events)
     revision = os.environ.get("GITHUB_SHA", "")
     if not re.fullmatch(r"[0-9a-f]{40}", revision):
         revision = "main"
     return {
-        "events": events, "weeks": weeks, "periods": periods, "years": years,
-        "sources": sources, "sourceFile": SOURCE_FILE, "media": media, "revision": revision,
+        "events": events, "periods": periods, "sources": sources, "sourceFile": SOURCE_FILE,
+        "media": media, "context": context, "eventContext": assignments, "revision": revision,
     }
 
 
@@ -145,7 +154,8 @@ def main():
     data = make_index(ROOT, OUT)
     target = OUT / "data.json"
     target.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
-    print(f"Staged timeline: {len(data['events'])} events, {len(data['weeks'])} occupied weeks, {len(data['media'])} media records.")
+    print(f"Staged timeline: {len(data['events'])} events, {len(data['media'])} event images, "
+          f"{len(data['eventContext'])} contextual photo assignments.")
     return data
 
 

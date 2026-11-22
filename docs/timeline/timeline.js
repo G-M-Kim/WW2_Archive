@@ -3,16 +3,18 @@
 const ui = Object.fromEntries(Array.from(document.querySelectorAll("[id]"), node => [node.id, node]));
 const COUNT = new Intl.NumberFormat("ko-KR");
 const LABELS = ["문헌대조", "링크등록", "미등록"];
-const DAYS = ["월", "화", "수", "목", "금", "토", "일"];
 const REPO = "https://github.com/G-M-Kim/WW2_Archive/blob/";
-const PAGE_SIZE = 16;
-const DAY = 86400000;
-const state = { period: "", day: "", activeDay: "", evidence: "", limit: PAGE_SIZE };
+const periods = new Map();
+const cards = new Map();
+const tabs = new Map();
 let data;
-let periods;
-let firstDay;
-let lastDay;
 let lookup;
+let firstMonth;
+let sourceCounts;
+let activePeriod;
+let focusableMonth;
+let visiblePeriods;
+let navigationFrame;
 
 function node(tag, text, className) {
   const item = document.createElement(tag);
@@ -31,339 +33,301 @@ function link(label, href, external = false) {
   return item;
 }
 
-function dateAt(value) {
-  return new Date(value + "T00:00:00Z");
-}
-
-function formatDate(value) {
-  return value.toISOString().slice(0, 10);
-}
-
-function shift(value, amount) {
-  return formatDate(new Date(dateAt(value).getTime() + amount * DAY));
-}
-
-function monday(day) {
-  return shift(day, -((dateAt(day).getUTCDay() + 6) % 7));
-}
-
-function formatShort(day) {
-  return Number(day.slice(5, 7)) + "." + Number(day.slice(8, 10));
-}
-
-function weekLabel(first) {
-  const last = shift(first, 6);
-  const from = first.slice(0, 4) + "년 " + Number(first.slice(5, 7)) + "월 " + Number(first.slice(8, 10)) + "일";
-  const endYear = first.slice(0, 4) === last.slice(0, 4) ? "" : last.slice(0, 4) + "년 ";
-  const to = endYear + Number(last.slice(5, 7)) + "월 " + Number(last.slice(8, 10)) + "일";
-  return from + " – " + to;
-}
-
-function stats(ids) {
-  const counts = [0, 0, 0];
-  for (const id of ids) counts[data.events[id][4]]++;
-  return counts;
-}
-
-function density(count) {
-  if (!count) return 0;
-  if (count < 4) return 1;
-  if (count < 12) return 2;
-  if (count < 38) return 3;
-  return 4;
-}
-
-function matched(ids) {
-  return (ids || []).filter(id => state.evidence === "" || data.events[id][4] === Number(state.evidence));
-}
-
-function button(parent, label, work) {
-  const item = node("button", label);
-  item.type = "button";
-  item.addEventListener("click", work);
-  parent.append(item);
-  return item;
-}
-
 function canonical(path, line) {
-  const fileUrl = REPO + data.revision + "/" + path.split("/").map(encodeURIComponent).join("/");
-  return line ? fileUrl + "#L" + line : fileUrl;
-}
-
-function monthRecord(page) {
-  return "../chronology/" + encodeURIComponent(page) + "/";
+  const url = REPO + data.revision + "/" + path.split("/").map(encodeURIComponent).join("/");
+  return line ? url + "#L" + line : url;
 }
 
 function periodLabel(period) {
-  if (period === "prologue") return "프롤로그 · 1936년 이전";
-  if (period === "epilogue") return "에필로그 · 1945년 이후";
-  return period.slice(0, 4) + "년 " + Number(period.slice(5)) + "월";
+  if (period === "prologue") return "프롤로그";
+  if (period === "epilogue") return "에필로그";
+  const [year, month] = period.split("-");
+  return year + "년 " + Number(month) + "월";
 }
 
-function updateView(period, day, eventId) {
-  state.period = period;
-  state.day = day;
-  state.activeDay = "";
-  state.limit = PAGE_SIZE;
-  state.selected = eventId;
-  const hash = eventId || day || period;
-  if (location.hash.slice(1) !== hash) history.replaceState(null, "", "#" + hash);
-  render();
+function formatDate(value) {
+  const [year, month, day] = value.split("-");
+  return [year + "년", month && Number(month) + "월", day && Number(day) + "일"].filter(Boolean).join(" ");
 }
 
-function selectPeriod(period, eventId) {
-  updateView(period, "", eventId);
-}
-
-function selectDay(day) {
-  if (day < firstDay) {
-    selectPeriod("prologue");
-    return;
-  }
-  if (day > lastDay) {
-    selectPeriod("epilogue");
-    return;
-  }
-  updateView(day.slice(0, 7), day);
-}
-
-function setFromHash() {
-  const anchor = location.hash.slice(1);
-  if (Object.hasOwn(data.events, anchor)) {
-    revealEvent(anchor);
-  } else if (Object.hasOwn(data.periods, anchor)) {
-    selectPeriod(anchor);
-  } else if (/^\d{4}-\d{2}-\d{2}$/.test(anchor) && Number.isFinite(dateAt(anchor).getTime())) {
-    selectDay(formatDate(dateAt(anchor)));
-  } else {
-    selectPeriod(periods[0]);
-  }
-}
-
-function weekEvents(first) {
-  return (data.weeks[first] || []).filter(id => {
-    const day = data.events[id][0];
-    return day >= firstDay && day <= lastDay;
-  });
-}
-
-function showYear(year, week) {
-  const start = monday(year + "-01-01");
-  const end = year + "-12-31";
-  ui["year-heading"].textContent = year + "년 주별 기록";
-  const summary = data.years[year] || {};
-  const count = Object.values(summary).reduce((a, b) => a + b, 0);
-  ui["year-stats"].textContent = "등록 " + COUNT.format(count) + "건 · 문헌대조 " + COUNT.format(summary[0] || 0) + "건";
-  const fragment = document.createDocumentFragment();
-  for (let first = start; first <= end; first = shift(first, 7)) {
-    const key = first;
-    const size = matched(weekEvents(key)).length;
-    const yearStart = year + "-01-01";
-    const day = key < yearStart ? yearStart : key;
-    const text = day.endsWith("-01") || day === yearStart || Number(day.slice(8)) <= 7 ? Number(day.slice(5, 7)) + "월" : "";
-    const tile = button(fragment, text, () => {
-      selectDay(day);
-      ui["year-grid"].querySelector('[aria-current="date"]')?.focus({preventScroll:true});
-    });
-    tile.dataset.density = density(size);
-    tile.setAttribute("aria-label", weekLabel(key) + ", " + COUNT.format(size) + "건");
-    tile.title = weekLabel(key) + " · " + COUNT.format(size) + "건";
-    if (key === week) tile.setAttribute("aria-current", "date");
-  }
-  ui["year-grid"].replaceChildren(fragment);
-}
-
-function eventRow(id, fullDate) {
-  const [when, title, category, stateText, evidence, sources, file, line, detail] = data.events[id];
-  const details = node("details", undefined, "event s" + evidence);
-  details.id = id;
-  const summary = node("summary");
-  const stamp = node("time", fullDate ? when : formatShort(when));
-  stamp.dateTime = when;
-  summary.append(stamp, node("strong", title), node("span", LABELS[evidence], "flag"));
-  const body = node("div", undefined, "event-data");
-  const meta = node("p", id + " · " + when + " · " + category + " · " + stateText, "id");
-  body.append(meta);
-  if (sources.length) {
-    const list = node("ul");
-    for (const source of sources) {
-      const [name, kind, location, urls, sourceLine] = data.sources[source];
-      const row = node("li");
-      row.append(link(source + " · " + name, urls[0] || canonical(data.sourceFile, sourceLine), true));
-      if (kind || location) row.append(node("p", [kind, location].filter(Boolean).join(" · ")));
-      list.append(row);
-    }
-    body.append(list);
-  } else {
-    body.append(node("p", "현재 원고에 연결된 출처가 없습니다."));
-  }
-  const links = node("p");
-  const page = file.split("/").at(-1).replace(/\.md$/, "");
-  const within = /^\d{4}-\d{2}$/.test(page);
-  links.append(
-    link(within ? "위키 월별 연표" : "위키 " + periodLabel(page), monthRecord(page)),
-    document.createTextNode(" · "),
-    link("GitHub 연표 원고에서 보기 ↗", canonical(file, line), true)
-  );
-  if (detail) {
-    const [detailFile, fragment] = detail;
-    links.append(document.createTextNode(" · "),
-      link("사건 상세·사료 해설 ↗", canonical(detailFile) + fragment, true));
-  }
-  body.append(links);
-  details.append(summary, body);
-  if (state.selected === id) details.open = true;
-  return details;
-}
-
-function drawEvidence(ids) {
-  const counts = stats(ids);
-  const bar = document.createDocumentFragment();
-  const legend = document.createDocumentFragment();
-  counts.forEach((count, i) => {
-    const stripe = node("span", undefined, "s" + i);
-    stripe.style.width = ids.length ? (100 * count / ids.length) + "%" : "0";
-    bar.append(stripe);
-    legend.append(node("li", LABELS[i] + " " + COUNT.format(count), "s" + i));
-  });
-  ui["evidence-bar"].replaceChildren(bar);
-  ui["evidence-list"].replaceChildren(legend);
-}
-
-function drawVisual(first, ids, daily) {
-  const figure = ui.visual;
-  figure.replaceChildren();
-  const representative = ids.find(id => Object.hasOwn(data.media, id));
-  figure.hidden = !first && !representative;
-  function drawChart() {
-    if (!first) {
-      figure.hidden = true;
-      return;
-    }
-    figure.className = "graphic";
-    const title = node("h3", "요일별 수록량");
-    const bars = node("div", undefined, "bars");
-    const peak = Math.max(1, ...daily);
-    daily.forEach((count, i) => {
-      const cell = node("div");
-      const vertical = node("span");
-      cell.setAttribute("aria-label", formatShort(shift(first, i)) + " " + COUNT.format(count) + "건");
-      if (count) {
-        const height = (83 * count / peak) + "%";
-        vertical.style.setProperty("--bar", height);
-        vertical.append(node("i"), node("strong", COUNT.format(count)));
-      }
-      cell.append(vertical, node("b", DAYS[i]));
-      bars.append(cell);
-    });
-    figure.replaceChildren(title, bars, node("figcaption", "연결된 기록 사진이 없는 주에는 요일별 수록량을 표시합니다."));
-  }
-  if (!representative) {
-    drawChart();
-    return;
-  }
-  const photo = data.media[representative];
-  figure.className = "media";
+function eventPhoto(id) {
+  const direct = data.media[id];
+  const photo = direct || data.context?.[data.eventContext?.[id]];
+  if (!photo) return null;
+  const figure = node("figure", undefined, "event-photo");
+  const frame = node("div", undefined, "photo-frame");
   const image = node("img");
   image.alt = photo.caption;
+  image.loading = "lazy";
   image.decoding = "async";
   image.addEventListener("error", () => {
-    if (figure.contains(image)) drawChart();
+    frame.replaceChildren(link("소장처에서 이미지 보기 ↗", photo.source, true));
   }, {once: true});
+
   const caption = node("figcaption");
   caption.append(
-    node("div", photo.kind, "figure-label"),
-    node("strong", photo.caption),
+    node("span", direct ? photo.kind : photo.kind === "기록 사진" ? "배경 사진" : "배경 자료", "photo-kind"),
+    node("span", photo.caption, "photo-caption"),
     node("span", photo.credit + " · "),
     link(photo.license, photo.licenseUrl, true),
     document.createTextNode(" · "),
     link("소장 정보 ↗", photo.source, true),
   );
-  figure.append(image, caption);
+  frame.append(image);
+  figure.append(frame, caption);
   image.src = photo.file;
+  return figure;
 }
 
-function drawEvents(first, ids, daily) {
-  const days = document.createDocumentFragment();
-  const drawDay = (label, count, key) => {
-    const selector = button(days, label, () => {
-      state.activeDay = key;
-      state.selected = undefined;
-      state.limit = PAGE_SIZE;
-      drawEvents(first, ids, daily);
-      ui.days.querySelector('[aria-pressed="true"]')?.focus({preventScroll:true});
+function eventSources(sources, headingTag) {
+  const section = node("div", undefined, "sources");
+  section.append(node(headingTag, "사건 출처"));
+  if (!sources.length) {
+    section.append(node("p", "현재 원고에 연결된 출처가 없습니다."));
+    return section;
+  }
+  const list = node("ul");
+  for (const key of sources) {
+    const [name, kind, locator, urls, line] = data.sources[key];
+    const item = node("li");
+    item.append(link(name || key, urls[0] || canonical(data.sourceFile, line), true));
+    const note = [key, kind, locator].filter(Boolean).join(" · ");
+    item.append(node("span", note, "source-note"));
+    list.append(item);
+  }
+  section.append(list);
+  return section;
+}
+
+function eventCard(id, isMonth) {
+  const [when, title, category, recordState, evidence, sources, file, line, detail] = data.events[id];
+  const article = node("article", undefined, "event s" + evidence);
+  article.id = id;
+  article.tabIndex = -1;
+
+  const header = node("header", undefined, "event-header");
+  const date = node("time", formatDate(when));
+  date.dateTime = when;
+  const heading = node(isMonth ? "h4" : "h3", title, "event-title");
+  const meta = node("p", undefined, "event-meta");
+  meta.append(link(id, "#" + id), node("span", category), node("span", recordState));
+  meta.append(node("span", LABELS[evidence], "badge"));
+  header.append(date, heading, meta);
+
+  const photo = eventPhoto(id);
+  const body = node("div", undefined, photo ? "event-body has-photo" : "event-body");
+  const records = node("div", undefined, "event-records");
+  if (!photo) records.append(node("p", "공개 이용 조건을 확인한 관련 사진이 아직 없습니다.", "missing-photo"));
+  records.append(eventSources(sources, isMonth ? "h5" : "h4"));
+  const links = node("p", undefined, "record-links");
+  const period = file.split("/").at(-1).replace(/\.md$/, "");
+  links.append(
+    link(isMonth ? "위키 월별 연표" : "위키 " + periodLabel(period), "../chronology/" + encodeURIComponent(period) + "/"),
+    link("연표 원고 ↗", canonical(file, line), true),
+  );
+  if (detail) {
+    links.append(link("사건 상세·사료 해설 ↗", canonical(detail[0]) + detail[1], true));
+  }
+  records.append(links);
+  if (photo) body.append(photo);
+  body.append(records);
+  article.append(header, body);
+  cards.set(id, article);
+  return article;
+}
+
+function makeSection(key, label, subtitle, headingTag = "h2") {
+  const section = node("section");
+  section.id = key;
+  const heading = node("header", undefined, "section-heading");
+  const text = node(headingTag, label);
+  text.id = key + "-title";
+  section.setAttribute("aria-labelledby", text.id);
+  section.tabIndex = -1;
+  heading.append(text);
+  if (subtitle) heading.append(node("p", subtitle));
+  section.append(heading);
+  return section;
+}
+
+function drawTimeline() {
+  const fragment = document.createDocumentFragment();
+  const mainPeriods = makeSection("main-period", "본편", "1936–1945");
+  mainPeriods.className = "chapter";
+  let yearSection;
+  let year;
+  for (const [key, ids] of Object.entries(data.periods)) {
+    const isMonth = /^\d{4}-\d{2}$/.test(key);
+    if (isMonth && year !== key.slice(0, 4)) {
+      year = key.slice(0, 4);
+      yearSection = node("div", undefined, "year");
+      mainPeriods.append(yearSection);
+    }
+    const subtitle = key === "prologue" ? "1936년 이전" : key === "epilogue" ? "1945년 이후" : "";
+    const section = makeSection(key, periodLabel(key), subtitle, isMonth ? "h3" : "h2");
+    section.className = isMonth ? "month" : "chapter";
+    const list = node("div", undefined, "events");
+    for (const id of ids) list.append(eventCard(id, isMonth));
+    const empty = node("p", "이 기간에 조건에 맞는 사건이 없습니다.", "empty-period");
+    empty.hidden = ids.length > 0;
+    section.append(list, empty);
+    periods.set(key, {section, ids, empty});
+    if (isMonth) {
+      yearSection.append(section);
+    } else {
+      fragment.append(section);
+      if (key === "prologue") fragment.append(mainPeriods);
+    }
+  }
+  ui.timeline.append(fragment);
+}
+
+function drawEvidence() {
+  ui["evidence-list"].replaceChildren(...sourceCounts.map((count, i) => {
+    const item = node("li", undefined, "s" + i);
+    item.append(node("span", LABELS[i]), node("strong", COUNT.format(count)));
+    return item;
+  }));
+
+}
+
+function applyFilter() {
+  const selected = ui.status.value;
+  for (const {section, ids, empty} of periods.values()) {
+    let shown = 0;
+    for (const id of ids) {
+      const visible = selected === "" || Number(selected) === data.events[id][4];
+      cards.get(id).hidden = !visible;
+      if (visible) shown++;
+    }
+    section.hidden = selected !== "" && shown === 0;
+    empty.hidden = shown > 0;
+  }
+  const visible = selected === "" ? lookup.length : sourceCounts[Number(selected)];
+  ui.feedback.hidden = visible > 0;
+  ui.feedback.textContent = visible ? "" : "선택한 출처 상태의 사건이 없습니다.";
+  document.getElementById("main-period").hidden = !visible;
+  visiblePeriods = [...periods.values()].filter(({section}) => !section.hidden).map(({section}) => section);
+  scheduleTabUpdate();
+}
+
+function keepMonthVisible(tab) {
+  if (!ui["month-tabs"].contains(tab)) return;
+  const strip = ui["month-tabs"];
+  const band = strip.getBoundingClientRect();
+  const item = tab.getBoundingClientRect();
+  if (item.left < band.left) strip.scrollLeft -= band.left - item.left;
+  else if (item.right > band.right) strip.scrollLeft += item.right - band.right;
+
+  if (focusableMonth) focusableMonth.tabIndex = -1;
+  focusableMonth = tab;
+  tab.tabIndex = 0;
+}
+
+function showActiveTab(period) {
+  if (period === activePeriod) return;
+  tabs.get(activePeriod)?.removeAttribute("aria-current");
+  const tab = tabs.get(period);
+  tab?.setAttribute("aria-current", "location");
+  if (tab) keepMonthVisible(tab);
+  ui.period.value = period || "";
+  activePeriod = period;
+}
+
+function scheduleTabUpdate() {
+  if (navigationFrame) return;
+  navigationFrame = requestAnimationFrame(() => {
+    navigationFrame = undefined;
+    const boundary = ui.navigation.getBoundingClientRect().height + 55;
+    let left = 0;
+    let right = visiblePeriods.length;
+    while (left < right) {
+      const mid = (left + right) >> 1;
+      if (visiblePeriods[mid].getBoundingClientRect().top <= boundary) left = mid + 1;
+      else right = mid;
+    }
+    showActiveTab(visiblePeriods[Math.max(left - 1, 0)]?.id);
+  });
+}
+
+function setupTabs() {
+  const strip = ui["month-tabs"];
+  for (const key of periods.keys()) {
+    let tab = ui["period-tabs"].querySelector('a[href="#' + key + '"]');
+    if (!tab) {
+      tab = link(periodLabel(key), "#" + key);
+      tab.className = "period-tab";
+      tab.tabIndex = -1;
+      strip.append(tab);
+    }
+    tabs.set(key, tab);
+    tab.addEventListener("click", event => {
+      if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+      event.preventDefault();
+      goTo(key, key);
     });
-    selector.append(node("strong", COUNT.format(count)));
-    selector.setAttribute("aria-pressed", String(state.activeDay === key));
-    selector.setAttribute("aria-label", (key ? key + " " : "주 전체 ") + COUNT.format(count) + "건");
+  }
+  keepMonthVisible(strip.firstElementChild);
+  const updateArrows = () => {
+    ui["earlier-tabs"].disabled = strip.scrollLeft < 2;
+    ui["later-tabs"].disabled = strip.scrollLeft + strip.clientWidth >= strip.scrollWidth - 2;
   };
-  drawDay("전체", ids.length, "");
-  DAYS.forEach((day, i) => drawDay(day, daily[i], shift(first, i)));
-  ui.days.replaceChildren(days);
-  const filtered = state.activeDay ? ids.filter(id => data.events[id][0] === state.activeDay) : ids;
-  drawRecordList(filtered, false);
+  ui["earlier-tabs"].addEventListener("click", () => strip.scrollLeft -= strip.clientWidth);
+  ui["later-tabs"].addEventListener("click", () => strip.scrollLeft += strip.clientWidth);
+  strip.addEventListener("scroll", updateArrows, {passive: true});
+  strip.addEventListener("keydown", event => {
+    const tab = event.target;
+    const targets = {
+      ArrowLeft: tab.previousElementSibling, ArrowRight: tab.nextElementSibling,
+      Home: strip.firstElementChild, End: strip.lastElementChild,
+    };
+    const next = targets[event.key];
+    if (!next) return;
+    event.preventDefault();
+    keepMonthVisible(next);
+    next.focus();
+  });
+  new ResizeObserver(() => {
+    document.documentElement.style.setProperty("--nav-height", ui.navigation.offsetHeight + "px");
+    updateArrows();
+    scheduleTabUpdate();
+  }).observe(ui.navigation);
+  window.addEventListener("scroll", scheduleTabUpdate, {passive: true});
 }
 
-function drawRecordList(ids, fullDate) {
-  ui.events.classList.toggle("full-dates", fullDate);
-  const count = ids.length;
-  ui["event-summary"].textContent = count
-    ? (state.activeDay ? state.activeDay + " · " : "") + "사건 " + COUNT.format(count) + "건"
-    : "선택한 기간과 조건에 등록된 사건이 없습니다.";
-  const shown = ids.slice(0, state.limit);
-  if (state.selected && ids.includes(state.selected) && !shown.includes(state.selected)) {
-    shown.push(state.selected);
-  }
-  ui.events.replaceChildren(...shown.map(id => eventRow(id, fullDate)));
-  ui.more.hidden = state.limit >= count;
-  ui.more.textContent = "사건 " + Math.min(PAGE_SIZE, count - state.limit) + "개 더 보기";
-}
-
-function render() {
-  const period = state.period;
-  const index = periods.indexOf(period);
-  const monthly = index > 0 && index < periods.length - 1;
-  const first = state.day ? monday(state.day) : null;
-  const raw = first ? weekEvents(first) : data.periods[period];
-  const ids = matched(raw);
-  const suffix = ids.length !== raw.length ? " · 필터 적용 전 " + COUNT.format(raw.length) + "건" : "";
-
-  ui.period.value = period;
-  ui.date.value = state.day;
-  ui["month-record"].href = monthRecord(period);
-  ui["month-record"].textContent = periodLabel(period) + " 원고 보기";
-  ui["period-prev"].disabled = index === 0;
-  ui["period-next"].disabled = index === periods.length - 1;
-  ui["year-panel"].hidden = !monthly;
-  if (monthly) showYear(period.slice(0, 4), first);
-  ui["view-caption"].textContent = first ? periodLabel(period) + " · 주간 기록" : "기간별 기록";
-  ui["week-heading"].textContent = first ? weekLabel(first) : periodLabel(period);
-  ui["week-stats"].textContent = "등록 사건 " + COUNT.format(ids.length) + "건" + suffix;
-  ui["week-nav"].hidden = !first;
-  ui.days.hidden = !first;
-
-  const daily = Array(7).fill(0);
-  if (first) {
-    for (const id of ids) daily[(dateAt(data.events[id][0]).getUTCDay() + 6) % 7]++;
-  }
-  drawVisual(first, ids, daily);
-  drawEvidence(ids);
-  if (first) drawEvents(first, ids, daily);
-  else drawRecordList(ids, true);
-}
-
-function revealEvent(id) {
-  const event = data.events[id];
-  if (state.evidence !== "" && state.evidence !== String(event[4])) {
-    state.evidence = "";
+function goTo(target, hash, replace = false) {
+  const element = document.getElementById(target);
+  if (!element) return;
+  const filteredOut = element.hidden || (target === "main-period" && !element.querySelector(".month:not([hidden])"));
+  if (filteredOut) {
     ui.status.value = "";
+    applyFilter();
   }
-  const page = event[6].split("/").at(-1).replace(/\.md$/, "");
-  selectPeriod(page, id);
-  const row = document.getElementById(id);
-  if (!row) return;
-  row.querySelector("summary").focus({preventScroll:true});
-  row.scrollIntoView({block:"nearest"});
+  if (hash && location.hash !== "#" + hash) {
+    if (replace) history.replaceState(null, "", "#" + hash);
+    else history.pushState(null, "", "#" + hash);
+  }
+  element.focus({preventScroll: true});
+  element.scrollIntoView({block: "start"});
+  scheduleTabUpdate();
+}
+
+function goToDate(when, replace = false) {
+  const period = periods.has(when.slice(0, 7)) ? when.slice(0, 7) :
+    when < firstMonth ? "prologue" : "epilogue";
+  const events = periods.get(period).ids;
+  const target = events.find(id => data.events[id][0] >= when) || events.at(-1) || period;
+  goTo(target, when, replace);
+}
+
+function openHash() {
+  const anchor = location.hash.slice(1);
+  if (cards.has(anchor) || periods.has(anchor) || anchor === "main-period") {
+    goTo(anchor);
+  } else if (/^\d{4}-\d{2}-\d{2}$/.test(anchor) && Number.isFinite(Date.parse(anchor))) {
+    ui.date.value = anchor;
+    goToDate(anchor, true);
+  }
 }
 
 function runSearch() {
@@ -372,101 +336,82 @@ function runSearch() {
     ui.results.hidden = true;
     return;
   }
-  const matches = lookup.filter(row => terms.every(term => row.text.includes(term)));
+  const matches = lookup.filter(({text}) => terms.every(term => text.includes(term)));
   const list = node("ul");
-  for (const {id} of matches.slice(0, 22)) {
-    const item = node("li");
-    const result = button(item, undefined, () => {
-      ui.results.hidden = true;
-      revealEvent(id);
-    });
+  for (const {id} of matches.slice(0, 20)) {
     const [when, title] = data.events[id];
-    const time = node("time", when);
-    time.dateTime = when;
-    result.append(time, document.createTextNode(title));
+    const item = node("li");
+    const anchor = link(title, "#" + id);
+    const stamp = node("time", when);
+    stamp.dateTime = when;
+    anchor.prepend(stamp);
+    anchor.addEventListener("click", event => {
+      if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+      event.preventDefault();
+      ui.results.hidden = true;
+      goTo(id, id);
+    });
+    item.append(anchor);
     list.append(item);
   }
-  ui.results.replaceChildren(node("p", "전체 연표 검색 · " + COUNT.format(matches.length) + "건" + (matches.length > 22 ? " · 앞 22건 표시" : "")), list);
+  const summary = COUNT.format(matches.length) + "건" + (matches.length > 20 ? " · 처음 20건 표시" : "");
+  const status = node("p", summary);
+  status.setAttribute("role", "status");
+  ui.results.replaceChildren(status, list);
   ui.results.hidden = false;
 }
 
 function setup(index) {
   data = index;
-  const entries = Object.keys(data.events);
-  lookup = entries.map(id => ({id, text:[id, ...data.events[id].slice(0, 4)].join(" ").toLowerCase()}));
-  periods = Object.keys(data.periods);
-  firstDay = periods[1] + "-01";
-  lastDay = periods.at(-2) + "-31";
-  ui.date.min = firstDay;
-  ui.date.max = lastDay;
-  let group;
-  for (const period of periods) {
-    const option = new Option(periodLabel(period) + " · " + COUNT.format(data.periods[period].length) + "건", period);
-    if (period === "prologue" || period === "epilogue") {
-      ui.period.append(option);
-      continue;
-    }
-    const label = period.slice(0, 4) + "년";
-    if (!group || group.label !== label) {
-      group = node("optgroup");
-      group.label = label;
-      ui.period.append(group);
-    }
-    group.append(option);
+  const ids = Object.values(data.periods).flat();
+  firstMonth = Object.keys(data.periods)[1];
+  lookup = ids.map(id => ({id, text: [id, ...data.events[id].slice(0, 4)].join(" ").toLowerCase()}));
+  ui["date-range"].textContent = data.events[ids[0]][0].slice(0, 4) + "–" + data.events[ids.at(-1)][0].slice(0, 4);
+  sourceCounts = [0, 0, 0];
+  for (const id of ids) sourceCounts[data.events[id][4]]++;
+  drawTimeline();
+  drawEvidence();
+  setupTabs();
+  for (const key of periods.keys()) {
+    ui.period.add(new Option(periodLabel(key), key));
   }
-  ui["total-events"].textContent = COUNT.format(entries.length);
-  ui["total-weeks"].textContent = COUNT.format(Object.keys(data.weeks).length);
-  ui["total-checked"].textContent = COUNT.format(stats(entries)[0]);
-  ui.period.addEventListener("change", () => selectPeriod(ui.period.value));
-  ui["period-prev"].addEventListener("click", () => selectPeriod(periods[periods.indexOf(state.period) - 1]));
-  ui["period-next"].addEventListener("click", () => selectPeriod(periods[periods.indexOf(state.period) + 1]));
-  ui["month-view"].addEventListener("click", () => selectPeriod(state.period));
+  applyFilter();
+
+  ui.period.addEventListener("change", () => {
+    if (ui.period.value) goTo(ui.period.value, ui.period.value);
+  });
   ui.date.addEventListener("change", () => {
-    if (ui.date.value && ui.date.validity.valid) selectDay(ui.date.value);
+    if (ui.date.value && ui.date.validity.valid) goToDate(ui.date.value);
   });
-  ui.status.addEventListener("change", () => {
-    state.evidence = ui.status.value;
-    state.limit = PAGE_SIZE;
-    render();
-  });
+  ui.status.addEventListener("change", applyFilter);
   ui.query.addEventListener("input", runSearch);
-  ui.query.addEventListener("focus", runSearch);
-  ui.query.addEventListener("keydown", event => {
-    if (event.key === "Enter") ui.results.querySelector("button")?.click();
+  document.addEventListener("click", event => {
+    if (!event.target.closest(".controls")) ui.results.hidden = true;
   });
   document.addEventListener("keydown", event => {
     if (event.key === "Escape" && !ui.results.hidden) {
-      ui.query.focus();
       ui.results.hidden = true;
+      ui.query.focus();
     }
   });
-  document.addEventListener("pointerdown", event => {
-    if (!ui.results.contains(event.target) && event.target !== ui.query) ui.results.hidden = true;
-  });
-  ui.prev.addEventListener("click", () => {
-    const previous = shift(monday(state.day), -7);
-    const startingWeek = monday(firstDay);
-    selectDay(previous === startingWeek ? firstDay : previous);
-  });
-  ui.next.addEventListener("click", () => selectDay(shift(monday(state.day), 7)));
-  ui.more.addEventListener("click", () => {
-    state.limit += PAGE_SIZE;
-    render();
-  });
-  window.addEventListener("hashchange", setFromHash);
-  ui.loading.hidden = true;
+  window.addEventListener("hashchange", openHash);
   ui.interactive.hidden = false;
-  setFromHash();
+  ui.loading.hidden = true;
+  document.documentElement.style.setProperty("--nav-height", ui.navigation.offsetHeight + "px");
+  openHash();
 }
 
+ui.loading.textContent = "연표를 불러오는 중입니다.";
 fetch("data.json")
   .then(response => {
     if (!response.ok) throw new Error("Timeline data: " + response.status);
     return response.json();
   })
   .then(setup)
-  .catch(() => {
-    ui.interactive.hidden = true;
-    ui.loading.hidden = false;
-    ui.loading.replaceChildren(document.createTextNode("연표 데이터를 불러올 수 없습니다. "), link("월별 연표 열기", "../chronology/"));
+  .catch(error => {
+    console.error(error);
+    ui.loading.replaceChildren(
+      document.createTextNode("연표를 불러오지 못했습니다. "),
+      link("월별 연표 열기", "../chronology/"),
+    );
   });
