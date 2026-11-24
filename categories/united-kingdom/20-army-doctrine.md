@@ -40,4 +40,4 @@
 
 ## 다른 국가의 육군 교리
 
-[독일](../germany/army-doctrine.md) · [프랑스](../france/army-doctrine.md) · [미국](../united-states/army-doctrine.md) · [일본](../japan/army-doctrine.md) · [이탈리아](../italy/army-doctrine.md) · [소련](../soviet-union/army-doctrine.md)
+[독일](../germany/20-army-doctrine.md) · [프랑스](../france/20-army-doctrine.md) · [미국](../united-states/20-army-doctrine.md) · [일본](../japan/20-army-doctrine.md) · [이탈리아](../italy/20-army-doctrine.md) · [소련](../soviet-union/20-army-doctrine.md)
