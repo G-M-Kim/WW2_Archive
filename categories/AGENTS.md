@@ -1,6 +1,6 @@
 # 카테고리 심화 조사 안내
 
-- 전체 조사 범위는 7개국 × 22개 = **154개**. PLAN.md, PROTOCOL.md와 QUEUE.json, RESEARCH_STATE_V3.json을 따른다.
+- 전체 조사 범위는 7개국 × 22개 = **154개**. PLAN.md, PROTOCOL.md와 QUEUE.json, RESEARCH_STATE.json을 따른다.
 - 과거 133회 첫 방문과 예약 설정은 완료 근거나 현재 커서가 아니다.
 - 매번 현재 대상 원고 및 관련 출처·과제만 확인하고 자료 검색과 검증에 집중한다.
 - 조사 결과는 국가별 **기존 NN-*.md 원본에 직접 작성**한다. review/감사 파일만 추가하여 조사 완료로 기록하지 않는다.

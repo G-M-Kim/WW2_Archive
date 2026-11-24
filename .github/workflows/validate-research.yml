@@ -1,8 +1,6 @@
 name: Validate WW2 research
 
 on:
-  push:
-    branches: [main, draft/chronology-index-v1]
   pull_request:
     branches: [main]
   workflow_dispatch:

@@ -5,8 +5,8 @@
 7개국(독일·프랑스·영국·미국·일본·이탈리아·소련) × 22개 정식 원고를 대상으로 한다. 20번 육군 교리, 21번 해군 교리, 22번 공군 교리도 01~19번과 동등한 연구 대상이다.
 
 - `categories/QUEUE.json`: 154개 job_id·원본 경로. `step` 값은 과거 133개 등록 순서를 유지하므로 심화 조사의 실제 이동 순서는 **국가→01~22번** 기준이다.
-- `categories/RESEARCH_STATE_V3.json`: 심화 조사 현재 위치. 과거 첫 방문 133건은 실제 완성이 아니다.
-- `categories/archive/first-pass-STATE.json`, `RUN_LOG.md`, `runs/`: 첫 순회 이력이며 새 조사 때 전부 읽지 않는다.
+- `categories/RESEARCH_STATE.json`: 심화 조사 현재 위치. 과거 첫 방문 133건은 실제 완성이 아니다.
+- `categories/archive/first-pass/STATE.json`, `archive/first-pass/RUN_LOG.md`, `categories/runs/`: 첫 순회 이력이며 새 조사 때 전부 읽지 않는다.
 - **원본 원고** `categories/{country}/NN-*.md`: 실제 역사자료를 보완할 유일한 카테고리 본문. review 상태 문서만 추가하지 않는다.
 
 ## 시대·귀속 범위

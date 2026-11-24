@@ -29,7 +29,7 @@ def require(condition, message):
 
 def main():
     queue = read(ROOT / "QUEUE.json")
-    state = read(ROOT / "RESEARCH_STATE_V3.json")
+    state = read(ROOT / "RESEARCH_STATE.json")
     schema = read(ROOT / "CATALOG_SCHEMA.json")
     require(len(queue) == 154, "Expected 154 category jobs")
     expected = {(f"CAT-{c}-{n:02d}", folder, n) for c, folder in COUNTRIES
@@ -87,7 +87,7 @@ def main():
         missing = set(REFS.findall((REPO / path).read_text(encoding="utf-8"))) - references.keys()
         require(not missing, f"Unregistered citation in {path}: {sorted(missing)}")
 
-    history = read(ROOT / "archive" / "first-pass-STATE.json")
+    history = read(ROOT / "archive" / "first-pass" / "STATE.json")
     require(history["total_steps"] == history["CAT_VISITED_COUNT"] == 133,
             "Historical first-pass state was changed")
     print(f"PASS: 154 files (7 x 22), {len(references)} registered references; "

@@ -23,10 +23,10 @@
 
 | ID | 시작일 | 항목 | 분류 | 상태 | 출처 상태 | 출처 |
 |---|---|---|---|---|---|---|
-| EVT-3747 | 1905-01-01 | [경부철도 경성–초량 계통 영업 개시](../research/chronology-review-v2/1905-01-01-to-03-events.md#evt-3747) | 교통·전쟁 물류 | 발생 | 문헌대조 | [SRC-2254](../research/chronology-sources-v1.md) 45권 5월 25일 3번째 기사 · [SRC-2255](../research/chronology-sources-v1.md) 해설 · [SRC-2256](../research/chronology-sources-v1.md) 메이지 38년 1월 1일 |
-| EVT-3748 | 1905-01-01 | [일본의 랴오둥반도 해상 봉쇄구역 변경](../research/chronology-review-v2/1905-01-01-to-03-events.md#evt-3748) | 해상 봉쇄·외교 | 발표 | 문헌대조 | [SRC-2257](../research/chronology-sources-v1.md) FRUS 1905 문서 539, p.581 · [SRC-2258](../research/chronology-sources-v1.md) 1월 4일 관보 특별호 고시 1호 |
-| EVT-3749 | 1905-01-02 | [러일전쟁 뤼순 요새 항복 규약 성립](../research/chronology-review-v2/1905-01-01-to-03-events.md#evt-3749) | 육전·항복 | 발생 | 문헌대조 | [SRC-2250](../research/chronology-sources-v1.md) 관련 자료 9–11 · [SRC-2251](../research/chronology-sources-v1.md) pp.39–42 · [SRC-2253](../research/chronology-sources-v1.md) 1월 2일 · [SRC-2261](../research/chronology-sources-v1.md) 1월 3일 도쿄발 기사 |
-| EVT-3750 | 1905-01-02 | [뤼순의 러시아 구축함이 옌타이·칭다오로 피항](../research/chronology-review-v2/1905-01-01-to-03-events.md#evt-3750) | 해전·중립 항구 | 발생 | 문헌대조 | [SRC-2251](../research/chronology-sources-v1.md) p.156 · [SRC-2259](../research/chronology-sources-v1.md) p.10, 1월 2일 일기 · [SRC-2260](../research/chronology-sources-v1.md) 제8장 pp.319–320 부근 |
+| EVT-3747 | 1905-01-01 | [경부철도 경성–초량 계통 영업 개시](../research/coverage/chronology/1905-01-01_03/events.md#evt-3747) | 교통·전쟁 물류 | 발생 | 문헌대조 | [SRC-2254](../research/chronology-sources-v1.md) 45권 5월 25일 3번째 기사 · [SRC-2255](../research/chronology-sources-v1.md) 해설 · [SRC-2256](../research/chronology-sources-v1.md) 메이지 38년 1월 1일 |
+| EVT-3748 | 1905-01-01 | [일본의 랴오둥반도 해상 봉쇄구역 변경](../research/coverage/chronology/1905-01-01_03/events.md#evt-3748) | 해상 봉쇄·외교 | 발표 | 문헌대조 | [SRC-2257](../research/chronology-sources-v1.md) FRUS 1905 문서 539, p.581 · [SRC-2258](../research/chronology-sources-v1.md) 1월 4일 관보 특별호 고시 1호 |
+| EVT-3749 | 1905-01-02 | [러일전쟁 뤼순 요새 항복 규약 성립](../research/coverage/chronology/1905-01-01_03/events.md#evt-3749) | 육전·항복 | 발생 | 문헌대조 | [SRC-2250](../research/chronology-sources-v1.md) 관련 자료 9–11 · [SRC-2251](../research/chronology-sources-v1.md) pp.39–42 · [SRC-2253](../research/chronology-sources-v1.md) 1월 2일 · [SRC-2261](../research/chronology-sources-v1.md) 1월 3일 도쿄발 기사 |
+| EVT-3750 | 1905-01-02 | [뤼순의 러시아 구축함이 옌타이·칭다오로 피항](../research/coverage/chronology/1905-01-01_03/events.md#evt-3750) | 해전·중립 항구 | 발생 | 문헌대조 | [SRC-2251](../research/chronology-sources-v1.md) p.156 · [SRC-2259](../research/chronology-sources-v1.md) p.10, 1월 2일 일기 · [SRC-2260](../research/chronology-sources-v1.md) 제8장 pp.319–320 부근 |
 | EVT-0001 | 1905-09-05 | [포츠머스 조약: 한국에 대한 일본의 우월권 인정과 랴오둥 조차권 이전](../research/source-audits/cross-period/source-audit-major-events-2026-11-22.md#evt-0001) | 조약·영토 | 발생 | 문헌대조 | [SRC-2496](../research/chronology-sources-v1.md) · [SRC-001](../research/chronology-sources-v1.md) · [SRC-036](../research/chronology-sources-v1.md) |
 | EVT-3761 | 1905-11-17 | [을사늑약으로 대한제국의 외교권 박탈](../research/source-audits/cross-period/source-audit-major-events-2026-11-22.md#evt-3761) | 식민지·외교 | 발생 | 문헌대조 | [SRC-2472](../research/chronology-sources-v1.md) · [SRC-2477](../research/chronology-sources-v1.md) |
 
@@ -186,7 +186,7 @@
 
 ## 관련 상세 원고와 사료 감사
 
-- [1905년 1월 1~3일 · 러일전쟁의 뤼순과 대한제국](../research/chronology-review-v2/1905-01-01-to-03-events.md)
-- [1905년 1월 1~3일 자료 범위](../research/chronology-review-v2/1905-01-01-to-03-scope.md)
+- [1905년 1월 1~3일 · 러일전쟁의 뤼순과 대한제국](../research/coverage/chronology/1905-01-01_03/events.md)
+- [1905년 1월 1~3일 자료 범위](../research/coverage/chronology/1905-01-01_03/scope.md)
 - [전사(前史) 사건 감사 기록 — 1차 (2026-10-26)](../research/source-audits/cross-period/source-audit-1905-1938-batch1.md)
 - [1905–1938년 사건 기본 사실 감사, 2차](../research/source-audits/cross-period/source-audit-1905-1938-batch2.md)
