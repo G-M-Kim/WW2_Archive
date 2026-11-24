@@ -39,4 +39,4 @@ Z 계획의 목표와 실제 배치, 수상함 습격과 잠수함 작전의 성
 
 ## 다른 국가의 해군 교리
 
-[프랑스](../france/naval-doctrine.md) · [영국](../united-kingdom/naval-doctrine.md) · [미국](../united-states/naval-doctrine.md) · [일본](../japan/naval-doctrine.md) · [이탈리아](../italy/naval-doctrine.md) · [소련](../soviet-union/naval-doctrine.md)
+[프랑스](../france/21-naval-doctrine.md) · [영국](../united-kingdom/21-naval-doctrine.md) · [미국](../united-states/21-naval-doctrine.md) · [일본](../japan/21-naval-doctrine.md) · [이탈리아](../italy/21-naval-doctrine.md) · [소련](../soviet-union/21-naval-doctrine.md)
