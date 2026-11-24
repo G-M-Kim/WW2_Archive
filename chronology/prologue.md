@@ -187,6 +187,6 @@
 ## 관련 상세 원고와 사료 감사
 
 - [1905년 1월 1~3일 · 러일전쟁의 뤼순과 대한제국](../research/coverage/chronology/1905-01-01_03/events.md)
-- [1905년 1월 1~3일 자료 범위](../research/chronology-review-v2/1905-01-01-to-03-scope.md)
+- [1905년 1월 1~3일 자료 범위](../research/coverage/chronology/1905-01-01_03/scope.md)
 - [전사(前史) 사건 감사 기록 — 1차 (2026-10-26)](../research/source-audits/cross-period/source-audit-1905-1938-batch1.md)
 - [1905–1938년 사건 기본 사실 감사, 2차](../research/source-audits/cross-period/source-audit-1905-1938-batch2.md)
