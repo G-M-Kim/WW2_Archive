@@ -1,6 +1,6 @@
 # 번호별 카테고리 자료
 
-01~19는 기존 조사 번호이며 20~22는 보충 교리입니다. 같은 번호로 7개국 원고를 비교할 수 있습니다.
+01~22번 모두 7개국의 정식 조사 번호입니다(총 154개). 과거 첫 방문 133건은 역사적 완성을 의미하지 않습니다.
 
 | 번호 | 카테고리 | 독일 | 프랑스 | 영국 | 미국 | 일본 | 이탈리아 | 소련 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -23,8 +23,8 @@
 | 17 | 종전 시점 주요 공업단지와 규모(1~20) | [독일](germany/17-industrial-centers-end.md) | [프랑스](france/17-industrial-centers-end.md) | [영국](united-kingdom/17-industrial-centers-end.md) | [미국](united-states/17-industrial-centers-end.md) | [일본](japan/17-industrial-centers-end.md) | [이탈리아](italy/17-industrial-centers-end.md) | [소련](soviet-union/17-industrial-centers-end.md) |
 | 18 | 개전 시점 주요 공군기지와 규모(1~10) | [독일](germany/18-air-bases-start.md) | [프랑스](france/18-air-bases-start.md) | [영국](united-kingdom/18-air-bases-start.md) | [미국](united-states/18-air-bases-start.md) | [일본](japan/18-air-bases-start.md) | [이탈리아](italy/18-air-bases-start.md) | [소련](soviet-union/18-air-bases-start.md) |
 | 19 | 개전 시점 주요 해군기지와 규모(1~10) | [독일](germany/19-naval-bases-start.md) | [프랑스](france/19-naval-bases-start.md) | [영국](united-kingdom/19-naval-bases-start.md) | [미국](united-states/19-naval-bases-start.md) | [일본](japan/19-naval-bases-start.md) | [이탈리아](italy/19-naval-bases-start.md) | [소련](soviet-union/19-naval-bases-start.md) |
-| 20 | 육군 교리 | [독일](germany/army-doctrine.md) | [프랑스](france/army-doctrine.md) | [영국](united-kingdom/army-doctrine.md) | [미국](united-states/army-doctrine.md) | [일본](japan/army-doctrine.md) | [이탈리아](italy/army-doctrine.md) | [소련](soviet-union/army-doctrine.md) |
-| 21 | 해군 교리 | [독일](germany/naval-doctrine.md) | [프랑스](france/naval-doctrine.md) | [영국](united-kingdom/naval-doctrine.md) | [미국](united-states/naval-doctrine.md) | [일본](japan/naval-doctrine.md) | [이탈리아](italy/naval-doctrine.md) | [소련](soviet-union/naval-doctrine.md) |
-| 22 | 공군 교리 | [독일](germany/air-doctrine.md) | [프랑스](france/air-doctrine.md) | [영국](united-kingdom/air-doctrine.md) | [미국](united-states/air-doctrine.md) | [일본](japan/air-doctrine.md) | [이탈리아](italy/air-doctrine.md) | [소련](soviet-union/air-doctrine.md) |
+| 20 | 육군 교리 | [독일](germany/20-army-doctrine.md) | [프랑스](france/20-army-doctrine.md) | [영국](united-kingdom/20-army-doctrine.md) | [미국](united-states/20-army-doctrine.md) | [일본](japan/20-army-doctrine.md) | [이탈리아](italy/20-army-doctrine.md) | [소련](soviet-union/20-army-doctrine.md) |
+| 21 | 해군 교리 | [독일](germany/21-naval-doctrine.md) | [프랑스](france/21-naval-doctrine.md) | [영국](united-kingdom/21-naval-doctrine.md) | [미국](united-states/21-naval-doctrine.md) | [일본](japan/21-naval-doctrine.md) | [이탈리아](italy/21-naval-doctrine.md) | [소련](soviet-union/21-naval-doctrine.md) |
+| 22 | 공군 교리 | [독일](germany/22-air-doctrine.md) | [프랑스](france/22-air-doctrine.md) | [영국](united-kingdom/22-air-doctrine.md) | [미국](united-states/22-air-doctrine.md) | [일본](japan/22-air-doctrine.md) | [이탈리아](italy/22-air-doctrine.md) | [소련](soviet-union/22-air-doctrine.md) |
 
 [국가별 문서와 조사 장부](README.md) · [시설 규모 평가 기준](INFRASTRUCTURE_RATING.md) · [독일 Panzer I 검증 현황](germany/01-tanks.md#panzer-i-verification) · [Panzer I 차대 파생형](germany/02-other-armored-vehicles.md#panzer-i-derivatives)

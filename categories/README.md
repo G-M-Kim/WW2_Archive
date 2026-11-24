@@ -1,11 +1,10 @@
-# WW2 7개국 카테고리 조사
+# WW2 7개국 × 22개 카테고리 (154개)
 
-동일 저장소의 시간순 조사와 분리된 위키 원고 작성 작업이다. 국가별 19항목(총 133개)을 순서대로 조사한다. 최신 실제 연구 진도는 STATE.json과 실행 원장을 기준으로 확인한다.
+20번 육군 교리·21번 해군 교리·22번 공군 교리를 01~19번과 동등한 정식 조사 대상으로 포함했다. 과거 01~19번의 133회 방문 기록은 완료가 아니다.
 
-- [01~22번 카테고리별 7개국 자료](INDEX.md)
-- [전체 계획](PLAN.md) · [운영 절차](PROTOCOL.md) · [상태](STATE.json) · [133개 작업](QUEUE.json) · [실행 원장](RUN_LOG.md) · [예약 정보](AUTOMATION.json)
+- [154개 번호별 비교표](INDEX.md) · [조사 범위](PLAN.md) · [조사 프로토콜](PROTOCOL.md)
+- [154개 원고 목록](QUEUE.json) · [새 조사 진행 상태](RESEARCH_STATE_V3.json)
+- [기존 첫 방문 상태(이력)](archive/first-pass-STATE.json) · [실행 기록](RUN_LOG.md) · [증빙](runs/)
 - [독일](germany/README.md) · [프랑스](france/README.md) · [영국](united-kingdom/README.md) · [미국](united-states/README.md) · [일본](japan/README.md) · [이탈리아](italy/README.md) · [소련](soviet-union/README.md)
 
-첫 조사 자동화의 전용 브랜치: `draft/categories-seven-powers-v1`. 모든 수정은 `categories/` 안에서만 수행한다. 내용은 한국어 자체 요약과 주장별 근거를 갖춘 Markdown 초안으로 저장한다. main 병합과 위키/Pages 출판은 별도 지시 전 수행하지 않는다.
-
-시설 규모 16~19번: [시점·평가 기준](INFRASTRUCTURE_RATING.md). 예약 실패와 복구 내역: [진단 기록](maintenance/2026-11-08-schedule-diagnostic.json).
+실제 새로운 사실과 수치는 반드시 기존 원본 `NN-*.md`에 직접 반영한다. 미해결 과제는 국가별 QUESTIONS.json에 남긴다.
