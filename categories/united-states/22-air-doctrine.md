@@ -4,7 +4,7 @@
 
 ## 교리와 전전 구상
 
-미 육군항공군(USAAF)은 **전쟁 수행 기반의 주간 정밀폭격**을 추구하는 동시에 전구에서 육군을 지원했다. 1941년 계획 AWPD-1은 독일의 전쟁 산업을 선별 타격하고 필요할 경우 지상 침공을 지원하는 구상이었다. 1943년 《FM 100-20》은 전구 항공력을 한 지휘 아래 집중하고, 전술항공에 필요한 제공권 확보를 우선하며 전장 차단과 직접 지원을 조정하도록 했다. 유럽의 연합 전략폭격과 태평양의 도시 소이탄 공세는 표적과 폭격 방식이 달랐다. 해군 항공의 운용은 [해군 교리 편](naval-doctrine.md)과 구분한다. [CAT-US-SRC-0011, 제1절 기본 원칙 및 전술항공의 우선순위 단락](https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2006/December%202006/1206keeperfull.pdf) · [CAT-US-SRC-0012, 문서 본문과 표적·전력 계획](https://history.state.gov/historicaldocuments/frus1943/d92) · [CAT-US-SRC-0015, 도쿄 공습 사례, 저고도 야간 소이탄 운용](https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS20457/pdf/GOVPUB-D301-PURL-LPS20457.pdf) · [CAT-US-SRC-0016, 제2장, Planned Air Offensive Against Germany (AWPD-1)](https://www.ibiblio.org/hyperwar/AAF/Hansell/Hansell-2.html)
+미 육군항공군(USAAF)은 **전쟁 수행 기반의 주간 정밀폭격**을 추구하는 동시에 전구에서 육군을 지원했다. 1941년 계획 AWPD-1은 독일의 전쟁 산업을 선별 타격하고 필요할 경우 지상 침공을 지원하는 구상이었다. 1943년 《FM 100-20》은 전구 항공력을 한 지휘 아래 집중하고, 전술항공에 필요한 제공권 확보를 우선하며 전장 차단과 직접 지원을 조정하도록 했다. 유럽의 연합 전략폭격과 태평양의 도시 소이탄 공세는 표적과 폭격 방식이 달랐다. 해군 항공의 운용은 [해군 교리 편](21-naval-doctrine.md)과 구분한다. [CAT-US-SRC-0011, 제1절 기본 원칙 및 전술항공의 우선순위 단락](https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2006/December%202006/1206keeperfull.pdf) · [CAT-US-SRC-0012, 문서 본문과 표적·전력 계획](https://history.state.gov/historicaldocuments/frus1943/d92) · [CAT-US-SRC-0015, 도쿄 공습 사례, 저고도 야간 소이탄 운용](https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS20457/pdf/GOVPUB-D301-PURL-LPS20457.pdf) · [CAT-US-SRC-0016, 제2장, Planned Air Offensive Against Germany (AWPD-1)](https://www.ibiblio.org/hyperwar/AAF/Hansell/Hansell-2.html)
 
 | 비교 축 | 실제 운용 |
 |---|---|
@@ -40,4 +40,4 @@
 
 ## 다른 국가의 공군 교리
 
-[독일](../germany/air-doctrine.md) · [프랑스](../france/air-doctrine.md) · [영국](../united-kingdom/air-doctrine.md) · [일본](../japan/air-doctrine.md) · [이탈리아](../italy/air-doctrine.md) · [소련](../soviet-union/air-doctrine.md)
+[독일](../germany/22-air-doctrine.md) · [프랑스](../france/air-doctrine.md) · [영국](../united-kingdom/air-doctrine.md) · [일본](../japan/air-doctrine.md) · [이탈리아](../italy/air-doctrine.md) · [소련](../soviet-union/air-doctrine.md)

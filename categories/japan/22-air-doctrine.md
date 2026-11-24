@@ -4,7 +4,7 @@
 
 ## 교리와 전전 구상
 
-일본 제국군의 항공 전력은 **육군 항공과 해군 항공**으로 나뉘었다. 육군 항공은 적 항공 전력을 우선 약화시키고, 확보한 작전 공간에서 지상군에 정찰과 공격 지원을 제공했다. 해군 항공은 항모와 육상기지 양쪽에서 출격해 적 비행장과 함대를 공격하고 함대·상륙부대를 엄호했다. 해군 항공의 함대결전 맥락은 [해군 교리 편](naval-doctrine.md)과 연결한다. [CAT-JP-SRC-0012, 제IV장 §III Strategic Doctrine, 육군·해군 항공의 임무](https://www.lonesentry.com/manuals/handbook-japanese-military/strategic-doctrine.html) · [CAT-JP-SRC-0013, The Japanese Air-Ground System in WW II](https://www.govinfo.gov/content/pkg/GOVPUB-D110-PURL-LPS71516/pdf/GOVPUB-D110-PURL-LPS71516.pdf)
+일본 제국군의 항공 전력은 **육군 항공과 해군 항공**으로 나뉘었다. 육군 항공은 적 항공 전력을 우선 약화시키고, 확보한 작전 공간에서 지상군에 정찰과 공격 지원을 제공했다. 해군 항공은 항모와 육상기지 양쪽에서 출격해 적 비행장과 함대를 공격하고 함대·상륙부대를 엄호했다. 해군 항공의 함대결전 맥락은 [해군 교리 편](21-naval-doctrine.md)과 연결한다. [CAT-JP-SRC-0012, 제IV장 §III Strategic Doctrine, 육군·해군 항공의 임무](https://www.lonesentry.com/manuals/handbook-japanese-military/strategic-doctrine.html) · [CAT-JP-SRC-0013, The Japanese Air-Ground System in WW II](https://www.govinfo.gov/content/pkg/GOVPUB-D110-PURL-LPS71516/pdf/GOVPUB-D110-PURL-LPS71516.pdf)
 
 | 비교 축 | 실제 운용 |
 |---|---|
@@ -40,4 +40,4 @@
 
 ## 다른 국가의 공군 교리
 
-[독일](../germany/air-doctrine.md) · [프랑스](../france/air-doctrine.md) · [영국](../united-kingdom/air-doctrine.md) · [미국](../united-states/air-doctrine.md) · [이탈리아](../italy/air-doctrine.md) · [소련](../soviet-union/air-doctrine.md)
+[독일](../germany/22-air-doctrine.md) · [프랑스](../france/air-doctrine.md) · [영국](../united-kingdom/air-doctrine.md) · [미국](../united-states/air-doctrine.md) · [이탈리아](../italy/air-doctrine.md) · [소련](../soviet-union/air-doctrine.md)
