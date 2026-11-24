@@ -10,7 +10,7 @@
 ## 복구 결과
 
 - 다음 신규 날짜를 **1941-06-11**, 기본 배치를 **1941-06-11~17**로 변경. **6/4~10일의 세계 전역 조사 완료 주장은 하지 않으며** 남은 중국·태평양·민간인·전선사 등은 BACKFILL_QUEUE/RQ에 유지.
-- 신설 [연속조사 규칙](RESEARCH_PROTOCOL.md), [진도 원장](PROGRESS_LEDGER.md), 이전 상태 [보존본](WORK_STATE_HISTORY_2026-11-07.md).
+- 신설 [연속조사 규칙](../../RESEARCH_PROTOCOL.md), [진도 원장](../../PROGRESS_LEDGER.md), 이전 상태 [보존본](../../WORK_STATE_HISTORY_2026-11-07.md).
 - `validate_index.py`에 원장-커서 일치, 진도 후퇴/정체, 날짜순·ID·미러 확인을 통합. 구조검사와 역사적 사실 검증은 별개.
 - **새 역사 사료조사 증분 0 EVT/0 SRC/0 RQ**. 누적 유지 **3551 EVT/1976 SRC/1183 RQ**.
 - 사용자 승인 전 Draft PR 미병합, main/docs/Pages 미변경.
