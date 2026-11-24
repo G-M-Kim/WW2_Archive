@@ -4,4 +4,4 @@
 
 - `STATE.json`: 당시 첫 순회 상태
 - `RUN_LOG.md`: 133회 실행 요약
-- `runs/{DE,FR,GB,US,JP,IT,SU}/`: 국가별 개별 실행 JSON 원본
+- 개별 실행 JSON 133건: [`categories/runs/`](../../runs/)에 보존

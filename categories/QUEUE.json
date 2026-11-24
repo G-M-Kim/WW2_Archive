@@ -10,7 +10,7 @@
     "article_path": "categories/germany/01-tanks.md",
     "planned_at": "2026-11-08T17:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-01.json"
+    "run_record": "categories/runs/CAT-DE-01.json"
   },
   {
     "step": 2,
@@ -23,7 +23,7 @@
     "article_path": "categories/germany/02-other-armored-vehicles.md",
     "planned_at": "2026-11-08T23:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-02.json"
+    "run_record": "categories/runs/CAT-DE-02.json"
   },
   {
     "step": 3,
@@ -36,7 +36,7 @@
     "article_path": "categories/germany/03-naval-vessels.md",
     "planned_at": "2026-11-09T01:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-03.json"
+    "run_record": "categories/runs/CAT-DE-03.json"
   },
   {
     "step": 4,
@@ -49,7 +49,7 @@
     "article_path": "categories/germany/04-aircraft.md",
     "planned_at": "2026-11-09T03:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-04.json",
+    "run_record": "categories/runs/CAT-DE-04.json",
     "completed_at": "2026-11-09T06:58:04+09:00"
   },
   {
@@ -63,7 +63,7 @@
     "article_path": "categories/germany/05-infantry-equipment.md",
     "planned_at": "2026-11-09T05:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-05.json",
+    "run_record": "categories/runs/CAT-DE-05.json",
     "completed_at": "2026-11-09T09:02:34+09:00"
   },
   {
@@ -77,7 +77,7 @@
     "article_path": "categories/germany/06-essential-technology.md",
     "planned_at": "2026-11-09T07:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-06.json",
+    "run_record": "categories/runs/CAT-DE-06.json",
     "completed_at": "2026-11-09T10:58:44+09:00"
   },
   {
@@ -91,7 +91,7 @@
     "article_path": "categories/germany/07-combat-personnel.md",
     "planned_at": "2026-11-09T09:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-07.json",
+    "run_record": "categories/runs/CAT-DE-07.json",
     "completed_at": "2026-11-09T12:54:28+09:00"
   },
   {
@@ -105,7 +105,7 @@
     "article_path": "categories/germany/08-political-personnel.md",
     "planned_at": "2026-11-09T11:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-08.json",
+    "run_record": "categories/runs/CAT-DE-08.json",
     "completed_at": "2026-11-09T15:00:34+09:00"
   },
   {
@@ -119,7 +119,7 @@
     "article_path": "categories/germany/09-scientific-personnel.md",
     "planned_at": "2026-11-09T13:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-09.json",
+    "run_record": "categories/runs/CAT-DE-09.json",
     "completed_at": "2026-11-09T17:08:00+09:00"
   },
   {
@@ -133,7 +133,7 @@
     "article_path": "categories/germany/10-speech-videos.md",
     "planned_at": "2026-11-09T15:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-10.json",
+    "run_record": "categories/runs/CAT-DE-10.json",
     "completed_at": "2026-11-09T19:05:39+09:00"
   },
   {
@@ -147,7 +147,7 @@
     "article_path": "categories/germany/11-military-industry.md",
     "planned_at": "2026-11-09T17:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-11.json",
+    "run_record": "categories/runs/CAT-DE-11.json",
     "completed_at": "2026-11-09T20:56:17+09:00"
   },
   {
@@ -161,7 +161,7 @@
     "article_path": "categories/germany/12-population.md",
     "planned_at": "2026-11-09T19:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-12.json",
+    "run_record": "categories/runs/CAT-DE-12.json",
     "completed_at": "2026-11-09T23:14:47+09:00"
   },
   {
@@ -175,7 +175,7 @@
     "article_path": "categories/germany/13-historical-place-names.md",
     "planned_at": "2026-11-09T21:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-13.json",
+    "run_record": "categories/runs/CAT-DE-13.json",
     "completed_at": "2026-11-10T00:59:11+09:00"
   },
   {
@@ -189,7 +189,7 @@
     "article_path": "categories/germany/14-territory.md",
     "planned_at": "2026-11-09T23:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-14.json",
+    "run_record": "categories/runs/CAT-DE-14.json",
     "completed_at": "2026-11-10T02:59:54+09:00"
   },
   {
@@ -203,7 +203,7 @@
     "article_path": "categories/germany/15-resources.md",
     "planned_at": "2026-11-10T01:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-15.json",
+    "run_record": "categories/runs/CAT-DE-15.json",
     "completed_at": "2026-11-10T04:58:29+09:00"
   },
   {
@@ -215,7 +215,7 @@
     "category": "개전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/germany/16-industrial-centers-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-16.json",
+    "run_record": "categories/runs/CAT-DE-16.json",
     "step": 16,
     "planned_at": "2026-11-10T03:30:00+09:00",
     "completed_at": "2026-11-10T07:04:24+09:00"
@@ -229,7 +229,7 @@
     "category": "종전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/germany/17-industrial-centers-end.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-17.json",
+    "run_record": "categories/runs/CAT-DE-17.json",
     "step": 17,
     "planned_at": "2026-11-10T05:30:00+09:00",
     "completed_at": "2026-11-10T08:57:51+09:00"
@@ -243,7 +243,7 @@
     "category": "개전 시점 주요 공군기지와 규모(1~10)",
     "article_path": "categories/germany/18-air-bases-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-18.json",
+    "run_record": "categories/runs/CAT-DE-18.json",
     "step": 18,
     "planned_at": "2026-11-10T07:30:00+09:00",
     "completed_at": "2026-11-10T10:58:54+09:00"
@@ -257,7 +257,7 @@
     "category": "개전 시점 주요 해군기지와 규모(1~10)",
     "article_path": "categories/germany/19-naval-bases-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/DE/CAT-DE-19.json",
+    "run_record": "categories/runs/CAT-DE-19.json",
     "step": 19,
     "planned_at": "2026-11-10T09:30:00+09:00",
     "completed_at": "2026-11-10T12:57:38+09:00"
@@ -273,7 +273,7 @@
     "article_path": "categories/france/01-tanks.md",
     "planned_at": "2026-11-10T11:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-01.json",
+    "run_record": "categories/runs/CAT-FR-01.json",
     "completed_at": "2026-11-10T15:00:47+09:00"
   },
   {
@@ -287,7 +287,7 @@
     "article_path": "categories/france/02-other-armored-vehicles.md",
     "planned_at": "2026-11-10T13:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-02.json",
+    "run_record": "categories/runs/CAT-FR-02.json",
     "completed_at": "2026-11-10T16:55:57+09:00"
   },
   {
@@ -301,7 +301,7 @@
     "article_path": "categories/france/03-naval-vessels.md",
     "planned_at": "2026-11-10T15:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-03.json",
+    "run_record": "categories/runs/CAT-FR-03.json",
     "completed_at": "2026-11-10T19:00:44+09:00"
   },
   {
@@ -315,7 +315,7 @@
     "article_path": "categories/france/04-aircraft.md",
     "planned_at": "2026-11-10T17:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-04.json",
+    "run_record": "categories/runs/CAT-FR-04.json",
     "completed_at": "2026-11-10T20:58:41+09:00"
   },
   {
@@ -329,7 +329,7 @@
     "article_path": "categories/france/05-infantry-equipment.md",
     "planned_at": "2026-11-10T19:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-05.json",
+    "run_record": "categories/runs/CAT-FR-05.json",
     "completed_at": "2026-11-10T23:01:44+09:00"
   },
   {
@@ -343,7 +343,7 @@
     "article_path": "categories/france/06-essential-technology.md",
     "planned_at": "2026-11-10T21:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-06.json",
+    "run_record": "categories/runs/CAT-FR-06.json",
     "completed_at": "2026-11-11T00:54:51+09:00"
   },
   {
@@ -357,7 +357,7 @@
     "article_path": "categories/france/07-combat-personnel.md",
     "planned_at": "2026-11-10T23:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-07.json",
+    "run_record": "categories/runs/CAT-FR-07.json",
     "completed_at": "2026-11-11T03:00:18+09:00"
   },
   {
@@ -371,7 +371,7 @@
     "article_path": "categories/france/08-political-personnel.md",
     "planned_at": "2026-11-11T01:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-08.json",
+    "run_record": "categories/runs/CAT-FR-08.json",
     "completed_at": "2026-11-11T04:59:36+09:00"
   },
   {
@@ -385,7 +385,7 @@
     "article_path": "categories/france/09-scientific-personnel.md",
     "planned_at": "2026-11-11T03:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-09.json",
+    "run_record": "categories/runs/CAT-FR-09.json",
     "completed_at": "2026-11-11T06:57:35+09:00"
   },
   {
@@ -399,7 +399,7 @@
     "article_path": "categories/france/10-speech-videos.md",
     "planned_at": "2026-11-11T05:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-10.json",
+    "run_record": "categories/runs/CAT-FR-10.json",
     "completed_at": "2026-11-11T08:52:31+09:00"
   },
   {
@@ -413,7 +413,7 @@
     "article_path": "categories/france/11-military-industry.md",
     "planned_at": "2026-11-11T07:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-11.json",
+    "run_record": "categories/runs/CAT-FR-11.json",
     "completed_at": "2026-11-11T11:02:01+09:00"
   },
   {
@@ -427,7 +427,7 @@
     "article_path": "categories/france/12-population.md",
     "planned_at": "2026-11-11T09:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-12.json",
+    "run_record": "categories/runs/CAT-FR-12.json",
     "completed_at": "2026-11-11T12:58:10+09:00"
   },
   {
@@ -441,7 +441,7 @@
     "article_path": "categories/france/13-historical-place-names.md",
     "planned_at": "2026-11-11T11:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-13.json",
+    "run_record": "categories/runs/CAT-FR-13.json",
     "completed_at": "2026-11-11T15:03:24+09:00"
   },
   {
@@ -455,7 +455,7 @@
     "article_path": "categories/france/14-territory.md",
     "planned_at": "2026-11-11T13:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-14.json",
+    "run_record": "categories/runs/CAT-FR-14.json",
     "completed_at": "2026-11-11T17:00:01+09:00"
   },
   {
@@ -469,7 +469,7 @@
     "article_path": "categories/france/15-resources.md",
     "planned_at": "2026-11-11T15:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-15.json",
+    "run_record": "categories/runs/CAT-FR-15.json",
     "completed_at": "2026-11-11T18:57:38+09:00"
   },
   {
@@ -481,7 +481,7 @@
     "category": "개전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/france/16-industrial-centers-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-16.json",
+    "run_record": "categories/runs/CAT-FR-16.json",
     "step": 35,
     "planned_at": "2026-11-11T17:30:00+09:00",
     "completed_at": "2026-11-11T20:58:18+09:00"
@@ -495,7 +495,7 @@
     "category": "종전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/france/17-industrial-centers-end.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-17.json",
+    "run_record": "categories/runs/CAT-FR-17.json",
     "step": 36,
     "planned_at": "2026-11-11T19:30:00+09:00",
     "completed_at": "2026-11-11T23:00:22+09:00"
@@ -509,7 +509,7 @@
     "category": "개전 시점 주요 공군기지와 규모(1~10)",
     "article_path": "categories/france/18-air-bases-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-18.json",
+    "run_record": "categories/runs/CAT-FR-18.json",
     "step": 37,
     "planned_at": "2026-11-11T21:30:00+09:00",
     "completed_at": "2026-11-12T01:06:23+09:00"
@@ -523,7 +523,7 @@
     "category": "개전 시점 주요 해군기지와 규모(1~10)",
     "article_path": "categories/france/19-naval-bases-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/FR/CAT-FR-19.json",
+    "run_record": "categories/runs/CAT-FR-19.json",
     "step": 38,
     "planned_at": "2026-11-11T23:30:00+09:00",
     "completed_at": "2026-11-12T02:55:17+09:00"
@@ -539,7 +539,7 @@
     "article_path": "categories/united-kingdom/01-tanks.md",
     "planned_at": "2026-11-12T01:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-01.json",
+    "run_record": "categories/runs/CAT-GB-01.json",
     "completed_at": "2026-11-12T05:01:21+09:00"
   },
   {
@@ -553,7 +553,7 @@
     "article_path": "categories/united-kingdom/02-other-armored-vehicles.md",
     "planned_at": "2026-11-12T03:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-02.json",
+    "run_record": "categories/runs/CAT-GB-02.json",
     "completed_at": "2026-11-12T06:57:17+09:00"
   },
   {
@@ -567,7 +567,7 @@
     "article_path": "categories/united-kingdom/03-naval-vessels.md",
     "planned_at": "2026-11-12T05:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-03.json",
+    "run_record": "categories/runs/CAT-GB-03.json",
     "completed_at": "2026-11-12T10:56:25+09:00"
   },
   {
@@ -581,7 +581,7 @@
     "article_path": "categories/united-kingdom/04-aircraft.md",
     "planned_at": "2026-11-12T07:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-04.json",
+    "run_record": "categories/runs/CAT-GB-04.json",
     "completed_at": "2026-11-12T12:59:16+09:00"
   },
   {
@@ -595,7 +595,7 @@
     "article_path": "categories/united-kingdom/05-infantry-equipment.md",
     "planned_at": "2026-11-12T09:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-05.json",
+    "run_record": "categories/runs/CAT-GB-05.json",
     "completed_at": "2026-11-12T14:56:29+09:00"
   },
   {
@@ -609,7 +609,7 @@
     "article_path": "categories/united-kingdom/06-essential-technology.md",
     "planned_at": "2026-11-12T11:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-06.json",
+    "run_record": "categories/runs/CAT-GB-06.json",
     "completed_at": "2026-11-12T17:04:21+09:00"
   },
   {
@@ -623,7 +623,7 @@
     "article_path": "categories/united-kingdom/07-combat-personnel.md",
     "planned_at": "2026-11-12T13:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-07.json",
+    "run_record": "categories/runs/CAT-GB-07.json",
     "completed_at": "2026-11-12T18:55:40+09:00"
   },
   {
@@ -637,7 +637,7 @@
     "article_path": "categories/united-kingdom/08-political-personnel.md",
     "planned_at": "2026-11-12T15:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-08.json",
+    "run_record": "categories/runs/CAT-GB-08.json",
     "completed_at": "2026-11-12T20:54:57+09:00"
   },
   {
@@ -651,7 +651,7 @@
     "article_path": "categories/united-kingdom/09-scientific-personnel.md",
     "planned_at": "2026-11-12T17:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-09.json",
+    "run_record": "categories/runs/CAT-GB-09.json",
     "completed_at": "2026-11-12T22:54:21+09:00"
   },
   {
@@ -665,7 +665,7 @@
     "article_path": "categories/united-kingdom/10-speech-videos.md",
     "planned_at": "2026-11-12T19:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-10.json",
+    "run_record": "categories/runs/CAT-GB-10.json",
     "completed_at": "2026-11-13T00:56:54+09:00"
   },
   {
@@ -679,7 +679,7 @@
     "article_path": "categories/united-kingdom/11-military-industry.md",
     "planned_at": "2026-11-12T21:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-11.json",
+    "run_record": "categories/runs/CAT-GB-11.json",
     "completed_at": "2026-11-13T02:58:29+09:00"
   },
   {
@@ -693,7 +693,7 @@
     "article_path": "categories/united-kingdom/12-population.md",
     "planned_at": "2026-11-12T23:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-12.json",
+    "run_record": "categories/runs/CAT-GB-12.json",
     "completed_at": "2026-11-13T05:01:54+09:00"
   },
   {
@@ -707,7 +707,7 @@
     "article_path": "categories/united-kingdom/13-historical-place-names.md",
     "planned_at": "2026-11-13T01:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-13.json",
+    "run_record": "categories/runs/CAT-GB-13.json",
     "completed_at": "2026-11-13T05:07:44+09:00"
   },
   {
@@ -721,7 +721,7 @@
     "article_path": "categories/united-kingdom/14-territory.md",
     "planned_at": "2026-11-13T03:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-14.json",
+    "run_record": "categories/runs/CAT-GB-14.json",
     "completed_at": "2026-11-13T06:55:12+09:00"
   },
   {
@@ -735,7 +735,7 @@
     "article_path": "categories/united-kingdom/15-resources.md",
     "planned_at": "2026-11-13T05:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-15.json",
+    "run_record": "categories/runs/CAT-GB-15.json",
     "completed_at": "2026-11-13T09:02:44+09:00"
   },
   {
@@ -747,7 +747,7 @@
     "category": "개전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/united-kingdom/16-industrial-centers-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-16.json",
+    "run_record": "categories/runs/CAT-GB-16.json",
     "step": 54,
     "planned_at": "2026-11-13T07:30:00+09:00",
     "completed_at": "2026-11-13T11:03:23+09:00"
@@ -761,7 +761,7 @@
     "category": "종전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/united-kingdom/17-industrial-centers-end.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-17.json",
+    "run_record": "categories/runs/CAT-GB-17.json",
     "step": 55,
     "planned_at": "2026-11-13T09:30:00+09:00",
     "completed_at": "2026-11-13T12:54:54+09:00"
@@ -775,7 +775,7 @@
     "category": "개전 시점 주요 공군기지와 규모(1~10)",
     "article_path": "categories/united-kingdom/18-air-bases-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-18.json",
+    "run_record": "categories/runs/CAT-GB-18.json",
     "step": 56,
     "planned_at": "2026-11-13T11:30:00+09:00",
     "completed_at": "2026-11-13T14:59:11+09:00"
@@ -789,7 +789,7 @@
     "category": "개전 시점 주요 해군기지와 규모(1~10)",
     "article_path": "categories/united-kingdom/19-naval-bases-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/GB/CAT-GB-19.json",
+    "run_record": "categories/runs/CAT-GB-19.json",
     "step": 57,
     "planned_at": "2026-11-13T13:30:00+09:00",
     "completed_at": "2026-11-13T17:06:31+09:00"
@@ -805,7 +805,7 @@
     "article_path": "categories/united-states/01-tanks.md",
     "planned_at": "2026-11-13T15:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-01.json",
+    "run_record": "categories/runs/CAT-US-01.json",
     "completed_at": "2026-11-13T19:03:04+09:00"
   },
   {
@@ -819,7 +819,7 @@
     "article_path": "categories/united-states/02-other-armored-vehicles.md",
     "planned_at": "2026-11-13T17:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-02.json",
+    "run_record": "categories/runs/CAT-US-02.json",
     "completed_at": "2026-11-13T20:53:28+09:00"
   },
   {
@@ -833,7 +833,7 @@
     "article_path": "categories/united-states/03-naval-vessels.md",
     "planned_at": "2026-11-13T19:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-03.json",
+    "run_record": "categories/runs/CAT-US-03.json",
     "completed_at": "2026-11-13T23:00:38+09:00"
   },
   {
@@ -847,7 +847,7 @@
     "article_path": "categories/united-states/04-aircraft.md",
     "planned_at": "2026-11-13T21:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-04.json",
+    "run_record": "categories/runs/CAT-US-04.json",
     "completed_at": "2026-11-14T00:57:50+09:00"
   },
   {
@@ -861,7 +861,7 @@
     "article_path": "categories/united-states/05-infantry-equipment.md",
     "planned_at": "2026-11-13T23:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-05.json",
+    "run_record": "categories/runs/CAT-US-05.json",
     "completed_at": "2026-11-14T02:55:32+09:00"
   },
   {
@@ -875,7 +875,7 @@
     "article_path": "categories/united-states/06-essential-technology.md",
     "planned_at": "2026-11-14T01:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-06.json",
+    "run_record": "categories/runs/CAT-US-06.json",
     "completed_at": "2026-11-14T04:54:59+09:00"
   },
   {
@@ -889,7 +889,7 @@
     "article_path": "categories/united-states/07-combat-personnel.md",
     "planned_at": "2026-11-14T03:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-07.json",
+    "run_record": "categories/runs/CAT-US-07.json",
     "completed_at": "2026-11-14T07:01:36+09:00"
   },
   {
@@ -903,7 +903,7 @@
     "article_path": "categories/united-states/08-political-personnel.md",
     "planned_at": "2026-11-14T05:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-08.json",
+    "run_record": "categories/runs/CAT-US-08.json",
     "completed_at": "2026-11-14T08:55:34+09:00"
   },
   {
@@ -917,7 +917,7 @@
     "article_path": "categories/united-states/09-scientific-personnel.md",
     "planned_at": "2026-11-14T07:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-09.json",
+    "run_record": "categories/runs/CAT-US-09.json",
     "completed_at": "2026-11-14T10:55:01+09:00"
   },
   {
@@ -931,7 +931,7 @@
     "article_path": "categories/united-states/10-speech-videos.md",
     "planned_at": "2026-11-14T09:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-10.json",
+    "run_record": "categories/runs/CAT-US-10.json",
     "completed_at": "2026-11-14T12:54:52+09:00"
   },
   {
@@ -945,7 +945,7 @@
     "article_path": "categories/united-states/11-military-industry.md",
     "planned_at": "2026-11-14T11:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-11.json",
+    "run_record": "categories/runs/CAT-US-11.json",
     "completed_at": "2026-11-14T15:02:45+09:00"
   },
   {
@@ -959,7 +959,7 @@
     "article_path": "categories/united-states/12-population.md",
     "planned_at": "2026-11-14T13:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-12.json",
+    "run_record": "categories/runs/CAT-US-12.json",
     "completed_at": "2026-11-14T17:05:47+09:00"
   },
   {
@@ -973,7 +973,7 @@
     "article_path": "categories/united-states/13-historical-place-names.md",
     "planned_at": "2026-11-14T15:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-13.json",
+    "run_record": "categories/runs/CAT-US-13.json",
     "completed_at": "2026-11-14T19:00:29+09:00"
   },
   {
@@ -987,7 +987,7 @@
     "article_path": "categories/united-states/14-territory.md",
     "planned_at": "2026-11-14T17:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-14.json",
+    "run_record": "categories/runs/CAT-US-14.json",
     "completed_at": "2026-11-14T21:04:31+09:00"
   },
   {
@@ -1001,7 +1001,7 @@
     "article_path": "categories/united-states/15-resources.md",
     "planned_at": "2026-11-14T19:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-15.json",
+    "run_record": "categories/runs/CAT-US-15.json",
     "completed_at": "2026-11-14T23:02:23+09:00"
   },
   {
@@ -1013,7 +1013,7 @@
     "category": "개전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/united-states/16-industrial-centers-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-16.json",
+    "run_record": "categories/runs/CAT-US-16.json",
     "step": 73,
     "planned_at": "2026-11-14T21:30:00+09:00",
     "completed_at": "2026-11-15T01:00:28+09:00"
@@ -1027,7 +1027,7 @@
     "category": "종전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/united-states/17-industrial-centers-end.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-17.json",
+    "run_record": "categories/runs/CAT-US-17.json",
     "step": 74,
     "planned_at": "2026-11-14T23:30:00+09:00",
     "completed_at": "2026-11-15T02:55:11+09:00"
@@ -1041,7 +1041,7 @@
     "category": "개전 시점 주요 공군기지와 규모(1~10)",
     "article_path": "categories/united-states/18-air-bases-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-18.json",
+    "run_record": "categories/runs/CAT-US-18.json",
     "step": 75,
     "planned_at": "2026-11-15T01:30:00+09:00",
     "completed_at": "2026-11-15T04:56:53+09:00"
@@ -1055,7 +1055,7 @@
     "category": "개전 시점 주요 해군기지와 규모(1~10)",
     "article_path": "categories/united-states/19-naval-bases-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/US/CAT-US-19.json",
+    "run_record": "categories/runs/CAT-US-19.json",
     "step": 76,
     "planned_at": "2026-11-15T03:30:00+09:00",
     "completed_at": "2026-11-15T07:00:58+09:00"
@@ -1071,7 +1071,7 @@
     "article_path": "categories/japan/01-tanks.md",
     "planned_at": "2026-11-15T05:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-01.json",
+    "run_record": "categories/runs/CAT-JP-01.json",
     "completed_at": "2026-11-15T08:57:15+09:00"
   },
   {
@@ -1085,7 +1085,7 @@
     "article_path": "categories/japan/02-other-armored-vehicles.md",
     "planned_at": "2026-11-15T07:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-02.json",
+    "run_record": "categories/runs/CAT-JP-02.json",
     "completed_at": "2026-11-15T10:59:50+09:00"
   },
   {
@@ -1099,7 +1099,7 @@
     "article_path": "categories/japan/03-naval-vessels.md",
     "planned_at": "2026-11-15T09:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-03.json",
+    "run_record": "categories/runs/CAT-JP-03.json",
     "completed_at": "2026-11-15T12:59:31+09:00"
   },
   {
@@ -1113,7 +1113,7 @@
     "article_path": "categories/japan/04-aircraft.md",
     "planned_at": "2026-11-15T11:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-04.json",
+    "run_record": "categories/runs/CAT-JP-04.json",
     "completed_at": "2026-11-15T15:00:41+09:00"
   },
   {
@@ -1127,7 +1127,7 @@
     "article_path": "categories/japan/05-infantry-equipment.md",
     "planned_at": "2026-11-15T13:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-05.json",
+    "run_record": "categories/runs/CAT-JP-05.json",
     "completed_at": "2026-11-15T16:59:44+09:00"
   },
   {
@@ -1141,7 +1141,7 @@
     "article_path": "categories/japan/06-essential-technology.md",
     "planned_at": "2026-11-15T15:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-06.json",
+    "run_record": "categories/runs/CAT-JP-06.json",
     "completed_at": "2026-11-15T18:54:42+09:00"
   },
   {
@@ -1155,7 +1155,7 @@
     "article_path": "categories/japan/07-combat-personnel.md",
     "planned_at": "2026-11-15T17:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-07.json",
+    "run_record": "categories/runs/CAT-JP-07.json",
     "completed_at": "2026-11-15T20:58:29+09:00"
   },
   {
@@ -1169,7 +1169,7 @@
     "article_path": "categories/japan/08-political-personnel.md",
     "planned_at": "2026-11-15T19:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-08.json",
+    "run_record": "categories/runs/CAT-JP-08.json",
     "completed_at": "2026-11-15T22:53:52+09:00"
   },
   {
@@ -1183,7 +1183,7 @@
     "article_path": "categories/japan/09-scientific-personnel.md",
     "planned_at": "2026-11-15T21:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-09.json",
+    "run_record": "categories/runs/CAT-JP-09.json",
     "completed_at": "2026-11-16T00:54:31+09:00"
   },
   {
@@ -1197,7 +1197,7 @@
     "article_path": "categories/japan/10-speech-videos.md",
     "planned_at": "2026-11-15T23:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-10.json",
+    "run_record": "categories/runs/CAT-JP-10.json",
     "completed_at": "2026-11-16T02:55:45+09:00"
   },
   {
@@ -1211,7 +1211,7 @@
     "article_path": "categories/japan/11-military-industry.md",
     "planned_at": "2026-11-16T01:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-11.json",
+    "run_record": "categories/runs/CAT-JP-11.json",
     "completed_at": "2026-11-16T05:00:24+09:00"
   },
   {
@@ -1225,7 +1225,7 @@
     "article_path": "categories/japan/12-population.md",
     "planned_at": "2026-11-16T03:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-12.json",
+    "run_record": "categories/runs/CAT-JP-12.json",
     "completed_at": "2026-11-16T07:00:12+09:00"
   },
   {
@@ -1239,7 +1239,7 @@
     "article_path": "categories/japan/13-historical-place-names.md",
     "planned_at": "2026-11-16T05:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-13.json",
+    "run_record": "categories/runs/CAT-JP-13.json",
     "completed_at": "2026-11-16T08:55:40+09:00"
   },
   {
@@ -1253,7 +1253,7 @@
     "article_path": "categories/japan/14-territory.md",
     "planned_at": "2026-11-16T07:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-14.json",
+    "run_record": "categories/runs/CAT-JP-14.json",
     "completed_at": "2026-11-16T10:59:09+09:00"
   },
   {
@@ -1267,7 +1267,7 @@
     "article_path": "categories/japan/15-resources.md",
     "planned_at": "2026-11-16T09:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-15.json",
+    "run_record": "categories/runs/CAT-JP-15.json",
     "completed_at": "2026-11-16T12:56:35+09:00"
   },
   {
@@ -1279,7 +1279,7 @@
     "category": "개전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/japan/16-industrial-centers-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-16.json",
+    "run_record": "categories/runs/CAT-JP-16.json",
     "step": 92,
     "planned_at": "2026-11-16T11:30:00+09:00",
     "completed_at": "2026-11-16T15:01:55+09:00"
@@ -1293,7 +1293,7 @@
     "category": "종전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/japan/17-industrial-centers-end.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-17.json",
+    "run_record": "categories/runs/CAT-JP-17.json",
     "step": 93,
     "planned_at": "2026-11-16T13:30:00+09:00",
     "completed_at": "2026-11-16T17:19:26+09:00"
@@ -1307,7 +1307,7 @@
     "category": "개전 시점 주요 공군기지와 규모(1~10)",
     "article_path": "categories/japan/18-air-bases-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-18.json",
+    "run_record": "categories/runs/CAT-JP-18.json",
     "step": 94,
     "planned_at": "2026-11-16T15:30:00+09:00",
     "completed_at": "2026-11-16T19:13:59+09:00"
@@ -1321,7 +1321,7 @@
     "category": "개전 시점 주요 해군기지와 규모(1~10)",
     "article_path": "categories/japan/19-naval-bases-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/JP/CAT-JP-19.json",
+    "run_record": "categories/runs/CAT-JP-19.json",
     "step": 95,
     "planned_at": "2026-11-16T17:30:00+09:00",
     "completed_at": "2026-11-16T21:18:16+09:00"
@@ -1337,7 +1337,7 @@
     "article_path": "categories/italy/01-tanks.md",
     "planned_at": "2026-11-16T19:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-01.json",
+    "run_record": "categories/runs/CAT-IT-01.json",
     "completed_at": "2026-11-16T23:16:40+09:00"
   },
   {
@@ -1351,7 +1351,7 @@
     "article_path": "categories/italy/02-other-armored-vehicles.md",
     "planned_at": "2026-11-16T21:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-02.json",
+    "run_record": "categories/runs/CAT-IT-02.json",
     "completed_at": "2026-11-17T00:57:26+09:00"
   },
   {
@@ -1365,7 +1365,7 @@
     "article_path": "categories/italy/03-naval-vessels.md",
     "planned_at": "2026-11-16T23:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-03.json",
+    "run_record": "categories/runs/CAT-IT-03.json",
     "completed_at": "2026-11-17T02:57:18+09:00"
   },
   {
@@ -1379,7 +1379,7 @@
     "article_path": "categories/italy/04-aircraft.md",
     "planned_at": "2026-11-17T01:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-04.json",
+    "run_record": "categories/runs/CAT-IT-04.json",
     "completed_at": "2026-11-17T04:59:34+09:00"
   },
   {
@@ -1393,7 +1393,7 @@
     "article_path": "categories/italy/05-infantry-equipment.md",
     "planned_at": "2026-11-17T03:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-05.json",
+    "run_record": "categories/runs/CAT-IT-05.json",
     "completed_at": "2026-11-17T06:59:16+09:00"
   },
   {
@@ -1407,7 +1407,7 @@
     "article_path": "categories/italy/06-essential-technology.md",
     "planned_at": "2026-11-17T05:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-06.json",
+    "run_record": "categories/runs/CAT-IT-06.json",
     "completed_at": "2026-11-17T08:54:22+09:00"
   },
   {
@@ -1421,7 +1421,7 @@
     "article_path": "categories/italy/07-combat-personnel.md",
     "planned_at": "2026-11-17T07:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-07.json",
+    "run_record": "categories/runs/CAT-IT-07.json",
     "completed_at": "2026-11-17T10:55:23+09:00"
   },
   {
@@ -1435,7 +1435,7 @@
     "article_path": "categories/italy/08-political-personnel.md",
     "planned_at": "2026-11-17T09:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-08.json",
+    "run_record": "categories/runs/CAT-IT-08.json",
     "completed_at": "2026-11-17T12:53:07+09:00"
   },
   {
@@ -1449,7 +1449,7 @@
     "article_path": "categories/italy/09-scientific-personnel.md",
     "planned_at": "2026-11-17T11:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-09.json",
+    "run_record": "categories/runs/CAT-IT-09.json",
     "completed_at": "2026-11-17T14:53:52+09:00"
   },
   {
@@ -1463,7 +1463,7 @@
     "article_path": "categories/italy/10-speech-videos.md",
     "planned_at": "2026-11-17T13:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-10.json",
+    "run_record": "categories/runs/CAT-IT-10.json",
     "completed_at": "2026-11-17T17:04:47+09:00"
   },
   {
@@ -1477,7 +1477,7 @@
     "article_path": "categories/italy/11-military-industry.md",
     "planned_at": "2026-11-17T15:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-11.json",
+    "run_record": "categories/runs/CAT-IT-11.json",
     "completed_at": "2026-11-17T18:55:27+09:00"
   },
   {
@@ -1491,7 +1491,7 @@
     "article_path": "categories/italy/12-population.md",
     "planned_at": "2026-11-17T17:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-12.json",
+    "run_record": "categories/runs/CAT-IT-12.json",
     "completed_at": "2026-11-17T20:59:47+09:00"
   },
   {
@@ -1505,7 +1505,7 @@
     "article_path": "categories/italy/13-historical-place-names.md",
     "planned_at": "2026-11-17T19:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-13.json",
+    "run_record": "categories/runs/CAT-IT-13.json",
     "completed_at": "2026-11-17T22:56:34+09:00"
   },
   {
@@ -1519,7 +1519,7 @@
     "article_path": "categories/italy/14-territory.md",
     "planned_at": "2026-11-17T21:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-14.json",
+    "run_record": "categories/runs/CAT-IT-14.json",
     "completed_at": "2026-11-18T01:00:13+09:00"
   },
   {
@@ -1533,7 +1533,7 @@
     "article_path": "categories/italy/15-resources.md",
     "planned_at": "2026-11-17T23:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-15.json",
+    "run_record": "categories/runs/CAT-IT-15.json",
     "completed_at": "2026-11-18T02:58:43+09:00"
   },
   {
@@ -1545,7 +1545,7 @@
     "category": "개전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/italy/16-industrial-centers-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-16.json",
+    "run_record": "categories/runs/CAT-IT-16.json",
     "step": 111,
     "planned_at": "2026-11-18T01:30:00+09:00",
     "completed_at": "2026-11-18T04:58:42+09:00"
@@ -1559,7 +1559,7 @@
     "category": "종전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/italy/17-industrial-centers-end.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-17.json",
+    "run_record": "categories/runs/CAT-IT-17.json",
     "step": 112,
     "planned_at": "2026-11-18T03:30:00+09:00",
     "completed_at": "2026-11-18T06:58:45+09:00"
@@ -1573,7 +1573,7 @@
     "category": "개전 시점 주요 공군기지와 규모(1~10)",
     "article_path": "categories/italy/18-air-bases-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-18.json",
+    "run_record": "categories/runs/CAT-IT-18.json",
     "step": 113,
     "planned_at": "2026-11-18T05:30:00+09:00",
     "completed_at": "2026-11-18T08:56:03+09:00"
@@ -1587,7 +1587,7 @@
     "category": "개전 시점 주요 해군기지와 규모(1~10)",
     "article_path": "categories/italy/19-naval-bases-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/IT/CAT-IT-19.json",
+    "run_record": "categories/runs/CAT-IT-19.json",
     "step": 114,
     "planned_at": "2026-11-18T07:30:00+09:00",
     "completed_at": "2026-11-18T10:55:59+09:00"
@@ -1603,7 +1603,7 @@
     "article_path": "categories/soviet-union/01-tanks.md",
     "planned_at": "2026-11-18T09:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-01.json",
+    "run_record": "categories/runs/CAT-SU-01.json",
     "completed_at": "2026-11-18T12:56:03+09:00"
   },
   {
@@ -1617,7 +1617,7 @@
     "article_path": "categories/soviet-union/02-other-armored-vehicles.md",
     "planned_at": "2026-11-18T11:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-02.json",
+    "run_record": "categories/runs/CAT-SU-02.json",
     "completed_at": "2026-11-18T14:56:38+09:00"
   },
   {
@@ -1631,7 +1631,7 @@
     "article_path": "categories/soviet-union/03-naval-vessels.md",
     "planned_at": "2026-11-18T13:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-03.json",
+    "run_record": "categories/runs/CAT-SU-03.json",
     "completed_at": "2026-11-18T16:55:37+09:00"
   },
   {
@@ -1645,7 +1645,7 @@
     "article_path": "categories/soviet-union/04-aircraft.md",
     "planned_at": "2026-11-18T15:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-04.json",
+    "run_record": "categories/runs/CAT-SU-04.json",
     "completed_at": "2026-11-18T18:56:53+09:00"
   },
   {
@@ -1659,7 +1659,7 @@
     "article_path": "categories/soviet-union/05-infantry-equipment.md",
     "planned_at": "2026-11-18T17:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-05.json",
+    "run_record": "categories/runs/CAT-SU-05.json",
     "completed_at": "2026-11-18T21:02:38+09:00"
   },
   {
@@ -1673,7 +1673,7 @@
     "article_path": "categories/soviet-union/06-essential-technology.md",
     "planned_at": "2026-11-18T19:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-06.json",
+    "run_record": "categories/runs/CAT-SU-06.json",
     "completed_at": "2026-11-18T23:02:59+09:00"
   },
   {
@@ -1687,7 +1687,7 @@
     "article_path": "categories/soviet-union/07-combat-personnel.md",
     "planned_at": "2026-11-18T21:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-07.json",
+    "run_record": "categories/runs/CAT-SU-07.json",
     "completed_at": "2026-11-19T00:56:41+09:00"
   },
   {
@@ -1701,7 +1701,7 @@
     "article_path": "categories/soviet-union/08-political-personnel.md",
     "planned_at": "2026-11-18T23:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-08.json",
+    "run_record": "categories/runs/CAT-SU-08.json",
     "completed_at": "2026-11-19T02:52:12+09:00"
   },
   {
@@ -1715,7 +1715,7 @@
     "article_path": "categories/soviet-union/09-scientific-personnel.md",
     "planned_at": "2026-11-19T01:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-09.json",
+    "run_record": "categories/runs/CAT-SU-09.json",
     "completed_at": "2026-11-19T04:59:44+09:00"
   },
   {
@@ -1729,7 +1729,7 @@
     "article_path": "categories/soviet-union/10-speech-videos.md",
     "planned_at": "2026-11-19T03:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-10.json",
+    "run_record": "categories/runs/CAT-SU-10.json",
     "completed_at": "2026-11-19T07:01:06+09:00"
   },
   {
@@ -1743,7 +1743,7 @@
     "article_path": "categories/soviet-union/11-military-industry.md",
     "planned_at": "2026-11-19T05:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-11.json",
+    "run_record": "categories/runs/CAT-SU-11.json",
     "completed_at": "2026-11-19T08:53:24+09:00"
   },
   {
@@ -1757,7 +1757,7 @@
     "article_path": "categories/soviet-union/12-population.md",
     "planned_at": "2026-11-19T07:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-12.json",
+    "run_record": "categories/runs/CAT-SU-12.json",
     "completed_at": "2026-11-19T10:54:19+09:00"
   },
   {
@@ -1771,7 +1771,7 @@
     "article_path": "categories/soviet-union/13-historical-place-names.md",
     "planned_at": "2026-11-19T09:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-13.json",
+    "run_record": "categories/runs/CAT-SU-13.json",
     "completed_at": "2026-11-19T13:04:39+09:00"
   },
   {
@@ -1785,7 +1785,7 @@
     "article_path": "categories/soviet-union/14-territory.md",
     "planned_at": "2026-11-19T11:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-14.json",
+    "run_record": "categories/runs/CAT-SU-14.json",
     "completed_at": "2026-11-19T14:55:41+09:00"
   },
   {
@@ -1799,7 +1799,7 @@
     "article_path": "categories/soviet-union/15-resources.md",
     "planned_at": "2026-11-19T13:30:00+09:00",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-15.json",
+    "run_record": "categories/runs/CAT-SU-15.json",
     "completed_at": "2026-11-19T17:01:25+09:00"
   },
   {
@@ -1811,7 +1811,7 @@
     "category": "개전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/soviet-union/16-industrial-centers-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-16.json",
+    "run_record": "categories/runs/CAT-SU-16.json",
     "step": 130,
     "planned_at": "2026-11-19T15:30:00+09:00",
     "completed_at": "2026-11-19T19:01:13+09:00"
@@ -1825,7 +1825,7 @@
     "category": "종전 시점 주요 공업단지와 규모(1~20)",
     "article_path": "categories/soviet-union/17-industrial-centers-end.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-17.json",
+    "run_record": "categories/runs/CAT-SU-17.json",
     "step": 131,
     "planned_at": "2026-11-19T17:30:00+09:00",
     "completed_at": "2026-11-19T20:56:00+09:00"
@@ -1839,7 +1839,7 @@
     "category": "개전 시점 주요 공군기지와 규모(1~10)",
     "article_path": "categories/soviet-union/18-air-bases-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-18.json",
+    "run_record": "categories/runs/CAT-SU-18.json",
     "step": 132,
     "planned_at": "2026-11-19T19:30:00+09:00",
     "completed_at": "2026-11-20T00:03:30+09:00"
@@ -1853,7 +1853,7 @@
     "category": "개전 시점 주요 해군기지와 규모(1~10)",
     "article_path": "categories/soviet-union/19-naval-bases-start.md",
     "status": "partial",
-    "run_record": "categories/archive/first-pass/runs/SU/CAT-SU-19.json",
+    "run_record": "categories/runs/CAT-SU-19.json",
     "step": 133,
     "planned_at": "2026-11-19T21:30:00+09:00",
     "completed_at": "2026-11-20T00:05:11+09:00"

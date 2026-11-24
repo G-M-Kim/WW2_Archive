@@ -4,7 +4,7 @@
 
 - [154개 번호별 비교표](INDEX.md) · [조사 범위](PLAN.md) · [조사 프로토콜](PROTOCOL.md)
 - [154개 원고 목록](QUEUE.json) · [새 조사 진행 상태](RESEARCH_STATE.json)
-- [기존 첫 방문 상태(이력)](archive/first-pass/STATE.json) · [실행 기록](archive/first-pass/RUN_LOG.md) · [증빙](archive/first-pass/runs/)
+- [기존 첫 방문 상태(이력)](archive/first-pass/STATE.json) · [실행 기록](archive/first-pass/RUN_LOG.md) · [개별 실행 기록](runs/)
 - [독일](germany/README.md) · [프랑스](france/README.md) · [영국](united-kingdom/README.md) · [미국](united-states/README.md) · [일본](japan/README.md) · [이탈리아](italy/README.md) · [소련](soviet-union/README.md)
 
 실제 새로운 사실과 수치는 반드시 기존 원본 `NN-*.md`에 직접 반영한다. 미해결 과제는 국가별 QUESTIONS.json에 남긴다.
