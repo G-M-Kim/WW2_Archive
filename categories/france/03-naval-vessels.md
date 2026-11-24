@@ -2,7 +2,7 @@
 
 **CAT-FR-03 · 첫 조사 `partial` · 자료 열람 2026-11-10(KST)**
 
-비시 프랑스 측에서 카사블랑카 방어에 투입한 미완성 전함 장 바르(Jean Bart)와 영국 해군 지휘 아래 작전한 뒤 자유프랑스 해군(FNFL)에 합류한 기뢰부설 잠수함 뤼비(Rubis)를 다룬다. 두 사례에서 개별 함정의 시기별 구성과 실제 작전을 구분했다. 프랑스 해군의 전구별 임무와 지휘 변화는 [해군 교리 보충 조사](naval-doctrine.md)에 별도로 정리돼 있다. [CAT-FR-SRC-0022, Sous-marin Rubis](https://www.ordredelaliberation.fr/fr/la-marine-nationale) · [CAT-FR-SRC-0023, 1942년 11월 북아프리카 상륙 항목](https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html)
+비시 프랑스 측에서 카사블랑카 방어에 투입한 미완성 전함 장 바르(Jean Bart)와 영국 해군 지휘 아래 작전한 뒤 자유프랑스 해군(FNFL)에 합류한 기뢰부설 잠수함 뤼비(Rubis)를 다룬다. 두 사례에서 개별 함정의 시기별 구성과 실제 작전을 구분했다. 프랑스 해군의 전구별 임무와 지휘 변화는 [해군 교리 보충 조사](21-naval-doctrine.md)에 별도로 정리돼 있다. [CAT-FR-SRC-0022, Sous-marin Rubis](https://www.ordredelaliberation.fr/fr/la-marine-nationale) · [CAT-FR-SRC-0023, 1942년 11월 북아프리카 상륙 항목](https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html)
 
 ## 장 바르 · Jean Bart
 

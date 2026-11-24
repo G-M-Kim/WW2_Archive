@@ -25,4 +25,4 @@
 - `CAT-JP-RQ-0022` — PURPLE의 외교 공관 배치와 JADE의 해군 통신망 적용 범위를 일본 측 현물 표기와 보급·운용 기록으로 확인한다.
 - `CAT-JP-RQ-0023` — 지상·항공 레이더, 무선·소나·항법·병참 장비의 대표 사례는 후속 범위다.
 
-[일본 출처 장부](SOURCES.json) · [미확인 과제](QUESTIONS.json) · [일본 해군 교리](naval-doctrine.md)
+[일본 출처 장부](SOURCES.json) · [미확인 과제](QUESTIONS.json) · [일본 해군 교리](21-naval-doctrine.md)

@@ -33,4 +33,4 @@
 - `CAT-JP-RQ-0016` — 스이세이 12형의 공시운전과 부대 출격일지, 세이란의 부주 조건별 시험 및 생산·인수표를 확인한다.
 - `CAT-JP-RQ-0017` — 육군 전투·폭격기, 정찰기, 전용 훈련·연락기, 비행정·글라이더의 대표 형식은 후속 조사한다.
 
-[일본 출처 장부](SOURCES.json) · [미확인 과제](QUESTIONS.json) · [일본 공군 교리](air-doctrine.md)
+[일본 출처 장부](SOURCES.json) · [미확인 과제](QUESTIONS.json) · [일본 공군 교리](22-air-doctrine.md)

@@ -228,4 +228,4 @@ Panzer I·II·III는 미 육군성 TM-E 30-451의 Chapter VII §VI.3.b–d HTML 
 
 ## 다음 검증 과제
 
-[QUESTIONS.json](QUESTIONS.json)의 CAT-DE-RQ-0001(형식·무장·생산), CAT-DE-RQ-0002(기동 성능의 시험 조건), CAT-DE-RQ-0003(Tiger II 생산량 집계), CAT-DE-RQ-0004(남은 전차 범위), CAT-DE-RQ-0072(Luchs 주포·승무원 충돌), CAT-DE-RQ-0079(Panzer I 형식별 제작·배치와 제원 충돌), CAT-DE-RQ-0080(A형 중국 도착·지급)을 참조한다. [검토 진행 파일](../review-v2/STATE.json)과 [Panzer I 형식별 검증 현황](#panzer-i-verification)에 개체별 확인 수준과 다음 검증 셀이 있다.
+[QUESTIONS.json](QUESTIONS.json)의 CAT-DE-RQ-0001(형식·무장·생산), CAT-DE-RQ-0002(기동 성능의 시험 조건), CAT-DE-RQ-0003(Tiger II 생산량 집계), CAT-DE-RQ-0004(남은 전차 범위), CAT-DE-RQ-0072(Luchs 주포·승무원 충돌), CAT-DE-RQ-0079(Panzer I 형식별 제작·배치와 제원 충돌), CAT-DE-RQ-0080(A형 중국 도착·지급)을 참조한다. [심화 조사 상태](../RESEARCH_STATE_V3.json)와 [Panzer I 형식별 검증 현황](#panzer-i-verification)에 남은 검증 항목을 기록한다.
