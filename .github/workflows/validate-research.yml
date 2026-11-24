@@ -24,3 +24,5 @@ jobs:
         run: python validate_index.py
       - name: Validate 154 category articles and progress JSON
         run: python categories/tools/validate.py
+      - name: Verify chronology and category site staging
+        run: python scripts/build_category_pages.py
