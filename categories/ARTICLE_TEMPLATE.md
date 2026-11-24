@@ -31,4 +31,4 @@ SOURCES.json에 등록된 자료의 서지사항·원문 URL·해당 위치·열
 
 ## 다음 검증 과제
 
-QUESTIONS.json의 과제 ID와 완료조건을 연결한다. 다음 정규 실행은 QUEUE의 다음 항목이다.
+QUESTIONS.json의 과제 ID와 완료조건을 연결한다. 다음 조사 위치는 RESEARCH_STATE_V3.json의 현재 진행 상태를 기준으로 결정한다.

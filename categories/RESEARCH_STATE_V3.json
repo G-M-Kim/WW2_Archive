@@ -1,0 +1,14 @@
+{
+  "schema_version": 3,
+  "registry": "categories/QUEUE.json",
+  "expected_total": 154,
+  "phase": "coverage",
+  "current_job_id": "CAT-DE-01",
+  "current_subtopic": "Panzer I 계열",
+  "next_verification_cell": "DE-01/Panzer-I/A-B/adoption-first-combat-and-deliveries",
+  "completed_job_ids": [],
+  "reviewed_with_gaps_job_ids": [],
+  "blocked_job_ids": [],
+  "last_saved_commit": null,
+  "note": "과거 133회 첫 방문은 완료가 아니다. 기존 154개 원고를 검증·보완한다."
+}

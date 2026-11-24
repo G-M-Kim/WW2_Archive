@@ -11,12 +11,7 @@ from build_timeline import LEGACY_OUTSIDE, chronology_files, main as build_timel
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
 REPO_URL = "https://github.com/G-M-Kim/WW2_Archive/blob/main"
-DOCTRINES = {
-    "army-doctrine.md": (20, "육군 교리"),
-    "naval-doctrine.md": (21, "해군 교리"),
-    "air-doctrine.md": (22, "공군 교리"),
-}
-STATUS_LABELS = {"reviewed": "첫 조사 검토", "partial": "부분 조사", "blocked": "자료 확인 제한"}
+STATUS_LABELS = {"reviewed": "첫 조사 검토", "partial": "부분 조사", "blocked": "자료 확인 제한", "not_reviewed": "교리 원고 · 심화 검증 전"}
 LOCAL_LINK = re.compile(r"\]\(((?:[\w.-]+/)*[\w.-]+\.(?:md|json))(#[^\s)]+)?\)")
 # Preserve the source fragment across GitHub and Zensical's different heading slugs.
 HEADING_IDS = {"categories/united-states/13-historical-place-names.md": {"진주만과 포드섬": "진주만과-포드섬"}}
@@ -102,7 +97,6 @@ def main():
 
     output = {}
     country_rows = []
-    doctrine_count = 0
     for folder, jobs in countries.items():
         path = Path("categories") / folder
         label = jobs[0]["country"]
@@ -119,16 +113,9 @@ def main():
             status = STATUS_LABELS[job["status"]]
             index.append(f"| {job['category_number']:02d} | [{job['category']}]({name}) | {status} |")
 
-        doctrines = [name for name in DOCTRINES if (ROOT / path / name).is_file()]
-        for name in doctrines:
-            number, title = DOCTRINES[name]
-            article = path / name
-            pages[article.as_posix()] = article
-            index.append(f"| {number:02d} | [{title}]({name}) | 보충 교리 |")
         if folder == "germany":
             index.extend(["", "[Panzer I 검증 현황](01-tanks.md#panzer-i-verification) · "
                           "[Panzer I 차대 파생형](02-other-armored-vehicles.md#panzer-i-derivatives)"])
-        doctrine_count += len(doctrines)
         index.extend([
             "",
             f"[출처 장부]({REPO_URL}/{path}/SOURCES.json) · "
@@ -144,11 +131,11 @@ def main():
         "",
         "[번호별 7개국 자료 비교](by-number.md) · [시설 규모 평가 기준](facility-rating.md)",
         "",
-        "| 국가 | 01~19번 원고 |",
+        "| 국가 | 01~22번 원고 |",
         "| --- | --- |",
         *country_rows,
         "",
-        f"카테고리 원고 **{sum(map(len, countries.values()))}개**와 보충 교리 문서 **{doctrine_count}개**를 수록했습니다.",
+        f"정식 카테고리 원고 **{sum(map(len, countries.values()))}개**를 수록했습니다.",
     ]
     output[Path("categories/index.md")] = "\n".join(descriptions) + "\n"
 
@@ -160,8 +147,6 @@ def main():
         target = DOCS / destination
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(markdown, encoding="utf-8")
-    # Clean up the retired article in worktrees with an earlier staged build.
-    (DOCS / "categories/review-v2/DE-01-Panzer-I.md").unlink(missing_ok=True)
     print(f"Staged {len(output)} Markdown pages under docs/categories.")
 
 

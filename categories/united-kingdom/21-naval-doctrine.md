@@ -39,4 +39,4 @@
 
 ## 다른 국가의 해군 교리
 
-[독일](../germany/naval-doctrine.md) · [프랑스](../france/naval-doctrine.md) · [미국](../united-states/naval-doctrine.md) · [일본](../japan/naval-doctrine.md) · [이탈리아](../italy/naval-doctrine.md) · [소련](../soviet-union/naval-doctrine.md)
+[독일](../germany/21-naval-doctrine.md) · [프랑스](../france/21-naval-doctrine.md) · [미국](../united-states/21-naval-doctrine.md) · [일본](../japan/21-naval-doctrine.md) · [이탈리아](../italy/21-naval-doctrine.md) · [소련](../soviet-union/21-naval-doctrine.md)

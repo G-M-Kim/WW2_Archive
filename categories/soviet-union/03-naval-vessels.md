@@ -22,4 +22,4 @@
 - `CAT-SU-RQ-0011` D급과 D-2의 제원 차이, 해당 항해의 출항 적재 및 양측 일지는 별도로 대조한다.
 - `CAT-SU-RQ-0012` 구축함·호위함·기뢰전·어뢰정·상륙함·지원함, 흑해·북방·태평양함대와 공여 함정은 후속 조사 범위다.
 
-[해군 교리 보충 조사](naval-doctrine.md) · [출처 장부](SOURCES.json) · [검증 쟁점](QUESTIONS.json) · [실행 기록](../runs/CAT-SU-03.json)
+[해군 교리 보충 조사](21-naval-doctrine.md) · [출처 장부](SOURCES.json) · [검증 쟁점](QUESTIONS.json) · [실행 기록](../runs/CAT-SU-03.json)

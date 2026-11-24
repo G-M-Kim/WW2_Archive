@@ -26,4 +26,4 @@
 - `CAT-JP-RQ-0019` — 96식 가제식 문서와 부대 보급 기록을 대조하고, 박격포·권총 등 이번 범위 밖의 화기를 조사한다.
 - `CAT-JP-RQ-0020` — 사진의 철모와 소장 방호구의 제식 표기 및 보급 근거를 확인한다. 휴대 군장·의무·통신 장비는 후속 범위다.
 
-[일본 출처 장부](SOURCES.json) · [미확인 과제](QUESTIONS.json) · [일본 육군 교리](army-doctrine.md)
+[일본 출처 장부](SOURCES.json) · [미확인 과제](QUESTIONS.json) · [일본 육군 교리](20-army-doctrine.md)
