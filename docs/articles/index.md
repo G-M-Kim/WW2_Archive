@@ -11,4 +11,4 @@
 
 - [7개국 카테고리 조사](../categories/index.md)
 - [번호별 7개국 자료 비교](../categories/by-number.md)
-- [항목 템플릿](sample-article.md)
+- [항목 템플릿](article-template.md)
