@@ -1,8 +1,8 @@
-name: Validate WW2 research chronology
+name: Validate WW2 research
 
 on:
   push:
-    branches: [draft/chronology-index-v1]
+    branches: [main, draft/chronology-index-v1]
   pull_request:
     branches: [main]
   workflow_dispatch:
@@ -20,5 +20,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Validate dates, IDs, references and research ledger
+      - name: Validate chronology dates and references
         run: python validate_index.py
+      - name: Validate 154 category articles and progress JSON
+        run: python categories/tools/validate.py

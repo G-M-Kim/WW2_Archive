@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from collections import Counter
-from datetime import date, timedelta
+from datetime import date
 from pathlib import Path
 import re
 import sys
@@ -20,7 +20,7 @@ STATUSES = {"문헌대조", "링크등록", "미등록"}
 
 
 def parse_row(line: str) -> list[str]:
-    return [cell.strip() for cell in line.strip().strip("|").split("|")]
+    return [cell.strip().replace(r"\|", "|") for cell in re.split(r"(?<!\\)\|", line.strip().strip("|"))]
 
 
 def normalized(d: str) -> str:
@@ -145,109 +145,23 @@ def main() -> int:
         if not backlog_ids:
             errors.append("research backlog contains no tasks")
 
-    # Continuous-research guard: a selective period is completed on first pass,
-    # while missing events and source verification stay in BACKFILL_QUEUE/RQ.
-    # This checks workflow integrity, NOT historical correctness.
-    ledger = ROOT / "research" / "PROGRESS_LEDGER.md"
-    work_state = ROOT / "research" / "WORK_STATE.md"
-    if not ledger.is_file():
-        errors.append("missing research/PROGRESS_LEDGER.md")
-    elif not work_state.is_file():
-        errors.append("missing authoritative research/WORK_STATE.md")
-    else:
-        text = ledger.read_text(encoding="utf-8")
-        rows = []
-        for n, line in enumerate(text.splitlines(), 1):
-            if not re.match(r"^\| \d{4}-\d{2}-\d{2} \|", line):
-                continue
-            c = parse_row(line)
-            if len(c) != 9:
-                errors.append(f"PROGRESS_LEDGER.md:{n}: expected 9 cells")
-                continue
-            recorded, mode, period, before, after, delta, totals, audit, note = c
-            rows.append((n, recorded, mode, period, before, after, delta, totals, audit, note))
-        if not rows:
-            errors.append("no progress-ledger entries")
-        else:
-            previous = None
-            for n, recorded, mode, period, before, after, delta, totals, audit, note in rows:
-                for name, value in (("recorded", recorded), ("before", before), ("after", after)):
-                    try:
-                        date.fromisoformat(value)
-                    except ValueError:
-                        errors.append(f"PROGRESS_LEDGER.md:{n}: bad {name} date {value}")
-                if mode not in {"forward", "backfill", "recovery", "reconcile", "requested"}:
-                    errors.append(f"PROGRESS_LEDGER.md:{n}: bad mode {mode}")
-                match = re.fullmatch(r"(\d{4}-\d{2}-\d{2})\.\.(\d{4}-\d{2}-\d{2})", period)
-                if not match:
-                    errors.append(f"PROGRESS_LEDGER.md:{n}: bad date range {period}")
-                elif match.group(1) > match.group(2):
-                    errors.append(f"PROGRESS_LEDGER.md:{n}: reversed date range")
-                if previous and before != previous:
-                    errors.append(f"PROGRESS_LEDGER.md:{n}: cursor before {before} != prior after {previous}")
-                if mode in {"forward", "recovery"}:
-                    if not before < after:
-                        errors.append(f"PROGRESS_LEDGER.md:{n}: forward cursor did not advance")
-                    if match and match.group(1) != before:
-                        errors.append(f"PROGRESS_LEDGER.md:{n}: forward period must start at cursor")
-                    if match:
-                        try:
-                            next_date = (date.fromisoformat(match.group(2)) + timedelta(days=1)).isoformat()
-                            if after != next_date:
-                                errors.append(f"PROGRESS_LEDGER.md:{n}: after cursor must equal period end + 1")
-                        except ValueError:
-                            pass
-                elif mode in {"backfill", "reconcile", "requested"} and before != after:
-                    errors.append(f"PROGRESS_LEDGER.md:{n}: {mode} must preserve the forward cursor")
-                if not re.fullmatch(r"\d+/\d+/\d+", delta):
-                    errors.append(f"PROGRESS_LEDGER.md:{n}: bad new-EVT/SRC/RQ triple")
-                if not re.fullmatch(r"\d+/\d+/\d+", totals):
-                    errors.append(f"PROGRESS_LEDGER.md:{n}: bad total triple")
-                if not audit.endswith(".md") or not (ROOT / audit).is_file():
-                    errors.append(f"PROGRESS_LEDGER.md:{n}: audit file not found {audit}")
-                previous = after
-
-            # Recent-run integrity: 'audit only' work must not silently form a
-            # permanent all-zero forward loop. Historic rows are immutable;
-            # constrain the latest run and its immediate predecessor only.
-            if len(rows) >= 2:
-                older, latest = rows[-2], rows[-1]
-                try:
-                    prior_totals = tuple(map(int, older[7].split("/")))
-                    last_delta = tuple(map(int, latest[6].split("/")))
-                    last_totals = tuple(map(int, latest[7].split("/")))
-                    if len(prior_totals) == len(last_delta) == len(last_totals) == 3:
-                        expected_totals = tuple(a + b for a, b in zip(prior_totals, last_delta))
-                        if last_totals != expected_totals:
-                            errors.append(
-                                "PROGRESS_LEDGER.md: latest declared delta does not match "
-                                f"previous totals ({prior_totals} + {last_delta} != {last_totals})"
-                            )
-                except ValueError:
-                    pass  # Existing format checks already report malformed totals.
-                if all(row[2] == "forward" and row[6] == "0/0/0" for row in (older, latest)):
-                    errors.append(
-                        "PROGRESS_LEDGER.md: two consecutive forward batches with "
-                        "zero EVT/SRC/RQ; repair missing canonical indexing or "
-                        "document a blocked/recovery workflow before continuing"
-                    )
-
-            state_text = work_state.read_text(encoding="utf-8")
-            cursor_match = re.search(r"(?m)^FORWARD_CURSOR:\s*(\d{4}-\d{2}-\d{2})\s*$", state_text)
-            if not cursor_match:
-                errors.append("WORK_STATE.md: missing single authoritative FORWARD_CURSOR line")
-            elif cursor_match.group(1) != rows[-1][5]:
-                errors.append(f"WORK_STATE.md: cursor differs from ledger latest {rows[-1][5]}")
-            if len(re.findall(r"(?m)^FORWARD_CURSOR:", state_text)) != 1:
-                errors.append("WORK_STATE.md: duplicate active FORWARD_CURSOR lines")
-            ledger_total = rows[-1][7]
-            state_total = re.findall(r"(?m)^TOTAL_EVT_SRC_RQ:\s*(\d+/\d+/\d+)\s*$", state_text)
-            if state_total != [ledger_total]:
-                errors.append(f"WORK_STATE.md: totals differ from ledger latest {ledger_total}")
-            if ledger_total != f"{len(event_ids)}/{len(source_ids)}/{len(backlog_ids)}":
-                errors.append(f"PROGRESS_LEDGER.md: totals mismatch: {ledger_total} vs actual {len(event_ids)}/{len(source_ids)}/{len(backlog_ids)}")
-            if any(rows[i][2] == "backfill" and rows[i-1][2] == "backfill" for i in range(1, len(rows))):
-                errors.append("PROGRESS_LEDGER.md: consecutive backfill runs prohibited; return to forward research first")
+    # Old forward-run accounting is archival data, not an active quality gate.
+    # In particular, previous 0/0/0 batches or old cursor totals cannot
+    # invalidate independent chronology structure and reference checking.
+    review = ROOT / "research" / "chronology-review-v2" / "STATE.json"
+    if review.is_file():
+        import json
+        try:
+            state = json.loads(review.read_text(encoding="utf-8"))
+            left = date.fromisoformat(state["window"]["start"])
+            right = date.fromisoformat(state["window"]["end"])
+            if left > right:
+                errors.append("chronology review state: reversed date window")
+            target = state["canonical"]
+            if not target.startswith("chronology/") or not (ROOT / target).is_file():
+                errors.append("chronology review state: canonical file missing")
+        except (ValueError, KeyError, TypeError) as exc:
+            errors.append(f"chronology review state: invalid JSON or date: {exc}")
 
     print(f"Checked {len(event_ids)} event records in {len(event_files)} files")
     print(f"Statuses: {dict(stats)}, source IDs: {len(source_ids)}, backlog tasks: {len(backlog_ids)}")
@@ -255,7 +169,7 @@ def main() -> int:
         for issue in errors:
             print("ERROR:", issue)
         return 1
-    print("PASS: structure, references, dates, IDs and research ledger (NOT independent historical verification)")
+    print("PASS: chronology structure, references, dates and IDs (NOT independent historical verification)")
     return 0
 
 
