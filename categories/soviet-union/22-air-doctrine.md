@@ -38,4 +38,4 @@
 
 ## 다른 국가의 공군 교리
 
-[독일](../germany/air-doctrine.md) · [프랑스](../france/air-doctrine.md) · [영국](../united-kingdom/air-doctrine.md) · [미국](../united-states/air-doctrine.md) · [일본](../japan/air-doctrine.md) · [이탈리아](../italy/air-doctrine.md)
+[독일](../germany/22-air-doctrine.md) · [프랑스](../france/22-air-doctrine.md) · [영국](../united-kingdom/22-air-doctrine.md) · [미국](../united-states/22-air-doctrine.md) · [일본](../japan/22-air-doctrine.md) · [이탈리아](../italy/22-air-doctrine.md)
